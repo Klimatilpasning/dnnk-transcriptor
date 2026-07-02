@@ -1,0 +1,47 @@
+name: DNNK PDF Scraper
+
+on:
+  schedule:
+    - cron: '0 13 * * 1'  # Kører hver mandag kl. 13:00 UTC
+  workflow_dispatch:       # Kan også køres manuelt
+
+# Uden denne er GITHUB_TOKEN read-only og git push afvises
+permissions:
+  contents: write
+
+# Undgå at daily og pdf-scraper pusher oven i hinanden
+concurrency:
+  group: repo-writes
+  cancel-in-progress: false
+
+jobs:
+  scrape-pdfs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run PDF scraper
+        run: python pdf_scraper.py
+
+      - name: Commit and push new PDF texts
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add transcriptions/ processed_pdfs.json
+          if git diff --staged --quiet; then
+            echo "Ingen nye PDF-dokumenter"
+          else
+            git commit -m "Nye PDF-dokumenter fra DNNK hjemmeside - $(date +'%Y-%m-%d')"
+            git pull --rebase origin main
+            git push
+          fi

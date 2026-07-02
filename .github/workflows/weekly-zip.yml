@@ -5,75 +5,50 @@ on:
     - cron: '0 20 * * 0'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   create-zip:
     runs-on: ubuntu-latest
-    
+
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
-      with:
-        fetch-depth: 0
-    
-    - name: Debug - Show what we have
-      run: |
-        echo "=== Contents of root ==="
-        ls -la
-        echo "=== All directories ==="
-        find . -type d -maxdepth 2
-        echo "=== Looking for transcription files ==="
-        find . -name "*.txt" -o -name "*.zip" | head -20
-    
+
     - name: Get current date
       id: date
       run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
-    
-    - name: Create ZIP from found files
+
+    - name: Create ZIP
       run: |
-        # Find transcription directory
-        TRANS_DIR=$(find . -type d -name "*transcript*" | head -1)
-        
-        if [ -z "$TRANS_DIR" ]; then
-          echo "Ingen transskriptions-mappe fundet!"
-          echo "Her er hvad vi har:"
-          ls -R
+        if [ ! -d transcriptions ]; then
+          echo "transcriptions/ findes ikke!"
           exit 1
         fi
-        
-        echo "Fandt mappe: $TRANS_DIR"
-        cd "$TRANS_DIR"
-        
-        # Create ZIP with all files
-        zip -r ../DNNK_Transskriptioner_${{ steps.date.outputs.date }}.zip . -i "*.txt" -i "*.zip"
-        
-        cd ..
-        
-        # Check if ZIP was created
-        if [ -f "DNNK_Transskriptioner_${{ steps.date.outputs.date }}.zip" ]; then
-          echo "ZIP oprettet succesfuldt!"
-          ls -lh DNNK_Transskriptioner_${{ steps.date.outputs.date }}.zip
-        else
-          echo "ZIP blev ikke oprettet!"
-          exit 1
-        fi
-    
+        cd transcriptions
+        # Kun .txt — undgå at pakke arkiv-zips eller andet ind
+        zip -r "$GITHUB_WORKSPACE/DNNK_Transskriptioner_${{ steps.date.outputs.date }}.zip" . -i "*.txt"
+        cd "$GITHUB_WORKSPACE"
+        ls -lh DNNK_Transskriptioner_${{ steps.date.outputs.date }}.zip
+
     - name: Upload ZIP as artifact
       uses: actions/upload-artifact@v4
       with:
         name: DNNK_Transskriptioner_${{ steps.date.outputs.date }}
         path: DNNK_Transskriptioner_${{ steps.date.outputs.date }}.zip
         retention-days: 30
-    
-    - name: Create Release
-      uses: softprops/action-gh-release@v1
+
+    - name: Update rolling release
+      uses: softprops/action-gh-release@v2
       with:
-        tag_name: weekly-${{ steps.date.outputs.date }}
-        name: Transskriptioner ${{ steps.date.outputs.date }}
+        tag_name: transskriptioner-seneste
+        name: Transskriptioner (seneste - ${{ steps.date.outputs.date }})
         body: |
-          📦 Ugentlig ZIP med alle DNNK webinar transskriptioner
-          
+          📦 Ugentlig ZIP med alle DNNK webinar-transskriptioner
+
           **Download ZIP-filen og upload til dit Claude Project**
-          
+
           Indeholder alle transskriptioner t.o.m. ${{ steps.date.outputs.date }}
         files: DNNK_Transskriptioner_${{ steps.date.outputs.date }}.zip
       env:

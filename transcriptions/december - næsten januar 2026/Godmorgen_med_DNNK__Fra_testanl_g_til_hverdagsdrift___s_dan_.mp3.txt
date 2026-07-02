@@ -1,0 +1,1197 @@
+00:00:09
+Godmorgen og velkommen til Godmorgen med DNNK.
+
+00:00:12
+Mit navn er Cornelius Pagels, og jeg vil være vært den næste times tid.
+
+00:00:17
+I dag har vi temaet fra testanlæg til hverdagsdrift, når vi skal lære en BS.
+
+00:00:24
+Det er altså nature-based solutions til noget, som ikke kun virker i et pilotprojekt, men som også skal driftses, dokumenteres og så skal læres som en del af en hverdag i en Vi optager webinaret, og optagelsen deles efterfølgende i vores vidensbank.
+
+00:00:45
+I må meget gerne stille spørgsmål i chatten undervejs.
+
+00:00:47
+Jeg skal nok også skrive, så den popper op, så I kan se det.
+
+00:00:52
+Oplægget bliver afholdt på norsk, men I er meget velkomne til at stille spørgsmål både på norsk og på dansk, selvfølgelig.
+
+00:01:00
+Og så vil jeg videreformidle det efter oplægget.
+
+00:01:04
+Jeg er meget glad for at kunne byde velkommen til Line Johanne Barkved, som er seniorforsker ved Norsk Institut for Vandforskning, NIVA.
+
+00:01:13
+Lene har i dag delt konkrete kræber til organisering, dokumentation og drift, så NBS-løsninger kan skaleres.
+
+00:01:24
+Med det sagt vil jeg bare sige velkommen, Line, og scenen er din.
+
+00:01:31
+Tusind tak, og tak for at blive inviteret.
+
+00:01:33
+Det er hyggeligt.
+
+00:01:35
+Vi i Norge søger ganske meget til Danmark for, hvordan vi skal både klimatilpasse os og jobbe med naturbaserte løsninger, så det er hyggeligt at også blive inviteret for at kunne dele noget af det arbejde, som vi gør i Norge.
+
+00:01:51
+fortælle en del om det.
+
+00:01:54
+De studierne vi gør, for vi er jo et forskningsinstitut, så vi er nødvendigvis ikke de, som implementerer disse løsninger selv, men vi jobber mye sammen med både kommuner og forsyningsselskaber og andre aktører i dette arbejde med at prøve at få naturbaserte løsninger til at netop blive noget mere end enkelt testprojekter og blive noget, som implementeres i i den daglige driften til kommuner og andre.
+
+00:02:25
+Og nu begynder naturbaserte løsninger at blive noget, som de fleste har hørt om, men bare for at vi har det som bakdeppe, så har jeg taget med definitionen her, og den vi jobber efter i Norge er definitionen, som kom i 2022, som bygger videre på en definition af IUCN, som kanskje nogen kender, men FN og Vældig mange lande stilte sig bag en fælles definition i 2022, som fortæller eller beskriver, hvad naturbaserte løsninger er.
+
+00:03:01
+Det, som er vigtigt at mærke sig med den definition, er, at det handler om de handlinger, man gør, så det er ikke kun de fysiske infrastrukturer, som vi har både i by og men det er de handlinger, vi gør for at ivaretage og jobbe med dem.
+
+00:03:24
+Så vi skal værne, beskytte og bærekraftig forvalte.
+
+00:03:29
+Derfor har jeg også taget med disse cirkler på sliden her, som fortæller noget om et tiltagshierarki, vi bør have i bakhodet, når vi arbejder med naturbaserte løsninger.
+
+00:03:42
+For naturbaserte løsninger skal vi gøre flere ting på en gang og have som et kernelement, at biomangfold skal ivaretages.
+
+00:03:53
+Uanhængig af hvilken problemstilling man bruger den naturbaserte løsning til, så skal løsningen også have fordele for biomangfold og også som det står her, folkehelse og human wellbeing.
+
+00:04:12
+Men bare for at have det bagtæppe i og med, at det er utrolig vigtigt at tage vare på den naturen, vi har, og styrke de økosystemer, som allerede er intakt, så bliver arealplanlægging, og hvordan vi bruger arealerne og arealforvaltning, utrolig centralt i arbejdet med naturbaserte løsninger.
+
+00:04:35
+Jeg kan jo sige, at jeg arbejder meget med forvaltning og planarbejde, Så jeg vil nok også have lidt af den linsen og indfaldsvinkel på det, jeg skal fortælle om i dag.
+
+00:04:47
+Og så er det også sådan, at mange har jobbet med noget, som de tænker, når de hører, hvad der er.
+
+00:04:54
+Det har vi håbet på med en stund, og det stemmer nok absolut.
+
+00:04:58
+Det, som har skedt, når vi har begyndt at blive mere og mere tydelige på, hvad naturbaserte løsninger er og ikke er, er netop dette med, at Man skal se natur og klima i sammenhæng.
+
+00:05:12
+Økosystemfunktioner og økosystemer er helt centralt i arbejdet.
+
+00:05:20
+Og til forskel fra restaurering og naturværn, som vi har holdt på med i mange år, så skal man også bruge naturen og jobbe med naturen for at løse en samfundsudfordring.
+
+00:05:33
+Sådan som det står her, som du sikkert har hørt fra kollegaer, så har vi som jobber med dette en kort definition, som siger at naturbaserte løsninger jobber med naturen for mennesker og for natur.
+
+00:05:48
+Det vi jobber meget med, og sikkert også dere som er med i dette netværke, er jo netop klimatilpasning, og da hvordan vi kan bruge naturbaserte løsninger for at klimatilpasse os.
+
+00:06:00
+Og da også med bakdeppe, at de løsninger vi da bruger også skal have fordeler at være til gode for biomangfoldet og naturen.
+
+00:06:12
+Vi er et vandforskningsinstitut, der i Linniva, hvor jeg jobber, så vi er jo så klart optaget af vandhåndtering, vandhåndtering i by og over vand.
+
+00:06:25
+Og her er et eksempel på noget, vi ser oftere og oftere rundt os.
+
+00:06:29
+Det er jo netop det, at der kommer styrtregn, der kommer regn, som som arealerne vi har i dag ikke grejer at tage op, og vi bygger os også delvis mere sårbare, fordi vi har haft en fortætning med mye tætte flater, hvor det nu da kommer ind en holdning om, at vi må jobbe mere med naturbaserte løsninger og blågrøn infrastruktur i by, som en måde at jobbe med naturen for at også løse overvandsproblemer.
+
+00:07:00
+Så det er et et tematisk område, hvor vi jobber meget med klimatilpasning og naturbaserte løsninger.
+
+00:07:10
+Naturbaserte løsninger findes i mange ulike økosystemer for at løse ulike udfordringer og kan have ulike, som vi så i definitionen, ulike handlinger, som vi som mennesker gør i vores forvaltning.
+
+00:07:27
+og de kan også fysisk udspille sig forskelligt i de ulike økosystemer.
+
+00:07:32
+Så det kan handle om i byen, for at håndtere åbevand, så kan det handle om at anlægge regnbæd, have grønne tak, grønne korridorer, genåbning af bækker osv.
+
+00:07:45
+Og så har man lidt mere i rurale strøg.
+
+00:07:48
+Dette må ivaretage kantzoner, have flåmærksskog og beskytte Arealer som også tilgrænser og samspiller med landbrugsarealer.
+
+00:08:03
+Kyst og marint.
+
+00:08:04
+Norge er et land med meget kyst.
+
+00:08:06
+Det er også Danmark.
+
+00:08:07
+Så handler det også om at ivaretage sårbare kystøkosystemer.
+
+00:08:14
+Også klimatilpasselse langs kyst.
+
+00:08:17
+Gennem at bruge tilpassede naturbaserte løsninger, hvor det er relevant.
+
+00:08:26
+Og netop for at understreke, at her er det et spil af ulike løsninger, som må spilles sammen, så er det ikke sådan, at alle åbne vandløsninger i byen, selvom de er åbne, og selvom vandet har et element, vil tilfredsstille definitionen, hvis vi skal være true mod den, om at være en naturbaseret løsning.
+
+00:08:52
+Det betyder ikke, at vi ikke skal have den type løsninger, men det har noget at sige for, hvad vi vægtlægger og hvordan vi prioriterer.
+
+00:09:03
+Det er noget, vi har set, at der er blevet øgt bevidsthed om i Norge og i Norden generelt, at vi må være tydelige og jobbe med at virkelig tage på alvor den biomangfoldsdelen af naturbaserte løsninger.
+
+00:09:20
+Vi har også meget udfordringer knyttet til naturlige økosystemer og naturmangfold, som er truer.
+
+00:09:30
+Så det er vigtigt at have det billede med sig.
+
+00:09:35
+Vi har nylig været del af et knippe med nordiske projekter, så derfor har jeg taget med to håndbøker, vi har nylig været med at producere.
+
+00:09:49
+Den første er en praktisk håndbok for naturbaserte løsninger, og den viser noget af det, jeg netop har nævnt, at naturbaserte løsninger har en rolle at spille i mange ulike økosystemer.
+
+00:10:04
+I den håndbok er det et projekt, som blev nedad af et søsterinstitut her i Norge, Nina.
+
+00:10:10
+Her ser vi på, hvilke løsninger, som kan egne sig for hvilke problemer, og prøve at beskrive dem på en måde, som kan have grundlæggende praktisk information knyttet til de løsninger.
+
+00:10:28
+Det er jo også sådan, at naturbaserte løsninger kan være meget forskellige, så at sige akkurat, hvad som er nyttig for hvad, kan være lidt udfordrende.
+
+00:10:41
+Men disse håndbøker er Og så motiveret udefra netop dette behove for at orientere sig lidt i landskabet.
+
+00:10:50
+Hvad er naturbaserte løsninger?
+
+00:10:53
+Og hvad kan det bruges til?
+
+00:10:57
+Og i og med at der er også en anden håndbok her, som hedder håndbok for virkemidler, som er på en måde den nordiske NDS policy håndboka, peker på noget som også er vigtigt, at skal vi gå fra forskningsprojekter, pilotprojekter, hvor vi tester ud et grønt tak med en kommune, til at det er noget, som bliver gængspraksis i de fleste byg, i de fleste hjem, så må vi have virkemidler for at få til det.
+
+00:11:33
+Det handler om både det, vi gør derute, at det må gøres bra, at vi må have god praksis, når vi anlægger løsninger i felt, for at de skal have den funktion, som vi ønsker.
+
+00:11:47
+Så må vi også da jobbe med virkemidlene og tilrettelægge for, at vi får skaleret.
+
+00:11:57
+Så de som er interesseret, så kan man klikke sig lidt rundt i de håndbøkene, og ude fra både land og situation, så kan man få nogle anbefalinger.
+
+00:12:12
+Og disse to håndbøkene var motiveret netop som udtid fra det, at både Norden og Norge de sidste fem år har begyndt at føle på, at det ikke er klimaændringer.
+
+00:12:34
+Kanskje det har vi følt på længe, men særlig dette med naturmangfoldskrise er noget, som også sker hos os.
+
+00:12:41
+Det er noget, vi virkelig må tage på alvor.
+
+00:12:44
+I Norge har vi en stortingsmelding, som kom i 2024.
+
+00:12:51
+Den kom på en måde som en opfølger til den internationale Kun-Ming-Mong-Troll-aftalen, hvis for de, som er kendt med den.
+
+00:12:59
+Hvor vi i økende grad begynder at sætte føringer for naturbaserte løsninger i i styringsdokumenter, som er på statlig niveau, som vil sætte rammer for, hvad kommuner og fylkeskommuner kan og bør gøre.
+
+00:13:22
+Det er noget, vi har set.
+
+00:13:23
+Jeg har jobbet med det i ganske mange år, i hvert fald klimatilpasning, de 15 år mindst.
+
+00:13:30
+Det, vi har set, er jo, Man kan tænke, at pålæg og rammer kan være noget, man tænker nok en ting, som vi skal blive pålagt at gøre.
+
+00:13:44
+Det kommer lidt an på, at det er ikke alle, som ser på det på den måde.
+
+00:13:47
+Nogen vil tænke, at det er en mulighed, og at at have føringer giver også handlingsrum, fordi man har nogle knagger at sætte både forspørgseler og krav på.
+
+00:14:01
+Så det er lidt af bakgrunden for, hvor vi er i Norge i dag.
+
+00:14:05
+Og så er det jo sådan, at pilotprojekter og også større naturbaserte løsningsprojekter kan synes at have en slags inddelseprojektfaser.
+
+00:14:19
+Og i alle disse faser er det vigtigt, at vi jobber med alle disse fasene, hvis vi skal have som mål at skalere.
+
+00:14:31
+Der er mye, som sker i de første steg, hvor man gør sig en vurdering om, om naturbaseret løsning er løsningen, vi skal gå for.
+
+00:14:43
+Altså gøre en assessment og en planning af et tiltag.
+
+00:14:47
+Så er det utrolig vigtigt, at man kommer ind i tidlig fase, hvis man skal få dette til at blive en løsning, som er løsningen, som de fleste vælger.
+
+00:14:59
+og at det ikke bliver et sideprojekt, som er noget, man jobber kun med på pilotniveau.
+
+00:15:07
+Og så er det så klart utrolig vigtigt, at når man gennemfører det, at det gennemføres rigtigt.
+
+00:15:13
+Det kommer jeg lidt tilbage til også.
+
+00:15:16
+Og at man har muligheder for at drifte over likehold og følge op, der der er behov for det, og ikke mindst overvåge og evaluere Så alle disse stegene er utrolig vigtige, og de har forskellige dynamik og rammer for, hvad vi må tænke på, for at vi skal kunne tænke, at det får vi til at skalere.
+
+00:15:43
+Som del af Nordjysk Ministerråds NBS-program, så ledte NIVA et projekt, hvor vi studerte otte pilotprojekter mellem mærke, og alle de var Heller ikke nødvendigvis 100% NBS i forhold til den definition, jeg viste.
+
+00:16:06
+Men det, de var, var projekter, som tog for sig deler af, hvad et NBS-projekt skal igennem.
+
+00:16:14
+For at kunne gå netop igennem alle disse deler i projektcyklusen.
+
+00:16:22
+Vi fik følge det et stykke på vejen, så målet med det projekt, som hedder Summation, var at trække ud nogle erfaringer fra det arbejde.
+
+00:16:33
+Her var det to case fra Danmark, så der var meget at lære fra Danmark.
+
+00:16:38
+Der var et case fra Norge kun, og Island og Færøerne.
+
+00:16:42
+Det er jo igen nordisk ministerrådsprojekts natur, at her skal nordiske land lære af hverandre.
+
+00:16:52
+De projekter var forskellige i natur, og de som er interesseret kan lære mere om de enkelte projekter.
+
+00:17:01
+Det jeg tænkte at trække frem nu er, at uafhængigt af hvor forskellige de pilotprojekter var, nogle handlede om at restaurere en bæk, nogle handlede om at bruge naturbaserte løsninger for at hindre skred, Nogle handlede om et projekt i Assen, som deres kender til.
+
+00:17:26
+Det handlede om, hvordan man kan bruge strategisk planlægging af større landbrugsarealer til at få til større ivaretøjelse af natur.
+
+00:17:38
+Så meget forskelligt.
+
+00:17:40
+Men det vi så, var at dette var pilotprojekter, som skal have som mål at og skabe nogle praksiser, lægge nogle rammer og erfaringer for, hvad vi kan få til i større skala.
+
+00:17:56
+Og utrolig næsten påtagende, så var det mye af de samme udfordringer selv, om projektene som sagt havde forskellig natur.
+
+00:18:08
+Nogle ting vi ofte hører om, er jo udfordringer med finansiering, at man må jobbe med at få på plads finansieringsordninger for Hvis man skal lægge til rette for denne type tiltag, det jobbes det med i flere nordiske lande.
+
+00:18:26
+Så det er jo bare noget at tage med sig.
+
+00:18:29
+Dette med overvåkning og måling, hvis vi begynder der, hvis det er den projektsyklus, det er det veldig sjældent penge til inden for rammen af pilotprojekter.
+
+00:18:40
+Det er jo også et ankepunkt, når man bliver spurgt, om det virker, som det skal.
+
+00:18:48
+Så må man have mulighed til at følge op og måle og overvåkke.
+
+00:18:54
+Så vores anbefaling er, at hvis man er en kommune eller finansiør af denne type tiltag, øremærk gerne nogle midler til langsigtig opfølging af denne type tiltag, for at man netop skal kunne gå fra pilot til lidt mere skalert praksis.
+
+00:19:15
+Involvering og samarbejde er kæmpe vigtige, også netop for at få til tværfaglige og flerfaglige løsninger, som er naturbaserte løsningers natur.
+
+00:19:25
+De skal gerne løse flere ting på en gang.
+
+00:19:28
+Det betyder også, at flere fagfelt må ind, og at man må jobbe på tværs af aktører internt i sine kommuner og faginstitutter, og også med de aktuelle stakeholders uden for sine rammer.
+
+00:19:45
+Planlægging er en vigtig del af det.
+
+00:19:49
+Kommer man ikke ind tidlig nok og får gjort det, man skal tidlig, så er det mindre chance for, at løsningen bliver god, og at man faktisk får det til.
+
+00:20:02
+Derfor fandt vi også interessant, at det første punkt her, Det findes en god del fortsat i de nordiske lande enkeltprojektledere, som gør en fantastisk job.
+
+00:20:18
+De er fortsat lidt pionerer på mange måder.
+
+00:20:24
+Det er sikkert flere af deres, som er her i dag, som kan have følt på det, hvis de arbejder med klimatilpasning i egne institutioner med brug af naturbaserte løsninger.
+
+00:20:34
+Det er fortsat noget, som som hænger ganske meget på ildsjæler og enkeltpersoner.
+
+00:20:43
+Og det er vigtigt, at vi tænker, at vi må lægge til rette for, at vi ikke bliver sårbare ved, at det netop er kun disse enkeltpersoner.
+
+00:20:51
+Så her gælder det, at man tænker over i egen organisation, hvordan man kan til rette lægge for støtte, men også at flere tager del i arbejdet.
+
+00:21:06
+Og så, som jeg nævnte indledningsvis, så hænger naturbaserte løsninger og klimatudpasning og arealplanlægging veldig tæt sammen.
+
+00:21:16
+Og det ser vi i Norge, det tror jeg man ser i alle lande, for det vil man i hvert fald erfare.
+
+00:21:24
+Det vi ser i Norge og vi har jobbet med i Norge er netop da, hvordan kan man lægge til rette for i plansystemet, naturbaserte løsninger bliver vurderet.
+
+00:21:38
+Det ser vi eksempler på gennem, at både kommunale og regionale aktører nu begynder at lægge ind i sine handlingsprogrammer og sine planprogrammer eksplicite, ikke nødvendigvis krav, men bestillinger om, at naturbaserte løsninger skal vurderes.
+
+00:22:02
+Vi hænger sammen med, at vi i 2019 fik Norge sin statlige planlægningslinje for klimatilpasning.
+
+00:22:12
+Den hedder Klimatilpasning og energiplanlægning.
+
+00:22:15
+Den blev opdateret i 2024.
+
+00:22:19
+Det den siger er, at naturbaserte løsninger skal være en løsning, man altid vurderer.
+
+00:22:27
+Det er ikke sådan, at man altid vil være enighet, men man skal vurdere den.
+
+00:22:33
+Og hvis man har vurderet den til at ikke være egnet eller det, man skal vælge, så må man begrynde hvorfor.
+
+00:22:44
+Så det sætter på en måde en ramme, men som dere ser, det er jo også lidt språkligt, men BØR er ikke det samme som SKAL, altså det er ikke noget man må, men man BØR vurdere det, og man SKAL begrynde det.
+
+00:22:59
+Så den sætter visse rammer.
+
+00:23:02
+Men det man ikke vidste så meget om, var i hvilken grad dette er noget som, eller hvilken virkning har denne.
+
+00:23:12
+NIVA havde et opdrag, som vi færdestilte i 2024 for Nettop Miljødirektoratet, som så på, hvordan denne statlige planlætningslinjen tages ind i kommunale planer.
+
+00:23:29
+Hvilken effekt har den?
+
+00:23:31
+Særligt, hvordan vurderes den?
+
+00:23:34
+Bliver den vurderet?
+
+00:23:35
+Bliver den begrundet, hvis den ikke bliver taget i brug eller at man ikke tager i brug MS?
+
+00:23:42
+Jeg kan sige med engang, at det sidste var det vanskeligste at vurdere.
+
+00:23:49
+Den begrundingsbiten af, når det ikke var valgt.
+
+00:23:54
+For vi fandt jo stort set, der det var valgt.
+
+00:23:57
+Men vi fandt en del interessante ting, og det har vi opsummeret i en rapport.
+
+00:24:03
+Og nogle af de anbefalingene, vi fandt, er også taget ind som eksempel på, hvordan man kan gøre det i miljødirektoratets vejledning.
+
+00:24:12
+Så jeg tænkte, at jeg skulle bare vise dig lidt af det, vi fandt i det arbejde der.
+
+00:24:19
+Der så vi også på alle planniveauer, fra de store overgrønne af planerne, helt ned til tiltaks, altså sektorplaner og zoning, arealspecifikke planer.
+
+00:24:35
+Og for så vidt glædelige at se er, at overordnet niveau, det var absolut der vi fandt mest, og vi fandt også mest knyttet til overvand, som jeg viste, så er nok det det tema.
+
+00:24:51
+Hvor Norge særlig i by, og dette var et projekt som havde fokus på by, og klimatilpasning i by, så har det været overvand som er den store udfordring, og også der da hvor hvor naturbaserte løsninger blev nævnt i størst grad og vurderet i størst grad af de kommuner, som vi studerte.
+
+00:25:15
+Og alle de kommuner der har taget ind bestemmelser om bevaring og restaurering af natur- og blødgrænsstruktur ind i sine kommuneplansarealdel.
+
+00:25:30
+I Norge er det en kommuneplansarealdel, den er juridisk bindende, så det du skriver der, og de rammer du sætter der, er utrolig vigtige for hvad du vil gøre med kommunens arealer i den kommende periode, hvor den plan er gyldig.
+
+00:25:46
+Så det er noget vi også anbefaler, at ting som er i arealplanlægging, ting som skal sætte vigtige rammer, man må få det ind i kommuneplansarealdelen.
+
+00:25:58
+Og det havde også alle disse kommuner.
+
+00:26:01
+Når vi kommer lidt længere ned i planer-hierarkiet, så var det lidt mere variabelt.
+
+00:26:09
+Igen mest knyttet til årevandsfontering, at dette blev nævnt.
+
+00:26:15
+Og ofte noget på klimatilpasning til økende vindhændelser osv.
+
+00:26:23
+Men igen en fokus mod det vandmæssige.
+
+00:26:28
+For meget vand på fejlt sted.
+
+00:26:31
+Altså overvandsproblematik.
+
+00:26:34
+Et eksempel her på, hvordan det gøres.
+
+00:26:37
+For de som er planfaglige, kender nok dette godt igen.
+
+00:26:45
+Men det man også gør, er at man lægger ind i plans paragrafer.
+
+00:26:52
+eksplicite krav om, hvordan åvånd skal håndteres gennem naturbaserte løsninger, og gerne begrunde lidt hvorfor, og give detaljer, hvor det er revant.
+
+00:27:10
+Stavanger, en by, som ligger på vestkysten i Norge, de havde en del gode eksempler på dette, knyttet til åvånd.
+
+00:27:21
+Og da lad de ind, som vi ser her, igen også ned på reguleringsniveau, så vi at det også gik igen en del af disse kræverne i eksplicite saker.
+
+00:27:38
+Et eksempel her.
+
+00:27:41
+Det samme her er et eksempel på, hvordan man har gjort det, har prøvet at begrynde, hvorfor naturbaserte løsninger ikke er ejende i et vist tilfælde.
+
+00:27:55
+Så vi fandt nogle eksempler på det også, men det var lidt vanskeligere.
+
+00:28:01
+Nogle gange var det ikke tydeligt vurderet, mens her er et eksempel på, hvordan det var.
+
+00:28:08
+Og her var nogle af grundene, at det var Grundforholdene ikke havde den infiltrationskapacitet, som man mente bør være der, for at naturbaserte løsninger skulle have den effekt, som man ønsker.
+
+00:28:27
+Vi så også i arbejde en del virkemidler, som blev brugt.
+
+00:28:32
+I Norge har vi noget, som vi bruger i planlægging, som hedder blågrønt faktor.
+
+00:28:38
+Det er også nogle udfordringer med den, men den er i hvert fald et værktøj, som bruges for at sætte fokus på det blågrønne og det naturlige i nogle af de tiltakene, som skal gøres, så kan man vurdere i hvilken grad, hvor høj den blågrønne faktor, når det tiltak er.
+
+00:29:01
+Existerende rutiner og tjeklister, de kommuner, som havde det internt, havde på en måde et rammeværk, hvor de kunne gå ind og opdatere sine rutiner, bl.a.
+
+00:29:15
+stavanger, for at lægge ind, hvordan man skal jobbe, for at ikke dette bliver noget, man gør Lidt sådan her og der, men at det bliver en del af den gængse praksis.
+
+00:29:28
+Og som nævnt, få det ind i kommuneplansarealdel.
+
+00:29:32
+Det så vi, at alle kommuner har gjort.
+
+00:29:34
+Man kan stille krav i ulike plansaker om, hvad som skal dokumenteres.
+
+00:29:40
+Og vi ser også eksempler fra Stavanger på noget, som de bruger, som er indledende stedsanalyser, som de stiller krav om, at når et område skal Hvis et tiltag skal gøres i et større areal, så skal man begynde med en indledende stedsanalyse.
+
+00:30:00
+En sådan type analyse sætter gode rammer for at kunne vurdere en naturbaseret løsning.
+
+00:30:08
+De kræver ofte plads, eller de er et allerede eksistente naturområde, som man bør tage vare på i en større plan.
+
+00:30:22
+Nogle af de eksemplerne er taget ind i en vejledning, som ligger på net for kommuner, så de som er interesseret kan klikke sig ind på nogle af de linkene, som er delt om det.
+
+00:30:35
+Og så bare som det står her, at dette er det planfaglige, og så er det jo sådan at huske på, at vi i det studie studerte ikke om løsningen i sig selv var god, men at det er utrolig vigtigt at også jobbe med, Vi så også som en opfølging af det arbejde, at der var behov for kommunale eller offentlige aktører, at de også havde nogle muligheder at vide, hvad det er, vi skal se efter.
+
+00:31:08
+Så blev det også forespurgt, om vi kunne udvikle nogle tjeklister for det.
+
+00:31:13
+Så det blev et tillæg til det arbejde, som også er tilgængeligt for den, som har lyst til at se på det.
+
+00:31:20
+Vi studerte fire kommuner, men Oslo var ikke en af dem.
+
+00:31:24
+Bare for at vise her, så ser I en overvandsvejleder, som er en oprationalisering af nogle af de statlige føringene.
+
+00:31:34
+Også en strategi, som Oslo Kommune har, at overvandsfontering i byen skal ske åbent og med blågrønne løsninger i den grad, det lader sig gøre.
+
+00:31:46
+De har udviklet et overvandshjul, Hvor man har, som deres ser, absolut flest åbne løsninger, men det er jo ikke altid det, som er egnet.
+
+00:31:57
+Så da kan man gennem den vejledning også få lidt støtte og hjælp og føringer til, hvad man og hvordan man bør vælge.
+
+00:32:10
+Det, jeg har vist nu, er, hvordan man på planlæggingssiden af bordet kan sætte føringer og jobbe med, at aktører eller kommunen selv vælger naturbaserte løsninger, når det er egnet, og fortrinsvis vælger det.
+
+00:32:30
+Vi har også haft et andet projekt, som er Lad os sige, at du er en projektleder, og du har allerede bestemt dig for, at naturbaserte løsninger er det, som skal gøres.
+
+00:32:42
+Så har vi gennem flere projekter, og også baseret på, at dette var et opdrag for Marker Kommune og Halden Vastrage Vandområde, jobbet med mange, som har oplevet, at dette er vanskeligt, særlig de store projekter.
+
+00:33:01
+Dette tager veldig lang tid.
+
+00:33:03
+Vi får det ikke til.
+
+00:33:05
+Og da var spørgsmålet, hvad kan vi gøre for, at vi skal få det til?
+
+00:33:12
+Og når jeg siger, at vi ikke får det til, så...
+
+00:33:15
+Nu har de fået det til, det kommer jeg tilbage til.
+
+00:33:18
+Men det er, at det har taget utrolig lang tid.
+
+00:33:22
+De har på en måde ikke kommet til implementering.
+
+00:33:26
+Når vi studerte dette, så handlede det om igen, Hvordan kan vi få plandelen af dette til at gå raskere, og hvordan kan vi gøre det sådan, at det træffer?
+
+00:33:37
+Der havde vi to caser, et som går på en etablering af en våtmark, og en som gik på en genåbning af en dæk gennem et landbrugsareale.
+
+00:33:48
+Det sidste bliver ikke noget af, og der er hovedgrunden til det, at Det blev rett og slet for dyrt.
+
+00:33:58
+Det var så mange faser frem og tilbage, og det viste sig at blive mye dyrere end først antat.
+
+00:34:07
+Og da havde man været igennem flere runder, og finansiering har også kun en vis varighed, så det blev rett og slet for kompleks til, at vi tror, at det kommer til at blive gennemført.
+
+00:34:23
+Kjællingene har holdt på, hvis man tæller helt fra, når den projektgruppe begyndte.
+
+00:34:30
+Næsten 15 år med at planlægge dette.
+
+00:34:32
+Så det er jo, lad os sige, worst case scenario.
+
+00:34:37
+De fleste projekter tager ikke så lang tid, men der ligger meget læring i, hvorfor blev det sådan.
+
+00:34:45
+Og mye af det handler om, På den tiden var jo dette nybrodsarbejde.
+
+00:34:51
+Det var store projekter, og det handler også noget om, hvordan man jobber i planfasen.
+
+00:34:58
+Her ser der et billede fra det.
+
+00:35:00
+Det var vinter i fjor, og da var de faktisk i gang, så det var jo veldig glædeligt.
+
+00:35:07
+Det vi gjorde i det projekt, for den som er interesseret, så lagde vi da en checkliste, altså en punktliste med med ting som er vigtige at prøve at få afklart tydeligt, netop for at det ikke skal tage så lang tid.
+
+00:35:24
+Noget af det vi så, så var dette med at finansieringen ikke var afklart tydeligt nok.
+
+00:35:30
+En anden ting er dette med tydelige rolleafklaringer.
+
+00:35:36
+I store projekter er det mange som er involveret, der er visse kompetencer som må være med.
+
+00:35:43
+Det er vigtigt, at man bruger og at man har orden på hvilke roller og hvilke fagkompetencer, som kan gøre hvad.
+
+00:35:52
+Dette er snak om de store, komplekse projekter, så det er ikke sikkert, at det trænger at være så kompliceret for et mindre projekt.
+
+00:36:05
+Så dette må også ses i forhold til, hvad som projekts størrelse og kompleksitet.
+
+00:36:14
+Men som denne lista viser, afklare roller, involvere berørte aktører tidlig, og ikke mindst også prøve at knagge det på gældende planer.
+
+00:36:25
+Det som skedde i begge disse to casene var, at de måtte gå flere runder, fordi dokumentationen, fagmæssigheden, hvem som kan faktisk udføre grundundersøgelser osv., Det var ikke tydeligt nok.
+
+00:36:42
+Så der ligger noget læring her, og det viser noget om tværfagligheden også, og hvem som må involveres eller bør involveres.
+
+00:36:56
+Så lidt om byen før vi afrinder.
+
+00:36:58
+Vi jobber jo meget med overvandsmontering i by og blågrøn infrastruktur og naturbaserte løsninger i knyttet til det.
+
+00:37:08
+Det gør vi i Oslo og andre byer.
+
+00:37:11
+Niwa jobber meget med Oslo Kommune, så vi har hovedkontoret her.
+
+00:37:15
+Men vi jobber også meget med andre byer, og vi drar også ud af landet for at se, hvad der gørs andre steder.
+
+00:37:24
+Det, I ser her, er billeder fra Sheffield, hvor vi var på tur sammen med kommuneansatte i både Oslo Kommune, Bærum og andre på studietur til England for at se, hvordan de jobber der.
+
+00:37:37
+Noget af det, vi mærkede, er netop vigtigheden af at sætte af plads, sætte af at få ind blågrøn infrastruktur, som det var det, vi så på her.
+
+00:37:51
+Tidlig nok i planerne, så kan det være rammesættende for et område, fremfor at man bygger det, man skal, og så lægger man natur og naturbaserte løsninger ind imellem.
+
+00:38:06
+Det vi også så i det studie, som der er et eksempel på i rapporten, som er linket til der, og hvis der er nogle af linkene, som ikke virker, så ettersender jeg gerne de, så så vi også, hvordan lokale grupper kan være med og skøtte og drifte og ivaretage denne type strukturer.
+
+00:38:30
+Så da var det en skole, som havde en aftale med et lokalt lag, for at ivaretage et regnbæd i det nabolag.
+
+00:38:39
+For det er også noget, som vi ser, at der er behov for.
+
+00:38:44
+Ja, så som denne viser, skal vi omstille os i by, men også i andre, også ruralt, så trænger vi at jobbe sammen.
+
+00:38:54
+Så vi må have samarbejde mellem fag og sektorer og aktører og ulike personer.
+
+00:39:03
+Indbyggere i dette er vigtige.
+
+00:39:06
+I Oslo er det ikke nok arealer til at håndtere overvandet kun på offentlige arealer.
+
+00:39:15
+Vi trænger, at indbyggerne er med og også gør tiltag på sine egne tomter.
+
+00:39:22
+Det er noget, vi jobber meget med.
+
+00:39:23
+Hvordan vi kan jobbe sammen med private bolig- og tomteejere.
+
+00:39:29
+for at vi selv har lyst til at implementere disse løsninger, som vi i ganske mange forskningsprojekter og mindre piloter nu har rundt om i byen.
+
+00:39:41
+Hvordan kan vi få de til at blive noget, som man har i sammejers hager og i sin egen hage osv.
+
+00:39:51
+Så det jobber vi med.
+
+00:39:53
+Det har vi jobbet med også ganske mange år.
+
+00:39:55
+Vi jobber både med, hvad som skal til, at man har lyst til at vælge det, og hvordan man skal gennemføre det.
+
+00:40:03
+Her er et eksempel på noget, vi gjorde for en god del år siden.
+
+00:40:08
+Vi havde en auktion for at teste ud, hvor mange som var interesseret i at etablere grønt tak, regnbæd osv., og i hvilken grad de selv kunne være med og medfinansiere det.
+
+00:40:27
+Nogle vigtige læringspunkter fra det var, at økonomisk...
+
+00:40:34
+Ganske mange var positive.
+
+00:40:36
+Økonomisk tilskud er vigtigt.
+
+00:40:39
+Det er noget, som Oslo Kommune og vand- og afløbsetaten nu tester ud helt konkret.
+
+00:40:45
+Så fra nu i år, eller i fjor faktisk, så findes det en pot for det.
+
+00:40:51
+Men vel så vigtigt, og noget, som vi nu på en måde også jobber med, er det, at penger og økonomi er en del af billedet, men så trænger man information, man trænger vejledning for at vide, at tiltaket er aktuelt og for at få det gennemført.
+
+00:41:11
+Så penger er ikke alt, men det er en vigtig del af det, også fordi kommunen viser, at man er villig til at tage en del af af ansvaret, men man må også jobbe med at få op en information og vejledning.
+
+00:41:30
+Der er vi ikke helt i Norge i dag.
+
+00:41:34
+Det jobbes med i alle de nordiske lande, så vidt jeg ved.
+
+00:41:39
+Sverige har et program, som hedder Plads for vandet, som kan være interessant at se på for de som er særlig interesserte i den type medvirkning og informationskampagner.
+
+00:41:54
+Som det også står her, så er det noget af det, de som var med i det projekt, som jeg viser til her, følte var, at det var lidt for lidt information om skøtsel og vedligehold.
+
+00:42:05
+Og det er noget, som er utrolig vigtigt, fordi det er nogle af disse tiltagene, det er ikke alle, som trænger skøtsel, jo mere naturligt, jo mindre skøtsel, men de allerfleste tiltag trænger at man følger dem op, særlig med en gang de er anlagt, for at de skal fungere optimalt.
+
+00:42:27
+Så en ting er, at de som bliver opfordret til at gøre dette, også vide, hvordan det skal ivaretages.
+
+00:42:36
+Og vi og kommuner må have modeller for, hvordan det skal ske.
+
+00:42:41
+Så igen tilbage til det, jeg nævnte fra Sheffield, der jobber man også med modeller for, hvordan man kan involvere andre i at skøtte og vedligeholde.
+
+00:42:52
+Vi har set netop på dette.
+
+00:42:56
+Hvilke incentiver er det, som gør, at man har lyst til at have naturbaserte løsninger på egen ejendom?
+
+00:43:05
+Det har vi også nylig nået.
+
+00:43:08
+Det kom ud i juleferien faktisk, den artikel.
+
+00:43:12
+Vi har studeret, hvad litteraturen siger om dette.
+
+00:43:15
+Hvors insentivprogrammet er det som stort set?
+
+00:43:19
+findes.
+
+00:43:20
+Figuren er nok lidt liten, men der er en stor rød stræk der.
+
+00:43:29
+Det er økonomi.
+
+00:43:30
+Så den viser jo, at det er stort set økonomiske virkemidler, som er i brug.
+
+00:43:35
+Også i kombination med andre virkemidler.
+
+00:43:39
+Men igen, da vil vi understrække, at det er utrolig vigtigt, den kombinationen økonomi gør, at folk kanske tænker, at det er muligt.
+
+00:43:49
+Hvis man føler, at man ikke har det, man trænger for at få det gennemført, eller det bliver for vanskeligt, eller man oplever, at tiltaket ikke fungerer, så vil ikke dette kunne skalere på sigt.
+
+00:44:02
+Så det er noget, vi jobber med, er den pakken eller den del af incentivet, som ikke nødvendigvis er økonomiske.
+
+00:44:11
+Det har vi noget om i rapporten, som er den studierapporten, som jeg viste i Sheffield.
+
+00:44:23
+Der står det lidt om, hvordan man jobber med det der.
+
+00:44:27
+Selvom naturbaserte løsninger i stor grad handler om vigtigheden af at jobbe med naturen, så må vi også jobbe med folkene og få med folk og mennesker, for at få det til at eskalere.
+
+00:44:47
+Det viser også denne artikel, som vi har studeret.
+
+00:44:54
+Den er ikke fra urbane områder, det er fra kommuner, som har mere landbrugsdrift, og lidt mere ruralt, men vi har spurgt, hvad trænger dere for at kunne gennemføre naturbaserte løsninger.
+
+00:45:08
+Det kan være kansoner, flåmark osv.
+
+00:45:12
+Finansiering er altid en klassiker.
+
+00:45:15
+Men som I ser, har man også behov for kunskap og vejledning.
+
+00:45:20
+Det gælder ikke kun, hvordan man skal gøre det i graven, når man er derude.
+
+00:45:26
+Det gælder også alle de ting, vi har vist til i dag.
+
+00:45:30
+Vi må vide, hvordan vi bedst kan planlægge det.
+
+00:45:35
+vise nytte og effekter igen, tilbage til hvor utrolig vigtigt det er at overvåge.
+
+00:45:42
+Også hvordan man kan jobbe sammen.
+
+00:45:45
+Og for at man skal kunne jobbe sammen og involvere, så er jo vores point her også, at man kan involvere, men da må man også veldig ofte tænke, at vi må tilrettelægge med information og informering, Vi er nødt til at tage den job med at bygge os alle gode, at vi deler erfaringer, at vi lægger til rette for, at vi får til den handling, som vi ønsker.
+
+00:46:19
+Så bare afslutningsvis, naturbaserte løsninger er jo flerfunktionelle, så da bør man også jobbe helhetlig.
+
+00:46:28
+Det har noget at sige for, hvordan man jobber med medvirkning og med tværfaglighed.
+
+00:46:33
+Arealplanlægging er kæmpe vigtigt inde i dette.
+
+00:46:37
+Vi må fortsætte at evaluere og dokumentere effekter.
+
+00:46:42
+Det gør vi gennem alle disse projekter, som der heldigvis findes finansiering til.
+
+00:46:47
+Der kan kommuner også være på med at lage nogle små føringer for, hvad ulike projekter gerne skal overvåge i eftertid eller rapportere ind.
+
+00:47:00
+Vi har hentet meget på erfaringsudveksling, så vi er glad for at kunne dele noget af dette i dag.
+
+00:47:07
+Jeg tænkte bare at sige, at for de som har lyst til at vide mere om, hvad vi gør i Norge, så findes der en naturbaseret Zone-webinarserie, som vi har.
+
+00:47:17
+Der er det åbent at være med.
+
+00:47:20
+Det snakkes stort set norsk, nogle gange dansk, hvis det er danske, som er inviteret.
+
+00:47:25
+Det vil vi gerne have, hvis der er nogen, som har lyst til at dele sine erfaringer.
+
+00:47:29
+Så der er det bare at tage kontakt om det.
+
+00:47:32
+Så med det siger jeg, tusind tak for opmærksomheden.
+
+00:47:37
+Tusind tak for det.
+
+00:47:40
+Det var et brugbart oplæg.
+
+00:47:46
+Meget spændende.
+
+00:47:48
+Og jeg er ret sikker på, at hvis der nu er nogen, der sidder med et spørgsmål, som skal vinkles i en retning, så er der lige tid til et enkelt eller to.
+
+00:47:59
+Men ellers tænker jeg faktisk, at der var virkelig meget viden, og der er virkelig mange links, og alt sådan noget, som man kan grave ned i, så jeg er ret sikker på, at mange af de spørgsmål, der måtte være, dem kan man jo gå ind og efterse.
+
+00:48:14
+Der er bespurgt lidt til en link, som du også selv nævnte.
+
+00:48:18
+Ja, jeg ser.
+
+00:48:19
+Det, så det skal vi tjekke og fikse.
+
+00:48:23
+Ja, og det.
+
+00:48:23
+Var faktisk alle jeres links.
+
+00:48:27
+Men de andre, de virkede fint, jeg sad og klikkede.
+
+00:48:29
+På dem.
+
+00:48:29
+Jeg tror, vi har jo fået nye netcd, så det kan være det.
+
+00:48:33
+Men den skal jeg tage en lille part.
+
+00:48:35
+Tusind tak for, at det er set fra.
+
+00:48:37
+Ja, og jeg.
+
+00:48:38
+Tænker, den måde vi gør det på, der sætter vi det bare ind i, det hedder vel ikke rulleteksten, men på webinariet på hjemmesiden.
+
+00:48:47
+Og ja, jeg kan se, at der er opbakning til, at det var virkelig informativt, og der var Og det er, som Lars også skriver, tak for de mange konkrete links.
+
+00:48:57
+Det er mega fedt med eksempler, og jeg kan godt se, at der er virkelig meget viden her, og der er virkelig meget at grave sig ned i.
+
+00:49:04
+Og det er vel egentlig den generelle indstilling der i chatten.
+
+00:49:10
+Ja, du sidder selv og kigger, kan jeg se.
+
+00:49:14
+Ja, og det.
+
+00:49:14
+Er kæmpe hyggeligt at høre, fordi det er jo, som vi kanske har glædet os at formidle, et vældig bredt felt, så man må næsten også se på det gennem det man selv jobber med, men om der er nogen som er interesseret i samarbejde eller jobber om noget specielt, som de har lyst til at spørge om, så er jo min mailadresse her, så det er bare at tage.
+
+00:49:36
+Kontakt egentlig.
+
+00:49:38
+Ja, og jeg tænker egentlig, jeg kunne måske spørge om Nu skal jeg spørge lidt indtil, hvis det nu var en, der kom med et spørgsmål, så kan jeg lige have det enkelt lidt med...
+
+00:49:53
+Altså, der er jo mange ting at spørge ind til, men for eksempel, du nævner det her med borgere- og aktørsamarbejde, og i de helt lille...
+
+00:50:00
+Du går jo fra de helt store projekter til de meget små i folks have og sådan noget.
+
+00:50:04
+Hvad er jeres erfaringer med flere aktører?
+
+00:50:07
+Altså, hvordan kan man få borgere, forsyninger, kommuner og lossere til at trække i samme retning omkring de her projekter?
+
+00:50:16
+Det er et.
+
+00:50:16
+Godt spørgsmål, for der er to niveauer i det.
+
+00:50:20
+Det vi så i rapporten, hvor vi studerte de fire kommuner.
+
+00:50:26
+Det de sagde, var kæmpe vigtigt.
+
+00:50:29
+Det er at have et slags internt forum.
+
+00:50:33
+Hvis du er en stor kommune med forskellige fagområder, så bør man have et overvåndsforum.
+
+00:50:41
+For det var overvånd, de jobbede mest med.
+
+00:50:44
+Men netop at have disse arenerne, hvor man kan møtes.
+
+00:50:48
+Og jeg vil jo tænke, at dette netværke her er jo kanskje en sådan type arena, som er eksterne arenaer, for man trænger kanskje både interne og eksterne arenaer.
+
+00:50:58
+Og når det kommer til det at trække ind borgere og indbyggerinvolvering, det er faktisk...
+
+00:51:05
+Det jeg kan sige der, er at man må tænke, at man virkelig vil det.
+
+00:51:13
+Man må sætte ressourcer til det, man må jobbe med det, og da er det veldig givende.
+
+00:51:19
+Men vi ser nok, at nogle kommuner helst kunne ønske at informere, men den to-vejs-dialogen den den jobbes fortsat med.
+
+00:51:31
+Det vi har ganske god erfaring med, er at jobbe med sådan noget som, hvad jeg ville kalde på dansk, men mellomrumsaktører, altså netværksaktører, de som som har netop det som fagfelt og interesse at jobbe mellem aktørerne, næsten som sociale entreprenører.
+
+00:51:54
+Det findes en del små aktører i Norge, som vi har haft god erfaring og samarbejde med på det.
+
+00:52:06
+Der kommer et spørgsmål.
+
+00:52:08
+Først et tak for et fantastisk inspirerende oplæg.
+
+00:52:11
+Hvordan har samarbejdet med Forsyningen været?
+
+00:52:15
+Har I oplevet modstand i forhold til at ændre praksis fra de traditionelle løsninger?
+
+00:52:21
+Det er helt.
+
+00:52:22
+Sikkert, når vi siger Forsyning.
+
+00:52:24
+Hvem er det?
+
+00:52:27
+Jamen det er vandforsyning.
+
+00:52:30
+Ja, vi har.
+
+00:52:32
+Faktisk ikke det, fordi de vi jobber med er igen disse ildsjælerne, det er nok de som tager den modstanden.
+
+00:52:44
+Vi har ikke sådan en forsyning et eller andet skil fra kommunen i Norge.
+
+00:52:49
+Men jeg tror, at det er absolut modstand, men ikke nødvendigvis akkurat på de, som jeg kender, som jobber med vandforsyning.
+
+00:53:01
+Men igen, lidt tilbake til, at det er nok enkeltpersoner, der er det, vi i teorien kalder type boundary actors, altså de, som er villige til at jobbe på tværs og lidt nyt og gå op vejer, sådan at Jeg har tænkt nogle gange, at hvis de slutter, hvad sker der?
+
+00:53:26
+Jeg tror vi har en vej at gå.
+
+00:53:29
+Jeg synes det er et godt spørgsmål, for det har noget med, at naturbaserte løsninger, eller ting som ikke er, som vi altid har gjort det, kræver at vi også jobber med.
+
+00:53:47
+med accept og hvordan vi skal jobbe på nye måder.
+
+00:53:51
+Jeg tror nok vi møter der en indvending mod den type løsninger nogle gange i om det bliver dyrere, om det er lige effektivt.
+
+00:54:09
+Det med kostbarhed, det er ikke altid tilfældet, det trænger ikke at blive.
+
+00:54:15
+Det med effekt er jo igen, derfor det er så utroligt vigtigt at måle og have opfølgning af disse trykker hele tiden.
+
+00:54:27
+Ja, bruge det som et punkt for at sige, at man virker det, som det skal.
+
+00:54:35
+Jeg kan se, at der er en, der alligevel har skrevet et spørgsmål, men jeg kan måske lade dig opfølge et spørgsmål på, hvilke kompetencer mangler der oftest?
+
+00:54:45
+hvis man skal udbrede de her NBS løsninger, altså fagligt, juridisk, planmæssigt?
+
+00:54:50
+Ja, det er.
+
+00:54:52
+Også et godt spørgsmål.
+
+00:54:55
+Det som vi har set, men det synes jeg er i ændring, er at der har kanskje ikke manglet, men den økologiske kompetence har ikke været taget godt nok ind, så der har blivet mye blågrønne vandtekniske løsninger, som kunne været mere naturbaserte, hvis man havde taget i brug økologisk og involveret økologerne og biologerne i større grad.
+
+00:55:22
+Det ser vi en ændring på.
+
+00:55:24
+Og så er det igen det med juridisk kompetence og sådan har kommet som en vigtig bit af det, særlig de senere år, når man begynder at se på, om de lovene, reglerne og plansystemene, man har, er de indrettet, som de skal være, hvis vi skal få til at tage vare på natur.
+
+00:55:48
+Det er et stort spørgsmål på en måde, for i Norge så har vi veldig mye problemer med naturforvaltning generelt, på natur som bygges ned.
+
+00:55:57
+Der ser vi behovet for, at juridisk kompetence er med på at lægge rammene for, at vi får til det, hvis det er det, vi ønsker at få til.
+
+00:56:11
+Så er der spørgsmål om naturbesiddede løsninger.
+
+00:56:15
+NBL bør være billigere rent økonomisk end de traditionelle løsninger.
+
+00:56:24
+Er det jeres erfaring også?
+
+00:56:28
+Det tør jeg ikke at svare ja eller nej på, men det jeg kan sige er, En indvendning er, at man ofte tænker, at det ikke er det.
+
+00:56:38
+Det kommer jo an på, hvilken naturbaseret løsning det er.
+
+00:56:43
+Hvad er det, vi snakker om, og hvordan er grunden, hvor det skal gøres.
+
+00:56:49
+Fx skal man lage et regnbed, hvor det er let at infiltrere, så bliver det ikke kostbart.
+
+00:56:58
+Er det meget, som må gøres i tillægg, så kan det blive kostbart.
+
+00:57:02
+Det man gerne ser er, at siden det er løsninger som er på overflaten, de er synlige, så gør at hvis man skal gå ind og gøre ændringer, så er ikke det så kostbart som med de mere tekniske løsninger med rør og ting som er under bakken osv.
+
+00:57:23
+Jeg tror svaret er både ja og nej, og i de tilfælde når det ikke er det, så handler det jo igen om Er det kun økonomien, som skal styre?
+
+00:57:37
+Hvis vi også skal ivaretage natur, så må vi også bekoste det.
+
+00:57:44
+Jeg læser bare.
+
+00:57:49
+Lidt højt, så man kan høre det.
+
+00:57:52
+Laver I LCA-beregninger til at understøtte værdiskabelsen af NBS vedrørende traditionelle?
+
+00:57:59
+Er det et.
+
+00:57:59
+Lovkrav?
+
+00:58:00
+Nej, det er ikke et lovkrav, så vidt jeg ved, og jeg tror, det gøres i ganske liten grad.
+
+00:58:07
+Jeg har ikke set meget af det.
+
+00:58:10
+Jeg tror igen, det kommer an på, hvad tiltak er, og kanske hvis man jobber tæt mod nogen type tiltak.
+
+00:58:21
+Men jeg har ikke set det i de type projekter, som jeg har været.
+
+00:58:27
+Når jeg jo ikke vil så operativt, men de som vi har været i når vært i, så har jeg ikke set det.
+
+00:58:34
+Yes, det var det sidste vi nåede, men jeg vil bare sige tusind tak, Line, for et virkelig brugbart oplæg.
+
+00:58:41
+Det var virkelig godt.
+
+00:58:42
+Og jeg skal lige fokusere på ikke at bruge de der norsk-danske faldgrupper med ord og sådan noget.
+
+00:58:48
+For lige at sige rart og sådan noget.
+
+00:58:49
+Men det kommer jo ud online, og der tænker vi får lagt de der links ind.
+
+00:58:54
+Og ellers så vil jeg bare sige tak til alle spørgsmålene og alle dem, der deltog.
+
+00:59:00
+Og så må I alle sammen have en god dag.
+
+00:59:04
+Tak for nu.
+

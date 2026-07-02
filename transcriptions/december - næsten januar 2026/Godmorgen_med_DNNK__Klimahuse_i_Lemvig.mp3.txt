@@ -1,0 +1,1164 @@
+00:00:12
+Godmorgen alle sammen.
+
+00:00:13
+På vegne af DNNK vil jeg byde jer velkommen til denne godmorgen med DNNK.
+
+00:00:18
+I teknikken sidder Morten Halling, og jeg er Christoffer Sindbyk af Dagens Hverdag.
+
+00:00:22
+På god ordens skyld skal det siges, at vi optager, og det bliver lagt på DNNKs hjemmeside i løbet af en uge.
+
+00:00:28
+I forhold til det praktiske, så kan I stille spørgsmål løbende under webinaret, og så vil jeg stille dem til slut.
+
+00:00:35
+Dagens webinar er med Thorsten Schark-Nielsen og Thomas Bjørnstedt fra VIA University College.
+
+00:00:43
+De vil fortælle om de første erfaringer og teoretiske antagelser, der ligger bag de nye klimahus i LMV.
+
+00:00:49
+De inviterer dig til debat og refleksion omkring, hvad der faktisk kan lade sig gøre i praksis.
+
+00:00:56
+Med det vil jeg give ordet videre til dig, Thorsten, og sige tusind tak, fordi I vil stille op, og velkommen til.
+
+00:01:05
+Super.
+
+00:01:07
+Ja, hej.
+
+00:01:08
+Godmorgen.
+
+00:01:08
+Mit navn er Torsten Sagt Nielsen.
+
+00:01:11
+Jeg er forskningsleder her på VIA University College.
+
+00:01:17
+Jeg er ansvarlig for et forskningsprogram om bæredygtig byggeri.
+
+00:01:22
+Her beskæftiger vi os blandt andet med klimaresilient byggeri, som jeg kommer til at fortælle om i dag.
+
+00:01:32
+De huse, som jeg om lidt vil vise og gennemgå, er en del af et stor EU Horizon-projekt, som kigger ind og er iværksat for at skabe innovative løsninger for klimaresiliente europæiske regioner.
+
+00:01:57
+Det er fire regioner i hele Europa med i alt 60 partner, som er del af projektet.
+
+00:02:05
+Projektet var fem år og kigger ind i klimaresiliente udfordringer som tørke, hedebølger, skovbrænde og oversvømmelser.
+
+00:02:22
+Når vi kigger på Europakortet, kan vi se helt centralt, centralt Danmark, altså region Midtjylland, som er ansvarligt for én region.
+
+00:02:42
+Her kigger vi ind i oversvømmelsesudfordringer og har tilkoblet to regioner, som er Blekinge og Semgale i Letland, som er twinning regions, som gerne skal lære af de løsninger, som vi præsenterer.
+
+00:03:03
+Hvis vi kigger ind i i hele feltet, har netop kystsinkringer fyldt rigtig meget i den klimatilpasningsdagsorden, hvor vi ville beskytte vores boligmasse med landskabelige tiltag.
+
+00:03:25
+Det vi nu kigger ind i, er, at man faktisk trækker sig på et bygningsniveau og arbejder helt konkret med nogle løsninger, som prøver at skabe nogle bygninger, som er langt mere robuste.
+
+00:03:43
+Det kan vi faktisk også se, at det er kommet med i finansloven som forslag, at der også bliver lagt penge med 150 millioner til en renovering og forberedelse for det.
+
+00:04:07
+Når vi kigger på oversvømmelse, og selvom vores huse er bygget tæt ved kysten, så gælder det også andre hendelser, som eksempelvis ekstremregn, floder, som går over bredden, eller brunvand, som stiger op, som skaber lignende udfordringer.
+
+00:04:32
+Det vi undersøger ved kysten, Hvis vi helt overordnet kigger i de muligheder, vi har på bygningsniveau, at arbejde med at skabe en robusthed og sikre modoversvømmelse, har vi sådan set tre muligheder.
+
+00:05:04
+Den første er, at vi kan udvikle, hvordan Hvor vi siger, at vi undgår, at huset eller byggeriet, konstruktionen kommer i kontakt med vand, er nok den, som er endelig mest hansigtsmæssigt.
+
+00:05:17
+Vi skal sige, at selvom vi om lidt skal præsentere nogle huse, som er bygget til at kunne modstå oversvømmelse, så er det ikke et tanke, at vi skal lave en ny byggeri.
+
+00:05:32
+som bliver placeret nogle steder, som bliver oversvømmet.
+
+00:05:35
+Det skal vi helt klart komme væk fra.
+
+00:05:37
+Vi vil gerne teste nogle løsninger, som faktisk giver eksisterende byggeri muligheder at blive transformeret til, at vi undgår større skader.
+
+00:05:51
+Når vi kigger på de tre strategier, så er undgåelse det, vi burde satse på.
+
+00:05:59
+Vi skaber nogle muligheder, hvor vandet slet ikke kommer til huset, enten om vi løfter det, om vi beskytter det med nogle barriere, eller vi fysisk kan flytte det.
+
+00:06:15
+Det er jo en mulighed.
+
+00:06:19
+Hvis det selvfølgelig ikke er en mulighed, så er der egentlig kun to veje at gå.
+
+00:06:27
+Enten man siger, laver en fuld afvisning, det man kalder dryproof.
+
+00:06:34
+Hvor man bygger på en måde, at husene bliver vandtætte.
+
+00:06:40
+Det er oftest en enormt kompliceret måde at gøre det.
+
+00:06:45
+Og oftest også enorm CO2-tung.
+
+00:06:49
+Fordi det kræver en slags overdimensionering af konstruktionen, fordi vi har en ret høj vandtryk, som konstruktionen skal holde ud.
+
+00:07:00
+Det at gøre huset helt vandtæt, er en svær øvelse.
+
+00:07:07
+Det vi synes var spændende, og som relaterer til mange af huset, som var udsat.
+
+00:07:19
+At vi kigger ind i, om vi kan bygge på en måde, at vi må acceptere, at vand kan bygges.
+
+00:07:27
+potentielt komme ind i et hus, men det er bygget på en måde, at der er mindst mulige skader, eller vi faktisk kan undgå, at der er dyre skader i et hus.
+
+00:07:44
+Det er netop det, vi gør her i Lemvi.
+
+00:07:48
+Sammen med kystdirektoratet er vi partner fra University College, til at opføre to demonstrationshuse i Lemvi.
+
+00:08:00
+Begge huse skal afprøve fem designprincipper, som vi har defineret i fuld skala på nogle demonstratorer, som er cirka 20 kvadratmeter hver.
+
+00:08:14
+De er placeret i Lemvi både på den På den østlige del ved klimatorium, ved havnet.
+
+00:08:28
+Og på den vestlige side, på en strandstykke.
+
+00:08:35
+Begge huse er en del af en test.
+
+00:08:41
+Men hvor huset ved klimatorium står mere beskyttet, og tjener formålet at være udstilling, også når en oversvømmelse for eksempel står på, er demohus 2 det hus, som reelt set bliver udsat for oversvømmelsen.
+
+00:09:06
+Begge huse er fyldt med en masse lokker, både i forhold til temperatur og fugtighed, så vi kan undersøge, om husene efter en oversvømmelse faktisk kan tørre ud, og man reelt set i en anden boligkontekst faktisk kan hurtigt bebo et hus efter en oversvømmelse igen.
+
+00:09:37
+Begge huse blev indviet den 19.
+
+00:09:41
+august her i år, og har siden der faktisk vært både tilgængeligt, men også vært allerede udsat for oversvømmelse.
+
+00:09:59
+Man kan her tydeligt se, at huset nr.
+
+00:10:04
+1 står lige bagved højvandsmuren.
+
+00:10:09
+Så formålet er, at det er en udstillingshus, så vi kan vise de principper, som er i det andet.
+
+00:10:17
+testhus i trift, hvor vi helst ikke vil forstyrre målingerne, og hvor vi en del af året har svært at tilgå bygning, fordi det potentielt står under vand.
+
+00:10:35
+Huset på Strandeng, altså det hus, som bliver udsat for vand, er placeret virkelig tæt på selve havet, og placeret med en kode, så den højeste målte vandstand i Lemvie kan man sige svarer til den bund, som er bygget at kunne målstå oversvømmelsen.
+
+00:11:08
+Man kan se allerede her, at huset har været oversvømmet.
+
+00:11:14
+Det er allerede sket siden september.
+
+00:11:18
+Det er for alvor start af det.
+
+00:11:21
+Fire, man kan sige fem gange.
+
+00:11:24
+Så det er faktisk meget oftere, end vi har forventet.
+
+00:11:35
+Og så kan man se, at huset er virkelig hele vejen rundt omkring grænset af vand, og vand er også inde i selve huset.
+
+00:11:50
+Så vil jeg gerne lige gennemgå de fem principper, hvor vi har kopieret vores tanker på, hvordan vi kan bygge klimaresilient.
+
+00:12:05
+Den første designprincip er, at vi bygger med en konstruktiv sonering.
+
+00:12:11
+I lægger sikkert rigtig mærke til den gule bund af huset.
+
+00:12:19
+Det er en opdaling, vi har gjort i konstruktionen.
+
+00:12:26
+Den gule bund er også den højde, som er den højest mådets vandstand.
+
+00:12:34
+Derfor regner vi ikke med, at huset skal teste og måle i den toårsperiode.
+
+00:12:41
+kommer højere op.
+
+00:12:43
+Den øvre del er en forholdsvis traditionel konstruktion, som vi ikke forventer at blive opfugtet.
+
+00:12:51
+Vi har arbejdet med biogene materialer og med en lærpus, som på den måde helst ikke skal fuldt udsættes for oversvømmelser, men samtidig har en god fugteregulerende egenskaber.
+
+00:13:10
+Det, der er vigtigt at sige, at man med den zoneopdeling for eksempel også til højde får den elektriske installation, og den elektriske installation ligger netop i den øvre del, som er i forhold til koden forholdsvis sikkert.
+
+00:13:32
+Så har vi hele den del, som ligger under den sikringshøjde, Her har vi arbejdet med forskellige principper, så det kan tåle vand.
+
+00:13:52
+Det kommer jeg ind på her.
+
+00:13:55
+Designprincip 2.
+
+00:13:59
+Vi har ikke kun prøvet at arbejde udefra princippet, at det skal bare være klimarobust.
+
+00:14:13
+Det var også meget vigtigt, at vi også viser, at vi samtidig gør det klimavenligt.
+
+00:14:21
+Fordi i vores verden giver det ikke mening at bruge nogle ret CO2-tunge materialer for at afhjælpe de konsekvenser for byggeri, CO2-udslip.
+
+00:14:34
+Så vi skal selvfølgelig finde løsninger, som også er til højde for, at vi er stedig nødt til massivt at begrænse CO2 i byggeri i forhold til materialer i forhold til opførelsen.
+
+00:14:51
+Det vi har gjort her er, at vi er gået ud og har let efter nogle materialer, som vi synes har potentiale.
+
+00:14:59
+En af de materialer, som er både brugt udvendigt og indvendigt, er det træfiberblad, som man kan se her.
+
+00:15:09
+Det ligner MDF.
+
+00:15:11
+Det føles som MDF, men det materiale har været gennem en særlig proces, det kalder man acetyleringsproces, hvor man har ændret træets struktur.
+
+00:15:28
+Det er ikke en materiale, som har fået nogle kemikalier, altså det har ophobet materialer inde i, det er altså kun været gennem en proces, og det gør, at træet er enorm målstensdygtigt.
+
+00:15:41
+Producenten garanterer på udvendig begledning 50 års garanti på det træ.
+
+00:15:50
+Hvis man for eksempel sætter det træmateriale i jordforbindelse eller graver det ned, ville man stedig kunne få 25 år.
+
+00:16:03
+Det mente vi var nok, at vi ville bruge det som indvendig materiale.
+
+00:16:10
+for panelerne og gulvene, men vi har også brugt det til bundpladen udvendigt.
+
+00:16:17
+I forhold til isoleringsmaterialer har vi arbejdet med lidt forskelligt.
+
+00:16:24
+Vi har arbejdet med træfiber, som er måske den mest gængse biogene isolering, for at have en reference.
+
+00:16:35
+Vedvidende at en fibermateriale altid har svært med opåbning af vand.
+
+00:16:46
+Så har vi kigget på en meget lokal materiale.
+
+00:16:51
+Det er olegræs, som faktisk findes der på stranden, fordi olegræs potentielt kan være mere modstandsdygtig mod forodelse og eventuelt har potentiale at tørre ud.
+
+00:17:06
+Fordi hele ideen er, kan man sige efter, så et hus har været udsat for vand.
+
+00:17:14
+At de materialer, så kan man sige efter oversvømmelsen, skal kunne tørres hurtigst muligt ud, så at huset kan bruges igen.
+
+00:17:27
+Og i den forbindelse, synes vi var det også interessant at kigge netop på sådan noget som rullekrads.
+
+00:17:36
+Hvad vi synes, var også enormt spændende at se på nogle helt nye, innovative isoleringsmaterialer.
+
+00:17:48
+Her har vi valgt tre typer forskellige aerogel.
+
+00:17:54
+Aerogel er en materiale, som har en enorm høj poricitet, og dermed en meget højt luftanddel, og kan derfor er enormt effektiv isoleringsmæssigt.
+
+00:18:16
+Det, der er interessant, hvor tidligere evogels har været baseret på silica, som også er forholdsvis CO2-tung, er, at de nu bliver produceret med biomineraler, som er CO2-mæssigt meget mere interessant.
+
+00:18:36
+Samtidig med, at De materialer, vi kigger ind, er i værste fald mindst dobbelt så isolerende som de typiske materialer.
+
+00:18:50
+En materiale, som ligger i den bedste ende, det er det bedste isoleringsmateriale, man kan finde i byggebranchen.
+
+00:19:04
+Det er en vakuumisoleringspanel.
+
+00:19:07
+Her er det faktisk sådan, at man har en kerne, en biomineralerogel, som er tømt fra luften.
+
+00:19:19
+Den er forseglet med en særlig type folie, og dermed også vandtæt.
+
+00:19:27
+Det er for eksempel en materiale, som er 8-10 gange tyndere end en traditionel, materiale, og når vi kigger på vores tykkelser vægge, faktisk også en interessant tilgang i forhold til at bygge tiny houses, hvor man pludselig ikke skal gå op i nogle 40 cm tykke vægge, men faktisk kan reducere konstruktionen yderligere.
+
+00:19:57
+Jeg skal måske lige sige, at det der er spændende også med evogel, at de har simpelthen ejeskabet at være vandafvisende og dermed er den egenskab særligt egnet til at tjene det formål at være både klimarobust og klimavenligt.
+
+00:20:22
+Når man bygger klimaresilient så er det selvfølgelig også vigtigt, at man i en meget tillig fase i designfasen også tænker tilpasningsævne ind, så at løsninger er integreret og falder ind og giver en god helhedsindtryk her.
+
+00:20:52
+For eksempel arbejder man med en tangangang, som er lavet af nogle træller, som man bruger også i stilages.
+
+00:21:02
+som udover at tage engang belægning, faktisk kan vippes op og arreteres for at tjene formål at beskytte glasfacaden mod triogods, som kan beskætte huset.
+
+00:21:20
+Det er en enormt enkelt løsning, og der skal man altid se, at man typisk plejer at have tunge skåder, som man skal opbevare, som man skal sætte på plads.
+
+00:21:36
+Her er det en forholdsvis nem løsning.
+
+00:21:42
+Det, der er også vigtigt, er, at begge huse er sat på skruefundamenter.
+
+00:21:53
+Det gør vi i det tilfælde, fordi de bygninger er temporære.
+
+00:21:57
+Efter to år bliver de fjernet igen.
+
+00:22:00
+Med de skruefundamenter bliver de skruet ud igen.
+
+00:22:08
+Så vi efterlader ikke nogen sporefterfølgende på grund.
+
+00:22:14
+Det var en aftale, vi lavede med Lemvig Kommune.
+
+00:22:19
+Samtidig giver det også den mulighed at skabe en De bedst mulige forhold for en udtørringsproces.
+
+00:22:34
+Hele bunden af huset er bygget på en måde, at bundpladen er skrå, så fra midten af huset til kanterne kan vandet løbe hurtigst muligt ud.
+
+00:22:51
+På kanterne af huset er der nogle slisser, åbninger, som faktisk tillader, at vand meget hurtigt kommer ind, og vand kommer hurtigt ud igen.
+
+00:23:05
+Og det er en meget vigtig tanke, at der er en balance mellem vand ud og ind, så at de kræfter ikke ødelægger konstruktionen, at vandtrykket ikke ødelægger konstruktionen.
+
+00:23:26
+Derfor kører vi med det princip.
+
+00:23:30
+Vi har yderligere lavet nogle trænelementer, som man kan se her på billedet.
+
+00:23:38
+Det er en afløb, som svømmer op, fordi der er en flamingo på undersiden.
+
+00:23:48
+Så at vandet hurtigst muligt kommer ind, men samtidig også kommer ud igen.
+
+00:23:56
+De gulve er faktisk også kun løssat på, og det betyder også, at selve gulvbræderne flytter op og dermed sørger for, at huset ikke får en unødvendig optrift, som man ville skulle overdimensionere skruefundamenter for eksempel.
+
+00:24:26
+Det sidste princip, som også er en enormt vigtig punkt, er, at vi bygger huset på en måde, at det bliver tilgængeligt.
+
+00:24:40
+Når der har været en oversvømmelse, er det enormt afgørende at komme hurtigst muligt til konstruktion, se om mulige skader, men samtidig også komme til isolering, så det kan affugtes.
+
+00:24:55
+eller potentielt udskiftes.
+
+00:25:00
+Og det skal selvfølgelig gerne gøres, at det ikke bliver en svær opgave, altså en håndværkeropgave.
+
+00:25:07
+Hvis vi f.eks.
+
+00:25:08
+Har.
+
+00:25:08
+Gipsvægge, så betyder det jo en direkte ødelæggelse.
+
+00:25:12
+Her har vi simpelthen paneler, som vi kan hægge det af, og meget nemt kan komme til.
+
+00:25:19
+Og det der er egentlig ret fint, Når vi kigger i en græsløbs tankegang om cirkel og økonomi, hvor vi gerne vil arbejde for adskillelse, har vi her nu fundet en mulighed, at det faktisk også samtidig gavner den tankegang at bygge klimaresilient.
+
+00:25:44
+Ja.
+
+00:25:46
+Og det vil jeg gerne slutte af med den slides, og de visualiseringer, at vi håber på, at de forskellige principper, som vi har sketeret og som vi nu også tester, viser en helt ny samspil, som kan fremover hjælpe os at udvikle løsninger, virkelig en til en, for at få den brede boligmasse og Ja, og samtidig tilgåse alle de behov, som der må være i forhold til at bygge klimavenligt.
+
+00:26:28
+Yes.
+
+00:26:29
+Og.
+
+00:26:29
+Dermed vil jeg gerne stoppe min præsentation og give det videre til Thomas.
+
+00:26:36
+Tak for det, Torsen.
+
+00:26:39
+Thomas.
+
+00:26:40
+Tak fordi du også vil komme.
+
+00:26:42
+Du kan lige få tid til at sætte din præsentation på os.
+
+00:26:47
+Yes.
+
+00:26:52
+Jeg håber, I kan se noget nu.
+
+00:26:54
+Den.
+
+00:26:54
+Skal lige op på visning.
+
+00:26:57
+Den.
+
+00:26:57
+Kommer her.
+
+00:26:58
+Sådan.
+
+00:26:58
+Så er alt godt.
+
+00:27:00
+Værsgo.
+
+00:27:00
+Thomas.
+
+00:27:00
+Tak for det.
+
+00:27:03
+Tak for invitationen til at komme herned og fortælle lidt om vores arbejde.
+
+00:27:09
+Min del af vores præsentation i dag ligger direkte i forlængelse af det, Thorsten har nævnt.
+
+00:27:16
+Omkring vores arbejde i Resist-projektet med DEMO-husene.
+
+00:27:21
+Det, jeg skal tale kort om, er, hvordan vi i vores forskningsprogram for digitale og bæredygtige processer på VIA, blandt andet arbejder med augmented reality og forskellige andre visualiseringsværktøjer, som kan gøre klimaudfordringer mere konkrete.
+
+00:27:42
+Det forstår jeg på den måde, at vi anvender de her værktøjer til at visualisere fx forskellige modeller, grafiske lag oven på en fysisk virkelighed, som er noget, vi anvender, når vi skal i dialog med og skal arbejde med borgerinddragelse og aktørenvolvering i forhold til beslutningstagningsprocesser.
+
+00:28:04
+Så dermed kan man se konsekvenserne af klimaforandringer og bud på forskellige klimatilpasningsløsninger i en genkendelig lokalkontekst.
+
+00:28:15
+Ganske kort er augmented reality, fordi der ikke kender til teknologien, det er i bund og grund en teknik, hvor man lægger digital information ovenpå den virkelige verden.
+
+00:28:27
+Det kan være billeder, det kan være video, forskellige former for datalag eller 3D-modeller, som man så ser direkte på sin skærm.
+
+00:28:35
+Det foregår typisk via en smartphone eller en tablet, og i nogle tilfælde gennem nogle specielle AR eller augmented reality briller.
+
+00:28:44
+Hvor det digitale lag lægger sig oven på den fysiske virkelighed, man kigger på.
+
+00:28:50
+Enten gennem sit kamera på telefonen eller de her briller.
+
+00:28:52
+Vi arbejder primært med de mobil- og tabletbaserede løsninger.
+
+00:28:59
+Det her er en vigtig forskel i forhold til en traditionel digital tvilling.
+
+00:29:06
+Som man typisk vil tilgå på en laptop eller desktop computer.
+
+00:29:11
+Forskellen er, at augmented reality forankrer oplevelsen ude i virkeligheden, on location.
+
+00:29:18
+Så man kan stå i et område og se scenarier og løsninger, mens man faktisk er der.
+
+00:29:25
+Og netop i Resist-projektet har vi udviklet den her type af AR-visualiseringer i tæt samarbejde med en række piloter.
+
+00:29:35
+Både herhjemme og i vores europæiske partnerregioner.
+
+00:29:40
+Formålet er, at vi demonstrerer forskellige strategier for klimatilpasning i praksis.
+
+00:29:47
+I Resist bruger vi samtidig de digitale løsninger som en måde at teste på, hvad digital teknologi kan i de her sammenhænge.
+
+00:29:55
+Hvad er værdien, når vi arbejder med dem?
+
+00:29:58
+Blandt andet i bymiljøer, men også ved kystnære områder.
+
+00:30:04
+Vi arbejder med, hvilke former for visualisering, der kan skabe den bedste forståelse og lægger op til måske den mest konstruktive dialog.
+
+00:30:13
+Helt specifikt i forhold til demohusene, så er vi lige nu i gang med at lægge allersidste hånd på en app, hvor vi bruger AR til at visualisere de designkoncepter, som Thorsten lige har beskrevet.
+
+00:30:30
+Men hvor vi viser det på en mere dynamisk måde, som et slags supplement, til de plancher og informationsmaterialer, som allerede er placeret i husene.
+
+00:30:42
+Det vil sige i det ene demohus, som er det, der er lagt an på, at man kan besøge det.
+
+00:30:47
+Ideen er, at man gennem AR-appen kan få en mere intuitiv forståelse af, hvad løsningen involverer i praksis, og hvilke valg, der ligger bag.
+
+00:30:58
+Helt konkret aktiverer man appen ved at scanne en QR-kode, der er sat op i huset.
+
+00:31:05
+Så guider Adam ellers brugeren eller den besøgende igennem nogle forskellige aspekter ved demohusene.
+
+00:31:12
+Lige på klippet her kan man for eksempel se, hvordan brugeren bliver informeret om placeringen af det tvillingehus, der står på den anden side af havnen i Lønvig.
+
+00:31:21
+Det er en skærmeoptagelse af appen, som ser ud i bro, men den kan kun bruges on location.
+
+00:31:26
+Man kan ikke tilgå den, medmindre man står ved huset.
+
+00:31:32
+Næste klip viser, hvordan appen visualiserer og forklarer placeringen af de tekniske installationer over det kendte overskrømmelsesniveau, som Torsen nævnte før.
+
+00:31:43
+Fordelen ved AR-teknikken er, at her kan man se, hvor høj den ligger i praksis inde i huset, hvor det er markeret dynamisk, og hvordan installationer og kritiske elementer kan blive tænkt ind, så de er bedre beskyttet, når vandet kommer.
+
+00:31:58
+Som I måske også kan ane, så bliver alt det her forklaret med noget tekst, som ligger sig i bunden af appen, når man bruger den.
+
+00:32:06
+Men der er samtidig også en stemme, som læser forklaringen højt for brugeren.
+
+00:32:12
+Man bliver så guidet igennem de her forskellige trin, når man aktiverer appen, hvor de her forskellige aspekter bliver forklaret.
+
+00:32:19
+Her visualiserer vi, hvordan vandet trækker ind.
+
+00:32:23
+Sådan som Torsen også forklarede, er det et af grundprincipperne ved husene.
+
+00:32:27
+Samtidig får man en fornemmelse af, hvordan oversvømmelsen inden i huset ser ud.
+
+00:32:32
+Noget, man typisk ikke vil kunne se som almindelige brugere.
+
+00:32:36
+Fordi det primært rammer det testhus, der ligger på den anden side.
+
+00:32:40
+Hvor man samtidig kan høre de her målinger, via de installerede sensorer osv.
+
+00:32:47
+Det er også noget med at give en form for håndgribelig fornemmelse af, hvordan vil en oversvømmelsesituation se ud, når man står inde i huset.
+
+00:32:56
+Her.
+
+00:32:57
+Viser vi princippet om de udskiftelige elementer.
+
+00:33:01
+Sådan som Thorsten også lige har forklaret.
+
+00:33:03
+Der bliver talt om, hvilke elementer det er, og hvordan det er tænkt ind modulært i konstruktionen.
+
+00:33:11
+Altså igen en understøttelse af noget af det, der er beskrevet også i noget plansemateriale inde i demohuset, men som supplement til det.
+
+00:33:20
+Her visualiserer vi de bagvedlæggende og skjulte materialer, der er anvendt.
+
+00:33:27
+Altså de skjulte lag i konstruktionen.
+
+00:33:29
+Vi forklarer også ganske kort, hvorfor de er valgt, og hvordan de kan bidrage til at modstå vand og fugt, og at de samtidig også bliver testet i forhold til deres modstandsdygtighed.
+
+00:33:43
+Med reference til det, som jeg startede med at sige, Helt overordnet er tanken, at det her værktøj kan være med til at understøtte formidling og borgerinddragelse, aktørinvolvering, foruden selvfølgelig at kunne give information eller fungere som informationsværktøj for politikere eller beslutningstager, som skal indgå i de konkrete dialoger med borgerne på de udvalgte lokationer.
+
+00:34:13
+Samtidig er det en måde for os aktivt at formidle vores forsknings- og udviklingsaktiviteter, og kunne teste brugen og værdien af de her teknologier i nogle forskellige konkrete sammenhæng.
+
+00:34:25
+Jeg tror egentlig, at det var min forholdsvis komprimeret gennemgang af de her aspekter af, hvordan vi arbejder med de digitale elementer.
+
+00:34:38
+Derfor springer jeg videre til det her opsummerende slide, og jeg tænker, Thorsten, at du lige vil runde af med at pointere nogle af de her konkrete punkter som en slags opsamling.
+
+00:34:50
+Ja.
+
+00:34:51
+Det vil jeg meget gerne gøre, fordi det er måske også den introduktion til efterfølgende spørgsmål, så at vi lige laver den opsamling.
+
+00:35:02
+Det der er Og det er det, projektet er lidt sat i verden for, at opføre de demonstrationshuse, er at vi skal få et mindset at gøre vores byggeri klar til ekstremhandelser.
+
+00:35:20
+At vi bliver klimaresilient, så at vi kan værne om de værdier, som er bundet i det.
+
+00:35:30
+Tror jeg også, at det er enormt vigtigt, at man som boligejer har en tilgang, at man skal i højest mulig omfang selv kunne tage ansvar for det.
+
+00:35:44
+Og være selv i stand, at kan gøre noget ved det.
+
+00:35:49
+Når man for eksempel har været udsat for en oversvømmelse, at man så samtidig prøver også at optimere Og ikke kun i standsat et hus, som det har været før.
+
+00:36:05
+Fordi så vil det næste oversvømmelse føre til de samme skader.
+
+00:36:11
+Så her er det behov for, at vi for eksempel håndværker.
+
+00:36:16
+At vi får nogle nye løsninger, så vi får det transformeret rigtigt.
+
+00:36:23
+Meget vigtigt.
+
+00:36:25
+At vi ikke glemmer i den diskussion, at vi samtidig også skal bygge CO2 vanligt.
+
+00:36:34
+At vi skal virkelig se og lede efter løsninger, som også tilgodesærer det.
+
+00:36:44
+Det er behov for.
+
+00:36:45
+Der er ikke for ingenting kommet nogle grænseværdier i byggeri.
+
+00:36:50
+Også den dagsorden om, at bygge klima er robust.
+
+00:36:53
+skal selvfølgelig følge i den retning.
+
+00:37:01
+Det super vigtige point er, at konstruktioner skal være tilgængelige.
+
+00:37:07
+Vi har haft en tradition, hvor materialerne er pakket ind gennem forskellige membraner, ind i nogle hulmurer bagved gips, som gør, at at en vandskade faktisk fører til nogle større renoveringer, ret indgribende renoveringer.
+
+00:37:29
+Det kan vi sagtens undgå, hvis vi bygger, at konstruktioner bliver gjort tilgængelige, så de kan inspireres, og man kan komme til, når det er nødvendigt.
+
+00:37:41
+Jeg vil også sige, at der er en ret stor Der er mange huse, som er oversvømmet til strut eller har været det.
+
+00:37:51
+Der er også en behov, at rådgiverne kommer på banen og kommer med nogle løsninger.
+
+00:38:02
+Jeg tænker arkitekter, jeg tænker også hele byggebranchen.
+
+00:38:07
+At vi har de rigtige materialer tilgængeligt.
+
+00:38:10
+Og...
+
+00:38:13
+og få dem brugt på den helt rigtige måde.
+
+00:38:17
+Og så er det simpelthen vigtigt, at vi fremover, når vi går nu i gang med nogle renoveringsprojekter, at vi tænker resiliens ind samtidig, så at vi tænker lidt mere langsigtet i den forstand, så at vi ikke pludselig står Når skaden er ved at ske.
+
+00:38:48
+Ja, jeg tænker, det var sådan set lige en kort opsummering.
+
+00:38:55
+Og så vil jeg gerne give videre til Christoffer og de mulige spørgsmål, som er i tænd.
+
+00:39:05
+Thorsten og Thomas, først og fremmest vil jeg sige tusind tak for jeres grundige præsentation.
+
+00:39:12
+Det var virkelig fedt.
+
+00:39:15
+Og til jer, der sidder derude, så er I mere end velkommen til at skrive kommentarer og spørgsmål i chat.
+
+00:39:22
+Der er kommet et i forhold til PowerPoint-præsentationen, de bliver udsendt efterfølgende.
+
+00:39:26
+Det gør de ikke, men selve optagelsen bliver sendt ud på DNNK's hjemmeside, så man kan gense dem der.
+
+00:39:34
+Jeg har et lille spørgsmål i forhold til religens og holdbarhed, kontra det, vi plejer at gøre, og så til det nye.
+
+00:39:43
+I selve projektet, gør I nogle antagelser om, hvad prisen er, når man bygger det, versus når man skal renovere?
+
+00:39:54
+Fordi jeg tænker, at nogle af de materialer, som jeg har tænkt ind her, de er dyre i første omgang.
+
+00:39:59
+Hvordan er det i forhold til, når man skal udskifte holdbarheden i forhold til renoveringsdelingen efterfølgende?
+
+00:40:07
+Jeg håber, det kan gøre meningsspørgsmål.
+
+00:40:09
+I andre er velkommen til at skrive i chatten.
+
+00:40:12
+Ja.
+
+00:40:13
+Det giver supergod mening.
+
+00:40:15
+Det er helt tydeligt, at vi arbejder med nogle materialer, som ikke er nødvendigvis gængse på markedet.
+
+00:40:23
+Nogle af de aerogels kommer først på markedet, de er stedigvæk i laborer, men inden for de næste 1-2 år vil også de være tilgængelige.
+
+00:40:35
+Vores formål med huse var at vise mulighederne.
+
+00:40:42
+Når vi bruger en MDF-plade, som vi ser her, som har de egenskaber, så er det rigtig mange gange dyre.
+
+00:40:55
+I det tilfælde er det i øjeblikket syv gange dyre end en normal MDF-blad.
+
+00:41:03
+Det, der er forskellen, er, at man selvfølgelig skal lave den regnskab og se, hvad erstatter det.
+
+00:41:13
+Når det er en materiale, som har 25-50 års garanti, Undgår mange udskiftninger undervejs.
+
+00:41:26
+Der er selvfølgelig en regnskab, man skal gøre op.
+
+00:41:36
+Der tænker jeg, at det er på sin vis også en investering.
+
+00:41:43
+Helt klart.
+
+00:41:44
+I forhold til isolering.
+
+00:41:47
+Det er en lidt mere kompliceret svar.
+
+00:41:51
+Her kigger vi selvfølgelig ind, at vi har en materiale som potentielt kan tørres ud efterfølgende, så vi ikke skal udskifte til en anden materiale.
+
+00:42:03
+Så vi sparer at købe ny materiale efter en oversvømmelse.
+
+00:42:07
+Samtidig ligger der en stor værdi i, hvis jeg kan spare mange kvadratmeter med at tage en isolering, som er meget højere isolerende Så er det både en besparelse i forhold til, når man er inde i BBR.
+
+00:42:25
+Man beregner bygningen på udvendige side.
+
+00:42:28
+Så er der nogle kvadratmeter, jeg frigør.
+
+00:42:32
+For boligarealet.
+
+00:42:35
+Og andre kvaliteter.
+
+00:42:39
+Jeg tænker, det er en spørgsmål, man kan kigge ind i.
+
+00:42:43
+Om det kan svare sig.
+
+00:42:47
+Ja.
+
+00:42:49
+Det næste projekt, når jeg har fundet ud af, hvordan det fungerer, kan jeg næsten forstå, at beregningen er der, for det tror jeg er noget af det, som både håndværk og rådgiver i hvert fald vil kigge ind i.
+
+00:43:00
+Når man så ved, at det virker, så.
+
+00:43:01
+Er det jo super godt.
+
+00:43:03
+Vi kigger ind i det.
+
+00:43:06
+Det kommer vi at gøre.
+
+00:43:08
+Projektet kører to år længere.
+
+00:43:10
+Det, der er svært, når vi arbejder med materialer, som er niseprodukter, Hvad ville der ske, hvis der var en større efterspørgsel?
+
+00:43:20
+Så ville priserne formentlig falde, så ville der være flere konkurrenter.
+
+00:43:24
+Så ville det også helt sikkert være andre priser.
+
+00:43:27
+Så det er også en momentbillede, som vi ser her og nu.
+
+00:43:32
+Selvfølgelig.
+
+00:43:33
+Der er altid noget med nischemarkeder og dyre indtil det bliver allemandsej.
+
+00:43:36
+Der er kommet et spørgmål fra Thea.
+
+00:43:39
+De nye materialer, hvordan gør de sig i forhold til isoleringen og boligen sammenlignet med andre mere traditionelle materialer?
+
+00:43:49
+På isoleringsmaterialer kan man selvfølgelig kigge på mange parametre.
+
+00:43:55
+I øjeblik er vi interesseret til at starte med at finde nogle materialer, som bliver testet for udtørringsprocessen.
+
+00:44:06
+Det er det, vi primært måler på.
+
+00:44:10
+At vi finder materialer, som kan blive udsat for vand og efterfølgende blive udtørt.
+
+00:44:20
+Og dermed beholde sin funktion.
+
+00:44:28
+Det vi ikke gør i projektet, er at kigge på andre parametre i forhold til indeklima.
+
+00:44:38
+Reelt set burde det være ikke en problem.
+
+00:44:48
+Jeg.
+
+00:44:53
+Husker, at I kan stille spørgsmål derude.
+
+00:44:56
+Hvis jeg har et spørgsmål til dig, I forhold til AR, hvordan fungerer det?
+
+00:45:02
+Hvordan ser I det brugte over i forhold til borgereinddragelse og andre aktører rundt om hele vandhåndteringsprocessen?
+
+00:45:14
+Tak.
+
+00:45:16
+For spørgsmålet.
+
+00:45:20
+Det er jo hele tiden en balance, når vi arbejder med forskellige former for teknologi og digitale teknologier.
+
+00:45:26
+Hvornår er det teknologi for teknologiens skyld, og hvornår er det faktisk, fordi det opfylder noget, som bliver efterspurgt, at det måske kan være en del af svaret på nogle af de udfordringer og problemer, man står med.
+
+00:45:41
+Noget af det, vi har hørt gennem mange år efterhånden, er at vi ligger efterhånden inde med utrolig meget viden.
+
+00:45:47
+Både om klimaforandring og udviklingen.
+
+00:45:49
+Og også de forskellige tilpasningsløsninger, muligheder og initiativer, der findes.
+
+00:45:55
+Men en gennemgående udfordring er at få den her viden og information ud til både den brede offentlighed, men også til de rigtige beslutningstager, ud til politikere osv.
+
+00:46:06
+Der tænker man stadigvæk, at det her at kunne bruge digitale værktøjer som en indgangsvinkel, er en af de redskaber, et af de greb, man bør kunne anvende bedre til at få dels bredt informationen ud, men også for folk, borgere, beslutningstagere osv.
+
+00:46:27
+til aktivt at deltage i drøftelser og debatten.
+
+00:46:30
+Der er også noget demokratisk medborgerskab involveret i planlægningen af de forskellige tilpasningsløsninger og initiativer.
+
+00:46:40
+Grunden til, at vi vælger at arbejde med de her mobilbaserede løsninger, det er, at langt de fleste mennesker i dag går rundt med et smart device i lommen eller tasken, som er oplagt at bruge.
+
+00:46:53
+Så vores fokus her, og hele bevæggrunden for, at vi bruger energi på at bygge de her digitale app-stærvelser og få bredt information ud på den ene side, og så også forsøge at skabe en mere aktiv involvering fra borgere og beslutningstager i lokalområdet, eller de pilotområder, vi arbejder med.
+
+00:47:14
+Det kan så også siges, at det kun, kan man sige, delvist er os hos VIA, Indgår i den her inddragelsesproces.
+
+00:47:24
+Det er i høj grad en opgave, som ligger ude i de lokale miljøer og områder.
+
+00:47:29
+Afhængigt af, hvordan man nu bemander de her projekter.
+
+00:47:33
+En del af processen, når vi...
+
+00:47:35
+udvikle de her løsninger, det er også, at vi fra begyndelsen er i tæt dialog med de slutbrugere, der er, og det vil sige selvfølgelig både de borgere og bebrugere i området, for hvem de her løsninger vil vedrøre, men i høj grad også de forskellige aktører, som er inde og skal være aktiv del af formidlingsprocessen.
+
+00:47:56
+Så det tror jeg, det var i hvert fald et af de svarer, som man kunne give på spørgsmålet.
+
+00:48:02
+Helt.
+
+00:48:04
+Fedt.
+
+00:48:04
+Tak.
+
+00:48:05
+Christoffer, jeg vil måske komme tilbage til det forrige spørgsmål til mig om isolering.
+
+00:48:14
+Også de forskellige funktionskrav til isolering.
+
+00:48:18
+Jeg vil måske lige påpege, at det er også meget vigtigt at forstå i forhold til huset.
+
+00:48:24
+At vi har den sådane opdeling, og at Den del af isoleringen, vi taler om, altså den særlige isolering, og måske også den meget dyre isolering, ligger netop i den udsatte del af huset, altså kun i bunden, og man der måske også kan overveje, om man differencerer ind i et hus i forhold til brug af forskellige isoleringer.
+
+00:48:52
+Fordi den største del af isoleringsmaterialet er jo stedig, kan man sige.
+
+00:48:57
+traditionelt, hvis man kan sige det.
+
+00:49:00
+En.
+
+00:49:01
+God præcisering.
+
+00:49:03
+Jeg har lige en sidste nysgerrighed, fordi nu ved jeg jo, at det her projekt er jo ikke afsluttet, og I har jo ikke alle resultaterne, og det var jo også det, der ligesom blev lagt op til fra starten af, det er, at I har haft nogle antagelser, og nu er I jo lidt inde i projektet, Thorsten, og jeg var egentlig lidt nysgerrig på, Om der er nogle ting, I er blevet mere nysgerrige på?
+
+00:49:24
+Om der er noget, I er blevet afklaret på?
+
+00:49:26
+Og nogle ting, som kunne stå op til et spørgsmål til dem, der lytter med?
+
+00:49:33
+Ja.
+
+00:49:36
+Det, der er altid meget spændende, når man laver en forskningsprojekt, er, at man sætter det i en ekstrem miljø.
+
+00:49:45
+Det er ikke hverdag, at man bygger et hus til at udsætte det for en oversvømmelse.
+
+00:49:51
+Så der sker jo rigtig mange ting, og rigtig mange ting, som vi måske ikke har lige umiddelbart set.
+
+00:50:01
+Nu fortalte jeg jo, at der var allerede 4-5 oversvømmelser.
+
+00:50:07
+Det for eksempel, man skal huske på, at der er jo rigtig mange ting, som fungerer på deres eget måde.
+
+00:50:19
+har vi fundet ud, at lige præcis på det sted, at der er en særlig strømning i vandet, som gør, at sandet bliver håbet op.
+
+00:50:31
+Så vi har en form for opgave, at gøre huset fri fra sand, for ellers er vores bund ikke fri.
+
+00:50:41
+Det var netop meningen, at det kan udtørre.
+
+00:50:45
+Og på den måde.
+
+00:50:47
+Der er hele tiden nogle ting, vi skal arbejde med.
+
+00:50:53
+Jeg vil også sige, at det er kvaliteten af vandet, som kommer ind i huset.
+
+00:50:58
+Det er ikke rent vand.
+
+00:51:01
+Det er også noget, vi kommer til at kigge ind i.
+
+00:51:04
+Hvordan vi kan optimere det.
+
+00:51:06
+Det har en påvirkning.
+
+00:51:10
+Hvis man kigger det i den store perspektiv, når man er i byer og Så er det ikke ren vand, så er der bl.a.
+
+00:51:16
+kloakvand og noget andet.
+
+00:51:18
+Så er det ikke nok, at man bare kan tørre nogle materialer ud.
+
+00:51:22
+Så handler det om, om man kan spole materialer, om man kan rense det.
+
+00:51:28
+Lidt forskelligt.
+
+00:51:29
+Så det er helt klart noget, vi kommer til at kigge ind i og komme frem til nogle svar.
+
+00:51:37
+Når det.
+
+00:51:40
+Først bliver bygget i praksis, så giver det nogle gange nogle ekstra ting, man lægger mærke til.
+
+00:51:46
+Absolut.
+
+00:51:47
+Men.
+
+00:51:47
+Det er jo spændende, kan man sige.
+
+00:51:51
+Det er.
+
+00:51:51
+Det bestemt.
+
+00:51:52
+Og mere at vide, jo bedre kan vi bygge til fremtiden og holde vandet ude.
+
+00:51:58
+Maria kommer bare lige med en kommentar.
+
+00:52:00
+Tak for en god præsentation og meget spændende.
+
+00:52:02
+Og med den kommentar, så vil jeg også sige tusind tak til jer to, Torsten og Thomas.
+
+00:52:09
+Det har været virkelig spændende.
+
+00:52:11
+Og tak for svaret på spørgsmålet.
+
+00:52:14
+Her til sidst vil jeg slutte af med en lille reklame for, at I kan gå ind og kigge på DNNK's klimakalender, hvor der ligger rigtig mange gode og spændende oplæg allerede her i januar og februar.
+
+00:52:28
+Det er både digitalt, men også live.
+
+00:52:31
+Så vil jeg ønske jer alle sammen en fantastisk dag.
+
+00:52:37
+Der kommer lige en hurtig en.
+
+00:52:39
+fra Trine her på Falderebet, Thorsten.
+
+00:52:41
+Så det vil jeg gerne holde fast i, fordi dem kan jeg godt lide.
+
+00:52:45
+Inviteres der til en opfølgning?
+
+00:52:47
+Og det tænker jeg, om vi kan lave, Thomas og Thorsten, en aftale om, at her om 2-2,5 år, når I har fået resultaterne, at vi følger op på dem?
+
+00:52:58
+Det kan.
+
+00:52:59
+Vi absolut aftale.
+
+00:53:01
+Fantastisk.
+
+00:53:05
+Med.
+
+00:53:06
+Det så vil jeg bare ønske jer alle sammen en rigtig skøn dag, og tak fordi I har lyttet med, og tak til jer to for at præsentere jeres antagelser og forløbige resultater.
+
+00:53:19
+Selv tak.
+
+00:53:20
+Ja, selv tak.
+
+00:53:22
+Hej hej.
+

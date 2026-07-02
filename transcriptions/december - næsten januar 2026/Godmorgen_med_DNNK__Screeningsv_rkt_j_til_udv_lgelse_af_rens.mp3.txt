@@ -1,0 +1,1335 @@
+00:00:12
+Godmorgen og godt nyttag til alle sammen.
+
+00:00:15
+Velkommen til årets første DNNK-arrangement, som i dag handler om rensning af regnvand.
+
+00:00:20
+Vi har 180 tilmeldinger i dag, som er virkelig flot.
+
+00:00:24
+Folk fra hele landet, og jeg tænker også med forskellige snedybde rundt omkring.
+
+00:00:29
+Her, hvor jeg sidder nu på København, er der kun 3-4 cm sne, men jeg ved, at der er mere i Jylland.
+
+00:00:35
+I dag vil Cathrine Nielsen fra Teknologisk Institut præsentere et katalog af rensningsteknologier til rensning af regnvand.
+
+00:00:42
+Og også et screeningsværktøj, der gør det muligt at lave en hurtig indsnævning af mulige renseteknologier.
+
+00:00:48
+Det er muligt at stille spørgsmål i chatten og kommentere osv., men vent lige lidt, til vi når hen mod slutningen, og så samler vi op der til sidst.
+
+00:00:59
+Det er mere for at ikke forstyrre Katrines præsentation mere højst nødvendigt.
+
+00:01:06
+Scenen og skærmen er din, Katrine. Værsgo.
+
+00:01:10
+Mange tak, og tak fordi så mange vil være og høre omkring det her emne.
+
+00:01:19
+Jeg sidder på Teknologisk Institut, som Steffen startede med at sige.
+
+00:01:23
+Hvor jeg sidder med håndtering af regnvand. Især med det her omkring rensning af regnvand.
+
+00:01:31
+Hvordan vi sikrer, at når vi leverer vores regnvand ud til vores recipienter at vi overholder de lov og regler der er.
+
+00:01:40
+Jeg har valgt i dag at præsentere omkring et screeningsværktøj.
+
+00:01:45
+Det er, som der opstod i en simulation, et meget simpelt screeningsværktøj.
+
+00:01:51
+Det vil vi se, når vi kommer frem til det. Det vil jeg starte med at sige, at det er meget simpelt.
+
+00:01:58
+Men vi synes også, at det virker til det, vi gerne vil have det til at virke indenfor.
+
+00:02:05
+Det vi kommer igennem her.
+
+00:02:09
+Den her morgen vil jeg starte med at give et historisk tilbageblik på de tanker, der har været omkring rensning af regnvand.
+
+00:02:19
+Så vil jeg komme lidt ind på nogle forskellige afgørelser eller tiltag, der har været igennem årene, som har haft en stor indflydelse på rensning af regnvand.
+
+00:02:29
+Til sidst vil jeg præsentere det her katalog, som Steffen nævnte, over rensningsteknologier og gå lidt mere ind i dybden omkring Hvordan det er, at det er bygget op, og så vise CV-kataloget.
+
+00:02:43
+De to første punkter er vigtige at have med i historikken omkring.
+
+00:02:51
+Hvorfor det er, at vi har lavet det her værktøj.
+
+00:02:53
+Det er derfor, jeg har valgt at tage de her to punkter med.
+
+00:02:58
+Jeg oplever til daglig i mit arbejde, når jeg sidder med folk.
+
+00:03:03
+Om det er fra myndighedssiden, rådgiversiden eller præsenternes siden. At der stadig er en...
+
+00:03:11
+Ikke en misforståelse, det er ikke det, jeg vil ind i.
+
+00:03:16
+Men folk har svært ved at forstå, hvorfor det er problematikken.
+
+00:03:20
+Den kan være lidt udfordret en gang imellem. Der ligger rigtig meget historik i det.
+
+00:03:28
+Jeg oplever, at når man har fået en bedre forståelse for historikken, så forstår man også, hvorfor vi har de udfordringer, vi har.
+
+00:03:39
+Jeg har taget det med i dag. Derfor synes jeg, at det er en vigtig del af det. Rensning af regnvand.
+
+00:03:49
+Der er som sagt en historik bagved.
+
+00:03:52
+Nogle gange snakker vi regnvand generelt, men andre bruger udtrykket afstrømmet regnvand.
+
+00:03:58
+Jeg bruger det også lidt i flængde, og håber ikke, at det forstyrrer for meget.
+
+00:04:03
+Historikken viser, at hvis man bruger Meget langt det, tilbage var det med rensning af regnvand ikke et stort fokus.
+
+00:04:11
+Der var noget fokus på, at vi havde noget regnvand, vi skulle tilbageholde.
+
+00:04:16
+Det gjorde vi blandt andet baseret. Op igennem nullerne og de her tider, som vi næsten har forladt.
+
+00:04:24
+Der har været rigtig meget fokus på, hvad det var for stoffer, der var til stede i regnvand.
+
+00:04:31
+Hvor kom de fra? Hvilke konstitutioner så vi i dem?
+
+00:04:35
+Var der forskel på konstitutionerne, om vi gik et sted til et andet?
+
+00:04:39
+Hvilket oplandet regnvand kom fra, og hvilke overflader løb et år?
+
+00:04:46
+På den måde byggede vi en stor viden op omkring, især hvad vi så af stoffer i regnvandet.
+
+00:04:54
+Igennem de her år. Det blev gjort igennem en masse forskellige projekter.
+
+00:05:02
+Der blev blandt andet udfundet forskellige universiteter.
+
+00:05:06
+Det var også kvæg af, at man havde på det daværende tidspunkt, lidt ligesom DNK.
+
+00:05:11
+En nationalt samlingsprojekt, eller et netværksprojekt, der hedder Vandbyer.
+
+00:05:17
+Hvor man havde en gren, der handlede omkring det her vendkvalitet.
+
+00:05:23
+Dengang blev vi meget klogere på, hvad det var for stoffer, vi så derude.
+
+00:05:29
+Man fik meget viden omkring. Nogle gange kunne vi håndtere nogle stoffer.
+
+00:05:35
+Det var også her, man begyndte at kigge meget omkring det her. Nedsivningsanlæg, laranlæg.
+
+00:05:42
+Og have fokus på, hvilke stoffer der kom ind og ud af sådan nogle anlæg.
+
+00:05:46
+Generelt begyndte vi at få større interesse for, hvad der var i vores regn.
+
+00:05:56
+Det her med håndtering af regnvand og rensning, har i mange år været håndteret.
+
+00:06:03
+Det er vigtigt at have det med omkring regnvandsbesikkerne.
+
+00:06:07
+Det har været den primære metode til at håndtere regnvand på.
+
+00:06:11
+Det har været den, når man har vælget sin måde at håndtere volumene, men også hvordan man ville rensne sit regnvand.
+
+00:06:19
+Så var det den løsning, man tog ned fra hylden. Det er den, der har været...
+
+00:06:25
+brugt rigtig meget igennem årene. Regnvandsbassinerne kan rigtig mange ting.
+
+00:06:32
+Jeg kommer ikke til at sidde her og udskille regnvandsbassinerne. De kan rigtig mange ting.
+
+00:06:38
+De kan håndtere rigtig store mængder vand.
+
+00:06:42
+De bidrager helt klart også til at rense noget af det her regnvand.
+
+00:06:47
+Ligesom nogle af de andre teknologier, vi kommer til at kigge på senere, har regnvandsbassinerne og deres udfordringer Det er det, man skal tage med, når vi arbejder med de forskellige teknologier.
+
+00:07:00
+Vi skal vælge den teknologi, vi gerne vil arbejde med fremadrettet.
+
+00:07:04
+Den teknologi, der gerne skulle håndtere vores regnvand.
+
+00:07:07
+Så har de alle fordel, og de har begrænsninger. Det skal man gøre sig klar over for. Det har de.
+
+00:07:17
+Det her med, at bassinerne har været den primære.
+
+00:07:22
+Det har haft stor betydning for, hvordan vi ser på rensning af regnvand.
+
+00:07:29
+Og hvordan vi udvælger de forskellige teknologier. Det er kvag af, at der er noget histori i det.
+
+00:07:37
+Der er noget af det, vi kender. Vi ved, hvad sikkerhederne er.
+
+00:07:40
+Vi ved, at de fungerer på den måde, de fungerer. Derfor holder vi ofte fast i det, vi kender.
+
+00:07:49
+Samtidig med, at vi har fået mere fokus på, hvilke stoffer vi har til stede i vandet.
+
+00:07:58
+Og hvilke stoffer vi skal være opmærksomme på.
+
+00:08:02
+Så blev der begyndt at sættes spørgsmålstegn til, hvor godt de her bassiner er anset.
+
+00:08:08
+Så var der det store problem af rigtig mange steder. Nu sidder jeg selv i Tostrup.
+
+00:08:14
+Herovre i hovedstadsområdet, gik der i løbet af de her år med op igennem nullerne.
+
+00:08:20
+Man blev opmærksom på, at der var mange steder, hvor der ikke var plads.
+
+00:08:26
+Derfor begyndte man at kigge ind i andre løsninger til at rense regnvandet.
+
+00:08:33
+Som kunne fungere og rense det. Så vi var tilfredse med, hvordan vi ønskede at rense regnvandet.
+
+00:08:43
+Når man kigger på det, så har vi I Danmark er det selvfølgelig en lovgivning, der skal overholdes.
+
+00:08:51
+Der sidder sikkert rigtig mange af jer derude, som ved rigtig meget om lovgivningsstof.
+
+00:08:58
+Og helt sikkert også vil kunne udfordre mig i det. Men en ting er helt klart.
+
+00:09:03
+I Danmark har vi en historik med en lovgivning, som jeg har skrevet her.
+
+00:09:08
+En lovskreve, den er meget interessant.
+
+00:09:11
+Den bidrager også i tider til mange dialog og mange forskellige debatter.
+
+00:09:17
+Men en ting er helt skudt fast, det er, at vi har en miljøbeskyttelseslovgivning, som siger, at vi skal værne om naturen og vores miljø, for bevarelse af dyreplantering.
+
+00:09:31
+Det vil sige, at når vi foretager os et eller andet, der har effekt på naturen, så skal vi beskytte det.
+
+00:09:38
+Derudover har vi det her vandrammedirektiv, som også er fastlagt. At vi skal beskytte vores vanddyr.
+
+00:09:47
+Det er både vandløbsøger, overgangsvand, høstvand og grundvand.
+
+00:09:53
+Der har gennem årene været en helt klar linje om, at når vi håndterer regnvand, så skal vi passe på vores miljø.
+
+00:10:04
+Derudover har vi, som mange af jer er bekendt med, en bekendtgørelse fra 1433, som handler om, hvad man skal være med at gøre.
+
+00:10:13
+Hvordan man skal håndtere udledning af vand. Til vores vandløb.
+
+00:10:20
+Det er en bekendtgørelse, der kommer af det her vandram.
+
+00:10:25
+I den bekendtgørelse, og det er der, hvor jeg mener, at vi har en lovgivning, der bidrager til interessante dialoger.
+
+00:10:35
+Der har vi, at de her almindelige belastede separate ejvandsudledninger, De er undtaget af den her begætgørelse.
+
+00:10:47
+Tilbage i det her regi, hvor vi snakkede om de forskellige stoffer vi så i regnvandet gennem de seneste mange år.
+
+00:10:56
+Det er ofte sådan, at vi snakker om, at det her almindeligt belastede overfladevand, hvad var det?
+
+00:11:03
+Det blev antaget som om det var i ofte travvand, så begyndte man i en periode at tage Bekæmpningspladserne, men det blev aldrig defineret, og det er det stadig ikke.
+
+00:11:14
+Så vi har noget at gøre med vand, så man kan sige, at hvis vi tager udgangspunkt til 1433, så skal det ikke umiddelbart håndteres under lovgivningen.
+
+00:11:28
+Hvor der også er skrevet ind, at når vi skal rense vandet og lade ud, så skal det renses til det her begreb, bedst tilgængelig teknologi.
+
+00:11:39
+Hvad? Tilbage til, at vi har vores miljøbeskyttelseslov og vores vandremmetirektiv.
+
+00:11:45
+Det gør, at vi ikke er undtaget for, at det almindelige belastet regnvand bliver renset.
+
+00:11:51
+Vi har også en indsatsbekendtgørelse, som vender tilbage til vandremmetirektivet, som siger, at vi ikke må ødelægge de målerfølser, vi har.
+
+00:12:02
+I vores mål om at nå vandremmetirektivet.
+
+00:12:07
+Ligegyldigt hvad det er for vand, om det er tagvand, parkeringspladser eller større arealer.
+
+00:12:16
+Så skal vi hele tiden have i minde, at vandet skal renses.
+
+00:12:21
+Det skal måske ikke renses, men bare sørge for, at det ikke forbringer vandet.
+
+00:12:29
+Det er det, der gør, at når vi arbejder med det her, skal vi rense regnvandet.
+
+00:12:37
+på en eller anden måde.
+
+00:12:40
+Jeg har prøvet at sætte den her tidslinje ind, bare lige for at tage nogle af de her vigtige hændelser med, der har været undervejs.
+
+00:12:51
+Jeg startede med at snakke om, at vi har haft Miljøbeskyttelsesloven, som starter helt tilbage i 70'erne, som siger, at vi skal blive fokusere på naturen.
+
+00:13:00
+Så fik vi Vandremmen-diktiet tilbage i slutningen af 2000, som gik ind og sagde, at vi skulle overfladevand, søer, grundvand og afvand.
+
+00:13:13
+Det er det, vi prøver at arbejde med i dag.
+
+00:13:16
+Nu har jeg snakket meget om bassiner, og jeg har også snakket om det her bandbegreb.
+
+00:13:21
+I 2012 kom der en afgørelse fra det daværende Natur- og Miljøkranium, som sagde, at hvis man lavede et bassin efter en forskrift, der bindes i et faktablad, Så kunne det i det her tilfælde, som den case, hvor bassinet var placeret.
+
+00:13:45
+Der kunne man antage det som bedre. Det har gjort, at den her afgørelse er tilbageførstået.
+
+00:13:53
+Det er ikke nogen hemmelighed, men det har gjort, at bassinet har været den foretrækende teknologi at vælge til at rende til sit regnvand.
+
+00:14:05
+I skal huske på, at der stod i begyndelsen 1433, at vi skal rente vandet tilbage.
+
+00:14:11
+Når der ligger en afgørelse, som siger, at hvis man har et bassin der er ude fra den her kage, så kan det bassin bruges, så danner det ret hurtigt en tendens til, at man vælger bassinerne.
+
+00:14:24
+Fordi det er det, man kender til, og man har også en afgørelse, der siger, at bassinerne kan betegnes som vand.
+
+00:14:33
+Det gjorde, at siden den kendelse blev afgivet, at der selvfølgelig har været en lang periode, hvor man har arbejdet rigtig meget med at lave bassiner.
+
+00:14:45
+Som jeg snakkede om tidligere, så opstod der også i samme periode en udfordring nogle steder med, at man ikke havde plads til de her bassiner.
+
+00:14:53
+Det medførte, at i 2020, der blev oprettet en netværk, der hedder projektnetværket vandkvalitetsdebatter.
+
+00:15:06
+Der kommer meget mere ind på, hvad vi laver i de her netværk.
+
+00:15:09
+Men det var simpelthen det her med, at vi havde manglet et sted, hvor man kunne diskutere nogle af de her ting omkring betænknerne, og omkring de her andre teknologier.
+
+00:15:21
+Så frem mod 2026, hvor vi er i dag, der ved jeg godt, der har været en hel masse andre afgørelser i de her glade nævnte Som siden hen har stor betydning for, hvordan vi i dag håndterer regnvandet.
+
+00:15:36
+Og hvordan vi håndterer regnvandet fremadrettet.
+
+00:15:40
+Men det her med kataloget, som er blevet lavet, og det her screeningsværktøj.
+
+00:15:46
+Det binder tilbage på, at vi i denne periode fra 2012 og fremadrettet.
+
+00:15:52
+Stod og havde udfordring med, at bassiner altid blev valgt.
+
+00:15:57
+Ud fra at man havde haft en erkendelse, og andre teknologier havde svært ved at komme ind på markedet.
+
+00:16:04
+Og man havde svært ved at få en udledningstilladelse til de andre teknologier.
+
+00:16:10
+Som sagt, det her projektnetværk, Bank Kvalitet Matter, blev oprettet i starten af 2020.
+
+00:16:25
+Hvor man ønskede at skabe fokus på dokumentation af renseløsninger til regnavstrøm.
+
+00:16:31
+Det vil sige, at netværket blev oprettet, for at man kunne have et forum, hvor man kunne snakke om de udfordringer, der var, når man gerne ville bruge en anden løsning.
+
+00:16:43
+Til jer, der ikke har været med fra starten af omkring alt det her, så skal man tænke det sådan her, at hvis jeg kom og ville have noget andet end en renseløsning til at rense i mit overfladeværk, Så var det rigtig svært.
+
+00:16:58
+Det var svært at få en udledningstilladelse.
+
+00:17:02
+Der gav tilladelse til, at jeg måtte sætte en teknologi til at rense med.
+
+00:17:09
+Det kan være svært at få en udledningstilladelse, end det var for nogle år tilbage.
+
+00:17:14
+Dengang havde vi ikke noget at forholde os til. Man vidste ikke, hvordan man skulle gribe det andre.
+
+00:17:24
+Det var udgangspunktet for det her projektnetværk.
+
+00:17:27
+Det var at kigge på, hvordan udfordrede vi det her vatbegræb, der var indskrevet i 1433, og regnvindsbassinerne, så det blev lettere at benytte de forskellige renseteknologier.
+
+00:17:44
+Der var helt klart et mål og et ønske om at skabe retningslinjer for, hvordan de forskellige renseløsninger, dokumenteres, så man fik en følelse af, at man fik meget mere viden omkring det.
+
+00:17:59
+Men også, at man vidste, hvilke teknologier man havde forhold til.
+
+00:18:05
+Dengang i 2020 havde vi et ønske om at lave et katalog over de forskellige renseteknologier.
+
+00:18:13
+Så man kunne stå op og kigge i, hvilken teknologi fungerer bedst.
+
+00:18:23
+Det har vi arbejdet på siden da, og det har været en lang proces.
+
+00:18:29
+Vi er kommet frem til noget, jeg håber, I andre vil bruge fremadrettet.
+
+00:18:36
+Det er ikke sådan, at netværket stopper med at arbejde her. Vi arbejder videre på forskellige ting.
+
+00:18:42
+I dag består netværket af 34 medlemsorganisationer.
+
+00:18:47
+Som er fordelt mellem kommuner, forsyninger, rådgivere og producenter.
+
+00:18:52
+Vi er hele vejen rundt, når vi snakker om de forskellige ting i netværket.
+
+00:18:58
+Det gør også, at netværket indeholder en stor hvide, men også en stor erfaring inden for regnvandscentralen.
+
+00:19:05
+De folk, der repræsenterer de forskellige organisationer.
+
+00:19:09
+Dem, der sidder med det her arbejde til daglig og oplever de udfordringer eller de mulige løsninger, de finder til.
+
+00:19:19
+At de kan komme videre med det. og for at håndtere deres regnværk.
+
+00:19:25
+Og netværkets overordnede mål er at det arbejde, den viden vi har i netværket, den bliver brugt til at forbedre de arbejdsgange, der er i branchen.
+
+00:19:42
+Jeg har sat linket ind her til hjemmesiden, hvor netværket er hosted.
+
+00:19:46
+Jeg ved godt, at den er frygtelig lang, men man kan også godt google sig frem til netværket.
+
+00:19:52
+Vi kommer også ind på hjemmesiden, og jeg skal vise katalogen.
+
+00:19:56
+Det første, som det her netværk satte sig ned og gjorde, det var at sige, som jeg sagde heroppe, at man ville gerne udfordre det her med, at man Man ville have nogle teknologier mere i spil, og man ville rigtig gerne lave et katalog over de forskellige renseløsninger.
+
+00:20:16
+Det er ikke nogen hemmelighed, at det er tilbage i 2020, og også før det.
+
+00:20:23
+Der er andre, før netværket, der har arbejdet på at lave forskellige kataloger over de her renseteknologier.
+
+00:20:31
+Dog var der fortsat et ønske for medlemmerne om, at der var et katalog, Og nogle af de ting, der kom frem dengang, hvorfor det var, at de kataloger, der fandts på markedet, ikke var...
+
+00:20:45
+Eller man ønskede, at et andet katalog, det var. En ting var ikke klart.
+
+00:20:50
+Det skulle være frit tilgængeligt. Alle skulle have mulighed for at komme ind og se det.
+
+00:20:55
+Det her med, at der lå nogle kataloger, nogle forskellige steder, som nogen havde udviklet, som ikke alle havde adgang til, det synes man var rigtig ærgerligt.
+
+00:21:03
+Så det var det her med, at... at det skulle være et frit tilgængeligt værktøj.
+
+00:21:09
+Så var der også noget omkring troværdigheden i det.
+
+00:21:11
+Den baggrundsinformation, der lå i de forskellige kataloger.
+
+00:21:15
+Det var ikke, fordi man ikke troede på det, men der var alligevel en midtid, men der manglede noget troværdighed til de forskellige kataloger.
+
+00:21:24
+Så var der noget omkring den måde, informationen omkring de forskellige teknologier var opsiddet på.
+
+00:21:31
+Det var ikke operationelt nok, så man ønskede især det her med, meget ensretning af de her forskellige informationer, hvordan de blev præsenteret, og hvilke informationer der blev præsenteret.
+
+00:21:46
+Og så var det helt store spørgsmål dengang, og det er det måske også stadigvæk, det var, at når der blev præsenteret forskellige testresultater, altså hvor godt de her forskellige teknologier performede, så de tester lå til baggrund for resultaterne.
+
+00:22:06
+Dem var man ikke altid helt sikker på.
+
+00:22:10
+Ikke sagt, at der var lavet noget forkert, men de var måske ikke altid lavet ens.
+
+00:22:15
+Og det er jo ikke en hemmelighed, at hvis man har en ubildt til at udføre en test for, så står den stærkere, end hvis man som sælger eller producent eller et andet ikke selv laver testen.
+
+00:22:25
+Så det var noget af det, der var rigtig meget.
+
+00:22:27
+Fokus på det var at sige, at de her tester, der bliver lavet, skal vi være sikre på, at de kan stå mod det, vi kommer til at give tilladelse til.
+
+00:22:37
+Så der var ligesom de her tre overordnede rammer for, hvordan man ønskede, at kataloget skulle se ud.
+
+00:22:48
+Det her med testen var ret vigtigt, så det kastede netværket sig over.
+
+00:22:57
+Noget af det første, at man sagde, at hvis vi skal have et katalog med nogle produkter, der er blevet testet, så skal vi også have en holdning til, hvordan de forskellige produkter skal testes.
+
+00:23:12
+Som sagt var der mange forskellige måder på, hvordan de forskellige teknologier er blevet testet.
+
+00:23:20
+Selvfølgelig er der nogle grundprincipper, når man arbejder med de samme teknologier, Det er vand, vi skal have igennem, der skal kigges på forskellige ting, og så skal vi se, hvor meget det kan tilbageholde.
+
+00:23:31
+Der er nogle ting, der var ens, men der kan være meget forskel på, hvordan man udfører testerne.
+
+00:23:38
+For eksempel, hvordan man tilsætter en tester.
+
+00:23:42
+Så det var det netværket sat sig ned og ville starte med at sige, at i stedet for, at vi har en stor frugtskur blandet med alle mulige forskellige bærer, bananer, jordbørn Blandet sammen i en pæremænding, så vil vi gerne have det strømlignet.
+
+00:23:58
+Vi vil gerne komme med et forslag til, hvordan man kunne udføre sådan en test. Så.
+
+00:24:09
+Netværket tog fat i og sagde sig selv og stillede nogle krav om, hvordan ville man acceptere, hvis en test blev udført.
+
+00:24:18
+Hvad var det for nogle krav, man lavede i sådan en test, for at den var god nok til, at resultaterne kunne indgå i et katalog.
+
+00:24:27
+Der blev bl.a. stillet krav om, hvem der måtte udføre eller gennemføre testene.
+
+00:24:32
+Der blev stillet krav til, hvilke testmedier der skulle anvendes i form af hepatitler og kemiske stopper.
+
+00:24:40
+Så blev der stillet krav til flow-hastigheder. Og antallet af prøver, der blev taget i lyset.
+
+00:24:49
+Nu skal det være at sige sådan, Jeg har igennem det arbejde, jeg går og laver og den tid jeg har været på Teknologisk Institut set rigtig mange forskellige tests.
+
+00:24:58
+Udført på forskellige anlæg og på forskellige... Teknologier til at håndtere regnvand.
+
+00:25:09
+Meget ofte ligger vi inden for den samme skala af, hvordan testene bliver udført.
+
+00:25:15
+Men det sker også, og det må jeg også sige.
+
+00:25:18
+Det sker også, at vi får nogle tests ind, hvor vi ligger meget langt fra, hvad vi forventer de her teknologier bliver testet.
+
+00:25:28
+Derfor var det rigtig godt, at netværket tog fat om det her.
+
+00:25:33
+Og arbejdet med at sige, at hvis vi skal lave en test, hvordan skal vi så gøre det?
+
+00:25:38
+Det netværket er taget skridtet videre med, end hvis man har en standardtest.
+
+00:25:43
+Det er, at vi deler denne test op i to forskellige tests.
+
+00:25:48
+Vi har en laboratorietest, og vi har en felttest. Jeg kommer ikke meget ind på de forskellige tests.
+
+00:25:56
+Her har vi fokus på laboratorietesten, for det er den, der er det første step til at kigge på det her produkt.
+
+00:26:06
+Virker det, eller virker det ikke?
+
+00:26:10
+Det er også det, I skal tage med jer, når I kigger på de her testresultater.
+
+00:26:16
+Det er at sige, at det er et proof of concept. Vi har en teknologi, der er bygget op på en måde.
+
+00:26:24
+Teknologien er lavet til at rense det på en måde. Virker den, eller virker den ikke?
+
+00:26:30
+Det er meget farligt med de her teknologier at lave en til en sammenlignelse omkring testresultaterne.
+
+00:26:36
+Der er to årsager.
+
+00:26:38
+Den ene er, at det er laboratorietest, der bliver udført inden for meget faste rammer.
+
+00:26:46
+Det her med at trække det ud til virkeligheden efterfølgende.
+
+00:26:52
+Det er ikke de samme tal, I altid vil forvente, at I kan se derude.
+
+00:26:57
+Det er for at vise, at de her teknologier kan godt leve op til, at de kan Tilbagehold i de her partikler, som vi er interesserede i at kigge på.
+
+00:27:11
+Man skal også tænke på, at når vi tester på de her anlæg, så er der selvfølgelig en grænse for, hvor store anlæg vi kan teste på.
+
+00:27:23
+Der er ikke mange liter vand, vi sender igennem sådan nogle anlæg.
+
+00:27:26
+Nogle gange skal vi have så store mængder vand, at vi næsten ikke...
+
+00:27:30
+Selvom vi i vores laboratorium Det kan komme op på 20 liter pr. sekund.
+
+00:27:36
+Hvis ikke der er mængden, så er der grænser for, hvor højt man kan komme op på liter pr.
+
+00:27:46
+sekund i de forskellige laboratorier, der findes rundt om i verden.
+
+00:27:51
+Den anden del er en feltest, hvor man går ud og har placeret Teknologien ude i felten er en del af et eksisterende system, og man begynder at teste på at se, når man har et normalt regnvejr, hvordan det her anlæg fungerer.
+
+00:28:13
+Når jeg kommer til at præsentere det her katalog og screening-search, så vil I se, at der ikke er ret mange, der har lavet de her felttester endnu.
+
+00:28:23
+Det er noget, vi arbejder benhurt på at få flere tester af. Det tager lang tid med fældtesterne.
+
+00:28:29
+Der er stillet krav om, at der skal indhentes ti prøver over et år. Altså fordelt over et år.
+
+00:28:36
+Derfor er der krav til, at det er et års information, man får på den her anlæg.
+
+00:28:47
+Eller teknologi, så man får års variationer. Kvæg af, at der ikke har været givet ret mange.
+
+00:28:55
+udledningstilladelser, hvor de her teknologier har været placeret i.
+
+00:28:58
+Så går der noget tid selvfølgelig, inden vi får den her information.
+
+00:29:03
+Men tilbage til laboratorietesten.
+
+00:29:06
+Så hvordan der bliver udført i et laboratorium eller et andet sted.
+
+00:29:11
+Jamen der stillede vi de her forskellige krav op.
+
+00:29:15
+Selve vejledningen ligger også inde på det samme hjemmeside, som jeg har linket til tidligere.
+
+00:29:22
+Og der var simpelthen De her krav er, at når der er blevet testet, eller hvis der var en test, der var gennemført, så skulle der være en tredje part indover.
+
+00:29:30
+Det vil sige, at når en producent har et produkt, så skal der være en tredje part indover, og vi har stillet krav op af den her tredje part, det er enten GTS-institut eller en vidensinstitution, som er med til at validere de resultater, der ligger, men også er med til at validere, om testen er lavet for den her vejledning.
+
+00:29:50
+Så stiller vi op i, Det er en hård krav til de partikler, der bliver benyttet, når vi kigger på tilbageholdelse af partiklet.
+
+00:29:59
+At det er den her type silica. Eller en anden materiale, der har den samme densitet.
+
+00:30:07
+Der er også krav til, hvor store de partikler, der må bruges som testmedie, skal være.
+
+00:30:14
+Det er for, at man ikke kan komme ind og teste sit anlæg på grus. Så vil man få en...
+
+00:30:21
+En meget højere rensegrad, fordi roset vil bundfalde hurtigt.
+
+00:30:27
+De her partikler skal siges, det er dem på markedet, der findes, som...
+
+00:30:33
+Man siger, minder mest om den partikelmateriale, man finder i regnavstrømmen.
+
+00:30:42
+Der er selvfølgelig ikke noget, der afviger fra det, men det er det, man finder.
+
+00:30:48
+Der er selvfølgelig også et krav til...
+
+00:30:51
+Hvis man skal lave test på de kemiske stoffer, det er især når man har anlæg, man kan sorbere.
+
+00:30:57
+Det skal siges, at de her to test bliver altid lavet adskilt.
+
+00:31:00
+Så enten laver man en optikeltest, og så laver man en test på kemiske stoffer bagefter.
+
+00:31:07
+Eller man laver den ene eller den anden. De bliver aldrig lavet samtidig.
+
+00:31:12
+Så er der krav til flow-hastigheder, man tester ved.
+
+00:31:18
+Der er krav til, at anlægget testes mod fordelt.
+
+00:31:22
+Det vil sige, at det flow, den er bygget til, bliver stolt af.
+
+00:31:26
+Men også et lavere flow og et højere flow. For at få en viden om, hvordan der bliver tilbageholdt.
+
+00:31:35
+Hvis det er konstitutioner af partikler, der bliver tilbageholdt.
+
+00:31:40
+Og selvfølgelig det samme for biokemiske stoffer.
+
+00:31:43
+Så er der en høj krav til, at der er mange prøver, der bliver taget.
+
+00:31:48
+Og det er, at der for hver flow, Bliver udtaget minimum tre prøver, og af de forskellige teknologier.
+
+00:31:57
+Det man gør, er at man har en udskiftning af vandet i anlægget.
+
+00:32:02
+Så man simpelthen, gennem sin test, tager man en prøve hver gang man har udskiftet det vand, der er i anlægget.
+
+00:32:09
+Det jeg ikke har skrevet på, er, at der også bliver lavet en resuscitationstest.
+
+00:32:16
+Så alle de partikler, man har tilbageholdt inde i anlægget Dem tester man, om man kan flushe ud igen.
+
+00:32:24
+Ved et højere flow, hvis man står ind i sit flow på anlægget. Det modtager rigtig meget.
+
+00:32:31
+Man har en god viden omkring, hvor meget der bliver tilbageholdt ved forskellige flow.
+
+00:32:37
+Men også, om det bliver ind i anlægget, når vi kommer et ekstra røg.
+
+00:32:42
+Det er de principper, man kan sige, den her test stiller krav til som udgangspunkt.
+
+00:32:51
+Og det er de resultater, som kataloget også fremvidte.
+
+00:32:56
+Hvis man kigger tilbage på, hvad var det, netværket gerne ville have med det her katalog?
+
+00:33:03
+Jamen, det var et troværdigt katalog.
+
+00:33:06
+Kataloget er i dag placeret på Teknologisk Instituts hjemmeside.
+
+00:33:10
+Vi sidder som uvildige omkring det, men det er os, der borgser det.
+
+00:33:15
+Der er en helt klar retningslinje for, at De produkter, der kommer ind i kataloget, er ikke et reklamekatalog.
+
+00:33:23
+Det er et produktkatalog, som beskriver, hvad produkterne kan. Ikke det her med Vibest Market.
+
+00:33:31
+Men fokus er på, hvad produkterne kan. Så er der det her med testresultaterne.
+
+00:33:37
+Der var ønske om, at de resultater, der blev præsenteret, var godkendte.
+
+00:33:43
+Og lavet dem for et standard. Et værk, vi valgte selv.
+
+00:33:48
+lave den her standard test, og stille de krav, vi vil have på de resultater, der bliver præsenteret i katalogen.
+
+00:33:57
+Og så var der den her sidste del omkring information om de forskellige teknologier, og hvor operationelle de var.
+
+00:34:07
+Så det var ligesom det sidste, som netværket har kastet sig ud i, og det må jeg ærligt indrømme, at når man laver sådan et katalog, og man spørger ud i sine arbejdsgrupper, Hvad er det egentlig for nogle informationer, I gerne vil vide om de forskellige teknologier?
+
+00:34:23
+Så er der mange ønsker. Her er der bare en brutto liste over de ting, som vi rigtig gerne vil vide.
+
+00:34:33
+Vi vil gerne vide om de forskellige anlæg og teknologier, der var på markedet for at kunne udvælge, når man skulle begynde at sidde i byen.
+
+00:34:44
+Der var rigtig mange geologer frem og tilbage omkring, hvad der var muligt og hvad der ikke var muligt.
+
+00:34:50
+Vi kørte det over flere runder, hvor vi som sagt havde en brudselliste.
+
+00:34:54
+Så prøvede vi at skælge op og skælge herned.
+
+00:34:57
+Hvilken information skulle vi bruge, hvilken information skulle vi ikke bruge.
+
+00:35:00
+Og ret hurtigt stod det klar, at information, der indeholdt noget med tid og penge, de er rigtig svære at holde op imod hinanden.
+
+00:35:10
+Det er sådan, at selvom Danmark er et meget lille land, så koster noget en ting i Jylland og noget andet på Sjælland eller på Fyn eller på Bornholm.
+
+00:35:18
+Så det her med at skrive om, ikke så meget hvad produktet koster, men spørgsmål omkring, hvad koster driften per år per hektar.
+
+00:35:30
+Det måtte vi hurtigt indse, at det kunne man ikke lade sig gøre.
+
+00:35:33
+Det samme med, hvor mange mandetimer skal man bruge på at installere anlægget.
+
+00:35:37
+Det kan også være rigtig forskelligt fra sted til sted.
+
+00:35:41
+Det vi gjorde var, at vi satte os ned og sagde, hvad er de vigtigste parametre, vi gerne vil vide noget om, som kan hjælpe os videre med det her katalog.
+
+00:35:52
+Og der kom vi fra til, at der var de her, I kan se her. Der var noget med produktets formål.
+
+00:36:03
+Når vi snakker om produktets formål, så har vi delt produkterne op i de her teknologier, og vi har fokus på at fjerne artikler.
+
+00:36:10
+eller om de også har fokus på at fjerne opløste stoffer.
+
+00:36:14
+Så er der sådan en her, der hedder fokusstoffer, som vi lige nu arbejder lidt mere med, som handler om, hvad er det for nogle stoffer, som er takkestoffer.
+
+00:36:26
+Det er, hvis det er partikler, så er det partikler.
+
+00:36:29
+Der er jo selvfølgelig også de stoffer, der er bundet til partiklerne.
+
+00:36:35
+Og så er der det her med de opløste stoffer, der er nogle af de her teknologier, der har meget fokus på en for og for.
+
+00:36:40
+for opløsningsstof og andre har på nogle andre.
+
+00:36:46
+Der skal vi præcist have fundet ud af, hvordan vi præsenterer på bedst mulig vis.
+
+00:36:51
+Så var det især det her med, om produkterne var testet i henhold til vejledning.
+
+00:36:56
+Det er meget ja-nej spørgsmål, men det giver en mulighed for at selektere mellem de forskellige teknologier.
+
+00:37:06
+Der var også et ønske om, om der lå cases.
+
+00:37:09
+Lå der allerede udledningstilladelser eller steder, de her teknologier blev anvendt.
+
+00:37:14
+Sådan noget med, om anlægget skal graves ned eller ikke. Det er også af stor betydning.
+
+00:37:20
+Så ville man gerne vide omkring, om de her forskellige produkter, de kan blive...
+
+00:37:27
+Deres rensegrad kan øgesvæmme af, om der er mulighed for at sætte de her forskellige flokalenter til.
+
+00:37:35
+Sådan noget som trafiklast var også rart at vide, om man kan tåle trafiklast.
+
+00:37:41
+Efter hvor de kan placeres. Så har der været fokus på, hvor ofte de forskellige anlæg skal driftes.
+
+00:37:51
+Det er et spørgsmål om kroner og euro. Så har vi indført, at man kan få indskrevet det her magtslov.
+
+00:38:00
+Nogle af anlæggene har noget at gøre med, hvor stor man kan opskille dem.
+
+00:38:04
+Nogle af dem findes i de størrelser, de har. Der arbejdes selvfølgelig på flere parametre.
+
+00:38:12
+Noget af det, vi arbejder rigtig meget på, er materialer og CO2-bæredygtighed.
+
+00:38:18
+Det ved vi, at der er rigtig meget at hente.
+
+00:38:21
+Det gjorde, fordi vi fik lavet den her liste, at vi fik den her information, som vi rigtig gerne ville have til at arbejde videre med.
+
+00:38:34
+Nu tænker jeg, at I rigtig gerne vil se det her, til dem af jer, der ikke har set kataloget endnu.
+
+00:38:41
+Og screeningsværktøj.
+
+00:38:42
+Som sagt er der tale om et meget simpelt Excel-ark, når vi kommer ind og kigger på det her screeningsværktøj.
+
+00:38:49
+Jeg skal lige gøre mærksom på, at vi sammenligner eller brancherer de forskellige teknologier.
+
+00:38:57
+Det er ikke en facit-liste, men det er en måde at få en inspiration til, hvilken teknologi, man kan arbejde videre med.
+
+00:39:06
+Det er det information, der ligger i kataloget, som er trukket videre ind i Excel-arkivet.
+
+00:39:12
+De kommer fra producenterne.
+
+00:39:15
+Der kan godt være forskel på, hvor meget information netværket har modtaget om de forskellige teknologier.
+
+00:39:22
+Jeg opfordrer jer, der sidder derude, hvis der er en teknologi, I synes mangler noget, så må I meget gerne tage fat i producenten og sige, Sørg for at få det ind, fordi vi har brug for den her lide.
+
+00:39:34
+Og så arbejder kataloget ud fra en tilgang om, at man kan kigge ind i det på to forskellige måder.
+
+00:39:41
+Enten så har man et ønske om at søge efter forskellige teknologier ud fra de forskellige parametre.
+
+00:39:48
+Eller også så kender man til en teknologi i forvejen, og ønsker at få information omkring den, eller ønsker at gå ind og læse omkring den.
+
+00:39:57
+Nu skulle I Alle sammen gerne kunne se denne her hjemmeside, jeg har fortalt om.
+
+00:40:05
+www.arnevandskvalitet.dk Og herindunder ligger der en fag, der hedder katalog over branceteknologier.
+
+00:40:15
+Der kan man læse lidt om katalogen.
+
+00:40:19
+Og når man så scroller ned, så vil man se, at de teknologier, der er på hjemmesiden, de står her i alfabetisk rækkefølge.
+
+00:40:29
+De er delt op af de øverste, det er dem, der har fokus på fjernelse af prædikter.
+
+00:40:37
+Hvoraf, hvis man scroller ned, og på et tidspunkt møder et godt regnvandspatient, som de sidste, så går vi over i de teknologier, der har fokus på fjernelse af opløstestoffer.
+
+00:40:49
+Det er den måde, der PT har været muligt for os at dele dem op.
+
+00:40:53
+Her ser I de produkter, der er på hjemmesiden.
+
+00:40:58
+De produkter, der har en stjerne, som vi kan se nogle af dem, de har fået, de er testet i henhold til den her vejledning, jeg talte om tidligere.
+
+00:41:09
+Det vil sige, der forelægger testresultater på dem, som lever op til de krav, vi har lavet en vejledning for, hvordan man tester til teknologi.
+
+00:41:23
+Det her screeningsværktøj der er, og nu er jeg spændt på om den åbner det rigtigt op.
+
+00:41:28
+Men der ligger heroppe i toppen, der ligger der et sted, lige nu hedder det søjagt, det skal have fundet et bedre navn.
+
+00:41:33
+Men hvis man klikker på det, nu skulle I gerne alle sammen kunne se min skærm, som er det her Excel-værktøj.
+
+00:41:41
+Hvor er de her forskellige grænseteknologier, de er sat ind.
+
+00:41:49
+Nu tager jeg helt tilfældigt en måde, hvor man kan gå ind og begynde at søge det her.
+
+00:41:54
+Som I kan se oppe i toppen, så ligger der en hel masse af sådan nogle dropdowns.
+
+00:41:59
+Så nu sidder jeg og gerne vil søge efter et produkt, hvor jeg vil gerne have, at det skal fjerne partikler.
+
+00:42:09
+Jeg går ind og vælger her, det skal have fokus på at fjerne partikler. Jeg siger OK.
+
+00:42:14
+Så kan I se, så laver det allerede den første selektering.
+
+00:42:18
+Som sagt, den her med tankestoffer, der bliver lagt en ny version op, hvor der kommer mere ensformighed i den her.
+
+00:42:30
+Så vil jeg også rigtig gerne have en teknologi, der er blevet testet i henhold til vejledning.
+
+00:42:37
+Og så kan I se, så har vi fået selekteret ud i de forskellige teknologier, jeg kan vælge med.
+
+00:42:46
+Lige nu er jeg mest interesseret i, om der ligger andre cases på de her teknologier, fordi der vil jeg gerne ud og høre om erfaringen på dem.
+
+00:42:55
+Så det er den sidste jeg klikker af her og siger, at jeg vil gerne have cases.
+
+00:42:59
+Og så ender jeg ud i tre forskellige teknologier her, hvor jeg kan se, at de kan fjerne partikler, er testet i henhold til vejledning, og der ligger cases på.
+
+00:43:10
+Jeg kan selvfølgelig også se mere ud, men nu holder jeg mig lige til de her tre.
+
+00:43:17
+Det jeg så kan gøre, det er at jeg kan klikke på denne her teknologi.
+
+00:43:23
+Som I kan se her, det er et finpartikeludskiller produkt. Eller det hedder finpartikeludskiller.
+
+00:43:31
+Og det jeg så kan se herinde på denne her side, det er at jeg kan læse omkring produktet.
+
+00:43:38
+Der er et langt billede af det. Jeg kan gå ind og klikke på testresultaterne.
+
+00:43:46
+Hvor jeg vil kunne gå ind og finde information omkring de testresultater, der ligger.
+
+00:43:55
+Og hvilken grad det her anlæg fjerner til ud fra de testkriterier, vi har.
+
+00:44:05
+Så vil jeg kunne gå ind og læse om forskellige ting.
+
+00:44:10
+I det her tilfælde har producenten valgt at lægge en flyer herinde bagved omkring nogle forskellige cases.
+
+00:44:17
+Så vil der også være information omkring serviceplader, hvordan anlægget skal installeres.
+
+00:44:26
+Og så vil der for de produkter, hvor det er gjort tilgængeligt indtil nu, der vil der ligge et link hernede på et danmarkskort, hvor man simpelthen vil kunne gå ind og se, hvor er teknologien installeret.
+
+00:44:39
+Hvor vi foråbentlig med sigt vil kunne gøre sådan, at man klikker på ikonerne, og så får man et direkte link til den udvidningstilladelse, der ligger bag denne her teknologi.
+
+00:44:53
+Så er der også information til, hvem det er, der har produktet, og hvem det er, man skal tage videre kontakt til, hvis man gerne vil høre noget mere om det.
+
+00:45:08
+Så det er den ene måde at gøre det på, det er at gå ind og bruge det her søgselark.
+
+00:45:13
+Sådan et meget lille screeningsværktøj, og få udvalgt de forskellige produkter, man gerne vil vide noget om.
+
+00:45:21
+Den anden vej, som sagt, man kan gå ind, det er, hvis man kender et produkt, man gerne vil vide noget mere om.
+
+00:45:27
+Jamen, så går man ind. Nu tager vi bare et fælgevis et her.
+
+00:45:31
+Og så siger man, jamen jeg har hørt om det her produkt. Og det vil jeg gerne læse noget mere om.
+
+00:45:36
+Og så kan man klikke sig direkte ind.
+
+00:45:38
+Og som I kan se fra den foregående side, så er der de informationer, der ligger herinde.
+
+00:45:45
+Og så kan man læse nærmere om det, og igen får man information om, hvem det er, man skal tage videre kontakt til.
+
+00:45:55
+Det arbejde, der foregår lige nu i netværket, ud over selvfølgelig, at Det er, at vi selvfølgelig hele tiden arbejder på, hvilke parametre der skal være på hjemmesiden.
+
+00:46:09
+Og får koblet flere og flere til de her forskellige teknologier.
+
+00:46:13
+Så arbejder vi selvfølgelig også generelt med mange af de problemstillinger, der er i branchen.
+
+00:46:18
+Og får tør at bidrage med viden hertil.
+
+00:46:21
+Og selvfølgelig, hvis man gerne vil vide mere omkring netværket, eller bidrage til det arbejde, vi går og laver, så er man selvfølgelig velkommen til kontakt.
+
+00:46:33
+Med hensyn til kataloget og screeningsværktøjet, er det vigtigt at huske på, at I har en god dialog med jeres producenter og rådgivere.
+
+00:46:45
+Hvem det end er, myndighederne, der er med over den her case, I arbejder med, hvor I skal udlede noget regnmand.
+
+00:46:52
+For rigtig mange af de her teknologier bygger op omkring de samme principper.
+
+00:46:57
+De kan rigtig mange gode ting.
+
+00:47:00
+Og derfor er det meget ofte, at det er små detaljer, der gør, om det er den ene eller den anden teknologi, der passer ind i den case, man sidder med.
+
+00:47:10
+Der er nu 8 minutter tilbage, så der er tid til et lille mikrofon.
+
+00:47:29
+Hvis I har spørgsmål eller kommentarer til Katrine, så skriv i.
+
+00:47:33
+Chatten. Vi har simpelthen hørt efter, hvad du sagde, Steffen. Og ikke skrevet noget.
+
+00:47:39
+Som helst før nu. Hvor ofte vil I.
+
+00:47:43
+Opdateres værktøjet? Det opdateres...
+
+00:47:47
+Jeg har gjort det sådan, at vi prøver at gøre det 3-5 gange om året.
+
+00:47:54
+Der er indskrevet på hjemmesiden, hvornår der skal indsendes ny information.
+
+00:48:01
+Der er lagt en deadline, der står der. Der står simpelthen, hvornår der er deadline for.
+
+00:48:13
+Hernede i bunden.
+
+00:48:15
+Det er opdateret i januar, og så er der deadline for indsendt materiale i slutningen af februar, og så bliver det opdateret derefter.
+
+00:48:21
+Vi prøver at gøre det sådan, Vi kan ikke sige ofte, men vi gør det i klumper, for at vi ikke hele tiden bruger tid.
+
+00:48:29
+På det. Så har vi et spørgsmål, om der kommer målresultater ind i.
+
+00:48:34
+Regnarket på et tidspunkt. Vi arbejder på det.
+
+00:48:40
+Det er håbet, at vi på et tidspunkt kan komme det ind i regnarket. Ja, så har vi.
+
+00:48:49
+Filterjordsprodukter. Der er etableret meget derude. Med forskellige resultater.
+
+00:48:58
+Er det forventningerne, at der kommer mere omkring filterjordsprodukter? Jeg vil sige, at.
+
+00:49:04
+Jeg ikke har modtaget noget.
+
+00:49:06
+Indtil nu har det været hardcore tekniske løsninger, vi har haft med at gøre.
+
+00:49:11
+Hvis der kommer filterjordsprodukter ind, så kigger vi selvfølgelig altid på dem.
+
+00:49:16
+Om de passer ind i løbet.
+
+00:49:22
+Så har vi spørgsmål om anlægstyperne. Er det leverandøren eller Teknologisk Institut der opdaterer?
+
+00:49:31
+Når der bliver spurgt.
+
+00:49:32
+Om anlægstyperne, det skal jeg lige forstå helt.
+
+00:49:39
+Jeg tror det er produkterne.
+
+00:49:48
+Det er et teknologisk institut, der opdaterer på hjemmesiden fra den information, vi får fra teknologierne, producenterne og forhandlerne.
+
+00:49:57
+Hvis det er svar på spørgsmålet.
+
+00:50:00
+Så bliver der spurgt til, om det er en svaghed, at løsningerne, som er registreret for både partikler og oplevelsestoffer, ikke kommer med, når der søges på partikler alene.
+
+00:50:11
+Det er helt rigtigt.
+
+00:50:11
+Det er en svaghed. Vi har ikke fundet løsningen på, hvordan man tager de produkter.
+
+00:50:17
+Vi har også nogle produkter, der hedder, de kan begge dele.
+
+00:50:23
+Lige nu er der rigtig mange produkter, der kommer ind på markedet.
+
+00:50:27
+Da vi startede med at lave det her, havde man to.
+
+00:50:30
+Enten kunne de det ene, eller også kunne de det andet.
+
+00:50:32
+Det kan være, at det er noget, vi skal merge med ind. Hvis man har givet kommentarer.
+
+00:50:39
+Så bliver der spurgt til test af desorption af bundende tungmetaller med salt i indlemsvindens klode.
+
+00:50:48
+I vores laboratorietester tester vi på oplyste stoffer.
+
+00:50:59
+Anders, du må lige formulere lidt mere til spørgsmålet, hvis ikke det var svaret, du fik der.
+
+00:51:11
+Jeg tror godt, jeg har fået et stort spørgsmål.
+
+00:51:12
+Vi har endnu ikke haft med i testvejledningen til de her oplyste stoffer, at vi kigger på distribution af stofferne, men det er da helt klart noget, der kan tages med ind fremadrettet, hvis det er noget, der er bekymring for.
+
+00:51:31
+Ja.
+
+00:51:37
+Det var en erkendelse.
+
+00:51:39
+Af svaret fra Det kan jeg lige tage med her. Som sagt, vi har været i gang siden 2020.
+
+00:51:59
+Det har været en proces undervejs, og det her er ikke et færdigt stykke arbejde endnu.
+
+00:52:03
+Så vi sidder ikke med det færdige produkt nu. Der sker rigtig meget på markedet nu.
+
+00:52:07
+Man bliver meget mere opmærksom, som Anders spørger om.
+
+00:52:12
+flashe vores partikler ud, så kan de her tungmetaller, der dissorberes, eller der sætter sig på materialen, de kan også frigives igen.
+
+00:52:22
+Så det er nogle af de ting, vi hele tiden arbejder med ind i det arbejde, vi går og laver, og det katalog, vi har.
+
+00:52:30
+Er der spørgsmål til, hvor møderne afholdes hen? Det er forskelligt. Vi.
+
+00:52:36
+Har været selvfølgelig en del i Torstrup, fordi det er her, vi primært hører til.
+
+00:52:41
+Men vi har også holdt møder i Odense og i Jylland, og vi holder gerne vores netværksmøder også i Jylland.
+
+00:52:47
+Det er ofte lidt med et spørgsmål om, hvor vi kan finde lokalitet, men det er egentlig et problem at holde dem i Jylland.
+
+00:52:55
+Så har vi Anders, der spørger om filtertogløsninger, altså hvor flere løsninger sætter sig efter hinanden.
+
+00:53:01
+Hvad med at teste.
+
+00:53:02
+Dem? Ja. Det er noget af det nye, at de forskellige teknologier bliver kombineret sammen.
+
+00:53:11
+Når vi snakker primært laboratorietest, så udfører de forskellige teknologier i laboratorietestet.
+
+00:53:21
+Når vi kommer ud i fældet og ser, at de teknologier er kombinerede imod hinanden, vil vi selvfølgelig gerne vide mere om, hvordan de fungerer.
+
+00:53:31
+Og hvad resultaterne er.
+
+00:53:36
+Ja, og så er der en kommentar til dig, Katrine, som du bare kan tage med dig. Tænker jeg. Ja. Mange.
+
+00:53:48
+Tak for det, Melanie.
+
+00:53:51
+Tiden nærmer sig 8.30. Vi beklager problemet med.
+
+00:53:57
+Lyden.
+
+00:53:57
+Som vi har haft et mikrofonproblem, og vi har vist også en lidt forkølet oplægsholder.
+
+00:54:04
+Det kan vi ikke gøre så meget ved. Jeg vil bare sige tak for i dag. Og god dag derude. Tak.
+
+00:54:13
+Og tak fordi I ville lytte med.
+
