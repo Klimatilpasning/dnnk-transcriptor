@@ -2,36 +2,49 @@ name: DNNK Daily Transcription
 
 on:
   schedule:
-    # Kører hver dag kl. 09:00 UTC (10:00 dansk tid)
+    # Kører hver dag kl. 09:00 UTC (10:00/11:00 dansk tid)
     - cron: '0 9 * * *'
   workflow_dispatch: # Tillader manuel kørsel
+
+# Uden denne er GITHUB_TOKEN read-only og git push afvises stille
+permissions:
+  contents: write
+
+# Undgå at daily og pdf-scraper pusher oven i hinanden
+concurrency:
+  group: repo-writes
+  cancel-in-progress: false
 
 jobs:
   transcribe:
     runs-on: ubuntu-latest
-    
+
     steps:
     - name: Checkout code
-      uses: actions/checkout@v3
-    
+      uses: actions/checkout@v4
+
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
         python-version: '3.11'
-    
+
     - name: Install dependencies
-      run: |
-        pip install requests beautifulsoup4 lxml
-    
+      run: pip install -r requirements.txt
+
     - name: Run transcription script
       env:
         TRANSKRIPTOR_API_KEY: ${{ secrets.TRANSKRIPTOR_API_KEY }}
-      run: |
-        python transcribe.py
-    
+      run: python transcribe.py
+
     - name: Commit and push transcriptions
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "GitHub Actions Bot"
-        git add -A
-        git diff --quiet && git diff --staged --quiet || (git commit -m "🎤 Nye transskriptioner - $(date +'%Y-%m-%d')" && git push) || true
+        git config --local user.name "github-actions[bot]"
+        git add transcriptions/ processed_videos.json
+        if git diff --staged --quiet; then
+          echo "Ingen nye transskriptioner i dag"
+        else
+          git commit -m "Nye transskriptioner - $(date +'%Y-%m-%d')"
+          git pull --rebase origin main
+          git push
+        fi

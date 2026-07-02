@@ -2,7 +2,7 @@
 """
 DNNK PDF-scraper
 Scanner DNNK's hjemmeside for PDF-links, downloader og udtrækker tekst
-Gemmer som .txt filer i transcritranscriptions mappen
+Gemmer som .txt filer i transcriptions-mappen
 """
 
 import requests
@@ -16,7 +16,7 @@ from pathlib import Path
 from pypdf import PdfReader
 import io
 
-TRANSCRIPTIONS_FOLDER = Path("transcritranscriptions")
+TRANSCRIPTIONS_FOLDER = Path("transcriptions")
 PROCESSED_PDFS_FILE = "processed_pdfs.json"
 
 # Sider der scannes for PDF-links
@@ -32,7 +32,7 @@ PDF_PAGES = {
 
 def load_processed_pdfs():
     if os.path.exists(PROCESSED_PDFS_FILE):
-        with open(PROCESSED_PDFS_FILE, 'r') as f:
+        with open(PROCESSED_PDFS_FILE, 'r', encoding='utf-8') as f:
             return json.load(f)
     return []
 
@@ -40,8 +40,8 @@ def save_processed_pdf(pdf_url):
     processed = load_processed_pdfs()
     if pdf_url not in processed:
         processed.append(pdf_url)
-        with open(PROCESSED_PDFS_FILE, 'w') as f:
-            json.dump(processed, f, indent=2)
+        with open(PROCESSED_PDFS_FILE, 'w', encoding='utf-8') as f:
+            json.dump(processed, f, indent=2, ensure_ascii=False)
 
 def scrape_page_for_pdfs(page_url):
     """Find alle PDF-links på en side og undersider"""
@@ -70,8 +70,8 @@ def scrape_page_for_pdfs(page_url):
                 if href not in [page_url]:
                     post_links.append(href)
         
-        # Scan de første 20 undersider
-        for post_url in list(set(post_links))[:20]:
+        # Scan de første 20 undersider (sorteret så udvalget er deterministisk)
+        for post_url in sorted(set(post_links))[:20]:
             try:
                 sub_resp = requests.get(post_url, timeout=15, headers=headers)
                 sub_soup = BeautifulSoup(sub_resp.content, 'html.parser')
@@ -82,8 +82,8 @@ def scrape_page_for_pdfs(page_url):
                             pdf_links.append((href, link.get_text(strip=True) or href))
                         elif href.startswith('/'):
                             pdf_links.append((f"https://www.dnnk.dk{href}", link.get_text(strip=True) or href))
-            except:
-                pass
+            except requests.RequestException as e:
+                print(f"   ⚠️ Kunne ikke hente underside {post_url}: {e}")
         
         # Fjern dubletter
         seen = set()
@@ -100,39 +100,45 @@ def scrape_page_for_pdfs(page_url):
         return []
 
 def extract_text_from_pdf(pdf_url):
-    """Download og udtræk tekst fra PDF"""
+    """Download og udtræk tekst fra PDF.
+    Returnerer (tekst, permanent_fejl): tekst=None + permanent=False betyder
+    forbigående fejl (netværk/server) — PDF'en skal IKKE markeres som behandlet."""
     try:
         headers = {"User-Agent": "DNNK-PDFScraper/1.0"}
         resp = requests.get(pdf_url, timeout=60, headers=headers)
-        
+
         if resp.status_code != 200:
             print(f"   ❌ HTTP {resp.status_code}")
-            return None
-        
+            # 404/410 = permanent væk; 5xx/429 = forbigående
+            return None, resp.status_code in (404, 410, 403)
+
         if len(resp.content) < 1000:
             print(f"   ❌ For lille fil ({len(resp.content)} bytes)")
-            return None
-        
+            return None, True
+
         reader = PdfReader(io.BytesIO(resp.content))
-        
+
         if len(reader.pages) == 0:
-            return None
-        
+            return None, True
+
         text = ""
         for page in reader.pages:
             page_text = page.extract_text()
             if page_text:
                 text += page_text + "\n\n"
-        
+
         if len(text.strip()) < 100:
             print(f"   ⚠️ Meget lidt tekst udtrukket ({len(text)} tegn) — muligvis scannet PDF")
-            return None
-        
-        return text.strip()
-    
+            return None, True
+
+        return text.strip(), False
+
+    except requests.RequestException as e:
+        print(f"   ❌ Netværksfejl (prøves igen næste kørsel): {e}")
+        return None, False
     except Exception as e:
-        print(f"   ❌ Fejl: {e}")
-        return None
+        print(f"   ❌ Fejl ved PDF-parsning: {e}")
+        return None, True
 
 def safe_filename(title, url):
     """Lav et sikkert filnavn fra titel eller URL"""
@@ -189,15 +195,17 @@ def main():
             print(f"\n   📄 Ny PDF: {title[:60]}")
             print(f"      URL: {pdf_url}")
             
-            text = extract_text_from_pdf(pdf_url)
-            
+            text, permanent_fejl = extract_text_from_pdf(pdf_url)
+
             if text:
                 save_pdf_text(title, pdf_url, text, category)
                 save_processed_pdf(pdf_url)
                 new_pdfs += 1
+            elif permanent_fejl:
+                print(f"   ⚠️ Springer over permanent — ingen tekst at hente")
+                save_processed_pdf(pdf_url)
             else:
-                print(f"   ⚠️ Springer over — ingen tekst udtrukket")
-                save_processed_pdf(pdf_url)  # Marker som behandlet så vi ikke prøver igen
+                print(f"   ⚠️ Forbigående fejl — prøves igen næste kørsel")
     
     print(f"\n{'='*60}")
     print(f"✅ Færdig — {new_pdfs} nye PDF-dokumenter indekseret")
