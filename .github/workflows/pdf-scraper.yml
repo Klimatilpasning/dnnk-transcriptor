@@ -11,7 +11,7 @@ permissions:
 
 # Undgå at daily og pdf-scraper pusher oven i hinanden
 concurrency:
-  group: repo-writes
+  group: repo-writes-v2
   cancel-in-progress: false
 
 jobs:
