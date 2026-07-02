@@ -499,5 +499,35 @@
   "Ji4dUzWF6NQ": {
     "status": "done",
     "note": "transskription findes allerede i korpus (titel-match 2026-07-02)"
+  },
+  "KGQ1EZ4SEvU": {
+    "status": "pending",
+    "last_attempt": "2026-07-02T17:38:52",
+    "order_id": "1783011518921977349",
+    "category": "Tech_Talks"
+  },
+  "YutqZ_sFZ3w": {
+    "status": "pending",
+    "last_attempt": "2026-07-02T18:19:08",
+    "order_id": "1783013934871183718",
+    "category": "Tech_Talks"
+  },
+  "uLiX_MX5qA4": {
+    "status": "pending",
+    "last_attempt": "2026-07-02T18:59:24",
+    "order_id": "1783016350867563621",
+    "category": "Tech_Talks"
+  },
+  "lRrtJ3COQ-Y": {
+    "status": "pending",
+    "last_attempt": "2026-07-02T19:39:39",
+    "order_id": "1783018766730109978",
+    "category": "Tech_Talks"
+  },
+  "hiKuKKzflgI": {
+    "status": "pending",
+    "last_attempt": "2026-07-02T20:19:57",
+    "order_id": "1783021181755727085",
+    "category": "Tech_Talks"
   }
 }
