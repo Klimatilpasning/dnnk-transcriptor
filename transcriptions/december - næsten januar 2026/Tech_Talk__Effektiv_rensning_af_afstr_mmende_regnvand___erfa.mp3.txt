@@ -1,0 +1,888 @@
+00:00:19
+På vegne af DNNK vil jeg byde velkommen til dagens tek-talk.
+
+00:00:24
+I teknikken sidder Morten Halling, og jeg er Christoffer Zitby og er dagens vært.
+
+00:00:29
+På god ordens skyld skal det siges, at tek-talken bliver optaget og lagt op på DNNK's hjemmeside i løbet af denne uge.
+
+00:00:36
+I forhold til det praktiske, så kan I stille spørgsmål løbende under tek-talken, og til slut vil jeg tage dem op til Morten.
+
+00:00:45
+Dagens Tech Talk er med Morten Albrecht Christensen, Stormwise-specialist fra Upo Nord, som vil fortælle om filter- og magasinløsningen Volt, der kan anvendes i klimatilpasningskrojekter med fokus på effektiv rensning af forurenet regnvand.
+
+00:01:02
+Velkommen til, Morten, og jeg vil give ordet videre til dig.
+
+00:01:07
+Mange tak, og tak fordi jeg måtte deltage og være her i dag.
+
+00:01:13
+Velkommen til alle jer andre.
+
+00:01:17
+Jeg håber, I alle kan se skærmen nu.
+
+00:01:19
+Jeg vil ellers prøve at tage igennem et lille oplæg her omkring vores vault-renseløsning, som Christoffer også lige nævnte.
+
+00:01:28
+Jeg er faglig ansvarlig hos Uponor Geofisher inden for regnvandshåndtering.
+
+00:01:35
+Jeg vil prøve at springe ud i det her med vault-renseløsningen til rensning af afstrømmende overfladevand med udspring i et konkret projekt her fra Tjursland.
+
+00:01:50
+Projektet, jeg vil starte ud med, er fra Fremtidsparken i Rønte.
+
+00:01:58
+Nær en lille by, der hedder Følle.
+
+00:02:01
+Det er et nyt erhvervsområde, som er ved at blive etableret.
+
+00:02:06
+De står færdige med første etappes overfladearealer.
+
+00:02:12
+Det svarer til en tredjedel af det, hele det område, vi ser på billedet til højre.
+
+00:02:22
+Det er den nordlige del af det.
+
+00:02:25
+Området er separat klarkert, og der udledes overfladevand til Føllebæk, som er det lille bækløb, som render syd for erhvervsområdet.
+
+00:02:39
+Problemstillingen der var i projektet fra Aquajurts side af som forsyning.
+
+00:02:48
+Det var, at de havde nogle aktuelle jordforhold ved projektet, som gjorde det ikke muligt at etablere de traditionelle vådebæsninger, vi kender.
+
+00:03:01
+Derfor var det, at Aquajurts søgte en alternativ løsning for rensningen af overfladevand.
+
+00:03:08
+Dog med hensigt til at prøve at anvende i det aktuelle område, hvor de ellers havde tænkt sig at etablere både besinkt og anvende det i anden form i stedet for.
+
+00:03:22
+Men det kommer jeg lidt nærmere ind på.
+
+00:03:27
+Det er etape 1 i den nordlige del af erhvervsområdet, som nu står klar og afvandes ned igennem vordrensløsningen.
+
+00:03:40
+I starten af projektet var vi inde omkring, hvad det var, vi skulle sørge for, at den rensløsning, vi skulle sætte derned, skulle kunne klare i forbindelse med projektet.
+
+00:03:55
+Der er der ristet lidt forskellige informationer op.
+
+00:03:58
+Blandt andet årsmiddelbørn, regnintensitet, klimafaktor, ligeledes hvor stort et overfladehjæl er, vi skal håndtere.
+
+00:04:07
+Der var også lidt information om, hvad det var for typer af opladning, og det var bl.a.
+
+00:04:12
+T, Y og P pladser derude, hvilket svarer meget godt ind til, at det er ladestationspark, McDonalds byggeri, gartneri derude osv.
+
+00:04:24
+Udover.
+
+00:04:24
+Det var der også information om, hvor lang en transportledning var fra yderste afvandringspunkt og ned til rensløsningen, hvilket også er fornuftigt at vide i forbindelse med, at vi skulle dimensionere og projektere en rensløsning hertil.
+
+00:04:40
+Derudover er der også information om promillefald.
+
+00:04:48
+Det område, der var tænkt ind som et traditionelt vådebassin, hvilket viser, at det ikke kunne lade sig gøre grundet jordforhold.
+
+00:04:59
+Det har man så indtænkt som et tørt jordbassin i stedet for, hvor der er opstudingskapacitet til de værte regnhændelser.
+
+00:05:11
+Der var vi i dialog med Forsyningen om, hvordan vi kunne placere alternative rensløsninger til.
+
+00:05:19
+Der var et oplæg til, om man skulle sætte det på nedstrømsside af tørpesengen, eller om man skulle sætte det før opstrøms tørpesengen.
+
+00:05:29
+Der var både for og imod ved begge ting.
+
+00:05:32
+Hvis man satte det på nedstrømssiden, altså nede i den sydlige del lige før følgebæk, så kunne vi jo sætte den før den regulering af vandstrømmen til følgebæk, som maksimumt udled 5 liter i sekundets til.
+
+00:05:45
+så kunne man sørge for, at man fik strømningen igennem rensløsningen ned på et kontinuerligt niveau, og maksniveau, som var rigtig fornuftigt, for at man kunne styre en lidt mere kontinuerlig rensning.
+
+00:05:57
+Desværre så viste det sig bare, at det var rigtig svært at komme ned og lave drift og vedligehold af en eventuel placering nede på udløbssiden, fordi der ikke var nogen driftmæssige muligheder for at få noget driftveje dernede til.
+
+00:06:14
+I stedet for så kunne man placere den på indløbssiden, da det er sådan at en vort-renseløsning faktisk har en mulighed for at kan bypasse noget af vandet ved eventuelt store regnafstrømninger.
+
+00:06:29
+Og herved så blev det valgt at placere den på indløbssiden.
+
+00:06:34
+Ligesom var det også nemmere og mere fremkomligt at få en nemmere driftvej ned til renseløsningen.
+
+00:06:43
+Derudover er det også sådan, at når vi står i de tørre perioder på året, hvor det vil stå tørt, det her jordbassin, så vil det her erhvervsområde jo være et sted, hvor man holder en pause fra en køretur, står og lader sin bil af en at spise, går en tur med hunden.
+
+00:07:03
+I et tørt scenarie ville der øventlig kunne forekomme færden ned ved det her tørre jordbassin.
+
+00:07:10
+Derved ønsker man også fra forsyningssiden at etablere renseløsning på opstrømssiden af tørrebassinet, sådan at man minimerer det, som udledes til det tørre jordbassin af de forenede stoffer.
+
+00:07:25
+Det skal siges, at det tørre jordbassin er indtænkt som en delvis nedsivning af det afstrømmende regnvand, som passeres igennem renseløsningen, som er indkirklet med grøn her.
+
+00:07:42
+Og herved så minimerer vi også den mængde, der ledes ud til Føllebæk.
+
+00:07:47
+Ved de større regnhændelser, hvor vi har, eller de store regnserier, så er der et udløb med regulering på nede ved Føllebæksiden.
+
+00:08:00
+Lidt info omkring selve bassinet, det er, tilpasset en klimavolumen for en 100-års hændelse.
+
+00:08:09
+Totalt er den oppe på 8.600 kubikmeter.
+
+00:08:13
+Som vi kan se indkredset med blå cirkel, så har vi vores løsning til at stå lige oppe ved den vej, der er deroppe indløb til basaltet.
+
+00:08:25
+Der er nede ved udløbssiden, ned mod Føllebæk, der er der lavet en fordybende rande.
+
+00:08:35
+som tillader vand ned til en afløbsregulator.
+
+00:08:40
+Hvad skulle rensløsningen kunne i forhold til renseevne?
+
+00:08:49
+Det spørgsmål vendte vi med Aquadius.
+
+00:08:52
+Aquadius havde også en dialog med den gældende myndighed, hvor det var, at der blev stillet krav om, at det skulle kunne klare en rensning som et normalt og traditionelt vådebassin ville kunne klare, altså i henhold til Faktabladet for Aalborg Universitet, sagde de.
+
+00:09:10
+Der tog vi fat i Faktabladet for Aalborg Universitet i forbindelse med, hvad man kunne forvente af indløbskoncentrationer.
+
+00:09:18
+Det skulle vi dimensionere udfra, og vi skulle nå ned på de forventlige udløbskoncentrationer, der er fra et vådebassin, der er traditionelt dimensioneret.
+
+00:09:27
+Det var kriteriet for, hvad vores rensløsning skulle kunne klare at gøre.
+
+00:09:36
+Der gjorde vi så det, at vi satte det ind i et modelleringsværktøj, der hedder Stormtag Web.
+
+00:09:43
+Stormtag skal jeg nok lige komme lidt nærmere ind på, hvad det er.
+
+00:09:46
+Der er garanteret også rigtig mange af jer, der ved, hvad det er for noget, og hvad det er for et modelleringsprogram.
+
+00:09:52
+Men det vi gjorde inde i det her modelleringsværktøj, det var, at vi satte alle de her dimensioneringskriterier og dimensioneringsforsætninger, som vi så på nogle af de tidligere slides, inde i.
+
+00:10:03
+Både med opblandstørrelse, Vi tog også højde for tilløbsledningens længder.
+
+00:10:11
+Vi kiggede også ind på promillefald.
+
+00:10:13
+Vi kiggede ind i års midnebør, regnintensiteter og klimafaktorer osv.
+
+00:10:18
+Ud fra det satte vi også indløbskoncentrationerne ind.
+
+00:10:22
+Der anvendte vi så de her indløbskoncentrationer, man forventelig har på et vådebassin i henhold til faktablet, som vi ser i den øverste tabel.
+
+00:10:35
+Derefter modellerede vi os frem til, at vi satte nogle kriterier ind, for at vi også skulle have de her forventelige udløbskonstruktioner, som et vådbesækning, der dimensioneret i henhold til faktopladeet var.
+
+00:10:45
+Og det er den kriteringslinje, vi har cirka i midten af tabellen derovre.
+
+00:10:51
+Der modellerede vi os frem til, at vi forventelig med en vault-renseløsning ville kunne nå ned på nogle stofkonstruktioner, vi ser hen i den linje, der hedder calculation.
+
+00:11:02
+På frosforniveau når vi desværre ikke helt ned på de kriterier, der var for vådebassinet med 90 μg pr.
+
+00:11:13
+liter.
+
+00:11:13
+Men til gengæld er vi stadig forventet inden for det spektrum, der er i faktabladet mellem de 70-200 μg pr.
+
+00:11:22
+liter.
+
+00:11:24
+Nitrogen er lidt samme historie.
+
+00:11:25
+Der når vi ikke helt ned på de 1.200, som var kriteriet.
+
+00:11:29
+Til gengæld ligger vi stadig inden for vinduet.
+
+00:11:32
+faktabladets spænd.
+
+00:11:35
+Derudover er det på kob og sænk, suspenderende stoffer, COD og BOD.
+
+00:11:41
+Der ser det egentlig rigtig fornuftigt ud i forhold til de kriterier, der er afsat op.
+
+00:11:49
+Ydermere kan vi med modelleringsværktøjet gå ind og anslå hvad vi forventeligt har af stofmængder, der skal drifts og vedligeholdes på årsbasis.
+
+00:12:08
+Det er det øverste, der er sat ind.
+
+00:12:10
+Hvor vi ser reduce load, det er hvad der forventeligt bliver tilbageholdt i forhold til de dimensioneringsforsætninger, vi har haft, som eventuelt skal drifts og vedligeholdes.
+
+00:12:24
+Derudover har vi den nederste tabel.
+
+00:12:27
+Der har vi et overblik over, hvor tit og hvor hyppigt vi bør rense og tømme for faste stoffer, altså sedimenter.
+
+00:12:36
+Der modulerer den sig frem til, at man forventelig skulle tømme og drifte med slamsuger, nede fra bundkapaciteten af faste sedimenter.
+
+00:12:47
+Cirka hver 0,6 år.
+
+00:12:50
+Det er der faktisk mulighed for at kunne optimere, hvis man ønsker, at det skal være en gang hver år.
+
+00:12:59
+Så kan man forlænge de sedimentationskapaciteter, der ligger i vordrensløsningen.
+
+00:13:09
+Stormtag Web modelleringsværktøjet er et modelleringsværktøj, som er udviklet af en svensk professor.
+
+00:13:19
+oppe ved Luleå Universitet.
+
+00:13:21
+Tilbage i hele år 2000 udviklede de det.
+
+00:13:24
+Det er et måleringsværktøj, som sidenhen er blevet opdateret med markedsinformationer, feltestmålinger fra real-life-projekter.
+
+00:13:38
+Det har et utroligt stort dataset fra projekterne ude i verden, hvor det er sat ind med definitioner på, hvilke typer af overfladeregaler og oplandstyper det kommer frem.
+
+00:13:50
+sådan så at man har en dataset, som faktisk er retvisende.
+
+00:13:57
+Der er også lavet en del doktorafhandlinger og publiceringer omkring stormtagsvaliditet og kvalitet, og det er der også mulighed for at dykke ind i.
+
+00:14:09
+Her er der nogle links til det, men de er også mulige at tilgå fra vores hjemmeside, hvor vi har et større teknisk håndbogsopslag, hvor der ligger direkte links ind til de her afhandlinger.
+
+00:14:29
+Når vi skal sidde og prøve at lave en modellering via Stormtag på hvad vi har forventelige rense effekter fra en vådrensløsning.
+
+00:14:41
+så var der mulighed for at bruge det her med at indsætte data fra f.eks.
+
+00:14:45
+Faktabladet.
+
+00:14:46
+Men man kan også lige så godt, og det har vi også gjort på andre projekter.
+
+00:14:52
+Der har vi også anvendt DHIs regnkvalgsværdier fra type- og oplandsarealer.
+
+00:14:56
+Der kan man sige, at DHI ligger lidt mere lokalt, mens StormTag er fra hele verden.
+
+00:15:03
+DHI er jo værdi og mål fra type og oplande i Danmark.
+
+00:15:10
+Derudover er der også mulighed for at indsætte værdier, som er målt fra et givende overfladeareal, hvis man har de data her som indløbskoncentrationer.
+
+00:15:20
+Og selvfølgelig også det her med, at vi kan bruge erfaringstallene fra StormTech.
+
+00:15:25
+Så der er flere anvendelsesmuligheder.
+
+00:15:27
+Der ligger vi inde med den her store tekniske håndbog inden for det her med rensløsninger, hvor man blandt andet har billedet 1 her, som ses til højre, hvor man kan indsætte data fra ens konkrete projekt.
+
+00:15:40
+Og så kan vi sådan set modulere frem til, hvad vi forventeligt skal bruge i rensløsningen for at komme ned på de eventuelle opsatte kriterier.
+
+00:15:53
+Men tilbage til fremtidsparken i runde.
+
+00:15:57
+Der er vist moduleringen så, at vi for at kunne komme ned på de her forventelige udløbskriterier, som vi viste før, så var vi over i en Vault DN 800 model.
+
+00:16:09
+Som vi kan se over til højre, så har vi dem faktisk i forskellige afskytninger og størrelser.
+
+00:16:15
+Vault DN 800 er en ø 3 meter tank med en længde på 8 meter.
+
+00:16:24
+Den har et funktionelt flow på 100 liter i sekundet.
+
+00:16:29
+Og et bypass flow, eller en max.
+
+00:16:31
+hydraulisk kapacitet på op til 1000 liter i sekundet.
+
+00:16:36
+Det vil sige, at den kan klare et stort opland, men med henblik på, at vi skal have renset det rigtig godt.
+
+00:16:45
+Med de 100 liter i sekundet i funktionsflow, så viser det sig på det givende projekt, at vi har en forventelig rensning af op til 95-98% af den årlige nedbør, som vil tillades under funktionsflow.
+
+00:17:01
+Det er faktisk kun få procent dele af den årlige nedbør, som faktisk render ned mod vort rensløsning over de 100 liter i sekundet.
+
+00:17:12
+Det vi også skal huske på, når vi sætter den her rensløsning ind med de her rensegrader, det er jo, at det er udelukkende set på vorten.
+
+00:17:20
+Vi har også det her med det tørre besænge bagvedliggende, som også vil have en forventet effekt på at kunne rense en smule også.
+
+00:17:30
+Som en efterpolering, hvis man kan kalde det det.
+
+00:17:36
+Jeg har også tilærgt mig at sætte nogle overslagspriser ind, for at man kan få en idé om, hvor man ligger prismæssigt på en løsning som den her.
+
+00:17:45
+Der har vi både en model, der ligger i grøn areal uden trafik, og en prisoverslag på en, der ligger i trafikareal.
+
+00:17:52
+Fordi der kan vi lave løsningen, så den passer til det givende installationsbelastning.
+
+00:17:59
+Der ligger vi på den her størrelse i omrækningen af de her 630.000-770.000 kr.
+
+00:18:07
+Hvis vi tager den nedere del af skalaen på en DN300-model, så ligger vi omkring 300-400.000.
+
+00:18:14
+Ligger vi op i den øvre skala på en DN1200-model, som har en noget større hydraulisk kapacitet, så ligger vi omkring 1,7 million til 2 millioner.
+
+00:18:28
+Det der også er at sige med Vault-løsningen her, det er, at det er en plug-and-play løsning.
+
+00:18:34
+Det er en stor samlet tank, der kommer og leveres og sættes direkte i udgravning.
+
+00:18:40
+Man kobler ind og udløbsrør på, så er den sådan set funktionsklar.
+
+00:18:45
+Der er ikke nogen af de funktionelle ting i løsningen af Walden, som er afhængige af, at man komprimerer eller har et specielt installationscenarie.
+
+00:19:00
+Forholdsvis en simpel installation af et normalt stort rør eller en tank.
+
+00:19:09
+Ved det specifikke projekt i Rønte er der seks filterpatroner indbygget i den her Vault Filter-magasin.
+
+00:19:21
+Selve filterpatronen ses ud til højre, hvor filtermediet ligger imellem de to rørdele.
+
+00:19:30
+Det eneste del er et inderrør, som dræner røret ud fra filtermaterialet og har et dykket udløb.
+
+00:19:38
+Imellem de to rørdele ligger filtermaterialet, hvor vandet skal passere igennem filtermediet.
+
+00:19:46
+Prisen på en 1.000 liter af det her filtermateriale.
+
+00:19:54
+Det er omkring 6.000 kroner.
+
+00:19:56
+Og de her filterpatroner skal skiftes hver tredje år som minimum.
+
+00:20:02
+Og måske endda hyppiger i eventuelle specifikke scenarier.
+
+00:20:06
+Vedrørende er det ca.
+
+00:20:07
+hver tredje år.
+
+00:20:08
+Men er der en større belastning, så skal man selvfølgelig have øje for det.
+
+00:20:12
+Men her i det givende projekt er der 780 liter i de seks filterpatroner i alt.
+
+00:20:18
+Det vil sige, at der skal bruges 4.500-5.000 kroner, når det er, at det skal skiftes hver tredje år.
+
+00:20:30
+Her er der også billeder fra fremtidsparken i Rønne, hvor den leveres og løftes af med en mellemstor gravmaskine og sættes midlertidigt på jorden.
+
+00:20:48
+Der var lidt bløde forhold, så de valgte også at springe fra og løfte den videre ned i graven med gravmaskinen, hvilket man egentlig godt kunne, hvis omstændighederne var helt i orden.
+
+00:20:58
+Men man valgte at bruge en mobilkarantin i løften ned.
+
+00:21:03
+Og der er, som man måske lige kan antyde, meget svagt på det øverste højre billede, så er der nogle små transportfødder, og egentlig også nogle fødder, som hjælper med at kunne placere den korrekt ned i graven, så den lige står helt i vatter.
+
+00:21:22
+Og så er det egentlig bare at koble den på indløb og udløb og komprimere op.
+
+00:21:31
+Så monteres der opføringsrør på toppen, og så har jeg indsat et billede her, hvor man kigger ned i tanken, inden den er sat i funktion, hvor man kan se, at filtrene sidder.
+
+00:21:44
+Det er filtretoppene, vi kan se.
+
+00:21:47
+ser det overfra her.
+
+00:21:49
+Der sidder indikatorpile, så når man skal drifte og vedligeholde og tage filtrene op og isætte dem igen, så er der indikationer på, hvor de skal løftes ned igen.
+
+00:22:01
+De blå stropper er udelukkende for sikkerhed under transport, så filtrene ikke skulle vælte rundt.
+
+00:22:08
+De afmonteres, inden at der sættes løftekæder på filtrene.
+
+00:22:13
+Løftekæderne er for at man senere kan tømme filtermagasinet for vand, og derved så løfte filtrene op.
+
+00:22:25
+Når vandet tømmes fra vaulten under en driftscenario af filtrene, så tømmes det gennem det bagerste opføringsrør, sådan så vandet trækkes ud igennem filtrene stille og roligt, og så tømmer man vandet ud i bagvedliggende recipient eller modtager.
+
+00:22:45
+På den måde sørger vi for, at vandet, der kommer ud fra tanken, har været igennem filtret.
+
+00:22:50
+Derefter kan filtrene løftes op.
+
+00:22:55
+Det her er faktisk et billede fra i morges.
+
+00:22:59
+I formiddag må man næsten hellere kalde det, for der var ikke lyst i morges.
+
+00:23:03
+Men det var her fra i formiddags, hvor man kan se, at det har regnet lidt ude på Djursland det sidste døgns tid.
+
+00:23:10
+Det her tørrebassin viser sig, at der er begyndt at stå lidt vand derude.
+
+00:23:21
+Men lidt mere generelt omkring vort rensløsning.
+
+00:23:24
+Det består af tre, næsten fire trin af rensninger.
+
+00:23:32
+Allerførst så har man et gridnet, hvor grove græne, blade og eventuelt surør, McDonalds surør osv.
+
+00:23:45
+Det opfanges, så det ikke ryger med ind og klokker filter til.
+
+00:23:50
+Derefter er der lige underne et grovsedimentationszone, og den midterste del af tanken er en finsedimentationszone, mens at den bagerste del inden udløbet, det er der, hvor vi har filterzonen, hvor vi har filterpatronerne til at stå.
+
+00:24:10
+Vandens veje igennem den er, hvor den står vandfyldt, røget ind i indløbsrøret, gennem grovsedimentationszonen, gennem en baffleplate, screeningplade med huller, som gør, at procestiden og partikulære stoffer sørger for, at det er så svært som muligt at passere.
+
+00:24:31
+Derefter skal det passere igennem nogle baffleplates for at komme ind i filtersonen også.
+
+00:24:36
+Vandet skal igennem filterpatronen ind i det indre drænerør af filterpatronen, dykket udløbt ned igennem bunden og op i udløbet.
+
+00:24:45
+Så det har en lang procestid igennem sig.
+
+00:24:55
+Vi har haft vores vault-renseløsning ved et akkrediteret prøvelseinstitut nede i Tyskland, der hedder IKT.
+
+00:25:04
+Der er den blevet testet op imod en DWA-test, som har vist, at den har en rensegrad på totalt suspenderende stoffer på 93 procent.
+
+00:25:15
+Og det passer faktisk rigtig godt overens med, når vi også sidder og modulerer på vores rensløsninger.
+
+00:25:22
+Der ligger den faktisk også rigtig pænt på den lignagte det der punkt.
+
+00:25:26
+Der ligger den nemlig også på de 93 procent.
+
+00:25:29
+Eller lige over eller lige under.
+
+00:25:31
+Derudover så viser den også på 63 mikrometer fraktionen, at den ligger på 88 procent.
+
+00:25:40
+Ydermere så har den også blevet testet for lette hydrocarbons, altså let flydende væsker.
+
+00:25:45
+Og der har den en tilbageholds på 99 procent.
+
+00:25:49
+Og det gælder faktisk også, når den går i sit bypass.
+
+00:25:53
+Fordi bypasset fungerer således, at den skal dykkes.
+
+00:25:59
+Bypasset bliver et dykket løb, som bagefter skal over en overløbsvæg.
+
+00:26:07
+Den tyske DWA-test nede ved UKT er også ligeledes blevet verificeret over ved Teknologisk Institut.
+
+00:26:16
+ved netværksgruppen, der hedder regnvandskvalitet.batter.
+
+00:26:19
+Filtermediet, vi anvender inde i Walden, og egentlig også vores filterbrønd, som vi også har i vores portfølje, det er et filtermedie, der hedder Nature P 0.5-4, det vil sige, det er fraktionsstørrelsen på filteret.
+
+00:26:38
+Det er et ekspanderet lermateriale, som er tilsat en mineral sammensætning, Derefter er det blevet granuleret ned i de her fraktionsstørrelser.
+
+00:26:47
+Det har en højbrød struktur, som har en rigtig god jonbindingsevne på at kan jonbinde de her mange forurenende stoffer, både i opløst og partikulær form.
+
+00:27:00
+Vores samarbejdspartners, som har udviklet netop det her FilterLite P Nature, De har testet det i rigtig stor skala, og samtidig med det, så har de faktisk også informeret os om, at filtret bør udskiftes hver tredje til femte år, afhængigt af, hvad belastningsgraden er.
+
+00:27:20
+Og det er netop derfor, vi så også siger, som minimum hver tredje år.
+
+00:27:30
+Vi har også som producent mulighed for at supportere kunden med en serviceaftale for udskiftning af filtermaterialet.
+
+00:27:41
+Selve tømningen af sedimenter i de første to kammer må forestås selv, men selve filterpatronerne vil vi kunne supportere med en driftsordning, hvor vi kommer og servicerer dem.
+
+00:27:56
+Men det er også noget, der ligger inde i vores tekniske håndbog.
+
+00:28:05
+Nu har vi vent, at vi har en modelleringsværktøj for vores vault-rensløsning.
+
+00:28:11
+Vi har også en laboratorietest fra DWA-testen.
+
+00:28:18
+Vi er faktisk også ved at lave en ny laboratorietest, der hedder en DIPT-test, som er endnu mere omfattende.
+
+00:28:26
+Og så har vi faktisk også i gang med nogle feltestmålinger på netop vault-rensløsningerne.
+
+00:28:34
+Faktisk er vi i gang to steder over i Sverige.
+
+00:28:38
+Det ene sted hedder Boden, og det andet hedder Nordsjøping.
+
+00:28:42
+Jeg har desværre ingen information om Boden, men Nordsjøping har jeg lidt information om.
+
+00:28:49
+I Nordsjøping har de installeret fem vault-systemer, inden der er udløb til Østersøen, fra et større centralt oplandsareal inden for deres by, og der vil de gerne undgå at have alt for mange forurene stoffer i vandvejene ned til Ljurstrømmen.
+
+00:29:08
+Der bliver lavet feltestmålinger netop nu.
+
+00:29:12
+Vi håber, at inden for de næste 6-10 måneder, at kunne have en udførelig rapport herpå.
+
+00:29:19
+Der bliver blandt andet testet på suspenderende stoffer.
+
+00:29:23
+Også på nitrogen og fosfor, kåre og sink, men også PFAS, hvilket er rart i forbindelse med, at det er blevet en større fokus på hjemme.
+
+00:29:35
+Det er en fældetest, der er ongående lige nu.
+
+00:29:40
+Jeg har desværre ikke nogen målinger derfra.
+
+00:29:43
+Vi ser også helst, at vi først kommer med en konkluderende rapport derfra.
+
+00:29:48
+Når vi har minimum ti regnserier, samtidig med, at vi gerne vil have det hen over et helt års forløb.
+
+00:29:57
+Så vi har alle årstiderne med i de måleforsøg.
+
+00:30:07
+Vi har også mulighed for at supportere med alarmsystemer til de her rensløsninger.
+
+00:30:12
+Både for måling af letflydende væsker, for slam og sand og sediment, men også højvandsniveau sensorer.
+
+00:30:22
+Mange gange står de her rensløsninger et sted, hvor der ikke er strømforsyning.
+
+00:30:26
+Det kan vi også supportere med, da vi har alarmsystemer, hvor der er mulighed for at sætte dem op med solpaneler og batteribæk op.
+
+00:30:36
+så vi kan få alarmeret med SMS og e-mails.
+
+00:30:42
+Til sidst vil jeg bare lige sige, at vi selvfølgelig også har alle de her datablade for vores løsninger.
+
+00:30:52
+Det her store tekniske håndbogsopslægsværk har vi til lig på vores hjemmeside, og I er meget velkommen til at dykke derind.
+
+00:31:00
+Ellers tag fat i mig, så skal jeg gerne supportere med et link dertil.
+
+00:31:08
+Ellers vil jeg spørge, om der er nogen, der har et spørgsmål.
+
+00:31:12
+Jeg.
+
+00:31:12
+Vil starte med at sige tusind tak, Morten, for en grundig gennemgang.
+
+00:31:16
+Den har også ledt til en del spørgsmål og kommentarer.
+
+00:31:20
+Det skal vi stille og roligt bevæge os igennem.
+
+00:31:24
+Først tak for præsentationen.
+
+00:31:27
+Så kommer der en orientering fra Christina, som siger, at DHI har lavet en samling af målte koncentrationsniveauer, for miljøfarlig forurening af stoffer i Danmark med koncentrationsniveauer i StormTech, og analysen viser, at de målte værdier i Danmark generelt ligger lavere end i StormTech.
+
+00:31:47
+Man skal nærmere være lidt opmærksom på, at StormTech kan overestimere koncentrationerne.
+
+00:31:53
+Ja.
+
+00:31:54
+Jeg ved ikke, om du vil knytte en kommentar til den?
+
+00:31:58
+Det.
+
+00:31:58
+Vil jeg gerne.
+
+00:31:59
+Når jeg sidder og modellerer flere forskellige projekter, så er det faktisk også det, jeg har stødt på oftest.
+
+00:32:05
+når det er sådan, at vi er afhængige af projektets scenarie.
+
+00:32:08
+Men som oftest, så ser jeg faktisk også netop det scenarie, at koncentrationsniveauet på de erfaringstalle, der ligger i stormtag, kontra de oplysninger, der bliver moduleret frem i DHI's regnkvalg, når man sætter opladningsarealerne ind, der oplever vi også, at stormtag ligger lidt højere faktisk.
+
+00:32:26
+Og der kan man sige, at udløbskoncentrationsniveauet vil nok ligge lidt højere, hvis vi bruger stormtags erfaringstallet, Mens at rensegraden, når man har en større indløbskoncentration, så har man en højere rensegrad i procentmæssig forstand, end man har, hvis der er en mindre indløbskoncentration.
+
+00:32:46
+Så det kan give en lille variance, i hvert fald man skal være opmærksom på, det er klart.
+
+00:32:54
+Så spørger Lise, til trafikarealer, hvordan renses der for yderligere pH'er og kulbrinte.
+
+00:32:59
+Samt andet?
+
+00:33:00
+Ja.
+
+00:33:02
+Og det er jo faktisk der, hvor jeg synes, det har været rigtig spændende efter, at DHI har fået et ganske udmærket værktøj.
+
+00:33:09
+Fordi der bliver der nemlig kigget ind i rigtig mange af de her pH'er specielt.
+
+00:33:14
+Og det er der også mulighed for med StormTags modelleringsværktøj at indsætte.
+
+00:33:20
+Og det vil vi også kunne belyse på en rensning af en vault.
+
+00:33:24
+Med en vault på en forventelig renseeffekt, ja.
+
+00:33:31
+Så spørger Jesper, hvordan håndteres bypass volume med hensyn til rensning?
+
+00:33:37
+Renses vold, når den renser bedre end bad for at kompensere for det urensede vand i bypass?
+
+00:33:50
+Ja, hvis det er sådan, at vi kigger på moduleringen, så er det en gennemsnitlig betragtning af den forventelige rensævne på en modulering af alt års nedbørt.
+
+00:34:03
+Det vil sige, at den har en forventelig rensævne, der er effektiv, når vi er under funktionsniveau, og en mindre effektiv rensning, når vi er i bypassniveau.
+
+00:34:13
+Så det skal være en betragtning af den gennemsnitlige rensning henover et helår.
+
+00:34:21
+Det håber jeg var svaret til, Jesper.
+
+00:34:22
+Ellers må du lige skrive igen.
+
+00:34:24
+Så skriver Anders med en kommentar i forhold til projektet i Rønte.
+
+00:34:30
+Vil det i Rønte ikke give en mere effektiv rensning, hvis vandføringen er ujævn i bassinet, inden hvor kan man måske helt undvære årløbsfunktionen?
+
+00:34:40
+Det var første spørgsmål, og så skriver han, at jeg er med på, at der ville være en ydelsedemonstration i bassinet, men det kan måske klares med et effektivt sandfang, inden udgifterne til det må være begrænset.
+
+00:34:52
+Så det var et.
+
+00:34:52
+Spørgsmål og en kommentar.
+
+00:34:55
+Der er ingen tvivl om, at ved planlæring af renseløsningen under kontrolleret strømningsforhold, hvor det er sådan, at vi ved, at alt hvad der tillades ind igennem, at det er under funktionsniveau som max hele tiden, så vil man jo have en mere effektiv rensning.
+
+00:35:12
+Det er der slet ingen tvivl om.
+
+00:35:13
+Men der var andre forhold i de givende projekter, hvor der var noget rekreativitet omkring, at man fik nogen til at gå dernede eventuelt i værste tilfælde.
+
+00:35:25
+Og samtidig med det, så var der bare den her med, at vi simpelthen ikke havde mulighed for at kunne få en driftvej ned til udløbscenariet nede ved følgebækken.
+
+00:35:35
+Så ja, under kontrollerede forhold ville der være mulighed for at få en mere effektiv rensning af.
+
+00:35:46
+Jeg håber, jeg var svar.
+
+00:35:47
+Så kommer der et spørgsmål, som du må hjælpe mig lidt med, Morten, fordi Kristina spørger, om vi kan få tilsendt præsentationen efterfølgende.
+
+00:35:56
+DRNK sender den ikke, men de lægger optagelsen op igen.
+
+00:35:59
+Så jeg ved ikke, om det er muligt, hvis de skriver til dig, at få den tilsendt fra dig, Morten.
+
+00:36:04
+Nu er det så heldigt, at lige nægtet på skærmbillet her, der står min e-mailadresse, så kontakt mig endelig, så sender jeg gerne præsentationen.
+
+00:36:12
+Super.
+
+00:36:15
+Og det.
+
+00:36:15
+Her spørgsmål tror jeg kom før, at du svarede på det, men Sebastian spørger, hvilken dokumentation ligger der til grund for renseprocenterne?
+
+00:36:25
+Hvilken dokumentation der.
+
+00:36:27
+Ligger til grund for renseprocenterne?
+
+00:36:30
+Det er jo ud fra de data, der ligger inde i stormtagsmoduleringsværktøjen.
+
+00:36:37
+Der er der mulighed for at tilvælge vault-renseløsningen ind som et rensaggregat, hvor man så kan se, hvad den forventede renseeffekt er.
+
+00:36:46
+Derudover havde vi selvfølgelig det her med, at vi havde en laboratorietest, hvor den er testet i henhold til DWA på de suspenderende stoffer og lette hydrocarbons.
+
+00:36:56
+Ydermere er vi i gang med en DIP-test, også ved laboratoriet, og så kommer der selvfølgelig de her feltestmålinger, som også gerne skal understøttes.
+
+00:37:04
+Når det er sådan, at vi kigger ind i en modelleringsværktøj, så kan vi faktisk gå ind og se, om det ikke stemmer godt overens med de her feltestmålinger også.
+
+00:37:12
+Ellers kan vi i hvert fald bruge de feltestmålinger til at lægge en forventelig rendseffekt ind, i henhold til hvad den er feltestmålet for.
+
+00:37:20
+Det er der faktisk også mulighed for med modelleringsværktøjet.
+
+00:37:26
+Det håber jeg i.
+
+00:37:26
+Hvert fald, du svarer.
+
+00:37:27
+Og husk, I kan stadig stille spørgsmål i chatten, og så skal jeg tage dem op.
+
+00:37:31
+Der er kommet et mere fra Troels.
+
+00:37:35
+Hvordan kan en VOLT DN 800 med 6 filtre tage 13 gange så meget vand, som den testede VOLT DN 300 med 2 filtre?
+
+00:37:46
+Der skal jeg.
+
+00:37:47
+Være svarsgyldig.
+
+00:37:48
+Jeg kan ikke give dig et svar, Troels, lige på stående fod.
+
+00:37:52
+Der er nødt til at skaffe fat i min udviklingsafdeling, der i Finland har sat og udviklet løsningen.
+
+00:37:58
+Der må være nogle foranstaltninger, som gør, at vi lige nok kan klare de funktionsflows, da de har udviklet dem deroppe.
+
+00:38:08
+Send mig inden det gerne spørgsmål troles i en mail bagefter, så tager vi gerne et møde med vores udviklingsafdeling og får det nærmere afklart.
+
+00:38:18
+Tak til Morten, og så vil jeg sige tak for jeres deltagelse derude, og ønske jer alle sammen en glædelig jul, og mind jer om at kigge ind på DNNK's klimakalender på de oplæg, vi har her i januar og februar, hvor der ligger rigtig, rigtig mange.
+
+00:38:34
+Så med det, glædelig jul og godt nytår til jer alle sammen.
+
