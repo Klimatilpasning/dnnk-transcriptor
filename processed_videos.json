@@ -1,117 +1,503 @@
-[
-  "-cb4v7A5zes",
-  "0Qkl6cc5rfo",
-  "0g3BQevQ34c",
-  "1XD2LhdhZKo",
-  "25a7BNv7clQ",
-  "29Dr6nkpCRw",
-  "31tDx3ih5yU",
-  "3F4rAhGYrSo",
-  "3Osuo3Kyqsw",
-  "3vDCEUgOs4U",
-  "4tW5vPcfKNQ",
-  "5TlOzxUqf-s",
-  "5g9RiDGEcFE",
-  "6JzsjZLjTCw",
-  "6SnZ_YYPRWs",
-  "6WNH1LkSKOM",
-  "7xCb7krzoyE",
-  "81w4qr2mD1c",
-  "AHqOLmOaqzg",
-  "B0nbd0PsT6s",
-  "C_P01GUqlg4",
-  "CdhyuzLQLNA",
-  "ChxcDYq00jk",
-  "Evq4ElsQXKg",
-  "G6Wa4fHjsQg",
-  "HDclqvKaBzw",
-  "HfhiePIW6z4",
-  "I3yc6ejlSq0",
-  "I6wec8LiyLA",
-  "J4sXEpKWfJU",
-  "L1-EYMdzUjY",
-  "LFbOJh76q7A",
-  "LU6f-LfWl-s",
-  "Le5CV7F20Bs",
-  "MIYK5y7B1GU",
-  "MMoi1_O_DAo",
-  "MjH4wjXNrlw",
-  "N1CbssTdim0",
-  "NTtn0rpQ_rU",
-  "Nm6UZibJc4c",
-  "OH8wEwQuL80",
-  "O_W1EujI2AE",
-  "PArK9-DfjA4",
-  "PX2toTzJhJQ",
-  "PbsuU-zM9j0",
-  "Pe5pxVfIqmo",
-  "Q--VgPGaxP8",
-  "RMgkFY37k6k",
-  "Tt8y1to2Nv0",
-  "ULr0lR9AgUA",
-  "VMtDQuapSKI",
-  "VhqwsCBh1pU",
-  "X_KGmKrcmM8",
-  "XkQpOdVMzE4",
-  "YEJyvfjXpZA",
-  "YFVZ3gg4sOI",
-  "YQLbuKfPvzQ",
-  "ZLnbJ3UdM4M",
-  "agCuRbhxX3k",
-  "aiF8z9PY8yc",
-  "ay2QrzQLFuE",
-  "bB_kNM928t8",
-  "c8b8_6K4Y34",
-  "cQC0R4IQyOg",
-  "c_hJluY22do",
-  "cwUJuE6Ngfc",
-  "dGf3Ud37L_w",
-  "dQD4UzfLbN4",
-  "eC5v7aZJifY",
-  "eXe4PJT_hzo",
-  "ebEyKOpr0OA",
-  "fBBPnW9CQts",
-  "fXCjmza5qP0",
-  "hJoegrvU8Qo",
-  "iEYn2mc6k-s",
-  "iI4dndGpHxo",
-  "ifFA3N9jEro",
-  "jBWJQdKfRG0",
-  "jCgzXn8gdEg",
-  "lcjJUcCVcsE",
-  "m1tgfbFMyvE",
-  "mGEmufmIWTU",
-  "mnT4dtkb4Jc",
-  "mvx1dZTtyX8",
-  "nZ0y68QWSrU",
-  "o9iVKvTkAj0",
-  "oQx_47fe8z0",
-  "oeUQmiidh9o",
-  "oiOzPJ5gUjE",
-  "p5KWW2mdOrA",
-  "pc3dWOXdodk",
-  "q-ONigoqS4E",
-  "qCwJB5c1iNA",
-  "qJ9fw3YFZvs",
-  "qLvsiFSkg9c",
-  "qar89H6b2Qs",
-  "qfU7bfSXtjo",
-  "rPUXKqmDCKg",
-  "rRMkpYpnkWk",
-  "rkUAgSODzwE",
-  "rx610PWdwDY",
-  "s3s4l0UHLsc",
-  "sTjHsoDt00A",
-  "sVV7FcPmGew",
-  "sbh2YqucMys",
-  "tBq4n3DmdzM",
-  "tFT2VjSIC3c",
-  "wiA38PWQBGs",
-  "wwwgM_3ONqw",
-  "xEaF5OU65aM",
-  "ydcOvzPz7Vg",
-  "z2gAXSuesg4",
-  "zVApjEn8eMc",
-  "zn5tZi2gQO8",
-  "zpzBuv6P0ys"
-]
+{
+  "-cb4v7A5zes": {
+    "status": "done"
+  },
+  "0Qkl6cc5rfo": {
+    "status": "done"
+  },
+  "0g3BQevQ34c": {
+    "status": "done"
+  },
+  "1XD2LhdhZKo": {
+    "status": "done"
+  },
+  "25a7BNv7clQ": {
+    "status": "done"
+  },
+  "29Dr6nkpCRw": {
+    "status": "done"
+  },
+  "31tDx3ih5yU": {
+    "status": "done"
+  },
+  "3F4rAhGYrSo": {
+    "status": "done"
+  },
+  "3Osuo3Kyqsw": {
+    "status": "done"
+  },
+  "3vDCEUgOs4U": {
+    "status": "done"
+  },
+  "4tW5vPcfKNQ": {
+    "status": "done"
+  },
+  "5TlOzxUqf-s": {
+    "status": "done"
+  },
+  "5g9RiDGEcFE": {
+    "status": "done"
+  },
+  "6JzsjZLjTCw": {
+    "status": "done"
+  },
+  "6SnZ_YYPRWs": {
+    "status": "done"
+  },
+  "6WNH1LkSKOM": {
+    "status": "done"
+  },
+  "7xCb7krzoyE": {
+    "status": "done"
+  },
+  "81w4qr2mD1c": {
+    "status": "done"
+  },
+  "AHqOLmOaqzg": {
+    "status": "done"
+  },
+  "B0nbd0PsT6s": {
+    "status": "done"
+  },
+  "C_P01GUqlg4": {
+    "status": "done"
+  },
+  "CdhyuzLQLNA": {
+    "status": "done"
+  },
+  "ChxcDYq00jk": {
+    "status": "done"
+  },
+  "Evq4ElsQXKg": {
+    "status": "done"
+  },
+  "G6Wa4fHjsQg": {
+    "status": "done"
+  },
+  "HDclqvKaBzw": {
+    "status": "done"
+  },
+  "HfhiePIW6z4": {
+    "status": "done"
+  },
+  "I3yc6ejlSq0": {
+    "status": "done"
+  },
+  "I6wec8LiyLA": {
+    "status": "done"
+  },
+  "J4sXEpKWfJU": {
+    "status": "done"
+  },
+  "L1-EYMdzUjY": {
+    "status": "done"
+  },
+  "LFbOJh76q7A": {
+    "status": "done"
+  },
+  "LU6f-LfWl-s": {
+    "status": "done"
+  },
+  "Le5CV7F20Bs": {
+    "status": "done"
+  },
+  "MIYK5y7B1GU": {
+    "status": "done"
+  },
+  "MMoi1_O_DAo": {
+    "status": "done"
+  },
+  "MjH4wjXNrlw": {
+    "status": "done"
+  },
+  "N1CbssTdim0": {
+    "status": "done"
+  },
+  "NTtn0rpQ_rU": {
+    "status": "done"
+  },
+  "Nm6UZibJc4c": {
+    "status": "done"
+  },
+  "OH8wEwQuL80": {
+    "status": "done"
+  },
+  "O_W1EujI2AE": {
+    "status": "done"
+  },
+  "PArK9-DfjA4": {
+    "status": "done"
+  },
+  "PX2toTzJhJQ": {
+    "status": "done"
+  },
+  "PbsuU-zM9j0": {
+    "status": "done"
+  },
+  "Pe5pxVfIqmo": {
+    "status": "done"
+  },
+  "Q--VgPGaxP8": {
+    "status": "done"
+  },
+  "RMgkFY37k6k": {
+    "status": "done"
+  },
+  "Tt8y1to2Nv0": {
+    "status": "done"
+  },
+  "ULr0lR9AgUA": {
+    "status": "done"
+  },
+  "VMtDQuapSKI": {
+    "status": "done"
+  },
+  "VhqwsCBh1pU": {
+    "status": "done"
+  },
+  "X_KGmKrcmM8": {
+    "status": "done"
+  },
+  "XkQpOdVMzE4": {
+    "status": "done"
+  },
+  "YEJyvfjXpZA": {
+    "status": "done"
+  },
+  "YFVZ3gg4sOI": {
+    "status": "done"
+  },
+  "YQLbuKfPvzQ": {
+    "status": "done"
+  },
+  "ZLnbJ3UdM4M": {
+    "status": "done"
+  },
+  "agCuRbhxX3k": {
+    "status": "done"
+  },
+  "aiF8z9PY8yc": {
+    "status": "done"
+  },
+  "ay2QrzQLFuE": {
+    "status": "done"
+  },
+  "bB_kNM928t8": {
+    "status": "done"
+  },
+  "c8b8_6K4Y34": {
+    "status": "done"
+  },
+  "cQC0R4IQyOg": {
+    "status": "done"
+  },
+  "c_hJluY22do": {
+    "status": "done"
+  },
+  "cwUJuE6Ngfc": {
+    "status": "done"
+  },
+  "dGf3Ud37L_w": {
+    "status": "done"
+  },
+  "dQD4UzfLbN4": {
+    "status": "done"
+  },
+  "eC5v7aZJifY": {
+    "status": "done"
+  },
+  "eXe4PJT_hzo": {
+    "status": "done"
+  },
+  "ebEyKOpr0OA": {
+    "status": "done"
+  },
+  "fBBPnW9CQts": {
+    "status": "done"
+  },
+  "fXCjmza5qP0": {
+    "status": "done"
+  },
+  "hJoegrvU8Qo": {
+    "status": "done"
+  },
+  "iEYn2mc6k-s": {
+    "status": "done"
+  },
+  "iI4dndGpHxo": {
+    "status": "done"
+  },
+  "ifFA3N9jEro": {
+    "status": "done"
+  },
+  "jBWJQdKfRG0": {
+    "status": "done"
+  },
+  "jCgzXn8gdEg": {
+    "status": "done"
+  },
+  "lcjJUcCVcsE": {
+    "status": "done"
+  },
+  "m1tgfbFMyvE": {
+    "status": "done"
+  },
+  "mGEmufmIWTU": {
+    "status": "done"
+  },
+  "mnT4dtkb4Jc": {
+    "status": "done"
+  },
+  "mvx1dZTtyX8": {
+    "status": "done"
+  },
+  "nZ0y68QWSrU": {
+    "status": "done"
+  },
+  "o9iVKvTkAj0": {
+    "status": "done"
+  },
+  "oQx_47fe8z0": {
+    "status": "done"
+  },
+  "oeUQmiidh9o": {
+    "status": "done"
+  },
+  "oiOzPJ5gUjE": {
+    "status": "done"
+  },
+  "p5KWW2mdOrA": {
+    "status": "done"
+  },
+  "pc3dWOXdodk": {
+    "status": "done"
+  },
+  "q-ONigoqS4E": {
+    "status": "done"
+  },
+  "qCwJB5c1iNA": {
+    "status": "done"
+  },
+  "qJ9fw3YFZvs": {
+    "status": "done"
+  },
+  "qLvsiFSkg9c": {
+    "status": "done"
+  },
+  "qar89H6b2Qs": {
+    "status": "done"
+  },
+  "qfU7bfSXtjo": {
+    "status": "done"
+  },
+  "rPUXKqmDCKg": {
+    "status": "done"
+  },
+  "rRMkpYpnkWk": {
+    "status": "done"
+  },
+  "rkUAgSODzwE": {
+    "status": "done"
+  },
+  "rx610PWdwDY": {
+    "status": "done"
+  },
+  "s3s4l0UHLsc": {
+    "status": "done"
+  },
+  "sTjHsoDt00A": {
+    "status": "done"
+  },
+  "sVV7FcPmGew": {
+    "status": "done"
+  },
+  "sbh2YqucMys": {
+    "status": "done"
+  },
+  "tBq4n3DmdzM": {
+    "status": "done"
+  },
+  "tFT2VjSIC3c": {
+    "status": "done"
+  },
+  "wiA38PWQBGs": {
+    "status": "done"
+  },
+  "wwwgM_3ONqw": {
+    "status": "done"
+  },
+  "xEaF5OU65aM": {
+    "status": "done"
+  },
+  "ydcOvzPz7Vg": {
+    "status": "done"
+  },
+  "z2gAXSuesg4": {
+    "status": "done"
+  },
+  "zVApjEn8eMc": {
+    "status": "done"
+  },
+  "zn5tZi2gQO8": {
+    "status": "done"
+  },
+  "zpzBuv6P0ys": {
+    "status": "done"
+  },
+  "HN2x08zNQ0k": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (afstemt mod soegeindeks 2026-07-02)"
+  },
+  "uWRcgAlzsww": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (afstemt mod soegeindeks 2026-07-02)"
+  },
+  "7I18KF-T6Xo": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (afstemt mod soegeindeks 2026-07-02)"
+  },
+  "252-u9jo3h0": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (afstemt mod soegeindeks 2026-07-02)"
+  },
+  "kG3ZBFW4AHU": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (afstemt mod soegeindeks 2026-07-02)"
+  },
+  "4h-LgQEW98M": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (afstemt mod soegeindeks 2026-07-02)"
+  },
+  "jQHOOGRZL_E": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (afstemt mod soegeindeks 2026-07-02)"
+  },
+  "AsevUr50sDE": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (afstemt mod soegeindeks 2026-07-02)"
+  },
+  "1-A_PXpuxc8": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (afstemt mod soegeindeks 2026-07-02)"
+  },
+  "HCzn9uIy6-c": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (afstemt mod soegeindeks 2026-07-02)"
+  },
+  "CgdzP4k0egA": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (afstemt mod soegeindeks 2026-07-02)"
+  },
+  "m1wPVwmKkY4": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (afstemt mod soegeindeks 2026-07-02)"
+  },
+  "CRTBz-62FZY": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (afstemt mod soegeindeks 2026-07-02)"
+  },
+  "6XVJFeYBfMQ": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (titel-match 2026-07-02)"
+  },
+  "BbdyAm56mL0": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (titel-match 2026-07-02)"
+  },
+  "FjuP3GM6eZo": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (titel-match 2026-07-02)"
+  },
+  "GzSFrH1w0KE": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (titel-match 2026-07-02)"
+  },
+  "In0osHqEqHE": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (titel-match 2026-07-02)"
+  },
+  "J_cm94iCMoQ": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (titel-match 2026-07-02)"
+  },
+  "Qk8muDovyb4": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (titel-match 2026-07-02)"
+  },
+  "SvUQPhZmeBk": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (titel-match 2026-07-02)"
+  },
+  "TIztwCqBsvA": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (titel-match 2026-07-02)"
+  },
+  "VXdx1QPFE_0": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (titel-match 2026-07-02)"
+  },
+  "Vb8V4CNb8m4": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (titel-match 2026-07-02)"
+  },
+  "az9p3WWmbFg": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (titel-match 2026-07-02)"
+  },
+  "c166Ir_w9xE": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (titel-match 2026-07-02)"
+  },
+  "fIYhKVGTync": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (titel-match 2026-07-02)"
+  },
+  "h1dFEX4Kedw": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (titel-match 2026-07-02)"
+  },
+  "ibjFfDZDEKw": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (titel-match 2026-07-02)"
+  },
+  "jUoQSfpQqAA": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (titel-match 2026-07-02)"
+  },
+  "oi96D53cs00": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (titel-match 2026-07-02)"
+  },
+  "r-xWVtUWvrU": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (titel-match 2026-07-02)"
+  },
+  "r3mkSTF4cug": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (titel-match 2026-07-02)"
+  },
+  "uko6uc4MMag": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (titel-match 2026-07-02)"
+  },
+  "vjlntNnZq-Y": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (titel-match 2026-07-02)"
+  },
+  "w-YOXLrBiO4": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (titel-match 2026-07-02)"
+  },
+  "wEirNEja6zM": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (titel-match 2026-07-02)"
+  },
+  "zjdKqPS1v2s": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (titel-match 2026-07-02)"
+  },
+  "Ji4dUzWF6NQ": {
+    "status": "done",
+    "note": "transskription findes allerede i korpus (titel-match 2026-07-02)"
+  }
+}

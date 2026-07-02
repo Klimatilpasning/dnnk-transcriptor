@@ -27,6 +27,7 @@ TRANSCRIPTIONS_FOLDER = Path("transcriptions")
 PROCESSED_VIDEOS_FILE = "processed_videos.json"
 
 MAX_ATTEMPTS = 3          # opgiv en video efter 3 fejlede forsøg
+MAX_NEW_PER_RUN = 5       # loft over betalte ordrer pr. kørsel (efterslæb indhentes over flere dage)
 POLL_INITIAL_WAIT = 30    # sekunder før første status-tjek
 POLL_INTERVAL = 20        # sekunder mellem status-tjek
 POLL_MAX_MINUTES = 40     # lange webinarer tager ofte >10 min at transskribere
@@ -233,6 +234,7 @@ def main():
     resume_pending(state)
 
     new_videos_found = 0
+    orders_placed = 0
     for category_name, category_url in CATEGORIES.items():
         print(f"\n📂 Tjekker kategori: {category_name}")
         video_ids = scrape_category_for_videos(category_url)
@@ -246,9 +248,17 @@ def main():
                 if entry.get("attempts", 0) >= MAX_ATTEMPTS:
                     continue  # opgivet — undgå at betale for samme fejl hver dag
 
+            if orders_placed >= MAX_NEW_PER_RUN:
+                print(f"   ⏸️ Loft på {MAX_NEW_PER_RUN} nye ordrer nået — resten tages næste kørsel")
+                break
+
+            orders_placed += 1
             if process_video(state, video_id, category_name):
                 new_videos_found += 1
             time.sleep(2)
+        else:
+            continue
+        break  # loftet er nået — stop også ydre løkke
 
     print(f"\n{'='*60}")
     print(f"✅ Tjek komplet - {new_videos_found} nye videoer transskriberet")
