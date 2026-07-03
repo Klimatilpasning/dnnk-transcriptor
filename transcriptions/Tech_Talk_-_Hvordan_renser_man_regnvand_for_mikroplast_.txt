@@ -1,11 +1,11 @@
 00:00:05
-Kære alle velkommen til dagens tiktok på DNNK mit navn Det er teis roskov Andersen og Jeg er forbi University College sammen med Kristoffer sindby Larsen fra åben Nygaard og Morten handling fra DNAK vil jeg gerne på vegne af DNK byde jer alle sammen. Velkommen til dagens tektop idag vil jes bollersen fra Aalborg Universitet fortælle om hans forskningsresultater i forbindelse med undersøgelserne af rensning af regnvand for mikroplast.
+Kære alle velkommen til dagens Tech Talk på DNNK mit navn Det er teis roskov Andersen og Jeg er forbi University College sammen med Kristoffer sindby Larsen fra åben Nygaard og Morten handling fra DNNK vil jeg gerne på vegne af DNK byde jer alle sammen. Velkommen til dagens Tech Talk idag vil Jes Vollertsen fra Aalborg Universitet fortælle om hans forskningsresultater i forbindelse med undersøgelserne af rensning af regnvand for mikroplast.
 
 00:00:28
-Og lidt praktisk information inden vi starter, og jeg giver ordet til jess. Selve præsentationen vil bare cirka en 30-35 minutter, hvorefter du vil være cirka 10 minutter til spørgsmål. Og i kan stille jeres spørgsmål løbende igennem hele tiktokken ude i chatten.
+Og lidt praktisk information inden vi starter, og jeg giver ordet til Jes. Selve præsentationen vil bare cirka en 30-35 minutter, hvorefter du vil være cirka 10 minutter til spørgsmål. Og i kan stille jeres spørgsmål løbende igennem hele tiktokken ude i chatten.
 
 00:00:42
-Og så vil jeg sammen med jess gennemgå dem i slutningen af tiktokken, og de vil blive besvaret. Og for god ordens skyld skal jeg informere om at tik toppen bliver optaget og vil ligge på DND ks hjemmeside i løbet af et par dage.
+Og så vil jeg sammen med Jes gennemgå dem i slutningen af tiktokken, og de vil blive besvaret. Og for god ordens skyld skal jeg informere om at tik toppen bliver optaget og vil ligge på DNNKs hjemmeside i løbet af et par dage.
 
 00:00:54
 Og Det var alt, og så vil jeg give ordet til dig jes. Velkommen til.
@@ -128,7 +128,7 @@ Og så alle de andre dem der burde synke til bunds PVC for eksempel altså som e
 Så er Det er det man kan ikke bare tage ud og tage en enkelt prøve, og så tror man man har et tal.
 
 00:08:39
-Fordi Der er meget, meget stor vej for forskel så den her l 5 og den her l 6 Det var dem der havde de største indbyrdes forskelle, så der var cirka en faktor faktor 100 mellem mellem højest laveste koncentration og der var ikke nogen systematik i hvor der var høje konstruktioner hvor der var lave konstruktioner, så det det det skal man nok holde for øje, hvis man vil prøve tage, og det gælder i øvrigt også andre stoffer end end end plast. Man kan ikke bare tage en klap citiment og så tro man har tal.
+Fordi Der er meget, meget stor vej for forskel så den her l 5 og den her l 6 Det var dem der havde de største indbyrdes forskelle, så der var cirka en faktor faktor 100 mellem mellem højest laveste koncentration og der var ikke nogen systematik i hvor der var høje konstruktioner hvor der var lave konstruktioner, så det det det skal man nok holde for øje, hvis man vil prøve tage, og det gælder i øvrigt også andre stoffer end end end plast. Man kan ikke bare tage en klap sediment og så tro man har tal.
 
 00:09:06
 Så har man et tilfældigt tal i stedet for 1 1 1 koncentration i Sådan et bassin.
@@ -194,7 +194,7 @@ Så kan vi antage at det vand, der løber ud under en regnhændelse, har samme k
 Det der gamle tørvejr vand ud i den 2 ende så så så specielt for de små måske op til mellemstore hændelser er det en ganske fornuftig antagelse og langt, langt langt. Det meste vand kommer under den slags den slags hændelser.
 
 00:12:40
-Så kan vi jo estimere hvor meget vand der løber til bassinet, og så kan vi regne ud, hvor meget Vi har tilbageholdt. Det gjorde vi i et i et studie, som Vi har afsluttet for nyligt, hvor vi kiggede på 4 bassiner et lille vig Hedensted, Mariager Odense, hvor vi målte indløbsvandføringen i en periode og brugte til til at bestemme det. Det tilkoblede reduceret real.
+Så kan vi jo estimere hvor meget vand der løber til bassinet, og så kan vi regne ud, hvor meget Vi har tilbageholdt. Det gjorde vi i et i et studie, som Vi har afsluttet for nyligt, hvor vi kiggede på 4 bassiner et lille vig Hedensted, Mariager, Odense, hvor vi målte indløbsvandføringen i en periode og brugte til til at bestemme det. Det tilkoblede reduceret real.
 
 00:13:05
 Og så beregnede vi ud fra det og fra de respektive rainserieindløs vandføringen over hele bassinens levetid, hvis vi gør det.
@@ -455,7 +455,7 @@ Og så lave lidt reklame for mit lap.
 Men som sagt, det ville jeg ikke belemre jer med lige nu her. Yes Det var hvad jeg havde at sige.
 
 00:29:32
-1000 tak Jesper for en rigtig spændende tiktok som sagt i er alle sammen meget velkommen til at stille spørgsmål til jess ude i chatten og så så besvare dem, så besvarer vi dem og Jeg kan se Nikolaj har allerede skrevne spørgsmål, så vi starter med hans spørgsmål og han spørger, kan man sige at besingens udformning derved påvirker renseffekten, for burde få flydende partikler danne snot udformning ved øge chancen for at de klistrer sig fast og bundfalder?
+1000 tak Jesper for en rigtig spændende Tech Talk som sagt i er alle sammen meget velkommen til at stille spørgsmål til Jes ude i chatten og så så besvare dem, så besvarer vi dem og Jeg kan se Nikolaj har allerede skrevne spørgsmål, så vi starter med hans spørgsmål og han spørger, kan man sige at besingens udformning derved påvirker renseffekten, for burde få flydende partikler danne snot udformning ved øge chancen for at de klistrer sig fast og bundfalder?
 
 00:30:01
 Ja det vil jeg mene det Jeg vil mene jeg mener at Der er meget at hente II hvordan man udformer bassiner.
@@ -710,13 +710,13 @@ Og så kan vi lige nå det sidste spørgsmål, og du har et minut jes, så vi lu
 Ja Det er der en i det gælder i øvrigt også de andre forurenende stoffer. Der er jo stort set ingen undersøgelser på på på overløbsrensning, og i øvrigt så er der vel heller ikke ret mange der laver overløbsrensning. Det kunne man sagtens stille spørgsmålstegn ved, om Det er i orden.
 
 00:44:26
-1000 tak jes nu nærmer klokken så et og så så må vi hellere stoppe, så folk kan komme videre til næste møde og så Jeg vil sige 1000 tak Jesper en spændende tiktok.
+1000 tak jes nu nærmer klokken så et og så så må vi hellere stoppe, så folk kan komme videre til næste møde og så Jeg vil sige 1000 tak Jesper en spændende Tech Talk.
 
 00:44:35
 Selv tak.
 
 00:44:36
-Og som altid kan finde denne og ældre tiktokks på DNN ks hjemmeside, og her vil i også kunne finde kommende arrangementer i klimakalenderen. Og hvis nogen af jer tilhører kunne tænke sig at afholde en tiktok, så må i endelig tage fat i mig eller en 2 fra DNNK. Og ellers vil jeg bare sige 1000.
+Og som altid kan finde denne og ældre tiktokks på DNN ks hjemmeside, og her vil i også kunne finde kommende arrangementer i klimakalenderen. Og hvis nogen af jer tilhører kunne tænke sig at afholde en Tech Talk, så må i endelig tage fat i mig eller en 2 fra DNNK. Og ellers vil jeg bare sige 1000.
 
 00:44:51
 Tak for i dag og 1000 tak Jesper en rigtig spændende check.

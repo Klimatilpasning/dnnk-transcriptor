@@ -1,5 +1,5 @@
 00:00:04
-Velkommen til godmorgen med danning k. Vi har et fint program i dag med mads og Sarah fra envi dagen, som vil fortælle os en hel masse spændende om, hvordan vi kan lave klimatilpasning uden at vi samtidig laver en masse klimagasudledning. De vil fortælle os lidt omkring nogle dynamisk planlægningsværktøjer.
+Velkommen til godmorgen med DNNK. Vi har et fint program i dag med mads og Sarah fra Envidan, som vil fortælle os en hel masse spændende om, hvordan vi kan lave klimatilpasning uden at vi samtidig laver en masse klimagasudledning. De vil fortælle os lidt omkring nogle dynamisk planlægningsværktøjer.
 
 00:00:26
 Og.
@@ -23,7 +23,7 @@ Simpelthen sige velkommen til mads og Sarah, så i kan lige få lov at præsente
 Ja tak for det.
 
 00:00:55
-Og tak fordi II ville være med her til morgen. Jeg hedder mads ugerby er fra inviteret som sagt, og Jeg er direktør for bæredygtighed og innovation i invaderen.
+Og tak fordi II ville være med her til morgen. Jeg hedder mads ugerby er fra Envidan som sagt, og Jeg er direktør for bæredygtighed og innovation i Envidan.
 
 00:01:08
 Og så vil jeg egentlig bare give ordet videre til dig, sara.
@@ -185,7 +185,7 @@ Klimaregnskab. Der har vi anlægsaktiviteter. Investeringer i anlæg har vi esti
 Jeg har arbejdet med det i min PHD, som jeg startede i 2015 som Carsten albaniensen og Martin rygaard, som oprindeligt havde den ide, at man kunne kigge på klimatilpasning med livscyklusvurderingsbriller og livscyklusvurdering er en metode, der oprindeligt er udviklet til produkter, men som bliver bredt anvendt i for eksempel byggeri i dag, hvor Det er lovkrav også i større vejprojekter og så videre og også mere og mere af de her vandsystemer.
 
 00:11:10
-Men Jeg vil egentlig ikke gå mig i dybden med det, fordi Jeg har holdt en tektfuld DNNK regi, som man kan gå ind og se, hvis man vil være ved med om det.
+Men Jeg vil egentlig ikke gå mig i dybden med det, fordi Jeg har holdt en Tech Talk DNNK regi, som man kan gå ind og se, hvis man vil være ved med om det.
 
 00:11:22
 Der er det vist sket en hel masse siden 2005 og Vi har lavet en altså en lang række livsfrurdering af klimatilpasningsløsninger, som jeg ikke vil vise at have. Men Jeg vil vise et eksempel og dette eksempel, hvor Vi har kigget på etablering af noget forsinkelses volumen for at klimatilpasset er et boligområde, og Der er 2 muligheder. Det ene muligheder var, at man etablerer volumen.
@@ -485,7 +485,7 @@ Der sætter vi en produktion et andet sted i verden i gang.
 Og hvis vi bliver bedre af at efterspørge mindre eller direkte produkter, så reducerer vi klimagas udledninger et andet sted i verden, og der har vi et ansvar at kigge lidt bredere end Vores Sådan kommunale eller forsyningsgrænser. Og heldigvis er der den her åbning ICSI chief.
 
 00:30:27
-Og klima og alliancen har uddybet det. Det er ikke et krav, at der skal udarbejdes et regnskab for forbrugsudledninger, men Der er en række Sådan opgørelser. Planer fra Energistyrelsen af consido og og nogle forskere, hvor man kan få et intro på, hvilke forbruges udlændinger betyder noget i den i den offentlige sektor.
+Og klima og alliancen har uddybet det. Det er ikke et krav, at der skal udarbejdes et regnskab for forbrugsudledninger, men Der er en række Sådan opgørelser. Planer fra Energistyrelsen af Concito og og nogle forskere, hvor man kan få et intro på, hvilke forbruges udlændinger betyder noget i den i den offentlige sektor.
 
 00:30:51
 Og der skal man kigge som første skridt på de her på de her kilder og identificere minimum af 2 forbrugsgartfigurerier.
@@ -653,7 +653,7 @@ Ja.
 Vi, vi arbejder med en række værktøjer for at lave LCA for for klimadelsesprojekter afhængig af detaljeringsniveau. Og også nogle gange er der nogen kun altså forsyninger, der har et meget specifikt ønsker, men vi oplever at for at vi kan bruge SA bredere i alle Vores projekter, så er der behov for et værktøj. Det er Sådan lidt mere.
 
 00:41:03
-Lavpraktisk, som ikke kræver en flerårig uddannelse inden for, og derfor har vi sammen med covi udviklet et værksted, der hedder ASA warder, hvor vi ligesom prøver at Sådan.
+Lavpraktisk, som ikke kræver en flerårig uddannelse inden for, og derfor har vi sammen med COWI udviklet et værksted, der hedder ASA warder, hvor vi ligesom prøver at Sådan.
 
 00:41:16
 Demokratiseret ACA glemmer tilpasningsprojekter.

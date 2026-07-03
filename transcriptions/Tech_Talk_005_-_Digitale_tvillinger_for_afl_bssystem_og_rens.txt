@@ -287,7 +287,7 @@ Og jeg fik på den direkte medvirkende at fjerne de ejendomme, som er tilsluttet
 Kært and a re lined ledningerne a reine ledninger har derimod stor effekt på indsivninger fra det indirekte og den langvarige komponent. Systemet giver derfor et indblik i hvert opland, hvordan de forskellige flow komponenter medvirker i hvert opland og deraf også hvilke tiltag, som vil have den største effekt på det problem, man vil løse.
 
 00:17:57
-Det workflow Jeg har valgt til dagens tiktok, viser et enklere eksempel på, hvordan det skulle kunne se ud, hvis man tænker sig, at man har en Forsyning, som har fået 5 mio. Kroner til rådighed for at reducere antal ejendomme, som er fejlkoblet med 5 mio. Kroner, så vil man sikre at man benytter pengene i det eller de områder, som giver den bedste effekt.
+Det workflow Jeg har valgt til dagens Tech Talk, viser et enklere eksempel på, hvordan det skulle kunne se ud, hvis man tænker sig, at man har en Forsyning, som har fået 5 mio. Kroner til rådighed for at reducere antal ejendomme, som er fejlkoblet med 5 mio. Kroner, så vil man sikre at man benytter pengene i det eller de områder, som giver den bedste effekt.
 
 00:18:15
 Vi vælger derfor at gå fra status og indtage skabe en tilsatspakke.

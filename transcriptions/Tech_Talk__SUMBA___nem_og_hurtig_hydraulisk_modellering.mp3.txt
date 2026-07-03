@@ -14,7 +14,7 @@ For god ordens skyld skal det siges, at Tech Talken bliver optaget, og den vil v
 Lidt om det praktiske, så imens Tech Talken er i gang, så er I meget velkommen til løbende at stille spørgsmål i chatten.
 
 00:00:31
-Til slut vil jeg tage jeres spørgsmål op, Uden yderligere er dagens Tech Talk i dag, hvor Jørgen Pedersen fra WSP vil vise, hvordan Zumba fungerer som et modelleringsværktøj til vandhåndtering.
+Til slut vil jeg tage jeres spørgsmål op, Uden yderligere er dagens Tech Talk i dag, hvor Jørgen Torp Pedersen fra WSP vil vise, hvordan Sumba fungerer som et modelleringsværktøj til vandhåndtering.
 
 00:00:50
 Så husk, at I kan stille spørgsmål undervejs i chatten, og med det vil jeg give ordet videre til Jørgen, og så kan du selv præsentere dig herfra.
@@ -23,19 +23,19 @@ Så husk, at I kan stille spørgsmål undervejs i chatten, og med det vil jeg gi
 Ja, tak skal du have, Christoffer.
 
 00:01:02
-Jeg hedder som sagt Jørgen Torp Pedersen, og jeg er fagchef her i VSP, sidder i Høje Taastrup, og har været i VSP og tidligere i Orbicon i de sidste 13 år.
+Jeg hedder som sagt Jørgen Torp Pedersen, og jeg er fagchef her i WSP, sidder i Høje Taastrup, og har været i WSP og tidligere i Orbicon i de sidste 13 år.
 
 00:01:13
 Jeg er oprindelig uddannet naturgeograf, og er en af de få geografer, der er i denne her branche.
 
 00:01:18
-Så tak fordi jeg måtte komme og fortælle om Zumba i dag, og tak til alle jer, der lytter med.
+Så tak fordi jeg måtte komme og fortælle om Sumba i dag, og tak til alle jer, der lytter med.
 
 00:01:26
-Grunden til, at vi har udviklet Zumba, det er, at vi har haft behov for nogle simple beregninger med en boksmodel, hvor vi kan rule nogle lange historiske regnserier igennem et opland og ned til et eller flere bassiner.
+Grunden til, at vi har udviklet Sumba, det er, at vi har haft behov for nogle simple beregninger med en boksmodel, hvor vi kan rule nogle lange historiske regnserier igennem et opland og ned til et eller flere bassiner.
 
 00:01:38
-En af grundene til, at vi har brug for det, er, at vi kan se, at der er nogle udfordringer med SVK's regneark for både bassindimensionering og for lardimensionering.
+En af grundene til, at vi har brug for det, er, at vi kan se, at der er nogle udfordringer med SVK's regneark for både bassindimensionering og for LAR-dimensionering.
 
 00:01:49
 For eksempel kan man prøve at regne på, hvor meget nedbørder falder på et opland over et år.
@@ -125,10 +125,10 @@ Og hvad gør man så, når man sidder med de her to regnerak og har fået at vid
 Hvad gør man så, når man ikke kan bruge de her regnark?
 
 00:03:35
-Ja, der kan man så bruge Zumba, og det har vi gjort siden 2017.
+Ja, der kan man så bruge Sumba, og det har vi gjort siden 2017.
 
 00:03:39
-Vi har haft Zumba siden 2017, og vi har anvendt Zumba nu på i alt 320 projekter, fysisk placeret i 68 af landets kommuner, og vi har i alt udarbejdet 2.575 Zumba-modeller i sidste fredags.
+Vi har haft Sumba siden 2017, og vi har anvendt Sumba nu på i alt 320 projekter, fysisk placeret i 68 af landets kommuner, og vi har i alt udarbejdet 2.575 Sumba-modeller i sidste fredags.
 
 00:03:53
 Der er sikkert kommet nogle til her.
@@ -137,7 +137,7 @@ Der er sikkert kommet nogle til her.
 de sidste par dage.
 
 00:03:56
-Vi anvender Zumba, altså den her boksmodel, når der er fokus på volumener frem for vandføringsevner, eller hvis vi har brug for at regne på de her lange tidsserier med historisk regn, altså LTS-beregninger.
+Vi anvender Sumba, altså den her boksmodel, når der er fokus på volumener frem for vandføringsevner, eller hvis vi har brug for at regne på de her lange tidsserier med historisk regn, altså LTS-beregninger.
 
 00:04:06
 Hvis der er to eller flere bassiner, der er koblet, når der er styring mellem bassiner eller laranlæg, når bassiner eller laranlæg har flere udløb.
@@ -146,49 +146,49 @@ Hvis der er to eller flere bassiner, der er koblet, når der er styring mellem b
 Hvis vi gerne vil vide noget om årsbalancer, hvor det er vigtigt, at vandbalancen den passer.
 
 00:04:19
-Hvis fordampning er interessant, eller nedsivning er vigtig og interessant, så kan vi også bruge Zumba, det kan være svært af de andre, stykker software.
+Hvis fordampning er interessant, eller nedsivning er vigtig og interessant, så kan vi også bruge Sumba, det kan være svært af de andre, stykker software.
 
 00:04:25
-Vi kan også bruge Zumba til at påføre klimafaktorer til historiske regnsager, eller vi kan manipulere et regneinput, så vi kan bruge den regn, vi får ud af Zumba i nogle andre software.
+Vi kan også bruge Sumba til at påføre klimafaktorer til historiske regnsager, eller vi kan manipulere et regneinput, så vi kan bruge den regn, vi får ud af Sumba i nogle andre software.
 
 00:04:37
-Brug også Zumba, når det er vigtigere med en højtidsmæssig opløsning end med en korrekt hydrodynamisk beskrivelse, som man ville kunne få i en egentlig hydrodynamisk Mike-model for eksempel.
+Brug også Sumba, når det er vigtigere med en højtidsmæssig opløsning end med en korrekt hydrodynamisk beskrivelse, som man ville kunne få i en egentlig hydrodynamisk Mike-model for eksempel.
 
 00:04:46
-Eller hvis vi skal integrere flere forskellige datakilder og foretage joint probability-analyser, så kan vi også bruge Zumba til det.
+Eller hvis vi skal integrere flere forskellige datakilder og foretage joint probability-analyser, så kan vi også bruge Sumba til det.
 
 00:04:53
 Inden vi skal bruge sumper til at regne på stofkoncentration og rensegrader, og til sidst så bruger vi sumper i nogle rigtig store systemer også, som en form for scenarioberegninger, hvor vi for eksempel kigger på interne styring af bassiner, og det kan vi så efterfølgende verificere med Mike Urban modeller.
 
 00:05:11
-Så vi har brugt sumper til rigtig, rigtig mange ting, og det er ikke bare en eller anden skør idé, vi har fået her i foregås.
+Så vi har brugt sumper til rigtig, rigtig mange ting, og det er ikke bare en eller anden skør idé, vi har fået her i WSP.
 
 00:05:17
 Det har faktisk givet værdi for vores kunder igennem rigtig mange år.
 
 00:05:20
-Det har gjort, at vi har kunne lave bedre og eller billigere projekter, end vi ville have kunne, hvis vi ikke havde haft Zumba.
+Det har gjort, at vi har kunne lave bedre og eller billigere projekter, end vi ville have kunne, hvis vi ikke havde haft Sumba.
 
 00:05:27
 Og vi er selvfølgelig en hel række folk, der har arbejdet med at udvikle det her.
 
 00:05:31
-Først og fremmest Moen, som er vores programmer, og så er en hunes masse mennesker, som er nuværende og tidligere kollegaer, der har spillet ind med gode idéer til, hvad Zumba skulle kunne.
+Først og fremmest Morten, som er vores programmer, og så er en en hel masse mennesker, som er nuværende og tidligere kollegaer, der har spillet ind med gode idéer til, hvad Sumba skulle kunne.
 
 00:05:42
-Og nu tænker vi, at nu er det på tide, at andre end os kan få glæde af Zumba, og derfor frigiver vi Zumba til alle dem, der måtte have lyst til at bruge det.
+Og nu tænker vi, at nu er det på tide, at andre end os kan få glæde af Sumba, og derfor frigiver vi Sumba til alle dem, der måtte have lyst til at bruge det.
 
 00:05:50
 Det vender jeg tilbage til i slutningen af talken her, så det var lige en teaser.
 
 00:05:55
-Hvis I har lyst til at bruge Zumba, så lyt med, for så kommer der en beskrivelse af, hvordan I kan få adgang til det.
+Hvis I har lyst til at bruge Sumba, så lyt med, for så kommer der en beskrivelse af, hvordan I kan få adgang til det.
 
 00:06:02
-Zumba er opbygget efter sådan et Lego-klods-princip, og det står af sum af vand i bassiner, Og som sagt er det en boksmodel, der routerer vand mellem forskellige magasiner.
+Sumba er opbygget efter sådan et Lego-klods-princip, og det står af sum af vand i bassiner, Og som sagt er det en boksmodel, der routerer vand mellem forskellige magasiner.
 
 00:06:14
-Input til sumper er rigtig ofte SVK-nedbøger, altså nedbøger, der er målt ved Spillevandskomitéens regnmålerstationer.
+Input til sumper er rigtig ofte SVK-nedbøger, altså nedbøger, der er målt ved Spildevandskomitéens regnmålerstationer.
 
 00:06:22
 De ligger jo tilbage fra 1979 på dem, der er ældst.
@@ -215,7 +215,7 @@ Det gør også, at vi kommer til kort, hvis vi forsøger at lave det her i et re
 Der løber vi simpelthen tør for rækker.
 
 00:06:49
-Zumba fungerer helt basic ved, at vi lader det regne ned over et opland, så løber det ind i et bassin, og fra det bassin, der er der et eller andet udløb.
+Sumba fungerer helt basic ved, at vi lader det regne ned over et opland, så løber det ind i et bassin, og fra det bassin, der er der et eller andet udløb.
 
 00:06:57
 Det var det første tidsskridt, et minut.
@@ -269,7 +269,7 @@ Så vi slipper for at skulle lave de her joblister, som vi nogle gange skal lave
 Der er fuldstændig styr på vandbalancen.
 
 00:07:58
-Og vi regner som sagt på historiske ledbøger og ikke på de her kunstigt genererede CDS-regn, som vi rigtig tit ellers bruger i vores øremodeller.
+Og vi regner som sagt på historiske ledbøger og ikke på de her kunstigt genererede CDS-regn, som vi rigtig tit ellers bruger i vores hydrauliske modeller.
 
 00:08:06
 Der er selvfølgelig også nogle udlæmper.
@@ -278,7 +278,7 @@ Der er selvfølgelig også nogle udlæmper.
 Blandt andet det her med, at der er virkelig, virkelig mange data.
 
 00:08:10
-Hvis man laver sådan en boksmodel i et Reinaark eller et Python-skræbt, så har det lidt en tendens til at blive sådan nogle engangsmodeller, der er næsten umulige at ændre i efterfølgende.
+Hvis man laver sådan en boksmodel i et regneark eller et Python-skræbt, så har det lidt en tendens til at blive sådan nogle engangsmodeller, der er næsten umulige at ændre i efterfølgende.
 
 00:08:19
 Det gør også, at det kan være rigtig, rigtig svært at lave KS på.
@@ -290,7 +290,7 @@ Og så er der selvfølgelig også det her med, at vi ikke løser alle de hydrody
 Vi har ikke noget manningstal, vi har ikke nogen opstuning, energitab, ingen tidsforsærige og ingen dæmpning.
 
 00:08:31
-Men noget af det her kan vi løse ved at bruge Zumba.
+Men noget af det her kan vi løse ved at bruge Sumba.
 
 00:08:35
 Styr på alle de her datamænter.
@@ -302,7 +302,7 @@ Vi kan lave modeller, der er til KS'er, som vi nemt kan ændre i.
 Og vi kan også lægge den her tidsforsænkning og dæmpning ind i vores boksmodel, hvis vi har lyst til det.
 
 00:08:47
-I Zumba der er en hel række elementer, altså de klodser, vi har i kassen.
+I Sumba der er en hel række elementer, altså de klodser, vi har i kassen.
 
 00:08:52
 Og der er fem overordnede grupper.
@@ -323,13 +323,13 @@ Vi kan også tage tidsserier ind for vandføringer, som vi for eksempel kunne do
 Vi kan have tidsserier for fordampning, enten standardkurver eller nogle, vi downloader fra DMI's Open Data.
 
 00:09:16
-Vi kan også have nogle vandstandsmålinger, hvis der er registreret vandstand et eller andet sted, så kan man tage det ind i Zumba.
+Vi kan også have nogle vandstandsmålinger, hvis der er registreret vandstand et eller andet sted, så kan man tage det ind i Sumba.
 
 00:09:22
 Det kan man bruge til enten at kalibrere efter eller at styre efter sådan en vandstand.
 
 00:09:26
-Vi kan også have tidsserier med mandingtal, hvis vi godt vil regne på naturligt dybde i et specifikt tværsnit.
+Vi kan også have tidsserier med manningstal, hvis vi godt vil regne på naturligt dybde i et specifikt tværsnit.
 
 00:09:31
 Så har vi en tidsserie for temperaturer, som vi pt.
@@ -395,7 +395,7 @@ Og endelig så er der de her stofmanipulatorer, hvor vi kan putte stof ind i vor
 Det kommer jeg tilbage til lidt senere.
 
 00:11:36
-Når man åbner Zumba, så ser det sådan her ud, og så starter man typisk med at definere, hvad er det for en nedbør, vi gerne vil regne på.
+Når man åbner Sumba, så ser det sådan her ud, og så starter man typisk med at definere, hvad er det for en nedbør, vi gerne vil regne på.
 
 00:11:41
 Her er det så en Glostrup SVK-nedbørsserie, vi har puttet ind.
@@ -476,7 +476,7 @@ sek.
 i bare et minut.
 
 00:13:47
-Så det betyder noget, hvordan vi definerer det her overløb, og der er sådan en overløbstæler indbygget i Zumba, hvor man kan definere de her overløb, og hvis vi siger, at det er et nyt overløb, hver gang overløbet har været 0 liter pr.
+Så det betyder noget, hvordan vi definerer det her overløb, og der er sådan en overløbstæler indbygget i Sumba, hvor man kan definere de her overløb, og hvis vi siger, at det er et nyt overløb, hver gang overløbet har været 0 liter pr.
 
 00:14:00
 sek.
@@ -530,7 +530,7 @@ Som udgangspunkt har jeg valgt en model, hvor vi siger, at der er et initialtab 
 regnhændelse.
 
 00:16:08
-Det vil sige, at jeg bruger Spillevandskomitéens regnhændelsesdefinition.
+Det vil sige, at jeg bruger Spildevandskomitéens regnhændelsesdefinition.
 
 00:16:12
 Hvis det har været tørvejr i en time, så starter vi forfra med en ny regnhændelse, og så trækker vi de første 0,6 mm ud som initialtab.
@@ -539,7 +539,7 @@ Hvis det har været tørvejr i en time, så starter vi forfra med en ny regnhæn
 Men man kunne også godt lave en model, hvor vi siger, at der overhovedet ikke er noget initialtab, så får vi nogle væsentlig større volumener.
 
 00:16:26
-Og inden det, så kunne man lave, det har jeg gjort i en Zumba-model her, en model, hvor vi siger, at de her 0,6 mm bliver bygget op over 24 timer.
+Og inden det, så kunne man lave, det har jeg gjort i en Sumba-model her, en model, hvor vi siger, at de her 0,6 mm bliver bygget op over 24 timer.
 
 00:16:34
 Så hvis vi er ud over 24 timer, så har vi et initialtab på 0,6 mm, Men hvis der kun går 12 timer mellem hver regnhændelse, så er der kun et initialtab på det halve, altså 0,3 mm.
@@ -557,7 +557,7 @@ Der er slet ikke nogen klimafaktorer i det, jeg præsenterer her i de her figure
 Hvis vi havde puttet klimafaktorer på, så ville vi rykke hele vores figurer til højre.
 
 00:17:06
-Og så passer det måske meget godt med, at vi begynder at få nogle problemer, når vi kommer under de her to liter per sekund per hektar, som også er grænsen for, hvornår man kan bruge Spillemandskomitéens regnark.
+Og så passer det måske meget godt med, at vi begynder at få nogle problemer, når vi kommer under de her to liter per sekund per hektar, som også er grænsen for, hvornår man kan bruge Spildevandskomitéens regnark.
 
 00:17:17
 Når vi har de her lave afløbstal, så er der jo en tendens til, at vi får nogle meget lange tømmetider.
@@ -599,7 +599,7 @@ Det er noget, der kan være lidt svært at holde styr på, når man bruger Spild
 Det kommer vi ud over, hvis vi bruger de historiske regnsager.
 
 00:18:43
-Her er et eksempel fra Skovsbo, som vi lavede for Forsbo et tidspunkt, hvor der er en regnvandshåndteringsplan at regnvand skal håndteres på terræn i forskellige bassiner, inden der op mod nord er et udløb til den, der hedder Syvbækken.
+Her er et eksempel fra Skovbo, som vi lavede for Forsbo et tidspunkt, hvor der er en regnvandshåndteringsplan at regnvand skal håndteres på terræn i forskellige bassiner, inden der op mod nord er et udløb til den, der hedder Syvbækken.
 
 00:18:57
 Vi kunne så sætte en model op for de her fire forskellige delområder med fire forskellige oplande og bassiner, og lade de her forskellige bassiner løbe ind i hinanden, og på den baggrund dimensionere de her bassiner, så vi lige præcis havde plads til en femårshændelse i hver af de her bassiner.
@@ -611,7 +611,7 @@ Det vil sige, at vi gennemsnitlig statistisk set har et overløb en gang per fem
 En anden ting, vi kan kigge på, det er det her med nedsivningsanlæg.
 
 00:19:26
-Det her er også et projekt, vi har lavet for forårs, hvor vi har en hel række forskellige oplande, der alle sammen løber sammen i et rensebassin.
+Det her er også et projekt, vi har lavet for Forsyning, hvor vi har en hel række forskellige oplande, der alle sammen løber sammen i et rensebassin.
 
 00:19:33
 Det er det, der er tegnet med grønt her i midten.
@@ -629,7 +629,7 @@ I det her tilfælde har vi den samme k-værdi til alle vandstanden, men havde vi
 haft et bassinet med en membran, så kunne man have defineret, at der ikke var nogen nedsivning, altså k lige med 0, indtil vi kom op over den kant, hvor membranen var, så ville man kunne regne nedsivningen ud, når bassinet stod op over vores membrankant.
 
 00:20:15
-Man kan også få det plottet inde i Zumba.
+Man kan også få det plottet inde i Sumba.
 
 00:20:17
 Hvad er sammenhængen mellem vores korte, vores areal og vores nedsivning i liter per sekund?
@@ -665,7 +665,7 @@ Det havde set helt anderledes ud, hvis vores nedsivningsanlæg havde været spid
 På den måde kan man regne på, at de her nedsivningsbassiner ret præcist på en måde, som jeg tror er rigtig svært at gøre med, og andre typer software.
 
 00:21:10
-En anden ting, som man kan bruge Zumba til, det er denne her skalering af nedbør, som jeg har nævnt et par gange.
+En anden ting, som man kan bruge Sumba til, det er denne her skalering af nedbør, som jeg har nævnt et par gange.
 
 00:21:16
 Her er princippet, at vi bruger Spillemandskomiteens regional regnrække, i det her tilfælde den nyeste version, version 2023, som blev udgivet i forbindelse med skrift 32.
@@ -695,7 +695,7 @@ sekund, osv.
 osv.
 
 00:21:59
-Og den tabel her, den kan vi tilknytte vores regnserie i Zumba, så vi får en historisk regnserie, Der er sådan en tabel her tilknyttet.
+Og den tabel her, den kan vi tilknytte vores regnserie i Sumba, så vi får en historisk regnserie, Der er sådan en tabel her tilknyttet.
 
 00:22:08
 Og når vi har det, så kan vi be Sumba om at regne middelintensiteter ud over forskellige vejeheder for hver enkel regnhændelse i vores regnserie.
@@ -704,13 +704,13 @@ Og når vi har det, så kan vi be Sumba om at regne middelintensiteter ud over f
 Der er typisk de her 8-9.000 regnhændelser igennem sådan en periode på omkring 45 år.
 
 00:22:27
-Og når vi har regnet de her middelintensiteter ud, altså M5 og M10, altså middelintensiteten over 10 minutter, den maksimalere af dem for hver enkel regnhændelse, Så kan vi slå op i vores tabel og få at vide, for eksempel, at en mydelintensitet over 60 minutter på 4,72 mikrometer pr.
+Og når vi har regnet de her middelintensiteter ud, altså M5 og M10, altså middelintensiteten over 10 minutter, den maksimalere af dem for hver enkel regnhændelse, Så kan vi slå op i vores tabel og få at vide, for eksempel, at en middelintensitet over 60 minutter på 4,72 mikrometer pr.
 
 00:22:44
 sekund, det svarer til, at vores gentagelsesperiode er en 2,9 års hændelse.
 
 00:22:53
-Så vi regner alle de her forskellige mydelintensiteter ud, og de tilsvarende gentagelsesperioder, og på den måde kan vi tage den højeste af de her gentagelsesperioder og tilknytte den til hver enkel regnhændelse, Og også hvad er det for en varighed, den her gentagelsesperiode er baseret på.
+Så vi regner alle de her forskellige middelintensiteter ud, og de tilsvarende gentagelsesperioder, og på den måde kan vi tage den højeste af de her gentagelsesperioder og tilknytte den til hver enkel regnhændelse, Og også hvad er det for en varighed, den her gentagelsesperiode er baseret på.
 
 00:23:10
 Så for den regnhændelse nr.
@@ -761,7 +761,7 @@ Og endelig kan vi bruge det her til at regne en klimafremskrevet historisk nedb�
 baseret på gentagelsesperioden for den enkelte regnhændelse og eventuelt også varigheden.
 
 00:25:27
-Der kan vi gå ind i Spillevandskomitéens skrifter og sige, hvad er gentagelsesperioden for 2, 5, 10 og 100 årshændelser, så vidt jeg lige husker, og også for årsnedbøger.
+Der kan vi gå ind i Spildevandskomitéens skrifter og sige, hvad er gentagelsesperioden for 2, 5, 10 og 100 årshændelser, så vidt jeg lige husker, og også for årsnedbøger.
 
 00:25:39
 Vi kan også bruge skrift 32 af Regnerakket, der kan man få de her klimafaktorer også for forskellige gentagelsesperioder.
@@ -794,13 +794,13 @@ Heller ikke noget med, at sommernedbøren nødvendigvis ændrer sig mere end vin
 Det er præcis den samme nedbør, vi blot skal lære i fremtiden.
 
 00:26:38
-Det er ikke en officiel metode, som Spildevandskomiteen har nikket til, men det er vores bedste bud i VSP på, hvordan man kan lave sådan en klimafremskrevet tidsserie for nedbør.
+Det er ikke en officiel metode, som Spildevandskomiteen har nikket til, men det er vores bedste bud i WSP på, hvordan man kan lave sådan en klimafremskrevet tidsserie for nedbør.
 
 00:26:47
 Det gode ved det her, det er, at den er operationelt.
 
 00:26:48
-Det vil sige, at det er forholdsvis nemt at gøre, når først man har Zumba.
+Det vil sige, at det er forholdsvis nemt at gøre, når først man har Sumba.
 
 00:26:51
 Den er deterministisk, det vil sige, at du kan regne det hele efter i hånden.
@@ -827,7 +827,7 @@ Det har vi brugt i et eksempel her, som jeg har fået lov til at vise fra Ishøj
 Der vil man godt vide, om der endda er en enkelt pumpe på Store Vejleå, men er der behov for i fremtiden at putte nogle større pumper på.
 
 00:27:30
-Det kan vi kigge på i dag, og det kan vi gøre med Joint Properability, altså hvor vi putter forskellige datakilder ind i vores Zumba-model.
+Det kan vi kigge på i dag, og det kan vi gøre med Joint Properability, altså hvor vi putter forskellige datakilder ind i vores Sumba-model.
 
 00:27:39
 Vi har vandføring i vandløbene, vi har noget nedbør over byen, og endelig har vi en vandstand ude i haven, som alle sammen er målt.
@@ -863,7 +863,7 @@ vandstanden og plottet dem op mod hinanden, altså den målte vandstand mod den 
 Vi kan se, at de ligger på en 1-1-linje, det vil sige, at vi ikke har nogen bajers i vores model, og vores AERIANMA er 0,85, så det er en rigtig god model til at simulere, hvilken vandstand der vil være i de her laguner.
 
 00:28:56
-Når vi så har gjort det, så er der i Zumba også en statistikmodul, hvor vi kan tage f.eks.
+Når vi så har gjort det, så er der i Sumba også en statistikmodul, hvor vi kan tage f.eks.
 
 00:29:01
 de her vandstanden, der er målt i lagunerne og lave ekstremværdifordelingsanalyse på det.
@@ -938,7 +938,7 @@ Det kan vi også bruge sumper til at regne på.
 Med hensyn til stoffjernelse, der kan vi gøre det på to forskellige måder.
 
 00:31:29
-Dels snakke med Jess Follersen, der har været hovedforfatter på den her baggrundsrapport omkring våde bassiner, og vi har fået lov til at tjusjæle hans matematik, så vi kan lave den her førsteordensnedbrydning med rattekonstanter af stof, som man gør i for eksempel VDP-software.
+Dels snakke med Jes Vollertsen, der har været hovedforfatter på den her baggrundsrapport omkring våde bassiner, og vi har fået lov til at tjusjæle hans matematik, så vi kan lave den her førsteordensnedbrydning med rattekonstanter af stof, som man gør i for eksempel WDP-software.
 
 00:31:45
 Det er den ene måde, vi kan fjerne stof i vores model på, og den anden er ved at putte nogle kendte rensegrader ind.
@@ -950,10 +950,10 @@ Hvis vi har forskellige typer regnvandsbassiner eller forskellige typer rensemek
 Så i den ene situation, der regner vi rensegraden, og i den anden situation, der kender vi rensegraden og putter den ind i vores model.
 
 00:32:10
-Vi er også i gang med at kigge på noget omkring tybe-tal, det er work in progress lige nu, hvor man kan definere den sammensætning af sit opland, hvis vi i det her tilfælde har et opland, der består 15 % tæt by, 25 % åben by, 25 % ny åben by, 10 % store veje og 25 % industri.
+Vi er også i gang med at kigge på noget omkring typetal, det er work in progress lige nu, hvor man kan definere den sammensætning af sit opland, hvis vi i det her tilfælde har et opland, der består 15 % tæt by, 25 % åben by, 25 % ny åben by, 10 % store veje og 25 % industri.
 
 00:32:32
-Hvad bliver så de vigtige koncentrationer af forskellige miljøfarlige stoffer beregnet på baggrund af nogle tybetalt, som vi er ved at få udarbejdet her i VSP i samarbejde med gode kollegaer rundt omkring.
+Hvad bliver så de vigtige koncentrationer af forskellige miljøfarlige stoffer beregnet på baggrund af nogle typetal, som vi er ved at få udarbejdet her i WSP i samarbejde med gode kollegaer rundt omkring.
 
 00:32:47
 Det er som sagt work in progress, men noget der kommer ret snart.
@@ -998,7 +998,7 @@ Det er noget, vi laver sammen med Lolland Forsyning, som har en Orbus database, 
 De data skal vi manipulere i et regneark, og for eksempel fortælle, hvis det ikke allerede står i Opus, hvor er det så de her enkelte bassiner, hvordan er de koblet sammen, og hvad er pumpeydelserne, det er ikke altid det nødvendigvis står der, så der skal vi lige ind manuelt og rette nogle ting til, for eksempel på baggrund af en ledningsdatabase.
 
 00:34:13
-Når vi så har gjort det, så kan vi trykke Import til Zumba, og så får vi en Zumba-model ud, som vi ser her til højre.
+Når vi så har gjort det, så kan vi trykke Import til Sumba, og så får vi en Sumba-model ud, som vi ser her til højre.
 
 00:34:22
 Og endelig, som jeg nævnte, så kan vi også lave nogle rigtig komplicerede zumba-modeller.
@@ -1016,7 +1016,7 @@ Det her er et stort regnvandssystem.
 Jeg tror, det er Hillerød, min kollega Heidi, der har siddet med det, og lavet en masse scenarier for, hvordan man kan styre de her bassiner, der er i det her system, internt i forhold til hinanden, så for på den måde at kunne optimere på, hvor ofte, eller rettere sagt, hvor sjældent de her bassiner skal gå i overløb.
 
 00:34:50
-Og der kan man med Zumba-modellen lave en hulens masse scenarioberegninger rigtig, rigtig hurtigt.
+Og der kan man med Sumba-modellen lave en hulens masse scenarioberegninger rigtig, rigtig hurtigt.
 
 00:34:55
 Og når man så har fundet noget, man siger, at det her, det ser sgu fornuftigt ud, så kan vi verificere det med en LTS-beregning i for eksempel Mike Urban eller i Mike Plus.
@@ -1028,7 +1028,7 @@ Og så nøjes med at bruge de her.
 Det kan tage rigtig, rigtig lang tid at køre sådan en lang LTS-beregning i en dynamisk model.
 
 00:35:11
-Så der kan vi bruge Zumba til at lave alle vores scenarioer, og så kan vi nøjes med at verificere det i en model, der tager længere tid at køre til sidst.
+Så der kan vi bruge Sumba til at lave alle vores scenarioer, og så kan vi nøjes med at verificere det i en model, der tager længere tid at køre til sidst.
 
 00:35:20
 Hvis I synes det her lyder som noget, det kunne være spændende at arbejde med.
@@ -1037,10 +1037,10 @@ Hvis I synes det her lyder som noget, det kunne være spændende at arbejde med.
 I kunne bruge jeres brocheter.
 
 00:35:26
-Jamen så som sagt, så gør vi Zumba helt frit tilgængeligt nu.
+Jamen så som sagt, så gør vi Sumba helt frit tilgængeligt nu.
 
 00:35:30
-Og hvis I kunne tænke jer en kopi af Zumba, så er det bare at skrive enten til Jens Toke, som er markedsansvarlig her i VSP Høje Torstrup, eller direkte til mig.
+Og hvis I kunne tænke jer en kopi af Sumba, så er det bare at skrive enten til Jens Toke, som er markedsansvarlig her i WSP Høje Torstrup, eller direkte til mig.
 
 00:35:39
 Så sørger vi for, at vi får sendt et link ud til jer, lige så snart vi har det hele klar.
@@ -1076,16 +1076,16 @@ Jeg synes, at der var nogle tekniske dele i det også, så der var noget, der li
 Dertil vil jeg sige til jer, der sidder derude, at husk, at I kan skrive jeres spørgsmål i chatten, og så stiller jeg spørgsmålen til Jørgen.
 
 00:36:38
-Du var lidt inden omkring vandløb i forhold til stofberegninger, men hvordan i forhold til at regne på vandføring og de ting, kan Zumba bruges til vandløb?
+Du var lidt inden omkring vandløb i forhold til stofberegninger, men hvordan i forhold til at regne på vandføring og de ting, kan Sumba bruges til vandløb?
 
 00:36:51
 Ja.
 
 00:36:52
-Vi har lavet en del vandløbsberegninger i Zumba, som jeg nævnte før.
+Vi har lavet en del vandløbsberegninger i Sumba, som jeg nævnte før.
 
 00:36:57
-Så kan man godt putte et mandingtal ind, og man kan putte et geometrisk tversnit ind.
+Så kan man godt putte et manningstal ind, og man kan putte et geometrisk tversnit ind.
 
 00:37:02
 Og hvis man så definerer et fald, det skal man selv gætte, så kan du få en vandstand ud i dit vandløb.
@@ -1097,7 +1097,7 @@ Man kan også bruge det, hvor man ikke regner på vandstand, men alene regner p�
 Hvis vi har en målvandføring i et vandløb, som vi for eksempel hiver ned fra vandportalen, Så kan vi oplandskorrigere den, indtil vi er lige opstrøms for et fremtidigt bassinudløb.
 
 00:37:27
-Så putter vi vores bassin på i Zumba, som jeg viste her, hvor vi får overløb fra bassinet ude i vandløbet, og det almindelige udløb fra bassinet ude i vandløbet.
+Så putter vi vores bassin på i Sumba, som jeg viste her, hvor vi får overløb fra bassinet ude i vandløbet, og det almindelige udløb fra bassinet ude i vandløbet.
 
 00:37:36
 Så kan vi kigge på, hvad er statistikken.
@@ -1130,7 +1130,7 @@ Spørgsmålet går, hvordan indgår grundvand, hvis modellen.
 Regner på åbne systemer?
 
 00:38:25
-Grundvand modulerer vi ikke direkte i Zumba.
+Grundvand modulerer vi ikke direkte i Sumba.
 
 00:38:29
 Det kunne man godt gøre.
@@ -1142,7 +1142,7 @@ Vi har også haft nogle modeller, hvor vi har kigget lidt på det og sat en form
 Ellers kan man på tidsserie få målt grundvand ind, som man kan bruge til at styre sit bassin efter eller lave en form for indløb til sine bassiner på baggrund af en målt grundvand.
 
 00:38:50
-Vi har ikke et specifikt grundvandsmodul i Zumba, men med de her Lego-klods-elementer har vi også lavet nogle modeller, hvor vi rent faktisk også forsøger at modellere på grundvand, som man ville gøre i en navnmodel, hvor vi har nedbøgerne og jordvandsmagasiner, der kan fyldes op.
+Vi har ikke et specifikt grundvandsmodul i Sumba, men med de her Lego-klods-elementer har vi også lavet nogle modeller, hvor vi rent faktisk også forsøger at modellere på grundvand, som man ville gøre i en navnmodel, hvor vi har nedbøgerne og jordvandsmagasiner, der kan fyldes op.
 
 00:39:12
 og tømmes med fordampning, og på den måde igennem få et bud på, hvordan varierer grønlandsstanden henover året.

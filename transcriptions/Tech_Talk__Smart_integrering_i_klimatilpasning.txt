@@ -2,7 +2,7 @@
 Goddag og velkommen til dagens techdok. Jeg er Kristoffer sindby er dagens vært og Morten halling. Han sidder som ofte i teknikken bagved tektorpen i dag bliver optaget og lagt på DRN ks hjemmeside indenfor en uges tid, og i skal huske på, at imens tektorpen kører, så har i mulighed for at stille spørgsmål i chatten.
 
 00:00:28
-Dagens tiktok er omkring integrering, smart integrering i klimatilpasning, fordampning og tilbageholdelse af regnvand, og Vi har Mikkel pris fra smartphone med der stopper udbragt fra teknologisk Institut og Morten rask fra bugspectum til at præsentere.
+Dagens Tech Talk er omkring integrering, smart integrering i klimatilpasning, fordampning og tilbageholdelse af regnvand, og Vi har Mikkel pris fra smartphone med der stopper udbragt fra teknologisk Institut og Morten rask fra bugspectum til at præsentere.
 
 00:00:48
 Deres teknologier, så værsgo Morten.

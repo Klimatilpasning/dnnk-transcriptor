@@ -74,7 +74,7 @@ Kan vi lave en en forsøgsbefæstelse?
 Der fortæller os noget om, hvordan tingene opfører sig.
 
 00:02:34
-Og til det brug der snakkede vi med aarslef der havde et et lille testfelt ude på avedøre.
+Og til det brug der snakkede vi med Aarsleff der havde et et lille testfelt ude på avedøre.
 
 00:02:44
 Og hvor vi tænkte, at vi kunne opbygge en befæstelse.
@@ -158,7 +158,7 @@ Og hvad skal vi på det sted, hvor de ligger have af spændingsniveau? Og så ku
 Skide smart synes jeg.
 
 00:07:04
-Befæstelserne blev som sagt opbygget i en lille 2 x 2 eller 1,8 x 1,8 m grav ude på helseholmen hos.
+Befæstelserne blev som sagt opbygget i en lille 2 x 2 eller 1,8 x 1,8 m grav ude på Helsingborg hos.
 
 00:07:20
 Årslev, som var stærkt behjælpelig med alt det praktiske.
@@ -341,7 +341,7 @@ Eller de viste, at spændingsniveauet.
 Under rockflow-balsene var cirka 1,5 gang højere, end hvad vi ville få, hvis vi havde en lineær elastisk beregning.
 
 00:16:04
-Så nu har vi et eller andet, vi kan gå videre med i mobberegningerne og sige OK.
+Så nu har vi et eller andet, vi kan gå videre med i MOP-beregningerne og sige OK.
 
 00:16:13
 Når vi stopper rockflow batch i en mop belægning, så vil vi altså få spændinger, Der er 1,5 gang højere.
@@ -368,10 +368,10 @@ På den måde, som de er defineret i mug vi skulle.
 Finde en eller 2 måde at håndtere den der spændings koncentration på i må.
 
 00:17:28
-Vi og vi skulle finde os finde ud af, hvad er i det hele taget? Hvad er niveauet for hvad rockflow kan tåle at belastninger, og der var vi jo så heldige, at der var nogen der havde lavet en masse laboratorieforsøg i deltaas på et tidligere tidspunkt, for for la pinus. Så der havde vi noget at støtte os på.
+Vi og vi skulle finde os finde ud af, hvad er i det hele taget? Hvad er niveauet for hvad rockflow kan tåle at belastninger, og der var vi jo så heldige, at der var nogen der havde lavet en masse laboratorieforsøg i DELTA på et tidligere tidspunkt, for for Lapinus. Så der havde vi noget at støtte os på.
 
 00:17:53
-Og så skulle vi til sidst lave anvende mops klimasimulationsdel. Det er den del, som vi siger. Jamen den er kun til sammenligning.
+Og så skulle vi til sidst lave anvende MOP klimasimulationsdel. Det er den del, som vi siger. Jamen den er kun til sammenligning.
 
 00:18:03
 Den er kun til orientering. Det der gælder i byretten. Det er den den matematisk desaministiske dimensionering ved festelser, men klimasimulationsdelen er netop til at sammenligne.
@@ -386,7 +386,7 @@ Det kan godt være, at det ikke er den præcise levetid man får, men men relati
 Klima og belastnings påvirkning, så vil disse simulationer fortælle os, hvordan opfører den ene sig i forhold til den 2.
 
 00:18:48
-Som sagt det vi havde og går ud fra i starten. Det var forsøg, der var udført af deltaas med forskellige belastnings spændingsniveauer.
+Som sagt det vi havde og går ud fra i starten. Det var forsøg, der var udført af DELTA med forskellige belastnings spændingsniveauer.
 
 00:18:59
 Hvor vi kan se at.
@@ -443,7 +443,7 @@ Den kunne vi fik vi brug for senere.
 Elastiske deformationegenskaber, Det var Sådan set meget let, fordi det havde vi fra delta's testene, så de.
 
 00:21:04
-Kom bare ind i på normal måde II mop med en e modul på 20 megabasal og.
+Kom bare ind i på normal måde II mop med en e modul på 20 megapascal og.
 
 00:21:16
 En.
@@ -485,7 +485,7 @@ Rockflowlag og en variabelt stabilt udslag på toppen og så en normal t 2 asfal
 Lever.
 
 00:23:11
-Når Vi har, så varierer vi altså stabilt rusleds tykkelse, indtil vi får den levetid i sportkøringsmæssigt jævnhedsmæssigt. II et altså de de mål som mob nu engang har for levetider.
+Når Vi har, så varierer vi altså stabilt rusleds tykkelse, indtil vi får den levetid i sportkøringsmæssigt jævnhedsmæssigt. II et altså de de mål som MOP nu engang har for levetider.
 
 00:23:34
 Der er ikke nogen, der begynder.
@@ -533,7 +533,7 @@ Brugte den bedst mulige klimatilpasning af Vores deformationsparametre.
 Det kan jeg så nogle nødvendige tykkelser for en befæstelse, men.
 
 00:25:29
-Det det Vi har der øverst til højre med klima. Det er jo altså en situation, som vi ikke kan sætte den sende den almindelige mobbruger ud i at skulle til at modificere klimabelastning eller klimaparametrene.
+Det det Vi har der øverst til højre med klima. Det er jo altså en situation, som vi ikke kan sætte den sende den almindelige MOP-bruger ud i at skulle til at modificere klimabelastning eller klimaparametrene.
 
 00:25:48
 Så.
@@ -566,7 +566,7 @@ Eller at vi varierede.
 Så alt i alt gav det os nogle.
 
 00:26:41
-Spændingsniveauer, som vi ville skulle overholde, hvis Det var til 2 belægninger eller til 4 belægninger, som så kunne omvendt om om formuleres til 1 1 et udmattelseskriterie, som vi kunne fylde ind i mob.
+Spændingsniveauer, som vi ville skulle overholde, hvis Det var til 2 belægninger eller til 4 belægninger, som så kunne omvendt om om formuleres til 1 1 et udmattelseskriterie, som vi kunne fylde ind i MOP.
 
 00:27:01
 Og på den basis kunne vi lave en database.

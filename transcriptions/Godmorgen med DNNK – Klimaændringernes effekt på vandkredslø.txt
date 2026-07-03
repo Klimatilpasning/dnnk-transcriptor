@@ -2,7 +2,7 @@
 Jeg trykker nu.
 
 00:00:11
-Godmorgen og så er klokken blevet 8 her i dag, hvor vi gerne vil fortælle lidt om klimaforandringernes effekter på vandkredsløbet. Vi er så heldige at have 2 kloge hoveder med fra geos til at snakke med os i dag, og Det er Hans Jørgen og Jakob, og de får Sådan set bare lov til at introducere sig selv lige om et øjeblik. Jeg håber i sidder og har dejligt og har fået jer en kop kaffe.
+Godmorgen og så er klokken blevet 8 her i dag, hvor vi gerne vil fortælle lidt om klimaforandringernes effekter på vandkredsløbet. Vi er så heldige at have 2 kloge hoveder med fra GEUS til at snakke med os i dag, og Det er Hans Jørgen og Jakob, og de får Sådan set bare lov til at introducere sig selv lige om et øjeblik. Jeg håber i sidder og har dejligt og har fået jer en kop kaffe.
 
 00:00:38
 Og er klar. Jeg vil bare lige sige noget praktisk, og Det er vi optager eventen her.
@@ -389,7 +389,7 @@ Tak og jeg håber i allesammen kan høre mig nu.
 Ellers er der nogen der må sige til?
 
 00:23:04
-Ja, Det er jo svært at komme efter Hans Jørgen, men Jeg vil lige starte med at præsentere mig selv, fordi jeg tænker at i de fleste af jer kender Hans Jørgen eller hørt om ham. Jeg er måske noget mere ukendt. Jeg hedder Jacob kidmose og arbejder i hydrologisk afdeling på geos samme afdeling som Hans Jørgen.
+Ja, Det er jo svært at komme efter Hans Jørgen, men Jeg vil lige starte med at præsentere mig selv, fordi jeg tænker at i de fleste af jer kender Hans Jørgen eller hørt om ham. Jeg er måske noget mere ukendt. Jeg hedder Jacob kidmose og arbejder i hydrologisk afdeling på GEUS samme afdeling som Hans Jørgen.
 
 00:23:24
 Og vil give et oplæg omkring byerne, hvor vi prøver at ligesom at tage det her perspektiv med klimaforandringerne og putter noget klimatilpasning ind over og så ligesom fokusere lidt på byområderne. Og det gør vi jo fordi at byerne er interessante i forhold til, at Der er.
@@ -476,7 +476,7 @@ Det er jo at de urbaner oplande. Hvis vi kigger ned i grundvandet de de er står
 Ind og ud af det her, urbane og opland.
 
 00:28:31
-Og det skal vi jo på en eller 2 måde kvantificere for at kunne få styr på vandbalancen for for for byen fordampningen er der meget lidt viden om omkring i byen. Her til højre kan i se en Sådan en eddie-flops tower, som som Vi har opsat i et forskningsprojekt i på wanda Center syd's tag på vandværksvej i Odense.
+Og det skal vi jo på en eller 2 måde kvantificere for at kunne få styr på vandbalancen for for for byen fordampningen er der meget lidt viden om omkring i byen. Her til højre kan i se en Sådan en eddie-flops tower, som som Vi har opsat i et forskningsprojekt i på Vandcenter syd's tag på vandværksvej i Odense.
 
 00:28:56
 Hvor vi så forsøger at måle fordampningen, men Det er meget svært, fordi.
@@ -545,7 +545,7 @@ Mulige tilpasninger men Det er Sådan ligesom de overordnede kategorier, Sådan 
 Og der kan man sige der kommer den første pointe og den og den den er ligesom rå tekst, og Det er at altså effekterne af de her tiltag. Dem kan vi rent faktisk regne på, og vi kan teste ikke bare for at se jamen når vi gør det her med Vores overfladevand, hvad betyder det så for overflade næ? Hvor hvad betyder det for hele verdens kredsløb?
 
 00:32:51
-Og nu vil jeg så prøve at springe over i 3 hurtige eksempler, hvor jeg viser nogle effekter på det strengende og grundvandsbejl, og det første eksempel, der går vi helt tilbage til 2010, hvor jeg lige var blevet ansat for geos og mit første projekt jeg arbejdede med. Det var motorvejen igennem den nordlige del af Silkeborg, som er Sådan et urbant område, kan man sige.
+Og nu vil jeg så prøve at springe over i 3 hurtige eksempler, hvor jeg viser nogle effekter på det strengende og grundvandsbejl, og det første eksempel, der går vi helt tilbage til 2010, hvor jeg lige var blevet ansat for GEUS og mit første projekt jeg arbejdede med. Det var motorvejen igennem den nordlige del af Silkeborg, som er Sådan et urbant område, kan man sige.
 
 00:33:18
 Også med grønne områder, hvor der har været hændelser med oversvømmelse gennem tiden. Den røde streg på det her kort. Det er så der, hvor den nye motorvej mere eller mindre ligger og den er jo, den går jo nu fint fra fra Herning og så til Aarhus igennem Silkeborg.
@@ -644,7 +644,7 @@ Og Det kan vi rent faktisk også beregne ud i forhold til at så sige jamen, hvo
 På ekstrem niveauerne og så på hvad skal man sige middelstigningerne for området?
 
 00:38:38
-Det næste eksempel er sundt, og der kan man sige sundt. Det er et sted med rigeligt overfladevand, og til gengæld så er grundvandet tæt på terræn. Så Det er jo, Det er jo dejligt.
+Det næste eksempel er Sunds, og der kan man sige Sunds. Det er et sted med rigeligt overfladevand, og til gengæld så er grundvandet tæt på terræn. Så Det er jo, Det er jo dejligt.
 
 00:38:50
 Hvis onsdag har vi også lavet en lokal skalamodellering sund. Det er en lille by 5 km ja vest for Herning og vest for Herning med en med en sø der ligger tæt på i et i nogle sandede omgivelser vil jeg sige, og der har vi testet forskellige klimatilpasninger.
@@ -683,7 +683,7 @@ Op til 20 30 cm.
 For det trængende grundlovsspejl.
 
 00:41:22
-Og hvad så hvis vi hvad skal man sige piller ved Vores indvending i det her tilfælde med sundt der har det en begrænset effekt, at kun en en spredt effekt, at vi skruer på Vores indvending til drikkevand.
+Og hvad så hvis vi hvad skal man sige piller ved Vores indvending i det her tilfælde med Sunds der har det en begrænset effekt, at kun en en spredt effekt, at vi skruer på Vores indvending til drikkevand.
 
 00:41:36
 Det sidste eksempel, Det er odensevest, som er det nyeste og fra igangværende forskningsprojekt, og der har vi kigget på.
@@ -875,7 +875,7 @@ Men da man meget, men da meget få fagpersoner tror.
 På at vi globalt set når parisamtalen, er det så ikke bedre med en øh RCP 4,5.
 
 00:51:39
-Altså man kan sige Vi har jo regnet på på de samme scenarier, som der også er anbefalet af af Miljøstyrelsen og DMI til klimatilpasning og Det er 4 5 og 8 5 og Vi har lavet en bias korrektion af de her 22 klimamodeller Vi har brugt for codex datasættet i forhold til DMIS klimakrit. Så Det er jo et valg som som det ikke er noget som geos alene har taget. Det er jo Det er jo hele projektet i hit der har valgt at sige Vi skal have de 2.
+Altså man kan sige Vi har jo regnet på på de samme scenarier, som der også er anbefalet af af Miljøstyrelsen og DMI til klimatilpasning og Det er 4 5 og 8 5 og Vi har lavet en bias korrektion af de her 22 klimamodeller Vi har brugt for codex datasættet i forhold til DMIS klimakrit. Så Det er jo et valg som som det ikke er noget som GEUS alene har taget. Det er jo Det er jo hele projektet i hit der har valgt at sige Vi skal have de 2.
 
 00:52:06
 Scenarier så så min min mening er jo så at.
@@ -1019,7 +1019,7 @@ Så tak for for den, så vil jeg bare lige lynhurtigt reklamere for det næste o
 Onsdag den 19. Maj. Der er der en lidt mere nørdet snak om noget vandkvalitet.
 
 00:59:38
-Det er en tekttal, der ligger lige i frokosttiden, men i kan altid følge med inde på DNN k's hjemmeside, så Jeg vil bare sige 1000 tak for nu. Det var virkelig, virkelig spændende.
+Det er en Tech Talk, der ligger lige i frokosttiden, men i kan altid følge med inde på DNN k's hjemmeside, så Jeg vil bare sige 1000 tak for nu. Det var virkelig, virkelig spændende.
 
 00:59:49
 Og rigtig god dag til jer alle sammen derude.

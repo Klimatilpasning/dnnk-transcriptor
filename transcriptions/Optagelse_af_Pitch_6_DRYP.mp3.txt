@@ -1,5 +1,5 @@
 00:00:00
-Jeg hedder Peter rash jeg kommer fra firmaet dryp og dryp er Inter lige kommer op og køre her, så kan jeg jo sige en af de 3 virksomheder som Claus nævnte det i starten, som altså er delvist eget Aarhus valg og Det har ikke så meget med om nu, men det vil jeg meget gerne fortælle om bagefter, fordi det synes jeg faktisk er en fantastisk måde at få viden ud af Sådan nogle organisationer som offentlige organisationer som Aarhus vand, hvor der sidder folk som virkelig ved hvad de snakker om, men hvor den viden nogle gange.
+Jeg hedder Peter rash jeg kommer fra firmaet dryp og dryp er Inter lige kommer op og køre her, så kan jeg jo sige en af de 3 virksomheder som Claus nævnte det i starten, som altså er delvist eget Aarhus Vand og Det har ikke så meget med om nu, men det vil jeg meget gerne fortælle om bagefter, fordi det synes jeg faktisk er en fantastisk måde at få viden ud af Sådan nogle organisationer som offentlige organisationer som Aarhus vand, hvor der sidder folk som virkelig ved hvad de snakker om, men hvor den viden nogle gange.
 
 00:00:29
 Kun panasak kommer til udtryk i nogle projekter og ikke så meget bliver delt på tværs af forsyninger rundt i Danmark. Så det Det er en model Jeg kan anbefale til til alle.
@@ -11,7 +11,7 @@ Det jeg skal snakke om nu. Det er så om drøm og og og vi handler om data vi ko
 Og hvorfor sagde vi det? Jamen i bund og grund.
 
 00:00:59
-Tror vi på, at vi kan bruge den eksisterende vandinfrastruktur Vi har, og her snakker vi. Hvem er spildevands infrastruktur meget bedre, end vi gør i dag? Det vil sige, når Vi skal ud og lave klimatilpasning, altså i stedet for nødvendigvis at bygge en masse nye lar løsninger, så prøv at bruge den infrastruktur.
+Tror vi på, at vi kan bruge den eksisterende vandinfrastruktur Vi har, og her snakker vi. Hvem er spildevands infrastruktur meget bedre, end vi gør i dag? Det vil sige, når Vi skal ud og lave klimatilpasning, altså i stedet for nødvendigvis at bygge en masse nye LAR-løsninger, så prøv at bruge den infrastruktur.
 
 00:01:14
 Der findes allerede og måske bare bruge den lidt smartere og lidt bedre. I dag lever alt vand ned ad bakke. Tænk hvis man kunne stoppe noget af det, fordi skybruddet kun var en del af byen og ikke over hele byen samtidig og så koncentrere sig om det her problem.
@@ -68,7 +68,7 @@ Må godt være relativt, men det skal være kendt Sådan. Så når vi bruger dat
 Sådan ville de selv gøre, og hvis i stoler ud med en tommestok, og Det er Sådan set det samme. Vi prøver at putte ind i Vores sensorer.
 
 00:04:20
-Og når man så kommer op igennem, så skal man selvfølgelig vide hvor man er, og om det giver mening at måle det man gør fjernelse af tidsserie eller tidsanalyser og Sådan noget. Det har i sikkert alle sammen leget med på et tidspunkt, og så kommer vi op i de næste lag, hvor Vi har noget mail learning ind over det. Jeg kommer lige med et eksempel på lidt og så til sidst, så er der altså også noget menneskelig intelligens der skal ind over, fordi der sidder noget viden ude hos alle forsyninger II Danmark så som simpelthen kan se på de her tids her, hvad der foregår på en måde, som vi i hvert fald ikke endnu kan lære Vores maskiner.
+Og når man så kommer op igennem, så skal man selvfølgelig vide hvor man er, og om det giver mening at måle det man gør fjernelse af tidsserie eller tidsanalyser og Sådan noget. Det har i sikkert alle sammen leget med på et tidspunkt, og så kommer vi op i de næste lag, hvor Vi har noget machine learning ind over det. Jeg kommer lige med et eksempel på lidt og så til sidst, så er der altså også noget menneskelig intelligens der skal ind over, fordi der sidder noget viden ude hos alle forsyninger II Danmark så som simpelthen kan se på de her tids her, hvad der foregår på en måde, som vi i hvert fald ikke endnu kan lære Vores maskiner.
 
 00:04:49
 Men hver eneste gang de registrerer det, jamen så kan vi jo lære det kort tid. Måske blive lige så dygtige.
@@ -101,7 +101,7 @@ Så der kigger vi på og og og og bruge den her viden aktivt selvfølgelig vider
 Et andet eksempel, Det er Det er så fra Norge, når man bruger det her til oversvømmelser. Det handler meget om om om hvordan nedbør fungerer i bjergene, når sneen smelter, men det kunne lige så godt være alle mulige andre steder i Danmark, og Der er fidusen her er, at Det er fuldstændig datadrevent og og det så kommer ud med en med en aktuel beslutning og faktisk et tiltag som som beredskabet pavillo II et givent sted, som vi går ud og og fjerne stykke vejen for at gøre det bedre.
 
 00:06:52
-Jeg kunne også have vist andre eksempler Vi har bombemøl har brugt det her hvor som modelforslag oppe i oppe i kalsnæs og og Nordic Group har kigget på lejr løsninger præcis på samme måde. For at se på fungerer de her lejr løsninger, som vi lige hører hørte om, før faktisk i virkeligheden.
+Jeg kunne også have vist andre eksempler Vi har bombemøl har brugt det her hvor som modelforslag oppe i oppe i kalsnæs og og Nordic Group har kigget på LAR-løsninger præcis på samme måde. For at se på fungerer de her LAR-løsninger, som vi lige hører hørte om, før faktisk i virkeligheden.
 
 00:07:07
 Og og det bringer mig frem til den her slide, fordi Det er egentlig ikke nødvendigvis Vores data, der skal ind i det. Det kan være alle mulige andre, så Det er bygget meget åbent, så man kan putte hvad som helst ind i den ene side. Man kan faktisk også hive det ud og bruge det i alle mulige andre sammenhænge på den 2 side, og Det er blevet gjort.

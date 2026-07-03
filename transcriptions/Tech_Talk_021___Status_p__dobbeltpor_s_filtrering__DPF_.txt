@@ -1,5 +1,5 @@
 00:00:03
-Velkommen allesammen til dagens tiktok, og Jeg vil gerne byde velkommen på vegne af DNDK. Mit navn er Christoffer sindby og Jeg er fra OK nygård.
+Velkommen allesammen til dagens Tech Talk, og Jeg vil gerne byde velkommen på vegne af DNDK. Mit navn er Christoffer sindby og Jeg er fra OK nygård.
 
 00:00:14
 I dag har vi Marina Bergen Jensen fra Københavns Universitet på, som gerne vil fortælle om status på dobbeltporøs filtrering. Jeg skal huske på, at i kan stille spørgsmål undervejs i chatten, og så vil vi tage dem op efter præsentationen og tektuppen kører jo frem til kl. 13:00 i dag.
@@ -11,7 +11,7 @@ Og med det så vil jeg byde Marina hjertelig velkommen.
 Og overlad ordet til hej Marina værsgo.
 
 00:00:43
-Ja men tak for det Kristoffer og tak fordi jeg må få lov at holde den her tiktok.
+Ja men tak for det Kristoffer og tak fordi jeg må få lov at holde den her Tech Talk.
 
 00:00:49
 Det er jo en teknologi Jeg har arbejdet med i en stor del af min forsker karriere. De sidste 5 6 år har jeg fulgt det meste fra sidelinjen, men Jeg har fulgt godt med, så jeg håber og tror på at Jeg kan give en fornuftig status på hvordan den her teknologi har det i dag og dobbeltporøs filtrering. Det er jo en teknologi som er udviklet til rensning af vejvand til høj kvalitet.

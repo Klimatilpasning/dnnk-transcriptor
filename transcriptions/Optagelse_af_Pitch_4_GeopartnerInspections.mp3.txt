@@ -71,7 +71,7 @@ Og påvirke instrukturen II jorden og selvfølgelig også i forhold til.
 Oversvømmelsesrisiko og så videre.
 
 00:03:55
-Så det vi gør. Det er at vi tager Vores motoriserede neuman på fastlagt en baseline, altså et højt niveau, som vi kobler til Vores nationale hottesystem, og så etablerer vi nogle fikspunkter, som er Vores retterefktorer.
+Så det vi gør. Det er at vi tager Vores motoriserede neuman på fastlagt en baseline, altså et højt niveau, som vi kobler til Vores nationale højdesystem, og så etablerer vi nogle fikspunkter, som er Vores retterefktorer.
 
 00:04:11
 Og, som er en passiv opmålings instrument. Den står der bare og ser smuk ud og og hver 6 dag kommer der en satellit forbi og skaber nye data, og det hober sig op og giver en masse muligheder for at lave beregninger og fremskrivninger. Og Det kan man så visualisere på forskellig vis man kan levere.
@@ -89,7 +89,7 @@ Men man kan for eksempel gøre det hvert halve år eller hvert hele år, alt eft
 Noget af det, som Vi har oplevet. Der bliver en sidegevinst ved at bruge de her radarflektorer til højest bestemmelse, og som hvor sidegevinsten måske kan gå hen og blive den største gevinst i virkeligheden. Det er at man kan bruge nogle velkendte måder at måle GPS på.
 
 00:05:28
-Det hedder enkeltstationsr k. Nu vil jeg ikke blive for teknisk, men ved at bruge radarflektoren som et fikspunkt og så bevæge sig i op til 5 km væk fra radoren.
+Det hedder enkeltstationsr k. Nu vil jeg ikke blive for teknisk, men ved at bruge radarreflektoren som et fikspunkt og så bevæge sig i op til 5 km væk fra radoren.
 
 00:05:39
 Der kan man altså måle ultrapræcist til højder med GPS, hvilket man ikke kan med standardmetoderne med GPS opmåling. Så vi snakker centimeter nøjagtighed på GPS højder og Vi har lige sat et projekt i gang, hvor vi ude ved ringhus skærm Forsyning, hvor vi skar en ordentlig bid af regningen for at måle, fordi det gik over fra tidligere at have målt med total station og level mange andre opmålningsmetoder der tager lidt længere tid og mere omstændigheder beregner og så videre.
