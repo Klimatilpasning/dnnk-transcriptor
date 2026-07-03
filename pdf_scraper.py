@@ -19,9 +19,17 @@ import io
 TRANSCRIPTIONS_FOLDER = Path("transcriptions")
 PROCESSED_PDFS_FILE = "processed_pdfs.json"
 
-# Sider der scannes for PDF-links
+# Sider der scannes for PDF-links.
+# Vidensbanken (/vidensbank2/ side 1-6) er hovedkilden til rapporter —
+# de gamle kategorisider gav stort set ingen PDF'er.
 PDF_PAGES = {
-    "Vidensbank":       "https://www.dnnk.dk/category/vidensbank/",
+    "Rapporter":        "https://www.dnnk.dk/vidensbank2/",
+    "Rapporter_s2":     "https://www.dnnk.dk/vidensbank2/page/2/",
+    "Rapporter_s3":     "https://www.dnnk.dk/vidensbank2/page/3/",
+    "Rapporter_s4":     "https://www.dnnk.dk/vidensbank2/page/4/",
+    "Rapporter_s5":     "https://www.dnnk.dk/vidensbank2/page/5/",
+    "Rapporter_s6":     "https://www.dnnk.dk/vidensbank2/page/6/",
+    "Horizon_LIFE":     "https://www.dnnk.dk/horizon-og-life/",
     "Arrangementer":    "https://www.dnnk.dk/arrangementer/",
     "Konferencer":      "https://www.dnnk.dk/optagelser-fra-konferencer-og-temadage/",
     "Jura":             "https://www.dnnk.dk/jura-i-klimatilpasning/",
