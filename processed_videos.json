@@ -577,5 +577,155 @@
   "1QkCMNScA8U": {
     "status": "done",
     "note": "transskription findes allerede i korpus (praefiks-match 2026-07-03)"
+  },
+  "_FOnu5SwXvE": {
+    "status": "pending",
+    "last_attempt": "2026-07-03T11:27:51",
+    "order_id": "1783078071755110874",
+    "category": "Tech_Talks"
+  },
+  "ptkNCE1dNUg": {
+    "status": "pending",
+    "last_attempt": "2026-07-03T11:27:54",
+    "order_id": "1783078074398516878",
+    "category": "Tech_Talks"
+  },
+  "A9FXERLW-gU": {
+    "status": "pending",
+    "last_attempt": "2026-07-03T11:27:57",
+    "order_id": "1783078076989374140",
+    "category": "Tech_Talks"
+  },
+  "5HheldLgozU": {
+    "status": "pending",
+    "last_attempt": "2026-07-03T11:27:59",
+    "order_id": "1783078079653756585",
+    "category": "Tech_Talks"
+  },
+  "Z4-52YNHRz0": {
+    "status": "pending",
+    "last_attempt": "2026-07-03T11:28:02",
+    "order_id": "1783078082234133557",
+    "category": "Tech_Talks"
+  },
+  "Y8uB1bGysO8": {
+    "status": "pending",
+    "last_attempt": "2026-07-03T11:28:04",
+    "order_id": "1783078084791622251",
+    "category": "Tech_Talks"
+  },
+  "_McnZqfz9b4": {
+    "status": "pending",
+    "last_attempt": "2026-07-03T11:28:07",
+    "order_id": "1783078087365059870",
+    "category": "Tech_Talks"
+  },
+  "2vrQr211cwE": {
+    "status": "pending",
+    "last_attempt": "2026-07-03T11:28:10",
+    "order_id": "1783078090011854612",
+    "category": "Tech_Talks"
+  },
+  "Z7NWvXdZE7g": {
+    "status": "pending",
+    "last_attempt": "2026-07-03T11:28:30",
+    "order_id": "1783078110502184597",
+    "category": "Godmorgen_med_DNNK"
+  },
+  "-9iAfpGkPQ4": {
+    "status": "pending",
+    "last_attempt": "2026-07-03T11:28:33",
+    "order_id": "1783078113093328072",
+    "category": "Godmorgen_med_DNNK"
+  },
+  "gJRis50HFVY": {
+    "status": "pending",
+    "last_attempt": "2026-07-03T11:28:35",
+    "order_id": "1783078115692996425",
+    "category": "Godmorgen_med_DNNK"
+  },
+  "vdBxSeS557E": {
+    "status": "pending",
+    "last_attempt": "2026-07-03T11:28:38",
+    "order_id": "1783078118282950144",
+    "category": "Godmorgen_med_DNNK"
+  },
+  "yEvJX7_4Esw": {
+    "status": "pending",
+    "last_attempt": "2026-07-03T11:28:40",
+    "order_id": "1783078120885743426",
+    "category": "Godmorgen_med_DNNK"
+  },
+  "kVc6pf42cMc": {
+    "status": "pending",
+    "last_attempt": "2026-07-03T11:28:43",
+    "order_id": "1783078123445521742",
+    "category": "Godmorgen_med_DNNK"
+  },
+  "nD4CvPsWxCY": {
+    "status": "pending",
+    "last_attempt": "2026-07-03T11:28:46",
+    "order_id": "1783078126051280027",
+    "category": "Godmorgen_med_DNNK"
+  },
+  "0rrfcg3InM0": {
+    "status": "pending",
+    "last_attempt": "2026-07-03T11:28:48",
+    "order_id": "1783078128602847541",
+    "category": "Godmorgen_med_DNNK"
+  },
+  "IDETmAf32mU": {
+    "status": "pending",
+    "last_attempt": "2026-07-03T11:28:51",
+    "order_id": "1783078131189239766",
+    "category": "Godmorgen_med_DNNK"
+  },
+  "ZnNmeyyKCok": {
+    "status": "pending",
+    "last_attempt": "2026-07-03T11:28:53",
+    "order_id": "1783078133796381118",
+    "category": "Godmorgen_med_DNNK"
+  },
+  "73-c20WGsgM": {
+    "status": "pending",
+    "last_attempt": "2026-07-03T11:28:56",
+    "order_id": "1783078136335283072",
+    "category": "Godmorgen_med_DNNK"
+  },
+  "-qLfWkFJIyE": {
+    "status": "pending",
+    "last_attempt": "2026-07-03T11:28:58",
+    "order_id": "1783078138897709073",
+    "category": "Godmorgen_med_DNNK"
+  },
+  "boyo2OASg7o": {
+    "status": "pending",
+    "last_attempt": "2026-07-03T11:29:23",
+    "order_id": "1783078163479371797",
+    "category": "Konferencer"
+  },
+  "6eLttHPRlSw": {
+    "status": "pending",
+    "last_attempt": "2026-07-03T11:29:26",
+    "order_id": "1783078166025177682",
+    "category": "Konferencer"
+  },
+  "qDNiNOpMl_8": {
+    "status": "pending",
+    "last_attempt": "2026-07-03T11:30:13",
+    "order_id": "1783078213209045667",
+    "category": "DNNK_Masterclass"
+  },
+  "o7oUEobLLTo": {
+    "status": "pending",
+    "last_attempt": "2026-07-03T11:30:15",
+    "order_id": "1783078215788266738",
+    "category": "DNNK_Masterclass"
+  },
+  "AUORtdz6RBI": {
+    "status": "pending",
+    "last_attempt": "2026-07-03T11:30:18",
+    "order_id": "1783078218369907306",
+    "category": "DNNK_Masterclass"
   }
 }
