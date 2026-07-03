@@ -27,10 +27,11 @@ TRANSCRIPTIONS_FOLDER = Path("transcriptions")
 PROCESSED_VIDEOS_FILE = "processed_videos.json"
 
 MAX_ATTEMPTS = 3          # opgiv en video efter 3 fejlede forsøg
-MAX_NEW_PER_RUN = 5       # loft over betalte ordrer pr. kørsel (efterslæb indhentes over flere dage)
-POLL_INITIAL_WAIT = 30    # sekunder før første status-tjek
+# Loft over nye betalte ordrer pr. kørsel — kontoen har rigeligt med
+# minutter, så loftet er kun en nødbremse mod løbske scrape-fejl.
+MAX_NEW_PER_RUN = int(os.environ.get("MAX_NEW_PER_RUN", "25"))
+COLLECT_BUDGET_MINUTES = int(os.environ.get("COLLECT_BUDGET_MINUTES", "240"))
 POLL_INTERVAL = 20        # sekunder mellem status-tjek
-POLL_MAX_MINUTES = 40     # lange webinarer tager ofte >10 min at transskribere
 
 CATEGORIES = {
     "Tech_Talks":           "https://www.dnnk.dk/tech-talks/",
@@ -165,36 +166,6 @@ def fetch_order_content(order_id):
         print(f"❌ Fejl ved hentning af indhold: {e}")
         return None
 
-def poll_order(order_id, max_minutes=POLL_MAX_MINUTES):
-    """Poll en ordre til den er færdig.
-    Returnerer ('completed', tekst) / ('failed', None) / ('timeout', None)."""
-    status_url = f"https://api.tor.app/developer/transcription/{order_id}"
-    deadline = time.time() + max_minutes * 60
-    time.sleep(POLL_INITIAL_WAIT)
-    while time.time() < deadline:
-        try:
-            status_response = requests.get(status_url, headers=api_headers(), timeout=30)
-            status_response.raise_for_status()
-            status = status_response.json().get('status', '').lower()
-        except (requests.RequestException, ValueError) as e:
-            # Enkeltstående API-hikke må ikke vælte en betalt ordre
-            print(f"      ⚠️ Status-tjek fejlede ({e}) — prøver igen")
-            time.sleep(POLL_INTERVAL)
-            continue
-
-        if status == 'completed':
-            return 'completed', fetch_order_content(order_id)
-        elif status in ('error', 'failed'):
-            print(f"❌ Ordren fejlede hos Transkriptor (status: {status})")
-            return 'failed', None
-
-        remaining = int(deadline - time.time())
-        print(f"      ⏳ Venter... status: {status} (~{remaining // 60} min. tilbage)")
-        time.sleep(POLL_INTERVAL)
-
-    print(f"⏰ Timeout efter {max_minutes} min. — ordren hentes færdig ved næste kørsel")
-    return 'timeout', None
-
 def save_transcription(video_id, transcription, category):
     TRANSCRIPTIONS_FOLDER.mkdir(exist_ok=True)
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
@@ -210,44 +181,48 @@ def save_transcription(video_id, transcription, category):
     print(f"✅ Transskription gemt: {filename}")
     return filename
 
-def resume_pending(state):
-    """Hent resultater for allerede betalte ordrer fra tidligere kørsler."""
-    pending = {vid: e for vid, e in state.items()
-               if e.get("status") == "pending" and e.get("order_id")}
-    for video_id, entry in pending.items():
-        print(f"\n♻️  Genoptager betalt ordre for {video_id} (order_id: {entry['order_id']})")
-        status, text = poll_order(entry["order_id"], max_minutes=5)
-        if status == 'completed' and text:
-            save_transcription(video_id, text, entry.get("category", "Oevrige"))
-            mark(state, video_id, "done")
-        elif status == 'failed':
-            mark(state, video_id, "failed", order_id=None)
-        # timeout → forbliver pending, prøves igen næste kørsel
+def check_order(order_id):
+    """Ét status-tjek uden ventetid.
+    Returnerer ('completed', tekst) / ('failed', None) / ('working', None)."""
+    status_url = f"https://api.tor.app/developer/transcription/{order_id}"
+    try:
+        resp = requests.get(status_url, headers=api_headers(), timeout=30)
+        resp.raise_for_status()
+        status = resp.json().get('status', '').lower()
+    except (requests.RequestException, ValueError) as e:
+        print(f"      ⚠️ Status-tjek fejlede ({e})")
+        return 'working', None
+    if status == 'completed':
+        return 'completed', fetch_order_content(order_id)
+    if status in ('error', 'failed'):
+        return 'failed', None
+    return 'working', None
 
-def process_video(state, video_id, category):
-    print(f"\n   🆕 Ny video fundet: {video_id}")
-    print(f"      URL: https://youtube.com/watch?v={video_id}")
-    print(f"      🎤 Starter transskription...")
-
-    order_id = start_order(f"https://youtube.com/watch?v={video_id}")
-    if not order_id:
-        mark(state, video_id, "failed")
-        return False
-
-    print(f"      ⏳ Transskription startet – order_id: {order_id}")
-    status, text = poll_order(order_id)
-
-    if status == 'completed' and text:
-        save_transcription(video_id, text, category)
-        mark(state, video_id, "done", order_id=None)
-        return True
-    elif status == 'timeout':
-        # Ordren ER betalt — gem order_id og hent resultatet næste kørsel
-        mark(state, video_id, "pending", order_id=order_id, category=category)
-        return False
-    else:
-        mark(state, video_id, "failed")
-        return False
+def collect_pending(state, budget_minutes=COLLECT_BUDGET_MINUTES):
+    """Rundgangs-poll af ALLE afventende ordrer til de er færdige eller
+    tidsbudgettet er brugt. Ordrer der ikke når det, forbliver pending
+    og samles ind ved næste kørsel — der betales aldrig igen."""
+    deadline = time.time() + budget_minutes * 60
+    while time.time() < deadline:
+        pending = {vid: e for vid, e in state.items()
+                   if e.get("status") == "pending" and e.get("order_id")}
+        if not pending:
+            return
+        print(f"\n♻️  {len(pending)} betalte ordrer afventer — tjekker...")
+        for video_id, entry in pending.items():
+            status, text = check_order(entry["order_id"])
+            if status == 'completed' and text:
+                save_transcription(video_id, text, entry.get("category", "Oevrige"))
+                mark(state, video_id, "done", order_id=None)
+            elif status == 'failed':
+                print(f"❌ Ordren for {video_id} fejlede hos Transkriptor")
+                mark(state, video_id, "failed", order_id=None)
+            time.sleep(2)
+        if any(e.get("status") == "pending" for e in state.values()):
+            time.sleep(POLL_INTERVAL)
+    left = sum(1 for e in state.values() if e.get("status") == "pending")
+    if left:
+        print(f"⏰ Tidsbudget brugt — {left} ordrer hentes færdige ved næste kørsel")
 
 def main():
     print(f"\n{'='*60}")
@@ -259,9 +234,9 @@ def main():
 
     state = load_state()
     save_state(state)  # persistér evt. format-migrering med det samme
-    resume_pending(state)
 
-    new_videos_found = 0
+    # 1) Afgiv ordrer for ALLE nye videoer med det samme — Transkriptor
+    #    transskriberer dem parallelt, mens vi venter samlet bagefter.
     orders_placed = 0
     for category_name, category_url in CATEGORIES.items():
         print(f"\n📂 Tjekker kategori: {category_name}")
@@ -280,16 +255,24 @@ def main():
                 print(f"   ⏸️ Loft på {MAX_NEW_PER_RUN} nye ordrer nået — resten tages næste kørsel")
                 break
 
-            orders_placed += 1
-            if process_video(state, video_id, category_name):
-                new_videos_found += 1
+            print(f"   🆕 Ny video: {video_id} — afgiver ordre...")
+            order_id = start_order(f"https://youtube.com/watch?v={video_id}")
+            if order_id:
+                mark(state, video_id, "pending", order_id=order_id, category=category_name)
+                orders_placed += 1
+            else:
+                mark(state, video_id, "failed")
             time.sleep(2)
         else:
             continue
         break  # loftet er nået — stop også ydre løkke
 
+    # 2) Saml alle færdige transskriptioner ind (også fra tidligere kørsler)
+    collect_pending(state)
+
+    done_now = sum(1 for e in state.values() if e.get("status") == "done")
     print(f"\n{'='*60}")
-    print(f"✅ Tjek komplet - {new_videos_found} nye videoer transskriberet")
+    print(f"✅ Kørsel slut — {orders_placed} nye ordrer afgivet, {done_now} videoer færdige i alt")
     print(f"{'='*60}\n")
 
 if __name__ == "__main__":
