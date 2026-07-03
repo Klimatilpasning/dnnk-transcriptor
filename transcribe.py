@@ -76,25 +76,53 @@ def extract_youtube_id(url):
     m = YOUTUBE_ID_RE.search(url)
     return m.group(1) if m else None
 
+def _extract_video_ids(soup):
+    ids = []
+    for iframe in soup.find_all('iframe'):
+        src = iframe.get('src', '')
+        if 'youtube.com' in src or 'youtu.be' in src:
+            vid = extract_youtube_id(src)
+            if vid:
+                ids.append(vid)
+    for link in soup.find_all('a', href=True):
+        href = link['href']
+        if 'youtube.com' in href or 'youtu.be' in href:
+            vid = extract_youtube_id(href)
+            if vid:
+                ids.append(vid)
+    return ids
+
+
+MAX_SUBPAGES = 20  # undersider pr. kategori (Masterclass har én side pr. event)
+
+
 def scrape_category_for_videos(category_url):
     try:
-        response = requests.get(category_url, timeout=30,
-            headers={"User-Agent": "Mozilla/5.0"})
+        headers = {"User-Agent": "Mozilla/5.0"}
+        response = requests.get(category_url, timeout=30, headers=headers)
         response.raise_for_status()
         soup = BeautifulSoup(response.content, 'html.parser')
-        youtube_urls = []
-        for iframe in soup.find_all('iframe'):
-            src = iframe.get('src', '')
-            if 'youtube.com' in src or 'youtu.be' in src:
-                video_id = extract_youtube_id(src)
-                if video_id:
-                    youtube_urls.append(video_id)
+        youtube_urls = _extract_video_ids(soup)
+
+        # Nogle kategorier (fx Masterclass) har videoerne på én underside
+        # pr. event i stedet for på kategorisiden — crawl undersiderne.
+        sub_urls = []
         for link in soup.find_all('a', href=True):
             href = link['href']
-            if 'youtube.com' in href or 'youtu.be' in href:
-                video_id = extract_youtube_id(href)
-                if video_id:
-                    youtube_urls.append(video_id)
+            if ('dnnk.dk' in href and href.rstrip('/') != category_url.rstrip('/')
+                    and not href.lower().endswith(('.pdf', '.jpg', '.png'))
+                    and '#' not in href and '/category/' not in href
+                    and '/page/' not in href):
+                sub_urls.append(href)
+        for sub_url in sorted(set(sub_urls))[:MAX_SUBPAGES]:
+            try:
+                sub = requests.get(sub_url, timeout=15, headers=headers)
+                sub_soup = BeautifulSoup(sub.content, 'html.parser')
+                youtube_urls.extend(_extract_video_ids(sub_soup))
+            except requests.RequestException:
+                pass
+            time.sleep(0.5)  # høflig pause
+
         return list(set(youtube_urls))
     except requests.RequestException as e:
         print(f"❌ Fejl ved scraping af {category_url}: {e}")
