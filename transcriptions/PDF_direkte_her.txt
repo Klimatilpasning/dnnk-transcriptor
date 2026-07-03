@@ -1,0 +1,3044 @@
+=== DNNK PDF Dokument ===
+Titel: direkte her.
+Kategori: Rapporter_s2
+Kilde: https://aarch.dk/wp-content/uploads/2023/03/2023.02.09_DenLilleBlaaParloer_AAA_Wiberg_LQ.pdf
+Indekseret: 2026-07-03T07:59:41.240246
+
+==================================================
+
+1
+
+
+Projektet er støttet af Realdania
+Kreditering og citation
+Ophavsrettigheder til kildemateriale står anført ved de enkelte 
+illustrationer . Hvor ophavsrettigheder ikke er anført, er
+materialet illustreret af Katrina Wiberg og krediteret til
+Arkitektskolen Aarhus.
+Dato og sted: 2023.02.09, Arkitektskolen Aarhus
+Udgiver: Arkitektskolens Forlag
+Citation: Wiberg et al. (2022). Den Lille Blå Parlør om Havstigning. 
+Rapport 2023. Lab1, Arkitektskolen Aarhus. 122 s. ill.
+
+4
+INDHOLDSFORTEGNELSE
+Forord  8
+Afsendere  11
+A
+Adaptive strategier  12
+B
+Bidragsmodel  14
+Biodiversitet  15
+Biotoper, habitater og nicher  16
+Byudvikling over tid  18
+C
+Coastal squeeze og strandenge  20
+Cost-benefit-analyser   21
+D
+DAP og DAPP - Dynamic Adaptation Pathways   22
+Dige effekt   24
+DVR90  25
+E
+Erosion  26
+G
+Gentagelsesperioder og hændelser  27
+
+5
+H
+Havstigning  28
+Havstigning og stormflod  30
+Hybride (kombinerede) løsninger  32
+Hårde og bløde strukturer  34
+I
+Ikke-fysiske løsninger  36
+Instrumentel og iboende værdi   37
+K
+Klimafremskrivning af sikringsniveauer  38
+Klimatilpasning - beskyt, tilpas, tilbagetræk, undgå  40
+Klimascenarier - IPCC  42
+klimaScenarier - RCP og SSP  43
+Klimatilpasningsplaner  46
+Klimasikring og klimatilpasning   47
+Koter og kurvebillede  48
+Kystbyer  50
+Kystlinje og kystzone  52
+Kystnærhedszone og strandbeskyttelseslinje  54
+Kystsikring og kystbeskyttelse  55
+Kysttyper og stormfloder  56
+L
+Landsænkning og landhævning over tid  58
+Løsningstypologier – eksempeloversigt  60
+Løsningstypologier – bygningsniveau  62
+Løsningstypologier – hårde strukturer  65
+Løsningstypologier – naturbaserede strukturer  68
+
+6
+M
+Merværdi   72
+Mitigation, tilpasning og geo-engineering  73
+N
+Natur og kultur  74
+Natura 2000  75
+Naturbaserede løsninger (NbS)   76
+Naturbeskyttelse og havstigning  78
+Naturbeskyttelsesloven  79
+Natursyn  80
+Naturværdi og Naturbegrebet  82
+O
+Omkostningseffektivitet af klimatilpasning  84
+Oversvømmelsesrisiko  86
+Oversvømmelsesdirektiv og risikostyringsplaner  88
+P
+Planlagt justering af kysten (managed realignment)  89
+Planloven  90
+Planlægning af havet og beskyttelsesbestemmelser  91
+R
+Resiliens - evolutionær, teknisk og økologisk  92
+Resiliens i planlægning  94
+Resiliens - social  96
+
+7
+S
+Statistiske sandsynligheder for hændelser  98
+Stormflodsregioner  100
+Strategier vs scenarier  102
+Synergieffekt mellem tilpasning og mitigation  104
+Søterritoriet og etablering af anlæg  105
+T
+Tidevandszone, littoralzone og riparisk zone  106
+Tilbagetrækning  108
+Tilbagetrækning - katastrofedrevet, markedsdrevet  109
+Tilbagetrækning - planlagt  110
+U
+Undgåelse – avoid og no build zoner  112
+V
+Vand - mange typer og tidsligheder  113
+Vandkredsløbet  115
+Ø
+Økologi og økosystem  118
+Økosystemtjenester  119
+Å
+Åer, grundvand og havstigning  120
+
+8
+FORORD
+Samlet viden og dialog
+Ingen kan vide alt, og i tilpasningen af vores kystbyer er der brug 
+for at udveksle viden, samarbejde og gå i dialog. Den Lille Blå Parlør 
+om Havstigning er et bidrag til denne dialog om klimatilpasning og 
+løsningsrum i fremtidens by- og landskabsudvikling. Parløren søger at 
+gå på tværs af viden, fagligheder, interesser, aldersgrupper, ansvarsom-
+råder og visioner for på den vis at bidrage til at binde samtalen mellem 
+forskellige interessenter sammen.
+Forskellige typer af vand og vandets bevægelser
+For at forstå livet på Jorden, er det vigtigt at forstå vandets betyd-
+ning. Uden vand intet liv på Jorden som det er i dag. Jordens over-
+flade består af ca. 70 % vand, hvoraf langt størstedelen er havvand.  
+Vand spiller en afgørende rolle i forhold til menneskers – og andre 
+levende organismers - udvikling, overlevelse og vækst. Når klimaet 
+ændres, er det centralt at have fokus på, hvordan vandet påvirker 
+omgivelserne, og hvordan der kan skabes tiltag, der tager højde for 
+klimaændringerne og deres konsekvenser . Det er også vigtigt at skelne 
+mellem forskellige typer af vand: havvand, regnvand, vandløbsvand og 
+grundvand. Kompleksiteten er høj og de forskellige typer af vand skal 
+samtænkes for at skabe hensigtsmæssige løsninger . 
+Åer, floder, søer og havene er i evig i bevægelse og har altid ´fyldt´ 
+forskelligt. Med klimaændringer findes en større andel af vandet i 
+flydende form frem for som is. Samtidig betyder et varmere klima, at 
+vandet fylder mere. Det bliver derfor yderligere aktuelt, at der skal 
+være plads til, at vandet kan brede sig. At vandet har brug for plads 
+gælder f.eks. ved langvarig eller intens regn, hvor åløb og floder fyldes 
+med vand fra det større vandopland, og langs kysterne hvor havet med 
+det varmere klima vil brede sig ind over land. 
+
+9
+Tværfaglighed og behov for nye praksisser
+Havstigning og hyppigere og kraftigere stormfloder betyder, at der i 
+nær fremtid er behov for at indtænke og implementere nye praksisser 
+inden for klimatilpasning, når kystbyer udvikles. Dette er et komplekst 
+felt med store usikkerheder samt et begrænset erfaringsgrundlag for 
+løsninger . Løsningsmulighederne er i deres tidlige udvikling og kræver 
+brede samarbejder mellem fagfolk og lægfolk, forskellige fagligheder, 
+ansvarsområder og interesser, borgere og politikere, unge som gamle. 
+Disse nye udfordringer byder samtidig på et hav af nye ord, termer 
+og begreber . Ord som endda kan have forskellig betydning alt efter, 
+hvilket fag der taler .  Nogle vil være åbenlyse for den ene, men ukendt 
+farvand for den anden. Den Lille Blå Parlører udviklet i et tværfagligt 
+forum, hvor der netop ikke er enslydende forståelser af de samme 
+ord. Det skal der heller ikke nødvendigvis altid være, men det kan 
+være en fordel at få indblik i, hvad andre fagligheder mener for at 
+præcisere dialogen. På denne vis er parløren i sig selv udviklet som en 
+forståelsesramme for, hvad vi mener med de ord vi bruger – og hvad vi 
+hører andre sige.
+Baggrund, formål og struktur
+Parløren er struktureret som en ABC med en række nøgleord på 
+tværs af tematiske sammenhænge. Her beskrives termer og begreber 
+alfabetisk og flere steder fulgt af illustrationer . Nogle steder udbyg-
+ges teksten med en note, hvor primære kilder angives eller der gives 
+link til yderligere viden. Mange af termerne knytter sig nært til, eller 
+overlapper med, andre ord og begreber . Tingene hænger sammen, og 
+jo mere helhedsorienteret der arbejdes med klimatilpasning, des mere 
+hænger forskellige begreber og tilgange sammen. Af samme årsag er 
+parløren - ligesom andre parlører – ikke tiltænkt kronologisk læsning. 
+
+10
+En del af opslagene handler tematisk set om forholdet mellem vand
+og land. Dette skyldes, at når vi skal tilpasse vores kystbyer til klimaæn-
+dringer, er det grundlæggende en forhandling om forholdet mellem 
+vand og land. I dette forhold ligger både en byforståelse, et menne-
+skesyn og et natursyn. Disse har indflydelse på, hvad og hvordan vi 
+værdisætter . Hvad har værdi som kulturarv? Hvilke former for tryghed 
+har værdi? Hvad er natur, og hvilke værdier tillægger vi den? Hvad er 
+forholdet mellem det byggede og det groede, naturens kræfter og 
+menneskets indflydelse? Derfor har vi også valgt at lave en del opslag 
+under temaet natur, f.eks. Naturbegrebet, Natursyn og Naturværdi. 
+Det samme gælder begreber knyttet til Værdi, hvor der er opslag for 
+både Iboende og Instrumental værdi samt Merværdi. Herudover er 
+der opslag, der knytter sig til resiliensbegrebet, de mere planlægnings- 
+og forvaltningsmæssige aspekter af kystudvikling samt opslag om de 
+teknologier, metoder og tankesæt, der kan komme i spil, når der skal 
+handles på klimaudfordringerne.
+Målgruppe og hvordan bogen kan bruges
+Den Lille Blå Parlør er udarbejdet som formidling til en bred gruppe af 
+både lægfolk og fagfolk, elever og studerende, borgere og politikere, 
+praktikere og forskere. Det er en introduktion til en række kernebe-
+greber og termer, der ofte er vigtige i forbindelse med udvikling af 
+løsninger for havstigning og kraftigere stormfloder i de danske kyst-
+byer . Formålet er at give en overordnet, introducerende viden, som 
+den enkelte kan bruge som enkeltopslag, eksempelvis Bidragsmodel, 
+Kote eller Omkostningseffektivitet, eller som tematiske opslag som 
+f.eks. Løsningstypologier, der spænder bredt med korte beskrivelser 
+af forskellige tilgange. Parløren kan også ses som en overordnet bred 
+introduktion, hvorefter man selv kan søge mere viden. Parløren har 
+fokus på kystbyer i Danmark og det danske klima med referencer til 
+udlandet. 
+ 
+En særlig tak til Realdania for at muliggøre denne parlør.
+FORORD
+
+11
+Den Lille Blå Parlør om Havstigning indgår i forskningsprojektet Kystbyers løsning-
+smuligheder over tid, som en tværgående indsats i et overordnet forskningspro-
+jekt: Danske byers tilpasning til havvandsstigning – nye løsningsrum der er et 
+tværgående samarbejde mellem Danmarks Tekniske Universitet (DTU), Køben-
+havns Universitet (KU) og Arkitektskolen Aarhus (AAA): Forskningsprojektet, 
+herunder Den Lille Blå Parlør, er støttet af Realdania under indsatsen Byerne og 
+det stigende havvand.
+Hovedforfatter: Katrina Wiberg, lektor, PhD, cand.arch. MDL (AAA)
+Medforfattere (alfabetisk rækkefølge, efternavne)
+Karsten Arnbjerg-Nielsen, professor, Dr Techn., PhD, cand.polyt. (DTU)
+Anna Lea Eggert, PhD -stud., cand.polyt. (DTU)
+Ole Fryd, lektor, ph.d., cand.polyt. (KU)
+Gertrud Jørgensen, professor, PhD, cand.arch. (KU)
+Anna Aslaug Lund, adjunkt, PhD, landskabsarkitekt MAA (KU)
+Roland Löwe, lektor, PhD, MSc. (DTU)
+Kamilla Stener Møller, specialkonsulent, cand.scient.soc.(KU)
+Tom Nielsen, professor, PhD, cand.arch. (AAA)
+Soo Jung Ryu, PhD-stud., MArch, MSc. (AAA)
+Tak til Kristoffer Albris, Adjunkt, PhD, Københavns Universitet, Institut for Antro-
+pologi og SODAS, for bidraget social resiliens.
+Kreditering
+Ophavsrettigheder til kildemateriale står anført ved de enkelte illustrationer . 
+Hvor ophavsrettigheder ikke er anført, er materialet illustreret af Katrina Wiberg
+og krediteret til Arkitektskolen Aarhus. 
+Dato og sted: 2023.02.09, Arkitektskolen Aarhus, Danmark
+Udgiver: Arkitektskolens Forlag
+Citation: Wiberg et al. (2022). Den Lille blå Parlør om Havstigning. Rapport 2023. 
+Lab1, Arkitektskolen Aarhus. 122 s. ill.
+AFSENDERE
+
+12
+ADAPTIVE STRATEGIER
+Tilpasningsmuligheder over tid
+Det vil ofte være svært at udvikle en løsning, der fungerer for alle 
+fremtidsscenarier, da det bliver dyrt at sikre sig mod de mest ekstreme 
+scenarier . Derfor kan scenarieanalysen med fordel forbindes med 
+en adaptiv tilgang til sikring. Det vil sige en tilgang, hvor strategier 
+og løsninger kan tilpasses over tid. Eksempelvis ved at starte med et 
+lavere sikringsniveau, men hvor det indtænkes, hvordan sikringen kan 
+opgraderes eller suppleres med alternativer, hvis og når et af de mere 
+ekstreme scenarier bliver til virkelighed. 
+Alternative løsninger ved f.eks. et ekstremt scenarie kan være at skabe 
+mulighed for gradvis tilbagetrækning eller andre former for tilpasning, 
+så byfunktioner kan fungere med højere havvandsspejl etc. Denne til-
+gang kan sikre, at de nuværende investeringer ikke er spildt, men også 
+kommer fremtidens samfund til gavn. 
+Et eksempel på en struktureret, trinvis tilgang til investeringer er DAPP 
+metoden. DAPP-metoden er baseret på at synliggøre, hvorvidt en 
+given løsning giver flere veje at gå over tid. Det vil sige tilpasningsdyg-
+tighed overfor udviklingen inden for klimaændringer . 
+ 
+Note: DAPP står for Dynamic Adaptative Policy Pathways
+AA
+
+13
+Klima-resiliente ruter . Diagrammet - eller metoden - kan give et overblik over de miljømæs-
+sige og sociale faktorer, der tilsammen danner mulighedsrummet for løsninger . Her er fokus 
+på at tage ´gode beslutninger´ undervejs; som et prisme for at indarbejde bæredygtighed i 
+alle beslutningsprocesser og undgå beslutninger, der senere skaber ´lock-ins´. Beslutningerne 
+skal kunne tilpasse sig nye behov og situationer undervejs, det vil sige en adaptiv, tilpasnings-
+dygtig tilgang. Tilgangen minder lidt om ´doughnut økonomi´. Diagrammet er optegnet 
+på baggrund af ´Climate change 2014, Impacts, Adaptation, and Vulnerability, Summary 
+for Polocymakers´, figur side 29. Link: https://www.ipcc.ch/site/assets/uploads/2018/02/
+ar5_wgII_spm_en.pdf  
+Figur 1 
+A
+
+14
+BIDRAGSMODEL
+Hvad koster det, hvem skal betale og er det retfærdigt
+Omkostningerne forbundet med anlæg og drift af kystbeskyttelsesan-
+læg vil typisk blive finansieret gennem en form for samfinansiering 
+blandt de interessenter, der måtte få gavn af løsningen. Der kan i 
+den forbindelse være tale om frivillige bidrag såvel som pligtmæssi-
+ge bidrag. De frivillige bidrag er fra dem, der populært sagt har lyst 
+til at bidrage, fordi de synes, det er en god idé. Det kan f.eks. være 
+gennem fondsbevillinger . De pligtmæssige bidrag er tvungne krav 
+om at være med til at dække omkostningerne, og det er bundet i 
+lovgivningen. Kystbeskyttelseslovens § 9a foreskriver, at ejere af fast 
+ejendom, der har gavn af et kystbeskyttelsesprojekt, herunder ejere 
+af boliger, erhverv og infrastrukturanlæg, kan pålægges bidragspligt. I 
+henhold til kystbeskyttelsesloven skal dem, der har gavn af kystbeskyt-
+telsesprojektet, være med til at betale for projektet. Det sker ud fra et 
+nytte- og proportionalitetsprincip, så bidragsandelen er proportional 
+med den nytte, den enkelte ejer får af projektet. Fordelingsnøglen kan 
+udarbejdes på baggrund af en række forskellige kriterier, eksempelvis 
+ejendommens beliggenhed (f.eks. kote, afstand til kysten), anvendelse 
+(f.eks. bolig, erhverv, sommerhus), størrelse (f.eks. boligareal) eller 
+ejendomsværdien. Der kan også være andre afledte effekter ved et 
+kystbeskyttelsesprojekt, som f.eks. at en virksomheds produktion og 
+omsætning ikke påvirkes af en stormflod.
+Kystdirektoratet har udarbejdet en vejledning til bidragsfordeling, hvor 
+der skelnes mellem de materielle værdier (de direkte fysiske skadeso-
+mkostninger) og de immaterielle nytteværdier (f.eks. tabt omsætning, 
+beskyttelse af kulturarv eller fremme af rekreativ anvendelse).
+Kommuner kan bidrage proportionalt som lodsejer på linje med andre 
+ejere af fast ejendom. F.eks. vil mange veje typisk være kommunal 
+ejendom. Kommuner kan også bidrage med en kommunal medfinan-
+siering, der går ud over det snævre nytteprincip, hvis det vurderes at 
+være til gavn for almenvellet. F.eks.kollektive gevinster som attraktive 
+havnemiljøer, nemmere offentlig adgang til kystområder, sikring af na-
+turinteresser eller fremme af et områdes omdømme. Det er kommu-
+nalbestyrelsen i den enkelte kommune, der godkender bidragsmodel-
+len og fastsætter det enkelte bidrags størrelse.
+BB
+
+15
+Biodiversitet som et samspil imellem arter og artsmangfoldighed både under og over jorden, 
+i luften, til vands og til lands. Biodiversitet spiller en kritisk rolle for sunde økosystemer og 
+har dermed betydning for f.eks. rent vand og ren luft, frugtbar jord, fødevareproduktion og 
+medicinproduktion. Biodiversitet er derfor vigtig for både mennesker og andre arter . 
+Læs evt. yderligere her: https://mst.dk/natur-vand/natur/biodiversitet/
+Figur 2 
+BIODIVERSITET
+Artsmangfoldighed
+FN definerer biodiversitet som: ”Mangfoldigheden af levende organis-
+mer i alle miljøer, både på land og i vand, samt de økologiske samspil, 
+som organismerne indgår i. Biodiversitet omfatter såvel variationen 
+indenfor og mellem arterne som mangfoldigheden af økosystemer”. 
+Med andre ord kan alt liv på jorden indgå i begrebet biodiversitet, 
+herunder dyr, planter, svampe, bakterier og andet levende både 
+på land, i vand og i luften. Begrebet biodiversitet fordrer, at der er 
+mangfoldighed og samspil mellem forskellige systemer og processer. 
+Tab eller uddøen af arter er en global krise, der (mindst) er på linje 
+med klimakrisen. Den aktuelle biodiversitetskrise, den sjette mas-
+seudryddelse, forventes at have en restituerings-, reorganiserings- og 
+genetableringsperiode på omkring 50 millioner år . Klimaforandringer 
+og havstigning kan påvirke biodiversiteten negativt, hvis f.eks. områder, 
+der oversvømmes, rummer arter, der ikke kan flytte sig til andre 
+levesteder og dermed trues eller ligefrem uddør .
+B
+
+16
+BIOTOPER, HABITATER OG NICHER
+Underinddeling af økosystemer
+Økosystemer kan skalamæssigt være en sø, en skov, en hede, en 
+strandeng eller et lavvandet kystområde, hvor dyr og planter har 
+tilpasset sig de specifikke forhold på stedet. Økosystemet er i inter-
+aktion med omkringliggende økosystemer, og ultimativt hele Jordens 
+biosfære.
+Økosystemet kan skalamæssigt underopdeles nedad i biotoper, habita-
+ter og nicher . Ser man f.eks. på en større blandet skov som et øko-
+system, kan en nåleskov udgøre en biotop, idet den fremstår som en 
+relativt homogen del af skoven. Et enkelt grantræ kan være et habitat 
+inden for biotopen, mens toppen og bunden af grantræet eller inder-
+siden af barken kan danne en specifik økologisk niche. Det samme gør 
+sig gældende for livet ved kyster og i havet.
+’Habitatnaturen’, som i EU’s habitatdirektiv er en del af grundlaget for 
+udpegningen af danske Natura 2000-områder, afspejler de systemiske 
+betingelser, der skal være til stede for, at områder kan fungere som 
+levesteder for sjældne og sårbare dyre- og plantearter . Viden om øko-
+systemer er derfor vigtig for at kunne forstå udpegningen, lovgrund-
+laget og forvaltningen af naturområder i Danmark.
+B
+
+17
+Biotoper, habitater og nicher findes både på land og i vand. Biotoper refererer til fysiske og 
+miljømæssige forhold, der definerer et område, f.eks. skove, ørkener og havet. Forskellige 
+arter af planter, dyr, svampe og mikroorganismer kan leve i biotopen. En biotop kan dog også 
+være tømt for levende organismer . Habitater er derimod defineret af de levende organismer, 
+der kan være i en biotop. Habitater er det specifikke sted, hvor arter kan få opfyldt deres 
+behov for føde, beskyttelse og vand. Nicherne, derimod, refererer til den unikke rolle, hver 
+enkelt art spiller i økosystemet. Det vil sige, hvordan den indgår i samspillet med andre arter 
+og det fysiske miljø, eksempelvis om det er et rovdyr højere oppe i fødekæden eller har 
+rollen som bestøver . Et eksempel på en niche er blåmuslingen, der sidder fast på sten eller 
+lignende i tidevandszonen. Samtidig er den selv fødekilde for andre arter . Som klynge skaber 
+den i sig selv også habitater for andre arter som f.eks. små fisk. Dens filtrering af vandet kan 
+også bidrage til at skabe klarere vand og dermed lette sollysets vej ned i vandet til fordel for 
+andre arter . Derved har blåmuslingen også en rolle i det større økosystem.
+Figur 3 
+B
+
+18
+BYUDVIKLING OVER TID
+Fremtidens byer er formet af historien
+Havvandsstigninger kommer langsomt men sikkert. Det er ikke muligt 
+at forudsige præcist med hvilken hastighed, eller hvor store de bliver . 
+Det samme kan siges om byer . De fleste større danske byer vokser . Det 
+har de gjort gennem hundreder af år . Udviklingen har været svær at 
+forudse skridt for skridt, men i et langt perspektiv følger den generelt 
+de samme mønstre.
+De centrale, og for mange mennesker mest værdifulde dele af byerne, 
+ligger der, hvor de også lå, da købstæderne voksede frem i mid-
+delalderen. Det må forventes, at dele af byernes strukturer også ligger 
+der om flere hundrede år, når havvandstanden er en helt anden end 
+i dag. Det vil sige de samme bystrukturer - men i et helt nyt landskab. 
+Havstigning rejser spørgsmål omkring, hvor og hvordan byerne skal 
+udvikles fremadrettet og hvilke værdifulde områder, der skal beskyttes. 
+Det er nogle af de centrale spørgsmål, der skal tages stilling til, når nye 
+bydele anlægges og områder klimasikres eller klimatilpasses. Det er 
+derfor vigtigt at se på byudvikling i et meget langt tidsperspektiv. Også 
+selvom der er mange ubekendte. Det stigende havvand udfordrer 
+traditionen med at planlægge byer ud fra et 4 til 12-årigt perspektiv i 
+kommuneplanen.
+B
+
+19
+Danmark er et land med kystbyer, hvoraf mange er tidligere købstæder . I kystens købstæder 
+ses ofte en historisk bymidte med en senere udbygning mod havet, bl.a. i form af landvind-
+ing. Den historiske bymidte ligger typisk på højere terræn, mens nyere byudvikling, særligt 
+fra 1960´erne og frem, ofte ligger lavt og nu er mere oversvømmelsestruet. Samtidens 
+kystbyer består af nyere strukturer såvel som strukturer, der går f.eks. 1000 år tilbage i tiden. 
+Udviklingen af byens strukturer har derfor meget lange tidsspænd, så når kystbyerne skal 
+tilpasse sig ændringer i klimaet og ændret havniveau, kan det give mening også at tænke 
+både 100 og 300 år eller længere ind i fremtiden.
+Figur 4 
+B
+
+20
+Coastal Squeeze og baglandets højder og karakter . Når kysten presses både indad og op af 
+stigende havvand, vil der være arter, der ikke længere kan overleve på deres nuværende are-
+al, fordi vanddybden bliver for stor. Her bliver det vigtigt, hvordan sådanne arter kan etablere 
+sig på nye områder, dvs. hvilken ´kant´ og forhold de møder .
+Figur 5 
+COASTAL SQUEEZE OG STRANDENGE
+Når havet stiger er der brug for plads indefter
+Strandenge er lavtliggende flade arealer, der er påvirkede af saltvand 
+fra havet, og som er beliggende mellem havet og det bagvedliggende 
+landskab højere i terrænet. Strandenge udgør omkring 1 % af Dan-
+marks landareal og cirka 10 % af arealet af de §3-beskyttede områder i 
+landet. Samtidig udgør Danmarks strandenge næsten 80 % af hele EU’s 
+samlede areal af de såkaldte kontinentale strandenge. Strandenge er 
+således en væsentlig beskyttet naturtype på såvel nationalt og inter-
+nationalt plan. Inden for de næste 100 år forventes cirka halvdelen af 
+strandengene i Danmark at forsvinde i havet som konsekvens af hav-
+vandsstigninger . Årsagen er, at strandengene er meget lavtliggende, og 
+de bliver derfor permanent oversvømmede, når havet stiger . Stranden-
+gene kan ikke altid ’flytte’ sig ind i landet pga. højden på det bagved-
+liggende land. Det kan skyldes en naturlig terrænskråning, et dige eller 
+måske en eksisterende bymæssig bebyggelse, der danner en bagkant 
+og begrænsning for, hvor langt økosystemet kan flytte sig ind i landet. 
+Når havet stiger og det lave forland indskrænkes, vil der i fremtiden 
+være mindre af den beskyttede kystnatur tilbage. Dette fænomen 
+kaldes ”coastal squeeze”. I lavtliggende områder kan strandengene
+flytte sig landværts ind i ådale og nor . Det er dog ikke problemfrit, da 
+det vil fortrænge andre §3-beskyttede områder, så som ferske enge, 
+søer og moser, hvor saltpåvirkningen ved højvande og stormflod vil 
+være decideret giftig for dyr og planter . Disse får derfor behov for 
+plads og tid til ligeledes at kunne trække sig indefter . Samtidig kan 
+strandenge have betydning som naturlig kystbeskyttelse, der kan 
+mindske bølgepåvirkningen længere inde mod land.
+C
+
+21
+COST-BENEFIT-ANALYSER 
+Hvordan måles værdi?
+Cost-benefit-analyser kan bruges til at udføre en økonomisk
+afvejning af, om en investering i oversvømmelsesbeskyttelse, flytning 
+af byområder e.l. kan betale sig. I analysen opgøres om de tab, der er 
+forbundet med løsningen (f.eks. investerings- og driftsomkostninger, 
+tab af naturområder eller reduceret herlighedsværdi), modsvarer 
+de gevinster, der opnås igennem løsningen (reduktion af oversvøm-
+melsesskade, forbedret luftkvalitet, monetær værdi af inddæmmet 
+land, nye rekreative arealer, m.fl.). Analysens styrke er, at den kan 
+komme med et resultat selv om f.eks. goder og ulemper forekommer 
+på forskellige tidspunkter . Som første skridt i en cost-benefit-analyse 
+skal beslutningstagerne forholde sig til, hvilke planlægningsmål der 
+potentielt påvirkes af et tiltag, og hvilke tab og gevinster der derfor 
+skal medtages i analysen.
+Cost-benefit-analyser udføres typisk ved at sammenligne forskellige 
+scenarier med et laissez-faire (gør ingenting) scenarium for at vurdere, 
+hvilke løsninger der er økonomisk bæredygtige, og eventuelt hvilken 
+der er samfundsmæssigt optimal. For at skabe et så fyldestgørende 
+overblik skal ikke-markeds-omsatte goder (f.eks. trafik-forstyrrelser 
+efter oversvømmelser, forbedring af luftkvalitet, værdi af naturarealer) 
+medtages i analysen, selvom deres værdisætning er behæftet med 
+væsentlige usikkerheder .
+C
+
+22
+DAP OG DAPP - DYNAMIC ADAPTATION PATHWAYS 
+Ruter for tilpasning – muligheder eller lock-ins over tid
+En måde at gøre strategisk planlægning mere operationel kan være 
+gennem en pathways tilgang (DAP), der følger forskellige udviklings-
+spor og valg over tid.  Helt kort handler det om at identificere de 
+beslutninger, der skal tages nu, og hvilke der kan tages i fremtiden, at 
+prioritere investeringer, og måske vigtigst af alt, at vurdere hvor længe 
+en bestemt løsning er tilstrækkelig, og hvornår det er nødvendigt at 
+revidere planerne. Ud fra dette kan en dynamisk pathways-tilgang 
+tydeliggøre, om løsninger over tid kan give muligheder for alternative 
+løsninger eller om en given løsningstype over tid kommer til at skabe 
+´lock-ins´. Lock-ins vil sige, at man potentielt binder sig og fastlåser 
+sig i forhold til muligheden for at tilpasse eller omgøre løsningen over 
+tid. Inden for en parthways-tilgang, beskriver begrebet ’tipping point’ 
+det punkt i tid eller påvirkning, hvor en bestemt indsats ikke længere 
+er nok til at opnå et bestemt mål eller afværge en bestemt trussel, og 
+hvor en ny indsats eller politik må iværksættes, hvis målet stadig er 
+relevant. Helt grundlæggende bør interessenterne inddrages i hver 
+faseovergang. Dynamic Adaptive Policy Pathways beskrives som en 
+metode til at gennemføre strategisk planlægning på en organiseret 
+og struktureret måde. Også her er fokus på at holde muligheder åbne 
+så længe som muligt og mulighed for at ændre planen baseret på nye 
+udviklinger eller indsigter som forudsætning for en fleksibel og robust 
+plan.
+Fire trin i en tilpasningsproces:
+1) Sætte mål
+2) Vurdere ’tipping point’ for eksisterende politik under forskellige scenarier 
+3) Undersøge mulige, nye tiltag for deres ’tipping point’
+4) Kombinere det foregående til en række alternative ’stier’ eller udviklingsspor, 
+som hver for sig kan cost-benefit vurderes. 
+Note: DAP står for Dynamic Adaptation Pathways og DAPP står for Dynamic 
+Adaptive Policy Pathways. Læs mere om Zandvoort et al. 2017 og deres fire trin 
+i en tilpasningsproces: https://www.sciencedirect.com/science/article/pii/S1462901116309339, 
+læs om forskerne Haasnoot et al. i forhold til DAPP og at holde muligheder åbne: 
+https://www.sciencedirect.com/science/article/pii/S095937801200146X
+DD
+
+23
+DAPP er en ramme der kan bruges til at undersøge og sammenligne, hvordan forskellige 
+tiltag til klimatilpasning virker på et givet område, herunder ikke mindst, hvornår nogle tiltag 
+ikke længere virker . Fokus er på at afdække muligheder og usikkerheder over tid for at kunne 
+identificere fleksible og resiliente løsninger, så beslutninger og handlinger kan baseres på 
+den bedst mulige viden på det pågældende tidspunkt.
+Figur 6 
+D
+
+24
+Principsnit for dige effekt. Oppefra og ned illustreres, hvordan lavtliggende områder i risiko 
+for oversvømmelse kan blive attraktive for yderligere byggeri, hvis der etableres f.eks. større 
+diger, som giver indtryk af sikkerhed. Hvis diget fejler, eller der kommer en større hændelse 
+end forventet, så er risikoen højere, end før diget blev bygget.
+Figur 7 
+DIGE EFFEKT 
+Diger kan give en opfattelse af tryghed
+Begrebet ’dige effekt´(levee effect) betegner den situation, hvor 
+en hård struktur, som f.eks. et dige eller en dæmning, giver så stor 
+tryghedsfølelse, at det virker som incitament til yderligere bebyggelse
+i risikoområder og dermed øger konsekvenserne ved et digebrud.
+´Når noget er sikret, kan der bygges´: Det betyder, at området vil 
+opleve færre oversvømmelser pga. sikringen, men i de sjældne hæn-
+delser, hvor sikringsniveauet overskrides, vil skaderne til gengæld ofte 
+være store, fordi værdierne i området er større. I ekstreme tilfælde 
+medfører sikringen derfor ikke en risikoreduktion i forhold til ekspo-
+nering og sårbarhed, og den samlede risiko kan derfor være større end 
+uden sikring. Dige effekten er observeret i hele verden, men er især 
+tydelig i Holland.
+D
+
+25
+DVR90
+Dansk Normal Nul
+I Danmark bruges en fælles reference i forhold til, hvor højt noget 
+ligger . Danmark har ét fælles hovedfikspunkt (normal højdepunkt). 
+Det er påsat den østvendte gavl på Aarhus Domkirke. Havvandstanden 
+angives relativt til det gennemsnitlige havniveau i år 1990. Dette fælles 
+højdesystem justeres med tiden, idet terrænet stiger (landhævning) 
+i nogle områder og synker (landsænkning) i andre, samtidig med 
+at havet generelt stiger . Det fælles højdesystem kaldes DVR90 for 
+at kunne skelne fra tidligere systemer . DVR90 står for Dansk Verti-
+kal Reference. Højdesystemet afløste det, som tidligere hed Dansk 
+Normal Nul (DNN). På grund af ændringer i havvandstanden er den 
+gennemsnitlige havvandstand i Danmark i dag nogle cm højere end 
+nulpunktet i DVR90.
+D
+
+26
+EROSION
+Akut og kronisk sedimenttransport
+Alle kyster udsættes for bølgepåvirkning og strøm, som medfører at 
+der enten fjernes eller aflejres sand m.v. Udkommet afhænger af flere 
+processer og nogle steder påvirkes kystlinjen meget, mens der i andre 
+områder stort set ikke er ændringer . Ved stormfloder kan der være 
+kraftig, akut erosion, der afgørende ændrer på kystlinjen. I Danmark 
+er den kroniske erosion mest udtalt ved Vestkysten samt de nordlige 
+kyster på Sjælland og Bornholm. Generelt foregår erosion i et samspil 
+mellem kystprofilet og bølgepåvirkning. Der skelnes mellem forskellige 
+typer af erosion: 
+• Akut erosion –f.eks. ved en storm.
+• Kronisk erosion –f.eks. den løbende sedimenttransport væk fra området 
+grundet bølger og strøm
+Eksempel på ændringer af kystlinjen, skabt af både naturlige og menneskabte processer.
+Kystlinjen er dynamisk og flytter sig ud og ind over tid. Noget skyldes sedimenttransport pga. 
+bølger og vind, hvor havet enten lægger ekstra materiale på kysten eller fjerner materiale 
+(erosion). Andre dynamikker er f.eks. byudvikling ved kysten og ud i havet som f.eks. landvin-
+ding eller hård kystsikring, der påvirker havets sedimenttransport. Læs lidt om forskellige 
+typer af erosion her: https://denstoredanske.lex.dk/erosion_-_geologisk_proces
+Figur 8 
+EE
+
+27
+GENTAGELSESPERIODER OG HÆNDELSER
+Omfang og hvor ofte det statistisk sker
+I arbejdet med klimatilpasning bruges ofte begreberne hændelse kom-
+bineret med gentagelsesperiode. En hændelse er en begivenhed, som 
+kan gives en præcis beskrivelse af en fare og dens tilhørende sandsyn-
+lighed. En fare kan f.eks. være en oversvømmelse af områder under 
+kote 1.83 meter eller kombinationen af 30 mm nedbør på 2 timer og 
+en havvandstand i kote 1.65 meter .
+Man benytter ofte gentagelsesperioder til at beskrive, hvor hyppigt 
+en bestemt type hændelse kan tænkes at forekomme i fremtiden. 
+Gentagelsesperioden er den gennemsnitlige tid mellem hændelser . En 
+100-årshændelse har 1% sandsynlighed for at forekomme årligt, mens 
+en 20-års hændelse har 5% sandsynlighed for at forekomme årligt. 
+Hvis klimaet er konstant, vil der i gennemsnit være 100 år mellem to 
+100-årshændelser . Man kan dog ikke forudsige, hvornår de enkelte 
+hændelser forekommer. Som eksempel kan nævnes de meget alvorlige 
+hændelser med stormflod i 1825 og 1872, der i gennemsnit forekom-
+mer sjældnere end hvert 100. år . Der var under 50 år imellem disse 
+hændelser . Til gengæld er der nu gået 150 år siden sidste meget store 
+stormflod, uden en tilsvarende hændelse er observeret.
+Hændelser bliver oftere og kraftigere.
+Da klimaet ikke er konstant, og klimaændringerne spiller en øget rolle, 
+må det antages, at storme i fremtiden vil blive kraftigere og komme 
+hyppigere. Med andre ord stiger sandsynligheden for en given fare 
+(f.eks. en stormflod med en given kote) en smule hvert år, og derfor vil 
+der i fremtiden være væsentligt kortere mellem en bestemt fare, f.eks. 
+en 100-årshændelse, i nutidens klima. På et tidspunkt i fremtiden vil 
+denne hændelse være en 20-årshændelse og endnu senere i fremtid-
+en en 5-årshændelse. Når man vælger en sikring til et bestemt niveau, 
+eksempelvis en 100-årshændelse, forventer man, at der generelt ikke 
+vil ske skader under dette niveau. En sjældnere hændelse vil derimod 
+stadig give en skade. Størrelsen af denne skade vil afhænge af den 
+løsning man har valgt. Derfor er det vigtigt ikke kun at diskutere hvilken 
+gentagelsesperiode, man ønsker at sikre sig til, men også hvad der 
+sker, når det tilsvarende niveau overskrides. 
+GG
+
+28
+HAVSTIGNING
+Global opvarmning giver havstigning
+Havstigning skyldes Global opvarmning indebærer bl.a. afsmeltning af 
+indlandsis og gletsjere der får havet til at stige. Samtidig får de højere 
+temperaturer havvandet til at udvide sig og derved fylde mere. De 
+lokale konsekvenser vil være forskellige grundet forskellig demografi, 
+befolkningstæthed, bystrukturer, naturgrundlag, geomorfologi, kultur-
+elle værdier, kulturarv, økonomiske værdier . Herunder også forskelle 
+omkring areal- og terrænmæssige muligheder for at trække sig tilbage, 
+administrative grænser, socio-økonomiske forhold og samfundsstruk-
+turer generelt. Havspejls- eller havniveaustigning betegnes ofte som 
+havstigning, forkortet SLR (Sea Level Rise). Når man taler om havstign-
+ing, vil det i sagens natur altid være i forhold til et tidligere niveau; dvs. 
+den havvandstand/det havniveau der måles op imod. Derfor bruges 
+begrebet relativt havniveau og havstigning (Relative Sea Level/RSL).
+Havet omkring Danmark er i gennemsnit steget 220 mm siden år 1880. 
+Her er der regionale forskelle, idet den nordlige del af Jylland oplever 
+landhævning og den sydlige del af Jylland landsænkning. En fjerdedel 
+af stigningen de sidste 140 år er sket de sidste 15 år, idet stigningen 
+her er beregnet til 3,7 mm/år . 
+Beregning af den fremtidige havstigning er behæftet med store usik-
+kerheder både i forhold til, hvilket havniveau kloden er på vej imod, 
+samt på hvilke tidspunkter forskellige niveauer af havstigning vil ske. 
+Havvandsstigninger er det man kalder en ´slow-burner´, hvilket bety-
+der, at selv hvis den globale udledning af CO2 bliver reduceret hurtigt, 
+vil havet fortsætte med at stige i de kommende århundreder . I de mest 
+optimistiske scenarier forventer man, at stigningen bliver mindre sidst 
+i århundredet, mens de mest pessimistiske sce-narier forventer, at 
+stigningen i havvandspejlet vil være mere end 10 mm/år sidst i århun-
+dredet. I år 2400 forudsiger mange scenarier stigninger på mere end 
+3 meter i forhold til niveauet nu. De store usikkerheder omkring hvor 
+meget og hvornår havet stiger til et kritisk niveau betyder, at der skal 
+foretages en række valg omkring, hvad som skal indtænkes nu eller 
+først om mange år .
+De store usikkerheder omkring omfang og hastighed af havstigning gør 
+det er svært at vurdere om f.eks. kystbyer skal sikres, hvilket niveau 
+der skal sikres til og med hvilken fremskrivningshorisont.
+HH
+
+29
+Figur 9 
+Den globale havvandstandsstigning fremskrevet for de 5 SSP scenarier frem til hhv. år 2100 
+og 2300. Jo længere fremme i tiden, desto større usikkerheder . Som det fremgår forventes 
+omkring 70 cm stigning frem til år 2100, men op til 200 cm kan ikke afvises. Øverst på denne 
+side ses en lysegul cirkel, der indikerer en 15 meter stigning i år 2300, som beskrives som 
+usandsynlig, men ikke kan udelukkes ved høj udledning af drivhusgasser .
+Grafen er optegnet på baggrund af IPCC 2021, R6 Technical Summary, Figure Box TS. Her: 
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ipcc.ch/report/ar6/wg2/downloads/
+report/IPCC_AR6_WGII_SummaryForPolicymakers.pdf
+H
+
+30
+HAVSTIGNING OG STORMFLOD
+Forskellige udfordringer kan kræve forskellige løsninger
+Havstigning og stormfloder kan have forskellige konsekvenser . 
+Havstigning giver et permanent (og øget) tryk ind over land og giver 
+dermed behov for løsninger, der kan imødekomme en ændret sit-
+uation over længere tid. Dette står i modsætning til stormfloder og 
+ekstreme højvande, som har en kort varighed (timer og dage), hvoreft-
+er genopbygning kan begynde. Det vil sige, at hvor havstigning giver 
+et permanent pres, så er stormflod umiddelbart voldsommere, men 
+midlertidig. Dette har også indflydelse på, hvilke løsninger der vælges. 
+Er det f.eks. en løsningder  en gang imellem kan lukke af og skærme 
+mod en stormflod, eller er det løsninger der skal afhjælpe et højere 
+havniveau? 
+Samtidig har kystbyers indplacering i landskabet betydning, da nogle 
+landområder er mere udsatte end andre. F.eks. er Tøndermarsken 
+ikke alene lavtliggende, men også beliggende ud til Vadehavet. Når 
+havniveauet stiger, vil det terrænnære grundvand nær kysten ligeledes 
+stige. Det betyder blandt andet, at selvom der etableres diger, så vil 
+det terrænnære grundvand stige inden for diget. 
+Historiske erfaringer og nye udfordringer
+Historisk set er stormfloder velkendte, og lavtliggende områder er 
+traditionelt blevet beskyttet med især diger . Havniveaustigning er 
+derimod en relativt ny klimaudfordring i Danmark, der skaber nye 
+udfordringer og rejser en række spørgsmål til bosætning ved kysterne. 
+De mest egnede løsninger til stormflod afhjælper ikke nødvendigvis 
+udfordringer ved havstigning. Et eksempel kan være sluseporten, 
+der kan lukkes ved stormflod, men som ikke holder permanente 
+havvandsstigninger ude. Når en kystby tilpasses klimaændringer til 
+stigende havspejl og flere og større stormfloder, er det vigtigt at skelne 
+mellem hvorvidt tiltagene er tiltænkt stormflod og/eller havstigning.  
+Kombinationen af stormflod og havstigning kan derfor give behov for 
+kombinerede løsningsmodeller, der kan adressere forskellige
+udfordringer over tid.
+H
+
+31
+Figur 10 
+Der er forskellige konsekvenser af havstigning og hændelser som stormfloder . Stormfloder er 
+historisk velkendte og har en tidslighed på et par dage. Havstigning giver derimod et perma-
+nent øget pres på kyster og kystbyer . Med klimaændringer og havstigning bliver hændelserne 
+i sig selv større og oftere forekommende. Kombinationen af havstigning og stormflod er 
+derfor en ny situation for kystbyerne.
+H
+
+32
+HYBRIDE (KOMBINEREDE) LØSNINGER
+Kan én løsning stå alene?
+I tæt bebyggede byområder er den mest hensigtsmæssige klimatil-
+pasning i visse tilfælde en kombineret (hybrid) løsning, der gør brug 
+af flere delelementer . F.eks. ved at gøre brug af landskabselementer 
+(naturligt højere terræn) og eksisterende byggede elementer . Til dette 
+kan tilføres hårde strukturer, naturbaserede strukturer og mobile 
+løsninger samt planlægningsmæssige greb såsom zoner hvori der un-
+dgåes nyt, permanent byggeri. Hertil kommer kombinationsmulighed-
+er over tid. Eksempelvis kan fysiske løsninger kombineres med mobile 
+løsninger, og områder kan måske på den helt lange bane få flyttet sine 
+funktioner til højereliggende områder .
+Kombinerede løsninger har gavn af at tage afsæt i stedsbundne kval-
+iteter og karakteristika; f.eks.indplacering i forhold til landskabets træk, 
+bygningsværdier og andre lokalt forankrede forhold.
+Et bygget eksempel på en kombineret løsning inden for regnvands-
+håndtering er Klimakvarteret på Østerbro i København, som bl.a. 
+bruger regnbede sammen med muligheden for overløb til kloak. Et 
+eksempel på en kombineret løsning i forhold til havvand er Katwijk 
+Diget i Holland som er en digekonstruktion i beton med et ´landskab-
+slag´ udenpå. Udover at beskytte en by mod havstigning og erosion, 
+har diget flere funktioner . Bl.a. underjordisk parkering der faciliterer 
+strandturisme samtidig med, at området fortsat kan fungere som 
+rekreativt trækplaster . Katwijk Diget er dog også en omkostningstung 
+konstruktion med et stort CO2 aftryk. Løsningen har desuden været 
+afhængig af, at byen, som den beskytter, i forvejen var højtliggende,
+og at der var mulighed for at ´slutte til´ eksisterende høje diger .
+I forhold til tilpasning af kystbyer kan et eksempel på en kombineret 
+løsning være at kombinere barriereøer med bagvedliggende strandeng 
+eller en lavere højvandsmur i selve byen med foranliggende strandeng. 
+H
+
+33
+Figur 11 
+Eksempler på hybride løsninger . Nogle løsninger kan måske stå alene i en periode, men som 
+havet stiger, vil der over tid blive behov for nye løsninger . Som udgangspunkt kan forskellige 
+løsninger kombineres. Eksempelvis kan en højvandsmur eller et dige til beskyttelse mod 
+stormflod gøres lavere, hvis bølgerne brydes (fx i form af et rev) før de rammer muren. 
+Muren kan også bruges til at købe tid, mens der planlægges udbygning på højere terræn 
+eller opbygges naturbaserede løsninger . Fleksible bygninger og civilt beredskab kan indgå i 
+sådanne løsningskombinationer . Flere af løsningerne er dog mest velegnede til stormflod og 
+er mere udfordrede af havstigning på den længere bane.
+H
+
+34
+HÅRDE OG BLØDE STRUKTURER
+Hard & soft engineering
+Fysiske løsninger omtales ofte som hhv. hårde strukturer og bløde 
+strukturer (hard engineering og soft engineering). Hvor begrebet 
+hårde strukturer ofte dækker over lidt større konstruktioner som diger, 
+sluser og dæmninger, kan det også være i den mindre skala som f.eks.  
+lokale højvandsmure. Bløde strukturer er ofte synonym med natur-
+baserede løsninger . Der er en række grundlæggende forskelle mellem 
+hårde strukturer og naturbaserede løsninger i forhold til hvad de afh-
+jælper og deres afledte effekter . Hårde konstruktioner er velbeskrevne 
+og kan intuitivt fremstå mere sikre, end de reelt er . En hård struktur 
+bygget til at kunne klare en 100-års hændelse er dog ikke mere sikker, 
+end at den kan være nyttesløs ved en 110-års hændelse.
+Hårde strukturer – statiske 
+Hårde strukturer kan både være dynamiske og statiske. De statiske er 
+eksempelvis et dige eller en højvandsmur og vil i princippet beskytte 
+både mod stormflod og havstigning (hvis konstruktionerne vel at 
+mærke gøres høje nok). Eksempler er Det Lollandske Dige eller Det 
+Fremskudte Dige ved Tønder, som er permanent lukkede og derved 
+både beskytter mod stormfloder og havstigning. Dette kræver dog 
+pumper/sluser, som eksempelvis Vidåslusen ved Tønderdiget, da åvand 
+og regnvand fra det bagvedliggende opland også skal kunne komme 
+ud. Hårde, statiske strukturer vil, hvis ikke der tilpasses yderligere ud 
+mod havet, give yderligere erosion på det kystlandskab der måtte 
+være i forvejen. I mange tilfælde vil de hårde statiske strukturer lukke 
+af for vigtige økosystemer, og vandets bevægelse mellem indland og 
+hav. Dette har i sig selv negative konsekvenser, der så igen skal afh-
+jælpes med bl.a. pumper, arealer til vandparkering eller etablering af 
+økologiske korridorer (f.eks. fisketrapper). De hårde statiske strukturer 
+kan have en række negative sideeffekter i forhold til bl.a biodiversitet, 
+CO2 aftryk og ressourcebrug (f.eks ved større betonkonstruktioner,), 
+oplevelsesmæssige kvaliteter, store omkostninger til vedligehold eller 
+behov for at øge højden med havets stigning samt risiko for digeeffekt. 
+Samtidig afhjælper de ikke, at det terrænnære grundvand indenfor 
+f.eks. et dige fortsat vil stige sammen med havet og derfor give behov 
+for pumper eller andre foranstaltninger .
+H
+
+35
+Hårde strukturer –dynamiske
+En sluse er ligeledes en hård struktur, men det er samtidig en dynam-
+isk struktur . Med dynamisk menes, at den tages i brug og lukkes som 
+beskyttelse ved ekstremhøjvande og stormflod i et kortere tidsrum for 
+derefter at åbnes igen. Eksempler er Thames Barrier i England, Maes-
+lantkering i Holland samt MOSE projektet, der skal beskytte Venedig 
+mod ekstremhøjvande. MOSE er placeret for enden af lagunen, lidt 
+væk fra byen, hvorimod mindre sluser ofte placeres ved å-mundinge, 
+der typisk ligger midt i byen, suppleret med tilhørende højvandsmur 
+eller dige. Fordelen ved de dynamiske løsninger som f.eks. sluser er, 
+at de kan tillade udveksling mellem økosystemer på daglig basis. Til 
+gengæld beskytter de ikke i sig selv mod havstigning - her skal der 
+suppleres med andre løsninger – medmindre det er en kammersluse 
+(dobbelt sluse), som man kender fra skibsfarten. Kammersluser er dog 
+mere omfattende og væsentligt dyrere. Hér afskæres økosystemer og 
+vandets forbindelser ligeledes og vil give behov for pumper .
+Bløde strukturer 
+Bløde strukturer er typisk naturbaserede som f.eks. klitter, forlande, 
+strandenge, mangrove, barriereøer, rev og tangskove (se opslag 
+Naturbaserede Løsninger). Disse strukturer kræver ofte mere areal og 
+lidt længere tidsperspektiver . De har gerne en række positive afledte 
+effekter i form af biodiversitet, potentialer for CO2 optag samt rekrea-
+tion og udendørs aktiviteter
+Kombinationer af hårde og bløde strukturer
+Hårde- og bløde strukturer kan kombineres til hybride (kombinerede) 
+løsninger . En hård struktur kan godt have en naturbaseret løsning 
+´udenpå´ f.eks. til at forbedre biodiversitet eller mindske bølgeen-
+ergien, således at den hårde struktur kan gøres lavere i højden. En 
+naturbaseret løsning kan også være baseret på en ´hård kerne´. Det vil 
+i så fald være en kombineret løsning, der alt efter opbygning kan have 
+forskellige vægtninger mellem en hård- eller naturbaseret struktur . 
+Uanset om det er en ´ren´ naturbaseret løsning eller et greb uden 
+på en hård kerne, så ligger der gerne også rekreative og æstetiske 
+begrundelser i dette.
+ 
+H
+
+36
+IKKE-FYSISKE LØSNINGER
+Planlægning, lovgivning og beredskab er også en del af
+løsningsmulighederne
+Ikke-fysiske løsninger (non-structural measures) dækker over plan-
+lægning, lovgivning, økonomiske incitamenter samt typer af resiliens 
+som social sammenhængskraft, træning af civilt beredskab, telefon-
+kæder med videre.
+Sociale tiltag kan være uddannelse, træning, øvelser og forberedelse. 
+Dette står i modsætning til at reducere risikoen ved at reducere ud-
+satheden, hvilket oftest er gennem fysisk-strukturelle tiltag, som f.eks. 
+at bygge et dige eller flytte en bebyggelse. Ikke-fysiske løsninger han-
+dler også om opbygning af social resiliens. At lære at leve med vandet. 
+En oversvømmelse er ikke nødvendigvis en katastrofe, hvis man er for-
+beredt på det. Venedig er et eksempel på, hvordan livet i århundreder 
+er gået videre trods højvande i gaderne, nogle dage med gummistøvler 
+og midlertidige gangbroer som fortove. 
+Ikke-fysisk risikoreduktion (uden byggede tiltag) kan også være 
+oplysning, ændret adfærd og styrkelsen af det civile beredskab eller 
+økonomiske incitamenter til at klimatilpasse en bygning. 
+II
+
+37
+INSTRUMENTEL OG IBOENDE VÆRDI 
+Forskellige typer af værdi
+Værdi kan opdeles i to hovedgrupper: instrumentel værdi og iboende 
+værdi. Ting eller handlinger, der har instrumentel værdi, kan bruges 
+som middel til at nå bestemte mål. Noget nyttigt, noget funktionelt, 
+noget instrumentelt. Det kan f.eks. være en højvandsmur, der skal 
+sørge for at holde vandet ude, når der er optræk til storm. Hvis hø-
+jvandsmuren blev etableret på toppen af en bakke bagved byen ville 
+den ikke have nogen nytte og ingen instrumentel værdi. Man ville nok 
+mene, at det var meningsløst og spild af penge at bygge den på den 
+placering. Formålet mangler . Nytteværdien er væk.
+Når det gælder naturområder, kan den instrumentelle værdi relatere 
+sig til den nytte, mennesker har af naturgoderne, hvad enten det er i 
+form af fødevarer, bomuld, sandrevler der bryder bølgerne eller
+attraktive naturområder, hvor man kan gå tur i weekenden. 
+Modsat kan et uberørt naturområde uden offentlig adgang være 
+uden instrumentel værdi, men det kan fungere som et levested for 
+sjældne dyre- og plantearter . Det kan i dette tilfælde være relevant at 
+fremhæve den iboende værdi ved disse arter og sige, at alle levende 
+organismer har ret til at eksistere uafhængigt af, om de er direkte til 
+gavn for mennesker eller ej. Den norske filosof Arne Næss bruger be-
+grebet dybdeøkologi (deep ecology), hvor naturen anses for at have en 
+iboende værdi i sig selv, med eller uden mennesker på jorden.
+De forskellige værdiopfattelser kan komme til udtryk blandt en bred 
+gruppe af aktører i forbindelse med f.eks. et naturbeskyttelses- eller 
+kystbeskyttelsesprojekt. En tydeliggørelse af værdiopfattelserne kan 
+være med til at forbedre forståelsen af, hvordan forskellige aktører 
+vægter og fortolker værdier .
+I
+
+38
+KLIMAFREMSKRIVNING AF SIKRINGSNIVEAUER
+Stormfloder bliver kraftigere
+Havvandsstigninger medfører en stigning af middelvandstanden, og 
+dermed vil moderate stormfloder i fremtiden medføre vandstande 
+svarende til stormfloder, der kun meget sjældent forekommer i dag. 
+En anden måde at formulere det på er at sige, at et givent højvande 
+forekommer meget hyppigere i fremtiden. I praksis betyder det, at 
+en oversvømmelsessikring, der set i dagens klima, statistisk har 1% 
+sandsynlighed for at blive oversvømmet i ethvert år, i fremtidens 
+klima vil have f.eks. 5% sandsynlighed for at blive oversvømmet. Skal 
+et område (f.eks. kulturarv) eller en funktion (f.eks. plejehjem eller 
+metro) sikres mod en 100-, 500-, 1.000- eller 10.000-årshændelse, er 
+det væsentligt at tage højde for, at den statistiske sandsynlighed for at 
+hændelsen opstår og øges i takt med klimaændringerne. 
+Den simpleste måde at ”beregne” ændringer i en gentagelsesperiode 
+er at anvende f.eks. Kystdirektoratets stormflodsstatistikker . Ændringer 
+i stormfloden kan grafisk aflæses ved, at den stigende havvandstand 
+flytter aksen med stormflodens niveau. Ud fra en antagelse om at hav-
+vandet stiger med 11 cm frem til 2055, kan man se at med en stigning 
+i havvandstanden på 11 cm vil det nu kun kræve en stormflod på 0,93 
+m at nå 1,04 m over dagligt vande i dag. På figuren kan man aflæse, at 
+det så vil ske med en gentagelsesperiode på ca. 5 år . Altså en stigning 
+i sandsynligheden for oversvømmelse på 20 gange – baseret på en 
+stigning på blot 11 cm.
+KK
+
+39
+Figur 12 
+K
+Figuren illustrerer forskellen i stormflodshøjden for forskellige gentagelsesperioder mellem 
+2017 og 2117, og at ændringen medfører at en hændelse der statistisk kun sker en gang hver 
+2000. år i dag, vil forekomme cirka hver 10. år ved udgangen af dette århundrede. Figuren er 
+optegnet efter fra COWI’s 2017 rapport (figur 6-4, side 48) her:  https://realdania.dk/pub-
+likationer/faglige-publikationer/byernes-udfordringer-med-havvandsstigning-og-stormflod
+
+
+40
+Fire kategorier med forskellige løsningstypologier
+Der ligger nogle strategiske valg til grund for løsninger til klimatil-
+pasning ved kysterne. Helt overordnet kan de inddeles i kategorierne 
+beskyttelse, tilpasning, tilbagetrækning. Her til kommer ´undgå´(avoid) 
+som i ny byudvikling i princippet kan overflødiggøre de andre tre kate-
+gorier . Indenfor kategorierne er der store forskelle på udgangspunkter 
+og tidsperspektiver og de rejser hver især en række spørgsmål. Hvis 
+man f.eks. vælger at beskytte noget frem til en vis hændelse, vil et 
+naturligt spørgsmål vil være, hvad der skal gøres hvis, eller når, der 
+bliver højere vandstand end dette.
+• Beskyttelse; her vil man oftest søge at holde vandet helt ude.
+• Tilpasning (accommodation); her vil man ofte finde måder at afbøde skader 
+og måske acceptere, at områder nogle gange bliver våde. Tilpasning kan 
+måske mere retteligt kaldes imødekommelse.
+• Tilbagetrækning; her vil man vil flytte sig fra risikoen. 
+• Undgåelse (avoid); her undlader man at bygge i risikoområder så der ikke er 
+brug for de foregåede kategorier .
+Kategorierne har hvér en lang række forskellige løsninger . Disse kan 
+ses som typologier med forskellige udformninger, funktioner, materi-
+aler og økonomier tilknyttet. De kan også placeres forskellige steder 
+– fra indlands, nær eller ude i havet. Nogle typologier inden for f.eks. 
+beskyttelse kan være ´hårde strukturer´, dynamiske som sluser eller 
+statiske som et dige. Andre beskyttelsestypologier kan være bløde 
+strukturer og naturbaserede. kategorierne tilbagetrækning og undgå 
+er for en stor del planlægningsmæssige. I Danmark har der frem til nu, 
+for en stor del været benyttet hårde beskyttelsestypologier som diger 
+og sluser .
+Note: Sprogligt har vi måske en blind vinkel i Danmark; på engelsk hedder 
+overkategorien climate adaptation, som dækker over alle kategorierne (protec-
+tion, accommodation, retreat, and avoid). Det engelske ord accommodation kan 
+oversættes til imødekommelse, hvilket kan være sigende for hvilke løsninger der 
+tales om. På dansk bruger vi dog ordet klimatilpasning for både climate adaptation 
+og accommodation hvilket kan være misvisende. 
+K
+KLIMATILPASNING - BESKYT , TILPAS, TILBAGETRÆK, UNDGÅ
+
+41
+Figur 13 
+K
+Kategorien Tilbagetrækning er for en stor del baseret på planlægning, men kan dog også 
+have andre typologier tilknyttet, f.eks. midlertidige funktioner eller flytbare bygninger . 
+Tilbagetrækning kan ses som en ændring i arealanvendelse over tid. Kategorien Undgå er 
+en strategisk, planlægningsmæssig kategori, der dog også kan kombineres med funktioner, 
+som f.eks. kan flyttes eller tåle vand. Baseret på s.30-31 her: https://realdania.dk/publikationer/
+faglige-publikationer/havspejlsstigning
+
+42
+Note:  IPCC står for Intergovernmental Panel on Climate Chang. RCP-scenarierne 
+repræsenterer udvalgte koncentrationer (ikke udledninger) af drivhusgasser 
+frem mod år 2100. Feedback mekanismer: Når jordoverfladen bliver varmere 
+eller koldere, sker der også andre ændringer i klimasystemet. Ændringerne kan 
+forstærke eller dæmpe opvarmningen eller afkølingen. Det kaldes en feedback - 
+eller på dansk- tilbagekoblingsmekanisme. Læs fra DMI her: https://www.dmi.dk/klima/
+temaforside-energiens-rejse-i-klimasystemet/tilbagekoblingsmekanismer/  . Læs om udledningss-
+cenarier her //www.dmi.dk/fileadmin/user_upload/Bruger_upload/Raadgivning/Vejledning_i_anven-
+delse_af_udledningsscenarier .pdf
+KLIMASCENARIER - IPCC
+IPCC scenarier - mulige fremtider og usikkerhedsspænd
+FNs klimapanel IPCC, arbejder med forskellige scenarier for klimaæn-
+dringernes omfang, og nationalt er det Danmarks Meteorologiske 
+Institut, DMI, der arbejder med at fremskrive lokale ændringer .
+Samlet set er en af de største effekter af klimaændringerne i Danmark, 
+at der bliver øget risiko for oversvømmelser . Det vil sige at klimaæn-
+dringernes effekter i Danmark relaterer sig mest til vand: hyppigere 
+og kraftigere skybrud og stigende havniveau giver øget risiko for 
+oversvømmelser fra regn eller havvand. På langt sigt giver stigende 
+havvand den tydeligste, kraftigste og mest langvarige økonomiske 
+effekt af klimaændringer i Danmark. Det betyder bl.a., at forhøjede 
+vandstande i fremtiden vil opleves som en stormflod i lavtliggende
+områder . For at undgå det, må der arbejdes med omfattende kyst-
+sikring eller transformation af kysten, hvor by- eller boligområder 
+må udvikles anderledes end i dag eller over mange år gives tilbage til 
+naturen. Herudover vil klimaændringer i sagens natur give mange an-
+dre afledte negative effekter som tørkeperioder, pres på fødevarepro-
+duktion og  biodiversitet, mv. Der er stor usikkerhed forbundet med, 
+hvordan klimaet udvikler sig. Det skyldes især usikkerhed forbundet 
+med, hvor stor den globale udledning af drivhusgasser bliver i de kom-
+mende årtier, og metodiske usikkerheder . Fremskrivninger af klimaet 
+udføres derfor for flere scenarier, der tilsammen angiver et forventet 
+realistisk spænd af mulige fremtider, uden at det ene scenarie nødven-
+digvis er mere sandsynligt end et andet. IPCC har historisk benyttet sig 
+af en række scenarier, der tager afsæt i forskellige niveauer af udled-
+ninger af drivhusgasser samt vurderet forskellige samfundsmæssige 
+udviklinger .
+K
+
+43
+KLIMASCENARIER - RCP OG SSP
+I den nyeste IPCC rapport (2021-22) gøres brug af det, der benævnes 
+SSP-scenarier til at beskrive forskellige mulige globale samfundsud-
+viklinger . Her kombineres udledningsniveauer med samfundsud-
+viklinger, som tilsammen danner hvert enkelt scenarie. Det vil sige, 
+at scenarier, udover at angive udledningsniveau, samtidig udpeger, 
+hvordan menneskets beslutninger og handlinger over tid kan lede til 
+forskellige niveauer af udledninger og dermed forskellige niveauer 
+af global opvarmning. Tilsvarende er der udviklet RCP-scenarier, der 
+beskriver, hvordan jordens klimasystem reagerer på disse udledninger . 
+Tilsammen beskriver de forskellige mulige fremtider .
+RCP-scenarier - koncentration af drivhusgasser og global opvarmning
+Til brug for modellerne af klimaet er der udarbejdet scenarier for 
+ændringen i energibalancen. Disse benævnes Representative Concen-
+tration Pathways, RCP . I 2011 definerede man scenarierne RCP 2.6, 
+RCP 4.5, RCP 6.0 og RCP 8.5, hvor tallet refererer til ændringen i energi 
+i forhold til præ-industrielt niveau, målt i W/m2. Jo større ændring 
+i energi desto større klimaændringer må alt andet lige forventes. I 
+den nyeste IPCC rapport er der suppleret med RCP 1.9 og RCP 7.0. I 
+klimatilpasning i Danmark er der indtil nu primært arbejdet med RCP 
+4.5 og RCP 8.5, hvor anbefalingen har været generelt at bruge RCP4.5 
+mens RCP 8.5 anvendes til projekter med lang fremskrivningshorisont 
+og hvor der er stort krav til robusthed af løsningen. RCP-Scenarierne 
+vises ofte som en graf med fire linjer, hvert med et interval for fremtid-
+en, der er ret bredt og som overlapper mellem de forskellige scenarier . 
+Man ikke kan tage midten, medianen, af et enkelt scenarie eller vælge 
+et mellemscenarie (RCP 4.5 eller RCP 6.0) og forvente, at dette er 
+det mest sandsynlige. I IPCC-rapporterne fra 2021-2022 er kurverne 
+beskrevet i form af en kombination af SSP og RCP scenarier .  (I rap-
+porterne benævnt SSP1-1.9) og viser, at det med den kombination kan 
+opvarmningen holdes under 1,5 grader i forhold til år 1800, altså en 
+yderligere opvarmning på under 0,4 grader i forhold til i dag. De andre 
+kombinationer af scenarier medfører højere temperaturstigninger, de 
+fleste væsentligt mere end 2 grader .
+K
+Teksten fortsættes på næste opslag
+
+44
+KLIMASCENARIER - RCP OG SSP
+K
+SSP scenarier - samfundsudvikling og udledningsniveauer
+I IPCC´s rapporter fra 2021-22 bruges forskellige scenarier, der karak-
+teriserer, hvordan forskellige globale samfundsudviklinger kan lede til 
+forskellige udledningsniveauer og dermed forskellige koncentrationer 
+af drivhusgasser i atmosfæren. De benævnes Shared Socio-economic 
+Pathways, SSP . De viser fem veje, som verden kan tage. Sammenlignet 
+med tidligere scenarier giver disse et bredere syn på en “business 
+as usual”-verden uden fremtidig klimapolitik, med global opvarmn-
+ing i 2100, der spænder fra et lavpunkt på 3,1°C til et maksimum på 
+5,1°C over det førindustrielle niveau. De viser, at det ville være meget 
+lettere at afbøde og tilpasse sig klimaændringer i nogle versioner af 
+fremtiden end i andre. De antyder for eksempel, at en fremtid med 
+“genopstået nationalisme” og en fragmentering af den internationale 
+orden kunne gøre Paris-målet “godt under 2°C” umuligt. Scenarie 4 
+og 5 er specielle, idet SSP4 forudsætter stærk afhængighed af fossile 
+brændsler hvor der er meget store uligheder i samfundet både lokalt 
+og på verdensplan. Omvendt skyldes et højt niveau af udledning af 
+drivhusgasser i SSP5, at der er mange aktiviteter til at forbedre forhold 
+for mennesker lokalt i form af sundhed, uddannelse, luftforurening mv. 
+Scenarierne kan navngives som følger:
+SSP1: Sustainability (Taking the Green Road)
+SSP2: Middle of the Road
+SSP3: Regional Rivalry (A Rocky Road)
+SSP4: Inequality (A Road divided)
+SSP5: Fossil-fueled Development (Taking the Highway)
+Det er overordnet sådan, at det er nemmest at håndtere klimaæn-
+dringerne i SSP1 og sværest i SSP5 for både klimatilpasning og reduk-
+tion af udledninger . Det er derfor man kan se udfordringerne stige 
+mellem SSP1, SSP2 og SSP3 i figuren, fordi udfordringerne generelt 
+vokser for både klimatilpasning og imødegåelse. For SSP4 vil den store 
+ulighed medføre, at klimatilpasning er meget vanskelig at udføre, fordi 
+det er en meget stor udfordring og dermed kræver et samarbejde, 
+som ikke kan opnås på baggrund af den store ulighed. Tilsvarende vil 
+SSP5 primært have udfordringer med at reducere drivhusgasser, fordi 
+der via samarbejder lokalt, skal findes løsninger på klimatilpasning.
+
+45
+Figur 14 
+K
+Øverste figur er en forsimplet optegning af denne: IPCC 2021, R6 Technical Summary, Figure 
+Box TS. Her: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ipcc.ch/report/ar6/
+wg2/downloads/report/IPCC_AR6_WGII_SummaryForPolicymakers.pdf
+Nederste figur illustrerer de fem SSP-ruter i forhold til tilpasning, mitigation og udfordringer .
+Note: SSP står for Shared Socio-economic Pathways og RCP står for Representative Concen-
+tration Pathways.
+
+46
+KLIMATILPASNINGSPLANER
+Klimaet og kommuneplaner
+Siden 2013 har det været et krav, at alle kommuner skal udarbejde en 
+klimatilpasningsplan som en del af kommuneplanen. Klimatilpasning-
+splanen omfatter typisk en risikokortlægning af oversvømmelses- og 
+erosionsudsatte områder og en handlingsplan med en prioritering af 
+klimatilpasningsindsatsen i den enkelte kommune. I mange tilfælde er 
+dette suppleret af en visionsbeskrivelse for klimatilpasning i sammen-
+hæng med andre kommunale udviklingsmål og en konkretisering af 
+de økonomiske rammer og finansieringsmuligheder . Planen omfatter 
+såvel klimatilpasning i forhold til regnvand, grundvand og havvand, 
+ligesom den omfatter andre klimatilpasningsaspekter, der vurderes 
+at være relevante for kommunen. Det er en national prioritering, at 
+kommunerne arbejder på at forebygge skader ved oversvømmelse og 
+erosion. Til at understøtte dette arbejde stiller staten data og kortma-
+teriale til rådighed for kommunernes planlægning.
+K
+
+47
+KLIMASIKRING OG KLIMATILPASNING 
+Kan man sikre sig mod klima?
+Som udgangspunkt handler klimatilpasning om at ændre praksisser og 
+derigennem tilpasse sig til en ny virkelighed. Eksempelvis ved at lave 
+højvandsmure, bygninger som kan tåle oversvømmelser, lære at leve 
+med oversvømmelser eller placere bygninger højere i landskabet. 
+Ofte bruges ordene klimatilpasning og klimasikring som udskiftelige 
+begreber, der kan dække det samme. Ordet sikring kan dog give 
+en opfattelse af, at der beskyttes mod en fjende, her havet, og at 
+kystlinjen skal holdes, hvor den er i dag. Kystlinjen har dog altid været 
+under forandring og et fokus på en bestemt kystlinje kan give risiko 
+for, at ikke alle løsningsmuligheder inddrages i overvejelserne. Ordet 
+sikring, kan også give den opfattelse, at løsninger skal være noget, der 
+sikrer det eksisterende, som det er i dag, til trods for at både byer og 
+landskaber udvikler og ændrer sig over tid. Ordet sikring bruges også 
+til at indikere, at det handler om beskyttelse af en række værdier mod 
+klimaændringerne. Det kan være et særligt område, naturværdier, 
+kulturarv, tekniske anlæg, rekreative værdier eller en bestemt levevis 
+med f.eks. havudsigt. 
+Et andet opmærksomhedspunkt er, at vi som samfund kan opfatte 
+os som klimasikrede, hvis vi har lavet en klimasikringsløsning med en 
+bestemt sikringskote. Men der kan jo principielt stadig indtræffe en 
+hændelse, som er sjældnere end den gentagelsesperiode løsningen er 
+dimensioneret efter, og som dermed overstiger sikringsniveauet. For 
+eksempel hvis 100-års hændelsen i stedet bliver en 105 års hændelse. 
+Noget af det samme gør sig gældende for begreberne kystsikring og 
+kystbeskyttelse. Her åbner ordet tilpasning mere op ved at indikere, at 
+måske er løsningerne ikke altid at fortsætte med at gøre, som vi gør i 
+dag. Måske skal der tænkes nyt og ændres praksisser . Eksempelvis har 
+en by som Venedig historisk set været tilpasningsdygtig til højvander .
+K
+
+48
+KOTER OG KURVEBILLEDE
+Højde over havet
+For at kunne kortlægge geografiske højdeforskelle sættes landom-
+råders niveau (eller højde) i forhold til den gennemsnitlige havvand-
+stand. Højden et givent sted benævnes kote. Koter er fastlagt med 
+afsæt i udvalgte, faste punkter i terrænet, hvis højde angives i forhold 
+til højde over havet (DVR90). Eksempelvis angives Himmelbjergets 
+tinde som liggende i kote 147 m, hvilket betyder, at punktet ligger 147 
+meter over den relative normale vandstand. Hvis et område har en 
+negativ kote, f.eks. minus 1 m., betyder det, at området ligger under 
+havets niveau. Det vil sige, at det vil være oversvømmet af havet, hvis 
+det ikke var beskyttet af f.eks. omgivende bakker eller diger . 
+Holland er nok det mest kendte europæiske eksempel på et land 
+med landområder, der ligger under havniveau. Her ligger mere end 
+25% af landområderne under havets overflade, dvs. under kote 0 m. 
+Eksempelvis ligger hollandske Zuidplaspolder nede i kote minus 6,75 
+m, omkranset af diger og dæmninger som beskyttelse. Al vandet skal 
+således pumpes ud fra området.  Tøndermarsken er et eksempel på et 
+lavtliggende dansk område beskyttet af diger . Området er med årene 
+kommet til at ligge i endnu lavere kote pga. omfattende afvanding 
+(dræning), der har betydet, at jorden komprimeres. Nogle bruger 
+ordet ”sikringsniveau” til at beskrive det højdeniveau, hvor det
+vurderes, at en kystsikring er tilstrækkelig til at undgå væsentlige
+skader . Den fastlægges gennem en afvejning af risiko for oversvøm-
+melse og omkostning ved sikringen. Eksempelvis kan et sikringsniv-
+eau omtales som kote 2.4 m, f.eks. i form af en højvandsmur . Hvis 
+højvandsmuren placeres ved byens kant i terrænhøjden kote 1.0 m, 
+betyder det at selve muren skal være 1.4 meter høj.
+Kurvebilleder på kort kan vise højdeforskelle
+Nogle topografiske kort angiver kurvebilleder (også kaldet højdekur-
+ver). Et kurvebillede forbinder punkter i samme kote til en sammen-
+hængende linje (konturlinje), f.eks. som en linje mellem punkter, der 
+ligger i kote 2,5 m. Ved at se på afstanden mellem højdekurverne i et 
+givent område, f.eks. fra strandkanten og indefter, kan man aflæse, 
+hvor stejlt terrænet er det pågældende sted. Når linjerne ligger tæt, er 
+der stejlt. Hvis der er langt mellem linjerne, er området derimod mere 
+K
+
+49
+Eksempel på kurvebillede. Nederst i plan, hvor de tætte, blå linjer til højre viser, at terrænet 
+er stejlere under havoverfladen. Øverst vises landskabet i snit. Terræn over havets overflade 
+kaldes topografi og under havets overflade bathymetri. Tilsammen hedder de topobathy.
+Figur 15 
+fladt eller blødt stigende/faldende. Som eksempler kan nævnes de 
+stejle klinter på Møn, der på kort kan ses som en række af tætte linjer, 
+hvorimod der er længere mellem linjerne på den midtjyske hede.
+I forbindelse med kystbyer og havspejlsstigning er højdekurver ve-
+legnede til at give en forståelse af en by eller bygningers placering i 
+forhold til oversvømmelsesrisiko. Eksempelvis kan man ved hjælp af 
+kurvebilleder få øje på ´åbninger´ mellem to bakker, bygningsværker 
+eller åmundinge, hvor vand kan komme længere ind i baglandet.
+K
+
+50
+KYSTBYER
+De bebyggede kyster
+Danmark er et kystland med en meget lang kystlinje set i forhold til 
+landets areal. De fleste og de største danske byer ligger ved kysten. In-
+dtil sidste halvdel af 1800-tallet var vandvejene langt de mest effektive 
+og sikre til transport over længere strækninger, og blandt andet derfor 
+blev de fleste byer etableret ved kysterne. Mange danske byer ligger 
+yderligere, hvor vandveje fra baglandet møder havet.
+Den grundlæggende bystruktur fra middelalderen med købstæder, 
+fiskerbyer og ladesteder ved kysten blev i løbet af 1900-tallet sup-
+pleret med nye forstadsbebyggelser og langstrakte sommerhusom-
+råder langs kysten. Sommerhusområderne øgede kraftigt den andel af 
+kyststrækningerne, der var bebygget, og det skaber i forhold til hav-
+vandsstigningerne i dag en stor forøgelse af de bebyggede områder, 
+som kommunerne og deres beboere ønsker at beskytte mod storm-
+flod og stigende havvand. Mange af landets største værdier inden for 
+kulturarv, infrastruktur og boliger ligger ved kysterne. Siden 1990erne 
+har mange byer transformeret tidligere havne- og industriområder 
+ved kysterne til boligområder eller blandet by. Byerne er derved på en 
+måde rykket endnu tættere på kysten.
+Omdannelse af industriens havnearealer og nye arealer til bebyggelse i 
+kystområder
+I mange kystbyer ses omdannelse af erhvervshavne til by-formål med 
+f.eks. boliger, restauranter og kulturinstitutioner . Det muliggøres gen-
+nem planlægningen af byudviklingsområder, hvor ny bebyggelse kan 
+etableres og tages i anvendelse, i takt med at eksisterende virksom-
+heder flytter ud og under hensyntagen til de lokale støj- og trafikfor-
+hold. I havneområder er det samtidig muligt at anvende vandområdet 
+til byomdannelse, f.eks. i form af husbåde.
+Det er ligeledes muligt for kommunerne at udlægge nye arealer til 
+bebyggelse i oversvømmelses- og erosionstruede områder . Det kræver, 
+at der i lokalplanen stilles krav om etablering af afværgeforanstaltnin-
+ger . Eksempelvis som etablering af dige eller højvandsmur hvis dette 
+vurderes at være nødvendigt. Bygningsreglementet indeholder vejled-
+ninger vedrørende klimasikring af byggeri og etablering af nyt byggeri i 
+områder med risiko for oversvømmelse. Når et område er omfattet af 
+K
+
+51
+Øverst illustreres, hvordan historiske bymidter ofte blev placeret højere i terrænet. Flere af 
+de historiske kystbyer i Danmark er anlagt cirka i kote 2,4 meter over havet som beskyttelse 
+mod bl.a. (historiske) stormfloder . Nederste illustration eksemplificerer en byudvikling, 
+særligt siden byggeboomet i 1960´erne, hvor de lavere og ofte våde områder er bebygget 
+med større bygninger, og mange byer er udvidet mod havsiden.
+Figur 16 
+Oversvømmelsesloven, kræves det, at der er udarbejdet en risikostyr-
+ingsplan, som den nye bebyggelse skal forholde sig til.
+Det er under visse betingelser og i begrænset omfang muligt at udlæg-
+ge nye sommerhusgrunde og feriecentre inden for kystnærhedszonen. 
+Dog må sommerhusgrundene ikke ligge i naturbeskyttede områder, 
+f.eks. på arealer der er omfattet af strandbeskyttelseslinjen og klit-
+fredningslinjen. Samtidig skal de udstykkede områder være tilknyttet 
+eksisterende bebyggelse med en lignende karakter og anvendelse.
+K
+
+52
+Principplan, over den byggede udvidelse af kystlinjen i en dansk kystby fra sidst i 1800-tallet 
+og frem til 2020.
+Figur 17 
+KYSTLINJE OG KYSTZONE
+Kystlinjen er en administrativ linje
+Danmark har ca. 8.750 km kystlinje - alt efter hvor detaljeret der måles. 
+Erosion og aflejringer ændrer også løbende på kystlinjens længde. 
+Kystlinje er en opdeling, der både bruges begrebsligt og administrativt 
+i planlægningen og i definitionen af territorier, fx når strandbeskyt-
+telseslinje og kystbeskyttelseslinje defineres. I virkeligheden findes der 
+ikke én fysisk linje, der definerer kysten: en kystlinje er udelukkende 
+noget, der tegnes på kort af praktiske og forståelsesmæssige årsager; 
+en administrativ linje, der reelt er placeret i en zone i konstant bev-
+ægelse, og hvor havvand og land mødes. I virkeligheden er kystlin-
+jen en kystzone, altså det område der er direkte påvirket af vandets 
+bevægelse.
+Som eksempel ramte nyheden i 2014 de danske medier, at Danmarks 
+kystlinje var blevet ca. 1.400 km længere – fra 7.314 km til 8.750 km. I 
+praksis handlede dette om skala; man var gået fra at måle kystlinjen i 
+1:100.000 til det mere detaljerede 1:10.000. Hvis den var blevet målt 
+i 1:1000 var kystlinjen blevet endnu længere. Dette ville dog næppe 
+give mening set fra et nationalt niveau, idet kystlinjen er dynamisk og 
+ændrer sig, hvilket er tydeligst meget lokalt, på den lille skala.
+K
+
+53
+Principplanen illustrerer kystlinjen sammen med tidevandszonen. Ved havnen med hårde 
+kanter fremgår tidevandszonen ikke, da vandets bevægelse fortrinsvist kan ske vertikalt. 
+Langs de ´blødere´ kyster omkring havnen fremgår tidevandszonen, idet der er plads til 
+ændringer i både højden og udbredelsen indover land.
+Figur 18 
+K
+
+54
+Kystnærhedszonen er planlægningsmæssigt defineret af en bestemt afstand til kystlinjen. 
+Den er en administrativ beskyttelse, men ikke direkte relateret til specifik kystnatur, der ofte 
+vil være afhængig af landskabets karakter .
+Figur 19 
+Frednings- og beskyttelseslinjer
+Kystnærhedszonen er en planlægningsdefinition der omfatter alle 
+kystområder som et ca. 3 km bælte fra kystlinjen og ind i landet. 
+Kystnærhedszonen har til formål at beskytte kystnære landskaber og 
+naturområder mod uhensigtsmæssig udbygning og forvaltes gennem 
+planloven af kommunerne, som i deres fysiske planlægning skal tage 
+hensyn til de kystnære landskaber . Kystnærhedszonens beskyttelses-
+bestemmelser omfatter sommerhusområder og det åbne land, men 
+ikke byområder .
+Klitfredningslinjen (langs den jyske vestkyst) og strandbeskyttelseslin-
+jen (langs de øvrige kystområder) er en skærpet version af kyst-
+nærhedszonen, og den strækker sig fra strandbredden og cirka 300 
+meter ind i landet, dog typisk kun 100 meter i sommerhusområder . 
+Der må i udgangspunktet ikke foretages ændringer af den eksisterende 
+tilstand i dette område. Der er dog visse undtagelser i byområder og 
+områder udlagt til havneformål.
+KYSTNÆRHEDSZONE OG STRANDBESKYTTELSESLINJE
+K
+
+55
+Note: Køge Bugt Strandpark er et eksempel på en kunstig kystbeskyttelse, hvor 
+der er bygget sammen med naturen, fordi der naturligt sker sedimentation på den 
+kyststrækning.
+KYSTSIKRING OG KYSTBESKYTTELSE
+Sikring og beskyttelse vil have afledte effekter
+Det er næppe muligt at beskytte en kyst helt mod forandringer, da 
+kyster i sagens natur er dynamiske. Hvis kysten er helt sikret, vil det 
+sandsynligvis betyde, at havet er afskåret fra land, og dermed er der 
+skabt en ny type kyst, sandsynligvis ved at ændre den oprindelige kysts 
+kvaliteter markant i forhold til f.eks. biodiversitet, udveksling mellem 
+land og vand, udsigter, mv. Ofte vil tiltag, der bruges til kystsikring, 
+også betyde, at der flyttes dynamiske påvirkninger til andre dele af 
+kysten, som ikke nødvendigvis er ønskelige. Sat lidt på spidsen, kan 
+man sige, at hvis kysten sikres så meget som muligt, så vil den ´oprin-
+delige´ kyst, man ville beskytte, ikke længere eksistere.
+Ud fra dette kan man diskutere, om begrebet kystsikring skal nu-
+anceres, så det både dækker over sikring, beskyttelse og mere adap-
+tive tilgange. Når der tages beslutninger om kystsikring/kystbeskyt-
+telse, er der behov for at diskutere, hvad der skal beskyttes, hvad som 
+har værdi, og hvilke prioriteringer der skal foretages (se scenarier og 
+strategi). Grundlæggende vil begrebet klimatilpasning åbne mere op 
+for en vurdering af forskellige strategier og scenarier .
+K
+
+56
+KYSTTYPER OG STORMFLODER
+Kysternes grundlæggende træk
+Der er mange og detaljerede måder at beskrive kysternes grundlæg-
+gende træk på. En måde at beskrive kysterne på, der har betydning for 
+stormfloders påvirkning af kystbyer, er en overordnet opdeling i fire 
+karakteristiske kysttyper og typologier . Lidt forsimplet har kystlandsk-
+aberne altså nogle overordnede ´grundtræk´, der kan findes flere 
+steder . Forskellige kysttypologier og en bys placering kan have stor 
+betydning for, hvordan en stormflod rammer, og hvilke konsekvenser 
+det har . Ligeledes kan det have stor betydning for hvilke løsninger, der 
+kan sættes i spil. F.eks. om kysten er en stejl skrænt med byen ovenfor 
+som ved Hanstholm, eller om byen ligger i et lavtliggende område med 
+fladt bagland som i Nakskov.
+De fire karakteristiske kysttyper set som typologier, der er vigtige i 
+forhold til stormflod:
+1) Skrænt 
+2) Fjordmunding med bagvedliggende åløb 
+3) Bredning med hævet bagland 
+4) Bredning med fladt bagland.
+Hertil kommer selve typen af kyst. Kystdirektoratet inddeler de danske 
+kyster i ni kysttyper der har afsæt i bl.a. terrænhøjder, materialer og 
+beplantning:
+• Klintekyst uden klitter på toppen
+• Klintekyst med klitter på toppen
+• Barrierekyst uden klitter
+• Barrierekyst med klitter
+• Barrierekyst med strandvolde
+• Delta
+• Tilgroningskyst
+• Marsk og vader
+• Klippekyst (udelukkende Bornholm)
+K
+
+57
+Illustrationen viser, grundtyperne fladkyst og stejlkyst. Forskellige typer kyster (skrænt, bred-
+ning, delta) og terrænhøjder giver forskellige situationer for bebyggelse. De fire kysttypolo-
+gier beskrevet på foregående side er udviklet af COWI, og man kan læse mere i rapporten 
+”Byernes udfordringer med havvandsstigning og stormflod” (2017). Link: chrome-exten-
+sion://efaidnbmnnnibpcajpcglclefindmkaj/https://www.klimatilpasning.dk/media/1362619/
+rapport_realdania_stormflod_v06.pdf.    Kystdirektoratet har en oversigt over de ni kystyper: 
+https://www.youtube.com/@smukkerekyster og små film med beskrivelser: https://viewer .
+ipaper .io/kystdirektoratet/undervisning-2021/de-ni-kysttyper-i-danmarkpdf/?page=1
+Figur 20 
+K
+
+58
+LANDSÆNKNING OG LANDHÆVNING OVER TID
+Landet bevæger sig over tid
+Landsænkning og landhævning betegner hvorvidt et område
+synker eller stiger i forhold til den fastlagte skala for havvandstand
+(se DVR90). Dette kan ske på forskellige måder, forskellige skala (fra et 
+hjørne i baghaven til store landområder) og forskellige tidshorisonter 
+(årsbasis, tusindvis af år). De vigtigste fænomener er oftest:
+1. Når jorden komprimeres og jorden sænker sig. F.eks. ved dræning, brug 
+ af grundvandsmagasiner eller tunge byggematerialer
+2. Glacial isostatisk justering
+3. Naturlige sammenbrud som synkehuller eller optøende permafrost
+4. Underjordisk minedrift
+5. Jordskælv / tektoniske plade-bevægelser
+6. Erosion
+Glacial isostatisk justering er årsag til, at Skandinavien stadig hæver sig 
+efter ismassernes tryk under sidste istid. Danmark ligger på grænsen, 
+kaldet vippeaksen, til denne landhævning. Det betyder, at det nordøst-
+lige Danmark hæver sig en smule, mens det sydvestlige Danmark ikke 
+påvirkes af processen. På grund af det stigende havvandspejl sænker 
+hele Danmark sig dog nu set i forhold til havvandstanden.
+I Danmark er det især nr . 1 og 2 på listen, der er vigtige. Dræning af 
+områder til brug for landbrugsjord medfører generelt landsænkninger, 
+mens de dele af Danmark, der ligger nordøst for israndslinien er udsat 
+for proces 2.
+Note: Glacial isostatisk justering er den landhævning og landsænkning som lang-
+somt har fundet sted siden seneste istid som reaktion på at vægten fra de tunge 
+ismasser forsvandt.
+LL
+
+59
+Kortet illustrerer, hvordan Danmark stadig hæver sig mod nord og synker mod syd (glacial 
+isostatisk justering) som reaktion efter seneste istid for mere end 10.000 år siden. Den 
+lyserøde linje indikerer israndslinjen, hvor isen stoppede ved seneste istid.
+Figur 21 
+L
+
+60
+LØSNINGSTYPOLOGIER – EKSEMPELOVERSIGT
+En bred pallette af muligheder
+Mange af typologierne til kystbeskyttelse er historisk velkendte. Med 
+øget urbanisering, klimaændringer og havstigning er kompleksiteten 
+dog øget, og det kan være vigtigt at genbesøge forskellige løsninger . Et 
+særligt fokus kan være på hvordan de kan fungere i forhold til usik-
+kerheder over tid, om de kan bruges sammen med andre typologier, 
+om de kan suppleres med andre løsninger over tid, eller om de bliver 
+spildte indsatser, hvis f.eks. havet stiger mere og hurtigere end forven-
+tet. Løsningstypologierne kan diskuteres ud fra mange vinkler, eksem-
+pelvis; skal løsningerne gøre mere end blot at beskytte? Er biodiversi-
+tet en prioritet? Hvilke rum skaber løsningen i en bysammenhæng? Er 
+der stadig visuel forbindelse til havet? Kan en vis del vand accepteres? 
+Kan løsningen kombineres med andre løsninger – f.eks. over tid? Hvad 
+etableres i vores samtid, hvad overlades til kommende generationer?
+L
+
+61
+Matricen viser en oversigt med eksempler på løsningstypologier . De er her inddelt ud fra, 
+om de har en funktion i forhold til havstigning eller udelukkende har funktion ved stormflod-
+er . Herudover vil der også være vurderinger af løsninger i forhold til erosion, da det er en 
+generel præmis, der skal tages stilling til. Typologierne er fordelt i kategorierne beskyttelse, 
+tilpasning (imødekommelse) samt tilbagetrækning /undgåelse. Matricen er ikke udtøm-
+mende, men kan give et billede af hvor bred en løsningspallette, man kan arbejde med i kli-
+matilpasningen. De lyseblå linjer viser, at løsningerne kan kombineres. Typologier og matrice 
+er baseret på https://realdania.dk/publikationer/faglige-publikationer/havspejlsstigning
+Figur 22 
+L
+
+62
+LØSNINGSTYPOLOGIER – BYGNINGSNIVEAU
+Tiltag for eksisterende eller nye bygninger
+På bygningsniveau kan løsningstypologier både være retrofitting af ek-
+sisterende  bygninger eller tiltag ved nybyggeri i form af beskyttelse og 
+tilpasning (imødekommelse). Der er mange velkendte typologier som 
+eksempelvis mobile bygninger, bygninger på pæle og flydende byg-
+værker . Her kan der også være forskel på om det udelukkende er den 
+enkelte bygning der har et eller flere tiltag, eller om flere bygninger 
+eller et kvarter er samtænkt. Nedenfor gives en række eksempler på 
+typologier, nogle er statiske og andre dynamiske, nogle er egnede til at 
+retrofitte eksisterende bygninger og andre fordrer nybyggeri  hvor tilt-
+ag indtænkes fra start. Typologierne vil ofte  kunne kombineres, enten 
+samtdigt eller over tid. Eksempelvis er Venedig bygget på pæle, byg-
+ninger har ofte skotter og nogle stueetager kan tåle vand i en kortere 
+periode, ligesom gaderne tidligere transformeredes til fodgængerstier 
+vha bænke ved oversvømmelse.
+• Værfter 
+Værfter (terp mounds) er en typologi, der har været udbredt i Vadehavsområ-
+det. Her bygges forhøjet terræn som mindre øer hvorpå enkeltbygninger eller 
+klynger kan placeres på højere grund. Det kan sammenlignes med historiske 
+byggepraksisser hvor bygninger placeredes på naturligt højere terræn.
+• Indgangsniveau 
+Høje indgangskoter for enkeltbygninger eller bebyggelser er en meget lokal 
+beskyttelse. I en by sammenhæng, kan overvejelser være tilgængelighed 
+samt at oplevelsen af byrum langs sådanne bygninger kan fremstå afvisende. 
+Hertil kommer, at hvis bygningen har underjordisk parkering eller kælder, er 
+der behov for at indtænke alternative løsninger, f.eks. sandsække, skotter, 
+eller lignende for at beskytte kælderniveauet. Ofte vil høje indgangskoter 
+være tiltænkt stormflod, men ikke en større havstigning med en permanent 
+forhøjet vandstand.
+• Mobile konstruktioner 
+Mobile bygninger vil typisk være mindre bygværker med funktioner, der ikke 
+er følsomme eller kræver for mange faste installationer således at de kan 
+flyttes ved f.eks. stormflodsvarsling. 
+ 
+Teksten fortsættes på næste opslag 
+ 
+L
+
+63
+Bygninger i oversvømmelsestruede områder kan udformes forskelligt hvad angår konstruk-
+tion, materialer, tidslighed og funktion. Bygninger på et kunstigt, højere terræn er f.eks. 
+beskyttet mod oversvømmelse indtil en vis højde af havstigning. Da flere af typologierne er 
+placeret højt eller i vandet, giver de også anledning til overvejelser om infrastruktur (vand, 
+strøm, kloak) og tilgængelighed. Det afhænger også af, om det er enkelte bygninger, der 
+bruger typologien eller et helt kvarter . For en stor del af bygningstypologierne gælder det, at 
+de fortrinsvis er egnede til hændelser og ikke til en større havstigning. Planstrategisk kan der 
+arbejdes med kombinationer af disse over tid.
+Figur 23 
+L
+
+64
+LØSNINGSTYPOLOGIER – BYGNINGSNIVEAU
+• Design for Disassembly 
+Design for Disassembly (DfD) er en anden form for mobilitet, hvor en bygning 
+konstrueres, så den kan skilles ad og enten samles andetsteds, eller materi-
+alerne kan bruges til noget andet når havet stiger og bygningerne skal flyttes. 
+DfD kan være et alternativ i f.eks. lavtliggende områder, hvor bygninger på 
+sigt kan forventes at skulle flyttes.
+• Bygninger på pæle og flydende bygninger er velkendte typologier - også i 
+nyere havneområder . Bygninger på pæle kan både placeres i vand eller på 
+land. I en dansk sammenhæng kræver bygninger på pæle på land en del 
+overvejelser i forhold til tilgængelighed og installationer . Ligeledes vil et 
+eventuelt nedre uderum risikere at blive mørkt eller forblæst. Flydende byg-
+ninger er robuste i forhold til havstigning. De medfører dog også overvejelser 
+omkring installationer, tilgængelighed samt den bagvedliggende bys møde 
+med og adgang til havet.
+• Fleksible funktioner og robuste materialer 
+Imødekommelse som tilpasning af bygninger kan bestå i, at sørge for at funk-
+tioner, materialer og installationer i terrænniveau kan tåle vand og interiør 
+kan hæves eller flyttes ved varsling om en hændelse.
+• Skotter 
+Skotter på bygninger er en velkendt mobil løsning, der kan lukkes ved behov. 
+Løsningen virker kun i forhold til hændelser og ikke ved havstigning. Skotter 
+kan design-integreres med bygningen eller være en ekstern foranstaltning, 
+der påsættes ved behov. Skotter er en tilpasningsdygtig løsning, der også kan 
+have potentiale for eksisterende bygninger .
+• Højvandslukke 
+Højvandslukker sikrer, at kloakvand ikke løber tilbage ind i bygningen ved 
+f.eks. skybrud, hvor pladsen i kloakker er under pres. De er også aktuelle ved 
+stormflod.
+• Sandsække og watertubes 
+Mobile løsninger kræver et velfungerende, eventuelt civilt, beredskab. Disse 
+løsninger kræver en stor og velkoordineret indsats i situationen samt for-
+beredelse og strategiske overvejelser i forhold til om de mobile enheder skal 
+beskytte et større område eller udelukkende åbninger ved enkelte bygninger .
+L
+
+65
+LØSNINGSTYPOLOGIER – HÅRDE STRUKTURER
+Hårde strukturer - de velkendte typologier
+Eksempler på hårde strukturer er typisk i kategorien beskyttelse og 
+velkendte historisk såvel som i vores samtid. Alligevel kan der være 
+forskel på hvordan de historisk har været brugt og den nuværende 
+situation, hvor havstigning også skal indtænkes.
+• Dige 
+Et dige er typisk en vold af jord med en kerne af sand eller ler, der skal forhin-
+dre et lavtliggende landområde i at blive oversvømmet, fx ved højvande eller 
+stormflod. Diger placeres inde på land. Det kan også være andre faste mate-
+rialer . Diger vil typisk give behov for at pumpe pga stigende grundvand bag 
+diget. Overflade og hældninger kan være forskellige og give meget forskellige 
+afledte effekter, f.eks. hvis der arbejdes med udformning og biodiversitet.
+• Havdige 
+Havdiger er typisk brugt til landvinding, hvor tidligere havbund inddrages eller 
+som stormflodssikring i lavtliggende områder med stor forskel i tidevandet. 
+Eksempelvis langs de danske, tyske og hollandske vadehavskyster .
+• Dæmning 
+Dæmning er et bygningsværk, der regulerer vandstanden i en flod eller sø 
+ved at forhindre, at vandet løber ud, eller at der løber for meget vand til.
+• Højvandsmure 
+Sammenhængende forløb af lavere vægge der kan placeres nær kajkanter 
+eller trækkes mere ind i byen. Højvandsmuren har ligesom diget brug for at 
+knytte til højere terræn eller lign. Kombineres ofte med rekreative tiltag som 
+siddepladser, mv.. Materialerne kan være alt fra metal, spanter og små di-
+geopbygninger med vegetation. For at bevare tilgængeligheden ses højvands-
+mure ofte med åbninger, hvor der aktivt skal lukkes ved f.eks. stormflod.
+• Super levee 
+En såkaldt super levee er en større opbygning at terræn, der fungerer som 
+beskyttelse og samtidig bruges det nye terræn til f.eks. bebyggelse. 
+ 
+Teksten fortsættes på næste opslag.
+L
+
+66
+• Sluser 
+En sluse er et bygningsværk, der ved hjælp af en port el.lign. regulerer 
+vandgennemstrømningen og dermed vandstanden i f.eks. en flod, sø eller 
+kanal, og til en given overløbskote.
+• Kammersluse 
+En kammersluse er en dobbeltsluse (to kamre) særligt brugt inden for 
+skibsfarten i f.eks. kanaler for at mediere mellem forskellige vandstande.
+• Afvandingssluse  
+En afvandingssluse kan være indbygget i havdiger for at muliggøre afledning 
+af vand fra åer og floder mod havet (vand der ellers ville være fanget bag 
+diget), og som lukkes, når havvandstanden er højere end f.eks. vandstanden i 
+åen. Disse er derfor også en form for højvandslukke.
+• Bølgebrydere og høfder 
+Bølgebrydere er ofte mindre enheder, der etableres i et forløb langs en kyst-
+strækning. Bølgebrydere er ofte lavet af sten eller betonblokke indesluttet 
+mellem rækker af pæle; de er placeret i havet parallelt med kysten. Bag dem 
+ophobes typisk sediment, hvorimod nedstrømskysten påvirkes, idet der her 
+modtages mindre sediment, hvilket kan give behov for kystfodring. Høfder 
+går vinkelret på kysten inde fra land, over stranden og ud i havet. De er typisk 
+opbygget af sten eller beton. De blokerer for noget af den langsgående sed-
+imenttransport og giver derfor bredere strand opstrøms og smallere strand 
+nedstrøms (som ikke modtager det sand de ellers ville have gjort), hvorfor der 
+kan blive brug for sandfodring nedstrøms. Se skitse på følgende sider .
+Note: Kystdirektoratet har en række beskrivelser af kystbeskyttelse her https://kyst.
+dk/kyster-og-klima/kystbeskyttelse/
+LØSNINGSTYPOLOGIER – HÅRDE STRUKTURER
+L
+
+67
+Hårde strukturer kan ligge forskellige steder i forhold til kyst og bebyggelse: på land, ved 
+kystlinjen eller ude i vandet. Fælles er, at lukkede strukturer skaber behov for at kunne 
+opmagasinere og pumpe vand ud fra landsiden, og at de også lukker af for økosystemers ud-
+veksling mellem landside og havside. Det betyder, at hårde strukturer ofte følges af en række 
+tiltag til afhjælpning som pumper, sluser, mulighed for forsinkelse/vandparkering,
+fisketrapper, mv. Ligeledes gør helt lukkede strukturer på havsiden det nødvendigt med 
+sluser til fortsat adgang for skibe.
+Figur 24 
+L
+
+68
+LØSNINGSTYPOLOGIER – NATURBASEREDE STRUKTURER
+Areal og tid
+Generelt kræver de naturbaserede løsninger plads og tid til at gro. 
+Til gengæld har de en række positive afledte effekter i form af bio-
+diversitet, rekreation og muligheder for CO2-optag. De rent natur-
+baserede løsninger, som f.eks. strandeng og (åbne) barriereøer, kan 
+afbøde stormfloder, men er mere udfordrede i forhold til en hurtigere 
+havstigning. Løsninger som (lukkede) forlande vil give behov for pump-
+er og f.eks. fisketrapper . Det kan være aktuelt at se på kombinerede 
+løsninger og forskellige grader af ´naturbaseret´. Naturbaserede løs-
+ninger kan indplaceres både på landside og havside. 
+• Landskabslæsning 
+Helt grundlæggende kan en aflæsning af landskabets karakteristika virke 
+afhjælpende i sig selv. Eksmepelvis ved indplacering af bygninger på højere 
+terræn 
+• Vådområder 
+Vådområder i overgangszonen mellem hav og land som f.eks. strandenge 
+og marsk kan beskytte mod noget af energien fra f.eks. en stormflod. Disse 
+kræver dog relativt store arealer og tid til at gro. Til gengæld kan de også gro i 
+højden over tid. Sådanne områder har store potentialer i forhold til biodiver-
+sitet, rekreation og mitigation. I troperne er pendanten mangroveskove der 
+både kan kystbeskytte, underbygge en høj biodiversitet og har kysterhverv 
+tilknyttet.
+• Klitlandskaber og forlande 
+Klitlandskaber kan bygges vha. store mængder sand og herefter beplantes 
+med f.eks. hjælme og marhalm. Klitter kan beskytte bagvedliggende arealer 
+og har en række rekreative værdier . Vand kan dog trænge igennem klitterne, 
+og som med diger stopper de ikke grundvandsstigning. Idet klitter naturligt vil 
+vandre indefter, hvis en kystlinje eroderer, kan sandfodring være nødvendig 
+for at bevare klitterne. Forlande der ligger som forhøjninger i zone mod havet 
+kan også etableres som beskyttelse med en række muligheder for biodiversi-
+tet. 
+Teksten fortsættes på næste opslag
+L
+
+69
+Eksempler på naturbaserede løsninger .
+Figur 25 
+L
+
+70
+LØSNINGSTYPOLOGIER – NATURBASEREDE STRUKTURER
+• Mangrove 
+Mangrove er træer der gror i tidevandszonen og som kan danne en buffer 
+mod erosion og storme fra havsiden. de er samtidigt del af vigtige økosyste-
+mer . 
+• Kystfodring og sandmotor 
+Kystfodring med sand er en udbredt praksis for at bibeholde (beskyttende) 
+strandarealer . Det har dog også en række afledte konsekvenser, idet sandet 
+tages fra havbunden andre steder . En sandmotor er en anden måde at sand-
+fodre på, hvor en stor mængde sand placeres ved kysten opstrøms. Over tid 
+flytter hav og vind sandet, der fodrer kysten nedstrøms. En sandmotortilgang 
+skaber tilsyneladende mindre forstyrrelse af økosystemer end traditionel 
+sandfordring. 
+• Barriereøer 
+Barriereøer ligger parallelt med kysten og skaber en forpost mellem hov-
+edkysten og det større hav i form af en lagune eller bugt. Barriereøer kan 
+beskytte ved at afværge noget af bølgeenergien før den rammer kysten. Her 
+er væsentlige potentialer for biodiversitet samt rekreative- og erhvervsmæs-
+sige muligheder .
+• Stenrev 
+Stenrev ligger ligeledes parallelt med kysten, dog fortrinsvis under vandet. 
+Der forskes i potentialerne for kystbeskyttelse sammen med potentialer for 
+biodiversitet, erhverv og rekreation. Sten på havbunden har været naturligt 
+forekommende i Danmark nord og øst for israndslinjen. Dog er væsentlige 
+mængder sten fjernet fra havbunden til byggeri og anlæg.
+• Søgræs og tang 
+Større arealer med tangskove kan mindske bølgeenergien. Større arealer med 
+søgræs kan holde på sand og dermed mindske kysterosion. Ålegræs og tang 
+har store potentialer for mitigation (CO2 optag) og er vigtige for biodiversitet 
+i havet. Det er oplagt, at integrere tang og ålegræs i NbS løsninger, da det 
+vil kunne tilføre yderligere, væsentlige værdier . Disse planter er dog afhæn-
+gige af bl.a. vandkvaliteten og dermed også afhængige af f.eks. udledning af 
+næringsstoffer, mv fra vandoplandet.
+L
+
+71
+Figur 26 
+Eksempler på hvordan forskellige naturbaserede løsninger er indplaceret forskellige steder i 
+forhold til kystlinjen og havets overflade.
+L
+
+72
+MERVÆRDI 
+Mere af hvad?
+Begrebet merværdi bruges ofte til at udtrykke fokus på at etablere 
+nogle positive afledte effekter . Merværdi er et bredt begreb, der kan 
+dække over forskellige værdier . Det, som har merværdi for én inter-
+essent, er ikke nødvendigvis det samme for en anden. Merværdi brug-
+es ofte som et samlende begreb om intentioner og visi-oner uden dog 
+nødvendigvis at udspecificere, hvilke værdier der er tale om. Det vil 
+sige, at det bruges til at italesætte en fælles intention om, at et tiltag 
+skal skabe noget ekstra udover dets primære funktion. 
+Begrebet merværdi bruges ofte i forbindelse med klimatilpasnings 
+projekter, hvor der er fokus på (positive) afledte effekter udover den 
+funktion, der skal løses. Når der tales merværdi i sammenhæng med 
+byer og klimatilpasning, er det f.eks. muligheder for sociale aktiviteter 
+som ophold og steder at mødes, sundhedsfremmende tiltag i form 
+af motionsmuligheder eller reducering af stress igennem udeliv og 
+naturoplevelser . Miljømæssige merværdier kan være øget biodiversi-
+tet, mindre udledning af CO2 og miljøbelastende stoffer eller optag af 
+drivhusgasser . Til dette kan nævnes æstetiske merværdier som smukke 
+uderum, sanselige oplevelser og multifunktionelle byrum. Merværdi 
+bruges i en dansk klimatilpasningskontekst gerne som det engelske be-
+greb Multiple Benefits og er dermed knyttet til en instrumentel værdi 
+(se afsnit om Instrumentel værdi). Når der tales om merværdi kan det 
+være nødvendigt at være præcis om hvilke værdier der tales om.
+Note: Begrebet har også andre betydninger . Inden for politisk økonomi og 
+finansanalyse er merværdi defineret som prisen på et produkt eller en service 
+fratrukket produktionsomkostninger . Her vurderes merværdi som noget positivt 
+i en monetær værdibetragtning (f.eks. som overskud), hvorimod etiske, eksterne 
+omkostninger for miljøet ikke nødvendigvis indregnes eller modregnes i mervær-
+dien.
+MM
+
+73
+MITIGATION, TILPASNING OG GEO-ENGINEERING
+Reduktion, imødekommelse og et wild card
+Overordnet kan der opstilles tre tilgange til at reducere eller tilpasse 
+sig klimaændringerne:
+• Mitigation (afbødning af klimaforandringer) - er indsatser med det formål at 
+mindske udledningen af drivhusgasser (f.eks. fravalg af fossile brændstoffer 
+og omstilling til vedvarende energikilder, mindske udledning fra transport- og 
+byggesektoren) samt optagelse af CO2. 
+• Tilpasning - har til formål at moderere konsekvenserne af klimaændringer ved 
+at tilpasse systemer og samfund, det vil sige en ændring i praksisser (f.eks. 
+beskyttelse og reetablering af vådområder, placering af nye bebyggelser i 
+højere terræn). 
+• Geoengineering - er en eksperimentel tilgang med sigte på at manipulere 
+klimaet (jordens systemer) fysisk, kemisk eller biologisk. Eksempler på forskel-
+lige, overordnede tilgange inden for geo-engineering er (1) mindske jordens 
+opvarmning (f.eks. ved at opsætte solspejle i rummet, indsætte reflekterende 
+partikler i atmosfæren, ændre på omfanget eller karakteristika på skyer) (2) 
+opsuge drivhusgasser (f.eks. ved at udlægge næringsstoffer i havet) (3) stor-
+skala manipulationer der skal mindske klimaændringerne (f.eks. ved at bygge 
+rør i havet der skulle kunne trække varme nedad). De afledte, utilsigtede 
+effekter af sådanne tiltag er dog usikre, og dét at ville manipulere jordens 
+systemer yderligere må siges at repræsentere en risiko i sig selv. 
+M
+
+74
+NATUR OG KULTUR
+Mennesket og jordens systemer
+Vi er i det, der kaldes den Antropocæne tidsalder, hvor menneskelig 
+aktivitet påvirker jordens naturlige systemer og processer i ekstrem 
+grad, eksempelvis ved skovrydning, intensivt landbrug, minedrift, brug 
+af fossile brændstoffer, udledning af miljøfremmede stoffer og drivhus-
+gasser, udryddelse af arter, habitater og ødelæggelse af økosystemer . 
+Omfanget af disse aktiviteter ændrer hele klodens biokemiske balanc-
+er, klimaet og biodiversiteten.
+Der kan stilles spørgsmål ved den velkendte opdeling mellem kultur og 
+natur i den Antropocæne tidsalder:  Uberørt natur eksisterer næppe 
+længere – og samtidig kan man også betragte alt på planeten som en 
+del af naturen og dens processer. Idet biodiversiteten er under massivt 
+pres, bliver det ekstra vigtigt at tage stilling til, hvilken natur der tales 
+om, og hvordan denne påvirkes af klimatilpasningstiltag. 
+Klimatilpasning i form af kystsikring vil altid påvirke naturen lokalt ent-
+en positivt eller negativt, og af og til også i større afstand fra anlægget. 
+Eksempelvis som høfder der påvirker sedimentaflejringer, diger der 
+påvirker udvekslingen af liv mellem vand og land, eller nogle typer af 
+naturbaserede løsninger der kan bidrage til CO2 optag.
+Note: Geologisk tidsskala er en måde at inddele og navngive perioder i Jordens 
+historie på. Tidsaldrene baseres på jordlag og defineres af geologer . Antropocæn 
+epoke er den geologiske tidsalder der efterfølger Holocæn der går fra seneste istid 
+for ca. 12.000 år siden. Antropocæn epoke foreslås at starte midt i 1900-tallet, 
+omend start tidspunktet stadig udredes. Antropo + cæn betyder menneskets nye 
+tid og begrebet blev opfundet af Eugene Stormer og gjort kendt af Nobelprismod-
+tager Paul Crutzen.
+NN
+
+75
+NATURA 2000
+Europæiske, beskyttede naturområder
+Natura 2000 henviser til naturområder i hele EU, der er beskyttet efter 
+ensartede retningslinjer udstukket i EU’s naturbeskyttelsesdirektiver 
+(Habitat og Fuglebeskyttelse). Natura 2000-områderne omfatter le-
+vesteder for sjældne og truede vilde dyre- og plantearter eller natur-
+typer, der er karakteristiske for medlemslandene, og hvor det derfor 
+er af international interesse, at naturområderne beskyttes, bevares 
+og evt. genoprettes. Natura 2000-områderne omfatter såvel fugle-
+beskyttelsesområder, habitatområder og såkaldte ’Ramsar’-områder . 
+Nogle Natura 2000-områder er både fuglebeskyttelses-, habitat- og 
+Ramsar-område på én gang.
+• Fuglebeskyttelsesområderne dækker blandt andet yngle- og rasteområder for 
+yngle- og trækfugle. Mange af de beskyttede fuglearter er vandfugle. Derfor 
+ligger en stor del af fuglebeskyttelsesområderne i kystområder eller på havet.
+• Habitatområderne omfatter særligt truede dyre- og plantearter og naturtyp-
+er, der risikerer at forsvinde fra deres naturlige udbredelsesområde. Dette 
+omfatter bl.a. strandenge og de strengt beskyttede Bilag IV-arter med dyr 
+som bl.a. spidssnudet frø og stor vandsalamander .
+• Ramsarområderne er vådområder, der har international betydning som 
+levested for vandfugle, og omfatter blandt andet flere lavvandede dele af de 
+indre danske farvande og Vadehavet.
+Natura 2000-områderne er primært sikret ved implementering af 
+EU-direktiverne i den eksisterende natur- og miljølovgivning, herunder 
+naturbeskyttelsesloven. Reguleringen er suppleret af nogle særligt 
+stramme anvisninger om, hvad der kan gives tilladelse til af aktiviteter 
+og anlæg i Natura 2000-områderne, så beskyttede arter og naturtyp-
+er ikke forstyrres unødigt. Det betyder blandt andet, at etableringen 
+af kystbeskyttelsesanlæg kan være i konflikt med Natura 2000-om-
+rådernes beskyttelsesbestemmelser . I Natura 2000-områderne er der 
+krav om overvågning og afrapportering af naturens tilstand, og der skal 
+være en aktiv indsats for at sikre og genoprette naturen, hvilket gøres 
+gennem de såkaldte Natura 2000-planer . Natura 2000-områder tager 
+ikke højde for havstigninger, der kan ændre på, hvorvidt det beskyt-
+tede område i fremtiden fortsat kan fungere som habitat. 
+N
+
+76
+NATURBASEREDE LØSNINGER (NBS) 
+At bygge med naturen
+Der er mange forskellige typer af naturbaserede løsninger (NbS), og 
+ofte ligger de i kategorien beskyttelse. Naturbaserede løsninger omfat-
+ter beskyttelses- og afværgeforanstaltninger, der udnytter landskabet 
+og naturlige kystprocesser. I design sammenhæng bruges NbS ofte i re-
+lation til begreber som f.eks. Building with nature, Design with Nature.
+At planlægge med landskab og naturlige processer
+En naturbaseret løsning kan også være at ’læse landskabet’ og undgå 
+nybyggeri i de områder, hvor der er stor sandsynlighed for oversvøm-
+melse. Det vil sige en landskabsbaseret planlægning for byudvikling, 
+der tager udgangspunkt i strategier til at undgå fremtidige problemer .
+Inspireret af naturlige processer
+Grundlæggende tager de naturbaserede løsninger afsæt i naturlige 
+processer og er inspireret af, hvad som naturligt er forekommende. 
+Løsningerne kan både indplaceres i vand og på land samt kombineres.
+Da det grundlæggende er en tilgang, hvor naturlige processer
+indtænkes, betyder det også, at der et element af, at løsningen kræver 
+mere areal end en højvandsmur . Ved naturbaserede løsninger med 
+beplantning, kommer tidsperspektivet ind i billedet, da det er vigtigt, 
+at de har tid til at gro sig stærke og robuste – og måske skal hjælpes 
+på vej efter en stormflod. I så fald er det vigtigt hele tiden at være på 
+forkant. 
+Det byggede og det groede
+NbS kan både være bygget og groet og indgå i hybride løsninger, der 
+kombinerer natur og teknik. Her kommer naturopfattelsen også ind i 
+billedet; er det en hård struktur med natur på ydersiden eller ´gror´ 
+hele løsningen naturligt i form af f.eks. strandenge? Er det en dyna-
+misk struktur som den hollandske Sandmotor, som er skabt ved at 
+placere store mængder sand som over en årrække skal tilføre sand til 
+nedstrøms kyster, eller er det en statisk struktur som det hollandske 
+Katwijk-dige, der består af en betonkerne med parkeringshus beklædt 
+med sand og klitvegetation?
+N
+
+77
+Potentialer for ´merværdier´
+Naturbaserede løsninger har store potentialer i forhold til positive 
+afledte effekter ud over beskyttelse, idet NbS kan bidrage med mil-
+jømæssige, sociale og økonomiske fordele. F.eks. at styrke biodiver-
+sitet, underbygge havbaserede erhverv, CO2-optag og dermed både 
+bidrage til tilpasning og mitigation. Her til kommer en bred vifte af 
+rekreative potentialer, sundhed og æstetiske kvaliteter . NbS tager ofte 
+afsæt i økosystemtjenester, der både kan styrke biodiversitet samt 
+direkte og indirekte kan bidrage til menneskets velbefindende. Dette 
+betyder også, at det er løsninger, der kan gøre gavn uanset om områ-
+det udsættes for en stormflodshændelse eller ej.
+Havstigning og stormflod
+Klitter og forlande (hvis de indgår i et samlet, lukket forløb) kan aflaste 
+ved både stormflod og havstigning. Dog vil havstigning kunne betyde 
+øget påvirkning af disse strukturer i form af erosion. Lukkede systemer 
+kan dog også her give behov for pumper og sluser, herunder afskære 
+naturlige økosystemers bevægelse mellem indland og havet.
+Eksempler på naturbaserede løsninger er strandenge og rev, som kan 
+beskytte ved ekstremhøjvande og storme. Strandenge kan dog også 
+være følsomme over for havstigning, hvis de ikke har mulighed for at 
+gro op- eller indefter, enten på grund af at der er bebyggelse i baglan-
+det, stejle skrænter eller hvis havet stiger for hurtigt. 
+Note: Se mere ved opslaget Løsningstypologier – eksempler naturbaserede
+N
+
+
+78
+NATURBESKYTTELSE OG HAVSTIGNING
+Kystnatur under pres
+De danske kyster, der ofte møder havet i en flad kystzone med strande, 
+klitter eller strandenge, er artsrige, men også sårbare over for stig-
+ninger i havspejlet. De store udledninger af næringsstoffer fra land-
+bruget presser artsrigdommen, særligt i fjorde og lavvandede bugter . 
+Kystbeskyttelse påvirker biodiversiteten på land og i vand i det lokale 
+område, positivt eller negativt. Eksempelvis kan et område afgrænset 
+af et dige påvirke arters bevægelse fra å til hav negativt, og et kunstigt 
+stenrev kan designes så det fremmer biodiversitet.
+Op mod en tredjedel af landets nuværende beskyttede naturom-
+råder (naturbeskyttelseslovens §3-områder og Natura 2000-områder) 
+kan blive så massivt påvirket af havstigninger og stormfloder, at de 
+risikerer at gå tabt i år 2120. Samtidig vil en del af de økologisk mest 
+værdifulde og artsrige naturtyper i Danmark blive påvirket af frem-
+tidens havvandsstigninger og stormfloder med tab af naturarealer- og 
+naturværdier til følge. Kysternes naturområder er særligt udsatte. Det 
+drejer sig om et estimeret tab på 11 % (360 km2) af Danmarks Natura 
+2000-områder og 9 % (326 km2) af de områder, der er beskyttet efter 
+naturbeskyttelseslovens §3. Til sammenligning forventes det nuværen-
+de landbrugsareal at blive reduceret med ca. 1,5 % (369 km2), mens 
+omkring 0,5 % (16 km2) af de eksisterende by- og sommerhusområder 
+risikerer at være permanent under vand i 2120 som følge af hav-
+vandsstigninger . 
+I arbejdet med planlægningen og forvaltningen af kystområder er 
+der derfor behov for at indtænke havniveaustigninger fra både et 
+naturbeskyttelsesperspektiv og et by- og landskabsudviklingsperspek-
+tiv.
+Note: Danmark har en række arealer med beskyttede naturområder, som har 
+forskellige typer af beskyttelse og betegnelse, f.eks. fredede områder, §3-områder 
+og Natura 2000 områder . Der kan læses mere om særligt udsatte naturområder i 
+rapporten’Havvandsstigningernes betydning for kystnaturen’ (COWI, SDU 2022) 
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.klimatilpasning.dk/media/1896065/
+rapport-havstigningernes-betydning-for-kystnaturen-cowi-og-sdu-komprimeret.pdf 
+N
+
+79
+NATURBESKYTTELSESLOVEN
+Beskyttelse og fredning
+Arbejdet med at sikre det sammenhængende åbne danske kystlandsk-
+ab har været en gennemgående prioritering i dansk lovgivning i mere 
+end 100 år . Hovedformålet har været at begrænse ny bebyggelse i 
+kystområder, beskytte kystnaturen og samtidig sikre offentlig adgang 
+til kysten. Historisk set er meget af denne beskyttelse sikret gennem 
+naturbeskyttelsesloven. Naturbeskyttelsesloven har til formål at 
+beskytte naturen og forbedre forholdene for vilde dyr og planter samt 
+de natur- og kulturhistoriske værdier, der knytter sig til landskabet, 
+samtidig med at der sikres offentlig adgang til naturen.
+Der er forskel på beskyttelse og fredning, hvor fredning er den mest 
+vidtgående mulighed for at beskytte og bevare naturen og kan have 
+en ekspropriationslignende karakter . Fredninger kan jf. naturbeskyt-
+telseslovens §33 omfatte landarealer og ferske vande. Fredninger, der 
+omfatter havarealer, sker som bekendtgørelsesfredninger eller ”stats-
+fredninger” jf. naturbeskyttelseslovens §51.
+Strandbeskyttelsen, klitfredningen og den offentlige adgang til kysten 
+sikres gennem bestemmelser i naturbeskyttelsesloven. På samme 
+vis er bl.a. strandenge omfattet af beskyttelse gennem naturbeskyt-
+telseslovens §3. Naturbeskyttelsesloven kan dog i visse tilfælde blive 
+”overtrumfet” af kystbeskyttelsesloven, når det f.eks. gælder anlæg af 
+diger og høfder, der vurderes at være vigtige for beskyttelsen af ejen-
+domme med videre.
+N
+
+80
+NATURSYN
+Naturen som funktion eller system eller?
+Naturbegrebet kan forstås gennem forskellige betragtninger om 
+natursyn. Èn måde at betragte det på, er som den danske sociolog 
+Jens Schjerup Hansen der opdeler natursyn i fire hovedkategorier: det 
+nytteprægede, det romantiske, det funktionalistiske og det økologiske 
+natursyn. De tre første natursyn afspejler en antropocentrisk miljøetik, 
+det vil sige med mennesket i centrum. Det fjerde natursyn er primært 
+funderet i en biocentrisk miljøetik, det vil sige, at alt levende tillægges 
+værdi.
+• Det nytteprægede natursyn. Naturen er en ressource som ud fra en mate-
+rialistisk forståelse kan og bør udnyttes til gavn for mennesket. Det kan ske 
+igennem jagt, fiskeri, skovbrug, landbrug, industriel kødproduktion, minedrift, 
+sandsugning med videre. Det nytteprægede natursyn trækker bl.a. tråde til 
+den franske filosof René Descartes humanisme og ’Cartesianske tænkning’ fra 
+1600-tallet.
+• Det romantiske natursyn. Naturen ses som noget unikt, smukt, måske uberørt 
+og oprindeligt, som besidder immaterielle værdier og kvaliteter, der rækker 
+ud over naturens nøgterne fysiske tilstedeværelse og eventuelle nytte. Det 
+romantiske natursyn med den sanselige og følelsesmæssige tilknytning til na-
+turen var især fremherskende i digtningen og billedkunsten i Europa i starten 
+af 1800-tallet, samt i de engelske landskabshaver .
+• Det funktionalistiske natursyn. Naturen bruges praktisk og funktionelt til at 
+levere konkrete materielle og immaterielle goder for den brede befolkning, 
+og naturens rekreative værdi er i fokus.  Det funktionalistiske natursyn vandt 
+frem i Europa og Nordamerika i slutningen af 1800-tallet i kølvandet på den 
+stigende industrialisering og urbanisering. Antageligt også som en del af en 
+demokratiseringsproces som en ramme for menneskelig udfoldelse. Der 
+etableres byparker og tænkes i by- og boligformer, der er tættere på (eller i 
+hvert fald i stiliseret form afspejler kvaliteterne ved) naturområderne, land-
+brugslandet og landsbysamfundet uden for bykernen. 
+Note: Der kan læses mere her: Hvad er natur https://newsroom.au.dk/nyheder/vis/artikel/
+hvad-er-natur/  Olafsson et al (2021). https://www.jaaktuelt.dk/momentum/2021/nr-3/den-menneske-
+lige-faktor-i-landskabet/
+N
+
+81
+Figur 27 
+Illustrsationen er en fortolkning af Schjerups forklaring af natursyn. Den horisontale linje 
+illustrerer froskellige grader af forventning om, eller oplevelse af, menneskelig styring af 
+naturen. Det økologiske natursyn ligger sig på et andet niveau hvor mennesket ikke er i 
+centrum. 
+• Det økologiske natursyn. Naturen, i forståelsen hele jordkloden, Gaia (med 
+dyr, planter, mikroorganismer og mineraler), skal respekteres og ikke udnyttes 
+for menneskelig vinding. Dels er der grænser for, hvor meget naturen og 
+jordkloden kan bære i forhold til menneskets påvirkning. Dels har naturen en 
+selvstændig egenværdi, som går ud over forestillingen om en pengeværdi og 
+de logikker, mennesket har opstillet omkring pengesystemet. Samtidig skal 
+naturen have lov til at passe sig selv, og vil netop kunne regulere og opre-
+tholde sig selv, uden menneskelig indblanding. Det økologiske natursyn vandt 
+især frem med miljøbevægelsen i 1970’erne og fremefter .
+N
+
+82
+NATURVÆRDI OG NATURBEGREBET
+Forskellige værdibetragtninger
+Naturens værdi kan ikke alene forstås ud fra en monetær værdibet-
+ragtning, men indeholder en bred vifte af materielle, immaterielle og 
+relationelle værdier, der bidrager til menneskers liv og velbefindende. 
+Naturen afspejler en mangfoldighed af værdier og værdiopfattelser .
+Men natur kan også have værdi i kroner og øre, f.eks. når der fanges 
+fisk i havet, og de sælges hos fiskehandleren. Naturen kan have en 
+rekreativ værdi, kulturhistorisk værdi og en oplevelsesværdi. Der kan 
+også være en herlighedsværdi og en merværdi, måske en mersalgspris, 
+hvis en ejendom ligger i et naturskønt område.  Det kan tillægges en 
+værdi, at naturen bidrager med frisk luft og ilt, så vi helt fundamen-
+talt kan trække vejret, at det regner, så markerne får vand, at bierne 
+bestøver æbletræerne, og at mangroveskove fungerer som en buffer 
+for oversvømmelser . Endelig kan det have en værdi i sig selv, at
+naturen findes. 
+Taler vi om det samme?
+Selv om der ofte tales om natur som ét begreb, har det mange forskel-
+lige betydninger . Selvom man taler om natur, kan begrebet dække over 
+meget forskellige ting. De forskellige naturforståelser betyder, at der 
+kan være forskellige måder at vurdere naturens værdier på og forskel-
+lige ønsker til, hvordan naturen bruges.  Derfor har naturforståelser 
+også stor betydning for politiske beslutninger omkring natur . Som ek-
+sempel, kan naturen ifølge filosoffen Hans Fink, forstås på syv måder:
+• Naturen som det uberørte: det, der er helt upåvirket af mennesket
+• Naturen som det vilde: natur som det, der ikke er aktivt udnyttet, dyrket og 
+kultiveret af mennesket
+• Naturen som det landlige: det, man finder ude på landet – som forskellen 
+mellem land og by
+• Naturen som det grønne: alt det, der lever og vokser organisk f.eks. i haver, i 
+parker, på landet, i havet
+• Naturen som det fysiske: alt det, det kan forklares naturvidenskabeligt
+• Naturen som det jordiske: alt det fysiske, sociale og kulturelle, der foregår i 
+symbiose på planeten Jorden
+• Naturen som det hele: naturen er alt og overalt, det er hele universet, 
+kosmos.
+N
+
+83
+Figuren illustrerer de syv forskellige naturforståelser, som beskrevet af Hans Fink. Her er de 
+sat op på en stiplet linje for at indikere, at naturforståelse ikke nødvendigvis er en fast stør-
+relse og sandsynligvis vil bevæge sig mellem de syv forståelser, alt efter hvad der tales om. 
+Note: Opstillingen på modsatte side er baseret på AU https://newsroom.au.dk/nyheder/vis/artikel/
+hvad-er-natur/ samt artiklen af Hans Fink: ”Et mangfoldigt naturbegreb” fra Naturens værdi: 
+Vinkler på danskernes forhold til naturen. Gad, 2003. Artiklen af Hans Fink kan læses her: 
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.byplanlab.dk/sites/default/files/
+Et_mangfoldigt_naturbegreb_Fink.pdf
+Figur 28 
+N
+
+84
+OMKOSTNINGSEFFEKTIVITET AF KLIMATILPASNING
+Er prisen rimelig i forhold til effekten?
+Omkostningseffektivitet er et vigtigt kriterie, når man designer tiltag til 
+klimatilpasning. Det overordnede princip er, at en investering i beskyt-
+telse skal være rimelig i forhold til den beskyttelseseffekt, der opnås. 
+Vil man beskytte sig mod meget sjældne hændelser, stiger omkostnin-
+ger for beskyttelse typisk, fordi man f.eks. skal bygge højere diger eller 
+større bassiner . Samtidig er det ofte sådan, at den skadesreduktion, 
+man opnår, bliver mindre jo højere et beskyttelsesniveau, man vælger . 
+Dette er fordi, de store hændelser kun forekommer meget sjældent. 
+Princippet er illustreret i Figur 28, som blev udarbejdet i forbindelse 
+med Københavns Kommunes Skybrudsplan. I det konkrete tilfælde er 
+det tydeligt, at man ikke opnår en tydelig bedre beskyttelseseffekt, når 
+man designer løsninger, der kan håndtere en 400-års hændelse, end 
+når man designer til en 100-års hændelse, hvilket er betydeligt billig-
+ere, fordi løsningerne kan gøres mindre. Det er vigtigt at nævne, at 
+der i forbindelse med kystbeskyttelse kan opstå livsfarlige situationer, 
+der sætter begrænsninger for de økonomiske principper . Eksempelvis 
+at menneskeliv prioriteres anderledes, eller ved oversvømmelse af 
+metroen i København. 
+Derudover er det vigtigt at fremhæve rollen af byplanlægning, der 
+enten kan fungere som ”gratis” oversvømmelsessikring, når man 
+byudvikler udenfor risikoområder (se afsnit om Tilbagetrækning), eller 
+omvendt hvor byudvikling i risikoområder kan forøge de potentielle 
+skadesomkostninger og som følge deraf kræve større investeringer i 
+beskyttelse. Endelig er det også muligt at medtage ”bløde” værdier 
+såsom adgang til rekreative arealer, kulturarv og biodiversitet i reg-
+nestykket (se afsnit om Økosystemtjenester og Cost-benefit analyser). 
+Tallene for kulturarv og biodiversitet er stadig behæftet med usikker-
+hed, hvilket gør det sværere at vurdere sådanne beregninger .
+O
+
+85
+Figuren illustrerer hvordan omkostninger for sikring mod oversvømmelse stiger jo højere 
+et sikringsniveau man vælger . Den forventede oversvømmelsskade falder samtidig, fordi 
+oversvømmelser forekommer sjældnere. Nettogevinsten (defineret som omkostning minus 
+forventet skadesreduktion) vil typisk have et maksimum. De mest ekstreme hændelser 
+forekommer kun meget sjældent og bidrager dermed ofte kun i begrænset omfang til den 
+gennemsnitlige, forventede oversvømmelsskade, mens omkostningen for sikring bliver ved 
+med at stige jo højere man vælger sikringsniveauet. Sikring mod meget ekstreme hændelser 
+vil derfor ofte ikke være omkostningseffektivt. Grafen er optegnet ud fra “The City of Copen-
+hagen Cloudburst Management Plan” 2012, side 12, Figur 1: Net gains from flood defence 
+measures in Frederiksberg and the City of Copenhagen. The amounts are present-day values 
+over a period of 100 years”. Her: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://
+en.klimatilpasning.dk/media/665626/cph_-_cloudburst_management_plan.pdf
+Figur 29 
+O
+
+86
+OVERSVØMMELSESRISIKO
+Fare, eksponering og sårbarhed
+Ved at lave oversvømmelseskort vises det, hvilke områder som 
+potentielt er eksponeret for oversvømmelser . Herefter kan det vur-
+deres, hvor stor risikoen er i disse områder for oversvømmelse. Kritisk 
+infrastruktur i form af hospitaler, plejehjem, transformatorstationer, 
+metro og lignende vurderes som særligt sårbare, forurenede grunde er 
+ligeledes et risikoparameter, ligesom der kan opstilles særlige krav til 
+f.eks. kulturarv. Sårbarheden opgøres ofte i form af skadeskurver eller 
+skadesfunktioner, der opgør en skade pr . eksponering pr . sårbar ting. 
+Ofte udarbejdes også værdikort, som angiver den maksimale skade, 
+som en værdi pr . område teoretisk kan blive påvirket af, uanset om 
+eksponering er mulig eller ej.
+Oversvømmelsesrisiko består af tre komponenter:
+• Fare: Hvor ofte overstiger havvandsstand (eller regnintensitet) et kritisk 
+niveau, så et område oversvømmes? 
+• Eksponering: Er der værdier i et oversvømmelsestruet område, der kan 
+skades (f.eks. huse, landbrugsarealer, skov)? 
+• Sårbarhed: Bliver værdierne skadet, når de oversvømmes (f.eks. vil et hus 
+med oversvømmelsessikring typisk ikke blive skadet ved en oversvømmelse, 
+landbrugsarealer vil næsten altid blive skadet af saltvand, mens oversvøm-
+melser med saltvand er del af den naturlige livscyklus for et marskområde).
+O
+
+87
+Figur 30 
+Oversvømmelsesrisiko er et resultat af interaktionen mellem farer (f.eks. hvor høj er 
+vanddybden og hvor ofte sker det) og den konsekvens som denne fare kan medføre i form 
+af at der er værdier (f.eks. bygninger eller mennesker) der kan blive eksponeret overfor 
+faren, og at disse værdier er sårbare, dvs. at de rent faktisk lider skade som følge af denne 
+eksponering. Faren påvirkes af klimaet (herunder stigende havvandstand og ændringer i 
+storme), mens eksponering og sårbarhed er konsekvenser af socioøkonomiske processer 
+i samfundet, der enten kan forstærke eller reducere risikoen. Fra IPCC (2014), Dig. SPM1, 
+side 3. Link: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ipcc.ch/site/assets/
+uploads/2018/02/ar5_wgII_spm_en.pdf.
+O
+
+88
+Figur 31 
+Kortet viser Danske områder (linjer) og byer (cirkler) der er udpeget i EU´s oversvømmelsesdi-
+rektiv. De mørkeblå er fra planperioden 2010-15 og de mellemblå er fra planperioden 2016-20.
+OVERSVØMMELSESDIREKTIV OG RISIKOSTYRINGSPLANER
+EU´s oversvømmelsesdirektiv
+Som følge af EU’s oversvømmelsesdirektiv er de danske myndigheder 
+pålagt at udarbejde risikostyringsplaner for områder, der på nationalt 
+plan er identificerede til at have særlig stor risiko for oversvømmelse. 
+Der er aktuelt udpeget i alt 14 geografiske risikoområder i sammenlagt 
+27 kommuner, hvoraf langt størstedelen er tætbebyggede kystom-
+råder . Risikostyringsplanerne beskriver, hvilke initiativer kommunerne 
+kan iværksætte for at reducere skaderne i tilfælde af ekstreme 
+oversvømmelseshændelser, herunder hvordan evt. fysiske og
+planlægningsmæssige klimatilpasningstiltag er koordineret med
+beredskabet. I planhierarkiet er risikostyringsplanerne overordnet 
+kommuneplanen og de kommunale sektorplaner . Det betyder, at 
+risikostyringsplanen sætter rammer og bindinger for den øvrige kom-
+munale planlægning, herunder klimatilpasningsplanen. Da flere af de 
+nationalt udpegede risikoområder går på tværs af kommunegrænser, 
+er der ofte behov for et koordineret samarbejde mellem kommuner i 
+forbindelse med udarbejdelsen af risikostyringsplanerne.
+O
+
+89
+PLANLAGT JUSTERING AF KYSTEN (MANAGED REALIGNMENT)
+Tilpasninger langs kysten
+Sedimenter langs kysten er i konstant bevægelse, og det, vi kalder 
+kystlinjen, flytter sig derfor løbende. For eksempel pga. af erosion, sed-
+iment der lægger sig på, høfder der bygges for at holde på sediment, 
+men som fordrer erosion nedstrøms, ved storme, mv. Den engelske 
+term Managed Realignment tager netop afsæt i kystens bevægelse og 
+ligger sig som en strategi imellem tilpasning og tilbagetrækning. Ved 
+managed realignment accepteres det, at kystlinjen er en dynamisk 
+zone, der har brug for plads, og at det nogle steder kan være hen-
+sigtsmæssigt at afgive dele af ´tørt´ land til kyst og hav. For eksempel 
+ved at trække en højvandsmur lidt længere inde mod byen og afgive 
+plads til en bufferzone ved havet med naturbaserede løsninger som 
+f.eks. strandeng der kan mindske bølgekraften og derved sinke erosion. 
+Herved kan en række merværdier indtænkes sammen med de beskyt-
+tende løsninger, f.eks. i form af biodiversitet, CO2 optag og rekreative 
+muligheder .
+Et eksempel på et større realignment projekt er Hersketh Out Marsh  i 
+Storbritannien, hvor en saltmarsk i 1980´erne blev omdannet til land-
+brug ved hjælp af diger . Med havstigning opstod behovet for stærkere 
+beskyttelse. Dette blev gjort ved at fjerne digerne og tilbageføre områ-
+det til saltmarsk. Dette har givet gode betingelser for dyre- og planteliv 
+samtidig med, at marsken fungerer som beskyttende bufferzone inden 
+havet møder indlandsdiger . Princippet minder om naturgenopretning-
+sprojektet Gyldensteen Strand på Fyn. Managed Realignment kan lige 
+så vel foregå på en mere bynær eller mindre skala.
+PP
+
+90
+PLANLOVEN
+Land- og byområder
+Planloven omfatter land- og byområder i Danmark, men ikke søterri-
+toriet. I kommunerne er planloven udmøntet i en kommuneplan med 
+de overordnede rammer for kommunens udvikling og arealanven-
+delse, herunder identificering af oversvømmelses- og erosionsudsatte 
+områder, samt lokalplaner, der sætter mere specifikke rammer for 
+bebyggelsers udformning og anvendelse.
+Planloven opdeler arealer i tre zoner: 
+• Landzone
+• Byzone
+• Zone for sommerhusområder
+I landzonen er der generelt store begrænsninger for, hvad der kan 
+bygges, medmindre det har en direkte relation til eksisterende anven-
+delse, typisk landbrugserhverv, eller hvis det omfatter infrastruktur-
+anlæg af national interesse. I byzonen er reguleringen mere lempelig, 
+og der kan ske udvikling inden for rammerne i kommuneplanen og 
+lokalplanerne. I sommerhusområder må bebyggelsen generelt ikke 
+anvendes til helårsbeboelse, og der er fokus på den rekreative brug af 
+området. I alle tre zoner skal forvaltningen ske under hensyntagen til 
+bestemmelserne om kystnærhed, strandbeskyttelse og klitfredning.
+P
+
+91
+P
+PLANLÆGNING AF HAVET OG BESKYTTELSESBESTEMMELSER
+Forvaltning af kystområder
+Den fysiske planlægning og forvaltning af kystområder i Danmark er 
+primært reguleret gennem naturbeskyttelsesloven og planloven, der 
+omfatter landarealet fra kystlinjen og ind i landet, samt kystbeskyt-
+telsesloven, der dækker de kystnære landområder og 12 sømil ud i 
+havet. 
+Derudover er Danmark omfattet af internationale bestemmelser for 
+beskyttelse af naturområder til lands og til vands. Dette sker primært 
+gennem Natura2000-bestemmelser (i EU’s Habitat- og Fuglebeskyt-
+telsesdirektiver) samt krav om planlægning af hele landets havareal, 
+der strækker sig fra kystlinjen og op til 200 sømil ud fra kysten, hvilket 
+udmøntes i Den Nationale Havplan.
+Den Nationale Havplan
+Danmarks første havplan er en udmøntning af et EU-direktiv om 
+maritim fysisk planlægning. Formålet med havplanen   er at skabe en 
+helhedsorienteret planlægning af hele det danske havareal. En plan 
+der afvejer og koordinerer interesser vedr . natur- og miljøbeskyttelse, 
+fiskeri, skibstrafik, energiproduktion, råstofudvinding, landvinding, 
+rekreativ anvendelse med videre. Havplanen omfatter hele søterritori-
+et og Danmarks eksklusive økonomiske zone (EEZ) beliggende mellem 
+12 og 200 sømilsgrænsen, og den har en planperiode på 10 år .
+Formålet med havplanen er at planlægge for aktiviteter og anvendel-
+ser . Disse anvendelser er kategoriseret som hhv.  (1) Energisektoren 
+til søs, (2) Søtransport, (3) Transportinfrastruktur, (4) Fiskeri og ak-
+vakultur, (5) Indvinding af råstoffer på havet, (6) Bevarelse, beskyttelse 
+og forbedring af miljøet. Udover dette kan der planlægges indenfor 
+bæredygtig turisme, rekreative kvaliteter, friluftsliv og landvinding. Se 
+kilde nedenfor.
+Note: Læs mere her https://havplan.dk/da/om-havplanen  
+
+92
+RESILIENS - EVOLUTIONÆR, TEKNISK OG ØKOLOGISK
+Tilpasningsdygtige systemer
+Danske ord for ’resiliens’ kan med god vilje være modstandskraft og 
+robusthed. Resiliens og robusthed er dog ikke synonymer . Begrebet re-
+siliens kommer oprindeligt fra materialelæren, hvor det relativerer sig 
+til et materiales elasticitet og evne til ar finde tilbage til sin grundform. 
+Det kan f.eks. være en elastik, der springer tilbage eller en skumma-
+dras, der finder tilbage til sin form, efter man har presset en hånd ned 
+i den. Inden for biologien, bruges resiliens til at betegne økosystemers 
+evne til at gendanne sig eller indtræde i en ny form, hvis de er blevet 
+ødelagt/udsat for en stresspåvirkning. Resiliens bruges i dag bredt og 
+kan betegne bl.a. byer, mennesker, ting, naturlige processer og system-
+er og deres kapacitet til at komme sig efter ødelæggelser eller kritiske 
+situationer . Et resilient system er adaptivt, dvs. tilpasningsdygtigt på en 
+måde så det kan komme sig efter kriser, enten tilbage til samme spor 
+eller et nyt (i menneskelig forstand ønskeligt) spor . Det er et begreb, 
+der kan kritiseres for at blive brugt bredt, hvorfor der kan være grund 
+til at spørge, hvad det skal være resilient for, for hvem og ikke mindst 
+hvordan.
+Evolutionær resiliens - komplekse dynamikker
+Evolutionær resiliens (social-ecological resilience) beskriver systemer 
+som kaotiske, komplekse, usikre og uforudsigelige. Det er et tætvævet 
+dynamisk samspil mellem menneskelige handlinger og naturens 
+respons i en løbende og foranderlig proces. Evolutionær resiliens 
+fokuserer på dynamisk bevægelse – den evolutionære transition – væk 
+fra en uhensigtsmæssig tilstand og frem mod en mere ønskværdig 
+situation. Så i stedet for at ’springe tilbage’ til en normaltilstand, vil 
+evolutionær resiliens betyde at en krise flytter samfundet. Det kan 
+f.eks. være væk fra kul, olie og gas til vedvarende energikilder . I denne 
+sammenhæng tales ofte om bæredygtighedstransitioner, hvor samfun-
+det bevæger sig frem mod bæredygtighed (som et endemål) gennem 
+bæredygtig udvikling (som en proces).
+Teknisk resiliens - kapacitet til at komme tilbage til udgangspunktet
+Teknisk resiliens (engineering resilience) refererer grundlæggende til 
+et systems evne til at vende tilbage til situationen før eksempelvis en 
+R
+
+93
+stormflod. Her måles et systems resiliens på hastigheden, hvormed 
+det vender tilbage til den statiske basissituation. Eksempelvis vil en 
+by fremstå resilient, hvis den hurtigt får pumpet vandet væk efter 
+en stormflod og renoveret beskadigede bygninger og infrastruktur . 
+Københavns Kommunes Skybrudsplan er baseret på estimater om 
+skadesomkostninger og produktivitetsreduktion, og tiden inden f.eks. 
+det københavnske metrosystem er tilbage som fuldt funktionelt efter 
+en stormflod. Planen er således et eksempel på en tilgang, der grun-
+dlæggende falder indenfor kategorien teknisk resiliens. 
+Økologisk resiliens - dynamikker i økologiske systemer
+Økologisk resiliens (ecological resilience) refererer til økosystemer 
+og handler om at kunne opretholde balance i et kompliceret system, 
+f.eks. skoven med sit fintmaskede net af gensidigt afhængige ele-
+menter . Skoven er et dynamisk system, hvor der er evig interaktion 
+mellem systemets enkeltelementer, og hvor stedets historik med ydre 
+stresspåvirkninger i form af brande, oversvømmelser og sygdomsepi-
+demier er med til at forme skoven, dets form og artssammensætning. 
+Balancen i økologiske systemer er ikke statisk, dvs. at man ikke nødven-
+digvis vender tilbage til den samme udgave efter en stresspåvirkning 
+som f.eks. stormflod eller skybrud. Et eksempel kan ses i Da Nang i 
+Vietnam. Her flytter dele af befolkningen deres bopæl i et dynam-
+isk samspil med klimaet, topografien og bebyggelsen, så de bor i de 
+lavtliggende dalstrøg i de tørre perioder mellem monsunregnen. Når 
+regntiden kommer, flytter de op på de højereliggende, tørre arealer .
+I sin grundform er dette en tilgang, der afspejler en økologisk resiliens-
+forståelse.
+R
+
+94
+RESILIENS I PLANLÆGNING
+Forberedelse
+Resiliens er et mangesidet begreb, men hvordan kan planlægning 
+hjælpe til udviklingen af mere resiliente byer? 
+I resiliensplanlægning vil man identificere mulige trusler mod byen, 
+hvilke konsekvenser de kan få for liv eller økonomi, og hvilke dele 
+af byen eller samfundet, der er mest sårbare.  Derefter sætter man 
+planer i værk, der kan sikre at sådanne hændelser bliver mindre 
+alvorlige, f.eks. gennem kystbeskyttelse og tilpasning af byen så mulige 
+hændelser får mindre fatale konsekvenser, f.eks. ved at sikre at kritisk 
+infrastruktur kan fungere under en hændelse. Resiliensplanlægning vil 
+vise, hvordan man kan gendanne byen i en ny og bedre form efter en 
+alvorlig hændelse. 
+Resiliensplanlægning er ikke noget nyt. Mennesker har altid bygget 
+infrastruktur eller beskyttelse til at modstå katastrofer, har øvet proce-
+durer for at mindske risikoen i situationen, f.eks. i form af brandværn 
+eller andet beredskab, og har lært af tidligere katastrofer når byen har 
+skullet genopbygges. Det er vigtigt at kunne forudse eller afværge ’den 
+perfekte storm’, hvor flere ulykker rammer, måske over en længere 
+periode. 
+Det handler ikke kun om fysiske forbedringer og ny infrastruktur . Æn-
+dret adgang til kapital, viden eller magt kan også være nødvendig for at 
+gøre samfund eller grupper i samfundet mindre sårbare.  Se Note (a)
+Denne måde at tænke på lægger sig tæt op ad arbejdet med Dynam-
+ic Adaptive Policy Pathways (DAPP), hvor man planlægger løsninger, 
+f.eks. infrastruktur, der kan løse et problem et vist stykke tid, men hvis 
+problemet forværres over tid, er det måske nødvendigt at tænke i nye 
+løsninger .
+Man kan også forstå resiliensplanlægning på en anden måde, hvor den 
+lægger et nyt lag ovenpå den første, og er mere positivt ladet: Resil-
+iens er evnen hos individer, lokale fællesskaber, institutioner, virksom-
+heder og byens systemer, til at overleve, tilpasse sig og vokse, uanset 
+hvilken kronisk stress eller hvilket akut chok, de oplever .
+R
+
+95
+Kronisk stress kan være fattigdom eller kronisk vandmangel, mens aku-
+tte chokpåvirkninger er det, vi forstår ved ‘hændelser’, f.eks. oversvøm-
+melse i forbindelse med en storm. Det handler om at vende problemer 
+til fordele gennem en gentænkning af problemet og hører til den 
+resiliensform, vi har kaldt ’evolutionær resiliens’: at byer og mennesker 
+kan udvikle sig gennem og efter katastrofer .
+Organisationen ’100 resiliente byer’ (100 Resilient Cities) forsøger at 
+arbejde på denne måde.  Et eksempel er byen Norfolk i Virginia i USA, 
+hvor kroniske problemer med oversvømmelse på grund af forsegling af 
+vandløb og overflader er vendt til et positivt forhold til vandet gennem 
+etablering af grønne områder og åbning af byens vandløb, hvilket også 
+har ført til flere boliger med direkte, rekreativ adgang til vand. Se Note 
+(b)
+For al planlægning for resiliens gælder, at samarbejde og inddragelse 
+af byens borgere og aktører er helt nødvendigt for at udstikke ret-
+ninger og prioriteringer, og at alle sektorer i byens administration må 
+bidrage til løsningerne. Samlet set er resiliensplanlægning således 
+en kombination af (tilpasningsdygtig) fysisk infrastruktur og vores 
+kollektive evne til at forstå, lære, tilpasse og udvikle os som individer, 
+grupper og samfund i lyset af presserende og forestående kriser, som 
+det stigende havvand.
+Note: (a) Environmental Finance Center at Sacramento State 2020: Resilience 
+Planning, tools and resources for communities. https://www.efc.csus.edu/reports/resil-
+ience-planning-tools-and-resources-for-communities.pdf
+(b) American Planning Association / Meghan Stromberg: ‘Planning for Resilience’, 
+2017 htts://www.planning.org/blog/blogpost/9124762/ 
+R
+
+96
+RESILIENS - SOCIAL
+Fællesskabet og at lære af fortiden
+Social resiliens refererer til en gruppes, et fælleskabs eller et samfunds 
+evne til at overkomme chok fra ekstreme hændelser, samt at lære af 
+disse hændelser på en dynamisk måde. Sammenlignet med andre 
+definitioner af resiliens refererer social resiliens specifikt til et socialt 
+(menneskeligt ingeragerende) systems evne til at komme sig efter chok 
+på en sådan måde, at det ikke mister sine oprindelige funktioner, sam-
+tidig med at systemet fremadrettet tilpasser sig risici relateret til for-
+tidige hændelser . Når man snakker om social resiliens, er evnen til at 
+lære fra fortiden og evnen for et socialt system til at selv-organisere og 
+tilpasse sig de nye forhold, som krisen nødvendiggør, derfor centrale 
+aspekter . På engelsk refereres der af samme grund ofte til “adaptive 
+resilience” (resilient tilpasning) som en mere rammende beskrivelse 
+for social resiliens end blot modstandsdygtighed over for chok.
+Nogle parametre, der eksemplificerer, hvordan social resiliens kan 
+forstås i relation til ekstreme hændelser såsom stormfloder og sky-
+brud, er: 
+1. Hvorvidt borgerne er i stand til at agere proaktivt før nødsituationer opstår, 
+og effektivt når de sker . 
+2. Hvorvidt borgerne har tillid til myndighederne, hvorvidt borgerne har tillid til 
+hinanden og at denne tillid opretholdes efter krisen er ovre. 
+3. I hvilken grad der eksisterer stærke lokale institutioner og foreninger der 
+binder borgerne sammen. 
+4. Hvorvidt der er en kultur af dialog og læring, hvorved borgerne og myn-
+dighederne lærer af tidligere hændelser samt kontinuerligt opsøger eksister-
+ende ekspertviden.
+R
+
+97
+Figur 32 
+Social resiliens handler om mennesker og samfund, herunder fællesskab, handlinger og ikke 
+mindst fælles hukommelse over tid.
+R
+
+98
+STATISTISKE SANDSYNLIGHEDER FOR HÆNDELSER
+100-års hændelser kan blive til 20-års hændelser
+Gentagelsesperioder på f.eks. 5, 10 eller 100 år afspejler den statistiske 
+sandsynlighed for, at eksempelvis en stormflodshændelse indtræffer . 
+Mere formelt er gentagelsesperioden den inverse af sandsynligheden 
+for, at en vis (ekstrem) værdi overskrides pr . år . Denne sandsynlighed 
+er det, som statistiske modeller beskriver, mens begrebet gentagelses-
+perioder benyttes, fordi det er nemmere at anvende end procenter og 
+promiller pr . år . 
+Når havvandet stiger, vil sandsynligheden for en overskridelse (og 
+dermed en hændelse) stige og derfor vil gentagelsesperioden pr . 
+definition også falde. Derfor bør man altid med diskussionen af gent-
+agelsesperioder angive, hvilket årstal gentagelsesperioden svarer til – 
+samt overveje hvad der sker, efterhånden som sandsynligheden vokser 
+for at se en hændelse, der overskrider kriteriet.    
+S
+
+99
+Der er usikkerheder på både sandsynligheder og gentagelsesperioder . 
+Generelt vil usikkerheden stige, når gentagelsesperioden øges og jo 
+længere frem i fremtiden, der laves prognoser for. Den største usikker-
+hed i nutidens gentagelsesperioder findes for de kyster i Danmark, der 
+ligger ud mod Østersøen. Det vides, at der meget sjældent forekom-
+mer stormfloder i Østersøen, de er helt anderledes end “normale” 
+stormfloder . 
+Der er lavet undersøgelser, der tyder på, at disse stormfloder er
+kommet ca. 7 gange de seneste 900 år . Af naturlige årsager er kun 
+de seneste 3 hændelser (1760, 1825 og 1872) godt beskrevet. I de 
+tilfælde er det svært at lave en formel statistisk analyse, der præcist 
+beskriver den bagvedliggende proces. Det ligger dog fast, at de meget 
+sjældne hændelser i Østersøområdet har en helt anden karakter end 
+”almindelige” stormfloder i området, samt at disse stormfloder ikke 
+kan opstå i f.eks. Kattegat-området (se afsnit om stormflodsregioner). 
+S
+
+100
+STORMFLODSREGIONER
+Stormfloder kan ramme forskelligt
+Forskere fra Danmarks Tekniske Universitet, DTU, har inddelt Danmark 
+i tre fremherskende stormflodsregioner, hvor der er slægtskab mellem, 
+hvordan stormfloder rammer .
+1. Vest - Vestkysten hvor stormfloder rammer relativt hyppigt og hårdt
+2. Indre farvande - Kattegat der er mere beskyttet
+3. Syd - Østersøområdet hvor stormfloder rammer relativt sjældent, men af og 
+til meget voldsomt. 
+Disse tre regioner kan brydes yderligere ned i flere delområder afhæn-
+gigt af lokale og regionale forhold. Kraftige stormfloder rammer store 
+dele af landet på én gang, men ikke lige kraftigt. Forskelle i vindretning, 
+lavtrykkets bane mv. medfører lokale forskelle i stormflodens højde, 
+men overordnet vil en stormflod ramme hele området i en af de 
+stormflodsregioner, som er skitseret på kortet. I nogle tilfælde vil flere 
+stormflodsregioner blive ramt i løbet af få dage, fordi vandet “skvulp-
+er rundt” mellem de tre regioner . Figur 34 illustrerer  de tre vigtigste 
+regioner i Danmark med hensyn til stormfloder . Det er kraftige storme, 
+der driver stormfloder og dermed er der store sammenhængende 
+kystområder, som påvirkes samtidigt. Figur 33 viser de omtrentlige 
+stormflodsniveauer fordelt på stormflodsregion. Det ses, at ved typ-
+iske stormfloder, det vil sige op til returperioder på omkring 100 år, 
+vil kystområder, der eksponeres fra Østersøen, have en statistik, der 
+minder om de indre farvande. For meget sjældne hændelser, det vil 
+sige gentagelsesperioder væsentligt sjældnere end 100 år,
+påvirkes kystområder, der eksponeres fra Østersøen meget kraftig-
+ere og nærmer sig hændelser fra Nordsøen i voldsomhed. Det mest 
+kendte eksempel på en sådan hændelse er oversvømmelsen af bl.a. 
+Falster under stormfloden i Østersøen november 1872.
+Note: Der kan læses mere om 1872 stormfloden her: https://historienet.dk/samfund/
+katastrofer/orkan-forvandlede-oestersoeen-til-fraadende-helvede https://www.dmi.dk/hav-og-is/tema-
+forside-stormflod/historiske-stormfloder-i-nordsoen-og-danmark/  https://www.dmi.dk/nyheder/2022/
+stormfloden-for-150-aar-siden-den-vaerste-i-mands-minde/ 
+S
+
+101
+Øverst: Omtrentlige stormflodsniveauer fordelt på region
+Nederst: Illustration af de tre vigtigste regioner i Danmark med hensyn til stormfloder .
+De tre stormflodsregioner er baseret på DTU rapport 2019 Risiko management ifm. stigende 
+havvandstand. Figurerne er baseret på Fig.3.1 og 3.2, side 13. Link: chrome-extension://efaidn-
+bmnnnibpcajpcglclefindmkaj/https://orbit.dtu.dk/files/195895644/BaselineRealdaniaDTU.pdf
+Figur 33 
+Figur 34 
+S
+
+102
+STRATEGIER VS SCENARIER
+Planlægning for en usikker fremtid
+Omfanget af den globale udledning af drivhusgasser i de kommende 
+årtier er forbundet med store usikkerheder, der har direkte betydning 
+for, hvilke beslutninger der tages, når der udvikles kyststrategier og 
+løsninger i forhold til havstigning. Levetiden for kystbeskyttelsestiltag 
+kan f.eks. være 100 år . Om 100 år vil de valg, der foretages nu, påvirke, 
+hvad det næste mulige skridt kan være. Over så lange tidshorisonter 
+er der stor usikkerhed om, hvordan klimaet (f.eks. havvandsspejl og 
+ekstreme regn-intensiteter) og befolkningen i byerne udvikler sig. Det 
+er derfor vigtigt, at beslutningstagere forholder sig til, i hvilken grad 
+en løsning kan fungere i forskellige mulige fremtider . Det er vigtigt at 
+skelne mellem scenarier og strategier, når man planlægger løsninger 
+for en usikker fremtid. 
+Scenarier
+Scenarier beskriver, hvordan relevante randbetingelser (som ikke 
+påvirkes af beslutningen) potentielt udvikler sig i fremtiden. Scenari-
+er kan udarbejdes ved brug af IPCC’s prognoser over lang tid for den 
+fremtidige havvandstand og andre vigtige processer. For en kommune 
+vil det typisk være f.eks. klimascenarier og scenarier for den generelle 
+befolkningsudvikling i Danmark. Kommunen har kun i begrænset 
+omfang mulighed for at påvirke disse randbetingelser, men betingel-
+serne påvirker, hvilke kystsikringsløsninger der bør vælges, f.eks. i form 
+af forskellige potentielle havvandstande, demografisk udvikling og 
+beskatningsgrundlag i kommunen.
+S
+
+103
+Strategier
+Strategier er tiltag, som vi aktivt vælger for at opnå et givet mål. Det 
+kan være forskellige typer af kystsikringsløsninger, men også byplan-
+lægningstiltag såsom udpegning af byudviklingsområder . Strategier 
+indeholder altid prioriteringer . Fremgangsmåden er typisk, at man 
+undersøger, hvilken strategi der giver det bedste resultat i et givet 
+scenarie (f.eks. mindst oversvømmelsesrisiko for flest borgere i byen). 
+Analysen gennemføres gerne for flere scenarier, hvorefter det ra-
+tionelle valg er at følge den strategi, der er mest robust på tværs 
+af scenarier . En strategi, der er testet på tværs af flere scenarier, vil 
+alt andet lige medføre en mere robust ramme for løsninger med en 
+iboende fleksibilitet i forhold til forskellige mulige samfundsudviklinger . 
+Man kan supplere med en faseopdeling af strategierne, så man un-
+dervejs kan tilpasse strategiens elementer til hvilket af scenarierne, 
+der virker mest realistisk. Sådanne strategier kaldes adaptive strategier .
+Begreberne strategi og scenarie bruges forskelligt
+Det skal dog bemærkes at begreberne strategi og scenarie dog bruges 
+på mange forskellige måder alt efter fagområde og sammenhæng. 
+Termen scenarie bruges også på andre måder inden for udvikling af 
+løsninger; som en måde at beskrive forskellige løsninger og som måder 
+at synliggøre lokale udfordringer og potentialer eller beskrive visioner 
+for fremtiden.
+S
+
+104
+SYNERGIEFFEKT MELLEM TILPASNING OG MITIGATION
+Klimatilpasning og reducering af global opvarmning - samtænkning af 
+indsatser
+I forhold til at vurdere løsninger, er der behov for at samtænke mitiga-
+tion og tilpasning. For det første for at få synergieffekter ud af tiltag, 
+for det andet fordi at selv hvis udledningen af drivhusgasser sluttede i 
+morgen, så er der allerede sat processer i gang, der kræver tilpasning 
+af bl.a. det byggede miljø og naturområder . Der er også behov for at 
+vurdere CO2-aftrykket af den byggede klimatilpasning (f.eks. diger, 
+sluser, mv.)
+Afbødning og tilpasning er tilgange, hvor der nu er stort fokus på 
+at samtænke gensidigt afhængige indsatser . Uanset hvor vellykket 
+reduktionen i udledningen af drivhusgasser bliver, så vil der være brug 
+for tilpasning mange år fremefter, idet klimaændringerne er i gang og 
+konsekvenserne i form af f.eks. havstigning vil tage lang tid at bremse. 
+Der er ligeledes behov for at vurdere CO2-aftrykket af den byggede 
+klimatilpasning; f.eks. for diger, sluser, mv. og holde det op imod løs-
+ninger, der kan opsuge CO2. På et løsningsniveau er der flere sam-
+menfald og potentialer i at søge løsninger med flere funktioner . Inden 
+for naturbaserede løsninger kan det f.eks. være etablering af rev og 
+tangskove, der kan afbøde noget af bølgekraften ved en storm, optage 
+og binde CO2 fra atmosfæren og samtidig befordre biodiversitet, som 
+igen har indflydelse på jordens systemer . Samspil mellem tilpasning og 
+afbødning kaldes kombinerede – eller hybride – løsninger . 
+S
+
+105
+Figur 35 
+Der er forskellige typer administrative zoner i kystområder . De har forskellige formål og kan 
+derfor overlappe hinanden.
+SØTERRITORIET OG ETABLERING AF ANLÆG
+Faste anlæg i havet
+Kystdirektoratet er primær myndighed for anlæg på søterritoriet. Det 
+betyder, at alle faste installationer på søterritoriet, herunder husbåde, 
+havnebade og kunstige rev skal godkendes af Kystdirektoratet, inden 
+de etableres. En enkelt undtagelse er mindre bade- og bådebroer 
+med fri vandgennemstrømning, der ligger ved erhvervs- og lystbå-
+dehavnene, som administreres af kommunerne - om end fortøjning-
+spælene stadig skal godkendes af Kystdirektoratet. Kystdirektoratet er 
+samtidig ansvarlige for godkendelsen af alle større, mere permanente, 
+faste og ’irreversible’ anlæg på søterritoriet som f.eks. moler, strand-
+parker og andre typer af inddæmmede og opfyldte områder . Ved 
+etablering af store broanlæg, olie- og gasledninger og råstofindvind-
+ing på søterritoriet skal der indhentes tilladelse fra andre ansvarlige 
+myndigheder .
+S
+
+106
+TIDEVANDSZONE, LITTORALZONE OG RIPARISK ZONE
+Overgangszoner mellem vand og land
+Kystzonen omfatter altid tidevandzonen. Ofte anvendes begreberne 
+kystzone og tidevandszone synonymt, selvom kystzonen kan være 
+bredere end tidevandzonen. 
+Tidevandszone
+Tidevandszonen er zonen mellem hav og land ved kyster, der påvirkes 
+af tidevand. Zonen udsættes skiftevis for at være mere eller mindre 
+våd. Det vil sige, at bunden er i kontakt med luft, når det er lavvande 
+(ebbe) og derimod dækket af vand ved højvande (flod) og ofte også i 
+perioderne imellem ebbe og flod. Dette skaber helt særlige økologiske 
+nicher for dyr og planter samt en stor variation i habitater alt efter 
+kystens karakter (klippe, sand, vådområder, mv).
+Med havstigning vil tidevandszonen bevæge sig længere ind i land. Det 
+betyder, at det, som tidligere var de yderste zoner mod havet, vil blive 
+oversvømmet. Dermed vil forholdene ændre sig for dyr og planter, der 
+er afhængige af f.eks. de vanddybder og det lysniveau, der er i denne 
+zone. Med havstigning bliver det derfor væsentligt om disse arter ´kan 
+flytte med indover´ eller ej, samt hvorvidt de kan få fæste i de rigtige 
+habitater . Eksempelvis hvis de er tilpasset sandstrand, og der indefter 
+er andre geologiske forhold eller tæt bebyggelse. Dette betyder, at 
+naturområder i tidevandszonen, som f.eks. er udpeget til beskyttelse, 
+er i risiko for at forsvinde i takt med havstigningen. 
+Littoralzone
+Kystzonen kaldes også for den littorale zone. Den littorale zone omfat-
+ter altid tidevandszonen, men også områder nær kanten af åer, søer 
+og åmundinger . Den littorale zone er vigtig for plante- og dyreliv der er 
+afhængig af nærheden til vandet i f.eks. vådområder og strandenge, 
+eller de særlige forhold der gør sig gældende nær vandet i f.eks. klit-
+områder .
+Riparisk zone 
+Skiftet mellem tørt og vådt er relevant ved åer og søer, som har skif-
+tende vandniveauer . Her danner den ripariske zone en overgang mel-
+lem land og vand. I kantzonen er der ofte særlige habitater og vigtige 
+T
+
+107
+Tidevandszone og littoralzonen er mere eller mindre det samme, dog går littoralzonen ofte 
+lidt længere indlands. Littoralzonen kan inddeles i fire underzoner, hvoraf en er perma-
+nent vanddækket og op til en zone, der sjældent er vanddækket. Den laveste zone er som 
+udgangspunkt altid våd og udsættes kun for luft ved ekstremt lavvande.  Den øverste zone er 
+fortrinsvis tør, men fugtes og saltes i form af sprøjt fra bølger . Graden af vådhed har betyd-
+ning for, hvilke arter der kan leve dér . Begge zoner er vigtige for biodiversiteten og kystens 
+økosystemer . Læs evt. mere her: Vestergaard, P . (2005). Strandenge - en beskyttet naturtype. 
+København: Gads Forlag. Link: https://naturstyrelsen.dk/media/nst/67079/Strandenge.pdf
+Figur 36 
+økologiske nicher, og disse områder har betydning for bl.a. biodiver- 
+sitet, erosion og vandkvalitet. I kystbyer, der ligger ved åmundinge, 
+f.eks. de østjyske fjordbyer, har der tidligere været plads til vandet i 
+form af større, våde områder, hvor åen kunne brede sig., når der var 
+meget vand. Også ved selve udmundingen til havet har der været 
+vådområder . Disse områder er, for en væsentlig del, med årene blevet 
+bebygget og forseglet med materialer som asfalt og beton. Dette 
+mindsker muligheden for, at åerne har plads til at brede sig, når der er 
+meget vand. Dette kan lede til oversvømmelser i bebyggede områder .
+T
+
+108
+TILBAGETRÆKNING
+Langsigtede strategier
+Selve ordet ´tilbagetrækning´ kan have en negativ klang der lyder
+som et ´nederlag´ i modsætning til andre løsninger, f.eks. diger, der sig-
+nalerer beskyttelse. Diger kan dog ikke alene beskytte, men også med-
+virke til at skabe nye problemer, eksempelvis ved at skabe mulighed for 
+yderligere byudvikling i lavtliggende, kystnære områder, der i længden 
+kan kræve endnu mere beskyttelse (se afsnit om dige effekt). Diger 
+kan også afkoble økologiske forbindelser mellem indlandet og kysten. 
+Endelig indebærer beskyttelse med højvandmure eller diger usikker-
+heder i forhold til at vælge det ´rigtige´ sikringsniveau, der hverken 
+sikrer for meget (og dermed er ikke er økonomisk optimalt) eller sikrer 
+for lidt (og dermed ikke opfylder sit formål). 
+Som alternativ til kystbeskyttelsesforanstaltninger kan kysttransforma-
+tion i form af tilbagetrækning, relokalisering eller  justering (managed 
+realignment) indgå i løsningspalletten. Her er målet at tilpasse by- og 
+landområder til stigende havvand ved at ændre arealanvendelse. 
+For eksempel ved at give by-og boligområder tilbage til naturen over 
+en lang årrække eller udvikle nye former for byer, hvor bygninger og 
+gader planlægges med vandet. Tilbagetrækning og relokalisering kan 
+foregå på forkant eller på bagkant, når det ikke er muligt at bygge 
+op igen samme sted, f.eks. efter naturkatastrofer . Trods danske og 
+internationale eksempler på relokalisering ses det relativt sjældent på 
+frivillig basis, dvs. uden en forudgående katastrofe. Når man diskuterer 
+tilbagetrækning som løsning, er det vigtigt at skelne mellem forskellige 
+typer af tilbagetrækning, da årsager, former og konsekvenser kan være 
+meget forskellige  både menneskeligt, økonomisk og planlægning-
+smæssigt. Forskerne Cleveland og Plastrik  skelner mellem tre typer:
+• Planlagt tilbagetrækning
+• Katastrofedrevet tilbagetrækning
+• Økonomisk drevet (markedsdrevet) tilbagetrækning
+Note: Principperne for de tre typer tilbagetrækning er baseret på Peter Plastrik 
+& John Cleveland, marts 2019,  ´Can it happen here? Improving the prospect for 
+managed retreat by US cities´: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://
+lifeaftercarbon.net/wp-content/uploads/2019/03/Managed-Retreat-Report-March-2019.pdf
+T
+
+109
+TILBAGETRÆKNING - KATASTROFEDREVET , MARKEDSDREVET
+Katastrofedrevet tilbagetrækning - en re-aktiv tilgang
+Dette er en reaktiv tilgang baseret på en krisesituation, hvor tilbaget-
+rækningen ikke er planlagt, men et spørgsmål om yderste nødven-
+dighed (akut beredskab). Katastrofedrevet tilbagetrækning betyder 
+ikke nødvendigvis, at det er umuligt at bebygge det pågældende sted 
+igen, da ubeboeligheden kan være midlertidig.  Udfordringen er, at 
+katastrofedrevet tilbagetrækning kan være givet af væsentlige skader 
+på bygninger og infrastrukturer som veje, vand- og elforsyning. En 
+genopbygning afhænger af, om der reelt er økonomisk, infrastrukturel 
+og menneskelig kapacitet til at genetablere bygninger, institutioner mv. 
+samt hvorvidt det er meningsgivende i forhold til områdets oversvøm-
+melsesrisiko på dét tidspunkt. 
+Økonomisk drevet tilbagetrækning- en incitamentsbaseret tilgang
+Markedsdrevet tilbagetrækning kan være incitamentbaseret på både 
+frivillig og ufrivillig vis. De ufrivillige økonomiske incitamenter kan 
+være stigende forsikringspræmier, fald i ejendomspriser eller decid-
+eret usælgelige huse. De frivillige incitamenter kan være båret af f.eks. 
+fugtskadede huse sammen med muligheden for at reetablere på en 
+anden, mere attraktiv, lokalitet.
+Planlægningsmæssigt kan økonomisk drevet tilbagetrækning anskues 
+som en passiv tilgang, hvor man ser hvad der sker, og hvilke økonom-
+iske muligheder der gives i sammenhæng med eventuelle oversvøm-
+melser, erosion mv. 
+T
+
+110
+TILBAGETRÆKNING - PLANLAGT
+Planlagt tilbagetrækning - en pro-aktiv tilgang
+Planlagt tilbagetrækning er en pro-aktiv strategi, hvor man er på 
+forkant med udviklingen i områder, der er udsatte i forhold til f.eks. 
+erosion, oversvømmelse og havstigning.
+Tilbagetrækning kræver, at der er arealer, der kan trækkes tilbage til. 
+Derfor er planlagt tilbagetrækning også et spørgsmål om at planlægge 
+(attraktive) områder, eller sikre arealreservationer, der på et senere 
+tidspunkt kan bruges, når en tilbagetrækningsstrategi udmøntes. Alt 
+efter om tilbagetrækning afgøres af tidslige forhold eller havniveauer, 
+peger arealreservationer hen imod, at sådanne områder kan bruges til 
+andre formål i mellemtiden.
+Ved planlagt tilbagetrækning er der flere muligheder end eksprop-
+riering eller opkøb af ejendomme i udvalgte, truede områder . Tilba-
+getrækning kan med en adaptiv tilgang udspille sig på mange måder 
+og med forskellige tidsperspektiver . En række eksempler på dette kan 
+være:
+• Det planlægges, at et kystnært boligområde udfases og transformeres til 
+anden anvendelse, f.eks. kystnatur, inden for en 10, 100 eller 200 års periode 
+(temporal)
+• Det planlægges, at der tilbagetrækkes ved bestemte niveauer for havstigning, 
+f.eks. 1 meter (spatial).
+• Eksisterende, bebygget område bebygges ikke yderligere med mindre at det 
+er flytbare/mobile bygninger, lette konstruktioner, Design for Disassembly 
+(DfD, Design for Adskillelse), oversvømmelsestolerante eller flydende struk-
+turer . 
+• Tilbagetrækning sker, når bygninger skal renoveres grundlæggende
+• Tilbagetrækning sker, når et område overgår til en ´særstatus´ ved funktionss-
+kifte (f.eks. omdannelse af tidligere industriområder). 
+• En planlagt tilbagetrækningsstrategi kan også være incitamentsbaseret; det 
+vil sige, at tilbagetrækningen foregår, når ejeren har motivation til at flytte. 
+Eksempelvis ved vedvarende oversvømmelseshændelser, konstant opfugt-
+ede fundamenter eller situationer, hvor forsikringsselskaber trækker sig fra 
+skadesomkostninger eller ejendomsværdier går ned.
+T
+
+111
+De tre typer tilbagetrækning kan have forskellige tidsperspektiver . Hvor planlagt tilbaget-
+rækning handler om planlægning, kan katastrofedrevet og økonomisk drevet tilbagetrækning 
+have store socioøkonomiske konsekvenser .
+Figur 37 
+En ejerbolig i Danmark skifter i gennemsnit ejer hvert 10-20 år . Der kan 
+således være mange ejerskifter og økonomiske incitamenter, hvis en 
+planlagt tilbagetrækning foregår over en periode på f.eks. 80-100 år .
+Både danske og udenlandske erfaringer er få, men tilsiger at der ofte 
+vil være behov for en form for offentlig støtte eller opkøbsstrategi for 
+at opnå en koordineret og planlagt tilbagetrækning eller kysttrans-
+formation.  Desuden er det afgørende at have fokus på den lokale 
+identitet og de stedsbundne fortællinger, når en bosætning eller by 
+omdannes eller flyttes. Det kræver en stærk borgerinddragelsesproces. 
+Hertil kommer dilemmaer omkring kulturarv; hvad kan eller skal behol-
+des og i hvilken form skal kulturarven udvikle sig.
+T
+
+112
+UNDGÅELSE – AVOID OG NO BUILD ZONER
+En forebyggende løsning
+Undgå eller ’avoid’ er en pendant til tilbagetrækning, hvor der gan-
+ske enkelt ikke bygges i områder med risiko for f.eks. permanent 
+oversvømmelse fra havstigning eller kraftig erosion. Som strategi 
+kan undgå (avoid) kombineres med arealanvendelse, der gør brug af 
+mobile eller midlertidige strukturer i oversvømmelsestruede områder 
+– eller funktioner og bygninger der kan tåle at stå med fødderne i 
+vand nogle gange. Eksempelvis ved fleksibelt byggeri der kan skilles 
+ad (Design for Disassemby, DfD) eller flyttes. ’Undgå’ som strategi kan 
+også betyde, at man ikke planlægger yderligere ny bebyggelse bag 
+diger eller anden beskyttelse. En planlægningsmæssig løsning som 
+’Undgå’ kræver lokalt forankrede tilgange, hvor landskabet tages i be-
+tragtning, når der planlægges ny byudvikling. Tidsperspektivet i dette 
+er langsigtet. Hvis der ikke bygges i risikoområder, udsættes fremtidige 
+generationer ikke for øget risiko, tab eller udgifter . 
+En adaptiv strategi
+Som en adaptiv strategi kan ’Undgå’ eller midlertidige byggerier og 
+funktioner optage de indbyggede usikkerheder i, hvor hurtigt og 
+hvor meget havet stiger . Eksempelvis ved at lade være med at bygge 
+permanente bygninger, at bygge over en bestemt kote eller undgå 
+(yderligere) bebyggelser i risikoområder . Midlertidige anvendelser i 
+risikoområder kan også være en mulighed. Eksempler på kontrakter 
+der sikrer midlertidig arealanvendelse er bl.a. kolonihaveområder 
+eller kommunale tilbagefaldsklausuler (f.eks. tilbagekøbsklausul eller 
+hjemfaldspligt efter 90-100 år), der begge har til formål at sikre, at 
+ejendomsværdierne ikke stiger til et niveau, hvor det kan være svært 
+at ændre arealanvendelse. Forskellen ved områder, der kan komme i 
+risiko ved havstigning eller øgede stormfloder, er, at frem for en låst 
+tidshorisont på f.eks. 100 år, så ville tidshorisonten skulle vurderes 
+løbende alt efter, hvor meget og hvor hurtigt havet stiger . Eksempelvis 
+som revurdering af arealanvendelse hvert 10. år . En overvejelse om-
+kring midlertidighed er dog, at der over tid kan komme modstand mod 
+at ændre på de midlertidige arealanvendelser . Om en sådan modstand 
+også ville gøre sig gældende for arealerog funktioner der er oversvøm-
+melsestruede eller ligger under vand står for nuværende uprøvet.
+U
+
+113
+Kystbyer er indplaceret mellem mange slags vand, der skal håndteres
+Figur 38 
+VAND - MANGE TYPER OG TIDSLIGHEDER
+Oversvømmelser af menneskets arealanvendelser
+Den naturgivne bevægelse, hvor vand breder sig over områder, der for 
+en del af tiden er tørre, benævnes ofte oversvømmelser . Oversvøm-
+melse er en term, der bruges, hvis der er menneskelige interesser i 
+et område, der fortrinsvist er eller har været tørt. Oversvømmelser 
+skyldes øgede mængder af vand, der kommer fra f.eks. store mængder 
+nedbør ved skybrud, vandløb, stigende grundvand eller stormflod. 
+Mange typer af vand og samtidighed
+I forbindelse med tilpasning til klimaændringer og havstigning er føl-
+gende typer af vand centrale: havvand, afstrømmet regnvand, vandløb 
+og grundvand. Byer ved åmundinger modtager bl.a. vand fra oplandet 
+(bagvand), og hvis byerne er lokaliseret ved kysten, er både havvandet 
+og grundvandet også i spil. Når havet stiger, så stiger det terrænnære 
+grundvand ved kysterne ligeledes. I vores nuværende klima sker 
+oversvømmelse fra nedbør primært i sommer- og efterårsmåned-
+erne. Oversvømmelse fra stormflod sker primært om vinteren og i det 
+tidlige forår . Nogle vandløb får så meget vand fra afløbssystemer (f.eks. 
+kloakker og dræning, afvanding af overflader i oplandet), at de også 
+giver oversvømmelser i sommer- og efterårsmånederne. Om vinteren 
+kan jorden blive så vandmættet af store mængder regn over tid, at 
+VV
+
+114
+vandet løber direkte videre på overfladen, fordi den umættede jor-
+dzone i toppen bliver fyldt med vand. Derfor kan der i nogle situation-
+er være samtidighed i store afstrømninger og højere havvandsstand, 
+og dermed flere kilder til oversvømmelse. Det kan det være nødven-
+digt at betragte flere kilder til oversvømmelser i en samlet analyse.
+Havvandsstand - tidsmæssig variation
+Havet er i evig bevægelse, og vandstanden varierer konstant over 
+tid. Fra få sekunder hvor et enkelt bølgeskvulp giver en midlertidig, 
+kortvarig ændring i havniveauet helt lokalt, til tidevandets ændringer 
+over et døgn, uger, måned og år betinget af månens faser . I større 
+skala ses årstidsbestemte storme og globale bevægelser som de store 
+havstrømme, der følger jordens rotation samt vandets bevægelser 
+igennem tusindvis af år under eksempelvis seneste istid. Tidsperspek-
+tivet betyder derfor meget i arbejdet med havstigning, og det er vigtigt 
+at forholde sig til både stormfloder med kortere varighed og havstig-
+ning med længere tidshorisonter som årtier og århundreder .
+VAND - MANGE TYPER OG TIDSLIGHEDER
+V
+
+115
+Vandkredsløbet fungerer på mange forskellige skalaer . Den hydrologiske cyklus på en global 
+skala involverer vandets kontinuerlige bevægelse mellem havene, atmosfæren og land, 
+herunder også processer som evaporation, transpiration, nedbør og overfladevand. Mere 
+lokalt kan et vandkredsløb være vandets bevægelse i et vandopland, et å-system eller 
+vådområder . Her bevæger vandet sig igennem landskabet som f.eks. regn, sne, tåge eller 
+å-vand, ned i grundvandssystemer, gennem planter, osv. Både de globale og mere lokale 
+vandkredsløb er kardinalpunkter i Jordens vandbalance og økosystemer .
+Figur 39 
+VANDKREDSLØBET
+Vandkredsløbet - forbundne systemer
+Vandkredsløbet (det hydrologiske kredsløb) er en betegnelse for 
+vandets bevægelse igennem atmosfæren til jorden og tilbage igen. 
+Vandkredsløbet er successionen af de tilstandsformer, som vand gen-
+nemgår fra atmosfæren til Jorden og retur til atmosfæren. Vanddamp 
+i atmosfæren kondenserer, bliver til vand eller is og når jord- eller 
+havoverfladen som nedbør . Herfra kan det fordampe direkte tilbage 
+til atmosfæren (evaporation) eller infiltrere ned i jorden og fordampe 
+gennem planternes spalteåbninger (transpiration). Alle komponenter 
+og processer i det hydrologiske kredsløb er forbundne og internt 
+afhængige. Figen viser principperne, omend stærkt forsimplet, idet 
+den ikke medtager de væsentlige ændringer, som mennesker foretager 
+i form af at bygge dæmninger, diger, flytte vandet mellem forskellige 
+steder osv. 
+V
+
+116
+VANDOPLANDE OG VANDSKEL
+Topografisk vandopland og grundvandsopland
+Der skelnes mellem topografiske vandoplande, hvor vandet flyder
+på overfladen, og grundvandsoplande, der baseres på grundvandets
+strømning under overfladen. Det topografiske vandopland afgøres af
+terrænets hældning, hvor vandet løber mod en fælles recipient, f.eks. 
+en å eller sø og videre mod havet. Afgrænsningen mellem vandop-
+lande kaldes vandskel og udgøres ofte af en bakkekam, en bjergkæde 
+eller større konstruktioner . Historisk har inddeling af territorier og lan-
+dområder ofte fulgt vandskel. Eksempelvis følger Italiens grænse mod
+Østrig for en stor del vandskellet i Alperne. I Danmark kan vandskel
+ofte aflæses i de tidligere sognegrænser .
+Vandoplande – eller afvandingsområder – er et skalerbart begreb. På
+den store skala kan man se Europas større afvandingsområder, hvor
+eksempelvis Holland ligger i afvandingsområde med Rhinen og derfor
+påvirkes af vand fra Tyskland på dets vej mod havet. På en regional
+skala modtager Randers oplandsvand fra Gudenåen som afvanding-
+sområde. På en mellemskala vil de østjyske fjordbyer modtage
+vand fra baglandets store ådal. På den mindre skala er bykvarterer
+også en del af mere lokale vandoplande.
+Mange kystbyer er placeret ved åmundinger og modtager dermed ofte
+en del vand fra bag- eller oplandet. Forståelsen af vandoplande
+er derfor særlig væsentlig for kystbyer . Når der er samtidighed
+mellem storme og f.eks. langvarig regn eller skybrud, betyder
+det, at en kystby modtager vand både fra baglandet og fra kystsiden.
+Når havet stiger, vil effekterne yderligere forstærkes. Dette betyder,
+at der er brug for at kunne forsinke eller parkere vand fra baglandet,
+indtil der er er plads til, at det kan ledes ud i havet, eller behov for at
+pumpe vandet udover en eventuel lukket stormflodssikring.
+V
+
+117
+Figur 40 
+Et topografisk vandopland er et areal, hvori vandet løber mod en fælles recipient, f.eks. en 
+sø, en flod eller havet. Vandoplandet defineres af de højeste punkter i terrænet, som adskill-
+er det fra næste vandopland. Grundvandsoplande ligger under jordoverfladen og følger ikke 
+nødvendigvis det topografiske vandopland på overfladen.
+V
+
+118
+Økosystemer dannes af et samspil mellem levende organismer (biotiske faktorer) og
+abiotiske faktorer (abiotiske er livløse som f.eks. sollys, temperatur, vand) samt kemiske 
+faktorer som næringsstoffer etc. i specifikke fysiske miljøer .
+Figur 41 
+ØKOLOGI OG ØKOSYSTEM
+Forholdet mellem levende organismer og det fysiske miljø
+Økologi handler om forholdet mellem levende organismer og det 
+omgivende fysiske miljø. Altså organismers levesteder, levebetingelser 
+og den gensidige påvirkning af organismerne og deres omgivelser . 
+De økologiske systemer, økosystemerne, handler om samspillet 
+mellem de biotiske faktorer, der omfatter de levende organismer som 
+planter, dyr, svampe og bakterier, og de abiotiske faktorer, som er de 
+livløse dele af miljøet, herunder f.eks. iltindhold, vandindhold, pH-vær-
+di, saltkoncentration og fordeling af jordpartikler i en given vækstjord, 
+samt soleksponering, temperatur og vindforhold. En vigtig del er 
+energi- og stofomsætningen, og hvordan organisk materiale indgår i 
+fødekæden, nedbrydes og frigives i økosystemet. Økosystemer udvikler 
+sig over lang tid og afspejler stadigt mere fintmaskede og dynamiske 
+samspil mellem de mange biotiske og abiotiske faktorer . Et økosystem 
+opbygger over tid en tolerance over for fluktuationer og ubalancer 
+mellem delkomponenter, og det kan derigennem forbedre sin evne til 
+at modstå kollaps. For eksempel har visse økosystemer en evne til at 
+tolerere massiv og langvarig tørke uden at kollapse.
+Ø
+
+119
+ØKOSYSTEMTJENESTER
+Naturen til tjeneste
+Økosystemtjenester er en betegnelse for at betragte økosystemer som 
+havende en økonomisk værdi for men-neskets velbefindende.  Det er 
+altså en antropocentrisk, nyttebetonet og instrumentel tilgang til na-
+turen, hvor man ser økosystemer som noget der kan ’levere’ tjenester 
+til mennesker . Økosystemtjenester kan inddeles i fire typer ´tjenester´:
+• Forsyningstjenester (Provisioning services): F.eks. vand, fødevarer, råvarer 
+som træ og gødning, vandener-gi og biomasse
+• Reguleringstjenester (Regulating services): F.eks. vand-og luftrensning, kom-
+postering, biologisk ukrudts-kontrol, bestøvning og oversvømmelsesbeskyt-
+telse
+• Understøttende tjenester (Supporting services): F.eks. næringsstofcyklusser 
+og jorddannelse. Denne tjene-ste faciliterer også, at økosystemer kan fungere
+• Kulturelle tjenester (Cultural services): F.eks. historisk og spirituel brug af 
+naturen, rekreation, læring og terapeutiske, kulturelle og landskabsæstetiske 
+relationer . Denne kategori skiller sig ud fra de øvrige, idet den repræsenterer 
+menneskelige perspektiver, der ikke i sig selv har noget at gøre med økosyste-
+mer i klassisk, naturvidenskabelig forstand.
+I arbejdet med økosystemtjenester beskrives også en række nega-
+tive effekter og gener (dis-services), særligt i tætbefolkede områder, 
+herunder risikoen for allergier, væltede træer, arealkonkurrence og 
+blokeret udsyn som følge af f.eks. grønnere byer . Økosystemtjenester 
+kan bruges til at måle og sætte numerisk værdi på øko-logiske system-
+er og processer som traditionelt er svære at værdisætte i økonomisk 
+forstand og dermed svære at prioritere i en politisk kontekst.
+Ved at tilskrive økosystemtjenester et målbart udkomme kan de indgå i 
+matematiske modeller og økonomiske overvejelser, der kan bruges ved 
+beslutning om f.eks. byudviklingsprojekter . 
+En kritik af økosystemtjeneste-tilgangen er, at systemet tager udgang-
+spunkt i menneskets behov, hvor naturen og dens processer beregnes 
+som en tjeneste til menneskets virke, hvor naturen ikke tilskrives værdi 
+i sig selv. Dette relaterer sig til natursyn og værdibetragtninger; om 
+naturen er til for menneskets skyld og skal repræsentere en funktion 
+og økonomisk værdi, eller om naturen har værdi i sig selv.
+Ø
+
+120
+ÅER, GRUNDVAND OG HAVSTIGNING
+Åvand, grundvand og havvand som forbundet system ved kysten
+Åer, floder, søer og havene har altid været i bevægelse og ´fyldt´ for-
+skelligt. Med klimaændringer vil mere vand være i flydende form (frem 
+for is) og et varmere klima betyder at vandet samtidig vil fylder mere. 
+Derfor bliver det yderligere aktuelt, at der er plads til, at vandet kan 
+brede sig ved f.eks. langvarig eller intens regn, der fylder åløbene.
+Når havvandstanden stiger, f.eks. under en stormflod eller ved per-
+manent stigende havvandstand, vil vandløbet øjeblikkeligt indstille sig 
+på de ændrede forhold og være med til at fordele vandet over større 
+områder i landområdet. Det samme vil ske, hvis der er større infra-
+struktur i området som f.eks. tunneler eller afløbssystemer . I løbet af 
+en stormflod vil der ikke ske væsentlige ændringer i grundvandet, men 
+hvis ændringerne forbliver over længere tid, vil der opstå en ny
+ligevægt. Når havniveauet stiger, vil det terrænnære grundvand nær 
+kysten stige sammen med havet.
+Å
+Når havet stiger vil det terrænnære grundvand ved kysten følge med opefter . Samtidig øges 
+presset for saltindtrængning på ferskvandssiden.
+Figur 42

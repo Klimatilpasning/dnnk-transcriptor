@@ -1,0 +1,2803 @@
+=== DNNK PDF Dokument ===
+Titel: Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning
+Kategori: Rapporter_s2
+Kilde: https://backend.orbit.dtu.dk/ws/portalfiles/portal/299205990/Metoderapport_skader_DTU_AU_Ramboll.pdf
+Indekseret: 2026-07-03T07:59:35.176666
+
+==================================================
+
+General rights 
+Copyright and moral rights for the publications made accessible in the public portal are retained by the authors and/or other copyright 
+owners and it is a condition of accessing publications that users recognise and abide by the legal requirements associated with these rights. 
+ 
+ Users may download and print one copy of any publication from the public portal for the purpose of private study or research. 
+ You may not further distribute the material or use it for any profit-making activity or commercial gain 
+ You may freely distribute the URL identifying the publication in the public portal 
+ 
+If you believe that this document breaches copyright please contact us providing details, and we will remove access to the work immediately 
+and investigate your claim. 
+  
+ 
+   
+ 
+ 
+Downloaded from orbit.dtu.dk on: Jul 03, 2026
+Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm.
+klimatilpasning
+Arnbjerg-Nielsen, Karsten; Panduro, Toke; Andersen, Trine Toft; Asmussen, Maria Facchin; Nielsen,
+Ditte Søegaard
+Publication date:
+2022
+Document Version
+Publisher's PDF, also known as Version of record
+Link back to DTU Orbit
+Citation (APA):
+Arnbjerg-Nielsen, K., Panduro, T., Andersen, T. T., Asmussen, M. F., & Nielsen, D. S. (2022). Metodetilgange
+for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning. DTU Institut for Miljø og
+Ressourceteknologi.
+
+ 
+M f a  g n i n g e r e b  r o f  e g n a g l i t e d o t e 
+ø - i r  l i t  r e g n i n g y b  å p  e d a k s  k s i m o n o k
+s   g n i n s a p l i t a m i l k  . m f i  r e s y l a n a o k i
+ K - n A  T T  , o r u d n a P  T  , n e s l e i N - g r e j b n r A  
+d   n e s s u m s A  F M  g o  n e s l e i N  S D  , n e s r e
+ 
+D  t e t i s r e v i n U  s u h r a A  g o  l l ø b m a R  , U T
+ 
+ 
+
+ 
+ 
+ 
+Metodetilgange for beregning af 
+økonomisk skade på bygninger til 
+risikoanalyser ifm. klimatilpasning 
+  
+Karsten Arnbjerg-Nielsen1, Toke Panduro2, Trine Toft Andersen3, Maria Facchin Asmussen3 og 
+Ditte Søegaard Nielsen3 
+1 DTU Sustain 
+2 Aarhus Universitet 
+3 Rambøll Danmark A/S 
+ 
+ 
+December 2022 
+ 
+ 
+ 
+
+ 
+ 
+ 
+Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. 
+klimatilpasning 
+  
+ 
+Rapport  
+2022 
+ 
+Af 
+Karsten Arnbjerg-Nielsen1, Toke Panduro2, Trine Toft Andersen3, Maria Facchin Asmussen3 og 
+Ditte Søegaard Nielsen3  
+1 DTU Sustain 
+2 Aarhus Universitet 
+3 Rambøll Danmark A/S 
+ 
+Copyright: Hel eller delvis gengivelse af denne publikation er tilladt med kildeangivelse 
+ 
+Forside: Illustration af Frits Ahlefeldt 
+Udgivet af: DTU, Institut for Miljø- og Ressour ceteknologi, Bygningstorvet, Bygning 115, 
+2800 Kongens Lyngby  
+ www.sustain.dtu.dk 
+ 
+ 
+  
+  
+  
+  
+ 
+ 
+
+ 
+ 
+Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 
+Forord 
+Der er over de seneste år udgivet en lang række metoder og værktøjer til brug for opgørelser af 
+omkostninger i forbindelse med oversvømmelser. Denne rapport har som formål at give et 
+overblik over de vigtigste af de metoder og værktøjer, der p.t. anvendes i Danmark, og sætte 
+dem i en teoretisk kontekst. Endvidere vil der blive givet anbefalinger til, hvilke typer af metoder, 
+der bør anvendes fremover og hvilke krav, det fremadrettet vil stille til indsamling og 
+bearbejdning af danske data. 
+ 
+Rapporten er udarbejdet i perioden oktober – december 2022. Der har været nedsat en 
+følgegruppe med deltagelse af opdragsgiver med følgende sammensætning: 
+ 
+Miljøministeriet: Mathilde Zilén Pedersen og Malene Linderoth 
+Miljøstyrelsen: Malde Volmer Beinthin og Anders Bo Jensen 
+Kystdirektoratet: Kaija Jumppanen Andersen og Urs Brandt 
+ 
+Der har i følgegruppen været afholdt to møder. Gruppen har bidraget ved indsamling af relevant 
+litteratur, for så vidt angår de metoder, som de selv har været med til at udarbejde. Tilsvarende 
+har udkast til kapitel 4 og 6 været forelagt gruppen bag værktøjet SkadesØkonomi for at sikre at 
+beskrivelsen ikke indeholder faktuelle fejl. 
+ 
+Rapporten er udarbejdet af projektgruppen og er ikke nødvendigvis udtryk for opdragsgivers 
+synspunkter. 
+ 
+Lyngby, december 2022 
+ 
+Forfatterne 
+  
+
+ 
+ 
+ Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 
+ 
+
+ 
+ 
+Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 
+Indhold 
+Sammenfatning ................................................................................................................ 7 
+1.  Indledning ............................................................................................................... 9  
+2.  Teoretisk tilgang til opgørelse af skader ............................................................... 10  
+2.1  Tidsmæssig afgrænsning ........................................................................................................ 10 
+2.2  Områdemæssig afgrænsning ................................................................................................. 12 
+2.3  Beskrivelse af farer ved oversvømmelse ................................................................................ 14 
+2.4  Beskrivelse af sårbarheder i form af skadestyper .................................................................. 16 
+3.  Matematisk beskrivelse af teoretisk tilgang ........................................................... 18 
+3.1  Fysiske karakteristika ved beskrivelsen af farer ..................................................................... 18 
+3.2  Sårbarhed af bygninger .......................................................................................................... 19 
+3.3  Sårbarhed af virksomheder..................................................................................................... 21 
+3.4  Sårbarhed af infrastruktur ....................................................................................................... 22 
+3.5  Varsling, individuel forebyggelse og beredskab ..................................................................... 23 
+3.6  Operationelle skadesmodeller fra udlandet ............................................................................ 23 
+4.  Gennemgang af udvalgte metoder til opgørelser af skader .................................. 27 
+4.1  Serviceniveaubekendtgørelsen, Oversvømmelsesloven og SkadesØkonomi ...................... 27 
+4.2  Serviceniveaubekendtgørelsen .............................................................................................. 29 
+4.3  Oversvømmelsesloven ........................................................................................................... 34 
+4.4  SkadesØkonomi ...................................................................................................................... 36 
+4.5  Evaluering af skadesberegningerne i forhold til teoretisk model ............................................ 39 
+5.  Anvendelse af udvalgte danske skadesmodeller på bygninger ............................. 44 
+5.1  Data og antagelser .................................................................................................................. 44 
+5.2  Skadesomkostninger for et gennemsnitligt parcelhus med kælder ....................................... 45 
+5.3  Skadesomkostninger for andre boligtyper .............................................................................. 48 
+5.4  Potentielle kontraster inden for samme kommuner ................................................................ 49 
+5.5  Fordele og ulemper ved at anvende metoderne til at beregne bygningsskader .................... 49 
+5.6  Perspektivering til større områder ........................................................................................... 51 
+6.  Metodevalg i forhold til ulighedsskabende mekanismer ........................................ 53 
+6.1  Ulighed: Fundamental usikkerhed og systemisk risiko skaber ulighed .................................. 53 
+6.2  Ulighed: Ulighed skaber mere ulighed .................................................................................... 54 
+6.3  Ulighed: Manglende målbarhed skaber ulighed ..................................................................... 55 
+6.4  Opsummering .......................................................................................................................... 56 
+7.  Fremadrettede anbefalinger.................................................................................. 57  
+8.  Konklusion ............................................................................................................ 59  
+Referencer .................................................................................................................... .. 61 
+
+ 
+ 
+ Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 
+ 
+
+ 
+ 
+Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 7 
+Sammenfatning 
+Danmark har over de seneste årtier oplevet en kraftig stigning i antallet og kraftigheden af 
+oversvømmelser. Denne tendens vil med stor sikkerhed blive forstærket yderligere fremover 
+som følge af klimaændringer. Oversvømmelserne har medført store omkostninger, og der 
+planlægges p.t. en lang række tiltag; især i byområder og langs kysterne. Tiltagene benævnes 
+under et som klimatilpasning, hvilket indebærer, at formålet primært er at mindske risikoen for 
+oversvømmelse til et acceptabelt niveau nu og i fremtiden. 
+ 
+Økonomiske analyser kan hjælpe med at klarlægge hvilke typer af tiltag, der bør overvejes. For 
+at kunne lave sådanne analyser er det vigtigt at kunne beregne en gennemsnitlig årlig skade før 
+og efter et tiltag. Denne gevinst i form af en risikoreduktion, skal så sammenlignes med de 
+omkostninger, som tiltaget medfører. Den gennemsnitlige årlige skade er baseret på 
+beregninger af den teoretiske skade udtrykt i form af en skadesfunktion, der beskriver, hvordan 
+oversvømmelser medfører omkostninger ved at skade sårbare elementer, såsom bygninger. 
+ 
+Rapporten gennemgår teoretiske overvejelser i forbindelse med at værdisætte de 
+omkostninger, som samfundet oplever i forbindelse med oversvømmelser. Der er vigtige 
+metodiske overvejelser omkring afgrænsninger i tid og sted, fordi store oversvømmelser 
+påvirker store landområder i mange årtier. Formålet med at opstille en model for skaderne skal 
+derfor være meget klart kommunikeret. Der er stor forskel på, om man vil beregne et beløb, der 
+modsvarer en genanskaffelse af genstande i forbindelse med en afgrænset, konkret 
+oversvømmelse, vil opgøre konsekvenserne af en stor oversvømmelse i et større område med 
+længere tidsmæssig påvirkning af området selv og naboområderne, eller endelig vil vurdere 
+hvilke omkostninger et samfund vil skulle medtage i en længere serie af oversvømmelser, der 
+rammer forskellige områder. Den første model er meget velegnet til at beskrive f.eks. 
+forsikringsselskabers overvejelser, men er mindre egnet til at lave nationale 
+samfundsøkonomiske analyser. Formålet med modellen vil også have betydning for, hvordan 
+den konkrete, matematiske formulering af skadesfunktionerne bør udformes.  
+ 
+De relativt hyppige oversvømmelser de seneste år har medført, at der er udviklet metoder til 
+prissætning baseret på danske data. Tre metoder diskuteres, benævnt 
+Serviceniveaubekendtgørelsen, Oversvømmelsesloven, og SkadesØkonomi. De tre metoder 
+anvender delvist forskellige data til at opstille skadesfunktioner, og typen af skadesfunktioner er 
+også forskellige. Overordnet er de tre metoder dog baseret på den samme teoretiske 
+afgrænsning, idet de alle fokuserer på genanskaffelsesomkostninger. Endvidere er alle tre 
+metoder fokuserede på at opstille simple skadesfunktioner i form af middelværdier uden at 
+afrapportere usikkerheder eller alternative modelformuleringer af skadesfunktionerne.  
+ 
+De tre metoder beregner meget forskellige omkostninger for samme bygning, selv om 
+skadesfunktionerne kun er baseret på én variabel til beskrivelse af faren (vanddybden) og få 
+variable til at beskrive bygninger (bygningsstørrelse og bygningsværdi). Det kan ikke anbefales 
+at vælge én af metoderne til at beregne nationale skøn på omkostninger for oversvømmelser. 
+Såfremt der ønskes opstillet en fælles skadesfunktion for bygninger, bør den som minimum 
+opstilles baseret på det samlede datasæt. Den samlede skade bør også korrigeres i forhold til, 
+at alle de anvendte metoder har en tendens til at undervurdere den økonomiske skade. 
+
+ 
+ 
+8 Metodetilgange for beregning af økonomisk skade på  bygninger til risikoanalyser ifm. klimatilpasning 
+ 
+Det er påvist, at de forskellige metoder har forskellige effekter på ulighed, baseret på hvilken 
+modelstruktur de har til at beskrive sårbarheden af bygninger. Det er derfor vigtigt, at 
+modelstrukturen overvejes i forhold til både at beskrive data godt, samt hvordan modellen 
+fungerer i forhold til anvendelsen i cost-benefit analyser. I forhold til en samlet model virker 
+Serviceniveaubekendtgørelsen til at mangle en afhængighed af vanddybden. 
+Oversvømmelsesloven og SkadesØkonomi beskriver skadesfunktioner for bygninger ved hhv. 
+bygningens værdi og bygningens størrelse. SkadesØkonomi er den af de to metoder, der 
+mindst øger den regionale ulighed i forbindelse med evaluering af klimatilpasningstiltag, mens 
+Oversvømmelsesloven i højere grad end SkadesØkonomi forsøger at tage hensyn til 
+bygningens egenskaber. Ingen af metoderne er ideelle til generel anvendelse. 
+ 
+Fremadrettet bør det undersøges, hvilke data, der er tilgængelige og hvilke metoder, der bedst 
+kan anvendes til at analysere data. For at sikre åbenhed omkring beslutningerne bør såvel data 
+som modeller stilles til rådighed for offentligheden. 
+ 
+
+ 
+ 
+Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 9 
+1. Indledning 
+Klimaændringer medfører en stigning i antallet og kraftigheden af oversvømmelser både i 
+Danmark og internationalt. Beslutningen om hvilke områder, der skal beskyttes mod 
+oversvømmelser, og hvilke, der gerne må blive oversvømmet, kan understøttes af økonomiske 
+analyser. Beregninger af skaders hyppigheder og omfang kan vægtes i forhold til de 
+omkostninger, der vil være ved at mindske skaderne. Det sker i form af cost-benefit analyser, 
+hvor man sammenligner forskellige tiltags effektivitet i forhold til at sænke den årlige, 
+gennemsnitlige skade. Det er derfor helt afgørende, at der er en god viden om, hvordan skader 
+opstår, og hvordan de kan forhindres.  
+ 
+Internationale undersøgelser peger på, at oversvømmelser vil være den væsentligste effekt af 
+klimaændringer i Danmark (IPCC, 2022). I et anerkendt studie påpeger Vousdoukas (2020), at 
+Danmark er blandt de lande i Europa, der påvirkes mest af især stigende havvandstand og 
+beregner, at den økonomiske omkostning vil stige fra det nuværende niveau på 0 til mellem 65 
+og 630 milliarder kr. årligt i år 2100, afhængigt af størrelsen af klimaændringerne. I samme 
+undersøgelse konkluderes det, at det vil være samfundsøkonomisk rentabelt at bygge diger på 
+mellem 22 og 48% af Danmarks kystlinje, og at den samlede effektivitet per investeret krone af 
+disse diger vil være mellem 3 og 7 kr. Baseret på dette studie vil den årlige, gennemsnitlige 
+omkostning til klimatilpasning og udbedring af skader dermed udgøre et tocifret milliardbeløb 
+om året i år 2100, såfremt man udelukkende anvender diger til klimatilpasning. Hertil kommer 
+udgifter til andre former for oversvømmelser. Det er indlysende, at disse tal gør det relevant at 
+undersøge, hvilke antagelser, der ligger bag udregningen af skadernes omfang og dermed 
+behovet for klimatilpasning.  
+ 
+Ændringerne sker gradvist, så der er stadig tid til at overveje, hvilke tiltag der skal 
+implementeres og hvornår. Det er dog nødvendigt allerede nu at begynde at overveje, hvilke 
+muligheder der er for at lave klimatilpasning. Det skyldes, at mange investeringer foretages 
+under antagelse af, at den kan forrentes over lang tid. Det er en antagelse, som ikke er rimelig 
+for områder, der er, eller i fremtiden vil blive, udsat for hyppige oversvømmelser. 
+ 
+Der har desværre været en del oversvømmelser de seneste årtier. Følgerne har været 
+voldsomme for de påvirkede, men har dog den fordel, at der er et bedre datagrundlag end 
+tidligere for at kunne skønne de faktiske omkostninger i forbindelse med oversvømmelser. 
+Denne rapport vil dels give en teoretisk indføring i, hvordan skader kan beregnes og dels 
+gennemgå tre metoder, der pt. anvendes i Danmark. På den baggrund diskuteres, hvilke 
+muligheder der er for fremadrettet at forbedre data og modeller for skader i Danmark. 
+Rapporten fokuserer på skader på bygninger, men vil i en række tilfælde diskutere skader mere 
+generelt, således at skader på bygninger sættes i kontekst af de samlede skader.  
+ 
+ 
+  
+
+ 
+ 
+10 Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 
+ 
+2. Teoretisk tilgang til opgørelse af skader 
+I dette kapitel diskuteres den teoretiske ramme for analyser af skader på oversvømmelser 
+baseret på en eller flere oversvømmelseskilder (nedbør, hav, grundvand og vandløb). Den 
+teoretiske ramme vil beskrive punkt for punkt, hvilke afgrænsninger, der typisk foretages, og 
+hvad det indebærer af antagelser for analysen. 
+ 
+Teorien gennemgås uden at tage hensyn til de begrænsninger, som naturligt opstår som følge 
+af at have en begrænset mængde ressourcer til at gennemføre en konkret analyse. Generelt er 
+der ingen metoder og værktøjer, der inddrager alle de omtalte processer. Dette er både på 
+grund af begrænsninger i tilgængelige data, og fordi en sådan avanceret metode ikke 
+nødvendigvis er egnet til at tage konkrete beslutninger såsom at afveje konkrete 
+klimatilpasningstiltag i forhold til hinanden. 
+ 
+Til sidst i hvert afsnit er der med kursiv markeret, hvilken antagelser der typisk er gældende i 
+forbindelse med cost-benefit analyser af klimatilpasningsprojekter i Danmark. Formålet med 
+disse afsnit er også at opsummere afsnittet. 
+ 
+2.1 Tidsmæssig afgrænsning 
+For den enkelte husejer kan en oversvømmelse have et kort og veldefineret forløb, typisk i form 
+af oprydning, udtørring, reparation og erstatningskøb for ødelagte genstande. For samfundet 
+kan konsekvenserne imidlertid være noget mere voldsomme. Oversvømmelserne i Holland i 
+1953, i New Orleans i 2006 og i Fukushima i 2011 har alle stadig store og konkrete påvirkninger 
+af de samfund, som de skete i. Det samme skete for Danmark i 1872, hvor en voldsomt stor 
+oversvømmelse fra Østersøen i generationer satte dagsordenen for den lokale beskyttelse samt 
+begrænsninger af arealanvendelsen i det sydlige Danmark. Hvis en tilsvarende hændelse – 
+med eller uden yderligere voldsomhed på grund af klimaændringer – skete i dag, ville det også 
+tage lang tid for samfundet at komme sig. 
+ 
+Arnbjerg-Nielsen (2020) vurderer på baggrund af bl.a. Hallegatte (2011), at det vil tage ca. 7 år 
+før bygge- og anlægsaktiviteterne i København er tilbage på et normalt niveau efter en 
+hændelse svarende til den i 1872. Der vil naturligt i den forbindelse være en række dynamiske 
+effekter. Nogle af disse effekter vil udjævnes over tid, f.eks. ændringer i arbejdsudbuddet og 
+mobiliteten, mens andre vil have permanente effekter. Blandt de permanente effekter kan 
+nævnes, at bygninger vil blive istandsat til et bedre niveau, end de var, før oversvømmelsen 
+skete, og Københavns status i forhold til andre byer i regionen vil formentlig også være 
+permanent påvirket. Dermed er det vanskeligt at fastlægge, hvad den præcise påvirkning fra 
+oversvømmelsen er, både fordi der tidsmæssigt går lang tid, og fordi samfundet ikke retableres 
+til samme tilstand som inden hændelsen, og der dermed ikke er tale om 
+retableringsomkostninger. 
+ 
+Såfremt det tidsmæssige aspekt inddrages, vil det være naturligt at lave det, som økonomer 
+kalder en fuld analyse. En sådan analyse vil dog indeholde mange kritiske antagelser, som det 
+kan være svært at verificere. En særlig vigtig egenskab ved en sådan model i forhold til 
+
+ 
+ 
+Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 11 
+oversvømmelser vil være, hvad samfundet har lært af oversvømmelsen, og hvor lang tid 
+samfundet vil huske denne læring. En sådan model vil være meget kompleks, og det vil bl.a. 
+være svært at identificere præcis, hvilken betydning oversvømmelsen har, fordi ændringer i 
+f.eks. arbejdsudbuddet også vil påvirkes af mange andre faktorer. På Figur 2-1 er angivet de to 
+principper, som man vil skulle bruge til at vurdere oversvømmelsen. Man vil dels skulle se på 
+mindst en hel cyklus af oversvømmelser, dvs. fra en oversvømmelse sker til den næste 
+oversvømmelse, og dels skulle se på hvilke forbedringer/ændringer, der er sket i samfundet 
+nogle år efter oversvømmelsen.  
+ 
+ 
+ 
+ 
+Figur 2-1. Oversvømmelser vurderet i et langvarigt tidsperspektiv. Til venstre er angivet hele cyklussen fra 
+oversvømmelsen konkret sker til næste oversvømmelse sker, typisk opgjort i fem faser, hvoraf de ene sker kort inden 
+hændelsen, de to næste sker under og kort efter hændelsen, mens de to sidste kan have en lang tidsmæssig 
+udstrækning. Til højre er skitseret, hvordan samfundet som helhed først påvirkes negativt under og kort efter 
+hændelsen, mens der på sigt generelt vil ske en produktivitetsforbedring, i hvert fald på nogle områder. 
+Venstre: Disaster Risk Reduction (DRR), and Disaster Management Cycle. From: World Risk Report 2016, United 
+Nations University (Universitat Stuttgart). Højre: https://www.oecd.org/naec/resilience/ 
+ 
+Som angivet i Arnbjerg-Nielsen (2020) bør man som udgangspunkt vurdere, hvorvidt en sådan 
+hændelse er acceptabel for samfundet. Hvis den ikke er, giver det naturligt ikke mening af lave 
+en cost-benefit analyse, idet de netop udføres til sammenligning mellem acceptable scenarier. 
+Der vil naturligvis være forskellige definitioner af, hvad en uacceptabel hændelse er. I det 
+nævnte notat tages udgangspunkt i, at en oversvømmelse af København med effekter, der 
+varer op til syv år, vil være uacceptabel for Københavns Kommune. Dermed er anbefalingen, at 
+Københavns Kommune ikke bør anvende en cost-benefit analyse som beslutningsværktøj i 
+forbindelse med klimatilpasning mod stigende havvand. Det kan på samme måde overvejes, 
+hvor stort et område skal være, før cost-benefit analyser giver mening. 
+ 
+Oversvømmelserne i Holland i 1953 blev fulgt op af beslutninger på nationalt niveau, der også 
+indikerede, at en gentagelse ville være uacceptabel. Man har lige siden 1953 bygget fysiske 
+systemer i form af f.eks. diger, der fundamentalt har ændret på bl.a. arealanvendelsen og 
+natursynet i landet. Over så lange tidsperioder vil der ske mange andre ændringer i samfundet, 
+herunder i arbejdsudbud, uddannelsesniveau, økonomisk råderum, mv. Derfor vil det være 
+vanskeligt at opstille rammerne for en traditionel cost-benefit analyse. I stedet vil det være 
+relevant at anvende mere generelle ligevægtsmodeller. Det mest kendte eksempel på en sådan 
+model er ADAM (Danmarks Statistik, 2022); et makroøkonomisk værktøj, der anvendes til f.eks. 
+at vurdere konsekvenser af politisk-økonomiske indgreb samt økonomiske fremskrivninger. 
+
+
+ 
+ 
+12 Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 
+ 
+Med undtagelse af de meget sjældent forekommende stormfloder fra Østersøen vurderes det, 
+at skaderne fra oversvømmelser i Danmark i nutidens klima kan beskrives retvisende i form af 
+en vurdering af retableringsomkostninger. På sigt vil oversvømmelsernes hyppighed og 
+voldsomhed gradvist medføre, at det ikke længere giver mening at fastholde denne 
+rammesætning. Derfor vil det være relevant at inddrage metoder, der beskriver, hvordan man 
+forhindrer, at en uacceptabel konsekvens opstår. Der kan f.eks. tages udgangspunkt i teorier for 
+at undgå tipping points (Mecure et al., 2021) eller at undersøge forskellige tiltag ud fra metoden 
+Dynamic Adaptation Policy Pathways (f.eks. Andersen et al, 2020). 
+ 
+Typisk antagelse: Der fokuseres på et tidsmæssigt meget kort forløb fra hændelsen varsles til 
+de direkte effekter er udbedret, og ofte medtages kun meget simple, indirekte effekter såsom 
+genhusning. For langt de fleste oversvømmelser er det en rimelig antagelse, men ikke for alle. 
+Københavns skybrudsplan markerede et paradigmeskift i kommunens tilgang til klimatilpasning, 
+og når der opstår en stormflod som den i 1872, vil det også få større indflydelse på samfundet, 
+som ikke kan opgøres med en traditionel opgørelse af skader omkring selve oversvømmelsen. 
+Internationalt er der mange eksempler på, at læring efter meget store oversvømmelser ændrer 
+samfundsudviklingen over flere årtier. 
+ 
+2.2 Områdemæssig afgrænsning  
+I forbindelse med vurderinger af oversvømmelser er man nødt til at lave en opdeling i områder. 
+Denne inddeling kan gøres på baggrund af administrative grænser, f.eks. kommune- og 
+landegrænser, hvorved det er relativt simpelt at anvise, hvilke strategier og projekter, der er 
+gode at implementere for et konkret administrativt lag. 
+ 
+Oversvømmelserne vil dog også have en fysisk afgrænsning i form af, hvilken vej vandet 
+strømmer. For indenlandske områder giver det god mening at opdele i vandskel, mens 
+oversvømmelser i kystområder også vil være bestemt af dominerende vindområder, og hvor 
+vandstrømningen i fjorde, bælter og hav er begrænset, og der dermed er mulighed for særlige 
+opstuvninger/stormfloder. Den fysiske afgrænsning vil være påvirket af menneskers aktivitet, da 
+vandinfrastruktur kan flytte væsentlige vandmængder mellem naturlige vandskel, hvilket 
+påvirker oversvømmelserne. 
+ 
+De to processer, som er beskrevet ovenfor, er velkendte, og de indtænkes ofte i, hvordan man 
+analyserer skader i forbindelse med oversvømmelser. Der er imidlertid en tredje væsentlig 
+proces, som opnår mindre opmærksomhed. Det er forskellen mellem de skader, der sker i et 
+konkret område og det samfundsøkonomiske tab, det medfører. 
+ 
+På Figur 2-2 er angivet et eksempel på en meget simpel vurdering af et oversvømmet område, 
+og det er angivet, hvilke bygninger og veje, der er påvirket. Brugeren risikerer implicit at antage, 
+at den totale skade for det viste område er summen af de enkelte skader. Det kan man dog ikke 
+nødvendigvis antage. Nogle af bygningerne anvendes af butikker og produktionsvirksomheder. 
+For disse berørte firmaer vil der i almindelighed være et ganske væsentligt produktionstab samt 
+potentielt også tab fra ødelagt lagerbeholdning. Dette tab er dog ikke nødvendigvis et direkte 
+samfundsøkonomisk tab. Det enkelte firmas tab vil i nogle tilfælde give mulighed for, at andre 
+virksomheder øger omsætningen, fordi kunderne lægger deres omsætning et andet sted. 
+
+ 
+ 
+Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 13 
+Derudover vil det måske give besparelser at producere varerne med et formentligt forbedret 
+produktionsudstyr, når skaderne er udbedret. I begge tilfælde vil det samfundsøkonomiske tab 
+være mindre end det direkte tab, som den enkelte virksomhed oplever i forbindelse med 
+oversvømmelsen.  
+ 
+ 
+Figur 2-2. Områder markeret med blåt er oversvømmet, såfremt vandstanden overskrider 1,7 m over daglig vandstand. 
+Områder markeret med mørkeblåt har dybere vandstand, end områderne markeret med lyseblåt. De blå streger og lilla 
+firkanter angiver hhv. veje og bygninger, hvor det omgivende terræn er oversvømmet. Skærmdump fra KAMP fra dele af 
+Frederikssund. 
+ 
+Den fjerde type af proces omhandler følgeskader, som opstår uden for det analyserede område. 
+Det mest kendte eksempel er oversvømmelsen i Bangkok i 2011, der medførte en global 
+mangel på harddiske. Det medførte naturligvis et økonomisk tab for de pågældende 
+producenter, at de ikke kunne sælge deres produkter som normalt. Men det 
+samfundsøkonomiske tab kunne opgøres i form af manglende produktivitet over det meste af 
+verden, fordi forøgelsen af harddiske var mindre og dyrere end forventet. 
+ 
+Ved en opgørelse af skader på kommuneniveau må man forvente tilsvarende effekter. Det 
+samfundsøkonomiske tab af en meget stor oversvømmelse i f.eks. Vallensbæk Kommune vil 
+ikke blot være relateret til tab internt i kommunen, men også af at infrastruktur som motorveje 
+og jernbaner vil påvirkes. Dermed mindskes mobiliteten generelt i mange omkringliggende 
+kommuner. Dette vil potentielt påvirke ikke blot opgørelser af de konkrete tab, men også 
+retableringsomkostningerne mere generelt i form af tidsmæssige forsinkelser og mobilitetstab i 
+samfundet. 
+ 
+Typisk antagelse: Der fokuseres på de direkte skader, som opleves af de aktører, der bliver 
+oversvømmet. Generaliseringen til samfundsøkonomiske tab sker sjældent. 
+
+
+ 
+ 
+14 Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 
+ 
+2.3 Beskrivelse af farer ved oversvømmelse 
+Størrelsen af faren fra en oversvømmelse beskrives ofte i form af en gennemsnitlig tid mellem 
+to hændelser, der overskrider et vist niveau af fare. Den gennemsnitlige tid mellem sådanne 
+hændelser benævnes gentagelsesperiode eller returperiode. Med denne definition følger, at jo 
+sjældnere gentagelsesperiode desto større fare har hændelsen.  
+ 
+Faren ved oversvømmelser skal beskrives ved en målbar indikator for at kunne blive modelleret 
+i form af en gentagelsesperiode. Der er to dominerende indikatorer for oversvømmelser samt en 
+række faktorer, der kan påvirke skadernes størrelse. Dette afsnit beskriver disse indikatorer og 
+faktorer generelt. Nogle af indikatorerne og faktorerne er vigtigere end andre afhængigt af 
+skadestyper og typer af oversvømmelser. Dette omtales i det følgende afsnit om skadestyper. 
+ 
+2.3.1 Indikator: Dybde 
+Den dominerende indikator i forbindelse med oversvømmelser er vandets dybde, altså 
+forskellen mellem den kote, som terrænet har, og den maksimale kote, som vandet har under 
+oversvømmelse. Dette er f.eks. den indikator, som anvendes i KAMP, se Figur 2-2. Det er den 
+dominerende indikator, fordi såfremt dybden er nul, vil skaden også være nul. 
+ 
+2.3.2 Indikator: Kinetisk energi 
+Den anden indikator, som ofte anvendes i forbindelse med oversvømmelser, er vandets 
+(vandrette) kinetiske energi. Ved lave dybder og hastigheder har denne indikator ikke nogen 
+stor betydning; der vil dybden være en bedre indikator. Men hvis vandets kinetiske energi er 
+høj, vil skaderne alt andet lige blive større. I forbindelse med brud på diger og dæmninger og i 
+stejle vandløb/gader vil den kinetiske energi potentielt være vigtigere end dybden, ikke mindst 
+fordi den kinetiske energi afhænger af farten i anden potens. De store hastigheder vil dels 
+medføre en fare for personer, der opholder sig i vandet, og dels medføre øgede skader, fordi 
+genstande vil blive transporteret med vandet med fare for store skader, når den kinetiske energi 
+bruges til at skubbe til nye genstande. 
+ 
+Dybde og kinetisk energi anvendes begge til at skabe en sammenhæng mellem 
+gentagelsesperioden og faren. De faktorer, som beskrives nedenfor, har betydning for faren, 
+men det er primært egenskaber ved indikatoren og dermed oversvømmelsen. Man vil derfor i 
+den ideelle skadesopgørelse inkludere informationer om nedenstående faktorer, fordi det er 
+med til at beskrive, hvor farlig oversvømmelsen er. De vigtige faktorer er variation og varighed 
+af oversvømmelsen, varsling af oversvømmelsen, samt typen af vand. Hver af disse diskuteres 
+kort nedenfor. 
+ 
+2.3.3 Faktor: Variation og varighed af oversvømmelsen 
+Oversvømmelser er stærkt dynamiske fænomener, hvor både dybde og kinetisk energi vil 
+ændre sig i løbet af hændelsen fra nul til et maksimum og tilbage til nul. Ved længere varighed 
+vil skaden alt andet lige blive større. Tilsvarende kan indikatoren måles over et kortere eller 
+længere tidsrum, ligesom f.eks. bølger kan have betydning. Alt i alt vil måden som indikatoren 
+opgøres på have stor betydning for, hvor stor skaden vil være som funktion af indikatoren.  
+ 
+
+ 
+ 
+Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 15 
+2.3.4 Faktor: Varsling 
+Hvis borgerne i et område ved, at 
+området oversvømmes inden for kort 
+tid, vil skaden alt andet lige blive 
+mindre. Ud fra princippet i Figur 2-1 vil 
+man kunne mindske skaden som 
+borger ved konkret at flytte sig selv og 
+sårbare genstande ud af området eller 
+som minimum løfte dem op over den 
+forventede vanddybde. Tilsvarende vil 
+man som samfund kunne etablere 
+lokale og midlertidig beskyttelse ved 
+at have et effektivt beredskab. 
+Beredskabet vil kunne mindske 
+skaderne ved at opstille udstyr, der 
+mindsker skaderne. Et eksempel er 
+vist på Figur 2-3. 
+ 
+Figur 2-3. Midlertidig beskyttelse af byområder i Prag opnået 
+ved at beredskabet har opstillet en midlertidig mur, der 
+inddæmmer floden. Der er tilsvarende eksempler på 
+beskyttelse af f.eks. Metroen i København, ligesom der er 
+indkøbt pumper, sandsække og watertubes til udsatte områder. 
+ 
+2.3.5 Faktor: Type af oversvømmelse 
+Forskellige kilder til oversvømmelsen vil alt andet lige også have indflydelse på skadens 
+omfang. Man skelner som minimum mellem fire typer af oversvømmelser, afhængigt af hvorvidt 
+den dominerende vandtype er grundvand, regnvand, vandløb eller hav. Generelt er grundvand 
+den type oversvømmelse, der forårsager mindst skade, fordi vandet er renest og strømmer 
+langsomst, mens de tre andre kan være svære at generalisere relativt. Generelt gælder dog, at 
+saltvand er mere aggressivt end ferskvand, og at andelen af byspildevand i regnvand er vigtig 
+for skadens omfang. Der kan dog også være andre væsentlige faktorer. Som eksempel kan 
+man nævne, at man i Tyskland på baggrund af oversvømmelser i 2002 i Elben krævede 
+konstruktive ændringer af olietankene i individuelle boliger, fordi olie fra olietanke var en 
+markant årsag til skaderne. Da samme områder blev oversvømmet igen i 2011, var det tydeligt 
+at se, at den ændrede konstruktion havde mindsket skaderne på oversvømmelserne. 
+ 
+Typisk antagelse: Der er meget forskellige antagelser i forskellige studier for så vidt angår valg 
+af indikator samt hvilke faktorer, der indgår. Det er på tværs af forskellige bearbejdninger 
+tydeligt, at forskelle i hvilke data, der er tilgængelige, har stor indflydelse på valg af faktorer, 
+ligesom størrelsen og voldsomheden af historiske oversvømmelser også har betydning. 
+Samtidigt er der i nogle bearbejdninger større tendens til at tillade forskelle som funktion af 
+faktorer, mens der i andre er et ønske om at bevare en simpel tilgang til beregning af faren. For 
+alle praktiske undersøgelser er det dog især tydeligt, at der med de data, der indsamles, er en 
+endog meget stor variation mellem skader på genstande, der ud fra data burde have en 
+sammenlignelig skade. Med andre ord er det meget usikre modeller, der opstilles og anvendes 
+på baggrund af data. De kan med nogen robusthed anvendes på et større område, hvor mange 
+genstande bliver berørt af oversvømmelsen, men det er særdeles vanskeligt at beregne den 
+konkrete skade på en enkelt konkret genstand (bygning).  
+ 
+
+
+ 
+ 
+16 Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 
+2.4 Beskrivelse af sårbarheder i form af skadestyper  
+Der findes et utal af skadestyper, og nogle af disse skadestyper kan være svære at skelne fra 
+hinanden. Eksempler på skadestyper er angivet i Tabel 2-1. Vigtigt er det især at skelne mellem 
+markedsomsatte og ikke-markedsomsatte omkostninger samt de direkte og indirekte 
+omkostninger. Skellet mellem de direkte og indirekte omkostninger er til dels diskuteret i 
+afsnit 2.1, hvor den tidsmæssige afgrænsning er diskuteret. Lige så vigtigt er det at skelne 
+mellem de genstande, som kan prissættes på et marked (markedsomsatte goder) samt dem, 
+som ikke kan prissættes på et marked.  
+ 
+I en konkret situation kan de ikke-markedsomsatte goder være meget væsentlige, men de er 
+ekskluderet fra mange modeller, fordi de i sagens natur er svære at prissætte. Endvidere vil de 
+ofte være udelukket fra analysen, fordi man har valgt at basere sig på data, der har et snævert 
+fokus i tid og sted. Implikationerne af denne antagelse glemmes ofte i de efterfølgende 
+analyser. 
+ 
+Der er metoder til at lave prissætning inden for alle fire typer af omkostninger. Alle væsentlige 
+tab bør opgøres, såfremt de indgår i en cost-benefit analyse, således at analysen er retvisende. 
+Det bemærkes, at med denne formulering vil nogle af de indirekte tab i en samfundsøkonomisk 
+analyse blive opvejet af indirekte gevinster, f.eks. i form af bedre indtjening i nogle industrier på 
+grund af mindre konkurrence fra oversvømmede konkurrenter. Det væsentlige er, at såvel tab 
+som gevinster opgøres for skadestyperne. Såfremt faktorer ikke kan prissættes, bør de som 
+minimum beskrives kvalitativt, så betydningen af faktorerne stadig indgår i 
+beslutningsprocessen (Finansministeriet, 2017). 
+ 
+Tabel 2-1. Eksempler på skadestyper i forbindelse med oversvømmelser. Der er ikke tale om en udtømmende liste. 
+Baseret på Olsen et al (2015) samt Hammond et al (2002, 2014). 
+ Direkte tab Indirekte tab 
+Markedsomsatte Strukturel skade 
+Biler 
+Infrastruktur 
+Dyr 
+Fødevarer 
+Evakuering og oprydning 
+Forstyrrelse af trafik 
+Genhusning 
+Forstyrrelse af handel og 
+produktion 
+Ikke-
+markedsomsatte 
+Skader på mennesker 
+Sygdomme 
+Tab af memorabilia 
+Skader på økosystemer 
+PTSD og andre lidelser 
+Forstyrrelser 
+Tab af huspriser 
+Mindre tillid til myndigheder 
+ 
+I denne rapport fokuseres på opgørelse af bygninger, som er en del af de direkte skader, som i 
+Tabel 2-1 er en del af skadestypen ”strukturel skade”. Der er ikke nogen principiel forskel på, 
+hvordan prissætningen foregår i denne type af genstande og andre typer af skader. Man skal 
+dog udvise varsomhed ved brug af mange skadestyper, idet det skal sikres, at man ikke tæller 
+samme skadestype med flere gange. Det vil i det følgende blive antaget, at man er i stand til at 
+foretage en beskrivelse af skader, som gør, at hver skadestype kan opgøres uafhængigt af 
+
+ 
+ 
+Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 17 
+andre skadestyper. Med udgangspunkt i Tabel 2-1 vil det f.eks. indebære, at såfremt et 
+indirekte tab i form af en diagnose med PTSD værdisættes, så vil tabet i form af f.eks. 
+sygefravær kun skulle opgøres enten som et direkte tab i form af en sygdom eller som en del af 
+omkostningen ved at have PTSD. Det forventes, at sundhedsomkostninger i forbindelse med 
+oversvømmelser i Danmark er lave. Det har f.eks. ikke været muligt at dokumentere en 
+sammenhæng mellem ændringer i sundhed og oversvømmelse i danske sundhedsregistre 
+(Lautrup et al., 2021).  
+ 
+Typisk antagelse: Den konkrete opgørelse af skader vil være begrænset af data og den tid, der 
+er tilgængelig for at lave analysen. Derudover vil den konkrete sårbarhed også afhænge af 
+hvilken fare, der optræder og i hvor kraftigt et omfang. Dette vil blive diskuteret yderligere i det 
+følgende kapitel. 
+  
+
+ 
+ 
+18 Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 
+ 
+3. Matematisk beskrivelse af teoretisk tilgang  
+Skadesomkostninger i forbindelse med en specifik oversvømmelse er et resultat af såvel de 
+fysiske egenskaber ved oversvømmelsen som de konkrete sårbarheder. Det indebærer, at ikke 
+alle oversvømmelser giver den maksimale skade, og derfor vil den konkrete skade være en 
+funktion af indikatoren for faren. Endvidere vil hver enkelt geografisk lokalitet inden for det 
+påvirkede område have en sårbarhed, der måske er repræsenteret af en eller flere 
+skadesfunktioner. Det leder til følgende matematiske udtryk for, hvordan en skade beregnes: 
+ 
+𝑆𝑎𝑚𝑙𝑒𝑡 𝑆𝑘𝑎𝑑𝑒 ൌ ෍ න 𝐷
+௦,௢ሺ𝑓ሻ
+௣å௩௜௥௞௘௧ ௢௠௥åௗ௘௦௞௔ௗ௘௦௧௬௣௘௥
+ 
+ 
+hvor Ds,o(f) er den konkrete skade i en målbar, monetær enhed (f.eks. kroner) og s, o, og f 
+repræsenterer henholdsvis geografisk lokalitet, det område, der undersøges og indikator for 
+faren. Dermed kan man således ud fra en beregning af indikatoren over hele området finde den 
+samlede skade ved at summere alle skadestyper over hele området. Det bemærkes, at ud fra 
+de teoretiske overvejelser i kapitel 2 kan skadesfunktionen godt antage negative værdier. 
+ 
+I de følgende afsnit gennemgås først funktioner for indikatoren for faren og dernæst de vigtigste 
+skadesfunktioner. Ved beskrivelsen af skadesfunktionerne fremgår det eksplicit, at sårbarheden 
+vil være en funktion af beskaffenheden af det, der beskadiges. For bygninger vil f.eks. 
+konstruktion, bygningskvalitet, vedligehold og materialeindhold have betydning for den faktiske 
+skade. Brugerne af bygningerne er også relevante at forholde sig til, herunder om bygning er 
+anvendt som bolig eller erhverv, og hvilken type husholdning eller erhvervsaktivitet der foregår i 
+bygningen. Tilsvarende vil man kunne opstille andre skadesfunktioner afhængigt af, hvilke 
+sårbarheder der er til stede i det pågældende område.  
+ 
+I forbindelse med skadesopgørelsen vil det være relevant at forholde sig til, hvilke parametre 
+der potentielt har betydning for størrelsesordenen af omkostningerne, samt hvilke data der kan 
+anvendes til at skønne omkostningen. Kun de omkostninger, der har potentiale til at ændre 
+udfaldet af cost-benefit analysen, vil være nødvendige at inddrage. 
+ 
+3.1 Fysiske karakteristika ved beskrivelsen af farer 
+Ud fra indikatorerne for oversvømmelser kan man opstille en samlet formel for de fysiske 
+karakteristika af faren. Herunder er typen (t) af oversvømmelse afgørende. Man skelner som 
+minimum som nævnt i afsnit 2.3.5 mellem fire typer af oversvømmelser; grundvand (g), 
+regnvand (r), vandløb (v) eller hav (h). Ud fra diskussionen i afsnittet om indikatorer kan de 
+øvrige væsentlige faktorer opgøres til dybden af oversvømmelsen (d), vandets (vandrette) 
+kinetiske energi (k), varsling (v), varighed (va) samt vandets indhold af fremmedstoffer (s) 
+såsom andelen af byspildevand eller olie eller andre kemiske stoffer. Fremmedstoffer kan lave 
+biologisk og/eller kemisk forurening, der efterfølgende er svær at rydde op. Større drivmateriale 
+har ligeledes potentiale til at forurette mekaniske skader på bygninger og ejendomme. 
+ 
+
+ 
+ 
+Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 19 
+Dermed bliver den samlede teoretiske skadesfunktion 𝑓  for den individuelle geografiske 
+placering i indenfor området:  
+ 
+𝑓௜ሺ𝑡௚,௥,௩,௛, 𝑑௜, 𝑘௜, 𝑣௜, 𝑣𝑎௜, 𝑑𝑚௜ሻ  
+ 
+Af funktionen fremgår det at skadesomkostningspotentialet er en funktion af typen (t), dybden 
+(d), vandets kinetiske energi (k), varsling (v), varigheden på oversvømmelsen (va) og 
+koncentrationen af fremmedstoffer og drivmateriale (dm) i vandet.  
+ 
+Tabel 3-1. Fysiske variable relevante i forhold til farebeskrivelsen 
+t Type af oversvømmelse: Grundvand g 
+  Regnvand r 
+  Vandløb v 
+  Hav h 
+d Dybde af oversvømmelse   
+k Kinetisk energi i vandet  
+v Varsling 
+va  Varighed af oversvømmelse  
+dm Koncentration af fremmedstoffer mm. 
+ 
+ 
+3.2 Sårbarhed af bygninger 
+Bygningers sårbarhed beskrives ofte i form af tre forskellige processer: Én for den fysiske 
+bygning, én for inventaret i bygningen, og én for den subjektive påvirkning af de personer, der 
+anvender bygningen. Hver af disse beskrives nedenfor. 
+ 
+3.2.1 Potentiale for bygningsskade  
+Bygningers egenskab til at håndtere en oversvømmelse er afhængig af oversvømmelsen 
+karakteristika givet i 𝑓
+௜ sammenholdt med bygningsstørrelse (bs), bygningsmateriale (bm), 
+bygningskvalitet (bk), bygningsalder (ba), bygningsvedligehold (bv) og antal bygningsetager, 
+herunder kælderetage (be). Disse variable beskriver til sammen en bygnings robusthed over for 
+en oversvømmelse. Nogle materialer vil være impermeable hen over en oversvømmelses 
+varighed. Andre materialer vil være permeable, og nogle af disse vil blive permanent 
+beskadigede afhængigt af funktionen 𝑓
+௜. Revner i bygningsflader eller skrøbelige strukturer pga. 
+materialevalg eller manglende vedligehold vil ligeledes føre til øget risiko for skader fra 
+oversvømmelser. I forbindelse med udbedring af skader vil de samme bygningsparametre være 
+relevante for omkostningerne i forbindelse med skadesudbedringerne.     
+ 
+Samlet set kan bygningsskadespotentialet for bygning j placeret på den geografisk lokalitet i 
+beskrives ved hjælp af følgende funktion:  
+ 
+𝑔
+௝,௜ሺ𝑓௜, 𝑏𝑠௝, 𝑏𝑚௝, 𝑏𝑘௝, 𝑏𝑎௝, 𝑏𝑣௝, 𝑏𝑒௝ሻ 
+ 
+Variablene, der indgår i funktion 𝑔௝,௜, vil være korrelerede, og det kan således være at det i 
+praksis vil give mening at operere med typer af bygninger, som f.eks. lejlighedskompleks bygget 
+i beton fra 1990erne eller parcelhus bygget af mursten med træskelet fra 1960erne. Tilsvarende 
+
+ 
+ 
+20 Metodetilgange for beregning af økonomisk skade på  bygninger til risikoanalyser ifm. klimatilpasning 
+kan man vælge at opgøre skaderne ud fra økonomiske typetal for forskellige typer af bygninger 
+fra tidligere oversvømmelser i stedet for at lave en bygningsteknisk analyse af, hvad der vil blive 
+skadet ved en givet påvirkning. 
+ 
+Tabel 3-2. Relevante variable for bygninger  
+fi Funktion for oversvømmelsesskadespotentiale  
+bs Bygningsstørrelse 
+bk Bygningskvalitet 
+ba Bygningsalder 
+bv Bygningsvedligeholdelse  
+be Bygningsetage  
+ 
+ 
+3.2.2 Potentiale for husholdningsskade 
+Husholdninger, der bor i oversvømmede boliger, oplever omkostninger i form af ødelagt 
+inventar, hvoraf nogle af genstandene har en materiel markedsværdi (hm), mens andre 
+genstande primært eller udelukkende har immateriel værdi (ih) i form af f.eks. familiealbummer, 
+arvestykker, osv. I forbindelse med oversvømmelse vil husholdninger opleve at skulle bruge tid 
+på at rydde op og udbedre skader i deres bolig, hvorved der bliver et tab, der som minimum 
+udgør tabt arbejdstid eller mere generelt et tab ved denne aktivitet (ha).  
+ 
+I det omfang skaderne efter oversvømmelsen er omfangsrige kan husholdninger være nødt til at 
+blive genhuset i en periode (hg). Genhusningen er en omkostning uafhængig af, hvem der 
+betaler. Det kan f.eks. være både forsikringsselskab og/eller husholdningen, der betaler. 
+Derudover må genhusningen i mange tilfælde opleves negativt og mindre behageligt i forhold til 
+baseline, hvor boligen ikke var blevet oversvømmet, og husholdningen fortsat kunne bo i 
+boligen. 
+ 
+Oversvømmelse kan ligeledes udgøre både en fysisk og en psykisk sundhedsrisiko (hs). 
+Oversvømmelse kan føre til at medlemmer af husholdningen drukner, kommer fysisk til skade 
+eller bliver udsat for forurenet vand. Oversvømmelsesoplevelsen kan ligeledes medføre at 
+medlemmer af husholdningen oplever stress eller stressrelaterede sygdomme. Til dato udgør 
+sundhedsrisikoen en ganske lille risiko i Danmark.  
+ 
+Samlet set kan skadespotentialet for en husholdning (e) beskrives ved hjælp af følgende 
+funktion: 
+ 
+ℎ
+௜,௘ሺ𝑓௜, ℎ𝑚௘, ℎ𝑖௘, ℎ𝑎௘, ℎ𝑔௘, ℎ𝑠௘ሻ 
+ 
+Af funktionen fremgår det at skaden for en husholdning vil være påvirket af materielle tab, 
+immaterielle tab, tabt arbejdstid, omkostninger i forbindelse med genhusning og mulig 
+helbredsrisiko. 
+ 
+ 
+
+ 
+ 
+Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 21 
+3.2.3 Risikoaversion for beboere 
+Risikoaversionen er en værdisætning af den subjektive oplevelse af at vide, at ens husholdning 
+kan blive oversvømmet. Risikoaversionen er svær at prissætte, bl.a. fordi den ændrer sig 
+væsentligt over tid og generelt er høj kort tid efter en oversvømmelse og lav lang tid efter 
+seneste oversvømmelse. I de simpleste tilfælde udtrykkes risikoaversion som en faktor, man 
+kan gange på omkostningen for bygning og inventar, således omkostninger forhøjes eller 
+reduceres afhængig af den enkelte husholdnings forhold til risiko. Med denne formulering kan 
+risikoaversionen også udtrykke en forskel mellem det økonomiske tab, som brugerne af boligen 
+har, og det beløb, som forsikringen værdisætter skaderne til. For de fleste husholdninger må 
+man forvente en risikoaversion 𝑘ሺℎ𝑟
+௘ሻ højre end 1. Matematisk defineres risikoaversionen derfor 
+ud fra en subjektiv prissætning af skaden, hvorefter faktoren for risikoaversion beregnes med de 
+kendte værdier for skaderne på bygning og inventar: 
+ 
+𝑆𝑢𝑏𝑗𝑒𝑘𝑡𝑖𝑣𝑡 𝑜𝑝𝑙𝑒𝑣𝑒𝑡 𝑆𝑎𝑚𝑙𝑒𝑡 𝑆𝑘𝑎𝑑𝑒 𝐵𝑦𝑔𝑛𝑖𝑛𝑔௜,௝,௘ ൌℎ ௜,௘ሺ… ሻ∗𝑘ሺℎ𝑟௘ሻ൅𝑔௜,௝ሺ… ሻ∗ 𝑘ሺℎ𝑟௘ሻ 
+ 
+Tabel 3-3. Relevante variable i forbindelse med risikoaversion 
+𝑓௜ Funktion for oversvømmelsesskadespotentiale 
+hm Materielle tab  
+Hi Immaterielle tab  
+ha Tabt arbejdstid  
+hg Genhusning 
+hs Sygdom 
+hr Risikoaversion 
+ 
+ 
+3.3 Sårbarhed af virksomheder 
+Virksomheders sårbarhed kan opdeles i tre bidrag ligesom for beboelsesejendomme. 
+Bygningens sårbarhed og risikoaversion kan beskrives på samme måde som for beboelser, 
+hvorfor nedenstående vil fokusere på opgørelse af inventaret, som for virksomheder består af 
+produktionsapparat, lager og produktionstab. 
+ 
+Virksomheder, der oversvømmes, vil opleve skader på deres produktionsapparat (vpa), tab af 
+lagerbeholdning (vl) og tab af indtægt (vi) i det tidsrum, hvor virksomheden står stille. For den 
+enkelte virksomhed kan omfanget af skaderne og tabte indtægter være så store, at 
+virksomhederne går konkurs. For den enkelte virksomhed kan omkostningerne af en 
+oversvømmelse være betydelige, men for den samlede værdiproduktion kan effekten være 
+betydeligt lavere. Konkurrenter til den oversvømmede virksomhed kan øge produktionen, og 
+kunder kan finde alternative leverandør. Dette forhold gør sig specielt gældende på markeder, 
+hvor der er mange producenter som f.eks. fastfoodrestauranter. På markeder med få eller ingen 
+konkurrenter, hvor en enkelt virksomhed har monopollignende forhold, vil det ikke være muligt 
+at finde samme substitutionseffekt (vs), og her vil den fulde omkostning af en oversvømmelse 
+skulle indregnes som en skadesomkostning. I det simpleste tilfælde vil substitutionseffekten 
+kunne beskrives af en faktor, der ganges på oversvømmelsesomkostningerne for virksomheder 
+gående fra 1 til 0. 
+ 
+
+ 
+ 
+22 Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 
+Substitutionseffekten kan være unik for hver enkelt virksomhed. Eksempelvis kan kunderne til et 
+teater finde andre teatre og andre forestillinger at overvære. I den forbindelse vil kunderne 
+næsten ikke opleve noget tab. Men hvis det oversvømmede teater er unikt, vil det oplevede tab 
+være betydeligt.  
+ 
+Typen af virksomhed vil være afgørende for de potentielle omkostninger af en oversvømmelse. 
+Virksomheder med aktiviteter hovedsageligt inden for kontor, administration og 
+konsulentydelser har hverken et stort og dyrt produktionsapparat eller en betydelig 
+lagerbeholdning. Samtidig vil kontorvirksomheder have en betydeligt kortere periode med ingen 
+eller nedsat produktionskapacitet. Det modsatte gør sig gældende for service- og 
+turismevirksomheder, som ofte vil have lagerbeholdninger, der kan gå tabt. Samtidig vil 
+virksomhederne være væsentlig mere afhængige af de oversvømmede bygninger. F.eks. vil en 
+oversvømmet butik først kunne åbne, når en ny lagerbeholdning er etableret, og skaderne på 
+bygningslokalerne er udbedret. Produktionsvirksomheder vil være den type virksomheder, der 
+vil blive hårdest ramt. I produktionsvirksomheder er produktionsapparatet kapitalintensivt, og det 
+kan betyde anseelig nedetid i forhold til erhvervsaktivitet og reinvesteringer ifm. udbedring af 
+skaderne. 
+ 
+Samlet set kan virksomheder skadespotentialet for en given virksomhed (u) beskrives ved hjælp 
+af skadesfunktionen 𝑙 og substitutionsfunktionen: 
+ 
+𝑙
+௩௞,௜,௨൫𝑓௜, 𝑣𝑝𝑎௩௞,௨, 𝑣𝑙௩௞,௨, 𝑣𝑙௩௞,௨൯∗𝑣 ௩௞,௨ሺ𝑣𝑠௩௞,௨ሻ 
+𝑙௩௦,௜,௨ሺ𝑓௜, 𝑣𝑝𝑎௩௦,௨, 𝑣𝑙௩௦,௨, 𝑣𝑙௩௦,௨ሻ∗𝑣 ௩௦,௨ሺ𝑣𝑠௩௦,௨ሻ 
+𝑙௩௧,௜,௨൫𝑓௜, 𝑣𝑝𝑎௩௧,௨, 𝑣𝑙௩௧,௨, 𝑣𝑙௩௧,௨൯∗𝑣 ௩௧,௨ሺ𝑣𝑠௩௧,௨ሻ 
+𝑙௩௣௜,,௨ሺ𝑓௜, 𝑣𝑝𝑎௩௣,௨, 𝑣𝑙௩௣,௨, 𝑣𝑙௩௣,௨ሻ∗𝑣 ௩௣,௨ሺ𝑣𝑠௩௣,௨ሻ 
+ 
+I dette tilfælde er der opstillet en funktion for hver type virksomhed i anerkendelsen af, at 
+virksomhederne adskiller sig fra hinanden i betydeligt omfang. Det vil i praksis ikke være muligt 
+at behandle virksomheder i samme skadesomkostningsmodel.  
+ 
+Tabel 3-4. Relevante variable i forbindelse med industri 
+vt Type af virksomhed, f.eks.  Kontor  (vk)  
+ opgjort som:  Handel og service (vs) 
+  Turisme ( vt) 
+  Produktion ( vp) 
+vpa Skade på produktionsapparat  
+   
+vl Tab af lagerbeholdning 
+vi Tab af indtægter pga. nedetid  
+vs Virksomhedssubstitutionseffekt 
+ 
+ 
+3.4 Sårbarhed af infrastruktur  
+I forbindelse med oversvømmelse kan infrastruktur midlertidige stoppe med at fungere og/eller 
+få permanente skader, hvilket vil føre til et længerevarende servicestop. Servicetabet (is) og 
+udbedringerne af skaderne (iu) udgør de samlede skadesomkostninger. Servicetab og 
+
+ 
+ 
+Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 23 
+skadesudbedring vil være forskellig for typen af infrastruktur. Eksempler på infrastruktur, der vil 
+have skadesomkostninger i forbindelse oversvømmelse, er angivet nedenfor.  
+ 
+Tabel 3-5. Relevante variable i forbindelse med infrastruktur 
+Energi: Gas Jernbaner  
+Energi: Luftledninger, transformatorstation Broer  
+Energi: Telekommunikation Lufthavne  
+Vand: Kloaker, regnvandsbassiner, mm. Havne  
+Vand: Diger, pumper, mm. Naturbaserede løsninger & rekreative arealer 
+Veje  
+ 
+En generel funktion for skadesomkostninger for en given infrastruktur (o) kan beskrives således: 
+ 
+𝑛
+௜,௢ሺ𝑓௜, 𝑖𝑠௢, 𝑖𝑢௢ሻ 
+ 
+Skadesomkostninger vil være forskellige fra typen af infrastruktur og den service infrastrukturen 
+tilbyder, herunder hvor mange der gør brug af servicen. F.eks. vil en midlertidig oversvømmet 
+vej forsinke brugerne af vejen, hvilket er et tab for både husholdninger og virksomheder. I de 
+fleste tilfælde er det dog muligt at finde omveje, så turen ikke stopper, men blot forsinkes. 
+Anderledes forholder det sig, hvis en transformatorstation oversvømmes, og strømmen afbrydes 
+i et område. I dette tilfælde vil der ikke være nogen substitutionsmuligheder. Pointen er, at 
+servicetab og skadesudbedringer vil være forskellige for forskellige typer af infrastruktur og vil 
+kræve hver sin unikke modelspecifikation. 
+ 
+3.5 Varsling, individuel forebyggelse og beredskab 
+Som det fremgår af afsnit 3.1, kan varsling, forebyggelse og beredskab ændre på faren, fordi 
+man kan forhindre sårbare genstande i at blive eksponeret. Men varsling, forebyggelse og 
+beredskab kan også benyttes til at mindske sårbarheden. Hvis husholdninger eller 
+virksomheder varsles om en nært forstående oversvømmelse, vil husholdningerne og 
+virksomhederne kunne mindske skadernes omfang ved at fjerne eller beskytte genstande og sig 
+selv fra det område, der oversvømmes. Tilsammen kan disse handlinger beskrives som 
+nedenstående funktion, hvor omkostninger og skader reduceres pga. handlinger i forhold til 
+varsling, forebyggelse og beredskab (vfb). 
+ 
+For en given husholdning vil den samlede skadesfunktion i det tilfælde være som følger: 
+ 
+ℎ
+௜,௘ሺ… ሻ൅𝑔௜,௝ሺ… ሻെ 𝑣𝑓𝑏ሺℎ௜,௘ሺ… ሻሻെ𝑣𝑓𝑏ሺ𝑔 ௜,௝ሺ… ሻ) 
+ 
+Tilsvarende reduktioner kan gives for andre sårbarheder, hvor der vil være en effekt af varsling 
+og forebyggelse. 
+ 
+3.6 Operationelle skadesmodeller 
+Som det fremgår af afsnit 3.2 – 3.5 er det matematisk muligt at opstille ret komplekse modeller 
+for skader. I praksis vil disse modeller dog være begrænsede af mangel på data til at validere 
+modellerne. Der anvendes typisk tre typer af data til at opstille og validere modeller: 
+
+ 
+ 
+24 Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 
+ forsikringsdata fra historiske hændelser, 
+ spørgeskemaundersøgelser af personer, der har været ramt af oversvømmelser, og 
+ teoretiske analyser af, hvordan sårbare elementer påvirkes af oversvømmelser. 
+Der er metodiske svagheder ved anvendelse af alle tre typer af data. De metodiske svagheder 
+vil i nogen grad afhænge af formålet med modellen. Man kan skelne mellem følgende 
+overordnede formål: 
+ Opgørelse af den konkrete skade i form af genanskaffelse af genstande, der er blevet 
+beskadigede, herunder bygningsdele, 
+ opgørelse af den konkrete skade som mennesker mener at have lidt i forbindelse med 
+at have fået beskadiget konkrete genstande, 
+ opgørelse af en stor oversvømmelse i et større område hvor der er en længerevarende 
+påvirkning af området selv og eventuelt naboområder, eller 
+ opgørelse af det samfundsøkonomiske tab som følge af at et større område bliver 
+oversvømmet, eventuelt flere gange. 
+Opgørelser af skader baseret på historiske forsikringsdata kan relativt nemt benyttes til det 
+første formål. Der vil være korrektioner i forhold til f.eks. forskelle i bygningernes tilstand og 
+udformning, afskrivning af delvist udtjente materialer, selvrisiko og policernes dækningsområde. 
+Hvis man i stedet ønsker at modellen skal beskrive det tab, som beboerne oplever, vil der være 
+supplerende tab i form af memorabilia, oprydning og rengøring samt den fulde udgift til 
+erstatning af delvist (i henhold til policen) afskrevne materialer, mv. Dermed vil en sådan model 
+opgøre et større tab, end hvis formålet er at beskrive genanskaffelsesudgifterne.  
+ 
+Spørgeskemaundersøgelser vil kunne anvendes til at afdække forskellene mellem disse to 
+formål. Spørgeskemaer er dog dels vanskelige at udforme, så respondenterne svarer på det, 
+man spørger om, og dels vil svarene afhænge af, hvornår man spørger personerne. Hvis man 
+spørger meget kort tid efter hændelsen, vil langtidseffekterne ikke være medtaget, og hvis man 
+spørger efter længere tid, vil svarene potentielt have en bias og i hvert fald være usikre. 
+Dermed kan skøn baseret på spørgeskemaer både over- og undervurdere den samlede skade. 
+ 
+Teoretiske analyser lider naturligt under dels et behov for at simplificere og standardisere, og 
+dels en risiko for at antagelserne omkring f.eks. bygningers udformning er forkerte. Teoretiske 
+analyser vil i princippet kunne give et mere retvisende billede end forsikringsdata, fordi man 
+medtager alle fysiske tab, uanset om de er forsikrede eller ej. Til gengæld kan metoden kun 
+anvendes til at skønne fysiske skader på fysiske anlæg.  
+ 
+Forskellen mellem de to første formål kan ud fra ovenstående beskrivelse synes betydelig. Den 
+er dog relativt let at korrigere fra det ene formål til det andet, og derfor vil disse metoder i det 
+følgende blive betragtet som samme overordnede formål, dvs. at beskrive en konkret skade på 
+konkrete genstande med eventuelle korrektionsfaktorer. 
+ 
+Opgørelser af større oversvømmelser af større områder vil i langt højere grad være genstand 
+for både indirekte og ikke-markedsomsatte tab. Her vil forskellige traditioner for opgørelse af tab 
+have betydning, når de konkrete tab opgøres. I mange af de første projekter om klimatilpasning 
+
+ 
+ 
+Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 25 
+fra skybrud blev tabet fra oversvømmelser af grønne områder ikke prissat, og der er stadig ikke 
+tradition for, at borgeres tidsforbrug i forbindelse med oversvømmelser indgår i opgørelser af 
+oversvømmelsers skade. Derimod indgår i mange opgørelser en prissætning af forsinkelser af 
+trafikken, som dermed favoriseres i forhold til andre tab. Endelig indgår i større områder også 
+potentielt indirekte gevinster, ligesom nogle tab på kort sigt vil blive kompenseret for på længere 
+sigt. Der skal derfor i langt højere grad ske en konvertering og fortolkning af data for at kunne 
+opstille en model for oversvømmelse af større områder. 
+ 
+Ved opstilling af det samfundsøkonomiske tab vil udgangspunktet være overvejelserne omkring 
+opgørelse af tab i større områder. Der vil dog komme yderligere overvejelser omkring 
+dynamiske effekter mellem hændelser, herunder især læring hos dem, der har oplevet en 
+oversvømmelse. Endvidere vil der være væsentlige overvejelser, om hvordan forskellige 
+grupper og områder vil blive påvirket af oversvømmelserne, ikke mindst fordi det i høj grad er de 
+samme områder, der rammes igen og igen. For at opfylde formålet med en sådan model vil man 
+dermed også potentielt skulle inddrage, at skadesfunktionerne ændrer sig i visse områder 
+afhængigt af tidligere erfaringer i form af akkumulerede effekter, såvel positive som negative. 
+ 
+I det følgende gives eksempler på skadesmodeller for Tyskland og Storbritannien. De to lande 
+er valgt, fordi disse to lande har arbejdet meget med skadesmodeller, minder en del om 
+Danmark og har anvendt to meget forskellige metoder til at opstille modeller for skadesdata. 
+ 
+3.6.1 Tyskland 
+I Tyskland har man siden oversvømmelserne i 2002 systematisk indsamlet data fra skader på 
+indenlandske oversvømmelser, mestendels i form af spørgeskemaundersøgelser. I nogle 
+tilfælde indeholder spørgeskemaerne også information om, hvad skaderne har været opgjort til 
+af forsikringsselskaber. 
+ 
+I forhold til skader på bygninger har man fundet, at det en god model at opgøre skaden som en 
+andel af bygningens samlede værdi. Det antages dermed implicit, at større og dyrere bygninger 
+også har større og dyrere skader end mindre og billigere bygninger. Endvidere er det fundet, at 
+skader for større dybder er relativt dyrere for en-familie huse end huse med flere familier 
+(Thieken, 2008). I Figur 3-1 er vist forskellige modeller baseret på (dele af) de indsamlede data. 
+Som det fremgår, er der en betydelig forskel mellem modellerne. At det er muligt at konstruere 
+så relativt forskellige modeller er et udtryk for, at det underliggende datamateriale har en meget 
+stor variation. Det antyder også, at der i praksis er store begrænsninger i hvor store og 
+detaljerede modeller, man kan opbygge baseret på data. 
+ 
+
+ 
+ 
+26 Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 
+ 
+Figur 3-1. Illustration af modeller af relativ skade for bygninger i forhold til bygningens samlede værdi i udvalgte 
+modeller baseret på tyske data. Figur fra Olsen et al (2017) baseret på Thieken et al (2008). 
+ 
+3.6.2 Storbritannien 
+I Storbritannien har man valgt en anderledes tilgang til at opgøre skader. Det er gjort i form af at 
+beregne skadesomkostningen teoretisk ud fra en scenariebaseret tilgang. Resultatet er kendt 
+som the Multi-Coloured Manual (Penning-Rowsell et al, 2013), som giver en samlet oversigt 
+over, hvordan man beregner skader, risiko og finder passende tiltag. Der er opstillet teoretiske 
+analyser af skader på bygninger, ud fra hvilke der er opstillet ca. 100 skadesfunktioner, hvor 
+den maksimale skade på en bygning afhænger af bygningens alder, type og beboerens sociale 
+status.  
+ 
+3.6.3 Sammenfatning 
+Det fremgår implicit af skadesmodellerne for Tyskland og Storbritannien, at formålet med de 
+rapporterede modeller har været at modellere genanskaffelsesværdierne ved at tage 
+udgangspunkt i hhv. de oplyste og de beregnede skader og modellere dem bedst muligt. 
+ 
+Der er flere andre lande, man kunne have medtaget i analysen, og der findes endda globale 
+modeller, hvor man for hvert land kan beregne omtrentlige skader ud fra simple input data. Det 
+er dog kendetegnende for skadesdata, at en stor del af de data, der findes, ikke er tilgængelige 
+for offentligheden. De indgår i private firmaers databaser og benyttes til at beregne præmier på 
+oversvømmelsesforsikringer. Blandt andet derfor er de fleste tilgængelige modeller baseret på 
+meget simple sammenhænge eller på teoretiske analyser med ret grove antagelser. Det er i 
+den sammenhæng ikke usædvanligt, at Danmark dels har forskellige metoder for at opgøre 
+skaderne, dels at disse metoder kan give ret forskellige skøn på skaderne.  
+  
+
+
+ 
+ 
+Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 27 
+4. Gennemgang af udvalgte metoder til opgørelser 
+af skader 
+Følgende kapitel gennemgår de tre typisk anvendte metoder i Danmark til opgørelse af skader 
+ved oversvømmelser: Serviceniveaubekendtgørelsen (Miljøstyrelsen, 2022), 
+Oversvømmelsesloven (Kystdirektoratet, 2020) og SkadesØkonomi (Halsnæs et al. 2022a). 
+Metoderne er udvalgt af opdragsgiver. Afsnittet har til formål at beskrive metodernes tilgang til 
+opgørelse af skader, således at centrale ligheder og forskelle anskueliggøres. Nogle af 
+metoderne har indbygget en vis metodefrihed. I hvert tilfælde er der i beskrivelsen taget 
+udgangspunkt i den mest typiske anvendelse af metoden. For hver af metoderne adresseres 
+desuden de væsentligste usikkerheder i relation til de inkluderede skadesmodeller.  
+ 
+Afsnittet forholder sig udelukkende til økonomisk opgjorte skadesværdier, hvor skadesmodellen 
+indeholder en standardværdi og/eller skadesfunktion. For nogle af skadeskategorierne i 
+metoderne er det muligt selv at indtaste skadesværdier, hvor der ikke findes en standardværdi. 
+Disse er ikke behandlet i det følgende. Der tages udgangspunkt i det nyligst opdaterede og 
+offentliggjorte metodegrundlag for hver af metoderne. Indholdet i afsnittet er således afgrænset 
+til information, der er offentligt tilgængelig.  
+ 
+Afsnit 4.1 indeholder en præsentation af centrale forskelle i de tre metoders skadesmodeller. I 
+de efterfølgende afsnit 4.2 - 4.4 følger en nærmere beskrivelse af de tre metoders væsentligste 
+karakteristika samt overordnede tilknyttede usikkerheder. Hvert underafsnit inkluderer dertil en 
+kortfattet beskrivelse af den anvendte metode til vurdering af sårbarhed, og altså hvor udsat et 
+givent område er i forhold til tab og skader ved oversvømmelse.  
+ 
+Afsnit 4.5. indeholder en sammenligning af de inkluderede skadesberegningsmetoder med det 
+teoretiske udgangspunkt opstillet i kapitel 3. Afsnittet inkluderer en opsummering på tabelform 
+af de tre metoders inddragelse af variable sammenholdt med de teoretiske modeller i afsnit 2.  
+  
+4.1 Serviceniveaubekendtgørelsen, Oversvømmelsesloven og 
+SkadesØkonomi 
+Fra statslig side anvendes der i dag forskellige metoder til risikoberegning, hvoraf de udvalgte 
+metoder udgør tre af de primært anvendte. Eftersom der findes variation i metodegrundlaget for 
+de tre metoder, vil dette naturligt afspejle sig i kommunernes planlægning i relation til 
+klimatilpasning. Hertil vil variationen i det metodiske grundlag følgelig resultere i variation i de 
+tilknyttede usikkerheder, samt hvad der vægtes i større eller mindre grad i de respektive 
+metoder. 
+ 
+En central forskel mellem de tre metoder er hvilke typer af skader, de hver især inddrager i 
+opgørelsen af den samlede, økonomiske skade ved oversvømmelse. Figur 4-1 giver et overblik 
+over, hvilke overordnede økonomiske skadeskategorier metoderne hver især inkluderer. 
+Figuren inkluderer økonomiske skadesværdier, hvortil der er knyttet en standardværdi i 
+
+ 
+ 
+28 Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 
+metodegrundlaget. For Serviceniveaubekendtgørelsen tages udgangspunkt i de tilknyttede 
+nationale standardskadesværdier1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 4-1. Metoder til opgørelse af skader og tilhørende økonomiske kvantificerbare skadeskategorier. 
+ 
+Fælles for de tre metoder er, at de inkluderer skader på bebyggelse og infrastruktur i deres 
+opgørelse, men de bagvedliggende forhold og beregninger varierer på tværs af metoderne. 
+Bebyggelse omfatter i denne sammenhæng bygninger og deres inventar og tab i forbindelse 
+med manglende anvendelse efter en oversvømmelse. Synergier kan findes ved værdisætning 
+af infrastruktur, hvor f.eks. værdisætningen af trafikforstyrrelser ved oversvømmelse stemmer 
+overens mellem metoderne i Serviceniveaubekendtgørelsen og SkadesØkonomi. 
+ 
+Ud over bebyggelse og infrastruktur inkluderer de tre metoder forskellige skadeskategorier i 
+deres opgørelse af den samlede skade. Serviceniveaubekendtgørelsen inkluderer elforsyning i 
+form af værdisætning af elsvigt, mens Oversvømmelsesloven inkluderer landbrug i form af 
+værdisætning af husdyrbesætning og afgrøder, og SkadesØkonomi inkluderer adgang til 
+rekreative områder og turisme. 
+ 
+Der er altså en del variation på tværs af metoderne og et mere detaljeret overblik findes i Tabel 
+4-1. Tabellen indeholder for hver metode følgende: 
+                                                                                                                                                        
+1 De nationale skadesværdier kan findes på www.klimatilpasning.dk/data.  
+Bebyggelse 
+Infrastruktur 
+Elforsyning 
+Rekreative områder 
+Turisme 
+Landbrug 
+SkadesØkonomi 
+Oversvømmelsesloven 
+Serviceniveaubekendtgørelsen 
+
+ 
+ 
+Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 29 
+ 
+ Skadeskategorier. Angiver den overordnede skadeskategori, f.eks. om det drejer sig 
+om skader på bebyggelse, infrastruktur mm. 
+ Subkategorier. Angiver en subkategori under den overordnede skadeskategori. For 
+bebyggelse er en subkategori f.eks. skader ifm. oversvømmelse af kælder. 
+ Forhold. Angiver eventuelle forhold, som hører til subkategorien, f.eks. om skaden, der 
+er blevet påført, er på privat, erhverv eller offentlig bebyggelse. 
+ Dybde. Angiver den skadesudløsende vanddybde.  
+ Dybdeafhængig. Angiver om skaden er dybdeafhængig. Hvis skaden er 
+dybdeafhængig, varierer skadens omfang med vanddybden, således at 
+skadesomkostninger stiger med vanddybden.   
+ Enhed. Angiver enheden for skadesomkostningen, ofte kendetegnet ved enhedspriser 
+som f.eks. kr./m2. 
+ Estimat/skadesfunktion. Angiver enten et estimat for skadesomkostningen eller en 
+skadesfunktion, hvorved et estimat kan beregnes. 
+ Kilde. Angiver kilde for skadeskategoriens tilknyttede skadesestimat/-funktion.    
+ 
+4.2 Serviceniveaubekendtgørelsen 
+Serviceniveaubekendtgørelsen finder anvendelse i relation til kommunalbestyrelsens 
+fastsættelse af serviceniveau i spildevandsplanen og gælder herved kun for den håndtering af 
+risiko for oversvømmelse ved tag- og overfladevand, som spildevandsforsyningsselskabet i den 
+pågældende kommune har ansvaret for. Det er herved kun spildevandsforsyningsselskabernes 
+projekter med formål om håndtering af tag- og overfladevand, der er omfattet af udarbejdelse af 
+vurdering af samfundsøkonomisk hensigtsmæssighed forbundet med klimatilpasning. Metoden 
+medtager kun direkte og indirekte skader på markedsomsatte værdier i opgørelsen af 
+skadesomkostninger. Ikke-markedsomsætte værdier er herved ikke mulige at anvende i 
+opgørelsen. Oversvømmelsestypen er skybrud, men påvirkning fra vandløb, hav og grundvand 
+kan medtages som f.eks. randbetingelser, hvis det anses nødvendigt for at kunne opstille en 
+retvisende, hydraulisk model. Nærværende oplysninger er baseret på Miljøstyrelsen (2022).  
+ 
+4.2.1 Beskrivelse af skadesværdier/skadesfunktioner 
+Datagrundlaget for skadesværdierne tager udgangspunkt i forventede skadesomkostninger, 
+som baseres på nationale skadesværdier, såfremt kommuner og 
+spildevandsforsyningsselskaber ikke har mere præcise tal tilgængelig. Hvis kommuner og 
+spildevandsforsyningsselskaber har mere præcise tal tilgængelige skal disse benyttes. Metoden 
+skal dog være konsistent på tværs af hele spildevandsområdet i kommunen.  
+ 
+De nationale skadesværdier for bebyggelse bygger på COWI (2014) og baseres på 
+forsikringsbranchens erstatningsskader og tilknyttede forsikringsudbetalinger, hvor alle 
+adresser, der har modtaget en erstatning, er tilknyttet et adressenummer, bygnings- og 
+eventuelt kælderareal.  
+ 
+ 
+
+ 
+ 
+30 Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 
+Tabel 4-1. Tabellen inkluderer overordnede skadeskategorier samt subkategorier. Der er angivet, om der er tale om en dybdeafhængig skade, samt hvorvidt der for skaden anvendes en skadesværdi 
+eller skadesfunktion. Kolonnen længst til højre angiver kilde for estimat/skadesfunktion.  
+ Skadeskategori  Subkategori Forhold Dybde Dybde-
+afhængig Enhed Skadesværdi/Skadesfunktion Kilde 
+Serviceniveaubekendtgørelsen  
+(Miljøstyrelsen, 2022) 
+Bebyggelse  Oversvømmelse af 
+kælder Privat * Nej Kr./m 2 kælder 578 
+COWI, 2014. Forsikringsdata for 6 års 
+udbetalte skadeserstatninger (fra 2006-
+2012) i København og Frederiksberg 
+kommune** 
+Bebyggelse Oversvømmelse 
+stueetage Privat * Nej Kr./m2 stueetage 1.257 
+COWI, 2014. Forsikringsdata for 6 års 
+udbetalte skadeserstatninger (fra 2006-
+2012) i København og Frederiksberg 
+kommune** 
+Bebyggelse Bygningsskade Erhverv og offentligt * Nej Kr./virksomhed 238.418 
+COWI, 2014. Forsikringsdata for 
+udbetalte oversvømmelseserstatninger 
+til virksomheder ifm. skybrud 2. juli 
+2011** 
+Bebyggelse Drifts-
+/produktionstab Erhverv og offentligt * Nej Kr./virksomhed 181.651 
+COWI, 2014. Forsikringsdata for 
+udbetalte oversvømmelseserstatninger 
+til virksomheder ifm. skybrud 2. juli 
+2011** 
+Bebyggelse Tab af løsøre Erhverv og offentligt * Nej Kr./virksomhed 153.268 
+COWI, 2014. Forsikringsdata for 
+udbetalte oversvømmelseserstatninger 
+til virksomheder ifm. skybrud 2. juli 
+2011** 
+Elforsyning Elsvigt Privat *** Nej Kr./husstand 2.230 Københavns Kommune, 2010** 
+Elforsyning Elsvigt Offentlige institutioner *** Nej Kr./offentlig institution 6.693 Københavns Kommune, 2010** 
+Elforsyning Elsvigt Erhverv *** Nej Kr./virksomhed 6.693 Københavns Kommune, 2010** 
+Infrastruktur Oprydning Veje, jernbaner og 
+lufthavne 10 cm Nej Kr./m2 3 Kystdirektoratet, 2020** 
+Infrastruktur Trafikforstyrrelse   Nej Kr./køretøjstime 301 Transportministeriet, 2022* 
+Oversvømmelsesloven 
+(Kystdirektoratet, 2021) 
+Bebyggelse Bygningsskade 
+Helårsbolig, erhverv, 
+landbrug, fritidshuse 
+og offentlige 
+institutioner 
+20 cm Ja Kr./bygning 𝐵𝑦𝑔𝑛𝑖𝑛𝑔𝑠𝑣æ𝑟𝑑𝑖 ∗ሺ13,3 ∗𝑣𝑎𝑛𝑑𝑑𝑦𝑏𝑑𝑒
+൅22ሻ/100 
+Jensen 2009. Data indsamlet ifm. 
+oversvømmelser i Dk i 1973 og 2006 i 
+Sønderjylland, Løgstør og Nordfyn af 
+KDI, 2009 
+Bebyggelse Skade på indbo 
+Helårsbolig, erhverv, 
+landbrug, fritidshuse 
+og offentlige 
+institutioner 
+20 cm Ja Kr./bygning ሺ𝑋1% 𝑎𝑓 𝑏𝑦𝑔𝑛𝑖𝑛𝑔𝑠𝑣æ𝑟𝑑𝑖𝑒𝑛 ∗4,4 ൅68ሻ∗∗∗∗ 
+100 െ0,68  
+Jensen 2009. Data indsamlet ifm. 
+oversvømmelser i Dk i 1973 og 2006 i 
+Sønderjylland, Løgstør og Nordfyn af 
+KDI, 2009,  
+Bebyggelse Virksomhedstab Erhverv (industri, 
+butikker og kontorer)  Ja - ‐  
+Burzel et al. 2018. Baseret på data fra 
+Danmarks Statistik vedr. 
+erhvervssektorer, aktiver, 
+aktivbeholdninger og værditilførsel pr. 
+medarbejder.  
+Infrastruktur Oprydning Veje, jernbaner og 
+lufthavne 10 cm Nej Kr./m2 3 
+Kystdirektoratet 2020. Kvadratmeterpris 
+fastsat efter Aalborg Kommunes 
+oprydning efter det årlige karneval.  
+
+
+ 
+ 
+Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 31 
+Landbrug Husdyrbesætning  Kvæg eller svin 
+80 cm (kvæg) 
+og 10 cm 
+(svin) 
+Nej Kr./dyr 5.663 (kvæg) og 1.703 (svin) Kystdirektoratet 2004. Skadesmodel 
+udviklet af landbrugsrådgivning Syd. 
+Landbrug Afgrøder 
+Vinter-kornafgrøder, 
+vår-kornafgrøder og 
+græs 
+10 cm Nej Kr./m2 ‐  Kystdirektoratet 2004. Skadesmodel 
+udviklet af landbrugsrådgivning Syd  
+SkadesØkonomi  
+(Halsnæs et al. 2022) 
+Bebyggelse -
+stormflod Helårsbeboelse Privat - Ja Kr./m2 𝑚ଶሺ1167,86 ∗logሺ𝑣𝑎𝑛𝑑𝑑𝑦𝑏𝑑𝑒ሻെ571,21ሻ  Kaspersen et al. 2022 
+Bebyggelse -
+stormflod Erhverv Erhverv - Ja Kr./m2 𝑚ଶሺ1387,94 ∗logሺ𝑣𝑎𝑛𝑑𝑑𝑦𝑏𝑑𝑒ሻെ881,8ሻ Kaspersen et al. 2022 
+Bebyggelse -
+stormflod Forsyning Erhverv og offentligt - Ja Kr./m2 𝑚ଶሺ1387,94 ∗logሺ𝑣𝑎𝑛𝑑𝑑𝑦𝑏𝑑𝑒ሻെ881,8ሻ  Kaspersen et al. 2022 
+Bebyggelse -
+stormflod Offentlig Offentlig - Ja Kr./m2 𝑚ଶሺ1387,94 ∗logሺ𝑣𝑎𝑛𝑑𝑑𝑦𝑏𝑑𝑒ሻെ881,8ሻ Kaspersen et al. 2022 
+Bebyggelse -
+stormflod Kultur Erhverv og offentligt  - Ja Kr./m2 𝑚ଶሺ1387,94 ∗logሺ𝑣𝑎𝑛𝑑𝑑𝑦𝑏𝑑𝑒ሻെ881,8ሻ Kaspersen et al. 2022 
+Bebyggelse -
+stormflod Sommerhus Privat - ja Kr./m2 𝑚ଶሺ1681,71 ∗logሺ𝑣𝑎𝑛𝑑𝑑𝑦𝑏𝑑𝑒ሻെ2128,87ሻ   Kaspersen et al. 2022 
+Bebyggelse -
+stormflod Garage Privat 20 cm Nej Kr./bygning 30.000 Kaspersen et al. 2022 
+Bebyggelse -
+stormflod Anneks Privat 20 cm Nej Kr./bygning 30.000 Kaspersen et al. 2022 
+Bebyggelse -
+stormflod Andet - 20 cm Nej Kr./m 2 stueetage 2.000 Kaspersen et al. 2022 
+Bebyggelse -
+stormflod Ingen data - 20 cm Nej Kr./m2 stueetage 2.000 Kaspersen et al. 2022 
+Bebyggelse -
+stormflod Kælder Privat 20 cm Nej Kr./m 2 kælder 578 Kaspersen et al. 2022 
+Bebyggelse - 
+Skybrud Helårsbeboelse Privat 20 cm Nej Kr./m2 stueetage 1.257 Kaspersen et al. 2022 
+Bebyggelse - 
+Skybrud Erhverv Erhverv 20 cm Nej Kr./m2 stueetage 1.407 Kaspersen et al. 2022 
+Bebyggelse - 
+Skybrud Forsyning Erhverv og offentligt 20 cm Nej Kr./m2 stueetage 1.407 Kaspersen et al. 2022 
+Bebyggelse - 
+Skybrud Offentlig  Offentlig 20 cm Nej Kr./m2 stueetage 1.407 Kaspersen et al. 2022 
+Bebyggelse - 
+Skybrud Kultur Erhverv og offentligt  20 cm Nej Kr./m2 stueetage 1.407 Kaspersen et al. 2022 
+Bebyggelse - 
+Skybrud Sommerhus Privat 20 cm Nej Kr./m2 stueetage 1.249 Kaspersen et al. 2022 
+Bebyggelse - 
+Skybrud Garage Privat 20 cm Nej Kr./bygning 3.000 Kaspersen et al. 2022 
+Bebyggelse - 
+Skybrud Anneks Privat 20 cm Nej Kr./bygning 3.000 Kaspersen et al. 2022 
+Bebyggelse - 
+Skybrud Andet -  Nej Kr./m2 stueetage 1.000 Kaspersen et al. 2022 
+Bebyggelse - 
+Skybrud Ingen data -  Nej Kr./m2 stueetage 1.000 Kaspersen et al. 2022 
+Bebyggelse - 
+Skybrud Kælder Privat  Nej Kr./m2 kælder 578 Kaspersen et al. 2022 
+
+
+ 
+ 
+32 Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 
+ 
+* Der angives ingen specifik skadesudløsende vanddybde i Serviceniveaubekendtgørelsen. I COWI (2014) benyttes en skadesudløsende vanddybde på 10 cm for bebyggelse.  
+** Skadesværdierne er opgivet i 2021-værdier (DKK).  
+*** Elsvigt er baseret på omkostninger ved elforsyningssvigt i fem døgn, og der er herved ikke angivet en udløsende vanddybde for denne skadeskategori.  
+**** For Oversvømmelsesloven er skaden på indbo beregnet som en lineær funktion, hvor en procentdel af bygningsværdien benyttes ved indboskade på helårsbolig (50%), erhverv (50%), landbrug 
+(15%), fritidshuse (20%) og offentlige institutioner (30%). Værdien i parentes indsættes i ligningen ved ”X1”.   
+ 
+Bebyggelse -  
+vandløb Helårsbeboelse Privat  Ja Kr./m2 𝑚ଶሺ389,29 ∗logሺ𝑣𝑎𝑛𝑑𝑑𝑦𝑏𝑑𝑒ሻെ190,40ሻ  Kaspersen et al. 2022 
+Bebyggelse – 
+vandløb Erhverv Erhverv  Ja Kr./m2 𝑚ଶሺ462,65 ∗logሺ𝑣𝑎𝑛𝑑𝑑𝑦𝑏𝑑𝑒ሻെ293,93ሻ  Kaspersen et al. 2022 
+Bebyggelse – 
+vandløb Forsyning Erhverv og offentligt  Ja Kr./m2 𝑚ଶሺ462,65 ∗logሺ𝑣𝑎𝑛𝑑𝑑𝑦𝑏𝑑𝑒ሻെ293,93ሻ  Kaspersen et al. 2022 
+Bebyggelse – 
+vandløb Offentlig Offentlig  Ja Kr./m2 𝑚ଶሺ462,65 ∗logሺ𝑣𝑎𝑛𝑑𝑑𝑦𝑏𝑑𝑒ሻെ293,93ሻ  Kaspersen et al. 2022 
+Bebyggelse – 
+vandløb Kultur Erhverv og offentligt   Ja Kr./m2 𝑚ଶሺ462,65 ∗logሺ𝑣𝑎𝑛𝑑𝑑𝑦𝑏𝑑𝑒ሻെ293,93ሻ  Kaspersen et al. 2022 
+Bebyggelse – 
+vandløb Sommerhus Privat  Ja Kr./m2 𝑚ଶሺ560,57 ∗logሺ𝑣𝑎𝑛𝑑𝑑𝑦𝑏𝑑𝑒ሻെ709,62ሻ  Kaspersen et al. 2022 
+Bebyggelse – 
+vandløb Garage  Privat 20 cm Nej Kr./bygning 3.000 Kaspersen et al. 2022 
+Bebyggelse – 
+vandløb Anneks Privat 20 cm Nej Kr./bygning 3.000 Kaspersen et al. 2022 
+Bebyggelse – 
+vandløb Andet - 20 cm Nej Kr./m2 stueetage 1.000 Kaspersen et al. 2022 
+Bebyggelse – 
+vandløb Ingen data  - 20 cm Nej Kr./m2 stueetage 1.000 Kaspersen et al. 2022 
+Bebyggelse -  
+vandløb Kælder Privat 20 cm Nej Kr./m2 kælder 578 Kaspersen et al. 2022 
+Værditab Reduceret salgspris Privat  Nej Kr. 4 pct. af salgspris Nationalbanken 2021 
+Landbrug Skader på afgrøder Erhverv  Nej Salgspris for 
+afgrøde/ha - Kaspersen et al. 2022 
+Landbrug  Varigt jordtab  Erhverv    Nej  Kr./ha  140.000  Kaspersen et al. 2022 
+Infrastruktur Trafikforstyrrelse Kørsel med forlænget 
+rejsetid - Nej Kr./køretøjstime 301 Transportministeriet, 2021 
+Infrastruktur  Oversvømmelse af 
+vej 
+Oprydning pr. meter 
+vej.  ‐  Nej Kr./m 20 Kaspersen et al. 2022 
+Rekreative 
+områder 
+Oversvømmelse af 
+rekreativt område 
+Adgang til rekreativt 
+område  ‐   Nej  Kr.   𝑂𝑚𝑘𝑜𝑠𝑡. ൌ 𝑉æ𝑟𝑑𝑖 ሺ𝑘𝑟. ሻ
+𝑎𝑟𝑒𝑎𝑙 ሺ𝑚ଶሻ 𝑜𝑣𝑒𝑟𝑠𝑣ø𝑚. 𝑎𝑟𝑒𝑎𝑙ሺ𝑚ଶሻ
+∗𝑣𝑎𝑟𝑖𝑔ℎ𝑒𝑑 ሺ𝑑𝑎𝑔𝑒ሻ 
+Zandersen et al. 2020 og Levin et al. 
+2017 
+Turisme 
+Skader på 
+sommerhuse, 
+hoteller, museer, 
+mv. 
+Tab af indtægter ‐  Nej Kr. /overnatning 
+𝑂𝑚𝑘𝑜𝑠𝑡.
+ൌ𝑘 𝑎 𝑝 𝑎 𝑐 𝑖 𝑡 𝑒 𝑡∗𝑎 𝑛 𝑡 𝑎 𝑙 𝑚𝑖𝑠𝑡𝑒𝑑𝑒 𝑜𝑣𝑒𝑟𝑛𝑎𝑡.
+∗𝑖𝑛𝑑𝑡æ𝑔𝑡 𝑝𝑟. 𝑜𝑣𝑒𝑟𝑛𝑎𝑡𝑛𝑖𝑛𝑔 
+Kaspersen et al. 2022 
+
+
+ 
+ 
+Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 33 
+ 
+Enhedsomkostningerne ved oversvømmelse af privat bebyggelse baseres på seks års 
+udbetalte skadeserstatninger (fra 2006-2012) i Københavns og Frederiksberg kommuner. Hvis 
+data benyttes i relation til andre kommuner end København og Frederiksberg, er der tilknyttet 
+visse usikkerheder, som relaterer sig til, hvorvidt opgørelser for København og Frederiksberg er 
+repræsentative for andre kommuner.  
+ 
+Enhedsomkostningerne ved oversvømmelse af erhverv og offentlig bebyggelse baseres på 
+Forsikring & Pensions totalopgørelse for udbetalte oversvømmelseserstatninger i forbindelse 
+med skybruddet den 2. juli 2011. I rapporten gøres der opmærksom på, at der for 
+erhvervsejendomme findes et begrænset datagrundlag, hvorfor der anvendes en simpel tilgang, 
+hvor den gennemsnitlige skadesværdi baseres på det samlede antal virksomheder, der har haft 
+oversvømmelser og tilknyttede forsikringsudbetalinger. Afsnit 3.3. fremhæver, at typen af 
+virksomhed er afgørende for de potentielle omkostninger af en oversvømmelse, hvor 
+virksomheder med et stort og dyrt produktionsapparat og/eller betydelig lagerbeholdning vil 
+have en større skadesværdi ved oversvømmelse. Der kan derfor være visse usikkerheder 
+forbundet med skadesopgørelsen ved at benytte den simple tilgang, da der ikke tages højde for 
+differentierede omkostninger for forskellige virksomhedstyper.  
+ 
+Elsvigt er beskrevet i en rapport udarbejdet for Københavns Kommune i 2010
+2 og er baseret på 
+omkostninger ved elforsyningssvigt i op til fem døgn, hvor skaderne er prissat med et afsæt i 
+samfundsøkonomiske enhedspriser. Kildereferencen fører i flere led tilbage til rapporten 
+Omkostninger ved elforsyningssvigt udarbejdet af Energistyrelsen (2004)3. På nuværende 
+tidspunkt benyttes kun én skadesværdi for hhv. privat husstande, offentlige institutioner og 
+virksomheder, men det må antages, at skadesomkostninger varierer med længden af elsvigt, og 
+hvilken virksomhedstype der udsættes for elsvigtet. Det kræver dog, at data er tilgængelige, før 
+det er muligt at inkludere denne differentiering i sin skadesopgørelse. 
+ 
+Den anvendte oprydningskvadratmeterpris er baseret på metoden anvendt i forbindelse med 
+Oversvømmelsesloven (afsnit 4.3), som benytter tal for oprydning i forbindelse med Aalborg 
+Karneval. Skadesværdien inkluderer ikke skader forbundet med kraftig beskadigelse eller 
+nyetablering. Det er generelt udfordrende at prissætte oprydning af infrastruktur, hvorfor denne 
+skadesværdi er benyttet. Visse usikkerheder kan dog være forbundet med brugen af denne 
+skadesværdi i relation til generel oprydning af infrastruktur efter oversvømmelse, da det kan 
+overvejes, hvorvidt oprydningskvadratmeterprisen i forbindelse med Aalborg Karneval er 
+repræsentativ for generel oprydning af infrastruktur.  
+ 
+Beregning af den økonomiske skadesværdi forbundet med trafikale forstyrrelser er baseret på 
+DTU Transports Landstrafikmodel, TERESA, som stilles til rådighed af Transportministeriet. Ud 
+fra den nationale opgørelse er der angivet én skadesværdi for trafikale forstyrrelser, og der 
+tages derfor ikke højde for differentierede omkostninger ved forsinkelse for personer i private og 
+erhvervsmæssige sammenhænge, som må antages at have en betydning for 
+enhedsomkostningen. TERESA har denne differentiering til rådighed, hvor enhedsprisen 
+(kr./time) er væsentlig større ved forsinkelse i erhvervsmæssige sammenhænge sammenlignet 
+                                                                                                                                                        
+2 Muligheder og konsekvenser af klimasikring af København mod oversvømmelser (Københavns Kommune, 2010) 
+3 https://ens.dk/sites/ens.dk/files/contents/material/file/omkostninger_elsvigt.pdf   
+
+ 
+ 
+34 Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 
+med private sammenhæng. De differentierede enhedspriser, angivet i TERESA, kan derfor med 
+fordel benyttes i forbindelse med beregningen af skadesomkostningen ved trafikale forsinkelser. 
+Det bemærkes, at den tid, som borgerne bruger på oprydning mv. efter oversvømmelser, ikke 
+indgår i vurderingerne, da dette tidsforbrug ikke værdisættes under bebyggelser. 
+ 
+4.2.2 Anvendt metode til vurdering af sårbarhed 
+Den totale økonomiske skade er opgjort pba. skadesværdier for håndgribelige, markedsomsatte 
+skader. Skadesværdierne tager udgangspunkt i forventede skadeomkostninger, og i pkt. 6.3 i 
+bilag 1 til bekendtgørelsen er det specifikt anført, at der ikke er fastlagt niveauer af sårbarhed, 
+for hvornår en skadesværdi, f.eks. et almindeligt parcelhus, regnes med i risikokortlægningen 
+som skadet. Det er ikke fastlagt i bekendtgørelsen, da det kræver et stort lokalkendskab at 
+kunne fastlægge sårbarheden, idet det varierer meget fra område til område. For at metodikken 
+ikke skævvrides for sammenlignelige arealanvendelser, anbefaler Miljøstyrelsen, at der som 
+udgangspunkt anvendes samme niveau for sårbarhed for samme skadesværdityper på tværs af 
+en kommune. 
+ 
+4.3 Oversvømmelsesloven  
+Indholdet i Oversvømmelsesloven er udarbejdet iht. EU’s oversvømmelsesdirektiv og har til 
+formål at vurdere og styre risikoen for oversvømmelser fra hav og vandløb. Kystdirektoratet 
+(KDI) udarbejdede i 2018 en national risikovurdering af oversvømmelse fra hav og vandløb. 
+Som det opfølgende led i arbejdet med EU’s oversvømmelsesdirektiv blev der foretaget en 
+nærmere kortlægning af faren, skaden og risikoen for oversvømmelse i de udpegede 
+risikoområder. Metodegrundlaget skitseret i det følgende bygger på den opdatering af 
+metoderapporten, som blev udgivet i 2020 (Kystdirektoratet 2020) for planperiode 2, som en 
+revision af metoderapporten fra 2013. 
+ 
+Datagrundlaget for identificering af inkluderede skadestyper er for bygningsskader og skader på 
+indbo samt virksomhedstab baseret på BBR-udtræk fra 2019. Inkluderede kategorier for 
+infrastruktur er trukket fra Kortforsyningen. Tal for husdyrbesætning og skader på afgrøder er 
+trukket fra Erhvervs- og Landbrugsstyrelsen, hvor der differentieres mellem svin og kvæg ud fra 
+en gennemsnitsbetragtning på tværs af eksisterende undergrupper. Markblokinformationer er 
+differentieret på tværs af tre typer afgrøder. 
+ 
+4.3.1 Beskrivelse af skadesværdier/skadesfunktioner 
+Skadesmodellen for bygningsskade i Oversvømmelsesloven baserer sig på bygningens 
+nedskrevne værdi og beregnes på baggrund heraf som en lineær funktion af bygningsværdien 
+(ejendomsvurdering fratrukket grundværdien) og vanddybden. Skade på indbo er desuden 
+inkluderet for bygningstyperne helårsbolig, erhverv, landbrug, fritidshuse og offentlige 
+institutioner. Anvendelse af dette vurderingskoncept er ensbetydende med geografisk variation, 
+idet to ens bygninger placeret i hhv. by- og landområder vil blive værdisat forskelligt. Dette 
+forhold er gældende for både bygningsskade og skade på indbo.  
+ 
+Skadesmodellen for skader på virksomheder beregner den direkte skade på den påvirkede 
+virksomhed som funktion af vanddybden. Modellen omfatter af tab på bygninger, inventar og 
+lagerbeholdninger og differentierer mellem industri, butikker og kontorer i den private sektor. 
+
+ 
+ 
+Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 35 
+Selve skadesfunktionen og skadesudløsende vanddybde er beskrevet i metoderapporten af 
+Burzel et al. (2018). 
+ 
+Ved vurderingen af skader på virksomheder er det anvendte inputdata for værdiansættelse af 
+virksomheder koblet op på hovedkontorer for de enkelte virksomheder samt antallet af ansatte 
+tilknyttet det pågældende kontor. Den estimerede skadesværdi er med andre ord koblet op på, 
+hvor mange ansatte der i inputdata er angivet tilknyttet til bygningen. Herved er der altså en 
+central usikkerhed knyttet til differencen mellem det antagne antal medarbejdere i 
+datagrundlaget og det faktiske antal medarbejdere.  
+ 
+Desuden indgår erhverv ligeledes i skadesmodellen for bygninger og indbo, hvorfor der i 
+modellen beregnes skade for berørte erhverv to gange. Den fremkomne skadesværdi vil derfor 
+være et overestimat. 
+ 
+Oprydning af infrastruktur findes ikke pristal for oprydning af infrastruktur, hvorfor den anvendte 
+oprydningskvadratmeterpris er baseret på tal for oprydning ifm. Aalborg Karneval i lighed med 
+Serviceniveaubekendtgørelsen. 
+ 
+Skade pr. husdyr for svin og kvæg er ikke differentieret på undergrupper, men tager 
+udgangspunkt i en gennemsnitsbetragtning på tværs af forskellige undergrupper for hhv. svin 
+og kvæg. Tabet er sammensat af den forventede værdi af dyret ved slagtning samt det 
+produktionstab, der vil følge. Dette sker under antagelse af, at dyrene ikke vil kunne slagtes, 
+hvis de er udsat for oversvømmelse. Inputdata er knyttet til matriklen, men det er ikke muligt at 
+identificere om dyrene befinder sig på oversvømmede arealer eller ej. Hertil er data vedr. antal 
+husdyr og typeangivelse knyttet til matriklerne fra 2015 og må derfor antages at være forældede 
+for nogle områder. 
+ 
+Slutteligt er skader på afgrøder omfattet af to antagelser. Først antages det, at vandet bliver i 
+området i mere end én måned, og dernæst antages det, at oversvømmelsen finder sted i 
+perioden mellem marts og oktober og at området er oversvømmet i minimum én måned. Det 
+fremgår af Kystdirektoratet 2004, at der er betydelig forskel på betydningen af oversvømmelse i 
+hhv. oktober og marts, idet omkostningerne stiger mellem oktober og marts. I rapporten af 
+Kystdirektoratet (2004) dokumenteres ligeledes skader forbundet med oversvømmelse af 
+afgrøder for både 5, 14 og 28 dage. Vanddybde er beskrevet som værende af mindre 
+betydning, idet skaderne i høj grad vil stamme fra øget saltindhold i jorden, men 
+skadesfunktionen antager dog en minimumsvanddybde på 10 cm.  
+ 
+4.3.2 
+Anvendt metode til vurdering af sårbarhed 
+Den totale økonomiske skade beregnes ved at summere det totale tab for hver af de 
+inkluderede markedsomsatte skadestyper. Metodegrundlaget for Oversvømmelsesloven 
+inkluderer ligeledes en række uhåndgribelige (ikke-markedsomsatte) skadeskategorier, som 
+kan kobles til den estimerede totaløkonomiske værdi estimeret på baggrund af de inkluderede 
+markedsomsatte skadeskategorier.  
+ 
+
+ 
+ 
+36 Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 
+4.4 SkadesØkonomi 
+SkadesØkonomi er et open source-værktøj udviklet af DTU gennem COHERENT-projektet og 
+finansieret af Innovationsfonden. Metoden anvendes i dag af omkring 30 kommuner. De 
+anvendte modeller i SkadesØkonomi er GIS-baserede og kan anvendes til beregninger af 
+skader på detaljeret, geografisk niveau. Skadesmodellerne indeholdt i SkadesØkonomi har 
+oprindeligt været udviklet i et innovationsfondsprojekt, særligt mhp. at assistere kommunerne 
+med beregninger af skader ved oversvømmelser ved kysterne. SkadesØkonomi er senere 
+blevet overtaget af GeoData Fyn og en række kommuner, som har videreudviklet modellen i 
+forhold til de inkluderede sektormoduler samt inklusion af data for oversvømmelser fra skybrud.  
+ 
+Skadesmodellerne anvendt i SkadesØkonomi indeholder standarddata, som kan anvendes for 
+de inkluderede skadestyper. Der er dog også mulighed for, at brugeren selv kan indtaste data.  
+Datagrundlaget er udformet som shapefiler. 
+ 
+For bygninger hentes data fra Dataforsyningen (Styrelse for Dataforsyning og Infrastruktur), 
+som angiver lokalitet, omrids og anvendelse. Bygnings-ID fra Dataforsyningen kobles med 
+information om bygningsanvendelse fra BBR. Der findes i alt 120 forskellige 
+bygningsanvendelser, fordelt i to anvendelseskategorier. Samtlige bygningsanvendelser fordelt 
+på anvendelseskategorier fremgår af appendix A i Halsnæs et al. 2021. 
+ 
+Data for vejnet indeholder data for hovedveje og baseres på et nationalt datasæt fra 
+Dataforsyningen. Rekreative arealer er baseret på datasæt, som indeholder lokalitet, størrelse 
+samt økonomisk vurdering af adgangen til en stor andel af større, rekreative områder i Danmark 
+estimeret som en årlig monetær værdi af adgangen hertil for den danske befolkning af 
+Zandersen et. al 2020). Datasættet er udvidet med indhold fra mindre, rekreative arealer fra 
+Basemap02, hvor den monetære værdi er estimeret som produktet af den kommunalt 
+gennemsnitlige værdi estimeret af Zandersen et al. (2020) og det rekreative areals størrelse.  
+ 
+El- og fjernvarmeværker, risikovirksomheder, undervisningsinstitutioner er opgjort baseret på 
+nationale datasæt, som angiver lokalitet og beskrivelse. 
+ 
+4.4.1 Beskrivelse af skadesværdier/skadesfunktioner  
+SkadesØkonomi er et nyt værktøj, hvor både metodebeskrivelse og vejledning er under et år 
+gamle (Halsnæs et al, 2022a, Kaspersen et al 2022). Der er væsentlige forskelle imellem 
+skadesfunktionerne i de to dokumenter; ikke mindst er skadesfunktionen for bygningsskader 
+forskellige i de to dokumenter. Der er derfor rettet henvendelse til udviklerne for at sikre, at 
+nedenstående er en korrekt beskrivelse af skadesfunktionerne. Det er vejledningen, der er mest 
+opdateret, hvorfor det i nogle tilfælde er vanskeligt at rapportere baggrunden for de opstillede 
+skadesfunktioner. En revideret og uddybet metoderapport med mere udførlig dokumentation af 
+data og påpegning af mulighederne for et forbedret datagrundlag er under udarbejdelse. 
+ 
+SkadesØkonomi differentierer mellem skader udløst af stormflod, skybrud og oversvømmelser 
+fra vandløb. Det vil sige, at på tværs af disse tre typer anvendes forskellige skadesværdier eller 
+-funktioner. Nærværende beskrivelse fokuserer på skadesværdier for stormflod. 
+ 
+
+ 
+ 
+Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 37 
+Der er estimeret skadesfunktioner for helårsboliger, fritidshuse, erhverv, forsyning, offentlig, 
+kultur, sommerhuse, garager, anneks, andet og tilfælde, hvor der ingen data findes. For 
+stormflod og oversvømmelser fra vandløb er der estimeret skadesfunktioner (kr. for 
+helårsbeboelse, erhverv, forsyning, offentlig, kultur og sommerhus). For de resterende 
+kategorier er der estimeret en skadesværdi, som udløses ved (standardværdi) 20 cm vand.  
+ 
+Skadesfunktionerne er udarbejdet baseret på, at der for hver bygningskategori findes en 
+gennemsnitlig omkostning for hver 10 cm vanddybde, hvorefter datapunkterne er fittet til en 
+logaritmisk funktion. Funktionerne findes for hver kvadratmeter ved at dividere med det 
+gennemsnitlige antal kvadratmeter for hver kategori. Data anvendt til at estimere 
+skadesfunktionerne for bygninger stammer fra  
+ 
+ Skadesdata fra Stormrådet  
+ Danmarks Adressers Web API (DAWA) 
+ Kysdirektoratets højvandsstatistik  
+ Havvand på Land data (SDFE) 
+ 
+Skadesdata fra stormrådet er anvendt til at estimere skader for bygningskategorierne 
+helårsbolig, fritids- og sommerhus samt erhverv. Der er tale om data for udbetalte forsikringer 
+ved storme fra 2013-2017 på adresseniveau, for bygningsomkostninger og løsøre. Der er 
+udelukkende anvendt data på sager, som ikke er afvist, og hvor adresserne har kunnet findes i 
+enten DAWA eller på Google. I alt er der tale om 2.553 datapunkter.  
+ 
+For erhvervsbygninger har der kun været 206 datapunkter tilgængelige, hvorfor der i stedet er 
+anvendt data om forsikringsudbetalinger for skybrud fra Forsikring og Pensions statistik. Ud af 
+statistikken er størrelsesforholdet mellem skaderne på erhvervsbygninger og helårsboliger 
+fundet til en faktor 3,5. Denne faktor er anvendt til at skalere skadesfunktionen for helårsbolig, 
+under antagelse af, at samme forhold vil være gældende under stormflod (Kaspersen, 2022). 
+ 
+Skadesberegninger for kælder inkluderes, hvis bygningsdatasættet indeholder en kolonne med 
+et kælderareal. I brugervejledningen (Kaspersen et al. 2022) er der ikke knyttet yderligere 
+kommentarer til det metodiske grundlag herfor.  
+ 
+Der er i metoden mulighed for at inkludere ikke-erstattede ekstraomkostninger til udbedring af 
+skader og bygninger på indbo. Denne mulighed er inkluderet med udgangspunkt i en 
+undersøgelse af beboere, som var berørte af stormen Bodil i 2013. Resultater herfra indikerer, 
+at forsikringsudbetalingerne ikke dækkede de fulde omkostninger forbundet med 
+oversvømmelsen, og at de berørte beboere i gennemsnit skulle dække ekstraomkostninger på 
+næsten 35 % af det forsikrede beløb. Det bemærkes i relation hertil, at brugeren har mulighed 
+for selv at indberette en procentsats her som alternativ til de 35 % af det forsikrede beløb. Der 
+vil dog antageligt relatere sig usikkerheder til repræsentativitet i undersøgelsen af beboere 
+berørt af stormen Bodil i 2013.  
+ 
+Værditab for boliger ved salg i en størrelsesorden på 4 % af salgsværdien af huse er baseret på 
+en analyse af Nationalbanken 2021. Der er forholdsvis stor usikkerhed forbundet med vurdering 
+af ejendomsprisernes påvirkning af oversvømmelsesrisici. Usikkerheder knytter sig dels til et 
+
+ 
+ 
+38 Metodetilgange for beregning af økonomisk skade på  bygninger til risikoanalyser ifm. klimatilpasning 
+forholdsvis spinkelt datagrundlag for vurdering, og dels det faktum, at fremtidige ejendomspriser 
+må formodes at være påvirket af yderligere en række faktorer. Herunder f.eks. tilgængeligheden 
+af transparent information omkring risikoen for oversvømmelse og bestemte hændelser, samt 
+hvorvidt den finansielle sektor inkorporerer dette i deres risikobetragtning. Det er valgfrit, om 
+brugere af SkadesØkonomi vil anvende modellen for værditab for boliger ved salg, og herunder 
+under hvilke forudsætninger dette gøres.  
+ 
+For garager er der fastsat en fast værdi for skader på 30.000 kr. Tallet er ikke verificeret, og 
+brugere opfordres til at bruge egne data, hvis dette er muligt.  
+ 
+Ekstra rejsetid er estimeret pba. trafikdata på vejstrækningsniveau og en enhedsomkostning på 
+301 kr./køretøjestime. Beregningen af længere rejsetid er baseret på modelkørsler foretaget af 
+DTU ved at benytte Landstrafikmodellen. Landstrafikmodellen er anvendt til at estimere, 
+hvordan rejsetiden ændres i tilfælde af oversvømmelse af vejnettet, og trafikken bliver 
+langsommere samt alternative rutevalg. Estimaterne beror således på en række analyser ved 
+benyttelse af modellen for forskellige stormflodshændelser. Idet at Landstrafikmodellen alene 
+indeholder oplysninger om hovedfærdselsårer, vil der være en sandsynlighed for, at de 
+estimerede skadesværdier for trafikale forsinkelser vil udgøre et underestimat.  
+ 
+Økonomisk tab forbundet med afgrødetab estimeres med udgangspunkt i salgsværdien for den 
+pågældende afgrøde og arealet, som oversvømmes, på de pågældende marker. Der er 
+ligeledes estimeret en værdi for varigt jordtab på 140.000 kr./ha. For både stormflod, nedbør og 
+oversvømmelse fra vandløb tages der udgangspunkt i, at skaderne forbundet hermed kan 
+medvirke til at et område undergår et varigt jordtab ved oversvømmelse svarende til en 5-års 
+hændelse eller mere (med udgangspunkt i det nuværende klima).  
+ 
+De økonomiske konsekvenser forbundet med oversvømmelse af rekreative værdier er baseret 
+på en sammenkobling af data og økonomiske estimater fra Zandersen et al. (2020) og en 
+udvidelse af dette med rekreative arealer fra Basemap02 (Levin et al., 2017). Der er taget 
+udgangspunkt i den gennemsnitlige kommunale værdi pr. m
+2, som kobles med det rekreative 
+areals størrelse. Brugeren skal selv indtaste værdier for varigheden af oversvømmelsen. 
+Omkostningerne forbundet med oversvømmelse regnes således som en funktion af produktet af 
+den estimerede værdi i kr./m2, arealets størrelse og varighed af oversvømmelsen. 
+Skadesmodellen er således baseret på nogle forholdsvis simple antagelser. F.eks. i forhold til 
+præferencer for rekreative muligheder (samt heterogenitet i præferencerne), men ligeledes 
+antagelser vedrørende udløsning af skade. Desuden bemærkes det, at de anvendte 
+værdiestimater er baseret på såkaldt rejseomkostningsmetode, som anvendes til udelukkende 
+at estimere brugsværdier af rekreative områder. Værdier, som måtte ligge herudover, er derfor 
+ikke inkluderet med udgangspunkt i den anvendte metode.  
+ 
+Omkostningerne forbundet med mistet turisme ved oversvømmelse er baseret på en simpel 
+funktion, hvor antallet af oversvømmede overnatningsmuligheder ganges med antallet af 
+mistede overnatninger de pågældende steder samt den gennemsnitlige indtægt pr. overnatning 
+i Danmark. Beregningsforudsætningerne anvendt baserer sig på tal fra VisitDenmark 
+(VisitDenmark 2022). Skadesfunktionen udregner omkostningerne som produktet af de tre 
+variable i kroner.  
+ 
+
+ 
+ 
+Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 39 
+4.4.2 Anvendt metode til vurdering af sårbarhed 
+Skadesmodellerne i SkadesØkonomi er GIS-baserede og kombinerer herved konsekvenser 
+med tilknyttet økonomisk værdi med en række fysiske indikatorer for konsekvenser, som ikke 
+har tilknyttet en økonomisk værdi. SkadesØkonomi beror således for de økonomisk opgjorte 
+skader på en almindelig CBA-opgørelse, hvor skadesværdierne på tværs af sektorer 
+aggregeres. Både beregningsforudsætninger og datagrundlag varierer betragtelig mellem de 
+enkelte skadesmodeller. Desuden indeholder SkadesØkonomi ud over foreslåede 
+standardværdier mulighed for brugerdefinerede indtastninger.  
+ 
+Som det også påpeget i metodegrundlaget (Halsnæs et al. 2022), er der ligeledes forholdsvis 
+stor variation i, hvor godt de inkluderede skadeskategorier kan repræsenteres på baggrund af 
+tilgængelig viden og data. F.eks. foreligger der for forskellige bygningstyper data fra tidligere 
+stormflodshændelser til repræsentation af bygningserstatninger. Dette er dog ikke tilfældet for 
+samtlige inkluderede sektorer, hvormed estimering af skadesværdier vanskeliggøres.  
+ 
+4.5 Evaluering af skadesberegningerne i forhold til teoretisk model  
+I det følgende afsnit sammenlignes skadesberegningsmetoderne med det teoretiske 
+udgangspunkt med fokus på modellerne opstillet i kapitel 3. Sammenligningen forholder sig til, 
+om beregningsmetoderne inddrager variablene skitseret i den teoretiske model, og hvordan 
+disse variable er anvendes. Grundantagelsen er, at de matematiske modeller opstillet i kapitel 3 
+udgør den mest korrekte ramme for at beregne skaderne af oversvømmelse.  
+  
+I tabel 4-2 opsummeres, hvordan de tre beregningsmetoder forholder sig til den teoretiske 
+model. Ingen af modellerne er i modstrid med den teoretiske ramme, men der er stadig store 
+metodiske forskelle. Hvis beregningsmetoden indeholder en variabel eller en proxy-variabel 
+beskrevet i den teoretiske ramme, markeres dette med et kryds. Krydset kan være henholdsvis 
+grønt, blåt eller rødt, afhængigt af hvorvidt variablen, der indgår i skadesberegningerne, 
+anvendes på en henholdsvist udmærket måde, en ikke-tilstrækkeligt dokumenteret måde eller 
+en problematisk måde. En ”udmærket” anvendelse af variablen kræver, at data og 
+modelstruktur er dokumenteret på en reproducerbar måde, og at alternative modelformuleringer 
+er undersøgt i forhold til den faktisk anvendte. 
+  
+4.5.1 Serviceniveaubekendtgørelsen 
+Skadesomkostningerne i Serviceniveaubekendtgørelsen inddrager ikke elementer af 
+farefunktionen i skadesberegningerne, bortset fra at bekendtgørelsen dækker 
+regnvandsforårsagede oversvømmelser. Der bliver ikke gjort forskel på dybden af 
+oversvømmelsen, strømningsforhold og kinetisk energi, varighed af oversvømmelsen eller 
+mængden af drivmateriale og forurenende fremmedstoffer. Skadesfunktionerne bygger på 
+forsikringsdata indsamlet i forbindelse med skybrudoversvømmelser. Det indebærer bl.a., at der 
+primært er tale om data, hvor vanddybden er lav eller ikke er dokumenteret. Det gør, at denne 
+skadesfunktion formentlig kun bør anvendes til at beregne skader for oversvømmelser med lav 
+vanddybde og forårsaget af skybrud. 
+  
+Serviceniveaubekendtgørelsen opgør bygningsskaderne i forhold til bygningens størrelse og 
+opdeler kvadratmeterne i forhold til kælder og stueetage. Serviceniveaubekendtgørelsen 
+
+ 
+ 
+40 Metodetilgange for beregning af økonomisk skade på  bygninger til risikoanalyser ifm. klimatilpasning 
+inddrager således ikke bygningskvalitet, bygningsalder eller bygningsvedligeholdelse. 
+Derudover er beregningerne ikke dokumenteret på et niveau, hvor det er muligt fagligt at 
+vurdere kvaliteten af enhedstallene. I 2022 forsøgte tre specialestuderende uden held at 
+reproducere enhedsomkostningerne for boliger i COWI (2014), som ligger til grund for 
+Serviceniveaubekendtgørelsen (Brøndum et al., 2022).   
+  
+Serviceniveaubekendtgørelsen behandler alle virksomheder ens og inddrager bygningsskader, 
+driftstab og løsøre. Skaderne opgøres per virksomhed i enhedstal. For den enkelte virksomhed 
+vil et sådant estimat give forkerte beregninger, men hvis en større gruppe af virksomheder 
+eksponeres, vil variationerne udligne hinanden. Det kræver dog, at der ikke er systematiske fejl 
+i enhedstallene. Det er ikke muligt at vurdere, hvorvidt der er systematiske fejl, eller om 
+enhedstallene vil misrepræsentere potentielle skader i konkrete cases pga. mangelfuld 
+dokumentation. Igen vil anvendelsen af enhedstallene skulle begrænses til oversvømmelser 
+med lav vanddybde forsaget af skybrud.  
+  
+Metoden i Serviceniveaubekendtgørelsen med udgangspunkt i den nationale skadesværdier 
+muliggør inkludering af elsvigt og transport. Værdien af elsvigt kunne være undersøgt bedre. 
+Det skyldes sandsynligvis, at elsvigt ikke sker særlig ofte i Danmark. Derimod er tab ved 
+transporttid velunderbygget på baggrund af TERESA modellen. Det vurderes derfor, at 
+transporttid behandles udmærket i Serviceniveaubekendtgørelsen. Til gengæld behandles 
+borgernes tid på oprydning og udbedring af skader ikke på samme måde, hvilket giver en 
+metodemæssig skævhed. 
+ 
+4.5.2 Oversvømmelsesloven 
+Oversvømmelsesloven anvender vanddybde som farevariabel, men inddrager ikke de andre 
+variable beskrevet i den teoretiske model. Det skal i den forbindelse gentages, at vanddybde vil 
+være den dominerende variabel (se afsnit 2.3.1), der beskriver den største variation i forhold til 
+farens omfang for danske forhold.  
+  
+Bygnings- og indboskader bliver behandler som en funktion af bygningsværdi (forskellen 
+mellem ejdomsværdi og grundværdi) og vanddybde. Værdien fungerer som proxy for 
+bygningsskadeskarakteristika såsom bygningsstørrelse, bygningskvalitet, bygningsvedligehold 
+og bygningsalder. Denne proxy er dog problematisk. Såvel den omfattende videnskabelige 
+litteratur om hedonisk prissætning som Skats betydelige investering i 
+ejendomsværdimodellering viser, at andre variable er dominerende i forhold til ejendommes 
+værdisætning, også selvom Skat indtil videre ikke har ønsket at dokumentere deres 
+ejendomsværdimodeller. Metodisk er det derfor en svaghed, at der vil være regionale forskelle 
+på skadesfunktionerne, som er urealistiske. Endvidere er modellen svær at vedligeholde, fordi 
+den vil være baseret på en sammenhæng, der ændrer sig over tid. Selve skadesfunktionen på 
+såvel bygningsskader som løsøre er ikke dokumenteret tilstrækkeligt til, at det er muligt at 
+vurdere troværdighederne af beregningerne. 
+  
+Virksomheders tab i forbindelse med oversvømmelse bliver modelleret, i forhold til hvor 
+værdiskabende en ansat er for en specifik branche, og hvor mange ansatte der vil være i et 
+givent oversvømmet område. Igen må denne tilgang fortolkes som en proxy-variabel for skader 
+af produktionsapparat, tab af lagerbeholdning og tabt indtjening pga. nedetid. Tilgangen er ikke 
+
+ 
+ 
+Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 41 
+dokumenteret i tilstrækkelig grad til, at det er muligt at vurdere troværdigheden af den valgte 
+proxy-variabel-tilgang. Lagerbeholdning i form af afgrøder og husdyr bliver behandlet separat i 
+Oversvømmelsesloven. De særskilte tab for landbruget er ikke dokumenteret tilstrækkeligt til, at 
+de kan valideres.  
+  
+I Oversvømmelsesloven indregnes oprydningsomkostningerne i forhold til transportinfrastruktur, 
+mens tabet af brugen ikke medregnes som et tab. Ingen andre infrastrukturomkostninger 
+medregnes. 
+   
+4.5.3 SkadesØkonomi  
+SkadesØkonomi opdeler oversvømmelsesskader i forhold til stormflod fra havet, 
+oversvømmelser fra vandløb og skybrud. Skadesværdier for skybrud er i overensstemmelse 
+med Serviceniveaubekendtgørelsen, hvorfor den ikke diskuteres yderligere. 
+Skadesberegningerne for de øvrige skader inddrager ligeledes størrelse på bygninger og 
+bygningens funktion, f.eks. bolig, erhverv, sommerhus, garage, osv. Skadesberegningerne er 
+ikke tilstrækkeligt dokumenteret til, at det er muligt at vurdere skadesberegningernes 
+troværdighed. 
+  
+Reduceret salgspris indgår som et særskilt tab, men det er svært at vurdere, hvad tabet i 
+salgsprisen er et udtryk for i forbindelse med oversvømmelse. Der mangler en fyldestgørende 
+diskussion af, hvad salgspriserne repræsenterer for at undgå eventuel ”double counting” i 
+skadesberegningerne. Huspristabet kunne eksempelvis repræsentere forventningen til tab i 
+forhold til selvrisiko, eller risikoaversion, manglende forsikringsdækning, osv.   
+  
+Landbruget behandles eksplicit som i Oversvømmelsesloven. Ydermere behandler 
+SkadesØkonomi også turisme i forhold til tabt indtjening relateret til overnatninger, der ikke kan 
+finde sted på lokaliteter, der er oversvømmede. På den måde antager man dels, at turister tager 
+hjem eller bliver hjemme uden mulighed for at finde alternative muligheder for overnatning, og 
+dels at reparation af de påvirkede hoteller mv. sker øjeblikkeligt. Begge antagelser anses for at 
+være urealistiske, og der vil formentlig kræve en væsentlig indsats at opstille rimelige 
+skadesfunktioner i forbindelse med påvirkning af turisme, der forholder sig til de teoretiske 
+overvejelser i kapitel 2. 
+ 
+Infrastruktur bliver behandlet i forhold til transporttidstab og oprydning og dækker på den måde 
+de skadesberegninger, der hver for sig indgår i Serviceniveaubekendtgørelsen og 
+Oversvømmelsesloven. Rekreative arealer indgår ligeledes i SkadesØkonomi og baseres 
+udelukkende på et enkelt rejseomkostningsstudie og nogle antagelser, som er svære at 
+retfærdiggøre teoretisk. Konsekvensen er at tab af rekreation undervurderes derved formentlig i 
+betydeligt omfang. 
+ 
+  
+
+ 
+ 
+42 Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 
+Tabel 4-2. Overblik over hvilke variable Serviceniveaubekendtgørelsen, Oversvømmelsesloven og SkadesØkonomi 
+inddrager i forhold til de teoretiske modeller i kapitel 2. Farven på markeringen angiver hhv. udmærket anvendelse af 
+variable, ikke tilstrækkeligt dokumenteret variabel, problematisk anvendelse af variabel. En udmærket anvendelse af 
+variablen kræver, at data og modelstruktur er dokumenteret på en reproducerbar måde. Parenteser anvendes, når der 
+tale om proxy-variable. 
+ 
+ 
+Serviceniveau-
+bekendtgørelsen 
+Oversvømmel-
+sesloven 
+Skades-
+Økonomi 
+Fare 
+Oversvømmelse: Grundvand      
+Oversvømmelse: Regnvand  x  x 
+Oversvømmelse: Vandløb    x x 
+Oversvømmelse: Hav    x x 
+Dybde af oversvømmelse    x x 
+Kinetisk energi i vandet     
+Varsling     
+Varighed af oversvømmelse      
+Koncentration af fremmedstoffer mm.    
+Bygning 
+Bygningsstørrelse x (x) x 
+Bygningskvalitet  (x)  
+Bygningsalder  (x)  
+Bygningsvedligeholdelse  (x)  
+Bygningsetage  (x) x 
+Husholdninger 
+Materielle tab x x x 
+Immaterielle tab    
+Tabt arbejdstid    
+Genhusning    
+Sygdom    
+Risikoaversion    
+Virksomhed 
+Kontor (vk)  x x  
+Service & handel (vs)  x x  
+Turisme (vt) x  x 
+Produktion (vp) x x  
+Skade på produktionsapparat  x (x) 
+Tab af lagerbeholdning x x (x) 
+Tab af indtægter pga. nedetid  x  (x) 
+Virksomhedssubstitutionseffekt    
+Infrastruktur Energi x   
+Vand    
+Transport x x x 
+Natur & rekreation   x 
+Bered- 
+skab Varsling og beredskab    
+ 
+ 
+4.5.4 Opsamling af evaluering af metoder 
+Den væsentligste anke imod de eksisterende metoder er, at der mangler dokumentation i 
+forhold til såvel data, som den måde data anvendes på. Derudover er Oversvømmelsesloven 
+
+ 
+ 
+Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 43 
+den eneste metode, der forsøger at forholde sig til bygningens tilstand ud over størrelsen. Den 
+proxy, der anvendes, er dog problematisk. Samlet set er det vanskeligt at vurdere 
+skadesfunktionernes troværdighed. Den manglende dokumentation giver sig ydermere udslag i 
+usikkerhed omkring, hvor og i hvilken kontekst de opstillede skadesfunktioner har gyldighed.  
+  
+Alle beregningerne er afgrænset til genanskaffelsesomkostninger og baseret på forsikringsdata. 
+Den eneste danske undersøgelse af denne afgrænsning påpeger, at denne metode 
+underestimerer de reelle omkostninger for boligområder, hvilket understøttes af internationale 
+undersøgelser. 
+ 
+Alle beregningerne har et bud på udvalgte skadesfunktioner, men beskriver ikke alle 
+sammenhænge opstillet i den teoretiske model. Det kan ikke undgås at give en skæv 
+repræsentation af skader og et fejlestimat af de faktiske skadesomkostninger. Samlet set er det 
+vanskeligt at benytte de undersøgte metoder til vurdering af samfundsøkonomiske analyser. 
+ 
+ 
+  
+
+ 
+ 
+44 Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 
+5. Anvendelse af udvalgte danske skadesmodeller 
+på bygninger 
+Dette kapitel gennemgår regneeksempler af de tre metoder beskrevet i tidligere afsnit. 
+Eksemplerne opstilles med henblik på at illustrere forskelle og uligheder, der kan opstå ved 
+brug af værktøjerne på tværs af Danmark. 
+  
+Regneeksemplerne er bygget op om ”arketyper” af boliger. Det vil sige, at beregninger 
+foretages for gennemsnitlige boliger i Danmark jf. Danmarks Statistik. Denne tilgang omkring 
+arketyper gør 
+  
+ at fokus specificeres omkring metoderne for beregning af økonomisk skade, og 
+ at resultater er uafhængige af de variable, metoderne indeholder, men ikke specificerer, 
+som sårbarhed og modelopbygning, og 
+ at resultater er uafhængige af de mange kommunekonstellationer, der findes i 
+Danmark. 
+ 
+5.1 Data og antagelser 
+Der tages udgangspunkt i data fordelt på kommunalplan i Danmark jf. Danmarks Statistik. Fra 
+Danmarks Statistik hentes data om antal boliger (Danmarks Statistik, BOL104), om 
+gennemsnitlige boligstørrelser (Danmarks Statistisk, BOL106) og om beskatningsværdier 
+(Danmarks Statistik, ESKAT). 
+ 
+Angivne arealer i Danmarks Statistik er samlede boligarealer, og det vides ikke om, arealerne er 
+fordelt over én, to eller flere etager. Det må derfor antages i de følgende afsnit, at arealerne 
+repræsenterer bygningsaftryk, og alle bygninger dermed er i et plan. Det antages desuden, at 
+kælderarealer er en fjerdedel af boligarealerne. Antagelserne omkring arealer har betydning i 
+anvendelsen af Serviceniveaubekendtgørelsen og SkadesØkonomi, idet bolig- og kælderareal 
+indgår i skadesberegningerne ved disse metoder. Usikkerhederne ved disse antagelser 
+kommenteres ved resultaterne. 
+ 
+Statistik for bygningsværdier udregnes fra statistik om beskatning. Bygningsværdier (også 
+kaldet forskelsværdi) kan dog kun udtrækkes som totalsum på kommunalplan, og den 
+gennemsnitlige bygningsværdi per bolig findes derfor ved at dividere den totale bygningsværdi 
+for kommunen med antal boliger. 
+ 
+Baseret på den gennemsnitlige bygningsværdi i en kommune udvælges til regneeksemplerne 
+kommunerne med den laveste bygningsværdi, den højeste, samt 25 %-, 50 %- og 75 %-
+percentilerne (dvs. de bygningsværdier, der gør sig gældende i hhv. mindst 25 % af 
+kommunerne, 50 % og 75 %). De fem kommuner, der svarer til de udvalgte percentiler (inkl. 
+laveste og højeste percentil), er Ærø, Frederikssund, Syddjurs, Sorø og Gentofte, se Tabel 5-1. 
+Data for disse kommuner inkluderes i de efterfølgende afsnit. 
+ 
+
+ 
+ 
+Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 45 
+Tabel 5-1. Den gennemsnitlige bygningsværdi for landets kommuner er udregnet som basis for disse regneeksempler, 
+og tabellen viser fem kommuner udvalgt på baggrund af percentiler for gennemsnitlige bygningsværdier (ESKAT og 
+BOL104, Danmarks Statistik). 
+Percentil [%] Gennemsnitlig 
+bygningsværdi [DKK] Kommune 
+1 689.405 Ærø 
+25 1.072.916 Frederikssund 
+50 1.184.831 Syddjurs 
+75 1.317.008 Sorø 
+100 1.846.832 Gentofte 
+ 
+5.2 Skadesomkostninger for et gennemsnitligt parcelhus med kælder 
+Den mest almindelige boligform i Danmark er parcelhuse, og det er derfor højst sandsynligt at 
+skader på parcelhuse, vil udgøre den største omkostning i langt de fleste kommunale 
+skadesanalyser for oversvømmelser. Kun i kommuner med større byer med mange 
+etagebyggerier vil parcelhuse ikke være den mest almindelige boligform. Tabel 5-2 viser 
+procentandelen af parcelhuse af det totale antal boliger i de udvalgte kommuner samt 
+gennemsnitlige arealer for parcelhuse. 
+ 
+Tabel 5-2. Gennemsnitligt areal for parcelhuse i de fem udvalgte kommuner og procentandelen af parcelhuse i 
+kommunerne (BOL104 og BOL106, Danmarks Statistik). 
+Kommune Areal pr. 
+parcelhus [m2] 
+Parcelhuse af 
+boliger totalt [%] 
+Ærø 149,3 69 
+Frederikssund 147,9 41 
+Syddjurs 155,9 46 
+Sorø 150,7 61 
+Gentofte 177,1 30 
+ 
+Baseret på ovenstående data anvendes de tre beregningsmetoder for et gennemsnitligt 
+parcelhus med kælder i de udvalgte kommuner. For SkadesØkonomi anvendes kun 
+skadesfunktioner for stormflod. Skadesfunktionerne for skybrud i SkadesØkonomi stammer fra 
+samme metodegrundlag som Serviceniveaubekendtgørelsen og vil i dette regneeksempel for 
+en typisk bolig derfor give samme resultater som Serviceniveaubekendtgørelsen. Alle 
+potentielle skadesomkostninger for en bolig inkluderes. Dvs. regneeksemplet udregnes for bolig 
+inkl. formlen for kælderskade i Serviceniveaubekendtgørelsen og SkadesØkonomi og inkl. 
+indboskade ved Oversvømmelsesloven. Som nævnt tidligere inkluderer skadesfunktionen for 
+SkadesØkonomi også skader på løsøre/indbo, og formlen for bygningsskade i 
+Serviceniveaubekendtgørelsen inkluderer ”inventar” (COWI, 2014). Værditab fra 
+SkadesØkonomi inkluderes ikke. 
+ 
+Figur 5-1 viser et simpelt eksempel på skadesomkostninger ved 30 cm vand for et typisk 
+parcelhus udvalgte steder i Danmark. Variationer i resultater afhænger af bygningsværdier og 
+
+ 
+ 
+46 Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 
+boligstørrelser. Resultater afhængige af alle parametre, inkl. vanddybder præsenteres i Figur 
+5-2. 
+ 
+Standardværdier for, hvornår bygningsskader udløses i Oversvømmelsesloven og 
+SkadesØkonomi er 20 cm, men for at vise udviklingen ved mindre vandstande, såfremt 
+brugeren skulle vælge lavere værdier, vises grafernes udvikling fra 10 cm. 
+ 
+I Figur 5-2 ses, at skadesomkostninger for oversvømmelser typisk ligger i spændet fra 
+200.000 kr. op til 800.000 kr. (vanddybder op til 1 m) for typiske parcelhuse i Danmark. 
+ 
+ 
+ 
+ 
+ 
+Figur 5-1. Danmarkskort med eksempler på skadesomkostninger ved 30 cm vanddybde. Lokationer er udvalgt på 
+baggrund af de gennemsnitlige bygningsværdier i landets kommuner. Ærø Kommune har de gennemsnitligt laveste 
+bygningsværdier, mens Gentofte Kommune har de højeste, og Frederikssund, Syddjurs og Sorø Kommuner markerer 
+hhv.  25 %, 50 %- og 75 %-percentilerne i datasættet. Resultater fra metoden i Serviceniveaubekendtgørelsen 
+afhænger af bygningsarealer (se gennemsnitlige værdier i Tabel 5-2), mens resultater fra metoden i 
+Oversvømmelsesloven afhænger af bygningsværdier, og resultater fra SkadesØkonomi afhænger af vanddybder og 
+bygningsarealer. 
+ 
+
+
+ 
+ 
+Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 47 
+ 
+Figur 5-2. Skadesomkostninger for et typisk parcelhus i kommuner ved anvendelse af de tre beregningsmetoder fra 
+Serviceniveaubekendtgørelsen, Oversvømmelsesloven og SkadesØkonomi. Udover vanddybder afhænger variationer 
+også af størrelse og bygningsværdier. Bemærk at vanddybden for, hvornår skader typisk udløses er 20 cm i 
+Oversvømmelsesloven og SkadesØkonomi, men der er mulighed for at brugere kan indtaste andre værdier, og derfor 
+vises grafernes udvikling fra 10 cm. 
+ 
+ 
+Såfremt man først anskuer skader ved 20 cm og over, viser Figur 5-2 at SkadesØkonomi 
+(prikkede kurver) generelt er den metode, der viser de højeste skadesomkostninger for en 
+enkelt bolig. Resultaterne for SkadesØkonomi flader ud ved større vanddybder og vil på et 
+tidspunkt blive lavere end for Oversvømmelsesloven. Variationen i SkadesØkonomi skyldes 
+hovedsageligt bygningsstørrelsen, og det ses, at det gennemsnitligt større hus (prikkede, lilla 
+kurve) oplever større skadesomkostninger end de andre, mindre huse. Det er vigtigt at 
+bemærke, at antagelserne gjort om boligstørrelser i afsnit 5.1 sandsynligvis fører til en 
+overvurdering i skadesomkostningerne, idet det blev antaget, at alle boliger kun forekommer i ét 
+plan. Det er sandsynligt, at mere retvisende data for bebyggede arealer vil vise mindre arealer 
+og dermed lidt færre skadesomkostninger ved anvendelse af metoden i SkadesØkonomi. 
+ 
+Ydermere bemærkes, at SkadesØkonomi indeholder en ”vådperimeterfunktion” (Kaspersen, 
+2022), som betyder, at minimum 5 % af en bygnings perimeter skal oversvømmes, før en skade 
+udløses. Uden ”vådperimeterfunktionen” vil samlede skadesbeløb for et område overestimeres. 
+Dette eksempel tager dog kun udgangspunkt i en enkelt bygning, og det antages, at hvis der 
+ligger minimum 20 cm vand om en bolig, vil vådperimeterfunktionen nås. 
+ 
+Efter SkadesØkonomi er metoden for Oversvømmelsesloven den, der giver de største skader 
+generelt. Større skader ved brug af Oversvømmelsesloven (og stormflodsmodulet i 
+
+
+ 
+ 
+48 Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 
+SkadesØkonomi) er forventet ud fra en praktisk baggrund om, at både saltvand samt 
+oversvømmelser ved stormflod giver flere skader, idet saltvand i forhold til ferskvand samt den 
+længere varighed af stormfloder giver flere skader i praksis. Kun ved lave bygningsværdier og 
+vanddybder (her rød, stiplet kurve) falder resultater fra Oversvømmelsesloven under resultater 
+fra Serviceniveaubekendtgørelsen. Generelt ses det, at såfremt Oversvømmelsesloven 
+anvendes på tværs af landets kommuner, vil resultaterne i 75 % af kommunerne (stiplede 
+kurver i orange, gul, grøn og lilla) bliver større end ved brug af metoden i 
+Serviceniveaubekendtgørelsen. 
+ 
+Metoden i Oversvømmelsesloven er desuden den model, der skaber de største uligheder 
+kommunerne i mellem. Parcelhuse i kommuner med de laveste bygningsværdier oplever en 
+forskel til kommuner med de højeste bygningsværdier på gennemsnitligt 300.000 kr. per 
+bygning allerede ved en vandstand på 20 cm vandstand, og forskellen er stigende med 
+vanddybderne. Kapitel 6 diskuterer ulighederne ved de forskellige metoder yderligere. 
+ 
+Metoden beskrevet i Serviceniveaubekendtgørelsen giver generelt de laveste 
+skadesomkostninger. Med udgangspunkt i de nationale skadesværdier afhænger metoden kun 
+af størrelsen på skaderamte boliger, og skadesomkostninger er derfor konstante uanset 
+vanddybde. Forskelle opstår i de varierende boligstørrelser, der opleves på tværs af landet, og 
+det ses, at de gennemsnitligt større boliger i Gentofte (lilla graf) oplever skadesomkostninger for 
+45.000 kr. mere end de gennemsnitligt mindre boliger i Frederikssund (orange graf). 
+ 
+Skaderne beregnet ved anvendelse af Serviceniveaubekendtgørelsen er lavere end de to andre 
+metoder, til trods for antagelsen om, at boligarealerne anvendt i beregningerne sandsynligvis er 
+overvurderede. En væsentlig årsag hertil er formentlig, at skadesfunktionen ikke afhænger af 
+dybden, og at det formentlig skyldes, at de data, der er benyttet til at opstille skadesfunktionen, 
+primært er baseret på lave vanddybder. Det bør dog også gentages, at skader fra regnvand vil 
+forventeligt være mindre end skader fra havvand grundet lavere saltindhold og kortere 
+varigheder af oversvømmelser, så nogen forskel i resultater må være at forvente alene på 
+baggrund af farekilden. 
+ 
+5.3 Skadesomkostninger for andre boligtyper 
+For rækkehuse i de respektive kommuner vil anvendelse af SkadesØkonomi, 
+Oversvømmelsesloven og Serviceniveaubekendtgørelsen typisk give mindre 
+skadesomkostninger end eksemplet for parcelhuse, idet både bygningsværdier og størrelser er 
+mindre end for parcelhuse. 
+ 
+For etageboliger vil resultater variere afhængig af, hvordan forudsætninger for beregningerne 
+defineres. Oversvømmelsesloven kan give forskellige resultater, idet bygningsværdi opgives på 
+bygningsniveau, men da det oftest kun er lejligheder i stueplan, der er udsatte ved en 
+oversvømmelse, bør det overvejes, hvordan man udregner/fordeler bygningsværdier for 
+etageboliger. Ved anvendelse af Serviceniveaubekendtgørelsen og SkadesØkonomi kan det 
+findes nødvendigt at opdele større sammenhængende etagebyggerier, idet oversvømmelser i 
+én ende af en stor bygning ikke nødvendigvis giver oversvømmelser i den anden ende af 
+bygningen. Derfor kan forudsætninger for beregninger af skader på etageboliger og herunder 
+
+ 
+ 
+Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 49 
+definitioner af både stue- og kælderarealer give meget varierende resultater. Det er derfor 
+særligt vigtigt at dokumentere alle forudsætninger, når metoderne anvendes på etageboliger. 
+ 
+5.4 Potentielle kontraster inden for samme kommuner 
+I alle kommuner findes selvsagt små og store boliger med mindre og større bygningsværdier. 
+Udover gennemsnitlige skadesomkostninger for kommunerne på tværs af landet, kan 
+anvendelse af metoderne derfor også give variationer inden for samme kommunegrænse. 
+Nedslag på en lille bolig uden for et byområde i Ærø Kommune i forhold til en stor bolig i et 
+byområde i Ærø Kommune giver en forskel i skadesomkostninger på ca. 270.000 kr. ved brug 
+af SkadesØkonomi ved en vanddybde på 30 cm (se skadesomkostningerne i Tabel 5-3). Ved 
+brug af hhv. Serviceniveaubekendtgørelsen og Oversvømmelsesloven er forskellen ca. 115.000 
+kr. og 100.000 kr. 
+ 
+Samme øvelse i Gentofte Kommuner, der har særligt store spænd i bygningsværdier, viser, at 
+forskelle i skadesomkostninger mellem små og store boliger ved brug af Oversvømmelsesloven 
+kan være så store som 1.370.000 kr. Ved hhv. Serviceniveaubekendtgørelsen og 
+SkadesØkonomi er forskellen ca. 190.000 kr. og 520.000 kr., se Tabel 5-3. 
+ 
+ 
+Tabel 5-3. Eksempel på forskelle i skadesomkostninger inden for en kommunegrænse ved brug af de forskellige 
+metoder. Ved anvendelse af alle metoderne kan der i kommuner med store spænd i størrelser og især bygningsværdier 
+skabes store uligheder borgerne i mellem. 
+Skader ved 
+30 cm [DKK] 
+Serviceniveau-
+bekendtgørelsen  
+Oversvømmelses- 
+loven SkadesØkonomi 
+Kommune Lille bolig Stor 
+bolig Lav værdi Stor værdi Lille bolig Stor bolig 
+Ærø* 91.000 190.000 94.000 210.000 245.000 514.000 
+Gentofte** 91.000 284.000 136.000 1.509.000 245.000 769.000 
+* Et tilfældigt nedslag på en lille bygning uden kælder på Ærø viste en bygning på 72 m 2 med en bygningsværdi på 
+334.000 kr. (Skat, 2022), mens et nedslag på en stor bygning viste 151 m2 med 745.000 kr. i bygningsværdi 
+(Skat, 2022). 
+** Et tilfældigt nedslag på en lille bygning uden kælder i Gentofte viste en bygning på 72 m 2 med en bygningsværdi på 
+483.000 kr. (Skat, 2022), mens et nedslag på en stor bygning viste 226 m2 med 5.350.000 kr. i bygningsværdi 
+(Skat, 2022). 
+ 
+ 
+Disse kontraster inden for kommunegrænser medfører, at borgere i samme kommune 
+behandles ulige i planlægningen af klimatilpasningsprojekter. Uligheder diskuteres i Kapitel 6. 
+ 
+5.5 Fordele og ulemper ved at anvende metoderne til at beregne 
+bygningsskader 
+Alle tre metoder er baseret på ret simple sammenhænge, hvor faren beskrives ved maksimalt 
+én variabel, og hvor sårbarheden beskrives ved hjælp af bygningens størrelse og/eller 
+bygningsværdi. Alligevel er der ret store forskelle på de angivne resultater. De konkrete 
+
+ 
+ 
+50 Metodetilgange for beregning af økonomisk skade på  bygninger til risikoanalyser ifm. klimatilpasning 
+forskelle i beregningerne er diskuteret i de foregående afsnit, mens dette afsnit vil forsøge at 
+perspektivere disse forskelle. 
+ 
+Diskussionen af metoderne tager i nogen grad udgangspunkt i antagelser om det data, der 
+ligger bag metoderne. Bagvedliggende data har ikke været tilgængelige i forbindelse med 
+nærværende analyse, og derved skal sammenligningen tages med et vist forbehold. Dette kan 
+anskueliggøres ved at sammenligne SkadesØkonomi med en tidligere model udarbejdet af 
+samme gruppe på samme data, se Figur 5-3. I den tidligere model antages det, at 
+skadesfunktionen kun afhænger af vanddybden, mens den senere model også afhænger af 
+størrelsen af huset. Den ene model antager altså, at skaden på et hus for en given vanddybde 
+er konstant, mens den anden model accepterer forskelle på op til en faktor 4 mellem meget små 
+og meget store huse (75 m
+2 versus 300 m2, se Figur 5-3).  
+ 
+ 
+ 
+Figur 5-3. Model for DTU SkadesØkonomi (skaden afhænger kun af vanddybden) sammenlignet med skadesfunktionen 
+for SkadesØkonomi, der varierer, som funktion af bygningsstørrelsen.  
+ 
+Metoden i Serviceniveaubekendtgørelsen med udgangspunkt i de nationale skadesværdier er 
+den metode, der giver de laveste skadesomkostninger ved oversvømmelser ved vanddybder 
+over 20 – 50 cm. Det skyldes, at skadesfunktionen ikke inkluderer vanddybden, hvilket 
+formentlig skyldes, at vanddybden generelt er lav, fordi der er tale om oversvømmelser i 
+byområder, hvor der er et afløbssystem til at afbøde vandmængderne. De fleste internationale 
+erfaringer og de to øvrige metoder har en væsentlig afhængighed af vanddybden ved 
+opstillingen af en skadesfunktion. Det skønnes derfor, at metoden i 
+Serviceniveaubekendtgørelsen generelt vil undervurdere skaderne i forbindelse med store 
+vanddybder.  
+ 
+Oversvømmelsesloven modellerer skaden lineært som funktion af vanddybden mens 
+SkadesØkonomi er en logaritmisk funktion, hvilket giver en relativt større skade for dybder 
+mellem 30 og 100 cm. Endvidere ligger SkadesØkonomi generelt højere end 
+Oversvømmelsesloven. Begge disse forskelle afspejler formentlig primært forskelle i 
+
+
+ 
+ 
+Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 51 
+bagvedliggende data og er næppe udtryk for en forskel, der kan bruges til at argumentere for 
+den ene eller anden metode.  
+ 
+Der er en meget stor forskel i den geografiske lokalitet på Oversvømmelsesloven, som ikke i 
+samme grad afspejles i SkadesØkonomi. Det udtrykker en forskel i bygningsværdierne mellem 
+de geografiske områder. Det er velkendt, at huse, der har en høj bygningsværdi generelt, også 
+vil indeholde dyrere materialer og dyrere indbo. De to udenlandske metoder antager også, at 
+der er en sammenhæng mellem bygningsværdi og den økonomiske skade. Det virker dog 
+intuitivt voldsomt, at skaden udelukkende afhænger af bygningsværdien, hvilket medfører 
+meget større regionale forskelle på skadesfunktionen end ved anvendelse af bygningens 
+størrelse. Bygningsværdien på boliger i Danmark varierer meget, og variationerne er ikke 
+primært baseret på oversvømmelsesrisiko. Metoden baseret på Oversvømmelsesloven vil 
+derfor metodisk føre til større forskelle i hvilke klimatilpasningstiltag, der er mulige, fordi områder 
+med lave huspriser generelt vil have vanskeligt ved at retfærdiggøre omkostninger til reduktion 
+af skaderne, mens områder med høje huspriser kan finansiere endog meget dyre 
+klimatilpasningstiltag. Dette emne behandles mere indgående i næste kapitel. 
+ 
+Metoderne har forskellige grader af frihed i forhold til at ændre på konkrete parameterværdier 
+og tilføje eller slette konkrete skadesfunktioner. Oversvømmelsesloven har ingen muligheder for 
+lokal tilpasning, Serviceniveaubekendtgørelsen giver muligheder for justeringer skadesværdier/-
+funktioner, mens SkadesØkonomi er et helt åbent værktøj. Frihedsgrader i forbindelse med 
+anvendelsen kan ses som en fordel, der kan give mere præcise analyser lokalt. Det kan dog 
+også ses som en ulempe i forbindelse med regionale eller nationale analyser, fordi det kan gøre 
+det sværere at sammenligne mellem forskellige områder. Bygningsværdierne på boliger er et 
+eksempel på en sådan lokal justering, der utilsigtet kan medføre forskelle på regionalt plan.  
+ 
+5.6 Perspektivering til større områder 
+Regneeksemplerne er som beskrevet opstillet således, at resultater kan vurderes uafhængig af 
+områdekonstellationer. Idet parcelhuse typisk er den mest almindelige boligform i Danmark (se 
+afsnit 5.2), er det dog stadig rimeligt at antage, at anvendelsen af Oversvømmelsesloven på et 
+større område vil give større skadesomkostninger end såvel Serviceniveaubekendtgørelsen og 
+SkadesØkonomi.  
+ 
+Som beskrevet i afsnit 5.3 kan definitionen af arealer og bygningsværdier i særligt etageboliger 
+være meget vanskelig, og det er muligt, at forsimplinger og overestimeringer af disse kan 
+ændre på ”rangeringen” af metoderne i byområder med en høj procentsats af etageboliger. Idet 
+både definitionen af arealer og bygningsværdier kan variere, kan det ud fra dette eksempel ikke 
+siges, om forskellene mellem metoderne vil blive mindre eller større. 
+ 
+Det bemærkes igen, at SkadesØkonomi inkluderer en ”vådperimeterfunktion”. Det er muligt, at 
+der ved små regnhændelser (lave gentagelsesperioder) med mindre vanddybder og 
+udbredelser ikke beregnes så mange skader som ved de andre to metoder. Ud fra dette 
+eksempel, kan der dog ikke siges noget med sikkerhed om dette. 
+ 
+I forhold til det planlægningsmæssige perspektiv vil det være interessant at undersøge om 
+skadesomkostninger fra oversvømmede, fattigere områder, der typisk har en lav bygningsværdi, 
+
+ 
+ 
+52 Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 
+men en høj bebyggelsesprocent, totalt set er sammenlignelige med skadesomkostninger i 
+områder, der har høje bygningsværdier, men lavere bebyggelsesprocenter. Idet antallet af 
+skader i områder med høje bebyggelsesprocenter selvsagt er højere totalt set end for områder 
+med lave bebyggelsesprocenter, kan forskellen i skadesomkostningerne muligvis helt eller 
+delvis udjævnes mellem disse områder. Dette muliggør, at forskellige kommuner i sidste ende 
+afsætter sammenlignelige pengesummer til klimatilpasning, og ulighederne udjævnes en smule 
+(i hvert fald i planlægningsøkonomien). 
+ 
+  
+
+ 
+ 
+Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 53 
+6. Metodevalg i forhold til ulighedsskabende 
+mekanismer  
+Klimatilpasning bliver i dag vurderet med udgangspunkt i neoklassisk, velfærdsøkonomisk teori, 
+hvor omkostninger og gevinster holdes op mod hinanden. Ideen er, at konkurrerende 
+klimatilpasningsscenarier kan vurderes i forhold til hinanden. På den baggrund kan den 
+optimale løsningen vælges. I den forbindelse indgår undgåede skadesomkostninger som en 
+gevinst, der skal opveje omkostningerne ved forskellige klimatilpasningstiltag. Denne tilgang har 
+sine begrænsninger, blandt andet fordi man ikke analyserer, hvem der får gavn og ulemper af et 
+tiltag. Metoden kan dermed føre til øget økonomisk ulighed fordi fordelingsmæssige aspekter 
+ikke indgår. Det anses for at være et politisk spørgsmål. Resultatet er, at en analyse baseret på 
+velfærdsøkonomisk teori er strengt fokuseret på at optimere velfærd, og samtidig helt 
+ufokuseret når det kommer til ulighed. Her skal velfærd forstås som den samlet nytte/tilfredshed, 
+man opnår ved forskellige tiltag. I den forbindelse kan det foretrukne scenarie sagtens fordele 
+nytten uligt men samtidig give mest muligt nytte, når den samlede nytte summeres. 
+ 
+Inden for visse rammer vil velfærdsøkonomisk analyse ikke resultere i øget ulighed. Her er 
+minimumsrammerne for lighedsfastholdelse i velfærdsøkonomisk analyse:  
+ 
+ Ændringerne eller tiltagene, der analyseres, bør ikke påvirke den fundamentale 
+økonomiske situation eller relationerne mellem nøglevariable, såsom udbud og 
+efterspørgsel på produkter, services og forbrugsgoder.  
+ Ændringerne eller tiltagene, der analyseres, bør påvirke borgere og virksomheder 
+homogent, således at der ikke er parter, der stilles væsentlig bedre eller dårligere af de 
+tiltag, der anbefales i analyserne.  
+ Alle parametre og variable, der indgår i analysen, bør være kendt med tilstrækkelig tillid, 
+at forventede modelestimater kan anses som robuste. 
+ 
+I mange økonomiske analyser overholdes disse rammer for lighed, og på den måde afføder 
+beslutninger truffet på et velfærdøkonomisk grundlag ikke økonomisk ulighed. I nogen tilfælde 
+overholdes kriterierne dog ikke. I det følgende tekst diskuteres, i hvilke situationer rammerne 
+overskrides i forhold til klimatilpasning, og dermed kan give udslag i velfærdsøkonomiske 
+anbefalinger, der øger uligheden. 
+ 
+6.1 Ulighed: Fundamental usikkerhed og systemisk risiko skaber ulighed 
+I det omfang klimatilpasningsprojekter adresserer områder, hvor fundamental usikkerhed og 
+systemisk risiko er til stede, vil beslutninger baseret på cost-benefit analyser føre til ulighed. Det 
+grundlæggende problem vil være at skadesomkostningerne og sandsynlighedsfordelingerne for 
+oversvømmelseshændelser undervurderes (Merz et al, 2015). Når skadesomkostningerne 
+undervurderes, vil cost-benefit analyser pege på løsninger, der reelt fører til underinvesteringer i 
+klimatilpasning. I disse tilfælde er omfanget af risikoen ikke erkendt, og det vil stille risikoudsatte 
+borgere ringere end borgere, der ikke er udsat for risiko. Det vil med andre ord skabe ulighed.  
+ 
+
+ 
+ 
+54 Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 
+I forbindelse med meget ekstreme klimahændelse, der forekommer yderst sjældent, er det ikke 
+muligt at beregne en sandsynlighedsfordeling for hændelsen. I det omfang man alligevel 
+forsøger at beskrive en sandsynlighedsfordeling for ekstreme sjældent hændelser, vil man 
+(næsten) sikkert gætte forkert.  
+ 
+Systemisk risiko er forbundet med komplekse, indbyrdes afhængigheder mellem forskellige 
+aktører inden for et system. Disse interaktioner kan fremkalde ikke-lineære reaktioner, såkaldte 
+samfundsmæssige ”tipping points”, hvor der er et før og et efter i systemet. Systemisk risiko 
+handler således om interaktionerne mellem borgere og virksomheder, der til sammen kan 
+ændre systemet fundamentalt. Omkostningerne forbundet med systemisk risiko er således 
+mere end de individuelle skadesomkostninger for borgere og virksomheder, som normalt 
+opgøres i cost-benefit analyser. Velfærdsøkonomiske analyser fungerer inden for en økonomisk 
+ligevægt, og der findes i dag ingen velfærdsøkonomiske redskaber, der kan beskrive udviklinger 
+hvor status quo forskydes radikalt som f.eks. i forbindelse med oversvømmelse i Holland i 1953, 
+i New Orleans i 2006 og i Fukushima i 2011. 
+ 
+Pointen er, at ekstremt sjældne hændelser forekommer, og de kan have et omfang, som 
+ændrer samfundet på måder, som neoklassisk velfærdsøkonomi har problemer med at 
+beskrive. Blot fordi man ikke har en robust metode til at beskrive denne typer hændelser, så vil 
+det være en fejltagelse at lade som om, de ikke eksisterer, og det kan potentielt føre til ulighed i 
+risikoeksponering. Ingen af de evaluerede beregningsmetoder (Serviceniveaubekendtgørelsen, 
+Oversvømmelsesloven eller SkadesØkonomi) håndterer systemisk risiko i 
+skadesberegningerne. Det betyder, at alle tre skadesberegninger vil tegne et underestimat af de 
+reelle omkostninger, og i sidste ende kan de føre til en underinvestering i klimatilpasning og 
+derigennem ulighed i forhold til sårbarhed. 
+ 
+6.2 Ulighed: Ulighed skaber mere ulighed  
+De husholdninger og virksomheder, der er i risiko for at blive oversvømmet, er ikke en homogen 
+størrelse. I en velfærdsøkonomisk cost-benefit analyse vil individuelle, undgåede 
+skadesomkostninger bliver aggregeret med det formål at få et overblik over den samlede 
+gevinst af forskellige klimatilpasningstiltag. I risikoudsatte områder med en 
+beboersammensætning bestående af relativt velstillede husholdninger, der ejer store huse med 
+dyrt inventar og høje lønninger, vil man se en højere gevinst af klimatilpasningstiltag end for 
+risikoudsatte områder, hvor beboersammensætningen består af relativt fattige mennesker, der 
+ejer små huse med billigt inventar og lave lønninger, jf. eksemplerne i det foregående kapitel. 
+Konsekvensen er, at det bedre kan betale sig at beskytte velstillede områder end fattige 
+område. I det omfang man ikke forholder sig til det faktum, kan det konkret betyde, at velstillede 
+områder sikres bedre end fattige områder. 
+ 
+I det omfang at beboerne i de fattige boligområder bliver opmærksom på den mindre gode 
+beskyttelse, vil det give ressourcestærke beboere en ekstra grund til at fraflytte området. 
+Resultatet kan blive yderligere og/eller hurtigere affolkning af allerede pressede 
+udkantsområder. Det kan også betyde, at beboersammensætningen ændrer sig ved at en mere 
+risikovillig del af befolkningen flytter til udsatte områder, f.eks. ressourcesvage husholdninger, 
+der ikke har meget at tabe. På den måde kan manglende eller mindre klimatilpasning skubbe på 
+
+ 
+ 
+Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 55 
+eksisterende samfundsdynamikker som affolkning og/eller større tab af ressourcestærke 
+husholdninger i sårbare lokalsamfund.  
+ 
+Pointen er, at når husholdninger som udgangspunkt er økonomisk ulige, så vil 
+velfærdsøkonomiske analyser pege på løsninger, der giver yderligere ulighed mellem velstillede 
+og fattige områder. Skadesberegningerne fra Oversvømmelsesloven tager udgangspunkt i 
+bygningsværdier. Det betyder, at dyre boliger vil tælle mere end relativt billige boliger i en 
+velfærdsøkonomisk cost-benefit analyse. Det betyder, at det vil bedre kunne betale sig at 
+klimatilpasse og mindske sårbarheden i regioner eller kommuner med dyre boliger. 
+ 
+Serviceniveaubekendtgørelsen og SkadesØkonomi tager udgangspunkt i enhedstal per 
+kvadratmeter. På den måde tillægges større boliger mere værdi. Det er i sig selv 
+ulighedskabende, da relativt velstillede borgere ofte bor i større boliger end mindre velstillede 
+borgere. I det oprindelige værktøj, som blev udviklet som led i projektet COHERENT, blev 
+skadesfunktionen sat til at være en skade pr. bolig, hvilket derfor som udgangspunkt vil være 
+mere lighedsskabende end de to analyserede modeller. Man kan dog argumentere for, at 
+denne metode vil diskriminere borgere, der har valgt at sætte en større andel af deres formue i 
+deres bolig end andre borgere. 
+ 
+Oversvømmelsesloven baserer skaderne på bygningsværdierne. Som det fremgår af 
+eksemplerne i det foregående kapitel, giver det en større ulighed end de to øvrige modeller. 
+ 
+6.3 Ulighed: Manglende målbarhed skaber ulighed 
+Det er relativt nemt at opstille teoretiske modeller, der beskriver omkostninger og gevinster i en 
+cost-benefit analyse. Det kan være langt svære at udfylde sådanne teoretiske modeller med 
+troværdige variable. I det omfang det ikke er muligt at udfylde modellerne med troværdige 
+variable, kan der sås tvivl om cost-benefit analysens anbefalinger. I det omfang data ikke er 
+tilgængelig, eller på anden måde ikke troværdig, bør ambitionsniveauet tilpasses kvaliteten af 
+tilgængelig information. Hvis data er usikker (som det bl.a. fremgår i denne rapport), bør man 
+fravælge at søge at finde et optimum for cost-benefit analysen. I stedet kan resultaterne 
+fortolkes på en måde, at de giver retning til en beslutning - og altså ikke en udpegning af den 
+velfærdøkonomisk optimale løsning. Denne forståelse er til dels reflekteret i 
+Serviceniveaubekendtgørelsen, hvor kravet ikke et optimum, men blot et positiv cost-benefit 
+resultat for valg af serviceniveau. 
+ 
+I omfang man fastholder et højt teoretisk ambitionsniveau i forhold til modelopsætning, kan en 
+af de negative afledte effekter at modellen være ulighed. På grund af datatilgængelighed vil 
+nogle befolkningsgrupper eller aktiviteter optræde i cost-benefit analysen, mens andre 
+befolkningsgrupper og aktiviteter ikke medregnes pga. manglende data. F.eks. er der data på, 
+hvad en times forsinkelse koster i trafikken i forbindelse med oversvømmelse af vejnettet. Den 
+samme time er ikke opgjort for oprydning i egen bolig efter oversvømmelse. Hvis man medtager 
+den ene time, men undlader den anden, tilskrives bilejeres tid mere værdi, end husholdninger, 
+der oversvømmes. På den måde øges uligheden, og nogle menneskers behov for 
+klimatilpasning undervurderes. 
+ 
+
+ 
+ 
+56 Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 
+Pointen er, at manglende eller mindre troværdig information kan pege på ulighedsskabende 
+løsninger, fordi nogle omkostninger medregnes, mens andre ikke gør. Samtidig kan nogen 
+informationer være så ringe observeret og dårligt dokumenteret, at skadesberegningerne 
+utilsigtet skaber ulighed. Det fremgår tydeligt af figur 4-1 og Tabel 4-1, at ingen af metoderne 
+indeholder en dækkende beskrivelse af den samlede skadesfunktion beskrevet i kapitel 3.  
+ 
+Samtidig er det ikke muligt at vurdere usikkerhederne ved skadesberegningerne, fordi ingen af 
+metoderne er tilstrækkeligt dokumenteret. Nogle af de variable, der indgår i 
+skadesberegningerne, er i sig selv usikre. Bygningsværdien, som indgår i 
+Oversvømmelseslovens metode, lider af betydelig usikkerhed. Denne usikkerhed vil 
+sandsynligvis blive mindsket inden for de kommende år, når Skat får opdateret 
+ejendomsvurderingerne i Danmark. På samme måde har andre variable i alle tre metoder 
+potentiale til at blive opdateret, tilstrækkeligt dokumenteret og gjort mere præcise. 
+Konsekvensen af en sådan øvelse ville være, at utilsigtede målefejl og manglende variable ikke 
+udgør en risiko for fejlvurderinger og ulighedsskabende klimatilpasningsløsninger. 
+ 
+6.4 Opsummering  
+Det bør anerkendes, at klimatilpasning berører systemisk risiko og fundamental usikkerhed med 
+ekstremt højreskæve fordelinger. De undgåede samlede omkostninger for individuelle borger og 
+virksomheder udgør allerhøjest en nedre grænse for de reelle gevinster af klimatilpasning i 
+mange tilfælde. Systemisk risiko og fundamental usikkerhed bør inddrages i 
+beslutningsprocessen, så der ikke underinvesteres i klimatilpasning. 
+ 
+Eksisterende ulighed giver som udgangspunkt udslag i yderligere ulighed, fordi det bedre kan 
+betale sig at beskytte områder med mange velstillede husholdninger, der har relativt mere værdi 
+at tabe i forbindelse med en oversvømmelse. Løsningen kunne evt. være at udarbejde 
+skadesfunktioner, der sikrer at tab fra velstillede og fattige husholdninger vurderes på samme 
+niveau, eventuelt ved at anvende medianen af fordelingen i forhold til forskellige variable. Dette 
+ville være relevant for de beregningsmetoder der tager udgangspunkt i værdien af 
+oversvømmede bygninger.  
+ 
+Der mangler generelt information i forhold til at opbygge robuste modelestimater, der kan indgå 
+i cost-benefit analyser. De tre modeller, der er diskuteret i rapporten, er udarbejdet på baggrund 
+af forskellige data og med forskellige antagelser. Som minimum bør man foretage en samlet 
+bearbejdning af de data, der indgår i disse modeller og hvor forskellige modelantagelser 
+analyseres, herunder deres påvirkning af ulighed. Alternativt kan man forlade det 
+velfærdsøkonomiske aksiom om velfærdsoptimering, og i stedet fortolke dokumenterede og 
+udokumenterede omkostninger som retningsbestemmende, beslutningsstøttende information.  
+ 
+Spørgsmålet kan således gå fra at finde den optimale højde på et dige, til hvorvidt det giver det 
+mening at lave et dige. Hvis man vælger at gå med en retningsbestemt, beslutningsstøttende 
+tilgang, vil beslutningen i højere grad blive politisk end en velfærdsøkonomisk 
+optimeringstilgang, der har en tendens til at føre til teknokratiske beslutninger med politisk 
+godkendelse.  
+
+ 
+ 
+Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 57 
+7. Fremadrettede anbefalinger 
+Som det fremgår af de tidligere kapitler, er der forskelle i såvel metode som bud på konkrete 
+skadesomkostninger på både bygninger og andre skadestyper. Det er et resultat af såvel 
+manglende data som forskelle i metodisk tilgang. Nedenstående anbefalinger er især rettet mod 
+at styrke vidensgrundlaget for skadesomkostninger i forbindelse med vurdering af 
+klimatilpasningsprojekter.  
+ 
+Om indsamling af data  
+Vi anbefaler, at skadesdata indsamles struktureret i forbindelse med ekstremvejrs -
+oversvømmelser, og at denne indsamling af data lever op til FAIR principperne. 
+ 
+Der har det sidste årti været ganske mange oversvømmelser i Danmark, og der er gode 
+eksempler på såvel forsikringsdata som spørgeskemaundersøgelser. Problemet er, at data ikke 
+bliver indsamlet og opbevaret på en struktureret og dokumenteret måde. Det ville være af stor 
+værdi at stille krav til en sådan dataindsamling, og at disse data stilles til rådighed for en enhed, 
+der kan varetage opbygningen af skadesfunktioner ud fra de ønskede principper på nationalt 
+plan. Det skal endvidere sikres, at andre enheder kan få adgang til rådata inklusiv metadata, 
+der muliggør opstillingen af alternative hypoteser og videre anvendelse af data.  
+ 
+Indsamlingen af skadesdata og opgørelse af skadesmodeller burde i den forbindelse foregår 
+med udgangspunkt i FAIR principperne (Wilkinson et al. 2016):  
+ 
+ Findable: Data skal være nem at finde og være velbeskrevet i meta-datarapporter. 
+ Accessible: Data skal være tilgængelige og kunne downloades nemt. 
+ Interoperable: Data skal kunne kobles med andre typer data som f.eks. BBR-data. 
+ Reusable: Data skal kunne genbruges og dermed bl.a. anvende åbne datastandarder. 
+  
+I forbindelse med dataindsamlingen og den videre formidling af data er der nogle sikkerheds- og 
+rettighedsproblematikker, herunder individuel databeskyttelse, der naturligvis bør overvejes. 
+Dette kan løses, men det bemærkes samtidig, at oversvømmelser er tilknyttet ejendomme - ikke 
+personer, og at tilbageholdelse af data ikke er til gavn for en transparent beslutningsproces i 
+forbindelse med klimatillpasning.  
+ 
+Om udvikling af metode til opstilling af skadesfunktioner 
+Vi anbefaler, at der udvikles en skadesmetode, der tager udgangspunkt i principperne 
+beskrevet i kapitel 2 og 3 og med inddragelse af overvejelser omkring ulighedsskabende 
+elementer, som metoden implicit eller eksplicit indebærer. Analyserne skal sammenlignes med 
+og bidrage til den internationale erfaring på området. 
+ 
+Det anbefales, at der udarbejdes nye skadesomkostningsberegninger, der tager udgangspunkt i 
+den teoretiske gennemgang og med en anvendelse af alle tilgængelige data. På nuværende 
+tidspunkt er forskellen på de eksisterende skadesberegninger og den teoretisk ramme 
+betydelig. De internationale erfaringer tyder på, at skadesfunktioner ofte er ret simple, fordi en 
+væsentlig del af variationen i skader ikke kan beskrives ud fra de målbare indikatorer. Alene det 
+
+ 
+ 
+58 Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 
+at lave en samlet analyse af alle data vil dog give en væsentligt bedre model, og sammen med 
+FAIR principperne for opbevaring af data vil det også være muligt at afprøve forskellige teorier 
+for, hvordan modellen kunne se ud.  
+ 
+De udviklede metoder og modeller bør sammenlignes med eksisterende international litteratur 
+og publiceres i ansete, internationale, videnskabelige tidsskrifter. Ud over at opnå en validering 
+ved fagfællebedømmelse vil de danske erfaringer kunne indgå i den videnskabelige diskussion.  
+ 
+Det er væsentligt, at de ulighedsskabende elementer indgår eksplicit i opstilling og diskussion af 
+modellerne. Den bedste model til at beskrive en konkret skade på en givet bygning givet en 
+bestemt fare er ikke nødvendigvis den bedste model til at identificere, hvor og hvordan 
+klimatilpasning i Danmark skal prioriteres.  
+ 
+Om systemisk risiko og ulighed 
+Vi anbefaler, at der udvikles et beslutningsstøtteredskab, der kan inddrage systemisk risiko og 
+synliggøre og imødegå ulighed i beslutningsprocesser. 
+ 
+På nuværende tidspunkt eksisterer der ikke en metode, der tydeliggør systemisk risiko i 
+forbindelse med ekstreme oversvømmelser. Konsekvensen er, at systemisk risiko ikke 
+inddrages i beslutningsprocessen og på den måde antages ikke at eksistere. Vi anbefaler 
+derfor, at der iværksættes et projekt til udvikling af en metode, der kan supplere eksisterende, 
+etablerede beslutningsstøtteredskaber som f.eks. cost-benefit analyse. 
+ 
+Samtidigt vil det være oplagt at udvikle en metode, der synliggør, hvorledes antagelser og input 
+påvirker ulighed som led i cost-benefit analyser af klimatilpasningsprojekter. På den måde vil 
+beslutningstagere eksplicit få information om, hvordan beslutninger omkring klimatilpasning kan 
+føre til ulighed. I den sammenhæng er det også væsentligt at sætte klare rammer for, hvor og 
+hvordan man kan afvige fra de generelt anerkendte skadesfunktioner til fordel for egne 
+modeller, der potentielt medfører nye ulighedsskabende elementer. 
+ 
+ 
+  
+
+ 
+ 
+Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 59 
+ 
+8. Konklusion 
+Der er ikke lavet et samlet overslag over de økonomiske konsekvenser af klimaændringer i 
+Danmark det seneste årti. Ud fra ældre overslag samt internationale studier er det dog klart, at 
+oversvømmelser vil udgøre den største økonomiske omkostning i forbindelse med 
+klimaændringer. Udenlandske grove skøn tyder på, at omkostningerne i løbet af indeværende 
+århundrede vil løbe op i minimum et tocifret milliardbeløb årligt til skader fra oversvømmelser 
+samt klimatilpasningstiltag. Udgiften er beregnet baseret på, at tiltagene vurderes og 
+iværksættes udelukkende ud fra økonomiske kriterier med henblik på at mindske de samlede 
+udgifter. Det er derfor afgørende at få forbedret grundlaget for analyser af mulige tiltag til at 
+tilpasse sig klimaforandringerne, herunder at vurdere hvad der er et acceptabelt niveau for 
+skader, og om den størst mulige skade kan vurderes med almindelige økonomiske analyser. 
+Der er eksempler på oversvømmelser, der har et så omfattende omfang, at økonomiske 
+analyser ikke alene udgør et tilstrækkeligt grundlag til beslutningsstøtte. Rapporten har ikke 
+som formål at belyse, hvornår oversvømmelser har et sådant omfang, og om de i givet fald kan 
+optræde i Danmark. 
+ 
+Et afgørende element i de økonomiske analyser er at opstille skadesfunktioner, der beskriver 
+den økonomiske skade som følger af oversvømmelser. Nedenfor er kort angivet de 
+væsentligste erfaringer på baggrund af den udførte analyse af det eksisterende grundlag i tre 
+anvendte, danske metoder: 
+ 
+ Skader på bygninger udgør hovedparten af de økonomiske skader fra oversvømmelser 
+i de fleste analyser af oversvømmelsesskader. Derfor er det vigtigt at have gode data 
+og modeller for, hvordan disse skader opstår, opgøres og kan mindskes. Kun derved 
+kan der etableres et godt grundlag for at vælge klimatilpasningstiltag.  
+ Der er i Danmark flere metoder, der beregner skader på bygninger i forskellige 
+sammenhænge. De tre metoder, der er gennemgået i denne rapport, er alle i 
+overensstemmelse med de internationalt anerkendte principper for opstilling af 
+skadesfunktioner. I forhold til den komplekse problemstilling er de dels ret simple og 
+dels meget ens i deres antagelser. De fokuserer på genanskaffelsesomkostninger, 
+hvilket giver en god beskrivelse af de data, man nemmest kan indsamle og modellere. 
+Disse data er dog kendt for at undervurdere de faktiske skadesomkostninger.  
+ Omregningen fra genanskaffelsesomkostninger til samfundsøkonomisk skade er ikke 
+triviel, og der er ikke nogen af metoderne, der overvejer denne omregning. Forskellen 
+kan meget groft beskrives som omkostninger, der hhv. principielt kan forsikres, og den 
+samlede omkostning ved opgørelse af alle fordele og ulemper. Endelig er der ikke 
+rapporteret skøn over usikkerhederne, endsige hvordan modelstrukturen påvirker den 
+efterfølgende samfundsøkonomiske analyse. Endelig undervurderer metoderne 
+formentlig systematisk den samlede skade, fordi den i for høj grad er baseret på 
+forsikringsdata. SkadesØkonomi har som den eneste undersøgt denne tendens og 
+skønner, at de faktisk oplevede skader er 35% højere end metoden umiddelbart 
+beregner. 
+
+ 
+ 
+60 Metodetilgange for beregning af økonomisk skade på  bygninger til risikoanalyser ifm. klimatilpasning 
+ Metoderne har forskellige grader af frihed i forhold til at ændre på konkrete 
+parameterværdier, herunder at tilføje, ændre eller slette konkrete skadesfunktioner. 
+Frihedsgrader i forbindelse med anvendelsen kan ses som en fordel, der kan give mere 
+præcise analyser lokalt. Det kan dog også ses som en ulempe i forbindelse med 
+regionale eller nationale analyser, fordi det vanskeliggør sammenligning af forskellige 
+områder. Brugen af standardiserede metoder medfører et gennemsigtig 
+beslutningsgrundlag. 
+ De undersøgte metoder til beregning af bygningsskade er alle baseret på at udregne 
+skaden som funktion af en kombination af følgende variable: Oversvømmelsens dybde, 
+bygningens værdi og/eller bygningens størrelse (evt. opgjort på etager). Alligevel er der 
+store forskelle på de beregnede skader; i nogle tilfælde op til fem gange højere skade 
+på samme bygning alene baseret på valg af metode. Forskellene fremkommer både på 
+grund af, at der er anvendt forskellige data, og fordi antagelserne om bygningens værdi 
+og størrelse er forskellige. I forhold til en samlet skadesfunktion for bygninger synes 
+Serviceniveaubekendtgørelsen at mangle en afhængighed af vanddybden. 
+Oversvømmelsesloven og SkadesØkonomi beskriver skadesfunktioner for bygninger 
+ved hhv. bygningens værdi og bygningens størrelse. SkadesØkonomi er den af de to 
+metoder, der mindst øger den regionale ulighed i forbindelse med evaluering af 
+klimatilpasningstiltag, mens Oversvømmelsesloven i højere grad end SkadesØkonomi 
+forsøger at tage hensyn til bygningens egenskaber. 
+ Det vurderes, at der ikke er nogle af modellerne, der er direkte egnede til anvendelse til 
+nationale skøn for skader for alle typer af oversvømmelser. Som minimum bør der 
+udarbejdes en model baseret på det samlede datasæt, hvor oversvømmelsens dybde 
+indgår i modellen, og hvor modelstrukturen for bygningers skade diskuteres. Endvidere 
+bør modelstrukturen overvejes; især i forhold til fordelingsmæssige aspekter, idet det er 
+påvist, at metoderne har meget forskellige fordelingsmæssige konsekvenser og dermed 
+indirekte vil have stor betydning for, hvor og hvor meget det kan betale sig at lave 
+klimatilpasningstiltag i forskellige dele af Danmark. 
+ Fremadrettet bør det undersøges, hvilke data, der er tilgængelige og hvilke metoder, 
+der bedst kan anvendes til at analysere data. For at sikre åbenhed omkring 
+beslutningerne bør såvel data som modeller stilles til rådighed for offentligheden. 
+ 
+
+ 
+ 
+Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 61 
+Referencer 
+ 
+Andersen KJ, Piontkowitz T og Henriksen LS. 2020. Undersøgelse af metoden ”Dynamisk 
+planlægning til risikostyring og klimatilpasning” i en dansk kommunal kontekst. Kystdirektoratet, 
+Lemvig. Hentet oktober 2022 fra https://kyst.dk/media/84876/metoderapport-dynamisk-
+planlaegning_april_2020.pdf  
+ 
+Arnbjerg-Nielsen, K. 2020. Notat udarbejdet på baggrund af samtaler med Københavns og 
+Hvidovre Kommuner i forbindelse med deres pilotprojekt om modning af en digeløsning mod 
+oversvømmelser fra syd. Realdania: Byerne og det stigende havvand. DTU Miljø, Lyngby. 
+ 
+Burzel, A., de Bel, M., Wagenaar, D. & Bachmann, D. 2018. Development of a Model for the 
+Assessment of Costs of Business Interruption. Deltares, Delft. Hentet november 2022 from 
+https://oversvommelse.kyst.dk/media/284775/deltares-2018_development-of-a-model-for-the-
+assessment-of-costs-of-business-interruption.pdf  
+ 
+Brøndum C. Jørgensen, M. S., Ladefoged C. (2022): Climate adaptation in the Danish 
+municipalities: Is the current order adequate? Master Thesis. Institute for food and resource 
+economics. Copenhagen University. Supervisors: Mette Asmild and Carl-Emil Pless 
+ 
+COWI. 2014. Enhedsomkostninger ved oversvømmelsesskader fra skybrud. Rapport udarbejdet 
+for Forsikring og Pension. Hentet fra https://docplayer.dk/30598649-Enhedsomkostninger-ved-
+oversvoemmelsesskader-fra-skybrud.html  
+ 
+Danmarks Statistik. 2022. ADAM – en model af dansk økonomi. Hentet november 2022 fra 
+https://www.dst.dk/da/Statistik/nyheder-analyser-publ/Publikationer/VisPub?cid=17987 
+ 
+Danmarks Statistik, BOL104. Boliger efter beboertype, område, tid og anvendelse. Hentet 
+november 2022 fra https://www.statistikbanken.dk/bol104 
+ 
+Danmarks Statistik, BOL106. Boliger med CPR-tilmeldte personer (gennemsnit) efter område, 
+enhed og anvendelse. Hentet november 2022 fra https://www.statistikbanken.dk/bol106 
+ 
+Danmarks Statistik, ESKAT. Beskatningsværdier og ejendomsskatter efter område og 
+beskatningsgrundlag. Hentet november 2022 fra https://www.statistikbanken.dk/eskat 
+ 
+Finansministeriet. 2017. Vejledning i samfundsøkonomiske konsekvensvurderinger. Hentet 
+november 2022 fra 
+https://ens.dk/sites/ens.dk/files/Analyser/vejledning_i_samfundsoekonomiske_konsekvensvurde
+ringer_2017.pdf  
+ 
+Hallegatte, S., Ranger, N., & Mestre, O. (2011). Assessing climate change impacts, sea level 
+rise and storm surge risk in port cities: a case study on Copenhagen. Climatic Change. 
+http://link.springer.com/article/10.1007/s10584-010-9978-3 
+ 
+ 
+Halsnæs, K., Larsen, M.A.D., Dømgaard, M.L., og Kaspersen, P.S. 2022a. Gennemgang af 
+metoder og forudsætninger i modellerne til beregning af skadesomkostningerne ved 
+
+ 
+ 
+62 Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 
+oversvømmelser - DTU SkadesØkonomi ArcGIS version og SkadesØkonomi QGIS version. 
+Hentet fra Github 2022.10.02.  
+ 
+Halsnæs, K., Larsen, M.A.D., og Drenck, K.L. 2022b. Samfundsøkonomiske konsekvenser af 
+oversvømmelser og investeringer i klimatilpasning. DTU Management, Lyngby. Hentet 
+november 2022 fra https://www.klimatilpasning.dk/media/1887277/samfundsoekonomiske-
+konsekvenser-af-oversvoemmelser-og-investeringer-i-klimatilpasning.pdf  
+ 
+IPPC. 2022. Climate Change 2022: Impacts, Adaptation, and Vulnerability. IPCC Working 
+Group II contribution to the Sixth Assessment Report. Hentet november 2022 fra 
+https://www.ipcc.ch/report/sixth-assessment-report-working-group-ii/  
+ 
+Kaspersen PS. 2022. Personlig Kommunikation, november 2022. 
+ 
+Kaspersen PS, Halsnæs K, Thomsen BV og Jensen JG. 2022. Brugervejledning til 
+SkadesØkonomi. Version 4, 01.11.2022. Hentet november 2022 fra 
+https://github.com/Skadesokonomi/Dokumentation/blob/main/Skades%C3%98konomi%20-
+%20brugervejledning%20version%204%20-%20november%202022.docx  
+ 
+KL. 2022. Sammenligning af to programmer til skadesberegninger for oversvømmelser.  
+ 
+Kystdirektoratet. 2020. Metode til kortlægning af fare og risiko for oversvømmelse. 
+Oversvømmelsesdirektivet, anden planperiode. Kystdirektoratet, Lemvig. 
+ 
+Kystdirektoratet. 2021. Metoderapport for Kystplanlægger. Kystdirektoratet, Lemvig. ISBN nr.: 
+978-87-7120-078-2 
+ 
+Lautrup, M., Matthiesen, L. L., Jacobsen, J. B., & Panduro, T. E. (2021). Tættere på 
+klimatilpasningens samlede effekter. Forskningsrapport IFRO, KU. 
+ 
+Mercure, J. F., Sharpe, S., Vinuales, J. E., Ives, M., Grubb, M., Lam, A., ... & Nijsse, F. J. 
+(2021). Risk-opportunity analysis for transformative policy design and appraisal. Global 
+Environmental Change, 70, 102359. 
+ 
+Merz B, Vorogushyn S, Lall U, Viglione A, Blöschl G. 2015. Charting unknown waters—On the 
+role of surprise in flood riskassessment and management. Water Resources Research, 51, 
+6399–6416, doi:10.1002/2015WR017464. 
+ 
+Olesen, L., Löwe, R and Arnbjerg-Nielsen, K. (2017). Flood Damage Assessment: Literature 
+review and recommended procedure. Melbourne, Australia: Cooperative Research Centre for 
+Water Sensitive Cities. Hentet november 2022 fra 
+https://watersensitivecities.org.au/content/flood-damage-assessment-literature-review-
+recommended-procedure/  
+ 
+Penning-Rowsell, E. C., Priest, S., Parker, D., Morris, J., Tunstall, S., Viavattene, C., Chatterton, 
+J. and Owen, D. (2013). Flood and Coastal Erosion Risk Management, a Manual for Economic 
+Appraisal. Department for Environment, Food and Rural affairs. 
+ 
+Projektet Dataunderstøttet Klimatilpasning, Tema: Hjælpeværktøjer til klimatilpasning. 
+Kommunernes Landsforening, København. 
+ 
+
+ 
+ 
+Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning 63 
+Skat.dk. 2022. Ejendomsvurderinger. Hentet november 2022. 
+https://www.vurdering.skat.dk/Ejendomsvurdering 
+ 
+Thieken, A. H., Olschewski, A., Kreibic, H., Kobsch, S. and Merz, B. (2008) ‘Development and 
+evaluation of FLEMOps – A new Flood Loss Estimation MOdel for the private sector’, WIT 
+Transactions on Ecology and the Environment, 118, pp. 315–324. doi: 10.2495/FRIAR080301. 
+ 
+Vousdoukas, M. I., Mentaschi, L., Hinkel, J., Ward, P. J., Mongelli, I., Ciscar, J., & Feyen, L. 
+(2020). Economic motivation for raising coastal fl ood defenses in Europe. Nature 
+Communications, 11(2119), 1–11. https://doi.org/10.1038/s41467-020-15665-3 
+ 
+Wilkinson, M. D., Dumontier, M., Aalbersberg, I. J., Appleton, G., Axton, M., Baak, A., ... & 
+Mons, B. (2016). The FAIR Guiding Principles for scientific data management and stewardship. 
+Scientific data, 3(1), 1-9.  
+ 
+  
+
+ 
+ 
+64 Metodetilgange for beregning af økonomisk skade på bygninger til risikoanalyser ifm. klimatilpasning
