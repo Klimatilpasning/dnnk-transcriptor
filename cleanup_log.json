@@ -3192,5 +3192,141 @@
         "grund": "afvist"
       }
     ]
+  },
+  "transcriptions\\Temadag_-_nye_metoder_til_akt_rkortl_gning_og_v_rdiskabende_.txt": {
+    "anvendt": [
+      {
+        "forkert": "coach 2 coach",
+        "rettet": "Coast to Coast",
+        "antal": 1
+      },
+      {
+        "forkert": "EU like",
+        "rettet": "EU LIFE",
+        "antal": 1
+      },
+      {
+        "forkert": "hadensted",
+        "rettet": "Hedensted",
+        "antal": 1
+      },
+      {
+        "forkert": "linfjordsekretariatet",
+        "rettet": "Limfjordssekretariatet",
+        "antal": 1
+      },
+      {
+        "forkert": "despresearch",
+        "rettet": "deskresearch",
+        "antal": 1
+      },
+      {
+        "forkert": "aktørlægning",
+        "rettet": "aktørkortlægning",
+        "antal": 1
+      },
+      {
+        "forkert": "interessentkodelægning",
+        "rettet": "interessentkortlægning",
+        "antal": 1
+      },
+      {
+        "forkert": "interessenanalyse",
+        "rettet": "interessentanalyse",
+        "antal": 1
+      },
+      {
+        "forkert": "værdiamanten",
+        "rettet": "værdidiamanten",
+        "antal": 1
+      },
+      {
+        "forkert": "fremtidsbik",
+        "rettet": "fremtidsblik",
+        "antal": 1
+      },
+      {
+        "forkert": "itrative",
+        "rettet": "iterative",
+        "antal": 1
+      },
+      {
+        "forkert": "tweets",
+        "rettet": "tweaks",
+        "antal": 1
+      },
+      {
+        "forkert": "bykkvaliteten",
+        "rettet": "bykvaliteten",
+        "antal": 1
+      },
+      {
+        "forkert": "Costa kastprojektet",
+        "rettet": "Coast to Coast-projektet",
+        "antal": 1,
+        "grund": "manuelt godkendt (Fable-review)"
+      },
+      {
+        "forkert": "costo Costa projektet",
+        "rettet": "Coast to Coast-projektet",
+        "antal": 1,
+        "grund": "manuelt godkendt (Fable-review)"
+      },
+      {
+        "forkert": "host- tost",
+        "rettet": "Coast to Coast",
+        "antal": 1,
+        "grund": "manuelt godkendt (Fable-review)"
+      },
+      {
+        "forkert": "nordjorsk",
+        "rettet": "Norddjurs",
+        "antal": 1,
+        "grund": "manuelt godkendt (Fable-review)"
+      },
+      {
+        "forkert": "linfjergs sekretæren",
+        "rettet": "Limfjordssekretariatet",
+        "antal": 1,
+        "grund": "manuelt godkendt (Fable-review)"
+      },
+      {
+        "forkert": "Georg datastyrelsen",
+        "rettet": "Geodatastyrelsen",
+        "antal": 1,
+        "grund": "manuelt godkendt (Fable-review)"
+      },
+      {
+        "forkert": "act ortulandskab",
+        "rettet": "aktørlandskab",
+        "antal": 1,
+        "grund": "manuelt godkendt (Fable-review)"
+      },
+      {
+        "forkert": "værdig diamant",
+        "rettet": "værdidiamant",
+        "antal": 1,
+        "grund": "manuelt godkendt (Fable-review)"
+      },
+      {
+        "forkert": "gidselslag",
+        "rettet": "GIS-lag",
+        "antal": 1,
+        "grund": "manuelt godkendt (Fable-review)"
+      },
+      {
+        "forkert": "snapkturen",
+        "rettet": "Snaptun",
+        "antal": 1,
+        "grund": "manuelt godkendt (Fable-review)"
+      }
+    ],
+    "afvist": [
+      {
+        "forkert": "i trativt",
+        "rettet": "iterativt",
+        "grund": "afvist"
+      }
+    ]
   }
 }

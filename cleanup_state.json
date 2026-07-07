@@ -850,5 +850,10 @@
   "transcriptions\\Vejen_til_en_klimarobust_bl_-gr_n_planl_gning.mp3.txt": {
     "pairs": 0,
     "ts": "2026-07-03T07:09:40"
+  },
+  "transcriptions\\Temadag_-_nye_metoder_til_akt_rkortl_gning_og_v_rdiskabende_.txt": {
+    "pairs": 13,
+    "ts": "2026-07-07T11:22:19",
+    "via": "fable-session"
   }
 }
