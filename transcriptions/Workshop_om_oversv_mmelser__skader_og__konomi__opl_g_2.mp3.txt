@@ -1,5 +1,5 @@
 00:00:04
-OK tak fordi i ville høre på mig. Jeg vil lige sige Det er cirka 7 måneder siden Jeg har lavet den her præsentation, når Der er sket meget. Blandt andet er jo ikke ved kyst til trådte mere ved Universitet nu.
+OK tak fordi i ville høre på mig. Jeg vil lige sige Det er cirka 7 måneder siden Jeg har lavet den her præsentation, når Der er sket meget. Blandt andet er jo ikke ved Kystdirektoratet mere ved Universitet nu.
 
 00:00:15
 Jeg føler det mere, men derfor så vil jeg så tale om det her lidt som en der har været med til at udvikle en model og implementeret modellen, men altså ikke rigtig arbejder med den fremadrettet, så det bliver lidt. Måske kan jeg måske forholde mig lidt mere kritisk til den nu.
@@ -17,7 +17,7 @@ Hvor er den blevet anvendt? Det kan jeg godt sige. Den er blevet anvendt i overs
 Men Jeg vil den modellen her består af 5 dele af det.
 
 00:01:24
-Et socialt sårpas Index.
+Et socialt sårbarhedsindeks.
 
 00:01:26
 Det skal nok lige komme tilbage til og så direkte ind i række eksponering, så regner vi et socialt konsekvens. Vi har valgt ikke at kalde det skære, fordi Jeg synes ikke det skal hedde menneskeligt skære, så vi kan kalde det som en negativ konsekvenser på mennesker af en oversvømmelse. Hvis det lyder måske lidt bedre, og så har vi ret om en risiko, så har vi.
@@ -53,10 +53,10 @@ På på kryds. Det er jo her.
 De negative konsekvenser ved en oversvømmelse.
 
 00:03:02
-Defineres ud fra nogle karakteristika ved de personer, der bliver oversvømmet og nogle er mere. Vi kan kalde det sårbare eller modtagelige overfor, hvis de bliver udsat for en oversvømmelse at opleve. Vi bruger det ene stor world being loss.
+Defineres ud fra nogle karakteristika ved de personer, der bliver oversvømmet og nogle er mere. Vi kan kalde det sårbare eller modtagelige overfor, hvis de bliver udsat for en oversvømmelse at opleve. Vi bruger det ene stor well-being loss.
 
 00:03:17
-Vi har ikke kredit dot dansk ord til så kald så ikke world being os og så trivsels velbefindende tab og andre har ikke, og Vi har springer over til den næste her. Vi har lavet det her store indeks som.
+Vi har ikke kredit dot dansk ord til så kald så ikke well-being loss og så trivsels velbefindende tab og andre har ikke, og Vi har springer over til den næste her. Vi har lavet det her store indeks som.
 
 00:03:29
 Ud fra en lang litteratur gennemgang, men også udfra de data, Vi har til rådighed.
@@ -83,7 +83,7 @@ Vi kan jo sige, at nogle af de udfordringer, Vi har haft, Det er at være datam�
 Der er jo en fin litteratur, der siger, hvis man har nogle helbredsmæssige udfordringer, så bliver man mere påvirket af at blive oversvømmet, specielt hvis Det er koldt vand eller andet. Vi har ikke kunne finde nogle gode data på det, så de data Vi har anvendt, har så været modtagelse af hjemmehjælp og førtidspension. Vi vil gerne have haft nogle bedre data, men Det er det, Vi har fundet som proxi for ens generelle helbredstilstand.
 
 00:04:59
-Og ja og en 2 udfordring den der hedder immigranter fra ikke-vestlige lande. Vi har jo opdelt Vores Danmark i kridtceller på 100 x 100 m og Der er måske 90%. I celler er der ingen.
+Og ja og en 2 udfordring den der hedder immigranter fra ikke-vestlige lande. Vi har jo opdelt Vores Danmark i gridceller på 100 x 100 m og Der er måske 90%. I celler er der ingen.
 
 00:05:12
 Indvandrere fra ikke vestlig baggrund, så dataen er meget, meget underlig, så Der er 90% hvor Der er et nul og så er der måske 10% hvor Der er rigtig høj værdi.
@@ -98,13 +98,13 @@ Kan jeg sige på den måde alt det arbejde Vi har lavet til rente heroppe i et i
 Som Sådan statistikker, men Vi har antaget, og Vi har regnet helt om til 1 1 en standard normal fordelinger for alle de her faktorer.
 
 00:05:51
-Og det giver os det vi kaldt SSI et socialt sopas indeks. Det går fra minus 3 til plus 3 + 3 og mest sårbare minus 3 og mindst sårbare, og Vi har tilladt os at fortolke det som en en standard normal fordeling, så værdierne for eksempel minus 1,61 angiver man er 1,61 standardafvigelser lavere end dansk gennemsnittet.
+Og det giver os det vi kaldt SSI et socialt sårbarhedsindeks. Det går fra minus 3 til plus 3 + 3 og mest sårbare minus 3 og mindst sårbare, og Vi har tilladt os at fortolke det som en en standard normal fordeling, så værdierne for eksempel minus 1,61 angiver man er 1,61 standardafvigelser lavere end dansk gennemsnittet.
 
 00:06:16
 Og Det er jo en landsmodel, så alt er i forhold til et landsgennemsnit.
 
 00:06:20
-Og hvis man tager en et område, Det er så thosted Vejle et område her, der har den højest mulige sociale sovepasindeks. Og kan vi se årsagen til det? Det er typisk information, Det er samfundsumsbetingelser og en lav.
+Og hvis man tager en et område, Det er så thosted Vejle et område her, der har den højest mulige sociale sårbarhedsindeks. Og kan vi se årsagen til det? Det er typisk information, Det er samfundsumsbetingelser og en lav.
 
 00:06:35
 Socialt resiliens det samme danner det et billede af at den celle deroppe, hvis den bliver ramt af en en hændelse der kunne lade sig, påvirker den side fra. Så er det et område der har en stor.
@@ -149,13 +149,13 @@ Vi kigger ikke kun på, at hvis man bliver oversvømmet direkte eksponeret. Vi k
 Så.
 
 00:08:58
-Før i tiden taler jeg på kystdirektrs vegne.
+Før i tiden taler jeg på Kystdirektoratets vegne.
 
 00:09:02
 Tal bør simplere nok. Det er så et et eksempel på en oversvømmelse i Vejle her, og man har talt op, hvor mange mennesker bliver oversvømmet.
 
 00:09:10
-Hvad hvis der står 5064 så har man sagt Det er Sådan som dens menneskelige soppede i Vejle femtusinde og 64. Og lad mig så sammenligne med andre områder og så sagt hvor er der relativt højst sårbarhed.
+Hvad hvis der står 5064 så har man sagt Det er Sådan som dens menneskelige sårbarhed i Vejle femtusinde og 64. Og lad mig så sammenligne med andre områder og så sagt hvor er der relativt højst sårbarhed.
 
 00:09:24
 Og Der er altså 2 udfordringer med det. Det første som Vi har set. Ikke alle mennesker er måske lige påvirket eller berørt af at blive oversvømmet.
@@ -212,19 +212,19 @@ Alt det her er super smart. Vi har nogle der direkte oversvømmet. Der er nogle 
 Når fødderne i vandet dem der mister adgang til sit lægehus. Hvordan sammenligner man det?
 
 00:12:10
-Og så fandt vi ud, eller jeg kom frem med det her flotte people, en kvinde land, som siger følgende, en person mister alle 10 services eller adgang til dem, så er det en person lige så udsat som hvis denne person er direkte oversvømmet.
+Og så fandt vi ud, eller jeg kom frem med det her flooded people equivalent, som siger følgende, en person mister alle 10 services eller adgang til dem, så er det en person lige så udsat som hvis denne person er direkte oversvømmet.
 
 00:12:27
 Og hvis for eksempel personen kun mister 3 services så er personen 30% så meget udsat som hvis man må direkte oversvømmet. Og med den enhed kan vi så lægge sammen.
 
 00:12:39
-I en celle alle de folk, Der er oversvømmet og alle de folk ikke er oversvømme, men får servicenedbrud til en fælles måleenhed. Det vi kalder flotte people i krevent, hvor man så ekkvalere og siger.
+I en celle alle de folk, Der er oversvømmet og alle de folk ikke er oversvømme, men får servicenedbrud til en fælles måleenhed. Det vi kalder flooded people equivalent, hvor man så ekkvalere og siger.
 
 00:12:50
 Selvom Der er ingen, Der er oversvømmet direkte. Det svarer til, hvis et antal mennesker ville have været direkte oversvømmet. Der er også nogle beregninger, man kan se Der er.
 
 00:13:00
-Jeg har bare lige sat det op, man får sit flotte pible kriminallinjen ind her tryk ind, Det er Vejle de der værdier, det vil sige den celle hvor der står 19,6 er altså et svar til denne celle svarer det til 19,6 personer ville være blevet oversvømmet.
+Jeg har bare lige sat det op, man får sit flooded people equivalent ind her tryk ind, Det er Vejle de der værdier, det vil sige den celle hvor der står 19,6 er altså et svar til denne celle svarer det til 19,6 personer ville være blevet oversvømmet.
 
 00:13:15
 At de så ikke er men.
@@ -236,7 +236,7 @@ Der kan man også lave nogle kort.
 Og så lige videre fordi Jeg har set alt det her nogle af jer.
 
 00:13:25
-Bliver så rendt helt op til et indeks. Vi har nu et eksponeringsindext sort Index. Vi har simpelthen bare ganget dem sammen, så får vi et socialt konsekvens indeks.
+Bliver så rendt helt op til et indeks. Vi har nu et eksponeringsindeks sort Index. Vi har simpelthen bare ganget dem sammen, så får vi et socialt konsekvens indeks.
 
 00:13:36
 Der går man nul og 100 f. Det er en oversvømmelse, så hver gang systemet her eller området bliver ramt af en oversvømmelses hændelse, hvad det så end er for en, så udløser det en eksponering eksponering udløser. Så er det så sætter sårbarhed.
@@ -251,7 +251,7 @@ Så for hver celle i Danmark kan vi regne en indeksværdi ud på de sociale kons
 Og springer over det her, og går til det her.
 
 00:14:07
-Det er jo Sådan, at nu taler jeg igen på kystdirekts vegne. Vi vil jo gerne bruge dem, som vi sælger sorthedsmodel i en helhedsorienteret betragtning af, hvor er der den største risiko ved en oversvømmelse.
+Det er jo Sådan, at nu taler jeg igen på Kystdirektoratets vegne. Vi vil jo gerne bruge dem, som vi sælger sårbarhedsmodel i en helhedsorienteret betragtning af, hvor er der den største risiko ved en oversvømmelse.
 
 00:14:21
 Jeg har foreslået følgende model her.
@@ -263,7 +263,7 @@ Vi deler op et område. Lad os sige Esbjerg for eksempel, hvad er andel af den s
 Naturrisiko i, Esbjerg.
 
 00:14:39
-Så har vi lavet nogle vægte hernede, og så har jeg sagt, vi ved, at de erfaringer Vi har, at økonomi og socialt ægtes mer end natur. Vi har en ide om, at økonomi og at social økonomi og socialt nogenlunde vækkes ens. Det er i hvert fald det kystneutrale har lagt til grund for.
+Så har vi lavet nogle vægte hernede, og så har jeg sagt, vi ved, at de erfaringer Vi har, at økonomi og socialt ægtes mer end natur. Vi har en ide om, at økonomi og at social økonomi og socialt nogenlunde vækkes ens. Det er i hvert fald det Kystdirektoratet har lagt til grund for.
 
 00:14:57
 Men Vi er ikke sikker på vægtningen, så derfor har jeg sagt, lad os nu forestille os, at vægtningen svinger lidt så.
@@ -278,7 +278,7 @@ Vi regner så den samlede risiko ud hernede gange, de har vægte på.
 Så laver vi et træk, for den giver fordelinger heroppe og beregner en liste fra øverste og nederst. Lad os sige, vi kigger på 110 områder i Danmark, og så laver vi en liste givet en af de her vægte her. Hvad ligger øverst på listen?
 
 00:15:37
-Og laver vi en monac Carlo, så køber vi det 10.000 gange, og så kan vi for eksempel evaluere på, hvor sandsynligt er det, at Det er et eller andet område ligger i top 20 på så den næste.
+Og laver vi en Monte Carlo, så køber vi det 10.000 gange, og så kan vi for eksempel evaluere på, hvor sandsynligt er det, at Det er et eller andet område ligger i top 20 på så den næste.
 
 00:15:49
 Og det og det Vi har lavet.
@@ -326,7 +326,7 @@ Jeg har ikke spurgt ad, men jeg regner med jeg må.
 Det er og det her. Det er det officielle, man kører det nye svingsmodel med det nye software model, så Det er listen af sociale risiko fordelt på området, og vi kan se at åbenrå Fredericia, Kolding, Mariagerfjord.
 
 00:17:58
-Områder som ikke før er udpeget for eksempel marja Fjord, får et kæmpe stort score på det sociale, og i og med at den sociale del kommer til at spille en stor rolle, så forskyder det her fuldstændig billede af, hvilke områder der har den højeste.
+Områder som ikke før er udpeget for eksempel Mariagerfjord, får et kæmpe stort score på det sociale, og i og med at den sociale del kommer til at spille en stor rolle, så forskyder det her fuldstændig billede af, hvilke områder der har den højeste.
 
 00:18:12
 Samme risiko i Danmark.
@@ -344,13 +344,13 @@ Det bliver nok. Det skal nok blive offentliggjort. Det er jo ikke vedtaget endnu
 Det er ikke departementet endnu her, så derfor siger jeg, Det er kun en ide Jeg har.
 
 00:18:36
-Gik tager mig på Facebook value det her det bliver det den sidste måde at gøre det på.
+Gik tager mig på face value det her det bliver det den sidste måde at gøre det på.
 
 00:18:42
 Jeg tager lige det de så ikke får med, men.
 
 00:18:46
-Så så langt er vi kommet i kystdiktorratet, og som sagt, Det er blevet anvendt nu, og det kommer til at have realpolitiske betydninger.
+Så så langt er vi kommet i Kystdirektoratet, og som sagt, Det er blevet anvendt nu, og det kommer til at have realpolitiske betydninger.
 
 00:18:55
 Ude i, Danmark.

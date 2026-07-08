@@ -3328,5 +3328,1497 @@
         "grund": "afvist"
       }
     ]
+  },
+  "transcriptions\\Godmorgen_med_DNNK__Dynamisk_skybrudsplanl_gning___erfaringe.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "Det er NNK",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "en vidan i Norge",
+        "rettet": "EnviDan i Norge",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "in the Daniel Norge",
+        "rettet": "EnviDan Norge",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "skybus plan",
+        "rettet": "skybrudsplan",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "skybruddsplan",
+        "rettet": "skybrudsplan",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "chibrødsplaner",
+        "rettet": "skybrudsplaner",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "sitbrødsplaner",
+        "rettet": "skybrudsplaner",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "syvbrødsplanlægninger",
+        "rettet": "skybrudsplanlægningen",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "fynbo's plan",
+        "rettet": "skybrudsplan",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "chibrøts planlæg",
+        "rettet": "skybrudsplanlægning",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "normiske",
+        "rettet": "dynamiske",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "normisk",
+        "rettet": "dynamisk",
+        "antal": 2,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "plommen",
+        "rettet": "planen",
+        "antal": 3,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "i skål god live",
+        "rettet": "i SCALGO Live",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "skill go live",
+        "rettet": "SCALGO Live",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "skell go live",
+        "rettet": "SCALGO Live",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "iskole live",
+        "rettet": "SCALGO Live",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "nicolo life",
+        "rettet": "SCALGO Live",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "skillegh",
+        "rettet": "SCALGO Live",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "i skole liv",
+        "rettet": "i SCALGO Live",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "hidrodynamisk",
+        "rettet": "hydrodynamisk",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "klimatopostning",
+        "rettet": "klimatilpasning",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "klimatopbastning",
+        "rettet": "klimatilpasning",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "klimatopstning",
+        "rettet": "klimatilpasning",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "klimaudsposten",
+        "rettet": "klimatilpasningen",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "klimaetpladsen",
+        "rettet": "klimatilpasningen",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "klimaspostning",
+        "rettet": "klimatilpasning",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "klimmer til postningsprojektet",
+        "rettet": "klimatilpasningsprojektet",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "reklamer til pastning",
+        "rettet": "klimatilpasning",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "reklamer til bosning",
+        "rettet": "klimatilpasning",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "reklamer til Bosnien",
+        "rettet": "klimatilpasning",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "limer delpostning",
+        "rettet": "klimatilpasning",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "Limodel pasning",
+        "rettet": "Klimatilpasning",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "klemmer tilpasning",
+        "rettet": "klimatilpasning",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "reklamepasning",
+        "rettet": "klimatilpasning",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "nogen economyx",
+        "rettet": "Menon Economics",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "nogen economics",
+        "rettet": "Menon Economics",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "cost not",
+        "rettet": "cost-nytte",
+        "antal": 2,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "drømmen Kommune",
+        "rettet": "Drammen Kommune",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "lille strøm kommende",
+        "rettet": "Lillestrøm Kommune",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Godmorgen_med_DNNK__Karens_Minde_Aksen.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "Klimaselvfærdsning",
+        "rettet": "Klimatilpasning",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "Carnets mindeaksel",
+        "rettet": "Karens Minde Aksen",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "Karns Minarksen",
+        "rettet": "Karens Minde Aksen",
+        "antal": 2,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "Karins Minderaksen",
+        "rettet": "Karens Minde Aksen",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "Karins Mineaksen",
+        "rettet": "Karens Minde Aksen",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "Kærns Minderaksen",
+        "rettet": "Karens Minde Aksen",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "Kærns Mineaksen",
+        "rettet": "Karens Minde Aksen",
+        "antal": 2,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "Kærns Mineaktie",
+        "rettet": "Karens Minde Aksen",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "Kærns Miljøaktie",
+        "rettet": "Karens Minde Aksen",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "Kærnsmindeaksen",
+        "rettet": "Karens Minde Aksen",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "karnsminneaksen",
+        "rettet": "Karens Minde Aksen",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "Kærns Minde",
+        "rettet": "Karens Minde",
+        "antal": 2,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "Karns Minde",
+        "rettet": "Karens Minde",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "Karns Minne",
+        "rettet": "Karens Minde",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "karnsminne",
+        "rettet": "Karens Minde",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "kantsminde",
+        "rettet": "Karens Minde",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "Kærnsminde",
+        "rettet": "Karens Minde",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "Karins Mænding Kulturhus",
+        "rettet": "Karens Minde Kulturhus",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "Karsminde Kulturhus",
+        "rettet": "Karens Minde Kulturhus",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "Hufvore",
+        "rettet": "HOFOR",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "Hufvård",
+        "rettet": "HOFOR",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "Håform",
+        "rettet": "HOFOR",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "Rufor",
+        "rettet": "HOFOR",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "ROFORS",
+        "rettet": "HOFORs",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "mange fra UFO",
+        "rettet": "mange fra HOFOR",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "tax-finansieret",
+        "rettet": "takstfinansieret",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "medfinitering",
+        "rettet": "medfinansiering",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "spillevandplanen",
+        "rettet": "spildevandsplanen",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "Spilvernsplanen",
+        "rettet": "Spildevandsplanen",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "Sjøløre Boulevard",
+        "rettet": "Sjælør Boulevard",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "Chaleur Boulevard",
+        "rettet": "Sjælør Boulevard",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "skybrugsplanen",
+        "rettet": "skybrudsplanen",
+        "antal": 2,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "bybrugsplan",
+        "rettet": "skybrudsplan",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "LTA-beregninger",
+        "rettet": "LCA-beregninger",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Webinar_om_jura_-_Kystjura_og_klimaaspekter.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "kystjure",
+        "rettet": "kystjura",
+        "antal": 2,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "kyststure",
+        "rettet": "kystjura",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "torden",
+        "rettet": "Horten",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "hårens afdeling",
+        "rettet": "Hortens afdeling",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "miljøgeret",
+        "rettet": "miljøret",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "kidsbeskyttelsesloven",
+        "rettet": "kystbeskyttelsesloven",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "kysthussloven",
+        "rettet": "kystbeskyttelsesloven",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "krigsbeskyttelsesloven",
+        "rettet": "kystbeskyttelsesloven",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "krystbeskyttelsesloven",
+        "rettet": "kystbeskyttelsesloven",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "kystbeskyttelseslån",
+        "rettet": "kystbeskyttelsesloven",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "kystdiktorratet",
+        "rettet": "kystdirektoratet",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "Høstbeskyttelsen",
+        "rettet": "Kystbeskyttelsen",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "kysse beskytte",
+        "rettet": "kystbeskytte",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "krydsikringsprojekter",
+        "rettet": "kystsikringsprojekter",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "krydsbeskyttelsesprojekt",
+        "rettet": "kystbeskyttelsesprojekt",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "kystikringsprojekt",
+        "rettet": "kystsikringsprojekt",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "kysbeskyttelse",
+        "rettet": "kystbeskyttelse",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "kystrundejer",
+        "rettet": "kystgrundejer",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "kvote du ligger i",
+        "rettet": "kote du ligger i",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "initiatfordring",
+        "rettet": "initialfodring",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "sandkodning",
+        "rettet": "sandfodring",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "ulykkenslidninger",
+        "rettet": "udløbsledninger",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "udløbslåninger",
+        "rettet": "udløbsledninger",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "anssektorloven",
+        "rettet": "vandsektorloven",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "angststyrelsen",
+        "rettet": "Ankestyrelsen",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "bidragspålives",
+        "rettet": "bidragspålignes",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "recepten",
+        "rettet": "recipienten",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "recianten",
+        "rettet": "recipienten",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "produktivitetsvurderingerne",
+        "rettet": "proportionalitetsvurderingerne",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "kapacitetsvensyn",
+        "rettet": "kapacitetshensyn",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "bidragsfansættelse",
+        "rettet": "bidragsfastsættelse",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "kvote man ligger i",
+        "rettet": "kote man ligger i",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Webinar_om_jura_2__Omkostningsbekendtg_relsen.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "Morten advokaterne",
+        "rettet": "Horten",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "Horsens afdelingen",
+        "rettet": "Hortens afdeling",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "takfinansiere",
+        "rettet": "takstfinansiere",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "sagtfinansiere",
+        "rettet": "takstfinansiere",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "tarv overflade",
+        "rettet": "tag- og overflade",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "town overfladevand",
+        "rettet": "tag- og overfladevand",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "tarmer overfladevand",
+        "rettet": "tag- og overfladevand",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "tower overfladevand",
+        "rettet": "tag- og overfladevand",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "tovoverflade mand",
+        "rettet": "tag- og overfladevand",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "nykoreing",
+        "rettet": "nykloakering",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "Nykoriering",
+        "rettet": "Nykloakering",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "biler i sig selv princip",
+        "rettet": "hvile i sig selv-princip",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "vi i sig selv princippet",
+        "rettet": "hvile i sig selv-princippet",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "udvendige omkostninger",
+        "rettet": "nødvendige omkostninger",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "omkostningspengørelsen",
+        "rettet": "omkostningsbekendtgørelsen",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "tredjevands ejendom",
+        "rettet": "tredjemands ejendom",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "trejdemands ejendom",
+        "rettet": "tredjemands ejendom",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "Forsyning taertalet",
+        "rettet": "Forsyningssekretariatet",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "forsynet sekretariatet",
+        "rettet": "forsyningssekretariatet",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "forsynsekretariatet",
+        "rettet": "forsyningssekretariatet",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "forsynelsekretariatet",
+        "rettet": "forsyningssekretariatet",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "separatklygtede",
+        "rettet": "separatkloakerede",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "fælleskklygtede",
+        "rettet": "fælleskloakerede",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "overfladøsning",
+        "rettet": "overfladeløsning",
+        "antal": 3,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "underjurske løsninger",
+        "rettet": "underjordiske løsninger",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "underisk løsning",
+        "rettet": "underjordisk løsning",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "filmmandsplan",
+        "rettet": "spildevandsplan",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "filmsledning",
+        "rettet": "spildevandsledning",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "fildevandsledning",
+        "rettet": "spildevandsledning",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "spildlandselskabet",
+        "rettet": "spildevandsselskabet",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "frilandsselskabets",
+        "rettet": "spildevandsselskabets",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "spiller anselskab",
+        "rettet": "spildevandsselskab",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "spiller en selskab",
+        "rettet": "spildevandsselskab",
+        "antal": 2,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "projektype",
+        "rettet": "projekttype",
+        "antal": 8,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "kommunalfuldbakken",
+        "rettet": "kommunalfuldmagten",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "medlem af Danmark",
+        "rettet": "medlem af DANVA",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "størkeperioder",
+        "rettet": "tørkeperioder",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Webinar_om_jura_3._Aftaler_om_klimatilpasning.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "har orden med igen",
+        "rettet": "har Horten med igen",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "tak skal du have skatten",
+        "rettet": "tak skal du have Steffen",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "medlem af Danmark",
+        "rettet": "medlem af DANVA",
+        "antal": 2,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "trav overfladevand",
+        "rettet": "tag- og overfladevand",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "tagoverflade vand",
+        "rettet": "tag- og overfladevand",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "spildevandsbekattgørelsen",
+        "rettet": "spildevandsbekendtgørelsen",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "projektype",
+        "rettet": "projekttype",
+        "antal": 6,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "projekt-ype",
+        "rettet": "projekttype",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "spildemandsselskab",
+        "rettet": "spildevandsselskab",
+        "antal": 2,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "spildlandsselskabets",
+        "rettet": "spildevandsselskabets",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "spilværdselskab",
+        "rettet": "spildevandsselskab",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "spytter selskab",
+        "rettet": "spildevandsselskab",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "spillermandsselskab",
+        "rettet": "spildevandsselskab",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "spiller anselskab",
+        "rettet": "spildevandsselskab",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "forsyningssekretariaten",
+        "rettet": "forsyningssekretariatet",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "forsyningsartinet",
+        "rettet": "forsyningssekretariatet",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "forsyningsekretatet",
+        "rettet": "forsyningssekretariatet",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "forsyningssekretaratet",
+        "rettet": "forsyningssekretariatet",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "lene sejr",
+        "rettet": "ledningsejer",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "magtindsigt",
+        "rettet": "aktindsigt",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "magtensigt",
+        "rettet": "aktindsigt",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "magtindtægt",
+        "rettet": "aktindsigt",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "regnvandssøg",
+        "rettet": "regnvandssø",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "regnvandsbasilen",
+        "rettet": "regnvandsbassinet",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "udmategulering",
+        "rettet": "udmatrikulering",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "præramlen",
+        "rettet": "præamblen",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "one tiise fits all",
+        "rettet": "one size fits all",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "tilbagedøb",
+        "rettet": "tilbageløb",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "opsigelsesindgangen",
+        "rettet": "opsigelsesadgangen",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Webinar_om_jura__Sikring_af_rettigheder_og_deklarationer_i_k.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "ekspropression",
+        "rettet": "ekspropriation",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "eksplosionssager",
+        "rettet": "ekspropriationssager",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "eksplerationsplanen",
+        "rettet": "ekspropriationsplanen",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "eksoperationshjemmel",
+        "rettet": "ekspropriationshjemmel",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "eksoperationsproces lov",
+        "rettet": "ekspropriationsproceslov",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "eksportere",
+        "rettet": "ekspropriere",
+        "antal": 4,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "eksporererer",
+        "rettet": "eksproprierer",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "ekspotions beslutning",
+        "rettet": "ekspropriationsbeslutning",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "eksplations beslutning",
+        "rettet": "ekspropriationsbeslutning",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "ekspropribationsbeslutning",
+        "rettet": "ekspropriationsbeslutning",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "eksklusionen",
+        "rettet": "ekspropriationen",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "åsdagsforretning",
+        "rettet": "åstedsforretning",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "åstusforretning",
+        "rettet": "åstedsforretning",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "onsdagsforretningen",
+        "rettet": "åstedsforretningen",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "osteforretninger",
+        "rettet": "åstedsforretninger",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "ostersforretningen",
+        "rettet": "åstedsforretningen",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "vejleåens",
+        "rettet": "vejlovens",
+        "antal": 4,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "vejleåparagraf",
+        "rettet": "vejlovens paragraf",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "vejleåparken 82",
+        "rettet": "vejlovens paragraf 82",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "vejløns pardus 77",
+        "rettet": "vejlovens paragraf 77",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "vejlnoven",
+        "rettet": "vejloven",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "realfortegnelse",
+        "rettet": "arealfortegnelse",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "helfortegnelsen",
+        "rettet": "arealfortegnelsen",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "arealopståelsen",
+        "rettet": "arealafståelsen",
+        "antal": 2,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "taktitionskommissionen",
+        "rettet": "taksationskommissionen",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "tankstationskendelser",
+        "rettet": "taksationskendelser",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "intaktationskommissionen",
+        "rettet": "taksationskommissionen",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "nitaktiserende myndigheder",
+        "rettet": "de takserende myndigheder",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "unetteholdning",
+        "rettet": "Lynetteholmen",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "klimasægningsprojekt",
+        "rettet": "klimasikringsprojekt",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "jylling nordmark",
+        "rettet": "Jyllinge Nordmark",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "Horsens advokater",
+        "rettet": "Hortens advokater",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "Horsens afdeling",
+        "rettet": "Hortens afdeling",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "DNAK",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "kyststue og klima-aspekter",
+        "rettet": "kystjura og klimaaspekter",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "serbitutter",
+        "rettet": "servitutter",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "centutter",
+        "rettet": "servitutter",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "kvakledninger",
+        "rettet": "kloakledninger",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Workshop_om_oversv_mmelser__skader_og__konomi__opl_g_1.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "krystoversvømmelse",
+        "rettet": "kystoversvømmelse",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "kampmodellen",
+        "rettet": "KAMP-modellen",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "skaldensøkonomi",
+        "rettet": "Skadesøkonomi",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "klimatilpasning DK",
+        "rettet": "klimatilpasning.dk",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "naturs gaderådet",
+        "rettet": "Naturskaderådet",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "vanddyde",
+        "rettet": "vanddybde",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "skadehedsfunktion",
+        "rettet": "skadesfunktion",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "jo BP er",
+        "rettet": "jo BBR",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "dansegundlag",
+        "rettet": "datagrundlag",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "dering af data",
+        "rettet": "deling af data",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "fælles kurderne",
+        "rettet": "fællesgoderne",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "krimi forandring",
+        "rettet": "klimaforandring",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Workshop_om_oversv_mmelser__skader_og__konomi__opl_g_2.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "kyst til trådte",
+        "rettet": "Kystdirektoratet",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "kystdiktorratet",
+        "rettet": "Kystdirektoratet",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "kystdirektrs",
+        "rettet": "Kystdirektoratets",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "kystdirekts",
+        "rettet": "Kystdirektoratets",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "det kystneutrale har lagt",
+        "rettet": "det Kystdirektoratet har lagt",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "sårpas Index",
+        "rettet": "sårbarhedsindeks",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "sopas indeks",
+        "rettet": "sårbarhedsindeks",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "sovepasindeks",
+        "rettet": "sårbarhedsindeks",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "sorthedsmodel",
+        "rettet": "sårbarhedsmodel",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "menneskelige soppede",
+        "rettet": "menneskelige sårbarhed",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "world being loss",
+        "rettet": "well-being loss",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "world being os",
+        "rettet": "well-being loss",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "flotte people, en kvinde land",
+        "rettet": "flooded people equivalent",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "flotte people i krevent",
+        "rettet": "flooded people equivalent",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "flotte pible kriminallinjen",
+        "rettet": "flooded people equivalent",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "monac Carlo",
+        "rettet": "Monte Carlo",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "kridtceller",
+        "rettet": "gridceller",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "marja Fjord",
+        "rettet": "Mariagerfjord",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "Facebook value",
+        "rettet": "face value",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "eksponeringsindext",
+        "rettet": "eksponeringsindeks",
+        "antal": 1,
+        "grund": "Fable-fund + domæne-review (Opus)"
+      }
+    ],
+    "afvist": []
   }
 }

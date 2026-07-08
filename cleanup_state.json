@@ -855,5 +855,45 @@
     "pairs": 13,
     "ts": "2026-07-07T11:22:19",
     "via": "fable-session"
+  },
+  "transcriptions\\Godmorgen_med_DNNK__Dynamisk_skybrudsplanl_gning___erfaringe.mp3.txt": {
+    "pairs": 40,
+    "ts": "2026-07-07T18:52:01",
+    "via": "fable-batch1"
+  },
+  "transcriptions\\Godmorgen_med_DNNK__Karens_Minde_Aksen.mp3.txt": {
+    "pairs": 34,
+    "ts": "2026-07-07T18:52:01",
+    "via": "fable-batch1"
+  },
+  "transcriptions\\Webinar_om_jura_-_Kystjura_og_klimaaspekter.mp3.txt": {
+    "pairs": 32,
+    "ts": "2026-07-07T18:52:01",
+    "via": "fable-batch1"
+  },
+  "transcriptions\\Webinar_om_jura_2__Omkostningsbekendtg_relsen.mp3.txt": {
+    "pairs": 37,
+    "ts": "2026-07-07T18:52:01",
+    "via": "fable-batch1"
+  },
+  "transcriptions\\Webinar_om_jura_3._Aftaler_om_klimatilpasning.mp3.txt": {
+    "pairs": 29,
+    "ts": "2026-07-07T18:52:01",
+    "via": "fable-batch1"
+  },
+  "transcriptions\\Webinar_om_jura__Sikring_af_rettigheder_og_deklarationer_i_k.mp3.txt": {
+    "pairs": 38,
+    "ts": "2026-07-07T18:52:01",
+    "via": "fable-batch1"
+  },
+  "transcriptions\\Workshop_om_oversv_mmelser__skader_og__konomi__opl_g_1.mp3.txt": {
+    "pairs": 12,
+    "ts": "2026-07-07T18:52:01",
+    "via": "fable-batch1"
+  },
+  "transcriptions\\Workshop_om_oversv_mmelser__skader_og__konomi__opl_g_2.mp3.txt": {
+    "pairs": 20,
+    "ts": "2026-07-07T18:52:01",
+    "via": "fable-batch1"
   }
 }

@@ -14,7 +14,7 @@ Hvor har vi et godt datagrundlag, hvor vi godt forberedte, og hvor kan vi gennem
 Gøre det bedre, så vi kan godt være lidt åbne og kritiske omkring hvad vi kan, og hvad vi ikke kan.
 
 00:01:08
-Og som i ved jo, så er det jo det der med at Vi har valgt fra alle sider. Vi har jo både krystoversvømmelse. Det er det, som vi nok har arbejdet mest med, men Vi har jo også skal vi bruge ekstremt regn, hvor at der jo også er et samspil med kysterne og med grundvandet og andre ting, så har vi vandet som jo vandløbene, som vi også spiller sammen med de andre oversvømmelser.
+Og som i ved jo, så er det jo det der med at Vi har valgt fra alle sider. Vi har jo både kystoversvømmelse. Det er det, som vi nok har arbejdet mest med, men Vi har jo også skal vi bruge ekstremt regn, hvor at der jo også er et samspil med kysterne og med grundvandet og andre ting, så har vi vandet som jo vandløbene, som vi også spiller sammen med de andre oversvømmelser.
 
 00:01:32
 Og så er grundvandet blevet noget, som nogen taler uendelig meget om.
@@ -32,7 +32,7 @@ Faktisk, så var jeg selv ude for at jeg var på camping her i sidste uge, at de
 De vil jo ikke lade os gøre noget, og jeg forsøgte at forklare dem, og jamen Det er jo kommunen der må bestemme det. Eller Det er virkelig noget, som der bliver talt om.
 
 00:02:28
-Blandt folk, der ellers ikke er insighter, så er det jo også det, at nogle private aktører, de kan blive pålagt betaling. Der er jo både lodsejere, sikringsselskaber og den finansielle sektor, som kan blive tvunget til at nedskrive deres aktive. Og når det sker, så er det selvfølgelig lidt mere alvorligt, end at vi bare i fremtiden taler om en teoretisk om en krimi forandring.
+Blandt folk, der ellers ikke er insighter, så er det jo også det, at nogle private aktører, de kan blive pålagt betaling. Der er jo både lodsejere, sikringsselskaber og den finansielle sektor, som kan blive tvunget til at nedskrive deres aktive. Og når det sker, så er det selvfølgelig lidt mere alvorligt, end at vi bare i fremtiden taler om en teoretisk om en klimaforandring.
 
 00:02:51
 Ligesom jeg står på Steffen kryds nå, så er det jo også det, at kommunerne og forsyningen er ansvarlig for store planlægnings og implementeringsopgaver. Beredskabet har selv udtalt, Vi har talt grundigt med dem også i forbindelse med nogle projekter, men Det har også været frem med offentligheden.
@@ -77,16 +77,16 @@ Det er faktisk den information Vi skal vide, hvis Vi skal vide om Det kan betale
 Man kan jo godt have andre synspunkter omkring ekstreme hændelser.
 
 00:05:40
-Hvis man kigger på klimatilpasning DK, så har vi jo forskellige åbne analytiske værktøjer.
+Hvis man kigger på klimatilpasning.dk, så har vi jo forskellige åbne analytiske værktøjer.
 
 00:05:48
 Som man kan bruge. Vi har jo kystdirektoratets øh model, den der kystplanlægger som beregner nogle indekstal for skader man ikke samlet økonomi på et helt detaljeret geografisk niveau.
 
 00:06:02
-Som man selv kan tage ud og arbejde videre på, så har vi jo kampmodellen, som er under udvikling og den kampaltikkert fortælle mere om den er jo en meget brugervenlig screeningsmodel, som selv en kommende boligejer og nemt bare lige kan gå ind og kigge på. Og Jeg har hørt at faktisk ejendomsinvestorer bruger den også fordi de er så nærige, så de gider ikke betale for nogle mere grundige analyt. De går bare ind og kigger lidt der har været et problem her OK Det er der ikke, så bygger vi et stort ejendoms.
+Som man selv kan tage ud og arbejde videre på, så har vi jo KAMP-modellen, som er under udvikling og den kampaltikkert fortælle mere om den er jo en meget brugervenlig screeningsmodel, som selv en kommende boligejer og nemt bare lige kan gå ind og kigge på. Og Jeg har hørt at faktisk ejendomsinvestorer bruger den også fordi de er så nærige, så de gider ikke betale for nogle mere grundige analyt. De går bare ind og kigger lidt der har været et problem her OK Det er der ikke, så bygger vi et stort ejendoms.
 
 00:06:29
-Kompleks, så har vi det. Der er ikke noget, vi som bliver brugt så meget i dag, men Det er mere til at vurdere et konkret projekt, og så har vi jo Vores model, der hedder skaldensøkonomi, og den vil jeg selvfølgelig fortælle lidt mere om.
+Kompleks, så har vi det. Der er ikke noget, vi som bliver brugt så meget i dag, men Det er mere til at vurdere et konkret projekt, og så har vi jo Vores model, der hedder Skadesøkonomi, og den vil jeg selvfølgelig fortælle lidt mere om.
 
 00:06:44
 I Vores model skades økonomi. Det var jo en medal, vi udviklede under at innovationsfondprojekt.
@@ -110,13 +110,13 @@ Nu er det heldigvis Sådan, at vi også har urs her i dag. Han kan fortælle nog
 Nu må jeg lige sige lidt om, hvad det egentlig er for data Vi har i de her forskellige moduler, fordi Det er noget hvor at vi godt vil arbejde videre på og forbedre det datagrundlag.
 
 00:08:09
-Indenfor bygninger, der der ved i jo BP er Det er jo et landsdækkende detaljeret register, så vi ved jo ret meget om bygningerne i det omfang, hvor BBR er fuldt optaget opdateret. Der har vi jo.
+Indenfor bygninger, der der ved i jo BBR Det er jo et landsdækkende detaljeret register, så vi ved jo ret meget om bygningerne i det omfang, hvor BBR er fuldt optaget opdateret. Der har vi jo.
 
 00:08:26
-Data fra naturs gaderådet for alle udbetalinger, som der har været i forbindelse med stormflod. Dem sammenkæder vi med den vanddyde, der har været omkring bygningen.
+Data fra Naturskaderådet for alle udbetalinger, som der har været i forbindelse med stormflod. Dem sammenkæder vi med den vanddybde, der har været omkring bygningen.
 
 00:08:37
-Så har vi estimeret Sådan en skadehedsfunktion, som man kan se, at hvis Der er 2 m vand uden for bygningen, hvor meget er der så blevet udbetalt? Og Det er det som vi bruger. Så prøver vi også, og Det har vi også lidt fra forskellige bygningstyper.
+Så har vi estimeret Sådan en skadesfunktion, som man kan se, at hvis Der er 2 m vand uden for bygningen, hvor meget er der så blevet udbetalt? Og Det er det som vi bruger. Så prøver vi også, og Det har vi også lidt fra forskellige bygningstyper.
 
 00:08:51
 Så har vi nogle forudsætninger om værditab for salg af huse, men de Det er noget af det, jeg håber toke dage vil komme med nogle bedre tal, fordi at Det er jo faktisk et reelt problem, og Nationalbanken har lavet nogle analyser, men.
@@ -227,7 +227,7 @@ Hov, Det var ikke så koldt. Nå jo altså vi går meget. Vi vil jo gerne have a
 Bygninger, industri og Sådan noget det tal Jeg har lavet om. Men hvad er fælles goder?
 
 00:15:29
-Eller falsk værdier, og Det er jo Sådan noget med sundhed og byliv og andre ting. Og Jeg synes ikke, at Det er særlig realistisk, at private forsikringer af huse for alle fælles kurderne også. Men hvis vi virkelig skal gøre det her i virkelighedens verden, så er vi nødt til at være meget detaljeret i at måle på, hvad Det er, der påvirkes.
+Eller falsk værdier, og Det er jo Sådan noget med sundhed og byliv og andre ting. Og Jeg synes ikke, at Det er særlig realistisk, at private forsikringer af huse for alle fællesgoderne også. Men hvis vi virkelig skal gøre det her i virkelighedens verden, så er vi nødt til at være meget detaljeret i at måle på, hvad Det er, der påvirkes.
 
 00:15:48
 Og Det kan vi jo også gøre, fordi Vi har så detcieret data, så Det var noget vi godt.
@@ -245,13 +245,13 @@ Og så vil vi gerne sikre, at vi kan have nogle bedre.
 Industridata og nogle delmodeller, og så har vi jo de mellemskelige konsekvenser, og så har vi også nogle EU projekter. Nu vil jeg altså gerne bruge den sidste tid mere på det her, altså det grønne. Det er jo det positive.
 
 00:16:25
-Det ved jeg ikke. Vi har et unikt dansegundlag. Vi er dygtige.
+Det ved jeg ikke. Vi har et unikt datagrundlag. Vi er dygtige.
 
 00:16:28
 Vi kan sagtens gøre det her og alle jer, der også gør det i praksis i kommuner og rådgivere i er højt kompetence. Vi har nogle nye aktører som forsikringer, den finansielle sektor. Det er vi jo glade for, fordi de kan give nogle andre synsvinkler, og så er der også politisk fokus.
 
 00:16:45
-Offentligt tilgængelige værktøjer. Men Jeg synes, at Det er rystende, at Vi har så lidt dering af data og samarbejde mellem myndigheder og forskellige aktører.
+Offentligt tilgængelige værktøjer. Men Jeg synes, at Det er rystende, at Vi har så lidt deling af data og samarbejde mellem myndigheder og forskellige aktører.
 
 00:16:56
 Jeg synes at det bør være Sådan at alle myndighedsdata bør være offentligt tilgængelige. Det gælder altså alle ministerier og styrelser. Vi har manglende kvalitetssikring af beregninger.
