@@ -1,11 +1,11 @@
 00:00:18
-Så tror jeg, det er ved at være tid til at sige velkommen til Godmorgen med DNNK. Jeg hedder Line Poulsen, og jeg arbejder hos Nuafos.
+Så tror jeg, det er ved at være tid til at sige velkommen til Godmorgen med DNNK. Jeg hedder Line Poulsen, og jeg arbejder hos Novafos.
 
 00:00:27
-Jeg har haft en nøjelse med at kunne præsentere et oplæg i dag af min gode kollega, Jens Stærdal, som er seniorprojektleder på Regnmandsbassiner, også kendt i viksen som mister bassiner.
+Jeg har haft en nøjelse med at kunne præsentere et oplæg i dag af min gode kollega, Jens Stærdal, som er seniorprojektleder på Regnvandsbassiner, også kendt i viksen som mister bassiner.
 
 00:00:39
-Jens ved alt, hvad der er at vide, og vi fortæller jer omkring drift, renovering og vores designarbejde med, hvordan vi arbejder med Regnmandsbassiner.
+Jens ved alt, hvad der er at vide, og vi fortæller jer omkring drift, renovering og vores designarbejde med, hvordan vi arbejder med Regnvandsbassiner.
 
 00:00:48
 Hele forløbet her bliver optaget og bliver lagt på DNNK's hjemmeside Så fremt I ønsker præsentationen, kan I rette henvendelser til Jens efterfølgende Og hvis I har spørgsmål, er I velkommen til at skrive dem i chatten undervejs Skal vi se om det kan lade sig gøre flet dæner, ellers så samler jeg op på hvad der ligger i chatten, når Jens er færdig med sit oplæg Jeg vil sige velkommen til, og god fornøjelse.
@@ -14,7 +14,7 @@ Hele forløbet her bliver optaget og bliver lagt på DNNK's hjemmeside Så fremt
 Vær så god, Jens.
 
 00:01:20
-Godmorgen. Det er dejligt, at så mange har lyst til at lytte på et oplevelse om regnerspadsænger. Det er noget, jeg synes er spændende og lidt sjovt. Jeg hedder Jens Dadal. Jeg er koordinator for regnerspadsænger i Nordafos.
+Godmorgen. Det er dejligt, at så mange har lyst til at lytte på et oplevelse om regnerspadsænger. Det er noget, jeg synes er spændende og lidt sjovt. Jeg hedder Jens Dadal. Jeg er koordinator for regnerspadsænger i Novafos.
 
 00:01:36
 Jeg vil tage en tur igennem den rejse, jeg har været på med regnerspadsænger de sidste fem år. Det vi skal igennem er, at vi først vil fortælle nogle nedslag i den proces, vi har været igennem med at få styr på alle vores regnersbassiner. Noget om, hvad var målene? Noget om data?
@@ -32,13 +32,13 @@ Et andet projekt, vi har om bassinet design, hvor I har fået eksperter til at s
 Jeg har arbejdet med regnersk bassinet i 5,5 år hos NOVAfos. Noget med de gamle bassiner, opregnelse og renovering. Vi har lavet Carlsbæk. Jeg taler med mange af mine plankolleger om design af regnværtsbassiner. Så har vi arbejdet med at registrere alle vores bassiner rigtigt.
 
 00:03:04
-Før har jeg været i Kik & Vand. Det er et regionalt netværk for klimatilpasning. Jeg har været 10 år i Roskilde Kommune og arbejdet med strategi for et åbent land. Før var jeg 15 år på Roskilde Universitet.
+Før har jeg været i KLIKOVAND. Det er et regionalt netværk for klimatilpasning. Jeg har været 10 år i Roskilde Kommune og arbejdet med strategi for et åbent land. Før var jeg 15 år på Roskilde Universitet.
 
 00:03:16
 Hvor jeg er uddannet som miljøplanlægger, inden med at være lægt til miljøregulering, men finde ud af, at jeg ville hellere lave noget andet. Så nu sidder jeg her. Kort om udgangspunktet. Hvad er der overhovedet vi taler om? I øverste hørende er der en kort med nogle gule kommuner på.
 
 00:03:36
-Det er Novafoss-kommunerne i den østlige hørende af Sjælland. Vi dækker ni kommuner. Der er i alt 350 regnvandsbassiner i det her område, som Novafoss har ansvaret for. De er meget forskellige, de er anlagt over en lang periode.
+Det er Novafos-kommunerne i den østlige hørende af Sjælland. Vi dækker ni kommuner. Der er i alt 350 regnvandsbassiner i det her område, som Novafos har ansvaret for. De er meget forskellige, de er anlagt over en lang periode.
 
 00:03:56
 eksisterende gamle søer, der er konverteret til regnvandsbassiner, tørrebassiner, vådebassiner i alle mulige forskellige udformninger, og så til de nye bassiner, vi selv har indlagt over de senere år. Det, der er sket, er, at de ni forsyninger, vi lagte sammen af, var tidligere faktisk flere.
@@ -500,7 +500,7 @@ Ja, jeg skal lige sige, Den, der er blevet spurgt, med teknisk kravspecifikation
 Jeg vil sige noget om to ting, vi er i gang med at lære. Det ene er om at udtørre sedimentet, når vi renser bassinet op. Det, der sker, hvis man bruger den traditionelle metode med oprensning, det er, at du ender med at køre noget, hvor der er 20-25% tørrestof og 75-80% vand.
 
 00:43:09
-I Nordfors-området kan vi ikke få tilladelse til udtøjning af sediment på bassinkantet. Det betyder, at vi skal køre sedimentbord, som i virkeligheden er 20-25 % tørrestof. Resten er vand, når vi skal betale deponeringsafgiften på 600-800 kroner pr. ton.
+I Novafos-området kan vi ikke få tilladelse til udtøjning af sediment på bassinkantet. Det betyder, at vi skal køre sedimentbord, som i virkeligheden er 20-25 % tørrestof. Resten er vand, når vi skal betale deponeringsafgiften på 600-800 kroner pr. ton.
 
 00:43:27
 Så vi brænder en masse CO2 af, eller brænder en masse diesel af, og laver en masse CO2, når vi kører rundt med alt det der vand. Det har vi længe tænkt. Det er simpelthen for dumt. Så vi er i gang med at lave nogle forsøg med at udtørre sedimentet.
@@ -587,7 +587,7 @@ Så det vi har lavet er et projektgruppe, hvor vi forsøger at sige, hvad er sta
 Så har vi nu der, hvor vi har indgået aftaler med en række af de rigtig gode eksperter, synes vi, på det her felt om at sige, det er de og de og de spørgsmål, vi gerne vil have opdateret. Hvad er der sket siden 2012? Når vi har fået det, vil vi lave et opdateret faktablad eller anvisning.
 
 00:51:15
-For at sikre, at det bliver anerkendt og er i orden, altså at kvaliteten er god, så har vi aftalt med regnudvalget under Spillevandskommittén, at det skal bearbejdes i Spillevandskommittén. Vi har direkte dialog med arbejdsgruppen om recipientpåvirken.
+For at sikre, at det bliver anerkendt og er i orden, altså at kvaliteten er god, så har vi aftalt med regnudvalget under Spildevandskomiteen, at det skal bearbejdes i Spildevandskomiteen. Vi har direkte dialog med arbejdsgruppen om recipientpåvirken.
 
 00:51:34
 Det skal godkendes i regnudvalget, og så videre i planerforsamlingen. Vi tænker, at det kunne være en god måde at få tjekket, at det er i orden. Det er et projekt, hvor vi er fem forsyninger, et par rådgiver, universitet og nogle kommuner. Nu kan jeg se, at tiden løber for mig, men det passer.
@@ -602,7 +602,7 @@ Den gode nyhed var, at det var meget ens, det vi fik tilbage, både fra forskell
 Når det er færdigt, helst sidst på året, så skal TI, Teknologisk Institut, lave en anvisning eller et opdateret faktablad i samarbejde med projektgruppen af vores ressourcepersoner.
 
 00:52:41
-Det der er planen, der skal komme ud af det, er at vi får de her relativt korte notater fra eksperterne, og så et opdateret anvisningsgrupper i faktabladen, som vi får udgivet som enten et samlet skrift eller en samlet rapport under Spillevandskomiteen.
+Det der er planen, der skal komme ud af det, er at vi får de her relativt korte notater fra eksperterne, og så et opdateret anvisningsgrupper i faktabladen, som vi får udgivet som enten et samlet skrift eller en samlet rapport under Spildevandskomiteen.
 
 00:52:59
 Og her til højre kan I så se, hvem vi har indgået aftale med nu. Og der har i hvert fald mig og Katrine Nielsen, som er projektleder for TI, har det sådan, at det er vores dreamteam. Vi synes, vi har fået nogle rigtig gode folk til at gå ind og hjælpe med at opdatere viden.

@@ -2,10 +2,10 @@
 Vi har en agenda med tre punkter.
 
 00:00:11
-Først vil jeg gerne lave en kort gennemgang af DIN-geo og BOEQ.
+Først vil jeg gerne lave en kort gennemgang af DIN-geo og BoIQ.
 
 00:00:15
-Og så fortælle kort om oversvømmelsesdata, som vi har på DIN-geo og BOEQ.
+Og så fortælle kort om oversvømmelsesdata, som vi har på DIN-geo og BoIQ.
 
 00:00:21
 Og så til sidst en diskussion om, hvordan vi mener på DIN-geo, at vi udnytter geodata og også oversvømmelsesdata på den bedst mulige måde.
@@ -68,7 +68,7 @@ I forbindelse med digengivelser, løbende fået henvendelser fra andre virksomhe
 Selvom det egentlig er åbne data, men interesseret i det vi har gjort, vi har forarbejdet data og samlet den.
 
 00:02:45
-Så i år så har vi taget det skridt at lave et nyt site, der hedder BoIQ, hvor vi har en data warehouse for Gingeo data, hvor vi hver eneste dag går ind og henter de nyeste data fra Gingeo.
+Så i år så har vi taget det skridt at lave et nyt site, der hedder BoIQ, hvor vi har en data warehouse for DinGeo data, hvor vi hver eneste dag går ind og henter de nyeste data fra DinGeo.
 
 00:02:55
 Og det samme fra vores søstersite Boliger, med Boligmarkeds data.
@@ -89,7 +89,7 @@ Først så vil jeg gerne understrege, at oversøgelsesdata faktisk kun er en lil
 Vi har fem forskellige hovedgrupper af data til at vurdere oversøgelsesdata på en given adresse.
 
 00:03:59
-Det er skybrød, højtlæggende grundvand, Oversvømmelsen fra vandløb, stormflod og kystdioptoret har lavet deres egen analyse for.
+Det er skybrød, højtlæggende grundvand, Oversvømmelsen fra vandløb, stormflod og Kystdirektoratet har lavet deres egen analyse for.
 
 00:04:09
 Oversvømmelsesrisiko tager vi også med.
@@ -167,7 +167,7 @@ Vi digitaliserer dem.
 I det her tilfælde viser vi et enkelt kort, og vi laver en overordnet risikovurdering.
 
 00:06:43
-Vandløb er det samme, stormflod er det samme, og så har vi Køstdirektoratets oversøgelsedirektiv, hvor de har lavet over to forskellige perioder, plan 3.1 og plan 3.2, og vi har så taget begge de her to dataset med på adresseopslagene.
+Vandløb er det samme, stormflod er det samme, og så har vi Kystdirektoratets oversøgelsedirektiv, hvor de har lavet over to forskellige perioder, plan 3.1 og plan 3.2, og vi har så taget begge de her to dataset med på adresseopslagene.
 
 00:07:06
 Og jeg tror, der kommer præsentationer om nogle af de her dataset senere, så der er ingen grund til, at jeg dummer mig her, hvis der er noget forkert om de her data.
@@ -194,7 +194,7 @@ Og en anden ting, det var, at de webgiftsløsninger ofte målrettede eksperter, 
 Det er ikke altid, at det er let for den almindelige bruger at forstå den type løsninger.
 
 00:08:24
-Ja, så løsningen var, at for mig, og lave Jingle, som så hjælper brugeren med at gå ud og hente de her datakilder og servere dem i ensamlet opslagsside.
+Ja, så løsningen var, at for mig, og lave DinGeo, som så hjælper brugeren med at gå ud og hente de her datakilder og servere dem i ensamlet opslagsside.
 
 00:08:47
 Og det kan synes trivialt, i virkeligheden så er der nogle, det er ikke så let i virkeligheden, fordi der er datakilderne i forskellig format, så er der en masse forskellige data her, Hæfte sammen og gerne skjule kompleksiteten med alle de her data for brugen.

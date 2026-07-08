@@ -599,7 +599,7 @@ klima og U.S.
 træspecies.
 
 00:25:31
-Så her havde vi et problem i termer af akkuratiteten af modellen, DI-træet.
+Så her havde vi et problem i termer af akkuratiteten af modellen, iTree.
 
 00:25:37
 Det andet problem var den spatiale repræsentation af risiko i en stad.

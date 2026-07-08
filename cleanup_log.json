@@ -5082,5 +5082,250 @@
       }
     ],
     "afvist": []
+  },
+  "transcriptions\\wordwebinarer\\Eksisterende_oversv_mmelsesdata_for_ejendomme_v._Peter_Riisa.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "BOEQ",
+        "rettet": "BoIQ",
+        "antal": 2,
+        "grund": "Fable-fund + Opus domæne-review"
+      },
+      {
+        "forkert": "Gingeo",
+        "rettet": "DinGeo",
+        "antal": 2,
+        "grund": "Fable-fund + Opus domæne-review"
+      },
+      {
+        "forkert": "Jingle",
+        "rettet": "DinGeo",
+        "antal": 1,
+        "grund": "Fable-fund + Opus domæne-review"
+      },
+      {
+        "forkert": "kystdioptoret",
+        "rettet": "Kystdirektoratet",
+        "antal": 1,
+        "grund": "Fable-fund + Opus domæne-review"
+      },
+      {
+        "forkert": "Køstdirektoratets",
+        "rettet": "Kystdirektoratets",
+        "antal": 1,
+        "grund": "Fable-fund + Opus domæne-review"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\wordwebinarer\\GIS-baseret_prioritering_af_klimatilpasningsindsatser_i_land.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "Ceptium",
+        "rettet": "Septima",
+        "antal": 1,
+        "grund": "Fable-fund + Opus domæne-review"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\wordwebinarer\\Godmorgen_med_DNNK__Biodiversitet_og_beplantning_af_LAR_anl_.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "DNIK",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "Fable-fund + Opus domæne-review"
+      },
+      {
+        "forkert": "Vandcentersud",
+        "rettet": "Vandcenter Syd",
+        "antal": 1,
+        "grund": "Fable-fund + Opus domæne-review"
+      },
+      {
+        "forkert": "ÅK Nygaard",
+        "rettet": "OK Nygaard",
+        "antal": 1,
+        "grund": "Fable-fund + Opus domæne-review"
+      },
+      {
+        "forkert": "lageranlæg",
+        "rettet": "LAR-anlæg",
+        "antal": 1,
+        "grund": "Fable-fund + Opus domæne-review"
+      },
+      {
+        "forkert": "larvearbejde",
+        "rettet": "LAR-arbejde",
+        "antal": 2,
+        "grund": "Fable-fund + Opus domæne-review"
+      },
+      {
+        "forkert": "LARP",
+        "rettet": "LAR",
+        "antal": 1,
+        "grund": "Fable-fund + Opus domæne-review"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\wordwebinarer\\Godmorgen_med_DNNK__Drift__renovering_og_design_af_regnvands.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "Nuafos",
+        "rettet": "Novafos",
+        "antal": 1,
+        "grund": "Fable-fund + Opus domæne-review"
+      },
+      {
+        "forkert": "Nordafos",
+        "rettet": "Novafos",
+        "antal": 1,
+        "grund": "Fable-fund + Opus domæne-review"
+      },
+      {
+        "forkert": "Novafoss",
+        "rettet": "Novafos",
+        "antal": 2,
+        "grund": "Fable-fund + Opus domæne-review"
+      },
+      {
+        "forkert": "Nordfors",
+        "rettet": "Novafos",
+        "antal": 1,
+        "grund": "Fable-fund + Opus domæne-review"
+      },
+      {
+        "forkert": "Kik & Vand",
+        "rettet": "KLIKOVAND",
+        "antal": 1,
+        "grund": "Fable-fund + Opus domæne-review"
+      },
+      {
+        "forkert": "Spillevandskommittén",
+        "rettet": "Spildevandskomiteen",
+        "antal": 2,
+        "grund": "Fable-fund + Opus domæne-review"
+      },
+      {
+        "forkert": "Spillevandskomiteen",
+        "rettet": "Spildevandskomiteen",
+        "antal": 1,
+        "grund": "Fable-fund + Opus domæne-review"
+      },
+      {
+        "forkert": "Regnmandsbassiner",
+        "rettet": "Regnvandsbassiner",
+        "antal": 2,
+        "grund": "Fable-fund + Opus domæne-review"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\wordwebinarer\\Godmorgen_med_DNNK__Gr_n_byudvikling_med_data_og_tr_er___100.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "DI-træet",
+        "rettet": "iTree",
+        "antal": 1,
+        "grund": "Fable-fund + Opus domæne-review"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\wordwebinarer\\Godmorgen_med_DNNK__Gr_nningen_NV___Klimatilpasning__Kunst_o.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "Niers",
+        "rettet": "NIRAS",
+        "antal": 1,
+        "grund": "Fable-fund + Opus domæne-review"
+      },
+      {
+        "forkert": "Nias",
+        "rettet": "NIRAS",
+        "antal": 1,
+        "grund": "Fable-fund + Opus domæne-review"
+      },
+      {
+        "forkert": "NIOS",
+        "rettet": "NIRAS",
+        "antal": 1,
+        "grund": "Fable-fund + Opus domæne-review"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\wordwebinarer\\Godmorgen_med_DNNK___Tr_data_som_redskab_i_klimatilpasning__.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "EITRI",
+        "rettet": "iTree",
+        "antal": 2,
+        "grund": "Fable-fund + Opus domæne-review"
+      },
+      {
+        "forkert": "Firetree",
+        "rettet": "iTree",
+        "antal": 1,
+        "grund": "Fable-fund + Opus domæne-review"
+      },
+      {
+        "forkert": "rensted",
+        "rettet": "Ringsted",
+        "antal": 2,
+        "grund": "Fable-fund + Opus domæne-review"
+      },
+      {
+        "forkert": "Karbæksminde",
+        "rettet": "Karrebæksminde",
+        "antal": 1,
+        "grund": "Fable-fund + Opus domæne-review"
+      },
+      {
+        "forkert": "Varmdorp",
+        "rettet": "Vamdrup",
+        "antal": 1,
+        "grund": "Fable-fund + Opus domæne-review"
+      },
+      {
+        "forkert": "varmdruk",
+        "rettet": "Vamdrup",
+        "antal": 1,
+        "grund": "Fable-fund + Opus domæne-review"
+      },
+      {
+        "forkert": "Lundeskov",
+        "rettet": "Lunderskov",
+        "antal": 1,
+        "grund": "Fable-fund + Opus domæne-review"
+      },
+      {
+        "forkert": "Christiansfeldt",
+        "rettet": "Christiansfeld",
+        "antal": 2,
+        "grund": "Fable-fund + Opus domæne-review"
+      },
+      {
+        "forkert": "Holm-Aalstrup",
+        "rettet": "Holme-Olstrup",
+        "antal": 2,
+        "grund": "Fable-fund + Opus domæne-review"
+      },
+      {
+        "forkert": "bongbongland",
+        "rettet": "BonBon-Land",
+        "antal": 1,
+        "grund": "Fable-fund + Opus domæne-review"
+      },
+      {
+        "forkert": "Colin",
+        "rettet": "Kolding",
+        "antal": 1,
+        "grund": "Fable-fund + Opus domæne-review"
+      }
+    ],
+    "afvist": []
   }
 }

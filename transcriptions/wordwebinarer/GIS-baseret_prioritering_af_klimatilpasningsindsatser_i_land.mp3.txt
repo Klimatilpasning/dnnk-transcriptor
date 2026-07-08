@@ -170,7 +170,7 @@ I kan få det via det link, men jeg har noget, der er bedre, hvis I kontakter mi
 Der er et proof-of-concept i forskellige artikler rundt omkring.
 
 00:04:51
-Metoden er også blevet implementeret i et open-source-miljø, som det gode firma Ceptium i København har programmeret.
+Metoden er også blevet implementeret i et open-source-miljø, som det gode firma Septima i København har programmeret.
 
 00:05:01
 Den kan I hente via det repository her.

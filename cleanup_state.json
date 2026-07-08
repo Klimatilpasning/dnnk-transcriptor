@@ -935,5 +935,40 @@
     "pairs": 3,
     "ts": "2026-07-08T06:34:15",
     "via": "fable-batch2"
+  },
+  "transcriptions\\wordwebinarer\\Eksisterende_oversv_mmelsesdata_for_ejendomme_v._Peter_Riisa.mp3.txt": {
+    "pairs": 5,
+    "ts": "2026-07-08T06:41:58",
+    "via": "fable-batch3"
+  },
+  "transcriptions\\wordwebinarer\\GIS-baseret_prioritering_af_klimatilpasningsindsatser_i_land.mp3.txt": {
+    "pairs": 1,
+    "ts": "2026-07-08T06:41:58",
+    "via": "fable-batch3"
+  },
+  "transcriptions\\wordwebinarer\\Godmorgen_med_DNNK__Biodiversitet_og_beplantning_af_LAR_anl_.mp3.txt": {
+    "pairs": 6,
+    "ts": "2026-07-08T06:41:58",
+    "via": "fable-batch3"
+  },
+  "transcriptions\\wordwebinarer\\Godmorgen_med_DNNK__Drift__renovering_og_design_af_regnvands.mp3.txt": {
+    "pairs": 8,
+    "ts": "2026-07-08T06:41:58",
+    "via": "fable-batch3"
+  },
+  "transcriptions\\wordwebinarer\\Godmorgen_med_DNNK__Gr_n_byudvikling_med_data_og_tr_er___100.mp3.txt": {
+    "pairs": 1,
+    "ts": "2026-07-08T06:41:58",
+    "via": "fable-batch3"
+  },
+  "transcriptions\\wordwebinarer\\Godmorgen_med_DNNK__Gr_nningen_NV___Klimatilpasning__Kunst_o.mp3.txt": {
+    "pairs": 3,
+    "ts": "2026-07-08T06:41:58",
+    "via": "fable-batch3"
+  },
+  "transcriptions\\wordwebinarer\\Godmorgen_med_DNNK___Tr_data_som_redskab_i_klimatilpasning__.mp3.txt": {
+    "pairs": 11,
+    "ts": "2026-07-08T06:41:58",
+    "via": "fable-batch3"
   }
 }
