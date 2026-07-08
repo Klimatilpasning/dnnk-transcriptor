@@ -1,5 +1,5 @@
 00:00:05
-Ja, men nu er klokken 9.01, og så starter vi med denne masterclass, som nævnt er mit navn, Ulrik Hinsbøger, og jeg kommer fra Teknologisk Institut og skal holde denne masterclass i DNMK om sikring af bygninger mod vand. Først en lille smule praktik.
+Ja, men nu er klokken 9.01, og så starter vi med denne masterclass, som nævnt er mit navn, Ulrik Hinsbøger, og jeg kommer fra Teknologisk Institut og skal holde denne masterclass i DNNK om sikring af bygninger mod vand. Først en lille smule praktik.
 
 00:00:23
 I er alle sammen blevet muted, og det er mig, der holder det her, så jeg er den eneste, der ligesom kan sige noget. Morten fra DNNK er også med og kigger i chatten, og det er også Morten, der sørger for, at denne præsentation bliver lagt på DNNK's hjemmeside en af de følgende dage.
@@ -284,10 +284,10 @@ Udover med vand, så er der Nogle andre ting, som man kan lære en masse af i fo
 Jeg synes, de har rigtig mange gode både artikler og andre ting på deres hjemmeside, som man i hvert fald også kan henvise til i forhold til at beskytte mod det her. Det er klart, at der findes lidt mere avancerede værktøjer.
 
 00:28:05
-Skalco, som jeg er sikker på, at en del af jer kender, synes jeg er et super fint værktøj, og som jeg ved, at mange bruger, hvor man ret hurtigt, hvis man bruger det ofte i hvert fald, kan få forskellige muligheder for også at lave tiltag, som gør det.
+Scalgo, som jeg er sikker på, at en del af jer kender, synes jeg er et super fint værktøj, og som jeg ved, at mange bruger, hvor man ret hurtigt, hvis man bruger det ofte i hvert fald, kan få forskellige muligheder for også at lave tiltag, som gør det.
 
 00:28:24
-Skalco har lidt flere ting indbygget i forhold til både KAB og din GEU, så det er i hvert fald næste step. Og så er der jo muligheder. Nu har jeg bare skrevet mig modeller.
+Scalgo har lidt flere ting indbygget i forhold til både KAB og din GEU, så det er i hvert fald næste step. Og så er der jo muligheder. Nu har jeg bare skrevet mig modeller.
 
 00:28:36
 Jeg er ikke modellekspert selv, men jeg ved jo, at dem, som arbejder både hos forsyninger og hos rådgiver, at der er mulighed for at lave meget avancerede modeller. Men så er det jo også en prisklasse, og det kræver jo selvfølgelig, at det her er nødvendigt.
@@ -302,7 +302,7 @@ Og det afhænger selvfølgelig både af, hvad er det for en bygning, vi snakker 
 For jer, der ikke har set kampværktøjet før, så kommer man ind på et billede af et Danmarkskort, hvor man har mulighed for at lave en påvirkning. og så zoome ind på en konkret adresse. Og som I kan se ude til højre, så kan man zoome ind i forhold til nedbørn, vandløb, grundvand og hav.
 
 00:29:41
-Og det jeg synes er rigtig fint med Kramp, det er jo at det løbende bliver opdateret.
+Og det jeg synes er rigtig fint med KAMP, det er jo at det løbende bliver opdateret.
 
 00:29:46
 Og det der også er fint, det er at vi ligesom har de her fire nedbørnstyper, ikke nedbørsttyper, men vandtyper, som jeg selv synes er en udmærket kategorisering, fordi det er et kredsløb, men rent lovgivningsmæssigt og den måde, som det kan være fint at kigge på det, så giver det meget god mening.
@@ -347,7 +347,7 @@ Så det der med at kende vilkårene, og det gjorde jeg jo til dels, men jeg vil 
 En opfordring til, at inden man laver et klimatek, at bruge nogle af de her værktøjer, og det er jo også, hvad for nogle man selv synes giver mest værdi. Jeg vil anbefale at bruge nogle, som bliver jævnligt opdateret, og gøre det.
 
 00:33:58
-Og så lige til sidst, inden vi holder en kort pause, jamen Bolius, Jeg tror, at denne checklist stadig ligger på Bolus hjemmeside. Det kan godt være i en lidt anden udgave, men man skal nok lige undersøge det.
+Og så lige til sidst, inden vi holder en kort pause, jamen Bolius, Jeg tror, at denne checklist stadig ligger på Bolius hjemmeside. Det kan godt være i en lidt anden udgave, men man skal nok lige undersøge det.
 
 00:34:17
 Men ellers så har Bolius rigtig mange gode ting på hjemmesiden i forhold til, hvordan man sikrer sin bolig mod forskellige ting. Her har de jo ligesom på en figur med en ejendom, der har de ligesom pinpointet forskellige ting. Kælderen. Kældernedgange, lyskasser, terrasser, tag, lyskasser osv.
@@ -365,7 +365,7 @@ Jeg tror ikke, at der har været andre spørgsmål, end hvor man kan finde tjekl
 Mens der var pause, så tjekkede jeg lige i forhold til det her med checklisten. Bolius har i hvert fald en lidt anden udgave som opdateret udgave på deres hjemmeside. Ellers har vi faktisk et projekt, hvor vi selv arbejder med klimasikring af bygninger, hvor det også bliver lagt hos os selv.
 
 00:36:35
-Men der er i hvert fald en udgave af checklisten, som man kan finde hos Bolus. Så er der et spørgsmål i forhold til slides, der bliver gennemgået på de forskellige masterclasses, i forhold til at modtage.
+Men der er i hvert fald en udgave af checklisten, som man kan finde hos Bolius. Så er der et spørgsmål i forhold til slides, der bliver gennemgået på de forskellige masterclasses, i forhold til at modtage.
 
 00:36:50
 Nu er det jo DNNK, der står for det, men det jeg mener, at DNNK gør, det er, at denne her masterclass bliver optaget og lagt ud på DNNK's hjemmeside, og det mener jeg også, at den sidste gjorde. Det tjekker jeg selvfølgelig lige med Morten, men det er jeg ret sikker på, at det er sådan, det foregår.
@@ -479,7 +479,7 @@ Så er det altså en mulighed, at man, hvis man ligger i klasse 4, kan gå ind o
 Så min anbefaling er lidt, at hvis man ligger i klasse 4, altså har noget i en jordart, hvor vandet meget nemt siver til, og rigtig meget højt grundvand, at man så måske tager færdig sin grønvejeforening, og måske når ny lovgivning er trådt i kraft, enten tager færdig kommune eller forsyning, og ser om det her er en løsningsmulighed, som man ikke behøver at bygge vand til.
 
 00:48:34
-Man kan også finde flere oplysninger om det her emne i rørsenderanvisningen 029, som ligger på Teknologisk Instituts hjemmeside. Det er en gratis anvisning, og jeg viser også lidt mere om den til sidst.
+Man kan også finde flere oplysninger om det her emne i Rørcenteranvisningen 029, som ligger på Teknologisk Instituts hjemmeside. Det er en gratis anvisning, og jeg viser også lidt mere om den til sidst.
 
 00:48:48
 Jeg vil også sige, at det er et område, hvor der sker mange ting, og blandt andet er den danske standard, der handler om dræning af bygværker, der hedder DS 436, Den er under revision i øjeblikket.
@@ -752,13 +752,13 @@ Det er sådan, at min kollega Lars, som holdt den første masterclass, sidder me
 Men vi er i hvert fald engang med en revision af det her. Så hvis der er nogen af jer, der har nogle gode eksempler, så er I meget velkommen til enten at sende det til mig eller til Lars. Så vil vi meget gerne se det.
 
 01:14:23
-For som sagt, det er et vigtigt område, hvor der hele tiden kommer nye spændende løsninger. Vi har i efteråret 2024 lavet to nye anvisninger. Det er det nyeste design af rørsendteanvisninger. Den ene handler om sokkelrender, og hedder rørsendteanvisning 033. Den anden hedder afløbsrender.
+For som sagt, det er et vigtigt område, hvor der hele tiden kommer nye spændende løsninger. Vi har i efteråret 2024 lavet to nye anvisninger. Det er det nyeste design af Rørcenteranvisninger. Den ene handler om sokkelrender, og hedder Rørcenteranvisning 033. Den anden hedder afløbsrender.
 
 01:14:46
-De ligger også gratis på Teknologisk Instituts hjemmeside. Det er stedet, hvor vi anbefaler, at man kan gå ind og finde det, hvis man søger på teknologisk.dk. Og søger på rørsenderanvisninger, så kommer der et billede frem her af min kollega Diana.
+De ligger også gratis på Teknologisk Instituts hjemmeside. Det er stedet, hvor vi anbefaler, at man kan gå ind og finde det, hvis man søger på teknologisk.dk. Og søger på Rørcenteranvisninger, så kommer der et billede frem her af min kollega Diana.
 
 01:15:06
-Over 80% af alle rørsenderanvisninger her er gratis og kan hentes i en pdf.
+Over 80% af alle Rørcenteranvisninger her er gratis og kan hentes i en pdf.
 
 01:15:13
 Der er nogle få, der ikke er, som man så kan købe i en papirudgave, men dem, jeg har nævnt her, som handler meget om skybrudssikring og kælderoversvømmelser, afløbsrender og sokkelrender, de er alle sammen gratis og kan hentes den her vej. Hvad er det sidste, jeg vil sige?

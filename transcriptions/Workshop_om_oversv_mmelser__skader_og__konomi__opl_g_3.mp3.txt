@@ -17,7 +17,7 @@ Netop fordi vi netop har kigget på hvad betyder det for for boligpriserne?
 Jeg vil bare lige tage et lidt lidt bredere sigte lige i starten her.
 
 00:00:39
-Så når vi kigger på på omkostninger i forbindelse med en oversvømmelse, så har vi både de materielskader, de i materialskader og de materiale skader. Det er jo så inventar, bygninger, der kan gå i stykker og immaterielt. Det kan være Sådan noget som tab af infektionsværdier, som måske ikke rigtig har nogle markedsværdi, man har værdi for dig.
+Så når vi kigger på på omkostninger i forbindelse med en oversvømmelse, så har vi både de materielskader, de i materialskader og de materiale skader. Det er jo så inventar, bygninger, der kan gå i stykker og immaterielt. Det kan være Sådan noget som tab af affektionsværdier, som måske ikke rigtig har nogle markedsværdi, man har værdi for dig.
 
 00:00:59
 Det kan være tabt tid i forbindelse med, at du skal bruge tid på renovering og så videre.
@@ -53,7 +53,7 @@ Og så.
 Bare for at sige nå, men hvad er så for nogle forsikringsudbetalinger? Hvor store er de så og nu er? Nu er det blevet lidt småt kan jeg se.
 
 00:02:24
-Men altså hvis vi kigger på stormfod. Det er den her række her ikke og der Kirsten havde et tal på 450.000 og jeg havde har et tal på 445.000, så vi ligger i det der område der når Vi har en oversættelse fra en stormfod, altså uafhængig hvilken boligtype Det er.
+Men altså hvis vi kigger på stormflod. Det er den her række her ikke og der Kirsten havde et tal på 450.000 og jeg havde har et tal på 445.000, så vi ligger i det der område der når Vi har en oversættelse fra en stormflod, altså uafhængig hvilken boligtype Det er.
 
 00:02:41
 Hvis vi kigger på skybrud, så er vi altså væsentligt lavere. Så er vi altså nede omkring 70.000 kr. Per oversvømmet bolig uafhængig af hvilken type bolig Det er.
@@ -110,7 +110,7 @@ Jeg gør i hvert fald, men Det er også Sådan professionel køte, ikke?
 Men en af de meget sjove ting, vi vi fandt i Vores spørgeskemaer og og Det er jo ikke Sådan helt tilfældige steder. Vi spørger. Vi spørger steder, hvor de faktisk har haft oversvømmelser.
 
 00:05:17
-Så kan det godt være at de selv dem Der er blevet spurgt har haft oversvømmelse, men de bor på en vej, hvor Der er nogen der har været til enten på en stormfod eller et skybrud. Oversvømmelse.
+Så kan det godt være at de selv dem Der er blevet spurgt har haft oversvømmelse, men de bor på en vej, hvor Der er nogen der har været til enten på en stormflod eller et skybrud. Oversvømmelse.
 
 00:05:27
 Så får vi af de generelt uvidende, men de er ret selvsikre.
@@ -155,7 +155,7 @@ Ja, det vil jeg gerne. Nå Der er nogen der bliver spurgt om er du villig til at
 Men, hvilket så betyder at at de her estimater er nok lidt underkantstestimater, når de er et udtryk for gennemsnittet ikke, og Der er ligesom der vi mangler nogen ude i halerne her, som faktisk er villige til at betale meget, hvilket bare betyder at folk har uvidende. Men hvis de bliver gjort opmærksom på det, så vil de virkelig gerne betale for det ikke så de har faktisk en præference for at undgå, selvom de er forsikret ikke.
 
 00:07:48
-Så kiggede vi også på på boligpriser, så vi lavede Sådan nogle store hudprismodeller, og så kiggede vi i området.
+Så kiggede vi også på på boligpriser, så vi lavede Sådan nogle store husprismodeller, og så kiggede vi i området.
 
 00:07:56
 Hvor der havde været oversvømmelse, og vi den måde, vi identificerede overstået husk på. Det var simpelthen at bruge.
@@ -164,7 +164,7 @@ Hvor der havde været oversvømmelse, og vi den måde, vi identificerede overst�
 Det datasæt forsikring pension tidligere gav mulighed for at anvende, så det går frem til 2017 eller 18. 2017 og så 2012 det tidsrum havde Vi har vi oversvømmelser fra.
 
 00:08:15
-Forsigtigt nogen pension, som vi så har koblet til til til huset og så hvilke huse der så var solgt. Og det samme gjorde vi så for data fra stormflodsrådet, der nu hedder natur skaderum.
+Forsigtigt nogen pension, som vi så har koblet til til til huset og så hvilke huse der så var solgt. Og det samme gjorde vi så for data fra stormflodsrådet, der nu hedder Naturskaderådet.
 
 00:08:26
 Og så fik vi også data.
@@ -287,5 +287,5 @@ Så jeg tænker forsikringsselskaberne skal have lidt hjælp med at blive bedre 
 Det vil være godt.
 
 00:14:01
-Og og det betyder jo også egentlig indirekte kritik af den måde, vi for eksempel har lavet storfodsordningen PT. Som Jeg er jo ikke den eneste økonom, der har været ude at sige, at Det er problematisk. For eksempel har var jeg de økonomiske vismænd er ude at sige det for et års tid siden, så.
+Og og det betyder jo også egentlig indirekte kritik af den måde, vi for eksempel har lavet stormflodsordningen PT. Som Jeg er jo ikke den eneste økonom, der har været ude at sige, at Det er problematisk. For eksempel har var jeg de økonomiske vismænd er ude at sige det for et års tid siden, så.
 

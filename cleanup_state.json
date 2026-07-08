@@ -895,5 +895,45 @@
     "pairs": 20,
     "ts": "2026-07-07T18:52:01",
     "via": "fable-batch1"
+  },
+  "transcriptions\\Workshop_om_oversv_mmelser__skader_og__konomi__opl_g_3.mp3.txt": {
+    "pairs": 5,
+    "ts": "2026-07-08T06:34:14",
+    "via": "fable-batch2"
+  },
+  "transcriptions\\Workshop_om_oversv_mmelser__skader_og__konomi__opl_g_4.mp3.txt": {
+    "pairs": 3,
+    "ts": "2026-07-08T06:34:15",
+    "via": "fable-batch2"
+  },
+  "transcriptions\\Workshop_om_oversv_mmelser__skader_og__konomi__opl_g_6.mp3.txt": {
+    "pairs": 1,
+    "ts": "2026-07-08T06:34:15",
+    "via": "fable-batch2"
+  },
+  "transcriptions\\Workshop_om_oversv_mmelser__skader_og__konomi__opl_g_7.mp3.txt": {
+    "pairs": 8,
+    "ts": "2026-07-08T06:34:15",
+    "via": "fable-batch2"
+  },
+  "transcriptions\\youtube_video_057e2dce.mp3.txt": {
+    "pairs": 4,
+    "ts": "2026-07-08T06:34:15",
+    "via": "fable-batch2"
+  },
+  "transcriptions\\wordwebinarer\\DNNK-Masterclass_om_h_ndtering_af_regnvand_v._Teknologisk_In.mp3 (1).txt": {
+    "pairs": 8,
+    "ts": "2026-07-08T06:34:15",
+    "via": "fable-batch2"
+  },
+  "transcriptions\\wordwebinarer\\DNNK-Masterclass_om_h_ndtering_af_regnvand_v._Teknologisk_In.mp3.txt": {
+    "pairs": 5,
+    "ts": "2026-07-08T06:34:15",
+    "via": "fable-batch2"
+  },
+  "transcriptions\\wordwebinarer\\DNNK_Masterclass_om_h_ndtering_af_regnvand_v._Teknologisk_In.mp3.txt": {
+    "pairs": 3,
+    "ts": "2026-07-08T06:34:15",
+    "via": "fable-batch2"
   }
 }

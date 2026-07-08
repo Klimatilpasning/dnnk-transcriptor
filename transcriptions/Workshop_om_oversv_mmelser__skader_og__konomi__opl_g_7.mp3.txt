@@ -44,7 +44,7 @@ Nogle andre relevante forudsætninger? Det var ikke tanken, da vi lavede de indi
 5% af bygningsparameteren skal være berørt før Der er en skade.
 
 00:03:12
-Oversættelseskortene er lavet med en blanding af meget komplekse modeller, altså meget for eksempel mike modeller eller andre et d 2 d modeller og hele vejen over til bluesbot for områder, hvor der måske ikke ligger byer, og Det har ret stor betydning, når jeg kommer med et eksempel til sidst på, hvor stor betydning det rent faktisk kan have, hvordan man griber det her an.
+Oversættelseskortene er lavet med en blanding af meget komplekse modeller, altså meget for eksempel MIKE modeller eller andre et d 2 d modeller og hele vejen over til bluespot for områder, hvor der måske ikke ligger byer, og Det har ret stor betydning, når jeg kommer med et eksempel til sidst på, hvor stor betydning det rent faktisk kan have, hvordan man griber det her an.
 
 00:03:32
 Og så lidt omkring skadesfunktionen. Jamen altså skaden er vanddybdeafhængig for stormflod.
@@ -77,7 +77,7 @@ Oversvømmelser for nedbør påvirker flest mennesker.
 Og det ligger til. Det er årsagen til Det er til dels af, at når vi kigger på hvor mange mennesker der påvirker dem, så kigger vi på der hvor mennesker bor, så det vil sige. Der vil være en masse sommerhuse, hvor folk ikke har bopæl, som jo så også bliver berørt, men i den her måde at kigge det og og se det på jamen så er det flest mennesker for nedbør.
 
 00:04:58
-Turisme størst på storflad er måske ikke så overraskende, at det vil være i sommerhusområder og kystnære områder, at Vi har turisme i Danmark.
+Turisme størst på stormflod er måske ikke så overraskende, at det vil være i sommerhusområder og kystnære områder, at Vi har turisme i Danmark.
 
 00:05:10
 Og måske lidt overraskende. Jamen i alle tilfælde var jeg og trafik fuldstændig ligegyldigt, altså i den måde vi opgør det på her.
@@ -104,7 +104,7 @@ I fremtiden vil det stile til 6%.
 For nedbør, så det giver en eller 2 fornemmelse af størrelsesordenen. Det er kun de 9 kommuner der kan sagtens være andre kommuner, hvor det ser meget værre ud, men det skal nok være nogenlunde repræsentativt.
 
 00:06:09
-Kigger vi på storflåde, jamen så er det langt mindre del af befolkningen. Det er tilbage til det her med, at vi kigger på helårsbolig og ikke på sommerhuse, så der vil være måske x antal personer per sommerhus, så er der også som også bliver berørt, men måske ikke i samme omfang som hvis Det var deres bopæl.
+Kigger vi på stormflod, jamen så er det langt mindre del af befolkningen. Det er tilbage til det her med, at vi kigger på helårsbolig og ikke på sommerhuse, så der vil være måske x antal personer per sommerhus, så er der også som også bliver berørt, men måske ikke i samme omfang som hvis Det var deres bopæl.
 
 00:06:24
 Det tal stiger markant mere i fremtiden, måske helt op til 9%, men et gennemsnit på 3% bliver berørt.
@@ -200,7 +200,7 @@ Nu skal vi se den 2 del hvor Vi har taget nogle erfaringer med. Jeg skal prøve 
 Fra.
 
 00:10:49
-Om Det var nedbør stormfed grundvand, vandløb og så videre. Og der var det klart overvejende noget der har med vand at gøre. Det er det, Der er det store problem.
+Om Det var nedbør stormflod grundvand, vandløb og så videre. Og der var det klart overvejende noget der har med vand at gøre. Det er det, Der er det store problem.
 
 00:10:55
 Det er ikke hedebølger. Det er ikke tørke. Hvis vi kigger Sådan generelt set på det, så bliver suget dag.
@@ -209,10 +209,10 @@ Det er ikke hedebølger. Det er ikke tørke. Hvis vi kigger Sådan generelt set 
 Det kan godt være, det ændrer sig i fremtiden.
 
 00:11:07
-En 2 vigtig pointe til det her med oversvømmelseskortene, fordi skadesberegningen er udelukkende eller i hvert fald i rigtig mange tilfælde baseret på at Der er lavet et oversvømmelseskort. Og her har jeg prøvet at sammenligne 3 forskellige metoder blusespot fra kamp skal jeg gå live, hvor Der er noget mere eller mindre komplekst infiltration? Det er den nye skal gå live med de nye infiltrations retter, og så Det er det som mit gamle firma lades, hvor man har en en arbejdssystem model med.
+En 2 vigtig pointe til det her med oversvømmelseskortene, fordi skadesberegningen er udelukkende eller i hvert fald i rigtig mange tilfælde baseret på at Der er lavet et oversvømmelseskort. Og her har jeg prøvet at sammenligne 3 forskellige metoder bluespot fra kamp skal jeg gå live, hvor Der er noget mere eller mindre komplekst infiltration? Det er den nye skal gå live med de nye infiltrations retter, og så Det er det som mit gamle firma lades, hvor man har en en arbejdssystem model med.
 
 00:11:33
-Og bare lige ved at kigge på det her, så ser de jo meget forskellige ud. Der er noget med at vand herovre og lidt mindre her og så den mindste herovre hvis man nu laver en skadesberegning på de her 3 og sammenligner og Det er samme nedbørsinput, så det skulle gerne være samme hændelse vi kigger på her, så får man 1250 bygninger kamp. Jeg håber ikke Der er nogen der bruger kamp på den her måde her, men men og man får cirka halvdelen det skal gå og så får man 1/3 af skalgus hvis man bruger en mere kompleks.
+Og bare lige ved at kigge på det her, så ser de jo meget forskellige ud. Der er noget med at vand herovre og lidt mindre her og så den mindste herovre hvis man nu laver en skadesberegning på de her 3 og sammenligner og Det er samme nedbørsinput, så det skulle gerne være samme hændelse vi kigger på her, så får man 1250 bygninger kamp. Jeg håber ikke Der er nogen der bruger kamp på den her måde her, men men og man får cirka halvdelen det skal gå og så får man 1/3 af Scalgo hvis man bruger en mere kompleks.
 
 00:12:00
 Så hvordan skal man forholde sig til det?
@@ -239,7 +239,7 @@ Det er det Vi skal beskytte.
 Og så nogle fejl har der været i alle 9 kommuner på stormflods delene, og Det er sikkert endnu værre på nedbørstedelen og endnu sværere at gøre noget ved.
 
 00:13:28
-Så Det er bare for at sige, at Det er meget, meget vigtigt, at man lige tager sin lokale wandløbsmedarbejder med ind over, når man i kvalitetssikrer de her ting.
+Så Det er bare for at sige, at Det er meget, meget vigtigt, at man lige tager sin lokale vandløbsmedarbejder med ind over, når man i kvalitetssikrer de her ting.
 
 00:13:37
 Den sidste. Jeg bad jo alle de andre oplægsholdere om også at komme med Sådan lidt anbefalinger. Hvordan kommer vi videre i at få noget mere viden?
