@@ -1,0 +1,497 @@
+=== DNNK Webinar Transskription ===
+Kategori: DNNK_Masterclass
+Video ID: AUORtdz6RBI
+URL: https://youtube.com/watch?v=AUORtdz6RBI
+Kilde: YouTube auto-undertekster (dansk)
+Transskriberet: 2026-08-06T17:12:28.775940
+
+==================================================
+
+00:00:00
+Ja, velkommen til denne masterclass om værdiskabelse i klimatilpasningen. Vi starter præcist, og så må vi se, om der kommer et par stykker med undervejs, så går det nok. Det er min gode kollega Marb Kitza og jeg Birgitte Hofman fra
+
+00:00:30
+Aalborg Universitet der står bag denne her masterclass. Vi kommer fra en forskningsgruppe der hedder Plusing for urban sustainability og forsker i samarbejde med en lang række praktikere om hvordan vi kan arbejde strategisk i planlægningen med bæredygtighed. Og vi vil gerne dele vores resultaterne, vores forskning. Og den her masterclass rækker på en håndbog, vi har lavet, som præsenterer nye tilgange og værktøjer til at tænke værskabelse bredt og adressere samfundsmæssige udfordringer, herunder at se klimatilpasning som en
+
+00:01:00
+arena for en bæredygtig udvikling. Vi lægger et link til håndbogen i chatten efter den her introduktion. Vil du skifte, Marit? De tre sessioner i den her masterclass følger den proces, som vi lægger op til i håndbogen om inde i en lidt forkortet version. Til gengæld så lægger vi vægt på at præsentere nogle af de lidt mere teoretiske perspektiver som det ligger bag processen og metoderne. Og vi er nået til anden session hvor hovedoverskriften af aktuelandskabet. Vi
+
+00:01:30
+er rigtig glade for de mange gode tilbagemelding vi fik efter første kursusgang. Og vi håber, vi kan fortsætte lige så godt. Hvis I ikke har været med sidste gang, så kan I se videoen fra session 1, som er lagt op på DNNKS hjemmeside. Den ligger i Vidensbanken under masterclass. Desværre en del af billederne og figurerne sløret af ophavsmæssige rettigheder, men I kan høre, hvad vi siger, og vi har alle vores egne tekster på slidesene, så det skulle være muligt at kunne bruge dem. Jeg har også en
+
+00:02:00
+lille bitte recap her om lidt. I del to så arbejder vi videre med aktørlandskabet som sådan grundlæggende tilgang til at arbejde med værdiskabelse og samskabelse. Og den tredje og sidste gang sætter vi fokus på at forankre og realisere, hvad kan forskningen sige om det? Og hvad for nogle metoder kan vi bruge til at få opbakning til at realisere projekterne? Mus skifte igen. Nu skal jeg altså videre med del et, og programmet er sådan her. Først nogle teoretiske overvejelser om
+
+00:02:30
+aktørbegrebet, og det er MR, der i dag vil holde hovedparten af oplægget der. Det er jo lagt op til sådan en indvejskommunikation, men I er meget velkomne med spørgsmål og kommentarer undervejs, så holder jeg øje med chatten og bryder ind. giver mig et lidt pauser. Øhm, vi har også lagt et par korte pauser ind, hvor man kan hente mere kaffe eller komme af med det igen. I den anden del, så vil Marbr pege på, hvordan fstudier og etnografi kan inspirere til at få værdier og potentialer frem, som
+
+00:03:00
+er på spil i et lokal område, og hvordan sådan nogle metoder kan styrke det at skabe punkt for dialog og sammenskabelse. Der er også forslag til en øvelse, man kan lave både i en kort og en udviklet version. Vi har fokus på klimatilpasning i den her masterclass, men vi fik spørgsmålet sidste gang, om det også kan bruges i energisektoren og i andre byudviklingsprojekter, og det mener vi bestemt, at det kan. En stor del af den forskning, som ligger bag den her proces, så de metoder, vi præsenterer,
+
+00:03:30
+er generiske, og vi har oversat dem ind i klimatilpasningen og udvikler dem sammen med professionelle i klimatilpasning. Men de kan sagtens oversættes videre ind i andre områder. Øh, og tilgange metoder skal jo altid oversættes og tilpasses det konkrete forløb. Så efter en endnu en kort pause, som mig vil tamle op og gå videre med, hvordan de forskellige perspektiver kan analyseres og præsenteres. Og så efter et forslag til opgave fem, så
+
+00:04:00
+introducerer vi kort til næste gang. Vil du skifte til recap, Margot? Yes. Vi har samlet en lille smule pointer her fra sidste gang for ligesom at catche op og se, hvor var det, vi var henne? Og vi præsenterer klimatilpasning som en vigtig arena for den bæredygtige omstilling. Vi skal investere rigtig mange midler. Vi skal lave rigtig mange redesigns både i byerne, i det åbne land. Og det kan vi skal vi prøve at bruge strategisk til at lave lokal udvikling, men også til at navigere langsigtet med en bæredygtig omstilling. Og det kræver et fokus på og tilgang til
+
+00:04:30
+at arbejde meget strategisk med værdiskabelse. Og vi har peget på at samle lidt op på, hvordan ø vi kan se udviklingen i klimatilpasningen, og vi kan se at øh der er en øget fokus på at arbejde strategisk. Og vi håber de værktøjer vi laver her kan bruges til det. Øhm, det er ikke det er ikke nok bare at og ligesom se hvad der sker når man begynder på projektet og få nogle
+
+00:05:00
+tilfældige værdier ind. Vi skal arbejde meget strategisk i forhold til bæredygtighed. Og sidste gang introducerede vi tankegangen om at arbejde med velfærd inden for de plantære grænser og også repræsentere fremtidens generationer som et ret stærkt ø legitimt måde at adressere ø nogle projekter, som ikke handler om lige nu og her. Og vi pegede også på, at de politiske strategier i kommuner og de planer, der ligger i de forskellige sektorer, er ret
+
+00:05:30
+vigtige for at hvad der kan finansieres og gennemføres. Så det er ret vigtigt at pege med dem. Og så ø skal projekterne også have en lokal forankring, og det er især det, vi tager fat på her i session to. Noget af det der nogle andre pointer som vi synes var gode at trække frem for sidste gang, det er det der med at ø i vandsektoren kan man sige, der har vi jo været ret succesfulde med at lave innovation af sektoren igennem 150 år og
+
+00:06:00
+har bidraget til sundhed og og effektive byer og så videre. Men øh og det har været sådan en sektor, som har været kunne passe sig selv, kan man sige, langt hen ad vejen under jorden. Øh, men nu når vi arbejder med klimatilpasning over jorden, og vi skal adressere vand og integrere det i byen, så kan man sige, vi går fra noget, man kunne kalde for innovation af sektor til innovation af sted. De steder, hvor alle de her sektorer mødes, ø, trafik, øh, mobilitet, det grønne, vandet, byens
+
+00:06:30
+liv. Så det er jo, det er jo alle de der ting, vi nu skal navigere med i stedet for at kunne klare tingene meget mere sektorielt. Så det er nogle af de udfordringer, som det her handler om, og det stiller krav om, hvordan vi samskaber. Så er håndbogens principper, som vi fortalte om sidst, som handler meget om at kortlægge og pejle, altså navigere med ø det, der er på spil her og nu, og det der er på spil fremover. Det handler
+
+00:07:00
+om samskabelse, værdisættelse og nogle af de andre principper, som vi skal arbejde en del mere med næste gang. Eller invitationen arbejder vi meget med i dag, men momentum kommer vi på til næste gang. Men i dag altså har vi fokus på aktørlandskabet til at repræsentere aktørperspektiver og i meget grad supplere de tekniske kortlægninger, som vi er vant til at kunne lave, og de data som vi er vant til at indsamle. Hvordan kan man øh repræsentere og indsamle data, der er sådan en lidt anden karakter end det, vi er vant til? Og
+
+00:07:30
+hvordan kan vi præsentere dem på en måde, som kan facilitere en dialog om udvikling? Jeg ved ikke, hvor klart det var, men ellers så må I tilbage og kigge i en gammel video øh og se og se det. Jeg vil også lige hurtigt recape øvelserne fra sidst. De er jo frivillige, og de ting som noget man kan bruge øh og se og man kan bruge i sin praksis. Vi laver to øvelser, to versioner, både en hurtig og en grundig. Så sidste gang der lagde vi op til at arbejde med bæredygtige
+
+00:08:00
+omstillinger. Dem af jer der arbejdet med det. I har arbejdet kreativt med verdensmålene som nogle omstillingstrin og identificeret nogle centrale perle, peeglemærker for bæredygtighed ø og fremtidens generationer. Den screeningøvelse vi havde, som satte fokus på de kommunale strategiske værdier, både de overordnede i de enkelte sektorer, så har I identificeret centrale pegemærkers, pegærker, som kan være relevante i jeres projekt. Og ø måske har I også talt med nogle kollegaer om det, fordi det her kan
+
+00:08:30
+fungere rigtig godt som en invitation til dialog på tværs af sektorerne. Og i forhold til aktuelandskabet, så tog vi hul på det i C3. Og I har dem af jer der arbejdet med det, I har identificeret nogle relevante aktører og taget hul på undersøge deres koblinger til stedet. Måske også gjort det i en dialog med kollega. Og det er noget af det, vi skal videre med i dag. Vi har også lavet nogle læringsmål. Jeg vil ikke gå i detaljer med dem her. Det er dem, som vi havde fra session et. Det var i meget høj grad de første. Hvis du
+
+00:09:00
+går videre, Majbrit, så må sige, det vi tager hul på i dag, det er vi arbejder stadigvæk videre med de principper, der er for værdiskabende planlægning. Men ø de læringsmål som vi har fokus på i den her session, de er dem der handler om at tage initiativ til at interagere med kollegaer om muligheder for værdiskabelse. Bringe lokal viden i spil gennem fæstudier og etnografiske metoder i det lokalområde og forstå formålet med aktørlandskabet som en analytilgang til at opsamle værdier og præsentere dem
+
+00:09:30
+visuelt. Og som sagt næste gang går vi videre med implementering. Det er det sidste læringsmål. Fedt. Tak, Birgitte. Det var, det var super godt. Yes. Jamen, så tager jeg lidt over. Vi tænkte, at vi godt ville prøve at grave lidt dybere ned i sådan den bagvedliggende teori i forhold til ø altså det her med, at hele den måde vi prøver at tænke på, og den model og de principper vi har udviklet i håndbogen, prøver jo ligesom at få nogle andre aktørforståelser i spil i den her planlægningsproces. Så det så det vil jeg prøve at at udfolde lidt mere. Og
+
+00:10:00
+Birgitte, hun supplerer mig, hvis ø hvis hun synes, der er noget, der lige skal med ind, og jeg holder øje med chatten, så hvis I har spørgsmål eller kommentarer, så skriv endelig. Yes. Så man kan sige, det vi nævnte også sidst, det her med at det er jo lidt et opgør med den her måde, man typisk laver interessantanalyser på, hvor vi ser, den har nogle begrænsninger. Øh, og det man ser med formålet med sådan de traditionelle interessentanalyser, det er typisk, at det mere sådan giver et overblik over, hvad det er for nogle interessenter, der er i projektet. Øh,
+
+00:10:30
+så det er typisk noget med, hvad er det for nogle interessenter, hvad er det for nogle risiciffer projektet, og hvad er det for en håndtering, man så ligesom har i forhold til til de risicier, de interessenter. Så det er meget sådan med, hvem der har indflydelse, hvem der kan tage beslutninger og så fordele ulemper for de enkelte interessentgrupper. Og det er vores indtryk i hvert fald, at at de traditionelle interessentanalyser, de baserer sig rigtig ofte på sådan noget klassisk styringsprincipper i projektledelse. Der er blandt andet en lærebog, der hedder Power i projekter og portefølje, hvor man kan læse
+
+00:11:00
+at at eller i hvert fald vores kritik af noget af den er, at at den sådan meget har fokus på nogle prædefinerede grupper. Så det er sådan typisk det der Tordenskjoldsoldater, som som vi ved, der ligesom sådan er derude, og så dem skal man ligesom have have med ind. Og så kan den have en sådan tendens til at have sådan meget statisk blik på grupperne og konteksten. Altså så gruppen er som gruppen er de værdier som den nu har. Og og det er ligesom det man man prøver at repræsentere. Øh, og det gør også det her, det bliver sådan lidt har kan godt få lidt en tendens til at det bliver sådan en
+
+00:11:30
+gennemførelse af et prædefineret projekt, hvor man så ligesom mere bruger interessentanalysen for at i mødekomme ligesom konflikter og problemer i projektet. Men det vil sige, man har ikke så meget fokus på den der samskabende og tilpassende agilitet i projektet. Og vi kan sige, nu siger vi det lidt firkantet. Vi er godt klar over mange af jer sikkert arbejder også på nogle andre måder, hvor I netop er meget tættere på den måde, vi også gerne vil have jer i retning af. Øh, men det er bare sådan i hvert fald for sådan ligesom at at kritte banen lidt op i forhold til øh, ja, at at det er sådan
+
+00:12:00
+det, vi prøver at gå op med i hvert fald at af den der sådan lidt mere klassiske tilgang. Øhm, hvis man sådan kigger ind i sådan noget strategisk planlægningsteori, øh, så er der sådan en kritik netop den måde ligesom at køre processen på, altså hvis den ligesom kører rigidt og mekanisk, den her planlægningsproces, øh, der er de her Bryson og Bryson, de er sådan flere, der har skrevet artiklen, men han er sådan ret stor inden for sådan noget strategisk planlægning, og han siger, at plannings hardest critics have defined it as
+
+00:12:30
+consisting of no more than a fairly rigid mechanistically conusion lear steps coup with information power authority deficiencies because of the absent link to implementation. Så det deres observation er, når de har kigget øh det er fordi der typisk er en kritik indenfor planlægning, strategisk
+
+00:13:00
+planlægning om, at de aldrig sådan opnå resultater. Altså det er tit at processerne ikke leder til noget. Og der peger de på at når de ser på det, så så tænker de, det er fordi, at man tænker projektledelse og ledelse på den her måde alt for rigidt, som man ligesom bare kører nogle mekaniske steps igennem. Og det og det gør, at man ikke har den her adoptive tilgang til faktisk sådan at at mærke efter, hvad det er, der giver mening i det kontekstuelle. Så så det her citat peger rigtig godt ind i det, vi også ligesom gør lidt oprør imod
+
+00:13:30
+og siger, det kan ikke nytte noget, hvis man kører det her ligesom på overfladen eller for overfladisk, fordi så kommer man ikke ligesom ned og får skabt den meningsfuldhed, som faktisk kan være det, der driver nogle aktører. Øhm, så det er bare sådan ligesom for at sige, at det det er lidt det, vi sådan bygger ovenpå. øh i forhold til sådan nogle strategiske udviklingsprocesser. Og så er der Mindsberg, som har den her figur. Og den er nogle af den lidt udskæt, men men altså jeg synes bare lige den her sammenhæng giver en god mening til ligesom bare at prøve at visualisere, hvad det er også det her
+
+00:14:00
+citat ligesom snakker om, og hvad det ligesom er vores afsæt er. Så så det den viser, det er jo ligesom at man som planlægger kan have den her sådan intended strategy. Altså der er noget man ligesom godt vil opnå i processen. Og det vil sige selvfølgelig er der noget styring fra ligesom planlæggeres side på en eller anden måde, fordi man har i gangsat en eller anden proces der har et eller andet formål. Men det de så siger, det er at så er der en del af den proces. Det er jo ligesom sådan en delate strategy proces. Det er netop her, hvor der er noget styring på, at der er faktisk et mål, man skal nå. Det
+
+00:14:30
+kan være, man skal lave et klimatilpasningsprojekt, så så man kan jo ikke bare lave noget andet end det, men men der vil ligesom være noget, man skal nå. Og det man typisk ser i praksis, det er så den her emergence strategy process. Altså at, hvad skal man sige, at kommunens eller planlæggeres proces, om det er så en forsyning eller hvad det er, er jo ikke den eneste strategiproces, der foregår. Der kan jo være lokalråd, der arbejder med nogle andre strategiprocesser. Det kan også være politikerne har konkurrerende strategiprocesser. Der kan være mange konkurrerende strategiprocesser ude i samfundet. som
+
+00:15:00
+planlæggerne ikke nødvendigvis har ligesom magten over. Øhm. Og det vil sige, at det er dem, hvor man det her adoptive ligesom øh skal tappes ind i, for så sige, så er man nødt til at prøve ligesom på en eller anden måde navigere og koble sammen i forhold til, hvad er det så, der sker der, for at den energi ligesom øh kan gå dens arbejde samme vej i stedet for ikke at arbejde samme vej. Så der sker altså noget lokalt, kommunalt eller i samfundet, som man på en eller anden måde skal koble op til. Og det er derfor den her forankring, vi kommer til at tale om i dag, den er så
+
+00:15:30
+vigtig, for man skal forstå, hvad er det for nogle strategiske processer, der også foregår, øh, og som man ligesom bliver nødt til at forholde sig til. Og så er der så den sidste, som er den her on. Så man kan sige, det som figuren også viser, det er den realized strategy sker, når man formår at lave den her merch mellem ligesom den her deliberate og den her emergence strategy. Og man kan sige det citatet taler ind i med den her kritik og den her de her unrealized strategies, det er jo det der sker, når processen bliver for rigid, og når den
+
+00:16:00
+ikke bliver ordentligt forankret. Altså så tror man måske at man har gang i noget som der er opbakning til, men reelt set øh er der ikke. Og det kan jo typisk være sådan nogle for smalle sektoriserede perspektiver lidt for meget har kørt sin egen dagsorden, men har lidt glemt at få andre med. Så det giver bare sådan et visuelt ø overblik til sådan bare at forstå, hvad det egentlig er, vi prøver at træde ind i. Og det er det her koblingspunkt mellem the deliberate og for netop at undgå de her unrealized strategies. Øhm, og så kan man sige, altså når vi så
+
+00:16:30
+snakker om det her med hvorfor det er nødvendigt med det her adoptive og de her ting, så handler det jo om, at hvis man så ligesom åbner og går graver lidt dybere ned i nogle forståelse af, hvad er det faktisk, der foregår også i de her emergente processer, så er det jo lidt det, som den her figur til venstre faktisk prøver at vise. Jeg tror også Birgitte havde den havde den med lige helt kort sidst, som som man kalder multievel perspective. Den viser ligesom, at hvis der kommer noget innovativt fra nedenad, som vokser sig op, så vil det på et
+
+00:17:00
+tidspunkt støde ind i det, man kalder et regime. Det vil sige, at der er nogle etablerede praksisser og kultur og teknologier, politikker og så videre, som allerede er ø etableret, og som er stærke og forankrede. Øh, og og så vil der ske et eller andet i det mødepunkt. Og det er jo netop de her sådan lidt emergent, kan man sige, altså at at der sker noget inde i regimet allerede, som som det innovative ligesom skal forholde sig til. Øh, og et meget godt eksempel, altså hvis man kigger på på billedet
+
+00:17:30
+der, er jo at når vi snakker om nogle af de her ting med klimatilpasning, når vi snakker om bæredygtig omstilling, så snakker vi jo også om i en eller anden grad at gøre op med noget, som folk opfatter som værende meget vigtigt for dem. Så for eksempel her, hvor man fjerner asfalt for eksempel, så det for eksempel, at man er ude og og gøre sådan så der er færre parkeringspladser. Det tænker I alle sammen har prøvet, hvor stort et ramaskrib det ligesom kan give. Øhm, og det er klart, og det er jo
+
+00:18:00
+fordi, og det er så den sidste figur for nederst på på figuren, som viser det her sociotechnical system for road transportation. Og det er jo bare en eksemplificering for en sektor, som er transportsektoren, og sige, jamen, der er jo bygget noget op, hvor vi har fået bygget et samfund, hvor man jo altså kører i bil. Øh, og der opbygger en masse normer og strukturer omkring det at køre bil. Og det vil sige, man kan ikke bare ligesom tage parkeringspladser nødvendigvis fra folk, øhm, fordi man er faktisk ude i at gøre op med et langt
+
+00:18:30
+større system. Så der sker sker et eller andet sådan strukturelt ogog systemisk i at at vi faktisk er inde og lave nogle opgør. Og derfor bliver de her omstillingsprocesser også svære. Og der tror jeg man skal anerkende og arbejde ind i den sværhed eller hvad skal man sige den udfordring det vil være ligesom at arbejde med de her ting. Øhm sådan så man på en eller anden måde i hvert fald har en anerkendelse af hvordan får vi ligesom folk med. Det er også her, hvor det tværssektorelle arbejde bliver virkelig virkelig vigtigt for at sikre opbakning
+
+00:19:00
+til nogle af de her forandringsprocesser. Yes. Så man kan sige, at når vi indfører det her med aktørlandskabet, så er det jo lidt et forsøg på at begynde den her sådan, hvad kan man kalde, etke fortællinger. Øhm, så det her forsøg på i hvert fald at arbejde os ind i det der lidt mere adoptive tilgang til det og komme lidt væk fra den her øh, hvad skal man sige, lidt for rigide og mekaniske fortælling. Øhm, så det her med at komme ned i de her dybere lag og faktisk få den der anerkendelse af, okay, der er
+
+00:19:30
+faktisk nogle systemer på plads, som ligesom har nogle nogle betydninger, og vi kommer til at komme lidt mere ind på det øh lidt senere, når vi når vi snakker om etnografi og sådan noget helt præcis i forhold til til nogle af målgrupperne for eksempel. Så hvad er det ligesom øh der der er på spil? Men det er bare for ligesom at bringe aktuelandskabet ind og så sige, jamen det det er sådan set det vi prøver at gøre med det, det er bringe det i spil som et værktøj til at sige, jamen kan det hjælpe os til at få de her sådan lidt dybere forståelser ø for de her ting og nogle af de gode alliancer, der skal til for at bryde nogle af de
+
+00:20:00
+eksisterende. Ja, præcis. Så det er nogle svære processer, og det kræver altså noget noget indsats og noget noget energi. Den her det er sådan lidt nu kommer vi lidt dybere ned teoretisk, altså fordi øh noget af det som vi kan se det er at det er måske sådan kendetegnet ved de her processer, at at man kan snakke om at der er ligesom sådan nogle aktørverdener. Øh så vi synes det er sådan et ret interessant begreb i forhold til sådan prøve at forstå de her ting. Øhm, og det hænger sammen med, at man skal forstå det sådan, at de
+
+00:20:30
+aktører, som ligesom er ude i samfundet, de er jo forankret i nogle forskellige kulturer og perspektiver. Så den figur, I ser her, det er sådan nogle studerende, der har været med i et kursusforløb her på Aalborg Universitet fra bæredygtig design. Øh, og de arbejder meget sådan med med brugerinddragelse og også det her med hvordan man visuelt repræsenterer øh hele den der problematik i forhold til, hvordan mobiliserer man ligesom forskellige aktører. Og her er der en gruppe, der ligesom har har kigget på, hvordan en kommune kunne lave noget
+
+00:21:00
+affaldssortering af mælkekartoner. Øh, så man kan ligesom se, at der er et eller andet flow i ø at der er sådan en logik i, altså hvor er det ligesom mælkekartonet kommer fra? Hvad er det der sker med mælken? Og ja, hvornår bliver det ligesom til affald? Der der er jo sådan en meget naturlig logisk proces i det, som de ligesom har tegnet op, og som skaber et flow igennem systemet. Og så har de også fået øje på det her med, at tetap er jo en produktionsvirksomhed. Så så hvis man så kigger ind i i den blå kasse, jamen så er det jo nogle helt bestemte ting med
+
+00:21:30
+valg af materialer, indkøb og leverancer og hvad kan nu lade sig gøre, som ligesom er det der kendetegner den måde som som den aktør agerer på, eller også en aktør i i det forum vil agere på. Og så kan man sige, Coop er jo et andet sted i flowet og er lidt mere sådan supermarked øh som hvor der igen er nogle nogle helt andre ligesom logikker eller ting, der er på spil i forhold til hvordan de vil agere i det her. Og teise er jo majeriet som er dem der ligesom øh
+
+00:22:00
+får du altså de producerer jo ikke mælken, fordi den kommer sådan set fra landmanden. Så man kan sige, man kunne også godt have haft landmand med her, ikke? Men de indkøber sig i hvert fald mælken øh og putter den på karton og videsælger sig til co-op. Så så der er også noget sådan hvad vil det sige at være et mejeri. Og så har man selvfølgelig i forhold til affaldssorteringen har man kommunen. Man har selvfølgelig også brugeren ø hjemme i hjemmet ø i forhold til hvordan bliver det her håndteret. Men men jeg kan godt altså det jeg godt kan lide ved den her figur, det er at de studerende sådan ret
+
+00:22:30
+visuelt har prøvet at tegne op at okay, der er ligesom ø nogle aktørverdener. Så det handler meget om at være nysgerrig på at forstå, hvad er det faktisk for nogle logikker, der er på spil, men også den her stedsbundethed, som vi snakker meget om i forhold til aktørlandskabet. Øhm, så også det der med at forstå, at majeri er altså en anden kontekst end et supermarked. Altså helt fysisk og materielt er det bare to helt forskellige ting. Så det er ikke kun sådan øh måden de agerer på, men det er også der er også en fysisk forankring i
+
+00:23:00
+at de faktisk er to vidt forskellige typer af af steder. Og det og det påvirker de aktører, som sådan agerer inden for de rammer. Øh ja. Og så er der det her med at at værdierne hænger sammen med det her. Og det er jo det, vi synes, der er interessant at komme ned og fange og sige, okay, men de har så forskellige værdier. Øhm, så man kan sige det vi prøver, det er sådan ligesom de her iboende egenskaber. Så vi vi tænker meget sådan aktørlandskabet for det her systemiske frem. Så så aktørerne er ligesom sådan stedsligt forankret. Og hvordan er det ligesom aktørerne er forbundet til
+
+00:23:30
+aktørlandskabet som et system? Og nu lyder det jo meget banalt, hvis man tager to eksempler, men hvis vi hvis vi ligesom tager figuren fra de studerende seriøst og tager det hen i noget med klimatilpasningen, altså gudenåens aktørlandskab, så kan man se der, der er et billede af en lystfisker, og man kan se, at lystfisken er ligesom forbundet til at fange nogle fisk i åen. Og det er jo den ramme og den fysiske ramme, som lystfiskeren ligesom tænker ud fra, hvor man kan sige, landmanden har en en lidt anden ramme, fordi ø det er jo mere
+
+00:24:00
+noget med at dyrke noget jord, typisk med noget stort materiel. øh ned mod åen. Og det vil sige, at det her med, hvis der kommer meget vand og sådan noget, det det vil påvirke de to aktører meget forskellige. Og der er det vigtigt, at man kan forstå, hvordan er de ligesom en del af af det der guden ååssystem, hvis man vil prøve at få den her lidt dybere forståelse af, hvordan de de ligesom agerer. Ja. Så de indgår i nogle bestemte fysiske og organisatoriske sammenhænge, og de påvirkes forskelligt af dynamikkerne i deres aktørverden på en eller anden
+
+00:24:30
+måde. Øh, og der er også noget med, de indgår i nogle relationer med hinanden. Altså så der kan være spændinger imellem dem, som man også kan være spændende at forstå. Hvis I lagde mærke til det i figuren før, øh, se der kan I se, der er nogle udråbstegn, og det er det er nogle spændingsfelter, som de studerende ligesom har lagt mærke til. Så det er jo sådan noget, man kan være opmærksom på at sige, hvis de to her er i konflikt med hinanden, så det handler det måske fordi at der er noget værdimæssigt her på spil øh hvor de faktisk er er udfordr hinanden. Og ja, det her også med de påvirker sig forskelligt af de her hverhandelser. Der kan både være
+
+00:25:00
+udfordringer, det kan jo også være en sted, hvor man kan finde potentialerne, der hvor der faktisk er nogle fælles mødesteder, hvor man kan begynde at tale sammen på nogle andre måder, fordi man har forstået, hvad der er spille for det her. Præcis. Så det handler selvfølgelig om at forstå dem, ikke bare for at forstå dem, men for at kunne i scen sætte nogle gode forhandlingss kan man sige, eller nogle sammensabelser på en eller anden måde. Det handler i hvert fald om, at man måske nogle gange godt kan se, at der er nogle dynamikker på tværs, hvor der ligesom er, man kan godt se, der er noget, men måske forstår man ikke altid, hvorfor det er, at enten at
+
+00:25:30
+der er en positiv dynamik eller en negativ dynamik. Og så kan man sige, det her skulle gerne ligesom hjælpe til faktisk at komme lidt nedenunder, ikke? og så sige, okay, men det er måske fordi der sker sådan og sådan her i i den her situation. Og noget af det, vi vil sige øh det er det der med at man altså noget af det man virkelig passe på det her med stereotyperne, så man kan sige den der sådan klassiske tilgang hvor man meget sådan involverer interesseorganisationer, der er der jo meget sådan fokus på interesseorganisations interesser og dagsorden. Det bliver sådan meget politisk. Og man kan sige, det vi gerne
+
+00:26:00
+vil med aktørverdenerne, som måske er den her lidt mere nye værdiskabende tilgang, det er måske mere det der med at have fokus på at forstørre aktørernes systemiske omverden og praksis. Vi har lavet den her slide, fordi vi selv, da vi forberedte slidesene, kom til at snakke om, at det sådan lidt så ud som om, vi egentlig gjorde det samme med at kategorisere dem i de her verdener. Lidt ligesom interesseorganisationerne er kategoriseret. Så det er ligesom bare for at sige, at selvom det godt kan se sådan ud, så så er det i hvert fald ikke det, vi sådan ø underliggende prøver at opnå. Så der er også det her med for
+
+00:26:30
+interesseorganisationer, der bliver aktørerne ligesom en repræsentant for en organisation, hvor når vi arbejder med aktørverden, og så så ser vi nok mere aktøren som en indgang og en åbning til at forstå den aktørverden i praksis, men men ikke en repræsentant nødvendigvis. Så det er meget stor variation øh i aktørverden i forhold til, hvordan de agerer. Så som interesseorganisationer er meget sådan stereotyp fremstilling af organisationen. Altså sådan det er ligesom sådan de sådan meget står et sted, hvor de sådan siger, det her det er det her vi står for. Og og det går de
+
+00:27:00
+meget op i, ikke? At at det det de ligesom gør det også den der politiske øh måde de kan ligesom forholde sig til. Og man kan sige med aktørverdenerne er det mere den her forståelse af af dynamikker og logikker ø i den enkelte aktørværelsen. Og så og så det der med at forstå, hvad sker der så, når de sådan begynder at at agere på samme sted, hvor der kan være nogle clash eller nogle muligheder. Øhm, så det er i hvert fald et vigtigt fundament, så man ikke bare går ud og laver de samme stereotyper bare med aktørverdenshatten på. Vi har fået et rigtig godt spørgsmål,
+
+00:27:30
+som handler om netop, hvordan man undgår den der repræsentation af af fra en organisation, som måske er med enkelt aktør, som måske i virkeligheden kalder sig at være repræsentativ for noget, men som måske i virkeligheden ikke har så god kontakt til sit bagland. Og ø det synes jeg er et rigtig godt spørgsmål. Det oplever vi jo rigtig tit, og vi prøver at bruge nogle flere metoder til at indsamle nogle af de her ting og til at komme i kontakt med briller og aktører. Det vil vi faktisk komme lidt mere ind på senere. Ja, vi har et eksempel fra Limhjyrefjord
+
+00:28:00
+sekretariater, som netop prøvede faktisk at gøre lidt op med den der interesseorganisation. Så metoder med som du vil præsentere senere. Så hvis øh skriv igen, hvis du synes, at der skal mere fokus på det her. Ja. Så bare sådan afsluttende, jeg tror det er ved at være de sidste slides i den her første sådan ligesom faglige gennemgang, men bare det er også vigtigt at at sige at at de principper, når I så den der model ø vi sådan ligesom introduceret fra værktøjen, så bygger den jo faktisk på det man kalder The Double Diamond, som er sådan en
+
+00:28:30
+grundmodel for når man arbejder med bruger ø centreret design. Det har jeg prøv at vise jer på den her model, hvor man I kan ligesom se den her dobbelt diamond, hvor I også kan se imellem de to diamanter er der den her value proposition. Så den prøver netop også at arbejde ind i den her værdisættelse. Øh, og der kan man sige, at den første diamant handler meget om det der med at kunne udvikle de rigtige løsninger med omtanke og forståelse for de reelle problemer. Altså så det så det har den her forankring. Og det er der, hvor man kan sige, det handler om at forstå karaktertrækket ved området og også ved
+
+00:29:00
+fremtidig og i det hele taget aktørerne og lade dem ligesom skabe afsæt for løsningerne. Og så derfor så er sådan noget som indlevelse og empati er rigtig vigtigt. Og det her, hvor det her med etnografi om lidt kommer ind, fordi det er en meget god tilgang til ligesom at forstå stedet og brugerne og praksisen. Så det så det er det, vi kalder kortlægning. Og man kan sige pejlingen er med i den her del. Som I kan se, så åbner den op og går ind. Og det vil sige, den ene del handler om at indsamle dataen, og så når den fokuserer ind, så handler det om den der prioriteringsøvelsen. Så man kan sige
+
+00:29:30
+pejlingen handler om, at vi vi skal også have prioriteret noget. Vi kan ikke ligesom holde alle de her øh hensyn og perspektiver åbne. Vi er også på et tidspunkt nødt til at prøve at samle os mod nogen, der sådan er mere dominerende eller er mere relevante i hvert fald. Og så den anden diamant handler mere om det der med at udforme løsningen og og så ligesom det der med faktisk at løse problemet og skabe værdi. Ø og det er noget med sådan at eksperimentere sammen med brugerne ogog de her ting og også at samskabe af af vigtige nøgleord. Og det er så her netop værdisættelse og sådan noget ligger. Og det kommer vi lidt mere
+
+00:30:00
+ind på næste gang. Øhm, men der er ligesom sådan en løbende udveksling mellem de to øh diamanter, som er som er rigtig vigtige. Ja, så har vi bare taget et eksempel med på værdiskabelse ø i forhold til at forstå det stedet og det fremtidige bruger. Øh, og det kan for eksempel være sådan noget som det Gladsakse idrætsområde har lavet øh hvor man jo ligesom har nogle teknikere som har gerne vil opmagasinere noget regnvand. Og det kunne de jo have gjort i et bassin, som ikke kunne meget andet end at være en basseng. Det kunne måske have været flot. Men så har man ligesom
+
+00:30:30
+samtidig involveret nogle idrætsfolk og haft en sensitivitet i den dialog, man har haft med den, hvor de blandt andet har snakket om, at der var mange unge, især unge kvinder fra det nærliggende boligområde, som de oplever ligesom ikke at deltage i den formelle idræt, men gerne vil have sådan noget mere uformel form for idræt. Og det gav jo så i den der kreative proces øh anledning til at man fik tænkt ind at at det her paddle kunne da være ret smart hvis man ligesom lagde det ned på den her måde fordi så får man skabt det her uformelle rum hvor
+
+00:31:00
+man kan komme ind og bruge sådan en paddlebane og og så netop få engageret de her de her unge. Øh så det er jo sådan et eksempel på at man har formået ligesom at at kigge på tværs af at hvad skal man sige den tekniske del og så den her sensitivitet over i nogle andre sektorer. Så det vi sådan, hvis vi skal opsamle hurtigt øh altså så det vi snakker om, det er der er brug for sådan en mental unhooking og heale er sådan meget ø anerkendt planlægningsteoretiker. Hun snakker meget om det her behov for
+
+00:31:30
+ligesom at vi shape frames of reference. Øhm så man er ligesom nødt til at skifte de meningsforståelser man ligesom har i i ens tilgang. Øh så man kan ikke bruge de samme for ligesom at løse de problemer vi har i dag. Og det er det, hun ligesom kalder mental unhooking. Øh, hvor man ligesom prøver at gøre lidt op med sine egne praksisser og se det på nye måder. Så samskabet handler meget om at skabe sådan en ringer, hvor det det kan hvor det her kan lade sig gøre, og det kræver noget tryghed ogog inspiration. Og så den sidste er bare, at den her
+
+00:32:00
+navigerende værdiskabende form for planlægning. Så det altså det vi taler om hele vejen igennem her, det er jo den der navigation og løbende tilpasning netop gør op med det rigide og det mekaniske, sådan så de her lokale værdier, steds kvaliteter og de her vigtige dagsordener, de begynder ligesom at tale hen imod, at der kan være nogle pejlemærker for fremtidig værdiskabelse. Og det kræver den her mobilisering af nogle væsentlige aktører og skabe nye alliancer og arbejde netværksorienteret. Og derfor er vi også nødt til at gå ned og finde den her drivkraft hos de andre
+
+00:32:30
+aktører, sådan så vi kan skabe det der momentum i stedet for vi bare kører på den her regide overflade og ikke rigtig kommer i den her dybde. Vi går i gang og går videre med den del som sådan er mere metodisk og handler om det her med feltarbejde eller feltstudier kan man også kalde det og etnografi som nogle vigtige metoder. bare lige sådan for at opsummere, prøve at hægte også session et og session to sammen, så kan man sige, at det vi snakker om her er jo sådan en løbende form for kortlægning med netop afsæt i det, man kunne se et eksempel på her,
+
+00:33:00
+som kunne være et en form for aktørlandskab. Øh, så vi vil jo gerne sådan ligesom udvide kortlægning af aktører i projektets levetid, både ved sådan nogle direkte dialog og møder, men også indirekte ved sådan indsamling af materialer, ture og netop sådan snakke med med repræsentanter. Så hvis man bare lige, hvis vi kigger over på højre side, så kan man sige, det vi snakkede meget om på første session, det var jo det her med gennemsyn af planer og dokumenter øh som ligesom peger på nogle af de her politiske og prioriterede ligesom indsatsområder. Og det er jo også noget
+
+00:33:30
+af det, som skal tale ind. Så hele den her screening, men også de her digitale kort, øh, som viser de her vigtige steder og karaktertræk. Øh, så den der sådan mere digitale stedsanalyse spiller jo også ind, og det er jo også der, hvor man ligesom får øje på, hvad er det ligesom for et sted, vi arbejder ind i, og hvad karakteriser ligesom stedet. Og så det vi snakker om mere nu, det er jo mere det der med at komme ud i området og og faktisk besøge det og få den der indlevelse og indføl med stedet, men også at have de her både formelle og uformelle samtaler øh hvor man peger på
+
+00:34:00
+ø som peger på ligesom forskellige lokale værdier og interesser. Så så det er det er jo tænkt som om at at alle de her elementer sådan set hører sammen med den her ø kortlægningsdel kan man sige ikke og som netop skal pejle hen imod at man man begynder at kunne kunne pejle i retning af nogle værdier. Så ø så det værktøj vi sådan ligesom tager hul på her er det vi vil kalde aktørfor kortlægning. Ø og det handler jo om ligesom hvordan er forskellige aktører ligesom forankret ø i udviklingsområdet og hvad er det ligesom
+
+00:34:30
+stedet betyder for dem. Så så igen den der kobling mellem stedet og aktøren er noget af det vi er ret interesseret i ø at fange op. Øh, og der og der kan man også sige, at det handler meget om det der med at tænke i stedslighed, men også det der relationelle mellem aktørerne og sted. Altså få øje på netop som Birgitte også snakkede om, at der kan være nogle potentialer, eller der kan være nogle konflikter også i forhold til, hvad det er, de gerne vil. Og så arbejder vi jo lidt med det her visuelle overblik i forhold til, hvem er aktørerne, og hvor i landskabet er de forankret. Og det er
+
+00:35:00
+jo det, som de her aktørlandskaber øh ligesom lægger op til, at man så gør sideløbende med. Så det er noget med, hvem er aktørerne, og hvad er deres tilhørsforhold til det udviklingsområde, som man arbejder i. Og i sidste ende handler det jo rigtig meget om at kvalificere og legitimere, så man får skabt det her momentum. Øh, og jeg sige, altså nu ved jeg, du fortæller lidt senere om det visuelle og kvaliteten af det, og det er faktisk rigtig spændende. Glæder mig også til at høre. Men det jeg vil sige lige nu var at det at lave de her aktørkortlægninger
+
+00:35:30
+og lave de aktørkort er også en måde at adressere den repræsentations problematik som der blev rejst lige før hvor at udvalgte aktører påberåber sig en form for repræsentation ikke ved måske at ved at lave nogle af de her akkord og vende tilbage med dem til lokalsamfundet i en bredere grad så kan man jo også øh i mødegå nogle af de der problemstillinger. Det har vi faktisk nogle eksempler på som også kommer senere. Mm. Ja. Ja. Så hvis bare sådan skal forklare
+
+00:36:00
+sådan feltarbejde. Og nu det er vigtigt at sige at at noget af det her kan jo godt lyde lidt ø forskeragtigt at nu skal vi ud og lave feltarbejde eller sådan. Og det er ikke vores intention. Altså vi er godt klar på at at I er ikke forskere, og I har heller ikke de ressourcer nødvendigvis som som vi måtte have i et forskningsprojekt. Men det er mere sådan, at der ligger nogle øh nogle principper bag ogog måder at gøre det her på, som kan være til inspiration for jer, som man sagtens ville kunne gøre også i forhold til, at man arbejder sådan lidt mere praktisk som som
+
+00:36:30
+planlægger. Så så det at lave feltarbejde betyder bare, at man som planlægger ligesom går ud og observerer og interagerer ligesom med det sociale liv på stedet, som vi undersøger. Så det der er væsentligt her, det er det her med det sociale liv. Det er ikke deres holdninger og meninger nødvendigvis, vi er ude efter. Vi vil faktisk forstå, vi vil gerne forstå, hvem de er, og hvordan de er forankret øh ligesom lokalt. Så så hvordan er det stedet og det sociale liv fungerer, hænge sammen øh i forhold til de forskellige aktørverdener, der der kunne være interessante ligesom at have på spil. Øhm, så det er jo også noget
+
+00:37:00
+med at have en åbenhed om, hvad er det overhovedet for nogle aktørverdener, der kunne være interessante ligesom at forstå og undersøge dybere. Og man kan gennemføre sådan et feltarbejde. Jamen, altså, man kan jo godt gøre det selv. Øh, eller man kan gøre det sammen med nogle kollegaer, og man kan også gøre det sammen med de lokale. Altså så man simpelthen gør det igennem en workshop. Øhm, så det handler meget om, hvad kan man ligesom få øje på igennem sin egen faglighed, også sin egen nysgerrighed, og hvad får man ligesom øje på sammen med andre, så når man begynder ligesom at tale sammen med med andre fagligheder, men også med lokale. Og der skal man jo huske, og det var da det, vi snakkede lidt om i den første, det her
+
+00:37:30
+med at kigge i de der strategier og planer fra nogle andre. Det er igen de mennesker som er forankret i en aktørverden, de kender den aktørverden bedre end end vi vil gøre som som planlægger inden for klimatilpasning. Så derfor er det rigtig vigtigt den der interaktion med andre, fordi de vil kunne fortælle om deres verden meget bedre end hvis vi skal sådan prøve at gætte gætte os til hvad det ligesom går ud på. Ja. Så det handler meget om, hvordan får man ligesom de perspektiver frem? Og der er feltarbejde rigtigt vigtigt. Der er rigtig meget af den her information, som man ikke vil kunne læse
+
+00:38:00
+sig til. Det det man er simpelthen nødt til at tage den der dialog for at få fat i den. Så det er bare for at vise at i forhold til håndbogen har vi fat i vi har lavet sådan nogle basisværktøjer også og der er det blandt andet det her med interview med aktører. Ø så hvis I vil kigge lidt mere på det så har vi sådan skrevet sådan lidt lidt lidt tips til hvordan ø man kan lave et godt interview og hvad man ligesom skal skal tænke lidt over. Det er ikke noget vi sådan vil gå så meget ø ind i lige nu ø men det er bare sådan at sige der det kan i hvert fald hoppe ind i. Så har vi
+
+00:38:30
+lavet lidt lidt guide der i forhold til nogle af de planlæggere, vi har tilrettelagt noget det her med. Og så vil jeg fortælle lidt om den her proces for ø for hvad hedder det, Lindfjords sekretariatet øhm i forhold til ø hvad de ø hvad de havde gang i. Øh og det er ikke fordi jeg i skal ikke sidde og læse teksten eller noget. Jeg har bare sat den ind som sådan et eksempelslide. Der er nemlig de her cases også i ø i håndbogen. Men det der lidt skete i den proces med Limfjorden, det var at ø at dem der var
+
+00:39:00
+i Limfjordsekretariatet, de ragte lidt ud til os ø fordi de hørte, at vi havde kørte den her proces øh omkring det her med aktørinddragelse og de her ting og og havde ligesom nogle udfordringer med, at de følte nemlig de stod med lidt de her sådan repræsentanter fra de her interesseorganisationer, og de synes, når de havde dem til møde, så blev det altid sådan lidt ukonstruktivt på en eller anden måde med, at de de var lidt det var lidt mere sådan et et en kampplads, hvor de sådan lidt mere sådan battlede om, hvem der nu havde hvilke
+
+00:39:30
+holdninger, og de de stod ligesom fast på nogle stå steder, der var meget svære ligesom på en eller anden måde at udfordre. De repræsenterede ligesom deres traditionelle syn overfor hinanden uden at rigtig flytte sig eller komme ind i en i dialog. Ja. Så vi snakkede lidt med helt konkret den ene person der i Limfjordsekretariatet om at det kunne måske være meget smart hvis man prøvede ligesom at komme lidt nedenunder overfladen og faktisk måske have nogle samtaler med dem hvor man ikke sad i samme rum men lidt mere sådan snakkede med dem enkeltvis og faktisk altså det
+
+00:40:00
+der med at åbne lidt for deres aktørverden og sigeamen hvad er det faktisk de prøver på og hvordan hvad er det der forbinder dem med Limfjorden og og de her ting. Så så vi sammen forberedte vi sådan en interview guide, og jeg tror nok, det var i covidperioden det her, så det blev i hvert fald nogle telefoninterviews eller interviews over ø teams. Øhm, hvor der så blev ringet op til de her forskellige repræsentanter, og man havde de her sådan mere en til en samtaler, hvor man prøvede at at stille de her lidt mere nysgerrige spørgsmål og komme ind på, jamen hvad var det
+
+00:40:30
+ligesom, der betød noget for nogle af de her aktører og repræsentanter? Og så, og det er det, I kan se i den der systematiske tematisering nede i venstre hjørne, at at det kom der ligesom sådan en masse temaer ud på. Og man kan også se i farvekodningen har det noget at gøre med, om der er mange, der mener det, eller om der er få, der mener det. Øh, og det endte så i sidste instans, nu er det meget lille kortet, men I kunne se kortet før af af Limfjorden, at at man så ligesom prøvede ligesom at tegne det op i det der aktørlandskab. Og det blev så brugt til nogle samtaler igen
+
+00:41:00
+med de her aktører, men hvor man så lidt prøvede at tale ud fra det der kort ø og gøre det ligesom til genstand for dialogen. Og det vi i hvert fald har fået at vide fra Limfjordsekretariatet, det var at det gav det gav nogle helt andre dynamikker på mødet. Øh, og de følte sig ligesom sådan repræsenteret på en helt anden måde, og det åbnede for nogle helt andre typer af samtaler, øh, hvor de pludselig godt kunne se, ø, at, okay, der var nogen, der faktisk havde fælles momentum og sådan, og de kunne måske også snakke lidt mere sådan om det, der var konfliktene på en eller
+
+00:41:30
+anden måde, at at de godt kunne se, at nå ja, men den anden har jo ligesom det her element, ikke? Og for alligevel at holde det på sådan lidt overordnet værdiperspektiv, så var den ø tegning af jorden, som det her blev sat op på, det var sådan abstrakt kort. Og det var netop for at undgå, at man kom ned i sådan nogle steder, hvor det kom til at handle for meget om, hvad der skulle ske på det enkelte sted eller nogle meget specifikke konfliktområder. Så det holdt det mere på det der niveau,
+
+00:42:00
+hvor man kunne få nogle diskussioner om, hvad var egentlig vigtigt Mm. I fjordens frem og tidlig. Ja. Så det så det blev i hvert fald oplevet som en meget åbnende snak, der ligesom frigjorde, og det var lød i hvert fald sådan som vi forstår det til, at det var lidt den der sådan dybere liggende tilgang, som ligesom åbnet op for, at man man fik snakket om det på på nogle nye måder. En anden ting vi også vil snakke lidt om, altså udover det der med interviews, og det er der jo også mange af jer, der sikkert bruger, det er det der med med gåtur, altså også fordi klimatilpasning er så stedsbundet, så det der med
+
+00:42:30
+faktisk komme ud i lokalområdet ogog få de lokale til sådan at pege på og snakke om, hvad er det ligesom der betyder noget for os? Og der vil vi godt snakke om også en case fra fra Hedensstad kommune fra fra lokalrådet i Snapptun, hvor vi var blandt andet ude og og lave sådan et stykke arbejde sammen med dem ø i forhold til nogle af de her ting. Der arrangerede vi sådan en en workshop ø hvor vi sammen med et par stykker fra fra lokalrådet ligesom øh startede mødet med sådan nogle blanke kort. Altså I kan
+
+00:43:00
+I kan lidt se dem der. Der er selvfølgelig tegnet og posted på dem, men men de startede ligesom med at være bare et autofoto, der var blankt, og så sådan et almindeligt øh grundkort. Øh og så havde vi sådan en en god snak om sådan hvad var det egentlig øh som var vigtigt for dem lokalt. Og vi havde sådan lavet det sådan, at vi ville godt have dem til at vise os rundt. Øh så så vi planlæste faktisk sådan en lille rundvisningstur, som vi så gik, kan I se, på et af billederne bagefter. Og så da vi så ligesom havde været rundt på turen, så kom vi ligesom tilbage igen
+
+00:43:30
+til mødelokalet. Øh, og så begyndte vi sådan lidt mere sådan at at udfolde nogle ting. Og der kom vi også til at arbejde lidt mere visuelt, og det kommer vi til sådan ligesom at vende tilbage til. Men det der med også at begynde ligesom at forbinde deres forståelse af stedet med så hvad er det så egentlig for nogle værdier i sådan rent visuelt godt kunne tænke jer at arbejde med? Øhm, og det gav jo sådan nogle ret igen sådan nogle åbnede virkelig for en ret god snak. Jeg kan huske, at planlæggeren var lidt nervøs inden mødet og sagde, at
+
+00:44:00
+altså det der lokalråd, der var allerede nogle sager, der ligesom kørte, og han var lidt bange for, at at det ville tage ligesom dagsorden ø og og sådan, hvordan man lige skulle styre i det. Men men det gav i hvert fald sådan en en ret fin samtale, hvor vi virkelig sådan fik en en ret god grundforståelse for øh lokaler, hvad der betød noget for Snapptun virkelig fik et indtryk af, hvad der var vigtigt. Jeg kan blandt andet huske, at deres havneområde, som jo faktisk var et meget lille havn, hvor der hvor der sejlede en færge øh engang
+
+00:44:30
+imellem, men den var bare enormt vigtig for dem. Altså det var virkelig deres ø deres hjerterum. Det var virkelig der ø hvor byen altså der ligesom var noget aktivitet. Så kom nogle meget spændende ligesom værdimæssige ting ud af det. Ja. Så hvis man ligesom så skal samle op og sige, hvad er det så vi gør øh i de der to typer af interaktioner med de her forskellige aktører, så er det meget inspireret af af den her antropolog og etnograf, der hedder James Bradley. Og I kan se, det er en meget gammel
+
+00:45:00
+reference, men det er simpelthen Krim eller Krim indenfor etnografi. Det er den, som vi også bruger i undervisningen som som ligesom sådan en klassiker. Og han snakker meget om to ting. Han siger, der er meget vigtige, hvis man skal lave gode etnografiske interview. Og det ene handler om, at man skal etablere det, han kalder rapport. Altså en relation til det, vi vil kalde en informant. Altså dem, man er ude at snakke med. Øh, så man skal ligesom prøve at skabe et rum, hvor de også har lyst til at tale om deres sociale liv. Man skal huske, at
+
+00:45:30
+nogle af de her ting kan jo godt være meget øh intimiderende og følsomme på et eller andet plan. Øh, at det er jo noget, der betyder noget for for de her folk. Så så der kan godt være et element i ø skabe noget tryghed omkring det. Så det handler meget om det der med, at man skal være meget bevidst om at skabe en god relation. Jeg har hørt, nu har jeg jo været med i det der Coast to coast projekt, og jeg synes noget af det der var, der var virkelig sjovt, jeg tror især også dem fra Syddyj sagde det meget, altså komme ud og drikke kaffe med dem, ikke? Altså det der med at have en kaffekop og duften af kaffe og
+
+00:46:00
+ligesom sætte sig og og nu skal man ligesom snakke sammen. Det der er bare et eller andet, hvor der sker noget, hvor hvor man sådan øh falder lidt til ro, ikke, frem for nogle mere formelle rammer på kommunen eller hvad ved jeg. Jeg må lige afbryde, for det er også her gåturen har en rigtig god øh nogle gode kvaliteter. Der og sådan et traditionelt møde, hvor man ligesom står og skal repræsentere kommunen over for nogle lokale borgere eller lokale foreninger, så må man sige, gåturen giver anledning til nogle at man kan få nogle andre typer af samtaler. Noget mere det er
+
+00:46:30
+mere uformelt rum også. Ja, præcis. Præcis. Så det man er bevidst i hvert fald om, at der sker det her. Og grunden til man skal være bevidst er måske også, og det er jo det her, hvor det er rigtig vigtigt øh og måske sådan kernen i det her ligger, det er at at det handler jo om at vi vil kalde nogle informationer frem, som som vi ikke har. Så det man skal huske på, det er at man skal anerkende, at der er en separation mellem intervieweren, altså planlæggeren, og så informanten, som jo vil være den lokale aktør. Øh, i forhold til hvordan spørgsmålene stilles, så
+
+00:47:00
+planlæggeren eller intervieweren vil typisk stille spørgsmål ud fra den kontekst eller sociale aktørverden eller hvad vi skal kalde det, som man selv er forankret i. Øh, og informanten vil typisk svare på spørgsmålene ud fra deres sociale liv og deres aktørverden. Og det vil sige, hvis man ikke er bevidst om den separation, så kan man meget hurtigt komme til at stille nogle forkerte spørgsmål, kan man sige, eller nogle spørgsmål, hvor det i hvert fald
+
+00:47:30
+bliver svært at at forstå den anden aktørverden, fordi man simpelthen prøver at forstå den igennem ens egne planlæggerbriller. Øh, så det tror jeg man skal være meget bevidst om, at at man kommer ud med nogle nogle det vi også ville kalde bias, ikke? Altså nogle forforståelser, som man lige skal passe på med, hvordan kan jeg faktisk ligesom invitere ind til det her på den her aktørsø banehalvdel. Og det handler noget om, at man skal stille nogle spørgsmål, som konceptuelt er meningsfulde for informanterne. Altså vi plejer som forskere for eksempel at
+
+00:48:00
+sige, man må ikke stille rene forskningsspørgsmål, fordi det er klart, hvis vi sådan spørger nogle meget teoretisk lavet et spørgsmål, så vil informanterne typisk være sådan wow. Hvad spørger du egentlig om her? Så man skal stille nogle spørgsmål, som tager afsæt i i, hvad skal man sige, aktørernes banehalvdel og ikke ens egen. Ja. Jeg vil bare tilføje det igen her. Det der med stedet og kortet og det lokale, altså det stedsbundet det og det deskriptive det kommer også kan du kan se det næste altså det det der med at kunne arbejde med et konkret sted og det
+
+00:48:30
+er bare sådan og det visuelle det her kort det giver virkelig en anledning til at få snakket på en anden måde stille spørgsmål på en anden måde end hvis man bare sidder og snakker og har nogle nogle andre altså nogle spørgsmål som er mere afkoblet fra stedet. Mm. Ja. Vi kommer lidt ind på det senere også i forhold til øh øh en noget proces vi har kørt i Aarhus. Men der var det også helt tydeligt at da vi ligesom brugte det der kortgrundlag som faktisk en måde at snakke om lokalområdet på, så det der med at de kan sidde og pege og ligesom
+
+00:49:00
+sige jamen det er der og sådan og sådan, så så så giver det så nogle nogle ret gode energier i forhold til ligesom at at åbne op. Men ja, altså i forhold til også at gå videre til næste slide, altså det Spradley lægger meget op til, det er at man virkelig tænker i os og formulere det man kalder deskriptive spørgsmål, som netop vil lægger vægt på at informanten skal ligesom beskrive deres verden for os. Vi skal ikke spørge om deres holdninger. Vi skal ikke spørge om deres meninger. Nej. Vi skal prøve at få dem til at tale om deres ligesom sociale liv og livsverden. Og så når vi når de
+
+00:49:30
+har talt om det, så vil vi kunne aflæse værdierne og meningerne og de her ting. Og hvis vi er usikre, så kan vi jo vende tilbage, eller så kan, det er jo her, vi kan skabe den der dialog, men ikke hvis ikke vi har det der fundament, så vil så vil informanten heller ikke typisk føle sig hørt. Så fordi hvor hvordan kan man vide men hvis de har fået lov at give den der forfortælling eller deskriptive fortælling, så kan det være man ligesom får dem får dem med. Så Spradley har sådan en ret konkret spørgeteknik. Jeg vil ikke gå igennem alle de her
+
+00:50:00
+forskellige typer af spørgsmål, han ligesom snakker om i hans artikel, men men jeg vil bare tage fat i to, som som vi selv bruger rimelig meget. Men det er netop det her med at når vi snakker om de her deskriptive spørgsmål, at det handler om at informanten skal ligesom tegne og fortælle så meget som muligt om specifikke oplevelser og fortællinger. Så han har typisk sådan noget, hvor han beder informanten lave det, han kalder en en grand tour. Og hvis vi nu bare tager sådan en landmand som et eksempel, så kunne det være noget med, hvis man var ude og snakke med en landmand, så ville man spørge nysskrift ind til at
+
+00:50:30
+sige, altså hvis vi nu tager din mandag her i sidste mandag, hvordan hvordan så din mandag så ud ø for dig? Og det vil sige, man inviterer til en en lidt ø en lidt bredere fortælling, ikke? Og så netop også det der med, kan du beskrive den dag for mig? Og så vil han typisk han eller hun jo gå i gang med ligesom sådan en en lidt længere fortælling øh omkring det her med øh jamen altså hvad vores hvad starter jeg ligesom med på dagen, ikke? og og de her ting. Øh, og det er jo også der, hvor vi kan se,
+
+00:51:00
+altså jeg gjorde for eksempel også det i mit phd-projekt, der skrev jeg om noget med badeværelser, og der var altså tog jeg det meget konkret, fordi der bad jeg faktisk informanten om at give mig en rundvisning af deres badeværelse. Og så gik vi ligesom ud på badeværelset og snakkede ligesom om øh jamen altså hvordan øh så det ud, og hvordan tog de bad. Så så det er også hele den der rundvisningsdel af en del af det her grand tours. Og det han så siger Spradley, det er selvfølgelig at undervejs i den her lidt store fortælling, som jo kan tage lidt tid at fortælle om, så kan man så godt lave de
+
+00:51:30
+her miniturs spørgsmål. Altså sådan så hvis man har nogle ting, lad os nu sige for eksempel, at man har opdaget på nogle af de der kort, at der kan være noget med jordkvaliteten. Altså man har man har fundet ud af, at der er et eller andet med, det er meget sandet jord. Så så er man måske nysgerrig på, at er det godt, at det er sandet jord, eller er det skidt, eller hvad betyder det? Så så kunne det godt være, man havde sådan nogle miniturspørgsmål på, hvad betyder jordens kvalitet egentlig for dig? Altså, hvis du sådan har afgrød og sådan nogle ting. Øhm, det kunne også være sådan noget med, hvad typer udstyr
+
+00:52:00
+bruger du egentlig i driften, og ja, hvad kan der egentlig ske, du ved, hvis jorden er for våd? Øh, altså så det der med at være nysgerrig på også det der med de her regnhæelser for eksempel, kan være der, hvor man sådan ligesom får det lidt ind. Øhm, så hvad sker der egentlig? Altså hvordan, hvis du ligesom får meget regn på på sådan en mandag der, hvad vil der så ligesom ske? Hvordan ville du ligesom reagere? Så kan man ligesom lave sådan nogle små, så så det er der, hvor man lidt mere doser sådan nogle nysgerrighedspunkter, der måske relaterer til ø at der er nogle ting, man også gerne vil have have ud af af den her landmand.
+
+00:52:30
+Så så formålet det er faktisk lidt det der med, at man vil egentlig godt opnå, at at man lidt altså i princippet jeg kunne have fulgt ham en dag på arbejde, ikke? Så det ville være alternativet. Så så det man kalder ligesom tætte ø fortællinger øh som man næsten sådan følger personen og virkelig får det der indtryk. Øhm. Ja. Så så det er ligesom det der der er ideen. Og så har han nogle andre også man kan man kan kigge på. Hvis man er mere nysgerrig kan man jo gå ind og kigge i hans teori. Men men det er bare for at sige det der med at
+
+00:53:00
+det der med de der åbnende spørgsmål som bliver er meget nysgerrig på hvordan ser din øh aktørverden ud? Og selvfølgelig skal man ikke sige aktørverden, men men det er det, det handler om i sidste ende, kan man sige, ikke? Og så har vi bare taget to eksempler med, og her øh bliver det måske lidt farligt igen i forhold til det der med, at vi skal ikke undgå de der stereotyper, men det er bare for at prøve at eksemplificere ned på nogle aktører øhm hvad det er typisk man ligesom kan prøve at fange op. Øhm, så landmanden for eksempel typisk øh,
+
+00:53:30
+altså det er jo også en erkendelse af, altså grunden til vi lavede de her aktørkort i Coast to Coast projektet var også lidt at vi kan jo godt se at der er nogle der er jo nogle typer aktører som bare typisk altså er kategorier af af aktører der bare er der. Øh, så derfor kan man jo også godt på den måde have sådan nogle aktørkort her, hvor man så ligesom er bevidst om, okay, at det det kan jo være nogle interessante grupper ligesom at tale ud fra. Men det er bare vigtigt ikke at opfatte det her som noget stereotypt. Det er bare for at sige, det er bare inspiration til at sige, det kunne være relevant at gå ud
+
+00:54:00
+og snakke med nogle landmænd, hvis man er i et område, hvor der er landbrug for eksempel. Men hvis man så kigger ind og åbner lidt op, så kan man sige, det der typisk, altså hvis man tænker på sådan noget landmænd, så kan det jo være altså høst, men det kan jo selvfølgelig også være dyr for eksempel. Det kommer jo helt an på, hvad det er ø deres landbrug ligesom har som det primære produkt. Og så kan det være sådan noget med, hvordan påvirker de her ekstreme påvirkninger dem? Men det kan jo også være noget med, hvis man arbejder i, lad os nu sige, man vil parkere noget vand. Øh, jamen hvad
+
+00:54:30
+betyder det så for dem, hvis man arbejder ud i sådan nogle løsningsrum? Og hvordan påvirker det ligesom deres primære produkt øh at man gør det? Og og så kan det typisk være noget altså så typisk det vi sådan har hørt meget det landmændene kan typisk for eksempel være meget øh opmærksomme på det der med om deres jord kan dyrkes og om den er salgsbar. Så de har jo sådan en aktørverden, hvor hvor det er jo noget af det de går op i det der med at at jorden skal kunne producere noget. Så det er ikke ligegyldigt om den er våd
+
+00:55:00
+eller tør eller hvad den er. Så det kan handle meget om at komme ned og forstå det der produktionsøh aspekt i forhold til til landmænd og hvad det er der ligesom er vigtigt for dem. Men igen vigtigt ikke at at lave det stereotypt, men at sige hvis man har geder er det meget forskelligt end hvis man har afgrøder af forskellig slags. Så igen skal man være meget kontekstuel, fordi det vil være meget forskelligt fra landmand til landmand. Og så har vi også oplevet meget med landmænd at de ser så meget som de her naturforpagtere egentlig. Øh, og mange eller sådan det
+
+00:55:30
+der kan være lidt forskellige sådan måder de placerer sig på, men nogle af dem vil jo gerne natur. Altså jeg tænker også, hvis man har er økologisk landmand, så vil man jo måske gerne have den der sådan lidt mere balance. Øh, og er man mere traditionel landmand, kan det være, altså der kan være sådan forskellige positioner, de ligesom tager. Øh, men de kan i hvert fald være interesseret i de her løsninger. Så det nogle gange bliver landmændene også bare set som en en modstander, altså hvor at de har faktisk elementer af værdier i sig, som faktisk trækker i den rigtige
+
+00:56:00
+retning, at de ved godt noget med den natur og de her ting. Ja, Birgitte. Jamen, jeg tænker, nogle gange kan vi også bruge de her kort ø til at provokere nogle ting frem, altså. Ja, hvis hvis folk op det er simpelthen for stereotypt. Okay, men så lad os snakke om lad os snakke om det her. Så lad os hvor passer det her ikke henne og Ja, præcis. Og så kan man sige i forhold til det der med aktørverden og den der lokale tilknytning, altså den der lidt mere systemisk, altså så er det jo noget med i hvert fald at her der er der en tilknytning til jorden og til marken,
+
+00:56:30
+altså til den der natur. Og der er noget med, at den betyder faktisk meget for aktørens øh indtjening. Altså det det er det er det personen lever af. Altså det er ret vigtigt ligesom at have en anerkendelse for. Og det er meget interessant også med med mange landmænd, at det kan være de her generationserhverv, hvor det faktisk betyder noget, altså at det går i generationer, og der er noget historik, men også det her med at at de kan også have et vanvittigt godt kendskab til lokalområdet. Altså så de kan jo vide
+
+00:57:00
+mere end de tekniske undersøgelser næsten kan vise. Så de kan også være en meget informativ øh person. Og så kan vi se der også er noget med jægere og sådan noget. Det kan de også godt være. Øhm. Ja. Og det er også det der med de jo også indgår i lokalsamfund og sådan noget ikke. Øhm. Så på den måde er der er der en masse ting omkring det. Jeg tror du skal øh den her over Mar. Ja. Ja. bare sige så lystfiskeren bare for at sige det er jo det samme så kan man se at tilknytning og aktørverdenerne de er jo så ligesom nogle nogle nye steder
+
+00:57:30
+eller det er noget noget andet der ligesom er i spil her og det er det det er den erkendelse af at der der er faktisk de der forskelligheder imellem det er det dem man skal ligesom hive frem og det er det der bliver det det kan virke banalt når man sidder med den enkelte men det er knap så banalt når man begynder at kigge på tværs fordi man så forstår okay der er faktisk nogle vilde grundlæggende forskelligheder imellem dem og det er jo dem vi skal ned og have fat i når vi begynder at arbejde ind i det der med momentum og nog Ja, jeg ved det godt. Jeg taler meget ind i den der Det er fordi det der konflikt og negativ nogle gange fylder
+
+00:58:00
+meget. Men det er rigtigt, det handler også om potentialerne. Helt klart. Helt klart. Øhm. Ja. Så det handler meget om at følge og indfange den der logik, der ligesom er i feltet, og blive prøve at føre os af den logik. Så være nysgerrig og prøve at følge op på det man opdager. Og vi har sådan et princip, vi bruger meget nogle af de teorier vi bruger, hvor vi siger meget til vores studerende, for eksempel følg aktørerne. Og man har det der hedder rul snebolden. Og det det betyder det er, at for eksempel når I har lavet de der indledende kortlægninger, hvis I så har fået øje på netop, j men der er meget
+
+00:58:30
+landbrug, jamen så skal I ud og snakke med landmænd for eksempel, fordi det er det der giver mening. Øh, men er det en bygkerne eller noget andet, jamen så er det så er det jo det I skal ud og snakke om. Så man skal ligesom lade sig forføre lidt af, hvad det er, der ligesom er. Ogog et meget sjovt eksempel fra den ene undersøgelse, vi lavede. Jeg tror det var i Nørdors, øh, var hvor kømanden han vidste bare altså ligesom kendte bare til sådan hele livet der. Så hvis man ligesom havde fået fat i ham, så vidste man bare, at der var i hvert fald 10 andre, man skulle snakke om, fordi han kunne sådan ligesom udpege, og så er der dem og dem og dem. Og så bare siger
+
+00:59:00
+noget af det der ligger til grund for for noget af det vi snakker om her med de her aktørverdener også det er den med man kan prøve at skæne mellem det man kalder matters of fact og matters of concern. Så matters of fact det er ligesom det som vi ser på overfladen holdninger og meninger og det er det som de nogle gange de klassiske processer får ligesom fat i. Det er meget det vi tager for givet. Ja, præcis. Det tager vi fra givet, ikke? Og det og det er den der sådan rigide mekaniske proces ligesom får fat i, hvor matters of concern, det er den der lidt dybere liggende mening, den indre logik, som er knyttet til den der lokale forankring,
+
+00:59:30
+og det at man er ligesom systemisk eller stedsligt på en eller anden måde forankret. Og det er den, det er den der matters of concern, vi godt vil ned og have fat i. Nu skal vi jo ikke ud og være etnografer alle sammen. Nej. For jeg ved, du også har en øvelse, som hvor man kan bruge det i praksis. Men lad os lige øh Ja, vi tager lige den her om at fange mening og skabe relationer. Altså så man kan sige noget af det der synes man nogle gange ser der sker, det er jo det der med at man laver mikrofonolderi i stedet for egentlig at prøve at forstå de der
+
+01:00:00
+aktørverdener. Så så vi skal ikke spørge aktørerne om hvad de vil have fordi de ved jo måske faktisk ikke rigtig hvad det er de kan få det er jo det som producerer bare det som er i forhold. Ja. Altså jeg har i hvert fald været til mange workshops med borgere, hvor hvis man spørger dem, hvad de vil have, så vil de gerne have et sted, hvor hundene de kan løbe frit for eksempel eller en bænk at sidde på eller sådan. Så bliver det lidt på det niveau, hvor her vi er lidt mere interesseret i de der dybere liggende forståelser af, hvordan ser deres livsverden faktisk ud? Og så kan vi jo så tilbyde nogle løsninger, der kunne understøtte det, kan man sige,
+
+01:00:30
+ikke? Ja. Så det handler om at spørge ind, så vi bedre kan forstå de der forskellige aktørperspektiv og forstå, hvad der er på spil og finde de her overlap. Øh, og så skabe de her relationer og rum for dialog ved at anerkende og repræsentere aktørernes perspektiver. Øh, og så handler det jo om, at vi bringer de der værdier i spil, altså både fra screening om bæredygtighed og de strategiske værdier og også fra fra andre forvaltninger til netop at inspirere og kvalificere de der samtaler om mulighedsrummet. Så igen altså det er meningen det hele skal
+
+01:01:00
+flyttes sammen. Og det er vigtigt selvfølgelig, det er en iterativ proces, og det er noget med at tilpasse undersøgelsen ved at afveje både hvad der er tid til, og hvad der er muligt. Så hvis der kun er tid til kvarters kaffe, jamen så må man jo prøve at høste så meget man kan. Man stadig ved at stille de rigtige spørgsmål. Øhm. Ja. Så på den måde kan man sådan ligesom tilpasse det. Man kan også lave workshop, hvor man vil invitere dem alle sammen ind. Øh. Så der er rigtig mange greb man kan tage, men det handler om at være nysgerrig på de andre perspektiver om at passe på at ligesom tage sit eget stå sted og så sælge samle de her
+
+01:01:30
+argumenter og indsigter ind. Øh. Ja. Og så skal det jo gerne ud i, at det giver mening. Så det er også vigtigt, tror jeg, for processen, at man selvfølgelig holder fast i, altså man skal ikke bare snakke med dem for så at lave det, man selv havde ville fra start af. Så det handler også om, at man så følger ligesom den ø den forankring ogog tager det alvorligt øh ja i processen. Ja. Og så øvelsen vi har tænkt i forhold til aktørkortlægning, altså den hurtige kunne ligesom være at arbejde videre lidt med de aktører, vi snakkede om i forhold til til screening. Øh, ligesom
+
+01:02:00
+at prøve at sætte sig lidt dybere i deres sted og se hvad der er på spil. Så lidt ligesom de der aktørkort vi legede med. Sådan egentlig bare prøve selv at sige, jamen altså hvis de aktører jeg har der øh hvad tænker jeg ligesom hvis jeg selv prøver at at sætte mig i deres sted? Og så den grundige kan være følge det her metodekort for aktørkortlægningen, hvor man sådan lidt mere øh netop går ud og undersøger ø nogle ø nogle ting og måske også faktisk har nogle nogle dialoger og så videre med nogle konkrete aktører. Altså der er nogle det er jo en aktørkortlænge eller
+
+01:02:30
+den her som man også kan bruge til at mødegå nogle af de problemstillinger der er når der er nogle for få der repræsenterer nogle andre i virkeligheden, ikke? Ja, uden at det behøver at eksplodere ud i et stort etnografisk arbejde. Så i håndbogen synes jeg, vi præsenterer nogle metoder, hvor man kan komme omkring det her og få nogle perspektiver ind, som man kan bruge til at få nogle gode lokale diskussioner. Ja. Og det handler jo også bare om at komme i gang, og så efterhånden kan man jo bliver man jo sikkert bedre til det også. Ja.
+
+01:03:00
+Ja. Velkommen tilbage, Jenik. Så er det sidste tørn her. Så håber jeg, I holder på og holder ud. Øhm, så det vi godt vil afslutte med, det er lidt at gå hen i det der med, hvad kan vi så bruge al den her data og indsigt vi så har fået om de her aktørverdener. Og det er jo her vi sådan bringer aktørlandskabet ind som sådan gennemgående værktøj, der ligesom kan være bidraget til sådan at repræsentere den der indsamlet data. Så man kan sige, vi er måske lidt mere ovre i sådan en en analyse eller opsamlingsfase, vi nu stille og roligt bevæger os over i. Må
+
+01:03:30
+jeg lige tilføje igen en meget vigtig pointe, synes jeg. Vi er faktisk rigtig dygtige til det. øh og indsamle tekniske data og vandets flow og så videre. Så det vi prøver på nu uden at vi skal gå ud og blive etnografer alle sammen, det er at sige, hvordan kan vi alligevel få nogle aktørperspektiver i spil, som vi kan få en dialog med som som kan blive repræsenteret på linje med Mm. øh de mere tekniske data? Ja. Det synes jeg er ret fed pointe, du altid har, Birgitte. Altså det der med at de andre bliver ligesom repræsenteret i den her grafik
+
+01:04:00
+eller sådan den der og nu vil vi altså det her andet materiale med med de her værdier, de bør faktisk repræsenteres på samme måde. Det synes det synes jeg er en rigtig fed pointe. Øhm. Ja. Så så det er ligesom aktørlandskabet. Og jeg vil ikke sige så meget, men altså det er jo det her med, hvordan repræsenterer man aktørerne ogog skabe det her visuelle overblik øhm både når man sidder med aktørerne, men også til når man går ind i dialogen. Øh så der er meget det her med at genkendeligheden og og ligesom bruge det sådan aktivt som en del af det her proces. Hvis jeg lige må vende
+
+01:04:30
+tilbage til den pointe der var, det spørgsmål der var fra starten. Hvordan kan vi også sikre at dem der siger de repræsenterer et område faktisk er forankret? Skal man sige. Jamen ved at præsentere aktørperspektiver på den her måde frem for i et referat eller i en rapport for eksempel, så kan det være nemmere at vende tilbage og få nogle andre blikke ind. Og det kan være sværere at ligesom dække sig ind i bare noget noget skriftligt, ikke? Som folk ikke andre folk ikke læser. Dermed ikke bliver det ikke modsagt. Nej. Så det er
+
+01:05:00
+en virkelig god måde at reprere ting på. Det tror jeg det har. Det ved jeg du har noget mere om Mar. Ja. Men en en vigtig pointe her er lidt at at vi ser også det her aktørlandskab som sådan et øh et lidt dynamisk værktøj. Og vi synes, der er sådan en analogi til det her med en efterforskningstavle. Øh, hvor man kan sige, som I kan se der til på venstre billede, ikke, at at hvis der er sådan nogle efterforskere, der kigger på noget kriminalitet, så er der også noget med, der er et gerningssted, man finder ud af, der er nogle artefakter, der er ligesom offret og hans hendes
+
+01:05:30
+relationer, og hvem er ligesom de mistænkte motiverne, tidslinje, kortoversigter, de her ting. Og der nu får man selvfølgelig ikke altid lov til sådan at følge, men hvis man ser lidt rimier, det er der jo nogen der gør, så øh så kan man godt få den der fornemmelse for, at det er jo også noget for der er noget dynamik. Altså hvor i starten ved man ikke hvem ø morderen er eller hvad det er der ligesom er sket. Og så kva at man ligesom mapper og man får de her forståelser, så begynder der jo at tegne sådan nogle billeder, hvor man til sidst begynder at sætte nogle ringe og sige, hov, nu er der noget, der
+
+01:06:00
+ligesom passer sammen. Og det synes vi er er sådan en meget god analogi til netop det der aktuelandskabet eller den der proces i retning af momentum, vi kommer til at snakke om mere næste gang også, at at det er det, der handler om at få den der repræsentation på, altså hvad er det ligesom der sker her? Og det er også en måde at skabe dialog på. En måde at repræsentere noget af det her på, som kan invitere både folk fra andre fagområder, men også lokal aktør, andre aktører ind til at prøve at kigge på det her, man har indsamlet på nogle andre måder end en traditionel rapport.
+
+01:06:30
+Præcis. Præcis. Så og det handler også om at altså have den der åbenhed netop at få få trykkerprøvet er det ligesom det rigtige billede, vi har. Det gør politkene nok ikke med deres efterforskningstavle, men men det kunne man altså godt gøre med med det her aktørlandskab. Så det er det lidt vi prøver at at opnå, at man bygger det op og raffinerer det ø og netop prøver at få de her nye blikke, men men også samle trådene på en eller anden måde, så man begynder sådan at kunne få en fornemmelse for hvad er det faktisk, der er på spil her. Og så kan man sige ideen om om aktørlandskabet bygger jo på på
+
+01:07:00
+man kan sige en meget grundlæggende sådan teori, som man kalder kardiografi eller altså det er jo et et fagområde. Altså det der med hvordan repræsenterer man egentlig virkeligheden om man har jo set det i udviklingen fra de første gange, hvor hvor man jo historisk havde folk, der rejste til fjerne lande og ligesom sådan skulle gengive, hvad var det ligesom de havde oplevet? Og det er jo der sådan hele kartografien og visualiseringen ligesom stammer fra. Øhm, så det er sådan nogle visuelle udtryk, hvor der er noget, som bliver repræsenteret, men hvor man også kan huske, at det noget også bliver
+
+01:07:30
+fortolket af nogen i forhold til, at man har det der kort. Så der sker altså sådan en indkodning af, hv hvordan er det, man repræsenterer for eksempel et landskab, og hvad er det så for en altså hvordan bliver det læst i forhold til? Og det er noget af det, vi har har eksperimenteret lidt med med nogle af de der aktørlandskaber, vi har leget lidt med i Coast to Coast. Ø, hvordan er det ligesom øh, hvad er ligesom vigtigt? Altså for eksempel med udkodning er det lidt vigtigt. at man bruger sådan nogle generiske meningsfulde ikoner for eksempel, fordi ellers så kan man ikke aflæse, så er der ligesom nogle regler inden for kartografi i forhold til
+
+01:08:00
+hvordan man kan gøre det. Øhm, så vi ser lidt de her visualiseringer som sådan et procesmæssigt ø virkemiddel øh hvor man ligesom prøver at få repræsenteret de her komplekse virkeligheder på øh og vi tænker man kan bruge dem meget sådan sammenfattende, så de afspejler nogle lokale karaktertrækker narrativer, men også netop til at opsummere og vcere. Altså når det så indgår i den her dialog, som Birgitte også lidt snakker om, at så kan man også få tilbagemelding og sige, ah, men det synes jeg ikke er er den rigtige måde at repræsentere mig på eller hvad ved jeg. Øh, og så viser
+
+01:08:30
+det de her sammenhænge og nedslagspunkter. Og så netop det her med det dynamiske i forhold til efterforskningstavlen. Øh, ja, at bruge det sådan til at formidle og få øje på nogle synergier, men også det her med legit legitimere beslutninger og valg. Så vi arbejder lidt med med sådan basisværktøj i forhold til at visualisere. Og det kan jo både være kort materiale er jo noget visuelt, men det kan også godt være tegne. Altså vi prøvede meget at at lave sådan nogle små tegnekurser for på nogle af de
+
+01:09:00
+workshops, vi havde med med planlæggerne i forhold til at at at være modig i at arbejde lidt med de her ikoner, fordi der sker bare noget, når man når man prøver at gøre det visuelt. Men vi kan også godt se, at det nogle gange kan være meget grænseoverskridende. Så derfor ser I også, at på rigtig mange af de korte aktørlandskaber, vi har, så er det også posted notes med tekst. Altså det er ikke fordi vi sådan på den måde har en aversion mod det. Det er også okay, hvis man læner sig ind i det. Men det er bare for at sige det kartografiske, at det man prøver faktisk at visualisere, betyder faktisk noget
+
+01:09:30
+for at at fange ligesom nogle essenser her, ikke? Må jeg lige sige nogle af de slides vi har, hvor der står rigtig meget tekst på, det er altså nogle billeder, der kommer fra vores håndbog. Og jeg har lagt et link til håndbogen højere op, så man kan gå ind og læse mere om det her. Så det er jo ikke meningen, Marbit, at den her slide skal kunne læses. Nej, nej, nej. Det er bare for at jeg lige vidste, at det var det her, vi snakkede om. Ja. Og så noget et andet take vi også tager på visualiseringer, som jo ikke helt måske nødvendigvis hænger sammen med aktuellskabet, men men mere når vi er
+
+01:10:00
+oppe og snakker om de der synergier og værdier, det er også at bruge billedemateriale. Så vi kommer lige om lidt lidt ind på ø altså det her med øh de her billeder fra Hedensted kommune med lokalrådet, hvor man ligesom har nogle værdimæssige tematikker øh som også afspejler lidt, hvad er det ligesom man arbejder med? Så også bare bruge billeder i det hele taget. Feltø fotografier fra man har været ude at se stedet, men også nogle billeder på øh hvordan ser sundhed ud, hvordan ser ligesom trafik og andre ting ud. Altså
+
+01:10:30
+vi har erfaring for at det at arbejd billeder en rigtig god måde at præsentere nye værdier på som kan inspirere folk til at se deres område på en ny måde. Nogle af de her bærbyghedstemaer vi snakkede om sidst kan godt blive repræsenteret via nogle billeder og kan lægge op til at man pludselig ser nogle nye muligheder i sit område eller nogle muligheder for hvordan det faktisk også kunne udvikles. Mm. Så det er et af de steder, hvor man kan bruge billeder, som er tilpas åbne til, at man kan lade folk selv tolke og snakke videre om det uden at man har
+
+01:11:00
+mæst en meget specifik værdi ned overhovedet på folk. Ja. Så det er sådan meget inspirerende at åbne. Og hvis I netop vil gå i dybden med det, så ligger der også sådan en trin for trin i forhold til det her med aktørlandskabet. Og måske noget af det, jeg bare lige vil trække hurtigt frem, er at sige, at at man kan godt anvende kortet blankt i en workshop proces. Altså hvor man egentlig sidder sammen med aktørerne og tegner kortet, men det kan også være det her arbejdsredskab, hvor man selv går ind øh i et eller andet øh altså vi har selv brugt Miro rigtig meget ø i forhold til
+
+01:11:30
+ligesom at gøre de her ting og sætte nogle ikoner og så videre ind. Og og jeg vil også sige, altså vi er med på, at de her kort, vi har her, kan jo se ret banale ud, og man kan tænke, okay, nu det her kort fra fra håb til håb projektet i Hedenstad kommune, man tænker, okay, jamen fedt, så har ligesom sat nogle ubehjælpelige ikoner og så videre ind. Men jeg tror for de mennesker, der har været med i processen og og undersøgt de her ting, så er det jo et forsøg på at afspejle og hive fat
+
+01:12:00
+i nogle af de ting, som faktisk har været essentielt i den snak, der har været. Så det er bare for at sige de de aktører der har været med i dialogen vil sådan set se den her visualisering banal nok som den er som noget der faktisk i hvert fald forsøger at opsummere noget som som de faktisk arbejder med. Men men også fordi den er lokal. altså det at se sit eget lokalområde og se nogle overskrifter sat på det på nogle andre måder er jo også med til at andre kan forholde sig til det sted de ting der er kommet frem ikke så det kan godt være vi synes det ser malt ud men ja vi har lidt den altså man kan sige den udfordring
+
+01:12:30
+der er med de her repræsentationer det er den der balance mellem det for simplede og det for komplekset og det er også det der noget af det der er i kartografien at det handler jo også om at man kan ikke hvis man visualiserer alt det komplekse så er det så er det ikke længere muligt at at læse ligesom den visuelle repræsentation så det er også noget med at man bliver nødt til at simplificere det på et niveau, hvor det så kan have den effekt som det har. Og det tror jeg, jeg tror ikke vi har nok heller ikke fundet ligesom helt løsningen på, hvor det er, men men det er i hvert fald noget, man kan eksperimentere med og og bruge det som
+
+01:13:00
+et arbejdsredskab. Vi vi kan i hvert fald se, at det giver noget værdi næsten uanset hvordan visualiseringerne ligesom har lavet. Så nu er der bare nogle eksempler på det her ø fra aktørlandskabet. Ø, vi har jo snakket lidt om det før, så jeg tror ikke, jeg vil gå så meget ind i det, men men det er bare for at vise den skidse nederst af sådan et eksempel på, hvor vi har prøvet at tegne aktørerne ind. Og I kan jo se, at vi vi har prøvet at arbejde lidt med, at der både er noget tekst, som ligesom indeholder lidt mere den der kompleksitet, og så er der de her øh ikoner øh som på en eller anden måde prøver at fange, at at der ligesom er
+
+01:13:30
+nogle elementer, som ligesom betyder noget. Så det får i hvert fald ligesom øh fanget fanget nogle ting ind i i forhold de her ting. Det er det her abstrakte kort, som jeg talte om før. For netop ikke at få alt for tætte diskussioner om et eller andet specifikt område, så var det sådan et fuldstændig abstrakt billede på Limfjorden. Præcis. Og vi har fortalt lidt om processen. Og det samme med de her aktørlandskaber i ntun. Der kan I jo se den anden model, som er lidt, man kan sige det her kunne man jo godt have renttegnet det. Og det er jo også øh noget af det, I ser på det
+
+01:14:00
+andet kort, der ligesom er renttegnet. Men det bare for at sige, det er jo den anden model, hvor hvor det er jo mere en workshop, hvor der ligesom sådan lidt mere øh kaotisk er kastet nogle ting ned. Men det kan jo også være sådan et aktørlandskab ser ud et sted i processen, hvis man synes det er vigtigt. Og det nederste var så det jeg ville vende tilbage til med det der med, hvad er det man kan hive ud af de her ting. Og det er jo netop fra den her øh rundvisning, de var på. Der kan I se sådan et eksempel på at at de har udvalgt nogle tematikker og de har
+
+01:14:30
+identificeret ligesom nogle kerneområder hvor vi også ligesom på de små gule posteds der har sat nogle noter på ø ja de holder stt hans bål der og sådan altså for ligesom at fange den der ligesom aktørverden. Så det er sådan et eksempel på også med de der brug af billeder øh hvordan man ligesom kan samle op og udvikle nogle konceptforslag. Så her vi begynder vi at gå ind i den der synergi ogog konceptforslags element. Så bare det her eksempel fra Aarhus i forhold til de tværfaglige samtaler, at
+
+01:15:00
+der var det meget tydeligt, at vi også brugte sådan nogle grundkort. Vi havde sådan en tværfaglig workshop, hvor vi havde alle mulige forskellige fagligheder repræsenteret. Og det var meget tydeligt, da vi lavede den workshop, at kortet fungerede virkelig som sådan en i gangsætter. Altså fordi regnmandsfolkene kunne se sig selv, byplanlæggerne kunne se sig selv, skoleforvaltningen kunne se sig selv. Altså det var ligesom om at kortet blev sådan en meget fælles øh måde at få et fælles sprog på, at man kunne pege på kortet og snakke og placere sig. Og så det gav jo virkelig en en utrolig fed dynamik. Så det er bare virkelig for at understrege, at det gør altså noget, at
+
+01:15:30
+man arbejder sig ind i det der visuelle og det der kartografiske øhm ting. Så vil vi meget kort, og vi kommer til at at køre lidt hurtigt herover det her, fordi det er noget af det, vi tager fat i næste gang. Men man kan sige, det vi så også gerne vil bruge kortene til, det er jo netop det her med at begynde at arbejde hen i det her pejlemærker. Og der har vi sådan i løbet af Coast to Coast projekten har vi identificeret, at man kunne kalde det sådan nogle hotspots. Altså det er i hvert fald det, vi har kunnet se i de processer, vi har kørt, at der sker det, at der der kommer nogle nogle hotspots. Øh, så der er
+
+01:16:00
+ligesom hov øh ligesom nogle udviklingsspor som som danner sig. Det der konkret skete her, det var at i processen i Hedensted havde man samlet nogle forskellige fagpersoner, som fortalte om deres forskellige projekter, og så fandt de ret hurtigt ud af, hov, vi har ligesom de her hotspots, hvor vi faktisk har noget i spil, som kunne være lidt spændende ligesom at dykke ned i. Så det var sådan en stedslig ting at sige, her bør vi lave nogle projekter omkring de her lokalområder. Øhm, og man kan se processen her, at man
+
+01:16:30
+startede med et blankt kort og snakkede om det, og så puttede de ligesom deres fagligheder på og snakkede om det. Og så til sidst endte det ligesom med det her med de identificerede ligesom de her hotspot og kortet blev også ligesom rentgnet til sådan at fange ligesom som en form for for referat. Og det her det er bare en gentagelse lidt fra det jeg sagde første gang. Altså det her med aktørlandskabet hjælper med at få øje på bredere samfundsmæssige aspekter. Øh det også hjælper med at være mere systematisk og organisere forskellige former for viden.
+
+01:17:00
+Også at finde måder at indsnæve og prioritere på også legitimere. Og så står der noget af den der pil, det er sådan det der med at det går også fra det indre fra planlæggeren og så ud imod øh, hvad skal man sige brugerne ogog de andre aktører, at der ligesom sker den her legitimiseringsproces også igennem at man bruger de her visuelle redskaber. Så øvelsen for laktørlandskabet kunne være den hurtig at printe et kort og selv sidde og putte postage på, som repræsenterer de aktører som som du arbejdede med for eksempel tidligere. Og den grundlige det kunne være at prøve at
+
+01:17:30
+den her proces med at at faktisk arbejde sammen med nogle kollegaer op og fra et andet fagområde til sådan at prøve sammen identificere nogle aktører og prøve den her visuelle proces. Altså hvordan er det så vi repræsenterer de her forståelse aktørverdenerne på vores kort? Det kunne også være hvad alle for nogle ting, vi har gang i de forskellige forvaltninger og hvad på det her sted øh for mine kollega. Ja. Start helt simpelt og og bare gå i gang. Og så kan man jo opbygge efterforsknings tavle på et
+
+01:18:00
+tidspunkt, hvis man har lyst til at lege med det i sit eget projekt. Og så var der hotspots. Altså prøv at sætte værdier på fra screeningen på kortet og overveje, hvor er der ligesom noget resonans i forhold til de aktører, I har arbejdet med. Øh, og det kan også være igen at gøre det sammen med en kollega i forhold til de her hotspots, men altså så begynder at arbejde på tværs af screeningen og de her ting, det er jo det, vi bevæger os over i nu med den sidste session. Og der er grundige beskrivelser i håndbogen. Yes. Så næste gang går vi videre med værdisætning og
+
+01:18:30
+storylines. Og det bliver jo den sidste gang vi snakker sammen. Så der vil vi sådan sige noget mere om om værdisættelser og de metoder man kan bruge øh både kommunikationsmæssigt, men også i forhold til til storylines. Så der går vi lidt mere ind i det der med at bygge synergier og skabe momentum og real værdiskabelser, der er kommet af vejs. Yes. Og selvfølgelig sådan med afsæt i de metoder, vi ligesom har har snakket om i dag. Jeg har øh lige kort sige, jeg har fået et spørgsmål. Man kan bruge det her på regionalt niveau, eller man også kun kan
+
+01:19:00
+bruge det lokalt. Og vores erfaring er, at man sagtens kan bruge det regionalt. Øh, og jeg synes eksemplet både med guden under Limfjorden er jo netop eksempler på, at det er et større perspektiv, der rækker ud af lokalområdet og kommunen, ikke? Og det mener også, det kan bruges på andre områder. Det har vi faktisk også gjort også sammen med vores studerende og arbejdet med energi og mobilitet og så videre, så man kan sagtens bruge det på nogle andre måder også. Yes. Vi vil rigtig gerne høre om I har nogle ø spørgsmål, om I har nogle inputs også
+
+01:19:30
+nogle ting I synes, der kunne være øh kunne gøre den her form bedre. Nu sidder vi bare her og snakker, men og så prøver vi at samle op chatten. Er der nogle gode ideer til, hvordan vi kunne arbejde videre med den tredje gang, så hører vi gerne om det. Ja. Så skriv endelig i chatten. Vi tænker ikke vi tager det op, men ligesom s tager vi det med, når vi forbereder to minutter til at gøre det inden. Ja. Og så vi bare gentag, jeg håber I vil gå ud ogog bruge altså nogle af de her værktøjer. Prøv at tænke j at lave øvelsen med aktørkortlægning med at
+
+01:20:00
+prøve at komme ind og forstå de der aktørverdener og komme lidt i gang med det og lege med det. Begynder at lege lidt med det her med aktørlandskabet, hvordan man ligesom printer et kort og hvordan man repræsenterer aktørerne på det. også huske det her igen med at opsøge nogle kollegaer og så måske at vi også så småt går i gang med det her med hotspots og begynde at tænke i jamen øh hvad er det ligesom for nogle synergier når vi ligesom begynder at kigge på tværs både af aktørerne men også i forhold til det her med de politiske strategier og så videre. Ja men øh der
+
+01:20:30
+er en her vi kan dele præsentationen og den måde det bliver delt på. Det er altså en video som kommer til at ligge inde på øh DNNKS hjemmeside. Jeg vil godt lige prøve at snakke med dem om, hvorvidt vi kan lægge 16 ud også. Ja, de bliver i hvert fald bare sløret delvist, fordi der er mange af de der øh figurer, dem der kommer fra håndbogen kan man sagtens bruge, men de øvrige, der kan der godt være noget copyright på. Ja.
+
+01:21:00
+Også her gerne med nogle pointer fra aktørerne. Hvad fungerer for dem, og hvad er de op med processerne. Yes, det tager vi til os. Yes. Fedt. Men tak fordi I var med, og så ses vi forhåbentlig næste gang og sidste gang. Vi glæder os i hvert fald. Hej.

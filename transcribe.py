@@ -199,7 +199,10 @@ def check_order(order_id):
     try:
         resp = requests.get(status_url, headers=api_headers(), timeout=30)
         if resp.status_code in (401, 403):
-            raise AuthError(f"HTTP {resp.status_code} fra Transkriptor")
+            # Log API'ets egen fejlbesked (afslører om det er ugyldig nøgle,
+            # manglende API-abonnement eller opbrugt kvote). Nøglen logges ALDRIG.
+            raise AuthError(f"HTTP {resp.status_code} fra Transkriptor. "
+                            f"API-svar: {resp.text[:300]!r}")
         resp.raise_for_status()
         status = resp.json().get('status', '').lower()
     except AuthError:

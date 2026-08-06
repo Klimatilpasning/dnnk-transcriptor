@@ -1,0 +1,395 @@
+=== DNNK Webinar Transskription ===
+Kategori: Godmorgen_med_DNNK
+Video ID: 73-c20WGsgM
+URL: https://youtube.com/watch?v=73-c20WGsgM
+Kilde: YouTube auto-undertekster (dansk)
+Transskriberet: 2026-08-06T17:12:08.816523
+
+==================================================
+
+00:00:00
+My name is Amal. I work as a project manager at the University of Copenhagen mainly with the regions for climate project that I'm just gna say a few words about so that you kind of understand the context of why we have invited you to this event and why this specific theme. So the regions for climate project is a Horizon EU funded project. It has the
+
+00:00:30
+goal of creating climate resilient regions across Europe focusing on innovation and socially just demonstrations. So as you can hear that's very broad and that's also very very much in the spirit of the project you could say. Øhm an important context is that it's part of the EU mission on climate adaptation. So that means that it's quite a big project as well. There
+
+00:01:00
+was quite a lot of money to be had which means we are 42 partners across Europe. We work in 12 regions as you can see here on the map. Øhm and we tackle different is ja problems across these 12 regions and also a lot of focus on learning from each other from region to region. We have three Danish partners in the project University of Copenhagen of course via
+
+00:01:30
+University College and the coastal authorities. So that's just a bit about the formal øh project. I can maybe add that it's a fiveyear project and we have about one and a half years left. The project works with many different themes and I'm just gna highlight a few here. That's also as you can see a connection to the theme of today. So just transition is is an ongoing theme.
+
+00:02:00
+It's connected to everything that we work with. Resilience in the broad manner of the term. So social resilience specifically. We work with everything from coastal protection to urban heat islands. So we have as you could see on the map both regions in northern Europe and southern Europe. And actually specifically Finland and Estonia both work with urban heat islands. So there's a lot of knowledge to gain from the southern
+
+00:02:30
+European regions who's been dealing with an issue like this for for a very long time. NBS Naturas Solutions is also sort of an underlying theme in in most of the work and the research. And finally, digital tools is also something that the project is very much looking into. So I'll get a bit back to this when it comes to how we specifically work in the in the Danish context. So the Danish partners has the case area
+
+00:03:00
+of Kay. The reason for this being that it's one of the appointed areas when it comes to the risk areas appointed by the coastal authorities in relation to the flood directive. And here you can see the map showing that there is quite a large area that would be affected from a 1000ye event in the year 215 I think it is. And Køb in general is quite an
+
+00:03:30
+interesting area because you have a very urbanized area to the north a bit less towards the south. It's very lowly linying. We have densely popul populated areas and a lot of critical infrastructure. Øhm, and in general just a lot of societal value is is in this area. I've just added this map as well to show that of course we have the risk from the sea, but also this is an area with a lot of streams leading towards Købay. So we
+
+00:04:00
+also have like back water issues as well. Moving on to the we have three main tracks you could say that the Danish partners work with. The first one is connected to the digital tools as I mentioned. So that's specifically via University College who's been looking a lot into using digital tools to communicate both climate risks and solutions. Specifically, we have been developing an app that shows
+
+00:04:30
+water levels rising in Købe Beach Park and also new coastal protection measures. The second track which is specifically the reason we are having this theme today is focusing on social resilience and wellbeing. Here you can see a picture from klimafolkemødet where we have been present for several years working with multied safety. That's very much coastal authority is looking into this. But the
+
+00:05:00
+the topic here is quite broad. average citizen feel more safe if a flood were to happen in their area but also we look at wellbeing so how does nature affect mental wellbeing specifically in coast areas so it's very broad and we also have this whole just transition track which I'm not gonna say much more about buuse we have Mia Paul presenting later
+
+00:05:30
+on on this work that has also taken place in the project. And the final track is looking into multifunctional coastal landscapes. So looking both at the Købay Beach Park, Amar Beach Park, Lyetteholmen into a political context, a societal context, economic to see best practices, lessons learned, what to do, what not to do and looking into scaling this up on on a broader European level as well.
+
+00:06:00
+Yeah, I think that's it from my side. I will hand it over to the first presenter. &gt;&gt; My name is Anne Lærke Jørgensen. I'm from the city of Copenhagen. I work in the øh climate environmental and technical administration in the unit of climate adaptation. Jeg vil introducere jer til nogle af de erfaringer, vi har fået med implementering af klimatilpasningsprojekter i socialt udsatte byområder i sdelshed vores ø
+
+00:06:30
+skybrudssikringsindsatser. Og det bliver lidt praktisk, og det bliver lidt en indføring i sådan to ret store indsatsområder i kommunen, så det bliver også lidt overfladisk, men I må gerne stille spørgsmål efterfølgende. Jeg vil komme lidt ind på begge indsatser og så på, hvordan vi koordinerer dem, og hvad der har været forudsætningerne for at koordinere dem. Og så har jeg nogle udvalgte projekter, hvor man kan se, det er implementeret i. Øhm, og har også lidt perspektivering i forhold til, hvad der bliver de fremtidige udfordringer i forhold til øh
+
+00:07:00
+klimatilpasning i social øh udsatte byområder. Øh, og øhm udsat by øh Politikken i Københavns kommune er en tværkunal indsats, der dækker både fysiske og ikke fysiske indsatser og som bliver vedtaget for en 10-årig periode. Og vi har lige netop fået en ny en øh som ligesom stater, at at målene for udsat by er, at alle københavnere skal have gode og livschancer og muligheder uanset hvor de
+
+00:07:30
+bor. at alle københavnere skal opleve tryghed og attraktive byområder, der skaber rammerne for et godt liv. Ved siden af den indsats så har vi klimatilpasningsindsatsen, som ligesom øh første gang blev etableret med vores klimatilpasningsplan fra 2011 øh og som ligesom sætter fokus på de klimaudfordringer, der vil være forbundet med mere kraftigere hverdagsregn og risiko for skybrud, risiko for stormflod, havvandsstigninger og så udfordringerne forbundet med varme og vejr og terrænt grundvand.
+
+00:08:00
+Øhm, de udsatte byområder i København er udpeget ud på sådan en databaseret screening øh ud fra otte parametre. Ø, og de otte parametre, det er indkomstniveau, uddannelsesniveau, arbejdsmarkedstilknytning, ungdomsuddannelser, børnefattigdom, sundhedstilstand og tryghed. Og når man kører screeningen på tværs af hele byen, så får man de gule områder, der er på kortet. Øh, og de øh de parametre, de dækker sig også automatisk. de områder,
+
+00:08:30
+der vil være på statens liste over parallelsamfund eller udsatte boligområder. Øh, dem har vi pt ikke nogen af i Københavns kommune, men vi har områder der er på, skal jeg huske, hvad det hedder, forebyggelsesområder, som er dem, der kommer med ø vist med orange deroppe. Øhm, det kort som grundlag for udsat by øh initiativerne tilsmen implementeringsplan for skybudsikringen af byen er ligesom fundamentet for den første tidlige
+
+00:09:00
+koordinering. Og den her er der sikkert flere af jer, der har set, den er fra 15. Den er den første forsøg på at konkretisere vores skybruds øh plan fra 12 øh i konkrojekter og i en bydækkende indsats. Og på mange måder øh var den unik på det tidspunkt, fordi det var første gang man havde en samlet plan, og man præciserede, at det skulle ske som primært som overfladeprojekter frem for underjordiske projekter, at det skulle give mere værdi til byen, når vi
+
+00:09:30
+klimatilpassede den og ske som en del af byens udvikling. Men det der måske i den her sammenhæng også er helt afgørende, var at den gav mulighed for tidlig koordinering med den udsatte byindsats. Og ø udsat byindsatsen har mange initiativer, men i klima teknik og miljøforvaltning er den en af dem og en af de største af dem ligesom områdefornyelsesindsatserne. Øhm og det kan det er en 25-årig indsats eller nej det passer ikke. Det er en
+
+00:10:00
+seksårig geografisk baseret indsats. Men indsatsmetoden som sådan har været eksisteret i 25 år. Og på kortet kan I de lyserøde og lilla områder se dem der har været. og er afsluttet, dem der er i gang og dem der forventes måske at komme. Øh, de gule projekter på kortet er vores i gangsatte og for mange af deres vedkommende øh færdiggjorte skøbrudsprojekter. Og som I kan se, så ligger de ø mange af dem i de samme områder. Øhm,
+
+00:10:30
+og det har kun været muligt altså med så relativt kort en tidsperiode, som vi har været igennem på de sidste 10 år at gøre på grund af det øh, hvad kan man sige? det planafsæt vi har haft i udsat by og i implementeringsplanen. Øhm, så det der ligesom sker, og det vi kan gøre, når vi laver tidlig koordinering og lykkedes, at de her to indsatser de ligesom øh bliver koordineret, det er at ø mine gode
+
+00:11:00
+kollegaer, der sidder inde i områdefornyelsen, når de begynder at ø øh se på, hvad for nogle nye områder skal være en områdefornyelse, så bruger de en hel række af screeningskriterier, men de kan blandt andet se på implementeringskortet, og de kan og sammenlægge det med udsat bykortet, og det giver den muligheden for at vurdere Jamen, hvad er der af planer for konkrete projekter i området? Hvilken karakter har de, og har de potentiale for at bidrage noget med ø til en omdannelse af de fysiske rum, når vi går ud og laver en områdefornyelse?
+
+00:11:30
+Når de så begynder at have sådan en ide om, at det her det er et nyt område, så tager de kontakt til os. Vi sidder på den anden side af gangen, det er ikke så svært. Øh, og så vil vi typisk i gangsætte det, der hedder en hydraulisk masterplan, hvor vi ligesom præciserer, jamen hvad er det så for noget vandhåndtering, der skal ske i det område? Hvor meget vand skal der håndteres? Hvad for nogle typologier skal understøtte det? Og det er også her, vi går ind og laver de første vurderinger af, hvad er det for et merværdispotentiale, de så vil kunne understøtte øh i områdetfornyelse.
+
+00:12:00
+Så får man i gangsat en kvartersplan typisk på baggrund af noget øh indledningsvis borgerinddragelse. Øh og man får i gangsat politisk skybruds og klimatilpasningsprojektet. Og så bruger man det som fundament for den efterfølgende øh inddragelsesproces. Øhm og øh ja øh så så får man kvalificeret, hvad er der for nogle ønsker og behov i lokalområdet? Hvordan ser de lokale derude, at et projekt af forskellige
+
+00:12:30
+størrelse vil kunne være med til at løfte området? Øh og så går man ind og beder om byråsmidler til at kombinere med skybruds klimatilpasningsprojektet for at kunne designe projektet, så det ikke bare håndterer vand, men så det også ligesom er med til at løfte hele området. Øh, så sker der en borgerindragelse igen i forbindelse med det. Ø, og hvis områdefornyelserne på det tidspunkt er ved at logge ned, så foregår indsatsen i regi af projektet. Øhm, det hele er ligesom bundet op
+
+00:13:00
+omkring, at områdefornyelserne er øh født med en metode og en tilgang til byomdannelse, der handler om samskabelse, om borgerdrevne initiativer og om ejerskab til de områder, de bor i, og at området løftes på baggrund af de initiativer øh og den metode. Øhm, så har jeg nogle eksempler med, jeg ved ikke, øh, et af de nyere og sådan større projekter er ude fra Grønningen i Nordvest, som ø har været koordineret
+
+00:13:30
+med områdefornyelsen nogenlunde i det forløb, jeg lige har skitseret. Øh, hvor fokus i borgerinddragelsesprocessen og den måde man gik ind og mødte borgerne derude på rigtig meget handlede om at ø skabe social bevidsthed omkring hvad er det for nogen der bor ud til ved grønningen? Hvem bruger Grønning? Hvad har de af forskellige behov? Hvordan møder de hinanden? Hvad har de måske af bekymringer og fordomme som knytter sig til de forskellige former af grupper? og så få lavet et øh anlæg, der både sikrer
+
+00:14:00
+området mod skybrud, men som også inkorporerer de ønsker og behov, der var opstået, og giver mulighed for flere sociale mødesteder og øh af forskellige areal øh art og også måske mulighed for, at flere forskellige burgrupper kan være i parken samtidig sammenligne med øh tidligere. Den anden er Karmindeaksen, som jeg er sikker på, at dem af jer der bor i København også kender og har set før. Der var havde områdefornyelsen faktisk
+
+00:14:30
+været i kvarteret et godt stykke tid, dengang skybrudsprojektet blev vedtaget. Og derfor havde man en hel del analyser og kendskab til området. Der var rigtig mange af de borgere, der boede dernede, der var meget bekymrede for, hvad det var for en forandring, man ville gå ind og lave i parken, hvad det var, man ville få, hvor meget man ville interagere med de kvaliteter, der allerede var der. Øh, og derfor gik om inddragelsen også rigtig meget på ligesom at informere om behovet, men også give en vthed om at at man kommer styrket af området og sørge for at få
+
+00:15:00
+det der ejerskab lokalt til øh til projektet. Og så var fokus rigtig meget på at tilføje nye selvfølgelig bevare de funktioner man gerne vil have, men også tilføre nye funktioner, som kan bidrage til et andet og øh socialt liv dernede. Øhm, og så bare lige for at have et projekt med, som som ikke var helt så omkostningsfyldt og ikke havde helt vildt mange byråsmidler, så øh øh er der det herude fra Dinestavens legeplads på Bispebjerg, som måske lidt færre kender, som er anlagt næsten udelukkende for ø
+
+00:15:30
+taksmidler og som er en boldbane sænket, men hvor der var øh rigtig store ønsker til at designet og formgivningen af skybrudspassinget lagde op til en åbent areal. gal, hvor man ikke kunne gemme sig i mørke hjørner, som var oversigtbar, som kunne anvendes af flere, som var lyst, og som havde funktioner, der gjorde, at man kunne bruge banen øh til mange flere ting. Den ø byrumstiltag, der blev givet til
+
+00:16:00
+det her, gik faktisk rigtig meget på belysning. Øhm, og hvad er det så altså vi ligesom oplever, når vi kan gå ind og kombinere de her to øh indsatser? med områdefornyelsesindsatsen og skybruds- og klimatilpasningsindsatsen. Altså det er jo først og fremmest, at vi får nogle projekter, der har en størrelse og et omfang, der gør, at vi kan gå ind og lave et reelt løfte af området. Øh, og at vi kan gøre det ved at tilpasse de behov, der er, og se meget bredere på,
+
+00:16:30
+jamen, hvad er det, der skal til for, at det er det rigtige i det her område. Øhm, og tak. Øhm, jamen og et af at det selvfølgelig får en højere sådan landskabelig kvalitet, som også har giver et visuelt løft til bydelen. Altså tit så får vi også skaffet flere mødesteder. Vi får skabt flere muligheder for funktioner, øh, flere muligheder for at folk kan mødes og ses. Øh, og brugerummene i et bredere spænd af dagen, så de også er
+
+00:17:00
+mere udenfor. Nogle gange lykkedes det også at implementere nye biotober, især de steder, hvor vi har åbent vand. øh som styrker øh biodiversiteten i området og øh er med til at skabe sådan mere varieret natursyn i de projekter. Øh helt kort i forhold til fremtidens udfordringer. I kender dem alle sammen, tænker jeg. Jeg kommer også lidt ind på den tidligere. Jeg vil egentlig springe hen til den sidste og sige noget af det vi ser vi kommer til at arbejde meget
+
+00:17:30
+mere med og som jeg også kan forstå er rigtig meget på programmet i dag. Det er hensynet til varmere og vejr og de udfordringer, det kommer til at gøre for byen. Vi er i gang med at udarbejde den nye klimatilpasningsstrategi for Københavns kommune, og der får den et sådan lidt større og meget mere konkret fokus end det tidligere har haft. Og øh det vi ser er jo særligt de udfordringer, der er forbundet med netop udsatte borgere og socialt øh udsatte byområder, fordi det helbredsmæssigt og
+
+00:18:00
+sundhedsmæssigt rammer lidt mere skævt. Mange af de udsatte byområder i København, der er der også en højere grad af støjforurening og luftforurening, som I ved ligesom giver en akkumuleret effekt, når vi så ser på øh situationer med hedebølge. Og når vi snakker med vores ø beredskabskoordinator i sundheds- og omsorgsforvaltningen, så oplever de faktisk allerede ret storen forbundet med det i dag. Øh, særligt for de borgere der er,
+
+00:18:30
+hvad hedder er medicin krævende hjemmeboende, hvis medicin ikke virker overhåndentligt i varmeperioder. Og det kalder sådan lidt på, at vi skal ind og tage fat i problematikken på en anden måde. Selvfølgelig skal vi også se på, hvordan byens struktur og indretning kan være med til at understøtte, at vi ikke får den her overophedning. Men i forhold til at vi med skybuddes og regnshåteringsindsatsen har haft sådan et relativt snævt fokus på de offentlige tilgængelige fællesarealer, så bliver vi nok med UHI-indsatsen nødt til at se lidt bredere ø ud i de andre
+
+00:19:00
+forvaltninger og finde ud af, hvordan vi giver dem fundamentet i klimatilpasningsstrategien til at agere øh mod de udfordringer, som de oplever. Det var det. tidligere Københavns Universitet Sønderborg kommune. Jeg tænkte, du kunne tale lidt ind øh i den der udgiftsfordeling.
+
+00:19:30
+Måske nogle af de udfordringer, der har været mellem nu skrev du ligesom fordelingen af millioner. På det sidste var det bare en million til byrummet ogog en stor del til vand. &gt;&gt; Ja. Altså tænker du særligt på det der går til om altså borgerinddragelse og involvering eller &gt;&gt; Ja, både det altså problematikkerne omkring &gt;&gt; Ja, altså det det er det udgør et ret stort ø udfordring i forhold til samskabelsen og hele koordineringen af
+
+00:20:00
+indsatser, fordi at pengene ligesom skal komme i forskellige takter og besluttes af forskellige instanser. Øh, og ø og det er også derfor, at altså vi må bare erkende at de der store synergiprojekter, de tager enormt lang tid om at blive formet, før de så ligesom er klar til at gå i jorden, fordi der er øh så mange beslutninger, der skal træffes af øh og altså og i mange af dem har der også været en lidt en altså hvad kommer først, hvilket problem kommer først, hvad initierer altså ligesom omdannelsen, er det
+
+00:20:30
+skybrudsprojektet eller er det noget andet? Det synes jeg er et større udfordring, når vi ser på projekter for eksempel på på vejarealer, end det har været med områdfornyelsesindsatserne. Men det er også fordi områdefornyelsesindsatsen har været så stærkt politisk prioriteret i København i så mange år, og de ligesom ligger i en fast kadance, hvor de starter op i gennemsnit hver halvandet år med noget basisøh finansiering, som også har kunne præcisere potentialet. Øhm, så jeg tror
+
+00:21:00
+det det er noget af svaret på det. Altså det det er lidt vigtigt at have nogle penge til at gå i gang øh og til at rammesætte øh både behovet og udfordringen, men også ligesom de løsninger som som projektet skal gå ind og og svare på, ikke? Og så er det klart at at det at vi har haft muligheden for at H for spildevandstakster har kunnet finansiere vandhåndteringsdelen, har gjort det til meget af fundamentet for det andet der skete, fordi de har ikke indgået i de årlige budgetforhandlinger, hvor politikerne har skulet prioritere mellem penge. De
+
+00:21:30
+har kunnet besluttes særskilt i projektpakker, og så har de ligesom ligget som fundamentet for resten af det. Og man har kunnet gå ind og sige, jamen der kommer til at ske en forandring, fordi skybruds- og klimatilpasningsprojektet kommer. Hvad vil vi putte oveni? og så præcisere det. Men det er ja, der har været en udfordring koordineringsøvelse, og det er foregået på alle mulige andre måder end det der super forsimplete forløb, jeg lige skitserede højt for jer, bør jeg nok også sige. Øh, du havde også
+
+00:22:00
+&gt;&gt; måske vi skal snakke med os senere. Øh, vi har ikke så meget til, &gt;&gt; så gør vi. Det var også et meget langt svar. &gt;&gt; Ja, men tak. Hej, jeg hedder Mette Julie Jessen og jeg er phd-studerende her på Københavns Universitet. Arbejder med landskabsarkitektur og planlægning, særligt regional planlægning og klimatilpasning. Og det jeg præsenterer i dag, det er en del af det EU-projekt Amalie startede med at tage os ind i. De er sammen med en kollega Ole Fryd, der sidder derovre og Christian Færdner, der ikke er her i
+
+00:22:30
+dag. Der har vi set på social sårbarhed i europæisk klimatilpasning. Jeg har lidt kækt, kald det en status på tværs af kontinentet. Det er måske at at overstate en smule, men jeg vil gerne dele nogle perspektiver med de fra de undersøgelser, vi har lavet med jer. Så er der med præmissen for det arbejde, jeg vil fortælle jer om. mest sårbare mennesker og systemer er disproportionelt udsat for klimarelateret risiko. Grundpræmissen
+
+00:23:00
+her handler om om retfærdighed og lighed. At ikke alle systemer eller menneske menneskegrupper har samme mulighed eller samme kapacitet i forhold til at tilpasse sig et forandrende klima. Samtidig peger undersøgelser på at de mest sårbare ofte er dem der bliver mindst hørt. Nu har vi heldigvis måske lige hørt et modeksempel på det. Men hvis man ikke bliver hørt, ikke bliver inddraget, er der også sådan en chance for, at klimatilpasningsprojekt ikke nødvendigvis ender ud til ens fordel og måske endda har nogle negative konsekvenser for en.
+
+00:23:30
+Det er en international dagsorden. Der er i hvert fald sådan to hovedargumenter i forhold til at arbejde med social sårbarhed eller udsatte byrum, som det hedder i den anden variant. Det ene er moralsk, handler om, at det simpelthen er det rigtige at gøre. sørge for at vi har så lige muligheder som muligt. Og det andet handler om effektivisering. At hvis man gerne vil lave effektiv klimatilpasning, så får man den mest effektiv, man får den største nedsættelse af risiko ud af det ved at
+
+00:24:00
+få inddraget dem, der er mest udsatte for det. Det her projekt Regions for Climate handler om at building resilient communities øh en samarbejdsdreven udvikling og demonstrering af socialt retfærdige transitioner til klimaresiliens. Og det lyder stort og flot. Og hvordan gør man egentlig det? Vi starter med at sige i det her projekt, hvis vi skal arbejde med social retfærdighed og social sårbarhed, skal vi måske starte med at finde ud af, hvad er social
+
+00:24:30
+sårbarhed egentlig, hvis vi skal arbejde med det her, hvis vi skal arbejde med det på tværs af 12 europæiske regioner. Hvis man slår op i sådan IPTCs vokabular, så får man den her definition. The propensity, altså sårbarhed er the propensity of predisposition to be adversely affected. Vulnerability encompasses a variety of concepts and elements including sensitivity and susceptibility to harm and lack of capacity to cope and adapt.
+
+00:25:00
+Vi har kigget ud på 12 regioner. Der er 12 regioner med i det her projekt, der alle sammen arbejder med klimatilpasning på den ene eller den anden måde. sige, når man har en en stor definition som den fra IPCC, hvordan oversætter man så det, når man skal lave et klimatilpasningsprojekt regionalt eller lokalt? Hvordan arbejder man egentlig med den her store agenda? Vi startede det her projekt med at skulle finde ud af, hvad er social sårbarhed egentlig i de her regioner? Hvordan bliver der arbejdet med social sårbarhed? Hvordan bliver ting forstået?
+
+00:25:30
+Vi sendte en spørgskole undersøgelse ud, og så lavede vi fokusgruppe interviews rundt i alle de her regioner, altså fra Asoerne til Kypern til Helsinki og Ålandsøerne. Vi talte med planlæggere og embedsfolk, forskere og konsulenter, der er ansat i kommuner, regioner, regionale udviklingskontorer, universiteter og konsulenthuse. Vi gik så til det på den måde, vi sagde, jamen prøv, vil I ikke sende os jeres klimatilpasningsplaner og så de projekter, I byder ind med i
+
+00:26:00
+det her Region for Climate Projekt, så starter vi med at se på dem, hvordan bliver social sårbarhed indarbejdet i de her projekter, &gt;&gt; og så inviterede vi dem til interviews. For mig var få belyst, hvordan forstår vi hver især rundt i de her regioner social sårbarhed, og hvordan bliver det operationaliseret, kan lære os, hvordan bliver det arbejdet med, når man skal til at oversætte det til klimatilpasningsprojekter. Det finder ud af, at der er en enormt
+
+00:26:30
+stor variation, når man spørger nogle af regionerne siger, jamen det handler om dem, der er mindre resiliente eller mindre adaptive. Og det er jo en, kan man sige, en korrekt, hvis man skal tale om det, definition med, hvordan oversætter man til det, til et projekt? Hvordan begynder man for eksempel at finde ud af, hvem er det, hvordan laver man det kort, Anna allerke havde? Hvordan er det, man starter der? Så når begynder at oversætte sig til indikatorer, så siger de rundt om forskellige religioner, så peger de på forskellige ting. Nogle peger på, og nu er det lidt småt måske heroppe. Nogle peger på eksponering for eksempel. Those who are vulnerable is everyone who's
+
+00:27:00
+living at the coast. Og det er jo et andet kort man får end det kort der er vist fra København. For eksempel hvis du laver et kort af alle dem der bor ved kysten og siger det er dem der er de sårbare så bliver kortet af Nordsjælland måske et kort der viser en ting i hvert fald andre pegede på at det handler om uddannelse eller indkomst nogle pegede på nationalitet i forhold til at det betyder noget for hvis du er ny i et bestemt kulturelt kontekst så forstår du måske ikke nødvendig sproget eller du har måske ikke lige så stærkt et netværk der er noget med alder det er de ældre eller det er de helt unge. Der er noget
+
+00:27:30
+med mobilitet, hvem kan flytte sig? Og nogle pærer så også på mentalt og fysisk helbred. Men det er ret løst. Der er ikke sådan komplet konsensus imellem de her 12 regioner. Man kan sige, det giver nogle forskellige forståelser for, hvad er sårbarheder i det her område, og hvordan oversætter man det til et projekt? Hvad tager man højde for? Vi spur også ind til, hvis I kigger fremad, altså generelt så den her definition socialt sårbar. Det var sådan lidt vagt, ikke? Hvad? Uha, det er måske noget med de ældre. Men kigger frem og sig det, hvis vi se nogle tendenser fremadrettet, kunne det måske være, at vi får flere
+
+00:28:00
+ældre i den her region. Og så er der mange, der pegede på lige så flere og flere migranter, de ser mere og mere turisme også. Og det med at være ny i en kontekst kan gøre en måske ekstra udsat, hvis der er en klimahændelse. Spurg ind til og kigge med udgangspunkt i de her planer og de projekter, de har foreslået. Hvordan øh hvordan arbejder I egentlig med social sårbarhed og udsathed i klimatilpasningsplaner? Og man sige generelt så er det nyt og det afspejler sig måske en plan, så står der sådan med at øh social groups
+
+00:28:30
+sårbare grupper should be considered. Og det er jo dejligt at skrive ind i en plan, men hvad bliver det til i et klimatilpasningsprojekt? Der er nogen, der skal oversætte det på et tidspunkt. Nogen har peget på, at det her med at identificere, hvem det så er, eller hvad for nogle områder, det var ikke rigtig så udbredet. Nu en sagde øh in many sådan EU project definitions a regular citizen is like a white middle ag male person somebody who doesn't have any disabilities or anything other that's
+
+00:29:00
+like disturbing the normality hvis det er udgangspunktet for det menneske man skal har i tanke når man designer klimatilpasningsprojektet så kan der godt være nogens forhold man man får misset generelt det der med at identificere eller pege på hvem eller hvor eller hvad er det vi snakker om sådan meget uformel og erfaringsbaseret Så er der også en der sagde på en stor fransk region, I would not say that there's a large social threat for any specific group but maybe that could be confirmed or studied as well. Jeg peger på at der er måske
+
+00:29:30
+også en et behov og et ønske i forhold til at kigge mere ind i det her. Og så var der, og det modbeviser københavner eksemplet heldigvis sådan en disassociering mellem klimatilpasning og sociale indsatser. Fra en region siger de region has a specific problem about social welfare and social integration specifically for the vulnerable population and they have funding and specific projects for this but they are not related explicitly to the climate adaptation så den koordinering af at det ikke bare er noget ovre i
+
+00:30:00
+socialforvaltning at det også er en opgave der er central inde i klimatilpasning det er helt klart der vi ser sådan det største hvad skal man sige splittelse og mulighed for at sætte ind og få lavet nogle projekter på tværs, men som der måske også bliver peget på, det er jo selvfølgelig noget, der kræver nogle ressourcer i forhold til involveringen, når vi spurg den til involver i socialt sårbare grupper, som det bliver så måske typisk en prioritering af de kendte grupper. Vi ved, vi har en gruppe, der er velrepræsenteret, så vi sender altid, vi sender alle kommunale planer til
+
+00:30:30
+handicaprådet, for de har en organisation, og det er vi vant til at gøre. Eller også som nogen pegede på, at repræsentation, det må være noget, der sker igennem de valgte politikere. De må repræsentere den befolkning, de er blevet valgt af. Altså er det et emne der er i udvikler mange vi ved godt vi skal til at arbejde med det. Vi ved ikke helt hvordan og ved ikke helt hvordan vi gør det endnu. Men vi ved godt det er der. De peger på det er udfordrende at involvere. Det er det måske generelt i klimatilpasning. Projects that are not concrete makes it
+
+00:31:00
+harder to engage citizens as they tend to have more shortterm focus. Det kan man måske sige om mange klimatilpasningsprojekter, men måske ekstraordinært, hvis man kigger på en gruppe, man tænker, de har, der er andre udfordringer, der er endnu mere præsente her. Og så er der også noget, der måske er lidt negativ, sådan en lav forventning til effekt. Det her eksempel handler om ældre mennesker, men sige, they are not very likely to change because they are old people. So they are aware, but they don't know how to adapt to the climate change. Hvis man afskriver bestemte grupper eller bestemte områder, siger, de har nok
+
+00:31:30
+alligevel ikke overskud til at være en del af et klimatilpasningsprojekt eller en forandring, så kan man godt være, man har bremset sig selv fra start. Vi har samlet, nu har jeg lige sådan cherry picket lidt i dag. Vi har samlet det her arbejde i en artikel, som man kan læse. Og måske vi skal altså trække tre ting frem i, nu ved jeg godt, det ikke er sådan det mest praktikerfyldte rum det her måske, men noget af det vi peger på, at det er vigtigt at være opmærksom og eksplicitte, fordi der er mange forskellige definitioner af social sårbarhed eller udsathed, så at man hele
+
+00:32:00
+tiden gør opmærksom på, hvis man begynder at kortlægge noget, hvad er det så egentlig for nogle indikatorer, man bruger her? Hvad er det, vi forstår ved det? For det med at tro, at der er sådan en implicit forståelse af, hvad sårbarhed er, eller social sårbarhed er. Det er i hvert fald ikke noget, vi kan se det arbejde, vi har lavet. Så er det at følge København og arbejde på tværs af sektorer, være opmærksom på, at klimatilpasning ikke er sektorspecifikt, og så er det et spørgsmål om ressourcer. Det kræver ressourcer, både tid og overskud. Vi i det her den artikel vi har lavet,
+
+00:32:30
+giver vi også den måde vi går til det. vi siger, så prøver vi at stille nogle spørgsmål, man kan stille sig selv og hinanden i sådan en klimatilpasningsproces for at begynde at åbne op og være med til at finde ud af, okay, når vi arbejder i den her kommune eller den region, hvad er det så vi forstår ved det, så man ikke ender ud i nogle løse definitioner af, at vi skal jo også inddrage socialt sårbare, og så bliver det ikke til mere end det.
+
+00:33:00
+Ja, det tak fordi jeg må være her, og det er altså første gang jeg står med en mikrofon i hånden, så vær over med mig, hvis hvis lyden ikke bliver ok. Men jeg skal tale om social og fordelingsmæssige konsekvenser af oversvømmelse. Jeg vil sige, hvor er du henne med det? Det var jo der, ja, det var lige præcis den indflyvning til det, jeg skal nu have gennemgået. Så det var super. Så vi har faktisk konstrueret et et et sårbarhedsindeks for oversvømmelse, et
+
+00:33:30
+specifikt et. Så og vi selvfølgelig også klar over det også siger, at det det kan gøres på mange måder. Det skal nok lige komme tilbage til. Men ø det jeg vil snakke om i dag, det er jo og jeg måske allerede tage til til slide to her. Der er jo ikke så meget tid, at øh det er jo sådan den virkelig jeg kommer fra, at de direkte økonomiske skader, de fylder rigtig meget, når vi skal lave klimatilpasning, når vi skal lære vurdere koster og hvilke værdier vi skal beskytte. Øh, men vi må altid huske på, og det er det, som vi også prøvede, Mia og jeg, da
+
+00:34:00
+vi i Kystdirektoratet i 22 lavede udkastet til en social sårbarhedsmodel, at vi skal også huske, at mennesker bliver også påvirket. Og ikke nok med at mennesker bliver påvirket forskelligt, mennesker bliver påvirket forskelligt. Og den forskellighed den prøver vi prøvede vi på at kunne kortlægge for hele Danmark, så vi kunne indeksere hvor de mest sårbare er, og de mindst sårbare områder er for hele Danmark i forhold til at blive oversvømmet.
+
+00:34:30
+Så vi kigger altså på, hvem der bliver eksponeret, som vi siger, og hvor de her sårbare mennesker er. Øh, jeg vil lige gå et step videre her, fordi siden da, jeg skal nok introducere kort den del af analysen her, vi har faktisk bygget videre på det, og så har vi introduceret begrebet social retfærdighed eller klimaretfærdighed, så vi har kunnet evne at beskrive, det er første gang, jeg præsenterer den her øh resultat og den artikel, der ligger bagved det, hvordan vi kan kortlægge,
+
+00:35:00
+hvem der bliver mest udsat for oversvømmelser i Danmark i forhold til vores socialt sårbare de er. Okay, men lad os gå tilbage til den økonomiske logik. Og jeg er jo uddannet økonom, så det falder mig ikke helt naturligt at starte her. Øh, den økonomiske logik er jo at, som jeg sagde før, der er mange værdier, der skal beskyttes, når vi taler om klimatilpassning og kystbeskyttelse. Der er bygninger, der er beboelse, der er erhverv, der er butikker. Øh, der er
+
+00:35:30
+store økonomiske værdier på spil, og det er naturligt, at vi også beskytter dem. Øh, det her det er et billede bare lige taget fra fra Esbjerg. Øh, kortlægningen, det er selvfølgelig svært at se, men i oversømmedisdirektivet der har vi lavet nogle kort, hvor man kan se nogle økonomisk risiko, og ø det er så tager nogle billeder, så hælder vi lidt vand på, og ø vi får så de her skadesberegninger, altså økonomisk risiko. Vi har så sagt tænkt, at den økonomiske
+
+00:36:00
+logik er selvfølgelig vigtig, men den tæller ikke fortæller ikke hele historien. Den bagvedliggende historie er selvfølgelig også, at der bor mennesker i de her huse heroppe. Og de mennesker bliver også påvirket, altså ikke økonomisk, men socialt i forhold til at for eksempel at blive oversvømt, men også at miste adgang til nogle services, som vi kalder dem, nogle forsyninger og andet, som gør en utrykke. Og vi, der var en, der hed wellbeing, så man mister en form for wellbeing. Øh, vi prøvede at overføre det til et
+
+00:36:30
+sociale dimension. Og som Mette sagde, det er der er jo et et spørgsmål om, hvad man tager med i sådan en undersøgelse. Og vi, da vi lavede det her, der lavede vi en litteraturstudie specifikt på hvilke faktorer gør, at man som person vil være mere eller mindre påvirkelig. Det er altså acceptable, hvis man bliver oversvømmet eller man mister nogle services øh i forhold til de her parameter. Vi
+
+00:37:00
+tænkte alder ældre og yngre. Vi tænkte helbred, det kan være kronisk syge, det kan også være psykisk sygdom af en slags. Lagindkomstgrupper er en del af det. egentlig forsørger en anden. Og så som du også på information der kan være sproglig og kulturelle barrierer, der kan gøre det svært blandt andet at forstå beredskabsmeddelelsen også andet og agere i det her rum man skal agere i når man bliver ramt med oversvømmelse. Så har vi taget det social dimension mellem social resiliens på et område kan
+
+00:37:30
+vi beskrive hvor godt hjælp folk forestille sig kunne hjælpe hinanden og understøtte hinanden. Øh så vi har lavet det her indeks. Det er klart, det her det er jo en drøm. Vi skal også finde nogle data. Så dataen afspejler ikke nødvendigvis den her drøm her, men vi synes, vi har ramt nogenlunde rigtig, fordi vi har kortlagt hele Danmark. Så på 100 gange 100 meters celler, alle de celler i Danmark, hvor der bor mindst tre mennesker, har vi regnet det her indeks ud. Og det ser sådan ud. Det her så fra,
+
+00:38:00
+hvis nogen kan genkende det, så tror jeg, det er fra Risgov Earhus. Og vi er altså nogle fem hovedindikatorer. Alder, socioøkonomi, information, helbred, social kapital. Og det så vi har vi sat det sammen til et samlet indeks, hvor tre betyder mest sårbar og minus tre mindst sårbare. Og det er så relativ i forhold til nationalgennemsnitsbetragtninger. Så det er relative størrelser. Men vi kan jo se her i området, der er stor
+
+00:38:30
+variation. De rødeste, det er der, hvor der er mest sårbart. og de hvide mindst. Det er også for at illustrere at når vi bruger vores sociale og sårbaredsindeks, så bruger vi ikke kun en indikator, som man mange gange gør, nemlig disponibel indkomst. Så vi kan faktisk godt ramme nogle områder, som man ikke nødvendigvis ville tro var de mest sårbare, hvis der for eksempel bor mange ældre, og det kan være højindkomst eller lav indkomst eller områder, hvor der er mange børn for eksempel kunne også være. Så så det giver et lidt mere nuanceret billede. Og jeg vil lige sige, når vi nu
+
+00:39:00
+taler om tørke eller ikke taler om varme og hedebølger, det her indeks specifikt for oversvømmelser, så man kan ikke bare lige tage det her, fordi vi har sagt nogle af indikatorerne var jo, at vi forventer, at når det er oversvømmet, så er det et koldt og fugtigt klima eller indeklima forel, og det er jo ikke det er lige præcis det modsatte. Så man kan altså ikke bare lige tage det her indeks og tage det over et andet sted til en anden anden hændelse. Så bare lige hurtigt ø det andet vi lavede det var vi
+
+00:39:30
+synes det var ikke nok at folk bliver oversvømt. Dem kan vi nemt tælle. Tæller vi bare hvem der oversvømt. Men vi mener også der er helt andre måder man kan blive påvirket af hvis der kommer en oversvømmelse fordi en oversvømmelse kan ramme noget som man så ikke har adgang til mere. For eksempel forsyning. Det kan være beredskab, det kan være sundhedssektoren. Det vil sige, selvom man ligger måske langt fra det sted, hvor oversvømmelsen rent faktisk er, kan man stadigvæk have en konsekvens af at blive oversvømmet. Det vi kalder de
+
+00:40:00
+indirekte eksponering. Og det giver en meget større billede af, hvem det egentlig er, der er udsatte. Så det er ikke kun dem, der lige præcis står bor der, hvor vandet er, men det kan være andre steder. Og jeg prøvede at lave det igen. Jeg har jo valgt Esbjerg. Det er så fordi måske fordi jeg bor i Esbjerg. Øh, her har vi det blå. Det er hvor vandet er på en 100års hændelse. Øh, det orange og røde, det er hvem der bliver påvirket.
+
+00:40:30
+Og fordi der er en eller anden service dernede, hvor der er vand, det kan være noget forsylning, det kan være andet, det kan også være et sygehus, det kan være et lægehus, det kan være skoler. Så er der alle dem, der har den service eller relateret til den service, de bliver så ramt. Jeg kan bare lige sige, inden jeg går videre til det næste, ø, når vi laver den her betragtning, så vil i stor hændelse, det er så en 10.000årers tusinds hæelse. Der er vel op imod en tredjedel af den danske befolkning rent faktisk blive berørt af sådan de her
+
+00:41:00
+oversvømmelser, selvom det kun også være fra havet af. Okay. Det var så ligesom baggrunden for det. Det var metodeartiklen. Nu har vi sidder du mig og jeg ø arbejdet videre sammen med kollegaerne fra Kystdirektoratet, dem der lavede datamodelleringen og modelleringen, har vi lavet et tillægs øh artikel. Hvor vi tænker på, nu har vi jo kortlagt de sociale sårbarhed i hele Danmark. Vi har kortlagt hvem der er eksponeret. Kan
+
+00:41:30
+vi prøve at slå dem sammen og sige, hvordan ligger eksponering i forhold til hvor sårbar man er? Kan vi identificere at dem der er mest sårbare også er dem der på nuværende er mest øh eksponerede? Og for dem har vi opfandt et mål hedder exposure disparity measure, som jeg nok lige skal komme tilbage til. Så så det vi spørger nu, det er hvem er det egentlig der bærer eksponeringer? Hvem er det der bliver mest ramt? Altså ikke konsekvensmæssigt, men ramt af en
+
+00:42:00
+oversvømmelse. Kan vi give det en indikation af hvordan vores sid tilpasning klimapolitik har været? Okay, så nu kommer der noget som jeg har diskuteret lidt om jeg skal gå med, men jeg prøver lige at beskrive det her. Øh, det vi gør, vi har jo hele Danmark har vi optegnet kortlagt, så vi har taget sorteret danskere fra mest sårbare til mindst sårbar. Så har vi opdelt det en størrelse intervaller, så vi har omkring 26.000 personer hvert interval.
+
+00:42:30
+Så har vi fundet intervalgrænserne. Så er vi for eksempel gået hen til Københavns kommune, og så har vi simpelthen summeret op, hvor mange af dem, der ligger i den mest sårbare, hvad er deres gennemsnitlige eller hvad er deres samlede eksponering. Det har vi så gjort for alle 20 grupper. Så har vi simpelthen taget og lagt dem her sammen. Det er de mest, det er de mindst sårbare, og det er de mest sårbare. Så har vi sammenlignet og sagt, ja, 2,13. Og det tal siger, at
+
+00:43:00
+i København er de 20% mest sårbare to gange 13 gange mere eksponerede end de mindst sårbare. Og det synes vi jo er godt, fordi nu har vi et mål for det. Vi synes vi ikke, det er et godt mål. Vi har vi har prøvet at lave et mål for så vi kan sige der burde være alt kunne være vi føler det er. Men nu har vi sagt, jamen det er rent faktisk. Selvfølgelig skal vi tage hensyn til den
+
+00:43:30
+bagliggende model. For hele Danmark er det lidt græere, fordi der er tallet 2,81. Og det vil sige de 10% mest sårarbejde i Danmark er i gennemsnittet 2,81 gange mere eksponeret de 10% mindst sårarbejde i Danmark. Øh, og jeg har kun to minutter tilbage, så jeg vil vise min lille figur her. Det er jo ikke sådan. For det første skal vi ikke kun kigge på økonomi. Det har vi måske hide til. Vi skal nok
+
+00:44:00
+heller ikke kun kigge på den sociale faktor. Måske skal vi sige plus og sige, vi skal måske prøve at se på det som en helhed, både de økonomiske og de sociale faktor, og lave en mere afbalanceret øh klimatilpasningsplan. Jeg vil lige sige en af de eneste svagheder der er ved vores model udover det modeltekniske, det er vi kan ikke rigtig forklare hvorfor vi har den her ulighed hvorfor de mest sbar. Vi kan kun gidne om det. Modellen siger ikke
+
+00:44:30
+hvorfor. Vi kan gidne om det. Det kan være at Mia kommer en lille smule ind på det. Det gør hun åbenbart ikke. Kan det måske når hun skal præsentere? Men vi kan selvfølgelig godt gisende om at sige, det er i hvert fald en konsekvens og en konstatering, at på nuværende tidspunkt på den klimatilpasningsplaner vi har haft, så kan vi identificere af en social slagsid. Tak for så
+
+00:45:00
+spørgsmål. Øh, Natalie. &gt;&gt; Okay. Dobbelt mikrofonen. Tak for oplægget. Super spændende, og jeg glæder mig til at høre Mes oplæg. Men var I inde på, hvordan man kan så lave en klimahlingplan, som tager økonomisk og social dimensioner af vroligt på lige pl? Øhm, det kan jeg godt tænke mig at
+
+00:45:30
+høre om. &gt;&gt; Ja, vi har jo altså nu er det her jo en del af det, vi kalder oversømmelsesdirektivet. Der er det her faktisk med 50% af det er som med den sociale dimension med. Og det betyder, at kommunerne fremadrettet, når de skal være risikostyringsplaner, faktisk dokumentere, hvordan de håndterer den sociale risiko. Øh, og det er vi i gang med nu, så vi er egentlig lidt spændt på, hvordan kommunerne vil løse de vil komme med nogle idkatalog til, hvordan man kunne gøre det. Altså en af de ting jeg siger eller vi synes det er jo at
+
+00:46:00
+løsningsrummet bliver faktisk meget større fordi en måde at håndtere sociale problemer på eller social sbet på er ikke nødvendigvis at bygge en højvandsmur et eller andet sted men det kan være langt mere lokale løsninger. helt nede i i detaljen omkring, hvis der er et område, hvor der er mange ikke dansktalende, er løsninger lige til få nogle nogle ambassadører, der kan oversætte dansk kultur til en anden kultur. Det er nogle af de ting, vi har vi har foreslået. Jeg ved ikke, om det var 100% det, du spurgte til, men altså
+
+00:46:30
+det er lagt ud nu. Vi kan sige, vi er ude i en dialog med kommunerne omkring hvordan, fordi vi kan komme med det overordnet, men det er klart, der skal også det vi så os for Københavns kommune, der er meget lokalt viden, som vi ikke har her, og som også har brug for ind i det her. &gt;&gt; Jamen, jeg tænker også i forhold til investering og hvor mange penge det er investeret i social i teknologiske løsninger, men det kan vi måske tage op senere. &gt;&gt; Ja. Øhm, et spørgsmål omkring øh vægtningen
+
+00:47:00
+af de her forskellige parametre, I har i jeres indeks. Altså alder og alt det her, de bliver vægtet ligeligt, ikke også? Er lidt forstået korrekt. Det er korrekt. Har I tænkt over, man kunne gøre det på en anden måde, både for oversvøm og måske også for de andre typer, om det måske gav mening også at bruge den samme metodik, men måske har man bare vægtet lidt forskelligt alt efter om det var hed eller &gt;&gt; vi vi prøvede rent faktisk og vi fik faktiskion til at lave en undersøgelse for os, hvordan forskellige grupper selv mener, at at de forskellige infrastrukturdele er vigtige for dem. Ø,
+
+00:47:30
+vi nåede desværre ikke i hus, men så vi er godt klar over, at det er en underlig generalisering. Det er klart nogen, hvis man for eksempel et område, hvor hvor der er mange børnefamilier, de vil formodentlig vægte skole, adgang til skolen vægt større. Så ja, vi har tænkt på, vi har bare ikke data til det, men men jeg vil egentlig synes, man bør tænke på, men jeg vi lige tænkte nu på det i forhold til grupper, så forskellige grupper faktisk vurderer det nok prioritere det forskelligt. Så ja, altså vi har bare taget råt en halv en en kvart en f 25% 20% ikke også og og
+
+00:48:00
+det jeg er fuldstændig enig det burde man faktisk undersøge. Måske må jeg lige et spørgsmål til i forhold til følsomheden af de her altså valg af parameter alder og så videre laindkomst i forhold til det her nu kan jeg ikke helt huske hvad dit indeks hed til sidst det der e det dobbelt ja har i testet hvad følelser man er på hvis man nu pillede nogle af de parameter ud af alder eller noget andet i forhold til om man stadig fik at dem der var sårbare var mere udsatte &gt;&gt; det er vi ikke glad &gt;&gt; vi jeg er ikke det &gt;&gt; jeg kigger over på Mia fordi hun er
+
+00:48:30
+medforfatter øh nej det tror jeg ikke vi har. Men det ville være oplagt at gøre. Øh, det ville være oplagt. Og og vi vi tænkte faktisk også på, man kunne tage enkelt man kunne tage enkelt indikator ud og så prøve at se på dem. Det tror jeg faktisk, vi prøvede på. Det har vi gjort, siger Mille. Tak. Så ja, vi har, men vi har ikke Det er ikke Det er ikke i artiklen. Det er i artiklen, siger han. Prø læse sin egen artikel. Det gør jeg så. Ja.
+
+00:49:00
+Ja, vi skulle godt jeg har min medforfatter med. &gt;&gt; Ja, jeg hedder Olefrid. Jeg er på Københavns Universitet, og jeg skal tale om ø transformative klimatilpasning og hvad er det for en størrelse? Er det noget med nogle transformer danser rundt og sådan noget? Det er faktisk ikke helt så teknofikseret øh som det her indikerer. Det er faktisk meget mere socialt og det er meget mere i handler om om systemiske forandringer og samfundsudviklinger. Vi har udviklet i regi af det her projekt Regions for Climate to rapporter som handler om dels
+
+00:49:30
+just transition Just transition roadmap og just transition framework. Det her er et roadmap specifikt for hvordan man kan tilpasse eller bruge nogle af de her modeller for socialretfærdig omstilling klimatilpasning specifikt i Købt området. Og noget af det vi rammesætter, det er blandt andet at man kan arbejde på forskellige niveauer. Man kan gøre det med relativ øh små tekniske løsninger eller tilp tiltag og
+
+00:50:00
+teknologiudvikling. Og man kan arbejde lidt mere med påvirkninger i sektoren eller man kan arbejde med dybere øh systemiske transformationer forandringer, som arbejder med paradigmeskifter og og dyberegående ændringer af vores værdic. Og hvad er det så? Vi har sådan en baggrundsrapport, som hedder det Justition framework, hvor vi går ind i noget af litteraturen omkring det her område. Vi prøver ligesom at gå igennem, hvad siger litteraturen egentlig? Er der forskel på transition og transformation? Mange vil måske meneer de ord er synonyme med hinanden, men det er de
+
+00:50:30
+faktisk ikke, når man går ind i litteraturen. For eksempel er transition ø karakteriseret ved at være relativt kortsigtet, måske en tidsholdsø på 10 20 år og handler om teknologiske forandringer og innovationer. Hvorimod transformation ofte har et længere tidsperspektiv på mere end 20 år, 50 år, 100 år eller måske fire år, 100. Hvad er det egentlig for nogle historik vi bærer med os historisk set, og hvor er det, vi er på vej ind på den lange bane? Transition er ofte fokuseret på sådan nogle inkrementielle
+
+00:51:00
+reformistiske tiltag over tid, som tilretter det eksisterende system gennem nogle incisementstrukturer. Og transformation handler egentlig om nogle mere dybere fundamentale forringer forandringer øh og nogle transformative handlinger. Og opsummerende er noget af det der kan fremme sådan nogle systemiske forandringer. Det er masser af eksperimenter. løbende udvikling udfordringer af vores mindset, lokalforankret kapacitetsopbygning og
+
+00:51:30
+nogle fælles visioner omkring en ønskværdig fremtid. Hvor er det overhovedet vi ønsker vores samfund skal bevæge sig henad? I hvilken retning. Modsat så bremses de her dybe systemiske forandringer af en stærk sigfhængighed. Altså bærer vi en lang arv med os, som kan være svær at ændre. Og øh det bremses også af en centralisering af magt og viden. Vi har udviklet baseret igen på eksisterende litteratur øh sådan en lille model her som sådan et vækstangsprincip. Hvis man virkelig skal lave fundamentale forandringer i vores system, så handler det om, hvor man kan
+
+00:52:00
+trykke på sådan en vækstang. Og jo længere man kommer ud af af sådan en vægtstang, jo mere ø påvirkning har det af systemet som helhed. Så hvis man virkelig skal lave systemiske forandringer, så handler det egentlig om det, der er længst ude under de fundamentale forandringer. Det handler om verdensbillede, natursyn og mindset. Og for at forstå det, så går jeg tilbage til noget klassisk inden for miljøetikken. Det er Nash tilbage fra slutningen af 80'erne, som laver sådan en model dels for rettigheders evolution og også etikkens evolution. Og ø her er
+
+00:52:30
+det sådan en illustration af, hvordan har man øh juridisk givet faktuelle rettigheder til forskellige grupper over tid. Så her er der sådan nærmest en lille næsten 1000-årig eller 800-årig evolution fra at en konge begynder at dele nogle rettigheder med nogle berooner til at øh at ø at der er frigivelse af slaveriet. Det er en amerikansk kilde frigivet af slaveriet. Kvinder for stemmerettigheder. Der er nogle borgerrettigheder. øh også afroamerikanske borgere på borgere og videre. Så er der her i 70'erne en en
+
+00:53:00
+nogle rettigheder til naturen. Så I kan forestille jer her over tid eller tanken er her at der sker sådan en evolution over tid får vi en større er erkendelse af at nogen har en rettighed og de der nogen bliver mere omfattende mere inkluderende over tid som en evolutionær proces. Han har udarbejder også den her model for etikken over tid. Hvem er det egentlig vi skal stå til regnskab for? Hvem er det vi har et loyalitetsforhold for? Hvem er det vi mener? ligesom vores etiske rammer gælder. Og man kan sige historisk set så går vores etik til
+
+00:53:30
+vores egen næsetip eller vores nærmeste familie. Og det er ligesom dem vi har første prioritet for til at det går til at være her en stamme. Hvad er det for en stamme man er en del af? Altså det kunne være en fodboldklub øh hvor man mener man har et større loyalitetsforhold overfor den her gruppe frem for nogle andre ø et større fællesskab. Men i praksis kunne det også være den kommune man bor i eller den by man bor i som man har et vist tilhørsforhold til. Så kan det være regionen, om man er fra den ene del, landsdel eller det andet, om man er fra Danmark. Og det vil sige ens loyalitet
+
+00:54:00
+er med et eller andet bestemt fodboldhold, når de spiller VM i USA og Canada og og Mexico. Men det er også en mere altså i praksis, hvor er det, vi har et lojalitetsforhold i forhold til at betale skat og have et retssystem og nyde efter evne og øh få efter behov eller hvordan det er. lyde efter behov øh til at vi går ud over nationens grænser til at det handler om menneskeheden. Så vi har menneskerettigheder på tværs af landegrænser for kloden. Det at være menneske medføre nogle iboende etiske
+
+00:54:30
+fællesnævner som vi skal værne om. Og så kom vi op i dyreriget som er ud over menneskeheden med andre arter vi deler af den her planet. Vi har lige haft sådan et grisevalg og det er jo sådan set en diskussion omkring hvad er det hvad er vores forpligtigelse overfor arter som er andre end mennesker. Og det er ligegyldigt, om det er grisetransporter, eller om der skal være ulve i Danmark, eller om vi skal have fodret nogle vildheste på i Molslabatoriet. Så er der sådan set grundlæggende noget med, hvad er vores etiske rammer for arter, der er ikke mennesker. Det er så i dyreriget. Man
+
+00:55:00
+kan gå videre til planteriget, og man kan begynde at sige, hvad er det for alle typer af liv? altså også mikroorganismer, også ebola virusser og også øh COVID-19 og kraftsvulster og diverse svampespor, men livet i alle sine former til at man begynder at snakke om abiotiske forhold. Gør det ondt på altså i mineralriget? Gør det ondt på kloden, når vi bryder granit øh til brug for kantstien? Gør det ondt på kloden, når vi laver har guldminer og så videre? Gør det ondt i atmosfæren, at vi
+
+00:55:30
+får regler med en masse CO2? Altså er det eg sådan etisk dilemma? Og noget af det her der bliver bøvlet, det er eller det er sådan set som en forklaringsramme, når vi har CO2 udvidning og så er det noget der har globale konsekvenser på planeter men ø men nogle af rationaliseringerne og reguleringerne, det sker på nationalt niveau. Så når vi åbner det første oliefelt i Danmark i 70'erne her, det der senere bliver til øh mærke olie og gas, så har det nogle nationale interesser med nogle globale konsekvenser. har sådan set også nogle
+
+00:56:00
+familiære interesser, hvor det faktisk er på individniveau eller familieniveau, at der er nogle gevinster og nogle globale konsekvenser. Hvad så, når vi står og skal på ferie i weekenden her grundlovsdag og vi skal ned til Paris og sådan noget? Det har vi da ret til, fordi det er jo bare min handling. Ja, altså hvor meget udleder vi faktisk i Danmark? I 2024 udledte vi 38 millioner ton CO2. Det er de såkaldte territoriale udledninger, som er inden for Danmarks landegrænser. Hvis vi kommer i mål med
+
+00:56:30
+vores Parisaftale, så er over den årlige udledning 23 millioner tons CO2 per år. Men der er faktisk flere udledninger. Der er også de internationale forbrugsudledninger. Det vil sige alle de varer og ydelser, der er produceret i udlandet, men som er købt og brugt i Danmark, skal oveni. Og så ender vi omkring øh to, en halv til tre gange de tatoale udligere. Der er faktisk endnu en joker. Det er det danske finansierede investeringer. Det vil sige alle vores ejerskaber og internationale virksomheder gennem aktieejerskaber og
+
+00:57:00
+igennem vores pensionsopskeparinger. Det er 237 millioner tons CO2. Og I kan se at det er jo cirka 230 millioner tons. Det er 10 gange så meget Parisaftalen. Det vil sige selvom vi kommer i mån på Parisaftalen, så har den godt redegjort for en tiende del af den saml globale udledning. Hvad koster det egentlig? Skal vi på med klaphat? Altså hver danske klaphat har har en CO2 udledning på 38 CO2 om året. Øh, hvor meget svarer det til? Det svarer til at vi tager til Paris 350 gange om eller
+
+00:57:30
+150 gange om året. Altså tre gange om ugen hver eneste uge hele året. Alle 6 millioner mennesker i per så meget udled. Hvad koster det? Hvis man op ny støtte tal ind fra sådan miljøøkonomisk perspektiv omkring, hvad er de sociale og globale omkostninger ved vores CO2-udledninger, så er der omkring 2000 milliarder danske kroner. Det svarer til konservativt set 60 til 80% af Danmarks PNP. Og hvis man tager det her for pålyende, så viser det jo så faktisk, at hele Danmarks velstand er baseret på
+
+00:58:00
+udlændinger, som nogle andre betaler prisen for. Man kan gå så langt som at sige, at det er en ny form for staveliggørelse af andre mennesker. En ny form for imperialisme eller kolonialisme. Har vi øje for det? Mm, det ved jeg ikke. Men man kan bruge det måske som et forklaring, en forklaringsmodel. Så vi har nogle interesser omkring, hvad vi har mening på national niveau, og så har vi nogle planetære konsekvenser af vores handlinger. Jeg viste Brøndby som eksempel på en på en på en på en på
+
+00:58:30
+sådan en stamme, men det er grundlægg, det kunne også være vandsektoren, som er jo et subsystem af nationen. Øh, vandsektoren, vi har omkring 100.000 km kloakker i Danmark. Øhm, det koster omkring, der er planer om at investere 800 milliarder kroner over de næste 45 45 år i en renovering og opgradering af vores klarsystem. Øh, det vil koste i CO2 300 23 millioner t CO2. Hov, har vi ikke hørt det tal før? Det var lige præcis det Danmarks samlede CO2-udledning på et år, hvis vi kommer i
+
+00:59:00
+mål i en Parisaftalen. Så der skal man ligesom redegøre for at den her stamme eller den her interesse serinteresse kan berettige den konsekvens for nationen og for planeten. Måske er det endnu mere tydeligt, når man snakkering i kystområder, der er det ofte noget med at beskytte sig selv eller sin familie, sin ejendom, sin privat økonomi, også selvom det måtte have været nogle konsekvenser, som ligger på et højere niveau. Og her ligger der sådan set også nogle biodiversitetskonsekvenser. Hele det her med de sociale omkostninger, som jeg opgjort til 2000
+
+00:59:30
+milliarder om året, det er jo de sociale omkostninger, de menneskelige omkostninger, alle de her miljøpåvirkninger, biodiversitets påvirkninger, de skal lægges oveni. Hvorfor er det, vi egentlig et eller andet sted ikke ryster hovedet over de her ting? Nogen mener at det går langt tilbage. Øh, potentialet i dag sagde Gud, lad os skabe mennesker i vor billede, så de ligner også, de skal herske over havets fisk, himmelens fugle, kvæet og alle de vilde dyr og alle krypdyr der kryber på jorden. Der er mange der mener, det skal man ikke tage bogstaveligt. Øh, og det skal man sikkert heller ikke, men det er
+
+01:00:00
+i hvert fald noget, der går 2500 år tilbage, næsten 3000 år tilbage af vestlig kulturhistorie, som påvirker vores mindset og vores handlemønstre. Og det er jo så de her dybe systemiske transformationer, hvor man virkelig, hvis man skal begynde at ændre på de systemer, skal man også begynde at kigge på det her med verdensbillede og natursyn og mindset. Og som sagt, det bremses af en stærk stehængighed, men det bremmes af ø nogle fælles visioner for den stærk langsigtede fremtid. Transformative klimatilpasfastning, det
+
+01:00:30
+kræver tid. Det kalder holistisk tænkning, og det udfordrer vores mindset og natsyn. Vi mennesker, vi tænker kortsigtet. Vi foretrækker nemme løsninger, så er vi glade for det, vi kender. Vores blik fang til det, der bevæger sig. Altså sekundviseren, vi er i forhold til reklamer, i forhold til valgkampagner øh det hurtige eller det der lige fænger os i i nuudet. Vi skal også begynde at kigge på på minutviseren, altså vores pensionsofsparing, og hvordan vores kloden. Og vi skal kigge på timeren,
+
+01:01:00
+altså timeriserne, sådan også viser de meget langsigtige konsekvenser af vores handlinger. Tak Ole. Det var meget dejligt oplæg. Spændende. Hvad tænker du om ordet green
+
+01:01:30
+transition? Øh ja, det har jeg ikke nogen stærkere hold til. Øh, noget af introduktionen er i hvert fald, at der vi har haft lidt der, altså der er grøn omstilling, og så kan man, hvis det kan være farvende nok, øh, men hvis der i den noget af det arbejde, vi har arbejdet her med de her transition frame eller transition frameworks, det er jo at der kan at det er nogle forskellige akser med nogle
+
+01:02:00
+forskellige gradienter. Det kan være relativt øh teknologifikseret, teknentrisk eller det kan være økocentrisk. Det kan være med høj eller lille ø forståelse for de sociale øh altså social equity de sociale omkostninger med vores ø og der kan man lægge det går tilbage fra starten af 90'erne. Ø en status bæredygtighed en reformistisk forståelse af bæredygtighed til transformativ bæredygtighed. Og hvis man er i den transformative sfære, ja, så er det høj økologiske forståelse på
+
+01:02:30
+den lange bane, og det er også høj social forståelse for på tværs af af af geografier, på tværs af generationer, og på tværs af andre. &gt;&gt; Jeg tænker på øhm, hvor skal en forandring starte? Du snakker både om det systemiske, du snakker om det lokale. Øh, er det, skal man starte lokalt i kommunerne ved de enkelte borgere? Skal vi op på EU-niveau? Skal det være en ny
+
+01:03:00
+regering? Hvem kan ligesom tage første skridt mod der så sker en forandring? Fordi jeg tænker, at billedet umiddelbart er rimelig sort. Ja. Ja. &gt;&gt; Ja. Noget af af det her med at det tales eller noget af det det fremmes af en masse eksperimenter, en masse eksempler og noget med at sætte billeder på og og ogog sandsynligt gøre den en forestillingsverden omkring mulige fremtider. Nu har jeg bare vist en præsentation, som stort set er baseret på ord, men lige så snart det bliver visuelt, lige så snart det begynder at
+
+01:03:30
+være noget som talesætter mulige fremtider, så begynder det at være mere operationelt. Det er jo sådan, at vi lige siden Martin Lutters tid har haft en drøm om at gøre alle mennesker til øge deres evner til at læse. Men det gør også, at vi har sådan en meget analytisk tilgang. Mange af de kulturer, som har en oralkultur, altså hvor det er sproget, fortællingerne som væverende, de har faktisk nogle det der neurovidenskab påviser nogle forbindelser, som handler om en større evne til historiefortælling, til og fagne kompleksitet og økologisk
+
+01:04:00
+tænkning. Og der kan man, er der nogen der kritiserer de sidste 500 års bedste lands udvikling for at være reduktionistisk som konsekvens af det i øvrigt meget fine formål om at lære anvendelse og kunne læse og tilgang sig viden. &gt;&gt; Tak.

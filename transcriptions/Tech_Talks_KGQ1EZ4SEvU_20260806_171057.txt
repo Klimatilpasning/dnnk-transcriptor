@@ -1,0 +1,218 @@
+=== DNNK Webinar Transskription ===
+Kategori: Tech_Talks
+Video ID: KGQ1EZ4SEvU
+URL: https://youtube.com/watch?v=KGQ1EZ4SEvU
+Kilde: YouTube auto-undertekster (dansk)
+Transskriberet: 2026-08-06T17:10:57.285860
+
+==================================================
+
+00:00:00
+Kære alle, på vegne af DNK vil jeg byde velkommen til dagens techk. I i teknikken sidder Morten Halling og jeg Christoffer Sindby som dagens vært for Scanpipe Klima. For god ordens skyld
+
+00:00:30
+skal det siges, at dagens Techtalk bliver optaget og lagt på DNSKs hjemmeside i løbet af en uge. I forhold til det praktiske kender I det måske mange af jer. Øh, men jeg vil stadig sige at ø I kan stille spørgsmål løbende under techken i chatten, og så vil jeg tage spørgsmålene op til sidst øh og stille dem. Dagens tektalk den er med Laurit Sund fra GISM som vil præsentere hvordan GISMAC kombineret med AI baseret kortlægning med geodata. I denne techk
+
+00:01:00
+vil han vise hvordan datadrevet kortlægning kan styrke samarbejdet med klimatilpasning. Og med det så vil jeg lægge ordet over til dig, Lauritz og sige tusind tak fordi du vil stille op og fortælle omkring jeres teknologi. &gt;&gt; Tak for det Christoffer, og tak for invitationen. Jeg har glædet mig meget til at at komme og fortælle. Øhm og jeg vil egentlig bare hoppe hoppe lige ud i det. Øhm, så så dagens oplæg, der vil
+
+00:01:30
+jeg som Christoffer også sagde gerne fokusere på hvordan digitale værktøjer, altså blandt andet GISMAP, kan bruges i arbejdet med klimatilpasning, naturbaseret løsninger, bynatur og biodiversitet. en relativt en lang punchline, men jeg håber alligevel at at igennem oplægget at man måske vil få en ide om hvorfor og hvordan man kan kan arbejde med de her ting i i et hjørne af af klimatilpasningen, som som jeg i hvert fald ser rykker rykker mere og mere ind på en på en vigtig dagsorden. Øh, først
+
+00:02:00
+så vil jeg gerne lige fortælle hvem jeg er. Jeg er altså co-founder og CEO i GISMAP. Øh, jeg har en baggrund inden for geografi og geoinformatik fra KU. Øh, og i 2023 der startede jeg GISMAP øh egentlig med afsæt i grøn drift. Ø, jeg var ude og fik en henvendelse fra nogen jeg kender omkring at at skulle kort tælle træer og opmåle græsplaner. Øh, og gik der på på nogle forskellige matrikler og gjorde det. Øh, og gik også
+
+00:02:30
+og funderede samtidig over kva min uddannelse, hvordan jeg måske ville kunne øh bruge nogle af de faglige indsigter omkring geodata til at faktisk kunne gøre nogle af de her ting automatisk. Og i takt med at sådan er det jo med projekter, jamen så når de udvikler sig, så øh finder man ud af, der er flere og flere ting, der er spændende. Øhm og natur og biodiversitet er en af de ting, der optager mig ret meget privat. Øh, og hvis man så også faktisk kunne gøre noget godt i, og jeg kunne se, at den her udvikling kommer fra fra forskellige ledere og kanter, jamen hvis man så kunne lægge det med ind i sit professionelle virke, jamen det ville da være en drøm. Så derfor så
+
+00:03:00
+ø undervejs i Gismaps rejse, jamen der har vi så peget det mere og mere hen mod noget kunstig intelligens. Øh, jeg har fået min C-founder med, som er rigtig dygtig til det. Og ø og samtidig så arbejder vi så nu også i sådan spændingsfeltet mellem at at kunne kortlægge natur ogog biodiversitet og så arbejde med hvordan man så praktisk anvender det i forskellige problematikker rundt omkring i samfundet. Øhm [rømmer sig] så har jeg taget et lille slide med omkring øh naturbaserede
+
+00:03:30
+løsninger og klimatilpasnings grønne svar som som jeg skriver her. Øh og det er ikke fordi jeg på nogen måde er stor ekspert indenfor klimatilpasning. Øh, men alligevel så har jeg hæftet mig ved nogle ting. Faktisk forestiller mig, at nogle af dem der sidder og lytter med her er større eksperter end jeg er. Men det jeg synes der er spændende i forhold i det her spændingsfelt mellem bynatur og biodiversitet, naturaserede løsninger og klimatilpasning, det er jo at at jeg kan se, når jeg læser mig ned i i stoffet, jamen så er der rigtig mange penge, der skal investeres henover de næste år øh i forskellige løsninger til
+
+00:04:00
+at håndtere regnvand, håndtere klimatilpasningen generelt set. Øh, og jeg synes jo set fra mit felt og mit bord, at det ville være oplagt, når man nu har et så godt så stærkt koncept som naturbaserede løsninger, som oven i købet er billigere. Øhm, og faktisk tænke det med ind, når vi planlægger vores byer, når vi planlægger vores anlæg, når vi planlægger [fnyser] øh hele infrastrukturen. Øhm og og her synes jeg, at det er super interessant at se, hvordan at at der er ting, der peger i den retning, men hvor der selvfølgelig også er nogle
+
+00:04:30
+problematikker set i forhold til øh en af vores kæheste. Altså hvordan måler man på det? Hvordan måler man effekten af når man faktisk laver nogle tiltag? Øhm, og det er det, jeg gerne vil vil tale en smule om. Øhm. Fordi naturen ved vi virker, har jeg skrevet her. Og det det jeg mener med det, det er selvfølgelig at øh vi ved at naturen kan være med til at afhjælpe i klimatilpasningsregi. Altså at vi faktisk kan øh tilbageholde vand. vi kan arbejde med og få begrønne områder og
+
+00:05:00
+alle de andre ting. Men men det der kan være et problem i den her øh sammenhæng, det er ø det at kunne måle på biodiversitet og natur ø set i forhold til klimatilpasningen. Altså når vi laver et tiltag, som vi kalder naturbaseret, og vi så gerne vil have, at det også skal levere en naturgevinst, som jo er essensen af det, altså at der er en multifunktionelt ø løsning. Jamen ø hvordan hvordan får vi så sat nogle tal på, at de her ting faktisk virker? Og det her vi synes, det bliver interessant, at man kan bruge kunstig
+
+00:05:30
+intelligens til faktisk at komme i hvert fald et stykke af vejen til netop at kunne sige og arbejde med nogle af de her ting omkring, hvad er det vores strategi er, hvad er det, hvad er det vores baseline er? Ø, og i dag så er baselines ret krævende at lave, og de er ret tidskrævende. Øhm, og udover det, så er det også svært at sammenligne resultater på tværs. Øh, det har været svært, fordi at man måske ikke har det samme sprog for det. Og når man ikke har det samme sprog, jamen så har man også svært ved at sige, hvad Ja. æbler og bananer, ikke? Hvad hvad er svært at at score godt, og hvad scorer
+
+00:06:00
+hvad scorer dårligt. Øhm, og derudover så er de her anlæg jo og de her tiltag som regel relativt dyre, hvorfor at det selvfølgelig er rart at vide på forhånd, hvad hvad er Bank for the Bug, altså hvad får jeg egentlig ud af at lave de her ting også på andet end bare tilbageholdelse af vand øhm og styring af vand. Øhm, så derfor så ø så vil jeg vå at påstå, at det er et af problemerne i forhold til, at de naturaserede løsninger faktisk kan vinde mere og mere frem. Øhm, og det er en af de ting, som
+
+00:06:30
+vi så forsøger at har bygget ind i vores produkt. Det er det her med at vi kan måle på det grønne. Så ideen er at øh ja vi gør det grønne målbart og vi bruger kunstig intelligens til at kortlægge udendager for dermed at man kan etablere en ensart baseline. Øhm så I kan se ovre til højre at der har vi Gismap hvor man kan søge på en hvilken som helst dansk adresse og kan digitalisere den. Og på den måde så kan man få en baseline der automatisk måler hvad det er hvad der er på arealet i dag. Øhm, og ideen er så,
+
+00:07:00
+at man samtidig kan modellere og sammenligne scenarier omkring test og hvad nu hvis og før vi bruger penge og sådan nogle forskellige ting, og dermed så også kunne dokumentere en effekt løbende. [fnyser] Øhm, og det vi kan se i forhold til det, når man skal etablere ting, jamen det er jo selvfølgelig, at man skal have en eller anden form for baseline, lave nogle scenarier, og så efterfølgende skal du så operationalisere, monere og rapportere for, at det faktisk også lykkedes og virker. Og du kan dokumentere den effekt, som i sidste ende også er vigtig i forhold til at at man faktisk kan arbejde med de her
+
+00:07:30
+naturbaserede løsninger. Øhm, hvis vi dykker lidt mere ned, for nu er det jo en tech talk, så hvis vi dykker lidt mere ned i, hvad er det så egentlig for et produkt, som vi har som eller hvad er det for en løsning, som som går ind og vi går ind og arbejder med, jamen så er det øhm har jeg prøvet at at visualisere her, hvad det er for nogle lag, der ligesom ligger bagved selve techdelen eller ja, vores ø teknologi. Øh, vi bruger på nuværende tidspunkt luftfoto og højdemodeller og så selvfølgelig et interesseområde, som
+
+00:08:00
+man er interesseret i til at lave en øh AI analyse. Øhm, og lige for at snakke lidt ind i, hvad det så er for noget data, der bliver brugt, når jeg siger luftfoto, så er der mange, der måske start med at tænke, at det er et satellitbillede. Og og forskellen her er jo selvfølgelig opløsningen, hvor at øfotoet ligger i 12,5 centimeters opløsning, og satellitbilledet, hvis det er et offentlig tilgængeligt, ligger i 10 meters opløsning. En af de ting vi så også arbejder med lige nu, det er så at kigge ind i, okay, kan vi også have andre datakilder inden end kun det? Og [fnyser] her har vi blandt andet trykket højdemodellerne ind for at kigge på, og
+
+00:08:30
+dem tænker jeg rigtig mange er bekendte med i forhold til øh vandets vej rundt og når det løber på terræ og alle mulige ting. Øhm så det er ikke fordi, jeg behøver at gå super meget ind i, hvad en DTM og en DSM er, men mere bare for at sige at vi bruger dem til at normalisere ø højdemodellen til at sige, okay, vi har en normaliseret DSM, der kan sige noget omkring, hvad er forskellen i fra terræn og op til den givende overflade. Og på den måde kan vi sammen med de andre modaliteter, vi bruger, altså autofotoet, øh, begynde at sige noget omkring, hvad er det så for en type vegetation? Hvad er det for en type
+
+00:09:00
+belægning, vi ser rundt omkring? En af de andre ting, vi så kigger på lige nu, det er også at få inkluderet sådan noget som ø, hvis hvis vores brugere har dronefotos eller ø højtopløselig satellitfotos, man kan bruge ø og kombinere med ind. Udover det også skråfotos, som er er super spændende at arbejde med. Og det er noget af det, vi kigger med ind i at få lagt ind i vores datapipeline i forhold til netop at kunne processere flere datakilder. Og det output, der så kommer, som jeg viste før, det er forskellige arealkategorier, som vi så kan bruge til at arbejde
+
+00:09:30
+videre med på forskellig vis. Øh, så der er både nogle belægningstyper, og så er der nogle forskellige vegationstyper, som I kan se her. Øhm, udover det, så når man skal snakke ind i, om en løsning virker eller ej, øh, jamen så har jeg prøvet at skitsere her, hvad er det, hvad er det for noget data, manter, når man snakker ind i ø naturdelen af den naturbaserede løsning? Øhm, og vi kommer altså med den her a del, der kan sige noget omkring arealdækket, som så kan sige noget omkring biofaktor. Så vi også kommet
+
+00:10:00
+lidt ind på bioskordelen og så øh så forskellige metoder, du ligesom kan koble ind og sige noget omkring den her natur eller natur generelt set. Og så kan du så øh, hvad hedder det? Så kombinerer vi det med andre datakilder, så som beskyttet natur og artsdata fra det der hedder art ogdk. Alt sammen for at vi så i sidste ende kan få en øh noget data ud, der ligesom kan ja give give en beslutning øh som man jo gerne skal kunne træffe på baggrund af det her. Øhm så i forhold til arter og beskyttede naturhjemser som jeg sagde,
+
+00:10:30
+så er det arterdk der er den her nationale database som er integreret direkte i Gismapformen, hvor vi altså trækker en artsliste i en kilometers radius for så dermed at kunne skabe et overblik over hvad er det for nogle arter der er observeret i det her område her? Og det er klart, når det er citizen science, så skal man selvfølgelig tage det med et græsalt, men det øh men det kan bruges til at give nogle indikatorer på, findes der nogle rødlistearter, er der nogle invasive arter, bilag fire arter over i den anden boldgade, altså i forhold til beskyttet natur, jamen så de her nationale datalag, der udpeger ø beskyttet natur, og det er altså
+
+00:11:00
+paragraf 3 natur og natur 2000, som er relevant her. De metoder, som der så ligger til netop at arbejde med arealdække, arbejde med vegetationen og de naturaserede løsninger, jamen det kan være [fnyser] øh kvantiteten øh på det helt klassiske mål biofaktor, som er udviklet i sin tid af Aalborg Universitets Build ø en skala fra ul til to, der ligesom siger og udtrykker vegtationsvolumen. Så det vil sige sådan noget som fastbelægning og asfalt ligger på en faktor nul. Og ø sådan noget som
+
+00:11:30
+skov og solitære træer vil ligge på faktor to. Og den arealfordeling man så får ud af et estimeret grønt gråt forhold øh måske en i en en lidt avanceret skala. Og så ø kan man så ligesom bruge til at sige noget omkring både i forhold til planlægningsregi, men også til at sige noget omkring hvad hvor er det vi kan forbedre os. Hvad er det for nogle øh målstok vi kan skrue på. Så er der så det andet mål, som vi også arbejder med inde i platformen, som er den her open Bioscore, og det er altså
+
+00:12:00
+naturkvaliteten. Øh, hvor at det er et scoringssystem, der giver en konkret talværdi for biodiversiteten i et habitat. Og det er udviklet af Aarhus Universitet i samarbejde med en masse partnere i branchen. Øh, som ligesom giver en indikation på, hvad er det der, eller en indikator på, hvad er det, der er registreret i felten. Hvad er det for en øhm hvad er det for nogle øh indikatorer, der er registreret i habitatet, der kan sige noget omkring biodiversiteten og dermed naturkvaliteten. Så når man går ind og
+
+00:12:30
+så kvantificerer de her ting, jamen så vil man kunne få en en score på hvad biodiversiteten og ikke kun vegetationsvolumen er. Øhm noget af det her der ligger her har vi automatiseret og noget af det skal man så stadig ud og kvalificere i felten selvfølgelig vi arbejder hen mod at man kan gøre det hele for skrivebordet men noget bliver man også nødt til at komme ud og se. &gt;&gt; [fnyser] &gt;&gt; Så vil jeg lige vise jer i forhold til, når man så har de her forskellige mål, man kan arbejde med, at man også kan ligesom gå ind, som jeg sagde før, og arbejde ned i scenarier, når man skal træffe beslutninger om, hvordan er det,
+
+00:13:00
+vi skal ændre et område, hvad er det for nogle ting, der skal laves, når der skal laves en naturbaseret løsning. Og her har jeg taget et eksempel med fra Marcelborgcenteret i Aarhus. Jeg tror aldrig nogensinde Marcelesborgcenteret får plantet så mange træer eller får plantet noget skov herhenne i det her område her. Men ideen håber jeg alligevel, I kan se og forstå. Øh, i forhold til at sige, jamen hvis vi ændrer på vores arealfordeling, hvis vi ændrer på kvaliteten af vores habitater, øh, og eller bare hvad, ja, hvor meget der er noget, jamen så vil vores score øh være noget andet. Og ideen her er jo selvfølgelig, at du kan gøre det inden
+
+00:13:30
+det er sket, så du faktisk kan have en ide om, hvad er det for en nordstjerne, vi arbejder udefra? Hvor er det, vi gerne vil hen med de her anlæg og de her løsninger, vi er i gang med at lave. Øhm, og ja, lige præcis det. Det er jo så et spørgsmål om prioriteter. Altså, hvordan prioriterer man så arealomlægninger på en intelligent og økonomisk forsvarlig måde? Øh, både i en anlægsfase, men også i en driftsfase, fordi det er jo også en super vigtig ting at tage med, når man snakker naturbaserede løsninger. Jamen, hvordan hvordan kan jeg egentlig drifte øh i forhold til smart og intelligent
+
+00:14:00
+styring, altså både på økonomien, men også i forhold til klimat tilpasningsregi? Altså, hvornår giver det mening at slå græsset? Hvornår giver det mening at øh arbejde med med at at fælde træer eller eller hvad ved jeg. Øhm så ideen er her, at man selvfølgelig kan bygge en stabil baseline og så tage udgangspunkt i den som jeg har talt om. Man kan bygge og sammenligne scenarier opsat ud fra ø metoder og screening og hvad nu hvis og så er en af de ting, som vi gerne vil arbejde ind i hele det her den her tankegang omkring øh det
+
+00:14:30
+metodiske, det er også konkrete anbefalinger. Altså hvor og hvordan skal vi sætte ind? Øhm, jeg har den her case, jeg har den her, det her store område, jeg har den her by potentielt set også, fordi det er jo det, som Kunstig intelligens tillader, det er, at man kan gøre det i skala. Øhm, hvor [rømmer sig] er det, det giver mening at lave tiltagende, og når vi laver tiltagende, hvad er det så, vi gør? Øhm, og den vej vi så gerne vil bygge hen, det er jo selvfølgelig også at koble det her økonomielement på, fordi det er jo selvfølgelig super relevant at sige, okay, når vi laver de her løsninger,
+
+00:15:00
+hvad får vi ud af dem? Altså ultimativt selvfølgelig samfundsøkonomisk, men også bare i forhold til, hvad koster det os, og hvad får vi egentlig ud set i forhold til de forskellige output. Og der er det klart, at i sidste ende, jamen så er det selvfølgelig vigtigt, når du laver en klimatilpasningsløsning, at du får øh styr på det vand, som du gerne vil have styr på. Men kan du få de afledte effekter i forhold til de naturaserede løsninger, jamen så er det jo selvfølgelig værd at tage med, og kan du dokumentere, at du så faktisk får dem øhm også måske til en billigere pris, jamen så ø så er det selvfølgelig super
+
+00:15:30
+relevant. &gt;&gt; [fnyser] &gt;&gt; Øhm, og det vi så [rømmer sig] kigger ind i netop i forhold til det her, så lige nu har vi den her platform, som jeg kan demonstrere om lige om lidt i forhold til en en konkret case. Jamen, så øh noget af det, vi gerne vil kigge ind i, det er, hvordan kan jeg så gøre det så let for mig selv som overhovedet muligt, så jeg ikke skal sidde og arbejde i tung gis hele tiden eller tunge modeller hele tiden. Og hvordan kan jeg arbejde mere datatet på en let måde? Øhm, og her ø kigger vi især ind i, at man kan anvende agenter til at
+
+00:16:00
+håndtere nogle af de her metoder, håndtere de forskellige input, fordi i sidste ende i et rummeligt ø eller et specialt øh en special kontekst, altså en i en rummelig kontekst, så er der bare super mange input, som man hele tiden skal tage stilling til. Det vil sige, det er både sådan noget som øh altså hvordan agerer mennesker i et byrum eller i det åbne land for den sags skyld, og hvordan hvordan får vi styr på ø vand, hvordan får vi styr på natur,
+
+00:16:30
+hvordan får vi styr på infrastruktur, hvordan får vi styr på alle de her ting sammen og så kobler noget økonomi på. Og her kan vi se, at en af løsningerne i hvert fald kunne være, at man giver en masse viden til en en agent eller en AI, som så kan hjælpe dig med at besvare det baseret på noget af det data, vi så også ligger inde. Øhm, og det kunne jeg egentlig godt tænke mig at vise øh her nu. Øh, så nu hopper jeg lige ud af den her præsentation. Øhm, og man kan sige i sidste ende, så det som man så vil kunne
+
+00:17:00
+få ud af det, jamen det vil være en øh en rapport. Men inden inden jeg viser rapporten, kunne jeg godt tænke mig at vise, hvordan man kommer derhen. Så så Gismap har ligesom det her interface øhm hvor at man kan, som jeg sagde søge på en adresse, øh, vælge en matrikel og i dagens anledning grundet tidspres, så har vi så har jeg valgt en matrikel for os. Det kunne være en gård. Det kunne også være andre mere interessante steder end det her. [fnyser] Øhm, og den øh givende gård kan jeg så hoppe ind i. Øh,
+
+00:17:30
+hvor at når jeg så bygger et kort herinde, så interagerer jeg med med modellen og får så en en baseline ud, som fortæller mig, hvad er det for en type arealdække, jeg har herinde, og hvad er det for nogle altså hvor meget hvor meget har jeg været? Øhm, og hvis der så ligger andre ting, jamen så kan jeg tegne dem selvfølgelig også ind udover. Øhm, og det man så får ud af det, jamen det er selvfølgelig en en rapport, hvor jeg så får en, hov, nu skal jeg lige vise jer det rigtige sted. En biofaktor, øhm som er målt automatisk, og den er så holdt op mod ø
+
+00:18:00
+et scenarie, som jeg har lavet, hvor jeg har omlagt nogle af arealerne. I det tilfælde her tror jeg konkret, så omlagde jeg en en græsplane hernede til en anden form for græsplan, men det kunne også godt være, man skulle anlægge et larped eller andre ting og så se på, hvad er effekten så i forhold til en biofaktor. Øhm, hvis man så går ind og kigger, jamen så kan man også arbejde med sin Urban Bioscore, øh, hvor habitaterne er indlæst, og kigge på, hvad er det så for nogle parametre, når man går ud? Og her har vi så både en fuldbyrtet urban Bioscore, hvor man altså går ud og
+
+00:18:30
+feltregistrerer nogle af de her indikatorer, men det er ikke super skalerbart. Så derfor så er vi i gang med at arbejde med, at man kan estimere den ud fra det datasæt, vi har i forvejen, og dermed så kunne sige noget omkring kvaliteten af af naturen baseret på hvordan man tidligere på alle de andre observationer har scoret en konkret en græsplan. Øhm. Ja. Så så man får ligesom den her rapport, men der hvor vi så gerne vil hen, det er at vi jo så gerne vil kunne lægge en form for chat ind, hvor man ligesom siger, okay, nu har jeg den her, eller jeg har måske
+
+00:19:00
+mange projekter på tværs, hvor er det at det giver mening for mig at sætte ind? Og her kan man for eksempel sige, der har vi så lagt ind, at man kan lave forskellige former for scenarier, og man kan sætte forskellige målsætninger op. Så i det her tilfælde kunne det være, man havde en målsætning om en biofaktor, eller det kunne være, man havde en målsætning om en bioscorn. Og ø og de ideer der så er her, det er jo så at man kan definere sine egne transformationer og sige, okay, hvad hvis vi omlag sådan og sådan og sådan øh til den her økonomi. Vi har så indtastet nogle typiske investerings investeringer på
+
+00:19:30
+kvadratmeter og besparelser på kvadratmeter. Men det er klart, at dem ville man så selv skulle gå ind ogog definere herfra. Og det man så netop kan gøre, det er man så siger, okay, jeg vil gerne have lavet et ø et scenarie på øh nu kan det være vi lige skal fjerne den her. Jeg vil gerne have lavet et scenarie på den gamle gård, som vi kiggede på før. Og så vil den så gå ind og kigge på øh på hvad er det så hvad er det for noget data, vi har på på den her arealtype eller undskyld på den her lokation. Og hvordan kunne vi så reelt arbejde med at ligesom nå et eller andet
+
+00:20:00
+givent sted hen øh i det her tilfælde at have sat målsætningen til at at være 15 øh og hvad er det så for nogle omlægninger der skal laves og øh hvad er det for et løf der skal laves? Og tanken er selvfølgelig her, at man så netop i forhold til en anden viden omkring vand måske kan kvantificere på tværs og og få få de forskellige ting ind, som nu skriver den en masse derud af. Men altså ideen er ligesom øh at man så på den måde kan få en indsigt i nogle af de andre parametre, som er vigtige i forhold til naturbesøde løsninger. Og her så øh øh kan man så til sidst ø hvis
+
+00:20:30
+det er generere sin ø en rapport på det her. Det tager så også lige lidt tid, så lad mig lige i stedet for bare vise, hvad det er for en rapport, som vi vil få ud af det. Øh, og her der er der så sat nogle forskellige. Det er i til det her tilfælde er det så en driftanalyse, men det er jo så det smukke ved sådan en en agent, det er jo, man kan gøre det dynamisk og sætte ind, hvad er det så for nogle typer af arealdække, man gerne vil gå ind og arbejde med? Hvad er det for nogle kvaliteter i området, som er vigtige for en? Øh, og nu har jeg så
+
+00:21:00
+bare lavet en eksempelrapport her, men hvor man så også estimerer på, hvordan vil driften være efter, og hvad vil det egentlig koste, hvis vi øh lavede omlægninger øh og lavede og fulgte forskellige. Den har lavet nogle forskellige scenarier, hvor vi så kan øh lave nogle løft øhm og eventuelt lave nogle ø anlæg ø og anlægge andre ting. Det kunne være et øh regnvandsbed eller andet, som man kunne lave på matriklen. Øhm, og det er selvfølgelig ø noget af det her er selvfølgelig i sin i sin spæ
+
+00:21:30
+start stadig, men noget af det vil vi gerne kunne koble ind i ø ind i selve vores øh øh øh platform. Jeg hopper lige tilbage til sidst øhm bare lige for at ø vise de sidste slides. Øhm så noget af det jeg lige viste her er jo selvfølgelig noget af det som vi gerne vil koble ind i forhold til de ting, vi kigger ind i. En af de andre ting, som vi kigger ind i, er også det her med, okay, på lidt større skala og kunne se, hvad hvordan er konnektiviteten i områder. Især hvis man
+
+00:22:00
+alligevel går i gang med at anlægge nye områder, hvordan kan jeg så faktisk skabe altså grønne korridorer igennem et byrum øh til at netop at arbejde med øh og kunne kigge på hvordan hvordan man måske kan lave optimale designløsninger i forhold til det naturbaserede. Og her har vi faktisk også øh nu bliver det måske lidt meget hop igen, men jeg viser det lige om lidt. Den sidste ting, som vi kigger ind i, det er selvfølgelig at kunne koble nede på jorden andre ting. øh blandt andet IoT ind i ø ind i som som man kan installere i det grønne anlæg. Og her ø har vi blandt andet
+
+00:22:30
+kigget på det der hedder dampprojektet ude i Søborg, som er super interessant i forhold til netop at kunne øhm [fnyser] øh lave styring af vand og ogog fordampning ø som værende det som håndterer jeg mener det er op til en femårshændelse ø men også jordfugtighed synes vi er nogle spændende mål at kunne måle på netop når man nu laver naturbaseret løsning og skal drifte den og få den til at at blomstre og stå stå flot jamen Men kan vi så bruge vandet og
+
+00:23:00
+styre det den vej rundt og lave mere intelligente løsninger, hvor vores øh indspil eller indspark her vil selvfølgelig være at kunne måle på hvordan hvordan hvordan det så faktisk har en effekt. Øhm, og så lige for at at runde af, jamen så øhm så er prø hovedbudskabet fra den her præsentation, det er øh hvis du har noget data, øh, hvis du har så kan du faktisk i sidste ende handle øhm og det er langt lettere at øh handle
+
+00:23:30
+og styre noget som du faktisk forstår og faktisk har nogle tal på i stedet for øh at at håbe på, at du har bygget noget som som virker. Øhm. Så ø så det tror jeg skal være hovedbudskabet herfra. Øhm. Ja. Og ellers så vil jeg bare sige tak fordi I gad at lytte. Mm. &gt;&gt; Laurit jeg siger tusind tak for dit interessante oplæg. Og til jer der
+
+00:24:00
+sidder og har lyttet med derude, så husk endelig at stille spørgsmål ind til det, om I har nogle vinkler eller nogle indsigter som øh som I gerne vil have svar på. Øh, og Kasper han har allerede været hurtig undervejs i det. Har faktisk to spørgsmål til dig, Laurit. Jeg vil lige dele dem op i to. Øh, den første er, kan man indlægge for eksempel ledninger eksisterende og kommende? De er tit i konflikt med træerne. Så jeg tænker på det der med, at man kan fremtidssikre det grønne ved at have styr på det, der også ligger under.
+
+00:24:30
+&gt;&gt; Klart. Øh, det er et virkelig godt spørgsmål. På nuværende tidspunkt kan man ikke, men vi har faktisk muligheder i løsningen for at uploade. Det kommer selvfølgelig lidt an på format. Det kan man det kan man så altid diskutere, men men øh vi har løsning med at kunne lægge øh egne egne tegninger ind og også oprette egne paletter til at tegne. Så vi har jo ligesom defineret en masse grønne kategorier og koblet den op til nogle mål. Men udover det kan man egentlig godt lægge sine egne ting ind. Så i princippet kan du godt tegne ændringer ind. Men det er klart hvis det er et [fnyser] kad format eller et eller
+
+00:25:00
+andet i den stil, så skal det lige konverteres på nuværende tidspunkt. Super. Den næste den ligger lidt til slutningen af dit indlæg, og den hedder: Hvor kommer priserne fra på driften? Og så lægger jeg et tillægsspørgsmål til, om I også har prisestimater på klimatilpasningsløsninger, så som Vejbed og de dele af det. &gt;&gt; Selve økonomidelen er noget, som vi faktisk er i gang med at prøve at lægge ind, hvor vi Nej, lad mig starte i i hvor har vi priserne fra i dag. Så de er
+
+00:25:30
+estimeret ud fra de priser, som vi kan finde på nettet, og de priser, som vi har øh vi samarbejder blandt andet med nogle andsgartnere, så der snakker vi selvfølgelig med dem og nogle af de nogle af de kunder, vi har øh på porteføljen og sådan noget. Øhm, men det er klart, at det er jo noget af det, vi søger at kigge længere ind i, hvor skarpe benchmarks kan vi have på det. Så en af de tanker vi har lige nu, jamen det er at man i princippet selv skal kunne estimere de ting. Altså lægge det ind ogog justere på, fordi det er klart
+
+00:26:00
+at der er jo selvfølgelig også noget omkring at det eksternt, internt udbudt, alle de her forskellige ting, som som der er afgørende. Øhm og i forhold til anlæg øh jamen det har der har vi lavet igen estimater, og på nuværende tidspunkt er det en demo, så det er vigtigt at sige at det er noget af det, vi gerne vil kvalificere. Og det er også, det håber jeg fremgik i opslaget, at eller i oplægget, at det ligesom er noget af det, som vi gerne vil, gerne vil blive meget skarpere på og også ønsker at samarbejde med folk om, øh, fordi vi jo gerne vil gerne vil derhen, hvor man faktisk kan estimere de ting.
+
+00:26:30
+&gt;&gt; Mm. [rømmer sig] &gt;&gt; Ja. Øh, super. &gt;&gt; Jeg har også lige i forhold til drift, det er et andet spørgsmål. Men øtidig vil jeg lige opfordre jer, der sidder derude til endelig at stille spørgsmål. Vi har god tid til det, og ikke fordi vi skal sidde her til klokken 1, men endelig stil spørgsmål indtil, hvis der er noget I er nysgerrige på. Øh, noget af det jeg lige er nysgerrig på, Laurit, det er i forhold til når vi gerne vil have natur, så ved jeg jo at hvis vi anlægger vådbassiner, så skal vi altid have en tanke på paragraf tre områder, de ikke udvikler sig til det,
+
+00:27:00
+når de er et regnvandsteknisk anlæg. Øh, hvordan kan GISMAP tænke det ind eller gøre i det allerede i dag, eller er det øh, ja, hvordan tænker du det, når jeg siger det? &gt;&gt; Ja, godt spørgsmål. Øh, i forhold til til at starte med vil jeg sige i forhold til paragraf tre delen og hele hvad hedder det så beskyttelses beskyttelse af natur øh der har vi på nuværende tidspunkt blot de statiske lag fra ø dataforsyningen eller miljøportalen øhm i forhold til også kunne indikere hvor er hvor er de henne i dag men en af de
+
+00:27:30
+ting der selvfølgelig er relevant at tage højde for jamen det er jo selvfølgelig når du dimensionerer at du så øh kan lægge det ind ø at så vil man sikre det men det er faktisk ikke noget på nuværende tidspunkt som vi har som vi har kigget ind i øh men det er selvfølgelig super relevant at at tage højde for, når du når du øh ja når du laver øh regnvandsbassinger for eksempel. &gt;&gt; Mm. &gt;&gt; Ja. &gt;&gt; Super. Og nu kommer jeg lidt ud på det våde område stadigvæk. Det er også jeg ved der er mange der har jeg øh hvordan
+
+00:28:00
+håndterer den hele den her natur og skore i forhold til at når vi snakker klimatilpasningsløsninger så leder vi jo meget vand til nogle gange og nogle gange så kommer det jo til at stå knastørt og det er der jo forholdsvis få naturtyper der håndterer rigtig godt. Hvordan tænker den den ind i forhold til øh til den score den laver? &gt;&gt; Ja, super godt spørgsmål. Så altså man kan sige det er jo en af svaghederne i for hvis vi tager hvis vi tager AI delen først så og computer vision så er
+
+00:28:30
+svagheden jo at at flyet som vi bruger som datakilde på nuværende tidspunkt jamen det vil selvfølgelig overflyve på et eller andet givent tidspunkt i løbet af foråret og og der vil vi jo så selvfølgelig kunne øh den måling der bliver taget der vil jo være [sukker][gisper] øh hvad skal man sige øhm ja den den er jo udsnit af hvad et øjebliksbilledet øhm så så i forhold til regnvandsbassin og den dynamik der ligger i det, jamen så vil du så blive nødt til højst sandsynligt at kvalificere. Men en af de kategorier der
+
+00:29:00
+ligger inde i urban bioscore ø hvis vi tager den i forhold til kvaliteten af af naturen der, jamen den det der ligger der noget der hedder bassin. Så derfor så vil man også kunne øh ligesom skubbe den over mod den del af parametrene. Men det er klart fordi at det er en afvekslet naturtype, så er det jo også et et spændingsfelt, hvor det er lidt tricky. Øh, jeg vil dog påstå, at man i forhold til, og der er det jo selvfølgelig vigtigt at sige, jeg bygger tech og er ikke biolog, som vi kunne høre i øjeblikket også, men øhø men altså at man ligesom godt kan forsvare,
+
+00:29:30
+at når man går ud og kvalificerer på de her ting, at man jo så i princippet bare holder det op mod øh alt den anden form for natur, som der ligger. Og det er også det, det smukke ved scoren er, det er, at det kan også godt være lidt hårdt, fordi det er en score fra nul til 100. Og øh jeg har ikke set noget endnu, der er, hvad skal man sige, menneskeskabt, som ligger over 50. Øh, så så det vil selvfølgelig måske ligge i den lavere ende i forhold til de her parametre og ø indikatorer, som man så går ud og arbejder med. Øhm, men ideen
+
+00:30:00
+skulle gerne være, at fordi man netop kigger på indikatorer øh overordnet set i forhold til typisk vegetationen, men også selvfølgelig det våde ø så vil det stå øh samlet. Okay. Kontra at man at det er det her øjeblik spillet. Jeg ved ikke om det gav mening det svar. &gt;&gt; Det synes jeg i hvert fald gav noget til mig. Det kan være der er nogle af biologerne der har nogle andre meninger der derude i forhold til det. Og jeg ved der sidder et par stykker og lytter med. Øh men men for mig var det fint. Så I må
+
+00:30:30
+endelig huske at kommentere og skrive derude. Jeg har et sidste spørgsmål. Så hvis der er nogen af jer, der skal have mere med derudover, så må I endelig skrive i chatten. Men du snakkede om ø IoT og Dampprojektet. Nu vil jeg så sige, det ligger i Gladsakse, men det ø er jo bare et spørgsmål om bygrens. [latter] &gt;&gt; Så øh hvor I måler på fugtigheden, vil I kunne måle på nedsivningshastigheder og lægge det ind også? Øh og det er sådan todele
+
+00:31:00
+spørgsmål, for en er at kunne måle nedsivningshastigheden, når vi laver de her anlæg. Nummer to er, man rent faktisk også ville kunne få noget årsdata, hvornår øh vandet er der, og hvornår det ikke er der, og på den måde så samle noget vandbalancer og noget vandcyklus henover. &gt;&gt; Ja. Så ideen ideen for os er, at vi vil gerne være en platform, hvor man kan se på ø overskue et en samlet matrikel eller lokation øh og herunder kunne få nogle indikatorer på ø ja jordfugtighed
+
+00:31:30
+eller på nedsivning eller andre ting. Og en af de ting vi i hvert fald har tænkt på, som kunne være et næste skridt for os i forhold til det, jamen det er jo selvfølgelig at lægge nogle forskellige ø nedsøningsretter ind per øh hvad hedder det så arealtype, som vi kan klassificere. Og på den måde får man en eller anden indikativ retning på, hvad hvordan det står til på et givende område. I forhold til selve IoT-delen, jamen så øh så vil vi gerne gå ind og integrere med løsninger, der ligger i forvejen. Øh, for eksempel smartbront øh og og her og dem det er nem netop dem
+
+00:32:00
+der har stået for for dampdelen, hvor at det vi ser vi kan komme ind og spille ind med hjem, det er selvfølgelig i forhold til hvordan øh hvordan effekten er ø i forhold til anlægget øh når man ikke tænker på ø på udelukkende på fordampning, men også i forhold til naturdelen, hvordan står det så til? Øh, men det er klart, at der er jo et samspil mellem dem og og netop i forhold til det, jamen der ville det være super interessant, hvis man kunne øh kunne indsamle nogle af de data og og koble det op mod det, vi kan lave med kunstig
+
+00:32:30
+intelligens i forvejen. &gt;&gt; Super. Tak for svaret. Elisabeth har spurgt her imens, kan man måle bagudrettet, altså så sammenligning sammenligne udvikling over de sidste 10 år, for eksempel på baggrund af autofotos? &gt;&gt; Ja. Øh, på nuværende tidspunkt har vi faktisk kun lagt øh seks år tilbage, så til 2019. Regne, regne regne. Eller er det syv år? Ja, men i princippet så kan vi lægge tilbage til ø længere tilbage også, ikke? Og så kunne kigge på øh en
+
+00:33:00
+tidsserie. Og øhm og så er det selvfølgelig altid altså en af de en af de svagheder, der ligger i i metoden, det er jo selvfølgelig, at området en ting er, området udvikler sig. Det det er selvfølgelig rigtig godt, men der er jo selvfølgelig også noget robusthedsanalyse, kan man måske lidt frækt sige at kunne sige, okay, hvad vil det sige, når en øhm øh alt efter tiden og lyset og der er mange faktorer, som går ind. Så det er en af de ting, vi arbejder med øh at at vi kan gøre mere robuste. At det er netop at kunne sige
+
+00:33:30
+arealudviklingen mere præcist, men men du kan gøre det lige nu, og så arbejder vi jo så hen mod at vi så gerne vil gøre det mere endnu mere præcist. Men det det er nok det, man altid gerne vil, jo. Ja. &gt;&gt; Super. Elisabeth, jeg håber, det er svar, og ellers så må du endelig skrive en gang til. Øh, i andre må også gerne skrive øh, hvis der skulle være noget her på falderebet. Og ellers Laurit, så vil jeg sige tusind tak for et ø rigtig godt oplæg. Også tak til jer, der har
+
+00:34:00
+stillet spørgsmålene. Dertil vil jeg også sige, hvis der er nogen af jer, der sidder derude og har lyst til at dele nogle af jeres teknikker eller andre tanker i forhold til klimatilpasning, så enten tage fat i mig eller sekretariatet, hvor Morten sidder inde i DNNK, så lægger vi gerne platformen til rådighed til at dele alt den viden, vi har. Derudover så ligger der allerede et lille reklameindslag. øh for at klimakalenderen allerede er begyndt at blive godt fyldt til henover sommeren øh på den anden side når vi kommer retur
+
+00:34:30
+for en god varm ferie. Så endelig gå ind og kig på den. Og ellers så øh Lauritz tusind tak for dit oplæg og til andre tusind tak for at I deltog. Og så må I have en fortsat god dag alle sammen. Tak for den gang La &gt;&gt; tak for den gang. Hej.

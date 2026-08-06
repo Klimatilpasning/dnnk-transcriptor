@@ -1,0 +1,440 @@
+=== DNNK Webinar Transskription ===
+Kategori: Konferencer
+Video ID: 6eLttHPRlSw
+URL: https://youtube.com/watch?v=6eLttHPRlSw
+Kilde: YouTube auto-undertekster (dansk)
+Transskriberet: 2026-08-06T17:12:18.419031
+
+==================================================
+
+00:00:00
+Øh, hej alle sammen. Altså jeg hedder Maria. Jeg vil bare sige en lille disclaimer, fordi jeg bor i Danmark. Jeg har b i Danmark i 12 år. 12 år nu, så jeg taler dansk, men svensk er ikke min stærkeste kort. Så jeg vil bare sige, at når I stiller spørgsmål til mig, jeg vil gerne bede jer om at stiller det på engelsk eller jeg skal spørge min
+
+00:00:30
+kollega Maja om hun kan oversatte det for mig. Så altså jeg har en mærkelig stemme, fordi jeg har været syv i 10 dage, men nu jeg er frisk frisk i dag for for holder den her præsentation. Så jeg kommer som sagt fra år for i dag jeg præsenterer for jer hvordan hvad er vores ambition i forhold til livscyklus analyser og klimaberegninger på lige præcis anlægsprojekter og hvordan vi tager nogle forhåbentlig bedu til beslutninger
+
+00:01:00
+så ja i f jeg vil bare give jer et tal altså vi har jo 500 anlægsprojekter om mået det betyder vi bygger rigtig meget og vi Vi bygger stort i bare i 2024. Vi har jo faktisk projekteret og bygget for 3,1 milliarder danske kroner. Derudover øh altså vi har lige faktisk fået lavet nogle klimaberegninger af hele HF forsing og anlægsinvesteringer
+
+00:01:30
+alene ulk approxim altså cirka 30% her for samlet CO2 udledninger. Vi skal selvfølgelig reducere også fordi vi har jo et mål for at få reduceret vores klima. aftrukket og hvordan så vores ambition i at få den den er faktisk forklaret også i det vi kalder koncentl nummer fire effektiv ressource og co2 neutralt fro så vores ambition det er jo at
+
+00:02:00
+livssyklusvurderinger og klimaberegninger det bliver en integreret del i den mål vi arbejder på projekterne fordi generelt vi kigger meget på en leksøkonomi og det er selvfølgelig det skal blive jo bliver ved med. Det er vigtigt det med økonomien, men samtidigt vi skal ikke glemme at vi også har genererer faktisk stor påvirkning i klima og miljø generelt. Og det er derfor LCA, altså livsykusanalyser det bliver udpeget som en massvle i HF. Det vil sige, det er strategisk projekt.
+
+00:02:30
+Øhm, så LCA, ambitionen er, at LCA skalvendes på lige fod med andre beslutningsparametre ligesom økonomi, anlægsøkonomi. Altså jeg vil bare kort præsentere, hvordan vi har tænkt at inkludere klimaberegning og LCA igennem projektfaserne. Det er vores PPL model, altså project model. Øh, vi starter faktisk med at have lavet nogle LCA screeninger i tidligere faser, altså planlægningsfaser og analyserfaser, hvor
+
+00:03:00
+vi har ikke så god data. Og der vi kommer til at lave nogle form for CO2 screening beregninger, hvor vi så ud fra de screeninger, vi vurderer om en løsning A eller B, altså A er bedre end B, både økonomisk mæssigt og CO2mæssigt. Øh, og så går vi videre i næste faser. Det vil siger, vi skal så endelig tage en beslutning om, hvilken løsning vi skal bygge, designe og projektere. Øh, og i den faser her, så har vi jo både
+
+00:03:30
+nogle, vi laver nogle LCA variantesammenligninger. Det vil sige, at vi kigger for eksempel på hvilke materialer vi kan for eksempel øh bygge den løsning med. Øh, eller for eksempel vi kan kigge på anlægsfaser, om vi kan for eksempel genindbygge jord, så vi kan få nogle besparelse. Og det er jo der, hvor livscyklusaler. Ja, undskyld, du har spurgt. &gt;&gt; Vi har vå f i dag. &gt;&gt; Åh ja, det er faktisk jeg kan jeg øh ja,
+
+00:04:00
+jeg kan ikke huske den her biration næste gang. Jeg skal bare fjerne det. Det er bare noget internt for. Jeg kan ikke huske. Ja, men måske bare bare indgår i beslutningsgrundlag. Det er en designproces, tror jeg. Øhm, men ja, så i den fase så har vi jo øh DLC'er, som så giver også en form for vurdering omkring forskellige variantesammenligning. Og så skal vi stille nogle krav i Ulbul. også entreprenørerne og leverandørerne. De
+
+00:04:30
+kan jo sagtens faktisk øh ja, de kan konkurrere ud fra en CO2 aftrukket eller et perspektiv. Øhm, og så til sidst det vigtigste, det er også at få en af de vigtige ting, det er også at få afsluttet projektet og at få lavet det vi kalder en endelig LCA vurdering, hvor så vi har jo de vi samler op på de faktiske data, og vi kan så få lavet nogle LCA beregninger, som er mere præcise og som så i sidste ende
+
+00:05:00
+de går tilbage til analysefaser. Øh, og så næste gang vi har et lignende projekt, vi kan så beregne nogle øh ja, vi kan være mere præcise. Så det er jo den måde vi har tænkt at altså det er i hvert fald vores ambitioner. Og lige nu vi har udvalgt de store projekter så det vi kalder type et og to, hvor vi skal så begynde at indføre LCA screeninger. Og de starter i analysefaser. Men altså når vi kigger for, hvorfor er det vigtigt også at vi beregner LC og
+
+00:05:30
+KIV? Det er også fordi vi laver rigtig mange investeringer og nu jeg præsenterer en case som er kuponellen. Og det er nemlig nemlig fordi øh vi har en prognose. Og ud fra den prognose vi faktisk kan se at vi skal lave rigtig meget læningsrenovering på spildevand. Og så har vi jo selvfølgelig planlagt at vi skal lave en skudbrud tunnel. altså flere, men især det jo det med SST, altså Svandmåden skuldstunnel, som jeg kommer til at
+
+00:06:00
+præsentere i dag. Så det er jo meget opgravning, det er jo meget anlægsarbejde, og det skal vi jo så beregne ogog lave nogle vurdering. Så den første casen den er jo sandmåden skubbrud tunnel. Øh, det er faktisk en ø en ja skrubunnel, som er jo som bliver 10 km lang, og den kan rumme 100.000 øh kubikmeter vand. Så det
+
+00:06:30
+er jo ret stort. Øhm og den tunnel den har jo som sådan 16 skakter og den kommer også til at altså den primære årsag fordi vi laver den her tunnel det er jo selvfølgelig for at reducere øh overlub og skaderne der kommer fra oversvømmelse. Og vi kommer også til at give øh det kommer også til at give en overlupsreduktion på cirka 90% så vi har
+
+00:07:00
+mindre orenset spildevand som kommer ind tilund som i sidste ende kan også generere nogle nogle klimapåvirkninger. Så det er jo generelt projekter, det er jo ret stort. Og vi bygger den samme med Fredsberg Forsoning og Norv for som er en anden forsoning, dansk forsoning. Lidt omkring øh tilsplanen altså øh ja altså jeg vil bare sige vi har også nogle rådgivere i den tilfælde vi har jo KI som er vores byg her rågiver og det
+
+00:07:30
+er jo lidt tilsplanen omkring skuprostunellen. Altså det er jo ret ret lang tidsplan. Øh, så det jeg vil sige, det er jo faktisk omkring nu, at vi starter Olbulsprocessen for tunnelen i i april, som som så kommer til at blive den herbudsprocess for et år. Og så starter vi med at anlægge tunnellen i 2027. Og SS10, altså skubbruttunnellen, svandmod skubbrudtunnelen skal være færdig i 203.
+
+00:08:00
+Så der er jo meget af entreprenører, mange entreprenører som skal være med og vi skal jo Ja, det der er meget arbejde, der er meget anlægsarbejder, så det er jo I kan forstille jer, der er også meget beton, som indgår i sådan en tunnel. Øh, men altså lige præcis, hvordan har vi lavet LCA endnu? Det var jo rådgivere, som har hjulpet os med at få lavet CO2 beregninger. Altså livscykelsanalyser handler om mange ting. Det er ikke kun CO2, men lige præcis på det her, vi har også brug for
+
+00:08:30
+at få lavet nogle for at forstå, hvor meget kommer til at koste CO2 mæssigt har fål den her skubbrudstunnel. Så den første ting det altså første formål det var jo at få lavet et CO2 baseline med afsæ til det projekterede projekt som sådan ud fra den baseline CO2 beregninger så kunne vi så beregne nogle variante sammenligner for eksempel materialoptimering og så selvfølgelig når anlægsarbejdet er færdig så skal vi også have rapportere
+
+00:09:00
+på den samle CO2ket øh og primært vi kigger i de faser, altså produktfaser og byggeproces. Så det er igen A1 til A5 faser. Og hvordan har vi skubbet den her LC opgave? Fordi det kan være ret omfærdende. Så lige nu det er jo hvor vi er. Øh, vi fik lavet en LCA opgørelse for projektet, hvor vi så skulle beregne
+
+00:09:30
+den den her baseline, og så har vi beregnet nogle reduktionsøh mulighederne. Altså i princippet vi skal jo ikke stoppe der, fordi de der screeninger, altså LC opgørelse, de skal give os nogle indsigt omkring hvilke potentielle krav vi skal stille for eksempel i ulbudsfaser for at reducere CO2'en. Øh, så det er noget vi arbejder rigtig meget på. Og så næste faser, når så vi har fundet ud af det, hvem vinder ud fra
+
+00:10:00
+den olbudsprocesset, så skal vi få lavet nogle al opgørelse for den vindende tilbud. Og så til sidst, som sagt i 20 33, så samler vi op på alt, der blev faktisk realiseret øh på tunnellen. Og det er jo tidsplanen. Og lige nu vi sidder her som sådan. Og i dag viser jeg nogle resultater ud fra den her vurdering. Så når vi fik lavet C2 beregninger på
+
+00:10:30
+SS, altså det var jo med nogle forudsætninger som sådan jeg sagde vi fokuserede på materialer, altså bygge faser og produktion af materialerne og som ikke godt forstiller jer, der er meget beton, stål, men også injections material og så transport og som sagt byggeprocesser. med vi skulle vurdere den her klimaaftrukket og nu jeg slør allerede nogle resultater. Vi fik kigget på nogle tre scenarier. En baselin
+
+00:11:00
+scenarier, en lavemissionscenarier og en meget lavissionscenarier. Som I kan godt forestille jer den lave missionscenarie den giver nogle reduktion. Det er cirka 33% og meget lav missionsscenario. Den giver en reduktion på 46%. Om lidt jeg forklarer hvorfor. Øh, baseline CO2 øh ekvivalenter. Det er oppe på 37.000 1000 tons CO2
+
+00:11:30
+ekvivalenter. Ideen er, at vi bruger de der beregninger til at så få lavet noget dokumentation, men også at få stillet eventuelt nogle krav i ulbud til entreprenør, så kan de jo øh ja designet en strategi for at bringe CO2 emissionen forbindeling. Det er jo de resultater, som blandt andet vi fik lavet med Cway, og det er jo den scenario one, altså det danske
+
+00:12:00
+baseline, traditional Danish concrete and still for large infrastructures. Det vil sige, vi kigger på baseline, og vi har kun brugt materialer, som var jo tilgængelige i den danske kontekst, men det var jo ikke optimalet på CO2, traditionelt materielle. Og når vi så øh beregner det her, så kan I se den her 37.000 tons i alt, men den største påvirkninger kommer jo fra materialerne. Så det er jo øh cirka lad sige 34.000.
+
+00:12:30
+Så så det er ret meget. Og den næste største post, den kommer fra anlægsfaser. Øh, når vi så kigger lidt nærmere i øh, hvad giver det, hvad er den ståste påvirkning øh i forbindelse med materialer, så har vi jo sikkert beton, det er jo ret meget og stål og så det vi kalder, og der er også nogle andre materialer, som de er jo bare samlet her, men primært det er jo faktisk beton
+
+00:13:00
+og stål, som vi kiggede på. Skakter og selvfølgelig selv tunnel, de betyder rigtig meget. I den scenario to, så har vi kigget på, hvad hvis vi får øhm ja købt altså nogle materialer, som har jo nogle lavere emissioner. Øhm, så det det betyder nogle CO2 reducerende beton og nogle CO2 reducerende stål. Øh, så hvis vi gør det, øh, og vi kigger også på nogle EPD'er, som miljøvardeklarationer,
+
+00:13:30
+så kan vi jo faktisk n bringe semissionerne op til 24.000. øh 12 CO2 ekvivalenter. Og hvis vi så kigger scenarier tre, hvor vi har undersåt, om der var mulighed om at bruge nogle materialer, som reducerer endnu mere CO2'en, især på beton og stål, så kan vi faktisk øh se at vi reducerer CO2'en endnu mere. Så det er jo de scenarier,
+
+00:14:00
+vi har arbejdet med for at forstå om det kunne lade sig gøre at optimere på materielle produktion og også om der var jo en tilgængelighed af de der materialer ud på på markedet. Øhm. Ja. Yes. Så jeg kan ikke sige meget på det der sker lige nu på ulbud, fordi det er jo lige præcis lige nu der foregår alt omkring udbudsmaterialen. Men idegen er, at vi skal finde en måde på at arbejde med at reducere
+
+00:14:30
+emissionerne, fordi vi i virkeligheden, vi har jo ikke valgt en scenarier. Vi har bare, vi har blot vurderet, om det var muligt at nedbringer CO2 missionerne. øh med nogle materialer som man finder øh på marken. Så vi kunne ikke rigtig stille krav et øh eller vi skulle vi kunne ikke bare købe nogle bestemme materialer. Vi skulle stille gå igennem etbruds processen. Så det der sker, det er jo at vi har også primært
+
+00:15:00
+fokus lige nu på beton. Den har også stål og få set hvordan vi kan få lavet en model i julbud. Så entreprenører kommer jo også til at konkurrere på CO2 delen af projektet. Så igen, jeg kan desværre ikke afsløre meget. Jeg tror, jeg kunne, men det kunne jeg ikke. Øhm. Yes. Og det var omkring SS10, altså den store tunnel. Øhm, men øh, den er jo en case nummer
+
+00:15:30
+to, altså. Ja tak. Øh, det er jo bare for at vise, at i virkeligheden vi har jo så mange andre projekter. Vi skal omlægge rigtig mange ledninger. Så for eksempel i det projekt, hvor vi skulle om hvor vi skal omlægge ledninger i forbindelse med øh anlæggelse Metro 5, så har vi også lavet nogle vurderinger i den tilfælde jeg har lavet de vurderinger, mens jeg var rålgiver i Randbølel. Og jeg har så vurderet om en
+
+00:16:00
+grav en grøsning. er så bedre eller værre i forhold til den tunelære løsning. Og igen vi kigger på materialer og anlægsfaser. Og her vi kunne godt se at ø hvis vi så tunneler frem for at lave åben udgravning så kan vi faktisk reducere CO2en med cirka cirka 30% og de største poster de kommer selvfølgelig fra læningsarbejde altså de materialer igen. Beton og så fundering og så stål. Så det er jo meget typiske
+
+00:16:30
+det beton og stål. Så vi skal virkelig gøre noget med det. Øhm, betyder det grav eller &gt;&gt; hvad? Altså græver &gt;&gt; opdragning. Yes. Øh, men det var faktisk det sidste. Altså var bare Ja. Øh, så det er de to cases. Og tak for for &gt;&gt; der var FR går. Ja.
+
+00:17:00
+&gt;&gt; Ja. Hej &gt;&gt; øh Dorthe fra Frederiksberg kommune. Jeg tænkte de tre scenarier med CO2 reduktion, hvorfor har man ikke valgt bare at byde det sidste scenarie ud? &gt;&gt; Altså så man ligesom har Er det fordi man er interesseret i prisforskellen? Altså måske det dyrere at bygge &gt;&gt; det scenarie. &gt;&gt; For man kunne jo også som byghær have valgt at gå med den med den laveste emission. &gt;&gt; Ja, det er et godt spørgsmål. Altså øh nu jeg må indrømme mig, jeg var ikke med
+
+00:17:30
+i alle de snak der ligger bagved det her. de her beslutninger. Men vi kan vi kunne jo ikke bare sige, vi bare går med den scenarie. Vi skulle bare igennem et olbulsprocessen, og så skulle vi jo stille nogle krav, &gt;&gt; men man kunne have valgt, at det var det, der var projektet. &gt;&gt; Ja, men øh men ja, det der bliver ikke udvalgt som sådan. Altså vi skulle stå igennem Ulbuds krav, så vi kunne stille nogle krav til leverandør, så de kom til nogle til nogle
+
+00:18:00
+&gt;&gt; til CO2. Ja. Ja, kan desværre ikke sige mig. &gt;&gt; Jan Rasmussen, Københavns Kommune. &gt;&gt; Øhm, det har selvfølgelig et CO2 aftryk at bygge en skybudståel som svanmæ skybstunden, men har jo den har jo et formål den har jo det formål at undgå skader og undgå skade på miljø. Det har jo også en i det ligger der også en CO2 besparelse i at undgå skader på infrastruktur og på på boliger på miljø. Har I regnet på det?
+
+00:18:30
+Det er super godt spørgsmål begge to faktisk. Øh, nej, men jeg havde foreslået at vi skulle på et tidspunkt fordi det er faktisk Ja, vi tager en risikoval, men hvis vi hvis vi ikke har den her tunnel, hvad sker det så i forhold til skader? Så jeg synes at det er en interessant business case som sådan forbindelse. &gt;&gt; Det kan være vi kan lave det samme. &gt;&gt; Ja, meget gerne. Jeg kontakter dig, så kan vi jo lige få lavet den sammen.
+
+00:19:00
+&gt;&gt; Yes. &gt;&gt; Andre frågor? Jeg vet inte hvem som var først her. Ehm, hvad var det for berækkningsverktyg som &gt;&gt; Okay. Eh, værktøj. Ja. Øhm, jeg der bliver brugt en kombination af forskellige kiler. Øh, i Danmark vi har et LCA værktøj som hedder Infra LCA. Det er jo til infrastruktur, men der bliver
+
+00:19:30
+også brugt faktisk forskellige kilder udover selve værktøj. Der bliver brugt for eksempel miljøvardeklarationer, som ikke var inde i værktøj. Så vi der blev lavet markedsanalyser Ja. på de produkter, som var jo tilgængelige. Så vi har desværre ikke et værktøj for infrastruktur for vand og spildevand. Det var måske meningen, at vi skulle gøre det, men det har vi jo ikke som Men tak for spørsmål. &gt;&gt; Ja. Eh, takk så mycket, Marie. Jätteinteressant hø. Hva har hun for for
+
+00:20:00
+målsetninger? Du s at man tar in kostnader då for i anläggningsarbetet. Eh, har ni sett det kan få kosta så mycket mer? Har ni satt nåon grens där i den målsætningen? Vad det for koster? &gt;&gt; Den har jeg fanget helt. Men &gt;&gt; i forhold til økonomi, om vi har besluttet, hvordan vi vægter økonomi i forhold til hvor meget CO2-reduktionen må koste. &gt;&gt; Tak. Tak for for oversættelse.
+
+00:20:30
+Så super relevant spørgsmål. Øh, vi har ikke besluttet hvor meget det må koste, men vi har besluttet at det må koste. &gt;&gt; Ja. Så det er jo lidt som om at vi har få hvis vi viser der er nogle reduktioner og giver værdier på projektet, så skal vi jo gå ind. Og i den næste præsentationer jeg vil vise også nogle nye retslinjer, som har få lige kommet med. &gt;&gt; Mm. Ja. &gt;&gt; Ja. Og for at supplera med det så har vi som forsyning er vi liksom også underlagt
+
+00:21:00
+några regler i forhålland till hur mycket pengar vi får använda. Så der har det liksom ofta var eh vi skal välja den billigaste løsningen. Så det er liksom også lite branschen som skal tka lite nytt i forhålland til hur mycket før det koster. &gt;&gt; Siste fråga var det noen som markerer her? Ja. I'm really curious that like open solution had higher CO2 emissions than the tunnel. Do you have like an explanation? Yeah, actually it is
+
+00:21:30
+because we have less excavation in in the tunneling part. Yeah. Because you have some kind of holes this kakter and then you only excavate in those hole. So you don't need to excavate the hole trench. Så ligesom borra det så man kan opp hele bare t og så borrer man under. &gt;&gt; Så interessant. &gt;&gt; Lige præcis. Ja &gt;&gt; lige præcis. &gt;&gt; Yes. Det findes for noget for
+
+00:22:00
+&gt;&gt; nogen der har noget der var vi g her. Så tager vi to frem. Ja. Jeg tænkte på om når nu det er så stort et projekt 10 km betontunnel og en masse stål og armering og så videre. Øh, har I snakket om der er nok lavemissionsstål på markedet til projektet og også i forhold til beton? &gt;&gt; Ja. Øh, tak. Og det er måske også et svar til dit spørgsmål faktisk. Øh, nej,
+
+00:22:30
+jeg tror jeg Nej, det har vi jo ikke. Men det er jo det, det skulle have selvfølgelig altså det det skal det skal være i pipeline. Ja. Øhm. Ja. Og måske det har også en betydning i forhold til prisen. &gt;&gt; Ja. &gt;&gt; Mm. Nej, det Nej, men jeg er m på at det er ikke alle som kan få adgang til genomvendt stål og CO2 reducerende beton. Så i sidste ende, det kan være vi jo får for en reduktion, men der er
+
+00:23:00
+nogle andre i systemet, som ikke får den samme reduktion, fordi de er jo ikke de til altså de materialer, de er jo ikke tilgængelige. Så vi også skaber måske et påvirkning i systemet udenfor vores forsoning. Så det er super relevant. Nu i i den præsentation kommer jeg i virkeligheden hen til at fortsætte vores rejse omkring CO2 beregninger beregninger her for og jeg viser nogle forskellige eksempler omkring vores
+
+00:23:30
+generelle tilgang omkring Alexsarbejdere med faktisk selv i fokus på de rammeaftaler fordi vi har rigtig mange rammeaftalere i HF øh og nemlig jeg vil gerne så viser det vi har lavet faktisk mens jeg var i Rambel øh for to år tre år siden. Øhm på det tidspunkt vi skulle lige der var en ramaaftaler altså på arbejder for HF som
+
+00:24:00
+skulle genudbydes. Og så der var spørgsmål om, hvordan skulle vi så inkludere bagedugtighed ind i ramaftaler, så det bliver faktisk også som et ø behandlet som et punkt. Problemet er, vi vidste jo ikke rigtig hvor meget CO2 der kom fra de faktiske realiserede tal fra de tidligere på spildevandsledninger. Og så det vi tænkte, det var jo at vi skulle nemlig bruge livscykelsanalyser øh for at så beregne øh CO2 ekvivalenter
+
+00:24:30
+både på den kommende tilbudsliste på rammeaftaler, men også på de realiserede kloakprojekter inden for den tidligere rammeaftaler. øh over for det. Så det det virker måske at det ikke er for nut lige nu, men det var jo ret nutt på det tidspunkt. Øhm vi har jo rigtig mange post sådan ramtaler og typiske når vi skal lave nogle klararbejder. Det er nogle rammeftaler som gælder for fire år nogle gange otte år. Så hvis vi ikke har fokus på bagedugtighed allerel i rammeulbud så
+
+00:25:00
+kommer vi jo faktisk til at miste en chance for rigtig mange år. Og så det er svært at komme efterfølgende og sige: "Nå forresten, I skal også arbejde på at reducere CO2'en." Øhm, men vi skal selvfølgelig gøre det klogt, og vi skulle selvfølgelig bruge øh CO2 beregninger for at så forstå, hvor igen kommer de påvirkninger fra, og hvad er for nogle tiltag som øh så vi kunne bearbejde ind i rammeulbud. Så jeg på det tidspunkt jeg gav som rådgiver og så
+
+00:25:30
+efterfølgende har for lidt Ja. internt øh ja ulbuds proces. Så det er jo det vi har valgt, det er jo at vi skulle nemlig kigge på som sagt altså tilbudslisten og de faktiske realiserede tal på den tidligere rammeaftaler. Og der var forskellige elementer i sådan en ramaaftaler. Så det vi valgte det er jo at få beregnet alt de CO2 påvirkninger som kommer fra jordarbejder, læningsarbejder og alt
+
+00:26:00
+omkring belægningsarbejde. Det vil sige asfalt øh der kommer der vi skal bruges og i forbindelse med læningsarbejder det jo både brøne læninger både som beton og plast og fulg transportlæninger til byggeplads og jeg arbejder det alt omkring julgravning tilfølgning omkringfølgning og transport selvfølgelig så det var jo faktisk en screening på de største mængder både
+
+00:26:30
+tilbudsliste og de faktiske måske realiser realiseret tal fra de tidligere øh rammeaftaler. Øhm, så det som jeg er rigtig glad for, når vi laver livscyklusberegninger, det er jo det vi kalder hotspotsanalyse. Det er jo kun med hotspotsanalyse som vi virkelig finder ud af det, hvor skal vi lægge vægt på. Så vi fik lavet de der screening, og vi fik selvfølgelig beregnet den sammel CO2 afdrukket, men specifikt, hvis vi så
+
+00:27:00
+skulle fokusere på nogle specifikke tiltag, så kunne vi faktisk finde ud af det, at de største poster, og det er selvfølgelig ikke en overraskelse, de kommer fra opgravning og en bygning af jord af alt det diesel der skal til. Og så har vi jo betonrør, som betyder super meget. Øhm og så når vi retlerer befastet, så der er også en del af asfalt som også betyder en del i CO2
+
+00:27:30
+beregninger. Så det er jo sikkert nogle af de ting, som vi skulle have fokus på. Øhm. Ja. Øhm. Når vi så har lavet de der beregninger, vi har også tænkt, nå okay, men hvordan kan vi så vise til at få, altså nu til mig som sådan, at det faktisk de kan komme og bespare rigtig meget, hvis de så indfører nogle tiltag eller nogle krav. Så der er nogle principper som sådan man kan bruge. Og
+
+00:28:00
+nu jeg viser til den her kilde. Der er mange der bruger den her de der generiske principper for at bruge for at bygge med mindre CO2 eller miljø aftrukket. Så den første er kan vi jo øh udskyder som sådan investering altså byg ikke unødvendig øh og så der er noget omkring byg mindre n pladsen smar bli fleksibel så du kan jo faktisk ændre på det og bygge gennemvældig og så
+
+00:28:30
+selvfølgelig bygge med det eksister så det er jo bare nogle generelle principper som jeg tænkte bare viser til jer øhm og jeg faktisk jeg faler man bruger den generelt på på projekterne. Øh, men øh øh en af de ting øhm som vi har også haft fokus på øhm det er jo okay, men vi skal selvfølgelig lave på et tidspunkt nogle kakaarbejder, men for eksempel kan vi vurdere om hårh vi
+
+00:29:00
+kan udskyde nogle ting. Øh hvad er risici? Så det er også vigtigt at hvis vi udskyder nogle ting vi også beregner som sådan er risici tilknuttelse i dag. Og hvis vi skal så bygge, hvad er så de materialer, som vi skal bygge med? Øh, kan det være måske vi bygger med en alternativ betontube, eller vi kan bygge med nogle andre materialer end beton? Så det er også nogle spørgsmål, som vi stiller os selv og får undervejs. Så det
+
+00:29:30
+var ikke på det tidspunkt, vi havde ikke alle svar. Så men det nogle gange det er faktisk dialogen og troftelse som giver rigtig meget værdi når man arbejder med CO2 beregninger og siger i arbejde fordi det er jo faktisk en proces. Øhm, så vil gerne selvfølgelig vise, at hvis vi skal så indføre nogle tiltag, der kommer nogle besparelse. Øh, det har vi jo dokumenteret, fordi vi beregnet det, vi kalder de potentielle så teoretiske besparelse. Nu når vi har
+
+00:30:00
+så fundet ud af det, hvor meget det koster øh generelt CO2 mæssigt at få lavet kloakarbejde øhm så hvis vi så siger når vi vi kan bruge nogle CO2 reducerende betondrører for eksempel hvad giver det så af reduktion og her vi kunne beregne at hvis vi så går ind med CO2 reducerende beton så kan vi gå ned med 600 ton CO2 ekvivalent og hvad nu hvis vi siger nå men vi kan også vælge
+
+00:30:30
+at stille krav at alt det beton skal være CO2 reducerende og det er jo beton til r brønd og få fliser hvis vi selvfølgelig ikke har vi ikke genbruger den fra andre steder og i den tilfælde så vi fik beregnet der oli reduktion på cirka 400.000 Og så som jeg vidste tidligere en af de største poster det var også der omkring en bygning øh altså genbygning øhm altså øh undskyld øhm opgravning af jord og
+
+00:31:00
+transport jord så vil det hvad vil det så give hvis vi så genindbygger alt det jord hvis det er muligt selvfølgelig hvis det ikke har foring og alt det grus så den faktisk giver på selve krakarbejder en olie cirka 500 tons co2 ekvivalenter og det var jo faktisk nogle teoretiske besparelse vi vi vi beregnet ud fra nogle øh CO2 dokumentation. Øhm og det kunne vi se, at hvis vi så indfører alle de der tiltag, så faktisk vi kan spare
+
+00:31:30
+cirka øh 1600 ton CO2 ekvivalent, som så svarer til cirka 50% reduktion. Så det var jo bare for at vise for nå okay, men det der er faktisk øh gode potentiale. Øh hvad så omkostninger? Fordi jeg fik også det her spørgsmål. Altså der er jo så vidt jeg huske de der tår de kommer jo til at koste lidt mere men det jeg mærker det er jo at det er jo kun de koster mere i starten og hvis vi aldrig stiller krav at så entreprenørerne skal så arbejde
+
+00:32:00
+med mere CO2 reducerende eller LCReducerende øhm aktiviteter eller materialer så prisen kommer jo aldrig aldrig ned. Øh, men den her, den tredje, det kommer relativt altså som gratis, fordi det er jo det faktisk koster at komme af med jord. Øhm, så der er også nogle økonomiske beregninger, som jeg har ikke her, men de koster lidt, og de koster ikke som sådan. Øhm, så hvordan har vi
+
+00:32:30
+som den præsentation er faktisk lidt mere general måske, men også øh lidt kortere end da jeg har haft tidligere. Så der blev også som sådan stiller et krav at entreprenørerne skulle samarbejde, så skulle det vægtes som sådan positivt at de skulle samarbejde på at få lavet en form for øh ja strategi omkring hvordan de skulle minimere øh miljø aftrukket og faktisk
+
+00:33:00
+lige nu i den der har jo vundet entreprenørerne som har jo vundet ramaftaler øh sammen med projektleder skal faktisk konkret arbejde med beduktighed. Øhm, og det skal konkret integreres i projektering og udførelse. Så vi har jo nogle central krav omkring bagedugtighed. Så dem der har vundet, de skal jo arbejde med jord og materialer. Det vil sige, at de skal jo minimere så
+
+00:33:30
+vidt som muligt de virgin materials, altså jomfrålige materialer, og arbejder med genbrug og genvendelse i jord. Og de skal få lavet en jordhåndteringsstrategi så tillidigt som muligt. Og så der det fokus med ressourceffektiviteten i forhold til materialer, men også til materialespil. Og der var deromkring maskiner, fordi som I kunne se fra de beregninger, så har der altså den en af de største poster, det er selvfølgelig anlægsaktiviteter, altså alt det diesel,
+
+00:34:00
+der kommer i lelanlægsfaser. Så øhm de skal jo der skal være en yd anvendelse af missionsfri maskiner øh over 12,5 tons. Også der er krav i rammerhotaler, at alle de maskiner under 2,5 tons, de skal være missionsfri og så kan de jo arbejde med nogle yderligere tiltag. Men øh det var jo det der sker. Der sker det for jeg tror et år siden. Men nu øh bare i den sidste
+
+00:34:30
+måned har for kommet nogle nye retsningslinjer. Øh, og det især i forbindelse med øh emissionsfri maskeringer og jord øh så den første øh HF har få lavet en form for trappemodel omkring øh ja vurdering af markeds mål øh i forbindelse med missionsfri maskinen. Så projekterne
+
+00:35:00
+skal altid forholde sig til den her model. Og der er den her krav, at alt omkring at alt under 2,5 ton af de maskiner, de skal jo være emissionsfri. Og så fra 2022 og 2028, så har vi jo maskiner på 15 ton øh eller under. De skal jo så være emissionsfri. Og så fra 2021 og 2030, så er det alle de maskiner øhm på titon eller under, som skal være
+
+00:35:30
+missionsv fri. Og det er jo i takt med målen målenheden. Øh, vi snakkede også meget bakterier og alle de der tilgængelighed af de der missionsfri maskiner. Så det er noget som er nut. Øh, der er min kollega Lena som har arbejdet rigtig meget på det her. Øhm, men det er jo noget også, der er en proces, så alle projektlederne de bliver forklaret omkring de der modeller, hvordan de skal bruge det også for at stiller nogle krav i ulbud. Og så der er
+
+00:36:00
+det med jord. Og nu vi snakket rigtig meget om livscykelusanaluser. Vi faktisk fik lavet den her øh jordtrappen. Hvad er den bedste måde at håndtere jord på et anlægsprojektet? Så det er jo det som trappen skal hjælpe jer skal hjælpe projektleder. Øhm, så vi fik lavet nogle beregninger både CO2 beregning og LC beregninger. Jeg har dem ikke her desværre i dag. Øhm, men udover øh ud fra forskellige
+
+00:36:30
+vinkler, vi har så sagt, okay, det er altid godt, hvis jorden ikke er foruren, at jorden skal altid genindbygges. Så det er jo altid, du ved, det er jo den første tiltag, som man skal jo lave på et projekt. Hvis så er projektleder, en projektchef det, det kan ikke lade sig gøre, hvad skal vi så gøre som næste? Altså helst sikkert det vi har beregnet øhm øh også med hjælp med rådgiver øh
+
+00:37:00
+det var Rambul faktisk øhm så skal vi hoppe op i den næste og hvad er det så det har jord hvor lokalt eller fra fjernebort så det er jo den næste bedste. Men hvad vi så vi kan ikke gøre det her. Så der er at vi skal gå på nummer tre altså materielle fra jordvaskerlæg og så har vi nummer fire som er kalsabiliseret jord og så det allersidste det handler om nyrstoffer. Det er jo kun når vi virkelig har ikke
+
+00:37:30
+andre alternativer som vi må bruge nogle jomfruerlig øh ressourcer. Øhm. Ja. Så som sådan ja, det skal altid være som sådan i dialog med projekt chefen. Øh, og man skal så vurdere, hvad er den bedste strategi. Så i første omgang altid i skal de skal forholde sig til direkte gennem en bygning, og så skal de vurdere, hvad er så det bedste at gøre,
+
+00:38:00
+for de skal bevæge op øh i trapperne. Øh, så det kan ikke bare gå rakte her. Det kan de som sådan ikke. Øhm. Ja. Jeg fik også et spørgsmål på et tidspunkt, hvor meget det giver i CO2 reduktion. Jeg har glemt at have den med i dag, men jeg skal nok vise det. Jeg har en andet oplæg på tirsdag øh til Danmark, så det kan være jeg viser de resultater der. Eller hvis I er interesseret omkring de bagved uregninger, I må meget gerne
+
+00:38:30
+skrev til mig, fordi det har vi jo det har vi har lavet en stor dokumentation. Øh, men nogle gange det er jo altså min oplevelse er at t2 beregninger C beregninger skal være lidt besværligt. Så vi har få lavet de der jordtrapper. Der bliver simpelt i gangsat til en arbejdsgruppe herfor som kun har kigget på de der tår og de har så forladeet øh de der operationalisering operationaliserede jordtraper og visionsmaskine trapper. Øhm. Ja, jeg vil
+
+00:39:00
+bare sige som allersidste, at jeg arbejder med livscyklusaler. Og livscyklusanalyser, det er ikke kun klima. Det er faktisk mere end klima. Øh, det vil sige, at klima er jo en del af den miljøaftruktvurdering som øh ja, som vi beregner på et projekt. Så generelt, ja, det er jo rigtigt, at fokuser klima, ressourceforbrug i beslutninger, men vi skal ikke glemme at der er også alt det
+
+00:39:30
+andet. Så med livsanalyse vi arbejder med cirka 15 kategorier der er vigtigst for eksempel i for eksempel i tunnels projektering. Men der er også noget med toksicitet der er meget tungmetaller i regnvand øh der er fokus på nitrogen og fosforus så kvælstof og fosforus og alt omkring vandforbrug og arealanvendelse som tæller ind i det vi kalder offside biodiversity påvirkninger. Så det er ikke, vi skal ikke bare glemme, at fordi
+
+00:40:00
+vi skal være nul på klima, at de andre, vi må bare, du ved, gøre alt muligt altså og og øge vores påvirkning, du ved, på infinit. Øh, så i hvert fald vi skal være opmærksomme på, hvis der er en burden shifting. Så det er også min tilgang, så jeg også prøver øh i at få, siden jeg var ansat til sidste år, til at lige øh også få koblet nogle andre dagsordener end klima. Klima er super vigtig, for vi skal også, vi skal ikke glemme, at vi
+
+00:40:30
+også skaber nogle andre påvirkninger eventuelt. Måske, måske det gør vi ikke. Men øh, det er i hvert fald godt at få den beregnet. Og jeg har faktisk tkt, jeg vil have den her slide med, fordi det er faktisk ret vigtigt. Når vi siger, vi laver LC beregninger, så skal vi også beregne resten. Yes. Og tak igen foret. Tak, Maria. &gt;&gt; Tak.
+
+00:41:00
+&gt;&gt; Nogen der har nogle spørgsmål? &gt;&gt; Tak Maria. Det var det var super spændende. Øhm, og tak for at minde os om at vi skal også snakke om andet end CO2. Øhm, du nævnte lige en bisætning af eller at LCA kan være besværligt, og det har jo ry for at være rigtig svært at arbejde med. Hvad er jeres erfaringer i forhold til at få en accept af LCA hos i
+
+00:41:30
+organisationen, samarbejdspartnere, entreprenører? Er er det svært eller begynder det at gå bedre? &gt;&gt; Tak for spørgsmål, Miriam. Altså mm jeg tænker at det er nemmere når der er nogle direktorer eller ledelse som prioriterer de der dagsordener. Så det det er meget nemmere når ledelse prioriterer dem. Så det er jo både bottom up som går rigtig godt at få. Men der er også nogle rigtig gode ambassadører faktisk i forskellige
+
+00:42:00
+afdelinger som vi gerne have LC. Jeg har jo holdt en præsentation bare for en måned siden, og der var flere som så begyndte, nå jeg skal også have Cub, jeg skal også have Lca. Så der er både fokus bottom up og ja, bottom up og up og top down som sådan. Øhm, så jeg min oplevelse er at det går bedre og vi har simpelthen valgt det strategisk projekt de udfordringer vi har. Så det er jo selvfølgelig i forbindelse med hvor meget det må koste, men det er selvfølgelig det må også i forbindelse
+
+00:42:30
+med ressourcer og kompetencer. Fordi jeg vil ikke sige at bare du ved få lavet en øh ja altså det kræver nogle kompetencer. Det kræver nogle farvefolk som forstår hvordan man fortolker de der CO2 beregninger. Det er ikke bare at få lavet øh en multiplication du ved. Det er også det der det handler om. Men det er også at få fortolke resultatet som er vigtigt. Så det kræver en form for faglighed. Øhm, så det udfordringer det omkring
+
+00:43:00
+øh, vi skal måske kompetencebygger nogen, måske nogle projektledere, som igennem nogle værktøjer kan også blive bedre for de der beregninger. Øh, og også den udfordring der omkring standardisering, fordi der er mange projektledere, som laver LCM, men de bruger rågiverne, og rådgiverne bruger forskellige tilgang selvfølgelig med forskellige metoder. Så det er også noget, som vi arbejder. Hvordan kan vi l hvordan kan vi jo få en standardisering ud fra også det arbejde vi har haft med forsundingslca og mange andre
+
+00:43:30
+forsoninger? &gt;&gt; Så det er jo det er jo bare det. Mm. &gt;&gt; Der er tid til et enkelt spørgsmål mere. Vi stad nu. Ja. &gt;&gt; Carsten Fjordbak Kovi. Og tak for et spændende indlæg vej. Øhm. Jeg tror vandbranchen kan jo kigge til byggeribranchen. Byggeribranchen er meget længere fremme i forhold til CO2 og LASA beregning og andet, hvor det er
+
+00:44:00
+en standardisering. Så jeg håber da snart at at vandbranchen en tag stepper op der. Så det er ikke den enkelte projektleders ambition omkring bæredygtighed, men det er simpelthen branchestandarder. Det er noget der er forankret øh meget bedre. Og der kan vi kigge på byggebranchen, fordi de er længere fremme lige så vel omkring infrastruktur. Vi har infraindsaler eller andet. altså standardiserede metoder. Et spørgsmål til du du fremlagde forskellige scenarieberegninger i forhold til til noget baseline omkring nogle CO2
+
+00:44:30
+betragtning eller andet. Har du erfaringstaget omkring, fordi nu viste du så omkring en en røreløsning omkring de forskellige det grønne beton eller andet? Har du også sammenlignelige studier hvor det ligesom er den traditionelle rørløsning sammenlignet med blue green solutions eller nature based solution? Altså hvor vi er på terræn og ikke skal bruge så meget beton. Vi skal ikke grave så meget eller andet. Jeg ved godt det er spørgsmål om plads. Men har du også sammenlignig LCA beregninger på alternativet som vi kan
+
+00:45:00
+kalde Nature based solutions? &gt;&gt; Det er faktisk rigtig godt spørgsmål til Carsten. Øhm altså vi er nu begyndt på at få peget øh nogle projekter. Vi har faktisk skulle pege nogle projekter, hvor vi kigger i alternative løsninger. Der er blandt andet Josephine her i dag, som er projektleder på en af de projekter, som vi har udpeget, og nemlig der vi får kigget på alternative løsninger øh inklusiv nogle af de grønne løsninger og separat klokering. Og vi
+
+00:45:30
+har jo lige starel som sådan så det er jo super relevant. Øh, og det er jo i takt med implementering af LCA i og få, så vi har nogle resultater om måske en måneds til kind of. Så så du hører før mig. &gt;&gt; Yes. Så siger vi tak til Maria eller snakker om tage det i pausen jeg tager den her. &gt;&gt; Øh, hvem er jeg? Jeg hedder Sigort. Jeg kom fra Københavns kommune. Øh,
+
+00:46:00
+anlægsprojekt Bygherre. Det hedder MKB. Jeg prøver at tale lidt tydeligt, så svenskerne også kan følge med, men jeg snakker hurtigt, og jeg har 30 slides med, og jeg når dem ikke. Så hvis I har et spørgsmål, så kan må vi Kan I tage, kan vi ikke prøve at tage dem løbende? Så skal jeg nok prøve at gentage jeres spørgsmål, hvis I har et. Men hvis I kommer på et spørgsmål, så række hånden op. Vi omsætter for en milliard om året. Vi laver alt imellem husene. Bla bla bla. Hvad er vores mål? 50% CO2 reduktion i 2035. Og vi når det. Det er det. Og vi skal lave en by, der alle kan
+
+00:46:30
+være med i. Og vi skal lave en fantastisk by. Sådan der. Hvordan gør vi det? Vi har lavet en klimaplan, der kører frem til 35, der hedder, vi skal reducere 50%. Og ø der skal vi bruge en hel masse LCA, og vi skal gennemkigge måden på, vi gør vores projekter og generelt gennemtænke på, hvad er det egentlig, vi gør, og hvordan gør vi det, og hvordan gør vi det bedst? Og alt det kræver, man laver L. Og vi er fuld smader. Og nu siger alle folk, ah, hvad koster det at lave LCA? Hvad koster det ikke at lave LCA? Altså sådan I glemmer at tænke på hvor
+
+00:47:00
+mange penge I går glip af og finde fede besparelser i jeres projekter. Jeg er selvbetalt. Altså alle mine penge har jeg tjent ind igen, fordi jeg finder besparelser i vores projekter. Jo mindre vi bygger, jo mere penge sparer vi, jo mindre mere CO2 sparer vi. Det koster penge ikke at lave LTA. Hvornår startede vi? Vi startede i 2021. Der blev jeg hyret, fordi alle projekter over 20 millioner skulle have lavet en LSA. Det var alt for nemt. Så efter et år så sagde vi alle projekter. Og så efter et år til, så sagde vi alle projekter i alle faser. Det var mega fedt, mand. Og så sagde vi 100% fossil og missionsfri.
+
+00:47:30
+Og så så kombinerede vi det. Og så sagde vi, hvis du ø hvis du afleverer data til fossil og missionsfri, så laver jeg en for dig, og så får du nogle penge, som ligesom sådan kombinerede det. Så vi går hånd i hånd, forsionsfriag. Det er mega fedt, ikke? I 2025 der sagde vi 50% reduktion på indkøb, og det når vi. Vi fortsætter hurtigt videre. Vi udleder 13.000 tons om året. Det er sindssyg meget. Vi prøver at slå, hvor det gør ondt. Jeg er træt af at snakke om jordhåndtering. Jeg er sygt træt af
+
+00:48:00
+at snakke om jordhåndtering. Lad os snakke om beton. Lad os snakke om asfalt. Lad os snakke om noget, hvor det gør ondt. Vi skal slå, hvor det gør ondt. Vi skal slå, hvor det giver mening. Jeg vil rigtig gerne snakke om betonfundering. Det gør jeg også senere. Vi har en masse afdelinger. Det udleder en masse forskellige ting, men afdelingernes problemer er meget forskellige. Brug og tunnel, de bruger jern og stål hele tiden. Vejene, de bruger en masse asfalt og granit. Og parkerne, de bruger en masse faskiner og plastik og alt sådan noget. Så man kan jo ikke tro, at vi kan køre alle vores anlægsprojekter over en
+
+00:48:30
+kamp. Vi er nødt til at behandle dem forskellige og forstå, hvad vi kan lave de forskellige steder. Lag skal være sjovt. Lag skal være spændende, og projektlederne skal være en være en del af det. Hvert projekt de får sådan en her fire gange i deres liv ved hver gang de skifter projektfase. Hvad fortæller den? Den fortæller lidt om deres projekt. Hvad er 512 tons CO2? Det ved jeg heller ikke. Så jeg har lavet et spilometer for genbrugsmaterialer. Det kan jeg forstå. Det er nemt at
+
+00:49:00
+relatere til. Jo mere genbrug der er, jo mere siger spinometer bedre det er. De er ordentlig dårlige til at få genbrugsmaterialer ind i det her projekt. Skal vi ikke gøre noget ved det? Skal vi ikke få speedometeret over i den gode side? Det samme her. Så sammenligner vi det med standardprojekter i vores kommune, så vi ser, hvor ligger det her projekt i forhold til andre projekter. Vi kigger på, hvad for nogle top 10 materialer, der udleder allermest. Hvad skal vi snakke om? Vi skal snakke om betonfundering. Vi skal snakke om brudsten. Her kan man se, hvad for nogle genbrugsmaterialer, der er i projektet.
+
+00:49:30
+Alt det her, det er pissemotiverende for en projektleder. Altså det er det, du gerne vil se. Det det skal være sjovt. Det skal være fedt at arbejde med. Vi fortsætter lidt videre. Det er på hele databasen. Masser af tal. I kan se her, nu skal I sige noget sjovt. Nej, nu kan man så ikke se tallene her. Der laver vi fem, seks L om måneden. Så begynder jeg at give projekterne 1,3% af deres projekt, hvad hedder det, anlægsoverslag for at gå til fossil og missionsfri. Hvis de skal vil
+
+00:50:00
+have de penge, så skal de aflevere datasæs af 20 Lager om måneden. Bang bang. Og så bekymrer jeg også at komme ind, som hun får siger, når den første projektleder kan se, det er en fed ting, når du først har været nede i en afdeling og fundet en besparelse på 5 millioner, så næste dag så kommer hele afdelingen op. Det er pisse fedt. Vi samler alle sagerne. Det gør vi. En stor blanding. Bla bla bla. Udplan. Hvor kan vi slå henne? Vi hopper videre. Det går lidt hurtigt, ikke? Nogle spørgsmål?
+
+00:50:30
+Det er godt, vi hygger os. Det er pisse godt, vi hygger os. Der er to ting, vi kan gøre. Vi kan genbruge materialer. Det er vi pisse gode til. Vi genbruger 90% af granitten i København. Det er pisse fedt. Det er rigtig svært. Det kræver, man skal planlægge med det. Så skal man bare tage sin tilbudslisteposter ud, for at de kan købe nye materialer, og så tvinger man alle til at bruge genbrugsmaterialer. Pisse fedt. Øh, det handler om at gøre genbugsmaterialer lige så gode og lige så nemme for projekterne at anvende som nye materialer. Når det er det, så anvender de dem alle sammen. Vi nedknuser beton og asfalt. Pisse fedt,
+
+00:51:00
+mand. Hvorfor gør vi det? Det gør vi, fordi vi tjener kassen på det. Grus er pissedyrt. Mange af de her bæredygtighedselementer, det gør vi ikke, fordi det er bæredygtigt. Det gør fordi vi sparer penge. Brug den motivation. Nedknuse jeres beton og asfalt. Brug det som vejfyld. Pisse fedt, ikke? Pisse fedt. Vi har nogle på jer problemer. Det her det er vores genbrugslager. Det ligger ude på Celinevej. Det ligger ude på Amar ved siden af skydebanen. Det startede vi i 2015, fordi vi fandt ud af, at vores entreprenør, de pillede vores granitsten op, og så betalte vi
+
+00:51:30
+for at komme af med dem, og så købte vi dem to gader længere henne. Øh, det var ikke så godt. Så vi lavede genbrugspladsen, der kører cirka 20.000 tons granit ud og ind af den plads hvert år. Øh, der akkumulerer sig cirka mellem 5 og 8.000 tons granitprodukter hvert år. Jeg kan ikke komme af med mine genbrugsprodukter. Hjælp mig. Hvorfor kan jeg ikke det? Det er fordi, at det er pisse billigt at asfaltere, og det er pisse dyrt at få brulæggere til at ligge på deres knæ og lave brustensveje.
+
+00:52:00
+Øh, der er en masse udfordringer med det. Det er derfor, vi skal tænke de standarder, vi gør, skal vi tænke dem om. Københavnerstandarden, det er en måde at lave et fortorv på. Der er en ledlinje i midten. Den er pisse god at skifte ledninger under. Den er pisse klimatung. Den knækker hele tiden. Hvad skal vi gøre? Skal vi få en ny flise? Skal vi være ligeglade med, at den knækker, eller skal vi bare asfaltere vores fortor? Det kræver en politisk beslutning. Den kan jeg ikke tage for os.
+
+00:52:30
+Så det vi skal gøre, det er vi skal kigge på ø hvad er det vi har for nogle ting på den gode og på den anden side. Det er ikke altid bæredygtighed, der vejer tungest. Der er også universel design tilgængelighed. Folk i kørestol skal også kunne komme rundt i byen. Øh, så vi kan jo starte på nogle andre ting. Vi har testet en ny flis og svampe lige for tiden. De kan sidst vi snakkede med dem, så kunne de producere 6 700 kvadratmeter om året. Jeg bruger 860 8000 nej 68.000 kvadratmeter fliser om året. Så der skaleres noget op på de der alternative materialer, hvis de skal ind
+
+00:53:00
+i vores anlægsprojekter. Jeg er i gang med at teste en tyndere flise. Det lyder lidt kedeligt. Der er et spørgsmål her. Fiser. &gt;&gt; Det er en flise. &gt;&gt; Ja. &gt;&gt; Var det det spørgsmål var? &gt;&gt; Ja. &gt;&gt; Yes. En flise. Øh, en flise med mindre beton. Lige nu er den 7 cm. Hvis vi gør den 6,5. Jeg ved godt, det lyder sindssygt usexet, ikke? Men forestil jer besparelsen over 68.000 kvadratmeter. Det er noget, der batter. Folk er ligeglade. En halv centimeter fra eller
+
+00:53:30
+til. Anlægsbranchen går med sikkerhedsselere og og alt muligt. Så de overdimensionerer altid. Det er pisse nemt at finde besparelser. Der skal vi være ligeglade med den knækker. Det vil jeg ikke. Det en helt anden løsning. Det er godt. Vi gør det også med minimumsopbygning. Test er også forskellige grudstig i pakkprojekter. Vi skal bare udfordre rådgiveren lidt. Altså sådan hey behøver en paksti være 60 cm? Ej det behøver den nok ikke. Vi kan nok lave den på 40 cm. Kan I ikke lave den på 20? Det kunne de fandmee. Pisse fedt mand. Besparelse. Penge ind.
+
+00:54:00
+Alle vinder. Mindre opgravning. Mindre gros ind. Pisse fedt, ikke? Erstatninger i jomfrugige materialer. Pisse fedt. Vi har problemer med slakkegros og kaldstabilisering. Selvom jeg er kæmpe fan, fordi at grundvandspejlet ligger rigtig højt i Københavns kommune, så vi må finde andre ting. Genanvendte materialer, det har jeg snakket om. Det er for fedt. Kom i gang. Det er billigt. Især i Danmark. Jeg ved ikke om svenske gruspriser er høje. Det håber jeg. Fordi at det gør at genbrug produkter er billigere. Og det er fedt. Reducere
+
+00:54:30
+opgravning. Stockhooking af brusten på stedet. Øh, når man skal cykle på sådan nogle bruststen, så kan man få dem lavet sådan lidt flade, hvis I kender det. Kender I det? Det er pisse fedt, ikke? Før i tiden, da vi skulle lave sådan nogle cykelstier, så pillede vi alle de der gamle sten op. Så købte jeg nogle nye helt stokhugersten, og så lagde jeg dem ud igen. Og så tog jeg alle de gamle sten og smed dem ud på min plads. Og så blev det en del af de der 8.000 tons, jeg ikke kan komme af med. Så ø fik jeg dem stokhugget på stedet.
+
+00:55:00
+Så sparede jeg flere millioner kroner. Jeg sparede kør dem ud på Celinevej. Og det er en det det er en håndværker på pladsen, der kommer hen og siger: "Fuck mand, jeg gider ikke flytte de her brysten. Kan jeg ikke bare få lov til at skrabe dem på stedet?" Jo, det kan du godt, mand. Hvorfor er der ikke nogen af mine sjove rådgivere, der har sagt det til mig? Altså, kom nu. Pissefed projekt, ikke? Vi laver det der hedder massflow analyser på hele vores projekt. Så kan vi se alle vores jomfrolige materialer. Vi kan se vores genbrugsloop herovre. Og vi kan se hvad for nogle materialer der går ud af kommunen. Vi
+
+00:55:30
+har også noget genbrug hernede. Det er meget fedt at holde styr på det. Så kan vi slå, hvor det gør ondt. Vi kan fokusere på at få færre og mere klimavenlige materialer ind. Vi kan fokusere på at få mere rundt i loopet i Københavns Kommune. Og vi kan fokusere på at få mindre affald og blive bedre til at håndtere den mængde affald, vi får. Øh. Ja, det er noget virkemiddelkatalog. Vi skal sørge for det er dokumenteret og bevise den effekt vi laver. Og hvis ikke vi kan bevise det, så skal vi gøre noget. Nogle beslutninger kan vi bare tage. Nogle beslutninger skal vi have politisk opvakning til. Øh, det er lidt
+
+00:56:00
+forskelligt. Det er an på, hvis de er for dyre, hvis de er billigere, og hvis de er inden for vores politiske råderum. Det kan jo godt være nogle gange, man kommer til at træde andre folk over tærne. Sådan noget som universel design eller jord og grundvand. Men så må det jo være en politisk beslutning at bestemme, hvilken vej vi går. Nogle spørgsmål? En af gangen der. Jeg laver sindssygt meget LCA. Jeg laver LCA af budgetfasen, og politikerne skal tage hensyn til det. Jeg laver altså af hele projektet, alle projektfaserne og slutopgørelserne. Vi sætter det hele sammen. Jeg laver det på portefølje nu.
+
+00:56:30
+Jeg laver det på virkemiddel. Vi laver det hele tiden. Lav det, mand. Kom i gang. Sæt dem sammen. Altså sæt alle jeres projekter sammen. Find ud af noget af jeres portefolie og slå, hvor det gør ondt på hele basen. Nogle ting er nogle projektafgørelser. Skal vi have en mindre cykelsti i det her projekt? Nogle ting er nogle porteføljeafgørelser. Skal vi vælge vores indkøbsparadigmer at have det her reducerede beton eller have de her elmaskiner? Find ud af hvad for nogle projekter eller hvad for nogle virkemidler der passer ind i hvad for nogle projekter. Sørg for at det I foreslår passer med projektet. Hvis det
+
+00:57:00
+er et lille projekt, så skal I nok ikke foreslå at sige ah, det her det skal revolutionere måden. Men hvis det er et stort projekt som har noget at kræfter at rykke med, så prøv at lægge ind der nogle af de større ting med det. Vi prøver hele tiden nye ting. Nu hopper jeg hurtigt over dem. Vi kunne have fedt, hvis I kunne stille spørgsmål. Jeg snakker alt for hurtigt, så I må lige stille nogle flere. Jeg har &gt;&gt; Tak. Når du siger LCA, er det så alle faserne, I tager med som i det her værktøj, eller er det A1 til A5 eller? &gt;&gt; Vi har princippet alle faser med.
+
+00:57:30
+&gt;&gt; Det vi har fundet ud af, det er at driftfasen er ligegyldig i København, fordi at det den driftfasen er regnet på en baseret på en produkts levetid. Så du siger, at asfalten holder 15 år, men inde i København er det ikke materiel levetid, der betyder noget, men kulturel levetid. Inden den her asfalt er gået i stykker, så har politikerne besluttet, at der skal være en grøn gade, der skal være parkeringshuse, der skal være klimatilpasning på vejen. Så derfor så er mit driftaspekt lige meget, fordi at det kan jeg ikke tage med i det, fordi at der er nogle andre beslutninger, der gør, hvad produktet lever af andre end de materielle ting. Hvis jeg designede
+
+00:58:00
+en togbane, jeg er ret sikker på, den togbane er der om 100 år, men jeg er ikke sikker på, at Nørrepr ser ud, som Nørreport gør om 100 år. Og det er også derfor, vi har prøvet at tage den her driftfase ud af det. Og så er der også noget med politiske organisationer og dobbeltkontingering og alt sådan noget. Det er rigtig spændende emne, og vi har meget fokus på det, men vi har valgt at tage den ud, fordi det forstyrrer elementet for at tage de rigtige beslutninger i vores projekter. Det kan være andre. Hvis man nu er sikker på, at projekterne har den levetid, man forventer, så kunne det være, man skal arbejde med levetid. Men København, der
+
+00:58:30
+sker for meget. Det sker for hurtigt. Så at tage hensyn til en materiel levetid er irrelevant. &gt;&gt; Når det bliver skiftet ud hurtigere, har du så bortskaffelsesfaser med? &gt;&gt; Selvfølgelig har vi det. &gt;&gt; Fedt. Tak. Det her det er mit stolthedsprojekt i Sigursgade. Jeg hedder Sigur øh hvad er det? Det her det er genbrugsbeton for byggeri. Det er pisse fedt. Det er et helvede myndighedsarbejde det her. Det sparer cirka 60. Altså nu laver vi på hele Sigortsgade, så laver vi 1000 løbende meter af sådan et klima bed her. Det
+
+00:59:00
+sparer en masse CO2. Det sparer en masse råstoffer, fordi man ikke behøver at lave en masse ny beton. Det er nogle vægge for byggeri, jeg er banket ned i et klimabed. Det er pissefedt det her. Og det hvordan sker det? Det sker ved at man prøver at udfordre nogle standardkrav. Vi prøver at udfordre statiske krav. De behøver ikke at holde så meget. Behøver at man kunne parkere en lastbil alle steder i København også oven i klimabed. Ah, det behøver man nok ikke. Øhm, så så da man fjernede det krav, så kunne man lige pludselig bruge genbrugselementer, og så kom kampen ind i det. Det kræver nogle rådgivere, der er friske. Det kræver nogle myndighedsbehandling, der er for vild.
+
+00:59:30
+Og så kræver det nogle villighed til at prøve. Fordi at hvis det her går galt, så skal så har min chef sagt, at hun betaler. Så øh jeg har fået en garantistillelse på et par millioner for at det her det ikke går galt. Så lad os lige håbe på, det bliver mega fedt. Mindre grus i pakstiger, mand. Vi er reduceret fra 60 cm til 40 cm til 20 cm, og det virkede bare. Der var ikke nogen, der sagde noget til det. Og nu er jeg i gang med at optimere materialerne. Nu siger vi, skal de 20 centimeter være ny grus? Kan det ikke være gammel grus? Pissefedt projekt. Det betaler sig selv.
+
+01:00:00
+Det koster jo ikke noget. Øh, ny rammeaftale på københavnerflisen. Skal vi have en sekser? Skal vi have en Vi har en overkørsflise på 10 cm? Skal den være 9 cm? Skal vi kunne sætte krav til den? Det vi også prøver at sætte ind i alle vores nye rammeaftaler, det er en mulighed for at undervejs i rammeaftalens forløb, som ofte løber fire, seks, otte år, at man skal have en mulighed for at have en dialog med entreprenør eller producenten og sørge for at sige, kan vi have en dialog om det produkt, vi har? Kan vi sørge for at I som producent lover os at I sætter tid
+
+01:00:30
+af til om et år at vi snakker om bæredygtighed i jeres produkt og I sætter nogle midler af til at prøve ting med os. Få det med ind i jeres kontrakter. Tving entreprenøren til at producenterne til at nytæinge sig selv. Det er pisse fedt. Svampefliser. Det er crazy. Det virker ikke. Det er sjovt. Nogle gange så skal vi prøve ting, der er lidt ude fra rammen bare for at gøre det. Og det er sjovt, men det er ikke altid det, der er effekten. Der er nogle forskellige typer af materialer. Sådan noget som kantstensbeton. Det er bare at fyre ind. Sådan noget som svampefliser, det er en lang proces. Arkitekter skal ind,
+
+01:01:00
+kørestol bruger skal ind. Der er en hel masse. Men gør det, fordi hvis vi ikke gør det, så er der ikke nogen, der gør det, og så bliver det aldrig prøvet, og så får vi det aldrig ind. Den har jeg lige snakket om, ikke? Det var ham der. Han har taget sin søns løbehjul, og så har han taget en stokhugningshammer, og så har han gafflet det sammen, og så stokker han brudsten. For millioner af kroner i besparelse, mand. Geni, altså. Han fortsætter der. kalstabilisering og forbrændingslakker. Hvis man bruger forbrændingslakker, så kan man lave minus CO2 i sit regnskab.
+
+01:01:30
+Det er for fedt. Hvis jeres grundvands ikke er højt, så begynd at gøre det. Øh, 3D print af byggeaffald. Altså nogle gange skal det være crazy. Fem minutter. Øh, byggemøb. Øh, jeg jeg har svært ved at snakke om møbler, fordi det er så lidt af min CO2 portefølje. Jeg vil hellere snakke om kantstensbeton. Det her, det er mega fedt, mand. Nu skal I høre her. Det her, ikke, vi bruger 176 kilo beton per løbende meter. Det er
+
+01:02:00
+sindssygt meget beton, og det er lige meget, om den her sti den er ud til Amarfæet, eller om den går op til Amar Boulevard med den tungeste trafik København. Vi bruger sindssygt meget beton. Borgerne er pisse ligeglade med det her. Det er mega fedt. Normalt når jeg gør noget, så skal jeg så nok, jeg har set det. Jeg skal nok, så øh, så skal man stille alle mulige spørgsmål, men hvis du gør noget under jorden, så er borgerne ligeglade, mand. Og det er pisse fedt, fordi så får man stilhed og ro til at arbejde med noget. Så det vi har gjort her, det er vi har sat krav til vores kantsbeton, og vi prøver at udvide krav til hele Københavns kommune, og vi kan spare 2000 tons bare ved at
+
+01:02:30
+sætte krav til kantingsbeton om genbrugselement i og ved at sætte EPD-krav til den her kantingsbeton. Mega fedt, mand. Derudover så prøver vi også, kan vi bruge mindre end 176 kil beton per løbende meter? Det kan vi nok godt, men det kræver, vi prøver det. Så lad os komme i gang med at prøve det. Så det er vi også i gang med at prøve. Det her med CO2 krav til til kantsbeton, det skal I bare gøre. Det koster det samme, lidt mere nogle gange. Øh, men ø I burde bare anbefale alle der har cancingsioner gøre det her. Det er så nemt. Det sparer så
+
+01:03:00
+meget, og folk er ligeglade. Øh, det var det. Jeg har en promoveringsvideo på LinkedIn med ham her Lars Jensen, som er stadig arkitekt. Øh, han snakker om alt, hvad vi laver. Han laver det oplæg, jeg har lavet på fire minutter. Øh, hvis jeg I synes, jeg snakker hurtigt. Øh, det var det, jeg havde. &gt;&gt; Tusind tak for det. Vi &gt;&gt; Tak. Var det Var det godt var det var der god energi? Kunne I følge med? Hvad
+
+01:03:30
+med dem på svensk? Var I også med? &gt;&gt; Det er godt at høre. &gt;&gt; Jeg tænker alt det svenske fordomme om at danskere bander meget, det blev opfyldt. &gt;&gt; Bandede jeg? &gt;&gt; Ja. Der var meget pisse og det opdagede jeg slet. &gt;&gt; Vi starter med spørgsmålet. Hej Emilie fra Kovi. Jeg var lidt nysgerrig på, fordi jeg synes det varierer meget alt efter hvem ens kunde er, hvorstillingsparate de så er. Hvad er et af de argumenter eller modargumenter, du ofte støder på
+
+01:04:00
+eller sådan, når du har en lidt træ samarbejdspartner, og hvad udover økonomi synes du plejer at være et af de nemmeste argumenter for at få dem med ombord? &gt;&gt; Har de børn? Altså de fleste mennesker er børn i dag altså sådan at køre på nogle af de her fremtidsindsatser, som er lidt pæ at gøre det, men de fleste mennesker vil jo godt det bedste for deres børn og det bedste for fremtiden. Jeg tror vi har en antagelse om at mange entreprenør være en modstilling mod den grønne måstilling. Og der møder jeg faktisk det komplet opvendte. Folk vil faktisk rigtig gerne være med, men de skal se sig selv kunne gøre en forskel
+
+01:04:30
+og de skal se det de gør bidrage til den forskel. De skal ikke bare føle, at der kommer en eller anden fra Københavns kommune i skjorte og fortæller ham ude på byggepladsen, hvordan han nu skal blande hans kandsten. Han skal se, at det gør han smart, og det kan spare penge på kommunen og måske gerne betale mindre skat. Og det er han sikkert også glad for. Altså sådan vi skal prøve at se nogle af de andre effekter, man kan i det. Man skal prøve at sælge det noget på noget andet end CO2- reduktion. Og så skal man også prøve at sige, at der er mange, der hader med uvidenhed. De tror, det er kedeligt at arbejde med bæredygtighed. Men det er jo sjovt. Det det er fedt at arbejde nye metoder. De friste håndværkere vil gerne udvikle
+
+01:05:00
+deres fag. vil gerne være den bedste håndværker, og det er det, man skal sørge for at finde dem og finde den motivation ind til dem. Altså er et socioteknisk sådan værktøj, ikke? Altså selvfølgelig er det super teknisk at sidde og indtaste det, men det er det sociale spil ude i projekterne med byggelederne, entreprenørerne, folk på pladsen, der er det allervigtigste for at få de her projekter til at lykkes. &gt;&gt; Der er et spørgsmål derned. &gt;&gt; Ja. Jeg undrar bare LCA. Er det flere
+
+01:05:30
+faktorer C2 da som ni titta på, eller er det bare C2? &gt;&gt; Øh, vi kigger på 16 forskellige faktorer, og det er de faktorer, der skal rapporteres i forhold til EPD-standarden, der hedder 15804A2 eller et eller andet. Øh, den fortæller sådan nogle 15 faser, og vi har bare smidt det hele ind i vores program. Det vi har fundet ud af, det er jo, at der er mange af de her ting, der er sværere
+
+01:06:00
+at snakke om. Hvad er ton CO2? Hvad er offside biodiversitet? Hvad er råstofs? Altså råstofsbevarelse kan man nemt forholde sig til, men hvad er 100 tons grus? Det er også ukvantificerbart. Så mange af de her ting, det handler om at prøve at sætte det ned på et niveau, men vi gør det hele. Men lige nu så har vi så sindssygt meget data, og vi begynder at samle data på alting, at hvis vi vi er nødt til lige at kigge nogle få steder hen for ligesom at finde ud af det, men vi kigger mest på CO2 og råstofsreproduktion. Men vi har 16 andre
+
+01:06:30
+ting med øh som vi kigger på. Øh det er jo også det vi prøver at argumentere. Blandt andet sådan noget nu sagde jeg ikke gad at snakke om jord, men jord og grus er jo nødvendigvis ikke der hvor der er meget CO2 at hente, men der er meget ressourcer at hente. Så det er jo også et spørgsmål om ressourcediskussion. Så man skal prøve at sige, men man skal også holde dem lidt fra hinanden og sige, hvad er et CO2 spørgsmål, og hvad er et ressourcespørgsmål, hvis det spør &gt;&gt; Ja.
+
+01:07:00
+Mange tak for et energisk og godt indlæg. Ø to ting. Ø for det første jeg hilser meget velkommen. Den der risikovillighed som rådgiver vi jo tit udfordret af vi har et rådgiveransvar eller andet og en bygh her. Altså så vi ender jo tit i løsninger der med livrem og seler, fordi der er ikke nogen der tør at tage den risiko. Så risikovillighed tror jeg på vegne af rådgiverbranchen hele så er vi meget meget velkommen. Øhm i forhold til det altså du i har bygget en gigantisk
+
+01:07:30
+database op ser det ud til. Øh er det sådan en københavnermodel database? Fordi nu så vi tidligere på dagen øh erfaringerne fra fra VA Syd, der havde ligesom spurgt forskellige ø både rådgiver og entreprenør eller andet. Og og der kunne vi jo se afhængig af hvilke værktøj eller så kommer der forskellige resultater og og det bliver vi jo nødt til at kigge ind i. Altså hvad hvad er det for en regnemodel i du har bygget op der? &gt;&gt; Jamen det er et godt spørgsmål. Jeg kan lige starte med at sige, at da vi
+
+01:08:00
+startede med at lave LA, så tænkte kommune, vi udbyder det til rådgiverne, og så udbte man det, og så fik man en faktor 10 forskel på det samme projekt udført i det samme program med de samme projektbeskrivelser. &gt;&gt; Øh, og derfor, det var også derfor jeg blev hyret. Det var rigtig godt, ikke? Så kan de lave den samme fejl hver gang øh hvis det er det der skal til. Derudover så prøver vi at vi har bygget videre på det, der hedder infra, og så har vi tilpasset infra til vores BKS. Øh, det vi primært har ændret, det er inputmodulet, og så har vi skiftet EPD'erne ud med de mange rammeaftaler, vi selv har. og transportafstande og
+
+01:08:30
+sådan noget, som vi selv har, som er relativt godt beskrevet i vores paradigmer. Derudover så er vi i samarbejde nu med Aarhus Kommune, og vi er gået i gang med et samarbejde om, der hedder det sådan et LSA for kommuner i hele Danmark, hvor vi tilbyder at gå ind og supplere kommunerne hjælp med LSA-beregninger for at sørge for, at det bliver gjort på en ens måde og sørge for, at den her erfaringsopsamling man laver, den kan blive gjort på tværs af virksomheder, på tværs af kommuner. Vi arbejder meget på det, og men det er en stillestående proces. Jeg vil sige, hvis man er kommune, så kan man, hvis man er kommunal byghav, som kommer op til mig
+
+01:09:00
+bagefter, så kan man høre mere om vores fantastiske samarbejde, hvor at man kunne få sådan en som mig til at komme og lave sin for dem og få sin projektrådgivning, og så tilbyder vi det den vej, fordi at de mindre kommuner og de mindre byghærere kan ikke have specialkompetencerne til at køre LAS ud i deres projekter. Og det vil også holde fast i at sige, at LA er en specialkompetence, og man skal have ind til at have hjælp med det. Men det er svært, og det er svært at erfaringsdele, men vi arbejder voldsomt på det, og det skal selvfølgelig være offentligt tilgængeligt, og det prøver vi også at gøre, og vi har haft nogle problemer med det, men vi vil så vidt gerne arbejde.
+
+01:09:30
+Også derfor vi har valgt indfredelse af som model er, fordi den ligger offentliggæing. Et sidste spørgsmål tror jeg. Nei, takk for jeg ville Jo, jeg sidste &gt;&gt; eh Takk så jättemycket. Gud var spennende. Får vi komme på studiebesøk? Var den første frågan? Eh, &gt;&gt; det det kan du godt. Det kan du godt. Så skal du give en kage. &gt;&gt; Ja,
+
+01:10:00
+det gör vi. Det gør vi. Lover. Eh, det her, jeg hängde inte riktigt med på det her med tvättningen. Var det tvättning av gatstenen för att den skulle ligga kvar eller var det tvättning för att kunna återbrukas? &gt;&gt; Kan jag egentlig oversätte tvättning för mig? Det var kändring. &gt;&gt; Nå, hvorfor har jeg lavet en glans? &gt;&gt; Nej, &gt;&gt; det er for cykelvenlighed. &gt;&gt; Ja. Ja. Det er fordi at hvis du har kørestol så kan man normalt så kan
+
+01:10:30
+brudstene være de har det der hedder tænder. Så kan man ligesom sådan bomble så barnevognen vikler. Så sørger man for at lave sådan nogle spor hvor de er presset nede m &gt;&gt; så den er bedre at køre fra kørestolsbrugerne. Og så kan vi bevare det historiske udseende i de klassiske københavnergader uden at lægge asfalt ind som man normalt skulle bruge til tilgængelighedsspørgsmålet. Vi har nogle super cykelstier, hvor folk balrer derud af, og det er de ikke så glade for brosten, så de vil gerne have de brosten, de få stykker, hvor det er. &gt;&gt; Ja, men tak. Jamen, jeg for at vi har
+
+01:11:00
+en, vi har en situation, der vi diskuterer just vi behøver tvta en del betongplattor för att kunna återbruka dem for at de de skiftar i nyans. Så jeg jeg trodde det var det, det handler om. Sigter med &gt;&gt; Men jeg tror det, altså vi prøvede virkelig også, vi vil rigtig gerne have at hvis vi har sådan en prøver at lave sådan en historie hvor det hedder fra væg til gulv til grus, fordi at hvis vi kan tage nogle af de her vægge og bruge dem som fortorselementer, så behøver jeg måske ikke købe så mange fliser ind. Så det er lige præcis det, vi skal arbejde
+
+01:11:30
+mere med. Der er enorme muligheder i det, der hedder fra byggeri til anlæg. Altså vi glemmer at bruge hinanden, og der har vi jo det fede som kommunerne har vi jo en mulighed, fordi vi både har kontrol over byggeriet og anlægget og lave nogle af de her positive sanktioner, hvor at lige nu så er vores verden opbygget meget i byggeri og anlæg. Det er rigtig glad for, I snakker om anlæg i dag, fordi det bliver normalt ikke snakket meget om til Byghæfestivalen og de andre steder. Så det er et fedt sted at have fokus. &gt;&gt; Tusind tak.

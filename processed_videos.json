@@ -501,10 +501,11 @@
     "note": "transskription findes allerede i korpus (titel-match 2026-07-02)"
   },
   "KGQ1EZ4SEvU": {
-    "status": "pending",
-    "last_attempt": "2026-07-02T17:38:52",
-    "order_id": "1783011518921977349",
-    "category": "Tech_Talks"
+    "status": "done",
+    "last_attempt": "2026-08-06T17:10:57",
+    "order_id": null,
+    "category": "Tech_Talks",
+    "kilde": "youtube-subs"
   },
   "YutqZ_sFZ3w": {
     "status": "pending",
@@ -513,22 +514,25 @@
     "category": "Tech_Talks"
   },
   "uLiX_MX5qA4": {
-    "status": "pending",
-    "last_attempt": "2026-07-02T18:59:24",
-    "order_id": "1783016350867563621",
-    "category": "Tech_Talks"
+    "status": "done",
+    "last_attempt": "2026-08-06T17:11:03",
+    "order_id": null,
+    "category": "Tech_Talks",
+    "kilde": "youtube-subs"
   },
   "lRrtJ3COQ-Y": {
-    "status": "pending",
-    "last_attempt": "2026-07-02T19:39:39",
-    "order_id": "1783018766730109978",
-    "category": "Tech_Talks"
+    "status": "done",
+    "last_attempt": "2026-08-06T17:11:06",
+    "order_id": null,
+    "category": "Tech_Talks",
+    "kilde": "youtube-subs"
   },
   "hiKuKKzflgI": {
-    "status": "pending",
-    "last_attempt": "2026-07-02T20:19:57",
-    "order_id": "1783021181755727085",
-    "category": "Tech_Talks"
+    "status": "done",
+    "last_attempt": "2026-08-06T17:11:10",
+    "order_id": null,
+    "category": "Tech_Talks",
+    "kilde": "youtube-subs"
   },
   "0PuYX0hcyKM": {
     "status": "done",
@@ -579,58 +583,67 @@
     "note": "transskription findes allerede i korpus (praefiks-match 2026-07-03)"
   },
   "_FOnu5SwXvE": {
-    "status": "pending",
-    "last_attempt": "2026-07-03T11:27:51",
-    "order_id": "1783078071755110874",
-    "category": "Tech_Talks"
+    "status": "done",
+    "last_attempt": "2026-08-06T17:11:12",
+    "order_id": null,
+    "category": "Tech_Talks",
+    "kilde": "youtube-subs"
   },
   "ptkNCE1dNUg": {
-    "status": "pending",
-    "last_attempt": "2026-07-03T11:27:54",
-    "order_id": "1783078074398516878",
-    "category": "Tech_Talks"
+    "status": "done",
+    "last_attempt": "2026-08-06T17:11:16",
+    "order_id": null,
+    "category": "Tech_Talks",
+    "kilde": "youtube-subs"
   },
   "A9FXERLW-gU": {
-    "status": "pending",
-    "last_attempt": "2026-07-03T11:27:57",
-    "order_id": "1783078076989374140",
-    "category": "Tech_Talks"
+    "status": "done",
+    "last_attempt": "2026-08-06T17:11:19",
+    "order_id": null,
+    "category": "Tech_Talks",
+    "kilde": "youtube-subs"
   },
   "5HheldLgozU": {
-    "status": "pending",
-    "last_attempt": "2026-07-03T11:27:59",
-    "order_id": "1783078079653756585",
-    "category": "Tech_Talks"
+    "status": "done",
+    "last_attempt": "2026-08-06T17:11:22",
+    "order_id": null,
+    "category": "Tech_Talks",
+    "kilde": "youtube-subs"
   },
   "Z4-52YNHRz0": {
-    "status": "pending",
-    "last_attempt": "2026-07-03T11:28:02",
-    "order_id": "1783078082234133557",
-    "category": "Tech_Talks"
+    "status": "done",
+    "last_attempt": "2026-08-06T17:11:25",
+    "order_id": null,
+    "category": "Tech_Talks",
+    "kilde": "youtube-subs"
   },
   "Y8uB1bGysO8": {
-    "status": "pending",
-    "last_attempt": "2026-07-03T11:28:04",
-    "order_id": "1783078084791622251",
-    "category": "Tech_Talks"
+    "status": "done",
+    "last_attempt": "2026-08-06T17:11:28",
+    "order_id": null,
+    "category": "Tech_Talks",
+    "kilde": "youtube-subs"
   },
   "_McnZqfz9b4": {
-    "status": "pending",
-    "last_attempt": "2026-07-03T11:28:07",
-    "order_id": "1783078087365059870",
-    "category": "Tech_Talks"
+    "status": "done",
+    "last_attempt": "2026-08-06T17:11:31",
+    "order_id": null,
+    "category": "Tech_Talks",
+    "kilde": "youtube-subs"
   },
   "2vrQr211cwE": {
-    "status": "pending",
-    "last_attempt": "2026-07-03T11:28:10",
-    "order_id": "1783078090011854612",
-    "category": "Tech_Talks"
+    "status": "done",
+    "last_attempt": "2026-08-06T17:11:34",
+    "order_id": null,
+    "category": "Tech_Talks",
+    "kilde": "youtube-subs"
   },
   "Z7NWvXdZE7g": {
-    "status": "pending",
-    "last_attempt": "2026-07-03T11:28:30",
-    "order_id": "1783078110502184597",
-    "category": "Godmorgen_med_DNNK"
+    "status": "done",
+    "last_attempt": "2026-08-06T17:11:37",
+    "order_id": null,
+    "category": "Godmorgen_med_DNNK",
+    "kilde": "youtube-subs"
   },
   "-9iAfpGkPQ4": {
     "status": "pending",
@@ -639,10 +652,11 @@
     "category": "Godmorgen_med_DNNK"
   },
   "gJRis50HFVY": {
-    "status": "pending",
-    "last_attempt": "2026-07-03T11:28:35",
-    "order_id": "1783078115692996425",
-    "category": "Godmorgen_med_DNNK"
+    "status": "done",
+    "last_attempt": "2026-08-06T17:11:44",
+    "order_id": null,
+    "category": "Godmorgen_med_DNNK",
+    "kilde": "youtube-subs"
   },
   "vdBxSeS557E": {
     "status": "pending",
@@ -651,22 +665,25 @@
     "category": "Godmorgen_med_DNNK"
   },
   "yEvJX7_4Esw": {
-    "status": "pending",
-    "last_attempt": "2026-07-03T11:28:40",
-    "order_id": "1783078120885743426",
-    "category": "Godmorgen_med_DNNK"
+    "status": "done",
+    "last_attempt": "2026-08-06T17:11:49",
+    "order_id": null,
+    "category": "Godmorgen_med_DNNK",
+    "kilde": "youtube-subs"
   },
   "kVc6pf42cMc": {
-    "status": "pending",
-    "last_attempt": "2026-07-03T11:28:43",
-    "order_id": "1783078123445521742",
-    "category": "Godmorgen_med_DNNK"
+    "status": "done",
+    "last_attempt": "2026-08-06T17:11:52",
+    "order_id": null,
+    "category": "Godmorgen_med_DNNK",
+    "kilde": "youtube-subs"
   },
   "nD4CvPsWxCY": {
-    "status": "pending",
-    "last_attempt": "2026-07-03T11:28:46",
-    "order_id": "1783078126051280027",
-    "category": "Godmorgen_med_DNNK"
+    "status": "done",
+    "last_attempt": "2026-08-06T17:11:55",
+    "order_id": null,
+    "category": "Godmorgen_med_DNNK",
+    "kilde": "youtube-subs"
   },
   "0rrfcg3InM0": {
     "status": "pending",
@@ -675,10 +692,11 @@
     "category": "Godmorgen_med_DNNK"
   },
   "IDETmAf32mU": {
-    "status": "pending",
-    "last_attempt": "2026-07-03T11:28:51",
-    "order_id": "1783078131189239766",
-    "category": "Godmorgen_med_DNNK"
+    "status": "done",
+    "last_attempt": "2026-08-06T17:12:02",
+    "order_id": null,
+    "category": "Godmorgen_med_DNNK",
+    "kilde": "youtube-subs"
   },
   "ZnNmeyyKCok": {
     "status": "pending",
@@ -687,10 +705,11 @@
     "category": "Godmorgen_med_DNNK"
   },
   "73-c20WGsgM": {
-    "status": "pending",
-    "last_attempt": "2026-07-03T11:28:56",
-    "order_id": "1783078136335283072",
-    "category": "Godmorgen_med_DNNK"
+    "status": "done",
+    "last_attempt": "2026-08-06T17:12:08",
+    "order_id": null,
+    "category": "Godmorgen_med_DNNK",
+    "kilde": "youtube-subs"
   },
   "-qLfWkFJIyE": {
     "status": "pending",
@@ -705,28 +724,32 @@
     "category": "Konferencer"
   },
   "6eLttHPRlSw": {
-    "status": "pending",
-    "last_attempt": "2026-07-03T11:29:26",
-    "order_id": "1783078166025177682",
-    "category": "Konferencer"
+    "status": "done",
+    "last_attempt": "2026-08-06T17:12:18",
+    "order_id": null,
+    "category": "Konferencer",
+    "kilde": "youtube-subs"
   },
   "qDNiNOpMl_8": {
-    "status": "pending",
-    "last_attempt": "2026-07-03T11:30:13",
-    "order_id": "1783078213209045667",
-    "category": "DNNK_Masterclass"
+    "status": "done",
+    "last_attempt": "2026-08-06T17:12:22",
+    "order_id": null,
+    "category": "DNNK_Masterclass",
+    "kilde": "youtube-subs"
   },
   "o7oUEobLLTo": {
-    "status": "pending",
-    "last_attempt": "2026-07-03T11:30:15",
-    "order_id": "1783078215788266738",
-    "category": "DNNK_Masterclass"
+    "status": "done",
+    "last_attempt": "2026-08-06T17:12:25",
+    "order_id": null,
+    "category": "DNNK_Masterclass",
+    "kilde": "youtube-subs"
   },
   "AUORtdz6RBI": {
-    "status": "pending",
-    "last_attempt": "2026-07-03T11:30:18",
-    "order_id": "1783078218369907306",
-    "category": "DNNK_Masterclass"
+    "status": "done",
+    "last_attempt": "2026-08-06T17:12:28",
+    "order_id": null,
+    "category": "DNNK_Masterclass",
+    "kilde": "youtube-subs"
   },
   "rw-2t2DL4aU": {
     "status": "pending",
@@ -741,16 +764,18 @@
     "category": "Arrangementer"
   },
   "twkCUP0a5ug": {
-    "status": "pending",
-    "last_attempt": "2026-07-05T11:02:18",
-    "order_id": "1783249338856040344",
-    "category": "Arrangementer"
+    "status": "done",
+    "last_attempt": "2026-08-06T17:12:37",
+    "order_id": null,
+    "category": "Arrangementer",
+    "kilde": "youtube-subs"
   },
   "oWmp94ZaG7I": {
-    "status": "pending",
-    "last_attempt": "2026-07-05T11:02:21",
-    "order_id": "1783249341475887210",
-    "category": "Arrangementer"
+    "status": "done",
+    "last_attempt": "2026-08-06T17:12:40",
+    "order_id": null,
+    "category": "Arrangementer",
+    "kilde": "youtube-subs"
   },
   "ZVkyCW5IMTU": {
     "status": "pending",
@@ -759,10 +784,11 @@
     "category": "Arrangementer"
   },
   "KG8mkJJZivE": {
-    "status": "pending",
-    "last_attempt": "2026-07-05T11:02:26",
-    "order_id": "1783249346873525555",
-    "category": "Arrangementer"
+    "status": "done",
+    "last_attempt": "2026-08-06T17:12:46",
+    "order_id": null,
+    "category": "Arrangementer",
+    "kilde": "youtube-subs"
   },
   "cDfGMF9D7rQ": {
     "status": "pending",
@@ -783,10 +809,11 @@
     "category": "Arrangementer"
   },
   "uQuLL27W1D4": {
-    "status": "pending",
-    "last_attempt": "2026-07-05T11:02:37",
-    "order_id": "1783249357451132579",
-    "category": "Arrangementer"
+    "status": "done",
+    "last_attempt": "2026-08-06T17:12:57",
+    "order_id": null,
+    "category": "Arrangementer",
+    "kilde": "youtube-subs"
   },
   "mWG_TwwiPkw": {
     "status": "pending",
@@ -807,21 +834,24 @@
     "category": "Arrangementer"
   },
   "SFwbGrZ-Zjs": {
-    "status": "pending",
-    "last_attempt": "2026-07-05T11:04:15",
-    "order_id": "1783249455079967668",
-    "category": "Oevrige"
+    "status": "done",
+    "last_attempt": "2026-08-06T17:13:09",
+    "order_id": null,
+    "category": "Oevrige",
+    "kilde": "youtube-subs"
   },
   "-IZEwCGIcME": {
-    "status": "pending",
-    "last_attempt": "2026-07-05T11:04:17",
-    "order_id": "1783249457713478163",
-    "category": "Oevrige"
+    "status": "done",
+    "last_attempt": "2026-08-06T17:13:12",
+    "order_id": null,
+    "category": "Oevrige",
+    "kilde": "youtube-subs"
   },
   "2yNMzA7kL3k": {
-    "status": "pending",
-    "last_attempt": "2026-07-05T11:04:20",
-    "order_id": "1783249460296847137",
-    "category": "Oevrige"
+    "status": "done",
+    "last_attempt": "2026-08-06T17:13:15",
+    "order_id": null,
+    "category": "Oevrige",
+    "kilde": "youtube-subs"
   }
 }

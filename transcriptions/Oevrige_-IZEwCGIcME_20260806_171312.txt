@@ -1,0 +1,98 @@
+=== DNNK Webinar Transskription ===
+Kategori: Oevrige
+Video ID: -IZEwCGIcME
+URL: https://youtube.com/watch?v=-IZEwCGIcME
+Kilde: YouTube auto-undertekster (dansk)
+Transskriberet: 2026-08-06T17:13:12.334060
+
+==================================================
+
+00:00:00
+jeg hedder Mads og jeg har skrevet et projekt sammen med louis vi kommer fra geoinformatik og jeg har lige Loui Han er lige blevet færdig med Kandidaten og er blevet helt færdig jeg er færdig om et par måneder Fra nu af Så vi har li semester også lige været op og Forsvar det og egentlig færdig med det på den måde men Ø kommer til at bygge videre på det har du delt skærmen Jeg deler lige her øh sådan der super godt så godt Jamen arbejdet med de sidste de sidste
+
+00:00:30
+par måneder her det har værret at prøve at kigge på sådan og lavet et undersøgende speciale i hvad mulighederne og brugbarheden også effektiviteten af at lave et automatiseret en automatiseret gigs screenings værktøj til at vurdere potentialet for forskellige larlsen i forhold til at håndtere tagvand øhm og det Vi har gjort det er vi har prøvet at lave en kobling mellem alle tagflader og så det nærliggende terræ området for at estimere potentialet for om der kan etableres noget øh noget regnvandshåndtering på terr niveau øh
+
+00:01:00
+modellen den kører sådan på flere metoder og noget af det Kender i måske allerede og noget Har vi så selv øh selv siddet og leget med og prøvet at udvikle for at kunne komme tættere på Øhm og målet er selvfølgelig hvis det er noget der kan bruges Så er det vi har prøvet vi gerne udvikle til en relativt hurtigkørende og brugervenlig model som med få inputs kan give et resultat der kan hjælpe den kontekst som det skal ses i den her øh opgave Det er at der er et øget Pres på kloak netværket i både København og andre sted i verden på
+
+00:01:30
+grund af klimaforandring og øget nedbør Hvilket jo øhm har har skabt et fokus på ø mere lokal håndtering af regnvand ø og naturbaserede løsninger som kan gavne bymiljøet Øhm Og sådan et sted som København der er der jo over omkring 20% af byen består af tagareal og det inkluderet Amar fældet og en masse grønne områder så det er jo egentlig et større procenttal når man kigger i urbane områder så det kunne være et relativt interessant at kigge på Jamen kan vi sørge for at få opsamlet det på terræ på det tagvand der der lander her
+
+00:02:00
+i stedet for at det ryger direkte i kloak netværket og belaster det men på grund af Urban pladsmangel og sådan noget så er det jo ikke alle steder hvor det optimalt at lave de her terrænniveau Lar løsninger så ø Vi har kigget på om man kan highlight de her steder og i stedet for at skulle sidde og gøre det kvalitativt hvilket tage lang tid Hvad kan vi så gøre for at identificere de her egnede tagflader og deres terrænniveau ved at lave en automatiseret gipsmodel øh og på den måde skabe et supplerende værktøj i forhold til beslutningstagere og til en
+
+00:02:30
+mere bæredygtig håndtering af regnvand og også kigge på om Jamen kan det være et supplerende værktøj og hvor langt er det fra at det kan her kan også blive beslutningsdygtigt på den måde Loui Han vil introducere lidt af metoden nu af opgav yes Nå men som Mads snakkede om så ø Det er så en Gmod vi bruger ø hvor vi har så brugt Hvad hedder det Python som et sprog og ideen er jo så at koble tagfladen med det der nærliggende område og så i selve V vores model så starter i
+
+00:03:00
+faktisk med at segmentere den her tagflade og til at gøre det så finder vi ud af tagflade retning ud fra den her overflad model i lier hvis i kigger her i billede nummer et øverst så kan man se øh de forskellige farver det er så otte retninger på hver Pixel så hvordan hælder hver Pixel og øhm som man kan se Så er der lige hvad hedder det nogle Småproblemer nogle mindre farver ø andre retninger Øh det er så noget der skal justeres så dermed bruger Vi så en
+
+00:03:30
+filter så det kan så filtreres ud så vi kan få her nogle helt uniforme tagflader som vi kan bruge noget som vi kan bruge øh Derefter så ø på grund af at vi har bruger de her otte retninger så kan der også skabes nogle mindre tagflader som i kan se her i billede nummer to Så er der så yderkanterne af nogle mindre tagflader vi ikke er interesseret i fordi vi ved jo godt at vandet passerer videre til den næste tagflade og ned af tagrenden eller tagnedløb dermed er de så blevet Hvad hedder det koblet til de
+
+00:04:00
+større ad sente tagflader som i kan se Lige under Yes og så i Det Tredje billede Så forkommer der et problem fordi når vi bruger de her Hvad hedder det otte retninger så kan dataet godt Splitte Hvad hedder det Nogle af tagfladerne fordi de har ø de ligger lige mellem to forskellige Hvad hedder det retninger som i kan se her Så er en på 22 grader den ligger nord og den anden er 23 og den ligger Hvad hedder det nordøst og der er det så interessant at koble dem sammen fordi fordi vi ved jo
+
+00:04:30
+Det er nogenlunde den samme retning og dermed skulle det jo være faktisk den samme tagflade så det gør det vi gør det er vi faktisk Tjekker på hver tagflade den de omkringliggende hvis de har nogenlunde den samme ø retning og hvis de har så bliver de så til en St tagflader til sidst og hvis vi nu kigger til venstre Så kan vi se her de der stiplede linjer og vores tagflader og de stiplede linjer det er så matrikel grr Det er også noget vi har brugt øh så vi kan så arbejde indenfor hver matrikel så
+
+00:05:00
+det vi egentlig gør det er vi klipper hver Hvad hedder det tagflade så man kun kigger på hvad der er i selve matriklen og selve den her segmentering den giver så en kvalitet på cirka 80 PR og det er så noget altså det er sådan en start men vi vil gerne arbejde lidt videre på og se hvis vi kan forhøje det med nogle småjusteringer eller nogle nye metoder der kan være lidt skarpere øh i stedet for nu at vi har selve afgrænset den her tagflade Det kan vi så bruge til at finde det her nærliggende område som
+
+00:05:30
+man kan implementere noget Lar Øh det vi det Vi kalder det Det er sådan en implementerings zone og den er faktisk ø bygget ud fra selve hov tagflade polygoner og til at gøre det Så bruger I faktisk selve kanterne af tagfladen som vi kan se her øverst til ø højre så er de der små prikker dem kan man så hvad hedder det forskyde 20 meter i den gennemsnitlige retning af tagfladen og og grunden til vi siger 20
+
+00:06:00
+meter det er så vi sikre os at der er faktisk nok plads til at bygge noget nogle Lars systemer i det område Derefter så kan man Så koble de forskellige punkter til at lave nogle linjer vi kan se nedenunder og så efter så kan man så bygge den her form altså selve implementerings zone som en polygon i Gid Øh og derudover igen Så er det også vigtigt vi forholder os til de der matrikulære grænser Så vi er sikre på at det ligger inden for den samme matrikel og ikke arbejder udenfor de her matrikulære grænser så kan se måske for
+
+00:06:30
+eksempel her til venstre hvor den er blevet klippet Yes når vi så har fået den her implementerings zone og selve tagfladen så kan det være interessant at at finde nogle variabler altså så vi kan finde ud af hvilke tagflader eller Hvilke implementerings zoner er mest gunstige eller mest interessante og så videre og vores model er bygget på den måde at den er meget fleksibel så man kan selv som øh end user vælge nogle variabler fra eller nogle nye tilføje ting og sager øh her vil jeg lige så vise to af de
+
+00:07:00
+eksempler Vi har brugt ø til venstre har vi så hvad hedder det befæstelsesgrad har vi egentlig er frit område til at benytte til Le implementering når man har så valgt de her Hvad hedder det forskellige variabler man interesseret i så kan man for eksempel lægge nogle tærskel værdier og så kan man Så ø ud fra det fremhæve
+
+00:07:30
+hvad ø man har mest interesse i Hvad er vigtigst ø så man kan se hvilke områder har faktisk mest potentiale og det vil så Mads øh snakke lidt videre om Yes skal lige SD nog mikrofon Yes Sorry det der er interessant ved det Louis Han siger også det er jo i forhold til at etablere sådan en zone her det er at man vi selv selvfølgelig Han siger 20 meter men det kan man justere selv og så lige pludselig så har man et udgangspunkt ud FR hver enkelt tagflade som er koblet hvor hvor at vi egentlig kan suge så
+
+00:08:00
+mange variabler ud Vi har lyst til så længe der er rummelig data inden for det og man har en den har en eller anden form for relevans inden for klimatilpasning og hydrologi og så videre øhm men for at teste generelt om modellen overhovedet kan virke om kan vi se nogle forskel og sådan noget så har vi så kørt Kørt sådan screenings modellen øh på et case område og Her har vi så valgt Københavnsområdet med København og Frederiksberg Kommune Øh og dertil skal vi så også vælge et Lar system som det skal tilpasses til og og det V Valt en ø en grøn løsning som
+
+00:08:30
+bliver kaldt den grønne klimaskærm som er en dansk udviklet Lar system som øh som er rel virker har relativt god effekt i urbane områder på grund af den kræver minimale pladskrav på grund af hvis man kan se på billedet til venstre kan man se at vandet Det bliver ført ned gennem et nedløbsrør under terræ og så bliver det ført op i en skærm hvor at den så kan vertikalt fordampe vandet til begge sider Øhm og derudover hvis det er en stor skybrud Så er der mulighed for nedsivning via en Bu bundkasse i bunden
+
+00:09:00
+af sådan klimaskærm Og det kan også øh der man kan også etablere en lille jordvold bag skærmen så der kommer et retentions bassin derudover så har den jo også så har den nogle kan den være med til at lave et bedre socialt byliv og sådan forbedre det lokale byområde blandt andet ved større veje for eksempel hvor den jo kan have nogle støjdæmpende effekter derudover øhm ved så udnytte nogle af de variabler som Louis Han har introduceret vedrørende plads og befæstelsesgrad og så videre sætte nogle grænseværdier op og også tjekke om den er nærliggende til
+
+00:09:30
+nogle ve til nogle brede veje så har vi så prøvet at køre det og dertil får vi så fundet frem til at 30% af tagfladen de viser nogle gunstige karakteristika ud for de variabler som Louis har nævnt her øhm det er selvfølgelig taget med forbold for Vi har valgt nogle relativt Konservative grænseværdier Så det kan være potentialet er endnu større Men man kan jo også omvendt sige at jamen der er mange ubekendte variabler der ikke er en del af det som måske også kunne begrænse den så der er et lidt som et potentiale
+
+00:10:00
+her for at finde yderligere finde ud af Jamen hvad Hvad er det Hvad er det rigtige potentiale estimering potentiale for sådan en et Lar system derudover så prøvede vi at kigge lidt på Jamen hvad for nogle bygningstyper hvis vi koblede det til tagfladerne Hvad for nogle af det så der klar sig godt i forhold til hvad for nogle personer man skal have fat på i forhold til at etablere så nogle løsninger der kiggede vi på proportionerne af forskellige bygningstype realer før og efter de var blevet udvalgt på grænse på baggrund af nogle grænseværdier Øh Og der kunne vi se der var en ekstrem stigning i proportionerne for Almen boligbyggerier
+
+00:10:30
+Hvilket viser at de så tydeligvis skulle have et markant potentiale øhm og det kan vi også se kvalitativ ved at tjekke at de har masser af plads og generelt har meget plads rundt omkring sig meget ubefæstede Øhm og så derudover så har de meget få ejere kan man sige øhm 5% eller fem de fem største almen boligf de står for 80 pr af tag arealerne som er almene boligbyggerier i København så det er relativt få øh interessenter man skal have fat på kan man sige
+
+00:11:00
+øhm for at konkludere lidt yderligere på den så har vi jo med den her model på baggrund af nogle relativ simpel tilgang og meget få variable været i stand til at fremvise nogle rummelige mønstre og forskelle i tagflader Lar potentiale på terrænniveau på den grund så mener vi også at der er et højt udnyttet potentiale hvis man også som m Loui nok også vil have har brug for noget mere indgående viden i både hydrologi og hvad er det for der er de vigtigste ting i forhold til klimatilpasning Vi ved jo godt at der er
+
+00:11:30
+flere ting som blandt andet hydrologiske netværk og infiltration jordtyper og sådan noget som er vigtig for at kunne tilføje øhm for at kunne estimere det endnu bedre derudover så viser det her at den grønne klimaskærm umiddelbart har et relativt højt potential i urbane områder Det kunne være spændende at dykke ned i en en sådan metode videre samt at man måske som beslutnings bør øge fokuset på at komme i kontakt med almene boligforeninger for eksempel fordi de har nogle gode områder i forhold til at udtage til reg til øh
+
+00:12:00
+regnvandshåndtering for Tag Vi har også tænker også der kan være plads til forbedring både i forhold til segmenteringen som l allerede har nævnt ved at bruge nogle man kan bruge nogle mere sofistikerede metoder som dog ikke er så gennemsigtige og justere lidt så vi kan få kvaliteten op og det man F udgangspunktet for de her implementerings zoner højere op derudover så er der også noget med zone afgrænsning som går lige ud for taget øh som vi som kun bliver klassificeret lige ud for taget og det er jo egentlig nedløbsrørene som der er det der afgør hvor vandet kan løbe hen i forhold til
+
+00:12:30
+hvis det er tryk eller hvad hedder det Øh gravitations baseret øh så man kunne også muligvis lave som et andet eksempel her prøve at trække zonen lidt ud mod siderne så man også får noget af den del med og måske også Vi har snakke om at kigge lidt ind i noget 3D modellering i forhold til at kunne se hvor ligger de her nedløbsrør så man på den måde kunne give et endnu bedre estimat af hvad for nogle områder skal afgrænses for at være De vigtige og beslutningsdygtige områder det V også kunne øde ekspertviden være rigtig vigtigt for og gøre det bedre så vi får nogle bedre beslutninger til
+
+00:13:00
+allersidst så har vi lige nogle få meget få tilgange som man kunne benytte derudover hvis du kan skifte Louis Nå ja Yes tak øhm Vi har jo den tilgang der hedder fremhæve nogle tagflader med potentiale på baggrund af nogle grænseværdier hvor det så Enten Eller man kan bruge Men man kunne også relativt hurtigt finde minimumsværdi for en procentdel af tagflade for eksempel hvis vi nu vil sag 5% af Københavns tagflader de skal trækkes ud til en specifikt Lar system jamen hvor meget Hvor meget ubefæstede
+
+00:13:30
+areal har de 5% mest ubefæstede øh tagflader nærliggende terrænniveau og det kunne vi rigtig det kunne vi rigtig hurtigt finde ud af med det her derudover så fordi det er meget få ændringer der skal laves og det er meget parameteren med at justere øhm så kunne man jo også lave en portefølje af forskellige løsninger som regnbede måske også nogle ikke så grønne løsninger som faskiner permeable belægninger og grøn klimaskærm og så på den måde få få lavet en en mere fuldend billede af Lar løsninger ved at man kunne finde den den
+
+00:14:00
+løsning der var mest potentiel for hver enkelt Tag i byen i stedet for at udelukke nogen og derudover Så kunne man måske bruge en vægtet ratio mellem nul og et hvis man har en indgående viden til hvad der er de vigtigste ting Så slipper vi også for ligesom i det vi har lavet nu at komme til at udelukke nogle tagflader terræn øh nærliggende terræn bare på grund af at de fejler i en grænseværdi kan man sige hvor de ikke har potentiale Øh og derudover mener vi til sidste fordi den er nem og en simpel tilgang nemme æ man kan tilføje rigtig
+
+00:14:30
+meget selv men så er der en form for universelt implementerings potentiale til det her hvor som også kunne benyttes udover Danmarks grænser på andre type tagflader Det var det Vi havde tak

@@ -1,0 +1,140 @@
+=== DNNK Webinar Transskription ===
+Kategori: Tech_Talks
+Video ID: 2vrQr211cwE
+URL: https://youtube.com/watch?v=2vrQr211cwE
+Kilde: YouTube auto-undertekster (dansk)
+Transskriberet: 2026-08-06T17:11:34.468958
+
+==================================================
+
+00:00:00
+Den næste oplægsholder, det er Sarose, associate professor ved SDU. Og øh, du er allerede oppe på scenen og klar, så jeg vil egentlig bare give ordet videre til dig, hvis &gt;&gt; Tak. Virker det? Ja, det gør det. Jamen tak for invitationen og tak både til Sidfonden og til Torben for et fantastisk forarbejde til det jeg kommer
+
+00:00:30
+til at tale om. Fordi øh da vi skulle lægge den her tittel fast, der skrev Steffen til mig: "Er du sikker på du ikke mener sårbarhed?" Nej, jeg mener faktisk sårbar natur eller eller styrke for naturen. Det handler også lidt om sårbarhed, men det kommer vi lidt tilbage til. Hvorfor? Og fordi når man som mig, hele mit min professionelle karriere hele tiden har bevæget mig i det der krydsfelt imellem biologien, hvor jeg er uddannet, og de tekniske videnskaber og øhm
+
+00:01:00
+klimatilpasning, øh klimaafbødning, så får man hele tiden det der spørgsmål, jamen hvad er det med den der natur? Hvornår er det, hvornår er det en fordel? Hvornår er det en ulempe? Og hvordan er det, vi arbejder bæredygtigt med det her? Øh, nogle bruger også ordet helhedsorienteret øh tilgang. Øhm, og det vil jeg prøve at sætte lidt ord på. Jeg tror ikke, jeg kommer med en masse svar. Det er egentlig slet ikke meningen. Det er
+
+00:01:30
+faktisk meningen, I skal snakke videre om det her bagefter. Men men hvordan er det egentlig, vi arbejder med det? Øhm, bæredygtighed i valgforvaltningen. Hvor mange tænker det handler om det her? Bare sådan lige lappen op, hvis man tænker, at det er da noget, I tænker over, når I tænker bæredygt. Ja. Hvad så den her? Der kommer også mange hænder. Hvad så? Den der. Og en sidste.
+
+00:02:00
+Kommer stadigvæk mange hænder. Og så kan vi holde op med at række hænderne op, men så kan vi sætte resten på. Fordi når man sådan lige kigger lidt ud over landskabet og ser, hvad vi hver især alle sammen skriver, når vi kommunikerer omkring bæredygtighed i vandforvaltningen eller helhedsorienteret tilgang til vandforvaltning, så er det alt det her, som spænder helt helt vidt bredt. Og hvordan er det egentlig, vi vi så lige gør det? Hvad er det, det helt konkret betyder for den enkelte øh i det projekt
+
+00:02:30
+øh eller i den faglighed, man sidder og arbejder? Ja, det betyder måske, eller det kommer måske lidt an på, hvilken faglighed man kommer fra. Øh, hvis man kommer fra vand området, så tænker man måske vandkredsløb, ressourcer, anvendelse af vand, øh, håndtering af vand. Hvis man kommer fra miljøområdet, så handler det måske om forurening og presfaktorer. Hvis man kommer fra
+
+00:03:00
+naturområdet, så er det biodiversitet og naturlige processer. Og hvis det er klima, jamen så er det måske mere risiko og robusthed. Så igen, det at vi kommer fra vidt forskellige områder med vidt forskellige baggrunde, gør måske også at vi slet ikke tænker det samme, når vi diskuterer bæredygtig vandforvandning. Men baggrunden for det hele, det er jo, som nogen nok har hørt mig sige før, at vi har gjort alt i den her verden for at
+
+00:03:30
+få vand til at løbe hurtigst muligt ned ad bakke. Og det har vi brugt halvanden h år på. Og nu skal vi måske bruge knapt halvanden h år på at få vant til at løbe langsommere nedad bak og måske også for vant til at løbe mere naturligt. Det er jo ikke nogen hemmeligheder, udover at vi bruger vores land enormt intensivt, øh, så har vi også styret vandet utrolig meget. Og nogle af de udfordringer vi har er jo også skabt af
+
+00:04:00
+at man gerne vil have vandet til at løbe hurtigst muligt, samle sig hurtigst muligt og inde i havet. Det er måske det paradigme, vi skal til at gøre op med, og som vi langt hen ad vejen også i forskellige sammenhænge er i gang med at gøre op med. Men hvordan gør man det? Øhm, og hvor lang tid tager det? Og hvordan gør man det så også samtidig med, at vi har et klima, som forandrer sig? Fordi det her er jo skabt i en
+
+00:04:30
+virkelighed, som ikke er den virkelighed, vi står i nu. Øh, eller den virkelighed, vi står i i år 2100. Så hvornår er det egentlig naturen er stårbar? Nu ved, I behøver ikke at regne rundt med mikrofonerne, men er der nogen, der bare lige sådan kan komme med et stikord på, hvornår er det egentlig naturen er sårbar eller er en sårbarhed i vandforvaltningen? Klokken er kun fire. Det har den køsken i
+
+00:05:00
+&gt;&gt; øh vi ser den der sådan en sårbarhed i planlægning skal udå det det er ikke muligt fordi meget skræmme dyre ja så det er en af dem andre &gt;&gt; vores vandløb er S pressen. &gt;&gt; Ja. En tredje
+
+00:05:30
+storm. &gt;&gt; Vi skal jo både alle vores vand vandkvalitetter, men også de organismer som lever i vandet. Mange der har &gt;&gt; Ja. Så hvis vi tager sådan en lille liste her, så kan man sige, det er nemlig noget af det, I allerede har nævnt, men det er måske også fordi, at vi har også overforbrugt, og man kan sige overforbrug sådan helt bredt. Vi har overforbrugt arealerne. Øh, vi har måske overforbrugt
+
+00:06:00
+kapaciteten øh for hvad det egentlig er områderne kan tåle. Øh, vi har også overbelastet dem. Vi diskuterer rigtig tit presfaktorer. Hvad er det, der er udfordringen? Hvad er det, der skaber problemet? Er det indholdsstofferne i vandet, eller er det vandet, eller er det en kombination af det hele? Så er der den her konflikt imellem naturbeskyttelse og vandhåndtering. Øh, som er meget kendt og og som er noget vi diskuterer hele tiden, hvorf noget af det måske egentlig ikke handler om en konflikt imellem vandhåndtering og
+
+00:06:30
+naturbeskyttelse, men måske egentlig mere handler om noget lovgivning, som vi talte om tidligere på dagen, som har brug for en en opdatering. Så er der det her med natursus infrastruktur. Og der er jo sådan en tendens til, at naturen altid tit ender lidt med at tabe. Øhm. Og ja, vi kan godt lave erstatningsnatur, men men vi skal bare passe på, at vi ikke sådan tænker, vi kan konstruere os ud af det hele. Øh, fordi måske får vi ikke den værdi, øh, vi havde.
+
+00:07:00
+Så er der det her med hver ting til sin tid. Øh, multifunktionalitet, synergieffekter, det er sådan den store ting. Øh, og jeg tror bare, at vi skal huske, at nogle gange skal vi også bare lave en rigtig god vandråndtering, og andre gange så skal vi fokusere på biodiversitet og på at sikre øh gode naturområder. Vi kan ikke altid det hele samtidig. Så det her med at vi jamen så kan vi ikke bruge de samme arealer fire gange. Ja, det kan vi godt nogle gange, og andre gange skal vi lade være, fordi så får vi ren lever. Og det er måske
+
+00:07:30
+også en en ting, vi skal huske på. Og så er der jo bare det der med naturen er jo vildt dynamisk. Altså naturen er jo ikke en statisk ting. Naturen er enormt robust, og den tilpasser sig enormt hurtigt øhm til ændrede tiltag eller ændrede, &gt;&gt; hvad hedder det? Forhold. Og det er jo også det, som vi kommer til at se i forbindelse med klimaforandringerne, og som vi jo allerede til dels ser. Øhm.
+
+00:08:00
+Og så regner vi helt enormt tæt. Altså jeg har selv arbejdet rigtig meget med våde regnværsbassin for eksempel, ikke? Og vi har sådan en tendens til virkelig at regne tæt, vi kan dimensionere det her bassin til et eller andet. Øhm, og så får vi en udledningstilladelse på det. Men men problemet er bare med de lave afløbstal, vi også nogle gange arbejder med nu her, så skaber vi det, som jeg kalder indgangsanlæggene øh og så går de altså alligevel i
+
+00:08:30
+overløb. Øh, og det vil sige, så ender overløbet alligevel i naturen. Så det er det der med, at vi skal også lige nogle gange huske at kigge på det sådan lidt som en helhed og sige, naturen er jo ligeglad med om om den får påvirkningen, fordi at vi ikke gjorde noget, eller den får påvirkningen, fordi at vi ender med at lave et anlæg, som alligevel bliver en påvirkning. Og så er der alligevel kæmpestore forskelle selv i lille Danmark. Det regner ikke lige meget over det hele. Topografien
+
+00:09:00
+er forskellig. Jordbåndsforholdene er forskellige. Bbyggelsestætheden er forskellig. Øh de øvrige presfaktorer i form af næringsstofbidrag for eksempel er forskellige. Vores vandindvendings øh er forskellig. Så alle de her ting påvirker jo også hvordan det er at vi skal lave vores vandforvaltning. og ikke mindst hvordan det er at vores vandforvaltning
+
+00:09:30
+også enten påvirker naturen eller kan inddrage naturen. Og den her har I lige set den viste Torben. Så den vil jeg jo ikke gå ind i igen. Og det jeg egentlig ville bruge den til, det var at sige at vores udfordring er jo også at vi mangler plads. Vi diskuterer hele tiden det her med hvordan skal vi skabe pladsen til det her. Og til det er der jo kun et at sige, at det er, vi bliver nødt til på et eller andet tidspunkt at begynde at prioritere, hvor øh naturen også bliver nødt til at
+
+00:10:00
+have en stemme. Tilbage til det lige om lidt. Så hvornår er naturen så en styrke i vandforvaltning? Det er den slet ikke, eller hvad? Det er bare altid træls. Er det rigtigt, Peter? &gt;&gt; Nye bådeområde med den, hvad hedder det, praktiske
+
+00:10:30
+punktighed og tør. &gt;&gt; Ja. &gt;&gt; Variation. &gt;&gt; Ja. &gt;&gt; Er der mange ting. &gt;&gt; Så noget mere naturlig hydraulik. Måske flere. Ja. til &gt;&gt; videre til opmarcinering. En til.
+
+00:11:00
+Der bliver lavet rigtig meget det vi kalder naturbaserede løsninger. Der bliver også lavet rigtig mange af dem jeg kalder naturinspireret løsning. Øh, og det er fordi, øh, naturens processer er jo både afprøvet og tilpasset. Så der er jo en grund til, at vi faktisk rigtig ofte tyr til løsninger, som er inspireret af naturen. Det kan være våområder, genskabelse af
+
+00:11:30
+våområder, genskabelse af repariske områder. Ja, det er natureret løsninger. Ø, genskabelse af skov, genopretning af skov. Men det er også en masse af de tiltag, vi laver i byerne, som måske ikke sådan er ægte naturbaseret, men måske mere naturinspireret, men men det virker, fordi vi indbygger den her robusthed i løsningerne. I det interprojekt, som hedder Posidon, som er hostet på S Climakluster, der sidder vi lige nu ved at lægge sidste hånd på et inspirationskatalog,
+
+00:12:00
+som handler om klimatilpasningsløsninger i den region, som projektet dækker. Og i den forbindelse har vi lavet en survey, hvor vi har bedt øh alle i princippet om at spille gode øh løsninger ind, gode klimatilpasningsløsninger ind. Og det er der kommet en masse svar ud af. Og når vi kigger på de svar, så indeholder 73% af dem naturbaserede løsninger på en eller anden måde.
+
+00:12:30
+Og det er jo selvfølgelig ikke fordi, at 73% af alle klimatilpasningsløsninger derude indeholder naturbaserede løsninger. For der er rigtig mange tekniske løsninger. Men det siger noget om, at de løsninger, som man vælger at melde ind i sådan en survey, det er altså de naturaserede løsninger. Det er ikke den tekniske løsning. Så er der alle de her formål i forbindelse med grøn trepart. Peter var lidt inde på det, tror jeg, det lå måske lidt bag det, du sagde lige før. Altså at rigtig mange af de ting, som vi også
+
+00:13:00
+arbejder med nu i forbindelse med grøn trepart, genskabelse af våområder, udtagning af lavbundsarealer og så videre, jo også har potentiale øh for at bidrage ø til vandhåndteringen i området. Så mindsker risikoen ved at øge robustheden. Det er jo ikke uden grund, at jeg har puttet Vejle ind her for dem, der kan se det, fordi Vejle har jo den udfordring, at man indimellem kan vælge, om man vil drukne i salt eller fersk vand. Og det der med at få den der
+
+00:13:30
+robusthed tilbage i vandhåndteringen, altså arbejde på, at vandet ikke løber lige så hurtigt nedad fr. Hvad kortet herovre til venstre? Det viser det ikke drænede areal i Danmark, som jo sjovt nok også falder sammen med, hvor der er sandjord i Jylland. Og så det drænede areal, som er det grønne, og så er der alle de hvide, det er byerne, som jo også er rørlagt, kan man sige, i
+
+00:14:00
+forhold til til vandafledningen. Øhm, så så kortet viser jo meget fint, hvor meget en kæmpestor andel af Danmark der er lagt i rør på den ene eller den anden måde. Og hvis man kunne arbejde med at få det vand tilbage i landskabet, så ville det jo have en effekt både i forhold til vandhåndteringen, men også i forhold til at være en styrke ø for naturen. Så kan naturen både være en naturbes løsning og en skadeligt som følge af
+
+00:14:30
+klimapåvirkninger. Nu havde vi oplægget fra SPONen, og nogen spurgte bagefter, jamen øh hvad med naturen? Øhm, om et par måneder så kommer der et aller allerførste øh udkast øh i form af en rapport om hvordan hvordan kan man overhovedet begynde at arbejde med det her med natur øh og skader. Det er et projekt i regi af forskningsreserven 25,
+
+00:15:00
+fordi som Torben siger, strandingen den er bygget til det her. Øhm, det er hele formålet, eller det er hele den ø den det der ligger bag strandingen. Men hvad hvis det er anden natur? Øh, og hvordan skal vi overhovedet arbejde med det? Hvordan kan vi værdisætte det? Øh, det er kollegaer på ifrå på KU, som forsøger at komme med en metode til det. Og fra Sydsuniversitet forsøger vi at komme med et allerførste forslag til, hvordan kan vi overhovedet arbejde med, om naturen
+
+00:15:30
+øh lider en skade som følge af af af klimapåvirkninger i form af vand. Og i det her i den her sammenhæng mere vand, det kunne jo lige så godt være mindre vand, eller det kunne lige så godt være positive effekter. Øh, for netop fordi vi har et et land, som er så hydraulisk styret, jamen så havde man måske lige så meget gavn af at have nogle positive effekter i forhold til at have en større variation i det vand, som som påvirker.
+
+00:16:00
+Og i den forbindelse, hvordan adskiller man klimapåvirkninger fra forureninger, næringsstoffledninger, fysiske påvirkninger, unaturlig hydrologi øh og så videre? Og det er det kæmpestore spørgsmål, og det er derfor, det er enormt svært at sætte ø tal på. Men nu forsøger vi øh så måske øhm er der andre, der vil arbejde videre på det. Vi arbejder også selv videre på det. Øh og så kan vi måske om et par år se sådan en slide fra sitfonden, som
+
+00:16:30
+som har naturen med. Lad os håbe det. Og så lige de her billeder ovenover for at vise det her område nede omkring Præstø. Øh, der var di der brød ned i stormfloden i 23 og vandet gik ind. Det var samtidig et område som man havde haft tanker øh om at at genskabe et våområde. De genskabte sig selv. Øh, og
+
+00:17:00
+det som jo er sket efterfølgende, det er, at nu er det gået igennem ø som et projekt øhm her for ganske nylig. Så det er også bare et et tegn på, at nogle gange skaber projekterne også selv øh og ø og der det vis sig at være simplere at og få det her projekt igennem, end man måske først havde antaget. Øh fordi at ø at naturen ligesom selv øh tog over. Det andet eksempel herovre, det var lidt det samme, som Torben også nævnte i
+
+00:17:30
+Hjortø øh i det sydfynske øhhav, hvor man har brugt en del midler igennem årene, blandt andet via live projekter på at beskytte vandhuller til klokkefrø og udvikle det. Øh, og igen i forbindelse med stormfloden 23, jamen så blev de her vandhuller, de blev altså oversvømmet med saltvand. Og øh og mig bekendt er der ikke nogen registreret på grund af klokkefrøer i de der vandhuger siden. Øh, så det er jo et eksempel på øh, hvordan at man kan at man kan
+
+00:18:00
+påvirke. Og det siger måske mere noget om vores vandforvaltning end det siger lige omagtigt om det, fordi det måske var det ikke der man skulle have brugt rigtig meget prudt på at beskytte vandhul til klokkefrøen. Øh, måske skulle man have gjort det andre steder. Øhm, og så er der bare endnu et eksempel øh på, hvor man har arbejdet med det her. Og det er et andet eksempel, meget lige de eksempler, som Torben viste lige før. Torben og jeg har ikke koordineret de
+
+00:18:30
+her oplæg, og alligevel har vi dog ikke så meget overlagt, så det er rigtig glad for. Men det er et eksempel fra Fyn fra Sens Strandby, øh, hvor man netop har arbejdet med det her med at trække dine tilbage og genskabe øh, både noget stranding og ø et vandløb på forsiden af af diet, af de nye øh og på den måde sikrer beskyttelsen af af Odense by og så samtidig sikre nogle naturværdier på
+
+00:19:00
+ydersiden af Så hvordan skal vi arbejde med det her i fremtiden? Man kan sige bæredygtighed i det er for meget et grundvilkår, men det er også et grundvilkår, at vi arbejder i en dynamisk verden. Så derfor skal vores løsninger på det her være dynamiske. Vi skal passe på, vi ikke arbejder statisk med det her. Øhm, fordi der er ikke noget, der er statisk. Hverken klimaforandringerne eller naturen. Nogle ting kan vi sætte to streger under. Øhm, og noget kan vi ikke. Øh,
+
+00:19:30
+eller måske kan vi alligevel, hvis de hvis vi tager de stærke briller og de store sko på, har jeg skrevet, fordi måske skal vi ø ture at komme lidt op i helikopteren. Måske skal vi i højere grad se øh oplandsbaseret på det. I stedet for at kigge på det enkelte udledningspunkt, så skal vi måske i højere grad sige, hvad er det for et opland, vi arbejder i, og hvad er de bedste løsninger i det her opland?
+
+00:20:00
+Der kunne også være noget ide i at fokusere på indløbspunktet i stedet for på udløbspunktet. Vi har tit en tendens til at sige, vi har det her udløbspunkt, der kommer det her ud, eller det skaber de her påvirkninger. Hvordan øh hvordan stikrer vi imod det? Vi kunne jo i lige så høj grad tage fat i indspunktet og sige, hvordan undgår vi, der kommer det ind i ø i det her område. Og endelig så handler det om rigtig tit, at vi sidder med hver sin bid,
+
+00:20:30
+med hver sit vandsyn og med hver sin brug for naturen. Øhm, og først i det øjeblik, at vi begynder for alvor at koble de her øh faglighed sammen øh og tør bruge de tid, der skal til for at arbejde måske i ø i ø i nogle større sammenhænge, så kan vi måske alligevel godt sætte to streger under og skabe de gode løsninger.
+
+00:21:00
+Og så kan vi bare lige alle sammen huske, vi er alle sammen en del af den samme klode. Og der er en grund til, der er liv på jord. Og måske er vi stadigvæk i en uendelighed leder efter liv på andre planeter, men i det øjeblik at vi rykker alt for meget øh på det her øh så har vi en udfordring. Men ø naturen er her og den har den har overlevet rigtig rigtig mange udfordringer. Øh så vi skal bare hjælpe
+
+00:21:30
+med også at vandforvalte med naturen i mte i fremtiden. Tak.
