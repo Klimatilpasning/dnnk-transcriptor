@@ -142,11 +142,15 @@ def start_order(video_url):
     payload = {"url": video_url, "language": "da-DK"}
     try:
         response = requests.post(start_url, headers=api_headers(), json=payload, timeout=30)
+        if response.status_code in (401, 403):
+            raise AuthError(f"HTTP {response.status_code} ved ordreafgivelse")
         response.raise_for_status()
         order_id = response.json().get('order_id')
         if not order_id:
             print(f"❌ Intet order_id i svar: {response.json()}")
         return order_id
+    except AuthError:
+        raise
     except requests.RequestException as e:
         print(f"❌ Fejl ved ordreafgivelse: {e}")
         return None
@@ -181,14 +185,25 @@ def save_transcription(video_id, transcription, category):
     print(f"✅ Transskription gemt: {filename}")
     return filename
 
+class AuthError(Exception):
+    """API'et afviser vores nøgle (401/403) — permanent fejl, ikke midlertidig.
+    Typiske årsager: udløbet/roteret API-nøgle, eller opbrugt minut-kvote."""
+
+
 def check_order(order_id):
     """Ét status-tjek uden ventetid.
-    Returnerer ('completed', tekst) / ('failed', None) / ('working', None)."""
+    Returnerer ('completed', tekst) / ('failed', None) / ('working', None).
+    Kaster AuthError ved 401/403, så kørslen kan stoppe med det samme
+    i stedet for at polle i timevis mod et API der afviser os."""
     status_url = f"https://api.tor.app/developer/transcription/{order_id}"
     try:
         resp = requests.get(status_url, headers=api_headers(), timeout=30)
+        if resp.status_code in (401, 403):
+            raise AuthError(f"HTTP {resp.status_code} fra Transkriptor")
         resp.raise_for_status()
         status = resp.json().get('status', '').lower()
+    except AuthError:
+        raise
     except (requests.RequestException, ValueError) as e:
         print(f"      ⚠️ Status-tjek fejlede ({e})")
         return 'working', None
@@ -210,7 +225,15 @@ def collect_pending(state, budget_minutes=COLLECT_BUDGET_MINUTES):
             return
         print(f"\n♻️  {len(pending)} betalte ordrer afventer — tjekker...")
         for video_id, entry in pending.items():
-            status, text = check_order(entry["order_id"])
+            try:
+                status, text = check_order(entry["order_id"])
+            except AuthError as e:
+                # Permanent auth-fejl: stop straks. Ordrerne forbliver pending
+                # og hentes når adgangen virker igen — der betales ikke igen.
+                raise AuthError(
+                    f"{e} — {len(pending)} betalte ordrer kan ikke hentes. "
+                    "Tjek TRANSKRIPTOR_API_KEY og minut-kvoten på Transkriptor-kontoen."
+                ) from None
             if status == 'completed' and text:
                 save_transcription(video_id, text, entry.get("category", "Oevrige"))
                 mark(state, video_id, "done", order_id=None)
@@ -276,4 +299,15 @@ def main():
     print(f"{'='*60}\n")
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except AuthError as e:
+        # Fejl HURTIGT og TYDELIGT ved auth-problemer i stedet for at polle
+        # i timevis mod et API der afviser os (skete 1/7–6/8 2026: 403 i
+        # 5.100 forsøg pr. kørsel = 4 timer spildt dagligt uden resultat).
+        print(f"\n::error::Transkriptor afviser adgang: {e}")
+        print("HANDLING: tjek (1) at TRANSKRIPTOR_API_KEY-secret er gyldig, og "
+              "(2) at der er minutter tilbage på Transkriptor-abonnementet.")
+        print("Afventende ordrer er BEVARET som 'pending' og hentes automatisk, "
+              "når adgangen virker igen — der betales ikke igen.")
+        raise SystemExit(1)
