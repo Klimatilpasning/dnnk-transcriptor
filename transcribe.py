@@ -311,7 +311,16 @@ def main():
                 print("      ✅ hentet via YouTube-undertekster (0 min forbrugt)")
                 continue
 
-            # 1b) Ellers: Transkriptor-ordre (koster minutter af kvoten)
+            # 1b) Ellers: Transkriptor-ordre (koster minutter af kvoten).
+            #     SLÅET FRA som default: Transkriptors YouTube-transskription
+            #     fejlede 100%% i juli 2026 (YouTube blokerer datacenter-IP'er),
+            #     så ordrer ville kun brænde kvote. Sæt TRANSKRIPTOR_YOUTUBE=true
+            #     for at prøve igen, hvis de får det til at virke.
+            if os.environ.get("TRANSKRIPTOR_YOUTUBE", "").lower() not in ("1", "true", "yes"):
+                print("      ingen undertekster — Transkriptor-fallback er slået fra")
+                mark(state, video_id, "failed",
+                     note="ingen danske YouTube-undertekster; kræver lyd-transskription")
+                continue
             print("      ingen undertekster — afgiver Transkriptor-ordre...")
             order_id = start_order(f"https://youtube.com/watch?v={video_id}")
             if order_id:
