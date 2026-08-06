@@ -185,6 +185,25 @@ def save_transcription(video_id, transcription, category):
     print(f"✅ Transskription gemt: {filename}")
     return filename
 
+def hent_undertekster(video_id):
+    """YouTube's danske auto-undertekster i DNNK-format, eller None.
+    Primær transskriptionsvej: gratis og uden Transkriptor-minutter.
+    Se fetch_youtube_subs.py for detaljer og manuel batch-kørsel."""
+    try:
+        from fetch_youtube_subs import fetch_subs, parse_vtt, to_dnnk_format
+    except ImportError:
+        return None
+    try:
+        vtt = fetch_subs(video_id)
+        if not vtt:
+            return None
+        tekst = to_dnnk_format(parse_vtt(vtt))
+        return tekst if len(tekst) >= 500 else None
+    except Exception as e:
+        print(f"      ⚠️ Undertekst-hentning fejlede ({e})")
+        return None
+
+
 class AuthError(Exception):
     """API'et afviser vores nøgle (401/403) — permanent fejl, ikke midlertidig.
     Typiske årsager: udløbet/roteret API-nøgle, eller opbrugt minut-kvote."""
@@ -281,7 +300,19 @@ def main():
                 print(f"   ⏸️ Loft på {MAX_NEW_PER_RUN} nye ordrer nået — resten tages næste kørsel")
                 break
 
-            print(f"   🆕 Ny video: {video_id} — afgiver ordre...")
+            print(f"   🆕 Ny video: {video_id}")
+            # 1a) FØRST: YouTube's egne danske auto-undertekster — gratis og
+            #     hurtigt. Transkriptors YouTube-transskription fejlede helt
+            #     i juli 2026, så undertekster er nu den primære vej.
+            tekst = hent_undertekster(video_id)
+            if tekst:
+                save_transcription(video_id, tekst, category_name)
+                mark(state, video_id, "done", order_id=None, kilde="youtube-subs")
+                print("      ✅ hentet via YouTube-undertekster (0 min forbrugt)")
+                continue
+
+            # 1b) Ellers: Transkriptor-ordre (koster minutter af kvoten)
+            print("      ingen undertekster — afgiver Transkriptor-ordre...")
             order_id = start_order(f"https://youtube.com/watch?v={video_id}")
             if order_id:
                 mark(state, video_id, "pending", order_id=order_id, category=category_name)

@@ -508,10 +508,12 @@
     "kilde": "youtube-subs"
   },
   "YutqZ_sFZ3w": {
-    "status": "pending",
-    "last_attempt": "2026-07-02T18:19:08",
-    "order_id": "1783013934871183718",
-    "category": "Tech_Talks"
+    "status": "failed",
+    "last_attempt": "2026-08-06T17:15:18",
+    "order_id": null,
+    "category": "Tech_Talks",
+    "attempts": 3,
+    "note": "Transkriptor YouTube-transskription mislykkedes (juli 2026) OG ingen danske auto-undertekster paa YouTube. Kraever lyd-baseret transskription."
   },
   "uLiX_MX5qA4": {
     "status": "done",
@@ -646,10 +648,12 @@
     "kilde": "youtube-subs"
   },
   "-9iAfpGkPQ4": {
-    "status": "pending",
-    "last_attempt": "2026-07-03T11:28:33",
-    "order_id": "1783078113093328072",
-    "category": "Godmorgen_med_DNNK"
+    "status": "failed",
+    "last_attempt": "2026-08-06T17:15:18",
+    "order_id": null,
+    "category": "Godmorgen_med_DNNK",
+    "attempts": 3,
+    "note": "Transkriptor YouTube-transskription mislykkedes (juli 2026) OG ingen danske auto-undertekster paa YouTube. Kraever lyd-baseret transskription."
   },
   "gJRis50HFVY": {
     "status": "done",
@@ -659,10 +663,12 @@
     "kilde": "youtube-subs"
   },
   "vdBxSeS557E": {
-    "status": "pending",
-    "last_attempt": "2026-07-03T11:28:38",
-    "order_id": "1783078118282950144",
-    "category": "Godmorgen_med_DNNK"
+    "status": "failed",
+    "last_attempt": "2026-08-06T17:15:18",
+    "order_id": null,
+    "category": "Godmorgen_med_DNNK",
+    "attempts": 3,
+    "note": "Transkriptor YouTube-transskription mislykkedes (juli 2026) OG ingen danske auto-undertekster paa YouTube. Kraever lyd-baseret transskription."
   },
   "yEvJX7_4Esw": {
     "status": "done",
@@ -686,10 +692,12 @@
     "kilde": "youtube-subs"
   },
   "0rrfcg3InM0": {
-    "status": "pending",
-    "last_attempt": "2026-07-03T11:28:48",
-    "order_id": "1783078128602847541",
-    "category": "Godmorgen_med_DNNK"
+    "status": "failed",
+    "last_attempt": "2026-08-06T17:15:18",
+    "order_id": null,
+    "category": "Godmorgen_med_DNNK",
+    "attempts": 3,
+    "note": "Transkriptor YouTube-transskription mislykkedes (juli 2026) OG ingen danske auto-undertekster paa YouTube. Kraever lyd-baseret transskription."
   },
   "IDETmAf32mU": {
     "status": "done",
@@ -699,10 +707,12 @@
     "kilde": "youtube-subs"
   },
   "ZnNmeyyKCok": {
-    "status": "pending",
-    "last_attempt": "2026-07-03T11:28:53",
-    "order_id": "1783078133796381118",
-    "category": "Godmorgen_med_DNNK"
+    "status": "failed",
+    "last_attempt": "2026-08-06T17:15:18",
+    "order_id": null,
+    "category": "Godmorgen_med_DNNK",
+    "attempts": 3,
+    "note": "Transkriptor YouTube-transskription mislykkedes (juli 2026) OG ingen danske auto-undertekster paa YouTube. Kraever lyd-baseret transskription."
   },
   "73-c20WGsgM": {
     "status": "done",
@@ -712,16 +722,20 @@
     "kilde": "youtube-subs"
   },
   "-qLfWkFJIyE": {
-    "status": "pending",
-    "last_attempt": "2026-07-03T11:28:58",
-    "order_id": "1783078138897709073",
-    "category": "Godmorgen_med_DNNK"
+    "status": "failed",
+    "last_attempt": "2026-08-06T17:15:18",
+    "order_id": null,
+    "category": "Godmorgen_med_DNNK",
+    "attempts": 3,
+    "note": "Transkriptor YouTube-transskription mislykkedes (juli 2026) OG ingen danske auto-undertekster paa YouTube. Kraever lyd-baseret transskription."
   },
   "boyo2OASg7o": {
-    "status": "pending",
-    "last_attempt": "2026-07-03T11:29:23",
-    "order_id": "1783078163479371797",
-    "category": "Konferencer"
+    "status": "failed",
+    "last_attempt": "2026-08-06T17:15:18",
+    "order_id": null,
+    "category": "Konferencer",
+    "attempts": 3,
+    "note": "Transkriptor YouTube-transskription mislykkedes (juli 2026) OG ingen danske auto-undertekster paa YouTube. Kraever lyd-baseret transskription."
   },
   "6eLttHPRlSw": {
     "status": "done",
@@ -752,16 +766,20 @@
     "kilde": "youtube-subs"
   },
   "rw-2t2DL4aU": {
-    "status": "pending",
-    "last_attempt": "2026-07-05T11:02:13",
-    "order_id": "1783249333479597185",
-    "category": "Arrangementer"
+    "status": "failed",
+    "last_attempt": "2026-08-06T17:15:18",
+    "order_id": null,
+    "category": "Arrangementer",
+    "attempts": 3,
+    "note": "Transkriptor YouTube-transskription mislykkedes (juli 2026) OG ingen danske auto-undertekster paa YouTube. Kraever lyd-baseret transskription."
   },
   "zQ7nBjYq6Mk": {
-    "status": "pending",
-    "last_attempt": "2026-07-05T11:02:16",
-    "order_id": "1783249336173588992",
-    "category": "Arrangementer"
+    "status": "failed",
+    "last_attempt": "2026-08-06T17:15:18",
+    "order_id": null,
+    "category": "Arrangementer",
+    "attempts": 3,
+    "note": "Transkriptor YouTube-transskription mislykkedes (juli 2026) OG ingen danske auto-undertekster paa YouTube. Kraever lyd-baseret transskription."
   },
   "twkCUP0a5ug": {
     "status": "done",
@@ -778,10 +796,12 @@
     "kilde": "youtube-subs"
   },
   "ZVkyCW5IMTU": {
-    "status": "pending",
-    "last_attempt": "2026-07-05T11:02:24",
-    "order_id": "1783249344173437375",
-    "category": "Arrangementer"
+    "status": "failed",
+    "last_attempt": "2026-08-06T17:15:18",
+    "order_id": null,
+    "category": "Arrangementer",
+    "attempts": 3,
+    "note": "Transkriptor YouTube-transskription mislykkedes (juli 2026) OG ingen danske auto-undertekster paa YouTube. Kraever lyd-baseret transskription."
   },
   "KG8mkJJZivE": {
     "status": "done",
@@ -791,22 +811,28 @@
     "kilde": "youtube-subs"
   },
   "cDfGMF9D7rQ": {
-    "status": "pending",
-    "last_attempt": "2026-07-05T11:02:29",
-    "order_id": "1783249349553602640",
-    "category": "Arrangementer"
+    "status": "failed",
+    "last_attempt": "2026-08-06T17:15:18",
+    "order_id": null,
+    "category": "Arrangementer",
+    "attempts": 3,
+    "note": "Transkriptor YouTube-transskription mislykkedes (juli 2026) OG ingen danske auto-undertekster paa YouTube. Kraever lyd-baseret transskription."
   },
   "RIUuChMy1hs": {
-    "status": "pending",
-    "last_attempt": "2026-07-05T11:02:32",
-    "order_id": "1783249352173532887",
-    "category": "Arrangementer"
+    "status": "failed",
+    "last_attempt": "2026-08-06T17:15:18",
+    "order_id": null,
+    "category": "Arrangementer",
+    "attempts": 3,
+    "note": "Transkriptor YouTube-transskription mislykkedes (juli 2026) OG ingen danske auto-undertekster paa YouTube. Kraever lyd-baseret transskription."
   },
   "DaKuQ9hKYF0": {
-    "status": "pending",
-    "last_attempt": "2026-07-05T11:02:34",
-    "order_id": "1783249354787014732",
-    "category": "Arrangementer"
+    "status": "failed",
+    "last_attempt": "2026-08-06T17:15:18",
+    "order_id": null,
+    "category": "Arrangementer",
+    "attempts": 3,
+    "note": "Transkriptor YouTube-transskription mislykkedes (juli 2026) OG ingen danske auto-undertekster paa YouTube. Kraever lyd-baseret transskription."
   },
   "uQuLL27W1D4": {
     "status": "done",
@@ -816,22 +842,28 @@
     "kilde": "youtube-subs"
   },
   "mWG_TwwiPkw": {
-    "status": "pending",
-    "last_attempt": "2026-07-05T11:02:40",
-    "order_id": "1783249360031658303",
-    "category": "Arrangementer"
+    "status": "failed",
+    "last_attempt": "2026-08-06T17:15:18",
+    "order_id": null,
+    "category": "Arrangementer",
+    "attempts": 3,
+    "note": "Transkriptor YouTube-transskription mislykkedes (juli 2026) OG ingen danske auto-undertekster paa YouTube. Kraever lyd-baseret transskription."
   },
   "TYAN6ZpLxEQ": {
-    "status": "pending",
-    "last_attempt": "2026-07-05T11:02:42",
-    "order_id": "1783249362713526444",
-    "category": "Arrangementer"
+    "status": "failed",
+    "last_attempt": "2026-08-06T17:15:18",
+    "order_id": null,
+    "category": "Arrangementer",
+    "attempts": 3,
+    "note": "Transkriptor YouTube-transskription mislykkedes (juli 2026) OG ingen danske auto-undertekster paa YouTube. Kraever lyd-baseret transskription."
   },
   "e5n-rkdCyLI": {
-    "status": "pending",
-    "last_attempt": "2026-07-05T11:02:45",
-    "order_id": "1783249365315420701",
-    "category": "Arrangementer"
+    "status": "failed",
+    "last_attempt": "2026-08-06T17:15:18",
+    "order_id": null,
+    "category": "Arrangementer",
+    "attempts": 3,
+    "note": "Transkriptor YouTube-transskription mislykkedes (juli 2026) OG ingen danske auto-undertekster paa YouTube. Kraever lyd-baseret transskription."
   },
   "SFwbGrZ-Zjs": {
     "status": "done",
