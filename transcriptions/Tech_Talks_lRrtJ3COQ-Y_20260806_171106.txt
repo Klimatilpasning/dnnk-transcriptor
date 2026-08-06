@@ -8,10 +8,10 @@ Transskriberet: 2026-08-06T17:11:06.819081
 ==================================================
 
 00:00:00
-he alle velkommen til dagens tiktok ID NK Mit navn er Theis rosk Andersen og for VIA University College og sammen med Morten Halling fra dnk vil vi være jeres værter i dag på dagens tiktok og i dag der skal vi høre Sar fra scalgo fortælle om det nye modul dynamic flot i skgo live og for at belyse potentialet af modulet ved nadar FR for nios fortælle
+he alle velkommen til dagens Tech Talk ID NK Mit navn er Theis rosk Andersen og for VIA University College og sammen med Morten Halling fra dnk vil vi være jeres værter i dag på dagens Tech Talk og i dag der skal vi høre Sar fra scalgo fortælle om det nye modul dynamic flot i skgo live og for at belyse potentialet af modulet ved nadar FR for nios fortælle
 
 00:00:30
-om nogle af de projekter De har brugt hvor de har brugt dynamic flot til at lave nogle hurtige Oversø analyser og teste løsningsforslag og lidt praktisk information inden vi starter selve præsentationen vil vare 30 til 35 minutter hvor efter der vil være cirka 10 minutter til spørgsmål og I kan løbende stille jer spørgsmål i chatten Og så vil Sara og nadar besvare dem i slutning af teek talken og for god ordens skyld skal jeg informere om at tiktok vil blive optaget Det var alt for Morten og mig og så vil jeg give ordet
+om nogle af de projekter De har brugt hvor de har brugt dynamic flot til at lave nogle hurtige Oversø analyser og teste løsningsforslag og lidt praktisk information inden vi starter selve præsentationen vil vare 30 til 35 minutter hvor efter der vil være cirka 10 minutter til spørgsmål og I kan løbende stille jer spørgsmål i chatten Og så vil Sara og nadar besvare dem i slutning af teek talken og for god ordens skyld skal jeg informere om at Tech Talk vil blive optaget Det var alt for Morten og mig og så vil jeg give ordet
 
 00:01:00
 til s Velkommen til Tak skal du have seis dejligt at vi kunne få lov at besøge dnk platformen i dag Øhm vi skal fortælle jer om dynamic flot Øh jeg lægger ud med en kort præsentation af hvad det er og hvorfor vi har lavet det og så vil n bagefter ø som Theis også sagde ø bidrag med nogle use cases hvor at niras har anvendt det til konkrete projekter i Danmark
@@ -83,7 +83,7 @@ klimatilpasning øh bliver taget på et bedre informeret grundlag fordi man nu k
 Så nu har vi det på visningen gør vi lige sådan der Yes Nu er den der Yes Øh jeg Sam Hun spurgte så mig om jeg ville fortælle om nogle af de projekter Vi har brugt det her skal gå tfl på til at lave hy damis beregninger og vi har så nogle cases som jeg selvfølgelig gerne vil fortælle om her øhm ja men først så vil jeg lige fortælle kort om mig selv Jeg hedder Nara kran kir og jeg er rådgiver og
 
 00:12:30
-hydrauliker i nias øh jeg har arbejdet rigtig meget med Ø overflade beregninger og i både i Mike ø og Mike flot Øh Og har brugt de her resultater og analyseret på de her resultater i i mange forskellige sammenhæ Det har været skybrudsplan og så konkretisering proo cost benefit analyse og skrift 21 beregning men også lavet mange af de her screeninger i i i skg Øhm ja øh øh de her Der er fem projekter Jeg vil
+hydrauliker i NIRAS øh jeg har arbejdet rigtig meget med Ø overflade beregninger og i både i Mike ø og Mike flot Øh Og har brugt de her resultater og analyseret på de her resultater i i mange forskellige sammenhæ Det har været skybrudsplan og så konkretisering proo cost benefit analyse og skrift 21 beregning men også lavet mange af de her screeninger i i i skg Øhm ja øh øh de her Der er fem projekter Jeg vil
 
 00:13:00
 fortælle om ø og jeg har listet dem op her Øh og det er projekter hvor jeg ligesom har taget og snakker fokuset ind i I skal go tflow for de har det har som regel været en del af et en måske en mindre del eller en del af et andet projekt så jeg har fokuset omkring de her tflow beregninger øh for for vandmiljø Randers der skulle de gerne have input til noget kommuneplanlægning Øh Og der havde vi øh
@@ -137,7 +137,7 @@ oversvømmelsen ved en 20års en 20års hændelse med hvor man kan se 10 cm vand
 også fået delt workspaces så de faktisk går ind og sige Jam Okay hvis vi vil arbejde med det hvis vi ikke vil acceptere den her strømning øh vej eller kritisk strømning svej Hvordan kan vi så prøve at ændre terrænet og så køre en ny beregning sådan at de får nye resultater kan ligesom se effekten af de her ting her alt den her den her med at vi arbejder i et værktøj og som vi så giver videre til dem så de selv kan nemt gå ind hvis de er lidt teknisk kun kan gå ind og ændre tingene i skgo og så køre en ny beregn hvis de så har licensen Men
 
 00:21:30
-alle de der ting der Det gør det bare meget nemmere at at arbejde med Øhm ja og jeg skal lige sige som en disclaimer Det fik jeg ikke lige sagt jeg har ikke været med til alle de her projekter Øh det her projekt har jeg ikke været med til at lave ø men har nogle af mine dygtige kollegaer i nias lavet Ø Jeg har til gengæld været med til at lave det her projekt som er for Aalborg Kommune øh som vi har lavet en disponering plan for et mindre område
+alle de der ting der Det gør det bare meget nemmere at at arbejde med Øhm ja og jeg skal lige sige som en disclaimer Det fik jeg ikke lige sagt jeg har ikke været med til alle de her projekter Øh det her projekt har jeg ikke været med til at lave ø men har nogle af mine dygtige kollegaer i NIRAS lavet Ø Jeg har til gengæld været med til at lave det her projekt som er for Aalborg Kommune øh som vi har lavet en disponering plan for et mindre område
 
 00:22:00
 Vestbyen og Mølholm og ø kommunen havde ligesom et ønske om at få større viden om de vandudtag som et særligt til Aalborg kommune Det er selvfølgelig

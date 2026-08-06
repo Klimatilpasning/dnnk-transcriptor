@@ -5327,5 +5327,359 @@
       }
     ],
     "afvist": []
+  },
+  "transcriptions\\DNNK_Masterclass_AUORtdz6RBI_20260806_171228.txt": {
+    "anvendt": [
+      {
+        "forkert": "Gladsakse",
+        "rettet": "Gladsaxe",
+        "antal": 1,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\DNNK_Masterclass_qDNiNOpMl_8_20260806_171222.txt": {
+    "anvendt": [
+      {
+        "forkert": "DNK",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      },
+      {
+        "forkert": "HFOR",
+        "rettet": "HOFOR",
+        "antal": 1,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      },
+      {
+        "forkert": "inviteret",
+        "rettet": "Envidan",
+        "antal": 1,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      },
+      {
+        "forkert": "itrative",
+        "rettet": "iterative",
+        "antal": 1,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Godmorgen_med_DNNK_IDETmAf32mU_20260806_171202.txt": {
+    "anvendt": [
+      {
+        "forkert": "DNK",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      },
+      {
+        "forkert": "med DNNK",
+        "rettet": "Tech Talk",
+        "antal": 1,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Godmorgen_med_DNNK_gJRis50HFVY_20260806_171144.txt": {
+    "anvendt": [
+      {
+        "forkert": "DNK",
+        "rettet": "DNNK",
+        "antal": 2,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      },
+      {
+        "forkert": "VSP",
+        "rettet": "WSP",
+        "antal": 4,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      },
+      {
+        "forkert": "inviteret",
+        "rettet": "Envidan",
+        "antal": 2,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      },
+      {
+        "forkert": "med DNNK",
+        "rettet": "Tech Talk",
+        "antal": 1,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Godmorgen_med_DNNK_kVc6pf42cMc_20260806_171152.txt": {
+    "anvendt": [
+      {
+        "forkert": "DNK",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      },
+      {
+        "forkert": "VSP",
+        "rettet": "WSP",
+        "antal": 1,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      },
+      {
+        "forkert": "strandingen",
+        "rettet": "strandengen",
+        "antal": 3,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      },
+      {
+        "forkert": "med DNNK",
+        "rettet": "Tech Talk",
+        "antal": 1,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Godmorgen_med_DNNK_nD4CvPsWxCY_20260806_171155.txt": {
+    "anvendt": [
+      {
+        "forkert": "DNK",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      },
+      {
+        "forkert": "rampe",
+        "rettet": "Rambøll",
+        "antal": 3,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      },
+      {
+        "forkert": "NIOS",
+        "rettet": "NIRAS",
+        "antal": 1,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Godmorgen_med_DNNK_yEvJX7_4Esw_20260806_171149.txt": {
+    "anvendt": [
+      {
+        "forkert": "DNK",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      },
+      {
+        "forkert": "med DNNK",
+        "rettet": "Tech Talk",
+        "antal": 1,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      },
+      {
+        "forkert": "Novafoss",
+        "rettet": "Novafos",
+        "antal": 1,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Oevrige_2yNMzA7kL3k_20260806_171315.txt": {
+    "anvendt": [
+      {
+        "forkert": "kovi",
+        "rettet": "COWI",
+        "antal": 1,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Oevrige_SFwbGrZ-Zjs_20260806_171309.txt": {
+    "anvendt": [
+      {
+        "forkert": "DNK",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      },
+      {
+        "forkert": "debat",
+        "rettet": "BAT",
+        "antal": 1,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Tech_Talks_2vrQr211cwE_20260806_171134.txt": {
+    "anvendt": [
+      {
+        "forkert": "strandingen",
+        "rettet": "strandengen",
+        "antal": 2,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      },
+      {
+        "forkert": "stranding",
+        "rettet": "strandeng",
+        "antal": 1,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Tech_Talks_5HheldLgozU_20260806_171122.txt": {
+    "anvendt": [
+      {
+        "forkert": "strandingen",
+        "rettet": "strandengen",
+        "antal": 17,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      },
+      {
+        "forkert": "stranding",
+        "rettet": "strandeng",
+        "antal": 14,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      },
+      {
+        "forkert": "strandinge",
+        "rettet": "strandenge",
+        "antal": 7,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      },
+      {
+        "forkert": "strandingene",
+        "rettet": "strandengene",
+        "antal": 2,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Tech_Talks_KGQ1EZ4SEvU_20260806_171057.txt": {
+    "anvendt": [
+      {
+        "forkert": "DNK",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      },
+      {
+        "forkert": "Gladsakse",
+        "rettet": "Gladsaxe",
+        "antal": 1,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Tech_Talks_YutqZ_sFZ3w_20260806_181440.txt": {
+    "anvendt": [
+      {
+        "forkert": "DNK",
+        "rettet": "DNNK",
+        "antal": 4,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      },
+      {
+        "forkert": "tiktok",
+        "rettet": "Tech Talk",
+        "antal": 1,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Tech_Talks_Z4-52YNHRz0_20260806_171125.txt": {
+    "anvendt": [
+      {
+        "forkert": "Nias",
+        "rettet": "NIRAS",
+        "antal": 2,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Tech_Talks__FOnu5SwXvE_20260806_171112.txt": {
+    "anvendt": [
+      {
+        "forkert": "Gel",
+        "rettet": "Gehl",
+        "antal": 1,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      },
+      {
+        "forkert": "debat",
+        "rettet": "BAT",
+        "antal": 1,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Tech_Talks_lRrtJ3COQ-Y_20260806_171106.txt": {
+    "anvendt": [
+      {
+        "forkert": "tiktok",
+        "rettet": "Tech Talk",
+        "antal": 3,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      },
+      {
+        "forkert": "nias",
+        "rettet": "NIRAS",
+        "antal": 2,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Tech_Talks_ptkNCE1dNUg_20260806_171116.txt": {
+    "anvendt": [
+      {
+        "forkert": "bas",
+        "rettet": "BAT",
+        "antal": 1,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      },
+      {
+        "forkert": "tiktok",
+        "rettet": "Tech Talk",
+        "antal": 5,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      },
+      {
+        "forkert": "kovi",
+        "rettet": "COWI",
+        "antal": 1,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Tech_Talks_uLiX_MX5qA4_20260806_171103.txt": {
+    "anvendt": [
+      {
+        "forkert": "debat",
+        "rettet": "BAT",
+        "antal": 1,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      },
+      {
+        "forkert": "tiktok",
+        "rettet": "Tech Talk",
+        "antal": 4,
+        "grund": "kendt ordliste (juli-rensning genbrugt)"
+      }
+    ],
+    "afvist": []
   }
 }

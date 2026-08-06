@@ -508,12 +508,13 @@
     "kilde": "youtube-subs"
   },
   "YutqZ_sFZ3w": {
-    "status": "failed",
-    "last_attempt": "2026-08-06T17:15:18",
+    "status": "done",
+    "last_attempt": "2026-08-06T18:14:40",
     "order_id": null,
     "category": "Tech_Talks",
-    "attempts": 3,
-    "note": "Transkriptor YouTube-transskription mislykkedes (juli 2026) OG ingen danske auto-undertekster paa YouTube. Kraever lyd-baseret transskription."
+    "attempts": 0,
+    "note": "Transkriptor YouTube-transskription mislykkedes (juli 2026) OG ingen danske auto-undertekster paa YouTube. Kraever lyd-baseret transskription.",
+    "kilde": "whisper-small"
   },
   "uLiX_MX5qA4": {
     "status": "done",
@@ -663,12 +664,13 @@
     "kilde": "youtube-subs"
   },
   "vdBxSeS557E": {
-    "status": "failed",
-    "last_attempt": "2026-08-06T17:15:18",
+    "status": "done",
+    "last_attempt": "2026-08-06T18:49:05",
     "order_id": null,
     "category": "Godmorgen_med_DNNK",
-    "attempts": 3,
-    "note": "Transkriptor YouTube-transskription mislykkedes (juli 2026) OG ingen danske auto-undertekster paa YouTube. Kraever lyd-baseret transskription."
+    "attempts": 0,
+    "note": "Transkriptor YouTube-transskription mislykkedes (juli 2026) OG ingen danske auto-undertekster paa YouTube. Kraever lyd-baseret transskription.",
+    "kilde": "whisper-small"
   },
   "yEvJX7_4Esw": {
     "status": "done",

@@ -8,7 +8,7 @@ Transskriberet: 2026-08-06T17:10:57.285860
 ==================================================
 
 00:00:00
-Kære alle, på vegne af DNK vil jeg byde velkommen til dagens techk. I i teknikken sidder Morten Halling og jeg Christoffer Sindby som dagens vært for Scanpipe Klima. For god ordens skyld
+Kære alle, på vegne af DNNK vil jeg byde velkommen til dagens techk. I i teknikken sidder Morten Halling og jeg Christoffer Sindby som dagens vært for Scanpipe Klima. For god ordens skyld
 
 00:00:30
 skal det siges, at dagens Techtalk bliver optaget og lagt på DNSKs hjemmeside i løbet af en uge. I forhold til det praktiske kender I det måske mange af jer. Øh, men jeg vil stadig sige at ø I kan stille spørgsmål løbende under techken i chatten, og så vil jeg tage spørgsmålene op til sidst øh og stille dem. Dagens tektalk den er med Laurit Sund fra GISM som vil præsentere hvordan GISMAC kombineret med AI baseret kortlægning med geodata. I denne techk
@@ -191,7 +191,7 @@ at når man går ud og kvalificerer på de her ting, at man jo så i princippet 
 skulle gerne være, at fordi man netop kigger på indikatorer øh overordnet set i forhold til typisk vegetationen, men også selvfølgelig det våde ø så vil det stå øh samlet. Okay. Kontra at man at det er det her øjeblik spillet. Jeg ved ikke om det gav mening det svar. &gt;&gt; Det synes jeg i hvert fald gav noget til mig. Det kan være der er nogle af biologerne der har nogle andre meninger der derude i forhold til det. Og jeg ved der sidder et par stykker og lytter med. Øh men men for mig var det fint. Så I må
 
 00:30:30
-endelig huske at kommentere og skrive derude. Jeg har et sidste spørgsmål. Så hvis der er nogen af jer, der skal have mere med derudover, så må I endelig skrive i chatten. Men du snakkede om ø IoT og Dampprojektet. Nu vil jeg så sige, det ligger i Gladsakse, men det ø er jo bare et spørgsmål om bygrens. [latter] &gt;&gt; Så øh hvor I måler på fugtigheden, vil I kunne måle på nedsivningshastigheder og lægge det ind også? Øh og det er sådan todele
+endelig huske at kommentere og skrive derude. Jeg har et sidste spørgsmål. Så hvis der er nogen af jer, der skal have mere med derudover, så må I endelig skrive i chatten. Men du snakkede om ø IoT og Dampprojektet. Nu vil jeg så sige, det ligger i Gladsaxe, men det ø er jo bare et spørgsmål om bygrens. [latter] &gt;&gt; Så øh hvor I måler på fugtigheden, vil I kunne måle på nedsivningshastigheder og lægge det ind også? Øh og det er sådan todele
 
 00:31:00
 spørgsmål, for en er at kunne måle nedsivningshastigheden, når vi laver de her anlæg. Nummer to er, man rent faktisk også ville kunne få noget årsdata, hvornår øh vandet er der, og hvornår det ikke er der, og på den måde så samle noget vandbalancer og noget vandcyklus henover. &gt;&gt; Ja. Så ideen ideen for os er, at vi vil gerne være en platform, hvor man kan se på ø overskue et en samlet matrikel eller lokation øh og herunder kunne få nogle indikatorer på ø ja jordfugtighed

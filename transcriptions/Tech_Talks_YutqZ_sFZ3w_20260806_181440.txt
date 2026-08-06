@@ -1,0 +1,281 @@
+=== DNNK Webinar Transskription ===
+Kategori: Tech_Talks
+Video ID: YutqZ_sFZ3w
+URL: https://youtube.com/watch?v=YutqZ_sFZ3w
+Kilde: lokal transskription (faster-whisper small, dansk)
+Transskriberet: 2026-08-06T18:14:40.391669
+
+==================================================
+
+00:00:00
+DTU fortæller om de forlygge resultater af deres forskningsprojekt Bear Reef, hvor de undersøger om stenerev og har potential til at fremme købsbeskyttelser og bivdivacitet i Danmark. Et praktisk information inden vi starter. Tættelig præstention vil være 30-35 minutter, hvor efter der vil være cirka 10 minutter til spørgsmål. Vi kan stille jer spørgsmål løbende i chatten, og så vil jeg publisere dem, og Johan vil besvare dem i slutningen af TikTokken. Og for en god ordentlig skyld, så skal informere jer om, at TikTokken bliver optaget.
+
+00:00:30
+Det var alt for nu, og så vil jeg give ordet til dig, Johan. Tusind tak. Går jeg igennem? Super. Jeg er fra... Jeg er seniorforsker ved DTU Akva, og jeg har glædet mig til at fortælle om nogle undersøgelser, vi har i gang med multifunktionale stenerev i Danmark. Med specifikter vil vi undersøge om stenerev, både kan vi ikke købsbeskytte den og fremme den lokale bivdivacitet.
+
+00:01:00
+Så vi håber, vi lidt kan slå to flur med et smæk på den måde. Indie går i gang med at snakke om det, så vil jeg gerne fremhæve de fronte og virksomheder med mere, der betaler vores aktiviteter. Vi er dyrt afhængig af finansiering derfra, så det er vigtigt at få det fremhæde. Det her projekt Bar Reef, det er finansieret af V-LUX-fronten og Vattenfald.
+
+00:01:30
+Men vi søger også at få midler fra forskellige ministerier og fra EU, til at udføre vores undersøgelser. Det er meget stort, alt det vi laver, det laver vi i samarbejde med lokale foreninger, og to relevante foreninger. Nu er det alts stenerev og dansk armaturenfiskerforening. Så vil jeg have videre til noget baggrund, og vi skal langt tilbage i historien, vi skal 100 år tilbage i tiden, eller deromkring.
+
+00:02:00
+Der begyndte man at have noget grej, der var kraftigt nok til, at man kunne hente sten ude på havbunden. Det var nogle store grepper, som man kan se på billet her, som man via en dykker ned på bunden fik til at hive sten op fra havbunden. Det gjorde man i omfattende grader, og de sten blev brug til moler. Der er rigtig mange moler, der er lavet af sten, som er hentet i nabolade ude på havbunden.
+
+00:02:30
+Man har gjort det rigtig mange år, men vi har en kvantifisering af, hvor mange sten, der er blevet hentet i perioden fra 1900 til 2000. Det er jo omregen af 3-40 millioner sten, der er hiveet op fra den danske havbund, som så er brugt til moler af nu. Så der har tidligere været rigtig mange flere sten ude på havbunden. Jeg vil godt lige beskrive lidt konsekvenserne af det.
+
+00:03:00
+Det her er en havbund uden sten. Det kan være en sandbund eller en mudderbund. Den er fin til fladfisk, og den er også fin til sandorme, men den er ret homogen i denne opbygning. Det gør, at der er en rækkearter, der ikke trives særlig godt på sandbund.
+
+00:03:30
+Det står i modsætning til, at hvis der er nogle sten på havbunden, så kommer der ret meget vegetation. Man kan opnå hele en tankskåve, der bredder sig ud fra stenet. Det er nemlig sådan, at tank, som vi kender det, er ikke rådfestet som et birketræ hjemme i haven. Tværdemål så suger tank så faste sten og andre hårde overflade, så en vegetation bestående af tank er dybt at hænge af en hårde overflade, det kan sit fast på. Og det er forklaringen på, at der ikke egentlig ikke vokser tank på sand.
+
+00:04:00
+Al de her tankskåve, som kan bredde sig fra stenet, de giver livssteder til masser af smådyr. Man har forsøgt at opgøre der er noget frem til, at der er omkring 100.000 smådyr per kvadratmeter, når man har gør med sådan en frode i tankskåv. Det giver et fødegrundlag for en masse større organismer, blandt andet fisk. Vi har her indsat et billede af to kudlinger, og de kan spise en masse af de her smådyr. Og så kan der komme nogle større fisk, det kunne være torsk, og de spiser så de små fisk.
+
+00:04:30
+Og torskartige ørt, de trives rigtig godt, som vi skal se lige om lidt ved forskellige former for rev. Det var også der også den lille val Marsvinnet, som lever i danske farvejene, som spiser både kudlinger og torsk. Så er alt i alt. Der er nogle stemerev, de kan sætte gang i nogle vigtige økologiske processer. Og give et livsted at leve grundlag for nogle vigtige arter i danske farvejene.
+
+00:05:00
+Og det går viderelig helt ret op til Marsvinnet. Det så man, da man lavede stemerev ud ved Lesø, hvor forskere fra Aarhus Universitet kunne dokumentere, at der var flere Marsvin i området, efter der var lagt stemerev ud. Derfor har vi nu en overrække udført forskellige projekter. Jeg har her sat nogle billeder ind fra Lesø, men også fra Sønderborg, hvor vi har lagt stemerev ud.
+
+00:05:30
+Og det har så de her følger med, at der kommer vegetation, og at der også invanderet forskellige fiskearter. Fiskearterne, dem har vi dokumenteret via undervandskameraer, som vi sætter ud på havbunden. Her har vi nogle studerende og POD-studjerne og forskningsassistenter, der er fuldt gammel med at sænke et undervandskameraer ned på havbunden. Og der står det så optag i mange, mange timer, og vi har haft mange hunder af den slags kameraer stående ude på havbunden.
+
+00:06:00
+Og det gør så, at vi har meget godt styr på, hvad der er til stede nede ved havbunden. Her har vi kameraerne, der står nede på havbunden, og vi har sendt en døkker dernede også, eller en snorkel døkker dernede også. Og der står det så filmer. Og det, det så ser, når der er fiske i nabolade, er for eksempel et billede som det, der er til højere her, hvor et par torsk de svømmer forbi.
+
+00:06:30
+Det gør så, at vi kan måle, vi kan simpelthen tælle, hvor mange torsk der er i hver optagelse. Og det har jeg nogle resultater her. Vi opgør forekomsterne af fiske. Dem opgør vi per to minutters optagelse. Kameraerne, de er nemlig programmeret til at optage i to minutter, og så slukker de. Så er de slukket en time, og så tænder de igen at optage to minutter mere. Og så kører de time for time for time, og det gør vi både i kontrolområder, som man kan se øverst med rød.
+
+00:07:00
+Og det gør vi så også i revområder eller retter i de kommende revområder. Og der kan vi se de røde data hernede, hvor den her, der står før. Og der kan vi se, at der er meget, meget få torsk i først situationen. Og det gælder både i kontrolområderne og i de kommende revområder, at der er hvilke steder meget få torsk.
+
+00:07:30
+Så ligger vi sten i vandet, og så kigger vi nærmere på kontrolområdet igen. Og ved kontrolområdet, der er jo ikke lagt sten i, så der er antallet og torsk. Det er stadigvæk meget lavt og meget tæt på nul. I modsætning til revområdet, hvor der nu er lagt sten ud, og hvor vi nu ser et betydligt antallet af torsk i optagelserne. Hvis vi sådan gør op, hvor mange gange flere torsk vi får, når vi lægger et rev ud, så er det gennemsligt vi ser omkring 100 gange flere torsk.
+
+00:08:00
+Det er ikke 100 procent flere torsk, det er 100 gange flere torsk. Så det er ret mange torsk, der ducker op på et udlagt stenrev. Undersøgelserne her er de lavet cirka efter et halvt år, at stenen er lagt i vandet, så torskene ducker op ret hurtigt. Vi har lavet lignende undersøgelser for hummer. Det er udført i limfjorden.
+
+00:08:30
+Der lavede vi også kameraer ud, og det gjorde vi, at vi satte 45 kameraer ud. Og alle de andre såer vi 7 hummer, når vi var på sandbund. Så vi filmede det, vi lykkes med at filme 7 hummer med 45 kameraer. Med det samme antal kameraer, når vi var på et udlagt stenrev, så såer vi 39 hummer. Så hummeret giver også meget positivt på antallet eller på udlægning af stenrev.
+
+00:09:00
+Samlet set her så var der 5-6 gange så mange hummer, efter der var udlagt stenrev sammenligende med den mere homogene sandbund. Men det er det, det skal ikke kun handle om fisk og hummer og biodiversitet. Det skal også handle om kystbeskyttelse. Og det spørgsmål, som jeg gerne vil stille, det er om vi kan få naturen til at hjælpe os. Der har i medierne været et stigende antal af den her slags billede, hvor der er kraftige erosion, som på os sagde,
+
+00:09:30
+at summehuse og anden form for infrastruktur falder til man i vandet og skyldes bort. Og det er jo selvfølgelig en katastrofale udvikling, som vi skal gøre noget ved. Men vi er nødt til at være dygtig til det, fordi vi ved, at havet stiger. Her har jeg en opgørelse over havets udvikling fra 2000 til 2100 eller 2100.
+
+00:10:00
+Og der kan vi se, at havet det bestemt stiger. Der er selvfølgelig en del variation i, eller der er mulig variation. Men sammenligst så er havets stede, eller det bedste bud, er, at havets stede cirka 40 cm om 55 år. Så der er en udvikling i gang, som vi er nødt til at forberede os på.
+
+00:10:30
+Vi har allerede en hel del værktøj i værktøjskassen. Vi har skråningsbeskyttelse, som man kan se her til venstre, hvor man lægger sten på skråningen. Og det stabiliserer så en skråning op imod huse og andet. Det betyder så ofte, at sandstranden middenfor er den forsvinder, den erodere sport. Derudover laver man bylgebruder, som man kan se på billederne her ude til højre,
+
+00:11:00
+som også begrænser bylgerne og bremser i hos jorden. Billederne her viser også skråningsbeskyttelse, og det skyldes nemlig, at man tidt kombinerer bylgebruder med skråningbeskyttelse, altså hvor man lægger sten op på selve skråningen og stabiliseres skråningen. I en anden metode, som man landbender, er strandfordring, hvor man pumper store mængder sand ind på stranden, og derved genitablerer man stranden. Strandfordring kan være et ret omfattende ingridt.
+
+00:11:30
+Her har vi genitablering af en stor bred strand, og det gør man simpelthen ved at pumpe tusindvis af en kubikmeter sand ind på stranden, og det genitablerer i sandens natur stranden, som den bare. Jeg vil godt kigge lidt nærmere på, hvordan det egentlig foregår. Det foregår ved, at man har et skibliggende ude på dybtvand,
+
+00:12:00
+og har markeret her med en rød cirkel, og der er altså det forbundet med et rør til ind til land, og det er så der fra sandet bliver pumpet op. Det foregår lidt schematisk sind, som vi kan se her, hvor der bliver pumpet sand op ude på dybtvand. Vi rører op på skibet, og så bliver det pumpet videre ind på stranden, eller den strand, man er ved at genitablerer, og der kører en masse maskiner rundt og fordeler sand, som man nu engang gerne vil have det.
+
+00:12:30
+Det, man nogle gange i hvert fald overser, det er, at man faktisk fjerner nogle levestædere fra de forskellige former for organismer, blandt andet fladefisk, der lever nede på havbunden, og man suger også en masse muslinger og forskellige andre organismer op, og de bliver så pumpet ind på sandstranden, og inden på sandstranden, der lever jo også en del organismer nede i sand, sandvarm, muslinger og andet,
+
+00:13:00
+og de kan altså også godt få en hård meddeltur af at blive begravet i et tygt lag af sand, som de kan have svært ved at finde deres valg ud af igen. Så denne her aktivitets strandfådering, den har en række negativ effekter for naturen. Som sagt, så vil jeg gerne stille spørgsmål, vi måske ikke har fået naturen til at hjælpe os, og jeg har lavet mig inspireret det her guarnelstudie fra 2016, referansen er her, hvis der er nogen, der er interesseret,
+
+00:13:30
+og det handler om, at vi kan se nogle bølger, der kommer ind ude fra venster her, og så rammer de nogle koraler, og det tager en del af energiene af bølgerne, og bølgerne fortsætter så under vejs, der møder de sådan nogle havgræs, som så også tager en del af energiene, og længere inden der tager mangrovevens og den sidste del af energiene i bølgerne.
+
+00:14:00
+Nu er der nok nogen, der sidder og underser over, hvorfor jeg snakker om koraldrev, fordi vi har ikke så mulighed for at etablere koraldrev i Danmark, som en kystbeskyttende arrangement, men jeg har overvejet, om ikke man måske kunne bruge stenrev i stedet for, og mega stenrev kunne udlægges kystnært, og så derved have en lille effekt, som sådan et koraldrev det har. I Danmark har vi også en hel del ålegræs,
+
+00:14:30
+som måske er den øget forekomst. Ålegræs også kunne virke kystbeskyttende, og vi har også forskellige former for vigtigitation, der kan vokse ingen på stranden, meget halm for eksempel, som også kan stabilisere kysten, og begrænse erosionen. Så på den måde er der måske nogle værktøjere, nogle muligheder, som vi i højere grad kan prøve at udnytte.
+
+00:15:00
+Det er understøttet af nogle forskellige studier. Her er der et af dem, hvor man har, sådan en YouTube-film, hvor de viser en bøllegenerator, vi kan se her over til højere, der genererer dem nogle bølle, som bevæger sig til venstre, og helt ude til venstre, der rammer byllen sådan en væg, og der kan man tage mål hvor meget vand byllens sender henover væg. På den måde har man så et mål for forskellige former for kystbeskyttende tiltag.
+
+00:15:30
+I den her lille film, der tester de forskellige ting, forskellige strukturer, de sætter ned ude til venstre billede her, og så ser de hvor meget vand, der bevæger sig henover den væg, der står herude. Det de også tester, det er faktisk et rev, som er her i midten, som de sætter ned, og det viser sig faktisk, at sådan et rev, der står et stykke fra kysten, at i en sådan opsætning her, der er et rev faktisk det mest effektiv.
+
+00:16:00
+Nu skal man selvfølgelig passe på, med at konkurrere noget ud fra så simpelthen et setup, men det tyder dog på, at rev kan have en kystbeskyttende funktion, som vi måske kan anvende i fremtiden. Der er faktisk sådan nogle strukturer, der ligger forskellige steder langs de danske kyster. Her er vi i stevns kommune, og cirka 204 meter fra kysten eller fra stranden,
+
+00:16:30
+der ligger et revlinde formation, bestående af store sten, og de har ligget der siden færerne, altså i noget, der ligner 80 år. Og der har de ligget, og man kan se, at havbunden, den har reageret på det. Havbunden er forskellig foran ræde sammenligning med sidende ræde, og i følges stevns kommune, så har det her stenformation, den har haft en kystbeskyttende virkning,
+
+00:17:00
+og det kan man måske også godt finde med, at stranden den buler lidt ud her, der lige foran revlinde formation, i ordensstemmelse med det, som stevns kommune siger, at revlinde formation har haft en kystbeskyttende virkning. Der er en lignende struktur på nord-westfyn, den ligger 47 meter ude. Det er også nogle sten, der er lagt i vandet, for at etablere en havne lignende lokalitet.
+
+00:17:30
+Selve den kystbeskyttende effekt, er det her ikke opgjort, men man kan dog, hvis man kigger på stranden, måske fornemme, at stranden buler lidt ud der, og at det måske kunne tyde på, at der er en kystbeskyttende effekt af de sten, der ligger der. Så åbnet set, vil vi gerne prøve at arbejde videre med nature-based solution, hvor man prøver at lave nogle tiltag,
+
+00:18:00
+som både fremmer menneskerens trivsel, men som også påvirker biodiversiteten positivt. Som lidt simpel formulerer, så handler det om at arbejde med naturen, og ikke imod naturen. Det er noget, som EU har ganske meget fokus på. Her er en artikel, der er nogle få år gammel, som fremhæver nature-based solutions for EU og en masse af de udfordringer, som samfundet er nødt til at håndtere i fremtiden.
+
+00:18:30
+Så for at komme tilbage til strandfordring, det bliver foretaget mange steder den dag i dag, og det skal gentages ca. ved 30-50 år. Det afhænger, hvor mange stormer og kraftige vind, der er igennem de pågælde når. Men typisk i hvert fald, så skal strandfordring gentages ved 30-50 år. Og det kan kosta op mod 1 million kr. per kilometer per år gennemsnille set.
+
+00:19:00
+Og det vil vi gerne prøve at se, om vi kan udvikle et supplerende værktøj til, og der er det derfor, vi har sat gammel vores Bar Reef-projekt, som er finansieret af V-Lux-fronten, og er vattenfald, hvor planen så er, at vi vil prøve at udlægge et stenrev, som man kan se på figuren her. Et stenrev, som så begrænser bølgerne fra højre, det kan man se i form af de blå pile her. Og stenrev bliver så også begroet med tan og muslænger,
+
+00:19:30
+og der infinder sig nok en masse forskellige fisk, bl.a. torsk. Og hvis vi er heldige, så kan vi også få udelegrads til at vokse på inner siden af stenrevet. Og som vi så i den guernel artikel, så kan udelegrads formodeligt også bidrage til at bremse køstevolutionen. Og samlet set så, at det er formålet med det, at vi måske kan stoppe den evolution, der foregår på den progenest ret.
+
+00:20:00
+Projektet bliver udført i samarbejdet med en masse forskellige foreninger, som alle har interesse i danske kødszone, og vi været sætter deres input, og vi anvender input fra de her forskellige foreninger, og det er et vigtigt element i vores projekt. Vi har også kommunernes landsforening med, for at sørge for, at formidling den kører som en skal. Projektet her så er det en masse tandjule,
+
+00:20:30
+man trykker på startknappen hernede, og så begynder alle tandjule, alle projektets aktiviteter at køre, og det overordnede formål er, at vi får denne her raketscenter steder, kødsbeskyttelse og bedre bivilliversitet, når projektet er slut. Vi startede med at rette henvendelse til forskellige former for media, og vi fik nogle artikler i forskellige magasiner, som man kan se her,
+
+00:21:00
+og vi endte også på DRDK med en nyhed, om at vi var på udkig efter, og med så måske forsøgskaniner, altså at vi skulle bruge en strand, en køstrækning, hvor vi kunne udlægge vores kødsbeskyttende stenrev, og at vi gerne ville have, at folk indsendte eller kontaktede os, og med henvend på, at vi kunne diskutere om vores kødsbeskyttende stenrev, om det skulle udlægges på netop deres strand. Og det gik rigtig godt,
+
+00:21:30
+det ventede ind med lokaliteter, og folk som gerne ville være med til vores projekt, og som kendte eller havens strand, som de gerne ville have kødsbeskyttet, og der markerede stederne, og det strækker sig helt fra Bornholm til Anhold, og en masse andre steder. Hvis der er nogen, der undrer sig over, hvorfor den ljuske væskøst ikke er med, så skyldes det, at vi fra starten af udløgget, at have den ljuske væskøst med, simpelthen fordi, at der forhånden er for voldsomt på den ljuske væskøst,
+
+00:22:00
+og derudover så er der ikke rigtig noget historisk evidens for, at der har fundet stenfiskeri stedet på den ljuske væskøst. Og for starten af, der sagde vi, at det ljuske væskøst var ikke en mulighed. Vi gennemlægge en masse reporter, og en masse bøger, så videre, for at prøve at finde ud af på en bedre forståelse for de her lokaliteter, og det gjorde så, at vi kunne foretage en gråsutering, så vi nåede ned på de her 5,
+
+00:22:30
+og med de fem lokaliteter, der kiggede vi så nærmere på de dominerende bølgeretninger, hvor fra hvilken retning bølgerne kommer, dominerende vindretninger, strømretninger, vi kiggede nærmere på vanddybden foran alle lokaliteterne, for at prøve at finde den mest vælgerne lokalitet til vores køstbeskødende stenrevet. Vi var også rundt og besøgde alle de fem lokaliteter, sidste sommer.
+
+00:23:00
+Jeg satte et billede ind fra Stavls, og vi fik snakket med alle folk, og fik en forståelse af, hvad problemet var, og hvilken løsning de så, og hvilke former for opbakning de forskellige lokaliteter, de kunne bidra med til projekten. Det betyder så, at vi var nede på en lokalitet, og det blev samsøg, og det meldte vi så ude for nogle få måneder siden, om at køstbeskødelsen skal undersøges med vores køst,
+
+00:23:30
+eller at køsten skal undersøges med vores køstbeskødelsen med stenrevet, og det skal gøres på samtøg. Og det var jeg også i medierne, det var rigtig godt, og det endte i blandt andet Jyllandsbrosten, og der fik vi så også vores projekt beskrevet. Så nu vil vi være modellerer den bedste udformning af vores stenrevet, og det er Erik Damgård Christensen fra
+
+00:24:00
+D2 Mechanik, som er i gang med at udrejne den præcise størrelse og udformning af det stenrevet, og det foregår i samarbejde med DROI, og vi anvender de data, som DHI har taget rødighed, så den er, at vi kan designe det bedste mulige rev til formålet. Det næste skridt i vores projekt er så udlægning af stenrevet,
+
+00:24:30
+og for ganske kort tid siden, faktisk den 17. februar i år, der indsændte vi en ansøgning til kystdirektorater, om at vi gerne vil etablere et køstbeskyttende stenrevet, ude fra Strandskoven på Samtsøgs Østkøst, og det er så lige nord for Bale. Og den er nu i fuldganget, at blive vurderet af kystdirektorater. Vi håber selvfølgelig, at vi får en tilladesse, og hvis vi får en tilladesse til at lægge stenrevet ud,
+
+00:25:00
+så går vi så i gang med det. Det kommer til at foregå med en præm der kommer, der bringer sten med fra Norge, og de vil så blive lagt ud i årindstemmelse med beregningerne, som gør, at de giver den bedste mulige kystbeskyttelse. Og når de så er lagt ud, så laver vi en opmåling af havbunden, sådan at vi ved præcis, hvor rævet ligger og hvordan det ligger, og at de data vil så blive sendt videre
+
+00:25:30
+til myndighederne, så de forskellige dybte kort kan blive opdateret. Så skal vi så til at finde ud af, hvordan rævet det virker. Når det er udlagt, og det regner vi med at gøre med undervandskamera, og vi tager til Samtsøg i vejr og juni i år. Og det er så inden stenrevet, det bliver lagt ud, der tager vi til Sønderborg og ser kameraen ud, tror vi enda med at sætte 150 kameraer ud på havbunden,
+
+00:26:00
+og så har vi så en måling af forholdende inden stenrevet bliver lagt ud. Og de data bliver inhæntet, både der hvor rævet bliver lagt ud, men også i nærliggende kontrollermoder. Sådan at hvis der er nogle overordnede ændringer i havmiljøet, så kan vi tage højde for det i vores efterfølgende analyzer. Derudover skal vi også finde ud af, hvordan rævet fungerer som kystbeskyttelse, og det er Lucia Markoietini
+
+00:26:30
+fra Aalborg Universitet, som er ansvarlig for den del af projekter. Vi har nu etableret en masse de her survey lines, linjer, hvor der skal laves overvågning, eller at der skal laves opmågning. Vi skal opmåle vanddybter på alle de her linjer. Selve lokaliteten, hvor på stranden den er markerede med en grønne præk herude, der er en ræktange, og det er der, vi overordnede set forventer, at rævet kommer til at ligge.
+
+00:27:00
+Og så har vi så de her mange linjer, hvor der skal sejles langs, så ledes, at vi kan se og have et præcis opmåling af vanddybten, så vi kan dokumentere fremtidige ændringer i vanddybten, som følger af rævet, når det er lagt ud. Så det er den måde, vi skal opnå nogle tidsserie. Men vi har også en meget gammel tidsserie,
+
+00:27:30
+i form af nogle gammel, gammel billeder, der er blevet fortalt, der er blevet taget en masse billeder fra luften, tilbage i 50'erne, og der er også senere hen til at billeder fra luften, og også med at anvendte til at få en forståelse for, hvordan køsten har udviklet sig på selve lokaliteten, hvor vi lægger vores stenere ud. En stor del, er en vigtig del af projektet, det er Formiddeling,
+
+00:28:00
+og den bliver varetaget af kommunerne slagsvening, det er Lars Kålund, der står for det, og han kommunikerer med en masse organisationer, bl.a. dem, jeg har satt på her, med henblik på, at de kan følge med i projektets aktiviteter. En anden styrke ved kommunernes slagsvening, er selvfølgelig, at de har gør med alle kommunerne i relation til nærværende projekt, der er intressant med de kommuner, som har en kystdrejkning,
+
+00:28:30
+dem er der mange af i Danmark, og de kommunikerer kommunernes slagsvening selvfølgelig også med. På den måde håber vi, at vores resultater de kan sige ved udtil de forskellige og de kan så drage fordel af vores resultater, når resultaterne dukker op. Her og til sidst, da vi har gerne konkluderet på grund af det arbejde, vi har lavet dit til videre, vi har set, at vi kan genskabe dyrernes livssteder i havet. Vi så, at Torsk
+
+00:29:00
+og Hummer, at de dukket op i et stort antal, når der er udlagt stenrevet på bunden. Så på den måde har vi dokumenteret, at vi kan genskabe dyrernes livssteder. Vi er nu ved at undersøge, om køstbeskyttelse kan designes, så det samtidig beskytter køsten og styrker livet i havet, og det gør vi så via det her barreef stenrevet, som vi lægger ud. Og vi håber selvfølgelig, at det bliver begroet med tang,
+
+00:29:30
+og at der dukker ålegræs op, og at det stabiliserer køsten og begrænser i regionen. Vores barreef-projekt er et langvejt projekt. Det strækker sig over 5 år i alt det alt. Og det kører i samarbejde med en masse lokale aktører. Både lokale, regionale og nationale aktører. Og det er noget, vi sætter stor pris på. Og det sørger for, at den viden, som vi åbner via vores projekt,
+
+00:30:00
+at det får plantet os ud til dem, der har interesse for det. Det var det hele, der havde at sige. Tak for at mærke sig i møden. Tusind tak, Johan. Tak for en rigtig, rigtig spændende TikTok. Der er kommet rigtig mange spørgsmål. Og hvis I sidder derude stadigvæk har nogle spørgsmål, så skriv dem ind i chatten. Så skal vi nok tage hold på dem. Det første spørgsmål, Johan, det er fra Alexander, og han spørger, Øes torskebestanden eller flytter den fra sted til stede? Ja, det er
+
+00:30:30
+meget vigtigt at være der vant spørgsmål. Man kan ikke sige eller, man kan sige, det er en del af effekten af et stenrev er, at i starten er der invanderere torsken. Men de skal invanderere til området inden de kan begynde og reproducere i området og inden de kan begynde at få bedre overlevelse. Fiskene kan i højre grad skjule sig mellem stenene, sammenligende mellem sandbund.
+
+00:31:00
+Derfor giver det bedre overlevelse. Der er også et rigtig godt fødegrundlag for fiskene, og vi har lavet nogle undersøgelser, som blev publiceret fra to-tre år siden, hvor vi målte fiskernes energiforbrug, altså torskenes energiforbrug, afhængig af, om den er på en sandbund eller i et stenrev, og der kunne vi dokumentere, at når torsken den er i et stenrev, så sparer den 20%
+
+00:31:30
+af sin energi. Det er også sådan, at torsken og de fleste andre fisk, de vokser igennem helt deres liv, og det vil sige, at når fiskene er muligt for at spare 20% energi, så kan den allokere den her energi til øget kroppsvækst eller til flere æg. Og så kan det jo faktisk give enten større torske eller flere torske, når der er mere energi til at producere æg. Så på den måde
+
+00:32:00
+det er rigtigt, at der er invandre torske på området, og de kommer selvfølgelig et sted derfra, men når de så er i området, så er de bedre oplevelse. Der er et godt fødegrundlag og de sparer energi, hvilket så gør, at vi har kraftige forventninger om, at celleproduktionen også bliver forøvet. Tak. Så er der et, jeg tænker, at jeg kombinerer de to spørgsmålet for mass og lærke, og det kommer her, det er fordi massen spørger, hvad med tilladelsen for surfarstyrrelsen,
+
+00:32:30
+og så siger lærke, at det ikke er kommunen, der skal give tilladelse til et forsøgsprojekt om købsbeskyttelse, køstdirekturatet kan kun give tilladelse til anlæg på søgtatoriet. Fordi det er et forskningsprojekt, så er vi blevet orienteret om, at det er kystdirekturatet, der står for det. Så det er derfor, vi har ansøgt kystdirekturatet om tilladelse. Vi samarbejder meget med samsøg-kommune allerede. Det er faktisk dem, der har incendt
+
+00:33:00
+ansøgning, så samsøg-kommune er fuldt ud med på, at det her stegnerab det kommer, eller vi har planer og forhåbninger om, at vi kan anlægge det her stegnerab. Men ansøgning er incendt til køstdirekturatet, fordi det er et forskningsprojekt, og det er det, vi har fået videre i hvert fald. Tak for det her. Så er der et spørgsmål for Leile, der spørger, at vi har projekteret udgifter for bar reef per kilometer per år. Parandais anlægge, og vi lige holdt plus andet
+
+00:33:30
+over tid til samlingen med den en miljon kroner per kilometer per år til sandfrådering. Det er det, det er rigtig godt spørgsmål, som jeg på nuværende sidst på, ikke kan besvare. Jeg kan orientere om, at vi har to miljoner kroner til at etablere vores køstbeskødende stenerev. Og så nu er priserne på sten, de er det svære at blive skruet hver det seneste års tid, fordi det er en stor del af udgifterne
+
+00:34:00
+til et stenerev, det er brændstof. Så vi får lidt pærestenen forventet, men vi havde budgeteret med, at vi vil have 4000 kubitmeter sten. Præcis hvordan, man kan også sammenligne det med strandfrådering, der er vi slet ikke nu. Det vil kræve et eller to eller tre ekstra projekter for, at vi kan prøve at nå til den forståelse.
+
+00:34:30
+Ja, super godt. Så er der et spørgsmål for torben, der spørger for tæt på overfladen stikker stenerev, det må have interesse for sejler, f.eks. med søgkort, søge for undervanschere, fiskere og med videre. Ja, og vi er udenværk godt klar over, at vi arbejder i en zone, hvor der er rigtig stor opmærksomhed. Og det er også grunden til, at vi har gjort så meget ud af, at vælge den mest optimale lokalitet. Og det er også derfor, at vi var rundt at snakke
+
+00:35:00
+med de lokale folk, og spørge dem om de virkelig synes, det var en god idé, at det her stenerev skulle etableres. Vi har så mødt kæmpe opbakning alle steder, så det bestemte mit indtryk, at folk ikke er bekymret for det, men vi er fullt ud på det. Og vi går klar over, at vi kan påvirke sejlerouter, vi kan også påvirke rekreativ sejlerouter, men vi kan også påvirke fiskere og surfere og så videre. Men det er helt det for at
+
+00:35:30
+gå i samarbejde med lokale folk, de loceire og så videre, og med kommunen. Selve redet for at komme tilbage til det specifikke spørgsmål, så redet det kommer til, at redet ikke det endelige design har, vi ikke helt det nu, men vi regner med at redet kommer til at gå lige op til overfladen under normalt daglig vandet. Det vil sige, at du højde vandet, der vil det ligge lidt under overfladen, og ved lavvandet der vil det ravle lidt op over overfladen. Og det mener, vi er
+
+00:36:00
+den bedste løsning for at finde et kompromis mellem købsbeskødelse og ikke påvirke for eksempel udsikten alt for meget. Men hvis man har sejlet med motorbåde for eksempel i det område, så vil man skulle være opmærksom på, at der kommer et ræv, og det vil man skulle sejle udenom. Tak for sejlet. Så Lina har en kommentarer, den slutter vi af med. Jeg håber lige ned til Sune Spørgsmål
+
+00:36:30
+og han skriver, hvad er overvejelserne Hvor kommer der Lina Spørgsmål indtil? Hvad er overvejelserne i forhold til monitoreringen, kun at benytte kameraer Når vi snakker udbygde diversitet er der mange arter, som ikke vil blive opdagede med kameraer, har i overvejlet findet miljødianabryver? Ja, der er helt sikkert arter, som vi ikke ser i vores kameraer fordi de organismer, vi kan se, det er cirka ned til 3 cm
+
+00:37:00
+i det, vi kan se kameraer. Det er også at køre vores kameraer de kører uden lys det vil sige, at de organismer, der har den natten, hvis de ikke er til stedet om dagen hjem, så vil vi ikke se dem i kameraerne Det er også rigtig, at man kan godt dokumentere de her ting via e-DNA men selve den rumlige oplyslighed af e-DNA er etetistrækkelig nødvendigvis at det detktere i en effekt af stenerave, og det skyldes blandt andet
+
+00:37:30
+der er en del strøm og bølger osv. som fortøner de her spore af environmental DNA eller miljød DNA Vi har faktisk lavet et studie på det nede ved Sønderborg, hvor at vi satte kameraer op og så på forskellige habitater på sandbund og på stenbund altså på stenrev så satte kameraer op, og vi tog også en miljød DNA prøve
+
+00:38:00
+og der fik vi, at vi kunne tydeligt se effekter af habitaterne på de forekomster fisk der blev dokumenteret med kameraerne hvor mod, at med e-DNA der var det meget mere uklart, hvilke habitater vi var på Så kameraerne, de dokumenterede hvilke fisk der var på i forskellige habitater altså fladefisk ude på sandbund og torsk og andre fisk revspecificis fisk inden på stenrevnen det kunne kameraerne dokumentere
+
+00:38:30
+men det knep gewaltigt for e-DNA at nå det niveau af rummelig og bløslighed Så selvom e-DNA nok er et låne værktøj en gang fremtiden, så er det ikke noget der egnede til så specifikke undersøgelse som det, vi har gang i her Så er der kommet et spørgsmål for Emilie der spørger, har stenrevet en primært en købsbeskyttende effekt i forhold til evolution, eller hvad med hensyn til overslømmelse
+
+00:39:00
+det er også et rigtig relevant spørgsmål og det er, at stenrevet kan ikke stoppe overslømmelse så hvis vandet bare stiger uden derinde nogle bøger så batter det ikke noget at have et stenrevet i vandet fordi vandet bestiger lige ved hvorimod en erosion der er forsaget af bøger altså en vedvarende eller en akut erosion det håber vi, at ett stenrevet kan blive grænse
+
+00:39:30
+men hvis vandet bare stiger to meter uden derinde nogle bøger, så har stenrevet ikke nogen effekt Tak skal du have, så har Christian en spørgsmål der går på, hvad er den naturlig dybde under rævet Den naturlig dybde under rævet vil være 3-4 meter vi render med lige omkring 3 meter rævet bliver anlagt på cirka 3 meter dybde og så bygger vi op
+
+00:40:00
+til op til overfladense, så rævet vil være cirka 3 meter højt men den helt specifikke lokalitet, der ikke fundet i nu det er i gang med at beregne hvor det skal ikke hende men formodningen er, at rævet vil ikke på omkring 3 meters vand dybde Yes Så har jeg lige et enkelt spørgsmål vi slutter af med lignes kommentarer og tanker det er egentlig om der er nogle lande i Europa hvor som også har bløde
+
+00:40:30
+køster, som vi har er der nogen, der har mega meget faring med at anlægge steneræv, eller er det et uudforskede område som I er i gang med at dyrke op? Jeg tror, at jeg til begge del der er etableret steneræv jeg var faktisk i Tenerif eller påtenerif for en måned siden og der så jeg nogle steneræv der var lagt ud for at begrænse bølgerne helt specifikt
+
+00:41:00
+og de lå måske 200 meter fra køsten og det har man også gjort andre steder i Spanien og Italien men der er ikke særlig meget specifikt dokumentation for det der er ikke sådan en dokumentation så vi bare lige kan 1-1 omsætte resultaterne fra andre lande og så sige sådan kommer det til at virke i Danmark der er vi desværre ikke eller jeg har i hvert fald ikke kendskab til sådan en studie
+
+00:41:30
+så ja, der er lavet steneræv andre steder man ser dem langs en del sydeuropæiske kyster og der er også nogle dokumentationer men ikke sådan at vi kan omsætte det direkte til danske forhold Det var godt og så slutligt her, så har Aline jeg tænker kommentarer som en af de synes er gode som jeg også tænker i jo, om du sikkert også kan knytte nogle kommentarer til det er altså ikke langt tekster der går her og bærer lige over med mig For er det et købsbeskyttende ræv ikke blot virker som
+
+00:42:00
+bylgebrudder med laveevusion at det ville skulle ligge i hele den ønskede strækningslængde og så nævner hun et eksempel en flot grundrejre i overhus havde bekymrende om forringet badvenskal til bag rævet for sumpende forhold hvilke meget godt udstiller de udfordringer som kan opstå nogle steder nemlig at behovede for kystbeskyttelse eller beskyttelse af faste værdier f.eks. i boligområdet kan være svært at gøre med nye metoder som ændrer forholdene for beboere og bruger i baglande Det kræver vel en del konventioner
+
+00:42:30
+og også gerne erfaringer for andre projekter så det bliver spændende at følge projektet og jeg tænker det ville også nogle af de ting I har har kigget ind i, hvordan er det helt den interaktion med borgere og en ændret kyst kan se ud når man anlægger de her ræv Ja helt sikkert og det er også derfor vi har brugt så meget energi på at vælge lokaliteten, altså hele den der udvællessesfase som jeg beskrev at det skyldes at vi godt er klarere, at vi råder med nogle emner som
+
+00:43:00
+er umtåelige og hvor at tingene nemlig kan gå galt og hvor der kan opstå noget utilfredshed og vi vil gøre alt hvad vi kan for at undgå den utilfredshed og ja for at vinde sig bage til spørgsmålet så burde steneret anlægge sig hele den ønskede strækning, men det har vi ganske egentlig ikke at surre sig til så jeg tror at vores stenervalg det ender med at være 50 eller 100 meter langt, men det afhænger
+
+00:43:30
+den specifikke lokalitet, fordi at hvis vi ryger ud på lidt dybere vand så bliver rædet kortere fordi så skal vi bygge højere op så der er et kompromis vi måske må gå med på der så har vi også været mærksom på det med læsidig okson og vi har faktisk valgt den lokalitet hvor der ikke er forventning om kraftig aflejring af sand som følge af steneret, fordi
+
+00:44:00
+meningen er ikke at vi bare skal suge en masse sand til os og så betyder det sand, at det mangler et andet sted så lokaliteten er valgt udefra et kompromis men hvor vi også har været mærksom på læsidig okson, som vi har prøvet at vælge lokaliteten så det er i høj grad på undgods Tusind tak Johan der bliver ved med at komme spørgsmål men jeg tænker dem må vi lige finde ud af hvordan vi får besvaret det kan være at vi kan besvare dem skriftligt
+
+00:44:30
+måske med en slaglige slutning i et eller andet det finder vi ud af, fordi nu kan jeg se klokken den nærme sig et så er respekt for folks tid Johan på vejene af DNNK siger tusind tak for din presentation og som sagt så er den tiktokken optaget og det vil komme til at ligge om nogle dage, hvis den kommer til at ligge på DNNK's hjemmeside, og der er også johans kontaktoplysninger, så der kan I altid tilfærdige i ham, hvis der er nogle flere spørgsmål eller nogle andre ting I gerne vil vide mere om og ellers vil jeg selvfølgelig også godt, hvad hedder det benyt lejlighed til at sige, at hvis der er nogle af
+
+00:45:00
+tilhøjrende der gerne vil afholde en Tech Talk så I er meget velkommen til at sende en e-mail til DNNK for den så på vejene af DNNK så vil jeg sige tusind tak Johan selv tak og folk er altid velkommen til at skrive til mig eller at ringe, mit telefonnummer står i et første slide, det er ikke lige det jeg viser nu, men folk er meget velkommen til at ringe eller sende en e-mail tusind tak, og så må I alle sammen have en fortsat god dag

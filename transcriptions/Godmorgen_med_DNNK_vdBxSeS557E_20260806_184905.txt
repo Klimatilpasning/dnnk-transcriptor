@@ -1,0 +1,371 @@
+=== DNNK Webinar Transskription ===
+Kategori: Godmorgen_med_DNNK
+Video ID: vdBxSeS557E
+URL: https://youtube.com/watch?v=vdBxSeS557E
+Kilde: lokal transskription (faster-whisper small, dansk)
+Transskriberet: 2026-08-06T18:49:05.246279
+
+==================================================
+
+00:00:00
+God morgen til alle derude og velkommen til det her god morgen med DNNK-webinar. Mit navn er Christina Momsen Slot, og jeg kommer fra dervlig Region Midtjyllandstim for Klimavand. Men det her webinar er et tredje webinar ud af de fire i den her serie om pilotprojekter fra byerne og det stine havvand, som vi kører.
+
+00:00:30
+I dag, der handler webinaret om erfaringer og med brug af DAB for involvering af aktøren. Helt overordnet står DAB for Dynamic Adaptive Policy Pathways. Det er en måde at arbejde struktureret med klimatilpassning inden for en bestemt tidshøj sønt. Det er særligt viset være i forbildelse med Adaptive Planlægning og i forhold til dialog med forskellige aktører. Lige nu har vi tre forskellige oplekholdere med, der skal fortælle om projektet Big Blue Skive, Big Blue Nord.
+
+00:01:00
+Vi har Emil E. Rode Hubert, han er projektleder i Skive Kommune, og vi har Mette Lundov, som sidder i Nivas. Vi har Julia Kulby Bjerre, som arkitekt og partner i Lyt Architecture. God ordens skyld skal jeg sige, at webinaret blev optaget, så det bliver lagt ud senere.
+
+00:01:30
+De spørgsmål, de har, må gerne stille dem løbende i chatfunktionen. Jeg må også gerne skrive, hvem som der er en bestemt oplekshold og spørgsmålet går til. De her spørgsmål tager vi efter opleket er færdigt. Nu er det faktisk et oplek, hvor de her tre oplekholder har det i rangefølge af det her oplek. Så vil jeg overlede Julia.
+
+00:02:00
+Tak, så bringer vi bare på. Jeg skal på forhånd undskylde, at jeg lyder lidt haes. Jeg er lige blevet ramt af den danske vinter, som vi selv første lutter i morgen. Så jeg må lige hænge på. Som Kristina så fint sagde, så vil vi gerne fortælle om i dag. Det er vores erfaringer for Big Blue Nordprojektet i Skive. Vi har taget så den fire kapitler med til jer.
+
+00:02:30
+Jeg vil starte ud med lige at fortælle lidt om processen. Ikke så meget den mere tekniske dag process, men mere hvordan processen har været i forhold til byudviklingen og involveringen. Løb det igennem for jer og så den prøve at perspektive jer lidt, hvordan det har flyttet ind i det arbejde som niers. Og vi hos Lyft har lavet, hvad skal man sige, maskinerummet. Og så dygger med det lidt dyber ind i selve dappen.
+
+00:03:00
+Og fortæller lidt om den adaptive klimatilpæsting, og hvad det er for noget arbejde, der er blevet gjort i Skive. Og så hopper jeg igen og fortæller om, hvordan vi så har oversat det arbejde, og få lavet nogle bymæssige scenarier. Og noget, som begynder lige en handleplan på fremtiden. Men en handleplan for Skive Kommune i forhold til fremtiden for det her område. Og så har vi til sidst Emil, som vil prøve at fuldstænde det ærligt at give nogle reflektioner, som byg her.
+
+00:03:30
+Hvordan har det været at køre den her process igennem, og hvad er det, han står tilbage med, som de vigtigste erfaringer. Processen, som Nires og Nyt bød ind på, var en process, som Skive Kommune jo havde designet med afsæt i kystdirekturatet dappmodel.
+
+00:04:00
+Og jeg ved ikke, om I har set den før, men jeg tillader mig at gå meget hurtigt hen over den nu, om med det hun kommer tilbage til, hvordan selve dappprocessen egentlig løber rundt. Men det er sådan et, hvad skal man sige, et jul, et processjul, som rummer nogle bestemte faser, nogle bestemte trinne, som man skal igennem, som starter helt fra kortlægning af, hvad problemerne er. Det er en systembeskrivelse for det, og så arbejder så metodisk, stille og roligt frem i nogle iserasive processer.
+
+00:04:30
+Og det ender så ud også i projektet her, med nogle handleplaner eller nogle forslag til fremtiden, som jo så i virkeligheden skal se som dynamiske. Og det, som har været helt vildt spændende i processen her med skivekommune, det har været, at der fra starten har været lagt nogle elementer ind i processen, som er dem, jeg har forsøgt at markere op med de her tre farver, og den lyseblå, den lilla og den sorte.
+
+00:05:00
+Og det har været forskellige former for involvering, som vi har skulle køre siddeløbende med vores arbejde, som i de her maskinerum, som jeg talte om før, altså intern, de rødgivere gruppen, sammen med projektgruppen. Så vi har haft nogle åbne arrangementer med borger, helt fra starten har vi haft åbne arrangementer, og så har vi haft nogle senere arrangementer også, som har været åbne for alle, hvor vi har perspektiveret projektets overordnede temager,
+
+00:05:30
+og haft nogle fuldstændig åbne og næsten store, hvad skal man sige, de store spørgsmål op til debat. Og så har vi arbejdet med et forum, som skivekommune i forvejen havde etableret med politikere og grunde ejer i området, det er et forum, der hedder Big Blue Forum, og dem har vi haft med til nogle lukkede workshops undervejs i processen. Og så ved jeg ikke om alt jeg kalder det involvering, men jeg gør det alligevel i den her sammenhæng, så har vi jo haft vores tætte samarbejde med projektgruppen,
+
+00:06:00
+som både har bestået folk fra skivekommune, men også folk fra skivevand, og det har været de her interne arbejdsmøde, men det har alligevel været en vigtig form for angring af den tekniske process, som der har ligget på ingenørdelen og praktikdelning. Så jeg har lige i den her sammenhæng taget det med, fordi de her tre typer af involvering eller interessenter for projektets fremdrift, det er dem, der har været supervigtige, og det er dem, der har skubbet til projektet og givet det noget gødning undervejs,
+
+00:06:30
+og som har gjort, at vi nu er endt et sted, hvor vi har et projekt, som peger på nogle forskellige handleplaner i forskellige artninger for kommunen og for området. Og hvis jeg lige ligger processen ned, så tror jeg, at jeg har lige i hoved produkter i forhold til, hvad der er blevet arbejdet med på baglinjerne, så har vi arbejdet med et forsætningsnotat, hvor vi har fået kortlagt alle området og udfordringer,
+
+00:07:00
+så har vi thereafter arbejdet med et mulighedskastelog hver det for nogle klimatilpasningsmuligheder, som er relevante at se på, og muligvis også arbejde videre med i det her område, når man nu tager udgangspunkt i de forudsætninger, vi fandt frem til i forsætningsnotatet, og så har vi så brugt det videre til at lave de her DAP-senager og de første udviklingssenager,
+
+00:07:30
+og så er det så blevet arbejdet videre ind i den her handleplan, som vi sidder og arbejder med lige nu, og som er næsten færdig, men ikke helt færdig, hvor vi har rigtig mange forskellige, både visionsplaner på forskellige framtider for skive, som alle sammen samler op på forudsætningsnotatet, på mulighedskasteloget, på de meget tekniske DAP-senager, og på en eller anden måde arbejder med at gøre det en visuelle og samle det i et dokument, som politiker og borger vil kunne forstå i sidste ende.
+
+00:08:00
+Og igennem hele den proces, der har vi så siddeløbende haft de her indtragelser, som jeg fortalte om før, startede ud med et borgermøde, som netop handlede om at informere om de ting, som vi også havde kortlagt i forudsætningsnotatet, og brugte også noget af det input, vi fik på det borgermøde.
+
+00:08:30
+Vi holdte det som en workshop, hvor man også selv kunne komme med sin input til hverde for nogle forsætninger, der er vigtige for området her. Så der har vi haft sådan en krølle, det er det pilen, der illustrerer på processen, hvor vi har taget de input med, vi fik fra det borgermøde. Så har vi også haft sådan en installation kørende på Skiubibliotek med en stor planche over området, og nogle øvelser, som familier børn og unge lidt kunne gå til. Og der har vi også fået noget input undervejs, og de to arrangementer har også hentet rigtig meget om, bare at gøre opmærksom i Skiuby,
+
+00:09:00
+og forskrive skivesbefolkninger og beboere, at der er noget i gang i området, og nu kan man lige så stille begynde at holde øjefølge med, og hvis man er interesseret, kan man melde sig til at påvirke processen, så det har været hentet meget om at åbne det op og fortælle om, at nu er vi i gang. Så de lilla arrangementer, som kom her, var jo sådan her workshop, vi havde med det lidt mere en lukkede gruppe, som var det her Big Blue Forum.
+
+00:09:30
+Og der var vi lidt mere i kødet på det, og i arbejdstået, og vi tog også at vise dem lidt flere ting, og vi fortalte også om i forhold til mulighedet, hvad der er overhovedet for nogle nøsninger, vi kan arbejde med i det her område. Så det har været et skifte der, hvor vi går lidt tæt heroppe. Så har vi zoomet op igen og haft en paneldebat, og jeg skal nok også komme lidt tilbage til at vise jer nogle billeder fra det, og så har vi haft en workshop med nogle studerende igen,
+
+00:10:00
+og så er vi nede i kødet på det med Styr, eller hvad hedder det, med Big Blue Forum der igen. Så er det bare sådan helt overordnet for at fortælle jer om den dynamik, der har været parallelt med den der mere sånn tekniske maskinerumsøvelse, som ingenørene og arkitekterne har kørt. Der har vi haft det her, de her arrangementer, som lige har lyftet tingene op, og har rullet rundt i gryden. Og det er det, jeg lige ville fortælle jer en lille smule mere om.
+
+00:10:30
+Baggrund for, at vi har kunne have de her arrangementer, har jo været rigtig meget information, så vi har arbejdet enormt meget med at formidle projektet blandt andet indikation, som den her, som handler om værdiforne, ajalfordelning, der er i Big Blue, nordområdet i dag, og værdiforne, ajaler, der er truet når havet stiger, og klimaudfordringer, som vi står over for, de fremskrives. Og i en af de store læringer, der har været, altså noget af det, der virkelig har åbnet øjne,
+
+00:11:00
+for folk har rigtig meget været strandingen, som betyder enormt meget forskivet i dag, og som ligger bare lige fem-ti minutter væk fra bymidten ude i det her område, at den faktisk er truet, og at meget af den natur, som man er rigtig glad for at gå tur i dag, det er noget af det, som er under press samtidig. Så er det jo også interessant at se, i det historiske perspektiv, at vi her i 2020 har en situation,
+
+00:11:30
+hvor vi har bebygget de her lave ajaler, som den her udvidde byen, nede i det, som før var vort åbret, og det har vi gjort ved at bygge dier, og et af de store spørgsmål, vi tidligt har mødt i debatten, men hvis dierne er de gode i dag, og de er sikre byen, kan vi så ikke bare blive ved med at heve dieret. Og det har været sådan en diskussion, som har været rigtig spændende at tage, fordi noget af det, som alle folk drømmer om, og som har kommet frem på de her arrangementer,
+
+00:12:00
+det har også været selvom at skive her naturen lige her uden for døren, så oplever man, at byen og naturen er meget adskilt, og det er jo også noget af det, som dieret gør. Det er, at man hele tiden går på bagsiden af naturen, og man kan ikke rigtig komme derude, og naturen er også noget, man kigger på. Så den her vision om at gå fra at have det her dige, som er adskiller til at have et mere sammenhængende landskab, når vi nu skal klimasikre, det er sådan en tanke, som er opstået og blivet gødet igennem alle de her åbne arrangementer,
+
+00:12:30
+vi har haft. Så de åbne arrangementer har været enormt givende for os i den interne projektgruppe, og jeg tror også for Skive Kommune, fordi det har været sådan en gødning på den der lille tro, man også selv havde på, at man har noget uniktig skive, og vi har arbejdet rigtig godt med, hvordan man klimatsel passer ikke bare holde vandet ude, og adskille byen fra vandet, så kan vi opnå nogle flere ting i området,
+
+00:13:00
+og det er rigtig meget de ting, som de åbner, så mange har handleet om, og vi har diskuteret den politiske vision. Vi har fundet frem til, hvad de bagvedlæggende ambitioner egentlig er med den der politiske ambition. Det handler jo også om at tiltrække borger og lave en by, som man synes er fantastisk, og bo i ikke bare klimasikere, men simpelthen sørge for at få gjort byen mere oplevelsesri og attraktiv. Og denne her byskive har også et motto, der hedder
+
+00:13:30
+rent liv, og man går enormt op i bæredygtighed, og man vil det, så det er der med at balance med naturen og med vandet. Det er noget, der optager rigtig mange borger. På de lukket workshops, der har vi jo så kunne gå et skridt nærmere de ambitioner, og diskuteres den i området. Hvad er det egentlig for nogle drømme, der både er politisk, men også på grundnøjerne i området, og det har været sådan en workshop-format, hvor vi har arbejdet med ting, når vi har diskuteret nogle scenarier, som vi har haft med.
+
+00:14:00
+Nu kører jeg lige lidt hurtigt hen over det, men de scenarier, vi har haft med, har jo været nogle scenarier, vi har lavet ikke som brydpryd, den endelige plan, men som scenarier sat på spidsen for at gøde en diskussion og for at have nogle workshops, hvor vi kunne få folk's holdninger frem i lyset, og vi har hele tiden diskuteret, hvor skal det være plads til byudvikling, hvor skal det være plads til vand, og hvor skal det være plads til natur. Nu viser jeg bare nogle af de illustrationer, vi har haft med til de her workshops,
+
+00:14:30
+som alle sammen har været process-illustrationer, og har været illustrationer, vi har lavet ikke fordi, vi menede, at det var det endelige bud på området, men fordi de kunne frem provokere en diskussion. Og som opsamling på den åbne inddragelse, og på de lukkede i de her workshops, der har vi sammen med arbejdsgruppen så fået udviklet nogle dårmer for områdets udvikling, som er rettesnur i det videre arbejde, som vi så har haft med handledeplanen.
+
+00:15:00
+Og jeg vil ikke lukke dem alle sammen igennem, for det har vi ikke tid til. Så giver jeg lige ordet til Mitte, som lige vil dykke lidt mere ned i den adaptative process, der er med DAB. Er du der, Mitte? Mitte, du skal lige slå lyden til.
+
+00:15:30
+Ja, men DAB-processen er en mere adaptiv tilgang til klimatilpassningen, hvor man forsøger at ikke overimplementere for start, og heller ikke underimplementere selvfølgelig, men prøver grænske sit område så godt som muligt at finde ud af, når man nu arbejder med sådan en frygtlig usikker fremtid, som havesbalstigning eller klimaforandringerne jo er. Hvordan kan man så tilpasse sin klimatilpassning eller sin byudvikling
+
+00:16:00
+på et niveau, som er passende for det tidspunkt, man er ved? Og så gør man sig lidt fri af at sige, hvilket årstall skal vi gøre det her, i stedet for at kigge på, under hvilket forhold skal vi gøre det? Altså for eksempel, hvilken vandstand skal vi være nødt til, når vi sætter det her i værk? Og sådan lige en hurtig gennemgang, så starter man med at kortlægge de eksisterende forhold,
+
+00:16:30
+og forventet fremtidige forhold og konsekvenser her af, så kigger man på Etrin 2 på, hvad er det så for muligheder, man har for at løse problemerne og håndtere problemerne, og hvad er ens visioner at ønske og drømme for området egentlig. Og så sammen stiller man dem og prøver så til at lide ud og finde ud af, hvordan de kan hjælpe hinanden, de muligheder og visioner, overfor de udfordringer, man har. Og så stiller roligt, som Julie også sagde, i en iterativ proces,
+
+00:17:00
+så kommer man frem til at stille nogle dabkort op, og evaluere de forskellige muligheder, og ender sig med en handledplan, som man så skal huske at følge op på, og blive ved med at holde øje med, så man kan blive ved med at udvikle den, når man bliver klogere i fremtiden. Hvor må du gerne skifte? Ja, det kan man skifte selv. Og det her, det er sådan den klassiske dabtilgang, de her to kvår, den vil egentlig ikke komme så meget ind på.
+
+00:17:30
+Det er sådan en skole, eksempel her til venstre, hvor man har en situation, eller en beskyttelse, som så holder op med at virke, derfor er man nødt til at skifte til noget andet, og det kan være, at jeg skifter op til den gul her, og den holder også op med at virke på et tidspunkt. Men måske, hvis jeg går ned og kombinerer den, med den grønne periode, og så kombinerer den, så kan vi holde ved længere tid. Faldes for dabkorten er, at de fleste ender uden med den her blå, som den tid bliver gjort,
+
+00:18:00
+fordi det er der, hvor man er nødt til, eller hvad han vil komme til, og flytte væk. Men man kan få længende tidspunktet for, hvornår man skal hernede, så vidt muligt. Abkort kan stilles op på mange forskellige måder. Den her kan virkelig komplicere, og kig på den her. Det er et meget simpelt let, den er et eksempel, hvor man har en situation, som med et hus, der er ved at falde i vandet, og man er nødt til at skifte til noget andet. Man får et signal om, at man skal skifte, og så skal man tage en beslutning, så man kan implementere det inden det er for sent. Og så kan man enten flytte væk,
+
+00:18:30
+eller man kan tilføje noget andet beskyttelse, og på et tidspunkt holder det op med at virke også. Ja, jeg skifter julen. Og det, vi lavede ud med skive, det var at beskrive systemet inden og udefra, udefra et heltesøjntaget vandplanlæggningssynspunkt med forskellige typer af vand, og arial anvendelse. Og det gjorde vi, det må godt skrua lidt,
+
+00:19:00
+så det er bare nogle kort for at vise, at vi kort lavede alt muligt, faktisk både eksisterende forhold, eksisterende beskyttelse, de forskellige typer af vand, og visioner, og potentialer for området. Derefter kigger vi på, hvad vi har om muligheder, og udarbejdet et mulighedskatalog. Overordnets set kan man sige, at der er tre strategier for,
+
+00:19:30
+hvordan man kan klimatillepasse, og man kan holde vandet ud, eller man kan flytte det væk. Vi er med til vand, og så tilpasser man sig til, at det må komme ind en gang mellem, eller måske endda permanent, på forskellige vis. Og det er alle de forskellige tiltag, vi har stillet op. Det kan både være nogle faste konstruktioner, noget beredskab, eller noget terrangehævning. Dem har vi så evalueret, ude for forskellige kriterier,
+
+00:20:00
+som for eksempel hvor meget plast, kan de få høj, så ret i rekreativ potentiale, og så videre. Og det sammen stillede vi så i nogle generelle dabske, man må godt bladregule. Som se ud, vidt forskelligt for hvert type af vand, vi kom igennem. Og det er egentlig bare det her slide for at vise, at der er forskellige, altså de kan se ud på vidt forskellige måder at være simpelthen at forstå, kompliceret at forstå, og de her var mest til vores egne brug
+
+00:20:30
+Ja. Men så kunne man se, hvordan man kunne skifte imellem dem. Og på baggrund af den analyse med forutsætningsnotat og mulighedskatalog, visioner for områderne, så kunne vi kategorisere seks delområder, som vi så arbetede videre med. Ja. Og så udviklede vi så på baggrund af hele borgereindravelsen, og hvad vi fandt ud af, og hvad vi fandt frem til i diskussioner med arbejdsgruppen. Der var ligesom om der allerede var mulighed
+
+00:21:00
+for at træffe nogle beslutninger, og luk godt ud i de her DAB-kort. Og dermed kunne vi så opstille nogle mere område specifikke DAB-skemer, for de her delområder. Og det her så den, vi kalder Ørkvarteret, som er inden vi med selve skiveby, hvor I kan se, vi har en case i min hus, når jeg var rundt her nu. Ja, super, vi har den grå situation her, som er den eksisterende situation,
+
+00:21:30
+hvor vi har nogle dier, vi godt lige udbygger ullerne i, og så vi lige holder det til Q2.5, plus byggetelæg. Og det størrer så med at virke inden for ret, eller inden for en tidsperiode, når vandstandes dier. Og så er vi nødt til at finde på noget andet, og det er vi nødt til at gøre i god tid. Og det virker så en periode, eller også så kan vi gå op og udbygge
+
+00:22:00
+og forhøje sikringen, og det virker så måske også en periode. Den kunne så også igen den brugende her, den kunne måske en derfor længes også ved at tilføje beredskab. Men man må også sige for hver det de her delområder og tænke over, hvor højt vil vi egentlig bygge, hvor højt kan vi egentlig. Det kan godt være, at vi fysisk er i stand til det, men er det egentlig akseptabelt så langt frem i tiden. Vi kan jo justere længderne på de her ude fra vandstandene, for eksempel. Hernede, der har vi på X-axe en 100 års hendelse,
+
+00:22:30
+som den ene X-axe, og middel vandstand ude fra klimasenarie på den anden X-axe. Og så har vi årstallende for at netop at fortsætte og konkretisere det lidt. Men det kan de her forhållige mellem axerne kan jo ændre samme tiden, når vi ser, hvordan havesvalgstigning egentlig bliver. Men det der så vi også var, vi lige går én til vej. Det var, at man kunne også sætte en sluse på skive og powerbo, for
+
+00:23:00
+netop ikke at skulle blive ved med at bygge højere op, så går man op på den grønne linje, og det kan man så egentlig gøre i rigtig lang tid. Og så kan man til sidst skifte over på tilbagedrækningen. Eller måske en dag, er der et nytt tiltag, der hedder INU en sluse i mere regionalt, så kan man sige længere ude i linjefjorden. Så det var sådan, det vi kom op med, og de her dab-schema kan du så sige, justeres frem og tilbage mange gange. Jeg vil ikke gå ind i de andre dab-schema,
+
+00:23:30
+fordi der har vi tid til det, og bare for at vise, at vi har lavet, fordi det er forskellige områder, må godt gå lidt videre i Julien. Og her har vi så, efter at jeg har haft de 6 deler mod os, så er det egentlig gået op for os, at der måske mere er 3 men lige gennem gig, der har vi faktisk fundet ud, at der bruger man måske mest den her strategi, med at holde vandet ude, og i nummer 2 bruger man måske mere det her med, at vi kan godt udvikle her, men så skal vi sørge for,
+
+00:24:00
+at vi kan blive taget vandet ind, altså bygningerne er tilpasset til det, eller måske steder holder vi vandet ude. Og i den sydelige, der kom vi frem til, men de fleste scenarier, vi har lavet, der holder man, der må man nok lidt flytte væk og det var sådan lidt de overordnede strategier, vi så for udvikling af scenarierne, og at være forvært, eller forvære stig, igennem de her dabsgamer, der viste sig, at der faktisk var flere, forskellige scenarier at arbejde nu,
+
+00:24:30
+og dem er julige gerne fortæller, lidt mere om nu. Yes, fordi det, som har været enormt spændende i processen her, det har jo også været, at oversætte de her dabsgamer, har vist, som jo virkeligheden lister, sådan en rigtig mange muligheder op i forhold til klimatelpassning, kombinerer dem med de input, vi har fået på visioner for byen, og hvad er det egentlig for en by, man drømmer om i fremtiden, og sådan lige satte lidt på spidsen, så det, der er kort,
+
+00:25:00
+jeg visste, jeg før, med alle hullerne i den eksisterende beskyttelse, sammenholdt med hvordan vandstaden siger, altså det her skræk-senarie, der har arbejdet, så handlede om, og arbejde med nye visioner, og hvordan kan vi ligesom gå fra skræk-senarie til vision, og til sådan en realistisk og robust vision, og få den indarbejdet i nogle konkrete handleplaner, og det er nogle et stykke arbejde, vi har gjort i maskinerummet med projektgruppen,
+
+00:25:30
+så nu er vi ligesom, inde i de sorte firkanter, jeg viser i forhold til involveringen, nu har vi fået rigtig meget input og vi åbner de lukkede arrangementer, og nu er vi i maskinerummet med projektgruppen, og der har vi diskuteret for hver de her områder, som med det fortalte, at vi fandt frem til, så den havde fælles fokus i forhold til både klimatilversning og byudvikling, der vi diskuterede, hvor meget byudvikling,
+
+00:26:00
+hvor meget tilbagetrækning er det, og der er vi så endt op med nogle planer, og nu viser jeg dem også bare, som eksempel, at jeg kommer ikke til at kunne nå og gå på helt detaljerede igennem, men der er vi så endt op med nogle planer, arealdisponeringsplaner, som faktisk kommer ret tæt på, og vise, hvor er det man kan sætte ind med byudvikling, hvor er det, sikringslinjen kan ligge, og hvor er det så, at vi kan arbejde med rekretive arealer, som kan indfriende nogle af de her personer, om at komme ud til vandet og have nogle aktiviteter ved vandet,
+
+00:26:30
+og nye herudsikten, og i virkeligheden også for arealdudviklingssonerne og nye at kunne udvikle boliger ved vandet, og det har noget af det, der har været rigtig meget på spil til bybyen, og vi arbejder jo med planer, som illustrerer det, vi har også arbejdet med snit, dem har jeg ikke taget med i dag, men så har vi også arbejdet i de her visualiseringer, som jo er eksempler på, hvordan fremtiden kunne se ud, men som jo vi, så hvordan man kan gå fra bagside
+
+00:27:00
+mod vandet til forsider, og simpelthen forvent bebyggelserne om, når man udvikler her langs åen. Noget af det, som vi jo har hørt igennem indfraelsen, og det, som der drømmes om, og alt det, jeg jo kombinerede med den form for klimasikring, som Mette fortalte om, hvor vi forsøger at holde vandet ud, så her hæver vi op, og vi etablerer også på siktenes luse, og vi har brugt rigtig meget referteringsbilder fra andres projekter, både projekter som er på vej, så bilder fra andres projekter,
+
+00:27:30
+og også færdig etablerer projekter. Og det handler jo ikke om, at man vil gøre det sammen som andre steder, det handler om, at noget af det arbejde, der er i gang her i forhold til klimatilpassning, det er rigtig mange steder, også sådan nye projekter, som man har, ikke lige så mange udførte projekter, af den her slags, så vi er ude at lave nogle ting, som, hvor man skal åbne, hvad skal man sige,
+
+00:28:00
+folk's øjne, for hvordan er det egentlig, man kan bo tæt ved vandet, og have både natur og bebygelser tæt ved vand, som er en trussel. Så derfor har vi brugt rigtig meget de her bilder fra andre steder, på hvordan det er man gør. Og det er jo også bare noget, jeg lige fortæller for at sige, at det virker rigtig, rigtig godt, fremfor at vise de her meget tekniske skemager, som vi arkitekterne kan jo godt forstå. Så vi er nødt til at lave det der oversættelse i billeder for, at folk kan være med.
+
+00:28:30
+Og det har vi gjort for at være et område, for de forskellige områder har det været rigtig mange forskellige scenarier, som er blevet diskuteret. Og det er også i vores andende plan, endt med, at der skal være mange forskellige scenarier. De planer jeg lige skrulder igennem. Nu er det faktisk, nogenlunde det omfang, en fyr forskellige scenarier for det her område, der ligger ud mod fjorden, den gamle Storring og Fjordhavnen,
+
+00:29:00
+hvor vi enten kan trække dit tilbage og beskytte de bebyggelser, som der allerede er der ude i dag, og udvikle dem over tid. Man kan også vælge at trække dit helt tilbage og så arbejde med, at de områder, der ligger her ude, lige som områderne på havnen, står for egen sikring. Vi kan også arbejde med at skabe et mindre udviklingsområde, som er sikret med den offentlige sikring, og så have en større udviklingszone, som man deler havnen.
+
+00:29:30
+Vi kan også arbejde med at have udvidet sikring, simpelthen at sige, at man i skive, hvad vi bebyggelser på havnen, så derfor går vi ud og sikrer i fællesskabet med offentlig drivkraft hele området, fordi vi vil udvikle by på det sted. Det er nogle rigtige store dilemmaer, som har blivet diskuterede gennem processen, og det er ikke mening med den her handleplan, at vi bestemmer, hvordan situationen i den fjerne fremtid skal være. Det er mening, at vi læster op,
+
+00:30:00
+hvilke konsekvenser valg i forhold til placering, og klimateltpassning har for, hvad det er for en by, vi kan lave fremtiden. Derfor er det du bilder, som kan se diskussionen i gang, som på en måde bliver resultatet af processen her. Det har været samme metodik her. I det sidste område, som ligger ned sydforåren, fordi vi kalder fjordudmåning, sydspidsen af fjordmåning, har det også været diskussioner om beskyttelse fremfor tilbagetrækning, og hvad betyder det for byen,
+
+00:30:30
+som vi har her? Er vi ude at beskytte det her meget laveligtende område? Eller trækker vi sikring tilbage, og etablerer noget rekreativ rænevandshantering? Eller trækker vi tilbage det her energiområde til kysten og en form for overgangsnatur, som over en periode vil være stranding, og så vil overgå til at være fjord? Det er de fremtidige scenarier, som ender med at være med i handeplanen, og dem har vi så nogle bilder
+
+00:31:00
+på med os. Så den lige for at sume mere op til alla eller sidst, så ender vi jo med en plan for den nære fremtid, hvor vi godt tørre at kombinere de forskellige forslag, vi har lavet til området inden ved byen, som er det, der ligger herinde, området ud ved Storigen og Fjordagen, som er det, der ligger heroppe, og området her nede i Syde.
+
+00:31:30
+Det er jo fordi, at man inden for de næste 20 år også skal vide, hvad det er for en klimasikring, vi beror på, og hvad det er, så vi kan få ud af den samtidig i forhold til byvisionerne. Så vi kan kime til en plan faktisk for den nære fremtid, og det som så er super interessant ved processen her, det er jo så den fjerne fremtid, men som vi jo også har haft det opgave at se på fremt mod år 21. Hvad er det så for en by, vi har, og det er det, så den udvidder sig
+
+00:32:00
+i rigtig mange forskellige scenarier. Inden om kring byen, der er der rigtig høj interesse og fokus på, hvordan man udvikler der, her har vi faktisk kun taget ned på et fremtidig scenarie i den fjerne fremtid, men forståringen herover, og Fjordhavnen, og for Sydsbesen hernede, der er der rigtig mange forskellige muligheder. Og vi har igennem processen fokuseret på at få smallet ind til helhedsvis 4 og 3 forskellige scenarier, som kommunen jo så vil kunne bruge
+
+00:32:30
+i den videre process, i forhold til at diskutere, når vi skal skifte spore i vores klimatilpassningsstrategi. Hvad er det så for en by? Vi begynder at spores ind på. Så de konsekvenser, klimabestutningerne i fremtiden vil have, dem vil man kunne åbne op og kigge på. Okay, men så begynder vi måske at lave en by, hvor vi gøder jorden for rigtig meget byudvikling på havnen, eller hvor vi gøder jorden for mindre byudvikling på havnen, eller mere natur,
+
+00:33:00
+eller mindre natur, alle de der ting. Og det er så det, der bliver synet i handelplanen og på en eller anden måde er resultatet af hele den her krydlede process. Så den her oversigt, eller det her pusslige spil, som i virkeligheden bliver produktet af vores arbejde, det er sådan set det, der bliver puttet ind i vores handelplanens report, og altså den ligesom det bedste konklusion, der kan laves på arbejdet, det er ligesom at få snaget af de der fremtids
+
+00:33:30
+scenarier ind og så har vi jo opplet dem med, hvad skal man sige, klimatilpastingsstrategierne. Super duper, og jeg synes egentlig bare, vi skal holde os på det her slide. Og så vil jeg afprøve lige at døkke lidt ned i de replikationer, vi lige som har gjort os her igennem processen, og omkring alt det her med DAP og overordnet set, så har det været fedt, at vi har haft en
+
+00:34:00
+indpåstået af fælles mådergribrojektet og det har med at have DAP som sådan en overlæggeren og processen. Det gjorde det ligesom letter for folk at oversku projektet, vores outcome, det vigtige milepil, og samtidig gjorde det, at det var meget letter for mig at udarbejde et udbud, og diskutere tilbuddene med styregruppen, og det der med bare at have en fællesplan, det er bare så uhyg og vigtigt, i sådan en her process, hvor der er så mange interaktører, der er så mange interessenter, der kommer ind over på kryds og tværs.
+
+00:34:30
+Det har været vigtigt, men samtidig græver DAP processen også bare enormt mange ressourcer, og meget tid på at få samlet de rigtige mennesker, og bruge tiden der er nødvendigt på projektet. Vi har for eksempel haft en række af nogle fem timers workshops, med ledere og shaper i løbet af processen, men den, og det er enormt meget tid at bruge på et enkelt projekt, men den tid er netop det, vi har brug for, som gør, at planen reelt har både et ejerskab og tværs af de her og det, der gør, at vi faktisk
+
+00:35:00
+tørk i slip på nogle af de planer og projekter, vi allerede har lovst os fast på, inden projektet i de forskellige favorisiler. Vi bliver jo udfordret af, hvor mange timer vi skulle lægge i projektet for at vi reelt kunne ture at tage de her store beslutninger, der er nødvendige, men derfor, så blev vi bare nødt til at køre nogle ekstra loops indover den process, vi havde planer på at begynde sådan. Et eksempel er det her med,
+
+00:35:30
+at der er en welding bag, hvor der er en udmåning på det, der har vi haft et projekt i Støbeskien i år, nu hvor vi skulle flytte udmåning af det, men fordi vi har kørt det her projekt, nu er vi stoppet op og tænkt, skal vi måske i virkeligheden kigge længere op af systemet og se, om det ikke kunner udmåningen, men det længere stræk af den her bag, som egentlig skal flyttes et andet sted hen, hvor vi faktisk ikke bare løser at komme på forkant med nogle problemer, vi får i fremtiden. Og i forhold til,
+
+00:36:00
+hvilke værktøjerne, så er vi rigtig glade for det her forsætningsnotat, der er blevet udarbejdet. Det gennemgår området på lidt samme måde, som en screening eller en konfliktsøjning, men tilføjer nogle vigtige erfaringer og konklusioner på de enkelte emner og skitterer, hvad der skal til, hvis forholdene skal afklare os endnu mere detaljeret. Vi har allerede nu brugt dokumentet i forhold til et projekt omkring vanhandling, i Skive Midtby, og ser det så meget brugbart material at sende til en rådgiver, der skal dykke videre ned i problemstillingerne, der relaterer sig til projekt området. Og netop det her med
+
+00:36:30
+at kunne bringe nye problemstillinger op, så tidligst er muligt en process, for det er igennem at sikre mindst mulig frustration senere i processen for bygdkar og politikere. Det er bare virkelig givende. Altså vi har ikke altid været så gode til det der med at få tingene frem, hvor det sidder lidt nok i processen, og det er også naturligt nok, men fordi, at vi har lavet det her projekt, hvor vores grundlag er så godt som der, for så stort et område. Så når vi fremover har projekter i det her område, og skal konkretisere de her planer,
+
+00:37:00
+så kan vi bare have langt mere transparente processer. Og det tror jeg, at det vil være en stor fordel i både for bygdkar og for borgere, og for alle aktører der med. Og jeg tror virkelig, det vil hjælpe på den frustration, vi nogle gange oplever. I forhold til mulighedskataloget, vi har ikke rigtig givet anledning til så mange reflektioner i projektgruppen, men det har haft, hvad de som et forståelses dokument, som vi kan dele med borgerne, som gerne vil vide mere om klimatilpasning.
+
+00:37:30
+Og vi mangler stadig at finde en rigtig god løsning på den her visuelle kommunikation omkring byrådviklingsperspektiv, og en dynamisk plan, hvordan er det, vi viter og fortæller det. Men jeg tror, at vi på rette vej i det der med, at vi nu er et sted i processen, hvor vi arbejder mere og mere på det her visuelle material. Og på den måde, så bliver det også mere konkret på os, hvordan er det, vi får byrådviklingsperspektiverne, til ligesom at fremstå rigtig gode
+
+00:38:00
+bold til multikriterieanalysen, som vi har lavet. Jamen, så handler det om, det er mere at vurdere forskellige løsninger, og den har ikke rigtig givet mening på den niveau, vi har arbejdet på. Jeg er ikke sikker på, at jeg har klar at svare på, hvorfor. Men jeg er vild med metoden, og jeg er vild med den tilgang, det er det, som multikriterialysen har. Men der er bare for mange parameter på spil i skalaen af vores projekt.
+
+00:38:30
+Og det ender med, at svarene er givet på det alt for ufulsendte grunder i forhold til den efterfølgende politiske debat, og borgermæssige debat, der skal være om det, så bliver det jo bare åbnet op i gang, fordi vi ikke, ja, den er ikke klar nok i spyttet på en eller anden måde. Og slut lidt hjem, så kræver det her med dynamisk planlægning i udgangspunktet løbende opbytinger og tilpasslinger, og det har vi ikke forholdt os til nu. Og jeg kunne godt forestille mig, at det bliver rigtig svært
+
+00:39:00
+at finde ud til det, i det arbejde, der ligger efter projektet, for der er jo alle mulige andre projekter, vi skal forholde os til. Men det, men samtidig har arbejdet jo bare givet værdi for os nu, og det er ikke rigtig godt, men det er kompleks, og det her med at få det til at lege, er bare utroligt personbåde. Så noget, der er vigtigt for os lige nu i processen, er at huske på at få dokumenteret og få klarlagt, hvad er alle de her
+
+00:39:30
+mellemrejninger, så det er at ja, men når det er, at hvis jeg lige pludselig falder på cykel i morgen, så er der nogen, der skal kunne bære projektet videre ligevel, så vi har brug for, at det ikke bare er handleplanerne med det, alle mellemrejningerne som på en eller anden måde også kommer med. Og så har jeg lige en sidste tanke omkring, jeg synes, der er interessant med det her, det her er, at det er med, at netop fordi klimatilpassning tænker mig mod far, der statistisk oplevelse en gang med al 300 eller
+
+00:40:00
+1000 års intervaller, så bliver det meget fjernet på den hverdag, borgerne befinder sig i. Og de her konkrete byer viklingssmuligheder, som vores udvikler arbejder med, ligger det også fjernet for. Og de her sådan 4-12 års planer, vores politiker, bliver enige om det også. Det er alle sammen, det er 4 forskellige skaler, der bliver arbejdet med. Men fordi projektet aktivt arbejder med forskellen i de her forskellige perspektiver og hvordan, og den her dabmodel arbejder aktivt med at sikre de valg,
+
+00:40:30
+der bliver truffet med baggrund i den korte tidshøj serien, ikke skaber problemer på den lange bane. Det gør, at vi faktisk kan være i det alle sammen på tross af vores forskellige tidsperspektiver. Og det er en kæmpestor, fordi jeg i hvert fald ser på nuværende tidspunkt i at arbejde på den her måde, som bare gør det meget meget bedre for os. Ja, og det var lige det, jeg havde, som ville give ord tilbage til Christina. Ja, tak.
+
+00:41:00
+Det var godt nok, virkelig den hører jeg selvfølgelig om dab- og udfordringer og hvordan jeg håndterede det. Og jeg synes, i forhold til de sidste pointe her, så tænker jeg også, at det har meget at gøre med, at man fokuserer på forhold fremfor tidshøjsunder. At det er det, der ligesom kan åbne op for samtale nummer, du skal lige retme. Men at det, der virkelig kan åbne op, som man håndterer klimaudhusikkerhed i stedet for
+
+00:41:30
+altid, og hvad er så specifik på planlæge halv 30 år eller 100 år frem? Lige præcis for os, så handler det om, at vi har brug for noget, der gør, at vi tørrer kraftbeslutninger. Bliver i alt for ofte, så stanner vi, eller så ender vi med at stå i et eller andet vadesæt, hvor vi usikker på, hvad har det her konsekvenser? Og det der med, er vi faktisk på de lange briller på, og se på, hvad er det egentlig, det har betydning, at vi gør sådan her, at vi ikke kommer til at udægge det
+
+00:42:00
+for bremsen, det gør, at vi faktisk tørrer kraftige beslutninger, og det er nok noget af det allervækeste, der er kommet ud af projektet. Absolut. Ja, virkelig spændende tak, til jer alle tre. Og nu skal alle jer, der lytter med, jo endelig stille spørgsmål i chatfunktionen. Vi har allerede redet to spørgsmål. Den ene spørgsmål er fra Niels Kræschen Tjelle Holm. Han spørger, hvordan tar borger og interessenter imod illustrationer og materialer, der ser så færdig udviklet ud. Er der risiko for, at lokale
+
+00:42:30
+idéer er mistet, fordi de presenterede scenario virker som de eneste muligheder. Det kan være det mistet til julie. Du er i hvert fald dig, der har snakket om illustrationer. Ja, jeg tror, jeg kan prøve at svare, at det kan også være Emil kan hjælpe mig. Det har faktisk været en overvejse, vi har haft igennem processen rigtig meget, hvad det var for noget materiale, vi skulle vide, og hvor langt vi skulle have i beslutningerne i projektet,
+
+00:43:00
+når vi inddrog folk. Og rigtig, at alle de illustrationer, jeg viser, efter mitte havde været på, det er jo sådan nogle illustrationer, som er blevet udarbejdet til sidst i processen. Så den indtrag, som vi har haft, der har det været de, der er meget mere enkle kort, og rigtig meget referansepotos og eksempler. Fordi meningen netop har været, at man ikke skulle have en oplevelse af, at det var færdigt, og at
+
+00:43:30
+vi havde trofet beslutninger på forhånd. Og jeg vil sige, at selvom at illustrationerne ser færdig ud, sådan ved første overvejkast, så tager de faktisk kun beslutninger om, hvor man placerer klimatilpassningen, altså højtvandsikringen, hvor man placerer regnvandsbesænger, og så står de fast, hvor er der plads til by-udvikling og hvor er der plads til rekreationer i aler. Så på den måde er de færdige på de, der er meget overordnede
+
+00:44:00
+beslutninger, men ikke ned i detaljerne. Altså der er ikke beslutninger om, hvordan bygninger skal se ud, eller hvad funktionerne skal være, hvor vejene, stierne osv. skal være. Så det er et meget åbentlærede, men der er stadig trofet nogle beslutninger, og de har også været nødvendigt for at skive kommune, at man får politikorne til bordet og kan bruge materialet her, til rent faktisk at traffe nogle beslutninger om de store ting, som er den der areal
+
+00:44:30
+disponering, hvor har vi by, hvor har vi natur, og hvor placerer vi sikringen. Og så er vores billeder i sådan et ent alligevel lidt detaljeret, som du spørger til, fordi, at vores erfaring er, så kan man bedre se exemplet, men det er ikke betydet, at der ikke er plads til, at man videreudvikler. Og vi taler jo også i den flere fremtid, frem til 1. s. Så det er jo klart, der vil komme endnu bedre idéer, til, hvordan stuerisasjerne skal se ud, og hvor høje bygningerne skal være,
+
+00:45:00
+alt det der. Og det er jo det, som planen ikke lå så fast. Hej, forsygt at fokusere på at illustrere, at de har forskellige, alle tre strategier for tillepasning, så der er også nogle illustrationer tilbage, trækninger, og som du siger, inviterer vandet ind, at stuerisasjerne kan holde til det. Og i mulighedskataloget, der er der lige nogle eksempler på den type, og så i projektet, der er det mere for hele området. Så der bruger vi et, hvad skal man sige, mulighedskataloget, til at have den der, de typerne
+
+00:45:30
+listet op af, hvad kan man gøre, hvis vi trækker os tilbage, hvad vil det betyde i det her område, og så i selvehandelplanen, der er det mere området specifikt, hvordan ser det ud, og der bruger vi jo mere specifikke tegninger på det, ikke så meget gense og tegninger. Okay, jamen det er spændende. Nu har vi et spørgsmål fra Mia Holmbo-Lind, som spørger til Emil. Kunne denne tilgang også bruges til andre udfordringer, for eksempel udbygningen
+
+00:46:00
+af hvidvejen energi eller linende? Det ved jeg ikke, om du er i stand til. Ja, ja, ja, ja, men og jeg synes det er godt spørgsmål, fordi vi har jo, normalt så har vi kun set det her for så nogle meget konkrete klimatillepastingsprojekt, og så prøver vi at komme det her med byudvikling oven i det. Og jeg tror sådan helt, den der helt grundlæggende ide om, at det giver også mulighed for at turetræffe beslutninger. Det er ligesom det der bærprojektet, og det tror jeg lige meget, hvad man lægger
+
+00:46:30
+ned i det, så vil vi kunne få det ud af det. Det skriver bare noget tilpassing, så på den måde vil jeg sige, ja, at det netop altså måden, der er lavet på, så vi kunne bruge det på det hele. Det skal bare tilpasses, så vi kan tage sidd og energi og ressourcer, og det er slet ikke så let, som man lige havde forventet, og jeg er ikke sikker på, man bare kan klippe en hel og hukke en to i processen, og så egentlig få det resultat, man gerne vil have. Jeg tror, det er svært at
+
+00:47:00
+arbejde med, og vi har brug for rigtig mange forskellige, der gør det for, og vi finder en god tog til netop, og kunne implementere det på andre farerområdet også. Men helt sikkert kunne det være fedt at se nogen Ja, jeg tænker altså længe også, fordi nu er vi også arbejdet meget med det i Nias, og jeg kan mærke, og det synes jeg også, jeg har opfanget fra dig den anden dag, Emil, altså jeg kan mærke, at det er sådan en tankegang, der snirer sig in alle vejne faktisk, sådan en ny måde at tænke på det hele tæde, så jeg tror, det har potentiale rigtig, rigtig
+
+00:47:30
+mange steder, med at tænke mere dynamisk og adoptivt. Ja, det er egentlig helt sikkert, men det også forholder sig til en forhold, i stedet for langehånd i sådan en, som er ligesom restand til at tænke langt frem, men at det skal være fleksibelt og modulert. I lang tid har jeg gradet også indenfor energi, så det kan man sagtens tænke i flere sektorer. Men nu har vi et andet spadsmål frem, med Fjording, der spørger, har der været en konkret målsætning om at inddrage borgerne i processen, og er der i givet fall en mål på
+
+00:48:00
+borgernes oplevelse at være blevet inddraget og have fået indflydelse? Det er nok også til mig, tænker jeg. Det har helt klart været et mål at inddrage borgerne i processen. Jeg synes grundlæggende, at det er der med at inddrage borgere i en planproces, så jeg kommer meget for at planlægge, og det er sådan med lokalplaner, og her er der en færdig sort, hvid plan har jeg noget at sige til det. Nej, det kan være rigtig, rigtig svært at
+
+00:48:30
+beholde, så det er vasset diskussion, hvordan er det man overhovedet interagere som borgere, og prøver at arbejde rigtig meget med den her process og finde ud af, hvad er det for en måde, vi gerne vil ændre på, og hvad er det for nogle ting, vi gerne vil snakke med borgern om, og netop det her med at have en dynamisk plan, så man kan se, hvad er det for nogle ting, der faktisk er til diskussion? Når det er måden, hvor på byen udvikler sig på, det er mængden af by, det er mængden af natur, okay, så kan de faktisk få et meget bedre billede af, hvordan er det de selv
+
+00:49:00
+kan få lov til at komme med deres mening, og hvor er det de kan sige noget, hvordan kan de sige det? Så det har vi tænkt rigtig meget over, men vi måler ikke på det, det vil være, det her projekt er allerede meget større, end hvad vi normalt laver i Skive og kommunen på en sex, og vi vil ikke have mulighed for at komme flere lag på, det vil være fedt en anden gang, gengæld. Må jeg komme med et input til den? Fordi, jeg ved ikke om det er helt det spørgsmålet, det gik på, men noget af det, jeg synes i forlængelse,
+
+00:49:30
+det du siger, Emil, har været unikt i det her projekt, det har været Viljen til fra kommunen, og holde nogle arrangementer, som ikke har handlede om direkte at få indflydelse på projektet, men nogle arrangementer som har handlede om at diskutere det tema, som projektet arbejder med. Altså der har været holdt blandt andet i forbindelse med noget som i Skive hedder Green Innovation Week hvor der også har været opleg af andre, altså andre spændende folk, for eksempel Jesper Talgor lå vi i enden
+
+00:50:00
+af, som holdt et opleg om klimaforandringerne, hvor vi så bagefter faciliterede en paneldepad omkring det her områdes udvikling, men hvor vi ikke lige som er ind og diskutere, når man arkitektørningingeniør de forslår det her, hvad synes I om det, men hvor debatten har kørt om, vi har et område her som er troet af klimaforandringerne, det er de ting der er på spil. Hvad tænker I om at udvikle by i samspil med naturen, eller hvad tænker I om at vi bare haver dide
+
+00:50:30
+og bygger en by som holder naturen ude og ser, at jeg styrker om muligheder i det, altså så har vi forsøgt at have nogle arrangementer, hvor et borgendravelsen har været lyftet op på temærerne, og det har faktisk givet indirekte ret meget gødning i processen, fordi man kan så høre hvad det er folk, de tænder på, fordi man har ikke de konkrete planer som man bliver bange for, men man har haft krigrum til at bare diskutere temærerne. Ja, virkelig spændende tilgang. Det kan jeg sagtens i fordelne i i hvert fald.
+
+00:51:00
+Vi har et spørgsmål fra Medie Henningsen, som siger, at tak for et spændende opleg. Hvordan har projektet været forangredet i organisationen, og hvem har inddraget, eller hvem har været inddraget internt? Det har været mig som projektleder, og så har jeg haft hvad hedder det, nogle kollegaer i, jeg sidder i denne timet, så har jeg haft nogle kollegaer med der. Men hovedsaglig så, at vi har haft
+
+00:51:30
+en projektgruppe som bestod af en lider for vores natur, og vandmyndighed. Vi har haft, hvad hedder det, vi har haft driftere anlæg med. Vi har haft, hvad hedder det, skive vand, som er vores forsyningsselskab med. Og så har vi haft også med som planmyndighed, så det har været meget sådan. Vi har på den måde kun involveret kultur og andre, hvad hedder det, farveligheder,
+
+00:52:00
+mere generelt i projektet, når der vi har haft de indledende snakke og prøvet at afklare deres rolle i det. Ja. Vi har et spørgsmål fra Pierre Nørremark. Han spørger eksempel på, hvor man også kan bruge dap eller tankegang ved at være multifunktionale i et spørgsmål. Det er nok en konstatering. Så har vi et spørgsmål fra Peter Basi Dues. Han siger, han tager tank for et godt
+
+00:52:30
+og interessant indlede alle tre. Et spørgsmål til dig, Emil. Hvordan ser processen ud fremadrettet? Og hvordan tænker I den forankrøvet hos politikere og brugere i de næste mange år? Nu er processen faktisk sat lidt på pause, fordi i løbet af det her projekt, der fandt vi ud af, at vi har nogle problemer med vand i skivemætby, som gør, at vi bliver nødt til at afklare, hvad der skal ske med al det her vand. Partiet kommer til at ledes ned igennem området inden der, at vi kan finde ud af,
+
+00:53:00
+hvad der skal ske med arealerne i området. Så nu er det sat på pause, den næste halvår, hvor vi finder ud af det. Og der efter, så skal vi have en politisk og en borgererettet inddravelse igen. Og vi har ikke klart billed af, hvad der skal ske. Det eneste, jeg ved, er, at det bliver hammerne svært, fordi at der er rigtig mange ting i det her projekt, og der er rigtig mange beslutninger. Og det skal ligesom, vi skal finde
+
+00:53:30
+en god måde for det diskuterede, og for det kommunikeret på. Og det er meget det, vi kommer til at bruge de næste par måneder. Det er bare rigtig, rigtig rart at få den her halvårs-tænkepause, for det gør, at jeg har mulighed for at gribe det her anden, fordi hvis ikke vi er blevet rigtig danne, så tror jeg, projektet falder til jorden. Det er nu, hvor det skal ud at leve hos politikerne og hos borgerne. Vi har inddravet dem i gennem forskellige processer, men det er jo først nu, hvor der er, at der kommer reelle tegninger på dem, som julen viser
+
+00:54:00
+til sidst, hvor der er, at folk foran virkelig kommer op af stoner og begynder at engagere sig. Ja, så egentlig, så er projektet heller ikke besluttet gennemført, som Birgit og spørger om, nej, der er det ikke. Men hvad er det, du forstiller sig? Nu har du fået et halvt års tid, hvor man ikke lige kan oplå det for mere energi. Hvad arbejder du mere konkret nu? Hvad er dit mål for projektet, i forhold
+
+00:54:30
+til en dab også? Ja, men altså, jeg håber da, at vi får en proces, hvor det er, at folk forstår, at det handler meget om, at det her, det er et andet resultat, vi er nået frem til. Der er mange forventninger, som vi har prøvet i løbet af processen og ændre folk, fordi de tænker, nu får vi en ny sort hvid plæng, der viser os, hvordan det her område det skal udvikle, hvorfor vi de store
+
+00:55:00
+hus, hvornår kan jeg flytte ind, alle de her ting. Og hele den proces med at forændre den tillegang til at sige, ja, men det er ikke det, vi prøver bare at få afsøgt muligheden for, hvordan er det en fremtid kan se ud, og så får de diskuteret. Det, ja, det tager noget tid og noget krudt, ja. Det handler vel rigtig meget om i det hele taget, at få opstillet rammerne for, at der kan udføres mere konkrete projekter, og overvejelserne.
+
+00:55:30
+Og selvom, at vi nu siger nu, at vi vil være færdige med dab-processen, og Emil, så passer det faktisk rigtig fin ind, at Emil får et halvt års tanke frirum, eller tankepause. Fordi det er jo helt pointen med dab, at det skal være sådan en cirkulær process, så nu tænker vi lidt over det, så kan det være, at vi går nogle af skridtene igennem igen og opdaterer vores forsætningsnotat menu viden. Nu skal de jo til, som jeg hører, undersøge det her med, hvor kan vi lave
+
+00:56:00
+grænvandsbesænger hende og håndtering heri. Og det så opdaterer man sit forsætningsnotat op og arbejder videre på den måde. På sikt skulle man jo gerne til et punkt, hvor man hele tiden itererer på det, og kommer til dig på at få skabt rammerne og få sørget for, at de er der til byudvikling, men uden at man egentlig opdager, at man er i gang med en dab-process, så det bliver indlejret. Og det er jo et håb og et mål.
+
+00:56:30
+Ja, og en virkelig vigtig point, det er jo også for angres politisk, at man skal have en forståelse for, at den her process, den her cirkulær og den fortsætter bare, lige med at vide, hvad klimaet kommer til at byde på eller hvilke forholde, der vil elskes handlede for og hvornår. Så langsigtet planlægning, men det er jo også det, der er så selvfølgelig forhold til at få politikerne med på det. Det tænker jeg også at både fedt for Emil og kommunen, at de behøver ikke at træffe alle beslutningerne.
+
+00:57:00
+Kan det også være lidt frustrerende at acceptere, at den beslutning skal vigtreffen. Vi skal faktisk vente at få spredt det budskab ud, også til politikerne, så de kan forstå, nej, vi skal ikke tage de her beslutningerne, men vi skal netop give mulighed for at tage det senere. Så har vi et sommeresmål. Nils Christian Holman siger for os i julie sidste pointe, når Emil nævner et daptilgange med at ressource mulighederne for mere strategiske diskussioner
+
+00:57:30
+med borger og for klimaselbaseningslags grøn omstilling. Han er meget interesseret i at høre om mulighederne er set fra niret siden, men også sindserasen i strategiske diskussioner. For det er jo nogle store. Ja. Det ved jeg ikke, men det er måske fast i niret. Ja. Jeg synes jo, den her proces har vist sig rigtig meget. Vi har så lidt prøvet at gøre det hele. Altså tage hele procesen den her. Og jeg synes det har vist sig,
+
+00:58:00
+at for eksempel ud af til til borgerne, der kan du ikke vi nok egentlig heller ikke prøve, fordi det gik op for os ret tidligt. Man kan ikke prøve at køre en dapt process med borgerne på så stort et projekt her. Det kan man måske på mindre, konkrete projekter. Og så må man gøre så bevist under vej. Så hvad er det, vi har behov for input til for at kunne komme videre i processen. Og så må man muligrette sin prøvelse til borgerne eller forums ude fra det. Og så tror jeg,
+
+00:58:30
+nu sagde Emil også, det her med multikriteriaanalysen. Altså man har nødt til at tilpas sin dapt process til det, man har gang i. Altså det projekt og niveau man er på. Man kan lave dapt på mange nivåer. Og på mere konkrete projekter kunne multikriteriaanalysen måske have været rigtig god i inddravelse af borger. Men på det her niveau vil det være jo helt vildt meget baggrunds information, de skulle læse først eller blive sat ind i først for at de kunne besvare det egentlig.
+
+00:59:00
+Så tror jeg, det handler om at sætte den rigtige process. Hvor det er rigtig en niveau. Så har vi trine spørg om det muligt at se jeres brådsætningsnotat om det her på hjemmesiden. Jeg tænker også at hvis der er flere spørgsmål så kan man skrive en mail til en af jer tre, hvis der er nogle mere konkrete. Ja, fedt. Man kan altid bare skrive til os, og det lægger det svære ikke på hjemmesiden, men jeg vil rigtig gerne sende det til alle, der gerne vil have det, så I kan se det.
+
+00:59:30
+Yes, eller så blev vi nemlig nødt til at slu dig nu kl. 9. Tusind tak for rigtig spændende opleg og god svar på spørgsmål. Og jeg ville bare sige, det her, det var jo det tredje ude af fire webinare i den her serie af blodprojekter, så næste webinare, det bliver den 7. marts, og kommer til at handle vejle og drage os med de to kommuner, og de to planer, der skal realisere os fra realiseringen i siden. Ja, så tilmeldig, og det er herløj med klimakalenderen og æres mail,
+
+01:00:00
+og ellers fortsæt god dag. Se dig ud. Tak.
