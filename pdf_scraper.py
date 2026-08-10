@@ -10,11 +10,19 @@ from bs4 import BeautifulSoup
 import json
 import os
 import re
+import sys
 import hashlib
 from datetime import datetime
 from pathlib import Path
 from pypdf import PdfReader
 import io
+
+# Windows' standard konsol-encoding (cp1252) kan ikke vise emojis i vores
+# statusbeskeder — det crasher print() med UnicodeEncodeError netop når en
+# fejl skal rapporteres.
+for _stream in (sys.stdout, sys.stderr):
+    if hasattr(_stream, "reconfigure"):
+        _stream.reconfigure(encoding="utf-8")
 
 TRANSCRIPTIONS_FOLDER = Path("transcriptions")
 PROCESSED_PDFS_FILE = "processed_pdfs.json"

@@ -28,6 +28,13 @@ import tempfile
 from datetime import datetime
 from pathlib import Path
 
+# Windows' standard konsol-encoding (cp1252) kan ikke vise emojis i vores
+# statusbeskeder — det crasher print() med UnicodeEncodeError netop når en
+# fejl skal rapporteres.
+for _stream in (sys.stdout, sys.stderr):
+    if hasattr(_stream, "reconfigure"):
+        _stream.reconfigure(encoding="utf-8")
+
 TRANSCRIPTIONS_FOLDER = Path("transcriptions")
 STATE_FILE = "processed_videos.json"
 BLOCK_SECONDS = 30

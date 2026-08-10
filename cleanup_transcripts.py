@@ -21,6 +21,13 @@ from pathlib import Path
 
 import requests
 
+# Windows' standard konsol-encoding (cp1252) kan ikke vise emojis i vores
+# statusbeskeder — det crasher print() med UnicodeEncodeError netop når en
+# fejl skal rapporteres.
+for _stream in (sys.stdout, sys.stderr):
+    if hasattr(_stream, "reconfigure"):
+        _stream.reconfigure(encoding="utf-8")
+
 PROXY_URL = os.environ.get("DNNK_PROXY_URL", "https://dnnk-klimamonitor-proxy.onrender.com")
 ACCESS_CODE = os.environ.get("DNNK_ACCESS_CODE")
 FOLDER = Path("transcriptions")
