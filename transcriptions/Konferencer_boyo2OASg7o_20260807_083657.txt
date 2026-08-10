@@ -1,0 +1,434 @@
+=== DNNK Webinar Transskription ===
+Kategori: Konferencer
+Video ID: boyo2OASg7o
+URL: https://youtube.com/watch?v=boyo2OASg7o
+Kilde: lokal transskription (faster-whisper small, dansk)
+Transskriberet: 2026-08-07T08:36:57.070047
+
+==================================================
+
+00:00:00
+Helena Flinkberg heter jeg, og det her er Hanna Kruse. Vi jobber på V-Syd, og vi er både projektledare for anlæggningsprojekt, så vi bygger VR-ledninger. Vi har på olika set under 2024-2025, kan man sige,
+
+00:00:30
+har fått mulighet at testa og få gjort 4 olika klimatberækninger i 3 olika projekt. Så det er et underlag, kan man sige, i den der kunstgapsbanken, kommer det her handle om lidt grandom. Som vi kommer at brætte om nu, de her olika berækninger, som vi har gjort, så kommer vi at tætte på, hvad resultatet er jævntført med totalen på V-Syd,
+
+00:01:00
+og så lidt slutsatser, som vi har gjort af berækningerne, og hur vi jobber videre. Den første berækningen, som vi skal brætte om, det var at svenskt vatten, altså motsvarigheterne til dansk vand, I siger, for et par år sen gjorde en kurs, der jeg og Dennis her, deltog,
+
+00:01:30
+der kursen var både en kurs og et fremtagende af et klimatberækningsfaktyg, så svenskt vatten har et klimatberækningsfaktyg for VR-ledningsprojekt, som finns på svenskt vattensemsida, og som går at anvende for hvem som helst. Så vi var med og tager frem det her, det er baseret på amar, og hur man mængder sit arbejde inden for upphandling af byggeprojekt.
+
+00:02:00
+Et verktyg, som kræver et meget inddata, som det ser ut nu, eller det er meget inddata, og det er svårt for os, som byggerer, at fylde i denne inddata, men vi har gjort vores bedste at jobbe på, og den her var den første version, som har kommet ut, der skal komme ud den nye versionivår, som er lidt opdateret, og kanskje lidt mere letarbetad, og så under kursens gång,
+
+00:02:30
+så testade vi verktyget på et af vores projekt, og da gjorde vi det på et eksploateringsprojekt i Lund, så der i eksploateringsprojekt så lægger vi ledninger, og sen så bygger kommunen gatan ovanfør, så vi har bare æknet op til underkant terrass, på VOSYDS-utslæpp, og 1500 meter ledningsgrav,
+
+00:03:00
+der alle ledningslag var med, kan man sige. Der fik vi et totalt utslæpp på 160 ton koldlyksidekvalitet, fordelet på de her olika deler i livscykelanalysen, nu har vi ingen bill på det i början, men om vi har en bill på slutet, og man ikke rigtig vet, hvad de her A1-A5 betyder, men A1-A3 er i altid tilvækningen af material, og transporten af materialet til arbejdspladsen,
+
+00:03:30
+og A4 er transporter i entreprenaden, og A5 med arbejdsmaskiner i entreprenaden er vejligt forænklat. I våra berekninger så fik vi vejligt høgt på material og så mycket lægre på A4-A5, men det var også vejligt svårt for os, som byggerer og bedømmer, om vi gjorde ret med de her sakerne. Så det var jo lidt svårt. Sen har vi et andet projekt, der jeg jobber i et projekt, som heter Jørgen Kock,
+
+00:04:00
+som er her i Malmø, og som er et partnering-projekt, samverkansprojekt ihop med Skanska, der vi bygger vedledninger også i Jørgen Kockskatan i Vesterhamnen, Nyhamnen i Malmø. Ungefær lika långledningstrækker som forra projektet, med vejligt meget udslæpp, for vi anvender det er vejligt djup af skjækt, meget spondt. Bygtiden er 2 år, så vi holder på vejligt længe. Og her er det bare V-syd, som jobber,
+
+00:04:30
+så vi har med återställning af gata og så også. Her kan man se, at resultatet er ganske anerlunde. A1-A3 er fortfarende ganske høgt. A4 er lågt, og A5 er næste lika høgt som materialet. Her har vi anvendt klimatberækningsfatyge, som Skanska har. Så det er de, som har gjort berækningerne, og det er baseret på deres kalkylsystem.
+
+00:05:00
+Så når de gør sina anbud, så har de samme system, kan man sige, for at gøre sina klimatberækninger. Så det er lidt spændende, at jeg kan jemføre de her olika, og se, hvordan de blev. Det var några detaljer her, med at den kalkylen, som vi visede før, det var baseret på inføbygstart.
+
+00:05:30
+Det var några saker, som ikke rigtigt var med i klimatkalkylen. Blandt andet, så bestemte vi det på skæktet, for der har vi jobbet med klimatmål, eller olika mål, og blandt andet holdbarhedsmål. Så vi bestemte det sammen, så vi skulle anvende 100 %. Hvo 100 som brænsle, det har vi ikke generelt annes. Vi har kunnet jobbe meget aktivt med masshantering, men masshanteringen var ikke med i, på grund af kontraktsmæssige skjæl,
+
+00:06:00
+så var masshanteringen ikke med i rigtkostnene. Derfor er det ikke med i klimatkalkylen, så velagtil. Så det her kan man sige, at når den grønne skal bort, så bliver det lidt mere retvisende. Sen har vi også med en liten bild, der vi har viset varifrån, som utslæppen kommer, og man kan gå ind djupt i analys på de olika deler, og det her er bare et projekt,
+
+00:06:30
+men man kan enda se, at de er ganske jemt fordelade. Det er ikke som med, til eksempel, lustgas, at det er en jæte-jæte stor utslæpt kjella, utan det er ganske mange olika saker, som giver utslæpp i en anlægningssentepenal, hvilket også gør, at man beder at jobbe på mange fronter. Nu har jeg den der, så du får beholdet den.
+
+00:07:00
+Okay, det er det samme valg. Jeg skal prøve at prata mit projekt videre Dahl. Nu kikker jeg lidt her forbi dig, for det er lidt lettere at se. Det her er en udfordrende antepenal i et villakvarter i Malmø. Det er ungefære 750 meter ledningsgrav. Vi har vatten, vi har spil, vi har dag. Det er et separeringsprojekt. Ungefærd etårsbygtid, og vejligt runger sektioner. En spontkrasett har vi raknet med.
+
+00:07:30
+At inføre det her projektet, så tog jeg hjælp af min upphandlere Emma, og vi diskuterer lite, hvordan vi kunne anvende det som et pilotprojekt. Vi bestemte, at vi ville anvende at få olika klimatberækningsprojekter. Vi ville få chansen at jemføre lidt, og se, hvad det slog någonstans, og kunne gøre noget til ad. Så vi tog hjælp af Tyrén's Water Climber, og der bestemte vi, at vi skulle fylle i själva, og det hjælpede Dennis til med, som kan klimatberækningsfraktik.
+
+00:08:00
+Og så tog vi hjælp af vores konsult Envidan, som havde på danske sidan, Trøen, og som jobber ganske meget med det her, Sara. Det, vi kan se, er, at de visede vejligt olika resultat. Hvad det beror på, vet jeg ikke. Sara er vejligt duktig på det her, og jeg og Dennis fyllede i den her själva. Som Helena sagde, er det ganske svårt for os, at gøre antaganden om transport, afstående og de sakerne. Så det differede ganske mycket,
+
+00:08:30
+så vi funderede lidt på, hvordan vi skulle anvende den her. Men vi har i alla fall et ramavtal for entreprenører, så jeg og Emma bestemte, at vi skulle forsøge at treffe så mange af dem som muligt, så vi bjørde det ind til en treff, for at prøve at prøve at lide, om hvad har de for muligheter, hvad kan de merebjudes, hvilke krav kan vi stelle, hvordan kan vi møte, hvordan kan vi markne den ut, kende aflægget, og så forsøgte vi også at anvende vort nætverk
+
+00:09:00
+og kolla rundt i Sverige, hvad gør andre bestemtare. Og så med klimatkalkylen, jeg tikter lidt på, hvad er de store posterne, og hvad kan vi gøre om forændring. Så sammen med Emma, og jemfølgelig andre aktører, vi prater med Trafikverket, i frågan på mange sätt, og kolla lite olika lykkede metoder, og der nemde många Oslo-metoden, for de utvärderer på klimat,
+
+00:09:30
+til 30 procent, tror jeg, i sina anbud. Og även Samverkans projekt, nemdes konstant, som er lykket for at nå dem her. Men eftersom, at vi ikke rigtigt havde stelt hård akrappler, vi har sygt tidligere, så funderede vi, at vi skulle se, hvor tuffa vi ville være. Vi bestemte oss for at prøve optioner. Optioner er ikke noget, som man utvärderer på,
+
+00:10:00
+utan det er noget, som man kan addere. Og så havde vi fyre optioner, som de kunne læmne, om de ville gøre noget på brænsle, de kunne læmne forslag på, om man kunne få vettere massanteringen. Vi havde med asvalt, og sen fannes et fri øvrigt post, for hvad de nu ville hitte på. Og den enda kravet, vi havde, at den behövde forlægge to af dessa fyre. Og de, som blev ifyldt af her, var, at de læmne brænsle, asvalt, og sen fannes det en lite
+
+00:10:30
+lydig øvrigt post, kring massantering, som egentligen skulle hanteret sig i projekteringen, for at kunne slå igenom. Lite førere naktdeler. Naktdelen er helt klart, at vi er utvärderende på dette, men ingen anledning for dem at pressa priserne. Og risken var, at de, som har lægst af priser, vinder. Kanskje det ikke var den, som er de bedste optioner. Men nu havde vi jo kikket, at vi var
+
+00:11:00
+ramaltagerne, så vi vidste, at de var lovnadsnans i kogen. Og sen er det svårt, når projekteringen er færdig, at gøre noget med projekteringen kring massantering og material. Førdelen var, at vi har ramaltag lykket om antepnørerne, og vi vidste ungefære, hvad de havde tilgång til. Og sen, at vi handler op via ramaltal, så er det lite lægerisk for overklager, men vi har ingen avtalsbær, for eksempel. Det er lidt snellere videre os.
+
+00:11:30
+Reflektionen er, at vi har afropat optioner med brændsle, så vi kører 100 procent, og vi har 100. Efter nu har priserne stokket i væg, og det har vi sattet som en fast summa på den optionen, så nu riskerer vi antepnørerne, og forlurer på det her. Så skal det ikke helle være, de skal våge at lämne pris til os, og sen ikke gå med forlust. Så kan man skulle gøre det, som en sort skeldkostnadspris istället.
+
+00:12:00
+Men vi har aldrig fået et bättre koll på kostnaderne, for at vi kan være lite modigare og stelle kraven for at bræde dem fra brænd. Jeg har nedtalt med lite nykeltal, og jeg tænker, at jeg har gået ind på dem. Men vi havde flere, så fik vi lidt mere overgrippende koll på, hvad det koster, per lite brændsle, at man skulle vælge en ekko-variant.
+
+00:12:30
+Som en slutsats, så har vi, her på denne bilden, så har vi alle fyre klimaterækninger, som vi har gjort, for at se, at det ser ut. Det man kan se, er, at det er hyfsat enkelt at brækne A1-A3-materialet. Men at A4'er ikke verker, har så himle stor påverkan.
+
+00:13:00
+Men det er jo sikkert på, at være på skjekten, vi har en liten region, og transporten er ganske nære. Men at A5 er klurig at A2. Vi ved ikke, hvilket som er ret egentlig, men at der skulle vi behøve at komme længe i, at få det bedre og få bedre underlag. Kanskje, at ni har kommet længe i,
+
+00:13:30
+så vi kan hjælpe os åt det. Men for os ser det ut så her, i altid. Og en slutsats er, at i ledningsnætsarbeten, vi har arbeten at jobbe sprit på olika set. Det gælder ikke bare at minneske en post, man får jobba på at minneske de olika grejerne i olika kategorier. Og hur skal vi då jobba videre med det her?
+
+00:14:00
+Bodel berætter det jo blandt, at de færd plan klimatarbetet, for vi er syd, det her har været et underlag ind i det, og så jobber vi videre der. Om man titter, vi har også gjort en berækning, der gjorde vi en berækning, der man ser anlægningsdelen af totala utslæppen, på vi har syd. Det er en liten del, om man jævner med, det er det grøna som er anlægningsdelen og lila som er drift,
+
+00:14:30
+og då er det jo meget afløbsredningsvæk. Men, så kan man tykke, men det behöver vi ikke jobbe med, når det er så litet. Men det behöver vi, det er meget svårt at minnske. Det store også, så alle bekkersmå er viktige. Vi håller på med en utredning om et masslogistikcenter, for vi har set, at masshantering er et stort påvak af som råde, og vi kommer
+
+00:15:00
+fortsætte at gøre klimatberækninger, så vi kan fortsætte at utvaldere verktygen for bedre inddata. Og så naturligtvis, kommer vi at anvende de resultaten for at minnske. I færdplan klimat, så findes det forslag til, at vi skal jobbe med, at minnske utsläppen i steg 1 for anlægningsprojekt. Så det kommer slå igenom, for hela vi har syd, så vi kan anvende det, for hela vi har syd.
+
+00:15:30
+Ja, nu skal jeg springe igenom denne, på 2 minutter, kanske. Jeg havde et litet sideprojekt bør jeg det 2024, med at tætte på hela vi har syd, det er en klokdraget. Vi gik ind med NSVA, som er Nord-Vesternes viharhuvudman, og anlittede ekolop, for at tage frem en rapport til os, der de skikede på, hur hanterer vi våre massor i dag, og hur kan vi gøre det bedre.
+
+00:16:00
+Så to av deres rekommendationer var det større rådtevinding, så vi havde et massologisk dikcenter, for at hantere våre egne massor, ægge våre egne massor. Vi fik ut en vejlig fin rapport, det var vejligt stor ekonomisk nytta, men også en vejlig stor klimatnytte. For at gråte ned os an, anlittede vi rambel i høstas, får djupdika ned fremst i mal med massor, for det er der, vi har våre største arbejde, just nu. Hvilke massor skal vi hantera,
+
+00:16:30
+klarer vi det som en vej, så kan vi blive bort område at gøre en sådan ansvar. Vi hanterer i mal med området ungefære 100.000 ton massor per år, som vi skulle kunne åtanvende, og får en årlig besparing på 10 millioner kroner, og en klimatbesparing på 720 ton per år. Vi har fået ok for en ledningsgrupp, at vi skal gøre dette, så nu er det min opgift igen, at klure ut, hur vi skal gøre dette.
+
+00:17:00
+Så har vi taget, at vi skal blive ekstremt klokket på, hvordan vi skal hantera det. Tak. Dikte Bård. Tak. Stort tak. Du har lavet mikrofronen til Maja, for at hoppe sig, at ni har många frågor. Ni har 5 minutter på er. Er det nogen, som har en fråga? I ser os til, hvis der er nogen, der har spørgsmål online.
+
+00:17:30
+Så ser I til. Hej, jeg heter Karin, jeg tykte det var interessant, det her med optioner, som ni havde, når ni skulle handle up, og det var dels, det her med, hvordan ni skulle samarbejde, og at entreprenørerne själva' kunne komme med forslag på besparinger.
+
+00:18:00
+Så så jeg for at tages en anden forlæsning, om en se sig, har de jobbet i sina bygprojekt. Då havde de incitament for de entreprenørerne, så om de sparede koldioxidekvivalenter under byggnationen, så fik de ekstra betalt for det. Det var et set, at drive på utvecklingen, at entreprenøren blev mere engageret, og at mit samarbejde kan arbejde
+
+00:18:30
+med de frågorne, som kan svåre, at arbejde med under detalprojekteringen, og berærkne inden, så kan entreprenaren hjælpe til. Så det var bare lidt inspel. Vi prøvede med Trafikverket om det her, for de har også liknende sine uphandninger, at man skal visa, at man kan spare 20 % for kvalificeret, og så får man et bonussystem på ytterligere besparing. Vi prøvede lidt om det,
+
+00:19:00
+men de sagde også, at det er jeresvårt, for der er mange olika verktyg, som vi har set, så er de så at de tykker ikke rigtigt, for det var så enkelt at kvalificere med denne besparingen, som at beroende på hvilket verktyg så ger det den besparingen, utan at man egentlig har gjort en åtgærd. Så vi bør gøre en motioner for at få lidt bedre koll efter den dialogen. Men om entreprenøren berækner, så anvender de samme verktyg, det er let at fælge op.
+
+00:19:30
+Men der måsidt med olika verktygere har viset sig at være svårare. Så vi kan gøre på det sporet også. Hej, Justine Géraud fra Malmøstad også. Jeg fortsætter bare, men jeg tænkte, at du prædderte tidligere om, at det var igenom Ramaftalet, så du fik ikke rigtigt vælge entreprenører. Men hvordan var det mest med at pånne, for at ni havde ikke såna standard krav for hålbarret, så ni fik bare at ligge til, hvordan kan man joba med såna krav,
+
+00:20:00
+ytterverdet som redan finns i Ramaftalet. Kan man ändå... Er det bare med at pånne, eller hur? Nej, nu har vi en liten, ny grej på gange her i A&M. Vi vil gøre en lidt tvåstegsraket, der vi i første har et forslag fra projekteringen, og sen så får in en liten forhandling, kan man väl sige, da de får komme ind med, om vi kan kanske bytte material,
+
+00:20:30
+så kan vi bare slå andre maskiner, og sen så lægger man ytter på nyt. Så det har vi tænkt som næsta steg, for vi har jo våre gemensamme klimatkrav, som vi følger, men vi behøver få ind entreprenøren og deres kunskap, og hvad de har for pryler, som vi ikke vet. Så det blev det lite næste på agenderen her. Spændende. Kan Hinnan fråge til, eller hvad? Ja, Hanna heter jeg
+
+00:21:00
+fra Varmestad også. Ni sagde, at verktygen slår ganske olika. Har ni fået nogen indsigt i, er det emissionsfaktorer, som skiljer sig åt jæte mycket, eller er det andre deler af metoden, som verktygen anvender sig av? For det var et, som var jætterolikt, hvad har ni egentlig, nogen aning om, hvad det er? Nu har jeg ikke bedst på själva' hur man bygger op verktygen, men de, som jeg har testet, det tror jeg baseres på olika
+
+00:21:30
+og vi gjorde det ena' selv, da vi gjorde vores egne antagenden. Så det kan ligge mycket i antagenden, som man har gjort på olika set. Men hvad jeg forstår sig, er det også datan, som går ind i verktygen, som kan skilja lite. Ja, precis. De, som jeg tænkte på, det var svårt for os, som bygger, at vete, hur mycket maskin er, brænsle som går til maskiner, og hur mycket man kører maskiner,
+
+00:22:00
+og så inne på byggarbetsplatsen, at man behøver en entreprenør, til hjælp, har det været bra. En følgdfråga på det, tror du, at ni underskattade, hur mycket maskiner kører det, eller var det, at ni til og med, lavede postet tomma, eller hanterer det? Man vet jo ikke, det er to berækninger, om man tætter på den sammanfattningen, som viser høgere,
+
+00:22:30
+og sen vet vi ikke, om de er rette, heller, men... Kanskje underskattade, skulle jeg nogensinde sige. Men i Jørgen Koks, kommer ni også at følge op på den kalkylen? Ja, precis. Den kalkylen, som vi gjorde i det ganske samarbetet, gjorde det i början. Så den er planen, at vi skal gøre en ny berækning, allerede strax, som er endnu bedre baseret på genanførendet. Okay,
+
+00:23:00
+så får vi at sætte tak. Tak så meget for presentationen. Og tak for hattensænden for ordene. Nej... Nej... Og då ville jeg be Justine og Johanna komme op. Hej. Ja, Johanna Spyt, heter jeg, og jeg er landskapsarchitekt på fastighets- og gaterkontoret på Malmø stad. Og jeg er også delprojektledare for våt arbete med
+
+00:23:30
+hur vi skal genomføre klimatberækninger i andre lægningsprojekt. Og med mig så har jeg Justine Giroud, som er ingenjør hos os på fastighets- og gaterkontoret, og som er i vores arbejdsskript for det her. Og planen er, at jeg berætter lidt overgripende om, hvordan vi jobber med klimatberækning og at bør jeg genomføre det. Og så kommer Justine gå ind med, og berætter lidt om nogle konkrete eksempel, som jeg tænker kan være ekstra spændende i det samarbejde. Og så her jobber vi Malmø stad
+
+00:24:00
+med klimatomstændningen. Vi har delt op det i seks olika områden, der man har set, at vi har høge utslip. Og for varje sådan her område så har en færdplan tagets frem. Og når vi prater klimatberækninger, så er det jo det her området for klimatneutralt byggende, som vi jobbar inom. Vi har set, at det her er en veldig stor post, eller en veldig stor andel
+
+00:24:30
+af vores utslip. Det står, byggnation, anlægning og forvaltning står for 37% af vores totala utslip på Malmø stad. Og når det gælder vores forvaltning, fastighets- og gaterkontoret så har vi lite olika rådighet, når det gælder det her området. Vi er både fastighetsagare, men vi bygger også meget og mykke anlægningsprojekt. Så det er det, vi har, eller en vigtig del for os at komme åt.
+
+00:25:00
+Og så har vi taget frem en egen færdplan for fastighets- og gaterkontoret og delat op det i seks prioriterede områden der. Og der har vi konkretiseret lidt mere exakt, hur skal vi jobbe med varje delområde. Og det her driver stået som et utvirkningsprojekt. Jeg er delprojektledare for det her, som heter Klimatberækning af Anlægningsprojekt. Og vi satte
+
+00:25:30
+tidigt op våt mål at vi skal klimatberækne, for at klimatoptimera vores anlægningsprojekt. Det er som et vejligt enkelt mål, men det har taget vejligt lang tid, og vi er fortfarende ikke rigtigt fremme, men forhoppningsvis snart. For så her ser det ut. Vi börjede redan 2023. Då gjorde vi en ny lægelsanalys. Vår plan var at vi bare skulle hitte et
+
+00:26:00
+klimatberækningsanvisninger, metod någonting, som vi kunde børja anvende. Men når vi tog in en konsult, som kollede på det her, så såg de, at det fanns egentlig en verktyg som passede os, eller ingen anvisninger som passede os. Så tyværd, så fik vi jobbet videre under 2024, med at tage frem egne berækningsanvisningar baseret på standarder som fanns såklart, men enda det speciale anpassede fyrst os. Og de her
+
+00:26:30
+testade vi også i seks projekt, for at se om dem funkede. Eller forlåt, det var faktisk sju projekter i første testet, men då var det projekt som var færdigbygda, eller færdigprojekterede inte bygda. Så det var liksom en teoretisk berækning i efterhand. Når vi havde gjort det og justeret lite, så gik vi ind i skarp læge, og gik vidare med at gjøre klimatberækningar i seks pilotprojekt. Så det er det vi har holdt på med start forra året er 2025.
+
+00:27:00
+Og nu er vi då, 2026, vi er i en fas, der vi håller på at implementere. Vi tager in input fra de her piloter og justerer hver anvisninger og håller på at forberede verksamheten og håller på at tage frem guider og hjælpmedel som behövs, og så få igenom, liksom, alla beslut som behövs. Og så er vores plan, at vi skal børge fra næste år et klimatberækne i alla projekt over en viss summa. Så forhoppningsvis får vi igenom det.
+
+00:27:30
+Men så, bare lidt kort om våra anvisninger, som vi har taget frem, de anger jo, hvordan man skal rækne i vores projekt. Og det, vi har set, når vi gjorde fra tidligere erfarenheter, er, at det kan sprede ganske mycket, om man ikke har været veldig tydelig med hvad som gælder i vores berækninger. Lite som vi har sydviset eksempel på. Så vi hoppas, at vi genom en väldigt så detaljerad anvisning kan minimere sådanne
+
+00:28:00
+olikheter. Og jemføre mellem våra projekt. Og i kortet så skal hela anlægningen skal beræknes. Og vi fokuserer på livscykedskeden A1 til A5.4. Og det, vi også kravlsteller, er, at man skal anvende genetiske verden. Almentbetong, hvad har det forutslæppet, ikke en viss produkt i de tidige skederne. Og så, når vi har en færdig bygde anlægning,
+
+00:28:30
+så skal man anvende den EPD, for just det materialet, som er anvendt i byggnationen. Det tænkte jeg godt, om du kan se noget ord om verktyg. For at tidigerejse, Helena, det er bra, når man anvender samme verktyg. Men her har vi været i verden? Nej, vi har heller haft en ambition, at vi ikke skal tage frem noget eget. Det gælder både anvisninger,
+
+00:29:00
+men også verktyg. Vi vil premerere, der er mange konsulter, og mange entreprenører, som har sine egne verktyg. Så vi vil ikke have et eget, som vi skal have ansvar for at upprettholde. Men vi vil også opmentere de, som har taget frem i egne verktyg. Ja, og det er derfor, vi har taget frem en metod, for at man skal implantere i verktyget den metoden, som vi har taget frem,
+
+00:29:30
+og så har man i torinsamma resultat. Ja, og også bare lidt kort om, når kravsteller vi at man skal have bedærknar. Vi kravsteller mindst tre bedærkninger i de her projekten. Jeg skal gøre sig et tidigt skede, og den kommer vi gøre intent. Med et verktyg, vi holder på at tag frem själva. Apropå det. Og den andre gøres, når projekteringen er afslutad, så,
+
+00:30:00
+når man tager frem sit forfrågningsunderlag. Også den slutgiltige, når entreprenøren er færdigbyggd. Men det, som er jätteviktigt, og som vi har pratet meget om, det er, at klimatoptimeringen er det, vi vil komme åt. Vi vil gøre åtgælder for at sænke utslipen genom hela den her processen. Og bedærkningen er egentlig bare et verktyg for at se, at vi har gjort åtgælder og redvisa, hvad det giver for siffror. Men sen er det så.
+
+00:30:30
+Vi har faktisk inget projekt, som har gått igenom alle de her tre stegen M. Men vi har jobbet med klimatbedærkninger og klimatoptimerer på olika sätt, piloter og testområden. Og et sådan område er eksperteringsområdet Ylge, som vi ser just nu, der Justine har været med og jobbet med det her på olika sätt i projekt, og kommer at brøtte med om det. Ja. Hej. Skal vi se? Ja.
+
+00:31:00
+Jeg kommer at brætte om projektet Stormparken, som ligger i det som er nysødre hulje, som kommer at være centrede hulje snart om 20-30 år. Og det er et stort eksperteringsområde, som er ungefæret 5 mektarer, som har gudligget i Ylge, fremfør den her finne Stadelspark, som er Hulvongsparken. Og ved lidt nere, præcis når om området, så er stationen. Vi har en blandning
+
+00:31:30
+af boostedderkontor, og sen ser ni også førskola og PUSet. Jeg kommer ikke at prætte så mykke om lagvætten-handling her, for at det er tænkt, gennem medhøjtsætning, at man skal lede vætnet til parken, som skal hantera både dagvætten og skifal. Og om ni har frågor, så er det madlen, som har jobet med dette. Og sen her har vi haft denis. Jette bra, som arbejde. Jeg kommer at prætte om det sen.
+
+00:32:00
+Her ser ni også en blandning af de tidige undersøgninger, vi har gjort i dette projekt. Eller jeg kom i bilden 2020, og det var tænkt her. Vi hadde veldigt bra førutsætninger i den her detalplanen. Vi havde blandt andet ganske brede gatter, som skulle være gongsforsk gatter. Det har vi ikke så ofte i en tæt sted. Så vi har,
+
+00:32:30
+ja, det var bra testvalg her. Og det passede ganske bra, som har været et sted i vores resa med hålbarrettsfrågor. For vi har kunnet testa i början, og implementere den her metoden, som vi har pratet om nu. Vi har også jobet med CityLab, som er en certifiering for hele området, som har hjelpt os at
+
+00:33:00
+tænke lidt bredt, og ikke glømme samtidig, når vi var på noget set, da lite nu børjere også. Så vort mot det, det var at ifrågasætte og teste og gøre det i samarbejde. Blandt andet med DSU, men også andre lendningsaktører, bygaktører og eksperter, både internt og ekstent. Ja, jeg kan bare beræte om tre
+
+00:33:30
+olika fasser. Det er mycket nu. Men det første var, i tidligere skede, når vi projektererede blandt den, at bygget er skedet, så byggetene, så havde vi ingen metoder, men vi har endnu velet at forstå, hvordan vores klimatpåverkan funkede. Så gjorde vi en sånn klimatanalys, ikke rigtig beregning, klimatanalys for hele området. Det har været resultatet ungefærd, og det viser, at 96%
+
+00:34:00
+og 4% er anlægningen. Så det første slutsatsen var, at vi måste gøre noget med bygnederne, og det var da, at vi börjede jobbe med CO2-slaps græns for vores bygaktører. Vi har forsøgt i hvert fald at være ambitiøst, og det har faktisk funket veldigt bra. Vi har fået veldigt mange anmeldninger for at bygge dette område. Og sen konjunkturen har kommet, men
+
+00:34:30
+og sen den andre er, at ja, vi har bare 4% for anlægningen, men vi endnu måste gøre noget, og ikke bare sætte krav på vores bygaktører, men vise også, at vi gør vores del. Vi har med hjælp af samma konsult, ikke jobet helst med anlægningen, utan vi har mest jobet med at identifiere de huvudposterne, som havde største påverkan,
+
+00:35:00
+og vi har forsøgt at implementere de fleste her, så vi har sængt antal byggetører, bredde den også, vallet af vægmateriæl, bl.a. Det har hjælpt os også, at ja, være lidt innovativa, velkommen, velkommen, velkommen i olika initiativ, har vi testet, eller vi har gjort olika anmendinger for at kunne anvende
+
+00:35:30
+flægrus her, fra en sysav, og vi har fået et positivt svar, lite for sent, så vi har ikke kunnet anvende det her, men i alla fall, själva processen har udført, og det var det, som var også ganske vigtigt for os. Vi har, som ni ser her, haft et meget bra samarbejde med via syd. I et tidigt skøde har vi bestemt, hvor servicerne skulle ligge. Vi har forsøgt bare ganske rimelig, og ikke bare sit krav
+
+00:36:00
+på en meter, der skal det ligge. Utom, at vi har gett ganske bredde ytter, og sen har jeg, og jeg tror, at det var med, Dennis, på de fleste mænden, med, vi har træffet varje bygaktør, og viset til dem, og har forsøgt at få deres synpunkter. Det er rimeligt, hvad du kan bage så, og de havde ikke projekteret en, så de tykte, at ja, men absolut, vi gør så. Og som ni ser her, det har været tidigt, men de fleste, eller alle, har skjøbt et,
+
+00:36:30
+og det gjorde, at i vissa gætter, har vi ikke altså såna' store alendninger, så vi har inte via, vi har ikke fjærverme. Så det gør vejrligt mycket mere plads til det grønne. Jeg ved ikke, hur... Jeg skjønner mig i fem minutter. Blandet har vi bygget dem, men når man bør jobe med hålbarhetsfrugere, så kommer det sosiella
+
+00:37:00
+hålbarhets i bilden, og vi har tænkt, fjør vi så, at området skal kende sig trygt, når vi bygger, og vi har tænkt, at vi bygger færdigt, eller næsten færdigt, en gata her, for at kople den parker med billa og olika parker der. Og det er det, vi har gjort. Så den sådan indvikning, forra vekken, eller nogen vekke sen, du har vi jobet, det er det, vi ser, efter at vi har jobet med klimatoptimering,
+
+00:37:30
+at vi har stendmjøl her, som kanske bliver, just nu, den gånger cykelbanan, men det bliver sen trafikbart for billa. Vi har jobet... Jeg kan detaljere det, om den har været under mængel. Men det kom sen, det her testet, som Johanna har pratet om, Grønna Gattan var et test, så vi ser, redan at genom klimatoptimering havde vi redan en låg klimatpåverkan
+
+00:38:00
+jemført med andre gatter, næsten hælften, så det har virkelig gjort sit job, men sen vi så også, at ja, man hade kunnet at gøre lite til, for at ha en lægre påverkan, men projektet var redan projekteret, så hvad er det, vi kunde gøre, og det var mest brænsle, som var påverkan. Så vi skulle handle det op sen, og vi havde krav på 50 procent biobrænsle,
+
+00:38:30
+og vi tænkte, som ni gjorde med et skanske, at ja, men her testet har vi også 100 procent. Og ja, det gjorde vi med steller, og det gik jätte bra. Vi fik ganske svar fra en entreprenører, og inga problem under entreprenaden. Og sista nu, når vi har metoden, så holder vi på, at projekterer færdigstel om deres skedet, og hela den resan det har gjort, at
+
+00:39:00
+vi jober veldigt af nogen lunder nu, når vi projekterer, og det var det som var målet for at nu, når vi har metoden, så jober vi fra en början på et andet set. Her ser ni kørs på ret, som vi har testet i CAD, og sen så det er det, som er grøn. Helt resten af området skal være så grønt som muligt, utom det er det fint lite lænninger. Men det lutter let
+
+00:39:30
+også, som vi søgte det greje, men i virkeligheden er det en stor utmaning. Men det er det, vi har i hvert fald testet, og det er lige en bilder, som Pia her har taget frem. Ja, det var ingen per debt, jeg skulle sige. På grund af metoden, og hele den resan, så jober vi på et veldigt af nogen lunder set. Tak så meget,
+
+00:40:00
+er der nogen af frågor, spørgsmål? Hej, Emilie fra Kobi. Jeg lavede mærke til både den her presentation og presentationen før, så blød der kun vist resultater for LCA-faserne A1-A5. Er der en grund til, men ikke ha' B-faserne med?
+
+00:40:30
+Er det sådan en generelt standard i Sverige? Eller? Ja. Vi har faktisk haft B4 med i et tidigare skede, som er drifts udslæppen, eller egentlig underhold herfor for at byte ut material. Men faktum er, at efter de her pilotprojekterne har valgt at tage bort i skedet, for at det er svårt for våra konsulter at berækne det.
+
+00:41:00
+Det har myk... Ja, jeg tror, at det er ovan. Så kanske, at vi kan utveckle metoderne at lægge til det senere, men just nu, så behöver vi holde det ganske enkelt. Det er en samark, og det er svært at have med det her skedet. Men vi begger vores konsulter at have den i sin tredje mång, i hvert fald, når de projekter er. Vi kommer faktisk at have med i vores egne tidige belærkningsverktyg. Der kommer vi at have med at utbyte material.
+
+00:41:30
+Det er kostnads- og klimatbelærkningsverktyg. Der har vi med kostnere for at byte et material. Så da kommer vi også at ha' klimat- at byte et stidt 50 år. Jeg har bare en liten fråga kring det her med kålsænker,
+
+00:42:00
+eftersom det er så mykke med grønadele i vores projekt med træder og vækster. Om ni vet, hvad det seneste er på det, om man kan få med i det på noget set. Ja, kålsænker er en intressant fråga, der vi som organisation Malmø stadig inte har landet helt end i hur vi skal tænke. Men det, vi har sett som er vigtigt når vi på fastighets- og gartkontoet gør berærkninger, det gør at vi ikke... Vi kommer ikke redovisa utslæppet minus upptaget.
+
+00:42:30
+Utan vi kommer redovisa. Det her var faktisk et utslæpp, og de skal vi sænke så mykke som muligt. Men sen kommer vi også at ha' en egen flik som redovisar upptag i træd og biokol. Og der er vi også justeret lite vilka negativa utslæpp man får at dækne med. Men det kommer de to, vi lander i, tror jeg. Nu har jeg en fråga. Tittes han i noget pr. Hvor ekstra det får koster, hur myk'e dyrer, for at lov at være
+
+00:43:00
+jævnfot med, hur myk'e CO2 man kan spare? Er det også noget som skal være en parameter, om man kommer og tætter? Det er en jättebra fråga, som vi har diskuteret meget. Og fremfor altid som har været mere skarp i projekten, får hanteret den. Men det er så, vi hanterer det, at det bliver op til varje projekt, at bedømme om det er rimeligt, om kostene er rimelige forhållanden til besparingen i klimat. Ja, præcis. Vi utgår ju' fra rimeligt kostnader.
+
+00:43:30
+Men det er en interessant fråga. Vi har jo valgt i nu et første læget, at inte stella krav på så her, myk'e skal ni sænke utslæppen, hvilket andet har været den da håda grænsen, som afgjorde om. Det er rimeligt eller ikke. Men vi er så tidigt skede, så vi kommer ikke at stella en krav, men just nu. Ja, jeg tænker, at det er mest ny projektledare, som kender sin ekonomi, som skal også kolla, hvad det er, som passar mit projekt.
+
+00:44:00
+Men vi har forsøgt at køre vare'er lidt ambitiøse samtidigt, som det var. Det skal være rimeligt. Det er bare en opfyldning. I Sverige findes det ikke nogen standard for, hvad man får regne med og ikke regne med i forhold til økonomien. Hvilke omkostninger må man have i forhold til at lave mere bæredygtige, holdbare løsninger?
+
+00:44:30
+Det var det der med kombinationen kostnaderne, som var vejligt interessant. Det er interessant at se, hvordan man gør det i Danmark. Vi har jo et regelverk, som gælder bygner i Sverige, når det kommer til klimatdeklarationer. Men vi har inget regelverk, som gælder anlægning. Det her regelverket forbygner, der har inga grænsverden en.
+
+00:45:00
+Men forhoppningsvis så kommer det at komma. Så, så jeg tænkte egentlig, det var en født kommentar på det her, men varfor det lov at kosta. Dels så, behöver vi ju komme længere i projekten for at hver kostnadsbilden bliver, og i de ulike uphandlinger som sker. Det man har set på bygnet sidan, er ju, at masshanteringen er en stor fråga, der man også kan spare pengar.
+
+00:45:30
+Men at man kan nå ganske mycket klimatreduktion genom at material optimere. Så det behöver ikke altid blive et kostnadsproslag, men vi behøver flere eksempel for at se dette. Men hvad interessant at høre om ni har regelverk som kombinerer både hvad det får kosta, og hvad det får slæppe ut. Det vil jeg høre mere om. Besvare? Kan du besvare? Nej, det kan jeg faktisk ikke svare på.
+
+00:46:00
+Det er ikke, du ser nu sidde og kigger på Maria for eksempel som også ved det, eller arbejder med det. Nej, det er ikke så præcis regler. Ja, og vi har klar det, som gør så her på bygninger. Men ikke på det her. Skal du fitte frågan? Ja, tak. Hej, jeg er Roger, og det her
+
+00:46:30
+er Stella, ifall' ni undrer hvem som er hvem. Så, vi skal prate om lite fortsætninger for udslæbt fri antepinader. Og, vi har jättemykker enten vi beratter for jer, men ni får se det som en interaktion, for vi kommer at køre det ret snabt. Man bestader med et projekt som heter Klingkon, et interagt projekt, og det har inderfattet egentlig en højlavære kedian, fra energinfrastruktur til maskin-
+
+00:47:00
+tilværkare, til entreprenører, til kravsteller, som ophandlingsmyndigheter og kommuner. Ja. Så, då kommer vi at berætte lidt mere om du har været vejligt snetslåget. Ja. Jeg tænkte prater lite om nylægget, og vil bare næmne en rapport, som vi har taget frem i den her bestellagruppen for de gemensamme miljøkraven for en tripenade, som finns i Sverige. Det er med storstædderne og trafikverket,
+
+00:47:30
+der vi har gjort en omværelsanalys just for at kunne stelle de her skjærept anordningslæbskraven, og i samme med det har vi også gået ut med en RFI, vi er i storstædderne, og stæller lite frågor til prætningerne. Og det jeg kommer at prate om nu bygger mycket på det, arbetet. Og vi vet jo, at klimatpåverkade udslæppe økede med 7 procent under 2024, og man er jämfør med 2023. Og 32 procent af den økningen kom fra just entreprenader og arbejdsmaskiner.
+
+00:48:00
+Og arbejdsmaskiner og tunga lastbilar det står for cirka 12 procent af Sveriges totale vækstidsgasutslæpp. Så det er en vigtig fråga for os i våre treprenader. Og det finns cirka 30.000 anlægningsmaskiner i Sverige. Og 2024 så var det enbart 80 stykken eldrivende maskiner som såldes, og det motsvara var 12 procent av totale antalet nye anlægningsmaskiner. Så det ytte jeg jo en väldigt liten del. Kolla man på
+
+00:48:30
+fordonen, ser det jo lidt bedre ut. Der såldes flere elektrifierade lette lastbilar, 22 procent. En tunga som var 8 procent 2024. Men det finns en prognos for 2030 på at det kommer at være 30 for letta og 20 for tunga. Så det er nogang et ganske stor økning af de tunga just. Og man har jo jobbet en hel del særligt i Danmark også med den her frågan. Norge har jo kommet långt og en del i Sverige.
+
+00:49:00
+Men just i Malmø og Skåne så ligger vi kanske lite efter om man ser til resten. Og det er jo kanskje just kopplet til de her utmaningarna. Vil man ha emissionsfria eller islepsfria maskiner og tunga maskiner i sina projekt så kan det leda til högre ambitsummer nydet til den børjan just for at det innebærer mere kostnader for entreprenøren. Maskinerne og fordonen kanske främst om tunga er i dagslaget virare og man kan bevare at investere i
+
+00:49:30
+ladinfrastruktur og annat. Og det kan også innebære lite stillestånd og annat til den børjan. Og utbudet er jo delvis ganske begrænset, at det er der mest set til de store. Når det kommer til de lette maskinerne og lette fordonen så er det meget bedre. Sen er ladinfrastrukturen en utmaning. Man kan behovede at lægge penge på det og sætte op det. Det kan kräve en del plads.
+
+00:50:00
+Så det er en utmaning. Det er de leveranstider for de tyngere främst. Det behöver man også tænke på om man har skarpakrav i et projekt at det kan tage tid innan de kan levereres. Rækviden kan være en utmaning om man ser på de tunga transporterne. Særsket vintertid og vi tunga las. Og sen er det også det her med ladtiden kontra tanktiden. Det finns en risk at man tapper lite tempo i själva produktionen.
+
+00:50:30
+Men som många har sagt og kender til så er det mange fordelar. Annars har man ikke været at jobbe med det her. Det er just yslæpsminskninger af væksthusgaser som en stor anledning til at vi tætter på det her i Malmæn. Men også at det er en forbætrad arbejdsmiljø. Og miljøer for själva omgivningen. De er tystare, mindre vibrationer opvættet. Det leder også til minskade regninger.
+
+00:51:00
+Det er kopplet til de mindre maskinerne. Så det er interessant i statsmoder. Og sen kan du også ge kostnadsbesparinger på sikt om man da beaktar den fulla livscykeln. For at de er billigare i drift. Man kan også se at prestandaren generelt motsvarer forbrændingsmotoriderier. Og sen er det en fordel at vi besteller den her typen av krav eller ger indsætament. Så leder det til grøn teknik
+
+00:51:30
+og at entreprenørene vågar investere i just då islepsfria fordon og maskiner. Men det er vigtigt at man har ret færdetssætninger. Man kan vælge dit projekt, da det her læmpar sig. Og at både bestellaren og entreprenøren har en overblik over sit behov. Og at man tidigt kontaktar nætbolagen for at se, hvad der finns færdetssætninger på platsen. Så man behøver mere tid for planering
+
+00:52:00
+og samordning i Uppstadsfasen. Og det kan jo til en början være at man kanskje behøver lidt længere ambidstider. Når det kommer til de større entreprenørene så har de jo kommet længere. Men vi vil gerne have ind de mindre entreprenørene også, så de måske får en færdesætning at lete op den her typen af maskiner. Men også som jeg nämnde at man kanske skal gælde direkt efter kontraktsteknende, utan at det kan også få tag lidt tid for at hitta den her
+
+00:52:30
+infrastrukturen, hvad gælder land, og sådan der på platsen. Så ja, planering og anpassning af energi- infrastrukturen på andingspladsen er vigtig, og også gode færdesætninger for effektuttag og ladning. Det har vi i vår omværelsesbevakning kunne at se leder til betydligt ninskade kostnader om færdesætningerne skulle være med kvlyrigaft. Man måske sætte legatid og pengar på de her energielösningerne. Og sen kan det jo også kräves
+
+00:53:00
+yvildning i anvendning af de her ytsefria maskinerne, og själva' lad logistikken på arbejdspladsen. Littekort, så som det ser ut hos os just nu, så er det de her gemensamme miljøkraven, som vi har tilsammens med Stortstaden og Trafikverket, som de anvender, og vi vil gerne stelle høgere krav end de, og de skerp i 2024, og det, som koppler an til det her vi, prater de i dag, det er klimatkrav på drivmedel,
+
+00:53:30
+altså andel fornybart drivmedel, og då er det her en begge at gå for at sætte at elen er fornybare. Sen har vi jo krav på, at all handhållen i et rysning i dagstægget skal være i en driven, og sen finns det ytsefria krav på ytsefria fordon. Det er ingen ting, hvad gælder maskinerne i dagstægget, så det er det, vi tittar på tilsammens i bestellagruppen, og gerne vil prata om, vi som er lidt i nærområdet, og har samme entreprenørelser,
+
+00:54:00
+så vil jeg sammen syn på det her. Vi havde en dialogtræft, der visse af er deltog, når han er fra VSC, det nogle andre her i rummet, der vi havde en dialog med andre bestellare, vi havde Eon med og fremst våra entreprenørelser, som vi vil ha denne dialog med, så de vet, hvad vi tittar på, og hvad som kan forvente sig. Og der var en af frågorne, vi gik igenom, hur krav og insettament bør være utformade
+
+00:54:30
+for at kunna skapa færsætninger for en overgång til islepsfrit. Det var ganska tydeligt, at de ville gerne, at det skal være tydeligt minimeret torkningsutrymme, at anpassa til marknaden at skjøre på over tid, det skal være långsiktigt, det skal være enkelt at følge op, det kommer du at prata lidt om, både for entreprenøren, og bestellaren. Og det var også det her med gemensamme krav,
+
+00:55:00
+som de trykte på, at de siger, at vi har en samsyn i skåne, men även i hela Sverige, så klart, og i Københamn. Og når vi frågade om forslag på hur krav og insettament kan ställa, så er det jo, jeg fik en bild i den grupping, at det er krav de gerne vil ha, at det skal være tydeligt, at det vet hvad som forventes. Og då kan det jo være altifrån
+
+00:55:30
+krav på fordon og maskiner, eller at det skal være kopplet til antal timmer, eller forbrukningen. Vissa vil gerne se en kombination af krav og bonus, og även kravtrappene, nemt det så flere, just at vi kan øke over tid. Førutsætningerne har vi jo pratet om inden, men det ser man som jätteviktigt, at man kanske ikke skal ha exakt samme krav i alla projekt, utan det finns visse projekter, man kan ha baskrav, og andre projekter,
+
+00:56:00
+man kan ha mere spetsige krav. Og då rimelige tidsramer. Og kolder man just på de vigtigste faktorerne for en realistisk med snabt overgång, så er det jo det her med politiske beslutetstyrning. Det misstænker jeg kom fremst, for de som jobber indom det offentlig, så klart vi vil vete, at vi har mandat, og at det finns resurser for at spille den her type af krav. Realistiske tidsramer,
+
+00:56:30
+dialog og samarbejde ser som vigtigt, og at man steller krav i incitament, entreprenaderne kommer ikke at gøre dette selvmant, det er op til os at bage at stå krav eller incitament for at det skal hende, og det ser vi også i vores entreprenader, når vi har opfølgning, at det er ikke elvrivet. Ja. Så det er bare lite kort om det. Roger? Ja.
+
+00:57:00
+Tittet vi på fordonen og maskiner, hur nulægget er, så kan vi udgå fra det, at alt finns som batteridrivet. De her rigtig tunga lastbilen, som skal køre hela tiden, holder rigtig rigtig et måttet i nogle andre maskiner. Men i med, at vi ikke kommer at stelle 100 procent et krav fra början, så spiller ingen roll. Vi kan udgå fra det, at allting finns batteridrivet. Vi er på god vege mot det her magiske 7-8 timers drift, med lidt teknik skiften, som er
+
+00:57:30
+på gång nu, som jeg mener, min på, men det er på gång. De her dyrare, det kan være open mot 50 procent dyrare, men det er jo betydligt læget driftkostnere og even servicekostnere for elmaskiner. Så er det produktioner på gång, fremfalt maskiner under 2025 ton. Volvo kører med leasing, for de teknikutveckling går så snabt nu, så de lyser ud der mot at tage tilbake dem, og så. Og vi har jo åldersk krav i vores
+
+00:58:00
+samme miljøkrav, og det er for at det skal hænge med i djureklassen, og det handler om partikelutslæpp i vores steder fremfalt. Men det kan vi skitte i, når det gælder elmaskiner, for det er ingautslæpp der, og dessutom kan de, efter 7-8-9 år, når de bare har beslitende, så kan man opdatere dem, opdatera foran miljøen, kanske bytte batteri, bytte lite slit eller 7-8-9 år til.
+
+00:58:30
+Og når vi då steller krav her, for at få en omstilling, så glom inte, at biogas finns, og vet, gas kommer da, så man ikke stänger ute i sin sinne krav. Nej, at man ikke formulerer det som eldrig, bryt den da utslæpsfigur. Og PAYAB er en af aktoren som er med i det her Klingkon projektet. De har gjort en masse fantastiske tester, og så skal
+
+00:59:00
+jeg dra det kort, men 63 ampere er den vanligere bygstrommen. Den rækker til at ladde to maskiner eller lastbilar, køre den dag, og sen ladde den natten. Det kan man ha som utgångspunkt, når man skal rekne på et projekt. Og da har man, så vet man, i blandt så er man 2x 63 ampere, og så kan man rekne på det, og tage in en power bank af noget slag. Men de beskriver jo det som at det var
+
+00:59:30
+enkelt. Det er enkelt, og man behøver ikke så krånglige laddninger, og det er enkele løsninger. Omførsætningen er bra. Lite snabt om digital mætning og oppfølning. Man kan jo sætte, at der finns 2 tekniker, veldig många system, men ingen gemensam standard. Det vi prater om, er då telemetriemaskin-data, som kommer direkt fra maskinerne og fordonen. Exakt data, og det kommer automatisk, men det foljer bare op, for
+
+01:00:00
+donen og maskinerne. Man kan også anvende elektroniske foljesidler, som til eksempel Trafikverket har borgeret med. Det bliver mere avsablondata, og at det kommer i efterhandel, og det skal mates in, og lidt mere hand på lægning. Nån måste mata ind det her ved noget lege. Men de her foljesidler skal endnu skikke, så det skal endnu gøres. Men den store fordel
+
+01:00:30
+med elektroniske foljesidler, det er, at man kan også folje op, til eksempel massor, material og affall, kan man også få ind i det her. Trafikverket har sitt eget system, som hedder ELSA. De anvender denne her standarden, som finns Beast Supply, som er ihop med Branschen, de store entreprenaren, redan med her, Trafikverket er med her. De har bare bare givet,
+
+01:01:00
+brændselig forbrukning og hantering af massor. Vi har bare tittet på det inom Malmø stad, og vi giver med, at Trafikverket kjør bis, så kommer vi også titta på det, men vi vil også testa et telematik system. Og det her er de her to olika fløjder, men i en fremtid, så vil man at vi har et eller flere aggregering system,
+
+01:01:30
+som kan samle in både digitala foljesidler og maskindata og give et græns nyt og i en samlad bild av klimatata her. Yes. Kortå, et eller andet olika vægar mot utslæbsfritt. Kvalificeringskrav har jo nemt, og det er opskattet af våre entreprenører, og det er helt enkelt skarpa krav, og det kan være altifrån procent af energanvælningen, antal drifttimmar,
+
+01:02:00
+eller at man koppler det til ex-antal maskiner. Men her er også vigtigt, at føresetningerne upphandler kraven, og at det er rimeligt, annars kan vi riske at få utvärderingskriterium, er det også noget man kan anvende sig av i själva' anbytsutvärderingen, og då blir det et avdrag av utvärderingssumman. Og de kan jo være formulerade, like det her, jeg nemte i, for de skarpa kraven.
+
+01:02:30
+Men de måske avdraget utformer, så du får en faktisk betydelse. Og at det finns någon form av konsekvens, om det senviser sig, at de ikke er opfyldende, som til eksempel et vite. Jeg tænker, at vi får hoppe over de her, for at det bliver lite for tight. Sen incitament og bonus, app. Incitament og bonus har jo nemt, og det er formuleret som et avtalsvilkår, og det er et ekonomisk incitament fra bestellaren,
+
+01:03:00
+for at de skal satsa på ytselæpsfria entreprenader. Trafikverket anvender det her, og har 2,5 kroner per kilowatt til med el, som anvends. Man kan også opmarne entreprenørerne at tage initiativt til ytselæpsfria løsninger. Det var lidt det, du, Karin, var inne på. Og då kan man antingen tage og tække hela den kostnaden, allerede at man ser, at man deler på mere kostnaden, om det er mere som et pilotprojekt. Det jeg selv anvendte i belegningsprogrammet. Og her er det også vigtigt,
+
+01:03:30
+at man har rett nivå på bonusen, og at man har et max tak, så at den ikke kan spåre it's fullstendigt. Omstændingsplan er noget, som elever i Stockholm blandt andet anvender sig af, og så vil man, at entreprenøren skal inkomma med konkreta forslag på ytbyte af maskiner, og tunga fordon, og beskriva forutsætningerne og de økade kostnaderne. Sen kan man koppla det til et ekonomisk incitament, til eksempel at man, som besteller det,
+
+01:04:00
+tækker den her mere kostnaden. Og då er det også vigtigt med den her løpende redovisningen, så at man ser, at det verkligen blir av. Uphandningsbefordrende kommer jeg ikke at gå ind på med. Ni nemte jo lite af det, med samverkans entreprenade-konkurrensprægler-dialog. Det kan man også anvende at se af, men det passar kanske huvudsakligen i store projekter, som løper over længere tid, just for at det er en længere uphandningsprocess, end de, vi bruker at anvende os af. Yes! Åh, jeg har enda 2 minutter i.
+
+01:04:30
+Okay. Nu slæster vi jo næran lidt. Men nu er vi under ny. Vi tester faktisk skarp for første gangen i Malmøs. Det kendes lidt kul. Vi har nyligen publiceret et ramavtal for mindre markentreprenader, og det er perfekt. Det er fyra år, det løper. Man har samme entreprenører inne. Og då har vi delst det her med incitament og udvikling under avtalstiden med, men også skarpa krav
+
+01:05:00
+i Avropen. Hvor marknaden kommer at reagere på det, men end så længere inga frågor. Og det kommer også skarpas under avtalstiden. Og sen har vi ytterligere nogle uphandninger på gång, så man kan ikke næmne det, som du ved, når det er uphandningssekretess, innan det er publiceret. Men vi har lyssnat på våra entreprenører og lidt af det, som har kommet frem i omværdsbevakningen, og under dialogerna, så vi tester
+
+01:05:30
+et helt krigligt varede. Og sen fortsæt dialog med bestellernætverket for de gemensamme miljardkraven, at vi vil have en gemensam basnivå på sikt. Og fortsæt at samarbejde med andre offentlige besteller i Skåne, og gærne er området. Så vi har en samt syn, og entreprenører har været hvad som forventes af os. Tak. Og her ser ni verdens forsta 30 tons bandgrever, som går på vedtgas, eller hydrogén,
+
+01:06:00
+som det heter, resten af verden, som vi var og tittede på i Norge. Ja. Vi begynder med fragerne. Tak, Stella og Rågen. Nu prater ni om utslapsfria maskinerlæte nyfiken på staden, hur ni ser på
+
+01:06:30
+biodrivmedel, og HVU 100. Og specielt, så er nyfiken på, hur det er i Dammak, til den, vi har haft kontakt med den danske konsultbolag, så forstår vi, at HVU 100 hydreret vegetabiliske olie ikke er så anvendt i Dammak. Så kanske det behöver ikke ni svara på, men det kan du nogen anden i publiken svara på. Jeppe Kovig. Det er lidt
+
+01:07:00
+forskelligt fra bygge her til bygge her, om de anser, at HVU 100 er et utsliftsfritt middel. Så det kommer lidt andet på, hvem man spørger. Ja. Svaretrummalmestad er det, at vi har jo krav på HVU 100 i de gemene som man midler i kravet. Inder just HVU, men fornybart. Fornybart. Og det bliver jo typ HVU 100.
+
+01:07:30
+Men vi steller ingen ytterligere krav på det for at vi vildt heldere går mot utsliftsfritt. Den ykker kraven på HVU 100. Sen se, vi kan skente at vi vil gøre som i Oslo kommun, at det skal være 100% utsliftsfritt, utan det andre er jo bra compliment også, så klart. Ja, det gør vi. Vi har tid for flere.
+
+01:08:00
+Hvor mange projekter har I haft som er utsliftsfritt? Ja, men det var jo det, jeg nemte her, at vi har jo ikke haft noget ting, utan det er første gången nu, vi steller krav, så det skal blive jævligt interessant at ytvaldere det framæver. Den sidste bilden der var et test som vi gjorde på Asfals Ja, vi har haft det testet. Vi har testet at ligge på det som man ikke har. I det her ramavtalet for belæggninger, der vi har det her med
+
+01:08:30
+incitament som aftales velkår, då var det entreprenøren som föreslog dette, at man skulle teste det. Sen just i det projektet så blev det lidt i strid med själva ladning, det var ikke själva maskinen, så det er derfor vi ikke har lyftet op det så mycket, man har nemt at ytvaldere så mycket af det helt enkelt. Men det er mere på gång. Hej, då er det igen fra Frederik Spær. Vi er også småtbegyndt at tale med nogle af vores
+
+01:09:00
+angsterponører i forhold til sådan noget og noget det de peger på. Det er det her med at få elnættet, at få ladningen at det er ret stort problem. Og de virkeligen gerne her bygker at forsøge at skaffe el, så det var bare om I har oplevet samme problemer som om vi ikke har kommet så meget i gang. Men i et af det er i hvert fald den der infrastruktur. Vi har svært ved at... I omvældsbevakningen så kendes det ikke som at det har været et så stort problem, men da måste man vælge en plats,
+
+01:09:30
+det handler meget om forutsætningerne for platsen. Så det er ikke et eksperteringsområde, der da det ikke finns någon bygstrøm eller liknende at tilgå på plats. Så det drar nedkostnere og gør det enklere. Sen kommer det ikke vi, vil jeg bestemme själva' løsningen, utan vi vil lægge det på entrepredaren, just for at vi ser, at det kommer nogen at blive bedtere om dem. Men det man anvender i dag, det er nogen slags kvatteri-container eller powerbank og så kan man snablade
+
+01:10:00
+maskinerne. Det er nogenske bra at børe lidt mindre, for at få erfarenhet og at entrepredaren også skal få erfarenhet af det, inden vi går for hårdt frem. Det er også nogle gange at være en tæt by, hvor der ikke er ret meget plads, og der er måske små, der er ikke så meget plads i elskabene og har vi plads til et stort batteri, og hvordan skal det komme mindre ud og streje alt muligt? Det er ikke nogen mat, det starter. Tak fordi jeg skal begøre.
+
+01:10:30
+Vi gør ved at der er.

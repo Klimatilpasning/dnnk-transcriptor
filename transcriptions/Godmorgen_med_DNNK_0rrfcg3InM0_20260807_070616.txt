@@ -1,0 +1,284 @@
+=== DNNK Webinar Transskription ===
+Kategori: Godmorgen_med_DNNK
+Video ID: 0rrfcg3InM0
+URL: https://youtube.com/watch?v=0rrfcg3InM0
+Kilde: lokal transskription (faster-whisper small, dansk)
+Transskriberet: 2026-08-07T07:06:16.316977
+
+==================================================
+
+00:00:00
+God morgen, og velkommen til god morgen med DNK. Mit navn er Cornelius Pales, og jeg er ansat i sekretariatet for den nationelle netværk for klimatilpassning. Og jeg er glad for at kunne vide at velkommen til endnu et webinar her i DNK.
+
+00:00:30
+Og I skal bemerke, at det her er webinaret afholdelset på engelsk. Dagens fokus er bærdøgtige regnvandshantering i eksisterende byråder og på, hvordan governanceforhold afgør, om de tekniske løsninger rent faktisk er gennemført. Vi skal dykke ned i, og han håber altid mere, hvorfor tekniske låne løsninger, som naturbesædderløsninger og blockhånd infrastruktur ofte afhænger af forhold som jorderskab, ansvarsfordeling, vil lige holde finansjering og samarbejde på tværs arktøer.
+
+00:01:00
+Oplægget bygger videre eller på nye og POD forskning fra SLU som er Sveriges Landbrugs Universitet med eksempler fra svenske cases i Malmø og Østersund, hvor vi ser på, hvorfor eller hvordan kommuner og syninger gør de her forhold med at synge i tidligt i vurderings- og playlægningsfasen. Vi bliver også interesseret til en simple screening matrix, der hjælper med at vurdere om indikatorer ikke kun er relevante, men også reelt anvendelig i konkret beslutningssituation.
+
+00:01:30
+Under oplægget er I meget velkommen til at skrive spørgsmål og komme og kommentare i chatten, og så vil jeg samle op på dem efter oplægget. Oplægget bliver optaget og efterfølgende lagt i DNKs vidensbank, som I som altid finder ind på DNKs hjemmeside. Med disse ordninger, vil jeg hente over til dig, Dom, og tak fordi du kom til at udføje dig og udføje dig og udføje dig, ja.
+
+00:02:00
+Velkommen. Tak. Tak, Carlinius, og jeg tror, at det er meget vigtigt for at sætte det her ud på invitationen, og tak for alle, for at komme. Jeg vil bare skrive min screen til fokus, så jeg ikke ser nogen af dommerne. Lige mig at se, om nogen har nogen af dommerne, eller efter. Så ja, som Carlinius introduceres, min navn er Dom. Jeg har recentens fænst min phv- og SLU, hvor jeg har arbejdet på stålmødernesmål, stålmødernesmål, som er en solitøs solitøs, som er med til at sætte ud af denne her stålmødernesmål.
+
+00:02:30
+Så du kan se fra titulet her. Tålen i dag er om stålmødernesmål, men especially for vores regeringens stålmødernesmål. Så i stålmødernesmål, som nogle af dig nu er ved at spille tekniske dommerne, kan en solitøs som kan bygge mødernesmål, kan en solitøs som kan bygge mødernesmål, eller kan en stålmødernesmål. Og disse dommerne er faktisk meget vigtig, men i praktik, en anden stålmødernesmål, gør det bare så vigtigt, at man har de mandagere, som har et stålmødernesmål,
+
+00:03:00
+er der fundet, data, tid, eller selvfølgelig organisation af kapacitet, og kan denne stålmødernesmål remaine i funktion efter projektet er over. Så i dag vil jeg bruge min selektivt findere fra min PhD-forskning, for at diskutere den anden side af beslutningen, eller hvordan kan vi gøre at blive i et stålmødernesmål, som er mere visst på at arbejde med et stålmødernesmål i stålmødernesmål. Så for de, som ikke er vigtigere med stålmødernesmål,
+
+00:03:30
+vil jeg starte med den generelle situation, så når ringen går ind i stålmødernesmål, og går ind i mange måder, som medvægter, som medvægter, og som bliver råd af. Så for de fløjende, løgende og peber, stålmødernesmål er altså meget stort. Vi har medvægte modeller, designstander, og tekniske ekspertiser. Men urban service er altså for fysisk, ekonomisk, institutionerisk, politisk eller socialt.
+
+00:04:00
+Du kan bruge mere. Så hvis du ringer flere, eller hvis du ringer bedre, er det ikke bare et stålmødernesmål, det bliver en komplexe stålmødernesmål, det er en beslutning. Hvad prøver vi at prioritere? Hvad er trit-offene? Hvem er responsibilitet? Så det er vi, som er multifunktionale og stålmødernesmål. Det bliver mere end en løsning. Det bliver en beslutning. En af de stålmødernesmål, er stålmødernesmål. Og andre lande og traditioner,
+
+00:04:30
+som i forskellige termer, som løsning, stålmødernesmål, sponsibilitet, water- og urban design. Så i denne tal, jeg har brugt stålmødernesmål som ombræleterm, simpelthen, for at blive værdt fra typen af vand fra sidst, til at træne vand som en del af urbanesmål, ekologisk funktion og et langtere klimatid. Så naturlige solitioner sætter faktisk ind i den center af denne transition.
+
+00:05:00
+Så i stålmødernesmål er det usuallyt at møde naturlige processer på stålmødernesmål, som at bruge rindgården, bils, stålmødern, træpædter, etc. Så i den mest basic level kan vi beskrive stålmødernesmål sætter faktisk. Det kan hjælpe os at træne brugt stålmødernesmål, sætter vandført, sætter effekt, hvor stålmødernesmål løber det og også detesmål eller rytter vand fra rindgårdenen. Så det er en del af
+
+00:05:30
+en nbs, som gør, at løbe til teknisk sæsment. Så hvor meget rånne er redukt, hvor meget vand er stålmødner og hvor løbet er træt eller hvordan systemet performer under et stort rindgård for næsten. Men det er en lille stålmødernesmål. Så i præktikken vil vi rærke implementere næste stålmødernesmål for en hydraulisk funktion. Vi er også tænkt at bruge bedre urbejde places, som tager os til den stålmødernesmål, klurale valgen
+
+00:06:00
+og næsten. Så det er der, hvor multifunktionalitet bliver viset. Det samme rindgården eller bils, stålmødernesmål er også tænkt til at supporte, for eksempel, biodiversitet, høv, rekreation og klimatresolven. Det er en måde at bruge næste stålmødernesmål eller at trække det for en masse stålmødernesmål. Det betyder mere end rindgården. De kan konnexere stålmødernesmål med publisk spæd, ekologisk kvalitet, urbejde kåling og sådan. Men det gør det også at blive stålmødernesmål mere. Multifunktionalitet
+
+00:06:30
+er ikke bare at tilføje mere næsten til en slags ord til indikateriet. At bruge mere valget kan bruge forskellige ændringer, forskellige user og som sætter forskellige responsivere. Så efterallet rindgården løber i en løbende spæd og løber i en stålmødernesmål eller som sætning i min studie løber i en stålmødernesmål. Det er en privat stålmødernesmål og som sætter at løbe og kan løbe det, og det, som sætter at løbe det. Så for min forskning, det er det, som gør det. Så kan man
+
+00:07:00
+sætter negativt løbende spæd og grant forventning og løber reaktion overdig. Så at løbe stålmødernesmål ulert jeg vil use to stålmødernesmål fra denne spæd på det som måle ved de stålmødernesmål Så så ser vi hvad det betyder når det ser opsættes brædel vores Så kanNæv du kan se Det er hos Tolley. Det er en vigtig næste sætning, med en højt indenforværdighed,
+
+00:07:30
+blandt kommersial og residentielle landeværelse, og stålværdige konsummerne er flotterende til flotting og råd af kvalitet. The governance involves, selvfølgelig, municipalities, og regionale utilitetskamping her i Montmoix via suit. Oste Schaumt-Holmberg-Gaegiet er en vigtig næste sætning for residentielle sub-urban sætninger, som vi kan lide. Så med en mere åbentlig spørgsmål, skolen og højere i kontest, og en større koncentration for at sætte vores højerefærdighed og højerefærdighed.
+
+00:08:00
+Så regeringen der i nord er mere i højere, vedvægning af municipalityen. Så når vores højerefærdighed er begyndt til at pege til højerefærdighed, hvordan regeringen ser ud? Så hvis vi zoomer til ændringen igen, teknisk kan vi modtage rængardens træpets. Jeg ved ikke, hvis du kan se her rængardens. Træpets på størrelsen og biodiversitet og biodiversitet kan være plads.
+
+00:08:30
+Det giver vi en lærer af teknisk kompensfærdighed. Men så går regeringen til højerefærdighed. Så rængardens højerefærdighed, også bevægning af højerefærdighed eller højerefærdighed, vedvægning af sætte vores højerefærdighed. Træpets på størrelsen, bevægning af municipalityer, og i MOMO, der betyder teknisk højerefærdighed,
+
+00:09:00
+eller utilitetskompagnet, via sætte, og en biofærdighed, som du kan se her i public space, i public square, der er næste municipality, forskellige højerefærdighed og højerefærdighed. Public users, og even restaurants, og shops, der har vores højerefærdighed fra ude i sætterne eller afkøjerefærdighed. Så det er det, jeg mener med, at bevægning af højerefærdighed, ownership, mandates, user rights, og koordination. Det er denne kondition, som gør, om teknisk højerefærdighed
+
+00:09:30
+kan bevægning af design og praktisk, og om det kan løse. Så det bringer mig til... Så det bringer mig til central problem for min forskning, om omvendelsen. Vi taler om holistisk og multifunktionale og højerefærdighed. Vi expecter et højerefærdighed for at manage vores højerefærdighed, bringe multifunktionale benefikker, og bevægning af funktioner over tid, men omvendelsen. Hvorfor? Mange sæsmenter begynder at løse højerefærdighed
+
+00:10:00
+om, hvad det er nødvendigt for at kante. Løs, løs, koster. Det er evidens, det er essentielt. Det gør jeg ikke. Jeg vil være meget klart om det. Hvorfor? Det er ikke sufficient for at forældre, hvis en solution kan bevægning og sætter. Kriterier og indikatorer er også sometimes brugt med limited justifikationer eller medvendelsen til lokale kontest, i hvilken de har faktisk været bevægt.
+
+00:10:30
+Hvorfor begyndelsen og socialkonditioner er oftere behandlede som tilfærdige kontest eller er tilfærdige i processen, siden det er en kondition, som kan blive beskættet og blivet viset eller sættet tidligere. Så fråget er, hvordan kan det begyndelsen appear i beslutning og sættet tidligere? Og hvordan kan vi gøre det videre? Så for mig er det en vigtig sted for at kigge et sætter og beslutningssupport. Det er det, hvor brugt og beskættet,
+
+00:11:00
+som hållistisk, multifunktionale, etc., er transleret til kriterier og indikatorer, og indikatorer og indikatorer. Så når jeg taler om sætter, jeg mener, at det er faktisk fra det omvendelige indiktssætter, det er et processus af at skære i muligheden for solutering. Det er performen, det er nødvendelser, valgen og færdighed med en vigtig sted. Så de er usuallyt relateret på beslutningssupport. Og de kan være metoder, modeller, software, frimlerne,
+
+00:11:30
+og jeg kan hjælpe beslutninger og strukturere indikatorer. Så i stedet om vigtig sted, det kan være for eksempel, som for eksempel, for eksempel, for eksempel, for eksempel, for eksempel, for eksempel, for eksempel, skalgo, multikwetteranalysisk, livsikroassistement, og så ond, mange andre. Så de er ture til vigtig sted. De hjælper at organisere kompleks informerter og komparere soluteringer eller muligheder eller alternativer. Men de tender også at gøre en form af evidens vigtigere for at bringe beslutninger end andre.
+
+00:12:00
+Så for eksempel, simulation modeller og performen kan oftest være strukturet, selvfølgelig, før lukkende planer process. Men regnerne er relateret evidens, som responsibilitet, regnerninger, områder, er oftest mere skadret eller kvalitativt eller tænkt til lokale institutionale regnerninger. Så det er et punkt, hvor min PhD arbejde faktisk tilføjer. Så i min PhD forskning, jeg follower denne challenge i tre steder. Prøv at se på tegninger,
+
+00:12:30
+hvad de tegninger er og så vigtigere tilføjer og også hvad de gælder lukkende og andre, de gænger at prøve. Hvad de praktisker i Sverige og omvendelsen har tænkt, har faktisk været stortmål at arbejde over tid og hvad de ser som en tilføjelser tilføjelser. Og det tænkte jeg er det simpelige måde at skrive indikatorer i virkelig kæmptekontest og tænke hvilken indikator er relevant og hvordan det er forføjelset at bruge. Jeg vil ikke prøve de tre persikter i detaljer, så du kan læse
+
+00:13:00
+og poste en link på de næste slag eller de følte slag som de tre persikter af evidens behind denne argument. Så den første en selvfølgelig evidens slags fra den første studie af min hvd. Vi bevæger den beslutning stortmål til at bruge stortmål mennesker resultat ser den field faktisk har mange brugt brugt du kan se her det er en mål at det er en rull slag så especially det multikator analys og også de kast
+
+00:13:30
+benættet approaches and life cycle families at the review også show the clear weaker treatment of the social and the governance dimensions so compare with the easily 45 40 50 technical environmental or economic indicators we only find seven indicators in all of this review studies that are used for social assessment. So this indicators also appear less often and less also
+
+00:14:00
+clearly justified so the same indicators let's see this example the distance to the nearest green space used in one place to represent the recreation but environmental justice in another one so that is not necessarily wrong but it needs a clear rational and justifications how and why this being used this way and the last one is a governance actors they are also mentioned such as municipality utility companies experts insurance
+
+00:14:30
+companies but owners users and those who maintain it or leave with the solutions are less clear clearly ball into the kind of assessment logic so the message for me is decision support tool can organize evidence that's clear but the social and the daily work condition need more clear framing that's why I turn to the practice and the find that the second evidence step to ask the practitioners what are the actually shape the storm water management over time
+
+00:15:00
+so for the interview in mobile and other stations we identified 40 factors that had influenced the stormwater transition from the 1960s yes we also interview the retired practitioners to the present so this is a dense figure I know I could probably spend one hour talking about this alone it's a main the result from my study too but then I don't want to go through every label so what I want to show is overall pattern you can see here the stormwater transition it's not just driven
+
+00:15:30
+by one thing it actually shaped by a lot of things knowledge coordination policy land use fundings etc at the same time so in other words this is a map of what practitioners from Sweden carry in their heads when they talk about why some water works succeeds or failed or change directions and after that we make this 40 we group this 40 factors in June 9 key factors for example anything related to budget
+
+00:16:00
+funding cost we group them into financial resources so these are nine factors we group after the grouping so they are external collaboration policy rules legislation land use organizational capacity financial resources long-term integration multifunctionality societal dynamics and the technical innovation and adaptation and after grouping the 40 factors grouping the factors in June 9 factors we ask the practitioner
+
+00:16:30
+a sharper question which of these past nine factors will matter most of the future sustainable water management so to answer this we invited the same interviewed group into the workshop and I have to admit the results surprised me so from our author team we expect long-term integration organizational capacity or even multifunctionality to come out of the top by the group point to somewhere else
+
+00:17:00
+yep you can see here external collaboration actually ranked the highest based on the practitioner's reading followed by the policy legislation and land use and the technical innovation adaptation ranked the lowest so for me this is one of the strongest finding of this study that the participants from Sweden in Malmö and also shown the joining saying that the future deliver depends heavily on what sits around the solution in each of the solution collaborations rules, land mandates
+
+00:17:30
+and responsibility so taking together this study give one important message that is stormwater management is complex first the factor work together they shall not be read as a separate box in the list for example technical innovation maybe maybe rank the list but they are still important it doesn't deliver change on its own a good technical design still needs coordination, funding or in the land use for to become part of normal practice
+
+00:18:00
+and this is why a higher or lower ranking shall not be interpreted very mechanically a lower ranked factor can still be necessary if you enable sports or depends on other factors and the second the factors are actually changed by contests or shaped by contests their meaning and importance depends on the place, the actor and the face of the work så since we did an interview
+
+00:18:30
+from the 1960s to 2024 and we realized what actually normal matters maybe matters in a different way than us to show and what actually matters in early 90s in stormwater management or some more development may carry less weight today so the key point is that these factors do not simply be added to the indicator list they need to be interpreted in relation to the place, actor and responsibility and project face even så that brings me to the next study
+
+00:19:00
+and how can we make sense of the condition visible in a simple and practical way so this is actually the starting point of my first study so I translate these factors into the candidate indicators and more practically I will see the accessible prompts and place them into the real catchment contest so the same contest I showed earlier is with nature-based configurations ringgarden, bioswheel and the tree pets and then we visualize the catchment image
+
+00:19:30
+for the participants with the nature-based solution so the experts and who took part in the survey were not asked to score a vague or nature-based solution in abstract they were asked to score the indicator against for example this ringgarden in this private courtyard and this place and then we give them the governance contest across the faces
+
+00:20:00
+from planning, design, construction and to the long-term maintenance and of course the actor constellation behind each face and here you can see the ringgarden we give the example different municipal departments the contractors the local users this is to show the ownership and responsibility shapes across the nature-based solution type and faces and also I call this approach governance where it doesn't only ask where the indicator is technical meaningful
+
+00:20:30
+and this catchment side you also ask whether the indicator makes sense in a particular institution on a spatial setting and after building this governance a wear contest of Sears the next question was how this information can be used in the practical assessment so this slide shows the results of this step it compares to catchment and also they show each small label represents an indicator the four indicator from the study to you
+
+00:21:00
+the same logic is used in both places but the indicator falls you can see differently depending on the local relevance and availability of the resources so the matrix simply is not a ranking tool this is actually the screening step I ask two simple questions at the same time first does the indicator actually matters in this catchment and the second do actors or do you have the resource to assess or use it so you can see the top right here high relevance and the high resource
+
+00:21:30
+these are actually ready to use indicator in the city so this matters for Malmo and these are the high relevance, high resources for us to show and the top left high relevance and low resources and I think this is actually quite the most interesting so I will say meaning that this indicator matters but the participants in our survey or the actors may lack of mandate data, funding or time
+
+00:22:00
+or clear responsibility to assess or act upon these actors so you can see the bottom right here measurable but not very relevant for the specific decisions and the bottom left low signals in this contest it doesn't matter for this kind of catchment so the message is not not only where the indicator lands but also how the matrix made the judgement visible it shows why indicators used is selected
+
+00:22:30
+and where the evidence is strong and where the governance resource condition may be limited to use so interestingly many indicators here can see that people find relevant also link to the decisive factor from the study too they are also decisive but the resource actually shows that they are less actionable so this is also a response to the first paper now indicator selection shall be more broad
+
+00:23:00
+and shall be justified and in the transparent way so the matrix does not show the decision yet for us but what it does is show the decision confidence is strong and where the decision confidence is still fragile so there are still many kind of remaining open questions the first one is that you can see this kind of mismatch between the relevance and the resources so the indicator can be highly relevant but not ready to use in this case the problem is not indicator is wrong
+
+00:23:30
+the problem is that the decision setting is not yet ready to support it and the second is that the evidence so a lot of indicators are quite big for example if we say collaboration capacity what do we mean is a regular cross department of meetings shared routines joint fundings or kind of previous project experience or trust between the actors so without clear evidence protocol
+
+00:24:00
+like in the technical function we know how much water coming come out governance indicators remain very very difficult to compare or defend in real assessments and the last one is actually the transferability we all know nature-based solutions the designs, their performance or the indicator list come with it can travel between projects or even between countries but the delivery condition do not travel in the same way the momo and the institution case
+
+00:24:30
+on the matrix shows this quite clearly so therefore the future work of me wonder is like how this decision confidence can be built into the actual assessment and the planning process not only because described in the research and of course I want to study more or research more with the end users so many actors actually live with us or own pay for or even maintain the spaces but do they always
+
+00:25:00
+well at least to me here in Sweden and during my research they're not always part of the early assessment and second as I mentioned before the units and evidence it not necessarily means that we need to find a number for this assessment evidence since their governance really didn't indicators and it will be hard to naturally they're qualitative and for example we see maintenance capacity so what type of evidence we need
+
+00:25:30
+to be kind of confidently work with the technical environmental and the economical evidence is mean outsourced report or kind of the consulting from report or in-house competence staff time technical knowledge maintenance plan inspection routines or experience from other kind of similar sites and the next one is assessment so the matrix shall be tested inside of the real
+
+00:26:00
+municipality and the planning process you see where it helps structural discussion and indicator selections and lastly the long term learning the same logic can be used for exposed assessment or even with a different kind of ring for events in our study we use the everyday ring events but it also can be applied to extreme ring events or even the compound events to see how this matrix or indicator selection can help better prevent this type
+
+00:26:30
+or predict this type of events and also of course with the exposed assessments to the previous projects that those projects are actually field or some struggling projects so then we can ask very practical questions like the struggling projects or the field one archive in the municipal office was the design wrong or was actually the delivery condition around the design that made a struggle or failed
+
+00:27:00
+so thank you for listening I'll be very happy to take your questions and also interesting to hear this type of issue appearing at the municipality and such so for those who are like to read more since it's only like half an hour here I have listed my faces and my published articles that use for this presentation Thank you so much for sharing I didn't get the last thing
+
+00:27:30
+Is that links to your thesis? This is a doi It's a typical scientific research link so you can just google it then you will find the papers and the articles Alright, thank you If as Dong said if you have any questions please leave them in the chat and I will read them out loud I have a question for you If a municipality and a utility
+
+00:28:00
+disagree on who founds the nature-based solution does the matrix help structure that conversation or can I'm not quite sure I catch your questions but in general I will say yes because you said founding right to found the nature-based solution This matrix doesn't only show the funding
+
+00:28:30
+This is one part of the matrix that we use different indicators we developed from the paper too so to use to the matrix so when it comes to the fundings we can still use this matrix in the table so the matrix actually I think to kind of really easy term is like we surface the actors who is not actually on the decision table so now I don't know about the Danish planning process but usually there's a couple
+
+00:29:00
+already there from the municipality they do the decisions so with this matrix in the decision support governance where we know actually this is a type of nature-based solution that will be implemented in the private courier then to show that to the governance where we know we actually have to engage the BRF the housing association or possibly the utility companies and this is kind of the lesson we learned in Sweden
+
+00:29:30
+and at least I heard from another project or another in app north in Luleå the Sweden everything technical, the assessments the simulation was done they want to implement the bio features in one of these kind of the private housing area but in the end after all the preparations and all the kind of means of the items you know from the municipality it didn't work because the private owners doesn't want to have the bioswales next to their house so this matrix is actually one point we're having governance where
+
+00:30:00
+municipality planning this type of process why the end user was not engaged in the very beginning why we didn't listen to them, their needs so this is part of the matrix can do to help the surface actors were not there and well maybe they have to not necessarily link to funding but they have to do the maintenance and affects their kind of data use of the places sorry, I don't know if I answered your question clearly Oh it's perfect we have a question from Lars
+
+00:30:30
+and I'll just read it out loud many interesting points thank you for sharing especially the sentence design travels condition don't is key and sometimes the reason for a lot of the attention is choosing solutions I guess that was a comment but I said if you have any questions for Don please write to Don directly
+
+00:31:00
+at the email showed on the screen Benny has a question do you see this mainly as a planning tool or stronger in evaluation if a planning can can you try to give an example oh thank you so much Benny for this questions this is actually where I you know before my PhD I work in the rice research institutions of Sweden
+
+00:31:30
+we do a lot of the stormwater planning and back then you know when we start doing the planning with the municipality the assessments the indicator selection usually come with the tools if we use GIS or if we use SWIM you know the indicators or criteria already embedded in the software nobody actually question the meaning behind it it's like useful for example SWIM you know you have nature of the solution in SWIM model as well but the trees
+
+00:32:00
+the model tree capacity to intersect the waters maybe used from the US data so it's not even Swedish data and we want to understand this meaning and why this indicator were selected to this kind of software and tools therefore I want to understand more and the more eager I want to understand the more I realize okay I have to do the PhD to do that and that's why I say this software are actually mostly useful for the planning and even for the evaluations because using this kind of the matrix
+
+00:32:30
+or at least this stage we can surface a lot of kind of questions like is it true when you mean biodiversity are we talking about the welcome to biodiversity for example that we want more birds, insects or are we welcoming actually unwanted biodiversity I usually refering my PhD to rat problem so you implement more kind of the open the open solutions the rats are mosquitoes when it comes to water
+
+00:33:00
+are these wanted and also sorry there's another question so this is actually in the planning so there's a lot of trade off between indicators that automatically people when they use the tools they think comes with the credible evidence but it is not and also another example between biodiversity is recreational values are we talking about actionable sports you know people we want this place
+
+00:33:30
+nature based solution places to allow people to do sports but however there are kind of the residential kind of buildings around maybe people find it noisy so they want actually the static recreational purpose for people doing yoga or doing some other type of savings so there's a trading in the planning of the indicators and we have to be very careful and that's why the matrix will see you know in this case like a relevance resource and sorry I'm also seeing the chat
+
+00:34:00
+I see another question coming right I hope I answer you very much the next question the issue is about establishing clear responsibilities and also not viewing organizations as a homogeneous actor why are you referring to municipalities as a singular actor and how did you approach the actors that directly in the planning process
+
+00:34:30
+how did you consider the planning hierarchies in your analysis and how do you facilitate actors to work across scales and sectors does another complex decision making process help right oh this is actually four questions so answer one by one thank you Shira this is really really these are really really good questions and today you know
+
+00:35:00
+this is kind of the simplified version of my phd so to answer short first question I don't in my research I never compare the municipality actor as one homogeneous actor they're actually from different apartments and they have a lot of conflicts of interest so if you read my thesis I actually have the list to see one of the indicators called the interdepartmental collaboration so that is actually one of the label here based on my experience
+
+00:35:30
+the word from the Swedish we have the technical planning office we have the we have the planning office we have the technical office and we have the environmental office and a lot of different offices actually working with the stormwater management when it serves to the open surface and that doesn't always end up really smooth because everyone has their benefits and interests so that's why municipalities per se
+
+00:36:00
+and this level, we call the middle level they also have conflicts of interests and the second question is how we approach the actor I haven't approached any actors directly in the planning process because this is the research stage we just kind of developed the matrix for the indicator selection but this is actually the good point that we need to at least you know if you see my future work I mentioned a lot about end users we have to find a way to approach them
+
+00:36:30
+I think my personal experience for that is like for example the Momo case because I live in Momo and I approach because my area is kind of the high dense urban area so I approached one of the restaurant I was drinking there for beer and I was asking all do you like to have this kind of outdoor space you know with more instead of the parking lot do you want to have a more nature based solution and the restaurant owner the dude was like super yes, yes I need to kind of I can put more tables there
+
+00:37:00
+and it's really really nice and they really want to engage but I bring the same kind of question to the planning office here in Momo they also say that they have a dilemma or not dilemma difficulties approaching these actors because you know the restaurant owners they're busy and they're not just one restaurant they're actually five, six you have to find the time to ask them about their kind of the willingness
+
+00:37:30
+do they still think okay we should keep at least five meters for kind of the safety so the fire car can come in so there are many many different ways but that's the future research we have to find a way especially they don't get paid we have to find their time to actually get into this decision process sorry, did that work question I think I won't be able to have time to answer all of them or shall I continue do you consider oh please, please continue yes, okay oh yes
+
+00:38:00
+the the next one is also quite interesting the hierarchies yes we do we do consider these hierarchies in our analysis because so far I mentioned again this is a simplified version our work is still around the practitioners we call the middle level so the under level is end users and there is actually the higher level it's a political decision making and this is also quite an interesting part because I think most of you
+
+00:38:30
+probably Danish, Swedish are the same there's always the council that decides the water issues so this year maybe it's more on stormwater but next year it's maybe more on wastewater so actually people working with stormwater strategies here in Malmö or in Lausdation they have to stronger they have to strung up their dialogue or the evidence to bring to the political level to make them realize how serious the problem is so the hierarchy is there but I only did 4 year PhD
+
+00:39:00
+so I haven't tackled that part to the political decision yet but that's also inconsider if you read the papers from my study 3 you study to see clearly that we emphasize which layer of the actors we're actually studying right now and the last question how do you facilitate actors to request skills and actors that's also my future kind of the plan
+
+00:39:30
+but I tested one of this matrix with one of the interview with the municipal here in Malmö I think it's quite interesting because from the indicators and matrix to realize actually a lot of problems were not from the typical decision making problem they used to thinking house for example that could be the technical office that they didn't know that they have to engage one of the department here
+
+00:40:00
+in Malmö that work with the historical value because Malmö part underground 2 meters that could be the relics from the 2-3 years old and also they didn't even know that actually based on this indicators we say we have the energy thinking as well so they think oh that's true because if you have to dig out the pipes from the underground unavoidably you are going to work with the electronic companies that they have the pipes under and also kind of the telecoms
+
+00:40:30
+so these actors weren't out of the picture and they were now in the picture because we kind of tested the matrix it's like different actors surface so this is the point if you mean this is kind of complex decision making contests and this tool actually helps surface them well not to kind of helping them making decisions but at least bring them on the table to make decisions together to be transparent sorry to take this long to answer your four questions
+
+00:41:00
+and I see there are many more questions coming Yeah, that's a question from Laura Do you know if there is any similar studies in Danish in the Danish context regarding either stone water management or heavy rain water management? I cannot be very... Thank you Laura for this question I cannot be very confident to say that but I did a lot of the site tours or field visiting Denmark you can see from my presentation
+
+00:41:30
+I used the picture that's where I took in the nature-based solution in Denmark and I think that's even more interesting Denmark that's a different level I would actually... I hide a lot when I talk to the Swedish practitioners like the Danish municipality actually when I was there they're thinking about connecting two nature-based sites together so it's not actually here in Sweden we still have the small pilot site and da da da but it's in Denmark, I think it's different it's next level now
+
+00:42:00
+it's like you start connecting one big nature-based site to another hydrologically and the socio-economically so I think it may be different and I don't know about the heavy rain management because last time I heard Denmark the policy level reduced from 100 years to 10 years or something so I don't understand now what is the heavy rain management or extreme events definition in Danish context
+
+00:42:30
+but you'll be super interesting and also as I said there is always compound events so it's not just the extreme events these days anymore it could be drought after and the nature-based solution we need water to water them sorry Laura I hope I answered your questions Shira has a comment she said Yes, I am a PI of two studies on the topic in Denmark The two go and nature thrives
+
+00:43:00
+and Anna has a question can the tool help decide the level of detail for decisions that go to the political level or do you have any reflections on how to plan that I myself, you know, we're doing the research but so I cannot really say that okay, our tools can help the decision to reach that level but based on the talk or interview
+
+00:43:30
+with practitioners, as I mentioned earlier they do have the potential to surface issues or surface actors that can be used for political discussion or at least in the parliament level that okay, in stone water before we were talking about extreme events and now probably we're talking about more decentralized in the private courtyard and this is possible because we're kind of showing this kind of land-use property, et cetera so I hope of course
+
+00:44:00
+this matrix indicator selector will give more power it will give more confidence to the politicians actually support this nature-based solution in the end instead of kind of okay, we develop another grant framework or another grant decision support tool with so sophisticated indicator selection outside I think the easiest is mostly the most transparent and the powerful one in my opinion that's why the PhD I never intended to develop another decision support tool
+
+00:44:30
+we just want to understand how we select indicator and why we do that and for what reason Thanks, she said and I will say the same Thank you so much for sharing your research and you're all welcome to re-view I guess it's called this webinar on our web page, home page it's called
+
+00:45:00
+and I will just say thank you for now and thank you, Dong Thank you everyone and thanks for the interesting questions and I'm sure there are many more questions so my email is there if you have any questions you want to take a one-on-one just send me an email it's fine I will try my best to answer and possibly if you see okay if this works in the dentist's polity or not right so thank you oh I think somebody is writing
+
+00:45:30
+yeah thank you and we will close the meeting now okay bye bye everyone
