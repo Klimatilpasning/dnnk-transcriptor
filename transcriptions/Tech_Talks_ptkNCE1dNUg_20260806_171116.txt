@@ -8,16 +8,16 @@ Transskriberet: 2026-08-06T17:11:16.028742
 ==================================================
 
 00:00:00
-Kære alle velkommen til dagens teek talk på dnk mit navn det er Teis Ros Andersen og jeg FR VIA University College sammen med Christoffer sindby Larsen FR Ok Nygaard og Morten Halling FR dnk vil jeg gerne på vegne af dnk Byd i all sammen Velkommen til dagens tikt i dag vil Sara fra invid give en introduktion til lca og forklare hvordan lca kan bruges til Overordnede screeninger og til og til detaljerede analyser med udgangspunkt i forskellige konkrete anvendelse
+Kære alle velkommen til dagens teek talk på DNNK mit navn det er Teis Ros Andersen og jeg FR VIA University College sammen med Christoffer sindby Larsen FR Ok Nygaard og Morten Halling FR DNNK vil jeg gerne på vegne af DNNK Byd i all sammen Velkommen til dagens tikt i dag vil Sara fra EnviDan give en introduktion til lca og forklare hvordan lca kan bruges til Overordnede screeninger og til og til detaljerede analyser med udgangspunkt i forskellige konkrete anvendelse
 
 00:00:30
-eksempler vises Hvordan Ela kan understøtte beslutninger for at skabe en mere skabe mere bæredygtige løsninger i alle projektfaser og lidt praktisk information inden inden Sar får ordet ø selve præsentationen varer cirka 25 til 35 minutter hvorefter der vil være tid til spørgsmål og I kan løbende stille jeres spørgsmål i chatten Og så vil Sara besvare dem i slutningen af Tech Talk og for god ordens skyld skal jeg informere om at Tech Talk den bliver optaget og det vil sige I kan også se Tech Talk om et par dage på dnk hjemmeside og det var alt for mig og så vil jeg give ordet til dig
+eksempler vises Hvordan LCA kan understøtte beslutninger for at skabe en mere skabe mere bæredygtige løsninger i alle projektfaser og lidt praktisk information inden inden Sar får ordet ø selve præsentationen varer cirka 25 til 35 minutter hvorefter der vil være tid til spørgsmål og I kan løbende stille jeres spørgsmål i chatten Og så vil Sara besvare dem i slutningen af Tech Talk og for god ordens skyld skal jeg informere om at Tech Talk den bliver optaget og det vil sige I kan også se Tech Talk om et par dage på DNNK hjemmeside og det var alt for mig og så vil jeg give ordet til dig
 
 00:01:00
-Sar Velkommen til Mange tak Ty øh Jeg er rigtig glad for at jeg må være her i dag ø og snakke om livscyklusvurdering af klimatilpasningsløsninger det er et emne Jeg har arbejdet med i rigtig mange år Det begyndte i min min kandidat faktisk ø og fortsætte i i min min phd som var et projekt mellem DTU vand syd og hus vand og f hvor andet var ligesom Living af klimatilpasningsløsninger øhm og det arbejder jeg stadig med Ø
+Sar Velkommen til Mange tak Ty øh Jeg er rigtig glad for at jeg må være her i dag ø og snakke om livscyklusvurdering af klimatilpasningsløsninger det er et emne Jeg har arbejdet med i rigtig mange år Det begyndte i min min kandidat faktisk ø og fortsætte i i min min phd som var et projekt mellem DTU vand syd og Aarhus Vand og f hvor andet var ligesom Living af klimatilpasningsløsninger øhm og det arbejder jeg stadig med Ø
 
 00:01:30
-hver dag i dag i min rolle som udviklingschef ø hos miden men jeg vil starte med en meget god indflydelses vurderinger Hvad er egentlig af n cyklus vurdering øhm Miljøstyrelsen siger det er en opgørelse og vurdering af de miljøbelastninger er under ressourceforbrug og anioner der er knyttet til et produkt livsforløb og jeg vil tilføje det ikke kun er produkter
+hver dag i dag i min rolle som udviklingschef ø hos miden men jeg vil starte med en meget god indflydelses vurderinger Hvad er egentlig livscyklusvurdering øhm Miljøstyrelsen siger det er en opgørelse og vurdering af de miljøbelastninger er under ressourceforbrug og anioner der er knyttet til et produkt livsforløb og jeg vil tilføje det ikke kun er produkter
 
 00:02:00
 men det er faktisk alle slags systemer og løsninger øh så vi kan også anv på meget komplekse systemer og det er ligesom the beauty of lca øh at man kan anvende det på alle mulige forskellige ting øhm man kan for eksempel undersøge Hvilken type indkøbspose der er mest bæredygtige og det har DTU lavet gjort en studie i 2018 fra Miljøstyrelsen hvor de så fandt frem til at det er en stofpose lavet af forud kun bliver mere
@@ -32,10 +32,10 @@ stad i kraft i starten af året starten af 2023 Øh Og i de nye klimakrav står 
 vurderinger rigtig mange livk vurderinger der er blevet udført af byggerier og nybygninger i over de sidste år som så konkluderer i den her benchmark Øhm Og der kan også at kan også bruges i i vandverden og det er egentlig heller ikke rigtig ny i det her bår fra hne miljørigtig projektering af afløbssystemer står der miljørigtig projektering skal der altså ses på miljø i hele afløbssystemet livscyklus har vug
 
 00:04:00
-til krav miljørigtig projektering og livscyklusvurdering er derfor to sider af den samme sag øhm det er ikke nyt øh men lige nu har livy studering lidt sådan en Revival og det hænger jo meget sammen med vores øre fokus på klimaforandringer øhm hvor livy vurdering er en af de helt centrale metoder som kan hjælpe os med at forstå vores på klima og dermed også reducere vores n påvirk Hvordan gør vi det Det gør vi med
+til krav miljørigtig projektering og livscyklusvurdering er derfor to sider af den samme sag øhm det er ikke nyt øh men lige nu har LCA studering lidt sådan en Revival og det hænger jo meget sammen med vores øre fokus på klimaforandringer øhm hvor LCA vurdering er en af de helt centrale metoder som kan hjælpe os med at forstå vores på klima og dermed også reducere vores n påvirk Hvordan gør vi det Det gør vi med
 
 00:04:30
-at kigge på hele viy ligesom navne allerede afslører Øhm Og en livy af et vandsystem ser jo øh er ret komplekst øhm først og fremmest Skal vi producere nogle elementer nogle materialer det kan så for eksempel være rør eller belægning eller beton eller stål det kan være en hel masse forskellige ting de her elementer skal så transporteres til vores vores projektområde Øh det kan
+at kigge på hele LCA ligesom navne allerede afslører Øhm Og en LCA af et vandsystem ser jo øh er ret komplekst øhm først og fremmest Skal vi producere nogle elementer nogle materialer det kan så for eksempel være rør eller belægning eller beton eller stål det kan være en hel masse forskellige ting de her elementer skal så transporteres til vores vores projektområde Øh det kan
 
 00:05:00
 også SK på forskellige måder øhm Så er der en del anlægs og byggeprocesser og det kan være alt fra at brug en skovl til at grave et kæmpe huld midt i byen øhm så er der noget anvendelse og drift og det igen kan være alt fra at klippe græs til at rense spildevand i nogle tekniske anlæg Det kan også være nogle øh nogle udledninger til til øh til recipienter i driftsfasen Så der er igen
@@ -65,7 +65,7 @@ bredere og også kigger på S anlægsfasen betyder alle de alt det byggearbejde 
 vores grænser Hvad indgår i vores analyse Det kan godt ændre vores konklusion over hvad det er den bedste løsning og jeg vil bare sige at det her eksempel er et ikke er et eksempel hvor jeg vil vise at separering er en dårlig ID der kan være utrolig mange gode grund til at separere især lokale påvirkninger øhm og det kan også separering altså sag de her anlægs emissioner kan også minimeres 400 hektar med 40.000 tons er et ret høj skøn øhm og det er det kan
 
 00:09:30
-stadig være en en rigtig god ide at separere men måske ikke udelukkende fra et CO2 perspektiv øhm den her system afgrænsning er en helt essentiel del af livy vurderinger Der er faktisk forskellige ISO standarder der er flertal af af håndbøger og vejledning retningslinje hvordan man skal udføre livy tring og det er alt lavet som man ikke kan gøre
+stadig være en en rigtig god ide at separere men måske ikke udelukkende fra et CO2 perspektiv øhm den her system afgrænsning er en helt essentiel del af LCA vurderinger Der er faktisk forskellige ISO standarder der er flertal af af håndbøger og vejledning retningslinje hvordan man skal udføre LCA tring og det er alt lavet som man ikke kan gøre
 
 00:10:00
 det Vi kalder Green washing så man lige sætter sine grænser på den måde så en system ser bedre ud end det egentlig er så man skal gå igennnem de her fire skridt målsætning kortlægning miljøvurdering og fortolkning af resultater hvor der også er en usikkerhedsmomenter planlægning og
@@ -80,7 +80,7 @@ selvfølgelig til Kommunikation og for mdel men den her første skridt den her m
 at forbedre projektet yderlig og nogle af de spørgsmål Vi ofte står med stet i tidligere fase er hvor meget jord kan vi overhovedet genbruge hvilk er ret afgørende for hvor meget jord skal vi overhoved køre rundt på den her byggeplads øhm Hvor meget volumen skal etableres der er udvidning skrav øh og hvor meget af det eksisterende system Kan vi genbruge så Det er typisk spørgsmål Vi især i tidlige faser ikke kan Besvar man så kan være ret afgørende
 
 00:12:00
-for vores resultater og derfor anbefaler vi at man bruger altså af på forskellige niveauer Øh Og i tidlige projektfaser kan det være nok med en kvalitativ vurdering og det her kvalitativ vurdering er kræver selvfølgelig at man har nogle alc erfaring at man har regnet nogle alcer på forskellige projekter og har prøvet en fornemmelse for hvad der er bedre og hvad der er værre og det Kender I sikkert de fleste af jer med nogle økonomiske vurderinger Hvor i
+for vores resultater og derfor anbefaler vi at man bruger altså af på forskellige niveauer Øh Og i tidlige projektfaser kan det være nok med en kvalitativ vurdering og det her kvalitativ vurdering er kræver selvfølgelig at man har nogle LCA erfaring at man har regnet nogle alcer på forskellige projekter og har prøvet en fornemmelse for hvad der er bedre og hvad der er værre og det Kender I sikkert de fleste af jer med nogle økonomiske vurderinger Hvor i
 
 00:12:30
 hurtigt kan kan satte nogle tal på Hvilken løsning der vil være økonomisk fordelagtig og det kan vi heldigvis på samme måde gøre baseret på vores erfaring med aler i meget tidligere faser Når man så kommer lidt længere Kan man overgår screenings det Vi kalder det hvor man laver en række antagelser hvor man for eksempel siger vi går ud fra at man kan genbrug så så meget Jord Og så kigger man på sine resultater og kigger på hvor meget betyder den her genbrugsprojekt egentlig hvis vi nu går
@@ -89,19 +89,19 @@ hurtigt kan kan satte nogle tal på Hvilken løsning der vil være økonomisk fo
 ud fra at vi faktisk igennem på mere eller mindre jord hvad ændrer det så i vores resultater ændrer det vores konklusioner Hvis ja så er det noget vi skal være meget opmærksomme på og det kan man så tage med i en fuld alta hvor man så er ler en ret til taleret modulering af en system og en ret AC beregning der Øhm Og de her grænser med for eksempel screenings AC og fuld AC De er selvfølgelig ikke så skarpe som de lige ser ud på den her slide Det er ofte meget flydende overgange og at man er
 
 00:13:30
-nødt til at afhængig fra projekt til projekt vurdere øh på hvilk niveau giver en AC mening også for at ikke Altså bruge ressourcer som egentlig ikke fører til noget så nog yderlig viden som man kan bruge i det her projekt fase og det vil jeg igen vise med et eksempel Det er øh vi arbejder sammen med HS Forsyning og NCC en parning aftale af af m klor altså sanere klock
+nødt til at afhængig fra projekt til projekt vurdere øh på hvilk niveau giver en AC mening også for at ikke Altså bruge ressourcer som egentlig ikke fører til noget så nog yderlig viden som man kan bruge i det her projekt fase og det vil jeg igen vise med et eksempel Det er øh vi arbejder sammen med HS Forsyning og NCC en partneringaftale af af m klor altså sanere klock
 
 00:14:00
-indlæg i hele hundesø by Det er ikke direkte i klima tilpasnings system men øh tilgangen kan vises ret fint her øhm Vi startede med tre forskellige masterplan øh Den første var en udvidelse af eksisterende fælles system den andet var at vi delvis separerer og delvis beholder fælles systemet og den tredje masterplan var så Impuls og der lavede vi øh i første omgang det her kvalitativ vurdering Øh
+indlæg i hele Hundested by Det er ikke direkte i klima tilpasnings system men øh tilgangen kan vises ret fint her øhm Vi startede med tre forskellige masterplan øh Den første var en udvidelse af eksisterende fælles system den andet var at vi delvis separerer og delvis beholder fælles systemet og den tredje masterplan var så Impuls og der lavede vi øh i første omgang det her kvalitativ vurdering Øh
 
 00:14:30
-hvor vi baserede på nogle reanalysis imat Hvor meget beton har vi brug for hvor meget stål og så hvor stor volumen og skal vi etablere Hvor meget jord skal vi sikkert køre rundt Lav nogle ø skønne på Hvilke system vil være mest fordelagtigt fra et livy perspektiv og der kom vi frem til at Master 3 vil være mest fordelagtig det mindste og så landede vi i midten og gik videre n B to Øhm Og der blevet så udviklet nogle n
+hvor vi baserede på nogle reanalysis imat Hvor meget beton har vi brug for hvor meget stål og så hvor stor volumen og skal vi etablere Hvor meget jord skal vi sikkert køre rundt Lav nogle ø skønne på Hvilke system vil være mest fordelagtigt fra et LCA perspektiv og der kom vi frem til at Master 3 vil være mest fordelagtig det mindste og så landede vi i midten og gik videre n B to Øhm Og der blevet så udviklet nogle n
 
 00:15:00
 detaljeret f af løsningsforslag det prisforslag øhm som vi kunne vurdere med en lidt mere detaljeret screenings af og der kan vi vise at vi har tre rigtig gode løsninger øh løsning et til tre og løsning fire Det var en løsning hvor vi skulle etablere Hvilke store volumer og det hele skulle være mere eller mindre underjordisk så det før til nogle meget store udledninger øhm og så sammenligne
 
 00:15:30
-vi det hele med en BAT scenarie øhm men der kunne vi allerede sæte nogle ret detaljeret tal på og kunne også Lav den her vurdering af hvilke elementer af systemet betyder mest i det her regnskab og så har vi også arbejde med en fuld lta i Hundested øh fordi i den her parning aftale har vi den fordel at vi over seks år har mulighed for at opbygge viden teste nogle metoder øhm og det betyder også at der allerede er er faser der er under udførelse hvor vi kan
+vi det hele med en BAT scenarie øhm men der kunne vi allerede sæte nogle ret detaljeret tal på og kunne også Lav den her vurdering af hvilke elementer af systemet betyder mest i det her regnskab og så har vi også arbejde med en fuld LCA i Hundested øh fordi i den her partneringaftale har vi den fordel at vi over seks år har mulighed for at opbygge viden teste nogle metoder øhm og det betyder også at der allerede er er faser der er under udførelse hvor vi kan
 
 00:16:00
 drage indrage viden de næste faser Øhm Og der har vi lavet en fuld af af de her to første faser der er Der er allerede udført nu Øh og det er bare et eksempel resultat her er højre på den her slide hvor vi har kigget på Hvilke processer egentlig betyder noget Og her kan man for eksempel se at udgravning var en virkelig virkelig stor post øhm så vi har kigget endnu mere på kan vi løse så meget som muligt med spring andre Nordic metoder i stedet for at det bliver
@@ -146,19 +146,19 @@ værdi og den højeste værdi øhm og det kan jo sørge for stor forvirring og d
 have den samme klima baseret på det energisystem der bruges til produktion så det er Det er en meget fin balance man man bruge specifikt af en emissionsfaktor som man overhovedet kan men samtidig heller ikke at prøve at regne ting bedre end det er og det er kun data der så er der også en række forskellige værktøjer som man så kan bruge til at regne af LS på de her store systemer Øhm og jeg
 
 00:23:00
-starter fra den venstre side øh Der er et værktøj der hedder Kim Compass Det er FR Erhvervsstyrelsen øhm og det er et værktøj hvor man kan omregne økonomi til Co2 Det betyder at hvis man ved hvor meget kron og ø har investeret i det her projekt så kan keep komet give et skøn på hvor meget CO2 der så blevet udledt Der er også nogle branchespecifikke ac- værktøjer for både byggeri og for infrastruktur det er l
+starter fra den venstre side øh Der er et værktøj der hedder Klimakompasset Det er FR Erhvervsstyrelsen øhm og det er et værktøj hvor man kan omregne økonomi til Co2 Det betyder at hvis man ved hvor meget kron og ø har investeret i det her projekt så kan keep komet give et skøn på hvor meget CO2 der så blevet udledt Der er også nogle branchespecifikke ac- værktøjer for både byggeri og for infrastruktur det er l
 
 00:23:30
-Bygg og indra LC og de værktøj er meget smart fordi man kan bruge dem både til screening og fulde LC af og specifik for Altså enten byggeri eller infrastrukturprojekter og så er der selvfølgelig specialiseret AC soft der findes en række forskellige siger bruge one click de der hedder garbi før som ikke hedder garby længere øhm altså der er en række forskellige værktøjer og der skal man også sådan ramme det rigtige det sings niveau øhm for den lca man
+Bygg og indra LC og de værktøj er meget smart fordi man kan bruge dem både til screening og fulde LC af og specifik for Altså enten byggeri eller infrastrukturprojekter og så er der selvfølgelig specialiseret AC soft der findes en række forskellige siger bruge one click de der hedder GaBi før som ikke hedder GaBi længere øhm altså der er en række forskellige værktøjer og der skal man også sådan ramme det rigtige det sings niveau øhm for den lca man
 
 00:24:00
-gerne vil udføre og bare for at vise Hvorfor det er vigtigt det er et klimaaftryk Vi har regnet på I byggemodning sammen med klarforsyning øhm hvor vi har først regnet et sml baseret på klimac kompas er bare baseret på de investeringer der er blevet lavet der kom vi frem til cikker 3400 t CO2 men detar analyse viste så at vi faktisk kunker 700 ton CO2 og det er selvfølgelig også fordi Vi har prøvet i det her projekt at optimere for eksempel
+gerne vil udføre og bare for at vise Hvorfor det er vigtigt det er et klimaaftryk Vi har regnet på I byggemodning sammen med klarforsyning øhm hvor vi har først regnet et sml baseret på Klimakompasset er bare baseret på de investeringer der er blevet lavet der kom vi frem til cikker 3400 t CO2 men detar analyse viste så at vi faktisk kunker 700 ton CO2 og det er selvfølgelig også fordi Vi har prøvet i det her projekt at optimere for eksempel
 
 00:24:30
 jordb valan så meget som muligt og har lavet nogle tiltag for at gøre det her projekt mere bærdygtig end et standard projekt måske men stadig den her gap mellem 3400 og 700 er ret stort øhm og det viser bare vigtigheden af det værktøj og den database man bruger for at regne og fordi det er en efterspørgelse Vi oplever for mange af vores kunder at vi dagen går sammen med COWI for at øh prøver at udvikle et AC værktøj der kan
 
 00:25:00
-skabe lidt en fælles udgangspunkt for branchen Øhm Og vi er dagen ki er gået sammen fordi vi tror vi vver især sidder med nogle byggesten som vi kan bygge på et ret god udgangspunkt for så fælles værktøj Ø Jeg har baseret på min phd i en ansæ vandcenter Syd bygget et AC værktøj for vandcenter syd for klima og projekter hvor der ligger en masse data og viden øhm hovi har været med til at
+skabe lidt en fælles udgangspunkt for branchen Øhm Og vi er og COWI er gået sammen fordi vi tror vi vver især sidder med nogle byggesten som vi kan bygge på et ret god udgangspunkt for så fælles værktøj Ø Jeg har baseret på min phd i en ansæ vandcenter Syd bygget et AC værktøj for vandcenter syd for klima og projekter hvor der ligger en masse data og viden øhm hovi har været med til at
 
 00:25:30
 udvikle indf af og har i sidst udviklet en platform der hedder LC collect på byggeri ø så der ligger nogle forskellige byggesten og dem kan man kombinere på en måde så vi allerede er et par skridt foran og ikke skal sig for fra eventbranchen og vores fælles Vision er at der kommer et frit gængelig værktøj som kan bruges af alle aktører i branchen til at forstå og reducere deres miljø på vækning og vi ved at det er et ønske fra en række forsyninger det er
@@ -167,13 +167,13 @@ udvikle indf af og har i sidst udviklet en platform der hedder LC collect på by
 også et ønske fra Danmark som som også er i gang med at starte noget op og vi håber at at vi som k kan byde ind i den her proces fordi vi er i gang med at gjord den første skridt i mod den her Vision Vi er i gang med at udvikle at at AC værktøj på for afløbs og klimaprojekter øhm og vi har fokus på at det kan an til på screenings niau på et ret til s
 
 00:26:30
-screenings niveau fordi vi vil gerne at det her værktøj Kan understøtte beslutninger i planlægning og vi har meget stor fokus på at det her værktøj Kan kunne anvendes af alle man skal nok måske lige sætte sig lidt ind i alc Men det kræver i hvert fald ikke en flerårig udsendelse for at at regne LC på et projekt og det er meget spændende forløb vi er i gang med og som vi forhåbentlig meget meget snart kan kan det meget mere på J man for lige at afslutte med nogle nøgle
+screenings niveau fordi vi vil gerne at det her værktøj Kan understøtte beslutninger i planlægning og vi har meget stor fokus på at det her værktøj Kan kunne anvendes af alle man skal nok måske lige sætte sig lidt ind i LCA Men det kræver i hvert fald ikke en flerårig udsendelse for at at regne LC på et projekt og det er meget spændende forløb vi er i gang med og som vi forhåbentlig meget meget snart kan kan det meget mere på J man for lige at afslutte med nogle nøgle
 
 00:27:00
 budskaber øh LC kan bruges på alle typer projekter i valek og det kan bruges for mange forskellige detaljering Det er vigtigt at væge det rigtige detering for det projektas og den projekttype man arbejder med for at man kan understøtte beslutninger øhm den definition af system grænser Øh og hvilken data man bruger og hvilken H man bruger er ret afgørende for de resultater man får ud
 
 00:27:30
-og derfor er det vigtigt at man gør de her skridt grundigt og ikke bare tilfældig øhm lta er en fantastisk metoder fordi de ikke kun kan regne på CO2 men på en række relevante miljøpåvirkning grundlag der kan indgå i i vores projekter og det sidste Vi arbejder på et værktøj som forhåbentlig kan gøre det
+og derfor er det vigtigt at man gør de her skridt grundigt og ikke bare tilfældig øhm LCA er en fantastisk metoder fordi de ikke kun kan regne på CO2 men på en række relevante miljøpåvirkning grundlag der kan indgå i i vores projekter og det sidste Vi arbejder på et værktøj som forhåbentlig kan gøre det
 
 00:28:00
 lidt nemmere især det med Hvilken Det er der skal vi bruge Hvilken metode skal vi bruge Hvilke anelser skal vi lave øhm så flere og flere forsyninger og aktører i hele vandbanen kan kan lave Al kan forstå deres påver fordi vi Vi er overbevist over at Kun hvis vi forstår vores påver Så kan vi også begynde at blive bedre at reducere og blive mere bæredygtig Ja Mange
@@ -200,7 +200,7 @@ konklusion øhm man kommer frem til er afhængig af det forråde man Definer hel
 aftryk end løsningsforslag a et og derfor anbefaler vi at går med løsning to så Det kan også være for syet som det tusind tak Sar så Lars Han spørger hvordan vægter man i en lca de ting der måske sker 50 til 75 år ude i fremtiden Det er en tricky spørgsmål øh fordi fordi der er Øhm hvis vi tror på den grønne omst det
 
 00:32:00
-gør vi jo så tror vi også på at øh for eksempel et rør der produceres om 50 år produceres på en helt anden måde end det gøres i dag Og har en meget lavere cyk som udgangspunkt er det altid bedst hvis vi kan nøjes med at ikke gøre noget nu og kan skubbe ting i fremtiden i en nca øhm sætter man en en tidsramme på sin analyse for eksempel V siger man Jeg vil gerne at det her system fungerer i 75 år
+gør vi jo så tror vi også på at øh for eksempel et rør der produceres om 50 år produceres på en helt anden måde end det gøres i dag Og har en meget lavere cyk som udgangspunkt er det altid bedst hvis vi kan nøjes med at ikke gøre noget nu og kan skubbe ting i fremtiden i en LCA øhm sætter man en en tidsramme på sin analyse for eksempel V siger man Jeg vil gerne at det her system fungerer i 75 år
 
 00:32:30
 100 år og så regner man alle de fornyelser der skal øh være i den periode med en for eksempel rør vil nok bare kunne blive liggende mens et filter må skal skiftes ud og så lægger man det ind i sådan i nogle bjerne mellemrum i nogle intervaller som en fornyelses- så Det regner man og hvis man gør det meget rigtigt Så regner man også at det for NS aktiviteten blive mere og mere grøn i fremme øh så det kan man godt den her tidsperspektiv kan man godt regne ind i
@@ -224,16 +224,16 @@ ikke de ting der betyder mest normalt øhm men vi regner dem ind Fordi vi som ud
 finde de rigtige epd'er ISO standarder epd'er at defineret bruges disse I detaljerede beregninger er der i DK et krav for at opløse disse data og få epd'er verificeret før der markedsføres et produkt Jeg er ikke sikker på om jeg forstår spørgsmål rigtig med øhm Altså jeg tror jeg tror det der menes det er at at når der producent der laver Lad os sige et rør den epd der bliver lavet er
 
 00:36:00
-den verificeret ø eller hvordan hvordan når Hvordan kommer den epd så man sige den Hvordan kommer den epd frem med de tal som de nu når frem til Altså det er der findes forskellige Nu bliver det endu M forende der findes forskellige rammer for at publicere sin en epd der findes for eksempel Danmark som er en organisation der Find bpd Norge en anden organisation Find ipd international hvk er have tredje organisation Øhm og der findes øhm to forskellige isocenter der en
+den verificeret ø eller hvordan hvordan når Hvordan kommer den epd så man sige den Hvordan kommer den epd frem med de tal som de nu når frem til Altså det er der findes forskellige Nu bliver det endu M forende der findes forskellige rammer for at publicere sin en epd der findes for eksempel Danmark som er en organisation der Find bpd Norge en anden organisation EPD International hvk er have tredje organisation Øhm og der findes øhm to forskellige ISO-standarder der en
 
 00:36:30
-gammel og en ny øhm som og det nye standard Er der nogle andre påvirkning kategorier og en lidt anden beregningsmetoder man skal bruge øhm som udgangspunkt er alle de her epd'er uanset under Hvilken ramme man publicerer dem er tredjepart bverificeret øhm Der er også krav om man skal altså beskrive sin egp men det er ikke Altså man Man skal ikke vedhæfte sine beregninger så der er altid en vis form for der er lidt en black bx element i
+gammel og en ny øhm som og det nye standard Er der nogle andre påvirkning kategorier og en lidt anden beregningsmetoder man skal bruge øhm som udgangspunkt er alle de her epd'er uanset under Hvilken ramme man publicerer dem er tredjepart bverificeret øhm Der er også krav om man skal altså beskrive sin EPD men det er ikke Altså man Man skal ikke vedhæfte sine beregninger så der er altid en vis form for der er lidt en black box element i
 
 00:37:00
 det her epd fordi man kan nok ikke se alt der indgår Det er også noget altså producenternes egne oplysninger Det skal de jo også have lov til at holde hemmelig i en vis grad men der er altid en tredjeparts verificering øh så man kan nok stole på de epd'er øhm men man skal være opmærksom på de antagelser der ligger for eksempel er en fase der Al til epd'er transport fra producent til Ja i vores tilfælde byggeplads og der er det jo oftest at i en epd antager man at
 
 00:37:30
-den her transport distance er utrolig kort fordi øh ja altså der er ingen grund til at ikke gøre det Men så skal jeg måske lige hvis man så bruger en epd være opmærksom på Nå vi ligger faktisk ikke lige ved siden af den produktionssted i nord Norge øhm men der er lidt ekstra transport vi også skal regne ind i vores Asa så man man kan stole på de oplysninger der står i en epd at man skal øh kig på de antagelser der ligger bagved og se passer de til
+den her transport distance er utrolig kort fordi øh ja altså der er ingen grund til at ikke gøre det Men så skal jeg måske lige hvis man så bruger en epd være opmærksom på Nå vi ligger faktisk ikke lige ved siden af den produktionssted i nord Norge øhm men der er lidt ekstra transport vi også skal regne ind i vores LCA så man man kan stole på de oplysninger der står i en epd at man skal øh kig på de antagelser der ligger bagved og se passer de til
 
 00:38:00
 vores projekt Tusind tak for dig så har Uffe Ja en måske en kommentar om og måske også en lille spørgsmål Hej Sar Tak for en rigtig god præsentation og tak for jeres initiativ med at udvikle et frit værktøj til vand og klimatilpasningsprojekter fuld opbakning og lad os håbe at vi får at vi og lad os håbe vi kan få udarbejdelsen af brancheforeningens synings Els og jeres intiativ koblet sammen på bedste Vis Ja niker godt Ja det ø Det det
@@ -257,7 +257,7 @@ Der har hver betydning og hver rådgiver sådan lidt deres egne metoder og datab
 lave en beregning og det er heleer noget vi skal men der er også bare så mange forskellige software at det er lidt en proces i sig selv de her koblinger men det vi er helt enige det vi skal Vi skal gøre det så nemt som overhovedet muligt at altså ikke indgå i beslutninger det skal ikke kost St s Det skal kobles med andre ting og jo mere vi kan automatisere det jo jo altså jo mere indgår af resultaterne det derfor tænker jeg det er helt sikkert den vej
 
 00:41:30
-kom Tusind tak Sar og det var faktisk også det sidste spørgsmål og vi har kun tre minutter tilbage så det passer jo perfekt det hele ja så øh så s på vejne af dnk Så vil jeg sige tusind tak for en rigtig spændende Tech Talk Mange tak at I vil med med det er dejligt og så vil jeg sige at hvis der er nogen af jer der sidder derude som godt kunne tænke sig at høre en Tech Talk eller præsentere en tekt så er I selvfølgelig velkommen til at række ud til dnk og ellers så kan I orientere jer
+kom Tusind tak Sar og det var faktisk også det sidste spørgsmål og vi har kun tre minutter tilbage så det passer jo perfekt det hele ja så øh så s på vejne af DNNK Så vil jeg sige tusind tak for en rigtig spændende Tech Talk Mange tak at I vil med med det er dejligt og så vil jeg sige at hvis der er nogen af jer der sidder derude som godt kunne tænke sig at høre en Tech Talk eller præsentere en tekt så er I selvfølgelig velkommen til at række ud til DNNK og ellers så kan I orientere jer
 
 00:42:00
 i klimak kalenderen i forhold til andre tekt så Tusind tak for i dag og endnu engang Tusind tak Sara til Hej
