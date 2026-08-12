@@ -8,22 +8,22 @@ Transskriberet: 2026-08-06T17:12:40.308776
 ==================================================
 
 00:00:00
-tak skal i have mit navn det er Rasmus Linden Jeg er landinspektør arbejder i l 34 Og jeg vil gerne byde velkommen til Hay pipe fællesskabet og ø Hey pipe Det er et ø firma startup firma skal vi se der der er startet op her for nyligt inden for det sidste halvanden måneds tid af øhm et samarbejde mellem Akil Aarhus vand og le34 øhm Vi byder ind med
+tak skal i have mit navn det er Rasmus Linden Jeg er landinspektør arbejder i LE34 Og jeg vil gerne byde velkommen til HyPipe fællesskabet og ø HyPipe Det er et ø firma startup firma skal vi se der der er startet op her for nyligt inden for det sidste halvanden måneds tid af øhm et samarbejde mellem Akil Aarhus vand og le34 øhm Vi byder ind med
 
 00:00:30
 forskellige kompetencer inden for den her platform som ø som jeg komm som jeg vil komme ind omkring øh platformen er i virkeligheden det der hjælper os til at hjælpe hinanden med hashtagget Sharing is caring Og det handler om at gøre data tilgængelig for hinanden Vi har utrolig meget data der ligger øh rundt omkring i organisationer ved kommuner ved
 
 00:01:00
-forsyningsselskaber ved os selv er i i vores opmålings viirs somheder og så videre øh men vi skal have gjort dem tilgængelige og vi skal dele dem med hinanden sådan så vi kan drage øh drage hjælp af hinandens data der hvor øh Hey pipe kommer fra det er lidt nogle hvor de rør og ledninger er men vi har
+forsyningsselskaber ved os selv er i i vores opmålingsvirksomheder og så videre øh men vi skal have gjort dem tilgængelige og vi skal dele dem med hinanden sådan så vi kan drage øh drage hjælp af hinandens data der hvor øh HyPipe kommer fra det er lidt nogle hvor de rør og ledninger er men vi har
 
 00:01:30
-et øh register eller det er egentlig ikke et register men ledningsejeren register kalder vi det ler Og når man graver et hul i jorden så laver man en forespørgsel til ler Det vil sige alle ledningsejere de melder tilbage hvad de har af ledninger øh under jorden de forskellige steder det vi ser rigtig mange gange det er at der er mange ledninger der ikke er indberettet i læer eller der ikke bliver indberettet når man spørger til læer og øh illustreret i
+et øh register eller det er egentlig ikke et register men ledningsejeren register kalder vi det ler Og når man graver et hul i jorden så laver man en forespørgsel til ler Det vil sige alle ledningsejere de melder tilbage hvad de har af ledninger øh under jorden de forskellige steder det vi ser rigtig mange gange det er at der er mange ledninger der ikke er indberettet i LER eller der ikke bliver indberettet når man spørger til LER og øh illustreret i
 
 00:02:00
-den her sammenhæng Jamen så kan man se at der er de grønne Telekom ledninger som er der Der er nogle blå vandledninger og så er der en masse gule ledninger som som man faktisk ikke får Når man retter henvendelse hvis man kigger på det i et gængs Gid værktøj Jamen så kan man se at man har øhm ledningerne det er det er de ø de farvelagte streger der er rundt omkring men vi har også et datasæt som eksisterer i kraft af noget data der er samlet og det er sådan en punktsky Og
+den her sammenhæng Jamen så kan man se at der er de grønne Telekom ledninger som er der Der er nogle blå vandledninger og så er der en masse gule ledninger som som man faktisk ikke får Når man retter henvendelse hvis man kigger på det i et gængs GIS-værktøj Jamen så kan man se at man har øhm ledningerne det er det er de ø de farvelagte streger der er rundt omkring men vi har også et datasæt som eksisterer i kraft af noget data der er samlet og det er sådan en punktsky Og
 
 00:02:30
-det er den der ligesom ligger i baggrunden i midten og den viser hvordan der ser ud i virkeligheden øh ude i det ganske land på baggrund af det Jamen så kan man se at der faktisk mangler nogle data i læer øhm her Så hvis jeg lige hopper til det næste så vil man kunne se at der er i hvert fald tre ledninger som ikke eller fire ledninger som ikke er registreret i der og der er en der er registreret forkert men er man nu en entreprenør der skal grave i området her ved siden af af Så kunne man jo antage
+det er den der ligesom ligger i baggrunden i midten og den viser hvordan der ser ud i virkeligheden øh ude i det ganske land på baggrund af det Jamen så kan man se at der faktisk mangler nogle data i LER øhm her Så hvis jeg lige hopper til det næste så vil man kunne se at der er i hvert fald tre ledninger som ikke eller fire ledninger som ikke er registreret i der og der er en der er registreret forkert men er man nu en entreprenør der skal grave i området her ved siden af af Så kunne man jo antage
 
 00:03:00
 at der ikke var nogen ledninger fordi det viser lid at der ikke er og så sætter man ellers gravemaskinen i jorden og graver den her ledning over og det er faktisk noget der sker utrolig mange gange i løbet af året og de her graveskader de anslås til at at være et nærmest et milliard øh omkostning ikke nødvendigvis i Danmark men faktisk også i Europæisk og på verdensplan Hvordan kan vi begynde at afhjælpe det Jamen det kan vi ved at dele hinandens data først så skal vi have skabt data og en af de måder vi kan skabe data på Jamen det er
@@ -38,25 +38,25 @@ ved siden af hinanden så hvis man indsamler en video af et område Det kunne se
 vores platform siger Jen Vi vil gerne gøre det her data tilgængelig sådan så at alle mulige kan få adgang til det og vi kan hjælpe hinanden så ud fra et oversigtskort kan man klikke på en model og så får man en punktsky frem herovre i højre side som jeg sagde før Så er sådan en punktsky Den er målbar og det vil sige at man kan ud fra dette datasæt som tog cirka et minut at opmåle så kan man indsamle både koordinater x y z Øh Og man kan lave
 
 00:05:00
-højdeforskel man kan måle afstande og så videre til det her anlæg og det vil sige man i sit fra sit kontor eller hvor det nu er så kan man indsamle de her data hvis det er tilgængeligt for alle i hvert fald dem der kunne have interesse i det Jamen så er det faktisk ret nemt at finde ud af hvad er koden for overløbskant den i dette præcise bassin her Nu er det måske ikke så 100% aktuelt i den her sammenhæng men det giver et overflod af data som er til råd hed og
+højdeforskel man kan måle afstande og så videre til det her anlæg og det vil sige man i sit fra sit kontor eller hvor det nu er så kan man indsamle de her data hvis det er tilgængeligt for alle i hvert fald dem der kunne have interesse i det Jamen så er det faktisk ret nemt at finde ud af hvad er koden for overløbskant den i dette præcise bassin her Nu er det måske ikke så 100% aktuelt i den her sammenhæng men det giver et overflod af data som er til rådighed og
 
 00:05:30
-der er så meget data derude Vi skal bare have det delt og det er der hvor Hype kommer ind så i den her sammenhæng Er det noget klimatilpasning med hensyn til noget regnvand der gerne skal nedsive på vejarealet eller i bassinet der Det kan også være et en anden form for nedsivning Lar anlæg der er ude på den en mark eller øhm Vi har også et andet type datasæt det er hvis man går hen og begynder at samle data ind med DR koner Så kunne man
+der er så meget data derude Vi skal bare have det delt og det er der hvor HyPipe kommer ind så i den her sammenhæng Er det noget klimatilpasning med hensyn til noget regnvand der gerne skal nedsive på vejarealet eller i bassinet der Det kan også være et en anden form for nedsivning Lar anlæg der er ude på den en mark eller øhm Vi har også et andet type datasæt det er hvis man går hen og begynder at samle data ind med droner Så kunne man
 
 00:06:00
-for eksempel have Sprogø og det her datasæt det er blevet anvendt i forbindelse med klimasikring af i af hvad hedder det barrieren ud mod vandet Øh ved tunnel nedløbet datasættet er til rådighed øh man kan måle alt det man vil så man kan optage kter og Her har vi optaget kter ved vandkanten her er toppen af afstivningen eller hvad hed Der afgrænsningen og hernede har vi nede ved bunden af løbet og man kan jo
+for eksempel have Sprogø og det her datasæt det er blevet anvendt i forbindelse med klimasikring af i af hvad hedder det barrieren ud mod vandet Øh ved tunnel nedløbet datasættet er til rådighed øh man kan måle alt det man vil så man kan optage koter og Her har vi optaget koter ved vandkanten her er toppen af afstivningen eller hvad hed Der afgrænsningen og hernede har vi nede ved bunden af løbet og man kan jo
 
 00:06:30
 tydeligt se at der er øh 20 meter og 70 cm i højdeforskel i den sammenhæng og der er øh 127 meter indtil så alt i alt det handler om at skaffe data Det handler om at gøre data tilgængelige og det handler om at stille det til rådighed for hinanden sådan så at man i alle mulige situationer hvor det giver mening kan komme til data rigtig hurtigt
 
 00:07:00
-vi har lavet det her firma der hedder Hay pipe og Hay pipe fungerer på nuværende tidspunkt mest i Danmark men det er meningen at det skal ud og leve globalt for det er en problemstilling som ø som er ø alle steder i verden øhm Jeg vil gerne tage jer med på en lille rejse ind her så zoomer man tæt ind når man er en del af Hype fællesskabet så stiller man sin data til rådighed og det vil sige man stiller til rådighed for dem der nu er i fælles skabet og alle
+vi har lavet det her firma der hedder HyPipe og HyPipe fungerer på nuværende tidspunkt mest i Danmark men det er meningen at det skal ud og leve globalt for det er en problemstilling som ø som er ø alle steder i verden øhm Jeg vil gerne tage jer med på en lille rejse ind her så zoomer man tæt ind når man er en del af HyPipe fællesskabet så stiller man sin data til rådighed og det vil sige man stiller til rådighed for dem der nu er i fælles skabet og alle
 
 00:07:30
 kan dele de data der er til rådighed med hinanden hvis man står i en situation at det kan være interessant at komme i nærheden af noget der er nede i jorden Jamen så er der gennem tiderne opsamlet utrolig Mange enkelte billeder ø hver eneste gang en entreprenør har åbnet et hul i tidligere tider Jamen så har de taget et billede nogle gange har det en koordinat andre gange har det ikke ø Nu begynder man at samle ind med de her punktsky og det vil sige Vi har meget mere data til rådighed på må man kan
 
 00:08:00
-tilgå det Jamen det er fra et oversigtskort som sagt før man trykker på en polygon så får man sin punktsky øh vist til højre selve punktsky er i virkeligheden bare punkter i rummet som er målfaste men ø når man hopper ind i det så kan man se man kan indsamle utrolig mange data fra det ene sted til det andet sted der er selve visionen FR hpe visionen FR Hype det er at sikre en nem og tilgængelig internetplatform hvor
+tilgå det Jamen det er fra et oversigtskort som sagt før man trykker på en polygon så får man sin punktsky øh vist til højre selve punktsky er i virkeligheden bare punkter i rummet som er målfaste men ø når man hopper ind i det så kan man se man kan indsamle utrolig mange data fra det ene sted til det andet sted der er selve visionen FR HyPipe visionen FR HyPipe det er at sikre en nem og tilgængelig internetplatform hvor
 
 00:08:30
 globale brugere de kan dele og tilgå geodata til hjælp fra hinanden Det er det vi har og mit navn det er her

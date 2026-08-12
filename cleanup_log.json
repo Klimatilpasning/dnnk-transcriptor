@@ -10084,5 +10084,527 @@
       }
     ],
     "afvist": []
+  },
+  "transcriptions\\Oevrige_-IZEwCGIcME_20260806_171312.txt": {
+    "anvendt": [
+      {
+        "forkert": "gigs screenings værktøj",
+        "rettet": "GIS-screeningsværktøj",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "larlsen",
+        "rettet": "LAR-løsninger",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Gmod",
+        "rettet": "GIS-model",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "gipsmodel",
+        "rettet": "GIS-model",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Gid",
+        "rettet": "GIS",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Amar fældet",
+        "rettet": "Amager Fælled",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Lars systemer",
+        "rettet": "Lar-systemer",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Le implementering",
+        "rettet": "Lar-implementering",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ad sente",
+        "rettet": "adjacente",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "hov tagflade",
+        "rettet": "hoved-tagflade",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Bu bundkasse",
+        "rettet": "bufferbundkasse",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Arrangementer_uQuLL27W1D4_20260806_171257.txt": {
+    "anvendt": [
+      {
+        "forkert": "piser af biomasser",
+        "rettet": "pyrolyse af biomasser",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "læring af biokul",
+        "rettet": "lagring af biokul",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "aqu Green",
+        "rettet": "AquaGreen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "aqu gre Green",
+        "rettet": "AquaGreen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "aquagen",
+        "rettet": "AquaGreen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Plys",
+        "rettet": "pyrolyse",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "dampt tring",
+        "rettet": "damptørring",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "man kan lære CO2",
+        "rettet": "man kan lagre CO2",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "lærer man CO2",
+        "rettet": "lagrer man CO2",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "for kul",
+        "rettet": "forkuller",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "pulserer",
+        "rettet": "pyrolyserer",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "oplader man biomasser",
+        "rettet": "oplagrer man biomasser",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ikke længere oplærer vores",
+        "rettet": "ikke længere oplagrer vores",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "as kulstof",
+        "rettet": "askekulstof",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "fos FR",
+        "rettet": "fosfor",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "plysen",
+        "rettet": "pyrolysen",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "gynning produkt",
+        "rettet": "gødningsprodukt",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "randel",
+        "rettet": "rensningsanlæg",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "pfas Islam",
+        "rettet": "pfas i slam",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "medicinrester r spildevandsslam",
+        "rettet": "medicinrester fra spildevandsslam",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "dampt sigen",
+        "rettet": "damptørreren",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "damp tøj",
+        "rettet": "damptørreren",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "en dampt og der fjerner",
+        "rettet": "en damptørrer og der fjerner",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "den der dampt så pludselig",
+        "rettet": "den der damptørrer så pludselig",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "afvandingssystem ogne",
+        "rettet": "afvandingssystemerne",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Arrangementer_oWmp94ZaG7I_20260806_171240.txt": {
+    "anvendt": [
+      {
+        "forkert": "Hay pipe",
+        "rettet": "HyPipe",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Hey pipe",
+        "rettet": "HyPipe",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Hype",
+        "rettet": "HyPipe",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "hpe",
+        "rettet": "HyPipe",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "l 34",
+        "rettet": "LE34",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "læer",
+        "rettet": "LER",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Gid værktøj",
+        "rettet": "GIS-værktøj",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DR koner",
+        "rettet": "droner",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kter",
+        "rettet": "koter",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "opmålings viirs somheder",
+        "rettet": "opmålingsvirksomheder",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "råd hed",
+        "rettet": "rådighed",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Arrangementer_KG8mkJJZivE_20260806_171246.txt": {
+    "anvendt": [
+      {
+        "forkert": "lemv",
+        "rettet": "Lemvig",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "lmv",
+        "rettet": "Lemvig",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "til LV bliver",
+        "rettet": "til Lemvig Vand bliver",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tifs container",
+        "rettet": "20-fods container",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kvalitetsvin anden ende",
+        "rettet": "kvalitet i den anden ende",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "leverig",
+        "rettet": "levende",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "den riske tilstand",
+        "rettet": "den økologiske tilstand",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "planton",
+        "rettet": "plankton",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kemist Duerne",
+        "rettet": "kemistuderende",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "i vatter",
+        "rettet": "i vater",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "nedfælde fosfor",
+        "rettet": "udfælde fosfor",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "skyldet",
+        "rettet": "skyllet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "indoperere",
+        "rettet": "indkorporere",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Arrangementer_twkCUP0a5ug_20260806_171237.txt": {
+    "anvendt": [
+      {
+        "forkert": "Boxer screen",
+        "rettet": "Boxer Green",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "boker Queen",
+        "rettet": "Boxer Green",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "stenu boksen",
+        "rettet": "stenuldsboksen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "stenu boks",
+        "rettet": "stenuldsboks",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "stenu bokse",
+        "rettet": "stenuldsbokse",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "gennem stenu ø ud",
+        "rettet": "gennem stenuld ø ud",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "af af af stenu og",
+        "rettet": "af af af stenuld og",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "vækstmål",
+        "rettet": "vækstmedium",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "hår rørene",
+        "rettet": "rødderne",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "til høne",
+        "rettet": "til dem",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "hækken",
+        "rettet": "hessian",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "hæ indsigt",
+        "rettet": "hessian",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "superbrusen i skæren",
+        "rettet": "Superbrugsen i Skagen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Rol Gammel Kro",
+        "rettet": "Rold Gammel Kro",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Spars for",
+        "rettet": "sparet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ledelse sement og strategi",
+        "rettet": "ledelse samt strategi",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "detal",
+        "rettet": "detaljer",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "stam omfanget",
+        "rettet": "stammeomfanget",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Tech_Talks__McnZqfz9b4_20260806_171131.txt": {
+    "anvendt": [
+      {
+        "forkert": "dnk",
+        "rettet": "DNNK",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "d nnk",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Tim dage",
+        "rettet": "temadage",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tørket",
+        "rettet": "tørke",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
   }
 }
