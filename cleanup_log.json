@@ -6992,6 +6992,102 @@
         "rettet": "strandeng",
         "antal": 1,
         "grund": "kendt ordliste (juli-rensning genbrugt)"
+      },
+      {
+        "forkert": "Posidon",
+        "rettet": "POSEIDON",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "S Climakluster",
+        "rettet": "SDU Climate Cluster",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Sens Strandby",
+        "rettet": "Seden Strandby",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "dine tilbage",
+        "rettet": "digerne tilbage",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "af diet",
+        "rettet": "af diget",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "naturbes løsning",
+        "rettet": "naturbaseret løsning",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "natureret løsninger",
+        "rettet": "naturbaserede løsninger",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "naturaserede løsninger",
+        "rettet": "naturbaserede løsninger",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "repariske",
+        "rettet": "ripariske",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Bbyggelsestætheden",
+        "rettet": "Bebyggelsestætheden",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "vandindvendings",
+        "rettet": "vandindvinding",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Sydsuniversitet",
+        "rettet": "Syddansk Universitet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "vandhuger",
+        "rettet": "vandhuller",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "prudt",
+        "rettet": "krudt",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "interprojekt",
+        "rettet": "Interreg-projekt",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "øhhav",
+        "rettet": "øhav",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -7021,6 +7117,108 @@
         "rettet": "strandengene",
         "antal": 2,
         "grund": "kendt ordliste (juli-rensning genbrugt)"
+      },
+      {
+        "forkert": "Real Dania",
+        "rettet": "Realdania",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "15. junifonden",
+        "rettet": "15. Juni Fonden",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "OV Jensens fond",
+        "rettet": "Aage V. Jensens Fond",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Natur 2000",
+        "rettet": "Natura 2000",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "natur 2000",
+        "rettet": "Natura 2000",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "bil fire arter",
+        "rettet": "bilag IV-arter",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "STU",
+        "rettet": "DTU",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "skalgo ø live",
+        "rettet": "SCALGO Live",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "skalgkomodel",
+        "rettet": "SCALGO-model",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Native Based Solutions",
+        "rettet": "Nature Based Solutions",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "se level rise",
+        "rettet": "sea level rise",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Eholm",
+        "rettet": "Egholm",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "odderhapitalat",
+        "rettet": "odderhabitat",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "odderhapitalatet",
+        "rettet": "odderhabitatet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "halvtugusfasen",
+        "rettet": "haletudsefasen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "klidtlavlning",
+        "rettet": "klitlavning",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ferskab",
+        "rettet": "ferskeng",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -7633,6 +7831,156 @@
         "rettet": "BAT",
         "antal": 1,
         "grund": "kendt ordliste (juli-rensning genbrugt)"
+      },
+      {
+        "forkert": "Jess",
+        "rettet": "Jesper",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Flådbyen",
+        "rettet": "Flodbyen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "i Rens går",
+        "rettet": "i Randers går",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "C45",
+        "rettet": "E45",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Mordjylland",
+        "rettet": "Nordjylland",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kodehøjder",
+        "rettet": "kotehøjder",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "klimabrun",
+        "rettet": "klimabroen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "klimagrugen",
+        "rettet": "klimabroen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "klimabrug",
+        "rettet": "klimabro",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Klimagroen",
+        "rettet": "Klimabroen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Real Dania",
+        "rettet": "Realdania",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Real Daniel",
+        "rettet": "Realdania",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "OBP setup",
+        "rettet": "OPP-setup",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "erskasser",
+        "rettet": "pensionskasser",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "deplerings pligt",
+        "rettet": "deponeringspligt",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "byggelandsfonde",
+        "rettet": "Landsbyggefonden",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "taksomin",
+        "rettet": "taksonomi",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Gudlund",
+        "rettet": "Gudenåen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Gudnåen",
+        "rettet": "Gudenåen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Gudenlund",
+        "rettet": "Gudenåen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "hrede millioner",
+        "rettet": "hundrede millioner",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "alvingsselskaber",
+        "rettet": "udviklingsselskaber",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "byghærer",
+        "rettet": "bygherre",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tremeters grotes",
+        "rettet": "tremeterskoten",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "AP ejendom",
+        "rettet": "AP Ejendomme",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -9506,6 +9854,231 @@
       {
         "forkert": "in mobile and other stations",
         "rettet": "in Malmö and other locations",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Tech_Talks_Y8uB1bGysO8_20260806_171128.txt": {
+    "anvendt": [
+      {
+        "forkert": "grønne parapre",
+        "rettet": "grønne trepart",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "grønne træbold",
+        "rettet": "grønne trepart",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "grønne treb",
+        "rettet": "grønne trepart",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Limfjordsæ",
+        "rettet": "Limfjorden",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Samfundsvidenskaber",
+        "rettet": "Samfundsvidenskab",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Tech_Talks_A9FXERLW-gU_20260806_171119.txt": {
+    "anvendt": [
+      {
+        "forkert": "Kito",
+        "rettet": "Concito",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Kitum",
+        "rettet": "Concito",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "koncit",
+        "rettet": "Concito",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "konsum",
+        "rettet": "Concito",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "siksniveau",
+        "rettet": "sikringsniveau",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kbeskyttelse",
+        "rettet": "kystbeskyttelse",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "terræmand grundmand",
+        "rettet": "terrænnært grundvand",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "til renaland grundvand",
+        "rettet": "terrænnært grundvand",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tilregne af grundvand",
+        "rettet": "terrænnært grundvand",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Nak, Kaleminder og Kalborg",
+        "rettet": "Nakskov, Kerteminde og Kalundborg",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Naksborgov",
+        "rettet": "Nakskov",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Adrian Carsten",
+        "rettet": "Carsten",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Adrian Larsten",
+        "rettet": "Carsten",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Karsten",
+        "rettet": "Carsten",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "fakse",
+        "rettet": "Faxe",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "forsinker Punktion",
+        "rettet": "Forsikring & Pension",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "perspentil",
+        "rettet": "percentil",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "persentiler",
+        "rettet": "percentiler",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "persilet",
+        "rettet": "percentil",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DMI klimaat",
+        "rettet": "DMI Klimaatlas",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "100sendelse",
+        "rettet": "100-års-hændelse",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "1000endelse",
+        "rettet": "1000-års-hændelse",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "100årsæelse",
+        "rettet": "100-års-hændelse",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "osion",
+        "rettet": "erosion",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "oversundelsestyper",
+        "rettet": "oversvømmelsestyper",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "grundegne",
+        "rettet": "grundejere",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ildschej",
+        "rettet": "ildsjæl",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Nordfyens",
+        "rettet": "Nordfyns",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Godmorgen_med_DNNK_-qLfWkFJIyE_20260807_075302.txt": {
+    "anvendt": [
+      {
+        "forkert": "kruksk infrastruktur",
+        "rettet": "kritisk infrastruktur",
+        "antal": 4,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "urgrown planning perspective",
+        "rettet": "urban planning perspective",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
       }
