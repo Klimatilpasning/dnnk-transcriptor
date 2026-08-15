@@ -897,5 +897,11 @@
     "kilde": "youtube-subs",
     "order_id": null,
     "last_attempt": "2026-08-10T14:20:36"
+  },
+  "G_24ifZDlWk": {
+    "status": "failed",
+    "last_attempt": "2026-08-15T09:20:23",
+    "attempts": 2,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
   }
 }
