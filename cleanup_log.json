@@ -4968,9 +4968,105 @@
         "rettet": "vandrammedirektiv",
         "antal": 1,
         "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "Geoficia",
+        "rettet": "Georg Fischer",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Grønlands Kommune",
+        "rettet": "Brønderslev Kommune",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Bygrås",
+        "rettet": "BYGGROS",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Arco",
+        "rettet": "ACO",
+        "antal": 5,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "IACO",
+        "rettet": "i ACO",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Tomas og Majs",
+        "rettet": "Thomas og Max",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "klagedevnet",
+        "rettet": "Klagenævnet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "klagenivnet",
+        "rettet": "Klagenævnet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "resilienten",
+        "rettet": "recipienten",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "lard",
+        "rettet": "LAR",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "rens på kiln-princippet",
+        "rettet": "rens-ved-kilden-princippet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Ranske Kilden-princippet",
+        "rettet": "Rens-ved-kilden-princippet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "brotkærret",
+        "rettet": "Watercare",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Warnaka",
+        "rettet": "Watercare",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Vorderkær",
+        "rettet": "Watercare",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
-    "afvist": []
+    "afvist": [
+      {
+        "forkert": "Marina Berg Jensen",
+        "rettet": "Marina Bergen Jensen",
+        "grund": "afvist (usikker/ubekræftet ved kritisk gennemgang)"
+      }
+    ]
   },
   "transcriptions\\wordwebinarer\\DNNK-Masterclass_om_h_ndtering_af_regnvand_v._Teknologisk_In.mp3 (1).txt": {
     "anvendt": [
@@ -10601,6 +10697,260 @@
       {
         "forkert": "tørket",
         "rettet": "tørke",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Horizon_og_LIFE_projekter_om_klimatilpasning_og_vand.txt": {
+    "anvendt": [
+      {
+        "forkert": "kemotilpasning",
+        "rettet": "klimatilpasning",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DNN ks",
+        "rettet": "DNNKs",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DN ks",
+        "rettet": "DNNKs",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DNK",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "IDNK",
+        "rettet": "i DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DNIK",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "en NN et k regi",
+        "rettet": "DNNK-regi",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "hof for",
+        "rettet": "HOFOR",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "leven labs",
+        "rettet": "Living Lab",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Living laps",
+        "rettet": "Living Lab",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Grete Copenhagen IO Office",
+        "rettet": "Greater Copenhagen EU Office",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "greitter",
+        "rettet": "Greater",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Greater company and i Office",
+        "rettet": "Greater Copenhagen EU Office",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "mew Office",
+        "rettet": "EU Office",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ew Office",
+        "rettet": "EU Office",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Ret Green",
+        "rettet": "REGREEN",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ret Green",
+        "rettet": "REGREEN",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "co-t 2 coach climent challenge",
+        "rettet": "Coast to Coast Climate Challenge",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "coachprojektet",
+        "rettet": "Coast to Coast-projektet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "coaster coach projektet",
+        "rettet": "Coast to Coast-projektet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Costo cosh projektet",
+        "rettet": "Coast to Coast-projektet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "coach 2 coach",
+        "rettet": "Coast to Coast",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "costo kos projektet",
+        "rettet": "Coast to Coast-projektet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "co- 2 coach projektet",
+        "rettet": "Coast to Coast-projektet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "coster postprojektet",
+        "rettet": "Coast to Coast-projektet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Costa Costa projektet",
+        "rettet": "Coast to Coast-projektet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "wall europe",
+        "rettet": "Water Europe",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Vores europs",
+        "rettet": "Water Europes",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Vores europe",
+        "rettet": "Water Europe",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "IDGRTD",
+        "rettet": "i DG RTD",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DGRTD",
+        "rettet": "DG RTD",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "hannesstadsgaard Jensen",
+        "rettet": "Hanne Stadsgaard Jensen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": [
+      {
+        "forkert": "natoman",
+        "rettet": "NATUREMAN",
+        "grund": "afvist (usikker/ubekræftet ved kritisk gennemgang)"
+      },
+      {
+        "forkert": "Netto man",
+        "rettet": "NATUREMAN",
+        "grund": "afvist (usikker/ubekræftet ved kritisk gennemgang)"
+      },
+      {
+        "forkert": "Netto med",
+        "rettet": "NATUREMAN",
+        "grund": "afvist (usikker/ubekræftet ved kritisk gennemgang)"
+      }
+    ]
+  },
+  "transcriptions\\Gr_nne_v_gge___en_overset_klimatilpasningsl_sning_i_DK_.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "dingen k",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DNK",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DNKS",
+        "rettet": "DNNKs",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "BGNB",
+        "rettet": "DGNB",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "eat",
+        "rettet": "LEED",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "bream",
+        "rettet": "BREEAM",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
       }
