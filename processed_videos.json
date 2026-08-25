@@ -899,10 +899,13 @@
     "last_attempt": "2026-08-10T14:20:36"
   },
   "G_24ifZDlWk": {
-    "status": "failed",
-    "last_attempt": "2026-08-17T09:33:25",
+    "status": "done",
+    "last_attempt": "2026-08-26T00:03:07",
     "attempts": 0,
-    "note": "nulstillet 25/8-2026: de oprindelige fejl kunne ikke skelnes fra midlertidigt YouTube-rate-limit. Pipelinen kan nu skelne, så videoen prøves igen."
+    "note": "nulstillet 25/8-2026: de oprindelige fejl kunne ikke skelnes fra midlertidigt YouTube-rate-limit. Pipelinen kan nu skelne, så videoen prøves igen.",
+    "category": "Godmorgen_med_DNNK",
+    "kilde": "youtube-subs",
+    "order_id": null
   },
   "g7yhwOVYJYI": {
     "status": "done",
