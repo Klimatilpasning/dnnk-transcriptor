@@ -39,7 +39,7 @@ CATEGORIES = {
     "Konferencer":          "https://www.dnnk.dk/optagelser-fra-konferencer-og-temadage/",
     "Jura":                 "https://www.dnnk.dk/jura-i-klimatilpasning/",
     "DNNK_Masterclass":     "https://www.dnnk.dk/dnnk-masterclass/",
-    "Fremtidsvaerksted":    "https://www.dnnk.dk/fremtid/",
+    "Fremtidsvaerksted":    "https://www.dnnk.dk/category/arrangementer/fremtid/",
     "Arrangementer":        "https://www.dnnk.dk/arrangementer/",
     "Vidensbank":           "https://www.dnnk.dk/category/vidensbank/",
     "Studieture":           "https://www.dnnk.dk/online-studietur/",
