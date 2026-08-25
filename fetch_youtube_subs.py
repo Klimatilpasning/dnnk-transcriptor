@@ -115,8 +115,22 @@ def to_dnnk_format(cues: list[tuple[int, str]], block_seconds: int = BLOCK_SECON
 
 # ── YouTube ───────────────────────────────────────────────────────────────────
 
+class TransientSubsError(Exception):
+    """Midlertidig hindring — rate-limit, timeout eller IP-blokering.
+
+    SKAL holdes adskilt fra "videoen har ingen danske undertekster". Kalderen
+    tæller attempts op ved en rigtig fejl, og efter MAX_ATTEMPTS opgives
+    videoen permanent. Uden den skelnen kan et forbigående HTTP 429 låse en
+    video varigt ude af vidensbanken — hvilket ramte 10 videoer 6/8 2026.
+    """
+
+
 def fetch_subs(video_id: str) -> str | None:
-    """Hent danske auto-undertekster som VTT-tekst. None hvis de ikke findes."""
+    """Hent danske auto-undertekster som VTT-tekst.
+
+    None = videoen har ingen danske undertekster (endeligt svar).
+    TransientSubsError = vi kunne ikke nå at spørge; prøv igen senere.
+    """
     with tempfile.TemporaryDirectory() as tmp:
         out = os.path.join(tmp, "sub")
         cmd = [sys.executable, "-m", "yt_dlp", "--write-auto-subs",
@@ -126,11 +140,13 @@ def fetch_subs(video_id: str) -> str | None:
         try:
             r = subprocess.run(cmd, capture_output=True, text=True, timeout=180)
         except subprocess.TimeoutExpired:
-            print("      timeout ved hentning")
-            return None
-        if "Sign in to confirm" in (r.stdout + r.stderr):
-            print("      ❌ YouTube kræver login (datacenter-IP blokeret) — kør lokalt")
-            return None
+            raise TransientSubsError("timeout ved hentning")
+        udskrift = r.stdout + r.stderr
+        if "Sign in to confirm" in udskrift:
+            raise TransientSubsError(
+                "YouTube kræver login (datacenter-IP blokeret) — kør lokalt")
+        if "429" in udskrift or "Too Many Requests" in udskrift:
+            raise TransientSubsError("YouTube rate-limit (HTTP 429)")
         # foretræk da-orig, ellers da
         for suffix in (".da-orig.vtt", ".da.vtt"):
             p = Path(tmp) / f"sub{suffix}"
