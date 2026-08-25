@@ -43,7 +43,7 @@ CATEGORIES = {
     "Arrangementer":        "https://www.dnnk.dk/arrangementer/",
     "Vidensbank":           "https://www.dnnk.dk/category/vidensbank/",
     "Studieture":           "https://www.dnnk.dk/online-studietur/",
-    "VIP":                  "https://www.dnnk.dk/dnnk-vip/",
+    "VIP":                  "https://www.dnnk.dk/vip-vand-innovation-pitch-2/",
     "Oevrige":              "https://www.dnnk.dk/dnnk-arrangementer/"
 }
 
@@ -94,7 +94,18 @@ def _extract_video_ids(soup):
     return ids
 
 
-MAX_SUBPAGES = 20  # undersider pr. kategori (Masterclass har én side pr. event)
+MAX_SUBPAGES = 120  # undersider pr. kategori (Masterclass har én side pr. event)
+#
+# Hævet fra 20: undersiderne sorteres alfabetisk, og WordPress' datoarkiver
+# (/2022/09/05/) sorterer før alle bogstav-URL'er. På Konferencer gik 18 af
+# de 20 pladser til datoarkiver uden en eneste video, mens de navngivne
+# temadags- og konferencesider lå på plads 24-51 og aldrig blev hentet.
+# Målt: Konferencer gav 2 videoer med loft 20, 68 med loftet hævet.
+# Højeste reelle behov er i dag 51 undersider; 120 giver margin.
+
+# Datoarkiver (/2025/01/16/) indeholder kun links til indlæg, aldrig
+# YouTube-embeds. De optog 52 af 197 hentninger pr. kørsel til ingen nytte.
+DATE_ARCHIVE_RE = re.compile(r'/\d{4}/\d{2}(/\d{2})?/?$')
 
 
 def scrape_category_for_videos(category_url):
@@ -113,7 +124,8 @@ def scrape_category_for_videos(category_url):
             if ('dnnk.dk' in href and href.rstrip('/') != category_url.rstrip('/')
                     and not href.lower().endswith(('.pdf', '.jpg', '.png'))
                     and '#' not in href and '/category/' not in href
-                    and '/page/' not in href):
+                    and '/page/' not in href
+                    and not DATE_ARCHIVE_RE.search(href)):
                 sub_urls.append(href)
         for sub_url in sorted(set(sub_urls))[:MAX_SUBPAGES]:
             try:
