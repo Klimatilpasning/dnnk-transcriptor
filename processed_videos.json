@@ -653,8 +653,8 @@
     "last_attempt": "2026-08-06T17:15:18",
     "order_id": null,
     "category": "Godmorgen_med_DNNK",
-    "attempts": 3,
-    "note": "Transkriptor YouTube-transskription mislykkedes (juli 2026) OG ingen danske auto-undertekster paa YouTube. Kraever lyd-baseret transskription."
+    "attempts": 0,
+    "note": "nulstillet 25/8-2026: de oprindelige fejl kunne ikke skelnes fra midlertidigt YouTube-rate-limit. Pipelinen kan nu skelne, så videoen prøves igen."
   },
   "gJRis50HFVY": {
     "status": "done",
@@ -776,16 +776,16 @@
     "last_attempt": "2026-08-06T17:15:18",
     "order_id": null,
     "category": "Arrangementer",
-    "attempts": 3,
-    "note": "Transkriptor YouTube-transskription mislykkedes (juli 2026) OG ingen danske auto-undertekster paa YouTube. Kraever lyd-baseret transskription."
+    "attempts": 0,
+    "note": "nulstillet 25/8-2026: de oprindelige fejl kunne ikke skelnes fra midlertidigt YouTube-rate-limit. Pipelinen kan nu skelne, så videoen prøves igen."
   },
   "zQ7nBjYq6Mk": {
     "status": "failed",
     "last_attempt": "2026-08-06T17:15:18",
     "order_id": null,
     "category": "Arrangementer",
-    "attempts": 3,
-    "note": "Transkriptor YouTube-transskription mislykkedes (juli 2026) OG ingen danske auto-undertekster paa YouTube. Kraever lyd-baseret transskription."
+    "attempts": 0,
+    "note": "nulstillet 25/8-2026: de oprindelige fejl kunne ikke skelnes fra midlertidigt YouTube-rate-limit. Pipelinen kan nu skelne, så videoen prøves igen."
   },
   "twkCUP0a5ug": {
     "status": "done",
@@ -806,8 +806,8 @@
     "last_attempt": "2026-08-06T17:15:18",
     "order_id": null,
     "category": "Arrangementer",
-    "attempts": 3,
-    "note": "Transkriptor YouTube-transskription mislykkedes (juli 2026) OG ingen danske auto-undertekster paa YouTube. Kraever lyd-baseret transskription."
+    "attempts": 0,
+    "note": "nulstillet 25/8-2026: de oprindelige fejl kunne ikke skelnes fra midlertidigt YouTube-rate-limit. Pipelinen kan nu skelne, så videoen prøves igen."
   },
   "KG8mkJJZivE": {
     "status": "done",
@@ -821,24 +821,24 @@
     "last_attempt": "2026-08-06T17:15:18",
     "order_id": null,
     "category": "Arrangementer",
-    "attempts": 3,
-    "note": "Transkriptor YouTube-transskription mislykkedes (juli 2026) OG ingen danske auto-undertekster paa YouTube. Kraever lyd-baseret transskription."
+    "attempts": 0,
+    "note": "nulstillet 25/8-2026: de oprindelige fejl kunne ikke skelnes fra midlertidigt YouTube-rate-limit. Pipelinen kan nu skelne, så videoen prøves igen."
   },
   "RIUuChMy1hs": {
     "status": "failed",
     "last_attempt": "2026-08-06T17:15:18",
     "order_id": null,
     "category": "Arrangementer",
-    "attempts": 3,
-    "note": "Transkriptor YouTube-transskription mislykkedes (juli 2026) OG ingen danske auto-undertekster paa YouTube. Kraever lyd-baseret transskription."
+    "attempts": 0,
+    "note": "nulstillet 25/8-2026: de oprindelige fejl kunne ikke skelnes fra midlertidigt YouTube-rate-limit. Pipelinen kan nu skelne, så videoen prøves igen."
   },
   "DaKuQ9hKYF0": {
     "status": "failed",
     "last_attempt": "2026-08-06T17:15:18",
     "order_id": null,
     "category": "Arrangementer",
-    "attempts": 3,
-    "note": "Transkriptor YouTube-transskription mislykkedes (juli 2026) OG ingen danske auto-undertekster paa YouTube. Kraever lyd-baseret transskription."
+    "attempts": 0,
+    "note": "nulstillet 25/8-2026: de oprindelige fejl kunne ikke skelnes fra midlertidigt YouTube-rate-limit. Pipelinen kan nu skelne, så videoen prøves igen."
   },
   "uQuLL27W1D4": {
     "status": "done",
@@ -852,24 +852,24 @@
     "last_attempt": "2026-08-06T17:15:18",
     "order_id": null,
     "category": "Arrangementer",
-    "attempts": 3,
-    "note": "Transkriptor YouTube-transskription mislykkedes (juli 2026) OG ingen danske auto-undertekster paa YouTube. Kraever lyd-baseret transskription."
+    "attempts": 0,
+    "note": "nulstillet 25/8-2026: de oprindelige fejl kunne ikke skelnes fra midlertidigt YouTube-rate-limit. Pipelinen kan nu skelne, så videoen prøves igen."
   },
   "TYAN6ZpLxEQ": {
     "status": "failed",
     "last_attempt": "2026-08-06T17:15:18",
     "order_id": null,
     "category": "Arrangementer",
-    "attempts": 3,
-    "note": "Transkriptor YouTube-transskription mislykkedes (juli 2026) OG ingen danske auto-undertekster paa YouTube. Kraever lyd-baseret transskription."
+    "attempts": 0,
+    "note": "nulstillet 25/8-2026: de oprindelige fejl kunne ikke skelnes fra midlertidigt YouTube-rate-limit. Pipelinen kan nu skelne, så videoen prøves igen."
   },
   "e5n-rkdCyLI": {
     "status": "failed",
     "last_attempt": "2026-08-06T17:15:18",
     "order_id": null,
     "category": "Arrangementer",
-    "attempts": 3,
-    "note": "Transkriptor YouTube-transskription mislykkedes (juli 2026) OG ingen danske auto-undertekster paa YouTube. Kraever lyd-baseret transskription."
+    "attempts": 0,
+    "note": "nulstillet 25/8-2026: de oprindelige fejl kunne ikke skelnes fra midlertidigt YouTube-rate-limit. Pipelinen kan nu skelne, så videoen prøves igen."
   },
   "SFwbGrZ-Zjs": {
     "status": "done",
@@ -899,10 +899,13 @@
     "last_attempt": "2026-08-10T14:20:36"
   },
   "G_24ifZDlWk": {
-    "status": "failed",
-    "last_attempt": "2026-08-17T09:33:25",
-    "attempts": 3,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+    "status": "done",
+    "last_attempt": "2026-08-26T00:03:07",
+    "attempts": 0,
+    "note": "nulstillet 25/8-2026: de oprindelige fejl kunne ikke skelnes fra midlertidigt YouTube-rate-limit. Pipelinen kan nu skelne, så videoen prøves igen.",
+    "category": "Godmorgen_med_DNNK",
+    "kilde": "youtube-subs",
+    "order_id": null
   },
   "g7yhwOVYJYI": {
     "status": "done",

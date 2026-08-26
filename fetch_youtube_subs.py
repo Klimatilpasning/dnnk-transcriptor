@@ -31,6 +31,10 @@ TRANSCRIPTIONS_FOLDER = Path("transcriptions")
 STATE_FILE = "processed_videos.json"
 BLOCK_SECONDS = 30          # samme granularitet som Transkriptor-formatet
 SUB_LANGS = "da-orig,da"    # dansk original, ellers dansk
+# Prøves ÉT AD GANGEN. yt-dlp afbryder hele kaldet, hvis blot ét sprog i en
+# samlet --sub-langs-liste fejler, så et utilgængeligt da-orig forhindrede
+# før, at det fungerende da-spor overhovedet blev forsøgt.
+SUB_LANG_ORDER = ("da-orig", "da")
 
 
 # ── VTT-parsing ───────────────────────────────────────────────────────────────
@@ -115,29 +119,54 @@ def to_dnnk_format(cues: list[tuple[int, str]], block_seconds: int = BLOCK_SECON
 
 # ── YouTube ───────────────────────────────────────────────────────────────────
 
+class TransientSubsError(Exception):
+    """Midlertidig hindring — rate-limit, timeout eller IP-blokering.
+
+    SKAL holdes adskilt fra "videoen har ingen danske undertekster". Kalderen
+    tæller attempts op ved en rigtig fejl, og efter MAX_ATTEMPTS opgives
+    videoen permanent. Uden den skelnen kan et forbigående HTTP 429 låse en
+    video varigt ude af vidensbanken — hvilket ramte 10 videoer 6/8 2026.
+    """
+
+
 def fetch_subs(video_id: str) -> str | None:
-    """Hent danske auto-undertekster som VTT-tekst. None hvis de ikke findes."""
-    with tempfile.TemporaryDirectory() as tmp:
-        out = os.path.join(tmp, "sub")
-        cmd = [sys.executable, "-m", "yt_dlp", "--write-auto-subs",
-               "--sub-langs", SUB_LANGS, "--sub-format", "vtt",
-               "--skip-download", "--no-warnings", "-o", out,
-               f"https://youtube.com/watch?v={video_id}"]
-        try:
-            r = subprocess.run(cmd, capture_output=True, text=True, timeout=180)
-        except subprocess.TimeoutExpired:
-            print("      timeout ved hentning")
-            return None
-        if "Sign in to confirm" in (r.stdout + r.stderr):
-            print("      ❌ YouTube kræver login (datacenter-IP blokeret) — kør lokalt")
-            return None
-        # foretræk da-orig, ellers da
-        for suffix in (".da-orig.vtt", ".da.vtt"):
-            p = Path(tmp) / f"sub{suffix}"
+    """Hent danske auto-undertekster som VTT-tekst.
+
+    None = videoen har ingen danske undertekster (endeligt svar).
+    TransientSubsError = vi kunne ikke nå at spørge; prøv igen senere.
+    """
+    sidste_transient = None
+    for lang in SUB_LANG_ORDER:
+        with tempfile.TemporaryDirectory() as tmp:
+            out = os.path.join(tmp, "sub")
+            cmd = [sys.executable, "-m", "yt_dlp", "--write-auto-subs",
+                   "--sub-langs", lang, "--sub-format", "vtt",
+                   "--skip-download", "--no-warnings", "-o", out,
+                   f"https://youtube.com/watch?v={video_id}"]
+            try:
+                r = subprocess.run(cmd, capture_output=True, text=True,
+                                   timeout=180)
+            except subprocess.TimeoutExpired:
+                sidste_transient = TransientSubsError("timeout ved hentning")
+                continue
+            udskrift = r.stdout + r.stderr
+            if "Sign in to confirm" in udskrift:
+                sidste_transient = TransientSubsError(
+                    "YouTube kræver login (datacenter-IP blokeret) — kør lokalt")
+                continue
+            if "429" in udskrift or "Too Many Requests" in udskrift:
+                sidste_transient = TransientSubsError(
+                    "YouTube rate-limit (HTTP 429)")
+                continue
+            p = Path(tmp) / f"sub.{lang}.vtt"
             if p.exists():
                 return p.read_text(encoding="utf-8", errors="replace")
-        print("      ingen danske undertekster tilgængelige")
-        return None
+    if sidste_transient:
+        # Vi nåede aldrig et rigtigt svar for noget sprog — så vi VED ikke,
+        # om videoen har danske undertekster. Må ikke tælle som en fejl.
+        raise sidste_transient
+    print("      ingen danske undertekster tilgængelige")
+    return None
 
 
 def save(video_id: str, tekst: str, category: str) -> Path:
@@ -175,12 +204,20 @@ def main():
             print(f"  {v}  (status: {state.get(v, {}).get('status')})")
         return
 
-    ok = mangler = 0
+    ok = mangler = transient = 0
     for i, vid in enumerate(ids, 1):
         entry = state.get(vid, {})
         cat = entry.get("category") or "Oevrige"
         print(f"[{i}/{len(ids)}] {vid} ({cat})")
-        vtt = fetch_subs(vid)
+        try:
+            vtt = fetch_subs(vid)
+        except TransientSubsError as e:
+            # Rate-limit rammer typisk resten af batchen også, men lad de
+            # øvrige få deres forsøg. State røres ikke — videoen er hverken
+            # hentet eller fejlet, vi nåede bare aldrig at spørge.
+            print(f"      ⏳ {e} — prøv igen senere")
+            transient += 1
+            continue
         if not vtt:
             mangler += 1
             continue
@@ -199,6 +236,9 @@ def main():
         ok += 1
 
     print(f"\nFærdig: {ok} hentet, {mangler} uden brugbare undertekster")
+    if transient:
+        print(f"⏳ {transient} sprunget over pga. midlertidige hindringer "
+              f"(rate-limit/timeout) — kør kommandoen igen senere")
 
 
 if __name__ == "__main__":

@@ -43,7 +43,7 @@ CATEGORIES = {
     "Arrangementer":        "https://www.dnnk.dk/arrangementer/",
     "Vidensbank":           "https://www.dnnk.dk/category/vidensbank/",
     "Studieture":           "https://www.dnnk.dk/online-studietur/",
-    "VIP":                  "https://www.dnnk.dk/dnnk-vip/",
+    "VIP":                  "https://www.dnnk.dk/vip-vand-innovation-pitch-2/",
     "Oevrige":              "https://www.dnnk.dk/dnnk-arrangementer/"
 }
 
@@ -94,7 +94,18 @@ def _extract_video_ids(soup):
     return ids
 
 
-MAX_SUBPAGES = 20  # undersider pr. kategori (Masterclass har én side pr. event)
+MAX_SUBPAGES = 120  # undersider pr. kategori (Masterclass har én side pr. event)
+#
+# Hævet fra 20: undersiderne sorteres alfabetisk, og WordPress' datoarkiver
+# (/2022/09/05/) sorterer før alle bogstav-URL'er. På Konferencer gik 18 af
+# de 20 pladser til datoarkiver uden en eneste video, mens de navngivne
+# temadags- og konferencesider lå på plads 24-51 og aldrig blev hentet.
+# Målt: Konferencer gav 2 videoer med loft 20, 68 med loftet hævet.
+# Højeste reelle behov er i dag 51 undersider; 120 giver margin.
+
+# Datoarkiver (/2025/01/16/) indeholder kun links til indlæg, aldrig
+# YouTube-embeds. De optog 52 af 197 hentninger pr. kørsel til ingen nytte.
+DATE_ARCHIVE_RE = re.compile(r'/\d{4}/\d{2}(/\d{2})?/?$')
 
 
 def scrape_category_for_videos(category_url):
@@ -113,7 +124,8 @@ def scrape_category_for_videos(category_url):
             if ('dnnk.dk' in href and href.rstrip('/') != category_url.rstrip('/')
                     and not href.lower().endswith(('.pdf', '.jpg', '.png'))
                     and '#' not in href and '/category/' not in href
-                    and '/page/' not in href):
+                    and '/page/' not in href
+                    and not DATE_ARCHIVE_RE.search(href)):
                 sub_urls.append(href)
         for sub_url in sorted(set(sub_urls))[:MAX_SUBPAGES]:
             try:
@@ -128,6 +140,125 @@ def scrape_category_for_videos(category_url):
     except requests.RequestException as e:
         print(f"❌ Fejl ved scraping af {category_url}: {e}")
         return []
+
+WP_API = "https://www.dnnk.dk/wp-json"
+
+
+def _wp_alle(endpoint, felter):
+    """Paginér gennem et WordPress REST-endpoint til det løber tørt."""
+    ud, side = [], 1
+    headers = {"User-Agent": "Mozilla/5.0"}
+    while side <= 30:
+        try:
+            r = requests.get(f"{WP_API}/{endpoint}",
+                             params={"per_page": 100, "page": side,
+                                     "_fields": felter},
+                             timeout=40, headers=headers)
+        except requests.RequestException as e:
+            print(f"   ⚠️  {endpoint} side {side}: {e}")
+            break
+        if r.status_code != 200:
+            break            # 400 = ingen flere sider; det er den normale exit
+        try:
+            d = r.json()
+        except ValueError:
+            break
+        if not isinstance(d, list) or not d:
+            break
+        ud.extend(d)
+        side += 1
+    return ud
+
+
+def discover_via_rest():
+    """Alle YouTube-ID'er der er linket fra dnnk.dk, uanset hvor de står.
+
+    Kategorisidecrawlet kan kun nå sider der er linket fra én af de 11
+    kategorisider, og kun de første MAX_SUBPAGES af dem. Sider som
+    /digitale-vaerktoejer-til-klimatilpasning-risikokortlaegning/ er ikke
+    linket fra nogen kategoriside og var derfor uopnåelige uanset loft.
+
+    WordPress' eget REST API kender hvert indlæg, hver side og hvert event,
+    så det er en fuldstændig kilde. Returnerer {video_id: kildesidens_url}.
+    """
+    fundet = {}
+    for navn, endpoint in (("indlæg", "wp/v2/posts"), ("sider", "wp/v2/pages")):
+        poster = _wp_alle(endpoint, "link,content")
+        n = 0
+        for p in poster:
+            html = (p.get("content") or {}).get("rendered", "")
+            for vid in set(YOUTUBE_ID_RE.findall(html)):
+                fundet.setdefault(vid, p.get("link", ""))
+                n += 1
+        print(f"   REST {navn}: {len(poster)} poster, {n} video-referencer")
+
+    # The Events Calendar har sit eget endpoint og indgår ikke i wp/v2
+    side, events = 1, []
+    while side <= 20:
+        try:
+            r = requests.get(f"{WP_API}/tribe/events/v1/events",
+                             params={"per_page": 50, "page": side}, timeout=40,
+                             headers={"User-Agent": "Mozilla/5.0"})
+        except requests.RequestException:
+            break
+        if r.status_code != 200:
+            break
+        d = r.json().get("events", [])
+        if not d:
+            break
+        events.extend(d)
+        side += 1
+    for e in events:
+        html = (e.get("description") or "") + " " + (e.get("url") or "")
+        for vid in set(YOUTUBE_ID_RE.findall(html)):
+            fundet.setdefault(vid, e.get("url", ""))
+    print(f"   REST events: {len(events)} poster")
+    return fundet
+
+
+def discover_all_videos():
+    """Samlet opdagelse: kategorikravl først (giver kategorinavnet, som
+    bruges i filnavnet), derefter REST som sikkerhedsnet for alt det
+    crawlet ikke kan se. Returnerer {video_id: kategorinavn}."""
+    fundet = {}
+    for navn, url in CATEGORIES.items():
+        print(f"\n📂 Tjekker kategori: {navn}")
+        ids = scrape_category_for_videos(url)
+        print(f"   Fandt {len(ids)} videoer i alt")
+        for vid in ids:
+            fundet.setdefault(vid, navn)
+
+    print("\n🌐 Supplerer via WordPress REST API")
+    for vid, kilde in discover_via_rest().items():
+        if vid not in fundet:
+            # Ingen kategoriside kender den; udled et navn af kildesiden,
+            # så filnavnet stadig siger noget om hvor videoen hører hjemme.
+            fundet[vid] = _kategori_af_url(kilde)
+    return fundet
+
+
+def _kategori_af_url(url):
+    """Gæt en kategori ud fra kildesidens slug — kun til filnavnet."""
+    u = (url or "").lower()
+    for noegle, navn in (
+            ("tech-talk", "Tech_Talks"),
+            ("god-morgen", "Godmorgen_med_DNNK"),
+            ("godmorgen", "Godmorgen_med_DNNK"),
+            ("masterclass", "DNNK_Masterclass"),
+            ("jura", "Jura"),
+            ("fremtidsvaerksted", "Fremtidsvaerksted"),
+            ("vip", "VIP"),
+            ("studietur", "Studieture"),
+            ("temadag", "Konferencer"),
+            ("konference", "Konferencer"),
+            ("aarsmoede", "Konferencer"),
+            ("summit", "Konferencer"),
+            ("workshop", "Konferencer"),
+            ("webinar", "Oevrige")):
+        if noegle in u:
+            return navn
+    return "Oevrige"
+
 
 def api_headers():
     return {
@@ -190,7 +321,8 @@ def hent_undertekster(video_id):
     Primær transskriptionsvej: gratis og uden Transkriptor-minutter.
     Se fetch_youtube_subs.py for detaljer og manuel batch-kørsel."""
     try:
-        from fetch_youtube_subs import fetch_subs, parse_vtt, to_dnnk_format
+        from fetch_youtube_subs import (fetch_subs, parse_vtt, to_dnnk_format,
+                                        TransientSubsError)
     except ImportError:
         return None
     try:
@@ -199,9 +331,18 @@ def hent_undertekster(video_id):
             return None
         tekst = to_dnnk_format(parse_vtt(vtt))
         return tekst if len(tekst) >= 500 else None
+    except TransientSubsError:
+        raise          # midlertidig — main() må ikke tælle den som en fejl
     except Exception as e:
         print(f"      ⚠️ Undertekst-hentning fejlede ({e})")
         return None
+
+
+try:
+    from fetch_youtube_subs import TransientSubsError
+except ImportError:      # scriptet kan køre uden hjælpemodulet
+    class TransientSubsError(Exception):
+        pass
 
 
 class AuthError(Exception):
@@ -283,55 +424,59 @@ def main():
     # 1) Afgiv ordrer for ALLE nye videoer med det samme — Transkriptor
     #    transskriberer dem parallelt, mens vi venter samlet bagefter.
     orders_placed = 0
-    for category_name, category_url in CATEGORIES.items():
-        print(f"\n📂 Tjekker kategori: {category_name}")
-        video_ids = scrape_category_for_videos(category_url)
-        print(f"   Fandt {len(video_ids)} videoer i alt")
+    transient = 0
+    alle_videoer = discover_all_videos()
+    print(f"\n🔎 {len(alle_videoer)} videoer opdaget i alt\n")
 
-        for video_id in video_ids:
-            entry = state.get(video_id)
-            if entry:
-                if entry.get("status") in ("done", "pending"):
-                    continue
-                if entry.get("attempts", 0) >= MAX_ATTEMPTS:
-                    continue  # opgivet — undgå at betale for samme fejl hver dag
+    for video_id, category_name in alle_videoer.items():
+        entry = state.get(video_id)
+        if entry:
+            if entry.get("status") in ("done", "pending"):
+                continue
+            if entry.get("attempts", 0) >= MAX_ATTEMPTS:
+                continue  # opgivet — undgå at betale for samme fejl hver dag
 
-            if orders_placed >= MAX_NEW_PER_RUN:
-                print(f"   ⏸️ Loft på {MAX_NEW_PER_RUN} nye ordrer nået — resten tages næste kørsel")
-                break
+        if orders_placed >= MAX_NEW_PER_RUN:
+            print(f"   ⏸️ Loft på {MAX_NEW_PER_RUN} nye ordrer nået — resten tages næste kørsel")
+            break
 
-            print(f"   🆕 Ny video: {video_id}")
-            # 1a) FØRST: YouTube's egne danske auto-undertekster — gratis og
-            #     hurtigt. Transkriptors YouTube-transskription fejlede helt
-            #     i juli 2026, så undertekster er nu den primære vej.
+        print(f"   🆕 Ny video: {video_id}")
+        # 1a) FØRST: YouTube's egne danske auto-undertekster — gratis og
+        #     hurtigt. Transkriptors YouTube-transskription fejlede helt
+        #     i juli 2026, så undertekster er nu den primære vej.
+        try:
             tekst = hent_undertekster(video_id)
-            if tekst:
-                save_transcription(video_id, tekst, category_name)
-                mark(state, video_id, "done", order_id=None, kilde="youtube-subs")
-                print("      ✅ hentet via YouTube-undertekster (0 min forbrugt)")
-                continue
-
-            # 1b) Ellers: Transkriptor-ordre (koster minutter af kvoten).
-            #     SLÅET FRA som default: Transkriptors YouTube-transskription
-            #     fejlede 100%% i juli 2026 (YouTube blokerer datacenter-IP'er),
-            #     så ordrer ville kun brænde kvote. Sæt TRANSKRIPTOR_YOUTUBE=true
-            #     for at prøve igen, hvis de får det til at virke.
-            if os.environ.get("TRANSKRIPTOR_YOUTUBE", "").lower() not in ("1", "true", "yes"):
-                print("      ingen undertekster — Transkriptor-fallback er slået fra")
-                mark(state, video_id, "failed",
-                     note="ingen danske YouTube-undertekster; kræver lyd-transskription")
-                continue
-            print("      ingen undertekster — afgiver Transkriptor-ordre...")
-            order_id = start_order(f"https://youtube.com/watch?v={video_id}")
-            if order_id:
-                mark(state, video_id, "pending", order_id=order_id, category=category_name)
-                orders_placed += 1
-            else:
-                mark(state, video_id, "failed")
-            time.sleep(2)
-        else:
+        except TransientSubsError as e:
+            # Rate-limit eller IP-blokering: vi fik aldrig et svar på om
+            # videoen har undertekster. Lad state være urørt, så attempts
+            # ikke tælles op og videoen ikke opgives permanent.
+            print(f"      ⏳ midlertidig hindring ({e}) — prøves igen næste kørsel")
+            transient += 1
             continue
-        break  # loftet er nået — stop også ydre løkke
+        if tekst:
+            save_transcription(video_id, tekst, category_name)
+            mark(state, video_id, "done", order_id=None, kilde="youtube-subs")
+            print("      ✅ hentet via YouTube-undertekster (0 min forbrugt)")
+            continue
+
+        # 1b) Ellers: Transkriptor-ordre (koster minutter af kvoten).
+        #     SLÅET FRA som default: Transkriptors YouTube-transskription
+        #     fejlede 100%% i juli 2026 (YouTube blokerer datacenter-IP'er),
+        #     så ordrer ville kun brænde kvote. Sæt TRANSKRIPTOR_YOUTUBE=true
+        #     for at prøve igen, hvis de får det til at virke.
+        if os.environ.get("TRANSKRIPTOR_YOUTUBE", "").lower() not in ("1", "true", "yes"):
+            print("      ingen undertekster — Transkriptor-fallback er slået fra")
+            mark(state, video_id, "failed",
+                 note="ingen danske YouTube-undertekster; kræver lyd-transskription")
+            continue
+        print("      ingen undertekster — afgiver Transkriptor-ordre...")
+        order_id = start_order(f"https://youtube.com/watch?v={video_id}")
+        if order_id:
+            mark(state, video_id, "pending", order_id=order_id, category=category_name)
+            orders_placed += 1
+        else:
+            mark(state, video_id, "failed")
+        time.sleep(2)
 
     # 2) Saml alle færdige transskriptioner ind (også fra tidligere kørsler)
     collect_pending(state)
