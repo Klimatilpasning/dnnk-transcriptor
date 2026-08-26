@@ -1,0 +1,554 @@
+=== DNNK Webinar Transskription ===
+Kategori: Fremtidsvaerksted
+Video ID: aQepKpHghU4
+URL: https://youtube.com/watch?v=aQepKpHghU4
+Kilde: YouTube auto-undertekster (dansk)
+Transskriberet: 2026-08-25T18:52:44.317661
+
+==================================================
+
+00:00:00
+Men godmorgen og velkommen til. Øhm, mit navn er Id Marie Knudsen, og jeg kommer fra Rambøl, og jeg har fornøjelsen af at styre os igennem den næste halvanden time. Dagens program øh er planlagt i samarbejde med Birgitte Hoffmann fra Aalborg Universitet og ø og de gode folk i DNNK sekretariat. Øhm, Birgitte og jeg, vi er togholdere på DNKs fremtidsværksted og har i
+
+00:00:30
+gangsat den her seminarrække, der skal hjælpe os med at løfte blikket mod fremtiden og de udfordringer, ø, vi som professionelle indenfor klimatilpasning skal forholde os til. DNKS fremtidsværksted. Det er tænkt som et fritænkerum med en holistisk tilgang, hvor fagfolk kan blive inspireret, udfordrede og få et blik for fremtiden. Både udfordringerne og potentialet for for langsigtede muligheder, der kan blive en del af indsatsen for et klimatilpasset Danmark.
+
+00:01:00
+Fokus er ikke kun på nye teknologiske løsninger her og nu, men på et markant længere perspektiv, årtier måske århundreder, så klimatilpasningen tænkes ind som en samfundsopgave på tværs af sektorer og tid. Her i år der har DNNKs fremtidsværksted fire centrale temaer på programmet. Ø, det første tema, det har vi allerede afholdt lige her i slutningen af 25, men temaerne de spænder bredt og sætter fokus på natursyn i forandring, redesign af byer
+
+00:01:30
+og bosætning, som vi er her for i dag. Øh, så skal vi også se på sundhed og trivsel med nye perspektiver på vand og på fremtidige scenarier for kysterne i Danmark. Men dagens tema, det er som sagt redesign af byer og bosætning, velfærd inden for de planetære grænser. Øhm, byer og bosætninger, de står midt i et paradoks. Urbaniseringen fortsætter, men vi kan ikke løse fremtidens udfordringer ved bare vækste og bygge
+
+00:02:00
+mere. Spørgsmålet er i stedet, hvordan vi skaber velfærd, livskvalitet og robuste samfund indenfor jordens planetære grænser. ikke kun som relative forbedringer, men som absolutte rammer for handling. Oplæggene i dag introducerer perspektiver og tredesten for nye veje i byudviklingen, og hvad det betyder at bevæge sig fra tilpasning til resiliens, og hvordan øhm vi kan prioritere reparation og transformation og regenerativt design i den
+
+00:02:30
+eksisterende by. Øh, vi vil bevæge os fra nogle overordnede perspektiver på velfærd og livsformer i en dansk kontekst til noget konkrete værktøjer og principper for planlægning øh og beslutningstagning i virksomheder. Øhm, lidt om programmet sådan flowet for for den næste halvanden time. Birgitte Hoffmann fra Institut for bæredygtighed og planlægning. Hun vil åbne dagens tema med et kritisk blik på den eksisterende tilgang til bæredygtige byer øh og vil
+
+00:03:00
+pege på vigtigheden af at vi udvikler nogle nye billeder af livet i fremtidens bæredygtige byer med trivsel inden for de planetære grænser. Og herefter så har vi glæden af at møde Toke Havup Christensen, som er seniorforsker på Institut for byggeri miljø by og miljø på Aalborg Universitet. Øh, han ø han forsker i sammenhængen mellem vores hverdagspraksisser og ressourceforbrug. Og Toke, han har cyklet rundt i Danmark og mødt nogle mennesker, som byder på nogle alternativer til business as usual.
+
+00:03:30
+Øhm, programmet her introducerer også en konkret sådan analyse- og beslutningsværktøj, der hedder ABS Water, som viser, hvordan planetær grænser kan operationaliseres i praksis og bruges til at vurdere, om indsats reelt er tilstrækkelig. Og det er alt sammen med udgangspunkt i vand. Og det præsenteres af min kollega her i Rambøl, Trine Stagov Munk. Øh, og det er den sidste punkt i vores program eller sidste oplæg, det er øh øh
+
+00:04:00
+besøg fra Institut for Kunst og Kulturvidenskab. Og det er ikke et felt, som vi traditionelt trækker meget på, men det skal vi nok til, fordi at Ulrik Ekman fra Københavns Universitet har meget at bidrage med om fremtidens resilient samfund. Øh, og til sidst så runder vi alle oplæggene af med en en en kort paneldebat med spørgsmål fra jer øhm der har lyttet med undervejs. Og øh
+
+00:04:30
+i den hensende vil jeg faktisk rigtig gerne bede jer ø hvis I har nogle spørgsmål undervejs, så skrive dem i chatten, fordi så er det der til sidst øh øh hvor vi har afsat lidt tid øh til en ø en debat, at det er der vi tager spørgsmålene. Og i det hele taget, hvis I har også nogle ideer til ø noget vi skal tage fat på her i DNNK's fremtidsværksted, så skriv det gerne i chatten undervejs. Øhm. Ja. Og så tror jeg, at jeg vil
+
+00:05:00
+stoppe med at dele, og så vil jeg bede Birgitte om at træde op på scenen. Det prøver jeg på nu. Kan I se mine slides? &gt;&gt; Det kan vi, og vi kan også høre dig. &gt;&gt; Det lyder godt. Jamen, tak, Ida. Jeg er rigtig glad for at få lov at tage hul på det her seminar. Det er jo en meget høj grad, som jeg oplever det, et oplæg til en samtale om fremtidens klimatilpasning
+
+00:05:30
+og den rolle vi kan spille. Så det er jo ikke sådan et oplæg, som alle sammen handler handler direkte om øh om klimatilpasningsløsninger, men meget bredere om den sådan bæredygtige by og dens planlægning, så vi sammen kan få nogle være med til at skabe nogle billeder og en bæredygtig fremtid, som vi kan tale om ogog pejle med. Ja, mit navn er Git Hofmand. Jeg kommer fra Aalborg Universitet i København og arbejder i sådan en gruppe, der arbejder med planning for sustainability, hvor vi
+
+00:06:00
+har meget fokus på ø på simpelthen omstillingsprocesserne. Hvordan kan man også, når man sidder i en kommune, en forsyning øh hvordan kan man arbejde med omstilling ø i sin ø i den eksisterende praksis? Ja. Øhm og vi har nogle undervisningsprogrammer, jeg lige har nævnt her på forsiden, blandt andet bæredygtig design og sustainable cities. Og i dag har jeg faktisk et eksempel med for nogle studerende, som har arbejdet øh i et samarbejde med Køge Kommune. Det er fra bæredygtig design om fremtidens
+
+00:06:30
+bæredygtige parcelhus kvarter. Så det er et kvartersoplæg. Og Ida, du må du må jo stoppe mig, hvis jeg snakker for meget. Jeg har meget på hjertet her. Vi kender alle sammen problemerne. Ø, jeg har bare taget en tilfældig artikel med her øh som jo tegner nogle ret dystre biller af vores fremtid. Men det som jeg gerne vil sige med den, det er at ø det i meget høj grad handler om det her med ø billeder
+
+00:07:00
+af alternativer til business as usual. Kender vi alternativerne? Og det vil jeg gerne stille lidt spørgsmålstegn ved. Nu har jeg plukket nogle eksempler, og der er ikke nogen af de her byer, der skal føle sig særlig ramt, fordi det er det samme, vi ser både i andre kommuner og i andre steder i verden. Men den måde vi, man kan sige, de alternativer, vi i dag tilbyder til en bæredygtig udvikling øh slår slå næppe til. Altså det er da meget ø fint, at vi arbejder med nogle
+
+00:07:30
+teknologiske udviklinger. Om det så er i forhold til lavenergihuse eller nye måder at bruge vand på. Ø, det er ekstremt vigtigt, men slår det til som et bæredygtigt alternativ ude i fremtiden. Det vil jeg meget gerne stille spørgsmålstegn ved og sige en lille smule om det der med, hvad vil det egentlig sige at koble til at koble eller arbejde med med bæredygtig. Noget af de ting, som jeg vil lægge, som jeg rigtig gerne vil
+
+00:08:00
+have, vi arbejder meget mere med, det er den her kobling mellem øh øh vores miljøproblemer også de eller de planetære grænser og så vores velfærd. Og jeg synes, det er et kæmpe problem, at vi igennem ø årtier i Danmark og stadigvæk har et ekstremt fokus på bæredygtighed som alene et klimaproblem, og at vi alene af den grund jo også kigger på teknologi som en dominerende strategi. Og med Jeppe Læsø, min gode
+
+00:08:30
+gamle kollegas ord, så vil sige, jamen bæredygtighed, det er bare mere end miljø og klima, mere end affald og afkald. Men men det fokus betyder, at vi har det her enorme fokus på afkaldt det, vi ikke må. I stedet for et spændende eller et fokus på, hvad det er for et liv, vi kan leve inden for de planetære grænser. Og jeg trækker i øjeblikket en del på donutmodellen, som jeg har taget et billede med her, som jo er udviklet af Kate Ravwortth, som kobler de
+
+00:09:00
+plantære grænser til et socialt fundament. Og øh øh jeg vil ikke sige svar om den. Jeg ikke sikker sikker på I kender den. Men det jeg vil sige det er jeg har taget et billede med fra den analyse som universitetet leads laver de har gået ind i alle mulige samlet nationale data ind og prøver at lave det her billede. Og det her det er et billede på Danmark. Og øh og hvis man kigger der så er det jo meget tydeligt det ved vi. Vi overskrider de planetære grænser åndssvagt meget. Det er faktisk dybt
+
+00:09:30
+dybt problematisk. Men når hvis jeg kigger ind på det sociale fundament, som I kan se her, så er det bare lysegrønt. Hold op, hvor går det godt. Øh, så man kan sige, hvordan skal vi løse problemerne, når vi har en forestilling om, at det går bare virkelig virkelig godt på det sociale område? Og det, jeg mener, vi i meget højere grad bør i talesætte nogle af de sociale udfordringer, vi også har med stress og forskellige typer af sygdomme og det pres vi lever under, som især unge mennesker lever under. Så hvis vi
+
+00:10:00
+nu i meget højere grad kobler øh det her, det den her model er jo virkelig velegnet, når man gerne vil kigge på nogle af de udviklingslande, vi typisk kigger på og tænker, jamen de skal sørge også have vand og så videre. Og det mener jeg også, vi er nødt til at tage en solidaritet med en global udvikling. Men men den egner sig, eller man kan sige, vi har brug for nogle nye typer af oversættelser af, hvad er det sociale fundament i det rige nord. Det synes jeg er en ret spændende ø diskussion og
+
+00:10:30
+samtale, vi i meget højere grad må have. Og så vender jeg tit tilbage til en anden kobling, som jeg synes er rigtig vigtig, som er fuldstændig svigtet. Det er jo den gamle definition helt tilbage fra 1987 i vor fælles fremtid, hvor bæredygtighed blev defineret som i mødekommende nuværende generations behov uden at forhindre fremtidige generationer i at mødekomme deres behov. Og der må man bare sige, jamen det business as usual, den måde vi arbejder på i dag, det er jo et enormt svigt af
+
+00:11:00
+fremtidension. Altså jeg kan slet ikke sætte ord på hvor stort jeg synes det svigt er. Øh, så det er jo både et svigt over for den anden store del af verden, men altså også for fremtidens generation. Og jeg synes det er super spændende, hvordan vi som planlæggere i meget høj grad kan repræsentere fremtidens generationer i vores arbejde. Og jeg oplever faktisk i mit samarbejde med kommuner og forsyninger, at det egentlig er et ret legitimt argument, som også lokale politikere kan kan bruge, når de skal tage nogle
+
+00:11:30
+beslutninger, som måske er øh ikke er så nemme at tage. Så jeg synes, at vi i højere meget højere grad skal prøve at repræsentere og arbejde med fremtidens generationer i vores i vores arbejde. Ja. Øh, jeg tror ikke, jeg vil gå virkelig meget ind i den, men bare lige slå fast, at det der med ø med business as usual, det er jo et eller andet blik øh og der synes, hvor vi ligesom ikke har øjnene op for alternativer. Og den her figur er jo rigtig god til at vise
+
+00:12:00
+det. Altså vi står herude i i nutid eller I står her i nutiden og kigger ud i fremtiden. Og den midterste del af den, det er altså det her som er den mest sandsynlige eller det vi ligesom kan se. Det er de fremskrivninger af det der foregår i dag. Og det jeg som vi har brug for og som vi har en pligt til som professionel det er at prøve at åbne for alternativer og skabe biller af en ønskelig øh og nogle flere mulige fremtider. Og jeg har taget et rigtig godt citat med, som jeg synes giver mig også mig og
+
+00:12:30
+mine studerende sådan lidt power i den sammenhæng. The act of futuring, which we define as the identification, creation and dissemination of images of the future shaping the possibility space for action. Such imaginative work is a side of agency. Det er altså et handlingsrum, et stærkt sted at stå, hvor man faktisk har noget agents, hvis man begynder også at arbejde med at åbne fremtiden. Og det har jeg gjort sammen med nogle af
+
+00:13:00
+mine studerende på bæredygtig design på femte semester sammen med Køgekommunen. Og nu kommer jeg til at fortælle ultra kort om det arbejde, som ellers er virkelig, virkelig spændende, og som jeg også ved, at Køge Kommune sætter virkelig pris på, fordi det i høj grad også er med til at informere deres arbejde. Øh, vi arbejder simpelthen med at redesigne et øh et helt tilfældigt valgt parcelhuskvarter i Køge Kommune, som og parcelhuskvarteret er jo en dominerende livsform både i Danmark, men også
+
+00:13:30
+globalt. en forestilling om, at det er et meget attraktivt og den rigtige måde at leve på, som i meget høj grad er ikke bæredygtig. Det er der vores forbrug ligger. Det er der vores mobilitetsproblemer ligger. Øh, det er der, hvor vores økonomiske binding ligger. Og i det her kursus, der arbejder de studerende altså med at lave øh, det er ikke et kursus, det er et semesterprojekt. Der arbejder de med at lave en analyse af det, vi kalder business as usual. Hvordan vil ø udviklingen være, hvis vi bare arbejder
+
+00:14:00
+på den måde, vi plejer at gøre? Så arbejder vi i nogle koncepter eller scenarier for trivsel inden for de planetære grænser, nogle alternative billeder. Og til sidst så arbejder de også med en transition pathway, altså med implementering. Hvordan kan vi faktisk komme i den retning? Vi arbejder med boligformer, mobilitet, fødevarer, forbrug, klimatilpasning, energi og så videre. Og det er en invitation til en dialog om fremtidens bæredygtige liv, både på tværs af forvaltninger i Køge Kommune, som vi holder oplæg og
+
+00:14:30
+diskussioner sammen med, men også til borgerne og til en lang række andre aktører, som er involveret i det. Og så er det et sådan et samarbejde med Kø Kommune og en række andre parner også, som har prøv at sige, kan vi etablere et pilotprojekt, hvor vi faktisk kan eksperimentere og udvikle nogle nye fortællinger om et bæredygtigt kvartersområde. Og det er sådan et systemisk blik, for det er ikke bare et enkelt hus, vi laver ovenpå. Det er simpelthen et kvarter, og det er liv, der leves her.
+
+00:15:00
+Og bare for at komme med et eksempel fra en gruppe der arbejder med bygger med byggeri og bolig, så er det det de gør de på en eller anden de åbner det her business as usual altså og prøve at kigge på hvorfor er det vi ikke kan blive ved som vi gør og de har ikke kun fat i de miljømæssige ting. Jeg vil ikke gå ind i det og jeg synes det er super tarvligt at gøre det så kort over for dem for de har lavet et fantastisk stykke arbejde. Men ø de tager altså også fast i nogle af de sociale ting. Altså hvorfor er det at vi ved jo hvor mange mennesker der i dag er stressede.
+
+00:15:30
+Vi ved hvordan boligformen skaber ulighed og så videre. Så de laver øh forsøger at trække nogle koblinger her mellem den ø den sociale øh inderring og den ø den de planære grænser. Så laver de nogle typer af visioner. Jeg har taget en med som handler om mindre bolig mere liv. Det er en af de plakater de har lavet til Køge Kommune til et stort arrangement der skal være her i næste måned i Køge hvor der handler om at bygge med omtanke om at øh at ø
+
+00:16:00
+reducere. De har lavet sådan en strategi, hvor en en andel af husene skal deles. Ø de har regnet på, hvor mange det skal være. Hvordan kan man få en mere blandet liv? Hvordan kan man skabe større muligheder for folk at bo i fællesskab og blive boende i sit kvarter, men ikke alene i et stort hus, når man er ældre og så videre. De har arbejdet med rigtig mange forskellige boligformer her og også arbejder med at lave forskellige typer af fællesskaber i sådan et kvarter. Og så kan man sige, ja, det er jo meget
+
+00:16:30
+godt med sådan nogle visioner, og vi ved jo alle sammen, at ø som jeg også har et citat med her, planners are embedded with current institution and structures that have coevolved with earlier typically modern practices and are yet surrounded by pressures of new complex contemple. Contemporary problems at require novel practices. Altså som planlæggere, vi er jo nogle forskere her i dag, som jo sagtens kan sidde her og drible med fremtiden, men som Hvad gør
+
+00:17:00
+man, når man står som planlæggere og sidder op til halsen i eksisterende moderne praksiser, som jo som jo ikke er bæredygtige med budgetter, med sektorer, med bygningsreglementer og så videre? Hvordan hvordan er det vi kan drible med det? Det er den, det er jo den store udfordring også her. Samarbejdet mellem forskere og ø og kommune forsyning og rådgivere og sådan noget bliver så spændende og og vigtig. Og man kan sige noget af det, som jeg vil sige her til sidst, hvis jeg har mere tid efterhånden, det er jo sige, hvad er det så for nogle af de her pathways, som man
+
+00:17:30
+kan arbejde med? Og det her, det er bare et billede af nogle af de pathways, som den her de her studerende har arbejdet med. Altså, hvor det handler om, hvordan kan vi komme i gang med det her? De har en retning. Hvad er det for nogle skridt, vi skal tage? Hvordan kan vi lave nogle tredesten? Og det handler meget om at mobilisere nogle nye typer af aktører og lave nogle nye typer af værdisætninger og forretningsmodeller. Og det er et meget fantastisk arbejde, de studerende har været her. Det vil jeg lige gå lidt videre med. Øh, Kate Rowworth, hun ø, som jo står bag den kobling, der er mellem de
+
+00:18:00
+planetære grænser og det med det sociale fundament. Hun siger, jamen to altså to reimagine progress. Altså hun stiller spørgsmålstegn ved det her grøn ved vækstparadigmet og siger, hvis vi skal forstå øh fremskridt, så bliver vi også nødt til at lave en nye en serie af nye indikatorer. Det er noget af det, jeg selv arbejder virkelig virkelig meget med. Nye indikator for den bæredygtige by ændrer jo også, hvordan vi forstår nutiden. Hvad er rigtigt, muligt, dyrt og umuligt? Og hvordan vil vi vurdere
+
+00:18:30
+velfærd i fremtiden? Det er enormt vigtigt, at vi begynder at arbejde med nye former for indikatorer. Selv har jeg arbejdet rigtig meget med vejlandskaber her, altså med sige, jamen hvorfor er det, vi tager for givet, at en forstad ser sådan her ud, og hvis vi skal klimatilpasse, så er det jo en ekstrem vigtig arena. og spændende arena for at øh at arbejde anderledes. Vi skal i jorden, vi skal investere rigtig mange penge. Vi bliver nødt til at åbne det her ø den her forestilling om, hvordan
+
+00:19:00
+sådan en forstad ser ud. Øh og koble til for eksempel ø børneliv, et aktivt og autonomt børneliv, som hvor børn ikke bliver kørt i skole hver dag, som jo også er en ekstrem kontrol af børn. Altså hvordan får vi noget mere autonomi i børns liv? kobling til ensomhed, rehabilitering, trivsel. Hvordan ser fremtidens by ud som inviterer til at deltage, ikke? En traditionel gade og en alternativ. Altså vi er blevet nødt til at bryde den her asfalt op og prøve at tænke på nogle andre måder og opstille
+
+00:19:30
+nogle nye indikatorer, hvordan byen ser ud. Så det er ikke nok med innovation. Det er altså også vigtigt, at vi går ind i en redesign, identificere, hvor der er de her cracks, som vi kan tage fat i og og arbejde videre med. Og en af dem, som mange af mine kollegaer jo arbejder med os selv, det er jo for eksempel fortælling om bilen. Altså forestilling om bilen som frihed og som er nødvendig i vores praksis. Det er den selvfølgelig mange steder i Danmark, men der er også et meget stort antal af vores ø kilometer eller vores rejser, som er
+
+00:20:00
+ganske korte, og rigtig mange af os, som bor nogle steder, hvor vi måske ø kan nøjes med at bruge en bil en gang igennem. sådan nogle nye fortællinger om om bilen. Så jeg synes, vi som professionel kan gå ind i at åbne det, som vi tager for givet i de ikke bæredygtige praksiser. Altså hvad hvordan er det egentlig en bil bliver brugt? Jeg vil ikke gå ind i nogle af de her tal, men der er jo ekstremt mange vigtige tal at tage hul på og fortællinger om om bilen, som ligesom destabiliserer det eksisterende mobilitetsregime.
+
+00:20:30
+&gt;&gt; Du må gerne til at runde af, Birgit. &gt;&gt; Aktiv. Det gør jeg nemlig nu. Super. Så det er aktivt at prøve at skabe nogle nye koblinger og nye værdisætninger øh omkring der så som kan konkurrere med de eksisterende værdisætninger. Og for eksempel Health Streets for London arbejder jo med koblinger til sundhed. Men det er jo så det er jo sådan noget med at prøve at lave nogle nye nogle nye fortællinger om hvad er asfalt værd inde i en by for eksempel. Hvad hvad kan sådan nogle arealer bruges til? Øh og give det nogle navne. Her har jeg
+
+00:21:00
+arbejdet meget med fremtidens vejlandskaber. Det vil jeg ikke gå mere ind i. Men slutte af med at sige et af de principper, som som måske kunne arbejde med, som jeg tror, vi måske kunne tage op i den kommende seminar, det er jo sådan et princip som 15 minutsbyen, som sætter nogle helt andre øh værdier op i vores planlægning. Nogle andre typer indikatorer, som vi kan arbejde med. Så jeg vil bare slutte af med en af mine en af mine andre helte. In order to extend the possible, it's necessary to proclaim and desire the
+
+00:21:30
+impossible. Action and strategy consist of making possible tomorrow what is impossible today. Ja, så trækker lige vejret nu her. &gt;&gt; Ja, &gt;&gt; det var en smuk afslutning. Det passede perfekt. Tak, Birgitte. &gt;&gt; Meget inspirerende og dejligt med at se de her studerendes arbejde. Det synes jeg, du har helt ret i, at de det måske fortjener lidt mere tid. Men det kan vi jo også overveje som en øh en en del af &gt;&gt; Morten. Nå jo, der sådan. Jeg skulle
+
+00:22:00
+lige have hjælp til sådan. &gt;&gt; Ja. Øhm. Men tak Birgitte og som sagt øh som nævnt til at starte med, har man spørgsmål, så skriv dem gerne i chatten, fordi der er afsat tid ø til sidst efter oplæggene til øh øh en lille en lille tid til refleksion ø og og debat med oplægsholderne. Så skriv gerne i chatten, hvis I har nogle spørgsmål. Men så vil jeg gerne byde velkommen til næste oplægsholder ø som er Toke også
+
+00:22:30
+fra fra Aalborg Universitet fra fra Build. Øhm og vi glæder os til at høre om din cykeltur som blev til en bog og alt det der kom ud af det så men værsgo. Øh øh scenen er din. Du deler bare. &gt;&gt; Jamen tak tak for det. Nu skal jeg lige se om jeg kan finde min lad os nu se lige nu. Hvor blev den af? Der var den. Øhm. Yes. Jamen øhm tak for invitationen til at komme og holde et oplæg her og ø også
+
+00:23:00
+for introduktionen ogog spændende oplæg omkring de studerendes opgave. Det var også meget inspirerende det der med casen for Køge der synes jeg og parcelhusvarteret. Og altså øhm sådan indledningsvis ja mit navn er Tavstrup Bach Christensen og jeg er seniorforsker på Aalborg Universitet på Build. Øhm, så vi har lidt en overrepræsentation af folk fra Aalborg Universitet, fornemmer jeg i dag. I hvert fald vi er to i dag. Øh, og øhm, og altså øhm udover hvad forskere som man nu er og undervis og den slags, så
+
+00:23:30
+tog jeg jo i øh 23 tog på cykeltur. Jeg tog overlov i tre måneder, der skulle ske noget nyt. Ø, en afveksling fra hverdagen, og så tog jeg på en cykeltur fra Hurup i Ty til Hellerup ved, hvad hedder det nu, ved København. Og ø på den tur der besøgte jeg folk der på en eller anden måde havde reduceret forbruget. Og det vil jeg sige ø i dag det taler meget godt ind i noget af det som Birgitte var inde på. Altså faktisk meget essentielt omkring det her med ø
+
+00:24:00
+genforestille eller genfortrydle eller gentænke fremtiden. Have nogle billeder. Ø jeg plejer at sige selv at ø på mange måder lever vi i en tid hvor at det er ligesom vi har frostne landskaber når vi taler om hvordan kan fremtiden se ud. Det er ligesom om det er låst fast i et bestemt forløb som vi så følger det der business as usual. Det er lidt ligesom frostne landskaber. Vi har jo ligesom brug for at have nogle billeder og ideer, der ligesom tyrer landskaberne lidt op og skaber noget samfundsfantasi. Altså hvor man ligesom kan se, at der kunne være andre veje at gå. Og hvis vi
+
+00:24:30
+ville ønske at gå de veje, hvad kan vi så gøre for at bevæge os de veje der? Øhm. Og øh og der er det jo virkelig spændende også at få lov til at holde et oplæg i det her fora her, fordi det er jo også et sted, hvor at der sidder mange mennesker og arbejder med de essentielle og ekstremt vigtige ting omkring, hvordan vi organiserer byerne og skaber det materielle rum, som jo er med til at forme vores liv. Så men man kan sige at min cykeltur handlede og mit bogprojekt af den bog jeg udgav som hedder No fra overflod til trivsel
+
+00:25:00
+handlede kan man sige om at ligesom skabe prøve at opsøge og skabe nogle ø billeder på hvordan en fremtid også kunne se ud hvor vi lever inden for klodens grænser i forhold til økologi og i forhold til klima og så videre og ressourceforbrug og øh det tapper jeg også ind i et spørgsmål omkring hvad hvad er det gode liv fordi et eller andet sted så kan man sige vi har jo en en øh Vi vi styres jo efter nogle idealer eller nogle forestillinger om, hvordan tingene skal udvikle sig, som er låst fast igen frosset fast i nogle bestemte
+
+00:25:30
+forestillinger om, at vi skal have økonomisk vækst og så videre og så videre. Og det skal ligesom fungere på den måde. Øh, og måske kan man sige også med Kate Ravth og andre sige, at vi ligesom har tabt lidt fokus på, hvad det er det essentielle i vores liv. Altså, hvad er det, hvad er det, der skaber velfærd og trivsel for mennesker, og hvordan når vi til et punkt, hvor vi har en høj trivsel, samtidig med, at vi også holder os indenfor de planetære grænser. Men mit oplæg, det kommer altså til at kræse om det spørgsmål, men ø helt indledningsvist vil jeg lige sige lidt omkring det der med velstand og velfærd.
+
+00:26:00
+Lå også i titlen, som jeg husker det, på oplægget her. Og øh og det er jo sådan at I kender jo de her undersøgelser af, hvor man spørger hvordan til folks livskvalitet, og det er en af de der type undersøgelser, hvor vi tit rangerer ret højt i Danmark på selvvurderet livskvalitet. Ø gør man jo altså i rigtig mange lande og spørger til det. Og hvis man sætter det op i forhold til vores indkomst her målt af x-aksen på dollar per indbygger, så kan man se, at der er jo selvfølgelig en sammenhæng mellem om man er meget fattig, har meget lav indkomst og så
+
+00:26:30
+også oplevet livskvalitet. Det er klart, hvis man lever i fattigdom, så påvirker det ens livsmuligheder øh også på samfundsplan. Men omvendt, når man kommer over et vist niveau, som måske øh ligger der omkring de 4050.000 1000 dollar om året per indbygger, så flader effekten ud, og så bliver det næsten ligegyldigt med øget indkomst. Faktisk flager det lidt op og ned, når man går længere og længere op i indkomst. Og der ligger Danmark jo sådan lunt i svinget, kan man sige. Øh, godt med høj livskvalitet, men også med en høj indtægt. Ø, så så for det første kan man
+
+00:27:00
+sige, at den kobling, som man historisk har sat mellem velstand og livskvalitet, den kan i hvert fald udfordres. Øh, og der kan være andre veje at søge ind. Og og min cyeltur, som jo handlede meget om at tabe med de her mennesker, der har gjort noget anderledes. Ø, og den bog jeg har skrevet tager fat på ligesom tre indgange til spørgsmål om nye vej til trivsel. Det er lavere forbrug ø og hvad det kan give jer af muligheder også. Ø, så er det også spørgsmål om mindre arbejde, som også er koblet til det med lavere forbrug, fordi hvis man forbruger mindre og har lavere udgifter, så kan
+
+00:27:30
+man også arbejde mindre. Ø, og så interesserede jeg mig en hel del for også for det her med levende lokalt samfund og fællesskaber som en dimension af det. Og ø hvis jeg starte med også lige jeg bruger det her begreb tilstrækkelighed eller sufficiency, som er sådan et begreb der er på vej frem i forskningen generelt internationalt ø så vil jeg lige sige kort om hvad det er. Og det er et begreb der ligger så meget i forlængelse af bæredygtighedsbegrebet og trivselsøkonomi og andre begreber. Der findes heldigvis efterhånden mange begreber om noget af det samme, men men det som tilstrækkelighed gør er også at
+
+00:28:00
+sætte specielt fokus på det med forbrugets størrelse og netop som Birgitte var inde på og sige at vi kan ikke løse problemet alene gennem teknologisk udvikling, fordi det er selvfølgelig vigtigt med teknologisk udvikling og øget effektivitet, men det er ligesom noget der skal suppleres af et fokus på hvor meget vi egentlig forbruger i vores samfund. Og Thomas Prinson, han formulerede det sådan at han var en af de første der talte om sufficiency. Han formulerede det på den måde at ø på individniveau udgør sufficiency tilstanden, hvor man hverken har for meget eller for lidt, men lige tilpas til at man trives. Og tilsvarende
+
+00:28:30
+handler sufficiency på et kollektivt plan om at indrette samfundet. Så alle mennesker har lige tilpas til at kunne leve godt nu og langt ind i fremtiden. Og det var også det, som Birgitte var inde på med det lange perspektiv her over generationerne. Så altså vi skal forbruge meget mindre end vi gør i dag, kan man sige. Og alle skal have nok til at kunne trives ø også i resten af verden. Og samtidig handler det om at sætte menneskers trivs i centrum. Det er ligesom grundtanken i det her sufficiency begreb. Så hvad er så, hvis jeg skal sige et par ord
+
+00:29:00
+omkring, hvad er det her med velfærd? Hvad er så det for en størrelse? Og øhm altså der findes jo heldigvis en del forskning på området, og mange mennesker har nok også en generel intuitiv forståelse af, hvad trivsel egentlig er. Heldigvis fordi det, når man læser forskningen på området, kan man godt nogle gange øh forekomme, at det ligesom på en måde kommer til at lyde lidt banalt nogle gange det man når frem til. Så kan man sige, hvorfor har de her mennesker brugt så lang tid på at nå frem til nogle simple ting? Men på den anden side er det jo lidt som om, at vi i vores samfundsindretning og politik
+
+00:29:30
+måske nogle gange glemmer, hvad der er det banale, nemlig hvad er det gode liv egentlig? Øh, og bliver optaget mere institutionerne, vi har bygget op og sørge for institutionerne fungerer og så videre og så videre. Og det som forskningen vil sådan på tværs af forskellige discipliner ligesom pare typisk ind på, det er at vores behov eller hvad der ligesom er essentielt for at leve et godt liv, det handler om at kunne indgå et aktivt og ligeværdigt de sociale relationer med andre. Det handler om at have et godt helbred selvfølgelig også. Det er også en dimension af at have trivsel, men øh det
+
+00:30:00
+det er altså grundlæggende et godt helbred. Og hvis man ikke har så i hvert fald møde den omsorg for andre eller for samfundet, som hjælper en til at leve godt, og så også at kunne bestemme over ens eget liv i en eller anden udstrækning. Det er selvfølgelig ikke et, det er jo ikke sådan en en ultraliberalistisk ide om vi så bare selv bestemmer, men det er selvfølgelig sammenhæng med andre mennesker, men alligevel have en oplevelse af, at vi har nogle valgmuligheder i vores liv og kan foretage nogle valg ud fra. Og det er ligesom kogt helt ned til sin essens. De er ligesom tre grundpiller for for et godt liv, kan man sige. Hvis man ser på
+
+00:30:30
+forskningen for eksempel her en Doyler Gof ø i gof her. Øh og det bekræftes jo også det her med det sociale, som er ret essentielt bekræftes jo for eksempel mange studier, men seneste i Danmark jo af Redages store livskvalitetsstudie fra sidste år, hvor de jo spurgte til hvad var det 5 10.000 1000 danskere eller hvor mange det nu var, jeg kan ikke huske tallet, øh, spurgte til deres oplevede livskvalitet på en skala fra nul til 10, og så satte det op i forhold til en hel masse andre parametre. Og det viser for eksempel her systematisk, at
+
+00:31:00
+hvor meget vi ser andre mennesker spiller en ret stor rolle for den oplevede livskvalitet. Og her er det jo så også værd at bemærke, at sådan noget som naboer øh der har været sådan nogle serier på TV2 om nabokrig og sådan noget, men uanset hvad så ser det dog ud til at på helt overordnet set, så er naboer en god ting at have en relation til, og det er vel at mærke i en relation her i deres studie, som er på nede på niveauet med at bare hilse på henover hækken og sige goddag og sådan noget. Men det har altså også en effekt for folks oplevede livskvalitet.
+
+00:31:30
+Så det peger på det her med at lokalsamfund også og de lokale foreninger og det foreningsliv har en ret stor betydning for vores livskvalitet generelt. Øh når jeg så var på den her cykeltur, hvor jeg så talte med folk der på den en eller anden måde havde var gået ned i forbrug typisk som en del i en strategi, der handlede om også at arbejde mindre eller arbejde på en anden måde. Så kan man sige ø nu kan jeg jo ikke komme igennem alle de eksempler jeg havde, men ø nu skal jeg lige fjerne en ting her, så jeg selv kan se det. Yes. Godt. Øhm, men så kan man
+
+00:32:00
+sige, at øh det gennemgående var at ø igennem de 14 samtaler, jeg havde på turen, det var, at det handler om mening i hverdagen for de her mennesker og også i deres produktiv skabende arbejde. Uanset om det egentlig er i det lønnede arbejde eller om det er i det frivillige arbejde eller deres eget liv. Øh, det praktiske spiller også en stor rolle for mange. Det her med at de måske savnede lidt mere praktisk arbejde at kunne have en have eller gøre nogle ting, som ligesom skabte noget fysisk og konkret i modsæ
+
+00:32:30
+til meget arbejdsliv, der jo i dag er meget computerbaseret og så videre. Det handlede også for flere af dem om at finde en rytme i hverdagen, som pass deres egen krop. Og det er jo egentlig også lidt pussig det her med, og man hører meget det her med, at man ligesom skal restituere, når man har fri fra sit arbejde. Altså den der ide om, at arbejde er sådan noget, der slider os ned, og så skal vi lades op igen, når vi har fri, og så skal vi slide ned igen, når vi møder på arbejde og så videre. Der er nogle sjove logikker omkring det egentlig også, når man tænker over det. Og så handler det også meget om det her med ro i livet og så tid til familien og samvær med andre. Det var sådan nogle af
+
+00:33:00
+de her sådens centrale temaer. Nu skal jeg se, om jeg kan få den til at fungere igen. Yes. Et eksempel på det. Øh, jeg kan selvfølgelig, jeg kan kun give desværre kun give et et enkelt eksempel, og det bliver også lidt hurtigt, og det er lidt uretfærdigt, kan man sige. Lidt ligesom Birgites studenter, så er det også lidt uretfærdigt over for den det her eksempel og case. Eksempel på det er fra Braband ved Aarhus, hvor at ø Signoria Joffy her, som vi ser her til ven højre, hun er direktør for et firma, der hedder
+
+00:33:30
+Seal, som arbejder meget med at udvikle forretningsmodeller for virksomheder i forhold til ø til bæredygtig udvikling og bæredygtig, kan man sige business i den forstand. Hun var ude for for en fem seks år siden for at vælteog slå hovedet og det gav en hjernerystelse. Og det var anledning til hun begynder at gentænke det her med forholdet omkring hvordan er arbejdslivet og forholdet mellem arbejdslivet og fritidslivet på hun som hun siger at den her hjernerystelse det gjorde altså at hun pludselig ikke kunne så meget mere som hun kunne før øh helt
+
+00:34:00
+kognitivt. Og hun ser det her med at ø da hun havde den her hjernerystrystelse der kunne hun mærke på egen krop og konstatere at det ville være godt for alle hvis der var tid til fordybel sig til at restituere sig og alle ville have en fordel af at arbejde fire dage i stedet for fem dage om ugen. Det var sådan hendes tanke. Og det indførte hun så øh så indførte hun for virksomheden og for sig selv at fremover skulle det kun arbejde mandag til torsdag og de arbejdede så de færre timer som det svarede til at fjerne en fredag. Ø, og så siger hun også, at det gik op for mig, at førhen var lørdagen ligesom
+
+00:34:30
+en landingsbane for arbejdsugen med en ekstra fridag kommer jeg ned i et andet gear, fordi landingsbanen pludselig bliver længere på grund af, at man har fredagen, og man har fredagen til at lande på. Og ø og hvordan påvirkede det så forbruget, kan man så sige? Altså en af de ting som hundene var inde på, det var at de før havde måltidskasser for at ligesom få ting til at hænge sammen i hverdagen med tid og arbejde og så videre. Men det kunne de afskaffe nu. Nu kunne de have tid til at lave maden selv. Og de havde også nu bor de så i Aarhus, så der er selvfølgelig nemmere mulighed for at klare sig uden bil. Men de fandt ud af, at de kan også undvære deres biler, fordi nu havde de mere tid i hverdagen
+
+00:35:00
+til også ligesom at transportere sig på cykel og tage det lidt mere roligt på den måde. Så hun havde sådan et eksempel på, hvordan man ligesom ø opnår noget ved også at arbejde mindre. Og jeg spurgte så også dem, der var ansat øh i virksomheden ø hvad hvad de oplevede, og det nogle af de ord de sagde, det var sådan noget som at man kunne bedre omfarvne livet på mere dybtgående måder. når man havde mere fri. Ø Christine, hun var aktiv i møderhjælpen og brugte fredagen på at være hjælpe dem med deres sociale medier og de her lidt ældre
+
+00:35:30
+damer. De var meget glade for hendes ø arbejde. Og hun som hun selv sagde at det kunne hun nok ikke have haft tid til hvis hvis hun ikke havde haft fri om fredagen. Øh og så så det er nogle historier om hvordan folk de ligesom før får et mere øh et bedre livskvalitet af at arbejde mindre i det her tilfælde her. Og når man kan sige bare lige for at afslutte den her, så er det også, når jeg interesser for det her med arbejdstiden, handler det om at det at arbejde mindre jo også hænger sammen med at producere mindre og tjene mindre. Og dermed også et spørgsmål om et samfund, hvor vi har et mindre materielt forbrug.
+
+00:36:00
+Øh, så man kan sige, man taber noget i indkomst, kan man sige, og forbrugsmuligheder ved at arbejde mindre. Men til gengæld vinder man jo så også noget i form af et tidsoverskud, som man kan bruge på andre typer aktiviteter, som jo også er skabende. Altså social omsorg for eksempel for andre, enten det er familien eller møderhjælpen, er jo også en form for arbejde, kan man sige, der bidrager til samfundet. Så det er jo ikke nødvendigvis fordi at bare fordi man arbejder mindre i det formelle økonomi, at man dermed nødvendigvis bidrager mindre til den samlede samfundsværdi.
+
+00:36:30
+Øhm, men altså tilstrækkelighed og byens udvikling, det var jo ligesom den bundne opgave i dag også, fordi og der er jeg jo lidt på udebane, fordi jeg er jo ikke som sådan ø ekspert i byers udvikling, jeg arbejder mere inden for det her med hverdagsliv og praksis og forbrug, men jeg har alligevel prøvet at tage udfordringen op og tænke lidt videre omkring det her med hvad kan hvad kunne man bruge nogle af de ting jeg sådan har de indsigter jeg fik fra cykelturen og forskningen her. Hvad kunne det sige noget omkring byens udvikling? Og en af de ting som i hvert fald øh
+
+00:37:00
+står klart både fra forskningen og det her med hvad hvad giver livskvalitet relationer til andre, men også det her med hvad kan lokalt samfundet betyde af en rolle i en bæredygtig omstilling. Det handler om det her med altså hvis man for eksempel fik mere tid på hænderne, kunne det være en måde også at omsætte noget af den tid til at være aktiv i det lokale samfund og skabe nogle ø lokalt samfund der er mere livskraftige end man hed i lang tid. Øh, og det kan både handle om fællesskaber, der fungerer i forhold til omstilling, fordi den her omstilling til bæredygtighed er en kompliceret omstilling, som kommer til
+
+00:37:30
+at ind gribe ind i vores liv og så videre. Så derfor øh er det en måde man kan sige grønne nabofællesskaber er for eksempel eksempel på hvor nogle b almindelige borgere i en eller anden udstrækning tager fat om sagen og selv eksperimentere med og udfordre i fællesskab hvordan kan man leve anderledes og gøre ting anderledes og så er der selvfølgelig også hele resiliensbegrebet som jo er kommet meget op i de her år som handler om også i forhold til klimatilpasning men også alt muligt andet som handler om hvordan at i virkeligheden så er det lokale fællesskab er nog noget af den stærkeste ressource i forhold til at kunne håndtere kan man sige stød eller tryk
+
+00:38:00
+udefra har i forhold til ændrede i praksis og så videre. Og et eksempel jeg havde på sykturen, det var de her mænd her og andre, som frivilligt etablerede en halvanden kilometer lang cykelsti efter at kommunen i mange år havde argumenteret for at eller havde lovet dem en cykelsti, som skulle forbinde deres lokalby, Ydeby, med Huup. Det ligger i Ty. Øhm, sådan at børnene kunne cykle sikkert til skole, og der kom jo aldrig penge i kommunekassen til den slags. Og så endte det så med, at borgerne selv gik sammen om at lave det og fik 140.000, 1000 tror jeg det var
+
+00:38:30
+for kommunen til at finansiere udgifterne. Og så fik de altså over et par weekender lavet en cykelsti på halvanden kilometer, hvilket er jo sådan næsten rørende historie om hvordan hvad altså hvordan man kan tage ting i egen hånd kan man sige og skabe noget. Men det det rækker måske også længere ud fordi det handler måske også om at øh nu skal jeg se at runde af kan jeg se også men øh jeg et minuts tid mere så er jeg færdig. Øh, men altså det her med at det handler måske ikke kun omstilling og resiliens, men det handler også om livskvalitet i den forstand at øh at ø
+
+00:39:00
+jeg taler meget om at vi har et samfund hvor vi har ø meget fokus på familien, vi har meget fokus på arbejdslivet. Det er ligesom de to der ting der fylder meget. Men hvad der siden 80'erne er er blevet udtømt af tid, når vi bruger vores tid, det er faktisk relationen til venner og til naboer og så videre. Den tid er faktisk halveret siden 80'erne. Vi bruger meget mindre tid i dag sammen med andre mennesker end dem vi arbejder med og dem vi er i familie med tæt på. Og det er faktisk et tab jeg argumenter for i bogen i hvert fald. Det er jeg
+
+00:39:30
+kalder det det tredje tyngdepunkt i tilværelsen. Det vil sige der hvor man ligesom også spejler sig i andre mennesker som ikke er intim nære på en eller som er sådan lidt mere formelle relationer på arbejdspladsen. Og det var et eksempel på det. Det var at jeg talte med ham her Søren Wester, ikke om hans have, men til gengæld om hans engagement i Teeses lokale foreningsliv, og hvor han siger det her med at når man har bidraget med noget i en forening, og man ligesom bagefter bliver takket for ens indsats, det betyder rigtig meget for ham og for de her mennesker, der er aktive. Altså det skaber også en værdi i tilværelsen, som det kunne være værd at
+
+00:40:00
+prioritere højere end end øde forbrug for eksempel. Og øhm så øh den øh allersidste slide jeg har øh det er så også fordi at øh at jeg jo så i det seneste stykke tid begyndt at interessere mig også på det her med hvordan når vi nu har skabt et samfund der i den grad er bygget omkring et højt forbrug øh og den praksis der knytter sig til med motorveje og veje og byer der med parcelhus som Birgitte nævnte og så videre. Hvad gør vi så? Fordi vi kan jo ikke hive alt det der ned og så bygge
+
+00:40:30
+det helt nyt, som vi skulle have gjort det for 30, 40, 50, 100 år siden. Øh, men ø vi lever altså i et samfund, der i den grad er bygget op omkring et meget stort fossilt energiforbrug, og vi og vi det kan vi ikke blive ved med. Og der taler jeg om de her begreb, at vi måske også i sådan i planlægningen og i måden vi indretter byerne skal begynde at tænke på transformation eller omprogrammering. Altså det vil sige tage den eksisterende struktur og ombygge den på måder sådan at vi ligesom fremmer en livspraksis der bruger langt færre ressourcer, har et langt mindre forbrug. Og der er eksemplet med parcelhusene et godt eksempel. Et andet eksempel jeg
+
+00:41:00
+selv har brugt, det er der med kan man tage de her motorvejer for eksempel og ombygge dem til øh så der er langt mindre plads til biler, men til gengæld er et dedikeret tracer til ø til hvad hedder det nu til et effektivt bussystem for eksempel. Så får man mindre plads til at køre i bil og stå i kø som Birgites Phoenix illustration havde. Til geng så får man et effektivt transportsystem i forhold til det kollektiv. Og det vil sige, man på samme tid lidt lidt venligt skubber folk over i nogle andre løsninger, som er mere ressourceeffektive end dem, vi har i dag. Øh, altså hvordan kan man ligesom
+
+00:41:30
+se nedover det fysiske infrastruktur og tænke, hvordan kunne man organisere det på en anden måde? Øh, det er sådan lidt ø omprogrammeringen på vejen til sufficiency, kan man sige. Men ja, det var sådan set det. &gt;&gt; Og øh, beklager, jeg gik over tid, men sådan er det, når man investerer forskere ind. De har det med at tale som jeg ved ikke hvad. Ja, &gt;&gt; så men tak for tak for opmærksomheden. &gt;&gt; Jo, jamen og tusind tak for et spændende oplæg, og der bliver tid til at kunne snakke noget mere, Tok heldigvis her til sidst, men nu skal vi lige have Trine
+
+00:42:00
+Stavskov Munken, som ø skal fortælle om ABS Water. Og du kan få lov til at introducere det selv, Trine. &gt;&gt; Ja, tak for det, Ida. Øhm, super spændende at lige få lov til at komme efter jer. I har jo allerede krittet banen op. Jeg hedder Trine Stavskovmunk og sidder i Rambølvand. Vi er cirka 1000 medarbejdere i dag på verdensplan, og jeg sidder som det vi kalder head of sustainability. Så jeg får ligesom lov til at arbejde indefra og ud med en
+
+00:42:30
+bæredygtig omstilling også af vores forretning og prøve at få kunder og partnere og alle mulige andre med på den rejse. Og fordi vi sidder i Rambelvand, så bliver det jo sådan lidt med et ø et vand med nogle vandbriller på, at jeg kommer til at tale. Øh nu super. Ja. Øh, vi har udviklet sådan et værktøj. Værktøjet i sig selv er måske ikke det interessante. Det interessante er måske mere filosofien øh og processen omkring det. Ø udviklede det, fordi vi blev ved med ligesom at centrere omkring det her med hvordan kan byudvikling og
+
+00:43:00
+virksomhedspraksis foregå inden for de planetære grænser og så for os i høj grad med og hvad kan vandtilbyde i den proces. Så det er det jeg vil tale lidt om nu. Øhm. Hvis jeg kan få dem til at klikke. Ja. Øh, og vi har talt om, at vores forbrug er jo alt for højt. Verdensborgeren bruger måske cirka 1,7 planeter til at understøtte sin livsstil. I Danmark bruger vi jo det, der er svar til cirka fire. Hvis det fortsætter, ja, så ser det ikke for godt ud. Og så har vi det her framework, de planetære grænser, som
+
+00:43:30
+siger, nå, men vi må finde ud af, hvordan vi egentlig omstiller os til en livsstil, hvor vi kun bruger de ressourcer, som planeten i virkeligheden kan nå at regenerere øh på et år. Øh, og dermed også sikre, at vi har noget til de fremtidige generationer. Øh, det giver os et økologisk loft. Øh, og det er egentlig meget sådan konkret at at arbejde med. Og man kan se det sådan lidt som et et finansielt budget. Øh, og lige nu er det jo sådan, at vi bare bruger mere og mere. Der er ikke
+
+00:44:00
+rigtig nogen, der sådan helt er ansvarlige for at holde øje med planetens økologiske loft. Og og det svarer jo også lidt til at gå ned i banken ø og skylde en hel masse penge i forvejen og sige, jeg jeg skal lige have nogle flere penge. Og det plejer sådan set ikke at gå så godt. Så det der med egentlig at tage sit økologiske loft alvorligt og finde ud af at sige, okay, men hvordan er det så egentlig, at vi fungerer inden for det økologiske loft, hvor vi ikke stjæler for fremtidige generationer? Det betyder også, at vi begynder at tale helt anderledes om bæredygtighed.
+
+00:44:30
+Bæredygtighed har jo været sådan noget med at reducere negative påvirkninger. Ogog som rådgiver bliver vi jo tit bedt om at lave sådan nogle LCA-analyser, altså livscyklusanalyser på hvad for en løsning er mere bæredygtig end den anden. Og vi sidder faktisk ofte i den situation, at vi har to ekstremt dårlige løsninger. Og ja, den ene er måske mindre dårlig end den anden, men der er ingen af dem, vi kunne sådan ligesom kalde bæredygtige. Derfor har vi også kaldt det ABS Water. Det her værktøj, det står for absolut bæredygtighed. Altså vi, det er enten bæredygtigt, eller også er det ikke
+
+00:45:00
+bæredygtigt i fremtiden. Det er enten inden for de økologiske grænser, eller også er det ikke. Det betyder, at vi skal være mere radikale i vores forståelse af bæredygtighed. Så ved vi også alle sammen, at vi har det her tunnelsyn på CO2. CO2 er selvfølgelig enormt vigtig. Øh, og det skal vi ikke stoppe med at kigge på, men det er jo også der, hvor de planetære grænser i virkeligheden introducerer noget mere holistisk øh ved at kombinere det med de otte andre ø grænser. Og dem skal vi helt klart også arbejde med, når
+
+00:45:30
+vi kigger på planetens tilstand. Øh, samtidig så nævnte de også begge to, tror jeg, Kate Rbth ø donut economics. Altså det er en kompleks verden, så de her planetære grænser eksisterer jo ikke i et vakuum. Altså den økologiske krise er forbundet med vores mentale krise, den geopolitiske krise og så videre. Så det der med at forstå, hvordan alt er forbundet, og i virkeligheden arbejde i den kompleksitet er noget, vi skal blive meget, meget bedre til.
+
+00:46:00
+Jeg har taget et citat med her ø fra en mand, der ved enormt meget om komplekse systemer, og han siger: "Nothing is more complex than life itself." Øh, og i virkeligheden, når vi arbejder med vand, så arbejder vi også med fundamentet af alt liv. Det vil sige, vi arbejder med noget, der er enormt komplekst, og vi elsker jo især som ingeniører, men måske mange af os, at ligesom tage de her systemer og så og så pille dem fra hinanden og så sidde og optimere på nogle små delelementer af de her systemer. Øh, men i virkeligheden øh så
+
+00:46:30
+er det ikke sådan, at alle de her delelementer tilsmen giver hele summen af systemet. Summen er langt højere, fordi vi arbejder med de her komplekse systemer. Øh, og vi kan ikke fuldstændig forstå et komplekst system. Vi kan ikke se det hele, vi kan ikke kortlægge det. Så vi skal aktivere os af vores sanser øh og fornemme øh de her systemer meget mere end vi kan kortlægge dem. Og det er virkelig noget nyt, som både skal ind i forskning, men jo også skal ind i vores hverdagspraksis.
+
+00:47:00
+Og så har jeg taget et citat med fra en af mine yndlingsbøger. Og hvis I ikke har læst den, så så synes jeg helt klart, at den kan noget. Hun skriver: "We need acts of restoration not only for polluted waters and degraded lands, but also for our relationship to the world." Altså det betyder, at vi skal ikke bare handle anderledes. Altså vi skal simpelthen forstå os selv i den her verden anderledes og relatere anderledes til den naturlige verden omkring os. Og det er i høj grad det, vi også kigger på i Rambøl som ledet i arbejdet med vores ø
+
+00:47:30
+værktøj ABSer. Det betyder jo også, at hvor bæredygtighed i dag måske handler enormt meget om optimering, øh, så er det simpelthen bare ikke nok. At reducere negative påvirkninger er jo i sig selv ikke særlig spiselig ø sætning. Og det er heller ikke noget, man sådan stolt går ud og siger, jen, jeg prøver at lave så lidt som muligt. Øh, i virkeligheden skal vi jo ud ogog have en radikal forandring. Og det, hvis nogen af jer har set den
+
+00:48:00
+her graf på Bill Read, øh, så er den jo meget god til at kommunikere, at vi kommer ovre fra venstre, fra noget konventionelt, hvor vi i den grad forurener vores planet og bruger langt mere end end vi må. og så ind i det her grønne paradigme og bæredygtighed, hvor det handler om at reducere vores negative påvirkninger, så op i det restorative og det regenerative, hvor vi i den grad forsøger at skabe nogle betingelser for livet til selv at udvikle sig i virkeligheden hele sig selv. Det er bare ikke nogen linjær øh øh udvikling. Vi kan ikke nå op i det
+
+00:48:30
+højre ø felt uden egentlig at at sætte hele vores verdenssyn på spil. Det betyder også, at et af de helt store elementer i det her, det er, at vi skal genlære, at vi er natur. Altså vi er ikke mennesket ikke over andre arter, og vi er her ikke for at kontrollere alt andet liv på planeten. Og det er ikke os, der bestemmer, hvor vandet skal løbe, og hvordan det må være her. Øh, så vi skal i dengang i den grad forsøge ligesom at finde ud af, men hvad er vores rolle så i verden? Og og der er vi
+
+00:49:00
+jo selvfølgelig med med vand i hjertet. Vi ser os selv som sådan water stewards, dem der skal passe på vandet øh og facilitere at vandet har de rette betingelser for faktisk at kunne skabe det liv som det jo understøtter på vores planet. Det betyder at vores verdenssyn skal være et hvor vi er sammet og forbundet med alt andet liv og levende systemer på planeten og ikke et hvor vi er separeret. Det er noget derude. Øh eller hvor der er et hierarki hvor vi dominerer et eller andet.
+
+00:49:30
+Øh og i henhold til vandet så er det at forstå at vi er en krop af vand. Vi er cirka gennemsnitlige 60% vand som som mennesker voksne mennesker. Øh og det betyder i virkeligheden, at vi er dybt forbundet med alle de vandsystemer omkring os. Ø vandet rejser os ind og ud af vores hud. Vi har sådan en fornemmelse af at vores krop stopper ved huden, men det gør det bestemt ikke, hvis du kigger i et mikroskop. Så den der forståelse af, at vi faktisk hele tiden er berøring med og i udveksling med luften, vandet omkring os og dybt, dybt dybt afhængig af øh vores
+
+00:50:00
+vandmiljøstilstande omkring os. Den skal vi have langt længere ind. Og så også forstå, at når vi designer som vand med vand, så designer vi i øvrigt også selv som vand. Og det kommer jo så også derhen, hvor vi taler om vandet som subjekt eller som vores guide, som en ven, som en kollega, som vores kunde. Øh, i stedet for vandet som et object for vores ideer og hvad vi synes der skal ske. Øhm, det betyder også at vi sætter vandet frit.
+
+00:50:30
+The idea that we have controlled that we can control water has always been a fantasy. I igen kom tilbage til hele vores forståelse af, jamen vi skal ikke dominere vandet. Vandet det flyder der hvor det vil. Det infiltrerer og og det skal vi egentlig give det lov til. Og i virkeligheden kommer resiliensen ikke når vi arbejder imod vandet. Det kommer når vi arbejder med vandet og som vandet. Så hvordan kan vi egentlig lade vandet eksistere på sine betingelser? Og så er det os der tilpasser os vandet. vandet kommer til at flyde som det nu
+
+00:51:00
+det nu vil. Og jo større friktion vi skaber med det, jamen jo større kan de udfordringer også være, som vi skaber i det designparadigme. Vandet har også nogle kvaliteter, vi ofte glemmer, især når vi taler om den her krig mod klimaforandringerne. Øh, og også når vi taler om vandet som som noget farligt og eller noget irriterende, fordi at vi har vand i gaderne, fordi vi ikke har designet os ø til de forhold, vi selv har skabt. Men
+
+00:51:30
+vandet heler faktisk. Øh, der er noget spirituelt omkring vandet. Det er typisk forbundet også med vores religion og vores tidligere, vores verdensforståelse. Der er noget mystik omkring det. Vand kan også medvirke til at reducere uligheder. Øh, bare det at vi kigger på vandet ø reducerer faktisk vores stressniveauer. Det kan også reducere ensomhed og angst. Øh, og så forstærker vandet vores forbindelse til stede. Altså vi kan simpelthen bedre huske øh eller ofte kan bedre lide et sted der har et vandelement, en sø, en flod, et hav. Øh,
+
+00:52:00
+og hvis der er vand, så kommer vi faktisk også oftere ud at gå eller løbe en tur. Så vand har bare et sådan helt oplagt potentiale, som vi kan bruge i vores design. Og så forbinder vand faktisk også alle ni planetære grænser. Og det er ligesom med det afsæt, at vi tænkte, at vi havde brug for at prøve at arbejde mere dybdgående med med alt det her med de planetære grænser, fordi det er noget meget konkret, og så synes vi, at det lægger sig virkelig godt op af vores arbejde med vand.
+
+00:52:30
+Så hvordan kan vi egentlig bruge vand som katalysator til de her omstiller inden for de planetære grænser? Og man kan sige sådan helt lavpraktisk, så tager man nogle tal for de planetære grænser, og så skalerer vi det ned til, hvad må en verdensborger så bruge? Fordi at alle verdensborgere skal jo i princippet have den samme grænse, hvis man sådan er sådan helt ligestillingsorienteret. Og så skæer vi det op til en virksomhed ø eller en organisation med de forudsætninger, der nu er der. Og på den
+
+00:53:00
+måde skaber vi så et økologisk loft øh for den virksomhed. Øh vi ser på, hvad er status på grænserne? Øh og så får man de her overshoot dage, som jo er meget gode at kunne kommunikere. Men i virkeligheden tror jeg det vigtige for os er, at det er et fælles flow man går igennem. Det er en forandringsproces med et kæmpe potentiale og som er simpelthen forankret i den i den rekenative tankegang. Det er en
+
+00:53:30
+sammenskabende proces, og vi vil gerne have, at den har et afsat i vands kvaliteter, så det kommer man jo til at kunne mærke i sproget og i flowet. Vi Ja inspireret af vandets flow, men også inspireret af alle de egenskaber, som vandet egentlig kan give os både i vores design og i vores tilgange. Og så har den fokus på handling ø for at skabe den her forankring. Den er skræet og syet til hver eneste virksomhed, når vi arbejder med kompleksiteter, og når vi arbejder med vand. Selvom vi herhjemme og alle andre steder i verden elsker
+
+00:54:00
+sådan noget copy paste og standarder og alt muligt andet, så det er i virkeligheden slet ikke sådan, at vi får resiliens. Så vi skal langt tilbage til noget, der er meget mere skradet og meget mere naturinspireret. Og så er det noget med at skabe forbundethed. Altså forbundethed i organisationer omkring den her forandring og forståelsen af, at vi alle sammen har et ansvar, og at det er muligt at have et fantastisk liv inden for de planetære grænser. Også selvom vi giver afkald for alt det vi tror i dag er det der giver giver os glæde. Men igen også forbundethed med verden omkring os. Forbundenhed selvfølgelig
+
+00:54:30
+til vand. Og det betyder også at vi kommer til at kigge på alle ni planetære grænser men jo igen også alt det de er forbundet til ø fordi de ikke eksisterer et vakuum. Øh, så vi kigger også på, hvordan de er koblet til alle de andre planetære grænser, og hvordan man kan skabe værdi øh via det her arbejde, langt udover øh kun et økologisk fokus. Så kommer der selvfølgelig handleplaner, øh, som alle godt kan lide, og de er konkrete, og så forbinder de tal til
+
+00:55:00
+proces, til forandring. Øh, og i starten er det måske noget med stadigvæk at kigge på at reducere sine negative påvirkninger, men med tiden er det jo at give tilbage, for vi skylder simpelthen for meget til, at vi bare kan tale om at lave og reducere vores negative påvirkninger. Så vi skal i høj grad til at give meget mere. Og jeg tror, at et af de ord, jeg godt kunne tænke mig at design fokusere på fremadrettet, det er generøsitet. altså at give mere end vi tager. Så det her det er mit sidste
+
+00:55:30
+slide, og jeg har gjort min søns kammerat rigtig rigtig klog, og jeg har taget det fra en bog, som jeg også kan anbefale. Øh og han siger: "Heyil, hvad nu hvis hver eneste handling indenfor design og konstruktion gjorde verden til et bedre sted?" Og jeg synes, at det er det etos, som vi ligesom skal prøve at lægge for dagen nu. Hvis det her projekt eller hvad vi nu har gang i ikke gør verden til et bedre sted, jamen så er det ikke det, at vi har behov for at fokusere på lige nu. Og det bliver radikalt. Det er der ingen tvivl om. Og
+
+00:56:00
+hvis I godt kan lide vores ideer om at designe som vand med vand og som kropp af vand, så har vi i hvert fald en publikation online, og jeg kan simpelthen ikke lige huske, om vi måske har en del mere om det er noget, vi er meget passioneret omkring og meget gerne vil samarbejde øh meget mere med. Jeg tror, at verden har brug for mange flere water stewards end end vi allerede er. &gt;&gt; Tak Trine. Øh, og jeg ved du desværre ikke kan blive til det sidste, men altså måske
+
+00:56:30
+har du tid til lige et enkelt spørgsmål, og jeg har sådan to sådan korte. Øhm, det første det var sådan lidt konkret, hvad er det, øh, har vi erfaringer med at bruge ABS Water i forhold til for eksempel forsyninger? og kigge på deres øh øh på deres økologiske loft. &gt;&gt; Ja. Øh jeg tror vi har et par øh erfaringer med det faktisk. Øh men men det er i hvert fald et sted vi rigtig gerne jo vil starte og som altså
+
+00:57:00
+forsyninger som forvalter vores vand og så videre. Altså det er så oplagt at kigge på hey kunne man gøre det her anderledes? Øh, og så har vi jo også en vandsektor, altså i bredeste for sand, som måske også er en smule, synes jeg, konservativ, som i den grad også kunne kunne nyde godt af og kaste sig ud i nogle nye metoder, øh, og og prøve noget nyt. Øh, og det bliver fuldstændig fundamentalt for at at skabe resiliens. Øhm. Ja, &gt;&gt; tak. Et sidste spørgsmål.
+
+00:57:30
+&gt;&gt; Ja. &gt;&gt; Ja, der er to minutter. Ja. Øhm. Øh, har du eksempler på hvad hvad eller ud fra din erfaring, altså hvad hvad er det hvad er det hvad er det sværeste ved at skulle skulle omstille sig? &gt;&gt; Ja. Ej, men det tror jeg måske bliver meget sådan individuelt, ikke? Men jeg vil jo sige bare det, at vi kommer med en forestilling, og jeg tror måske også, det var det Birgitte, hun var inde på på et tidspunkt. Det der med overhovedet at kunne forestille sig en anden verden, altså kunne forestille sig et andet paradigme, det er faktisk enormt svært ø
+
+00:58:00
+for rigtig mange. Og jeg tror det var Rob Hopkins, der på et tidspunkt sagde det der med at at forestille sig et alternativ til kapitalismen eller til vores designparadigme lige nu, det er ikke naivt, selvom det tit er sådan, man bliver lidt ø udstillet sådan. Det er faktisk radikalt. Så jeg vil sige bare det at kunne være med til at tegne nogle fremtidsbilleder øh med vores kunder og med vores partnere er allerede sådan meget meget svært. Øh og jeg tror i det øjeblik vi
+
+00:58:30
+alle sammen siger, okay sådan kunne fremtiden faktisk godt se ud, så er jeg ret sikker på, nå men så går vi bare i arbejdsmål, for nu nu har vi en fælles forståelse. Øh og så tror jeg det tekniske og alt det der, det skal vi nok finde ud af. Men men hvis vi ikke engang kan forestille os en verden, der ser anderledes ud, så kommer vi bare ingen vegne. Og det er jo også der, hvor de her nye metoder, altså hvor vi faktisk bruger mindfulness, det kalder vi det ikke, fordi så fik vi aldrig lov. Vi kalder det alt muligt andet, storytelling og landing moments og så videre, men hvor vi faktisk skriver nogle fremtidsvisioner og læser dem op
+
+00:59:00
+og giver plads til det sammen med vores kunder. Og det synes jeg egentlig, der bliver taget godt imod. Øh, ja. &gt;&gt; Ja, tak. Og det var faktisk også noget, vi havde erfaring med på vores sidste oplæg her i eller seminar her fremtidsværkstedet. Det var nemlig den grønne ungdomsbevægelse, som også nemt det du her altså er rigtig gode &gt;&gt; til at lave de her fremtidsbilleder og opstille sådan virtualisere og gøre os følelsesmæssigt sådan forbundet til fremtidige scenarier. &gt;&gt; Men tak øh super mange tak Trine for for
+
+00:59:30
+dit oplæg og &gt;&gt; Ja. Øh, men ø vi går øh vi går videre i programmet. Øhm, nu får vi besøg af af af Ulrik Egman F fra Københavns Universitet. Øh, også godt at få KU repræsenteret her. Øhm. Øh, og øh, ja, og jeg tror, jeg vil bare, jeg vil bare give ø give dig ordet, Ulrik. Øh, vi øhm vi er sådan set meget godt med tiden, så
+
+01:00:00
+du skal ikke du skal ikke føle, at du skal skynde dig igennem din oplæg nu her som den sidste. &gt;&gt; Øh, men jeg glæder mig til at høre dit oplæg og dit fokus på på det blå humanora øh altså sådan omstillingen af planetens hydrologiske cyklus og menneskers hverdagsakulturelle forhold til vand. Det lyder meget spændende. Så øh Ja, men velkommen til og ja, ordet er dit. Jeg vil starte med at sige tak for invitationen, men jeg vil også gerne sige tak til Trine, fordi det var rigtig
+
+01:00:30
+rart, at der var en blå forsker mere, en som jeg deler det der vandfokus med. Så jeg har tænkt mig at sige meget mere om vand. Øhm, så det er bare for en anden vinkel. Det er ikke så meget drikkevandet og vores forbrug på den måde, det er meget mere havet. Men tak for invitationen. Øh, Birgitte har stillet mig sådan nogle spørgsmål. Øh, og mit oplæg handler egentlig om at forsøge at svare på dem. Birgitte spurgte mig, hvad udfordringerne ved modernistiske planlægningslogikker egentlig er, når nu man begynder at kigge på det lidt kritisk. Og hvad kendes den resilient byplanlægning?
+
+01:01:00
+Hvordan planlægger man egentlig med resiliens? Og det har jeg sådan et helt ultra kort svar på, og det er derfor jeg har den her første slide. Jeg tror, vi stadigvæk kunne lære rigtig meget af at forsøge at designe byer ved vand tættere på de måder der forandrer sig ligesom det her deltalandskab på den første slide. Så det var sådan en første ultra kort version af mit oplæg her. Det kommer der sådan lidt mere uddybning af. Min forskning handler om, hvordan man kan forsøge at leve med de blå aspekter af klimaforandringerne, når man som i vores land bebor sådan et rigtigt lavt liggende landområde, hvor ganske meget
+
+01:01:30
+befinder sig mindre end fem meter over det nuværende havspejl. Her i Danmark der der har vi sådan et rigtig rigtig stort ansat kystbyer, som ikke kan undgå at skulle tage stilling til havstigninger og stormflod som en del af de klimaforandringer, der er undervejs. Det er lidt det samme som man navnlig ser i Holland og Belgien, hvor de har været i gang med at forholde sig til det her endnu længere end vi har. Det er også helt klart en global udfordring, men jeg nøjes med bare at vise et billede af Europa, selvom udfordringerne er mindst lige så store andre steder, inklusiv nede i Global
+
+01:02:00
+South, hvor midlerne til at møde de her udfordringer sit er fraværende eller meget begrænsede. Så egentlig så starter jeg med at til sidesætte en meget, meget stor diskussion om vandretfærdighed, som er ved at tage lidt mere fart i dag. Det oplagte næste spørgsmål er egentlig, hvad det mere konkret betyder i form af havstigninger. Og det kan man godt få en første ide om ved at kigge lidt på en af de seneste rapporter fra IPCC. Det er det, jeg forsøger at vise på den her slide. Og den siger sådan noget i retning af, at verdens havoverflade den
+
+01:02:30
+skulle i år 2100 gennemsnitlig være steget 43 cm, hvis man bruger det ene scenarie de har udregnet. Men hvis man bruger det andet scenarie, er det 84 cm. Det er det, de kalder scenarie 8,5. Men nu er havet ikke altid i gennemsnit, så der er noget større udsving på spil med kortere eller længere mellemrum, end der bliver vist her. Figuren viser også, at ting udvikler sig langt, langt voldsommere, jo højere temperaturstigningen bliver. Øh, og det er det man kan se med de røde skraveringer. Så hvis det der med RCP
+
+01:03:00
+8,5 bliver til virkelighed, så får vi havstigninger i år 2300 op på næsten fire meter i snit med noget der godt kan gå hen over fem meter. Når man nu kigger nærmere efter og kigger efter i forskningen, så kan man se, at den der ret nylige rapport fra IPCC den ø er noget, som hundreder af forskere har siddet og arbejdet på. Men de siger også undervejs, at de ikke for alvor ved og heller ikke har medregnet den udvikling, der finder sted på navn i Sydpolen.
+
+01:03:30
+Og ting bliver virkelig meget anderledes, hvis isen på Antarktis begynder at blive destabiliseret og smelte hurtigere. Det kan faktisk godt fordoble de her 8,5 scenarier, som vi kiggede på lige før. Det er noget, der er blevet behæftet med ret stor usikkerhed, men der har faktisk været forskere ude at gå på Antarktisk allerede for tre år siden. Der var der forskningsteams, der offentliggjorde nogle resultater i Nature, som peger i den retning. De sendte sådan nogle robotter dybt ned under twight glitcheren, som ligger ovre på venstre side af den her figur til
+
+01:04:00
+højre. Deres undersøgelser viste, at varmt vand løber ned gennem spalterne og underminerer gletcheren og får den til at flyde ud i havet hurtigere, end man tidligere har antaget. Hvis det nu går hen og smelter og bliver til virkelighed, så er det noget der i sig selv kan give op til tre meter havstigninger globalt set. Det er ikke noget jeg ved, det er ikke noget andre ved med større sikkerhed, men øh de der sigende temperaturer på Sydpolen de sidste to år er ikke nogen særlig gode tegn. Så jeg tror man sådan fornuftigt som minimum skal regne med et scenarie 8,5 som en realistisk
+
+01:04:30
+udviklingshorisont. Der er ikke rigtig nogen tegn på, at vi for alvor nedbringer CO2 og metanemissioner eller de ideal, vi havde med Parisaftalen. Tværtimod så vores emissioner stadigvæk stigende. Og sidste år så vi faktisk nogle temperaturstigninger op over det der 1,5 graders stigning. Hvad betyder det nu sådan lidt mere konkret i forhold til vand og herhjemme? Jo, Kystdirektoriten i Danmark har faktisk nogle rigtig gode hjælpemidler på nettet til at illustrere de her scenarier. Og det her slide viser med
+
+01:05:00
+blålilla farve de oversvømmelser, der vil følge. Hvis man nu følger det her scenarie 8,5. Så det er rigtig rigtig tydeligt, at store dele af København vil møde nogle voldsomme problemer. Og det er så også baggrunden for at både den her by og alle de andre kystkommuner i Danmark, de får relativt nylig blevet bedt om at lave nogle nye planer for kystsikring. Det er noget, der betyder, at sådan nogle billeder som det her, det er faktisk ikke noget, der kun hører til i en science fiction film. Det er faktisk nogle ret reelle scenarier er begyndt at forholde sig til.
+
+01:05:30
+Havstigninger, det er noget, som i den grad kan og faktisk også vil ændre vores forestilling om, hvor kystlinjer er. for hvordan de bevæger sig. Og dermed så kommer det også til at ændre vores forestillinger om det her forsøg at bo i kystbyer. For eksempel så er vores nutidige arbejdspladser i den her by meget, meget svære at kalde bæredygtige eller resiliente, hvis man kigger bare ind igennem det her århundrede. Lynettehåndplanen, det er jo sådan et forslag, der blev præsenteret i oktober 2018 efter hemmeligholdte forhandlinger mellem Københavns kommune og
+
+01:06:00
+borgerbormester Frank Jensen og Lars Lykke regeringen. Det er sådan et ret godt eksempel på, at paradigmer for moderne design og byplanlægning, de bliver videreført uden alt for meget kritisk selvrefleksion. Planen den omhandler etablering af en kunstig ø i den nordlige del af Københavns Havn og Øresund. Det er noget, som kommer til at fylde omkring 282 hektar eller noget i omg 3500 parcelhusgrunden. Det er noget, der senere er blevet udvidet lidt, fordi planen for øen er blevet større. Så antallet af menneskelige indbyggere, det
+
+01:06:30
+er sådan noget, der er lidt større end en by som for eksempel Hillerød. Kommunen beskriver det som en bydel med grønne områder fra sådan 35.000 til 50.000 beboere med lige så mange arbejdspladser. Og det er sådan et design for et moderne København, der er i vækst. Det handler om at videreudvikle København, så den kan vokse fysisk og socialt angivelig samtidig give god politisk og økonomisk mening. Det er også en plan, der sigter mod at tage miljømæssige hensyn. Den forsøger at løse en del af Københavns
+
+01:07:00
+trafikproblemer. Forsøger også at sikre et mål af grønne områder og så faktisk også til en vis grad sikre sig i forhold til de her kommende klimaforandringer som for eksempel stormflod og havstigninger. Så man kigger på den her plan, så kan man se det er en der arbejder med landmæssig territorial ekspansion ud i havmiljøet. Og det er noget der skal ske ved hjælp af jordopfyldning. Man har tænkt sig at bruge overskudsjorden for resten af København. inklusive deponering af jord fra metrobyggerier og
+
+01:07:30
+fra en planlagt havnet, der skulle føre trafikken øst om København. Det her det er sådan en grafisk projektion af planen. Den er ikke nået helt så langt som det her endnu, selvom den er undervejs. Og det er også værd at notere sig, at kvarteret Nordhavnen ovre til venstre i billedet, det er faktisk i gang med en territorial ekspansion ud i havet af den samme art. Det her billede giver sådan en lidt mere reel ide. I den her første fase, der handler det primært om at etablere øens perimeter og så derefter gradvis fylde
+
+01:08:00
+op med jord. Så i dag er projektet godt i gang med den her første fase. Det kan man selv se ved at gå en tur ud på nordspidsen af Armar. Eller man kan tage over til Nordhavnen og prøve at kigge på det fra den anden side. Planen for Linetteholm den indeholder sådan nogle tiltag afbødning af stormflod og havstigninger. De tiltag handler dels om at lave nogle slags kystsikrende etablering af både deer og en dogport. Det handler også om tiltag som bliver udarbejdet af det her firma som jeg
+
+01:08:30
+viser noget fra her kaldet tredje natur. Den her tredje natur den består i etableringen i af den østlige del af den kunstige ø. Der forsøger man at lave en mere naturbaseret klimasikring af byen. Man tilføjer et grønt kystlandskab på cirka 78 hektar. Og det er sådan et område, der stiler mod at skulle håndtere både midlertidig i høje vandstande ved stormflod og de mere permanente havspejlstigninger. Og det er sådan her, jeg begynder at stille kritiske spørgsmål, fordi
+
+01:09:00
+havstigninger over bare en meter vil give den her bynatur problemer. Og så er det fordi planens grænseværdi på 70 cm til en meter, det er noget der baserer sig på dele af IPCCs arbejde, der er forældet og allerede dengang var ret konservativt forsigtige. De mere nylige planer fra Københavns kommune siger, at der er tænkt over tilpasning, så øen skulle kunne forhøje deer helt op til fire meter. Men det er ikke noget, der er udført. Det er ikke noget, der er finansieret. Det er heller ikke noget, der kan siges at gælde for
+
+01:09:30
+København som helhed. Så begynder jeg også at blive skeptisk, fordi den her gentagelse af aggressivt defensiv tilgang ved at ekspandere territorialt ud i havet, og det her med at holde fast ideen om vækst, det er noget der på forhånd udelukker andre og måske mere resiliente tilgange. For eksempel så er der i planen ikke nogen adressering af mere radikalt adoptive tilgange. Der bliver heller ikke kigget på mulighederne for rewilding eller større naturbaserede løsninger. Og der bliver heller ikke kigget på mulighederne for urban
+
+01:10:00
+tilbagetrækning til højregende områder. Det vil sige det med at begynde at bygge de her 15 minutters byer det med at bygge i højden og i dybden i mindre og mere netværkede byer. Det er også ret sigende at planen overvejer faktisk ikke at arbejde med mere fleksibilitet. sådan en slags dynamik henover meget længere historisk tid mellem at kunne få byen til både at trække sig tilbage og kunne marchere frem. Så der er nogle muligheder, der slet ikke bliver taget i betragtning. Den her tredje naturtilgang, den kommer
+
+01:10:30
+fra genaktiveringen af et meget tidligt, moderne historisk paradigme for hvordan by og miljø, bykultur og natur bliver forsøgt adskilt i det her tilfælde vil jeg etablere sådan et offensivt koloniserende forsvar. Når man kigger nærmere efter på tredje naturs papirer, som er det jeg viser en lille bid af her, så er det ret tydeligt at klimaet og havet og naturen, det er noget man anskurer som en troende fjende. Det er noget der kræver beskyttelse og dominans igennem et krigslignende slag.
+
+01:11:00
+Det bliver faktisk antydet her i teksten ved en reference til søslaget på reden i 1801. Og så er man i gang med at reaktivere sådan et tidligt, moderne, meget, meget strukturelt og landbaseret paradigme for byudvikling. Basalt set så handler det altså om at føre krig fra en stabil og hård fortliggende fortlignende struktur. Så forslaget i den her plan og for tredje natur siger egentlig, at byttetegn i starten af de 21. 100 i mødet med det antropen. Det skulle være mest resilient og bedst tjent med at
+
+01:11:30
+vende tilbage til tidlig modernitet af vores vestlige tilsnit og der finde modellen for håndtering af forandringer af byen hen over tid. Det er sådan en gentagelse jeg er meget meget uenig i. Men det er ret tankevækkende at paradigmet der bliver gentaget her det er først den tidligt moderne fæstning. Bagefter så er det den offensivt ekspanderende moderne købstad. Det er sådan lidt økonomisk og kapitalistic paradigme, vi i dag har meget, meget svært ved at finde bedre alternativer til. &gt;&gt; Ja, som mange af jer sikkert ved, så har
+
+01:12:00
+den jo nethånd været genstand for sådan rigtig langstrakt og varieret kritik. Så jeg er ikke sådan ikke specielt alene omkring begyndt at pege på nogle af de problematiske ting her. Når man kigger på den der kritik samlet, så kan det begynde at være et fingerpeg om, at processen her ikke leder frem til et specielt resilent design. Det er tilfældet miljømæssigt. Det er tilfældet politisk, økonomisk og sociokulturelt. Mine bemærkninger om den her Lunetteholm case, det begynder måske allerede at give jer sådan nogle første gode
+
+01:12:30
+pegepind kriterierne for, jamen hvad ville så de mere resiliente tilgange egentlig være? Et langt stykke af vejen så handler det om ikke at gentage de her moderne planlægningstræk, sådan som det sker her, men faktisk også rigtig rigtig mange andre steder. Mit fokus lige på nu, det er sådan på det første og det sidste punkt, det jeg har puttet ind i kursiv. Det vil sige måden man forholder sig til miljøet og havet når man designer kystbyerne. Jeg tror der ligger Kim til mere resiliente tilgange hvis man kigger nærmere efter lige der.
+
+01:13:00
+Det her med at planlægge ved at at gå aggressivt i gang med at gøre modstand, det er faktisk normen i dag. Det med de tilpasningsdygtige tilgange, det er faktisk en klar undtagelse i dag. Så det er sådan et eller andet første sted at begynde at kigge om man godt kunne lave om der. Det er i hvert fald ikke i min optik specielt resilient, hvis man gør modstand på den her måde. Så det er noget, der får mig til at begynde at kigge efter andre metaforer, andre typer fortælling, hvis man skal forfølge det her med resilient tilgang. Hvad kan man
+
+01:13:30
+gøre i stedet for? Hvad ville være anderledes? Øhm, jeg tror at man godt kunne gøre noget ø ved at begynde at overveje lidt ligesom Trine var i gang med før at stille ind på en mere blå miljømentalitet. Den spørgsmål er så, hvordan man egentlig gør det. Hvordan kan man gøre det? Hvordan kan man gøre op med den her dominerende metafor, om man ikke bare ville gøre modstand, men faktisk også at føre krigslende slag? Hvad kan man gøre for at gøre det anderledes og bedre end det?
+
+01:14:00
+Jeg arbejder selv med sådan noget kompleks adaptiv systemteori som tilgang, så jeg kigger efter metaforer, som kan befordre en eller anden kontinuert varierende kystzon planlægning. Noget der drager omsorg for socioøkologiske og gensidige afhængigheder og feedbackykler. Så jeg har sat den der store røde pil ind op fra højre for at begynde at antyde at der nok er behov for en forskydning over i retningen af det mere økologisk processuelle i stedet for at blive ved med at fokusere mere
+
+01:14:30
+antropocentrisk på de sociale processer vi har i gang. Og det er rigtig rigtig svært at have med at gøre. Men måske kan man finde sådan en midterløsning ved at kigge på noget biocentrisk. Det med at vandet er kilden til alt liv, og det er noget vi kan forholde os til nemmere. Jeg tror det her med øgotom er en god metafor man godt kunne overveje. Det er sådan en meget god kandidat til en alternativ ø metafor, som man kunne bruge i planlægningen af kystbyer. Den er biocentrisk, og den er relationel. Vil sige, den arbejder fra
+
+01:15:00
+midten eller fra mellemrummet. Så hvad sker der, hvis man begynder at anlægge den type tankegang og begynder at prøve at føre det ud i praksis på nogle måder, hvor kystbyen er et tilblivende sted, hvor livsformer sammeneksisterer og tilpasser sig ved at leve med vandet i stedet for at strål? Så tror jeg, man begynder at tænke på kystbyen som en del af sådan en våd og tør slags økosystem. Del våt og tørt stykke landskabs og våområde. Det er økologisk art. Og så begynder man at
+
+01:15:30
+planlægge Kystbyen som sådan en mere eller mindre levedygtig dynamisk mosaik med et rigtig rigtig komplekst patchwork. Han nærmer sig altså by og kyst og USA som nogen der varierer hele tiden og er i samspil med hinanden tilpasser sig hinanden. Og det er noget der får en til at se byen som den noget mindre og mere midlertidige eller flygtige slags sedimentering i stedet for det helt centrale menneskelige sted at leve. Det fører sandsynligvis til sådan en slags mobilt, overlappende og levedygtig
+
+01:16:00
+øplanlægning i stedet for. Det kan godt lyde sådan lidt utopisk og langt ude og rent metaforisk, men det er det faktisk ikke. Man kan godt spørge sig selv, kan man nu godt finde sådan nogle konkrete eksempler på folk, der kan gøre det der? Er det noget, der faktisk findes eller kan realiseres? Jamen, det kan man faktisk godt finde. Her har vi sådan et eksempel på noget, der stadigvæk er den teknisk afbrydende løsning. Det er nede fra Rotterdam i Holland. Og hollænderne har været i gang. De ligger meget lavere end os, så de har nogle gange nogle tekniske tiltag, der er langt, langt dygtigere og mere avanceret end vores. Men det er
+
+01:16:30
+faktisk ikke det, der er det interessante her. Det der er interessant her, det er, at deres dæmninger faktisk godt kan give efter. Så når vandet begynder at opføre sig og overskede de grænser, der er for de her anlæg, så giver dem efter og tillader vandet at komme ind. Og byen er faktisk anlagt så nogle kæmpestore vandreservoirer, som kan opsætte helt utrolige mængder af vand, men også give slip på dem igen. Det er en langt mere dynamisk måde at forholde sig til en omskibtig klimamæssig forandringsproces på den lange front. Der er andre steder rundt
+
+01:17:00
+omkring i verden, hvor de er dygtige til at leve med omskiftelige vandforhold. Nede i Vietnam, i flodeltager har de faktisk typer af løsninger, som kan forekomme os primitive, men i mange tilfælde faktisk er mere avanceret end det, vi er i stand til at gøre. Så man kan godt begynde at udfordre sin vestlige model for vandkultur ved at begynde at kigge nærmere efter et sted som i Kanto og det floddelser der ligger der. Kineserne har været i gang mindst sidste 15 år med at planlægge byerne som svampe. Man sige den her metafor om
+
+01:17:30
+svampe der kan opsuge og frigive vand på en anden måde end den måde vi er vant til at tænke på er et andet godt eksempel. Man kan godt begynde at stille spørgsmålstegn ved, hvor specielt bæredygtige eller resiliente de her byer er, men det er nogen, der tænker anderledes på vand og den måde man forholder sig til kyst og vandzoner på. Amsterdam har nogle interessante ting. &gt;&gt; Ulrik, du må gerne til at lige til at runde af, så har vi nemlig lidt tid til spørgsmål også. &gt;&gt; Åh ja, okay. Jeg speeder op. Jeg skal lige frem til, jeg har lovet at nå at sige noget om det her med resiliens,
+
+01:18:00
+ikke? Jeg tænkte, Hov hov øj. Nej, jeg skal lige have den her en tilbage. Nå, der er flere af de andre oplægsholdere, der er også noget til at nævne det her begreb. Så jeg tænkte, det var måske meget godt, hvis vi faktisk fik sådan en konkret ø begrebsdefinition på spil. Jeg tror de fleste stadigvæk er vant til at tænke på resiliens som den første af de her to ting jeg skriver, hvor man tror at det handler om sådan et robust og stabilt og struktureret system byen som godt kan klare alle mulige
+
+01:18:30
+ting. Og så vender den tilbage til den tilstand man gerne vil have, hvor det er rart og nemt at have med at gøre igen. At det tror jeg vi kommer til at forlade til fordel for noget der er mere komplekst og svært at have med at gøre, hvor det handler om at kunne være fleksibelt i spil med overfor usikkerheder. Så vi kan faktisk ikke lave endelige planer. Vi kan ikke være målrettet på den måde, vi gerne vil. Man bliver nødt til at være forandringstilpasningsdygtig på en mere radikal måde, end vi er vant til. Så den tror jeg, vi har brug for at genbesøge definitionen af byen som noget mere nonekvilikum agtigt. Godt paradigme
+
+01:19:00
+er forsøg at geno sigtelinjer i det her. Men det hopper jeg henover sådan rot og brutalt. Det er noget, jeg har skrevet lidt mere om alt det her, så hvis der er nogen, der er interesseret i, kan I gå ud og kigge i nogle af de her ting. Det er der heldigvis også andre, der har gjort. Men tak for jeres opmærksomhed. &gt;&gt; Tusind tak, Ulrik. Øhm, og tak for Ja, tak for dit oplæg. Øh, jeg havde jo
+
+01:19:30
+lovet tid til spørgsmål, så derfor må vi også lige holde holde fast i det. Øhm, og der er kommet et rigtig fint spørgsmål her i chatten, som jeg vil, og den er den er ikke som jeg tænker, I alle sammen kan måske bidrage med et svar. Øhm, så jeg vil ikke stile den mod en af jer ø specifikt. Øh, men det kan godt være, Toke, den opstod under dit oplæg, så det kan jo godt være, den henvender sig lidt lidt til dig. Ø, men spørgsmålet det er, det er fra Bertel Mevang fra Faersgaard Kommune. Øhm, som
+
+01:20:00
+spørger indenfor de nuværende præmisser, øh, der er det blot utrolig svært at finde lydhørhed hos lovgivere og magthavere for at skifte fokus fra det økonomiske vækstparadigme, som vi er fastlåst i. Så hvordan sparker vi døren ind og skaber forståelse for konsekvenserne for vores børn og børnebørn ved ikke at skifte spor? Og det er jo meget relevant, når man sidder ja, når man er planlægger i en kommune for eksempel. Hvordan er det øh ja, hvordan er det man får får lydhørhed
+
+01:20:30
+øhm til at gøre tingene anderledes? Jeg ved ikke, hvem er der vil starte med at prøve at svare. &gt;&gt; Altså jeg kan godt give et lille hurtigt øh hvis det hvis det er mig der er skyld i spørgsmålet, kan man sige. Men men øh &gt;&gt; altså bare sådan øh altså det er et virkelig godt spørgsmål, og det er jo man støder ind i tit, når jeg taler om det der samfundsfantasi og optø frostende landskab og sådan noget, så er det jo nogle metaforer for ligesom sige at vi er nødt til at tale om udvikling
+
+01:21:00
+på en anden måde end vi gør i dag. Øh, og måske skal vi da afvikle noget af den udvikling, vi har haft og til de andre baner og sådan nogle ting. Men det er jo sådan lidt altså man kan sige øhm det, altså jeg har ikke svaret på det på den måde andet end at jeg tror to ting jeg vil sige, det var deles er det selvfølgelig fordi at øh vi jo også lever i et samfund der har nogle stærke institutioner der er etableret allerede. Lad os sige for eksempel omkring finansiering af ejerbolig og ejerboligmarkedet og værdi af ejerbolig og ejerboligen som en del af en økonomisk sikkerhed, når man bliver ældre og alle mulige andre ting,
+
+01:21:30
+ikke? som gør at det er enormt svært når man vil dele huse for eksempel op i mindre størrelse, så bliver der pludselig en masse med regelkredit og hvad værdien af huset og taber jeg nu noget og betyder det noget at jeg ikke kan rette så meget bliver gammel eller et eller andet ikke så der er mange sådan aspekter eller sidder nu fastlåst i det her hus ikke øh så så øh så jeg kan godt forstå sidder i en kommune for eksempel og prøver at tænke de her tanker at det føles godt nok svært fordi at øh man skal jo i virkeligh også have fat i folketinget man skal have fat i øh
+
+01:22:00
+private institutioner og alle mulige for at forandre de her ting. Øhm, så jeg tror måske &gt;&gt; Men har du øh &gt;&gt; Ja, undskyld, nu afbryder jeg lige lidt, men er der eksempler på kommuner eller lokalt samfund, som har lykkedes med at bryde den her business as usual? Kan kan I komme i tanke om nogen? Altså øh øhm altså jeg tror måske at hvis jeg bare sådan det andet der omkring det der med hvad man gør, det er altså jeg tror at øh
+
+01:22:30
+at ø man er man kun må også bare sige historisk har tingene forandret sig jo øh over tid. Altså ø den det samfund vi har, der er jo også resultat af politiske valg og beslutninger tidligere. Så jeg tror meget på, at det er de små ting, der faktisk de der små ting, som grønne nabofællesskaber nævnte jeg, eller folk, der ligesom gør nogle ting anderledes, som er med til ligesom at skabe nogle andre spor ved at de simpelthen praktiserer en anden måde. Og det kan godt være, det ikke redder verden i morgen på den måde, men det men det er måske mere en del af en proces, der peger frem mod noget. Så jeg tror måske også, man kan selvfølgelig ikke
+
+01:23:00
+hoppe bare over i et eller andet fremtidsscenarie, hvor alt er færdigt. Og det bliver nok heller aldrig på den måde. Øh, men men altså men hvor man ligesom er i en anden form for proces, så Ja, men ser atø Birgitte, hun har svaret på det. &gt;&gt; Ja. Ja, værsgo Birgitte. &gt;&gt; Og også Ulrik, &gt;&gt; husk lige at tænd din mikrofon. &gt;&gt; Jeg tænder lige øh Jeg vil bare fortsætte det, du siger, Toke, fordi forskningen viser forskellige ting. Blandt andet at kommunerne faktisk spiller en virkelig stor rolle. Det er jo rigtigt, at de her ting er fastlåst i nogle store institutioner, men vi kan
+
+01:23:30
+også samtidig se, at der hvor forandring faktisk sker, det er, når der er kommuner, som går ud og laver eksperimenter og pilotprojekter, og det påvirker både de forestillinger, vi har om fremtiden og den måde, eller forestillinger om, hvad livet er, men også vores lovgivning og så videre. Det har vi rigtig mange eksempler på. Så vil sige, at dem der sidder i kommunen og forsyning og rådgivere og sådan noget, det er bestemt et meget, meget vigtigt sted at være for at skabe forandring. Og så hvis jeg skal samle op på lidt af det, jeg sagde, så mener jeg også, og det var også flere andre, der sagde også
+
+01:24:00
+Trine, altså at lave billeder af fremtidens er det meget handlekraft, et meget stærkt værktøj at åbne blackboxen. Altså prøv at pege på, hvorfor er det at ø hvis vi kigger på på parcelusejerskabet for eksempel, hvad er det for nogle øh udgifter der er forbundet med det? Både for den enkelte, men også for samfundet i forhold til den måde vores økonomi er bundet, den måde vi bliver stresset af at skulle betale tilbage eller arbejde så meget og så videre. Så prøv at åbne
+
+01:24:30
+nogle af de der blackbxse og sætte nogle værdier. Det kan både være økonomiske, men det kan også være øh kvalitative fortællinger. Det er noget med at så også lave de der værdisætninger på nogle alternativer bare i det små. Altså prøv at sige, hvad hvad ø hvad er det, hvis vi gerne vil lave noget natur her, så er der masser af data, man kan få, der viser, hvordan natur kan betyder noget for os. Altså hvilken værdi natur har. Øh, og så også det med at lave alliancer, altså pilotprojekter, men alliancer, hvor man trækker nogle gode
+
+01:25:00
+aktører ind og får dem til at være med i noget. Det ville være min sådan ingeniørmæssige &gt;&gt; komme i gang handling. Jeg er sikker på Ulrik, du har nogle andre øh ting. &gt;&gt; Ja. Når det kommer bare fra en lidt anden vinkel, men det er egentlig altså noget der er enig med de ting, I begynder at pege på. Altså jeg tror at det handler om reorganisering af de forer, at de her ting bliver diskuteret i. Det er nogle rigtig svære ting at have med at gøre. Altså fra en forskervinkel oplever jeg det tit som et problem, at jeg kan se forskerne kan nogle gange være 10 år længere fremme på
+
+01:25:30
+banen med nogle ideer. De har måske allerede fået de der ideer eller første metaforikker, men hvis man skal forsøge at begynde at gøre et eller andet i politisk praksis, så får man problemer som forsker. Dels fordi man ikke ved, hvor man skal henvende sig, men også fordi vi har faktisk ikke lov til at være aktivister. &gt;&gt; Der er sådan en eller anden grænse for, hvad forskningen kan gøre. hvornår vi neutrale videnskabsfolk, og hvornår er vi ude faktisk og begynder at agere på en mere eller mindre sådan værdibaseret aktivistisk måde. Så det det kan stoppe også i mange sammenhænge fra overhovedet at komme ud på banen og gøre noget med de ting, som vi mener noget om. Men det
+
+01:26:00
+er også rigtig rigtig svært at komme ind i et forum, hvor der hvor det faktisk skal ske. Jeg tror også noget som som borgerting eller kommuner kan organisere deres arbejde på en anden måde er noget som har potentialer. &gt;&gt; Ja. Jamen altså det at at forskerne selv siger, vi skal lytte mere til forskerne. Det synes jeg det det er et godt forslag. Ja. &gt;&gt; Altså jeg synes, vi skal lave nogle flere samarbejdere. Jeg er rigtig glad for de samarbejdere, vi som forskere har med praksis. Det synes jeg er virkelig spændende. Og der er DNNK et ret godt
+
+01:26:30
+forum. Altså hvor vi både jo kan have de her samtaler som dem vi har her, men jo også et sted, hvor vi faktisk har nogle netværk, hvor vi kan tage fat i hinanden og sige, skal vi prøve at samarbejde og prøve at gøre nogle af de her ting? Det var godt rigtig godt tænke mig at lave nogle spændende samarbejdere Ulrik, hvor vi prøver at reorganisere nogle ting også to. Jeg tror vi og nogle af de kommuner og folk der er med her som kunne synes det kunne være spændende vi kan måske sætte os sammen og gøre noget. &gt;&gt; Mm. Ja, jeg kan se der foregår lidt i
+
+01:27:00
+chatten. Der var et spørgsmål omkring det her Sponge City, som jo lige nu hopper vi lige lidt fra det vi taler om nu og evaluering af det, hvordan det er jo, hvad kan man sige, det er jo det er jo en en gammel nyhed, altså det her at designe med Sponge City, så hvordan er det egentlig det går med det? Er det stadig en god ide? Øh, men jeg kan se den, der er vist allerede lidt besvaret herude i chatten. Øhm, der er en kommentar her, øhm, øh, hvor der der siger det er vigtigt at efterspørge alt det, der hører til i det nye paradigme
+
+01:27:30
+på individniveau, på gruppeniveau, øh, i kommune og regionniveau og på landsplan. Individet og netværk er nok de mest fleksible og de niveauer, der reelt er mest omstillingsvillige. Øh, og det læner sig jo meget godt op af noget af det, I også siger her sådan lidt øh øh øh afsluttende i forhold til tiden med respekt for tiden. Øh, nu I har nævnt det her med det her med at kunne visualisere en fremtid af et super stærkt sådan redskab til at få folk med. Øh, det synes jeg også at det kan jeg
+
+01:28:00
+mærke det er sådan gennemgående for vores ø seminarer her. øh i den her sammenhæng. Øhm men hvad jeg sidder bare og tænker på, hvad hvad er et af de vigtigste skifte, som for eksempel kommuner eller planlæggere skal foretage sig her de næste par år, hvis byudviklingen ligesom skal, hvad kan man sige, holdes inden for de planetære grænser? Fordi vi kan jo bare se, at der er behov for en byudvikling. Så hvad er det ligesom udover det her med at skabe nogle fælles fremtidsbilleder? Hvad er
+
+01:28:30
+det, hvad er det ellers, man som planlægger skal gøre for at kunne både, hvad kan man sige, ja, ø skabe ø det nødvendige byudvikling der er behov for, men holde sig inden for de plantet grænser? Er der sådan en nogle andre overordnede ting, I ligesom vil hive frem der her til sidst? &gt;&gt; Hold da op. Skal vi lige løse verdens problemer på et minut nu? &gt;&gt; Ja, hvis I kan, ville det være dejligt. &gt;&gt; Nye alliancer, nye netværk. Jeg synes, det svar vi fik lige før, rigtig spændende. Og nogle de her nye
+
+01:29:00
+Ja, det tror jeg synes er rigtig vigtigt. Jeg vil slutte der, og så kan I andre få lov at sige en enkelt ting. &gt;&gt; Ja, jeg tror, at Trine var faktisk lidt inde på noget af det, da hun havde fat i den der tekst fra Kimera. Jeg tror, at det at vi begynder at orientere os mod miljø og andre livsformer på en anden måde og begynder at give dem mere værdi faktisk er det vigtigste, men det allersværeste for os at holde op med at være helt som menneskecentreret i planlægningen, det er den allerstørste udfordring, men også det der sådan flytter dybest og mest ø sværest, men
+
+01:29:30
+vigtigst. &gt;&gt; Ja. Og så får jeg lov til at som rosin altså jeg tror også det er et virkelig svært spørgsmål hvis en sætning så kunne man sige jeg er enig med det det der blev sagt før men også noget med at begynde at skifte fokus fra hele tiden og ligesom at bygge ud som en lyteholm i praksis og så videre begynde at se på det man allerede har af den fysiske infrastruktur og så videre og sige hvordan kan vi bruge det på andre måder så vi kan få nogle af de der behov vi ellers prøver at tænke med at bygge nyt ind i det der er eksisterende så vi ikke skaber meget mere end vi allerede har
+
+01:30:00
+kan man sige. Ja tak. Det synes jeg var, det var en dejlig afslutning. Jeg kan se, der er i chatten også en opfordring til samarbejde fra Aarhus Kommune, så det ø det synes jeg da, I skal I skal gribe. Øh, men så øh med de ord, så vil jeg sige tak for i dag og tak for inspirerende oplæg og dejlige gode refleksioner fra vores deltagere ude i chatten. Øhm, vi fortsætter jo med den her seminarrække. Øh, næste, hvad hedder
+
+01:30:30
+det, seminar, det er planlagt til den 25. februar. Øh, og det kommer til at handle om sundhed og trivsel og nye perspektiver på vand. Øhm, så øh, vi håber at se jer igen. Øh, og endnu engang tak for i dag.

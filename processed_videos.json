@@ -903,5 +903,21 @@
     "last_attempt": "2026-08-17T09:33:25",
     "attempts": 3,
     "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+  },
+  "g7yhwOVYJYI": {
+    "status": "done",
+    "category": "Fremtidsvaerksted",
+    "attempts": 0,
+    "kilde": "youtube-subs",
+    "order_id": null,
+    "last_attempt": "2026-08-25T18:52:38"
+  },
+  "aQepKpHghU4": {
+    "status": "done",
+    "category": "Fremtidsvaerksted",
+    "attempts": 0,
+    "kilde": "youtube-subs",
+    "order_id": null,
+    "last_attempt": "2026-08-25T18:52:44"
   }
 }
