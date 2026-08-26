@@ -1,0 +1,121 @@
+=== DNNK Webinar Transskription ===
+Kategori: Konferencer
+Video ID: chdOFCcLuMs
+URL: https://youtube.com/watch?v=chdOFCcLuMs
+Transskriberet: 2026-08-26T06:29:38.067072
+
+==================================================
+
+00:00:00
+Okay Tak fordi I vil høre på mig Jeg vil lige sige det er cirka syv måneder siden jeg har lavet den her præsentation og der sket meget blandt andet er jo ikke ved kys tror jeg det er mere ved mst nu flytte mere men derfor så vil jeg så tale om det her lidt som en der har været med til at udvikle en model og implementeret modellen men altså ikke rigtig arbejder med den fremadrettet så det bliver lidt måske kan jeg måske forholde mig lidt mere kritisk til den nu
+
+00:00:30
+eventuelt og det er også det jeg Tænk mig at gøre fordi nu er vi i en fase hvor vi har anvendt den her sociale seds model Nu kan vi se på de første evalueringer af den Og måske nogle læringer Hvor er det den er svær Hvor er den stærk Og hvad kan man hvor kan den udvikles så modellen hedder modellering af menneskelige sorb hed over for oversvømmelser øh som sagt jeg har jo præsenteret den mod den mange gange for mange af jer har set den før Så det bliver lidt hurtigt overview over
+
+00:01:00
+modellen jeg vil egentlig hellere tale til anvendelsen af den for det har jeg ikke haft med tidligere for vi ikke anvendt den tidligere nu er den blevet anvendt det kan jeg godt sige den er blevet anvendt i oversvømmelsesdirektivet til udpegning af områder med størst risiko og den har fået en vægt på ret mange procent Ja men Ø Jeg vil den modellen her består af fem dele af det et socialt SBS indeks Det skal jeg nok lige komme tilbage til og så direkte indirekte eksponering så
+
+00:01:30
+regner vi et socialt konsekvens Vi har valgt ikke at kalde det skader fordi vi synes ikke det skal H menneskelige skader så vi kalder det simpelthen negative konsekvenser på mennesker af en oversvømmelse hvis det lyder måske lidt bedre og så har vi regnet om med risiko og så har vi har jeg nogle ideer til hvordan man kan indarbejde et indeks ind i en helhedsbetragtning fordi det vi laver er jo et indeks så har vi også noget økonomi som med kron og øer og hvordan integrerer vi det i en helheds analyse af hvor den St risiko i
+
+00:02:00
+et område Jeg kommer lidt Step på step jeg lige sige at m k de pral og mig vi er sådan set dem der har væ hovedudvalget der og der kommer også et metoder rapport som jeg har nået at skrive ind i stoppet som formodentlig også bliver udgivet hvor
+
+00:02:30
+Hvis der er nogen dybtegående interesse i modellen så synes jeg i skal kigge på artiklen og så kan i jo henvende jer til mig direkte right modellen står består af to dele af det vi kalder motal Heden og det vi kalder øh øh eksponeringen modtageligheden i sig selv er en ide Vi har det står også i overskriften på kryds Det var her de negative konsekvenser ved en
+
+00:03:00
+oversvømmelse defineres ud fra nogle karakteristika ved de personer der bliver oversvømmet så nogle er mere Vi kan kalde det sårbare eller modtagelig over for hvis de bliver udsat for en oversvømmelse at opleve vi bruger det engelsk wellbeing loss Vi har ikke r dansk ord til Så kalder stadig wellbeing loss altså trivsels velbefindende Tab og andre har ikke Og vi har springe over til den næste her vi har lavet det her stort indeks som ud fra en lang
+
+00:03:30
+litteraturgennemgang men også ud fra de data vi har til rådighed har sagt at de her faktorer kan vi bruge til at beskrive Hvor stor en negativ konsekvens mennesker får hvis de bliver udsat for en oversvømmelse eller bliver eksponeret for en konsekvens af en oversvømmelse og der indgår De Fem hoved indikatorer alder helbred samfunds eller social økonomiske forhold og så evnen til at forstå og
+
+00:04:00
+erhvervs information Det er på individuel plan og så har vi den her der hedder nabolagets resiliens som virker modsat så hvis man er det er lidt minder lidt om skal vi sige social kapital så større social kapital eller resiliens der er et nabolag jo mindre modtagelig bliver man så de individuelle plan de heroe de gør en mere modtagelig den her gør en mindre modtagelig og jeg tror ikke jeg vil løbe igennem dem som sagt de er jo beskrevet i den artikel men øh Vi kan jo sige at nogle af de
+
+00:04:30
+udfordringer vi har haft det har været datamængde data men det er det vi har fundet som proxi for ens generelle helbredstilstand og ø Vi har en anden
+
+00:05:00
+udfordring den der hedder immigranter fra ikke vestlige lande Vi har jo opdelt vores Danmark i krid celler på 100 gange 100 meter og der er måske 90 pr af de celler er der ingen indvandre for ikke vestlig baggrund Så dataen er meget meget underlig så der er 90 pr hvor der er et nul og så er der måe 10% hvor der er rigtig høj værdi og så den metod Vi har brugt til at lave det om til en normalfordeling er ikke helt tilfredsstillende sig på den måde alt
+
+00:05:30
+det arbejde Vi har lavet til at rende det her om I et indeks Det kræver nok hvis nogen der er interesse i går videre med det måske nogle dygtige statistiker til at løbe hele det vi har lavet igennem hvad mi eller mig er som sådan statistiker Men vi har antaget at vi har regnet det helt om til en en en standard normalfordeling og ø og alle de her faktorer og det giver os det vi kaldt ssi et socialt sårbarhed indeks det går fra minus tre til plus tre plus tre er mest sårbar minus tre er mindst sårbar
+
+00:06:00
+og Vi har tilladt os at fortolke det som en ø en standard normalfordeling så værdierne for eksempel minus 1,61 angiver man 1,61 standard afvigelser lavere end landsgennemsnittet og det er jo en Lands model så alt er i forhold til et landsgennemsnit og hvis man tager en et område Det er så to steder i Vejle et område her der har den højest mulige social SBS indeks så kan vi se årsagen til det Det er typisk information Det er
+
+00:06:30
+samfunds betingelser og en Lav sige social resiliens til sammen Denner det et billede af at den celle deroppe hvis den bliver ramt af en af en hændelse der på eller anden påvirker den celle FR Oversø Så er det et område der har en stor i det område vil være en stor negativ konsekvens Har vi et område længere nede derovre til til venstre og har en langt lavere score Vi har så lavet de her grafer man
+
+00:07:00
+kan lave det grafer Det er jo en udfordring Det er jo når det er landslægen det er rigtig svært at lave det her Hvad skal vi kortlægge det og vise figurer så det her det er altså kørt på Vejle der forestille os sådan givar som bliver billedet Rundt i Danmark springer lige videre fordi måske Man kan også køre den ned på celleniveau Øh Og vi har så indekseret det indeks en Det er mindst SB indeks 10 Det er mest sårbare Øh Og så kan man jo se det her det er så Hvis nogen kan se det så der EU in sø der så det er oppe i riskov og
+
+00:07:30
+øh Der Danner sig nogle billeder der ikke er hvad man kunne forvente men det er fordi de her faktorer er specielt relateret til oversvømmelser så det er ikke kun når man er mest økonomisk velstående men der er også alle mulige andre faktorer med så sige kysten her i risg er faktisk ikke den det område der har den laveste sociale sårbarhed øh så det er sådan set meget interessant grunden til at tage det billede med det
+
+00:08:00
+er vi har alle indekser her Vi har alle alle kategorier med fra opbud og i vingsø hvor der er nogen der slet ikke har så til et stort område hernede Syd syd for engsøen hvor der er et område med mange sociale seder Ja tak Det er godt det her det bygger på mest af det vi har laved bygger på gæs litteratur Så der har ikke været så meget udviklingsarbejde måske mere være transformeret over til danske forhold eksponeringen har vi synes jeg Det er der hvor vi har har rykket os og
+
+00:08:30
+det er også her man kan sige Man kan komme med den største kritik af vores model men vi kigger ikke kun på at hvis man bliver oversvømmet direkte eksponeret Vi kigger også på hvad nu hvis man ikke bliver direkte oversvømme men alligevel bliver ramt for eksempel mister adgang til sygehus og til læge til forsyninger bliver man så ikke også påvirket det er det vi har prøvet at tage med hernede i den indirekte eksponering så før i tiden tal eller på kystar
+
+00:09:00
+vegne tal man simpl op Det er så et et eksempel på en oversvømmelse i Vejle her og man har talt op hvor mange mennesker bliver oversvømmet jeg hvis det står 55064 så man sagt det er så den dens menneskelig sårbarhed i Vejle 5064 lår man så sammenlignet med andre områder så sagt hvor er det relativ højst sårbarhed og ø der er altså to udfordringer med det Det første som i har set ikke alle mennesker er måske lige påvirket li berørt af at blive
+
+00:09:30
+oversvømmet og hvad med alle dem Det rammer trods alt ned i centrum af en by og ramme måske nogle forsyninger og nogle andre services Hvad nu hvis de her øh afbrud påvirker folk der ikke er direkte oversvømmet og det er det vi har lavet vi kalder direkte eksponering og vi har vi har kørt lidt og vi har tænkt lidt over hvad kunne det være for nogle services der er relevante for eksempel læger brandvæsen var Forsyning og
+
+00:10:00
+hospitaler politi og så videre for hver af de her 10 enheder eller services vi kan se for eksempel læer der har vi i vores datasæt 4024 læer vi har så taget FR hver celle som nu kan jo ikke komme væk fra punktet her Så kigger vi så på hvilken udbyder af de 10 services er tættest på en Given celle og så siger vi hvis nu for eksempel Skole to bliver oversvømmet så
+
+00:10:30
+rammer det den her celle fordi det er den skole der er tættest på den celle Vi kigger på det er den måde vi modellerer det på det er måske en meget sige grov måde at gøre det på men man skal jo starte et sted og det er sådan vi har startet så de røde markerede her vil være de 10 serviceudbydere som er tættest på vores celle Vi kigger på og så har jeg sagt der kommer en oversvømmelse ind her og så de blå Det er så dem der bliver oversvømmet så selvom alle de mennesker der bor i den
+
+00:11:00
+celle over firkanten de bliver ikke direkte oversvømmet De mister stadigvæk adgang til lægehus til strøm og til varme forurening er den anden type Vi har sagt forurening servicen her er ren luft og ren vand så hvis en virksomhed i nærheden bliver oversvømmet så Mister man den service der hedder adgang til ren luft og vand så vi lavede sådan afstand rundt om den forren virksomhed så vi får altså at den her celle her selvom den ikke direkte oversvømmet B
+
+00:11:30
+alligevel ramt af nogle store konsekvenser i forhold til at blive oversvømmet øh Der skal jo være en formel enhver præsentation synes jeg For Øh alt det her er super smart Vi har nogen der direkte oversvømmet har nogen der er indirekte oversvømmet har servic nedbrud men vi skal på måde sammenligne det og ø vi var gået i stå her da vi lavede modellen og vi kunne ikke komme videre fordi vi vi kunne ikke sammenligne Hvad er
+
+00:12:00
+sammenligningsgrundlaget for at sammenligne direkte oversvømmet og så med vand og fødderne i vand og dem der Mister adgang til et lægehus Hvordan sammenligner man det og så fandt vi ud eller jeg kom frem med det her flotte people equivalent som siger følgende hvis en person mister Alle 10 services eller adgang til dem så er den person lige så udsat som hvis denne person er direkte oversvømmet og hvis for eksempel personen kun mister tre services Så er
+
+00:12:30
+person 30% så meget udsat som hvis man var direkte oversvømmet og med den enhed Kan vi så lægge sammen øh i en celle alle de folk der er oversvømmet og alle de folk der ikke er oversvømmet men fra servic nedbrud til en fælles måleenhed dem vi kalder flotte people equivalent som altså kavalerer og siger selvom der er ingen der er oversvømmet direkte Det svarer til hvis et antal mennesker ville have været direkte års der er sådan nogle beregninger Ja man kan se der Jeg
+
+00:13:00
+har bare lige sat det op man får sig flotte people equivalent inde i den her hø igen Der Vejle de der værdier Det vil sige den celle hvor der står 19,6 er altså et svar i denne celle svar det til at 19,6 personer ville være blevet oversvømmet at de så ikke er Men der kan man også lave nogle kort også lige videre for jeg har set alt det her nogle af jer Vi har så regnet det hele om til et indeks Vi har nu et eksponeringsscenarier er et socialt
+
+00:13:30
+sårbarhedsmodellen så får vi en indeks værdi så for hver celle i Danmark kan vi regne en indeks værdi ud på de sociale konsekvenser af
+
+00:14:00
+oversvømmelse Jeps så springer jeg over det her og går til ø Det her det er jo sådan at ø nu taler igen på Kyss retts vejne Vi vil jo gerne bruge den sociale sårbarhedsmodellen [Musik] model her øh Vi deler op et område Lad sige Esbjerg for eksempel hvad er andel af den samlede økonomiske risiko i Esbjerg hvad andel af den samlede
+
+00:14:30
+sociale risiko i Esbjerg og hvad andel af den sociale samlede naturris Iko i Esbjerg ø så har vi lavet nogle vægte hernede Så har jeg sagt Øh vi ved at de erfaringer Vi har at økonomi og socialt vægtes mere i natur vi har en ide om at økonomi og social økonomi og social nogenlunde vægtes ens Det er i hvert fald det kystdirektoratet har lagt til grund for men vi er ikke sikkre på vægtningen så derfor har jeg sagt lad os
+
+00:15:00
+nu forestille os at vægtningen svinger lidt så øh Vi laver sådan en en en en uniform fordeling så økonomi Kan nogle gange kun have en vægt på 0,3 og social Kan nogle gange have en vægt på 0,7 Vi regner så den samlede risiko ud hernede hvad gang de her vægte på så ø laver vi et træk for den de de har fordelinger heroppe og beregner en liste fra øverst til nederst Lad os sige Vi kigger på 110 områder der Danmark og så
+
+00:15:30
+laver vi en liste givet en af de her vægte her Hvad ligger øverst på listen så laver vi en Monte Carlo så køber vi det 10.000 gange og så kan vi for eksempel evaluere på hvor sandsynligt er det at et eller andet område ligger i top 20 på sådan den liste og det var det vi har lavet det må vi se l Øh det kan ikke give Nej
+
+00:16:00
+ø hvis jeg lige har to minutter tilbage Jeg vil lige sige der er nogle store udfordringer ved Den Sociale model og Den Sociale model vi ser her er Hvordan risikoen spredes ud Et område Det er så fra aen rå her e det SK lid Kolding Undskyld men Per definition Fordi hvis servicer bliver nedbrudt i i centrum af byen så spredes de her konsekvenser ud i stort område så det er meget svært for os at beregne et områdes risiko fordi der kigger vi jo på hvor der er speciel stor risiko og så det er svært at lave
+
+00:16:30
+en hotspot analyse på sådan en model her derfor kom niik op med ideen om vi kan prøve at lave en årsager konsekvens model så hernede har vi konsekvensen men konsekvenserne forårsages af for eksempel Er der en celle et område her den røde der et område i Kolding som driver en stor del af hele konsekvensen altså et eller andet et eller andet der er også nogle andre høje et eller andet sted her i Kolding hvis vi koncentrerer
+
+00:17:00
+Al risikoen tilbage til årsagen hvor der er en kæmpe Høj forsag forsagelse af alt den her konsekvens og det er både en styrke og en svaghed Det er en styrke Nu kan vi identificere de her områder her det er et område der har der forårsager en stor del af risikoen Øh det er også en sværhed fordi at det er den samme bare et modsatte Argument Det hænger virkelig op på nogle enkelte områder som måske eller måske ikke egentlig er
+
+00:17:30
+beskyttet at vi skaber en stor sårbarhed så jeg sagde jo Er du en liste Jeg har ikke den fulde liste jeg må godt tage den her liste med tror jeg nok Jeg har ikke spurgt ad Men jeg regner med jeg må det er og det her det er det officielle man kører den nye svings model med den nye seds model så det er Listen af social risiko fordelt på områder og vi kan se at åen rå Fredericia Kolding Maria er Fjord øh områder som som ikke før udpeget for
+
+00:18:00
+eksempel Maria Fjord får en kæmpestor Score på det sociale og i og med at Den Sociale del kommer til at spille en stor rolle så forskyder det her fuldstændig billede af hvilke områder der har den højeste samlede risiko i Danmark Øh vi kan se nogle man kan måske også se på der er nogen der SL ikke er her mere øh men hvis man inkluderer Den Sociale model som vi har gjort her så får man et helt andet billede af hvilke områder der har den højeste saml risiko Hvilket man også har fået det bliver nok Det skal nok blive
+
+00:18:30
+offentlig gort Det er jo ikke vedtaget nu Det her det er ikke væ ope departementet Nu er det her så derfor siger Det er kun en ide Jeg har skal ikke tage mig på faceb valg det her Det bliver det den sidste måde at gøre det på Jeg tager lige det Kan i så ikke får med Men ø så så langt er vi kommet i kystdirektoratet og som sagt det er blevet anvendt nu og det kommer til at have real politiske betydninger ude i Danmark tak for Nej

@@ -1,0 +1,343 @@
+=== DNNK Webinar Transskription ===
+Kategori: Oevrige
+Video ID: 07WqY0l2Gj8
+URL: https://youtube.com/watch?v=07WqY0l2Gj8
+Transskriberet: 2026-08-26T06:32:08.359294
+
+==================================================
+
+00:00:00
+Hej. Jeg tror, jeg vil starte med at sige velkommen i dag. Vi har et webinar sammen med Skov Energy og Dennis Eksport. &gt;&gt; Mm. &gt;&gt; Øh, ja. Så mig fra Lemyland. Øhm Marete, hun starter med lige at præsentere sig selv. Ja, jeg hedder Marie Løfjal, og jeg er projektudvikler i energiudviklingsfirmaet her i sådan bord
+
+00:00:30
+LMV, og vi hedder Skovgård Energy, og vi arbejder med vand, og jeg arbejder især med vand til PTX &gt;&gt; og jeg hedder Per arbejdet ved Land som er projektleder og har arbejdet rigtig meget med drengen af grundvand og blandt andet har skaffet forvand til Skov Energy. Hej, jeg hedder Claus Kattnøj. Jeg kommer fra Danish Export Association øh i daglig tale eksportforeningen. Det hed vi i hvert fald engang. Øhm hvor jeg er
+
+00:01:00
+ansvarlig for et vandnetværk som vi kører, og hvor vi er meget interesseret, det vil sige mange af vores medlemmer er meget interesseret i de muligheder der ligger i at kunne levere teknologi til vandløsninger til Power tox. &gt;&gt; Ja, super. Vi starter, hvad hedder det, præstationen, og det er Merind, der slægger ud. Øh, vi venter med spørgsmål til vi alle tre har sagt det, vi gerne vil sige, &gt;&gt; og I skriver bare spørgsmålene nede i, hvad hedder det, i chatten, ligesom I plejer at gøre.
+
+00:01:30
+&gt;&gt; Ja, tak skal du have, og først og fremmest tak fordi jeg må deltage. Det har jeg glædet mig til. Øh, vant til PTX har jo været et tema der har været op at vende og måske har været lidt mere hot for for et stykke tid siden. Øh, og der er nok nogen, der så tænker, hvad er der så sket? øh sket med det her PTX og det her vand øh siden vi ikke har hørt så meget om det. Øh og det vil jeg også det vil jeg også lige vende en lille smule tilbage til. Men øh men øh jeg vil lige
+
+00:02:00
+sige lidt kort om mig selv først. Øh jeg hedder Merete som sagt og jeg er uddannet som civilingeniør og jeg har arbejdet som som projektudvikler ved Scoper Energy nu i tre år. Og en af de allerførste opgaver jeg faktisk fik, da jeg kom hertil, det var at prøve at kigge ind i noget med noget bæredygtig vandforsyning til power to X. Øh, hvis jeg skal sige, du må gerne ø sende videre en lille smule om vores
+
+00:02:30
+firma for hvorfor hvorfor vi nu arbejder med det. Øh, så er det simpelthen fordi, at vi har en mission om at at gøre en indsats for at vi kommer en i gang mere i gang med den grønne omstilling. Øh, og det gør vi ikke kun ved at udvikle vedvarende energi, men det gør vi i høj grad også ved at integrere med andre energiløsninger og mindske øh vores afhængighed af
+
+00:03:00
+fossile brændstoffer. Det kan man jo vist kun også med med den situation, vi står i i dag, sige, at det er aldeles øh påkrævet, at vi gør det. Øh, vi er faktisk, hvis jeg skal sige lidt om vores historie, øh, udsprunget af en vindmølle opstiller, altså at firmaet startede som vindmølleudvikler, og så på et tidspunkt så kom kom firmaet
+
+00:03:30
+til sådan ligesom et et sted, hvor man blev enige om, at vi er simpelthen nødt til at fokusere på på noget andet end at skabe øh, hvad skal man sige, produktion af vedvarende energi. Vi er også nødt til at prøve at kigge på forbruget. Og hvis vi skal have elektrificeret vores samfund i højere grad, så er vi også nødt til at skrue på, at der bliver et forbrug af af elektroner. Og alle ved jo også godt, at når vi taler vedvarende energi, så er det jo fluktuende energi. Og det betyder også, at at øh vi kan have for meget af det i systemet, når det blæser meget, og solen skinner. Men
+
+00:04:00
+omvendt, når det så ikke blæser og det er det er mørkt eller det skyde og så videre, så har vi lige pludselig ikke så meget energisystem. Så derfor gik vores øh øh sige nye strategi ud på at ø arbejde med med flere led i den der værdikæde, der handler om at have noget produktion og skabe noget øh forbrug og noget læring af den her energi. Og det er der vi kommer frem til til power to
+
+00:04:30
+X, fordi det er jo så en af de måder vi kan arbejde med at øh at lære energien. Og nu ved jeg ikke, hvor hvor godt I er inde i i Power to X, men jeg kan da i hvert fald lige lige kort sige en lille smule om det. Det er jo ikke fordi at øh at det at jeg tænker de fleste af jer har haft fysik i folkeskolen og har prøvet at at lave øh hvad skal man sige brind og skille vand i i atomer til til brind og ilt.
+
+00:05:00
+Det tror jeg de fleste har. Og det er jo faktisk det som det her går ud på. Vi vi får noget vedvarende energi ind i systemet, så bruger vi den øh strøm, den sætter vi til en elektrolyse, og så får vi splittet det vand, der er i elektrolysen i ø i brindatomer og og i og i ilt. Og det er egentlig ganske simpelt. Og jeg har i den her præsentation, der har jeg faktisk sat et billede ind af de elektrolysestacks, som vi har ude i vores ø lille øh øh power
+
+00:05:30
+to X anlæg i øh i ramme. For vi har faktisk et fungerende Power to XL. de der stacks. Hvis jeg går ind på, man kan gå ind på internettet og finde et billede af en af de nogle af de første store elektrolyseanlæg i Norge. De der stacks, de ser fuldstændig lige. Der er ikke sket en hundne hundbil på på det der om på, hvad skal man sige, elektrolysedelen. Det er der så, fordi
+
+00:06:00
+der er forskellige typer elektroder og sådan noget der, men de ser stort set ud, som de som de gjorde tid. Og der er heller ikke nogen skalering. Det betyder bare, hvis du skal have mere elektrolyse, så skal du bare flere af de der flere af de der ind i systemet. Så det er sådan egentlig det det er en kendt teknologi. Den brind du så får ud, den kan du jo så kombinere med nogle andre ting øh og så skabe nogle nye produkter. Og det gør vi faktisk ude i vores anlæg i i ramme, som ligger lige her syd for for Lemvi. Der laver vi ammoniak.
+
+00:06:30
+Øh, og det gør vi ved at simpelthen tage tage kvalstof ud af af den luft, vi omgiver os med, og så bliver det puttet sammen med den brint, der bliver produceret, og så kommer det igennem med sådan en ammoniaksyntese. Og det er i øvrigt heller ikke nogen ny teknologi. Øh, og så skaber vi ammoniak, som vi så putter på en tank, og så kan der komme en tankbil og hente det. Øh, og det her ammoniak, det kan vi jo faktisk bruge til rigtig mange gode ting. Det er jo en ø energiform, kan man sige, hvor du får
+
+00:07:00
+dine elektroner over på en på en anden form, som du så kan bruge til enten at lave noget brændsel. Du kan skabe noget noget fremdrift med det. Du kan bruge det til til en en motor, til et skib. Du kan også bruge det til at at lave grøn øh hvad hedder gødning. Øh, for det er jo et fuldstændig grønt produkt, fordi alt det der er kommet ind i det, det er enten noget vi henter op fra jorden, noget vand. Det er noget luft fra fra luften, helt almindelig atmosfærisk
+
+00:07:30
+luft. Og så er det strøm fra vedvarende energi. Og vi har vores egne solceller og vores egne vindmøller, der føder ind i det her system. Øhm, og det er det, det er den måde, vi ø vi vi tænker energi på. Vi er nødt til at kunne tage energien øh når den er der. &gt;&gt; Og det er der lige præcis det her anlæg adskiller sig fra alt muligt andet, fordi det er det første i verden, der kører dynamisk. Og det vil sige at det
+
+00:08:00
+producerer, når der er masser af energi i systemet, og priserne er lave, øh, så bruger vi overskudsid energien. Hvis der er efterspørgsel i elnettet efter ener efter de her elektroner til forbrug, så så ramper vi ned. Og det vil sige, at det her det fungerer som et stort batteri. Øh, og det betyder, vi behøver ikke at slukke for solcellerne. Vi behøver ikke at slukke for vindmøllerne, for det er jo faktisk det rigtig mange i
+
+00:08:30
+dag gør. Øh, fordi at ø vi kan ikke kapere det i vores elnet. Så det er et balanceinstrument også. Balanceringsinstrument i elnettet. Vi kan lære energien, og vi kan faktisk også, og det bliver sådan set det næste skridt, vi kommer til at arbejde med, det bliver sætte en ammoniakmotor op ud, sådan man faktisk kan lave det tilbage til el, som kan komme på nettet. &gt;&gt; Og den her cirkulære tankegang, vi prøver at arbejde med i ø i Skovgård, og
+
+00:09:00
+jeg kan da i hvert fald sige, at de første, det har været en lang og en meget lærerrig proces. Og vand, kan man sige, det er jo det, det her handler om i dag. Det det fylder måske en lille lille bitte del i forhold til det samlede projekt, og det kan man måske godt forstå, men vi producerede altså det grønne, første grønne harmoniak i i december. Øh, og og det er i produktion i dag, så vi begynder også at få nogle erfaringer også i forhold til vanddelen. Så det er sådan ligesom lidt om, hvad hvilken på hvilket grundlag ud her om
+
+00:09:30
+det her. Hvis vi så kigger lidt ind i, går ind i fabrikken og kigger, så er det her et billede inde fra vores vandbehandlingsrum. Nu er det jo et lille anlæg. Det er 10 megawatt elektrolyse. Det er alkaliske elektroder, der er i. Og det er det er sådan det det er sådan det er en gammelkendte teknologi. Det er også det der er nemmest at håndtere. Og i virkeligheden også nok den der der kræver det det mindst rene vand. Forstået på den måde at vand til elektrolys, det skal altså være ultrarent. Øh, vi fik tilladelse til de
+
+00:10:00
+21. Vi har en tilslutningstilladelse til at komme af med, altså vi har får vand ind fra vandværk, så det er altså vandværksvæ vi bruger til det her. Øh, og spildevandet derfra eller retentalet derfra, det bliver ledt til lidt til kloak. Øh, vi har en et ø vandforbrug eller ved mak øh, hvad skal man sige, årlig vandforbrug på 10.000 1000 kubikmeter. Men men ved fuld fuld load på alle elektrolyser, der trækker de sådan cirka
+
+00:10:30
+40 kubikmeter i timen. Og vi skal bruge cirka rundt regnet, det er sådan nøgletallene, øh, 200 liter ultrarent vand øh i timen per megaw elektrolyse. Øh, vi skal bruge meget vand, og en stor del af det faktisk helt en tredjedel, det er faktisk skyllevand, fordi når vi renser øh ø det her vand, alle salte skal skal dehydraliseres og og så videre, det skal blødgøres, øhm
+
+00:11:00
+så skal vi bruge vand til at øh skylle de her filtre og og det er der vi får, hvad skal man sige, det vi kalder for redentat. Og vi har så ø en tilladelse til at aflevere cirka 3000 kubikmeter resultat som så går til et af PS PS renseanlæg. Øhm, det der er udfordringen med med resultatet, det er jo altså der bliver ikke tilført noget i processen. Der der kommer ikke nogen flere stoffer i end
+
+00:11:30
+der er i forvejen, men det resultat der er, det er opkoncentreret for så vidt angår de salte og de, hvad hedder det, ting der måtte være i. Øh, og det er så en af udfordringerne, som skal håndteres, så. &gt;&gt; Yes. Du må godt gå videre. Ja. Og og vi har, jeg har som sagt arbejdet lidt ind i det her med med bæredygtig vandforsyning til Power to X, fordi
+
+00:12:00
+anlægget i ramme er er ligesom et en form for et fuldskal testanlæg for os, men vi har planer om at opskalere til mere Power to X. Og der har et helt klart mål været for os eller er for os at prøve at kigge ind i, hvordan kan vi gøre vandforbruget mere bæredygtigt. Det er der også skrevet rapporter om i igennem tiden, fordi hvis hvis hvis den strategi som som har været i hvert fald hidtil i i
+
+00:12:30
+på national plan, så taler vi om rigtig mange gigawatt, og så så snakker vi også om rigtig store mængder vand. Øh, og det vand øhm der er jo rigtig meget at snakke om grundvand og drikkevand i disse dage. Der er ingen grund, der er i princippet ikke nogen grund til at bruge bruge øh udmærket drikkevand ø hvis vi kan finde nogle andre kilder. Og hvis du lige går tilbage til den den foregående Ja. &gt;&gt; Så har jeg prøvet sådan at tømme hovedet
+
+00:13:00
+for hvilke forskellige typer af vandkilder det kunne der kunne være tale om her. Og i princippet øh kan alt vand bruges til elektrolyse. Øh det er sådan set et spørgsmål om hvor øh hvordan du dimensionerer dit dit rensebehov. Man man sæt man skal sætte nogle rensetog ind efter hvad det er for noget vandet indeholder. øh sådan at du kan få det renset ned til til de niveauer øh som kan gå ind i en elektrolyse. &gt;&gt; Men der bliver man bare også nødt til at
+
+00:13:30
+huske på at de stoffer, der er i det vand man får ind, de forsvinder jo altså ikke. Og de forsvinder ikke i nogen elektrolyse eller oppe i luften. De er der stadigvæk. Og det betyder også, kigger vi ind i andre vandkilder, så kan vi stå med nogle udfordringer, som vi skal finde nogle løsninger på. Øh, det kunne jo for eksempel være Pfas. Øh, det kan være metaller og andre ting, som jo så bliver også bliver opkoncentreret øh og derfor skal håndteres. Et andet en anden ting man også skal
+
+00:14:00
+kigge ind i, det er jo at vi skal have nogle mængder og vi skal have en kvalitet og vi skal have en forsyningssikkerhed på det her vand. Så det kan, når man begynder at kigge på forskellige andre kilder, hvor vi ikke bare åbner for en vandhale, så er man nødt til at kigge ind i i de her forhold. Men der kan også være nogle ø nogle gevinster i det. øh for natur og miljø, hvis man måske kunne tage nogle stoffer ud af systemet, som ellers i dag ville være inde i i det hydrologiske kredsløb. Men og så kan man sige, der har det været der er det jo en hjælp i dag, at
+
+00:14:30
+det er muligt at etablere nogle af de her altså der er blevet lovligt at etablere et teknisk vandforsyningsselskab. Det det det er forsyningslov blevet udvidet med, så man vil kunne etablere forsyning af det her, for det har også været et issue. Men jeg må også sige, at hele vand ogog miljø øh og forsyningslovgivning, det det er rimelig komplekst, og jeg er halv ikke sikker på, at alle knaster er blevet løst endnu. Og så vil jeg også bare sige, og den er også highlighted, der skal også være styr på håndtering
+
+00:15:00
+resultat, fordi ellers så kommer vi ikke &gt;&gt; Mm. Det det er simpelthen også et issue som som der skal være fuldstændig styr på. &gt;&gt; Ja. &gt;&gt; Og det kræver virkelig at vi får samarbejdet på tværs. Og det er jo også blandt andet derfor vi har et projekt kørende sammen med klimatorium for at kigge på de her ting. Og så må vi også bare erkende ting tager tid. Sådan har det også været med PXudviklingen. Det var meget oppe at vende og det blev kølnet noget blandt andet på grund af den brindur infrastruktur, som der ikke er truffet nogen sådan større
+
+00:15:30
+beslutninger om endnu. Så så der er lidt vej endnu, men jeg er helt sikker på, at det kommer ø tager bare lidt længere tid, og der er nok også lidt flere knaster, der skal høles af. Tak for ordet. &gt;&gt; Øh ja, som sagt så hedder jeg Per. Øhm, jeg har arbejdet med det her i et par år efterhånden. Øh, nogle af mine fområder, det er, hvad hedder det, regner grundvand. Det har jeg egentlig arbejdet en hel del med øh i mit arbejde herude. Øh, og så har jeg haft ret stor fokus på
+
+00:16:00
+brug af det. Øh, nu har vi valgt at lave det ude i i, hvad hedder det, nogle forsøg ude i egen ramme, hvor vi indvender noget til regnlag rundt vand. Det kommer jeg lidt mere ind på scenen. Øhm, og det er egentlig det vi, det er det jeg arbejder rigtig meget med, mens jeg har været her i det vand. Øhm, i forhold til vores samarbejde med med kommunen eller min kommune også Skov Energy, der har vi egentlig haft et rigtig godt samarbejde. Øh, det startede egentlig med at Skov Energy kom for nog som jeg gerne ville have en bæredygtig
+
+00:16:30
+cirkulær vandforsyning. Øh, den rapport som der var afbildet på det sidste slide i Netes slideshow den er faktisk blevet udarbejdet i noget der hedder Gørfyr et øh og der fastlagde vi kilder vandkilder til forsyning der kunne forsyne et andlæb op til 100 MW det er omkring 140 kubikmeter i timen vi skal bruge til at forsyne det øh med råvand når det er den type vand som vi bruger øh men nu har de jo i skovgår ind
+
+00:17:00
+de valgt at lave et et stort pilotanlæg i stedet for der kan de ø nøjes med at bruge de her omkring 2,5meter råvand i i timen. Øh så derfor har vi valgt at at begynde at kigge i nogle andre retninger. Og det har vi så snakket med kommunen om og med skovgård om. Øhm, der har vi blevet enige om at forsøge at indvinde noget drengene et rundvand ude ved cockery. Vi har sat nogle brønde derude. Dem kan vi også ind på på s. Øh, men det der egentlig har været det gode i det hele tiden, det er vi har haft en
+
+00:17:30
+god snak med hinanden, og vi har haft nogle nogle mål, hvor vi gerne vil gøre bæredygtighed og sekularitet og så videre til til noget vigtigt, sådan at at vi får en en god fremtid sammen. Så det startede med, at jeg søgte om det her håndborginger for snart to år siden ud på hams område, skok ogråde. Øhm, kommunen de kom så med nogle krav om at for at vi skulle få lov til at lave det her, så skulle vi et øh en baseline derude, den blev sat i
+
+00:18:00
+juni sidste år, og der satte vi syv øh boringer derude, ræende af boringer ned til fem meters dybde og satte en målning op i dem, en lokning op i dem. Og den har jo så kørt siden kør stadigvæk. Øh, så var der snak om, at vi skulle, der var et par naturområder derude, sådan nogle naturlige våde områder. Øh, den skal vi også over og våge på. Og så er de lidt bekymret for, at nogle af de her grøfter, som vi som det eksisterende ren, øh, der er derude i området i i noget af området øh
+
+00:18:30
+den leder hen til en en grøft, der hedder York Halles grøft. Øhm, der er de lidt bekymret for, om der sker for meget med vandstanden i den eller vandføringen i den, sådan at det kan gå udover vores dyreliv ogog biodiversitet. Øh, så derfor så har vi sat fået sat boringer op og fået sat lokninger op. Vi lokker cirka en gang i minuttet derude. Øh, og vi øh, vi har ret meget vand derude, som vi som jeg husker det i nogle af vores boringer derude, der står vandet mellem øh eller
+
+00:19:00
+op til 0,5 meter under jordoverfladen her om vindten, og det er værst. Og det dybeste jeg har set i denboring det er vist landen ved omsum. Så så der er en del vand tilhed. Åndene de er blevet etableret i enten tre eller fire meters dybde. Den øverste som I kan se heroppe det er en brønd fra noget der hedder Ur. Det er en brønd som egentlig er udvikling af efter samtale med os.
+
+00:19:30
+Øh, det er egentlig noget som er lavet som, det er nogle plastikkassetter, som man egentlig er, de er egentlig beregnet til at opbygge øh vej vandopbegaring under byernes øh under vejene inde i byerne. Øh, som vandparkering, så det er egentlig bygget op som legoklodser, så du kan bygge dig udenom, hvis der er et naturgasprør eller en kloakledning eller en fiberkabel, så kan du bygge dig udenom med det her. Men da UWR var oppe og og informere om det her eller fortælle om det her system, så foreslog vi dem om om
+
+00:20:00
+man kunne lave det som en som en brønd i stedet for. Det har han jo så ø leveret til os. Ø den brønd som vi har sat der er den tre meter dyb. Der står blank vand nede i den. Ø vi har desværre ikke noget at pumpe på den lige nu. Det kommer den anden brønd på det nederste billede det er fra IBF beton. Den er egentlig, den har været udviklet igennem de sidste eller den har lagt de sidste 15 år. Den er brugt som sien. Øh, for eksempel hvis du har en stor parkeringsplads, så har du en stor
+
+00:20:30
+stueplads ned. Så lægger du den ned som en rør, så leder vandet ned i. Og så er det mening at det skal sive ud igennem betonen. Betonen det er lavet i noget der hedder, eller det er en type beton, der hedder plagia beton. Det er betyder, der er nogle store pååbninger i det. Det har en ret stor åbning, så så det er ret der kan komme ret meget vand ud igennem. De har aldrig prøvet at tage vand ind på den måde her. Men øh, nu prøver vi det at se, hvordan det hvordan det gør. Den er så fire meter dyr. Så kan man se den blå slange. Det er fordi, vi har haft sylspillet på. Så
+
+00:21:00
+det næste vi skal til at i gang med nu, det er, det har vi gået og ventet lidt på. Først så skulle vi have lov at sætte brøndene. Det fik vi sidste år i oktober. Så løb vi ind i en masse ordentlig vejr, så skulle ikke sætte brøndene, og så blev det frostvej, og så aftalte vi, nu kan vi sætte dem. Nu er grunden uden frost nok til, at vi kan komme ud med en renderaver eller en gravmaskine. Og så da vi havde aftalt det, så de skulle i gang om mandagen, så var på søndagen der slog de om i tø og regnvejr. Så det opgav vi. Så blev det heldigvis frostvej en gang til. Øh, så der fik vi sat
+
+00:21:30
+brønnene. Så det de blev sat i, var det ikke februar, eller var det i januar? Nej, det var februar, sy jeg husker. De blev sat i. Så vi har simpelth ikke nået at få gjort det endnu. Få den sat i gang endnu. Øh, det næste der sker, det er nu, når vi har har besluttet, hvordan vi gør det. Jeg har lige fortæller et slag til at pumpe det øh renpumpe dem. Når man sætter en brønd, så skal de renpumpes. Der skal man pumpe vand i 24 timer fra den. Og så var kommunen igen i dialog med dem, der var vi de var lidt usikkre på, hvor meget der var i det, om
+
+00:22:00
+det kunne tage livet af vores øh af den ret, vi leder det af til. Så så derfor så vil vi prøve det. Øh og så når vi har øh fået op den renpumpet og fået sat et system op, så har vi en aftale med Teknologisk Institut om at vi faktisk kører noget vand ned til dem og så renser de det og og ultrafiltrerer det og kører omvendoser på det så de får de her forskellige retatdele ud. Det var det som Ro snakkede lidt om før. Vi får en
+
+00:22:30
+repentatdel fra ø ultrafiltreringen, og så får vi en reprentatdel fra den omvendte osmose. Der har vi i samarbejde igennem teknologitut et projekt der hedder alternativet, hvor vi faktisk kiggerat rensning. Jeg tror også ska komme en lille smule ind på det. Øh, men der vi starter simpelthen med at lave et et ø et mikroforsøg, hvor vi laver nogle kubikbter vand på den måde, og så begynder de at kunne sætte nogle parametre om for, hvad vi skal kunne rense med. øh hvordan vi skal rense det
+
+00:23:00
+og så videre. Og når det så er op og kører, så forventer vi, at vi begynder at lave en en rørledning og få lavet en setup, sådan at skov de faktisk interesseret i at opsætte vand her fra en vi valg. Så det var mine ord. Jeg hedder Claus. &gt;&gt; Jeg kommer fra Danish Export. De har 120 medlemmer og vi er medlemse, som har det til fælles, at de alle sammen arbejder inden for vandeksport. Det vil sige, de eksporterer ikke vand, men de
+
+00:23:30
+eksporterer alle deyr, der skal for at have ren vand i drikkeen og efterrensningsanlæg og industri og vandbehandling og så videre. Vi har cirka 50 ø medlemmer indenfor, som jeg er netværksleder for. herunder faktisk også de her UWR, som hedder Urban Water Retention øh med den løsning der var sat ud her og ude ved ramme &gt;&gt; øhm
+
+00:24:00
+arbejdet med undskyld &gt;&gt; arbejdet med det her område startede for vores vedkommende øh fra før jeg startede. Jeg har været to et halvt år som netværksleder i Danish Export og øh og der var der faktisk allerede etableret en arbejdsgruppe på daværende tidspunkt af interesserede medlemmer. Der er cirka 20 medlemsvirksomheder, der er interesseret i det her område omkring øh, hvad hedder det, levering af vand og
+
+00:24:30
+vandteknologier til Power Twix som et fremtidigt eksportpotentiale. Øhm. Så så det er ligesom lidt om som min baggrund og hvad vi har arbejde med. Øhm og vi tager bare lige den næste slide her. Øh der kan man sige jamen det har jeg været lidt inde på det her med med
+
+00:25:00
+baggrunden. Det gjorde så at vi lavede det første seminar øh i 2023. Øh det lavede vi hos Grundfos. Der var cirka 100 gæster øh repræsenterede, jeg vil sige det meste af industrien, som opererer inden for det her felt. Og der er rigtig mange parter selvfølgelig involveret øh udover de individuelle vandforsyninger og så ø øh hvad hedder det, Power TwX udviklere og og dem der drifter anlægget. Så er der jo så alle de her forskellige dele af forsyningskæden øh og også rådgivende
+
+00:25:30
+ingeniør. &gt;&gt; Så vi havde alle vandnørderne samlet der. Og den første gang der gik vi meget igennem, hvad er der af lovgivning, er der de vilkår der skal være til stede? Forsøgte at få mappet hvor mange vi havde. Øh, det var så i 23. Jeg mener, det var i november 23, så allerede i januar 24, så var vi ved DHI, der var cirka 80 gæster. Øhm, og det var egentlig der, vi fik etableret, hvad er det egentlig for nogle forskellige
+
+00:26:00
+vandressourcer som ø som er til stede, hvis vi tager den næste? Øh, vi lærte tre ting af de her forskellige seminarer. Øh, vi fandt ud af det her med Power to X anlæg, når nu man har samlet alle de her vandnørder, så starter det ikke med at handle om vandet, så handler det faktisk om strømmen. Altså blandt andet, hvor den kommer ind ø fra store havvindmøllepakker i eller i det her tilfælde, hvor man har oprettet sine egne vindmøller og solcelleparker.
+
+00:26:30
+Øh, fordi det handler selvfølgelig om at transportere strømmen kortest muligt, før man konverterer den til noget andet. Og det vil så sige, at så skal man jo finde en lokal vandkilde ø på det sted. Og den lokal vandkilde skal jo så held være bæredygtig. Ø, det er så heldigvis, at Skov og Energi de går går op i det. Men det er faktisk besluttet også i forhold til Danmark og miljøstyrelsen, at ø det vil man have at
+
+00:27:00
+de på sigt skal være. Så det kan være der er givet en dispensation op til en given størrelse af at blive grundvand, men på sigt skal det over og bruge noget andet der er mere bæredygtig end vores grundvand, som vi jo helst vil reservere til at drikke af. Øh, og det vil sige, at vi har det her øh terrængnært grundvand, som en af kilderne ø en anden er fra rensningsanlæg, det eksperimenterer man med nede i Esbjerg. Ø, og så kan man
+
+00:27:30
+også en en overflad. Øh, og til sidst så havde vi faktisk også løsningen op med afsaltning. Øh, og afsaltning er jo faktisk en af de muligheder, man undersøger flere steder i landet, blandt andet omkring Kalundborg, hvor man har en meget, meget stor industriproduktion, og man er ved at tømme den lokale sø, Tissø, ø, og er nødt til at overveje andre alternativer. Det er selvfølgelig sådan, at man anvender den ø vandkilde, som er ø, hvad kan man sige, billigst at
+
+00:28:00
+anvende, og som er bæredygtig selvfølgelig samtidig som et krav, og hvor afsning jo er klart dyrere end de andre i forhold til det energiforbrug øh der ligger i at skabe den type. Øh, så så der eksperimenteres med alle tre ting øh af vand. Afsalning, den er ikke lige på tapetet lige nu, men den vil komme i Danmark. Det er overbevist om, at den kommer på et tidspunkt. Øhm, og som du var inde på, Per, så i forhold til
+
+00:28:30
+alternativet, så arbejder man jo med det her område helt indtil 2028 sammen med de her demonstrationssites, der er etableret, hvor at det i ramme, ikke så langt fra, hvor vi er, er et af dem. &gt;&gt; Øhm, så er der omkring, jamen eksport. Det er jo der, hvor man kan sige, vi kommer ind. Øh, jamen først så vil vi jo gerne have nogle demonstrationssites, og der er det jo så heldigt, at vi er meget, meget tæt på her, og nu har vi faktisk noget, der virker til Skovgård
+
+00:29:00
+Energy, og det sætter vi jo stor pris på. Øhm, og det betyder jo faktisk, at øh, at vi vil meget gerne have lov til at lave nogle indgående delegationer øh sammen med de lokale trade councils, der er rundt omkring i verden. Og jeg skal lade være med at trætte jer med, hvordan det er organiseret og så videre, men der er en stor interesse, kan jeg afsløre, øh, bare også fra nærmarkeder til at komme og besøge og og se de her anlæg. Det er ligesom et af de greb man har for
+
+00:29:30
+at man kan have forsyninger og andre potentielle power tox udviklere til at komme og se hvordan vi gør i Danmark. Og det sidste det er så at vi vil meget gerne have lov til at bringe det med ud på udstillinger. Ø sådan at vi er en af Danmarks største udstillere. Vi har på IFA der er her til den 4. til den 7. maj. Øh, det er verdens største miljømæsse. Nede i München med 100 over 140.000 besøgende. Det er edderbank med
+
+00:30:00
+stort. Der har vi jo haft en tradition for også at have meget omkring grundvand, så der vil være et fagligt seminar om grundvand. Vi har ikke Power to X med endnu. Øh, men det kunne man sagtens forestille sig på den næste ifad. Men så har vi heldigvis den næste mulighed. Ø, og jeg skal lige hilse at sige, at hvis der sidder nogen derude og siger, de vil egentlig gerne med på IFA, så har jeg stadigvæk plads til en poster. Øh, så kan man komme med der. Øh, og ellers så har vi IWAen øh, som er egentlig mødestedet imellem ø de globale
+
+00:30:30
+vandforsyninger øh og så industri ø og alle den de operatører, der ellers er. Der mødes vi den 4. til den 8. oktober i Glasgow i Skotland. Øhm, og der vil det være oplagt at bringe en vand til sustainable water til power to X. med derover. Øh, jeg ved at Grundfor er ansvarlig for industrisporet derovre, og det har vi en dialog med dem om, at det kunne blive nemt løfte ind,
+
+00:31:00
+hvis det er noget, som vi kunne være interesseret i og bringe videre fra i fra i dag. Øhm, og ellers så Agatteeken, der har vi allerede snakket med messarrangøren dernede, at de har jo meget fokus på resiliens. Øh, de har også problemer med at have for meget vand de forkerte steder. Øh, så de løsninger vi har her især i ramme ø er helt oplagte at bringe til Holland. Øh, og så kommer vi jo ind på også hele det
+
+00:31:30
+her med, det ikke bare handler om, at der er for meget vand de forkerte steder, men også det at kunne bruge anlæggene som meget store batterier m &gt;&gt; i forhold til at kunne tage strøm af nettet, når ø altså peak shaving, når der er for meget, men også at når der er for lidt at kunne føde ind i nettet og dermed stabilisere vores elnet. Så der er selvfølgelig også en en et spørgsmål om energi og i det hele taget ø sikkerhed i vores infrastruktur øh i
+
+00:32:00
+blandet ind i det her, som der også er meget store eksport muligheder i. Øhm og så håber vi og det kommer jo så efter i dag at vi kan få etableret det tredje seminar. Det har jeg så ikke skrevet op for endnu, fordi vi har ikke sådan helt tingene på plads, men vi kunne godt tænke os at at have det tredje seminar, og vi skal ud og sparke nogle del. Altså det her med at vi kan komme ud og faktisk se et anlæg, der fungerer. Øh fordi det er ligesom det næste skridt, vi skal tage på den rejse vi har været.
+
+00:32:30
+Øh, og potentielt, hvis også det har interesse, kunne man også sagtens tænke sig, det er noget, vi gør med andre aktører. Altså vi er jo bare en forening, kan man sige, og jeg er en netværksleder, men ø men der er jo mange andre øh, hvad hedder det, operatører med i det her. Øh, blandt andet trade council, synes jeg kunne være oplagt at at tænke i den retning i forhold til at få skabt noget større opmærksomhed på de løsninger, der faktisk allerede er udviklet. Og selvfølgelig bliver
+
+00:33:00
+fintunet og bliver bedre og bedre og så videre. Det er jo en del af rejsen. Jeg tror egentlig også at det er svaret på hvorfor at det tager noget tid. Altså hverken Rom eller noget andet bliver bygget på en dag. Og sådan er det heller ikke med eksport. Og sådan er det jo heller ikke når man skal bygge noget af det første i verden inden for for Power to X. Øh og finde nogle samtidig lægge nogle store krav nedover og gøre det bæredygtigt. Altså det var jo så nemt hvis ø hvis vi bare sagde vi skal have noget op at køre. Men men i Danmark har vi det jo netop med, at vi lægger rigtig
+
+00:33:30
+mange krav nedover øh for at få det få det op at køre, så vi har noget der er bæredygtig på sigt. Og så er der jo også hele det her PTX område, der skal jo også skabe og også PTX produkter, det skabes marked. Det marked er jo ikke skabt &gt;&gt; eller fungerende i dag. &gt;&gt; Det betyder, så har du jo endnu flere. Altså det kan godt ske, du har nogle rentløsninger noget, du skal ud og ses nok, men men det er jo meget mere komplekst end som så. Så du skal jo også ud og skabe et marked, fordi produkter der skal afsættes, ikke?
+
+00:34:00
+&gt;&gt; Og det er sådan lidt som spelet hønen ægget, hvad kommer først, og hvem får hvad skal man sige hul igennem øh først? &gt;&gt; Jamen, du sagde før også, det er kendt teknologi, at det har det lige nu kombination, det er kombinationen der, &gt;&gt; det er det, der driller, ikke også? &gt;&gt; Det er den, der er ny, der er udfordret. &gt;&gt; Og det er det produkt, der kommer ud i den anden ende, der er nyt, og som jo heller ikke har en markedspris, &gt;&gt; ikke? Grøn ammoniak findes der ikke nogen steder i verden anden end det vi har derude. &gt;&gt; Hvad koster det så noget? Alene det er en kæmpe udfordring at finde ud af.
+
+00:34:30
+&gt;&gt; Ja. Ja. Jeg skal måske også lige annoncere her at ø nu kommer jeg så fra fra Danish Export Association, men vi har faktisk også et søsterselskab der hedder Danish Energy Export. De har faktisk en PowerX gruppe. Og det er sådan at ø Danish Energy Export faktisk er 50% af Green Power Danmark. &gt;&gt; Så de er faktisk også indirekte. Ja. &gt;&gt; Øh, til stede i den her gruppe. Mm. &gt;&gt; Ja. &gt;&gt; Yes. Super. Jeg kan se, der er en
+
+00:35:00
+spørgsmål til dig med det her med pris, hvor strøm øh følger i prisen, eller følger I faktisk hvor meget strøm og for ikke? Øh, jeg kan ikke, det kan jeg ikke svare på fuldstændig i detaljer. Øh, men det som man skal huske, det er at ude i ramme, hvor vi har vores PTX, der har vi jo så også ø de vindmøller og det sol, der føder ind øh til PTX produktion.
+
+00:35:30
+Øh, det er sådan behind the meter øh projekt. Øh, men der det som man jo skal finde ud af, og det og der og det der ligger vi over i måske det mere kommercielle spor, som jeg ikke er en del af, men det der med at finde ud af, hvornår og så lave de der forecasts, hvornår hvornår regner man med øh at at der er efterspørgsel ø og hvornår er der ikke? Og så og det hele det modelarbejde der skal laves, det er faktisk også en af vores udviklingsø
+
+00:36:00
+projekter at få få lavet noget noget noget der kan håndtere det. Men det bliver styret ø helt klart. Øh og det er ikke sådan, jeg kan ikke sige om det det er pris eller hvad det hvad det er det, fordi det er jeg simpelthen ikke enig i. Men men ja det skal styres øh meget nøje det der. Og det er også en meget kompleks opgave at finde ud af, hvordan man skal gøre det. &gt;&gt; Men så stor som I er, så kan I jo nok også byde ind systemet, så h energi ud
+
+00:36:30
+af nettet. Ja. &gt;&gt; Ja. Ja. Ja. Altså det og igen, det er ikke lige mit mit gebet, men det er jo blandt andet fordi altså man kan jo godt betragte det som en form for batteri, ikke? Og det er jo lidt lidt den samme &gt;&gt; øh type tænkning, at øh at man kan man kan lave noget der. Øh, &gt;&gt; men hvordan det præcis fungerer, det ved jeg s &gt;&gt; øh jeg havde en af de ting, jeg tænkte på, da da du så sagde, det var det her med, hvor hurtigt kan I ramme op og ned, altså hvor dynamisk er, hvad er stum?
+
+00:37:00
+&gt;&gt; Det er jo blandt andet noget af det, vi er i gang med at teste efter det er blevet sat i drift. Der foregår en hel masse test på &gt;&gt; på hvad det hvad man kan, hvor hurtigt og hvordan og så videre. &gt;&gt; Ja. Så så det er noget af det, vi skal blive klogere på, fordi det her skal jo også sættes, hvad skal vi sige, det skal det skal reguleres ind, sådan at man kan kan styre det. &gt;&gt; Mm. &gt;&gt; Øh, på en på en smart måde. &gt;&gt; Øhm, men det er sådan kan relativt
+
+00:37:30
+hurtigt rampes op og ned. Og det er også det der, &gt;&gt; det er også det der skulle være fidusen ved det for lige så kan man sige ellers så er det jo ikke dynamisk. Nå, &gt;&gt; det er jo en af de udfordringer, der er også i forhold til det her med med vores elsystem, som det bliver bygget om til vindmøller og solceller. Den du får flere af de der peaks, der går stærkt op &gt;&gt; i forhold til dengang vi brugte kulkraft eller gaskraftværken. &gt;&gt; Så det er jo et spændende system, så. Ja. &gt;&gt; Ja. Og jeg vil også sige, at vi har vi
+
+00:38:00
+får brug for alle de koblinger, sektorkoblinger i energisystemet, vi overhovedet kan få. Det her det er en løsning, men der er rigtig mange andre. Vi vi skal have vi er nødt til at have dem alle sammen i spil for at få det bedst muligt ud. Og derfor bliver hvad skal man sige, hvordan hvordan de så skal connectes, og hvordan det så skal styres. Det er selvfølgelig en en ø en opgave der også der også følger med. Øhm så vi kan få det få det som man sige det bedst mulige ud af det. Mm. &gt;&gt; Men altså, vi har jo så selv valgt at og
+
+00:38:30
+også have sådan rimelig styr på vores værdikæder, fordi hvis hvis vi skal sidde og vente på, at der er nogle andre der finder på et eller andet eller udvikler et eller andet, så ved vi jo godt, vi kommer til at sidde vente lidt længere. Så det er også derfor vi arbejder med flere flere led i den her værdiklæde. Øh &gt;&gt; øh så er der en der har spurgt hvad fordelen ved de beskrevende brøndtyper er i forhold til almindelig filter filtersatte boringer. Der er nok ikke nogen forskel eller hvad hedder det fordel specielt ved den her men det der
+
+00:39:00
+er hvad hedder det spændende ved dem brønde vi har sat derude det er at dem kan man gå ned i og så kan man øh bren ud hvis ikke de giver nok for eksempel i en i en lav højde. Øh, specielt den store beton, hvor kan man gå ud og læg dræ ud fra. Og der har jeg jo haft sådan lidt en skummel bagtanke. Jeg sagde, jeg kom fra Lin Vand. Og vi har jo i i vores nye de nye regler, der er blevet vedtaget, som er gældende fra juni sidste år. Så juli sidste år, der begyndte vi at
+
+00:39:30
+skulle som forsyning at skulle begynde at kunne sænke grundvand ø træ af grundvand inde i i bymæssig bebyggelse. Og ø det er ikke så nemt at komme med sådan en almindelig standard kædegraver inde i i byen og så kører igennem. Så er der mange ledninger, der skal repareres, mange kvakrør og vandledninger, der skal repareres bagefter. Så derfor har vi prøvet at sætte dem her, og så må vi se, om vi skal ned og prøve at bruge et hul ud i to meters dybde. Øh, måske 50 eller 100 meter ud for at trække mere vand
+
+00:40:00
+ned, sådan at vi kan få et mere jævnt sænkningsområde til brønd. Så &gt;&gt; ja, &gt;&gt; vi er nødt til at have flere gang i flere ting på en gang. Øh, også prøve prøve nogle forskellige ting af. Mm. &gt;&gt; Og det kan man jo, når man har sådan en form for living lab, som vi kalder det. Øh &gt;&gt; øh og hvor der rent faktisk er noget ude i konkret ude i virkeligheden, som bliver brødet af, og hvor man kan se, hvordan det virker. &gt;&gt; Og jeg er da jeg er da meget spændt på,
+
+00:40:30
+hvad hvad resultatet bliver af det her øh trængende af grundværd. Om det egentlig er en kilde, man kan bruge, &gt;&gt; øh hvad det kræver at rense. Øh hvordan man kan håndtere resultatet, hvad det hvordan det ser ud. Men for os er det jo også vigtigt, at at det skal være det skal være en stabil vandkilde. Øh, og det skal også være, og derfor skal man måske også tænke i det, skal vi så til at have noget reservoir eller eller hvad følger der med af overvejelser, hvis man skal bruge andet
+
+00:41:00
+end at man åbner for vandhan? Og så er der jo også den udfordring, at hvis du begynder at blande vandkne og altså kvaliteten af vandet varierer, så kan det give nogle udfordringer i forhold til, hvad skal hvordan skal du så rense det? Øh, så så der er rigtig mange ting, man skal tænke over. Øh, og det koster selvfølgelig penge at lave øh rense vand. Det ved vi jo godt. Øh, men altså hvis man lukker noget vand på de her elektrolyser, der ikke er øh
+
+00:41:30
+opfyldt af de der standarder, så får man nogle rigtig rigtig store udgifter. For de her elektroder, de bliver simpelthen ødelagt. Og effektiviteten falder jo i forvejen over tidlyser. og skifte sådan en ud. Det det er oppe i den dyre ende, vil jeg sige. Øh, så så der er rigtig mange at overveje. Så det skal se, men hvis ikke man hvis ikke man prøver at gå i gang med det, hvis ikke man får får lavet de der forsøg, hvis ikke man man er nysgerrig på, hvordan kan det her
+
+00:42:00
+lade gøre, eller kan det lade sig gøre, eller hvilke udfordringer giver det så, så kommer man ikke. Altså vi kan jo snakke rigtig meget om alt det der burde laves om og alle mulige ting, men man også en gang imellem nødt til at kaste sig ud i det og prøve det for at få de der erfaringer. &gt;&gt; Det der er med det der hvis ikke brindår er altså det blev ikke bygget før der er nogen der begynder at lave noget. &gt;&gt; Nej det gør det. &gt;&gt; Det er det jo så nu. &gt;&gt; Ja &gt;&gt; nu har I så valgt at lave det om til fordi så kan I komme af det er jo en af det jeg tænker det er årsagen til at det lige nu vi har valgt. Ja. Ja. Det det er
+
+00:42:30
+det er i hvert fald et stof, der er på også på verdensmarked er en kæmpe efterspørgselter, og det er et stof, som har en produkt, der har rigtig mange anvendelsesmuligheder. &gt;&gt; Mm. &gt;&gt; Øh, så så derfor giver det jo god mening at at vælge et produkt, der man formentlig vil kunne skabe en fornuftig afsendelse for, så skal man jo huske ammoniak, det bliver produceret i dag på fossile brændsler. Det bliver produceret for fra naturgas primært. Og det betyder også, at hvis du kan skubbe skubbe noget
+
+00:43:00
+af det forbrug hvis du kan skubbe noget af den væk, &gt;&gt; så kan du altså også få en mere grøn øh enten øh brændsel til skibs motortrafik eller til gødningsproduktion. Gødningsproduktion er faktisk en rigtig stor klimasønder. Øh &gt;&gt; og der jeg tror ikke det er realistisk at forestille sig at man holder op med at producere gødning. Øh, &gt;&gt; det kan man ikke. Det skal man, &gt;&gt; men hvis det kunne blive mere grønt, så vil det jo være trods alt et skridt på
+
+00:43:30
+vejen. &gt;&gt; Så er der kommet et spørgsmål mere inden vi sådan så lige springer væk. &gt;&gt; Der er noget med, når alt efter hvorhenne vi indviter det her træende af grundvand ude på skovgård, det er jo en gammel svinebro der har været ude på svinbus. Så gyld er kommet gyld fra svin her høst sandsynligt på markerne, når I har det nu. &gt;&gt; Ja. Så er det jo nogle forskellige udfordringer. Der vil være for eksempel s være typiske vi finder eller et metal vifer. Andre steder måske andre steder i verden, der ville man skulle bygge et
+
+00:44:00
+andet rensetog op. Men nu får vi nogle erfaringer med hvordan vi gør det herude, &gt;&gt; og så må vi se, hvordan vi kommer videre med det der derfra. Øh &gt;&gt; øh andre steder har de andre ting i undergrunden, ikke også, som gør at det bliver problemet. &gt;&gt; Ja. Øh, der kan man i hvert fald sige, at at noget af det, der laves rigtig meget øh, der er sådan Danish Waterform, de har sådan en årsmød. Og noget af det, der blev vist rigtig meget af, det er det her med at opsycle. Altså, hvis man nu renser vand og metaller og hvad der
+
+00:44:30
+ellers er, &gt;&gt; så har det mere og mere en pris også og en værdi. &gt;&gt; Øh, så det kan man også tænke på i forhold til de lokale løsninger, der kan være. M &gt;&gt; øh nok især også når man kommer til udlandet i i områder der er tæt på minedrift og sådan noget hvor du bagefter faktisk skal rense vandet øh det der krav så kan det være der er litium i vandet eller hvad der nu er øh jeg tror nok at 7% af det der indgår i Teslas batterier det kommer faktisk fra
+
+00:45:00
+fra vand man har renset &gt;&gt; okay &gt;&gt; øh for litu &gt;&gt; når de er produceret i USA &gt;&gt; okay &gt;&gt; øh så så der er der er forskellige muligheder i det her øh Så der kræver forskellige løsninger, fordi der er forskellige udfordringer. &gt;&gt; Jaen, jeg ser der bestemt også et potentiale for, at man måske kunne kunne fjerne nogle ting, øh, som man så kan få håndteret på en måde, der gør, at man kan komme af med det. Ja. &gt;&gt; Øhm, men igen der kan man så sige, der vil der vil der vil jeg som PTX udvikler
+
+00:45:30
+jo sidde og tænke på, at det skal ikke det skal ikke være en, den abe må ikke ende på min skuldre, så der skal være en løsning for det. der følger efter. Så vi skal hele tiden tænke &gt;&gt; m &gt;&gt; hele, hvad skal man sige, helt frem til Øh, og det vil sige til til udledning, ikke? &gt;&gt; Der skal også være mulighed for at komme af med det ud, om det så bliver udledt til vandløb eller eller hav. Og i dag er det jo &gt;&gt; ikke der er det jo kendt for for de fleste, der arbejder inden for vandsterne. Det er uendelig svært at få
+
+00:46:00
+&gt;&gt; m &gt;&gt; få få lov til at lukke noget ud, der indeholder et eller andet, også selvom man ikke har tilført noget, fordi der er nogle grænseværdier, ikke? Og hvis det det er et vandområde, der i forvejen er belastet, så er det bare no go. Så der er stadigvæk nogle udfordringer, der skal tænkes med ind. Noget af det, man kunne overveje. Det var jo også med i forhold til det her med nedbørsmængder, der ændrer sig og varierer meget mere end de gør nu. Vi oplever nogle flere tørkperioder midt på vægstæsonen gang. Der kunne det jo være en fordel måske at gemme det her, når
+
+00:46:30
+det er renset, når det er renset nok til at blive for eksempel brugt til vanding på mark. &gt;&gt; Øh, den næste spørgsmål det er en fra Anders Søgaard. Hvad er jeres krav ønsker til renheder vand til proces? Hvilken pris arbejde I med? Ja. kvadratmeter eller kubikmeter proces? &gt;&gt; Uh, det det tør jeg simpelthen ikke svare på. Altså der er nogle standarder øh øh for for hvad ultrarent vand. Og det er nogle, jeg kan ikke huske om det hedder
+
+00:47:00
+amerikanske standarder, der ligger, jeg kan ikke huske hvad de hedder. Og det er lidt forskelligt afhængig af om det er en alkalisk øh elektrode, det er en PEN, eller det er SOEC elektroder. M &gt;&gt; øh men der der skal jo være meget lav ledningsevne, så så der er jo rigtig der er jo ikke der er jo ikke der skal ikke være ret meget i det, men jeg kan ikke lige jeg kan ikke simpelthen ikke lige forstå huske, hvad det er. Og jeg jeg tør simpelthen heller ikke sige, hvad hvad for en pris vi arbejder med. Og jeg er ikke nødvendigvis sikker på, at vi
+
+00:47:30
+har kigget på prisen øh specifikt for for procesvand. Øh vi betaler selvfølgelig noget, vi betaler selvfølgelig det, det koster at få vandet leveret. Vi betaler for at komme af med det igen. Øh men men jeg jeg simpelthen ikke sige, hvad det er. Øh, og de krav vi har til vandkvalitet, dem kan jeg simpelthen ikke dele. De der standarder, dem må man ikke øh Jeg har den ikke engang selv. &gt;&gt; Det koster penge. Det &gt;&gt; det koster penge. Man kan man kan &gt;&gt; man kan gå ind på nettet, og så kan man søge nogle af de der standarder frem.
+
+00:48:00
+Øh, men jeg tror, hvis du kigger ind i øh, står der noget i sekundervandrapporten eller noget i det der med rensning, den der Nir rapport om rensning valg til PTX. Prøv at kigge ind i de en af de der rapporter, om der står øh om der står noget der. &gt;&gt; Det &gt;&gt; det der er med det, det er jo at alt det som I leder ind, hvis du har en vand der er ultræn men men der hvor der er en lille bitte smule i, så bliver det jo inde i elektrisen. Ja. Ja. Det gør det. Så &gt;&gt; kommer aldrig ud igen. &gt;&gt; Nej, det kommer ikke ud. &gt;&gt; Nej. Så det er jo derfor, det er så
+
+00:48:30
+vigtigt, at det skal være så rent som overhovedet muligt. Jeg heller ikke sige om ledningsv er den primære parameter. Ja, det det det der det kan jeg ikke simpelthen ikke. Jeg jeg kommet ind efter alt det der &gt;&gt; der er lavet et white paper af Silhoko øh som tager nogle af de her overskrifter op &gt;&gt; som man kan læse, men det er stadigvæk på et ret højt overskriftsniveau. &gt;&gt; Øh det er white paper og og men der er i hvert fald muligheder også for at skrive
+
+00:49:00
+til dem. Der ved at Henrik Ter han sidder i baggrunden og vil sikkert være i stand til at hjælpe med med nogle af spørgsmålene. &gt;&gt; Der er nu hedder grund for water tweet, men de hørt hvis det er svært at finde den. &gt;&gt; Øhm. Jamen renseløsningerne, hvordan skal vi evaluere dem? Altså det er jo vi vi er vi er ikke vi er ikke nået så langt som til at vi er begyndt at at evaluere. Vores fokus har været på praken og ammoniakdelen og få alt det
+
+00:49:30
+procesudstyr til at virke. Øh, så kommer vi til at fokusere senere på jamen hvad er det så for noget? Altså det vand vi får renset, det det er jo en ret simpel rensning, fordi det er almindelig almindelig brikkevand. Øh, det er sådan relativt simpel simpel rensning, som ikke kræver en hel masse rensetog. Der er jo ikke noget i vandet, andet end nogle salte og noget kalk og noget, ikke? Det skal det skal det skal fjernes. &gt;&gt; Øh, det det er ikke et det det det er ikke et et et langt rensetog slet ikke. Øh øh og det kommer vi først til at
+
+00:50:00
+kigge på senere. Og og det vand vi har lukket det har ikke vi har ikke oplevet det gav nogen nogle umiddelbare problemer. Og vi har vi har det vand vi skal bruge, som det er lige nu øh i form af postvand. Og det er jo ikke det er jo ikke store m vand heller. Og det er også derfor vi vi det vi har prioriteret, det er at komme i gang med det her og få noget der virker. Øh, og så så så tager vi den derfra. Øh, og det tror jeg er en meget vigtig pointe i at få en helt ny industri op at køre. Det er at man skal
+
+00:50:30
+man skal i gang og man skal gøre sig nogle erfaringer og så når man begynder at skalere op så er det at vi skal i den periode når vi får sat i gang, så skal vi så skal vi virkelig have arbejdet med de her. Men hvis det bliver et benspændt for at komme i gang, så så og det bliver for komplekst, så så er det, at det kan blive svært at komme igennem med det. Det er i hvert fald nogle af de erfaringer, vi har gjort os. Det er at vi skal have vi skal simpelthen have
+
+00:51:00
+foden på jorden, og vi skal have have gang i noget. Øh og nu er det stadigvæk et meget lille anlæg, og jeg tænker tænker ikke at øh hvad skal man sige den den store den store opgave bliver når vi skal læge op, &gt;&gt; fordi så skal der være en mere bæredygtig vand til sty som Anders spørger om vand. Altså jeg kan fortælle at den vi vand øh i vores område herude i vores forsynsområde der bliver der i de her lokale drenlag og pumpelag der bliver det håndteret mellem som over 30
+
+00:51:30
+millioner kubikmeter om året så så &gt;&gt; ja &gt;&gt; altså det er pumpet vand hvor vi løfter det så der er masser af vand &gt;&gt; der er meget vand men så snart man tager vand ind i en proces så bliver det rides til spildevand når det kommer ud igen. Og det er bare det, man skal virkelig holde sig for øje, og det er der nogle af af, hvad hedder det, snubletrådene ligger for mig for mig at se, ikke at vi ikke tror på, det kan håndteres, for det det det vi sådan vi går sådan set ind i
+
+00:52:00
+det med åbent sind og og og optimisme, men det er ø virkelig et sted, vi skal have have blikket hø fordi det er der, vi kan falde, hvis ikke vi får får kigget hele hele vandets vej. Men igen, du sagde før man høj æ hvis ikke man får startet med et eller andet m &gt;&gt; så kommer man aldrig i gang. &gt;&gt; Nej, det er det. Hvis vi skal have løst alle problemer på forkant kan man sige, så så kom jeg gået i gang. &gt;&gt; Så tror jeg heller ikke var der jo ikke noget eksportere. &gt;&gt; Nej nej, men det er jo det ikke også nu
+
+00:52:30
+I starter med at lave den der som kører på postelevalg. Nu er vi valgs side i forsøg med at finde ud af finde en løn her. &gt;&gt; Og så når vi så får den op og kører den løsning, så har I når I rammer op, så har vi en løsning klar, ikke også, som kan bruges. &gt;&gt; Ja. &gt;&gt; Og du har noget, du kan eksportere. &gt;&gt; Ja. &gt;&gt; Det må tage, vi må tage de nogle steps. Og og selvom vi måske er indimellem også, fordi vi gerne vil udover stepperne er lidt utålmodige, så må vi også bare kende, at de til at tænke sig tid. Men der er også brug for vores
+
+00:53:00
+utålmodighed, fordi ellers så skubber det sig heller ikke. Så &gt;&gt; vi bliver nødt til at være lidt utålmodig. &gt;&gt; Men vi ved så også godt, at det tager nok lidt længere tid, end vi kunne drømme om. &gt;&gt; Ja. &gt;&gt; Sådan er det. &gt;&gt; Ja. &gt;&gt; Super. Men det synes jeg i det hele taget er et rigtig godt eksempel, ikke? Det her med at kunne arbejde så tæt &gt;&gt; med vandforsyning. Det er jo ikke alle steder, man kan det og finde ud af det og finde løsninger. Så det synes jeg er et super godt eksempel på noget. Og så er det f får det lov til at agere også under nogle dispensationer. Øh fordi det
+
+00:53:30
+gælder jo alle industrivirksomheder. Øhm det er jo også sådan, at hvis du får for meget i dit drikkevand, du får det ind på din fabrik øh og når du så leder derude, så skal du faktisk grænsen. Øh så så så det det er jo det er jo en proces der er på vej. Og og det er ikke noget der går væk. &gt;&gt; Nej. Og det vil jeg det er meget enig. kvittere ikke virkelig både til både til Lemi Vand og Lemi Kommune øh og også til Miljøstyrelsen. Miljøstyrelsen har jo godkendt vores anlæg derude, ikke? Altså
+
+00:54:00
+det det har været svært, fordi det når man øer på noget nyt, ikke? Så så er der ret mange ting, man ikke ved. Men jeg synes kun, vi har mødt samarbejdsvilje og tro på, at vi er nødt til at finde løsningerne på det her. Øh, og det er jo, hvad skal man sige, en et rigtig godt udgangspunkt øh at have øh for at komme komme videre. &gt;&gt; Øh, det er godt, der er nogen, der har den der power.
+
+00:54:30
+&gt;&gt; Ja. &gt;&gt; V lad sig. &gt;&gt; Øh, hun spørger om det her med landbruget, om de har været interesseret i at modtage spilvandet til vanding på markedet. Det har de ikke endnu, for vi har ikke, det er ikke en, det er ikke en, hvad hedder det, en mulighed vi har fremlagt for nogen endnu. &gt;&gt; Vi har snakket om at tale om, vi har snakket om, hvad det her valg i det hele taget kunne bruges til, og at det måske også kunne bruges til det. &gt;&gt; Men så så igen det så er der jo igen det der med, hvilken lovgivning falder det så indenfor, og kan man overhovedet håndtere den? Men ja,
+
+00:55:00
+&gt;&gt; det vil da, jeg tænker da, at vi skal vi må ikke, jeg synes ikke, vi skal lukke nogle vi skal ikke lukke nogle muligheder på forhånd. Nej. Og det viser sig jo også at det kan lade sig gøre at ændre nogle ting. Nu blev der jo mulighed for at at lave et synsselskab kommerciel og teknisk valgning. Det var jo en kæmpe udfordring. Øh før så blev der jo lavet en ændring i loven, der gjorde at det det er en mulighed, ikke? Så så nu kan vi nu kan vi lidt mere, ikke? Og på den måde så så kan man flytte nogle flytte nogle
+
+00:55:30
+grænser, når der er et stort nok en stor nok efterspørgsel, stort nok pres på at øh at gøre det. &gt;&gt; Jeg kan se tiden er ved at være gået, så jeg tror jeg vil sige tak for i dag, så I vil komme og og lige have en god snak om være med. Absolut. &gt;&gt; Ja. &gt;&gt; Super. Tak for nu. &gt;&gt; Og tak fordi I lyttede med. &gt;&gt; Ja. Yes. &gt;&gt; Og stillede spørgsmål. &gt;&gt; Og skriv endelig til os, hvis I har yderligt. &gt;&gt; Hej.

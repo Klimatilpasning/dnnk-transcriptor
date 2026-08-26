@@ -1,0 +1,103 @@
+=== DNNK Webinar Transskription ===
+Kategori: Konferencer
+Video ID: 4AGa2Tu7k4g
+URL: https://youtube.com/watch?v=4AGa2Tu7k4g
+Transskriberet: 2026-08-26T06:30:30.864478
+
+==================================================
+
+00:00:00
+Øh, så jeg vil i forbindelse med Marina præsentation, jeg vil gerne vise inspiration om hvad tryksat lysninger kunne være. De vil være baseret på projektet. Vi arbejder i Lundtoftegade. Den hedder opskala.
+
+00:00:30
+Det er svært. Er de nu? Okay. Godt. Øh, Marina har allerede vist den illustration, men vi er luntoftegeder. Jeg synes måske flest af jer væ velv Lundtofteged ligger. Det er en almindelig bolje øh AKB Lundtofte område og vores demonstratorium eller skalar demonstratorium det er en anden gård i fire går i den øh
+
+00:01:00
+vi arbejder cirka med 37 nlyøbsrører. Vi vil gerne afkoble dem i løbet af det næste år. Øh, men vi har fået del områder til noget zone, som vi kan begrænse lidt opgaven og teste forskellige muligheder. Øh, lige nu arbejder som en opskala team med flere øh mennesker end mig og de er
+
+00:01:30
+Marina Ulrik fra Teknologisk Institut Carl og Søren Emil fra Tilvek og projektet er stått af Real Dania det formål med projektet er at faktisk som R allerede nævnt at udvikle øh løsninger de uaf fordampning udvikle løsning af de billige Og løsninger de er CO2 neutrale også i forhold til materiale materielle brud i forhold til opskala vi kunne fokusere meget at få
+
+00:02:00
+den projekt som alle naturligøsninger skulle faktisk være tilpasset til lokale situationer så vi arbejder på at inkludere så meget eksisterende beplantning som muligt vi arbejder på at inkludere også eksisterende inventar så på en måde vi vil gerne lave minimal løsning så udskifte i området så lett som muligt. Vi tager udgangspunkt også i lokal kulturel værdi, fordi de eller lytofter er en
+
+00:02:30
+område med meget udvikling i kunstscene lige nu. Så derfor det er også vigtigt at inkorporere kunst i vores projekter. Øh, ikke præcis i Obskala, men i andre tilknytt projekter til Opskala. Øh, men en anden øh eller det tredje formål faktisk i den projekt er, at løsningen vi udvikler skal være praksisorienter. Så vi arbejder meget på at få dem øh at de er nem implement her og så de også
+
+00:03:00
+kommer med en klar vejledning om hvordan kan man arbejde med lemtiden. For vores udsproces, det er at præsentere eller ende med noget slags anvisning og katalog de lår der. Øh, mens vi arbejder på løsningsudvikling og test. Og så her det også kommer at tests vi laver udover for at have præsentere løsninger. Men tests er materielle. Så for eksempel som
+
+00:03:30
+Marina har nævnt allerede ved arbejde vil prøve at teste vandholdning kapacitet af forskellige øhm biobas materials. Vi også testøsninger før vi sætter dem i gang på Lundtoftegade i demonstratorium så laver noget små mindre for i væksthuset eller drivhuse på Kenhavs Universitet. Øh, udoverord. Vi har en binding projekt eller noget de samler den de den dimensionære projekt og jeg viser hvordan vi arbejder med det lidt senere.
+
+00:04:00
+Og selvfølgelig de kommer fordi vi arbejder for demonstratør det er en privat område men det er også vi tester i real time på en måde så vi laver noget det er måske at teste på en mindre skala men i den større skala vi tester det allerede på plads så derfor vi arbejder m med bebærende informing information og cocreation den fase vi vil vi stadig er stadig i udvikling de kommer i næste 12
+
+00:04:30
+år, men vi allerede planlægger for at de kommer i spil i projektet. Så anvisning katalog er en element hvor vi prøver at øh faktisk præsentere hele l princippet. Øh så det er nemt at øh lave den projekt selv. Den er især målrettet til almien bolig, så vores
+
+00:05:00
+katalog i faste udgangspunkt vil være øh morate til almæsenteret i den klar til projekt. De er en almen network. Øhm og som inspiration lige nu vi bruger en storm water management guidance management fra Philadelphia. Den er desværre er ret stor og lidt mere kompliceret, hvad vi planlægger. Så vi
+
+00:05:30
+også prøver at lave den så simpelt som muligt, så den tills proces og øh information om den løsninger vil være øhm mest anvendig muligt. Øhm, mens vi arbejder på løsninger, mens vi faktisk brainstormer på løsninger, vi bruger noget, det er noget binding element øh en lommeregner, så vi vil gerne også være en del af vores anvisning og katalog. Så vi vil have en
+
+00:06:00
+forbedre måske webscellen, vi håber på websiden vække på forskellige øh faktorer eller værdier. Man vil man kunne nemt faktisk beregne størrelse af element. Og selvfølgelig de er lidt kompliceret lige nu, men vi bruger den element også på selv beregne hvad volumen af element og eller størrelse af element skal være. Så hør i din i den her tilfælde vi har regn
+
+00:06:30
+regn data, så man kan udskifte de selvfølgelig er en faste forsy til at gøre det så de de i de ser de ser ud som de ser ud. Øh, og vi tilføjer for eksempel størelse af afen. De kommer med at nuvær længde af de skal være 17 øh meter og parkeringsnedsyning parkerings skal være 18 kvadratmeter. Så vi prøver at gøre det så nemt som muligt for at øh
+
+00:07:00
+anlægs kart eller altså personer de skal anlægge projekteret kan få mest præcis information om element. Øh, og her jeg vil gerne vise jer det vi som inspiration øh hvordan kan vi arbejde med jordbasæ øhm i ladetrad her vi har designet eller begynder med at designe zone e i
+
+00:07:30
+lundtoftegade hvad vi er den helt minimale løsning så hvor lidt kan vi gøre for at faktisk man kan håndtere den regnvand ultraflæde i øh her vi har tre nlybsrør tilknyttet i den her område. Vi laver en en slags øh meget meget kort design, men fast element vi bruger som Marina har vist
+
+00:08:00
+lidt i hendes præsentation er en regier. Så princippet er lidt det samme som vi har snakket om i klimaskærm. Vand løber ned. Kan I se min mus? Nej. Så vandrer vi ned og op med tryksat øh systemet og fordele sig i en ramme de er på toppen hvor de nelver i de celle efterfodende
+
+00:08:30
+hvis det er mere regn øh så den kan næs i åen og den overflow kun være park her på området selv øh den interessante ting ud fra den regige er, at vi vil fak og vi tester faktisk hvordan kan man lave en en slags fordeling med naturlige materielle her. Vi bruger træbræ og vi vil at de røde, men vi vil gerne teste hvor langt de tager faktisk at de røde i
+
+00:09:00
+den her situation med kontakt med jord men med også øh fluktuende vandindhold i det en selv. Så konstruktion er ret simpel. Vi har en råjord. Øh, vi har en slags tår, lille dier på toppen af den større di. Det er for at støvet ol til parkeringsområdet.
+
+00:09:30
+Og så vi har træbræd og nklus på toppen. Jeg viser måske bill fordi de er nem at forstå på den måde. Så det er den meget simpel konstruktion med overløb til parkeringsområdet på den anden side den til grønne område. Øh på billedet af kan også se at de faktisk er øh lige efter projekt anlæg. Så det er en situation fra efterår. Og lige her på den anden side, vi har en
+
+00:10:00
+billede fra måneden, som måske I kan også notere er, at den faktisk er ikke så rundt. Og det er en del af vores test, fordi vi vil gerne prøve at genbruge den overflade med græs og jord, så faste 10 cm af jord. bare fjerne uld før handlæg af den og sætte op tilbage på øh dien for at se hvordan vi kan hemlig genbruge den græs de er i området
+
+00:10:30
+og hvordan de vil se uld øhm i forår og den den men de har også meget koldt forår så vi venter lidt i sommeren for at se hvordan de udvikler sig så vi tester meget i i området Tal øh lige nu arbejde så den regn jeg var bygget op og er i test øh siden forår lige nu vi
+
+00:11:00
+arbejder på en anden element den vi kalder regnbakke og regnbakke de vil være en højere element øh og så de projektplacering er væk kant af af den zone en område men den vil være placeret Det er noget vi tænker kunne være med en stottemor de løber øh på kanten af området så den jordvolumen vil være ret
+
+00:11:30
+højere end i almindelig almindelige de øh og den interessante ting er fordi med vores kalkulator eller vores lommeregner vi prøver at finder ud hvor meget hvor meget volum vi faktisk har øh eller vandkapacitet vi har i vores øh bakke øh i forhold til den plads vi har, fordi det er også hvis vi gerne ikke fjerne træer i området så
+
+00:12:00
+den plads er ret bekanse. Øh og vi finder ud at vi faktisk mangler lidt for at øh klare 10 år hændelse. Så vi kom med konklusion at måske kan lave en slags overordisk magasin. De er selv på bakken for at synke den volumen de kommer ned fra udlup noget ns allerede i starten af øh
+
+00:12:30
+bakken eller i starten af udløbet når den server ned øh af bakken. Men en i midten har vi en slags øh anden magasin eller øhm ja en anden magasin, hvor vi kan faktisk nytte den øh areale til øh til vand. Så det er dobbelt på en måde magasin i åren og over i oven. Øh den tredje er den vi
+
+00:13:00
+vi stadig tænker over på navn øh eller godnavn. Vi har nu sæerne, men de kunne også være en over jordisk eller bære regnbad. De vælger ikke. Vi vi tænker lidt om det. Øh, men de er den del, de er allerede på den anden side af regnbakke, hvad vi vil gerne prøve. Og hvor øhm ikke hvor ja, hvordan kan vi bygge op med at øh grave uld lidt herov?
+
+00:13:30
+øh bygge en minid omkring så den samme princippet som de faktisk er i regier men vi genbruger den jord fra fra stedet selv for at bygge en omkring og har en meget flad regnbære hvad den faste regn eller faste 10 15 mm regn kan være håndteret i dienselt og kun i står øh
+
+00:14:00
+fra øh øh 15 til 50 mm øh vandet vi faktisk kun lukker ind i grbadet. Så det er en anden princippet, hvordan vi kan tænke om om har en element de er de ligner måske lidt regnbedre, men kræver mindre ressource og kræver mindre materiale. Øhm. Ja. Og så de igen ideen er at de er meget basis løsninger. Så de løsninger
+
+00:14:30
+de måske er lidt usynlige men som man kan bygge op og bringe flere mere værdi på med arbejde med bebærerne for eksempel. Og så vi har andre løsninger. Det måske er ikke så meget jordbaseret, men øh eller fast vi har trink det vil gerne fordi vi arbejder med problematik af tørke og problematik af øhm
+
+00:15:00
+øh king af byerne. Så hvordan kan vi udnytte og sætte udnytte den vand vi har i ø de diens celle for at faktisk forbered vilkår til træerne og så de den træ eksempel her øh men de også arbejde for eksempel med regnbøg også som øh var allerede nævnt hvordan kan vi bygge op vandet i i højden lidt som eksempel fra klimask men øh ikke Så
+
+00:15:30
+ja, med brug det er måske andre materialer end ø end mineraluld eller mindre mineraluld. Øh, og også bare måske noget mere kunstig, ikke kunstig, men kunstelementer. Øh, vi kan bruge vi kan arbejde meds eller ekkor på Softade, så det kunstklubber de eksisterer der. Men øh, de var det. Tak.
