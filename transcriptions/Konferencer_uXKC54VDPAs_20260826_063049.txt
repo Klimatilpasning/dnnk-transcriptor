@@ -1,0 +1,115 @@
+=== DNNK Webinar Transskription ===
+Kategori: Konferencer
+Video ID: uXKC54VDPAs
+URL: https://youtube.com/watch?v=uXKC54VDPAs
+Transskriberet: 2026-08-26T06:30:49.977137
+
+==================================================
+
+00:00:00
+Jeg har en agenda med tre punkter. Først vil jeg gerne lave en kort gennemgang af Dinge og Bo IQ og så fortælle kort om oversømelsesdata, som vi har på DGO BO IQ. Og så sidste en diskussion af hvordan vi mener på dino at vi udnytter geodata og også oversømelsesdata på den bedst
+
+00:00:30
+mulige måde. Altså trække så meget information som er så let som muligt for brugerne at at forstå. Førsto det er et ø et site jeg ligesom startup ved et tilfælde fordi jeg lavede sitet til mig selv og så var der mange der fandt det interessant og så lavede vi et startupfirma øh den centrale for de GR det er adressen af nøglen. Så der er en masse geodata, men man slår altid en adresse op. Så på
+
+00:01:00
+så når man kommer ind på Ding Go, så er det første man blev spurgt om, det er at slå en adresse op. Når man kommer over på et adresseops side, så er der en masse geodata, som vi har samlet øh 40 til 60 forskellige datakilder og talt sammen den anden dag og næsten 2000 forskellige datapunkter på hver eneste adresse. Målgruppen for sitter har altid været ikke eksperter. Øh, hovedsagelig henvend til boligejere og boligkøbere, at når de
+
+00:01:30
+er interesseret i en bolig, at de kan få så mange data som overhovedet muligt fra den her bolig. Og det gea, der kommer ud til en en bred øh befolkningsmasse, der er 800.000 til 1 million adresseopslag hver eneste måned ø på på din ø mest almindelige feedback både positive og negative feedback. Den mest almindelige feedback er faktisk, at folk er forundret over, hvor mange geodata der er. Hvis de er interesseret i en bolig, så slår de op, og så finder de
+
+00:02:00
+gods, der er så mange geodata faktisk på den her ejendom. Og det er en god feedback for os, fordi det var sådan set derfor vi lavede sitet for at gøre opmærksom på alle de her data. Sitet er en privatvirksomhed, så vi skal tjene penge, og det gør vi via reklamer på sitet for øh banker og forsikringe og folk der kan forbedre boliger og ejendomsmalere og købsmalere som kan hjælpe med at behandle boliger.
+
+00:02:30
+Øh, i forbindelse med Dingo, så har vi løbende fået henvendelser for andre virksomheder, som er interesseret i de her data, selvom det egentlig er åbne data, men interesseret i det, vi har gjort. Vi har forarbejdet data og samlet den. Så i år så har vi taget det skridt at lave et nyt site, der hedder BoQ, hvor vi har har data warehouse for Dinge data, hvor vi hver eneste dag går ind og henter de nyeste data på Dingeo. Og det samme fra vores søsterside boliga, hedder boligmarkedsdata.
+
+00:03:00
+Øh, så kan vi levere de her data til virksomheder, som er interesseret i de her data øh øh i alle mulige formater, API eller databasedums eller CSV-filer og med den nøgle, der nu passer til virksomhedens øh database. Og det går faktisk ret godt. Vi har en voksende mængde kunder, forsikringsselskaber, banker, realkredit, kommuner, energi, energiforsyning og så videre.
+
+00:03:30
+Okay, så jeg går til at tale kort om oversømmelsesdata, som jeg har på DG og på først så så gerne understrege, at oversømelsesdat er faktisk kun en lille delmængde af de data vi har på din G og BO IQ. Vi har fem fem forskellige hovedgrupper af af data til at vurdere oversø på en given adresse. Øh, det skybrud,
+
+00:04:00
+højtæggende grundvand, oversømelse for vandløb og stormflod og kystdirektoratet har lavet deres egen analyse for oversømelsesrisiko. Det vi også tag med. Øhm. Her skybråsdata er altså risiko for oversøse i forbindelse med kraftig regn øh
+
+00:04:30
+der fra lige der til højdemodellen til udregning af lavninger. Det er der andre der har gjort. Øh, men de data de er heldigvis offentligt og åbent tilgængelige, så dem har vi digitaliseret på alle adresser. Og hvis man laver et adresseopslag og ser de her data, så får man det samme ø altså så får man lavningskortet vist med en indikation på, hvor adressen ligger henne. så er det hurtigt for
+
+00:05:00
+brugeren at se øh data på kort format. I forbindelse i forbindelse med øh skybrud og ekstrem regn, der er det ikke kun lavningsdata, vi viser. Der har vi også medtaget et nogle andre datasæt. Øh befæ befæstelsesgraden som siger noget om hvor bebygget et område er. Hvis der er meget bebygning, så er vandet svært ved at komme ned i jorden. Og hydrauliske ledningsvne, som siger noget af det samme. Altså jordarten, overflade jorden, hvor hvor let gennemtrængende
+
+00:05:30
+den er for for regnvand, der ligger på overfladen. Så baseret på de her forskellige data, som vi har digitaliseret, så laver vi en overordnet risikovurdering ø hvor udsat den her brugig er i forhold til til skybrugen. Så det jeg gerne vil sige, det er at ø at på så kombinerer vi forskellige datakilder. Øh, vi sørger for at præsentere data via
+
+00:06:00
+kort, via tekst og via de her risikogrupp. Øhm, og så så er der selvfølgelig også link til brugeren til at se kortet i en webgitsløsning og link til datakilden. Så så hovedformålet er at gøre de her data let spisbare for for brugeren. Øh, og grundvand der er det akkurat det samme. Det er selvfølgelig et andet datasæt og en anden datakilde. Men
+
+00:06:30
+princippet er det samme. Vi udvælger nogle data. Vi digitaliserer den, og i det her tilfælde viser vi et enkelt kort, og vi laver en overordnet risikoving. Vandløb, det er det samme. Stormfløde, det er det samme. Øhm, og så har vi så Kystdirektoratets oversømelsedirektiv, hvor de har lavet over to forskellige perioder. Plantin et og plantrin to. Og vi har så taget begge de her to datasæt
+
+00:07:00
+med på på adresseopslagene. Og jeg tror der kommer præsentationer om nogle af de her datasæt senere. Så er der ingen grund til at jeg jeg dummer mig her ved at sige noget forkert om de her data. Øh men det jeg gerne vil sige lidt mere om det er ø fokusområdet fordi G bo i hvordan man får mest nyttet ud af de her data, så de Ja til vores brugere.
+
+00:07:30
+Øhm, så det her det er sådan set en tegneserfigur af mig selv, da jeg skulle købe bolig i 2015. Øh, hvor jeg vidste at der er en masse forskellige datakilder derude, webgiftsløsninger. Øhm, øh, men når der er en bolig, jeg var interesseret i, så skulle jeg ud til et site fra en type data andet site fra en anden type data og så videre. Så derfor så har jeg lidt spørgsmålstegn overhovedet. Øhm, så problemet dengang var, at der var mange forskellige webgifsløsninger.
+
+00:08:00
+Og en anden ting, det var, at de webgløsninger er ofte målrettede eksperter. Så det lavede folk, som kender de her data rigtig godt, og der er mulighed for at slå en masse lag til, og man skal også kunne læse en legende og så videre. Ø, det er ikke altid at ø at det er let for den almindelige bruger at at forstå den type løsninger. Øh, ja, så løsningen var at ø for mig at lave
+
+00:08:30
+gingave, som som så hjælper brugeren med at gå ud og hente de her datakilder øh og servere dem i ensamlet opsagsside. Og det det kan synes trivielt. I virkeligheden så er der nogle det er ikke så lett i virkeligheden, fordi der er øh øh datakilderne de har forskellige format. Øh øh så der er en masse
+
+00:09:00
+forskellige data her der skal øh hæftes sammen og gerne skjule kompleksiteten ved alle de her data for for brugeren. Øhm der forskellige databasenøgler for forskellige systemer. Øh forskellige koordinatsystemer for forskellige webgifsløsninger. Øhm, så men ja, så det her hovedarbejdet, fordi en at bo i kollega til at og arbejde med de her data.
+
+00:09:30
+Øh, så vil jeg gerne springe over til øh at tale om abstraktionsniveau. Øhm, at ø hvis hvis man kigger på et hvilket som helst datasæt, for eksempel oversømmelse, så bliver det meget komplekst, hvis man skal tage hele virkeligheden med. Men i hvis man gerne vil have for eksempel et mærke for oversømelsesrisiko, ligesom energimærke,
+
+00:10:00
+så bliver det øh meget simpelt, men så skjuler man også kompleksiteten og og så så der er ligesom en øh forskellige abstraktionsniveauer, man kan kigge på det samme datasæt med. Øh, jeg prøver at illustrere det her, og jeg kalder niveau nul. Det er virkeligheden. Så her er et område i Greve, hvor der har været oversvømelse i forbindelse med skybr og og det er meget komplekst at at forklare, hvorfor lige præcis der oversømelse her. Det er
+
+00:10:30
+selvfølgelig noget med vejret at gøre, men det kan også have noget at gøre med klarakforholdene, om der er faskiner eller ej, eller grundvandspumper eller ej. Øh, det det er komplekst. Hvis man så springer et øh hov et niveau op øh øh abstraktionsniveau et kalder jeg det. Det er sådan en webgsløsning. Og her kan man faktisk se området i fra fra det forrige foto, hvor derovre som set grever. Øh, så for kortet så kan man
+
+00:11:00
+godt få en indikation på at at øh boligerne her de er faktisk udsat i forhold til i forhold til oversøgelse skybrud. Så på de så gør vi også en indsats for at tage et et trin højere op i abstraktionsniveauet ved at lave risikovurderinger. så sætte farvet flag på
+
+00:11:30
+på øh på det forskellige datasæt og lave en overordnet ø risikoværding for det enkelte datasæt for for grundvandsøh og skybråd og stormflåd og så videre. For øh så er vi blev kontaktet af et forsikringsselskab for nylig, som gerne vil have et enkelt tal, som så kunne svare til ø energimærketallet for for oversøelse. Øh øh hvor vi de så de vil gerne have et enkelt for for oversø
+
+00:12:00
+risiko for alle typer oversømelse. Øhm og det er selvfølgelig en fordel for dem at de kun har et tal at forholde sig til. Øhm øh og og det men men det det vi skal sidde og og arbejde med at kigge på, det er at selvfølgelig nogle kombinationer af er af uhensigtsmæssige ligesom højt grundvand og og storm undskyld kraftig
+
+00:12:30
+regn fordi de de bygger ovenpå hinanden. Mens høj grundvand i forbindelse med stormflåde er mindre vigtig fordi det ligesom stormfloden vil komme under alle omstændigheder. Så når man skal udregne det her samlede tal, så skal man så er det ikke nok bare at summere risikoen for de enkelte [Musik] øh risi. Øh okay. Og så på din vi prøver det at prøve at dække både niveau et og to. Og
+
+00:13:00
+som sagt så har vi en en kunde nu der gerne vil have øh niveau et to og tre dækket i i et i en løsning. Det er den sidste slide. Øh, nu det det vi arbejder med lige nu, det er en ø en machine learning model til at vurdere boligpriserne og hvor vi putter en masse parametre ind. Nogle af dem er færdig, en af dem
+
+00:13:30
+er oversømelses risiko. Så baseret på den her model, så kan man faktisk begynde at at vurdere, hvad betyder oversøgelsesrisiko for en boligpris. Altså den er trænet på på faktisk boligsal. Ja. Øh ja, det var det hele. Og jeg endelig tager fat i mig, hvis øh hvis der er folk, der er interesseret i data eller
+
+00:14:00
+samarbejde på nogen som helst måde. Det det er vi meget interesseret i. Så du har købt hus for 10 år siden, så du skal ud og købe et hus i dag, har du så alle de data, du gerne vil have i din geo? Eller er det noget, du kunne tænke dig at bygge ovenpå? Nu er det første spørgsmål. Der er helt sikkert noget, jeg godt kunne tænke mig at tilføje, men i forbindelse, men i forhold til oversøgelsesrisiko øh og i forhold til at forstå det som et almindelig boligkøber, der ikke ved
+
+00:14:30
+noget om Ja. Øh, jeg jeg kan ikke lige komme på en ting, der sådan lige stikker op over alt andet, men ø men jeg kan sige, vi har nogle datasæt i pipelinen, som vi arbejder på at få ud på på DG. Vi har meget begrænset udviklingsourcer, så Helle, vil du starte? Ja, det kan jeg godt. Øh, de 800.000 der kigge på jeres hjemmeside hver måned, ved I lidt mere om hvad det er de kigger på? Altså, hvad
+
+00:15:00
+er det for nogle udsig de især interesserer sig for? Det er den del af din kigger på. Ja, det det ved vi. Det så jeg kun udvikler, så jeg ikke det er faktisk noget marketing og så videre der øh øh der jeg ved at meget boligejere faktisk der slår op mere end boligkøber øh øh og jeg tror faktisk risiko er en af de ting jeg lige kigger det det er en af de ting, der vejer vejer højt i forhold til så mange andre ting.
+
+00:15:30
+Ja. Øhm hvad hvad har hvad tankerne i dag? øh de valg I havde lagt i forhold til scenarier og øh øh og hændelser for eksempel på regnvejr, altså hvor høj altså hvor mange millimeter regn og hvor høj stormfød har I valgt? Ja, det har vi beskrevet på sitet, og det det er bare en fingerspidsfornemmelse. Det er jo ikke nogen eksakt videnskab. Øh, så det er faktisk en af de ting, for eksempel hvis vi giver et rødt eller gult eller
+
+00:16:00
+eller grønt mærke, så er det så så er det grænseværdier, som vi som jeg har Ja. mig frem til. Øhm. Ja. Fordi de risikovurderinger, jeg tænker øh jeg har lidt svært ved det her med hvordan man hvis man er i en rød eller en gul, altså hvor er øh skærringskvarteret? Ja, men det står på på sitet, men men jeg kan ikke jeg kan ikke engang selv huske det her nu. Men altså men altså ja, det man bliver nødt til at sætte nogle nogle
+
+00:16:30
+grænser. Ja. Ja. Øh, jeg tror det har tre B, men det her med hvis man nu har det røde mærke fra skulbrud for eksempel, altså hvor langt er der tankerne omkring det her med, hvis man nu har gjort noget forebyggelse på egen matrikkel i forhold til at have lidt mere, nu er det meget, I henter data, det står på slidet, men den her, hvor man måske som som grundejer eller bolige kan skrive noget ind selv. Ja. Er det noget I tror kommer til at ske en
+
+00:17:00
+dag eller? Det det er en ting vi arbejder som som er hjertebarn for mig der som vi rigtig gerne vil have det der crowdsource bolige selv kan bidrage med med data. Vi vi gør det lige nu på raderen, fordi der der er raderen risiko på en bolig, men så er der folk, der er målt og siger radarniveauet er ikke særlig højt, og så er det selvfølgelig super ærgerligt, at vi siger, der er høj risiko. Så så det er det første datasæt, hvor vi får selve målingerne ind på på sitet, og vi vil også rigtig gerne gøre det på på oversum
+
+00:17:30
+igen begrænsede ressourcer. Godt. Tak.

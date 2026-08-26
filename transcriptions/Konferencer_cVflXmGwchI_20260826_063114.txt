@@ -1,0 +1,118 @@
+=== DNNK Webinar Transskription ===
+Kategori: Konferencer
+Video ID: cVflXmGwchI
+URL: https://youtube.com/watch?v=cVflXmGwchI
+Transskriberet: 2026-08-26T06:31:14.559992
+
+==================================================
+
+00:00:00
+Øhm. Ja. Hej. Jeg er Rafael Schneider fra de geologiske undersøgelser, den geologiske afdeling der. Og øhm jeg har også været lidt udfordret af hvad hvilket publikum forventer mig her. Så skal vi skal lige se om jeg rammer rigtigt.
+
+00:00:30
+Øhm i hvert fald vil jeg snakke lidt om datagrundlægg for grundvand og vandføring øhm på nationalplan. Øhm og hvis man snakker om mytologiske data, så starter man måske nogle gange med observationer. For eksempel findes der en masse øh grundvandsdata. Øhm, stordelen af det burde være samlet i Jupiter databasen, øhm, som indeholder alt muligt data
+
+00:01:00
+omkring øh boringer i Danmark, deres liturgi, men også informationer om vandet, altså grundvandstand for eksempel og og grundvandskemi og data om indvindingerne til vandforsynet og så videre. Øhm, så der er kæmpe kæmpe store datakrundlægg der. Men hvis man så går til for eksempel til nogle øhm, der har tidsserier i realtid med høj opløsning, så er vi allerede ved et
+
+00:01:30
+betydelig ø tyndere datapron af det her, som vi udstiller på grundvandsstanden.dk. Øhm, når vi snakker om vandføring, så findes der forskellige nationale databaser. Øhm, for eksempel ODA øh som er drevet Aarhus Universitet. Vi har Vandportalen og sådan noget nyt øh fra DNP vanderen. Øhm. Ja. Og her viser jeg bare som
+
+00:02:00
+eksempel øhm en sæt af omkring 300 vandføringstationer på tværs af Danmark, som som vi bruger meget i kalibrering og validering af vores modeller, fordi vi tænker det er øhm ja virkelig gode data og lange tidsagier. Og begge bøer viser måske lidt problemet med observationsdata øhm og eller en af problemerne og det er at de ikke er landstikkende ikke øhm så det er kun punktmodlinger og hvis vi vil have noget landstækkende øhm
+
+00:02:30
+som også virk dækker hele det hydrologiske kredsløb i Danmark som er jo ret komplekst fordi vi har et et tæt sammenspil mellem grundvand og overfladevand øhm Øhm ja, hvad gør man så? Øhm, så bruger man en en hydrologisk model. Og øh, vi altså i min afdeling, vi sidder med den national hydologiske model, som ja, er en slags digital tvilling,
+
+00:03:00
+kunne man sige, for det samlede hydrologiske kredslå i Danmark. Og den er bygget op på nogle ja, fysisk baserede modeller, kalder vi det. Så vi lægger et kridt henover hele Danmark og inddeler det hele i forskellige lag, altså undergrund i forskellige lag og har en parametrisering af undergrunden baseret på nogle geologiske modeller. Øhm og simulerer så dermed grundvandsstrømning.
+
+00:03:30
+Ovenpå det hele har vi også øh noget lignende der regner på fordampning, hvad der sker i rodsunden, nedsivning. Øhm, og det hele er også koblet til øh et system, der regner på vandløb i ø og vandføring i vandløb, og hvordan de er koblet til grundvendsystemet. Øhm, så udover det at øhm vi har heleologiske
+
+00:04:00
+kredslø koblet der i det model øhm tjener det for os også som en øh database for kvalitetssikre hydrologisk data. For eksempel når man er ude efter et øhm et datasæt af øhm af vandløb, som faktisk så topologisk giver mening. Så hvordan er alle vandløb forbundet og og og hvilke arealer træner til hvilket vandløb og så videre og så videre og så videre. Øhm, så er det faktisk vanskeligt at få,
+
+00:04:30
+selvom vi har så mange øhm ja, digitale data i i Danmark, og vi har bygget det her op igennem og kvalitets igennem her tre år. Øhm. Ja. Og sådan en model kan så bruges til øh forskellige ting, for eksempel til vandressourceopgørelser, men også til klimafremskrivninger, øh klimatilpasning, oversvømmelsessvarsling, som er noget nyt for os. Øh, og så bliver den er den
+
+00:05:00
+også basis af af de nationale opgørelser for for kvæstofudvasking. Øhm. Ja. Og så er spørgsmål selvfølgelig. Nå, okay. Først lidt output. Hvad Hvad kan man for eksempel få ud af det? Øh, det er bare en eksempel. Det er øh netødbø eller øhm ja recharge øh på engelsk er på tværs af Danmark bare som gennemsnit for den historiske periode fra 1990 til 2020.
+
+00:05:30
+Noget andet er vandføring. Vi har omkring 30.000 km vandløb nede i modellen på tværs af hele Danmark. middelvandføring, så kan vi selvfølgelig ja også se det som en tidss et vist punkt sammenligne det med observationsdata. Øhm, og fordi modellen giver os mulighed for at for at faktisk have sammenhængende tidsserier, kan man også gå ind i sådan noget som ekstremværdianalyser øh på tværs af af
+
+00:06:00
+hele Danmark, hele modellen. Øhm, og så simulerer vi selvfølgelig også grundvandsstanden til venstre. Det er dybden til grundvandsstanden i gennemsnit, hvor blå betyder, der er ikke særlig langt til grundvand, og rødt betyder, der er lidt længere ned til grundvandet til det øverste grundvandsje. Og til højre der er så et kort, der viser overskridssandsynligheden. Altså hvor hyppigt står grundvet tættere
+
+00:06:30
+end i det tilfælde en meter under terræ. Øhm. Yes. Og så har vi også lavet nogle produkter, hvor man kan gå ret langt ned i detalje. Øhm der som udgangspunkt er det i ø i 500 eller 100 meter krit. Hvor godt er øh modellen? Så øh vi kalibrerer mod alle de tilgængelige data, som vi har i Jupiter databasen, når vi snakker om grundvends
+
+00:07:00
+observationer. Øhm og de er visualiseret her øh på højre siden. Øhm hvor så rød indikerer en stor fejl, og grøn indikerer en lidt mindre fejl. Øhm, måske er en interessante tal sådan noget her. Øh, min absolut error den ligger på omkring 2,5 meter for det øverste grundvand for sådan en landsdækkende model.
+
+00:07:30
+Øhm, vi kan gøre noget lignende for vandføringen. Der har vi de omkring 300 stationer, som jeg har vist før allerede. Og igen her på øh på kortet til højre øh betyder grøn god performance og rød ægesær. Så god performance. Øhm. Og så kan man kigge på, hvor går er den til vandføingsdynamik? Hvor går er den til den balancefejl? Øhm. Ja. Og
+
+00:08:00
+fordi modellen simulerer hele det hydrologiske kredsløb. Øhm. Og vi er nogle gange interesseret i andre ting end kun udelukkende for eksempel grundvandsstanden for det øverste grundvand eller kun øh vandføringsdynamikkerne i et vist punkt. Øhm så forsøger vi også eller så validerer vi også modellen mod andre øh dele af det hydraulose kredsløb. Øh og to eksempler her er ø fordampningsmønstre. Og den disoden der også det kan man
+
+00:08:30
+observere for eksempel fra satellitter som landstikkende alternativ datasæt og det kan man holde imod modellen og forsøge at matche det lidt bedre og noget tredje som er ret vigtigt i Danmark kunstig træning fordi øh ja halvdelen af vores landbrugs er kunstig trænet men hvor meget bidrager det egentlig til den samlede hydologiske ja balance ret vanskeligt at at vurdere på nationalplan, men vi forsøger også at
+
+00:09:00
+inkludere det i modelkalibrering for at ja for at sikre at den fysikalske sammenhæng er forhåbentlig er der og gøre moderne lidt mere robuste. Øhm, vi udstiller så også, altså vi rapporterer selvfølgelig øhm performance af modellen, og vi udstillede det også øhm ja, i en webkis øh service her for eksempel, hvor man så kan gå ind ø hvor man nu er øh lokalt interesseret
+
+00:09:30
+muligvis og og se, okay, den nationale model her, jeg vil gerne bruge data af den, hvor godt er den egentlig øh jeg for eksempel omkring Horsens i det tilfælde. Øhm, og udover vores egen udstilling er der selvfølgelig øhm øh HIP øh platformen hydrologisk informations- og prognosesystem, som nok mange af jer har hørt om. Øhm, det er ja et platform, der udstiller
+
+00:10:00
+alle mulige offentlige hydrologiske data. Øhm, så der er også observationer. Øh, der er modelberegninger og prognoser for fremtiden. Øhm, som ja, bliver leveret af Klimadatastyrelsen tidligere SDFI. Øhm, og den blev udviklet øh i perioden 16 til 20, men er stadig under løbende udvikling. Øh, og så n som noget nyt findes der også nogle realtidsdata fra øh det nationale hydologiske model.
+
+00:10:30
+Så det vil sige i HIP kan man også kigge på øh på alle output eller alle vigtige output fra den nationalologiske model, blandt andet grundvandsstanden og også sammenligne det med med tilgængelige observationer i Jupiter og så vurdere okay hvor godt fungerer modellen lige her eller lige der. Øhm, og et andet produkt som bliver udstøtet
+
+00:11:00
+på HIP, som bliver brugt ret meget, øhm, det er et højtopløseligt kort over dybden til det øverste grundvandspejl. Øhm, modellen som sådan bliver kørt i 100 meter opløsning. Øhm, det vil sige de dynamiske data, de er i 100 meter opløsning. Men med hjælp af machine learning har vi så nedskaleret en gennemsnitsdybde af grundvandspejlet eller til grundvandspejlet til 10 meter. Øhm, som
+
+00:11:30
+også er faktisk har en mindre modelfejl, altså kun omkring 1,2 meter i stedet for 2,5 meter. Øhm. Ja. Og den kan visualiseres på hip for eksempel. Øhm. Og udover det øhm findes der også øhm ja forventede klimapåvirkninger. Vi har kørt modell med en række klimascenarier ACP85 ACP45
+
+00:12:00
+øh og resultaterne af dette bliver udstillet øh på HIP. Altså hvordan påvirker fremtid klima grundstanden og hvordan påvirker fremtid klima vandføren? Øhm ja, og de data der er udstødt på HIP, de indgår også i andre services. De er offentlig tilgængelige også via API, for eksempel Camp for eksempel også din Geo øhm trækker derfra. Øhm.
+
+00:12:30
+Ja. Og så vil jeg gå lidt ind i nogle i gangværende øh projekter hos os, som er relevant i den sammenhæng, vi er her nu. Øhm i år øhm har vi fået en et projekt via forskreserven, der drejer sig om det terranglende grundvend i og baneområder. Øhm lidt i sammenhæng af den nye opgave
+
+00:13:00
+som forsyningsselskaberne har fået med at øh træne øh det terrælne grundvæ hvis der er behov i urbane områder i deres forsyningsområder. Øhm, og der skal vi kigge lidt nærmere på, hvor godt modellen, den nationale øemodel egentlig fungerer i byerne. Der er nogle særlige udfordringer fordi i byerne, fordi ja, på grund af alle de installationer og de menneskeskabte forstyr forstyrrelser, der er. Øhm, og vi vil også kigge på, om vi kan
+
+00:13:30
+om vi kan komme med et bud på afdræningsbehovet i byerne, hvis man vil sænke grundvandspejlet med en vis til en vis dybde. Øhm, men det forbliver selvfølgelig i hvert fald fra vores side forbliver det øh på nationale niveau. Det vil sige, ja, det er nok stadig et screeningstool ligesom HIP i dag. Øhm. Noget andet øh vi har gang i, det øhm er
+
+00:14:00
+en del af årsøsvarslystemet. Ja, der er et spørgsmål. Jeg bare lige få et spørgsmål til den tidligere. Grid størrelsen. Øhm. Ja, der forbliver vi nok i 100 meter øh grid. Yes. Øhm. noget vi har gang i øhm som del af oversøgelsesvarningssystemet øhm som øh jeg bliver bygget op under ledelse af DMI.
+
+00:14:30
+Det er at vi forsøger at øh jeg følger nogle fylde ud nogle nogle nogle dataer angående vandløbsgeometrien øh på tværs af landet. Øhm, og så forsøge også at komme øh med nogle machine baserede metoder for at overføre en vent førgang, som er lidt nemmere at estimere på nationalplan øh fra modeller øh til en faktisk renstand og mulig øhm
+
+00:15:00
+oversøgelsesudbredelse. Øhm. Ja, og det er så den første resultatet for for øh de tværsnet, vi har ekstraheret baseret på ø det fine topografiske model, som vi har. Ja. Så hvad hvad kan vi så bruge de model data til? Øhm, det er et national model, som ikke kan tage højde for alle øhm
+
+00:15:30
+lokale forhold. Det er kun så godt, som de nationale datasæt er. Så det vil sige, det er et godt national screeningsværktøj. Øhm, men det gode er, at man har så det ensartede model på tværs af hele landet baseret på ja, en ensartig metode og datakling. Øhm, og det bliver for eksempel brugt i sammenhæng med problemer med højt grundvønl. Øhm, det indgår i oversøelsesvarsystemet
+
+00:16:00
+med data om vandførende grundvand, og det bliver også hyppig brugt som udgangspunkt for lokalmodeller og lokale analyser. Man kan tage det som udgangspunkt for en submodel og forbedre så modellen lokalt, hvis der er behov for det. Øhm, man kan bruge grbetingelser fra det nationale model. Og man får også adgang til forskellige kvalitetssikrede hydrologiske data. Ja. Og vi har de nævnte i gang projekter
+
+00:16:30
+øhm med fokus på det terræn grundlæ ur områder og oversøgelser. Der slutter jeg. Tak. Er der et enkelt spørgsmål, enkelt kommentarer? Ja. Nu øh den for landsbyfonden øh hvad hedder det i forhold til øh den en meters tærskelværdi der der har vi selvfølgelig også siddet og kigget på
+
+00:17:00
+det og der snakkede vi med nogle ingeniører omkring det og det vi fik at vide af dem det var at en meter det er faktisk en en en sådan agtig genhits øh spejl ikke altså bare ved at sige i forhold til en taskværd fordi at med bygninger med hvad hedder det kælder der snakker snakker de i hvert fald om en halv og bygninger eller undskyld øh Øh, bygninger uden kælder en halv meter og bygninger med kælder halvanden meter, så bruger man spejl. Så det er sådan lidt en øh ja, altså indimellem kan det være svært at bruge i hvert fald øh meteren,
+
+00:17:30
+fordi at forbygningerne ø med kælder som nok der der er den i hvert fald ikke god nok. Ja. Altså vi har processeret data, hvis jeg husker rigtigt, for en to meter som tærselsværdi. Ja. Men de data der ligger til grunds for det, det er jo landstikkende øh data med med daglig opløsning der. Så man kan også lave alle sine tærselværdier selv i princippet. Det er bare en processering, som vi har leveret til nogle predefined tsværdier,
+
+00:18:00
+men man kan gå ind og lave det til halvmeter eller halvanden eller hvad det nu er. Godt. Tak for det. [Bifald]

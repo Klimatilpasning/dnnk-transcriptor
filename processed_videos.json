@@ -773,19 +773,19 @@
   },
   "rw-2t2DL4aU": {
     "status": "failed",
-    "last_attempt": "2026-08-06T17:15:18",
+    "last_attempt": "2026-08-26T06:32:05",
     "order_id": null,
     "category": "Arrangementer",
-    "attempts": 0,
-    "note": "nulstillet 25/8-2026: de oprindelige fejl kunne ikke skelnes fra midlertidigt YouTube-rate-limit. Pipelinen kan nu skelne, så videoen prøves igen."
+    "attempts": 1,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
   },
   "zQ7nBjYq6Mk": {
     "status": "failed",
-    "last_attempt": "2026-08-06T17:15:18",
+    "last_attempt": "2026-08-26T06:31:35",
     "order_id": null,
     "category": "Arrangementer",
-    "attempts": 0,
-    "note": "nulstillet 25/8-2026: de oprindelige fejl kunne ikke skelnes fra midlertidigt YouTube-rate-limit. Pipelinen kan nu skelne, så videoen prøves igen."
+    "attempts": 1,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
   },
   "twkCUP0a5ug": {
     "status": "done",
@@ -803,11 +803,11 @@
   },
   "ZVkyCW5IMTU": {
     "status": "failed",
-    "last_attempt": "2026-08-06T17:15:18",
+    "last_attempt": "2026-08-26T06:32:01",
     "order_id": null,
     "category": "Arrangementer",
-    "attempts": 0,
-    "note": "nulstillet 25/8-2026: de oprindelige fejl kunne ikke skelnes fra midlertidigt YouTube-rate-limit. Pipelinen kan nu skelne, så videoen prøves igen."
+    "attempts": 1,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
   },
   "KG8mkJJZivE": {
     "status": "done",
@@ -818,27 +818,27 @@
   },
   "cDfGMF9D7rQ": {
     "status": "failed",
-    "last_attempt": "2026-08-06T17:15:18",
+    "last_attempt": "2026-08-26T06:31:40",
     "order_id": null,
     "category": "Arrangementer",
-    "attempts": 0,
-    "note": "nulstillet 25/8-2026: de oprindelige fejl kunne ikke skelnes fra midlertidigt YouTube-rate-limit. Pipelinen kan nu skelne, så videoen prøves igen."
+    "attempts": 1,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
   },
   "RIUuChMy1hs": {
     "status": "failed",
-    "last_attempt": "2026-08-06T17:15:18",
+    "last_attempt": "2026-08-26T06:31:45",
     "order_id": null,
     "category": "Arrangementer",
-    "attempts": 0,
-    "note": "nulstillet 25/8-2026: de oprindelige fejl kunne ikke skelnes fra midlertidigt YouTube-rate-limit. Pipelinen kan nu skelne, så videoen prøves igen."
+    "attempts": 1,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
   },
   "DaKuQ9hKYF0": {
     "status": "failed",
-    "last_attempt": "2026-08-06T17:15:18",
+    "last_attempt": "2026-08-26T06:31:50",
     "order_id": null,
     "category": "Arrangementer",
-    "attempts": 0,
-    "note": "nulstillet 25/8-2026: de oprindelige fejl kunne ikke skelnes fra midlertidigt YouTube-rate-limit. Pipelinen kan nu skelne, så videoen prøves igen."
+    "attempts": 1,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
   },
   "uQuLL27W1D4": {
     "status": "done",
@@ -849,27 +849,27 @@
   },
   "mWG_TwwiPkw": {
     "status": "failed",
-    "last_attempt": "2026-08-06T17:15:18",
+    "last_attempt": "2026-08-26T06:31:56",
     "order_id": null,
     "category": "Arrangementer",
-    "attempts": 0,
-    "note": "nulstillet 25/8-2026: de oprindelige fejl kunne ikke skelnes fra midlertidigt YouTube-rate-limit. Pipelinen kan nu skelne, så videoen prøves igen."
+    "attempts": 1,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
   },
   "TYAN6ZpLxEQ": {
     "status": "failed",
-    "last_attempt": "2026-08-06T17:15:18",
+    "last_attempt": "2026-08-26T06:31:25",
     "order_id": null,
     "category": "Arrangementer",
-    "attempts": 0,
-    "note": "nulstillet 25/8-2026: de oprindelige fejl kunne ikke skelnes fra midlertidigt YouTube-rate-limit. Pipelinen kan nu skelne, så videoen prøves igen."
+    "attempts": 1,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
   },
   "e5n-rkdCyLI": {
     "status": "failed",
-    "last_attempt": "2026-08-06T17:15:18",
+    "last_attempt": "2026-08-26T06:31:30",
     "order_id": null,
     "category": "Arrangementer",
-    "attempts": 0,
-    "note": "nulstillet 25/8-2026: de oprindelige fejl kunne ikke skelnes fra midlertidigt YouTube-rate-limit. Pipelinen kan nu skelne, så videoen prøves igen."
+    "attempts": 1,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
   },
   "SFwbGrZ-Zjs": {
     "status": "done",
@@ -922,5 +922,411 @@
     "kilde": "youtube-subs",
     "order_id": null,
     "last_attempt": "2026-08-25T18:52:44"
+  },
+  "GNayfIboS6w": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:28:06",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "NAtpQXRymvY": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:28:09",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "Td70paA1PkE": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:28:11",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "eqIRZXAQplk": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:28:14",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "hAU-rCQOZkA": {
+    "status": "failed",
+    "last_attempt": "2026-08-26T06:28:24",
+    "attempts": 1,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+  },
+  "Dimz8qW_8io": {
+    "status": "failed",
+    "last_attempt": "2026-08-26T06:28:29",
+    "attempts": 1,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+  },
+  "PTYjtdkMxO8": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:28:32",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "xDdOgmmFbYA": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:28:38",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "_RMVkoF0fAM": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:28:41",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "rt_8ZVkLhms": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:28:44",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "ZB7K39iiVOs": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:28:57",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "nthRIIYUEAE": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:29:00",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "FmyfBR4lkVk": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:29:03",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "kRnH_RnI7kY": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:29:06",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "_AqcZEgrSo0": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:29:14",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "v_LR-r_EaEM": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:29:17",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "iEfRoyJ9-Cs": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:29:19",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "Qug2NCWX4Aw": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:29:22",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "g2fNV0LyDxQ": {
+    "status": "failed",
+    "last_attempt": "2026-08-26T06:29:27",
+    "attempts": 1,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+  },
+  "9hADLyjXnSo": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:29:29",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "chdOFCcLuMs": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:29:38",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "sDTrEDA8a4w": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:29:40",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "kd6EJ3cIjtk": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:29:48",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "KT8Sg9ro60E": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:29:51",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "ykv9nRrgu8s": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:29:59",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "EA1HAzpsXB4": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:30:02",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "zL1iRIYgxz4": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:30:04",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "51hamTlsPoI": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:30:07",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "wQChNkUzVGA": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:30:10",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "_69RcnA53YY": {
+    "status": "failed",
+    "last_attempt": "2026-08-26T06:30:15",
+    "attempts": 1,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+  },
+  "pnWkZcjLm9A": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:30:17",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "lChWhMS4SMQ": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:30:20",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "WoJEDJKye-0": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:30:23",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "9Mtbmb4TUAQ": {
+    "status": "failed",
+    "last_attempt": "2026-08-26T06:30:28",
+    "attempts": 1,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+  },
+  "4AGa2Tu7k4g": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:30:30",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "k4B06Zx_4Ek": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:30:39",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "elScwJQmftw": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:30:47",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "uXKC54VDPAs": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:30:49",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "WblCkHvBaeg": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:30:57",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "Mc98AuVmaM8": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:31:00",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "wHSGQVYpDB8": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:31:03",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "YV7kyRcXJnk": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:31:06",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "cVflXmGwchI": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:31:14",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "Fy_kfUxaYXk": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:31:17",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "UBpqgUQzJas": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:31:20",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "07WqY0l2Gj8": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:32:08",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "H_HnxXoQVVE": {
+    "status": "failed",
+    "last_attempt": "2026-08-26T06:32:16",
+    "attempts": 1,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+  },
+  "0jnsC5JPHvA": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:32:19",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "Be8WiDJYFsg": {
+    "status": "failed",
+    "last_attempt": "2026-08-26T06:32:24",
+    "attempts": 1,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+  },
+  "gMnODGapiRI": {
+    "status": "failed",
+    "last_attempt": "2026-08-26T06:32:28",
+    "attempts": 1,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+  },
+  "rnL8O4Stv70": {
+    "status": "failed",
+    "last_attempt": "2026-08-26T06:32:33",
+    "attempts": 1,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+  },
+  "TF8C8Udk1tA": {
+    "status": "failed",
+    "last_attempt": "2026-08-26T06:32:37",
+    "attempts": 1,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+  },
+  "PKlQbQZRZk0": {
+    "status": "failed",
+    "last_attempt": "2026-08-26T06:32:42",
+    "attempts": 1,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+  },
+  "rioeMRDhJAU": {
+    "status": "failed",
+    "last_attempt": "2026-08-26T06:32:47",
+    "attempts": 1,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+  },
+  "DHL6mwwN6c4": {
+    "status": "failed",
+    "last_attempt": "2026-08-26T06:32:52",
+    "attempts": 1,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+  },
+  "HQRq2cgHreE": {
+    "status": "failed",
+    "last_attempt": "2026-08-26T06:32:56",
+    "attempts": 1,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+  },
+  "u1kaQlQjbeQ": {
+    "status": "failed",
+    "last_attempt": "2026-08-26T06:33:01",
+    "attempts": 1,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+  },
+  "Tr1Zf5SFBJg": {
+    "status": "failed",
+    "last_attempt": "2026-08-26T06:33:06",
+    "attempts": 1,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+  },
+  "QC0zz_tEViU": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:33:13",
+    "order_id": null,
+    "kilde": "youtube-subs"
+  },
+  "rIsvg0nHu58": {
+    "status": "failed",
+    "last_attempt": "2026-08-26T06:33:18",
+    "attempts": 1,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+  },
+  "dBgGPA6gvro": {
+    "status": "failed",
+    "last_attempt": "2026-08-26T06:33:22",
+    "attempts": 1,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+  },
+  "NduJYdtn_zU": {
+    "status": "failed",
+    "last_attempt": "2026-08-26T06:33:26",
+    "attempts": 1,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+  },
+  "dzM8UYhQDy0": {
+    "status": "failed",
+    "last_attempt": "2026-08-26T06:33:29",
+    "attempts": 1,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+  },
+  "FstuVt6efp4": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:37:48",
+    "order_id": null,
+    "kilde": "youtube-subs",
+    "category": "Konferencer"
+  },
+  "UBAR1IG7kQ4": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:38:35",
+    "order_id": null,
+    "kilde": "youtube-subs",
+    "category": "Konferencer"
+  },
+  "ZxCzLZpJmrw": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:39:23",
+    "order_id": null,
+    "kilde": "youtube-subs",
+    "category": "Konferencer"
+  },
+  "qIyqX6OD96Y": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:40:11",
+    "order_id": null,
+    "kilde": "youtube-subs",
+    "category": "Konferencer"
   }
 }

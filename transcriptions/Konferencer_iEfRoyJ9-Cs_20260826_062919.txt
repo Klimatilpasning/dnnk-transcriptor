@@ -1,0 +1,709 @@
+=== DNNK Webinar Transskription ===
+Kategori: Konferencer
+Video ID: iEfRoyJ9-Cs
+URL: https://youtube.com/watch?v=iEfRoyJ9-Cs
+Transskriberet: 2026-08-26T06:29:19.913462
+
+==================================================
+
+00:00:00
+Jamen tak for invitationen til at komme i dag. Øh, jeg hedder som sagt Carsten Maj gang og ved Danmark og har været der i tre år og før jeg kom til Danmark, der var ved Aarhus vand. Så jeg har, hvad skal man sige, den praktiske tilgang til
+
+00:00:30
+beredskab, fordi jeg sad i Aarhus vand også med dokumenteret drikkevandssikkerhed og var i beredskabsgruppen oplever beredskab også. Så så det er mit input til det her indlæg. Og så fordi øh vi lige vil fortælle lidt om, hvad det egentlig er for nogle skuldre, vi står på med beredskab i forsyningerne i dag. Øh når vi kigger frem imod at særdirektivet og 2 direktivet skal til at implementere, så har Susanne Vangsgaard, som er chefjurist oppe hos os, givet mig nogle
+
+00:01:00
+slides omkring det. Så så hvis det bliver jur spørgsmål, så kan det godt være, jeg ikke er helt stærk til at svare, men ø jeg prøver i hvert fald. Yes. Som et indlæg i dag, det tager udgangspunkt i, at vi betragter drikkevand som kritisk infrastruktur og spildevandsforsyning også som kritisk infrastruktur. Det er ligesom præmissen for de budskaber, jeg kommer med.
+
+00:01:30
+Så starter jeg her med at fortælle lidt om vores afsæt i sektoren på drikkevand og spildevand øh til at ruste os mod fremtiden. Og fremtiden det hedder jo CR-direktivet, altså modstandsdygtighedsdirektivet, som vi skal til at gøre os klar til. Øhm. Ja, det meste af den første bullet, det sker på den her slides. Så der kommer et billede nu her med noget regnvand.
+
+00:02:00
+Og når hvis det er regnvand, så er det især spildevandsforsyning, jeg tænker på der. Øh, det risikobillede vi har at tage afsæ i, og det gælder både for drikkevand og for spildevand. Det er et risikobillede, som det så ud ja her fra før årskiftet og så cirka en 10 20 år tilbage i tiden. Så så det trusselspillede der var der, det er det
+
+00:02:30
+som de kommunale vandforsyninger og kommunale spildevandselskaber, de har taget afsæ i, når de har strikket deres beredskab sammen. Så har vi også haft en præmis, der hed, at elforsyningen den var oppe og køre 99,99 et eller andet mange naller. Øh, så der var ikke de store udfald på el. så er man godt nok begyndt at kigge lidt på klima øh også øh og det især med hensyn til afløb med
+
+00:03:00
+var ja separat kloorakering hedder det hvor man har taget udgangspunkt i nogle regnvejrshæelser og sagt jamen øh jeg jeg kan ikke de her hændelser hvornår det er at øh at de dimensionsgivern men øh vi er i hvert fald er ved at blive overhalet af dem sådan at de separat klorering vi laver måske er for små. Så så det det giver nogle problemer med regn og klima ø på spildevand med det afsæt vi har til beredskab. Og så er der
+
+00:03:30
+faktisk ikke nævnt nogen steder at spildevandselskaber de skal have en beredskabsplan. Øh cirka en tredjedel af Danmarks medlemmer var i 2021 hvor vi lavede sådan en brugerundersøgelse hos dem. Øh, der var de certificeret efter miljøledelsessystemet ISO 14001. Og når man er det, så er der et afsnit om, man bør en beredskabsplan på sådan nogle ting. Så med god vilje, så har en tredjedel af
+
+00:04:00
+spildevandsselskaberne i hvert fald en beredskabsplan. Og måske er der flere, der har. Der hvor de især har beredskabsplaner, det er når vi taler arbejdsmiljø og omgang med farlige stoffer, kemiske stoffer, gaseksplosioner og sådan nogle ting. På de områder har de, når vi er inde på egen matrikel, der har vi beredskabsplaner på det for spildevandsanlæg, men lige så snart vi kommer ud omkring i øh samfundet, så så står det nok tyndt
+
+00:04:30
+til med beredskabsplaner på spildevandet. Og så er der den anden ting med renseanlæggene, det er, de er ofte placeret lavt i terræ, fordi så løber vandet af sig selv, så sparer vi noget energi. Og en anden ting, det er, at mange renseanlæg er dyrere at drifte, så derfor vil man gerne centralisere, hvilket er mange, der har gjort, så man får stordriftsfordel og kan spare nogle penge der. Så man har arbejdet imod, kan man
+
+00:05:00
+sige, at det her med vand, det kommer og løber nedad. Så så der er nogle udfordringer der i hvert fald for vores spildevandssektor. Så drikkevand vi skal til at tale nu. Øh drikkevand det har typisk været mikrobiologiske forureninger vi skulle have tage os af. Missen er også her øh ja at strøm er der stort set hele tiden.
+
+00:05:30
+Øh og så har vi øh haft tradition for at dimensionere vores vandforsyningsanlæg, så vi ofte have minimum et døgns vandforbrug på lager. Og det har været renvandstanke, det har været vandtårne. Det har været tanke, der har været gravet ned i jorden. De her tanke, de er blevet gamle med tiden, og med tiden bliver de måske lidt utte, og så dukker der forureninger med mikrobiologi op. Så skal vi til at renovere de her tanker, og så kigger vi
+
+00:06:00
+på anlægssummen af dem. Den er faktisk ret høj. Så kan vi gøre noget andet. Ja, hvis vi er gode til at styre vores anlæg, så kan vi sætte nogle pumper på. Bomber, de kræver L. Og nu ser vi så trusler på elforsyningen. Så der er også noget der, vi skal til at tænke anderledes på i forhold til det, der har været dimensionsgivende på vandforsyningen. Men ellers øh bakter bakteriologiske forureninger
+
+00:06:30
+tror jeg næsten de fleste vandforsyninger har prøvet at hinde på livet. Øh så langt de fleste vandforsyninger, altså jeg vil sige alle vores medlemmer har det. Jeg tænker også alle de små private, der er rigtig mange af de mange små private, der også har det, så kan vi diskutere kvaliteten af de der beredskabsplaner, men de er der i hvert fald. Det var sådan øh, hvad skal man sige, trusselsbilledet og de praktiske anlæg, hvordan vi har strikket dem sammen til at kunne håndtere et beredskab. Så noget andet der driller os
+
+00:07:00
+lige nu, det er faktisk regelsættet, altså lovgivningen på det her område, fordi vi som forsyningsvirksomheder, vi skal have finansieret de her ting, hvis vi skal til at opgradere det. Og ø hvis vi skal have det finansieret, så skal det være nævnt i loven, eller det skal være et servicemål på kommunen og så videre. Så så der er lidt der at at tage fat i. Så de næste slides der, der det går meget hurtigt hen over beredskabsloven, og
+
+00:07:30
+så så ser vi lige på, hvad det ender med. Ja, det det er den her, man altid kigger i, når vi snakker beredskab, også hos vand og spildevandsforsyninger. Øh, og det er selvfølgelig, at beredskabet beredskabsplanen den skal forfylde og begrænse af skader og bla bla bla. Øh, så det skal vi have styr på. Og så er der nævnt, at det er den enkelte minister inde på sit eget område, som
+
+00:08:00
+har ansvaret for at planlægge og opretholde og videreføre samfundetsioner. Og det indebærer blandt andet, at der skal udarbejdes en beredskabsplan. Så kan den enkelte minister inden for et område også vejlede med retningslinjer for regioner og kommunernes planlægning. Og det er ikke det er ikke regionen Midtdanmark. Ikke gå ud fra. Det er de der beredskabsregioner, der er etableret de ni, at der tænkes på her.
+
+00:08:30
+Øh, og så skal kommunalbestyrelsen have udarbejdet en beredskabsplan sit beredskab. Og så en paragraf, som jeg ikke har fået taget med, hvilket ærget mig i dag sad og forberedte mig på vej herover. Det er at øh ministeren han kan faktisk også øh hvad hedder sådan noget bede private virksomheder om at deltage i beredskabsarbejdet. Så han skal specifikt ind og sige dig og dig og dig. I er så vigtige for samfundets
+
+00:09:00
+opretsholdelse at I skal indgå hele redskabsarbejdet her. Og hvis vand og spildevand, det er i hvert fald vores opfattelse af det, skulle have været, så skulle vi have været udpeget der af ministeren specifikt for at vi havde i lovhjemmet til at kunne øh få finansieret de aktiviteter, vi skal lave. Så det vi laver i dag, det er faktisk ø et lævn for da vi var i kommunen, hvor vi var en del af den kommunale beredskabsplan.
+
+00:09:30
+Yes. Så sektoransvaret, det er det er mantra de beredskabsloven. Det er den enkelte minister og den enkelte sektor. Der er ikke nævnt noget om koordinering på tværs af sektorerne. Det er op til kommunen at sørge for i sin beredskabsplan. Øhm. Ja. Og så var det der det ikke indeholdt noget konkret. Så bliver vi dog nævnt
+
+00:10:00
+øh med lidt god vilje kan man sige, fordi redskabsstyrelsen har lavet en vejledning der hedder helhedsorienteret beredskabsplanlægning og den tager jo udgangspunkt i at det er beredskabsplanlæggere ved de statslige regionale og kommunale myndigheder samt offentlige eget selskaber og institutioner. Jamen I er jo offentlig eget Ja, men vi er reguleret efter privatret. Så derfor så så mangler vi i vores optik i hvert fald den her udpegning en bekendtgørelse
+
+00:10:30
+med at ø at vandet spilvand de er omført eller skal handle redskabsplanen. Der ikke sagt selvfølgelig har vi det, og vi gør, hvad vi kan, hvis vi kommer i beredskab og så videre, men hvis vi skal et niveau op i gear og have investeret nogle penge, så så skal vi nævnes et eller andet sted, sådan at vi kan få finansieret de her ting, der skal laves. Og så så er vi jo nævnt alligevel et eller andet sted, fordi vi skal faktisk sørge for, at der bliver leveret
+
+00:11:00
+vand øh til brand til det almindelige beredskab. Så så vi er en del af det, kan man sige, uden at være specifikt nævnt. Ja. Så øh Miljøstyrelsen tilbage i 2020, der var de godt klar over, at de her ting, jeg nu lige har stået og påpeget, de var måske lidt
+
+00:11:30
+øh vi var nok lidt svage på det område der. Så lad os prøve at få kortlagt, hvad det er, vi har brug for, hvis vi skal løftes lidt op i det her beredskab. Øh, så de nedsatte en arbejdsgruppe med nogle af vores medlemmer og Danmark og jeg tror også danske vandværkere, altså de private vandværksorganisation var med og KL var med i det arbejde der, hvor man fik kortlagt, hvad der var af mangler og ønsker i forhold til at drive beredskab
+
+00:12:00
+i forsyningerne, vandforsyningerne, spildevandsforsyningerne. Og det mundede ud i et notat i 21 med nogle anbefalinger. Og det var selvfølgelig, at beredskabsplanlægning, det skulle være et ø praktisk redskab. Det var jo forsyning, det var driftsfolk, det var nogen, der skulle ud og rykke noget. Så det skulle være et praktisk redskab, der kunne anvendes når vi kom ud, hvor det var ekstraordinært i forhold til at drifte. Så var der også behov for at få
+
+00:12:30
+fastsat nogle roller og funktioner og opgaven for dem vdefineret. Øh, fordi hvis man tager fat i regulativet i forhold til levering af drikkevand, jamen så skal vi jo levere vand så længe vi kan. Og hvornår er det så, at det slutter, og hvad er definitionen på det slutter, og hvem har så ansvaret, når vi ikke kan længere og sådan nogle ting. Så de her roller, når den skifter fra at være fra en forsyningsvirksomhed til det kommunale, hvor hvor er det det hopper? Øh, så det
+
+00:13:00
+det var det var i hvert fald noget af det, der var vigtigt at få klarlagt og så også få synjort de her aktiveringstrin. Hvem er det, der tager over hvornår i forskellige grader af beredskab? Så det var de anbefalinger, der kom ud af det arbejde sådan et grogtræk. Øh, og de anbefalinger de de er fortsat gældende. Altså dem ser vi stadigvæk gerne implementeret enten med vedtagelse af bekendtgørelse til særdirektivet eller en op en revidering af af
+
+00:13:30
+beredskabsloven eller hvad det nu er der skal til eller en bekendtelse til beredskabsloven. Så hopper jeg lige herhen, fordi det der med funktioner og roller, det var bare lige for at illustrere, hvor komplekst det egentlig er det, vi sidder i. Vi er hernede, vi er vandforsyning, spildevandsforsyning hernede. Vi har lavet et beredskab på vandforsyning, langt de fleste af os, og en stor del af os har det også på spildevand. Og det linker op til den
+
+00:14:00
+kommunale beredskabsplan. Der er sådan noget katastrofeberedskab som er i de her regionale beredskabsenheder. Øh og en del af kommunalbestyrelsens reddantet miljøvagt, som vi nogle gange øh har med at gøre. Så har vi fire styrelser, som spiller ind hos os øh meget direkte. den nye styrelse her, styrelsen for
+
+00:14:30
+samfundssikkerhed, som sætter nogle rammer for vores robusthed, kommer det til. Så har vi Beredskabsstyrelsen, statslige beredskab, der er vejledninger og diverse ting, vi kan anvende fra dem. Og et eller andet sted, så kommer vi også til at kan trække på det det statslskab, når vi ikke selv kan klare det længere. Der har vi Miljøstyrelsen, som er vores mighed, overordnet mænd på området her. Og så når vi har med drikkevandsforureninger at gøre med, så
+
+00:15:00
+har vi styrelsen for patientsikkerhed inde. Så det her med at få de her roller og ansvar defineret i det her kludetæppe, det er faktisk ret vigtigt, at ø at det bliver bliver gjort og holdt ved lige. Det var der, vi var eller er, kan man sige. Så det her det er sådan lige for at prøve at illustrere det. Det er det herinde i dag. Det er det vi har styr på når vi
+
+00:15:30
+kører i normal drift. Når vi så kommer udenfor det vi eller derude hvor vi ikke rigtig har styr på det eller er mindre robust. Det er så herude i det omkringliggende. Det er der vi er i dag med det trusselsbillede vi så fra før som er et par år gammelt som vi har indrettet vores ting efter. M særdirektivet. Det er lidt afhængig af, hvordan den her implementering den kommer til at lande. Om vi får en minimumsimplementering, der betyder, at det egentlig bare er hæelser, vi skal
+
+00:16:00
+afrapportere til Miljøstyrelsen, eller vi reelt får til opgave og prøve at gøre os mere robuste. Det ved vi faktisk ikke rigtig om. Men vi håber da på det sidste, at vi får lov til at øge det her område, hvor at vi skal have styr lidt bedre styr på noget mere af det, vi ikke har styr på. Klima, ø, cybersikkerhed, øh, måske sabotage, sådan nogle ting øh kunne vi måske ønske os få lidt mere
+
+00:16:30
+på, men det ved vi faktisk ikke sådan at vi får minimeret det her, vi ikke har så meget styr på. Det bringer så frem til den med søsvej i forhold til særdirektivet øh hvor vi stadigvæk har nogle ønsker selvom loven nu er blevet vedtaget. Øh fordi loven den blev faktisk vedtaget meget lige det som øh der var i høring. Det er lidt en udfordring. Vi har to hovedlove. Der er
+
+00:17:00
+en hovedlov, der implementerer særdirektivet for energiforsyningerne, og så er der en hovedlov, der implementerer den for alle os andre. Øh, i og med vi er kritisk infrastruktur, det er i hvert fald præmissen, øh, så skal vi jo på et eller andet niveau ø spille op imod energisektoren, hvor at energisektoren de kører på et højere niveau med beredskab og sikkerhed, end vi er vant til. Så der bliver noget udfordring der med at få det kommunikeret ud og få det kalibreret med energi og så videre, fordi vi er
+
+00:17:30
+afhængige af hinanden. Vi lever også køling til energi og til IT, og vi leverer lidt eller lidt varme på nogle fra nogle øh spildevandsæ af og sådan nogle ting. Så der er noget øh så har vi nogle multiforsyninger også øh som har både vand og varme og el og energi og sådan nogle ting. Og de har så to sætler de skal agere indenfor. Så så men det er ikke lavet om. Det er sådan det er. Så det er en udfordring stadigvæk vi har.
+
+00:18:00
+Øh, så var det det her omkring, der skal jo laves en national strategi for, hvor vi ønsker at lægge vores modstandsdygtighed henne. Og når den er lavet, så kan man lave sin risikovurdering og få udbræt de her kritiske enheder, der skal være mere robuste. Og øh ja, der vil vi gerne være med inde og prøve at give nogle nogle data og noget input til det og få det kalibreret ind. Så har vi noget omkring det her
+
+00:18:30
+tværssektoriale. Øh, der vil man gerne fra Danmark side i hvert fald at det bliver sammetænkt og ikke bare koordineret. Og med samme ting der mener vi øh det er lidt kraftigere end at man koordinerer ved at fortælle om hvad man har lavet af indsatser. Fordi det kan godt være at man øh med en lille indsats på el kunne undgå at lave en stor investering ovre på vand. Det kan også være, man kommer til at køre med dobbelt, altså to sikkerheder, hvis vi
+
+00:19:00
+ikke får koordineret og samtænkt tingene ordentligt. Øh, så vi tænker samfundsøkonomisk vil det være en fordel at få få sammeting tingene. Så har vi sat spørgsmålstegn ved, om vand og spildevand de har den rette sektormighed med Miljøstyrelsen, som øh ikke har ret mange muskler til at håndtere beredskab. De har godt et årsværk til at håndtere beredskab. De skal ud og lave tilsyn og
+
+00:19:30
+håndtere hendelses indrapportering fra os. De skal rapportere til EU. Øh, højst sandsynligt inden for det ene årsværk. tager vi elsektoren, jamen så har de cirka 30 års værk siddende og køre de her tilsyner og sådan nogle ting. Så er der også noget med koordinering mellem tilsynene, fordi her er multiselskaber, sådan at der ikke kommer tilsyn hver anden dag for hver myndighed og sådan nogle ting. Så det kunne også være rart at man ø i hvert fald fik kalibreret de her tilsyn ind. Og det ser så ud til at det
+
+00:20:00
+forsøger man at gøre med den kommende lovgivning. Yes. Hvad har vi så der? Ja, det her det er så gået mere op på det overordnede niveau ved myndighederne. Helt ude lokalt der vil vi faktisk rigtig gerne have at ø det bliver obligatorisk at man minimum en gang om året får kaldt alle parter sammen øh som er involveret i et beredskab ude lokalt i kommunerne. Og
+
+00:20:30
+som det ser ud i dag, hvor det er den kommunale ja kommunalbestyrelsen, der har ansvaret derude. Jamen så kunne du godt se, at det skulle være dem, der skulle sidde på bordenden og sørge for at få kaldt de her interessenter ind. Så man fik kalibreret, at øh Lars han er ved at køre ud en tankvogn til at kan køre brugvand rundt med. Øh, det ville være rart for en vandforsyning at vide, at han var det. Hvor skal Lars køre hen og hente sit
+
+00:21:00
+vand? Det vil også være rart for en vandforsyn. Så der er, og sådan nogle ting vil sikkert komme til at glide alligevel, men der kan sagtens være nogle ting, hvor det ikke glider så nemt. Så vi vil gerne have, det skulle være obligatorisk, at sådan noget der skulle på bro. Om det hører til særdirektivet eller det hører nede i beredskabsloven, det ved vi ikke. Men det er i hvert fald, vi har meldt det ind som høringssvar til sær. Og så alt det her med finansiering har vi også kommenteret på. Så er vi færdige med alle de her
+
+00:21:30
+lovting. Så så har vi brug for noget hjælp. Der er noget vejledning, der efterlyses her fra Danmarks side i forhold til at få komme i gang med særdirektivet. Vi vil rigtig gerne vide, hvad en hændelse, der har en betydende forstyrrende virkning på samfundet, hvor ligger det niveau henne for vandet spildevand? Fordi det det er jo afgørende for, hvor vi sætter ind med vores ø robusthed. Og altså de kommer til at danne de scenarie kommer til at sidde og køre på i vores
+
+00:22:00
+risikovurderinger. Og hele beredskabsarbejdet ø lægges der op til, at det skal tage afsæt i den her risikoanalyse, som der skal laves ude hos os. Og vi vil også gerne have, at der er et ensartigt grundlag og metode til at lave den her risikoanalyse på, sådan at man i Sønderjyllander på samme måde som Nordjylland, sådan at man ikke bruger for få og for mange penge og forskellige servicioner og så videre. Så så det efterlyser vi også en
+
+00:22:30
+vejledning til, hvordan den øh skal køre sådan en risikoanalyse. Så når vi skal til at dimensionere vores robusthed og vores beredskab, så har vi brug for en tidshorisont. Hvor længe skal vi være selvforsynende og være oppe og køre? Øh, Efos havde været ved at kigge lidt på, hvad det skulle til for, at de kunne holde sig op og køre 20 eller 30% med fuld skrald. Det betød, de skulle have store dieseltanke stående med diesel til
+
+00:23:00
+nødstrømsanlæg. Det betyder så, at de bliver en risikovirksomhed. Så skal de til at ind under den ø og så videre. Så det har de ikke lyst til. Øh, så de måerer anderledes, men de har ikke der er ikke nogen, der har svaret på dem om det, om det er fornuftigt eller ikke fornuftigt. Så vi efterlyser noget tidshorisont på det her. Hvor meget skal vi hvor lang tid skal vi være kørende? Og til hvilket serviceniveau skal vi være kørende? Vi kan levere vand 80% 20% 100% hvor længe.
+
+00:23:30
+Så det ville også være rigtig rart at få sådan nogle ting her meldt ud i en ø en bekendtgørelse vejledning eller et eller andet og paste modstandsdygtighedsforanstaltninger. Hvornår er nok nok? Altså det ville også være rart, men den drøper sikkert ud af det her. Det kunne jeg godt forestille mig. til at trykke ud af. Men anyway, fire minutter tilbage. Ja, næste gang vi færdig. Lige hen de næste en. Så har vi fysisk sikring af
+
+00:24:00
+anlæg. De fleste af de der fysiske sikring vi har på vores anlæg, det kan være en port, der er låst. Der kan være hegn omkring. Det kan også være, at øh der er åbent helt op til vandværket, og der er sat store roder ind. og lys på om aftenen, så folk kan komme og se og så videre. Og men så har vi måske noget videoovervågning på og noget alarm og sådan nogle ting. Øh, så fysisk sikring,
+
+00:24:30
+hvad hvad skal vi have af det? Øh, det vil vi rigtig gerne vide også fordi at vi oplever at nogle af vores medlemmer når de bygger nye anlæg så får de et ønske fra kommunen om at der skal være lidt rekreativt omkring og man må gerne sætte en vandpost op ved vernværket så når folk de er ude og gå tur så kan de få lidt frisk vand og sådan nogle ting. Øh, ligger det helt i tråd med det trusselsniveau, som vi skal forholde os til eller et eller andet. Så noget
+
+00:25:00
+fælles retningslinje og vejledning omkring til, hvordan de her fysiske sikringer og hvilket niveau det skal være på. Det vil vi faktisk også rigtig gerne have noget at vide om. Og så noget jeg har taget med her, det er den her sikkerhedsgodkendelse af personale, men det er heldigvis en bekendtgørelse af vejledning på vej til os. Sådan at uanset om man arbejder med el, vand varme, jamen så bliver man vurderet på samme baggrund sådan at ø vi ikke har forskellige niveauer der. Og særligt
+
+00:25:30
+hvem skal gøre det, skal tage sig af det og sådan noget er jo så lidt et issue. Og til allersidst bare lige et lille ops. Når vi så går i gang med kriser, kan vi så være sikker på, at vi har det personale som vi har i dag. Der kan godt være nogen, der er nødt til at blive hjemme og passe børn eller et eller andet, så vi bliver måske lidt svagere på personal og sådan ting. Så det igen i forhold til at få fastlagt serviceniveau og sådan nogle ting her. Vi skal helst stemme lidt over
+
+00:26:00
+ens det hele. Så vi tre der arbejder med beredskab inde ved Danmark, som I er velkommen til at tage fat i. Der er mig med særdirektivet. Så har vi min kollega Peter Mortensen, som arbejder med 2et og så har vi Susanne, som sidder med alt det juridiske på området. Og så har jeg ikke mere til jer. Nå, jeg hedder Louise Briggaard. Jeg er chef for det kontor, der har ansvar for beredskab i det nye ministerium for
+
+00:26:30
+samfundssikkerhed og beredskab. Øhm, vi får sikkert nogle slides op lige om lidt. Ja. Ja, men du kan styr til. Ja, det kan vi også. Det er fint. Det er fint. Yes. Øh, vi er jo et ministerum, der er forholdsvis nyt. B oprettet den 29. august og har overtaget opgaver og sagsområder fra i alt otte forskellige ministerområder. Det er vist, jeg tror ikke rigtig man har set det i Danmark før, at der er så mange ministerområder der har afgivet områder til et ministerum, men det sk øhm der er lavet
+
+00:27:00
+sådan en fin kongelig resolution, der opretter det hele. Noget af det er skrevet lidt kanalistsprogsagtigt og svært at gennemskue. Øhm men øh ideen er sådan tænkt at i lyset er det skærpet og mere komplekse tro risikobillede både på klimasiden og på sikkerhedssiden og egentlig også teknologiske forandringer. at man så havde behov for at sikre et større politisk fokus og en større muskel til at prøve på at drive nogle af de her dagsorder frem og sikre en stærkere tværgående koordinering for området.
+
+00:27:30
+Øhm, så den 29. Ministeriet etableret. Torsten Schak er vores minister. Vi har jo selvfølgelig, hvad kan man sige, mange af de primære opgaver stammer enten fra Forsministeriet eller Justitsministeriets område. Jeg stammer selv fra Justitsministeriet, der har jeg baggrund og arbejde meget med sikkerhedsområdet der og krisestyring og sådan noget der. Øhm, men ellers så har vi jo også folk der kommer fra mange forskellige andre steder. Der er også folk der øh har siddet med for eksempel med losområdet i Søfstyrelsen eller jeg har også en
+
+00:28:00
+havbiolog og så videre mit kontor og så videre. Så vi har mange forskellige kompetencer, hvor vi kan løfte nogle af de opgaver, vi har. Ideen var med at lave et investerum, det er at prøve på at løfte nogle af de ambitioner regeringen havde, som også allerede fremgår af af regeringsgrundlaget ø nemlig et behov for at styrke den tværgående koordination, at styrke sikkerheden omkring kritisk infrastruktur, styrke krisestyring og bredskabsplanlægning og sådan noget på tværs. Øhm, der er ikke så mange ministerier i Europa, der minder om vores. Øh, enten
+
+00:28:30
+så har man tit valgt en model, hvor nogle af de her ting ligger ø placeret ind omkring en stats eller premierminister, sådan en mere centralistisk model, eller også så er det typisk sådan, at ø beredskabsområdet, afhængig af, hvordan det er defineret, enten ligger sammen med en indrigs eller justitsminister eller en forsvarsminister. Øh, der er rigtig mange af de andre EU-lande, der faktisk er meget nysgerrige på, hvordan vi går til den her opgave. Så når vi går til dem og siger, hey, vi vil gerne lære, og vi vil gerne efter det her område, beredskabsområdet, måske ikke har haft så meget fokus efter afslutning
+
+00:29:00
+den kolde krig, så er det jo noget der igen får rigtig rigtig meget fokus både på grund af klimaforandringer og på grund af den sikkerhedsbituation. Men de andre er faktisk meget nysgerrige efter, hvordan vi går til den her opgave. Så også nogle, hvad hedder sådan noget som eksempel, så også nogle af de store lande, hvor man tænker, I har der store systemer til det. tyske indrigsminister og så videre, de siger også: "Hey, vi vil egentlig gerne have et møde med at lære. Hvordan gør I det? Hvordan laver det af koordination eller finder det?" Så vi har en kæmpe lang beredskabstradition. Vi siger også, vi
+
+00:29:30
+har en lang beredskabstradition. Vi har en masse setup. Vi er ikke altid så gode til det der med koordinere samarbejde. Kan I ikke lære os om det? Så det snakker vi også med dem om. Men altså grundlæggende så er det som ministeriet er sat i verden for det er at forebygge, modstå, håndtere større ulykker, kriseer, katastrofer, krig og andre hændelser, der udfordrer samfundets grundlæggende funktioner, og sikrer vi på kort og lang sigt øh har et robust og modstandsdygtigt samfund og planer for at håndtere de hændelser, der rammer os. Det er sådan en øh en lille begrænset opgave øh som mange har en lille del i
+
+00:30:00
+øh som vi skal prøve på at løse sammen med en masse andre aktører både hvad kan man sige øh på myndighedssiden, kommunalt, regionalt, statsligt, men i høj grad også sammen med erhvervslivet, operatører, kritisk infrastruktur, civilsamfundsioner og så videre. Øhm, og sådan hvis det er sådan, jeg lige sådan kort skal give et lille bitte overblik over noget af det, som vi har ansvaret for, så er der jo spørgsmål om redningsberedskabsområdet, det statslige redningsberedskab rammerne for øh
+
+00:30:30
+kommunalen også. Øh der er spørgsmål om tværgående kordation af ruggørelsen af samfundsvigtige funktioner, tværgående kondition af bredskabplanlægning og krisestyring. Det bruger vi rigtig meget krudt på. Øh, der er spørgsmål om rådgivning om trusler og risicii. Øhm, hvor vi har, hvad kan man sige, på ministerområdet har vi både de funktioner, der før har ligget i beredskabsstyrelsen, som blandt andet udnytter sig i nationalt risikobillede, som jeg kommer lidt tilbage til, øh, og understyrelsen af
+
+00:31:00
+kommunal regional bredskablaning, men også de rådgivningsfunktioner, der før har været i politiets efterretningstjeneste, i center for cybersikkerhed og så videre i forhold til rådgivning om om henholdsvis cybertrusler og spionage, terærtrusler og så videre. Så har vi cyber informationssikkerhedsområdet, hvor vi har overet overtaget master deal af det, der før var set of cybersikkerhed og digitaliseringsstyrelsen. Og så har vi ø beredskab og sikkerhed på havet. Og det er jo både, hvad kan man sige, ø havmiljøberedskabet øh det er også
+
+00:31:30
+kystredningstjenesten øh og den regulering, der knytter sig til de to ting, sær har mulighedskil. Så det er sådan en en ret blandet portefølje af både områder, hvor vi har sektoransvar og og mange ting, hvor vi har en koordinerende rolle på tværs af mange sektorer. Øhm, det der jo i virkeligheden er rigtig meget retor i at etablere ministeriet og øh hvorfor det så meget fokus, det er jo spørgsmål om det skærpede trussels
+
+00:32:00
+risikobillede. Øh, og det har måske kun fået et nyk opad, især på den sikkerhedsid side siden ministeriet blev etableret. Øh, men men det er i høj grad også klimaforandringerne og og de udfordring, vi skaber, som er en del af reser for for ministeriet. Og heldigvis er det jo sådan, at mange af de tiltag, man tager i forhold til at gøre samfundet mere robust, mere beredt, øh, have en bedre planlægning, der kan nogle af de generelle ting i virkeligheden hjælpe mod begge dele. Øh,
+
+00:32:30
+men altså grundlæggende i forhold til tro risikobilledet, så er det jo faktisk det mest alvorlige tros risikobilled, vi står overfor siden i Anden Verdenskrig. Det er også noget statsministeren har været ved at sige og så videre. Vi står i en en skærpet sikkerhedspolitisk situation, hvor øh, hvad hedder sådan noget? Der er en større russisk risikovillighed i forhold til at bruge hybride øh midler ø i forhold til at gå længere i forhold til risikoen for at man bliver opdaget. De har selvfølgelig også lavet noget før. Det gælder på cyberangreb. Det gælder sådan set også sabotage hvor vi har set sabotage i
+
+00:33:00
+nogle af vores nabolande. Øhm det gælder om om risikoen for angreb mod kritisk infrastruktur. Ø og så de her hyppigere og voldsomme behandelser. Øhm og hvad hedder sådan noget? Øh, det ved I mere om end jeg gør. Alt det der handler om om klimaforandringer, klimatilpasning og så videre. Men men grundlæggende så så kommer det til at betyde rigtig meget for vores samfund og vores samfundsusthed, hvor vi 23 havde det våste år nogensinde ø og vi jo bliver udfordret fra vand fra oven, vand fra
+
+00:33:30
+siden og vand fra neden. Øh, og blandt andet stormflåden i 23, som i høj grad ramte blandt andet østkysten det sydlige Jylland rigtig hårdt blandt andet. Øh, det det er sådan noget, der gør, at vi bliver nødt til at se ind i, hvordan kan vi stille os bedre i forhold nogle af de her ting. Jeg tror også for en del øh det er også nogle gange nogle gange så er der hæelser ude i andre dele af verden, der også gør et indtryk. Jeg tror de der store oversvømmelser vi så i Spanien og Valencia har også gjort et indtryk på en del af nogle af de centrale beslutningstager og hvordan man
+
+00:34:00
+håndterede det beredskabsmæssigt. Øhm. Ja. Så det er jo noget af alt det, vi skal forberede os på. Øh, det er en øh, det måske skulle jeg lige sige, det er en holdsport, jeg har snakket om, at vi både skal have et tættere samarbejde med mange myndigheder, stats i, regional, kommunalt, erhvervslød, civilsamfund. Vi gør en del for at øhm inddrage og mobilisere flere dele af samfundet. Øh, det gør vi både, hvad hedder sådan
+
+00:34:30
+noget, ved at samle mange af de statslige myndigheder øh både på departementsniveau og styrelseniveau om styrkebredplanlægning. Øh, vi har en, hvad hedder sådan noget, vi arbejder på at få en tættere dialog. Vi er godt i gang. En tættere dialog med KL og danske regioner. Omberedskabsplaningen, hvordan vi kan gøre det bedre. Øh, det er jo sådan, hvad hedder det, på grund af sektoransvaret i Danmark, så er det nogle gange, der ikke altid har været, eller så enten hvis der har der, hvor der har været koordinationer til et
+
+00:35:00
+samarbejde, der er det nogle gange, man har set det sådan lidt snævert. Der er også nogle områder, hvor man måske ikke helt har turet tage fat, fordi det er i virkeligheden førte tilbage til øh, hvad kan man sige, for mange styrelser eller for mange departementer, men det det prøver vi på at gøre nu sammen med de ministerområder, der er ansvarlige. Så eksempelvis spørgsmål om indtænkning af sårbare grupper i kommunernes beredskabplanlægningen. Der har vi der mødes vi med både de velfærdsministerier der er relevante der og sundhedsministeriet ældreministeriet
+
+00:35:30
+sociale og boligministeriet KL danske regioner øh prøver på at se hvordan kan vi gøre noget sammen, fordi vi bliver nødt til at have nogle fælles løsninger der fungerer lidt på tværs. Øhm, vi har også taget initiativ til at lave et erhvervsforum for sikkerhedberedskab, hvor 21 store virksomheder og erhvervsioner er med. De vil øh meget gerne bidrage til en større samfundssikkerhed, større samlet samfundsberedskab. Der er selvfølgelig også nogle ønsker og nogle behov, de har for at kunne både drive deres forretning
+
+00:36:00
+og og løse de opgaver, de gi. Så det har vi en dialog om. prøve på at se, hvordan kan vi skabe nogle bedre rammer for et bedre samspil mellem myndigheder og erhvervsliv på på beredskabsdagsorden og tilsvarende også på på civilsamfundssiden. Og øh du kan ikke huske om du var du med Lars? Ja. Vi holdt sådan en stor kickoff konference for et par uger siden for knap 120 deltagere øh fra civilsamfundet som handlede om hvordan de kunne bidrage til samfundsberedskab. både med kapacitet, men også med hvordan vi bedre i den beredskabsplanlægning der laves
+
+00:36:30
+fra myndighedssidet, hvordan vi bedre kan indtænke nogle af de særlige grupper de arbejder med øh på forskellig vis. Så det er sådan et spørgsmål om at mobilisere nogle flere dele. Det er også spørgsmål om at øh vi også skal prøve på at vende den enkelte dansker til at tage i virkeligheden et større ansvar for sig selv og sine lærer i forhold til til beredskabsopgaver. Øh, fordi alt lige, hvis man kan tage vare eller hvis flere tager vare på sig selv og sin nærmeste, så kan man kanalisere ressourcerne hen der, hvor der er de største behov eller fokusere
+
+00:37:00
+på at få genoprettet samfundsvigtige funktioner af el eller vand eller hvad der nu måtte være sket nedbrydning. Øhm, national nationalt risikobillede øh er en, hvad kan man sige, et væsentligt fundament for meget af det samarbejde med, vi har mange af aktørerne. I kender det sikkert mange af jer. Øh, så det er ligesom et produkt der der er født ud af en utrolig lang proces med utrolig mange øh myndigheder og forskningsinstitutioner og så videre, der er innoveret blandt andet DMI, men også en lang række andre, der prøver på
+
+00:37:30
+at optegne, hvad er de hændelser øh som man enten som som myndighed eller det kan være kritisk infrastrukturoperatør eller eller institution øh med fordel kan forberede sig på inden for sådan et to til fem år sigte. Hvad er det så for nogle hæelser der der virker oplagte? Der er også i hver del øh hvis I kender produktet, så står der også lidt om hvad er konsekvenserne primært? Er det fordi der er konsekvenser for menneskers øh øh liv eller sundhed eller er det mere et spørgsmål om økonomisk konsekvenser
+
+00:38:00
+eller så videre som også kan få lidt indblik i det og gå til det på den måde? Øh der er 16 forskellige hændelsestyper eller scenarier der blev krittet op som man anbefales kigget ind i. Der er også lavet sådan nogle, hvad nu hvis scenarier, som ligesom [Musik] øh er nogle værste faldscenarier, der alligevel har en betydelig grad af realisme i sig, som man kan sige, okay, hvis vi skal tænke lige lidt videre end det, vi har set nu, hvordan kunne det så se ud og prøve på at sætte nogle billeder på det? Øhm, det der jo er, hvad kan man sige, vi har valgt at indføje to
+
+00:38:30
+bagtæppekapitler, både om den sikkerhedspolitiske situation og risicii, men også om klimaforandringers betydning, fordi begge de to forhold kan virke som øh, hvad kan man kalde det, trusselsforstærkere, så gør nogle af de ø dynamikkerne omkring de forskellige hændelser øh vanskeligere at håndtere. Øhm. Ja. Så hvis der er sådan, vi lige skraber en lille bitte smule i kapitlet om om klimaforandringer, så er det
+
+00:39:00
+grundlæggende den her pointe om, at klimaforandringerne fungerer som risikoforstærker på mange af de andre øh og forstærke konsekvenserne af flere hilsestyper. Øh, grundlæggende så det hyppigere mere voldsomme vejr ø der peger publikationen på de varmere som de fører til mere ekstremn nedbør. skybrud, havvandslinjer, risikoen for oversvømmelser og ændrede nedbørnsmønstre også kan føre til de her ferskvandsoversvømmelser. Øhm, det har jo så også konsekvenser på mange sektorer som for eksempel sådan noget som øh sygdomsbilledet både i
+
+00:39:30
+forhold til mennesker og dyr. Det kan have der er en sundhedsrisiko i forbindelse med hedebølger. Det er altså ikke kun i Sydeuropa. Øh og sådan noget med nedslidning af kritisk infrastruktur. Det er nogle af de elementer der er indregnet. Og så preses der selvfølgelig også på hele betydning koblighæ. Så det tænker jeg, der er mange af jer, der ved mere om jeg ved. Øhm, i forhold til at sætte, hvad kan man sige, hvad vi laver på klimaområdet i en lidt større ramme, så har vi ø tidligere i år, der blev der indgået en
+
+00:40:00
+aftale om beredskabsområdet, som blandt andet medfører, at man investerer i noget mere specialiseret klimamateriel til beredskabsstyrelsen. Det er sådan, at beredskabsstyrelsen assisterer de kommunale beredskaber, redningsberedskaber, øh, typisk ved større hændelser. Øh, der kan de refereres sådan set ganske kvit og frit til at man man så kan supplere sin egen kapacitet. Det kan være det er et stor pumpekapacitet, hvis det er oversvømmelser for eksempel der er relevant. Øhm, og der er også en dialog mellem de kommunale og statslige redningsberedskaber om hvad præcis man
+
+00:40:30
+skal bruge og sådan noget hvornår. Og så er det jo selvfølgelig, hvad hedder sådan noget typisk så ved man jo ud fra lokalområde, hvad er det for nogle risici man er mest ø udsat for? Så jeg er helt sikker på at øh øh man i Vejle er meget meget opmærksom på hvad risicisen er for svømme oversvømmelse for eksempel ikke. Øh så det er jo også vigtigt at hvis man ved at der du ved øh nu står vi DMI hvis der er sådan der varsling om voldsomtvær eller noget der kan have betydning der er lokalt så er det også noget med så vidt muligt man
+
+00:41:00
+kan for reker noget assistance i tiden. Øhm der bliver også tilført noget mere mandskab. Øh blandt andet så øh hvad hedder sådan noget? Så skal der tilføres nogle flere konstabler noget med sådan, hvad kan man sige til at supplere. Altså backbone i Bredskabsstyrelsen, det er værpepligtigt. Øh, det er mange af dem, der løfter mange af de relativt manuelle opgaver, hvis der for eksempel skal udelægges watertes eller lignende. Men men der bliver tilført nogle flere konstabler, som kan tage nogle af de lidt mere avancerede opgaver øh som også
+
+00:41:30
+handler om for eksempel hvordan man bruger droner ved nogle af de store indsatser eller tager nogle mere komplekse opgaver og løfte dem. Øh, og det begynder sådan at, hvad kan man sige, vi kommer frem til her står der, ja, og der kommer også flere vernebligende, men der kommer også nogle flere konstler fra fra 27. I 27 tror jeg også, vi vil være op på sådan øh omkring 50 flere kontabler end i dag. Øh, der vil blive gennemført mange flere øvelser og træningsscenarier, forskellige typer af øvelser, både nogle øh nogle der mener om vi kender, nogle af dem, nogle vil være sådan tabletopøvelser. Det vil
+
+00:42:00
+være med et endnu bredere fokus på at have flere sektorer med i øvelserne, flere typer af scenarier, øh, flere private aktører hedtil. Og generelt så er der tilført flere midler til øvelsesområdet. Øh, fordi det er da ikke noget, at vi kun har evnen på papiret. Vi skal også gerne have prøvet på at øve det og finde ud af præcis, hvad er det, vi værsger, og hvordan kan vi spille sammen. Ja. Og så en anelse om, hvad regeringen gør i øvrigt. Altså det er jo sådan, hvad kan man sige, ministeriet for
+
+00:42:30
+samfundssikkerhed og beredskab. Vi har beredskabsvinklen ind på klimaforandringer og klimatilpasning. Så vi er i et tæt, meget tæt dialog og samspil med med både miljø og ligestingsæingsministeriet og klimaenergi, forsyningsministeriet på mange af de her ting. Men men selve klimatilpasningsansvaret ligger jo alt over Listingsministeriet. Øhm, der er, som I sikkert kender, øh, øh, rullet en klimatilpasningsplan et ud, øh, som er relativt ø omfattende.
+
+00:43:00
+Øh, men den har især haft fokus på kysterne og terrænene og et grundvand, hvor der afsat midler, flere midler til den sags kystpulje til kystbeskyttelse. Øhm, og der også vil være fokus på ny lovgivning om terrænt grundvand. Regeringen er så småt i gang med at eller i virkeligheden så er der stort arbejde i gang. øh med at forberede klimatilpasningsplan to, som i højere grad handler om, hvordan man øh gør institenterne bedre til at sikre en stærkere kystsikring, flere investeringer i det.
+
+00:43:30
+Øhm og i virkeligheden også se på lovgivning i forhold til øhm hvor man kan opføre nyt byggeri, fordi det er en kæmpe udfordring at meget altså en stor del af nyt byggeri er opført i nogle områder, hvor der simpelth egentlig godt ved at der er risiko for oversvømmelser. Så man vil prøve på at se i virkeligheden ret grundigt på, hvad er nogle af instrumenterne, hvordan man kan prøve på at rykke på det. Så det er et meget tæt samarbejde, hvor miljø og Listingsministeriet og Finansministeriets øh regnedrenge og regnepiger kigger meget meget grundigt
+
+00:44:00
+ved også nogle økonomiske modeller for hvordan kan man skole sammen, hvordan kan man lave nogle investeringer, så det samlet sæ bliver øh, hvad kan man sige, at samfundet og Danmark bliver mere klimasikret. Vores vinkel ind i det er jo mere man kan, hvad kan man sige, forsikre sig gennem klimatilpasning, jo mere håndterbar realistisk er beredskabsopgaven. Vi vil aldrig kunne med selv et ekstremt udvidet beredskab kunne håndtere klimaforandringerne. Det skal være klimatilpasningen, der der grundlæggende driver det.
+
+00:44:30
+Jamen, det jeg har fået mulighed for at fortælle, det er sådan mere den praktiske ting, der ryger ind i nogle af de der seksvarsting, som vi snakker omkring. Øh, og og jeg tager det lidt som noget af den erfaring der er. Jeg sidder som beredskabsdirektør i Roskilde kommune i dag. Har også siddet for sådan en paragraf 60 selskab, som jo er lidt de her sammenordnede selskaber. Og man kan sige, det der er den store forskel, det er jo at at paragraf 60 selskaberne er betragtet som specialkommuner uden at have det store ansvar ude i kommunerne, så de er i gang med at finde deres ben og stå på dem der har det. Os der er
+
+00:45:00
+kommet tilbage til kommunalt, der er vi typisk blevet inkluderet i kommunens krisestab og sidder også som en central del af hele den planlægning der er. Når vi kigger ind i det her, så er det også fordi at lidt ligesom det at vi har hørt her og det som der blev sagt til ministeriet om at hvad er det for et niveau man skal ind på, der er det samme diskussion vi har her. Og det har man jo efterspurgt rigtig rigtig mange gange. Hvad er det man forventer kommunerne skal kunne i var lang tid og i høj grad?
+
+00:45:30
+Lidt ligesom om det er spildevand, drikkevand eller hvad det kan være. Og seksansvaret begynder at spille sådan ret meget ind. Så er der kommet en anbefaling fra KLA her i sidste uge, tror jeg det var, forrige uge, øh, med fem fem anbefalinger, der går direkte ud til kommunerne. Og kommunerne skal nu planlægge for to ting. Strømnedbrud og cyberattack, men i tre dage. Og så kommer vi ind i den her sådan ret markant. Noget af det, jeg har taget med
+
+00:46:00
+her, det er jo der, hvor at sektoransvaret bliver udfordret markant. Og jeg er jo glad for at høre, da Cararsten han fortalte det her med, at hvis man kigger sådan 20 år tilbage, så havde vi bare en beslutning om, at der skulle være vand nok til et døgn, og der var strøm altid, og telefonerne virkede, og ellers så kunne vi bare betale medalkort. Den verden er jo overstået fuldstændig nu. Når man sidder inde på, og jeg sidder som repræsentant for Roskilde Kommune inde i de her krisestabe i det man kalder lokalberedskabsstabet, så arbejder vi reelt ud fra de her syv principper. Sektoransvaret, lighedsprincippet,
+
+00:46:30
+nærhedsprincippet, samarbejdsprincippet, handlingsprincippet, fleksibilitetsprincippet og retningsprincippet. Så når man sidder og træffer beslutninger derinde, så er det i princippet med det bagtæppe, der hele tiden kører i ens baghul. Når vi kigger på på lighedsprincippet, så er det sådan som udgangspunkt det her med at alle mennesker er lige. Så der er ikke nogen, der har bortsret eller et eller andet. Vi skal behandle alle lige. Vi skal også gå ud og vurdere ligeestor alvorlighed i det her. Noget af det som
+
+00:47:00
+øh som der er sådan lidt interessant, og der var det kom jo også ind her med beredskabsloven, at med beredskabsloven i hånden kan man faktisk gennemvinge ufattelig mange ting ud at spørge om lov først. Så jeg vil pleje at sige, når jeg sidder derinde, så sidder jeg med den ultimative magt, fordi der er muligheder for man beredskabsloven i hånden og kunne lægge beslag på private midler, kunne ændre noget, kunne skaffe adgang nogle steder man normalt ikke har skaffet adgang til, men stadigvæk selvfølgelig respekt. Nærhedsprincippet går meget på
+
+00:47:30
+det her med, at beslutningerne skal tages så langt ude som overhovedet muligt. Det her med at vi har de der tunge byreukkratiske beslutningsprocesser om at det ender et eller andet sted ude i ingenting, og så ved vi ikke om der er nogen der har trukket en beslutning og så går der to dage før vi kommer tilbage igen. Og der kan jeg godt sige når når Simon og jeg vi har siddet og samarbejdet under stormen, så er to dage for sent. Der er det altså på minuttet vi vil vide det og det er det bedste mands bedste gæt. Og så kan det godt være vi gætter forkert men vi bliver nødt til at at gøre det tæt på. Man skal
+
+00:48:00
+kunne samarbejde samarbejde med alle. Og der er det jo også sådan, at med beredskabsloven i hånden, så kan man trække ressourcer ind. Det kan være nogen fra forsyningsselskaberne, man siger, vi skal vide noget om det her, sådan så man trækker specialisterne ind til at svare på spørgsmål, der er, men i samarbejde som det kan også være, der er nogen, som kalder ind og siger, prøv at hør, vi er røget i knæ. Vores beredsplan, den holder ikke længere. Den der dieselgenerator, vi fik sat op, den er eksploderet. Øh, og nu står vi altså
+
+00:48:30
+med knæene helt nede begravet i et eller andet. Kan I hjælpe? Så prøver man også at finde ud af det. Fleksibilitetsprincippet. Det er jo nok et af de principper, der kom mest i anmeldelse under coviden. Øh, jeg har siddet og ordret beordret pædagoger til at slå på testcentre med vatpinden øh til trods for det er udenfor deres eget fagområde. Øh, og så fik vi lavet nogle aftaler efterfølgende. Altså vi træfte beslutningen, og så måtte man lave nogle aftaler med fagforening efterfølgende.
+
+00:49:00
+Det her med at man skulle simpelthen kunne være fleksibel i det her, den opgaveløsning der er, for det er ikke sikkert det lige er jeres område den rammer, men I sidder inde med nogle kapaciteter, noget hvor at man kan samænke nogle af de ressourcer har ind i noget andet. Så er der et handlingsprincip. Man kan ikke bare gå forbi et eller andet man ser ikke virker og ikke gør noget ved det. Så kan det godt være, det ligger lidt udenfor ens rækkevidde, men så må man sørge for, at det bliver indrapporteret til de steder, hvor der kan træffes nogle beslutninger.
+
+00:49:30
+Og så bygger man det ud fr nogle retningsprincipper. Og det bør alle have. De bør have nogle strategiske retninger på, hvad er det vi i hvert fald skal kunne, hvis alt går galt. Det der er lavet på de 16 scenarier. Nu er vi ikke de sidste to, men i hvert fald de 14 af dem, der har vi alle sammen i de her lokale beredskabs som var under politikredsene, der har vi lavet nogle strategiske retninger. Det er i hvert fald det her, vi skal kunne i samfundet, hvis det hele går galt. Hvor lang tid vi kan kunne det, det er et spørgsmål nogle gange om,
+
+00:50:00
+hvor lang tid vi kan holde os vågne, eller vi kan fastholde mandskab. Det interessante er lidt, at det der med sektoransvaret, når vi tager den sådan helt specifikt, det er, at den der har ansvaret til dagligt, har det også under en krise. Og det er jo et fantastisk princip, at vi ikke behøves at spekulere over, at dem der har ansvaret for vandet, de har det selvfølgelig også ansvaret for vandet under en krise. Så mangler jeg vand, så ringer jeg da bare til dem. Og det samme med strøm, og det samme med medicin, og det samme med sundhed, og alt er fint, så længe at det
+
+00:50:30
+kun rammer lige inden for deres eget sektoransvar den her udfordring, der er. Man skal også sørge for, at man har sådan, hvad kan man sige, sit eget ansvarsområde beskrev det. Og så kan det godt være, der ikke alt er defineret, men hvis man kigger på alle de ting, som vi har en myndighedsansvar for. Og jeg vil gerne udfordre det der med at det ikke så beskrevet at forsyningsselskaberne skal have en beredskabsplan. Fordi mig bekendt så er det paragraf 60 selskab. Paragraf 60 selskaber er en del af en special kommune og en special kommune skal have
+
+00:51:00
+en paragraf 25 plan. Så der burde nok være lovgrundlag til at gøre det. så skal man jo informere til eget politisk niveau. Det giver også rigtig god mening lige bortset fra da vi snakkede covid, så begyndte vi at have flere sådan bilaterale kommunikationskanaler, hvor at dem der sad og skulle lave nogle beslutninger fik først beskeden efter der var nogle andre der havde gjort noget andet. Så det skal vi i hvert fald også lige ind og kigge på. Så når vi kigger på sådan en case, bare sådan en oversvømmelse helt almindelig oversvømmelse det her Jyllinge Nordmark. En smuk vogen under
+
+00:51:30
+Bodil efter stormen. Meget, meget købt. Der var der var udsigt til vand. Øhm, så starter man jo at kigge på hvem er det, der er blevet påvirket. Nu begynder det at blive problematisk, fordi i det øjeblik at vi snakker vand, så kan vi jo sige, jamen der er nok noget med noget forsyning. Der er nok noget med nogen, som har noget med det her vand at gøre. Det skal vi have styr på. Men derude, der er der jo en række beboere. Og nu tager jeg jo Mormarx som som eksempel. Vi havde seks
+
+00:52:00
+storme på fem år alle sammen til at starte med kategoriseret som kalder 50 100 årsæelser tror jeg det var. Øhm vi havde efterv to år efter den sidste hændelse med folk der stadigvæk havde kriset tendenser. Børn der havde svært ved at komme i skole. Børn der ikke kunne se tv-udsendelser. Så når vi kigger på det her med oversvømmelse og det vi sad og lavede oppe i LBS'en, det var vi kiggede på hvad er det for nogle beboere vi har? Hvor mange børn er involveret i det her? Skal vi have lavet faciliteter, hvor vi
+
+00:52:30
+kan samle børnene sådan så de ikke behø at stå derude? Har vi fat i de ældre? Har vi fuldstændig overblik på, hvilke ældre for iltapparater har elektriske senge, nødkaldsapparater, medicin, ø, tilsyn og alt muligt andet? Eller skal vi have dem fjernet fra området, sådan så vi kan samle dem et sted til en personalgruppe? Hvad har vi af plejekræne? Det kan være folk, som er lige blevet hjemsendt fra hospitalet, som får sovtilsyn to gange i døgnet eller hvad det nu kan være. Og hvis ikke de får det, så går der staffel drukker i
+
+00:53:00
+det. Vi kiggede på de psykisk sovbare, der er udslusningslejligheder og huse og alle mulige andre botilbud, hvor at der er en voksen eller en anden fagperson, som kommer og lige hjælper dem igennem i dag. Og hvordan reagerer de, når hele verden den står lave? Øh, så er der jo dyr. Altså prøv at høre det, hvis man skal være rigtig held inde for mit fag, så redder man en and, der er ved at falde ned i et afløb, så er man rigtig helt. Så dem skal man selvfølgelig også huske. I denne her situation der havde
+
+00:53:30
+vi et totalt overblik fra hjemmeplejer og alle dem, som var omkring, men vi havde også Røde Kors til at lave psykosocialt opsøgende arbejde, gå og banke på døre og simpelthen spørge folk, er du okay? Er der noget du mangler? Har du kontakt til din familie? Er der noget som vi kan hjælpe dig med? Så er det hvad der bliver påvirket. Altså noget af det som man fandt ud af i Jylling Nordmark, det var at alle de der elkasser, de var de var sat i jordhøjde. Øh det lyder rigtig flot, når der går
+
+00:54:00
+vand i dem. Øh og når der så først er gået vand i, så tager det rigtig lang tid at reetablere igen. Så fik man den hævet 10 cm til at starte med. Og så tror jeg man hævede dem igen yderligere. Da vi kom til tredje tredje hæelse, så havde vi kloakproblemer. Da trykket kom stort nok på, så begyndte kloakken at trykke vandet op. Og der er det sådan, at når man så spørger sundhedsmyndighederne, så hvis der er nogen, der kommer i kontakt med kloakvand, så skal man vaccinere øhm mod hepatitis og leverbetændelse eller leverbetændelse.
+
+00:54:30
+Og der kan jeg så sige, at vi stod lige pludselig med en vaccinationsproblematik. om vi skulle vaccinere 4000 mennesker i Jyllinge Nordmark eller vi skulle sørge for at de holdt sig langt væk fra det område som nu blev inficeret af det her. Øh bare for at fortælle nogle af de der afledte konsekvenser der er. Vi havde selvfølgelig fat i hjemmeplejen. Hjemmeplejen kunne ikke længere køre ud i området. Øh og nu i det nye her der vil vi jo alle kommunerne har jo snart skiftet til elbiler. Elbiler og vand er måske en relativt dårlig kombination. Og
+
+00:55:00
+hvis man ikke har lade dem op igen, så holder de i hvert fald stille på et eller andet tidspunkt. Hvad gør man der? Opsøgende Teams. Vi havde ambulancer derude. Vi havde kommunikation. Telefonnettet blev belastet, fordi lige pludselig så var der for meget tryk på. Jyllinge Nordmark er lidt en landsby. Øh, så hvad gør man? Skal vi lave nogle informationscentre, hvor at man kan komme ned og få gode råd fra sit forsikringsselskab, fra sine sagsbehandlere, fra sine alle mulige. Så det blev også etableret undervejs. Og så var der selvfølgelig med børne, hvad hedder det, børnehave og
+
+00:55:30
+vuggestuer. Der var nogle af dem, der ikke kunne åbne i morgen eller i næste uge eller i hvert fald med måned. Vi skulle begynde at finde alternative muligheder for, hvordan laver man gæstepleje? Flytter børnene? Øh, er forældrene overhovedet indstillet på? Og man kan nok ikke skrive på aula, fordi det er ikke sikkert, de de er registrerer dem. Så når man sidder der og skal snakke sektoransvar, så skal man jo for det første tænke ekstremt holistisk. Øh, jeg er glad for at høre nogle af de tanker, som der også har været her. Det her med, at når man kigger på sådan en matrix, hvor man har alle sektoransvarene nedad
+
+00:56:00
+som ansvarsområder, så har vi alle risikoblerne, de 16 risikobillederne ned, så vi jo kan berøre alle. Og så skal vi have et eller andet, der går på tværs, at hvis jeg mangler strøm, så er der sikkert rigtig mange herinde, der mangler strøm. Kunne jeg så købe en generator stille i midten, og så deles vi om den, eller skal vi have to? Vi behøves nok ikke at købe to hver. Altså det kan godt være, vi kan prøve at finde en mellemløsning på det her. Skulle vi prøve at kigge på
+
+00:56:30
+forsyningskæder? Det kan godt være, jeg skal købe 200 portioner af mad til mit personale, når jeg fastholder den. Men hvis ikke jeg skal bruge de næste fem år, så så smider vi det ud. Er der nogen, der bruger det løbende? Det kunne være spejderne. Kunne man lave en samarbejdsaftale med dem om at de fik det ældste mad hver gang? Det var ikke udløbet. Det skal stadig være. Og så fyldte vi noget nyt ind i enden, sådan så at det sådan set kunne holde fra nu af og til der ikke er spejdere mere. Så når man sidder inde i de der lokale beredskabsstab, så starter vi med at prøve at identificere problemet og
+
+00:57:00
+omfanget af problemet. Så er der det her med serviceniveauerne, som jo vi alle sammen håber på, der er nogen, der kunne sige, jamen er det er det så meget eller så meget, eller er det til alting, eller kun det her, eller er det kun begrænset? Fordi krigsdividenden, den tog man jo også fra beredskaberne i 2003. Det kan godt være, vi stadigvæk står i lovgivningen, men alt hvad der var der, det blev jo fjernet, så der vi har ikke andet end det der køres til daglig. Men hvad er succesmålet? Og det kan jo godt være, at man siger,
+
+00:57:30
+vi skal kunne give strøm og vand til alle borgere, men udleveret nogle bestemte steder. Og så sad jeg lige og snakkede med Carsten. Det er ikke sikkert, det er et valg, der er sådan helt rent. Så må vi lave nogle kogekar, for jeg er sikker på, det er mere sundt at drikke lidt vand, der er lidt forurenet, end overhovedet ikke at drikke vand og så vente til det helt rigtigt igen. Det må vi prøve at finde nogle løsninger løsningerne, det er jo at komme ind og kigge på, hvad der er der,
+
+00:58:00
+der kan bruges. Og der tænker man kreativt. Jeg havde en brændt, der brændte i to måneder. Øh, og vi tænkte alt fra helikopter til kvælstof til bomber og til alt muligt andet. øhm relativt dårlige løsninger, men alt blev tænkt ind ø for at sige, jamen har vi afsøgt alt, hvad der var. Vi fandt blandt andet ud af, vi skulle bruge mere end 10.000 lastbilers grus for at kvæle det, indtil vi fandt ud af det lavede træs og træer forurener endnu værre. Så så det døde vi. Og så er det nok det
+
+00:58:30
+sidste, det der med hvem gør hvad? Og det var jo der, hvor coviden og det her med sektoransvaret, at det nytter ikke noget, man arbejder i sin egen lille silo. Man bliver nødt til at fortælle det højt, at nu er vi i gang med at sætte en stor generator op. Ah, fedt. Kan vi rykke den lidt, eller må jeg sætte en ledning ind i enden af din generator, og så virker det lidt bedre? Når vi kigger på krisestyringen, og nu er jeg jo glad for at høre, vores minister også er kommet med i regerings sikkerhedsudvalg. Øh, for det har han ikke været tidligere. Det kommer han her i sidste
+
+00:59:00
+uge, tror jeg det var. Øhm, men ellers så kan man sige, at hvis vi har sådan helt det overordnet, vi plejer gerne at sige inde på for mit felt, det er fra der sker en hændelse til kongen skal have viden om at gå en time. Og det kan jeg godt afsløre, den kan vi ikke overholde. Men vi har regeringens sikkerhedsvalg som det øverste. Så har vi nogle embedsfolk, som sidder der og skal rådgive omkring de der sikkerhedsspørgsmål. Vi har den nationale operative stat, som lige nu er styret af rigspolitiet. Måske overgår
+
+00:59:30
+til ministeriet for samfundssikkerhed, måske beredskabsstyrelsen. Det det er sådan lidt udsigt. De har noget støtte ind i den her. De bliver samlet langt flere gange, end vi måske tror. Det er ikke alting, der bliver offentliggjort varfunkt. Og når vi så kommer ned på den sorte linje her, så har vi de lokale beredskabsstabe, som jo er delt op i politikredse. Og der sidder der nogle faste medlemmer. Politiet sidder der som den koordinerende myndighed for den politikreds, der er. Så sidder
+
+01:00:00
+beredskabet typ der eller en repræsentant for kommunerne der. Så sidder beredskabsstyrelsen der. Og så sidder der repræsentanter forsvaret og det præmospital. Så det er alt det her akutte, der reelt er samlet ind i den der. Og afhængig af hændelsen, så trækker man folk ind og sammensætter de kompetencer, man nu skal have. Så har det noget med strøm at gøre, så skal vi vide noget om strøm. Og hvornår laver man brownout og hvilke relæer har man tænkt sig? Hvad bliver konsekvensen, når er det 10% eller 20%? Øh, hvor store områder? Hvor lang tid
+
+01:00:30
+kan vi regne med det? Eller når det er DMI, så er det Simon og hans folk der kommer ind og sidder, og så bliver de ø med sådan en lampe i panden. Så bliver der lys på dem, indtil de fortæller. Bliver det 10 cm plus eller minus? Øhm, nogle gange svarer de ude i ude i de lokale beredskabsdabe, og de bliver nedsat rigtig rigtig mange gange. Øh, og siden 2014 fra med annakteringen af Krim og 2013 med Bodil, så er det vi gået fra
+
+01:01:00
+et par gange, tre, fire om året til måske to gange om måneden ø bliver vi samlet. Så har vi en lokal kommunik, hvad hedder det, lokal krisestand. kompationsberedskab som ligger krisestaben den kommunale krisestab ligger ude og der bliver etableret en sammensat krisestab men på alle forvaltningsområderne og det kan de fleste kommuner i gang med at være helt skarpe på jeg kan sige vores der har vi på et strategisk niveau har vi vores
+
+01:01:30
+direktionsridende. på et taktisk niveau, der har vi alle afdelingschefer, og vi har navne og adresser på alle, der ellers må svare, hvis de skulle tilfældigvis gå på ferie. Og så har vi et operativt niveau, som består af alle ledere og medarbejdere på tværs. Og så har vi et beredskabsforum, som går på tværs af hele kommunen, øh, som er forankret hos sekreterne. Sådan så at når sundhed begynder at overveje at købe ting ind, så ved man, der også børn og unge. Og hvis børn og unge og sundhed
+
+01:02:00
+kunne blive enige om at købe det, noget der kunne matche begge parter, så er der måske en bedre business case i dem. Det er jo mange gange os, der er med til at sparke andre aktører i gang. Ikke ikke 100% men mange gange så er det faktisk os, der er med til at sparke det i gang. Og det her, det er sådan en lille slide der lige viser, hvad der egentlig skete i øh 2023. Det er egentlig sådan et skift,
+
+01:02:30
+hvor vi ser henholdsvis højere temperatur og mere temperatur. betyder mere vand. Og det vil sige, at vi har set stort set tre, fire måneder, hvor vi har haft enorme mængder af vand. Det blev 23 blev det mest våde år, vi nogensinde har målt siden 1873. Og 24, den kom så ind på en næste plads. Så det er nogle af de ting, som ø vi egentlig begynder at se øh bliver
+
+01:03:00
+mere og mere af. Og så sådan lidt klimating det er, vi så faktisk også en kæmpe stormflod der i oktober, men når vi ser fremad i klimaets tegn, så kan vi faktisk ikke sige, at der kommer flere storme. Til gengæld kan vi sige, at vandstanden ved havet den stiger. Og det betyder, at det, som er en stormflow i dag, altså en 20 års hændelse, det er måske noget, vi ser hvert år, hvert andet år, alt efter, hvor vi er i landet. Så vi står for meget store
+
+01:03:30
+udfordringer på det her område. Øh, og det der det var så der kom så lige 24 med også igen de samme ting. Og hvad sker der så? Vi ligger jo som som dem der i hvert fald i fire ud af af de der 13 tilfælde i ø national risikobillede er dem der faktisk initierer tingene og så er vi
+
+01:04:00
+med en seks andre ting eller sådan noget som bidragsydere for løsningen for beredskaberne. Men lad os nu tage de primære. Det er vi sidder jo og holder øje med vejret. Vi laver godt nok sæsonprognoser og sådan noget, men men reelt når vi har en vis sikkerhed i det, så er vi inde omkring de der syv dage. Det er der at at vi egentlig begynder at se på noget. Så der begynder vi at sidde og følge med i det. Og vi sidder også og følger med i det. I ø i øjeblikket har vi 30 modeller kørende over dansk
+
+01:04:30
+område. Øh det er kun en vi viser på dmid. Men vi har altså et stort materiale til også at fortælle noget omkring usikkerheden i det. Øhm, og det begynder vi de der dage før, og så cirka fem dage før, så begynder vi at være inde der, hvor vi kan begynde at sende varsler ud og begynde at være med til at opfordre andre folk til at komme i gang med deres beredskab. alle de beredskabsaktører vi har derude. Og øh
+
+01:05:00
+til at starte på der er det jo altid sådan at når vi er langt fremme så er der stor usikkerhed. Så til at starte på der kører vi sådan lidt være opmærksom på hvis vi har en lav sandsynlighed eller vi går hen og siger værer forberedt på så så giver vi den lige lidt ekstra på gashåndtaget. Og når vi så kommer tæt på, for eksempel ved oversvømmelser, så er det 24 timer før. Ved storme så er det 36 timer før. Så kan vi igen sende en DMI risiko ud. Det er sådan en vi lærte i
+
+01:05:30
+2010, at vi regnede med at det var Sverige der skulle have alt vandet. Det kom så til at ligge på kysten her i på Sjælland. Øh, så der fandt vi ud af, at vi skulle have et eller andet en eller anden ting, hvor vi egentlig kunne fortælle beredskabsfolk, hold jer nu orienteret, ring til os, ø, være lidt orienteret i det, men vi tror egentlig ikke, det kommer. Ø, vi er stadigvæk usikkre på det. Hvis vi tror det kommer, så er vi oppe i varslingen heroppe. Og øh det er lidt sjovt. Øh
+
+01:06:00
+Danmark er et land hvor vi ikke har nogen øh lovgivning omkring meteorologi. Så alt omkring var det ligger forankret i en aftale mellem rigspolitiet og Beredskabsstyrelsen og DMI, som vi lavede efter stormen i 99. Så i januar 2000, der kom der sådan en en øh aftale, der egentlig styrer varslingen. Det er faktisk først nu øh
+
+01:06:30
+efter tragedierne i Tyskland i 21, at vi nu er begyndt at få oversvømmelse på. Og der har vi så fået det her projekt, som vi skal være klar med til 30. juni, hvor vi skal kunne varsle jer om oversvømmelser. Øh, vi advokerede for det fra 2011 med finanslovs indspil, at vi kunne se, at der begyndte at blive et problem, og vi var et af de eneste lande i Europa, der ikke kunne levere varslingen om
+
+01:07:00
+oversvømmelse. Lad mig sige det sådan. Vi begynder med varslingen. Der skal nok noget tuning til, før at kvaliteten er helt i top, fordi det er svært som myndighed i København og så se, hvad der foregår ude lokalt. Så så det det må vi nok sige er det øh træerne vokser ikke ind i himlen den første dag. Og så vil jeg lige øh sige sådan nogle enkelte ting omkring det her med varslingssystemer,
+
+01:07:30
+fordi varslingssystemer er jo netop nogle af de ting, hvor man kan sige, at det er det, der skal starte nogle beredskabsaktører op, således at man kan sikre samfundsværdier og sikre rigtig mange ting, som du også har været inde på, Lars. Og så er der selvfølgelig nogle ting, hvor man ikke kan sikre hele vejen igennem. Så der er en eller anden acceptabelt niveau, hvor man siger, vi kan ikke sikre alt. Og øh det kender vi situationen i
+
+01:08:00
+øjeblikket, hvor vi accepterer nogle ting, og så har vi øh hvad det hedder varsling og beredskab, der skal sparke aktører i gang med det. Når vi så kommer ud i fremtiden, så ser vi godt nok, der er klimatilpasning, men klimatilpasning har en tendens til at hænge lidt efter. Og det vil sige, den her varsling og beredskab, den har stadigvæk en større og større værdi, fordi at at vi skal nå at sikre samfundsværdier omkring det. Så vi skal i gang med det. Og når
+
+01:08:30
+vi sender øh varslingen ud, så kommer jeg lidt mere ind omkring det her med beredskabet, fordi vi står med det ene ben og skal se på vores egen beredskab, og det andet så ser vi sådan ø os selv som en del af samfundets beredskab. Og det er en stor udfordring. Vi snakker og sender ud til mange, mange forskellige niveauer. Det kan være myndigheder. Altså hvis vi tager
+
+01:09:00
+Kystdirektoratet, den kan se den kommer på to gange. Det er forsyningsselskaber, det er regioner, det er medier. Det er virkelig forskelligt. Og noget af det sidste, der er ved at komme på nu i udbred, det er faktisk deel. Så vi er helt nede der, vi har også sådan noget som det du nævnte Lars, Brøde Kors, dem sparker vi også i gang ø på forhånd. Så så det er på en meget meget stor øh hvad er det hedder meget bredt at vi sparker
+
+01:09:30
+i gang. Og det er forskelligt for alt efter hvor man er i Danmark. Så vi kan tage en kommune et sted, der hører til et kommunalt redningsberedskab, så agerer de på en anden måde end nabokommune. Så det er virkelig sådan en meget stor udfordring for os at kunne komme ud og få fat i alle folk og sikre, at beredskabsaktørerne får det, som de egentlig har behov for. Øh, og det det er ligesom der, hvor vi egentlig er ude i øjeblikket. Der prøver vi ø at
+
+01:10:00
+sørge for, at det er det er den samme information, der kommer ud, så der ikke er er diskussion af det. Men der er noget selvstyr derude. Hvad er det, vi har behov for? Og folk vil jo helst have så lidt som muligt og kun, når det er vigtigt. Og det det er der, hvor at vi skal også være bedre til at få noget usikkerhed ud omkring sådan nogle ting der. Nu snakkede jeg lige om oversvømmelse. Vi har faktisk haft øh beskrivelser i forbindelse med vores varster om skybrud
+
+01:10:30
+og kraftig regn ø omkring oversvømmelser. Vi har haft det omkring forhøjet vandstand, som vi kalder det her internt. Det er først når naturskaderådet har erklæret det en stormflåde, at vi begynder at bruge ordet stormflode om det. Indtil da kalder vi det for højet vandstand. Øhm, men det nye som kommer nu, det er vandløbene øh hvor vi begynder at få varsin for vandløb nu her. Og ø som jeg sagde ø det er nok lidt begrænset hvor
+
+01:11:00
+lokale vi kan være i begyndelsen. Vi begynder at have modeller. Det havde vi ikke for fire år siden. Vi begynder at få data ind øh fra Danmarks Miljøportal. Det havde vi ikke førhen. Så vi begynder at at have data inden vi har de sådan grundlaget for det. Men der skal noget til. Øh, vi har også lavet historiske studier, så vi har lidt omkring, hvad der foregår derude for at sammenligne, hvad ser vores modeller kontra historie. Øhm, til gengæld så ved vi også, der er rigtig mange af jer, der sidder derude,
+
+01:11:30
+der er teknikere, og som kan jeres lokalområde. Så det er sådan en eller anden sparring, øh, mellem os og jer. For eksempel, hvor lang tid fortsætter den her nedbør? Hvilke millimeter er det? Øh, nu havde jeg den der slide til at starte på med øh øh 23, og hvor galt det ligesom var. Sidste år der havde vi en håndfuld cirka situationer, hvor vi fik over 50 mm på et døgn. Det er virkelig meget. I sin tid, dengang jeg
+
+01:12:00
+startede med at blive meteorolog, der hvis der kom 20 eller 30 mm, så synes vi, det var meget. Men det vi har en varmere atmosfære. Det gør at det her det bliver voldsommere og voldsommere. Og det går sgu også stærkt med at blive voldsommere. De sidste fem år har virkelig ø rykket temmelig meget omkring det. Og for at vi kan levere det her, så skal vi jo også have noget beredskab internt på DMI. Og øh vores varsingsarbejde. Det kan godt være det er også som
+
+01:12:30
+meteorologer og vores kommunikationsafdeling der sætter varslingen ud der ligesom er kendt. Men det her det starter hele vejen nedefra at vi selv bygger noget af vores udstyr. Vi har vores egne computermodeller øh eller computere og øh modeller laver vi selv. Så det er sådan en en kæde faktisk. på tværs af hele DMI. Og det betyder også, at vi også har sådan eskaleringstrapper ø hele hele vejen igennem, hvor vi kører
+
+01:13:00
+normaldrift, og så har vi noget, der hedder et beredskabskologium, og så går vi i forhøjet beredskab. Det der beredskabskolium, det kommer jeg lidt ind på på næste slide, men det er sådan et, hvor vi også sikrer hele den her kæde på tværs af DMI, at hele organisationen er gearet, så vi kan levere det, som I skal arbejde videre med udad til. Og ø så kan I se, så har I er meget støttet af nogle af de der vejledninger fra Beredskabsstyrelsen. Vi har pillet Stabs beredskabet ud og og
+
+01:13:30
+operationsberedskab, det kalder vi kriseberedskab. Det skyldes, at vi har en 247 drift, som vi kalder det operative segment. Vi havde en operationsafdeling, så internt hos os gav det fuldkommen forvirring. Så vi er gået meget over omkring de her krise øh setup i vores benævnelser. Så har vi taget nogle af de ting, som Lars også var inde på. Nogle af principperne fra Beredskabsstyrelsen, dem har vi også specificeret ud øh som værende en del af
+
+01:14:00
+det at gå i beredskab. Sådan et beredskabskolium, det skal sikre, at vi har alt den viden, vi har nok mat. For eksempel så har vi nogle klimatologer, de sidder og kender de historiske situationer. Det er godt at vide, hvad er det her, når vi snakker modelfolkene, de ved, hvad fejl der er i modellerne nede i detaljerne. Så får vi input fra dem. Så kommer vi og vores vurdering af det, og så begynder vi også at sige, hvad kan gå galt? Altså hvad er
+
+01:14:30
+det der kan egentlig øh trick det her øh så det bliver endnu værre? Så der holder vi sådan nogle møder faktisk helst inden vi begynder at sætte varslingen ud for at vide at hele kæden på tværs ved det. Fordi det hjælper jo ikke at IT de er ved at skifte en server hvis der er optræk til et eller andet. Øh, de er ret trætte af os hver gang de siger, jamen vi skifter den dag, så siger vi, jamen det er i orden, hvis ikke der er en værs situation, der kræver at at vi skal
+
+01:15:00
+kunne levere. Så det er egentlig øh det, at vi gør internt. Øh, og vi snakker reelt i vores beredskabsplan. Det kalder vi krisestyringsplanen. Øh fordi øh det er ligesom der at vi går ind og ser vi har de rene værændelser og jeg må sige det her det er påvirkede faktisk af samfundets beredskab altså ud af hvad er det vi skal levere. Fordi en ren vejrhændelse internt så er det jo
+
+01:15:30
+bare en travl dag ø på kontoret. Øh vi har ekstra vandskab på vi har ekstra kommunikationsfolk vi har gearet op og sådan noget men det er en travl dag på kontoret. Det er ikke en krise for os. Det er det for samfundet. Så så udad til at fungerer det som en krise. Så kan du have hen sig påvirket af vejret. Det kunne være Northstream 2. Øh de ting der, hvor der lige pludselig var noget gas, som kunne drive meget meget tæt på Bornholm og Christiansø. Så
+
+01:16:00
+der blev vores spredningsmodeller lige pludselig meget vigtige. Ligger den i syd eller går den en lille smule over i sydøst? Øh, senere hen så kommer der sådan noget med, hvor store bølger er der? Kan man få de filmhold ned, der skal filme dernede? Det udstyr, der skal ned, som er dyrt. Øh, kan vi sikre dernede? Kan Hvad er læs? Der kommer en hel masse ting, hvor vi bliver involveret, hvor vi egentlig øh ikke er primær årsag, men hvor det er samfundet, der ligesom har et ekstra behov, hvor vi
+
+01:16:30
+skal kunne levere. Og så er der de helt væruaafhængige hændelser ø som også er nogle af dem, hvor vi kan blive involveret. for eksempel COVID-19, det påvirkede jo også os også internt, men ø på lige så måde som alle andre i samfundet. Men men det er så nogle af de der hændelser der. Og jeg vil faktisk slutte af med at sige, at vi har gjort det lidt sværere for os selv, fordi vi har stillet vores computer på grund af
+
+01:17:00
+energikrav, så står den oppe på Island. Og det betyder, at vi bruger grøn energi, og vi har mindre køling, så vi bruger mindre energi. Til gengæld så er den så sammen med Island og Holland og Irland. Og det vil sige, at hele vores beredskab og krisestyring, det skal også lige koordineres med fire lande, som har en helt anden krisestyring. Så vi er sådan et eller andet. Vi har vores interne beredskab. Vi har det ud mod øh det danske samfund, og vi har øh
+
+01:17:30
+beredskab ud mod fire lande. Og i 829 så bliver vi 10 lande om computeren. Så får vi også Sverigen, og Finland og de tre baltiske lande med. Så der bliver så også et eller andet, at vi lige pludselig alt det her med beredskab, det skal koordineres. Øh, og så ja, vi skal også selv drive os selv. Øh, jeg vil ikke fortælle om om festivaltoiletter og paller med vand og hvad vi ellers har været ude for for at holde os selv gående. Men men det er jo
+
+01:18:00
+sådan nogle ting, som vi også skal have planer for. Nu har jeg ligesom taget oversvømmelse, det at sætte jer i gang og det omkring beredskabet som den del at vi er med i. Det her det er jo det er sådan lidt praksiserfaringen fra fra hvad hedder det de her seks storme som vi havde der i Roskilde Fjord ø som jo ramte Jylling Nordmark særlig Hasseris Jylling Nordmark og så Inderfjorden den bygger på Bodil som som var den der ligesom blev tonegivende ø
+
+01:18:30
+med en vandstandstigning op til 2 meter seks ø og 2 meter af seks over daglig vanen det er lidt for meget i Roskilde by kan jeg godt afslø Når man kigger lidt på ø på de ting som der var, og det er mere for at sætte rammen, så havde vi Jyllinge Nordmar som er det stykke heroppe, og så har vi Roskilde Indervogn, som er hernede. Relativt begrænset område. Cirka 400 meter det ene sted og 4,6 km det andet
+
+01:19:00
+sted. Øh, og det er sådan mere fordi at på det tidspunkt der øh der skulle vi jo bruge frivillig. Så den den kommer vi lidt tilbage til. Så havde vi en storm, der kom ind, og nu kan jeg ikke huske, hvad for en af dem det var, men den pressede det jo hele ind igennem fjorden. Og på det tidspunkt så er jeg også en direktør for alle otte kommuner nede i i Østsjælland. Og ø vi havde for lagt op i Jyllinge Nordvak, og alt var fint, og den kom op i den botniske bugt. Og så var der noget med, at lavtrykket fik vendt, og så kom det tilbage igen. Så nu
+
+01:19:30
+skulle vi have flyttet alle watertes fra Jyløke Nordmark ned til kysten, hvilket i sagens natur ikke kunne lade sig gøre, fordi det var frost. Øh, og nu havde vi jo sådan nogle iskager liggende deroppe, så vi var relativt presset. Den her gang snakkede vi 65 km kyst. Det var den, der hed Stil Stormflød, men et kæmpe problem. Øh, udover det, så havde det jo selvfølgelig regnet godt i
+
+01:20:00
+tiden, så alle vandløb, Vejle A og Værebro Hå, de førte godt til med vand. Ø, så vi havde nogle kæmpe problemer. Og hvis man kigger, og det kan man jo se i dag, at nede omkring Køgeområdet, Hvidov, Køge, Solrød, hele det der område dernede er jo faktisk allerede påvirket. Nu kigger man jo også på, om man kan finde nogle løsninger. Der er afsandet nogle pumpestationer op. Øhm, men på det tidspunkt var det altså en kæmpe udfordring. Når vi kigger på hvad hvad der var muligt, når vi snakker frivillige, så er det interessant oppe i Jyllinge Nordmark, som jo er blevet
+
+01:20:30
+sådan verdenskendt by, der er ligegyldigt, hvor man har været henne, og jeg snakker med kollegaer, så refererer man til like Normark. That's a place. Men det der var interessant, det var at på det tidspunkt, der oplevede vi jo det her med folks villighed til at hjælpe. Altså spontan frivillighed, der kom i i spil. og hvor mange der kunne bidrage. Og noget af det der var udfordringen for os, det er jo vi har jo sådan et meget hierarkisk opbygget system, sådan så vi
+
+01:21:00
+ved hvem der beslutter hvad. Og lige pludselig stod der en række mennesker ude og gerne ville hjælpe uden at der var fører på, uden der var ledelse på, risiko for de kunne få kloakvand på sig, så de skulle vaccineres. Manglende gummistøvler, så vi skulle skffe gummistøvler og hvad vaders og hvad det ellers var. kæmpe logistisk problem. Og udover det havde vi jo også naboer, der begyndte at brokke sig. Og hvordan håndterer man dem? Så noget af det, vi gjorde på det tidspunkt, det var, at man opretter sådan et kommandostad derude, hvor at de
+
+01:21:30
+her myndigheder sidder, og så havde jeg simpelthen taget nogle af beboer grundforeningsformmene ind i rummet. Og det der var interessant, det var, at de taler på en helt anden måde til deres kollegaer eller naboer, end jeg kan tillade mig. Hold nu kæft, Adsen. De gør hvad de kan eller hvad det nu kunne være. Så vi sørger for at informere dem op. Men det kommer vi også lidt tilbage til, når vi kigger på på de der grundlæggende ressourcer, som der stilles til rådigheder. Og det er jo en af de her kæmpe snakker, der er i øjeblikket, hvor at vi selvfølgelig skal
+
+01:22:00
+have udløst det civile potentiale så meget som overhovedet muligt, men vi kan ikke bygge beredskaber på det. Og det kommer jeg også lidt tilbage til. Vi har de der myndigheder, som i hvert fald i dag ser ud som om, at det er politiet, der har den koordinerende myndighed. Det giver god mening. De kan lave sådan en perimeterkontrol. De kan lave bevogtninger, afspærringer. De kan anholde folk, de kan flytte ting. De kan gøre en masse ting med deres lovgivning. Så har vi kommunerne. Kommunerne råder over ret store
+
+01:22:30
+ressourcer, hvis det hvis det virkelig går op en dag. Jeg tager gerne Roskilde Kommune som udgangspunkt. Der er 7300 ansatte. Vi har et budget på 7,4 milliarder. Det skulle være mærkeligt, hvis ikke man kunne stampe en 100 mand op ad jorden relativt kort til at gøre noget i den her sag. Og så er der selvfølgelig beredskabet, som jeg dimensioneret til dagligdagshendelsen. Og der bliver man sådan en lille smule overrasket engang imellem, når jeg siger, jeg har fem mand på døgnvagt til at styre 90.000 borgere hver dag.
+
+01:23:00
+Så kan jeg kalde seks mand ind det ene sted og seks mand ind det andet sted. Resten skal vi have stamtet op af nabopredskaber eller beredskabsstyrelse. Så er vi tilbage til det supplerende berkab. Så sidder regionerne, de har jo hospitalerne og alt det der ligger inde i den her og og patientransporterne, ambulancerne, lægevagter og alle de som også kan komme i spil når der sker et eller andet. Der er en af udfordringerne her også. Det er jo, når hospitalerne bliver presset, så laver man
+
+01:23:30
+tvangsudskrivelser til kommunerne, og så skal kommunerne pludselig til at tage relativt syge mennesker ud på nogle steder, som normalt ikke er indrettet som helt til det. Så har vi staten, hvor vi er råd over forsvaret. Der er heldigvis relativt mange mand. Nogle af dem, de løber ind og hjælper inde ved børsen, og livvagten kommer løbende i tre gæder, der var meget flot. Og efterfølgende var det jo hjemmeværnet, der sådan set hjalp til derinde. Men det er jo også Beredskabsstyrelsen, der kan komme med nogle store pumper eller noget specielt grej, som ø som kun få råder over. Så det er de grundlæggende
+
+01:24:00
+ressourcer, vi har. Når vi så kigger på de frivillige, så har jeg tilladt mig at definere det. Det her det bygger dels på et forskningsprojekt som Røde Kors lavede der hed urban resilience som var et samarbejde mellem Rumænien, Danmark og Irland hvor man prøvede at kigge ind i det her med frivillighed. Det bygger en lille smule på de brænde der var oppe i Sverige hvor Danmark også hjalp til. Og det bygger også en lille smule på det vi så oppe i Grønland øh da det brændte deroppe. Men jeg plejer gerne at sige at vi har dem der er de ufrivillige
+
+01:24:30
+frivillige. Og de ufrivillige frivillige det er jo dem som vi møder herude hvor at de er på vej hjem på arbejde på deres cykel og lige pludselig sker der en hændelse og de stiller cyklen og går hen og hjælper. De har ikke selv valgt at være der. De har ikke valgt situationen. De har heller ikke valgt casen, men de har valgt at hjælpe. Det så man jo faktisk også da børsten brændte. Lige pludselig så var der nogen, der stillede cyklen og kom med cykelhjelm og og cykelshorts og begyndte at bære malerier
+
+01:25:00
+ud ufrivillig fr. Så har vi frivillige som øh jo det er det jo så har vi frivillige som øh som er det er valg. Øh Danmark har et kæmpe foreningsliv. Der er frivillige som har meldt sig som fodboldtræner. Natragne, ø, kirkens kors nødbutikker, alle mulige andre ting. Øhm, og de er jo de er jo enormt organiseret, og jeg har også frivillig. Jeg har 40 frivillige leder hos mig, som er specieltuddannet og som er under min
+
+01:25:30
+kommando i det tilfælde at vi skal bruge. Kommer også tilbage til hvornår vi kan bruge. Men det kan jo også være nogen som bare er den gode nabo. Altså vi kender jo steder og det ser vi jo blandt andet ved seniorboliger og alt muligt andet hvor man faktisk passer på hinanden. Der er lige fra telefonkæder til indkøbsordninger og alt muligt andet. Eller at der er den der nabo, som normalt ikke deltager i noget som helst. Lige indtil den dag, hvor der er behov for det, så går de lige ind og banker på døren. Jeg skal ikke lige skrave din,
+
+01:26:00
+jeg så, du havde brækket billen. Skal ikke lige skrave dit dit fortog. Så det er jo nogle af de her gode naboer, som er rundt omkring. Så har vi den gode samaritaner, og dem så vi jo som nogle af de der spontanfrivillige, der kom med på på næsten heste og i vogn og havde deres eget pack med og sagde, "I siger bare til, jeg kan, jeg kan alt. Og dem kunne man jo sætte ind, og de hjalp jo under nogle omstændigheder, der var fuldstændig vanvittige engang
+
+01:26:30
+imellem, men de gjorde det. Vi havde, vi så det faktisk under brændene i Australien, hvor vi havde nogle af vores frivillige sagde, vi vil gerne tilbyde vores hjælp, og så fik de organiseret selv, at de blev transporteret fra Danmark til Australien og arbejdede som frivillige brandfolk under de der kæmpe naturbrand, der var, og så kom de hjem igen, og vi havde intet med det at gøre. Jeg tænker, det er den gode samaritaner. Når vi kigger lidt på på de her gode naboer, den gode samaritaner, det her, så øh så er der et behov, når
+
+01:27:00
+alle de her mennesker de kommer ind. I Sverige der dukkede der 5000 spontan frivillige op og sagde vi vi hjælper gerne. Og i det der er problemet, det er hvis man sætter dem i arbejde, hvis jeg siger, du vil gerne hjælpe mig, og jeg sætter dig i arbejde til at gøre det der, du kommer til skade, så er det mig, der har ansvaret. Så noget af det, vi arbejder rigtig meget på i Danmark, det er at få dem få dem identificeret og få dem tilmeldt et frivilligt system, fordi lige så snart man er inde under frivilligsystemet, så
+
+01:27:30
+er man også inde under den statslige garanti for, at man havde sikret erstatning, hvis der skulle ske noget. Så noget af det som vi lavede, og det gjorde vi sammen med Røde Kors efter vi har øvet os et par år, så fandt vi ud af at vi skal have lavet modtagecentre. Så vi lavede simpelthen et sted hvor at det var oppe i Jyllingehallen, hvor alle kom ind med gummistøvler og høgreve og småkager og kaffemaskiner og hvad de ellers kom med, og så fik vi dem registreret derinde, sådan så vi havde dem forsikret. Så prøvede vi at
+
+01:28:00
+kompetenceinddele dem. Ude i Jy Nordmark, der er det sådan så at der er ikke nogen bund ude i langs kysten, så så man synker i. Så for det første så vader så gummistøvn, det var et minimum. Nummer to, det er at du skal nok være rimelig fedt, fordi det er altså hårdt at gå med sandsække eller noget andet ude i det her. Så vi prøvede kompetenceinddelet. Til gengæld var der jo nogen, som var vanvittig dygtige til at bage chokoladekage. Jeg kan sige, det er fantastisk klokken 3: om natten at få sådan en hjemmebagt chokoladekage. Det
+
+01:28:30
+giver lige to timer ekstra på på motoren. Så skulle man have koordineret det, og der brugte jeg rigtig meget mit eget personale, fordi spontanfrivilligt kan ikke lede sig selv. Eller også så laver de i hvert fald noget, vi ikke har regnet med, de skulle lave. Så det der var rigtig vigtigt, det var at jeg tog nogle af mine folk som er uddannet også til at kunne tage noget ledelse, satte dem derude, fortalte centeret, hvad er det jeg har brug for af kompetencer? Jeg skal bruge 10 hænder og tre gummistøvler to par handsker. Så
+
+01:29:00
+kørte vi dem ud i busser, og så var de under deres kommando, og så fik de løst opgaven. Det fungerede også rigtig godt, når de var færdige. Og det er det næste problem, det er jo, at man skal huske at registrere, når de kommer. Man skal også huske at registrere det, når de går. Fordi lige pludselig så Mortens mor ringer og spørger om vi har set hendes søn, for hun har fået at vide han er ude at hjælpe. Så er det altså rart at vide Morten. Nå jo, men Morten ved jeg godt, han kom her klokken 18, og han er sendt ud til havnen, og vi forventer, han er
+
+01:29:30
+tilbage om en time, og så skal vi nok bede ham om at ringe til dig. Så det her med at registrere både ankomst og afgang er faktisk også rigtig vanskelig. Det her med at arrangere transport for dem af jer der kan huske det hed jo hvad hedder det stormturister. Vi havde jo på tidspunkter hvor vi ikke kunne komme frem og tilbage med vores køretøjer. Fordi nu kommer man jo og hjalper 5000 mennesker i biler oppe i Sverige der bare parkerer deres bil i rabatten. Så har man hurtigt lukket alt for så det her med også at skaffe transport der brugte vi hjemmeværnet de store
+
+01:30:00
+køretøjer. Øh og så kunne vi ligge og få dem transporteret frem og tilbage fra indsatsområdet til opholdsområdet. Så er der sådan noget, som man heller ikke tænker over. Det er forplejning. Jeg prøvede på et tidspunkt, det blæste rigtig meget. Det var Simon, der havde sørget for vand blæsten, den steg. Og vi havde lige fået lagt næsten 1500 meter øh water tubes ud. Og den skal være tom først, og så skal den fyldes med luft, og så skal der vand i. Og nu begyndte det at blæse op. Så vi havde levende sansægge stående en meter
+
+01:30:30
+ad gangen hele vejen igennem de der 1500 meter. Og der har de stået fire timer i relativ frost. Øhm, så bliver man sulten og demotiveret og tørstig. Så fik vi lavet en aftale med den lokale, det var McDonald's, der kom ud med, jeg tror det var 300 burgere og sodavand, og så kunne de godt lige stå der en time mere. Så så det der med også at sørge for for plejning, kaffe, varme, have ventezoner, det var også noget af det, som vi erfarede var rigtig vigtigt, når vi snakker
+
+01:31:00
+frivilligen. Når vi så kigger på, hvad kan man bruge frivilligt til? Fordi det er blevet sådan desværre et mantra, at hvis vi bare har frivillige nok, så ø så løser det alting. Men det kan man ikke som arbejdsgiver. Man kan ikke bare sende folk ind uden kompetence i steder, hvor de kan slå sig selv ihjel eller slå sig aldrig ihjel. Så noget af det vi kiggede på, det var, hvad er det for en hændelsestype vi snakker om? Altså der er kæmpe forskel på om man skal ind i en brand eller man skal stå og slæbe
+
+01:31:30
+sandsækket. Og jeg kan fortælle dig den brand det skete samtidig med det der skete. Så vi havde en gårdbrand samtidig med at vi havde højvandsvøm, hvad hedder det oversvømmelse på det tidspunkt. Så er det noget at gøre med hvor er det sket. Det er noget med logis logistik på. Kan vi få folk frem og tilbage? Er der noget naturligt forløb i det, eller skal vi tænke nogle andre ting ind? Og hvad er det for en risiko, der er forbundet med den her opgave, vi sætter dem i gang med? Så har vi noget omkring tidsfaktor. Er det her noget, der sker nu og er
+
+01:32:00
+afsluttet om få timer, eller er det noget, vi bliver varslet til, som bliver afsluttet om flere dage? Altså der er ingen tvivl om, at hvis vi kigger ind i det risikobillede, vi har i dag, så snakker vi jo nu, men over mange dage. Frivilligt vil kunne gøre en forskel der, men de vil ikke kunne gøre en forskel på det hele. Så når vi kigger på det her, det er vikingeskibsmuseet, det var sådan en vikingeskibe, der har ligget på bunden af havet, de tåler ikke vand mere, så de
+
+01:32:30
+skulle jo passes på rigtig meget. øh kæmpe naturarv skulle jeg til at sige. Og så var der andre steder hvor at man havde god tid til at få lagt de der water tubes ud. Der var tørt endnu, og vi kunne sagtens få det arbejdet. Og så var der jo steder, hvor det allerede var sket. Så har vi lidt omkring det der med krav til kompetencer. Er det en simpel eller kompliceret indsats? Og det har ikke noget at gøre med typen. Det er hvis man hvis det kræver en enormt høj instruktionskrav på det kan være maskeanvendelse, sikkerhedsudstyr,
+
+01:33:00
+du må ikke gøre, og du må godt gøre det, hvis ikke og alle de der ting. Så skal man måske ikke bruge frivilligt, for man er ikke sikker på, vi taler samme sprog. Hvis det derimod er helt simpelt, vi skal have flyttet den der derfra og dertil, og der er forøvrigt 400 tons af dem der, der skal derover, så er det en ret simpel opgave. eller banke på alle døre og registrere hvem der er hjelm eller få leveret alt det her mad ud det her sted. Der er en masse ting man kan. Så har vi krav til ledelse. Jeg har jo
+
+01:33:30
+nogle frivillige unge mennesker som er vanvittig dygtige ledere men dem vil vi nok også sætte ind i nogle af de simple kontekster. Fordi første gang der står en eller anden voksen mand til sådan en 17-årig knite eller pige øh så skal der altså være lidt ballast bag. Og så er det lidt nemmere at argumentere, hvis man har en simpel opgave, så er der ikke så meget at diskutere om. Så når man kigger på på det her med resumet, så er det, der er rigtig vigtigt, det er hæelsestypen, hvad der sket, hvor er det sket, hvad er
+
+01:34:00
+risikoen? Er det en simpel eller kompliceret indsats, vi skal have gang i? Er det kort eller lang tids indsættelse, vi skal have gang i? Er der en lang grad af instruktion eller en høj grad af instruktion? Og så vil jeg bare sige, at vi lever det, der hedder en faktor en til 20. Så skal jeg bruge en frivillig, som jeg sikker på kommer, så skal jeg have 20 stående i banken. Så inden at vi begynder at bygge hele det danske samfund op på frivillig basis, så prøv lige at regne den faktor af. Og hjemmeværnet, de vil gerne hæve
+
+01:34:30
+deres kvote med 20.000 mand. Og de 20.000 mand, det ville undre mig rigtig rigtig meget, hvis en af de 20.000 Æ ikke også er frivillig i Rød Kors i beredskabet i natternene i bofællesskabet og da vi lavede undersøgelsen for nogle år siden, jeg tror det var styrelsen der lavede det der havde vi et CPR-nummer der gik igen i seks forskellige frivillige enheder det er bare vi ikke tæller det som seks personer. Jeg tror det var jeg
+
+01:35:00
+havde brød i året i oktober 23 på grund af de massive regne mængder der kom det efterår. Øh og det så sådan her ud. Det ret voldsomt. Og jeg tror jeg står lige der altså lige og inspere hvad pokker det er vi skulle hvad er der var sket. Øhm. Ja, jamen jeg hedder Rasmus Barton Tybjirk og jeg har arbejdet i Odder kommune som klimamedarbejder siden august 23. Øh, så jeg var også ret ny på
+
+01:35:30
+området da det her skete. Øh, og det var også en generel ting i vor at øh der var to, der startede i juni 23, og så kom jeg til august, og så kom der en til igen i ja, en uge før eller sådan noget. Så øh så det var det var ret voldsomt. Der er ikke lige nogen af os, der har stået i sådan en situation før. Øh og den case jeg så har med i dag, det er altså det her stemningsbrud og de erfaringer vi så gjorde med beredskabet
+
+01:36:00
+øh den dag og de den efterfølgende tid. Yes. Ja. Og her er et billede af den dæmning som der stod. Øh, det var så i 2020, hvor den blev bygget som en del af øh vores klimatilpasningsplan og medfinansieringsprojekt. Øhm, og den havde til formål at ø opstue en masse vand 32.000 kubikmeter i i et skovområde for
+
+01:36:30
+at øhm sikre at Odder by ikke blev oversvømmet. Øh ja. Og det er så Odder å der løber igennem her. Ja. Og vi havde vi har seks klimatilpas eller klimatilpasningsprojekter, og det har så den ene af dem for at gøre Odder Midtby mere robust over for de her ned øgede nedbørsmængder. Ja. Øh, det her det er så et billede taget af beredskabet, da de var ude midt om natten. Øhm. Og
+
+01:37:00
+øh, vi havde en utrolig regnfuld oktober med 80% mere nedbør end gennemsnittet. Og det førte så til at øh på grund af der har ligget vand og presset på på den her side i mange dage og uger, så så underminerede det simpelthen dæmningen og ø og førte til sidst til at der kom det her kæmpe brud. Og I kan så se at beredskabet her midt om natten de prøver at sætte nogle bigballer i ø for i så stoppe det. Men øh men de blev altså
+
+01:37:30
+bare ført med fordi der var så meget tryk på. Øh den 24. oktober. Det er bare for lige at gå det igennem. Så klokken 21 så oplever vi, vi har en sådan en vandstandsmål omme bag dæmningen der. Og den der kan vi se, at vandstandene stiger ret drastisk. Og ø vores driftsfolk, de er også ude og inspirere det og kigge på det hele tiden. Ø, så klokken halv om natten, så ø
+
+01:38:00
+kommer beredskabet så ind og aktiverer øh de forskellige folk i i kommunen, blandt andet vores kommunaldirektør. Øhm, og øh, og klokken 3: Der stopper man så eller forsøger man så at stoppe det her med de her bigballer, og klokken fire så bryder det hele så sammen. Øhm, og løbende i løbet af den her nat her, så bliver der rekeret forskellige ø folk i kommunen. Øh, vores kommunaldirektør og vores øh formand for klima planudvalg i på
+
+01:38:30
+rådhuset. Og øhm og jeg kommer Ja. Ja. Og vores kommunens driftfdeling, de går også så fra dør til dør og prøver at forsøge at advare borgerne om at at øh at de skal forsøge at øh tage tage det tage de ting væk, som der måske er dem mest øh som som de gerne vil have ikke bliver oversvømmet. Øhm, og der bliver så også indsat en pumpe for at pumpe vandet fra en bro, som der er det her kritiske øh punkt til
+
+01:39:00
+at pumpe det længere ned i strøms. Ja. Og jeg har taget en lille graf af, hvordan det så ud. Øhm, så man kan se, at øh her om aftenen, så begynder det så at stige ret kraftigt. Øh ja, halvanden meter øh to to en halv meter. Øhm og så og så
+
+01:39:30
+kan man så se i løbet af af der klokken 4, så falder det lige pludselig øh rigtig meget. Og det var så der hvor at ø vi havde det her brud. Og så tonser vandet ellers bare ned igennem byen. Øhm, det her det er så også et billede fra vores bibliotek, der desværre blev oversvømmet, og vi havde nogle forskellige områder i byen. Øh, jeg viste det et billede tidligere, det var også en kolonihave, som der blev hårdt ramt. Øhm, og jeg kom egentlig selv ind
+
+01:40:00
+øh til et rådhus, der var hvor der var vand i kælderen. Øh, og lyset det var gået ud. Politiet var der. Øh, hvor vi havde vores beredskab, vores hvad hedder brandvæsen. Og så var der ellers bare krisemøde ø med udvalgsformanden og kommunaldirektøren. Øh, så det var det var ret mærkeligt at komme ind til. Øhm, og vi blev jo så sat øhm, hvad hedder det? Indsatslederen han forklarer så løbende om, hvad der er der
+
+01:40:30
+hændelsesforløbet igennem natten der. Og der opdaterer så i det her krisestyringsprogram i tre, sådan at man har en hæelseslok af, hvad det er, der er foregået både i løbet af natten og om hvad der bliver kommunikeret ud til borgere og så videre. Øh, og det i starten så er det så ø beredskabet opdaterer på den her S3, men så øhm så er det så kommunen, der løbende overtager det her. Øhm øh og også opdatere borgerne her. Og
+
+01:41:00
+vi forsøger jo bare at følge beredskabets anvisninger øh og lægger sandsække ud, som borgerne de kan de kan de kan få fat i og sikre deres boliger bedst muligt. Øh men der er rigtig mange boliger der bliver oversvømmet. Øhm og øh og desværre også vores bibliotek og rådhuset. Øh, så indsatslederen håndterer pressen til at starte med og briefer løbene om, hvad der så er hent i i hinandens løb.
+
+01:41:30
+Øh, indtil at det så er vores politikere og kommunaldirektører, der tager over på den front også. Ja. Øh, jeg fik lidt til opgave som øh med sammen med en af mine andre kollegaer, der ikke havde været der til reg og ligesom kom ud og dokumentere, hvad hvor slemt stod det til, og havde vi nogle steder, hvor at der var ja, for eksempel kritisk infrastruktur eller hvor det var helt galt. Øhm, det er ikke mig, der har
+
+01:42:00
+taget det her. Det var så en droneoverfløbning senere, men vi tog en masse billeder for ligesom at dokumentere til senere brug. øh hvor hvor det var vi havde haft problemer og hvor vi måske så i fremtiden kunne kunne få nogle borgere der beklaget sig til til kommunen og ville søge erstatning for eksempel. Øhm. Ja. Så det så ret det så ret voldsomt ud mange steder i i byen. Og det her det var jo så da det jo så begyndte at blive lyst ø og hvor det var egentlig aftaget en del om der om natten
+
+01:42:30
+var det jo det det var helt gralt. Men generelt så oplevede vi jo egentlig at beredskabet de håndterede situationen super professionelt i sådan en en kritisk akut tilstand. Øh hvor man jo ø i hvert fald som ung medarbejder ikke lige har så meget erfaring og ikke lige ved hvad man skal hvad man skal gøre. Øh og og det er betrykkende at have nogen der ved og har stået i en sådan en situation før der kan tage en lidt i
+
+01:43:00
+hånden. Øhm. Ja. Ja. Hov. Det jeg vil sige, vi har har lært i forhold til den her hændelse, det er at det er rigtig vigtigt at have en plan for hvad man gør i en sådan situation. Øh, og vi har også lavet en plan for noget voldsomt vejrd. øh og blevet mere opmærksom på, øh, at prioritere og
+
+01:43:30
+opdatere de her beredskabsplaner, sådan at vi har de rigtige personer til at stå, sådan at øh at beredskabet ikke forsøger at kontakte nogen, der ikke arbejder der mere, eller man har en masse forældre data. Øh, så det tænker jeg er ekstremt øh vigtigt, selvom det ikke er altid det man sådan synes er det sjoveste at prioritere, så så hvis der skal ske, hvis der sker sådan en øh en voldsom bærhæelse, så er det så er det rigtig vigtigt at have. Sådan at man ved også, okay, hvor har vi nogle sårbare borgere, man skal tage sig af? Øh, hvor er det,
+
+01:44:00
+vi har de kritiske infrastrukturer? Øh, vi havde også nogle øh nogle øh el, hvad hedder transformerstationer, som vi var opmærksom på, at de skulle helst ikke øh blive oversvømmet. Ja. Ja, jeg synes også at nu vil jeg, nu bliver jeg også nødt til lige så at have en solstrålehistorie. Det er så vores nye dæmning, som der så forhåbentlig kan
+
+01:44:30
+håndtere øh de øh de værelser, der kommer fremadrettet. Øhm og den står færdig nu og har også gået i vi har så fået lavet et overløb her også, som den har også gået det overløb her i starten af året og fungerer fint. Øh så den håber vi i hvert fald kommer til at stå mere end tre år. Øhm, så øh ja, tror det var det var sådan lidt det
+
+01:45:00
+for eksempel om nødvendigheden af præventive som det er sjovt det jeg har hørt flere gange i dag nogen nævner omkring hvad sker der strømmen forsvinder hele tiden det skid af sid sådan er det nogle gange lige en præsentation og lidt fortid lidt højvalsnak og lidt primitive strømpryelser lidt hvordan vi gør vi det og hvordan man hvad kan I selv gøre. Og så lidt om Case fra Kolding og Toret fra Vejle. Og mærkeligt nok så handler det også om 23 her og 24. Øh, mit navn er Carsten Petersen. Jeg er
+
+01:45:30
+ros drift chef og briskchef i Trefor som er en del af Epekoncernen som ligger i trekområdet, hvor vi laver elvand og varme og fiber og bladestander og batterier og alt sådan noget. Og jeg har været med at sige den som der står i midten af 80'erne. Og man kan jo næsten sige det der det var have været regningen. Fordi hvis vi nu ikke havde gjort det vi gjorde efterfølgende så havde vi haft alt el fra seks meter i højden og opad. Så vi har ikke haft nogen højvandsendelser overhovedet. Det kan det er nemt at sige, men det er nu sådan det er. Så så hvad hedder det? Så
+
+01:46:00
+det vi snakkede om dengang, det var jo islag på vores master og det var pisninger og brændtår og alt sådan noget som var der var der var fokus på. Og så inde i byen der var det karekabel hvis nogen af jer kender det. Nu er I ikke så gammel som jeg er, men man havde kikkabet hav nogle brønde og så inde i huset havde man et hovedbly som man kunne lukke op og så sikre der var ikke nogen skat nogen steder så der ikke der var ikke noget udsat nogen steder og de der kalbrøn de kunne ligge på bunden af lillebevæ uden at blive våd så det var jo fint nok men det forandrede sig op igennem 70'erne og 80'erne. Kablerne skulle pløjes ned. Man ville ikke se på de der luftlægninger mere. De
+
+01:46:30
+skulle væk og så og vi havde også problemet med træer og alt det der. Så vi fik kabler i jorden og skabe hver eneste gadejørne og masser af stationer og alt det I snakker om. Nu er der skide irriterende det bliver fuld af vand og det regner, men det er sådan det er. Så hvis vi kigger lidt på højvandslejer, så begyndte vi selvfølgelig også dengang, fordi vi kan godt forklare over vandet det komme. Jo, altså vi havde den der snak dengang og ved også nu ligger vi jo her i Koldingområdet og og Vejle. Og når vandet de kommer, vores fokus det var
+
+01:47:00
+her. Når vandet det kommer udfra og ind, så var det det der var problemet, fordi nu stod alle skabene nede ved havnen eller nede i jordhøjde. Så gjorde vi det, og vi havde kigget på det her stykke tid, så begyndte vi at sidde og kigge på hvordan vi var nød til at måle ind, så sætte et jordniveau på i forhold til til daglig vand og så et kritisk vandstand. Nu blver lige lidt koget af en kritisk vandstand for eksempel på et skab her, som står nede midt i Kolding by. Hvad er det hedder det? for ligesom at sige, hvis vi fik en melding fra DMI, som var på 145, så vidste vi godt, nu skulle vi skulle til at gøre et eller andet, fordi
+
+01:47:30
+at ellers så ville det blive kritisk. Så det blev det brugt til, og det børn, det gør det stadigvæk. Men det her, det har vi ikke kigget, jo det kigget, jeg begyndt at kigge på nu her de seneste år, men vi har i hvert fald ikke haft fokus på det der, for der er jo ikke noget, der er målt op inde i landet. Det var ikke noget problem. Vi tænkte, nej, det regner, det gør det tit, det tager jorden. Det kan vi sgu ikke tænke på. Men sådan er det bare ikke, fordi at det vandet der regner inde i byen eller ind herinde i landet herinde, ikke som både Kolding og også
+
+01:48:00
+særdeles i Vejle oppe forsøg, det skal ned og ud igennem byen. Lidt som du snakkede om fra Røderkommune, at vandet skal ud igennem byen. Og det er heller ikke noget problem, men det er det, når det ser sådan her ud. Hvis det samtidig er højvand, så bliver det ligesom badekar med en svamp i, hvor det hvis det bliver med at fylde vand i krav til på den tidspunkt. Det løber godt nok lige så stille ud, men det løber over, så bliver vores anlæg udsat. Så hvis man sådan lige summer det op, det er vanskeligt beskæ anlægget vandtræning, havvand som er det værste i
+
+01:48:30
+forhold til saltvand og skybrug af længerevarende regn i bagland i forhold til regnvand. Og en kombination af det, så får vi problemer. Og hvis vi bare kigger på vores område i trekamrådet, så ser det sådan her ud bare vil ikke gennemgå alle tallene, men 60 betyder 30.000 mennesker og en hel masse anlæg, som står i komplet umuligt at dække det der af. Det kan vi bare ikke. Så der er kun en løsning. Hvad er det? Det er at rykke skidtet ud. Afbud også selvom jeg går ud over spildevandselskaber og vandselskaber og andre som siger de ikke
+
+01:49:00
+strøm. Og så er der selvfølgelig kundens egen installation, som jo også er en udfordring i den her sammenhæng. Så plus et skybrud længere var en regn høj vandstand i fjorden skal på situationer hvor vandet ikke kan komme væk derfor kontakt med el og det ser sådan her ud når vandet ikke kommer væk hurtigt nok den der det er det er mit eget hus det er oversvømt i januar måned i år og det ligger 24 meter over haves overflade halvanden meter til
+
+01:49:30
+grundvandsbal og alligevel er der vand 1. januar og hele huset er ødelagt nu er de ved at bygge det op igen. Men men vi er nok nødt til at væne os til, det er måske sådan det skal være i fremtiden, at vi kommer til at se mere og mere af det her. Så hvad gør vi? Vi har vi sidder med sådan 247 kontrolcenter orienterer jo alt el og vand og varme i træområdet eller det meste af det så er der nogle private virksomheder ind imellem skol øje med det i driften der holder vi øje med det hele tiden og kigger på hvordan ser vores situation ud hvad skal
+
+01:50:00
+vi gøre hvis der kommer en ut normal hens kommer vi hurtigst muligt tilbage så sidder vi og kigger på vejmeldinger det glæde også d følger dmi meldinger og vi har selvfølgelig også den her sang ud tag vagtpersonale med vi har også vagtpersonal selvfølgelig kan møde ind og vi har brug for dem øh fordi det er lidt vigtigt i den her sammenhæng her nødplaner der bliver revideret information til kunderne omkring præventiv udkobling ret også selvom vi ikke ved om det vi er ikke sikker på at det bliver afbryt men vi melder det alligevel ud for det er en god at sige i kan risikere og der kommer strøbryelse.
+
+01:50:30
+Vi er i hvert fald det er i hvert fald vores målinger der viser det det kan der komme. Så vi er nødt til at fortælle jer det at det kommer så i er forberedt. Så kommunikerer vi med kommunen, og vi har jo seks kommuner og og tre politikredser og og så med beredskabet både før, under efter en hændelse og så det der kan bruges i hvert fald til i tre år, det er vi ar sammen om det her altså og vi evaluerer på det og du med altså det ved Kolding kommune og så det så det vi har
+
+01:51:00
+mange snak omkring hvordan kan vi gøre det her fordi det kan kun gøres bedre hvis vi gør det sammen. Det er der med at tror vi gør hver for sig. Det kan vi ikke. Vi kun gøre det bedre sammen. Og så har vi som sagt den der præventive strøfbrydelseske. Som bare er sådan n et stykke værktøj hvor siger at vi kan rykke ud. Og hvornår rykker vi ud? Det gør vi efter det her principsikkerhed, anlægssikkerhed og forsyningssikkerhed. Så for os er det ikke vigtigt om om vi kan forsyne nogen. Det er vigtigt vi passer på nogle først og fremme vores personer og vores anlæg, så vi kan komme hurtigst muligt tilbage til normal drift.
+
+01:51:30
+Og hvad kan du gøre? Nu bor I ikke i treområdet, men det er ligegyldigt. Uanset hvor I bor henne i landet, så læs lige tilslutningsbestemmelserne på det netselskab, hvorfra I får strømmen og fortælle, hvordan er det, de gør det? Hvad er det, de gør? Vi gør det her. Vi sender SMS, og det gør de fleste der sender SMS'er ud før. Og der er der også noget lovgivning omkring. Det skal man. Så sender vi ud på efter en møbryelse. Men i det tilfælde der kommer forør, så er alt sat ud af spil. Så gør
+
+01:52:00
+vi det, hvis vi kan. Hov. Så gør vi det, hvis vi kan. Nå det sende SMS ud. Eller så gør vi det ikke. Så hugger vi bare strøm. Vi har brug for det, fordi vi kan ikke, hvis det er rigtig store hænder, og det har vi jo set af, der havde vi 70.000 SMS'er, der skulle ud, altså kunder i 300 der faldt ud. Og resultatet var gik en time inden smsen kom ud. Så er det jo ikke fordi vi ikke kan gøre det, men vi kan ikke få det igennem systemet. Og derfor er det jo det der er mest nervøs for, hvis der kommer landshæelser, det er de der
+
+01:52:30
+SMS-v. Vi får bare en SMS. Ja, det kan godt være, vi får den altså ikke lige nu. Den kommer måske for en formiddag, fordi at de systemerne kan simpelthen ikke følge med. Man glemmer bare at sige det højt. Så derfor er det vigtigt her. Back up. Sørg nu for at have det i orden. Lad være med at komme i tanke om det midt under hændelsen af det. Hov, vores generation kan ikke starte. Så får det nu testet op og fulgt op de steder, hvor man ligesom siger til, jeg kan ikke undvære vand eller varme eller alt. Jeg kan ikke und jeg er nødt til at have en generator til at håndtere det her og så
+
+01:53:00
+så man er klar på det. Jeg har haft kyllingejer farmer i telefon vores kyllinger de dør nu for de ikke strøm. Det er sgu for sent du kommer i tanke om det nu. Det skulle du have haft styr på inden inden at hæsen er sket. Så det er lidt vigtigt at at de har styr på det her. Og så lige et par sager fra Kolding. Først og fremmest vi havde en sag i efteråret 23 som mange har snakket om i dag. en 100års hæelse og så noget den 18 oktober blev kategoriseret til en kator 3 til 170 over en daglig vand og
+
+01:53:30
+så er det bare sådan her at nu ved ikke om der sidder en DMI og nogen er der nogen endnu nå er der det er bare sådan at vores erfaring det er at vi lægger 7 cm oveni fordi at vi er ikke helt sikre på om det er lige livpasser folk det er ikke nogen kritik det var det det er bare en konstatering det var sådan en daglig tænke tilbage i tid der sagde jeg bare d siger 145 så er det nok 165 så det det går med robusthedsanalyse. Ja, det er det. Ja. Og det og du har også betalt skid. Det er rigtig svært
+
+01:54:00
+med at gøre det. Så det det gør vi. Og da vi gjorde det den dag der, så fik vi så omkring 1700 kr. til. Det er jo ikke mange, men vi 1700 kr. der kunne være udsat. Og så sendte vi strø ud omkring omkring at der kunne komme præventiv strøfbrydelse den dag den 20. Den 20. oktober. Så rykker vi jo så ø 30 næstationer ud og 300 kkab og 511 kunder. Så vi har faktisk ramt meget godt ud øh og vented på at vand skulle trække sig tilbage og så havde vi en hel masse stationer og sådan noget der var
+
+01:54:30
+afbrudt eller påvirket af vand og så skulle grænses igen. Og det betød at de områder som vi nu må vi ikke prioritere kunderne det var nogen af dem sagde før. Det må vi heller ikke. Det må vi heller ikke men selvfølgelig er der forskel på om man bor i Koldingby eller har somos nede ved Grønning Hovstrand. Så så vi havde selvfølgelig fokus på at få byen op at stå, men havde selvfølgelig også en masse skabe nede i omkring som syd for King, som jo først fik strøm efterfølgende onsdag, fordi skabene var brændt og ødelagt. Vi målte ikke 170 eller 1,0. Nej, vi målte 2 met
+
+01:55:00
+20 den dag, og vandmåleren i Koldinghavn gik i stykker. Grjort, så vi kunne faktisk ikke se det rigtige tal. Men det var det, det var det, vi forventede det var. Og det kostede 2,4 millioner kroner at få det op at stå igen. Der var 100 mand beskæftiget med det i perioder, altså henover helsk. Så igen i Vejle september 24 igennem 100 årsendelse. Dengang fandt 88 mm regn i Vejle. Vi gennemførte den præventivt samme samme model. Vi rykkede
+
+01:55:30
+1261 kunder ud. Vi forsyndte dem alle sammen i løbet af to timer om natten, fordi vi var foran hændelsen. Og så fordi vi ikke havde havvand indbland i det. Så gik det hele noget hurtigere. 30.000 det er drift lønninger til montørende til 30.000 ingen ingen omkostninger nogen. Så ser det sådan her ud når vi er kommet for sent. Det gør vi. Og det er måske nemmere at forstå det der med hvorfor de tager strømmen nu
+
+01:56:00
+uh det kan ikke undvære det. Men det kommer så til sådan ud hvis vi ikke gør det. Så vi er bare nødt til det. Så det er ikke et diskussionsspørgsmål om vi gør vi gør det. Og det kan se sådan her ud. Og det værste, hvis det kommer til at se sådan her ud, det er transportstationen, der er ødelagt. Transformer, der er brændt af. Og her der er en løsning, som nogen har kunnet lave med en tønde. Det er faktisk meget smart. Og så kan man holde den nedover nedover skab og så fem fliser på, og så er der ingen vand. Så kører det. Så skulle der gerne være lyd på den. Det er der ikke. Men øh det suser inden. Det tror jeg glemte at sige til dig, at der var faktisk lyd sidst. Det
+
+01:56:30
+suser lige ind lige inden lige inden. Det det er når man det er når vi kommer for sent. Lige inden det går galt. Det var det.

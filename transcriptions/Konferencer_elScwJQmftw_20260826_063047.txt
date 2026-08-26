@@ -1,0 +1,172 @@
+=== DNNK Webinar Transskription ===
+Kategori: Konferencer
+Video ID: elScwJQmftw
+URL: https://youtube.com/watch?v=elScwJQmftw
+Transskriberet: 2026-08-26T06:30:47.350024
+
+==================================================
+
+00:00:00
+Øh goddag. Jeg hedder Thomas Balstrøm, og jeg er lektor i Givinformatik på Institut på Givvenskab. Og øh jeg har arbejdet med med en en metode til at at få sådan et første bud på, hvor hvor galt ser det ud, når når vi har et skybrud? Hvor løber vandet hen af? Hvor samler det så? Og sikkert nogen, der har hørt det her før. Det beklager jeg. Det her det er min undervisningsslides. Men
+
+00:00:30
+ø nogen der er så unge i forløbet her, hvis de har hørt den her forlæs? Det ved jeg ikke. Louise du har hørt den som sensor i hvert fald. Men øh okay. Se det er billede fra Roskildefestivalen. Fedt billede, ikke? Jeg tror det er copyrighted, så vi må lige passe på med det ikke kommer ud, hvis vi skal fordele nogle slides. Men det viser problemet altså når når det regner, så samler vandet sig altid nogle uheldige steder. Og det gør det også der. Øhm. Min baggrund for at gå ind ogog se på det her, det er at ø at jeg synes at der
+
+00:01:00
+mangled nogle nogle nogle værktøjer som som geografer ogog geformat kunne lære af i stedet for at køre noget sofistikeret biologisk modellering ved hjælp med noget noget sejt software, så kunne det være dejligt, hvis man ligesom kunne kunne starte og forstå, hvad det er, der sker med med hjælp af den her den her objektion, jeg har lavet. Så øhm DMI de siger skybrud det hvis der falder 15 mm regn ned v 13 minutter en miner
+
+00:01:30
+regn en i kvadratmeter så det går det går pludselig stærkt og hele kan man sige jokerne er jo omkring jordbunden også ø var man uheldig at der var et et ø en hæft i regn dagen før så er jordbenen jo godt fugtig måske mættet øhm og hvis der så kommer et skyud der kaster en masse vand ud på overfladen så skal det jo finde vej ned igennem jorden og der Mettet, hvor skal du så hen, så løber det af på overfladen. Så man kan forestille sig, den her modellering tager de der ekstreme scenarier, hvor man arbejder med med det, man kalder for
+
+00:02:00
+for horton flow på på årsfladen. Der kan korrigeres på noget nedsvend, det kommer jeg tilbage til om lidt. I byerne øhm hvor mange opslager befæstet, som jeg skriver, så kan man bortlede omkring 40 m per døgn. Den noget jeg bare har hørt. Øh, jeg er ikke inde i den branche, men øh, hvis man pludselig får 40 mm i løbet af en time, så kan man godt forestille sig det hele det går galt. Så man kan se, hvordan det hele ser ud ude på en passage ved L deres pakker lige under jernbanen der
+
+00:02:30
+ved ved tæt på ryparkestationen, hvor det hele bare begynder at fosse op i i det åbne. Nå, det her hurtigt nedsivning kan måske følge med, hvis jorden er blev vokset eller bar. Men i bygget område, jo mere man befæster, jo større problem får man sat de der 40 mm per døgn kommer ind, som er er kloakerens kapacitet. Så vi fortsætter altså det hele, det er veludbygget i byer, når de kan klare det her. Øh, kommer der rigtig meget regn på kort tid, jamen så er det klart, at vi har
+
+00:03:00
+endnu sværere ved at få få vandet ned igennem jorden. Og specielt som jeg siger, hvis vi har haft nogle nogle heftige regnskyld dagene før. Så det her det er nogle skøn jeg har herpå og hvor meget der kan r bare for lige at vise m studerende. Det det er de her tal vi vi cirkulerer med jer med. Så den software jeg har lavet her, det er sådan en en screening software, som kan gå ind og og lave det her før bud på hvor pokker samler vandet sig henad. Og
+
+00:03:30
+der findes mange andre gode modeller, som som jeg bestemt ikke skal konkurrere med, men øh men som ofte ikke afspejler, hvad det er, der sker i den virkelige verden, når det hele det bare går bananas. Der kan samle sig en masse blade i i langs klarene. Øh, nogle er blevet dårlig renset op af af myndighederne og så videre. Og så har vi bare problemet som der ikke er taget højde for modellerne. Så man kan have nok så fine ingeniørmodeller. Undskyld jeg fornærmer nogen, men øh hvis hvis
+
+00:04:00
+det ikke afspriller hvad der sker i den virkelige verden, øhm så er det n på den. Jeg troede jeg var sikker i min i mit hus, min bunkerlå ude i nordvest. Øh jeg har jo regnmandsdæksel her. Men under skybud i 2011, der opdagede jeg systemet er løet fuldt og hvor skal vandet så løbe hen? Ikke derned, men derned ned i min kælder. Plus er der også kommet vand op inde i huset selvfølgelig fra fra et dæksel nede i kælderen. Så jeg følte på min egen krop, hvad der gik galt der. Og det var det, der trickede mig til at begynde at lave
+
+00:04:30
+noget modellering på det her. Så jeg har lavet navigation nu, Ag Malstrøm kalder den, fordi den er lavet så GIS Pro. Øhm, så den er tilgængelig for alle der vil have det. I kan få det via det link, men jeg har noget der er bedre, hvis I hvis I kontakter mig direkte. Og der er noget proof of concept i forskellige artikler rundt omkring. Og metoden er faktisk også blevet øh blevet implementeret i et open source miljø, som det gode firma Septem i København
+
+00:05:00
+har programmeret. Og den kan I hente via det repository her. Jeg har lige hørt DMI vil bruge noget af det her til at arbejde med med noget skøn af af vandbevægelse på overfladen i nogle projekter i det jyske her kommende år. Så det det er jo dejligt. Så det her det arbejder med lavninger. Og I kender Blueportmuleringer fra fra anden sofald en skal på softband. En fluebot, det er en lavning i terrænget, så man kan sige i princippet er afløbsløs. Og det vil sige, det vand der
+
+00:05:30
+kommer ned i lningen, det samler sig her, fordi det kan først løbe over, når det når det punkt her, som man kalder for purpunkt eller overløbspunktet. Og kan man sige, det det fine ved de her powerpoints, det er, at de de har altid en maksimal udbredelse. Og man sige rumlig set, så kan de sgu ikke blive større end kan man sige end end kan man sige tomografien. Øhm. begrænser. Der kan sgu ikke være mere vand nede i den der lagning, som I ser det her. Og
+
+00:06:00
+hvordan det så ser ud oppefra, jamen altså lavningen hernede på Lyngbykevejen, jeg vil byde på, den ikke kan blive større end det, I ser her, for den er fyldt op til purpøjen. Så hvis der kommer mere vand ned i den her lavning på grund af noget noget nedbør, jamen så vil det øh så vil der ikke komme mere vand her. Det vil det hele begynder at løbe over, hvis vi lover. Så hvor er de der lavninger så? Og hvad er deres lokale oplande? Det er også det, jeg illustrerede ved ved det billede heroppe. Vi har en lavning på vores lokale fodboldbane, og jeg tror, vi har en lille topografisk opland, som er det her. Det vil sige, det er den lavning, som føder vand direkte ned i
+
+00:06:30
+lagning. Så lagningerne ser sådan ud, som man ser dem for oven for et område omkring omkring Gensof. Vi har fem vejen heroppe. Øh, masser af lavninger rundt omkring, både i parkerne, men også i folks vil haver omkring øh lejlighedskomplekser og så videre. Så det er selvfølgelig et problem, hvis de bliver fyldt op. Øhm, men lavningerne her, de er jo også forbundet. Så hvis man nu forestiller sig, at at vi har et landskab her, set i et tværsnit,
+
+00:07:00
+hvor det begynder at regne, de her lavninger gradvis begynder at blive fyldt op, så får vi altså den første nedbø, hvor vi ikke har noget overløb. Men efterhånden som der går mere og mere regn, så begynder det her overløb at blive fremmet. Og så er der nogle lokale vandskæ, som simpelthen bliver opløst i takt med den her, kan man sige regn fortsætter. Så I kan sige til sidst, så har vi altså en vanddeler, der ligger her centralt, men ø vandet vil bare begynde at løbe sig ud til siderne og igen præ det landskab, som ligger videre nedstrøm.
+
+00:07:30
+Så det gælder om at komme ind og se på, hvordan ligger de her lagninger fordelt i landskab, hvordan hænger de sammen. Og hvis man kan finde ud af det, så er man godt kørende. Og det jeg lige vil gennemgå hurtigt for jer, så I forstår, hvad det her det handler om. Så hvis man ser de her lavninger for et lille udsnit af verden bare på på en halv kilometer inden for bjælpen der, så kan I se ved nogle nogle pile her, hvilken vej vandet løber fra overløbspunktet og videre ned og bakke. Så lokalt der er der så nogle topografier som sørger for at at fordele
+
+00:08:00
+vandet i det her landskab. Det her det kræver at man man arbejder med en digital højdemodell, så man kan se i hvilken retning vandet løber. Og digitale højmodeller, jamen dem får man i dag. ved at at overflyve landoverfladen med en laserscanner. Det send nogle beams ud. Man har en meget præcis justering af, hvor den her beam den ender på terræn, fordi man både kender flyets placering, og det hele er korrigeret i
+
+00:08:30
+forhold til flyets bevægelser. Så man har en en meget meget præcis højtodel for for Danmark, hvor man for hver eneste 40 gange 40 cm sælge i den virkelige verden på terræn har et bud på, hvad er det for en kode, der er lige præcis her? Problemet er, når man skal modellere vand, det er, man har nogle krydsende infrastrukturer. Vi har også noget vand, som er ført under veje og så videre. Så vi skal ned i niveau for det hele, og så laver man det, man kalder en hydogisk korrigeret terrænmodel. Og terrænmodellen den er altså i øvrigt,
+
+00:09:00
+der er vi nede på terræ, så vi har faktisk fjernet alt vegation, så vi kører ned i det her gule plan her. Vi har også høvlet bygninger væk, hvilket på sin måde er overflødigt, fordi jeg vil gerne modellere, hvordan vandet løber rundt om bygninger, og hvordan bygninger bliver påvirket nede i en lavn. Den ligger jeg tit på bagefter, men vi skal altså ned i et niveau, hvor det hele det er hydologisk korrigeret, ellers så durer det her ikke. Men så op med en en restermodellen, så jeg kan tænke jer en gittermodel, når man for hver eneste celle, der ligger
+
+00:09:30
+her, der har vi en kote i forhold til cellensbelæghed over havniveau. Og nu er cellerne så små, så jeg ikke kan se det flere lille område. Det er også skidt, der ikke er en bjælke på, men I kan godt se, der er nogle nuancer her, så man så arbejder noget højt over havet. Så vi har noget her som kan man sige ligger rimelig højt. Ø undskyld det ligger det ligger højt her og det ligger højt her noget her ligger lavere. Så valgen sgu nok på en eller anden måde ned og bakke her. Så kan man begynde at lede efter lavninger.
+
+00:10:00
+Og det gør man ved at bestemme det man kalder flowretninger og nogle flowgonditioner. Det kommer jeg ind til ind på om lidt. For så isolerer de her lagninger lokale landskabet. Når man har fundet lagningerne, så kan man finde ud af, hvor er det så vand, der løber over lavningerne er fulgte er fyldte, og så kan man sætte nogle røde prikker, hvor det sker for eksempel hernede. Og så kan man se, hvordan vandet så løber videre for den her lavning og videre nedstrømt i et eller andet hierarkiv. Om det løber den her vej eller hvad, hvilken vej det løber? Jeg tror, det løber herfra og herop og videre her over i denne her.
+
+00:10:30
+Men det er jo et kæmpe netværk, komplet netværk af veje, der er på terræn. Og det er de streamlines, som Marina talte om lige før. Hvis man er kommet på den her restermodell over til at beskrive lavningerne og deres overløbspunkter og strømvejene videre derfra, så er man rigtig langt. Og ved at lave en simplificering af datamodellen, så det her det ender op med at være noget som repræsenterer punkter og linjer i stedet for at arbejde med nogle tunge rester som er rigtig godt kørende.
+
+00:11:00
+Hvor meget skal man så have med omverden for at modellere en landlokalitet? Jamen, hvis man skal arbejde med med et eller andet område, der bliver oversvømmet hernede inden for Sugoens opland, så skal man i princippet have hele Sugoens opland med for at se, hvor meget der bliver påvirket her af noget, der ligger rundt omkring. Fordi de vandmængder, der akkumuleres her ved en nedbør, nedstrøms, de skal selvfølgelig tages i ed hvis man skal se på en oversvømmelse et eller andet sted her i hierarket. Jeg har arbejdet meget med Sørlon Lund
+
+00:11:30
+som case heroppe. For lige før jeg vender ind vender blikket over mod Værbro Å, så vil jeg vise jer hvordan det ser ud på Sørlon Lundområde. Det er en tomografi, som I ser det her. Højtliggende parti her. Lyngbyvejen ligger herude. Højtliggende parti her. Men så kan I godt se, at lagningerne her begynder at at blive dominerende. Vi har noget der lægst som ligger lavt her. Og så med et udløb herude ved London Lund for. Så hvis man ved, hvor meget nedbør der for eksempel faldt over Københavnsområdet
+
+00:12:00
+2. juli 2011, så kan man tage det grip, kan man sige, af af nedbørsværdier og lægge over på på landskabet her og modellere, hvor meget vand så sammen i de forskellige delvandløb. Hurtigt, hvordan man finder øh dels lavningerne, men også kan vi sige, hvilken vej vandet løber. Jamen det vil jeg se på højdeværdierne, der ligger celle for celle i den her højdemodel. Og nu har jeg lige klippet seks gange seks celler ud fra et område, som bestemt ikke er i Danmark, tror jeg,
+
+00:12:30
+men et andet sted. Øh, for det er en meterværdi over havet. Hvad studerer indenfor et en centercelle i forhold til de omkringliggende otte naboer, kan man finde ud af, hvor der er den stejleste gradient. Så her for eksempel 67 meter over havet. Hvis man ser på naboerne, står der nok et stejleste flow herned. Så så koder man den her celle med den retningsangivelse, der hedder to. Så det ny rester herovre får celleværdien to. Man flytter det her vindue hele tiden. Man starter op i øverste venstre hjørne
+
+00:13:00
+og går ned mod nederste højre. Man flytter hele tiden vinduet et en rester. Og se, hvis man så ser på den her næste gang 56, vi ser på omgivelserne 37, så løber vandet sgu nok stadigvæk mod sydvest i nord opad. Undskyld sydøst. snur opad. Så vi kryer også den her celle med værdien to. Så det sidste så får man et fuldt overblik over, hvad er flowretninger. Hvis man tager dine flowretninger og så ser på, jamen til hver eneste celle, hvor mange celler med vand
+
+00:13:30
+bidrager så med vand til en konkret celle her for eksempel? Jamen, så kan man begynde at tælle op, hvor mange celler fører vand ind i den her celle? Det gør den her jo. Det gør den her også. Den løber derfra og derop og derned her, her og så videre og så videre og så videre. Så hvis man laver en optæing af hvor mange celler som løber ned til den her celle, så får man 20. Så det vil sige det lokale oplande til den her celle, inklusiv den selv, nej den selv, det er 20. Så hvis man kender arealet af hver
+
+00:14:00
+eneste af de her celler, så kan man hurtigt se, hvad er det lokale opland til ethvert sted i terrængmodellen. Forstår I det? Meget simpelt. Lavningerne dem finder man så ved at at bruge en algoritme, som specielt kan søge efter, hvor er der lavninger i terræn? Det vil jeg ikke gå så meget ind på, men I forestiller os, man kan finde nogle lavninger. Der er ikke nogen lavninger i det her eksempel. Der er et perfekt flow ned over hele højellet. Der
+
+00:14:30
+kunne være en afløsløs lavning et sted, som lige skulle fyldes op, før den løb over. Den finder jeg. Jeg beregner volumener på dem. Øhm. Jeg finder, kan man sige, hvor overlyspunktet ligger henad. For eksempel her på den her larvning, som ligger ind mellem de her huse. Og hvis jeg kender alle de her lavninger, så repræsenterer jeg dem bare ved overløbspunktet. Og så begynder jeg at regne på volumenerne og det tilgrænsende lokale opland for den her lavning, som måske er her, og ser, hvad arealet er det. Så hvis jeg ved, hvor
+
+00:15:00
+meget vand der lander på det her areal, så kan jeg gange det op og sige, det er det volumen, som ideelt set under perfekt afstrømningsforhold løber ned i lavningen. Er der plads i lavningen til at rumme den her vandmængde? Ja. Nej. Hvis der er plads, så er der ikke noget overløb. Hvis der ikke er plads, så løber vandet videre ned strøm. Så op med det her hierarki af vandveje, som er de her blå linjer med retninger på og lokale oplande her, bare som en sidgevinst. og de her punkter, som faktisk er hele datamodellen for at
+
+00:15:30
+arbejde med det her. For nu er det heldigt, jeg har en plugin i Python programmering sprog, som hedder Network X, som kan opbygge det, man kalder for en hierarkisk datamodel. Og det er en hierarkisk datamodel, fordi jeg har alle mine vandløbsgrene, som løber sammen i et netværk. Netværket bliver bare tættere og tættere, indtil jeg når til udløbet som Lund Lund for. Så jeg har altså en masse sidegrene, som som bidrager med vand til problemet.
+
+00:16:00
+Så hvis man ser på sådan noget lundområde, så de vandløb der der bliver genereret, de streamlines der er, dem ser i her øh og de er sammenhængende og der er retninger på. Så det betyder, at jeg hvor som helst kan sige, undskyld, den var lidt for tidlig bunde. Øhm, jeg hvor som helst kan sige et eller andet sted i vandløbet, finde ud af hvilken vej vandet løber, for eksempel herfra og ind igennem det her hierarki af vandveje, så det løber ud her.
+
+00:16:30
+Jeg har opbygget et en, kan man sige, en beregning her af vandløbsorden også ved hjælp af Stråersprincippen. Det var den, Marine også nævnte. Der skal I forestille jer de her vandløb. Altså hvis man har et vandløb, som starter herude ved den første bluepot, der er her, der løber over, så vandet løber herned. Jamen hvis det møder noget vand fra en anden bluepot, som er startet heroppe, så er to førsteordens vandløb, når de mødes, så bliver til et andet ordensvandløb. Når det møder et førsteordens vandløb, så er det stadigvæk anden orden. Men når et andet ordensvandløb møder et andet andenordens vandløb, så bliver det til tredje ordens vandløb og så videre.
+
+00:17:00
+Så jo højere et stralerummer øh jo mere vand var der formåes at løve i åen. Så straladordnerne over området der vi så lund ser sådan her ud. Jo mere er det mørklilla, jo mere man forbud det er hovedvejene rent vandmæssigt i det område her. Og der kan I jo godt se hvordan det begynder at sætte det til her. Rigtig skidt for et område der ligger her omkring det hedder Beder Park. Så det øh det er skidt.
+
+00:17:30
+Trace Hedstrøms. Det var det jeg lige talte om. Til ethvert sted i netværket kan jeg gå ind og sige udpeg en vandløbsstreg. Find ud af hvilken vej vandet løber igennem hierarkiet til det løber ud ved udgangspunktet. Og omvendt kan jeg sige træ opstrømt. Jeg ved ikke hvor heldige farverne er her, men I kan formodig godt se at alt det der nu er tracet opstrøms her det er alle de vandløb som altså bidrager til en afstrømning lige præcis her. Og når jeg kender det her, kan man sige, vandløbsnetværk, hvis jeg også kender
+
+00:18:00
+lagningerne og deres lokale vandskæ her, som bidrager med den her spil overberegning, så kan jeg finde ud af, at det her det er faktisk det lokale nedbåsopland til et problem, der måtte være der. Right. Så lavningerne lagt på her kan bruges til den hvide analyse og vurdere hvor er der noget der ligger kritisk øh hvor har vi nogle vandmængder som er voldsomme men vi har ikke regnet på nogen vandmængder endnu. Først skal vi ind i en motor som begynder at vurdere de
+
+00:18:30
+enkelte lokale lagninger og hvordan det lokale opland ser ud og om der kommer et overløb fra noget som ligger højere op i ø i hier tiden. Så jeg har en en en motor, som går ind og ser på et bestemt scenarie. For eksempel en ensartte nedbør på 30 mm over et område. Jamen så kaster jeg 30 mm vand ud over alt det her. Finder arealet som bliver til volumen. Og det vand, den vandmængde fører jeg ned i min bluebort. Er der balance her eller ej? Det bestemmer om der er noget der løber
+
+00:19:00
+videre ved den pågældende hændelse. Hvis jeg har forskellige vandmængder, hvis jeg ved der er nogle gradienter nedbørsmæssig set, så jeg har en destrueret nedbørsfordeling, så deler jeg simpelthen bare min lokale vandskæ op til de enkelte bluepots oplande og siger, jamen inden for det her område, der har jeg en vandmængde 30 mm, men heroppe der ved jeg, at der kun er 27 mm for eksempel, så deler jeg det op og tager bare volumenne for de nedbørshændelser og akkumulerer op. Men jeg laver altså en balance, som er inden for hver eneste vandskæ.
+
+00:19:30
+Hvis jeg kender vationsretten, fordi jeg har et indblik af nogle jordbundsforhold, som ligger indenfor det her område her og det her område hernede, så kan jeg også begynde at sige, jamen så er så stor en del af de 30 mm server ned i jorden, men resten løber af på offline. Så jeg har lavet et lille korrektionsmodul. Hvis man kender infiltrationsretten, så kan man begynde at justere for om der er fuld infiltration på halvdelen af området eller der ikke er. Men igen,
+
+00:20:00
+hvem ved det? Altså igen, hvor fugtig er jorden før man begynder på det her? Det er der sgu ikke ret mange, der har bud på. Så man kan lave forskellige scenarier og se, hvad er det man der passer bedst i sin vurdering af om det er værd at at lave nogle nogle tilpasninger eller vurderinger af noget slow hydraulic. Godt. Det her det er hierarket. Det vil jeg ikke gå nærmere ind i, men I kan bare fortælle i fornemme at man altså akkumulerer nedstrøms hele tiden og vurderer hvordan det går.
+
+00:20:30
+Øhm, man kan begynde at illustrere de her vandmængder også, potentielle vandmængder, hvordan det ser ud nedstrømt, hvordan det akkumuleres, og hvor meget der så går ud her baset på de forskellige hændelser og hvor fyldte de her lavninger så er mere i og med man kender de forskellige mængder, der cirkulerer rundt i systemet hierarkis set med forskellige hændelser, så kan man begynde at sige, jamen den her larvning bliver først fyldt op ved en 40 mm hændelse. Den her først ved en 70 mm hændelse eller 80 og så videre og så videre.
+
+00:21:00
+Og det kan man bruge i alle sine vurderinger. Man kan også lave et kort her, der viser, hvordan delvis øh der sker en delvis opfyldning gradvis af lavningerne. Så bunden af lavningerne bliver selvfølgelig fyldt op først med nogle nogle lave nedbørsmængder, men efterhånden så bliver der fyldt mere og mere op, så lavningerne får større og større udbredelse. Så jo mere man ved om et område, jo bedre er det selvfølgelig. Her har vi topografien for vejrbrug, som Marina også viste. Et højt liggende
+
+00:21:30
+område, der ligger heroppe langs kanten af vandskæet. Og så begynder det pludselig at gå stærkt ned af bakke her. Så vi har et enormt stort lavtliggende område her før vi har et udløb i Roskildefjorden. Geologisk set der er det en blandet landhandel. Det er noget virkelig rod. Det mørkbrune det er morenlærer. Og så er vi ovre i noget sand og gros i det rødelige og orange her. Og de grønne, det er nogle nogle tørfyldte lagninger. Så hvis man skal lave nogle indgreb her, kan man sige, så vil det måske ikke være
+
+00:22:00
+på på den de lette jord, altså de grosere l grusere og sande jorder. Nej, det skulle nok være på morene. Så nu kan man begynde at sortere ud, hvor er det det her, det bliver interessant at at lave nogle justeringer på. Landus er jo også vigtigt. Hvilken arealvendelser har vi? Er vi inde i byområder? Er vi ude på på nogle marker, som er alle de grønne områder her, eller hvor er vi henne? Og hvis man laver den her lyse, jeg lige viste jer før på værbå, så kan man se, at der er nogle pæne store vandmængder,
+
+00:22:30
+som bliver genereret undervejs. Men der er også nogle områder, som har nogle kæmpestore lavninger. Og de lagninger, som har en værdi på minus en, det betyder, at de ikke bliver fyldt op selv ved de største scenarier, der er modelleret her. Det vil sige ved en 100 mm ned på for eksempel en time. Så I kan se hernede en masse af de her grå fyre, som altså har pænt stor kapacitet, og de ligger så tidligt iet, så de aldrig bliver helt fyldt op. Og det er det, man kan vise ved ved de her forskellige analyser. Øhm, pludselig kan man se, at når vandet løber her, så
+
+00:23:00
+kan det godt være, det bliver nulstillet et eller andet sted, fordi eller det bliver reduceret den vandmængde, der løber videre, fordi der er en blueprot et eller andet sted, som kan tage meget vand, som reducerer et overløb nu lokalt, før det bidrager til den store hovedstrøm her. Så man kan begynde at lave nogle vurderinger også på på, kan man sige indenfor kommunerne, hvordan de ligger, og hvor det var, man skulle sætte ind. Og nu vil vi altså for eksempel allieres med EDAL kommune til en eksplosion her den 19. Så vi kan se, hvordan det ser ud ved selvsyn derude. For alle de der blå
+
+00:23:30
+strømlig øh streamlines her interessant at se, om de faktisk findes derude. Lad os dem der afli udelukkende af højtellet. Men afhængig af hvor de befinder sig i det der strallerhierarki, er de måske mere eller mindre synlige derhude. Det er det vi skal ud og kigge på. Blandt andet man kan begynde at bruge gidset også til at sige, jamen vi kan lave deloplanden. Og i princippet burde de her delopplande så repræsentere, hvor vi har et opland, hvor der genereres en vandmængde for eksempel i det her punkt, fordi det her
+
+00:24:00
+punkt, det tager alt vand, der kommer lokalt for det her opland. Jeg tror, jeg har været uheldig at vælge det samme farve for de to oplande. Det beklager jeg. Men der er et opland, der ligger herude og et nyt her og så videre. I princippet kan man sige ved hjælp af de her muligheder for at gå ind og se på de akkumulerede nedbørsmængder, der transformeres til til vand i vandløb, så kan man sige, at man vælger at sætte et et en punkt her, en knude her, hvis vi har en afstrømning, som samlet set på det her område er 150.000 kubikmeter ved
+
+00:24:30
+en 60 mm hændelse. Og så nulstiller jeg simpelthen værdien her og siger, nu bliver det til nul, fordi nu sætter vi ende her. Så nu starter jeg forfra med at regne op, hvor meget vand akkumulerer så her, indtil jeg når til 150.000 kubikmeter igen og så videre. Og det kan man tillade sig at gøre, når man har det her, den her hierarkiske viden. Så det er et af mine første bud her, men det skal ses nøj efter, om det virkelig passer det her. Jeg tvivler på det, men det er noget teknisk, jeg prøver på at redde ud. Men men det er i princippet en en måde, man
+
+00:25:00
+kan prøve at automatisere det hele på, hvis det er på et udviklingsniveau lige nu. Og det kan man så bruge den her subopeling, som ville det til også at se på, hvor er vi henne kirakisk set. Øhm, og hvor har vi mulighed for at lave nogle implementeringer øh i forhold til vandrammedirektivet, der siger, det er områder, vi ikke må røre. Men fra screeningerne her kan vi også se, hvor har vi nogle delområder områder i oplandet, hvor vi faktisk reelt ikke behøver at lave nogle interventioner,
+
+00:25:30
+fordi der er god kapacitet i de naturlige lavninger på nuværende tidspunkt. Så hvor er der spillover ved 60 mm for eksempel, og hvor er der ikke? Der kan man gå ind og sige, jamen så behøver vi slet ikke at tænke på på områden, som malet lyseblå her. Vi skal ind og tænke nogle andre steder. Og nu er vi altså inde for det oplæg, der ligger her. Men måske passer det lige med, at de interventionsområder, som vi skal ud og kigge på her, et og to, de ligger gunstigt i forhold til det her. Der skal tages højde for rigtig mange andre ting, men vi prøver at automatisere så meget af det her som
+
+00:26:00
+overhovedet muligt, så man kan bruge det øh som studerende eller også hvis man er myndighed og synes det her er sjovt, så kan man få det og sidde og arbejde med selv. Øhm, så vi satser på at flere og flere kan bruge de her de her ting, som vi udvikler eksperienser med vores projekt og netop til at udpege nogle gunstige lokaliteter til implementing og slå Jy, men også at se på hvor er der de her no områder, hvor er der fredninger, naturskyttelsesområder og så videre, som skal maskes ud, kan man sige, som som skal bevirke, at vi masker noget ud,
+
+00:26:30
+fordi her kan det bare ikke lade sig gøre. Hvor har vi også nogle arealvendelser, som hindrer nogle nogle ændringer derude, hvor der noget virusgår, der skal tage hensyn til forskellige jordbundstyper og så videre. Alt det prøve på at få et overblik over. Og så kommer der selvfølgelig som Marina talte om udtæn nogle passende designs, så vi kan håndtere de her vandvolumener så tæt på de eksisterende vandløb som muligt, så vi kan prøve på at holde så meget kvestet på fosfor tilbage, før der kommer ud i vandløbet og akkumuleret op
+
+00:27:00
+og til sidst havner ude i Roskildefjordet, hvor de måtte være. Men selvfølgelig også at du ser oversvømmelserne nedstrøms. Det er det, det handler om. Så vi undgår den der kæmpe oversvendelse af af det lavtlæggende område og så også måske sikre noget mere grundmandsvaccinering i det højlægende landskab. Det er det er kernen i det hele tak.

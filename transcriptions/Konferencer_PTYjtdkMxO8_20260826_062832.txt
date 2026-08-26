@@ -1,0 +1,121 @@
+=== DNNK Webinar Transskription ===
+Kategori: Konferencer
+Video ID: PTYjtdkMxO8
+URL: https://youtube.com/watch?v=PTYjtdkMxO8
+Transskriberet: 2026-08-26T06:28:32.213083
+
+==================================================
+
+00:00:00
+Ja jamen øh jeg er jo glad for at vi i dag har sådan et alid og forskelligartet publikum fordi at vi har jo både kommuner og Forsyning Vi har forskere og vi har gag og vi har forsikring og andre så det er virkelig spændende og det er ret sjovt fordi da det her møde startede med at skulle forberedes Der havde vi jo foreslået Per og jeg sådan lidt bredere
+
+00:00:30
+program hvor man kunne diskutere mere i dybden med alle de der forskellige typer oversvømmelser og så blev Steffen ved med at insistere på at økonomi var jo det vigtigste Det er vi jo slet ikke vant til i US men det må han jo have haft en tanke med så noget af det som vi ø tænker på i dag det er at det er en god ide hvis vi er meget åbne omkring hvor har vi et godt datagrundlag hvor vi godt forberedte og hvor kan vi gennem samarbejde mellem alle de parter der er involveret det her gør det bedre så vi
+
+00:01:00
+kan godt være lidt åbne og kritiske omkring hvad vi kan Og hvad vi ikke kan og som I ved jo så er det jo det der med at vi har vand fra alle sider Vi har jo både kyst oversvømmelser det er det som vi nok har arbejdet mest med Men vi har jo også skybrud ekstremregn hvor at ø der jo også er et samspil med kysterne og med grundvandet og andre ting Så har vi vandløbet som jo vandløbene som jeg også spill sammen med de andre
+
+00:01:30
+oversvømmelser og så er grundvandet blevet noget som nogen taler uendelig meget om og som vi ikke vil komme så meget ind på i dag men hvor vi nok synes måske at de tal der er blevet lagt frem om at øh langt over 300.000 boliger er troet at det Det er måske ikke så stærkt Det Dat grundlag men det vil jeg ikke sige mere om men som I ved øh så er der jo for tiden en kæmpe efterspørgsel efter skades beregninger der har jo været mange hændelser og det gør at
+
+00:02:00
+mange mennesker begynder at tale om det her faktisk så var jeg selv ude for jeg var på camping her i sidste uge at de der gartnere som lige holdt en pause i køkkenet De begyndte at sidde og så om det her det er altså meget alvorligt og der forsvandt en meter af vores kyst eller vores skræ Sidste år og og det var også kystdirektoratets skyld De vil jo ikke lade os gøre noget Og jeg forsøgte at forklare dem Jamen det er jo kommunen der må bestemme det men Al det virkelig noget som der blev talt om blandt folk der ellers ikke er Insider så er det jo
+
+00:02:30
+også det at nogle private aktører De kan blive pålagt betaling Der er jo både lodsejer og forsikringsselskaber og den finansielle sektor som kan blive tvunget til at nedskrive deres aktiv og når det sker så er det selvfølgelig lidt mere alvorlig end at vi bare i fremtiden taler om teoretisk om en klimaforandring ligesom jeg står på Steffens kryds Nå så er det også det at kommunerne og Forsyning er ansvarlig for store planlægnings og Implement betalings opgaver beredskabet har selv
+
+00:03:00
+udtalt Vi har talt grundigt med dem også i forbindelse med nogle projekter men det har også været frem i offenen at de er totalt underbemandet De har ikke nok udstyr altså pumper og alle de andre ting så alt i alt tegner sig sig et ø et billede op hvor situationen den virkelige bygger op men som jeg har skrevet her med rød ø skrift finansiering og hvem der skal betale er uafklaret på den måde er det
+
+00:03:30
+meget svært at implementere projekter i fremtiden fordi der er ikke nogen afklarethed om det og man kan også risikere stridigheder lokalt selvom man egentlig har planlagt nogle gode projekter for kommunerne der er stort behov for økonomiske og samfundsmæssige analyser men også for mere gennemskuelighed i data og forudsætninger fordi der er en tendens til at der bliver lavet mange rapporter hvor man egentlig ikke rigtig ved hvad det er der er forudsat det kommer jeg
+
+00:04:00
+nærmere ind på lige kort Så vil jeg sige at det er jo sådan at når man skal lave sådan nogle beregninger de økonomiske beregninger som kommer henne sidst i figuren her Så starter man jo med klimas scenarier vi skal jo vide hvordan det vil ændre sig i fremtiden Hvad bliver havsten Hvor tit vil man have storme hvor kraftig vil stormene blive Hvor meget nedbør vil der komme hvis vi så ved det på detaljeret geografisk niveau
+
+00:04:30
+Så kan vi i næste hug beregne den fysiske påvirkning og det kan vi jo gøre med oversvømmelseskort landjord og der er faktisk ikke nogen andre lande som jeg kender til i verden som overhovedet har noget i den retning så vi er virkelig velforberedt
+
+00:05:00
+her Undskyld Ja så kommer vi til økonomien og der beregner vi omkostningerne ved at de ting vi ved der er på landjorden bliver oversvømmet og hvis vi så vil beregne en forventet risiko så handler det både om hvor stor en skade sker der hvis en Given ting bliver oversvømmet og hvor tit vil den hændelse ske det er faktisk den information vi skal vide hvis vi skal vide om det kan betale sig at investere i klimatilpasning det er sådan den teoretiske verden men det er jo ikke
+
+00:05:30
+altid sådan kommuner eller andre tænker at de kun vil beskytte hvis det er det virkelig kan betale sig Man kan jo godt have andre synspunkter omkring ekstreme hændelser hvis man kigger på klimatilpasning.dk så har vi jo forskellige åbne analytiske værktøjer som man kan bruge Vi har jo kystdirektoratets model den der kystplads for skader men ikke samlet økonomi på et helt detaljeret geografisk
+
+00:06:00
+niveau som man selv kan tage ud og arbejde videre på så har vi jo kampmod denen som under udvikling og den Kan Malte sikkert fortælle mere om den er jo en meget brugervenlig screenings model som selv en kommende boligejer nemt bare lige kan gå ind og kigge på og jeg har hørt at faktisk ejendomsinvestorer bruger den også fordi de er så nærige så de gider ikke betale for nogle mere Grundig anal De går bare ind og kigger lidt Er der et problem her Okay det er der ikke så bygger vi et stort ejendoms kompleks så har vi det der plask Det er
+
+00:06:30
+ikke noget vi som bliver brugt så meget i dag men det er mere til at vurdere et konkret projek og så har vi jo vores model der hedder skades økonomi og den vil jeg selvfølgelig fortælle lidt mere om i vores model skades økonomi det var jo en model vi udviklede under et innovationsfond projekt der endte det med at kommunerne blev meget optaget af den der model fordi de synes at den var meget brugbar i forhold til de planlægningsopgaver De havde i forhold til det dk 2020 og i forhold til deres
+
+00:07:00
+planlægning så derfor så allerede inden projektet var færdig så blev modellen overtaget af kommunerne fordi vi gav modellen til kommunerne Per ved sidenhen i dag fortælle jer lidt mere konkret om hvordan ø ø vi analyseret om det Det er jo sådan en Open source model hvor vi har et digitalt datasystem for hele Danmark Her har vi så de der forskellige sektorer som I ser her Øh og dem som der er sådan penge ikon udenfor det der hvor vi har
+
+00:07:30
+økonomitjek mennesker og helbred turisme rekreative områder Landbrug og så har vi nogle hvor vi mere har sådan nogle form for indekstal nu er det heldigvis sådan at vi også har Urs her i dag han kan fortælle noget mere om nogle af de der sociale og menneskelige forhold og vi har Toke Panduro som vil sige lidt mere omkring ejendomsmarkedet og hvad man kan sige om det Nu vil jeg lige sige lidt om hvad det egentlig er for data vi har i
+
+00:08:00
+de her forskellige moduler fordi det er noget hvor at ø vi godt vil arbejde videre på at forbedre det datagrundlag indenfor bygninger der øh der ved i jo BB det er jo et Lands detaljeret register Så vi ved jo ret meget om bygningerne i det omfang hvor BBR er fuldt optaget opdateret Der har vi jo ø data fra naturskade rådet for alle ud betalinger som der har været i
+
+00:08:30
+forbindelse med stormfloder dem sammenkæder vi med den vanddybde der har været omkring bygningen så har vi estimeret sådan en Skads funktion så man kan se at hvis der er to meter vand udenfor Bygningen Hvor meget er det så blevet udbetalt og det er det som vi bruger så prøver vi også ø og det har vi også lidt for forskellige bygningstyper Så har vi øh nogle forudsætninger om værditab for salg af huse Men de det er noget af det Jeg håber to i dag vil komme nogle bedre tal
+
+00:09:00
+Fordi at det er jo faktisk et reelt problem og Nationalbanken har lavet nogle analyser men øh Det ville være godt at have nogle forbedrede tal og jeg tror det er noget der V enter sig i fremtiden fordi at regel kreditinstitutter og Ands spillerne begynder at interessere sig for det område så har vi det der med mennesker og helbred her Egner vi med nogle direkte økonomiske omkostninger forbundet med Tab arbejds for man skal bruge en masse tid på at klargøre sin
+
+00:09:30
+bolig igen og tale med forsikringsselskabet og man kan have nogle feriedage og øh ind husning der er også sygedage vi bruger også vi bruger nogle tal for værdien af tid her Så er der transport hvis en vej bliver oversvømmet så kommer der jo trængsel ligesom i mtid strafen når man bruger mere tid øh så har vi ø industri der bruger vi tal for Øh hvor meget Hvor mange beskæftiget der er de lokaliserede
+
+00:10:00
+virksomheder man vil gerne arbejde med mere bedre økonomiske tal For hvad omsætning og værditilvækst kunne være tabt så i rekreative områder der Har vi nogle tal fra Aarhus universitet som er baseret på Hvor mange besøgende der er og det er specielt ø Øh hvad er det det hedder I naturområder men vi har selv lavet nogle tal også for byer så har vi nogle biodiversitet som er sådan nogle indeks så har vi turist
+
+00:10:30
+som egentlig er noget der er ret velbeskrevet Fordi hvis i Danmark de har ret mange tal så vi ved både noget om hvem der plejer at komme i et givet område og hvor mange penge de plejer at bruge når de er der så har vi lavet noget omkring landbrug også hvor vi kigger på afgrøde data fra Danmarks Statistik og priser Øh og det er faktisk betalt af Aabenrå kommune Det er sådan et meget sjov eksempel fordi de synes den del af modellen burde være bedre Jamen så betaler de for at at få det opdateret nu kommer tokke det er godt så
+
+00:11:00
+kan vi snart vide noget mere om ejendoms Tab Nå så vil jeg sige lidt om øh metoder som vi arbejder lidt med Vi er jo interesseret i at vide noget mere om hvordan det her egentlig påvirker mennesker der vil vi begynde at kigge på Hvordan påvirker det ting som mennesker finder værdifuldt som de egentlig gerne ville gøre for at realisere hvad deres øh nytte vil jeg en økonom kalde det nu egentlig her og det er jo både det der tiden på til oversvømmelse som jeg talte
+
+00:11:30
+om men de har jo også mindre Fritid fordi at øh og det har jo også en værdi så er der også mulighederne for at sælge en ejendom der kigger vi lidt på liggetider fordi det er jo stort problem hvis du gerne vil væk fra et område hvor der er oversv du faktisk ikke kan sælge din bolig ikke alene får den en lavere pris men du kan heller ikke sælge den så har vi også psykiske konsekvenser og der har vi tidligere lavet en undersøgt ude fra Jyllinge Nordmark hvor 50% der Oversø med hus stand de svared og to
+
+00:12:00
+tredje af dem selvrapporterede forskellige mentale ting altså sådan noget med at I kan finde rapporten på nettet at ø at man har været deprimeret eller haft PTSD eller angst eller nogle af de ting er sådan egentlige diagnoser Det er noget vi vil gå videre med andre ting er mere sådan altså lidt blødere ting at man har stresset i en periode og ikke kan sove et andet område med metoder Ja vi vil gerne arbejde mere med byudvikling fordi vi tror jo ikke at det
+
+00:12:30
+er klimatilpasning der styrer Alt hvad en kommune skulle gøre det vil jo være ligesom Halen der er lovet med hunden så vi ser det mere som at ø Det er en del af byens udvikling at der også er klimarisiko og Vi arbejdede i Aabenrå med at lave nogle alternative lokalplaner sammen med kommunen om der skulle være Erhverv eller rekreative områder eller boliger i havneområdet Og så gik Vier på brugt kommuneplaner Og
+
+00:13:00
+også oplysninger fra kommunen og lavet en et ændret kort for anvendelse og så regnede på hvad Det ville betyde Så kigger vi også på byliv sreg skab fordi det findes jo fra København det findes også fra Odense og det vi gør der det er at kigge på Der er jo tællinger af Hvor mange mennesker passerer en Given rute og opholder sig på et givet sted Så nu hvis mange mennesker gerne ville være i øh øh hvad er det hedder den røde ø Plads eller hvad det nu hedder på i
+
+00:13:30
+Nørrebro Så er logikken jo at de er der fordi at det giver dem en værdi Det er jo en økonomisk indikation kan man sige så derfor så kan man godt bruge byliv regnskaber til at se at Byens rum som og den del af det som mennesker lægger vægt på ø lider et Tab Så det er noget af det vi også vil bruge Og så vil vi selvfølgelig kigge på sal naturområder Øh og gå mere dybt med det Og der regner vi jo med måske Aarhus Universitet eller andre Så går vi jo også meget ind i sådan
+
+00:14:00
+noget med risiko avion Er der nogle ting som vi er særlig ivrig efter at beskytte selvom det måske ikke er så sandsynligt at de kun blive oversvømmet og der er pointen jo at der er en forskel på om det måske er en industrivirksomhed hvor man dog trods alt kan regne et økonomisk Tab ud og sige at det kan du kompensere for at du kan bygge det op igen Eller om det er sundhedsvæsenet i 2011 der havde man jo den der det der skybrud i København hvor at Rigshospitalets kælder og
+
+00:14:30
+strømforsyning blev oversvømmet og man måtte evakuere intensiv patienter det er jo ret alvorligt Hvis nogen dør endnu mere alvorligt måske i vores bevidsthed er hvis børn bliver påvirket for eksempel hvis kloakvand kommer op på jorden vi kan have kulturelle ting værdier og måske bare ting der kan reperes og gøres rent og de priser som vi vil sætte på som vi er villige til at betale for at undgå at der sker nog noget med det g jo på en måde afspejle
+
+00:15:00
+øh Karakteren af de her forskellige værdier så har vi jo også inden for metoder og data Hov det var ikke så godt Nå jo altså Vi går jo meget Vi vil jo gerne have at vi nu skal til at tale om bidrags fordeling og finansiering fordi ellers bliver det her jo ikke til noget så derfor så vil vi godt skelne mellem Hvad er private goder og værdier bygninger og industri og sådan noget Det talte jeg lidt om Men hvad er fælles goder eller fælles værdier og det er jo
+
+00:15:30
+sådan noget med sundhed og byliv og andre ting og jeg synes ikke at det er særlig realistisk at private forsikringer af husar kapital for alle fælles skudene også men hvis vi virkelig skal gøre det her i virkelighedens verden Så er vi nødt til at være meget detaljeret i at måle på hvad det er der påvirkes og det kan vi jo også gøre fordi vi har så detaljeret data så det var noget vi godt øh kunne tænke os Ja så planer for vores model den er jo gratis tilgængelig i Kommunernes system
+
+00:16:00
+alle jer kan jo også godt bruge den øh og øh så vil vi gerne ø sikre at vi kan have nogle bedre ø øh industri Dat og nogle delmod og så har vi jo De menneskelige konsekvenser og så har vi også nogle eu-projekter Nu vil jeg så gerne bruge den sidste tid mere på det her Altså det grøn det er jo det positive som I ved ikke vi har et unikt datagrundlag Vi er dygtige vi kan sagtens gøre det her og alle jer der
+
+00:16:30
+også gør det i praksis i kommuner og rådgiver i er høj kompetence Vi har nogle nye aktører som forsikring og den finansielle sektor det er vi jo glade for fordi de kan give nogle andre synsvinkler og så er der også politisk Fokus offentlig tilgængelige værktøjer men jeg synes at det er rystende at vi har så lidt daing af data og samarbejde mellem myndigheder og forskellige aktører Jeg synes at det bør være sådan at alle myndigheds bør være offentligt tilgængelig det gælder altså alle
+
+00:17:00
+ministerier og styrelser vi har manglende kvalitetssikring af beregninger altså jeg har fornemmelsen af at forskellige rådgivere og andre der laver den samme beregning de kan nå til vid forskellige resultater og deres rapporter er jo ikke offentlig tilgængelige så det er der jo ikke nogen der kan se så har vi et problem med Københavns klimatilpasning som er isoleret fra en åben faglig proces Det er bare nogle forskellige myndigheder og rådgiver der selv sidder og regner lidt og når de fremlægger det så vil vi selvfølgelig Gå ind i en diskussion og hvad med den der
+
+00:17:30
+analyse for hele Danmark der var lovet i klimatilpasningsplan et så vil jeg slutte med den her med strudser Hvordan kommer vi videre går vi efter den gamle dags struds strategi den går ud på at stikke hovedet i busken og så håber jeg problemet går væk eller vi mere som ham der den nysgerrig Han ser lidt dum ud ham strudsen der men altså han vender dog blikket rundt og kider sig omkring Så vi vil gerne have et systematisk samarbejde om opdateret datagrundlag natur skader råd Forsikring
+
+00:18:00
+myndighed Danmark statistik deling af alle data og vi vil selvfølgelig gerne have at der bliver finansieret nogle projekter Vi vil gerne samarbejde med alle dem der er eksperter på de her områder og så udføre kurser Det har kl gjort hele landet rundt ø i kommunerne Ja og så vil vi gerne have en politisk og faglig afklaring af bidrags fordeling for ellers tror jeg altså ikke at kommunerne får særlig nemt ved at implementere de her projekter
+
+00:18:30
+Ja tak
