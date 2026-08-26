@@ -5,7 +5,7 @@ Overvåger DNNK's vidensbank og transskriberer nye webinarer
 Transskriberer alle videoer der ikke allerede er behandlet
 
 State-format (processed_videos.json):
-  {"<video_id>": {"status": "done"|"failed"|"pending",
+  {"<video_id>": {"status": "done"|"failed"|"pending"|"skipped",
                   "attempts": <int>, "order_id": "...", "last_attempt": "..."}}
 Gamle filer med en ren liste af video-id'er migreres automatisk til "done".
 "pending" = betalt ordre afgivet men resultat ikke hentet endnu (fx timeout)
@@ -431,7 +431,10 @@ def main():
     for video_id, category_name in alle_videoer.items():
         entry = state.get(video_id)
         if entry:
-            if entry.get("status") in ("done", "pending"):
+            # "skipped" = bevidst fravalgt (fx video fra en fremmed kanal, der
+            # blot er indlejret på dnnk.dk). Uden den status ville REST-
+            # opdagelsen finde den igen ved hver eneste kørsel.
+            if entry.get("status") in ("done", "pending", "skipped"):
                 continue
             if entry.get("attempts", 0) >= MAX_ATTEMPTS:
                 continue  # opgivet — undgå at betale for samme fejl hver dag

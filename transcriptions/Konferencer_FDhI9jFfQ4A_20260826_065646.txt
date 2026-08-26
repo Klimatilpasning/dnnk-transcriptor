@@ -1,0 +1,133 @@
+=== DNNK Webinar Transskription ===
+Kategori: Konferencer
+Video ID: FDhI9jFfQ4A
+URL: https://youtube.com/watch?v=FDhI9jFfQ4A
+Transskriberet: 2026-08-26T06:56:46.984555
+
+==================================================
+
+00:00:00
+Til L-ekspert fra Stockholms Miljøinstitut, har vi Kina Baket, teamleder for vand, kyst og hav, og hun vil gerne tale om risikoanalyse, ansvarsdeling og offentlige finansers begrænsninger og muligheder, så giv mig venligst en varm hånd,
+
+00:00:30
+kan du høre mig bagved? Mange tak for invitationen. Det har været et fantastisk arrangement indtil videre, og præsentationerne i morges er den perfekte indgang til min præsentation. For dem af jer, der ikke ved, hvad SEI er, eller måske har blandet os sammen med forskellige andre organisationer, der måske starter med Sverige eller Stockholm. SEI er en nonprofitorganisation for forskning og politik, som vi har eksisteret
+
+00:01:00
+siden 1980'erne. Den er etableret af den svenske regering for at arbejde med udvikling, klima og miljøspørgsmål globalt. Vores hovedkvarter, hvor jeg er baseret, er i Stockholm, men vi har kontorer over hele verden, så vi arbejder tæt sammen med regionale aktører i Asien, Latinamerika, Afrika og USA. Præsentationen i dag er et samarbejde med mine kolleger i mit team, og det er også en del af to igangværende projekter finansieret af MSB. Jeg er ikke sikker på, hvilket navn jeg
+
+00:01:30
+skal bruge, men måske bruger jeg et nyt: Det svenske civilforsvar. formas og Sveriges forskningsråd, og lidt om strukturen i dagens præsentation, øh, efterfølger lidt af de trin, vi tog i vores forskning. Først og fremmest undersøgte vi sandsynlighederne og intensiteterne af både enkeltstående og sammensatte hydroklimatiske farer. Jeg vender tilbage til den definition, derefter undersøgte vi kaskadeeffekterne og risikoimplikationerne for
+
+00:02:00
+kritisk infrastruktur og vitale samfundsfunktioner, såsom elektricitet, spildevand, vand, øh, veje osv. Vi undersøgte også forsyningschok på menneskelige systemer, herunder for eksempel fødevarer og sundhed, og vi udvikler i øjeblikket et konsekvensanalyseværktøj, et tidligt varslingssystem. Hen imod slutningen af ​​min præsentation vil jeg forsøge at forbinde dette med implementering på lokalt niveau, hvad implikationerne af denne vurdering har for kommunernes
+
+00:02:30
+arbejde. Lidt om, du har set mange kort, og hver gang der er en klimakonference, er der mange kort med en masse røde ting i landskabet. Øh, hvad dette kort i bund og grund fortæller dig, er vores undersøgelse af enkeltstående hydroklimatiske øh- fare-hotspots i Sverige, og til dette brugte vi øh klimaindekser baseret på langsigtede nedbørs- og temperaturdata, og det, vi i bund og grund ser, er, at Øh, intensivering af hedebølger primært i
+
+00:03:00
+det sydlige Sverige, vi ser også en farlig intensivering både i nord og syd, og generelt ser vi varmere og vådere tendenser over hele Sverige. Når vi taler om sammensatte farer eller flere farer eller aktuelle farer, er der forskellige typer af øh, forskellige formuleringer der, men det er vigtigt at forstå, at der er forskellige typer af sammensatte farer, så du har dem, der er midlertidigt sammensatte, hvilket betyder, at de kan forekomme på samme tid. For eksempel
+
+00:03:30
+kan du have tørke og hedebølge på samme tid, og det kan forværre afgrødetab. Du kan også have rumligt sammensatte hedebølger, der forekommer omtrent inden for et relevant rumligt område omtrent på samme tid. Det behøver ikke at være præcis på samme tid. For eksempel kan du have en stormflod på en flod, der oversvømmer i Sverige. Det er måske ikke så almindeligt, især i Sverige, undtagen i sommermånederne, især på vestkysten, fandt vi ud af, og det vil
+
+00:04:00
+forværre skaderne. Du kan også have noget, der kaldes forudsætningshændelser, så du har en indledende fare, hvilket er det, vi ser i stigende grad over hele verden, især i Sydeuropa. Du har tør jord, der ikke kan absorbere vand. Overskud og Så har du kraftig nedbør bagefter, og det vil føre til forværret strømning. Så når man taler om sammensatte hændelser, kan det betyde, at en af disse ting, vi har set på, er forekomsten af ​​hedebølge og tørke, og
+
+00:04:30
+det, vi ser, er et mønster af intensivering i sommermånederne, især i S- og Stockholm-området. Disse hændelser vil forværre virkninger som afgrødetab. Det vil reducere sæsonbestemt eller midlertidigt vandforsyningen, og det kan påvirke vandkraftproduktionen eller øge energipriserne og elpriserne. For at forbedre projektet forsøger vi nu at
+
+00:05:00
+forbedre forudsigelsen af ​​både enkeltstående og sammensatte farer. Til dette eksperimenterer vi med maskinlæringsmetoder. Jeg bør advare dig om, at jeg ikke er ekspert, så hvis nogen er ekspert her, så stil ikke ekspertspørgsmål. Jeg vil videresende dem til mit ekspertteam. Men det, du kan se på dette slide, er nogle af resultaterne for tørkekomponenten. Vi har testet forskellige metoder. Der er en masse metoder til maskinlæring, og jo flere metoder du tester, jo mere robuste bliver resultaterne.
+
+00:05:30
+Vores metodolog bygger på rumlige multifunktioner og tidsserier for at forsøge at forudsige tørke lidt. længere sigt end vi er i stand til i dag, og hvad vores resultater viser er i bund og grund to specifikke metoder igen, for dem der er kyndige i ML øh, har ARA den bedste nøjagtighed, og så er der en anden metode kaldet multifeature random force, der kan vise dig flere detaljer, så hvilken
+
+00:06:00
+metode der er bedst afhænger i bund og grund af, hvad du leder efter, og den type data, du har. Det, kortene viser, er bare, at vores modelforudsigelse er den forudsagte, og den observerede model øh viser, at modellen rent faktisk fungerer øh, så testede vi også maskinlæring på forskellige tidspunkter for at forudsige hedebølger i dag. Hedebølger har en meget lav forudsigelsestid på et par uger maks., og det betyder, at vi ikke kan planlægge på forhånd øh for
+
+00:06:30
+den type begivenheder, så til dette bruger vi også to modeller kaldet XG boost og K&amp;N øh, som viser den stærkeste forudsigelse. Interessant nok for dem, der kender til variabler, er en variabel, der skiller sig ud i vores model, noget der kaldes geopotentiel højde, da den har den stærkeste prædiktive øh Power GE potentiel højde er en måde at måle højde over havets overflade, der tager højde for tyngdekraftens effekt, og normalt når man ser på hedebølger, er temperaturen
+
+00:07:00
+kriterierne eller Variabler, der betyder mere, men her fandt vi også, at den potentielle højde på geoptimum betyder noget. Vores stutteri adskiller sig fra andre studier, idet det ikke er blevet forudsagt i lange perioder fremover. Evnen til at forudsige måned for måned og frem i tid er, at vi bedre kan tilpasse os årstider. Årstiderne vil ændre sig. Vi ser allerede nu, at det, der plejede at være sommer, ikke rigtig er som sommer nu, eller det var ikke sommer
+
+00:07:30
+dengang. Så hvordan skal vi dyrke vores afgrøder? Hvordan skal vi tænke på skoletider? Hvordan skal vi bygge vores infrastruktur osv. Jo længere springtiden er, og jo bedre nøjagtighed modellerne har, jo bedre kan vi forudsige denne type begivenheder. Det er meget vanskeligt, og nogle af jer pegede på manglen på data, og det er et reelt problem. Vi har ikke mange data, og desværre finansierer forskningsmidler mindre og mindre denne type finansiering. Vi har brug for rådata for at
+
+00:08:00
+kunne få bedre forudsigelser. Vi har også brug for længere forskningsprojekter for at kunne teste flere modeller og have bedre prædiktiv nøjagtighed i vores modeller. Men igen er der heller ingen finansiering til det, så jeg opfordrer til mere finansiering til denne type. af data, som vi har brug for, øh, vi har også undersøgt sammenhængen mellem hydroklimatiske farer og påvirkninger på fødevare-, vand- og elforsyning, og hvad dette viser, er bare et lille eksperiment,
+
+00:08:30
+som vi testede øh for at forsøge at se forholdet mellem afgrødeproduktion og hedebølger, og dette er for Stockholm, ikke fordi Stockholm er den vigtigste fødevareproduktionsregion i Sverige, men fordi vi havde en Stockholm-interessent, der ville vide dette, så vi gjorde dette som et eksperiment. I øjeblikket arbejder vi for hele landet på at gøre dette. Det, du kan se til venstre, er afgrødedataene pr. år i Stockholm og anomalierne, og til højre kan du se sammenhængen mellem disse anomalier og varme, og i bund og grund finder vi en sammenhæng mellem faldende propop øh reduktion øh
+
+00:09:00
+mellem propop reduktion og varmere temperaturer. Nogle gange siger folk, at åh, klimaændringer kan være gode for vores afgrøder, ikke nødvendigvis. Stockholm er en af ​​de regioner, der vil opleve flest hedebølger øh i Europa, og derfor er de F, der oplevede hedebølger og tørke, ikke nødvendigvis positivt påvirket af klimaændringer. Så ud over at se på risikoen for begivenheden, hvilket er det, mange forskere
+
+00:09:30
+ser på, ville vi se på. at forstå konsekvenserne ud over den indledende påvirkning og begynde at vurdere det, vi kalder kaskadeeffekter på netværket af tjenester og infrastrukturer, og for at gøre dette har vi udviklet en ramme til at modellere det, vi kalder tværsektorielle indbyrdes afhængigheder. Jeg antager, at de fleste sektorer, vandforeninger, kommuner og måske elsektoren, har deres egne risikomodeller, men meget få modellerer, hvordan mine handlinger eller påvirkninger
+
+00:10:00
+vil påvirke en anden sektor. Det er det, vi fokuserer på: Hvordan forskellige sektorer påvirker hinanden. Vi bruger netværksanalyse til at gøre det, og vi bygger på open source- data på grund af sikkerhedsproblemer med reelle data. Vores data er derfor ikke helt nøjagtige med hensyn til geografisk placering, og det er okay. Vores fokus er på at udvikle metoden: Vi bruger feedback fra interessenter til at prioritere tjenesterne, så vi kunne kortlægge, hvilke tjenester der er
+
+00:10:30
+mest udsatte for oversvømmelser. Sammen med Hamsta Kommune fortalte de os, at dette er den vigtigste infrastruktur, så det er det, vi skal fokusere på. Baseret på det identificerer vi modstandsdygtighedsmålinger relateret til det, vi kalder kritisk sårbarhed og redundans. Kritiskhed er, hvor vigtige tjenester er. Hvor mange andre tjenester afhænger af den ene sårbarhed er, hvor mange tjenester du modtager, og redundans er evnen til at have
+
+00:11:00
+øh yderligere øh tjenester eller infrastrukturer i tilfælde af, at den primære fejler. Denne figur viser oversvømmelsesområder for tre forskellige typer oversvømmelser i h, så det er Coastal River og kraftig regn, og de sorte prikker er de kritiske infrastrukturknuder, der i øjeblikket er i risiko, øh, og baseret på dybest set disse kort og nogle modeller, har vi kvantificeret øh, vi måler de kaskadeeffekter, som disse
+
+00:11:30
+oversvømmelser ville have på de kritiske infrastrukturer. Det, du ser her, er i bund og grund øh, øh, vi fandt ud af, at vi troede, vi ville se et meget skræmmende billede, men det var faktisk omvendt. Vi fandt ud af, at kun 1,3% af alle kritiske infrastrukturknuder er betydeligt mere destruktive. Det betyder, at man som kommune eller som forsyningsplanlægger kan fokusere på dem i stedet for at fokusere på hele kommunen og fokusere på dem, der
+
+00:12:00
+betyder mest. øh, til venstre kan du se antallet af kaskadefejl på grund af afbrydelser på en specifik knude eller infrastruktur, og dette kan hjælpe planlæggere med at prioritere infrastrukturer, der kan forårsage de fleste afbrydelser. I tilfældet med Hamer var det kraftværket. Lagertanken og spildevandsanlægget, der ville forårsage mest ødelæggelse i byen, og til højre ser du, at jo mere fejlen spreder sig, jo flere funktioner vil infrastrukturen miste i et kvarter eller
+
+00:12:30
+et område, og når udbredelsen spreder sig, bliver netværket mere eller mere ineffektivt. Baseret på dette har vi lavet et konsekvensanalyseværktøj, der i øjeblikket er en betaversion offline, og du kan ikke bruge det, så vi kan knap nok kalde det et værktøj. Dette skyldes sikkerhedsproblemer, og også manglende finansiering. Men ideen er at udvikle dette yderligere, så folk kan bruge det, uanset om det er til kapacitetsopbygning
+
+00:13:00
+eller til planlægning. Vi ved det ikke rigtig endnu. Dette er en dialog med den, der skal bruge dette værktøj. I bund og grund, hvad værktøjet kan vise dig, og jeg viser dig ikke værktøjet af samme grund, men du kan se de kaskaderende forstyrrelser på et ret detaljeret niveau. Hvis din vandtank bliver påvirket, hvilke skoler, børnehaver og hospitaler der vil blive påvirket, vises dette via et dashboard, der viser typen
+
+00:13:30
+af ​​infrastruktur, placeringen og typen af ​​risiko. Under kritiske faktorer, redundans osv., så jeg øh, en lille opsummering af dette for dette øh, for det meste af præsentationen, hvad vi lærte af denne analyse, er, at når vi taler om tilpasning, lyder det som om, vi klumper det sammen i én kategori, men forskellige steder og forskellige risici øh kræver forskellige løsninger, så det, du ser på dette første billede, er havnen i
+
+00:14:00
+Hamstad. Dette er det område, der vil være øh mest effektivt eller har vist den højeste eksponering for alle typer oversvømmelser, så oversvømmelser vil ikke stoppe, og det er ligegyldigt, hvor meget du beskytter, bygger eller omdesigner, så stopper ikke fladerne der. Så måske er den type øh tilpasningsmulighed her at give plads til vandet øh og måske arbejde med naturbaserede løsninger. Jeg gik ikke så meget ind i den sociale sårbarhedskomponent i disse undersøgelser, men klimaforandringer vil øh
+
+00:14:30
+enten forværre sårbarheder eller skabe nye typer sårbarheder, og på nogle af de steder ser vi, at sårbarhederne ikke er de klassiske. Det kan være, at den bedre stillede del af befolkningen kun bliver sårbar, og hvordan vil du retfærdiggøre at bruge offentlige udgifter på de bedre stillede i byen? Øh, det vil også forværre eksisterende sårbarheder. hvilket er, hvad dette billede viser. Dette er en del af byen med mange midlertidige beboere, øh, hvor den fysiske planlægning ikke er i
+
+00:15:00
+topklasse, og det er meget tæt på kysten. Øh, her foreslår vi, at du arbejder med klassiske værktøjer og information om fysisk planlægning, da de mennesker, der bor der, måske bor der i to uger eller to år, og så har du de områder, der måske ikke primært er udsat for oversvømmelser. Hvis du laver et flopkort, viser det måske ikke disse områder, men det er de områder, der vil have den største kaskadeeffekt på dit netværk, fordi du har
+
+00:15:30
+kritiske infrastrukturer, og her bør du tænke, at dette er en flerdimensionel tilgang til, hvordan man håndterer dette problem. Øh, meget vagt, fordi jeg ikke er planlægger, men vores øh, vores anbefaling ville være at beskytte de kritiske områder, det er dem, der har flest forbindelser, uanset om det er en vej, et anlæg eller enhver form for infrastruktur. Du bør skabe redundans for vigtige områder, det er dem, der leverer flest tjenester. Hvis
+
+00:16:00
+du har et kritisk elpunkt, der leverer 70% af elektriciteten i nabolaget, er det et, du bør gå efter at beskytte. Undlad at beskytte alt andet og øge. beredskab af de sårbare knudepunkter, det er dem, der modtager flest tjenester, fordi de er spredte, og det kan være mange, og du kan have løsninger på husstandsniveau eller nabolagsniveau, der ikke er så dyre som den centrale løsning, så dette billede viser dig en mere nuanceret tilgang til, hvad tilpasning kan betyde. Nu ville vi have... Jeg er... Jeg nærmer mig
+
+00:16:30
+slutningen af ​​min præsentation, men vi ville gerne forstå lidt, hvordan det sker på stedet i de kommuner, der beskæftiger sig med klimatilpasning, så vi besluttede at fokusere på regnvandshåndtering og naturbaserede løsninger til det. Hvilke naturbaserede løsninger bruger kommuner til regnvandshåndtering? Hvilket spørgsmål var det, og i starten var ideen at bruge en form for cost- benefit-analyse, men så indså vi, at der ikke er nogen omkostningsdata, eller at omkostningsdataene bare er virkelig komplicerede. Så vi startede
+
+00:17:00
+dem med først at vurdere, hvilke kommuner der arbejder med regnvandshåndtering, og til dette scannede vi to typer dokumenter: vandforsyningsplaner og styrings- og støttedokumenter relateret til regnvandshåndtering, og disse kaldes forskellige. De af jer, der arbejder med i kommuner, genkender måske det, kunne kaldes planpolitikstrategi, retningslinjeprogram. Jeg ved ikke, der er en... der er en... vild... Øh, der er forskel på, hvad de kaldes. Vi gennemgik 48 dokumenter fra de 38 bedste kommuner, præsenteret i den
+
+00:17:30
+rapport, som Stefan talte om i går. Øh, SW Insurance Sweden IVL's rangering af klimaforandringer kom ned til, at 76 % af alle kommuner har en eller anden form for dokument relateret til regnvandshåndtering. Dette burde være i top to, ikke top tre. Øh, den første udfordring, som jeg nævnte, er relateret til omkostninger. Øh, omkostningerne til naturbaserede løsninger, især drift og vedligeholdelse, er meget begrænsede. De er meget spredte og ikke
+
+00:18:00
+sammenlignelige. Der er forskellige mennesker, der bruger forskellige analyseenheder. Kommuner, som vi ved har implementeret naturbaserede løsninger, har det ikke officielt dokumenteret. Øh, og det ser ud til, at prisen ofte er fastsat af udvikleren eller konsulentfirmaet. Nu ved jeg, at SEO er omkring os. Måske er der andre konsulentfirmaer omkring. Øh, det er godt for dig, men som klient burde jeg have et udgangspunkt at sammenligne dit tilbud med. Dette er en meget grim tabel, og
+
+00:18:30
+formålet med den er bare at vise dig, hvor svært det har været at sammensætte omkostningerne til naturbaserede løsninger. Det afhænger af så mange ting. Så hvis jeg skulle sammensætte en plan, øh... Fordi jeg har foreslået min kommune, at jeg i stedet for at gå efter den grå infrastruktur, vil gå efter den grønne. Jeg kan forestille mig, at det er virkelig svært for den grå infrastruktur at have standardiserede omkostninger, men det har man ikke for naturbaserede løsninger. Anbefalingen til at håndtere denne udfordring er at standardisere
+
+00:19:00
+omkostningsestimater og oprette referencebiblioteker for naturbaserede løsninger, der er målrettet kommuner og inkluderer drift og vedligeholdelse, hvilket ingen synes at overveje. Den anden og sidste udfordring er uklare ansvarsområder, vi diskuterede det i dag i går og under middagsbordet, især når det kommer til håndtering af regnvand, er der mange forskellige interessenter involveret både i og uden for kommunen. Jeg vil gerne dykke ned i et specifikt problem, der også blev
+
+00:19:30
+bragt op i går. 70 % af jorden i byområder, i hvert fald i Europa, falder under privat eller kommerciel ejerskab, og alligevel er det kommunerne, der har hovedansvaret for klimatilpasning. Der er noget, der ikke stemmer overens her, og vi er nødt til at finde nye samarbejdsmetoder og investeringsmodeller, der giver forskellige interessenter mulighed for at deltage. Nu arbejder jeg ikke i nogen af ​​disse
+
+00:20:00
+kommuner, måske gør nogle af jer det. Vi har læst, at nogle af jer har fundet en eller anden model til at præcisere ansvarsområder, så det ville være dejligt at høre, eller at I deler jeres erfaringer med andre kommuner, som endnu ikke har foretaget den rejse, og investeringsmodeller, der f.eks. tillader kommuner at genkøbe, eller den private sektor rent faktisk at finde løsninger, der kan gavne alle. Jeg slutter med det: Mange tak.
+
+00:20:30
+[Applaus]

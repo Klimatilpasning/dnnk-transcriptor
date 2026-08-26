@@ -1328,5 +1328,12 @@
     "order_id": null,
     "kilde": "youtube-subs",
     "category": "Konferencer"
+  },
+  "FDhI9jFfQ4A": {
+    "status": "done",
+    "last_attempt": "2026-08-26T06:56:46",
+    "order_id": null,
+    "kilde": "youtube-subs",
+    "category": "Konferencer"
   }
 }
