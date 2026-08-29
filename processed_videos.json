@@ -1335,5 +1335,11 @@
     "order_id": null,
     "kilde": "youtube-subs",
     "category": "Konferencer"
+  },
+  "N9jDYwakMaE": {
+    "status": "failed",
+    "last_attempt": "2026-08-29T14:11:40",
+    "attempts": 1,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
   }
 }
