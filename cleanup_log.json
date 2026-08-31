@@ -10956,5 +10956,587 @@
       }
     ],
     "afvist": []
+  },
+  "transcriptions\\Konferencer_nthRIIYUEAE_20260826_062900.txt": {
+    "anvendt": [
+      {
+        "forkert": "kalumborg",
+        "rettet": "Kalundborg",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "naksov",
+        "rettet": "Nakskov",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "sip fonden",
+        "rettet": "CIP Fonden",
+        "antal": 4,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "zipf onen",
+        "rettet": "CIP Fonden",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tip fonden",
+        "rettet": "CIP Fonden",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "VSP",
+        "rettet": "WSP",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kovi",
+        "rettet": "COWI",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "rambøl",
+        "rettet": "Rambøll",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "aelia",
+        "rettet": "Alectia",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "harstrup å",
+        "rettet": "Harrestrup Å",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "storm bodel",
+        "rettet": "stormen Bodil",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "vær brå",
+        "rettet": "Værebro",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Ver brå",
+        "rettet": "Værebro",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Kør Bymidte",
+        "rettet": "Korsør Bymidte",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kør er også udpeget",
+        "rettet": "Korsør er også udpeget",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Konferencer_FmyfBR4lkVk_20260826_062903.txt": {
+    "anvendt": [
+      {
+        "forkert": "Drejers Fond",
+        "rettet": "Dreyers Fond",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "advokatsomfri",
+        "rettet": "Advokatsamfundet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Zipfonden",
+        "rettet": "CIP Fonden",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Naksborg",
+        "rettet": "Nakskov",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Kulinsund",
+        "rettet": "Kolindsund",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Colin Søn",
+        "rettet": "Kolindsund",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Polinsund",
+        "rettet": "Kolindsund",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Colinsund",
+        "rettet": "Kolindsund",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Colinol",
+        "rettet": "Kolindsund",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Kulingund",
+        "rettet": "Kolindsund",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Kolinsold",
+        "rettet": "Kolindsund",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Kodingsund",
+        "rettet": "Kolindsund",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Gulensund",
+        "rettet": "Kolindsund",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Dursland",
+        "rettet": "Djursland",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Tursland",
+        "rettet": "Djursland",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Danmarks Kulturforedingsforening",
+        "rettet": "Danmarks Naturfredningsforening",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Danmarks Naturforeningsforening",
+        "rettet": "Danmarks Naturfredningsforening",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "bioduniversitetsrådet",
+        "rettet": "Biodiversitetsrådet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Rosk Universitet",
+        "rettet": "Roskilde Universitet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Konsito",
+        "rettet": "CONCITO",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "klimmerlaboratorium",
+        "rettet": "klimalaboratorium",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "vandbland",
+        "rettet": "vandopland",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "vandblandet",
+        "rettet": "vandoplandet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "skærordens",
+        "rettet": "Skjernåens",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "skær nogensinde",
+        "rettet": "Skjernåens",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Grenovens",
+        "rettet": "Grenåens",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Vanderoperland",
+        "rettet": "vandopland",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "budenåen",
+        "rettet": "Gudenåen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Ramsydane",
+        "rettet": "Ramsødalen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Ramsydal",
+        "rettet": "Ramsødalen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Konferencer_v_LR-r_EaEM_20260826_062917.txt": {
+    "anvendt": [
+      {
+        "forkert": "Patrick blan",
+        "rettet": "Patrick Blanc",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Patrick blanck",
+        "rettet": "Patrick Blanc",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "byros",
+        "rettet": "Byggros",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "byross",
+        "rettet": "Byggros",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "r Daniel",
+        "rettet": "Realdania",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "real dager",
+        "rettet": "Realdania",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "rumbold",
+        "rettet": "Humboldt",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Alexander hbold",
+        "rettet": "Alexander von Humboldt",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Rock Bu",
+        "rettet": "Rockwool",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Konferencer__RMVkoF0fAM_20260826_062841.txt": {
+    "anvendt": [
+      {
+        "forkert": "Cornelius Pals",
+        "rettet": "Kornelius Pagels",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Nios",
+        "rettet": "Niras",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Miras",
+        "rettet": "Niras",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Abenro",
+        "rettet": "Aabenraa",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Jylling Nordmark",
+        "rettet": "Jyllinge Nordmark",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Draghø",
+        "rettet": "Dragør",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Jules Minde",
+        "rettet": "Julsminde",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "julsme",
+        "rettet": "Julsminde",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "rambøl",
+        "rettet": "Rambøll",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "deelag",
+        "rettet": "digelag",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "dealout",
+        "rettet": "digelaget",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "delag og kommunen",
+        "rettet": "digelaget og kommunen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Konferencer_zL1iRIYgxz4_20260826_063004.txt": {
+    "anvendt": [
+      {
+        "forkert": "Østyrelsen",
+        "rettet": "Miljøstyrelsen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Horsensagen",
+        "rettet": "Horsenssagen",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Horsensalen",
+        "rettet": "Horsenssagen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "VMDB-pjekt",
+        "rettet": "MUDP-projekt",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Stemmens kommune",
+        "rettet": "Stevns Kommune",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Marina Berg Jensen",
+        "rettet": "Marina Bergen Jensen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Valcenter Syd",
+        "rettet": "Vandcenter Syd",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "UP Nord",
+        "rettet": "Uponor",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Geofiser",
+        "rettet": "Georg Fischer",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ge Fisher",
+        "rettet": "Georg Fischer",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Bygros",
+        "rettet": "Byggros",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "miljøstelsen",
+        "rettet": "Miljøstyrelsen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Amar",
+        "rettet": "Amager",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Konferencer_iEfRoyJ9-Cs_20260826_062919.txt": {
+    "anvendt": [
+      {
+        "forkert": "og ved Danmark og har været der i tre år og før jeg kom til Danmark, der var ved Aarhus vand",
+        "rettet": "og hos DANVA og har været der i tre år og før jeg kom til DANVA, der var ved Aarhus vand",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "en tredjedel af Danmarks medlemmer",
+        "rettet": "en tredjedel af DANVA's medlemmer",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "der efterlyses her fra Danmarks side i forhold til at få komme i gang med særdirektivet",
+        "rettet": "der efterlyses her fra DANVA's side i forhold til at få komme i gang med særdirektivet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "der vil man gerne fra Danmark side i hvert fald at det bliver sammetænkt",
+        "rettet": "der vil man gerne fra DANVA side i hvert fald at det bliver sammetænkt",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "særdirektivet",
+        "rettet": "CER-direktivet",
+        "antal": 8,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Jylling Nordmark",
+        "rettet": "Jyllinge Nordmark",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Jyllinge Nordmar",
+        "rettet": "Jyllinge Nordmark",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Jyløke Nordmark",
+        "rettet": "Jyllinge Nordmark",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "like Normark",
+        "rettet": "Jyllinge Nordmark",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Værebro Hå",
+        "rettet": "Værebro Å",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Northstream 2",
+        "rettet": "Nord Stream 2",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Grønning Hovstrand",
+        "rettet": "Grønninghoved Strand",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "syd for King",
+        "rettet": "syd for Kolding",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
   }
 }
