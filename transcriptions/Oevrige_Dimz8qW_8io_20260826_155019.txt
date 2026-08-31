@@ -1,0 +1,194 @@
+=== DNNK Webinar Transskription ===
+Kategori: Oevrige
+Video ID: Dimz8qW_8io
+URL: https://youtube.com/watch?v=Dimz8qW_8io
+Kilde: lokal transskription (faster-whisper small, dansk)
+Transskriberet: 2026-08-26T15:50:19.809607
+
+==================================================
+
+00:00:00
+Tak, jeg hedder Søren Gabriel, kommer fra VSP, og jeg skal underholde sammen med Isaac, og jeg kører på med det samme, for tiden er fremskradet. Jeg har en baggrund inden for regnvand, kender rigtig mange af, og i forlængelse af Sveniræks pointe her omkring BAT som dynamistandard siger, at jeg har været med så længe, så jeg har været med til at lave standarder for Miljøstyrelsens penge. Det er et gammel dage, hvor Miljøstyrelsen regnfags laver det, som Miljøstyrelsen har sat i verden for. Vi har lavet standarder, og jeg har bl.a. lavet de her standarder for både regnvandsbasinger, sammen med Jes Woldersen.
+
+00:00:30
+Vi har lavet det for bilanlægget. Idéen med standardet er at formalisere en opbygning, så man kan stille et funktionskrav til rensning, i stedet forstået til kvalitetskrav til rensning. Det er som Sveniræks et dynamisk begreb. På et eller andet tidspunkt er det overviftet, at regnvandsbasinger ikke er BAT længere, fordi der er en bedre etableret teknologi. Vi har lavet et styr arbejde for rockflow, og det var før regnvandskvalitet, der batter blev lavet.
+
+00:01:00
+Vi har lavet et på egen hånd, som er en vejledning eller anvisning for, hvordan man kan dimensionere og udfordre med sådan nogle anlæg. Der ligger en vurdering af myndighedskrav i forhold til BAT, og der er vores vurdering. Vores vurdering er, at det hænger godt sammen.
+
+00:01:30
+Den er lavet før, og Mathias fik lavet sine resultater færdig. Så har vi den her anvisning for, hvordan man udformer anlægget, og det er både til nedsigning for sin rensning, og så til dimensionering. Der er noget omkring drifterlivetid, som ikke var så udbygget der, og så er der noget inspiration og anlægge eksempler. Det vi har hørt ude i markedet om på den her, var, at der var noget usikkerhed omkring nogle ting. Det er så det, Isak vil fortælle om, at vi har arbejdet med. Det har meget handet om tilståbning og opfyldning med sit ment, og som med livtid, og noget omkring rensning og rensintervæller.
+
+00:02:00
+For indlede her før Isak tager over os, så vil jeg rundt af med det samme her, og lægge op til en diskussion. Så vil jeg sige, at anlægninger er vigtige, fordi vi har et eller andet at støtte os til. Man skal så myndighed kunne støtte sig til noget at sige, at når jeg giver en tilladelse, så har jeg en forvendning om, hvis den går i klarenevne, så kommer jeg igennem med det her. Og det er også derfor, at det her rankpeltid, der batterprojekt, er vigtig, og vi får dokumenteret de her løsninger.
+
+00:02:30
+Så det er en anlægningsskat, det er altså en lavel, det som vores anlægning har lavet, i et grundlag for at dimensionere udformet og drive et anlæg. Og dem, der kan bruge den, er myndigheden på den ene side, til at sige, at vi stiller krav efter den, og typisk forsøgningen på den anden side, som siger, at vi udfører det efter den her, og så lever vi op til funktionskrav. Det, der er udfordring med det her, er, hvem laver de her anlægninger. Fordi når jeg ser på den der rankpeltid, der batter, og på det arbejde, vi har lavet for Anders, så skal man have muskler nærmest, som Rokkul, for at kunne lave sådan en dokumentation.
+
+00:03:00
+Og det er bremsen for alt udvikling på området. Så man siger, at hvis man skal prøve at tage udensprægnet i den måde, som det var i gamle dage, så handler det om, at man fik nogle erfaringer. Og så på et eller andet tidspunkt, så var der nogle mennesker, som gik sammen om, og finansierede at få samlet op på de erfaringer, så man kunne få lavet en anvisning. Rejmæspersensanvisning, den er finansieret af en række forsynninger, og så med et penge fra naturstyrelsen. Så derfor skal min opfordring allerede her til en start være,
+
+00:03:30
+at vi altså sammen går ind og sikrer, og sammen det som branche går ind, og sikrer en finansiering, som gør, at vi kan dokumentere de her ting. Så vi får en udvikling på markedet, og at det ikke altid bare strænder på, det her kan ikke lade sig gøre. Har jeg fået tændt for den her? Det lyder sådan godt. Det er selvfølgelig forlængelser af søren, at jeg vil forklare lidt om nogle af de tests, vi har lavet, og de konklusioner, vi har kunne drage under vejs, og samtidig også lige berøre lidt omkring samarbejdet med Rockflow og processen i det,
+
+00:04:00
+og der er det sådan set mest alt mening, at I skal få en forståelse for, hvor omfattende de her undersøgelser har været, som er en relation til det søren, og snakket om økonomiske muskler osv. Inden jeg går i gang med at vise noget mere konkret af, hvad vi har lavet, så vil jeg bare gerne have i kigge på de tre bilder, og jeg kan godt se, at det måske er lidt sagt end gjort. Det er sådan tre bilder fra nogle inspektioner, der er lavet på sådan nogle Rockflow-buffers,
+
+00:04:30
+der er uden virkelig verden, og fungerer, og det man kan se, jeg kan også prøve at forklare bilderne lidt, det er sådan set, at der er sådan nogle kanaler ind igennem de her Rockflow-bats, og jeg synes måske ikke, vi har haft en sådan fuldstændig konkret forklaring af, hvad det er, men det er de her mineralul bats, så man skal forestille sig sådan en kasse, man kan grave ned, hvor der er blevet fræset en kanal ind igennem, inden man kan føre aflægt regnvand, og så sige vandet ud i den her mineralul, den her stenul, og når vandet forlader den her overflade af den kanal, man har fræset,
+
+00:05:00
+så bliver partikler så filsrede fra, og det er det, man kan se rent praktisk her, at der er stuet rigtig meget op af både fine og grove partikler, og i et af dem, det er lidt afligt, at de ikke kan se det bedre, men der kan man se, der er den der kanal, som er i det her tilfølge 125, det er fyldt halvvejs op med materiale, og det er jo det, der sker over tid, og det er den turlige opfyldning med sediment, der sker i sådan en buffer. Vi har lavet en masse tests på faktisk 9 forskellige opsetninger,
+
+00:05:30
+jeg har taget lidt af det med her, det håber jeg, man kan se, hvor vi har ligesom kigget på den hydrauliske robusthed af det her materiale, sådan i relation til tilståbning med suspenderede stof over tid, og hvordan det påvirker de hydrauliske enskaber for rockflow materialet. Vi har brugt naturligt sediment, jeg håber, man kan se det her, det er sådan grabvogn, der lige haler noget sediment op fra sådan vort, regnvandsbasering på den anden side af vejen, på Rockwells tidligere produktionsfacilitet,
+
+00:06:00
+det har vi smidt op i nogle palletanker, så har vi håndteret det her fra at prøve at slemme det op i noget vand, og smidt det ind igennem en masse forskellige opsetninger. Det øverste billede heroppe, det viser sådan en kasse med en miniaturebuffer i den her 2,4 meter lang, og der er så sådan palletank, vi har løft op på en gaffeltruck, med en slange nede i et indløbsrør, der sidder sådan en lille flowmåler, så har vi slemmet sediment op i vandet i palletanken, til 5-6 gange en naturlig koncentration, det arbejder vi med, som hver 100 milligram per liter. Det kan jeg så også se fungere meget godt i relation til det,
+
+00:06:30
+Mathias har fundet med de 125-de århus, det er de koncentrationer, vi har arbejdet med, så har vi tilsat en hel masse huspenderet stoff til materialet her, indtil vi har stoppet det til, og vi har tilsat den her høj koncentration i forhold til, hvad vi vil antaver naturligt forekomne for at accelerere testen, og det gør, at vi ser sådan lidt andet tilstoppeningsmønster igen, I kan dårligt se det, men det her er et billede ind igennem kanalen i sådan en buffer der, og der kan vi se, at der simpelthen er sådan en tynd film på hele overfladen,
+
+00:07:00
+på 1-2 millimeter af silt og leer, der gør overfladen mere og mere, og det er det der sker, når man sådan en shock belaster det, det her er det svare til, at vi har underdimensioneret magasinet meget, meget drastisk, så det er altså ikke det, vi ser i virkeligheden i relation til de første billeder, men det vi gjorde, det var også stoppet det til, det her magasin, og så prøvede vi at randske det med sådan noget traditionelt kloakspulegrej, vi fik en kloak, man ud og gør det, og der har så brugt en dyse, der sprøjter bagud med 15 grader,
+
+00:07:30
+vi har sprøjt det med op mod 100 bars-tryk, og så genn tog vi randsningerne 50 gange for at se om det her material, rockflow-materiale rent fysisk at holde til det, og det kunne det, og så har vi lavet en hydraulisk kapacitetstest af materialet, både før vi stoppede det til, efter vi stoppede det til, og efter vi så randsede det 50 gange, og der visste vi også, at vi havde genoprettet den hydrauliske kapacitet, så det siger noget helt konkret om, at når sådan en kanal ind i et filter bliver stoppet til, så kan vi gå ud og randse det, vi kan gøre det så mange gange, at det svarer til en levetid faktisk mere ind,
+
+00:08:00
+fordi den levetid, eller det randsintervalt, der bliver anbefaldet af 2-3 år, så 50 randsninger svarer sig om efter lidt hurtig hårdrejning, til 100-256 år, hvilket er meget mere, end vi regner med i forhold til levetider. Men det har så påvist, at vi kan stoppe selve overfladen til at randse den, men hvad så på sikt, hvad så når sådan en magazin er stået derude 50 år, er der så en tendens til, at de fineste partikler, de simpelthen løber ind i matrisen, af det her stenhusmateriale,
+
+00:08:30
+optager på ordromsplads, og derved nedsætter den hydrauliske kapacitet. Det kan vi ikke sige noget om her, og hvis vi skulle udføre en hele levetid på de her buffers, som vi har lavet her, så ville det simpelthen være tidsmæssigt og ressourcimæssigt selvmord, så vi sadlet lidt om i forhold til det, vi sad det, sådan en laboratorie for søg op, hvor vi lavede cylinder her, sådan en filterplok er Rockflow, som blev sat på cylinder, og igennem det har vi så påvirket med vand med det her naturligt forkommende sediment,
+
+00:09:00
+vi har slemmet op i, og det har vi tilstoppet, og rentet mindre end 440 gange. Så det er jo også helt vildt, men det svarer sig til, når man følger vores anvisning i forhold til dimensioneringen, og når man regner med, at gennemsnitsinholdet er suspenderet stof af 100 mg per liter, så svart det til 67 års belastning. Vi har i alt testet 6 af de her mockup-systemer der, som der er øverst ope, og 3 af de her laboratorieopsætninger for at belyse forskellige enskaber, det kan være ventilation, effekten af at pakke magasinet ind,
+
+00:09:30
+eller have fri sidderbund og top til afdrenning, og så videre. Det sediment, vi benøttede, det var vi som sagt, ude at grepe op lige på den anden sidervejen. Jeg har taget en gref med, som vi kan se i den højre siderlæret, som i baggrund af de tyndelinjer, det er nogle målinger på partikelstørrelsesfordeling på noget afledt regnvand i Holland. Den røde linje af Millicil W4, det har været nævnt tidligere Millicil, for der er også udført test, all af det, vi har lavet,
+
+00:10:00
+men så har man typisk brugt det syntetiske sediment. Vi har så brugt den naturlige forekomende, som er den blå linje der, og den svarer sådan rimelig godt over ens, med de andre linjer dog, at der er sådan et lidt bredere partikkelspænd repræsenterede i det. Vi vurderer, at det er fullt repræsentativt med det, man ser uden virkelig verden, og ude af alt det material, vi har taget en lang række stikprøver, vi har analyseret for tørstoffenhold, og organisk materiale, det ligger på mellem 21-30% tørstoff, og organisk material på cirka mellem 10-18%,
+
+00:10:30
+og det stemmer jo et fullt over ens, med mere end 100 undersøgelser, vi har lavet i regnvandsbesænger rundt omkring i landet. Godt, det her er de her mockups, og de er sådan set alle sammen sat op, overordnet som det her, så i det her kan I se, at der har vi skåret nogle vinduer i siden for at teste hvad fri afdrening fra sidderne, eksempelvis gør vi både tilstoppningsministeret i forhold til det suspenderede stof, men også i forhold til, hvor hurtigt man kan lave vand igennem magasinet osv.
+
+00:11:00
+Det her oppe i toppen her, det er pakket fuldstændig ind, vi har håndteret vand og sediment i palletanker på 1000 liter, hvor vi så har sat dykpumper i til at holde sedimentet i suspension, vi har kunnet konstatere, at uanset næsten hvor mange dykpumper vi putter i, så sker der stadig noget fragmentering, så det er sådan en fejlkile, men det er om noget, hvad kan man sige hårdere for sådan en fildt at håndtere, at vi først tilsætter de fine partikler, for derafter at tilsætte de grove, efterhånden som palletanken, der er dem bliver tømt. Det her nede det viser lige sådan nogle inspektionsbrønd,
+
+00:11:30
+vi har lavet dem alle sammen for at kunne følge med løbende. Det overordnede resultat er, som jeg også navnede før, at vi kunne randse det her 50 gange, og efterfølgende vise, at den hydrauliske kapacitet var genoprettet, det er de data, jeg bygger min konklusion på. Herover i venstre side der har vi nogle trækhandler her, der viser henholdsvis, vi har flow i litepasse kun per hectare ude af X-axen og vi har hydraulisk trygtniveau
+
+00:12:00
+i centimeter, oppe af Y-axen. De her trækhandler her, de viser nogle punktmålinger, vi har lavet med ren vand i omfrolig stenul, hvor vi smider noget vand igennem, entil vi får et visst trygtniveau i det indløbsrør, der er, når vi flowede hvor hurtigt er det, og der er vi så plottet her. Så stoppet vi makasinet total, til vi heldt et års belastning i på meget kort tid, og så stoppet vi det fuldstændig til, og så lavede vi en hydraulisk test med rent vand igen, og de plotter her, og der kan man sige linjen er jo ikke fuldstændig lodret, så det
+
+00:12:30
+tyder på, at der kommer noget vand igennem, men vi har også nogle meget høj trygtniveau her i forhold til herover, så det er mere et tegn på, at vi kort slutter filteret ved at tilføje enormt høj trygt på et filter, der er tilstoppet. Godt. Så det er altså rent filter, tilstoppet filter. Herover, det er lidt svært at se for jer, de har nogle forskellige farver, trækhandlerne, men de røde trækhandler, hvis I kan se det i den her lille blåb her, trækhandler, og der, det er det rene filter, vi har lavet en hydraulisk kapacitetstest på med rent vand.
+
+00:13:00
+Så har vi taget det tilstoppet filter, ramte det 50 gange og målte på det, og de sorte trækhandler her, det viser så de, den hydraulisk kapacitetstester, de forskellige værdier, vi fik under vejst, de plotter altså på nogle lunde sammenlinje, så det vil sige, at når du har stoppet det fuldstændigt til en gang, og ramte det 50 gange, så har vi dokumenteret at den hydraulisk kapacitet er genoprettet. Men der mangler vi stadig osvar på, om der trænger partikler ind i matrisen over sådan hele levetid, og det græber vi lidt anderledes an. Vi lavede det her
+
+00:13:30
+cylinder her, hvor der sidder sådan et filterpluk i, der er 10 cm højt, og har en diameter på 10 cm, og det filter har vi lavet, som man kan skru det af, og der kan I se her, efter man har stoppet det til. Det er lidt aflig, bilderne er så dårlig, fordi i mock-uppet før, der kunne man se, det var sådan film af meget, meget fine materiale, og man kunne faktisk ikke se noget, der bare minner om sand på den her overflade. Det er meget tydeligt her, og grunden til, at det har ændret sig, det er fordi, vi gik bort fra at håndtere vandet, og desusmenterede stopp i palletanker, vi tog det i stedet for 25 l stund, hvor vi helde 10 l vand i,
+
+00:14:00
+og afmålte en mængde sediment, så ledes, at der ikke sker fragmentering sedimentet i selve håndtereingsprocessen. Det er så, kan man sige, urealisiske forhold til naturlige forhold for lige så snart, man har holdt vandet i, så er det stemplflåge ned igennem makasinet, eller ned igennem filteret her, og der får vi også lige så snart, at have stedet en aftag lidt, der får man fragmentering, sedimentet, så de største partikler, de vil falde ud af suspension først, og så videre, så det kan man sige, er ikke sådan en total repressentativ måde, men vores ønske har været,
+
+00:14:30
+meget hårdt og intens, henover en helt levetid for at se, hvordan partiklerne opfører sig i forhold til, om de går ind i matrisen, eller ej. Vi rentede, eller tilstoppede først, og så rentede 444 gange, hvilket er helt vanvittigt, og det svarer til de her 67 års belastning med suspenderede stof, og undervejs i det her, vi lavede tre forskellige opsetninger, og det her for at undersøge og verificere de rænsemetoder, der er lagt op til forinde, og det vi kunne gøre, det var, at den mest
+
+00:15:00
+effektive rænsemetode, det er at skylde, filteres overflade med en vandstrol, der har en vinkel, der er 15 grader på overfladen, og det er så også det, vi har gjort, når vi har haft kloakfolk ude af rænse, de har sat sådan en dysebo, der spuler med en 15 graders vinkel. Godt. Så har vi lavet sådan et dimensioneringsplot, kalder vi, der er grunden til at have det med nu, det er for at sige, at alt, hvad vi har lavet, har vi lavet under antagelse af, at man følger og den bliver sådan set opsummeret i det her,
+
+00:15:30
+fordi den her, den viser oppe af y-axen, for delerkanalen, ind igennem et magasin, antal meter for delerkanal, og så ude af X-axen viser det opland i hektar, og den grønne linje, den viser det forhold imellem meter for delerkanal og hektar, som vi anbefaler, og alle de prækker, I kan se i plottet rundt omkring, det er altså magasin, og der er ude i den virkelig i verden i funktion i dag, og det, der er meget interessant, det er, det blå her, det er et overdimensioneret magasin med en faktor 2, så det vil sige halvstort opland, som vi
+
+00:16:00
+anbefaler, at det kan klare. Når du går ned i den gul, så har du lige blivet fået dobbelt så stort opland, så det er altså underdimensioneret, og så hernede mod bliver det så værre og værre, og det vi kan konstatere, det er, at de magasin, der vi ser, der ligger mellem den blå og den gul, de fungerer lige akkurat efter hensikten, når vi kommer længere ned, så er det nogle af de områder, vi har oplevet, at der har givet problemer med for hurtig tilståbning, og for lave plot, og nu kommer jeg så til vores resultater fra laboratorieforsød, den her
+
+00:16:30
+cylinder, vi lavede, som vi smedde 67 års suspenderet stof ind i, og grunden til det var vigtigt lige som indledning til det at tage vores dimensioneringsplott med, det er fordi de 67 år, det er, at vi kom med frem til ved at rejne på, hvis vi nu havde brugt anvisningen, når vi testede det her filter, hvor stort et opland skulle vi så tilkople det her filter, og hvor meget suspenderet stof svarer det sig til, at vi får i per år, og det er den vej rundt, vi har kommet frem til det.
+
+00:17:00
+Her, der har vi lidt forskellige ting at kigge på, der er ret mange data faktisk, venstre y-axe her, det er en hydraulisk ledningsevn i meter per sekund, og den højre herovre, det er et hydraulisk tryk-niveau, og hernede i bunden er det antal års belastninger med suspenderet stof. Vi har løbende lavet de her test, hvor vi har tilstoppet det her, som med nogen lundfaste intervaller har vi efter en randsning, lavet sådan hydraulisk kapacitetetest, hvor vi har tilført rent vand med omkring et hit på 60 cm, det har varieret for det svært at
+
+00:17:30
+ramme præcis, så det hit, vi viser her under hver test, der hvor der er nogle tegn der viser det, hvornår vi har lavet testene, og den røde herovre er så den rigtig interessante, for det er de hydrauliske ledningsevn, når vi har påvist ved hver test igennem forsøget. Det her er for det omfroelige materiale, så den er rigtig høj så i løbet af cirka 5 års belastninger så er vi kommet ned til den stiblede linje her som er vores middelvärdige igennem hele forsøget, dog uden den høj indledningsværdige. De to linjer hernede de viser den blå, øverste
+
+00:18:00
+den viser den hydrauliske ledningsevn, der skal til for at kunne klare en tiårshendelse, hvilket er en 10 min midelintensitet på 230 lps per hectare, og den længere nede den orange her, det er en toårshendelse som er det samme, men 140 lps per hectare. Og hvis I så ser hvordan de målte værdier igennem vores forsøg hvor vi har tilstoppet og rentet filtrer så mange gange, det udvikler sig så kan man se at det kommer ned omkring midelvärdien og så er det sådan set her omkring vi bliver i grovet træk, hele vejen igennem
+
+00:18:30
+forsøget. Den laveste værdiermål her og den tilskriver vi sådan set til kan man sige ukorrekt rentning, så det har vi efterfølgende rettet op på og så er det faktisk lykket så at hæve den hydrauliske ledningsevn ved målingerne igen for resten af forsøget. Og her ved 6-6 år der havde vi simpelthen slidt det op og det er vigtigt at sige, at her håndterer video kan vi sige meget fysisk for vi skruer dag, vi tager det ud til det hvor vi står og renter der og står og spuler på det hvor normalt at rentere man jo kun indsigter, det giver lidt sig selv når man har et magazin under en vej eller hvad det nu ellers måtte være.
+
+00:19:00
+Så de overordnede resultater det er at vi har vist at det rent fysisk kan holde til de her 100- 150 års rentninger med et rentinterval på 2-3 år uden at det går i stykker. Vi øvede filterkanal eller den der kanal ind i filteret, vi øvede diameteren af den med omkring 15 mm under vejs så man kan sige på den led slider man lidt på overfladen. Jeg kunne komme ind på en lang snak omkring hvad det gør og hvorfor det er sket
+
+00:19:30
+og hvorfor man ikke ville se det i virkeligheden men det tror jeg ikke, vi har tid til nu. Laboratorer for søget, det er testet tilståbningen over tid det her med at det ikke kun overfladen, vi ser på om den fyldes op, om på rigiteten den nedsættes over tid, og det er også det vi spulede 440 gange hvilket er ufattelig mange gange i forhold til det man forventer på en levetid det var de her 67 års belastninger vi kom igennem med og den gennemsnittelige kv- den gennemsnittelige hydraulisk kapacitet i hele den tid, det er
+
+00:20:00
+0,0041 m per sekund og det er 2-3 gange højere end 10 års hendelse faktisk så det er nogle rigtig fine tal derudover så sendt vi det her plok, vi havde belastet i 67 år med hvad siger man med håndkraft, det kommer i andres lommen på en flyvmeskine, kun for at levere det ned i Holland fordi det har så stor anvaldi for os men der er et laboratorie nede på Rockflow i Holland, hvor de så lavede nogle forskellige undersøgelser er det blandt andet skart i det over i sådan nogle cirka 1,4 cm
+
+00:20:30
+tykke slices, som man kunne kigge ind igennem det og så kiggede de på de mikroskop, og rent visuelt der var det omkring 6,7,8 cm inden i filteret der kunne man visuelt ikke se tegn på sediment længere og det var selvfølgelig tydeligt tættere på toppen der blev også lavet nogle undersøgelser, hvor det blev bakt og man fik udskilt de sedimenter, der var i og der blev lavet noget massefylde, og så videre for at se, hvordan det sammenholder med jomfroligt material og det man kunne se, det var, at i den øverste skive tæt på overfladen, hvor materiale havde filtreret fra der var faktisk ikke så meget sediment
+
+00:21:00
+og det giver mening, fordi det er sådan en influence for randsningen, det er der man spuler og så kom 1,4 cm ned i det her pluk her, så var den kraftigste koncentration, vi så, og den faldt så ned mod bunden, hvor 10 cm fra toppen det er så det der bunden, der var der cirka 5 % sediment i porerne, og når vi har en porusitet på omkring 50 % så 5 % det er altså ikke ret meget, efter 7 og 6 år at der ligesom er blevet optaget sediment i den afstand fra det der i et rigtigt magasin, ville svare til afstanden fra den fordel af kanal
+
+00:21:30
+der skåret ud i det vi har også fået lavet en masse inspektioner af fungerende systemer for at kunne sammenligne det med det, vi har lavet i laboratoriet og så videre, det var nogle af de billeder, vi i starten og på baggrund af dem, er der blevet vedtaget en anbefaling om randsning hvert andet til 30 år og udover det så har vi brugt de her ting, vi har lært til input til en revision af den anvisning og vejlending, som Søren snakket om og det er helt konkret, at vi har fået valideret
+
+00:22:00
+i den samme metode, vi har fået kvalificeret levetiden så har vi nogle inputs til, hvordan der skal laves en korrekt opbygning for, at ventilation udføres korrekt, og så til sidst så har vi det her hands-on-værktøj som jeg kalder det her dimensioneringsplot hvor man kunne plotte et magasin eller så stort oplandet, så stort er det godt eller dårligt i forhold til anvisningen og det her med omfang og process jeg håber i har fået en indsigt i hvor meget arbejde vi egentlig har lavet og over et år så arbejde et sammenlagt
+
+00:22:30
+vi har løbende haft møder med ROGFLO både herhjemme og internationalt det har nærmest været på månedelig basis og vi har skulle gennemgå de her ting for at sikre os at vi får allels observationer og erfaringer med, og så videre og så er for at vi får undersøgt alt i forhold til de udfordringer og bekymringer, som kunder og folk i markedet har henvendt sig med og så sidst men ikke venst, så er det vent med at vi har lavet en hel masse revisioner til de opsætninger, vi har lavet de samme punkter, som er op til en start
+
+00:23:00
+med hvorfor anvisninger er vigtige og hvordan vi skal bruge dem fordi nu har jeg fået det der overblik over hvor stor et arbejde er at der bare og dokumentere en levetid og drifte på et produkt her jeg synes det har været en sindssygt spændende process sammen med forandres
+
+00:23:30
+og særligt med Isaac som jeg har siddet med til daglig og det er enormt privilegert for at lave noget sjov og spændende og i mit kæle tid er grineret ned bagi fordi jeg har været igennem det samme med de og dokumentationskrav jeg synes noget af det som kunne være spændende at diskutere ude i workshopene bagefter det er hvor en del kommer igennem det her på en fleksibel måde så vi ikke ender med alle sammen at det er perfekt, det bliver det gode sværeste fjende og vi spænder ben fra gode løsninger og jeg virkelig bare kører videre med Reimsbasinger
+
+00:24:00
+som absolut ikke er nogle gode løsninger men som på det sidste punkt, hvor vi lavede anvisning for Reimsbasinger var den udbredte løsning så blev vi nødt til at lave en anvisning for hvordan vi udformer de engineeringer og driver dem så det skal egentlig bare være opfordringen her til at vi tager den bagefter og så vil jeg starte nogle spørgsmål ja tak jeg tror især genten af folk suger den eller også har du simpelthen blæst den tilbage
+
+00:24:30
+jeg synes du det sidste her er jo fantastisk oplæg så du skal diskutere panelet så lad os lige parkere den når jeg hører jeres oplæg at i talesætter hvor stor en opgave det er det er faktisk kun af store virksomheder der kan løft sådan en opgave fordi det koster rigtig mange penge I går jo ikke tænke det er gratis men der er ingen der gør noget gratis og hvis man kigger på alle andre branche hvor man flytter marked med nye løsninger
+
+00:25:00
+så er det typisk innovation der kommer ud fra at skubbe de store eller manne løsninger det er de små virksomheder det start-up som kommer med det nye som flytter marked markant som laver disruption så det i siger en der det er jo muligt her fordi det koster så meget at nå frem til markedet så mange test, så mange kroner at det ikke lader så gøre hvis man er lille jeg vil sige at hvis mister i markedet er en risikovillighed der er nogen der tør køb den første Tesla
+
+00:25:30
+og med den risikovillighed består i at man som møndighed tør løbe risikoen for at blive at tabense aklænevnet og med en forsyning som forsyning tør at tage den risiko og man skulle lave nogle ting om eller som forsyninger og møndighed bliver ind i om nu bygger vi det her og så er skalaen ikke større end vi tåler for eget så kan tingene gøre vi laver jo masser af udvikling på det her område lige nu sidder vi, der handler det meget om at lave forstårfælling før udledning til forstårføle som recipient der altså søger og det gør vi jo
+
+00:26:00
+i samarbejde med en forsyning om kommune og en skala hvor de siger okay der kan vi godt tåle det går galt det her men det bliver jo aldrig født igennem til at få et karakter af en badanvisning mellem så det bliver simpelthen formstændeligt og så bliver det sådan VSP og hellerøds måde at gøre det på og det har ikke nogen autoritets så min opfordring er det der med at vi finner sammen om at lave en eller anden form så hvor vi kan trække på gode erfaringer uden at det bliver så skidt hamrende formelt og find en finansering til det
+
+00:26:30
+og sammen finner finisering godt, vi har betydet et, to spørgsmål er det nogen der vil kommentere noget der blev nævnt den anden virksomhed som eksempel ja men Mikael for NCC jeg er fuldstændig enig med søren og så er det imponerende arbejde som Rockwell her har lagt i det her vi var i gang i 10 år nu her med vores drejenstevild, vores primaebelægninger
+
+00:27:00
+og stadig væk i hvad kan I dokumentere, hvad kan I det ene eller andet så vi ved systemerne, de virker men igennem den her kontrollfasse er fuldstændig enig med søren det er der med at man kunne få nogle forsyninger med eller lignende til at lave et samarbejde og få det sat i gang det er rigtig spændende så det ikke nu er vi selv stort firma også men også det giver mulighed for de mindre og mellemstort firma også at jeg kan gå ind i noget som det her godt jeg tænker, der er lige kommet en artikel eller anders det er det her
+
+00:27:30
+vil du kommentere på den, hænger vi lidt sammen med det her den hænger ikke lige så meget sammen med tilståbningen i levetid men mere om netopfiltreringen som vi og det her Frederik Bård, kommun og forsyning det er også her i dag og Katrine fra Teknologisk Institut og Mathias som var oppe for lidt siden og så også for vi har testet denne anvistning men det er jo et spor altså vi har prøvet at lave en fire spor op i dag med BA'en under en vej og filtrering
+
+00:28:00
+og nu er levetid i forhold til tilståbningen det sidste er så hvordan man kan simulere det i en modellering men det vi lige som har prøvet i den artikel er at sige ok nu kan vi skaftne dokumentation og hvad så den videre vej for at opnå de her funktionsgrave som du har været inde på søren i forhold til når vi snakker om filtrering og jeg er helt enig med det du også siger Michael altså det er jo et stort arbejde indenfor alle de her spor så mål mig i dag også at fortale om hvad det er for nogle bekymringer forsyninger
+
+00:28:30
+og kommuner her og noget af det jeg tidligere har hørt når jeg har været ude hos forsyninger og prima det lyder rigtig godt det jeg siger vi kan med Rockflow men det lyder også for godt og det er jo nok fordi jeg også har haft noget med at vi har haft nogle rører og det har man mange års erfaringer at bruge så hvordan er det nu vi skifter til nogle andre ting også altså helt det her med at det lyder for godt det var også målet med i dag lad os prøve at få eksperterne op over for selv hvad de har gjort for os det blev lidt mere en barnen artikel
+
+00:29:00
+men jeg kunne måske lige spørge os selv sådan at Isaac som vi sagde det var rigtig meget arbejde så vi siger nu skulle kove en eller anden tjerning på det vi starter jo også med input fra Klaus Mårtsen og en kollega ude fra at få med hvad de vil ønske undersøgt men vi siger nu skulle kove den her undersøgelse så har I så gjort jeg nogle overvejelser om det jeg vil sige konkret den her undersøgelse og det er jo at man siger det er en relevant bekymring
+
+00:29:30
+og jeg kan ikke sige den her undersøgelse kunne have været accelereret men kunne ikke have fået de resultater up front for etabliering af anlæg uden at lave alle de her forsøg man kunne have støttet sig mere til at der faktisk er rigtig mange erfaringer med at bruge det her i Holland og så stole på ting der ikke er lavet i Danmark så det er mere at være åbent over for at det kunne være tyske standarder eller udenlandske erfaringer i stedet for at have den her forskning og med alt skat dokumenteres i Danmark eller i Vores kommun eller af mig får det godt nok
+
+00:30:00
+der mener jeg der kunne være altså nogen land og så de vi skal huske at det er jo ikke effekt rentning altså det vi går og laver nu det er jo BAT som sådan er det defineret hvad kan vi opnå når vi så begynder at kigge på forsfor så skal vi selvfølgelig holde det op i forhold til at leve op til god økologisk kvalitet i vores restpinter men alle dem der ved noget om det her de ved at vi kommer aldrig nogensinde til at leve op så længe vi udleder regnvand til restpinterne altså så vil vi sige det er perfekt det findes ikke
+
+00:30:30
+vi står med problemer og vi må som samfund også tage den der diskussion om at vi må acceptere noget med hjulpåvirkningen og lave sådan noget her så jeg synes det er ikke fordi jeg synes vi ikke har udledet ting uanset men vi skal ikke være så kiggen på at alt skal være dokumenteret og helt dokumenteret hjemme os os selv godt vi skal tage den diskussion som samfund så det synes jeg vi skal starte over fokuspausen

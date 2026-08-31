@@ -649,12 +649,13 @@
     "kilde": "youtube-subs"
   },
   "-9iAfpGkPQ4": {
-    "status": "failed",
-    "last_attempt": "2026-08-06T17:15:18",
+    "status": "done",
+    "last_attempt": "2026-08-26T11:38:48",
     "order_id": null,
     "category": "Godmorgen_med_DNNK",
     "attempts": 0,
-    "note": "nulstillet 25/8-2026: de oprindelige fejl kunne ikke skelnes fra midlertidigt YouTube-rate-limit. Pipelinen kan nu skelne, så videoen prøves igen."
+    "note": "nulstillet 25/8-2026: de oprindelige fejl kunne ikke skelnes fra midlertidigt YouTube-rate-limit. Pipelinen kan nu skelne, så videoen prøves igen.",
+    "kilde": "whisper-small"
   },
   "gJRis50HFVY": {
     "status": "done",
@@ -772,20 +773,22 @@
     "kilde": "youtube-subs"
   },
   "rw-2t2DL4aU": {
-    "status": "failed",
-    "last_attempt": "2026-08-26T06:32:05",
+    "status": "done",
+    "last_attempt": "2026-08-26T11:44:26",
     "order_id": null,
     "category": "Arrangementer",
-    "attempts": 1,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+    "attempts": 0,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription",
+    "kilde": "whisper-small"
   },
   "zQ7nBjYq6Mk": {
-    "status": "failed",
-    "last_attempt": "2026-08-26T06:31:35",
+    "status": "done",
+    "last_attempt": "2026-08-26T11:50:54",
     "order_id": null,
     "category": "Arrangementer",
-    "attempts": 1,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+    "attempts": 0,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription",
+    "kilde": "whisper-small"
   },
   "twkCUP0a5ug": {
     "status": "done",
@@ -802,12 +805,13 @@
     "kilde": "youtube-subs"
   },
   "ZVkyCW5IMTU": {
-    "status": "failed",
-    "last_attempt": "2026-08-26T06:32:01",
+    "status": "done",
+    "last_attempt": "2026-08-26T11:58:54",
     "order_id": null,
     "category": "Arrangementer",
-    "attempts": 1,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+    "attempts": 0,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription",
+    "kilde": "whisper-small"
   },
   "KG8mkJJZivE": {
     "status": "done",
@@ -817,28 +821,31 @@
     "kilde": "youtube-subs"
   },
   "cDfGMF9D7rQ": {
-    "status": "failed",
-    "last_attempt": "2026-08-26T06:31:40",
+    "status": "done",
+    "last_attempt": "2026-08-26T12:05:23",
     "order_id": null,
     "category": "Arrangementer",
-    "attempts": 1,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+    "attempts": 0,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription",
+    "kilde": "whisper-small"
   },
   "RIUuChMy1hs": {
-    "status": "failed",
-    "last_attempt": "2026-08-26T06:31:45",
+    "status": "done",
+    "last_attempt": "2026-08-26T12:11:33",
     "order_id": null,
     "category": "Arrangementer",
-    "attempts": 1,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+    "attempts": 0,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription",
+    "kilde": "whisper-small"
   },
   "DaKuQ9hKYF0": {
-    "status": "failed",
-    "last_attempt": "2026-08-26T06:31:50",
+    "status": "done",
+    "last_attempt": "2026-08-26T12:18:29",
     "order_id": null,
     "category": "Arrangementer",
-    "attempts": 1,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+    "attempts": 0,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription",
+    "kilde": "whisper-small"
   },
   "uQuLL27W1D4": {
     "status": "done",
@@ -848,28 +855,31 @@
     "kilde": "youtube-subs"
   },
   "mWG_TwwiPkw": {
-    "status": "failed",
-    "last_attempt": "2026-08-26T06:31:56",
+    "status": "done",
+    "last_attempt": "2026-08-26T12:25:59",
     "order_id": null,
     "category": "Arrangementer",
-    "attempts": 1,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+    "attempts": 0,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription",
+    "kilde": "whisper-small"
   },
   "TYAN6ZpLxEQ": {
-    "status": "failed",
-    "last_attempt": "2026-08-26T06:31:25",
+    "status": "done",
+    "last_attempt": "2026-08-26T12:34:44",
     "order_id": null,
     "category": "Arrangementer",
-    "attempts": 1,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+    "attempts": 0,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription",
+    "kilde": "whisper-small"
   },
   "e5n-rkdCyLI": {
-    "status": "failed",
-    "last_attempt": "2026-08-26T06:31:30",
+    "status": "done",
+    "last_attempt": "2026-08-26T12:43:31",
     "order_id": null,
     "category": "Arrangementer",
-    "attempts": 1,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+    "attempts": 0,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription",
+    "kilde": "whisper-small"
   },
   "SFwbGrZ-Zjs": {
     "status": "done",
@@ -948,16 +958,20 @@
     "kilde": "youtube-subs"
   },
   "hAU-rCQOZkA": {
-    "status": "failed",
-    "last_attempt": "2026-08-26T06:28:24",
-    "attempts": 1,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+    "status": "done",
+    "last_attempt": "2026-08-26T15:14:04",
+    "attempts": 0,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription",
+    "order_id": null,
+    "kilde": "whisper-small"
   },
   "Dimz8qW_8io": {
-    "status": "failed",
-    "last_attempt": "2026-08-26T06:28:29",
-    "attempts": 1,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+    "status": "done",
+    "last_attempt": "2026-08-26T15:50:19",
+    "attempts": 0,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription",
+    "order_id": null,
+    "kilde": "whisper-small"
   },
   "PTYjtdkMxO8": {
     "status": "done",
@@ -1032,10 +1046,12 @@
     "kilde": "youtube-subs"
   },
   "g2fNV0LyDxQ": {
-    "status": "failed",
-    "last_attempt": "2026-08-26T06:29:27",
-    "attempts": 1,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+    "status": "done",
+    "last_attempt": "2026-08-26T16:05:24",
+    "attempts": 0,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription",
+    "order_id": null,
+    "kilde": "whisper-small"
   },
   "9hADLyjXnSo": {
     "status": "done",
@@ -1098,10 +1114,12 @@
     "kilde": "youtube-subs"
   },
   "_69RcnA53YY": {
-    "status": "failed",
-    "last_attempt": "2026-08-26T06:30:15",
-    "attempts": 1,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+    "status": "done",
+    "last_attempt": "2026-08-26T16:26:40",
+    "attempts": 0,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription",
+    "order_id": null,
+    "kilde": "whisper-small"
   },
   "pnWkZcjLm9A": {
     "status": "done",
@@ -1122,10 +1140,12 @@
     "kilde": "youtube-subs"
   },
   "9Mtbmb4TUAQ": {
-    "status": "failed",
-    "last_attempt": "2026-08-26T06:30:28",
-    "attempts": 1,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+    "status": "done",
+    "last_attempt": "2026-08-26T16:36:42",
+    "attempts": 0,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription",
+    "order_id": null,
+    "kilde": "whisper-small"
   },
   "4AGa2Tu7k4g": {
     "status": "done",
@@ -1212,58 +1232,76 @@
     "kilde": "youtube-subs"
   },
   "Be8WiDJYFsg": {
-    "status": "failed",
-    "last_attempt": "2026-08-26T06:32:24",
-    "attempts": 1,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+    "status": "done",
+    "last_attempt": "2026-08-26T16:47:36",
+    "attempts": 0,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription",
+    "order_id": null,
+    "kilde": "whisper-small"
   },
   "gMnODGapiRI": {
-    "status": "failed",
-    "last_attempt": "2026-08-26T06:32:28",
-    "attempts": 1,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+    "status": "done",
+    "last_attempt": "2026-08-26T17:04:55",
+    "attempts": 0,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription",
+    "order_id": null,
+    "kilde": "whisper-small"
   },
   "rnL8O4Stv70": {
-    "status": "failed",
-    "last_attempt": "2026-08-26T06:32:33",
-    "attempts": 1,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+    "status": "done",
+    "last_attempt": "2026-08-26T17:27:56",
+    "attempts": 0,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription",
+    "order_id": null,
+    "kilde": "whisper-small"
   },
   "TF8C8Udk1tA": {
-    "status": "failed",
-    "last_attempt": "2026-08-26T06:32:37",
-    "attempts": 1,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+    "status": "done",
+    "last_attempt": "2026-08-26T18:04:00",
+    "attempts": 0,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription",
+    "order_id": null,
+    "kilde": "whisper-small"
   },
   "PKlQbQZRZk0": {
-    "status": "failed",
-    "last_attempt": "2026-08-26T06:32:42",
-    "attempts": 1,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+    "status": "done",
+    "last_attempt": "2026-08-26T18:06:43",
+    "attempts": 0,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription",
+    "order_id": null,
+    "kilde": "whisper-small"
   },
   "rioeMRDhJAU": {
-    "status": "failed",
-    "last_attempt": "2026-08-26T06:32:47",
-    "attempts": 1,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+    "status": "done",
+    "last_attempt": "2026-08-26T18:11:11",
+    "attempts": 0,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription",
+    "order_id": null,
+    "kilde": "whisper-small"
   },
   "DHL6mwwN6c4": {
-    "status": "failed",
-    "last_attempt": "2026-08-26T06:32:52",
-    "attempts": 1,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+    "status": "done",
+    "last_attempt": "2026-08-26T18:19:42",
+    "attempts": 0,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription",
+    "order_id": null,
+    "kilde": "whisper-small"
   },
   "HQRq2cgHreE": {
-    "status": "failed",
-    "last_attempt": "2026-08-26T06:32:56",
-    "attempts": 1,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+    "status": "done",
+    "last_attempt": "2026-08-26T18:29:52",
+    "attempts": 0,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription",
+    "order_id": null,
+    "kilde": "whisper-small"
   },
   "u1kaQlQjbeQ": {
-    "status": "failed",
-    "last_attempt": "2026-08-26T06:33:01",
-    "attempts": 1,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+    "status": "done",
+    "last_attempt": "2026-08-26T18:37:35",
+    "attempts": 0,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription",
+    "order_id": null,
+    "kilde": "whisper-small"
   },
   "Tr1Zf5SFBJg": {
     "status": "failed",

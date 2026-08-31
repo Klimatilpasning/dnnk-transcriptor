@@ -1,0 +1,371 @@
+=== DNNK Webinar Transskription ===
+Kategori: Godmorgen_med_DNNK
+Video ID: -9iAfpGkPQ4
+URL: https://youtube.com/watch?v=-9iAfpGkPQ4
+Kilde: lokal transskription (faster-whisper small, dansk)
+Transskriberet: 2026-08-26T11:38:48.533166
+
+==================================================
+
+00:00:00
+My name is Mia Castipral, I'm a postdoc at the Center for Blue Governance at Aalborg University. And I've just finished up a PhD project that is part of Regions for Climate, the project that Amalia introduced at the beginning, about understanding social justice in coastal adaptation planning in Denmark. And that was also an industrial PhD in collaboration with the Danish Coastal Authority and Aalborg University.
+
+00:00:30
+So I'll be talking a little bit about that today. My idea for today was to give you a bit of context about the PhD and then go through kind of the main results. I won't be going into detail about any of the analyses, but I wanted to more give you an idea of what we have found out about just adaptation in Denmark throughout the project. And then some recommendations about where we could go from there in relation to practice. So I hope that can also spark some conversation about what to do next.
+
+00:01:00
+So this PhD was really coming out of an understanding that just adaptation was gaining traction internationally when I started the project a few years ago. But it wasn't really being studied in Denmark. There wasn't really a lot of knowledge about whether it was relevant in a Danish welfare state context. And there was also this perception that I encountered a lot that perhaps it wasn't relevant in a society where we have such high levels of social equality relative to some other parts of the world.
+
+00:01:30
+So with that in mind, this project was about looking into how justice challenges currently manifest in coastal climate change adaptation planning in Denmark. And then looking into how we might operationalize just adaptation in the future. And I did that through three analyses here. A national screening of distributive justice, which Urs already talked a little bit about earlier. A local analysis of recognitional justice challenges within a specific nature based solution. And then an analysis that experimented with creative arts based methods to support procedurally just co-creation in NBS projects.
+
+00:02:00
+And so when I talk about these different forms of adaptation or pillars of just adaptation, this is the kind of framework of just adaptation that I'm talking about. Usually we talk about just adaptation in relation to distributive, procedural, recognitional and sometimes also restorative justice. So distributive justice is about the equitable allocation of the benefits and disadvantages of adaptation responses.
+
+00:02:30
+So that's relating more to outcomes. When we talk about procedural justice, we're talking about meaningful inclusion of the needs and priorities of different groups, particularly vulnerable or underrepresented or marginalized groups in all stages of the adaptation planning process. Recognitional justice is more about respect and recognition for the needs and priorities and identities of diverse groups. Also relating to issues of structural inequity. And then we have restorative justice, which is still something that's often not included in this framework.
+
+00:03:00
+But this is really about thinking about how we can use climate change adaptation as an opportunity to address historical inequity. So could this be kind of a way into looking at some more patterns of historical inequity and addressing those. And my PhD has focused mainly on the first three. So I'll be sharing some brief results in relation to all three of those and what they look like in a Danish context. So the first analysis of this was to conduct this National Screening of Distributive Justice,
+
+00:03:30
+which we've already talked about quite a bit, but I'll just summarize it for those that perhaps were not here. So this analysis was about comparing social vulnerability and flood exposure data on a national scale to understand whether socially vulnerable groups face a disproportionate share of exposure to coastal flood events currently. And we found that they do. So the most socially vulnerable are facing higher levels of exposure on a national scale in four out of five Danish regions
+
+00:04:00
+and across all city sizes except for rural areas. And I can also say in relation to the question from earlier that this is also true when we look at the individual indicators of social vulnerability. So if we look at age and health and socioeconomic situation for example, those that are most vulnerable in relation to that specific aspect are also facing a disproportionate share of exposure for all indicators except for social capital.
+
+00:04:30
+I've just checked that one. So this analysis was really demonstrating that this problem of climate justice or just adaptation is really a systemic challenge on a national scale and that this kind of perception that justice might not be a problem or even that it's perhaps wealthy homeowners living close to the coast that are facing the impacts of climate change and coastal hazards doesn't really hold true. And then after establishing this national baseline and realizing that justice issues are this more systemic problem in relation to flood hazards,
+
+00:05:00
+I wanted to move on to understanding how the adaptation measures that we implement can also have justice implications. And that required shifting to a more local scale and looking into a different pillar of justice. So this time it was recognitional justice. So to do that I developed an ethnographic fieldwork protocol and conducted participant observations and informal interviews together with a lot of colleagues from regions for climate
+
+00:05:30
+with users of a specific nature-based solution, Kirbe Beach Park, which I'm sure a lot of you are familiar with a large recreational nature area that also acts as a cultural protection measure just south of here. And so the goal with this was to try to understand whose values and visions have been embedded into this area and whose priorities it served. And this analysis was really coming out of a recognition that nature-based solutions are gaining popularity,
+
+00:06:00
+but they're increasingly being framed as these win-win solutions that can provide adaptation function and they can provide social benefits and ecological benefits. And there's less kind of critical attention, but we do see some critical scholarship on nature-based solutions that points to overlooked justice risks. So that was really what I wanted to investigate here. And to do that I was framing nature-based solutions as welfare landscapes or spaces where welfare values are physically kind of embedded into space due to the design planning of the area,
+
+00:06:30
+leading to a situation of either recognition of diverse values and plural voices if processes are kind of co-created and if plural values are embedded into the space, or a situation of misrecognition or recognition of injustice if selective values are kind of landscaped into that area. And I won't go too much into kind of what we found, but we basically found recognition of justice challenges in relation to three themes.
+
+00:07:00
+We found safety issues, so a lot of people have feelings of unsafety regarding using this area, especially women, which is maybe not a surprising finding, but something that also points the need to look further into aspects like gender in NBS planning. We found accessibility challenges as well, so a lot of people, especially people with handicaps or elderly or people with limited mobility, have difficulty accessing this area and moving around within it. And these challenges are linked specifically to the design philosophy that was kind of built into this area when it was built back in the 1970s.
+
+00:07:30
+We also see competing claims to the area as a space for wild nature versus more recreational and community life, which just illustrates that in the future of this area there's a lot of competing claims to kind of navigate as a planner that could lead to exclusion of different groups if these aren't kind of taken quite seriously and navigated in a plural perspective. Maybe just one final note on this.
+
+00:08:00
+This area was developed back, like I said, in the 1970s under a very strong social-democratic planning paradigm. So I think it's quite interesting that we find injustice or justice challenges in this type of area that was built under a kind of planning system that did take into account social access and equality and things like that. So this also points to the fact that today when we see nature-based solutions being implemented in a much more neoliberalized planning system, where projects are often more profit-driven and driven by a kind of growth logic, we might see increasing justice challenges.
+
+00:08:30
+So that's something that's quite important to look into in the future. And then finally in connection with that local analysis of recognitional justice, the last part of the PhD project was to investigate how we could support more procedurally just co-creation processes. So for example, if we would try to embed more plural values into a place like Kirbe Beach Park, how can we do that?
+
+00:09:00
+And this study was really coming out of a recognition that traditional participatory planning or citizen engagement methods are often quite exclusionary. And if we talk about citizen meetings or something like that, there's only certain groups that show up. It's difficult for certain people to access these spaces and even if they do show up, it's often the same voices that are heard over and over again. And so we actually talked with municipalities in the local area around Kirbe Beach Park and found out that this is also the case there.
+
+00:09:30
+They have difficulty including a lot of different groups that could be youth or families with young children that could also be people that don't speak Danish. They found that when they do citizen engagement processes, it's men over 65 that show up essentially. So this analysis was really trying to look at how we could look beyond that, and if there's alternative forms for citizen engagement we could use to get more people in the room and to kind of get people thinking outside the box and increase procedural justice measures.
+
+00:10:00
+And arts based methods or kind of creative approaches is something that's gaining traction in a lot of the kind of sustainability transformations literature as something that can help with this, it can help people relate in a different way and think in terms of more innovative solutions. And so that was something that we tested here. We did a couple of workshops that produced these collages you can see here, which is envisioning the future of Kirbe Beach Park and what people would like for the future essentially.
+
+00:10:30
+And we found that these are a promising alternative for supporting just co-creation. They still have their challenges you could say, but they did perform quite well according to a lot of indicators of procedural justice that we kind of tested this process on. So that was also something that showed that perhaps we should be looking in a little bit of a different alternative or more creative direction in terms of supporting justice. And so if we think about the key takeaways of this project in relation to kind of justice challenges across these justice pillars that I've talked about,
+
+00:11:00
+we see distributive injustice at a national scale, we see problems of recognition justice in local NBS projects, and then we see this uneven representation of certain groups in citizen engagement. And I just want to in the last couple of minutes here talk through a few key recommendations for practice that I kind of developed through this project. And because this was an industrial PhD that I was carrying out with the Danish Coastal Authority, these recommendations are very much targeted to them and to a national scale.
+
+00:11:30
+But I also hope that maybe it can start a conversation about how those could also be translated at local levels and for different types of actors. But in relation to distributive justice, I would say it's important that we find a way to integrate distributive justice assessments in national risk assessments and provide then municipalities with this local data on distributive justice. And that could be a way to help us understand these challenges of who's facing the burden of flood events.
+
+00:12:00
+For example, very early on in the planning process to avoid some of the distributive injustices we see today. In relation to recognition justice, there's a clear need for more socially oriented monitoring evaluation and learning frameworks for adaptation projects. So there's a clear need to kind of evaluate the justice implications of projects throughout the design, throughout the planning, but also throughout project lifetimes, so that we avoid misrecognition of certain social groups like we see in Kirbe Beach Park today.
+
+00:12:30
+In relation to procedural justice, it could be quite helpful to also from a national level planning perspective, provide municipalities with more approaches to ensuring justice and participatory engagement processes and also discuss with municipalities and get local knowledge on what's already going on on the ground to develop some kind of comprehensive framework or guidance for how we could work with procedural justice in citizen engagement
+
+00:13:00
+and perhaps how we could work towards more creative or alternative methods for doing this in a way that's more inclusive. I also just want to note here that these are some kind of specific recommendations on what could be done in relation to specific indicators or analyses, but justice is also not something that we can measure through one single analysis. It's a really complex concept, it has a lot of different facets, and it really needs to be strategically integrated into planning as well.
+
+00:13:30
+Not just at a project level, not just at a risk assessment scale, but also from a more kind of political perspective. So I think that's also something we need to be looking to. For example, could we develop a national strategy for just adaptation? Could we think about how we can push for integrating justice into the revision of national adaptation plans, perhaps climate passings plan in place, and any forthcoming legislative changes as well so that justice is really kind of institutionalized in planning. Det er always the top shelf people who have the questions.
+
+00:14:00
+I just wanted to ask you, you're telling about this way you're looking into bringing people into the process.
+
+00:14:30
+Do you think it's special for climate change adaptation, or could it be for anything of planning? Ja, I think that's a good point that it doesn't have to be specifically for climate change adaptation planning, and maybe some of these engagement processes should also be thought of in a little bit more of a holistic way, where we integrate urban planning initiatives or other types of planning and climate change adaptation,
+
+00:15:00
+and then also develop the kind of facilitation capacities to do that in an inclusive way across different sectors. Right, because also we have a lot of knowledge around that from spaces outside of climate change adaptation planning. So there's no need to kind of start from scratch in that way. Ja, one. Thanks, Mia, it was interesting.
+
+00:15:30
+So we have two issues. One is that we give out nature-based solutions for free, so that the people that live next to them get a benefit that they don't pay for. And then we have the other one that we placed in the wrong places. Which one is the biggest issue, would you say? Giving out nature-based solutions for free. I mean, basically what we do is that we give a nature-based solution to an area. We saw Copenhagen, the house prices in the neighboring towns or houses go up by a million.
+
+00:16:00
+So the people that live there, they get a million for free by the municipality, which creates an inequality in itself. Is that a bigger problem than what you're suggesting is that we are not caring about the ones who are actually left behind? I don't know that I would frame it as people getting a million for free. I think that my perspective might be a little bit more critical, because yes, of course, if we implement greening or nature-based solutions in an area,
+
+00:16:30
+house prices might increase, as you say, right? And some people might benefit from that, but the cost of living will also increase. And that's one of the big problems we see with nature-based solutions, is that that then leads to this type of green gentrification or climate gentrification, where certain groups get pushed out, right? So I think being aware of those different dynamics in terms of who wins and who loses when we implement these solutions is really the thing that we need to be looking at.
+
+00:17:00
+Thanks Mia, and thanks to the audience member who just asked this question, because it's actually a really nice transition to my presentation. My name is Natalie Gulsrud, and I'm an associate professor here at the University of Copenhagen and Landscape Architecture Planning and Society. And today I'm going to present some of the work that I've done together with Oriolo Garcia and Tunis, Anton Olofsson and Marina Bagniensen, working on climate resilience and ecological segregation.
+
+00:17:30
+So when you speak about gentrification, you're actually speaking to segregation, which happens before gentrification occurs. And oftentimes when we think about segregation, we focus on socio-economic aspects. Here we're going to be thinking about also the link to ecological aspects. So key ticket takeaways here, and I'm going to be covering a lot of ground. So maybe you won't catch everything, maybe I won't be good enough at explaining it at all. But here just following along Mia's presentation, I'd like to suggest that climate adaptation can reproduce inequality,
+
+00:18:00
+even in welfare states, so kind of a similar point of interest or departure. And here we see in our study that disproportionate burdens can fall on not-for-profit housing residents, or in a Danish context oftentimes the group who is sort of the most marginalized in society. And what we focus on, and this is maybe the newest takeaway for this conference, is that we point at something called technomanagerial governance.
+
+00:18:30
+So the fact that we have these kind of one-size-fits-all solutions and that this is sort of the source of the issue here, not market forces going back to your question. So it's how we finance things, how we allocate things, how we govern things here. And where you live shapes this cost distribution. So this is about a term that we call housing tenure. For those of you who work with socio-economic analysis, you might be familiar with this term. Housing tenure relates to how we live. Is it IOPOLY, or full-app ownership?
+
+00:19:00
+Is it private rental? Is it Andale or collective? Or is it not-for-profit housing? Okay, that's housing tenure in Denmark. And what our project here reveals is a critical institutional gap in how we actually realize or achieve just climate resilience. This paper or this project is now published in press in a paper for PNAS. And this research links back to a couple of projects, the Green Storm Project,
+
+00:19:30
+together with Marina, also Marina's Upscolar Project, but also a project funded by Nordforsk called Smarter Greener Cities and a fourth project funded by the Finnish Academy, Co-Carbon. So when we talk about climate adaptation and inequity, as many of you have covered here today, we oftentimes have an international focus. And we know that climate adaptation oftentimes links to socio-economic vulnerability. And here in the North American context where a lot of literature is focused,
+
+00:20:00
+we look at how segregation, gentrification, and goods or bads associated with climate adaptation are linked together. Yet in the literature there's a disproportionate focus on market forces. And when we're looking at the welfare context, we actually need to look beyond market forces, where we have a lot of different kind of collective solutions, so to say, that are ruled by governance and not necessarily by market.
+
+00:20:30
+So here we identify the gap in the literature about how we actually start to conceptualize justice, inequity, and even resilience in a political economy context. So many of the literature is also, many people who are writing about this are asking for examples outside of the North American market-based context, or beyond kind of a marginalized global south context. And here we wanted to jump into a Danish context, and specifically Copenhagen, because Analarca, as you pointed out,
+
+00:21:00
+we're doing such great work. I mean, there's a lot of really exciting projects, there's a lot of award-winning investments, and really great things that we can think about. Yet at the same time, there's also inequitable outcomes that are being produced. Now, what are these inequitable outcomes, and how are they actually occurring? Well, that was sort of the driving question that we wanted to think about, and we started thinking about how not only these public projects
+
+00:21:30
+are part of the Climate Adaptation Plan in Copenhagen, but the second leg of the Climate Adaptation Plan focuses on mandates. So people who live close by to the cloudburst tunnels are mandated by HOFOR in the municipality to pay for separating the rainwater from the sewer and sending it instead into these new tunnels. That's all good if you own your own home. You have some money to loan from the bank. What does it look like, however, if you live as a renter, or specifically in a not-for-profit housing area,
+
+00:22:00
+where those costs are then passed on to you, but you might not see a win? So here we started thinking about who actually pays for climate adaptation. So we start out by looking, as Anna Lagas showed to us, where do we live in the city, what kind of housing is situated where, and how does that then relate to certain aspects, goods or bads associated with green space, for example. So in the North American literature, we oftentimes see that, you know, those who are most marginalized have the worst access to green spaces.
+
+00:22:30
+That's absolutely not the case here in Copenhagen. Equal access, right? But what we do see is that not-for-profit housing, and specifically marginalized housing, is clustered. And we already saw a really nice map of that. And what we then also can see is that not-for-profit housing is predominantly in a Copenhagen context multi-story and even located strategically by these cloudburst tunnels. You know, we don't know exactly why this is,
+
+00:23:00
+but a future question might be, you know, these low-lying areas where not-for-profit housing areas were placed to have more access to transport and also green spaces could then also be in closer proximity to areas where we need to drive through cloudburst tunnels. But this is what our GIS analysis looked like using the neighborhood atlas data that Anna Largo was also showing us. Now we've also used a case study, which I would suggest is a bit extreme. We have a not-for-profit housing area here in Copenhagen
+
+00:23:30
+called Hergorn, you could also see it on the map. It was pointed out in 2018 as a ghetto area or a parallel society using the current language and has since become sort of a development area, which is on the watch list, meaning that there's been a lot of interventions. Hergorn has both received money from Landsberger Fund, through the municipality, through Almalofenuse, but also through other local planning mechanisms to kind of open up the area and to do a lot of
+
+00:24:00
+what we would call social care work and investment. And this has all been incredibly successful, very well orchestrated, and really with focus on justice, with recognition, representation, and what we would conceptualize is kind of an epic of care. Yet on the other hand, there has been a push from the municipality to mandate that the sewer system gets not only redone because it was leaky, but that also residents pay for this disconnect
+
+00:24:30
+from the sewer system for rainwater to be sent into the cloudburst tunnel. And this was not something that anybody could vote against. It was just something that had to happen. So what are the findings associated with this? Well, one, we want to look at the uneven financing structure. So going back to sort of my question in the first part and what we saw in the presentations, when we talk about financing, we oftentimes talk about collective financing. So what our taxpayer money is working towards
+
+00:25:00
+for larger public projects. But what do our individual payments actually do? And here we take kind of a fictive example where we look at what happens if you live in a multi-story building and what happens if you live in a single house, right? How do we pay for climate adaptation? That happens through our water fees, right? Water fees are actually disproportionately higher for those of us who live in multi-story. And you could say, okay, 97% of housing stock in Copenhagen is multi-story.
+
+00:25:30
+So maybe that doesn't really matter. Yet, if you look at how this then burden could be passed on to multi-story residents in marginalized housing areas, we start to see that there is a skewed kind of pattern. So what we show here is water fees, which both cover the amount of water you consume but also the amount of wastewater that you send out. This could also be rainwater and how that then is calculated based on a multi-story residence and based on a single family home.
+
+00:26:00
+And here the common factor is roof size, right? It's not property size, it's roof size. So if we live in a six-story building, there's six families paying for water consumption and they're paying for that roof size. There's a disproportionate burden placed on the single family that's paying for the same roof size who has a much larger sort of property, right? So universal pricing systems here produce unequal outcomes.
+
+00:26:30
+The second one is mandated costs. Residents are required to separate the stormwater from sewage as part of climate adaptation in Copenhagen. And this hits both single family homes and it also hits those of us who maybe don't have, you know, a line of equity, right? Because we don't own our property. So in Hergorn, this has then led to rent increases of about 17 to 29 percent because if you understand the financing mechanisms of not-for-profit housing, residents do not pay rent based on market values.
+
+00:27:00
+They're paying rent based on maintenance costs. So after you redo the whole foundation of your building and then, you know, separate your rainwater from the sewer and send that into a cloudburst pipe, that is a significant cost being passed on to residents. Of this 17 to 29 percent increase, 22 percent of that is related directly to the stormwater separation. And these costs are imposed regardless of residents' income.
+
+00:27:30
+So here we see a direct sort of paradox between the social investments that we see the municipality doing and then the costs that are being sent on to residents. So here the people with the least resources are being asked to pay a larger share. Now, our third finding is the spatial inequity. So I already talked about this, but we could see that not-for-profit housing is located closer to climate adaptation infrastructure and this is based on a GIS analysis. Which means that these areas are more likely to be subject to these mandates.
+
+00:28:00
+Now we know that the climate adaptation plan is changing in 27, but what we can understand is that most of these projects will be pushed through to 32. So it will be kind of curious to follow this and see, does it hit beyond her gorn? Do we see more of these examples? And I know that Lena Barford and others are very aware of this and are trying to come up with new solutions, but it's still a structural inequity that's in place. So the inequity here is not just financial,
+
+00:28:30
+but it's also spatial and ecological. And this reflects potentially how historical planning decisions intersect with contemporary climate policies to produce layered spatial and financial inequities. So what is this techno-managerialism that I sort of forfronted at the beginning? Well, there's many writing about this, also within the kind of analysis around power in Makt Udallism, right? So these scholars from CBS and KU Political Science have thought a lot about this.
+
+00:29:00
+But this idea that technocracy is kind of the way forward, that the elite decide how decisions are sort of understood in terms of problems and the scope of a solution. And techno-managerialism points at the fact that it's increasingly popular to have kind of one-size-fits-all approaches. Here we have technical efficiency and focus, going back to definitions of justice. Within a techno-managerial regime, justice is actually sewer capacity and not necessarily whether somebody has the means to pay for this increase in the rent or not.
+
+00:29:30
+Right? So we see a disconnect between the technocratic and the social or ecological spheres. But it's also about regulatory compliance. And because social equity is overlooked, it produces unequal outcomes outside of market mechanisms. And I think this is the really, what we consider to be our novel finding in this paper, is that the gentrification literature focuses disproportionately on market forces and not necessarily on the way in which we work with things in a welfare regime.
+
+00:30:00
+And this is something that I would encourage all of you to think a little bit more about because it's a fun discussion and important. So here we see the ecological segregation. The inequity can be reproduced through bureaucratic and infrastructural systems. And I think for those of us who are interested in not-for-profit housing, this has been kind of a big moment over the last six years, thinking about what the Parallel Society Act is doing and continues to do
+
+00:30:30
+in terms of reproducing bureaucratic inequity. But here we also see that even equitable systems where a lot of focus on equity can still reinforce social hierarchies. And I think you also made this point. Yes, thank you. You also made this point. I see here we really need to think about the better integration of social and technical governance and what this means for more equitable pathways to urban climate resilience. And I'll just round off by saying I'm not the only one thinking about this.
+
+00:31:00
+This idea of class, climate, taxes, burdens, finances of course was a huge sort of topic under the national election but is something that's sort of at the heart of this discussion. So in order to really interrogate this I would suggest that we all start taking on the glasses of political economy. Ola, you did this a bit, but it's a really important aspect to think about financing, how we sort of understand financing and if we potentially could move towards a more nuanced holistic approach to understanding social, ecological and technological impacts of the way in which we finance tax
+
+00:31:30
+and collectively share this burden. Thank you so much. Good afternoon everyone. I am Patience. I am also in the same department as Natalie. It is a very long name section and Mark and everybody else. And I will take up actually where most of my colleagues have also touched upon but take you more to a global self context.
+
+00:32:00
+And I titled my presentation Disruptive Healing because we've been working on, we've worked on one paper which is published but we have another paper that we're working on that is on healing. The first one is on scaling deep. The second one is on if and how nature-based solutions could facilitate healing in contexts where that have been shaped by inequality and continue to be shaped by inequality.
+
+00:32:30
+And my overriding question or focus is how can urban NPS contribute to healing and justice in post-colonial contexts that have been shaped and continue to be shaped by inequality. And like everybody else, I also concentrate on nature-based solutions. But from a global south perspective, nature-based solutions are seen within the political ecologies field as a traveling frame, so a global idea on how to approach climate adaptation in cities
+
+00:33:00
+that has traveled to different contexts, getting a lot of money in coming in from the World Bank, multilateral organizations. But also within southern African states as well looking at, and I think Maya, you called it like it's, they're framed as a win-win. Most of the time nature-based solutions will address adaptation. They can also address mitigation and they come with multiple benefits.
+
+00:33:30
+At least that's the narrative. And within that context, the city of Cape Town, which was our case city, is one of the star kids. I think along with the city of Copenhagen in terms of being regarded as a climate action frontrunner. It features quite a lot on these international climate action networks, ECLA C40, the 100 Resilient Cities when it was still going on.
+
+00:34:00
+And unlike many African cities, it's a city with the very dynamic policy landscape. So the city is quite responsive to the pressures that it's facing from climate change and such. And its approach to nature-based solutions as a climate adaptation pathway has been to experiment with nature-based solutions, working on it as climate governance by experimentation. So project, coming up with projects that try and address flooding, heat, drought within the city.
+
+00:34:30
+But these are propulsive climate action programs, which are driven by the city. And in connection to what you said, Natalie, this is very big framing of climate action. So coming almost from a top-down perspective, the city drives a lot of the action. And as you can see, it has won several awards, including the C40 cities as an award for adaptation implementation.
+
+00:35:00
+But it's not a city without problems, like all cities, really. Cape Town is the post-colonial mother city of South Africa. It's the first area where the Dutch settled in the 1600s. And it's a very diverse, extremely complex post-apartheid city with the history of inequity and segregation, like everybody knows. And this is by design due to apartheid-era laws.
+
+00:35:30
+And a lot of South African scholars regard the dynamics that came from segregated planning as giving deep difference. So these are cities of deep inequity, which they call deep difference, and multiple rationalities at play. But unlike many African cities, it's a city that has robust urban governance structures. It's relatively well resourced, so it's not a poor city. Even though it has deficits, infrastructure deficits, 22% of the city lives in informal settlements.
+
+00:36:00
+There's deficits in water, sanitation, hygiene, infrastructure and housing infrastructure. And it is undergoing rapid urbanisation like many global South cities. It is also facing accelerating climate impacts, so the drought, the day zero phenomenon, from 2015 to 2018, flooding, biodiversity loss is also another key aspect.
+
+00:36:30
+As part of its climate action, the city has put forward many strategies. One being the city's water strategy at the end of the drought. In 2019 the city came up with an urban water, a city in Cape Town water strategy, and which explicitly puts forward the vision that the city wants to become water sensitive through nature-based solutions. And as part of the strategy, the city wants to make better use of its stormwater as a resource for recharging its aquifers.
+
+00:37:00
+And these aquifers by extension will then be able to be used to augment water supply in case of future droughts. But as we know, nature-based solutions are not that straightforward. And maybe this picture is not very correct either. They don't sound like they are very straightforward in the developed world either, when I hear Mia and Natalie's presentations.
+
+00:37:30
+But in the global South even more, they are less straightforward there. And this comes because global South cities are quite complex. So our paper talks about them as sites of colonial wounds and ongoing trauma. So as you can see on the urban landscape you have a clear manifestation of the inequalities and the legacies of colonialism. This inbuilt justice deficit as Watson calls it.
+
+00:38:00
+And to understand climate action and what is possible with climate action, we have to understand an account for how this justice deficit was created. So our paper takes a departure point from taking a decolonial perspective to try and understand the possibilities for nature-based solutions in Cape Town. And we are not the only ones to talk about this. Increasingly from the 2022 onwards we are getting more papers coming out about the dark side of nature-based solutions,
+
+00:38:30
+at least as a traveling frame to the global South. On the one hand we have Opanga writing from Kenya talking about the disconnect between the aspirations for green urbanism through nature-based solutions that you have at city scale. And the realities on the ground if your city like Nairobi is 65% informal settlements.
+
+00:39:00
+We also have a lot of work being done by Buckley, Rochelle and others, who also account for the resistance that we are increasingly getting to nature-based solutions in global South cities. So our project is called the Pathways to Water Resilience at African Cities project, which is summarised as pause. Our hypothesis was that the city of Cape Town has 850 ponds, at least 850 monofunctional stormwater ponds.
+
+00:39:30
+And this is part of its stormwater drainage infrastructure. Our hypothesis was that if we could retrofit one stormwater pond to harvest stormwater and recharge the Cape Flats aquifer, we could also reap the benefits of biodiversity, water quality, improvement and amenity benefits And if we were successful in demonstrating that, then this approach could be scaled out or up to not all the 850 other ponds,
+
+00:40:00
+but were relevant around the city. And we chose a site in Mitchell's Plain. Mitchell's Plain is one of the more marginalised areas in Cape Town. It's an area where the Cape coloured community was moved in the 1960s and 70s, by the apartheid government from the city centre to Mitchell's Plain to make way for white development in the city centre.
+
+00:40:30
+So it's an area where there's a lot of distrust of the city, where there's a lot of fear of dispossession and anxiety about dispossession. But one of the neighbourhoods there along Fulham Road has a stormwater pond that after looking at several criteria, we found to be relevant for a physical experiment at least. And our experiment had to be pretty low-tech, something that the city could replicate but also other stakeholders like NGOs could replicate.
+
+00:41:00
+We put in some rip wraps into a stormwater and also an infiltration soil to slow down the stormwater and keep it back from the drainage system for 48 hours and then slowly release it. By doing that, we managed to create a swampy area within the middle of that pond. The pond is functional today, but as we tried to create the pond, we faced a lot of resistance from the local community along Fulham Road.
+
+00:41:30
+Before we could drill our monitoring boreholes, we had some residents coming in and saying we don't want outsiders here. As researchers, we had tried to do our town halls to attend to the more social side of experimentation. But that hadn't been enough. The community came forward and said we want more out of this.
+
+00:42:00
+You cannot come and deal with our pond without us also understanding what is going on, but also benefiting from it. So we had to change tech mid-projekt and move forward beyond the physical retrofit. So we decided to scale deep. Even though our hypothesis was about scaling up or scaling out, once we demonstrated that the concept works, we had to rethink this
+
+00:42:30
+and think about scaling deep concurrently in a process that first of all sought to enhance ecological literacy. So many people in these communities don't really know what these ponds are for. These are just dead spaces, which people are very anxious to protect from informal settlements, but they are also unsafe. And there was a lot of anxiety for these communities. We had an arts-based processes while mural painting trying to inform the community about the function of the pond.
+
+00:43:00
+We also had comic strips and the making of comic strips. We made biodiversity garden to teach local children about and other community members about the different plants that grow in the pond. In short, what was scaling deep about, in our paper we talked about centering resistance.
+
+00:43:30
+Instead of trying to avoid resistance or looking for consensus, participation approaches that look for consensus, perhaps a more just approach in the context of deep difference is to center the resistance itself and the refusal that you may meet in communities. We need to address long-standing anxieties about dispossession. But that also means that the whole idea of these climate action projects then is much slower.
+
+00:44:00
+And how we monitor and evaluate the success of these projects is also up for conversation. These are our two papers. We talk about a decolonial approach to nature-based solutions that acknowledges the wounds and trauma that is inscribed into southern landscapes. And lastly, what about NBS is a disruptive healing mode of urban governance?
+
+00:44:30
+So first of all, it's about taking into account the territorial wounds that are found in urban landscapes in the south. And although nature-based solutions are said to have a collaborative imperative, this may mean that we use nature-based solutions to disrupt the existing relations between people, nature and infrastructure. And how these fall is up to us and how we design our projects. We could either, it could be green gentrification or it could be a moment for scaling deep and trying to understand
+
+00:45:00
+how NBS can be mediated by unresolved spatial, communal and temporal wounds. And it is also about restoring the right relations. So whilst a lot of approaches to nature-based solutions look at them as a socio-ecological systems approach, we talk about socio-ecological relations as the key to getting to more just outcomes through nature-based solutions. And we end with a question about how would this approach be relevant to other areas' context beyond the global south.
+
+00:45:30
+Thank you. Can we have one question for the patients? Yeah, thank you. I think this point about centering resistance is very interesting and something that I've been thinking about as well.
+
+00:46:00
+I don't know if you're familiar with the idea of agonism or kind of seeing conflict as a productive force. But that's been something I've been thinking about a lot lately and I'm wondering if you have any tips or kind of reflections on how you actually start to do that in practice. Yeah. Yeah. Thanks for that. I think, yes, agonism is what we look at, that it needs to be productive.
+
+00:46:30
+So conflict, yes, we need to surface that and try and get it productive. But I think our approach is also to account for the failures that can happen. So it won't always be successful. I think that's one conclusion that we came to. And you are opening yourself up more to failure as well. But that also speaks to how we evaluate these projects, both as research projects, but also climate action projects.
+
+00:47:00
+If relations become better between the city and locals, that is a win. At least that's how we see it in that sense. I think that also means that it's a very slow negotiated and of course contested process. We should move on to our final speaker. So thank you very much, patients. Yes, hello. My name is Rico. I'm from these Danish Institute for International Studies.
+
+00:47:30
+I'm in the Global Development and Green Transitions Unit. I'm going to talk about resilience from the edges climate adaptation in small Nordic communities. This is part of a larger project where there was tid to climate change resilience in small communities in the Nordic countries. And there was a group of people with me, 17 researchers in total, six institutes across the Nordic countries. So what we were interested in, how is climate change affecting the Nordic countries.
+
+00:48:00
+We were not hearing much about it when we put in this proposal. We were mainly hearing about how it's affecting the global south. But we thought maybe people would drive differently or buy different cars and eat differently if they also heard that this was also affecting the Nordic countries. So we looked into climate related hazards that were coming to us in the Nordic countries. And we found eight of them. And we were mainly looking at small remote communities.
+
+00:48:30
+So it's many communities that will not have a lot of assistance, at least not to start with. And have to be helping themselves in a way. So we were looking into storm surge sample. We are flooding in Denmark, wildfires and temperature extremes in Sweden. And landslides and flash floods in Norway and avalances in Iceland. And then storms in the Netherlands, which is the case I'm going to talk about today.
+
+00:49:00
+There's a lot of papers and a lot of information on the website and so on, if you're more interested in some of the other cases. But beyond being the PI of this project, I also had the case in the Faroe Islands. That's why I'm talking about this. So to start with, we are talking about, we wanted to analyze this from perspective of a place attachment in a way that people are attached to a place. And that's, can we maybe use that in regard to adapting to climate change and the different hazards that we are dealing with here.
+
+00:49:30
+But yeah, as you know, people have normally gradually adapted to change in a way. How we see many of the climate related hazards that we are talking about here, some of them will come much quicker and we cannot adapt gradually. And so that might be not enough for them. And that's also the issue in the Faroe Islands, where we expect to see a huge change in intensity and maybe also in frequency.
+
+00:50:00
+So we focused in this paper on the Northern Islands and looking into the communities of Ridaire and Kvarnasund. And it is places that are quite remote, so you have to go through tunnels. And some of them are not accessible during storms. Places where people don't like to drive if it's storms, so they have to be quite on their own. So they have to deal with the consequences of the storm themselves.
+
+00:50:30
+Also storms over the whole Faroe Islands at the same time. So there's a lot of other places that will need assistance at the same time. So they will have to take care of the circumstances themselves. As you know, the Faroe Islands are in the middle of the Atlantic Ocean. And there's a lot of these depressions coming by. So that's a physiological term for bad weather or storms that are moving.
+
+00:51:00
+And especially in the autumn months, but also during the winter. Climate change, as I said, is expected to worsen this trend, especially the intensity of the storms. Storms are not just coming on a regular basis. There are coming a lot of them, but they are, as you can see on the graph here at the right. You have periods with not that many storms, and you have periods with both severe and many storms. So in the 60s, not many storms, people started building in different ways.
+
+00:51:30
+De started to build cheaper and also in locations that did not used to have their houses. In the late 80s, start 90s, a lot of severe storms blew a lot of these houses into the oceans. This is both a sad story, but it's also a good story, because now, today, many of the houses are really fit for the storms, at least the storms that we will see right now.
+
+00:52:00
+Der's also another paper we published only on the storm frequency and intensity, if you want to look into that as well. So that's also quite interesting. Here's an example, 2019, quite severe gusts, which we don't experience in Denmark. So this is quite devastating and really destroyable. And you can see it's really hard to operate both at sea, have to get out. Maybe there's some fishermen you have to assist.
+
+00:52:30
+And you can see also in the harbor here, a lot of the destroyed in the harbor. 97% of the export from the fire lines is fish. So at destroyed harbor is of course not good for business. Metrologically or method wise, we were doing interviews and both key informants and villagers. And we also had workshops with them and also had crisis management exercises together with them.
+
+00:53:00
+As said, the theoretical part is based on place attachment. So if you attach to place, you know the place and thereby can use that in regard to hazard. But it can also be a negative in a way that you may be too confident that you can always go out in a way. Der was a woman telling me, I'm only staying in if it's above 50 meters per second.
+
+00:53:30
+And her husband was of course laughing because it was always already too much in a way. So yeah, so that's what we use for looking into how are these attached to a place. I can say from here, people in these two villages have been living there for a long time. Many of the other papers we have for many other cases, there's a lot of tourists. People have not been living there so long and so on.
+
+00:54:00
+So there's other cases as well, but here they had been living for a long time. And many had a very strong place attachment. You see some of the things here that people are doing. So very small adaptation things. You can see the window with these four handles, which is quite unusual. Normal there's one or two handles on this window. You don't want to have the window taken out of the house. It can suck out of the house. You can also see if you're looking at the two houses at the back, there's no windows on the sides.
+
+00:54:30
+So there's only windows on certain sides of the houses. It's also something that people they really know something about. You can see the caravan is secure both on this side, but it's also on the other side. You can see the trampoline secured with these water bottles. And you can also see the garbage cans as well. So a very important task for the fire chief is to go around the villages and see if there's any loose objects lying around.
+
+00:55:00
+Loose objects are flying around in the air during the storm. And they will go through the windows. And when you go through the windows, you have a change in the pressure system in the house. And they will lift the roof off the house, which is of course not the best thing. Findings, where we're very short, you can get all the details of course in the papers. But there was a lot of very strong presence of the social aspect. Both before people were really talking about the storm coming, what to do.
+
+00:55:30
+So they haven't used interaction with each other during the storm. They are gathering, so if their husbands are way sailing and so on. So their families are gathering the women and the children in certain houses, in certain basements and so on. Also after the storms, they cope mentally with it by gathering again. So this is a very strong aspect in regard to adapting to these storms and dealing with them.
+
+00:56:00
+Physical aspects, there's no people in these villages that don't know where the good houses are placed and the bad houses are placed. The school in Kranazon is really malplaced. The roof has been taken off the school three times now. There are very safe places, there are very unsafe places to be. So they are very attached to the place and know their area in a way. The final thing here, or the final aspect is the functional aspect. That is something that is really changing in the Netherlands.
+
+00:56:30
+There is a transformation from using the nature for exploitation, survival and subsistence. More to in a recreational purposes. So they are really as us and as in many countries getting detached from the land, you can say that. So the main conclusions are that the studies show that the communities are impacted by storms. But also previous experiences with storms have led to improved adaptation level,
+
+00:57:00
+which today enable them to cope with severe storms. So this high frequency of storms is actually a good thing for them, because it's coming again and again. Compared for instance to the storm flooding here in Denmark, which is quite rare. And if we are looking back on the October storm some years ago, we had to go 150 years back to the most severe one. So the attachment, they have to where they live, assist them in coping with future storms.
+
+00:57:30
+All through it can also be an hindrance in the implementation of necessary adaptation and preparedness measures. Since they presume they are already safe, many of the people here think their houses are well built and they are so safe. So the big question of course in regards to the intensity of future storms that are impacted by climate change, er they really ready for this? Final slide in regards to the project here.
+
+00:58:00
+22 papers out. So if you are interested in some of the specific cases, you can look into that. But there are also some cross case papers that are looking through across many of the cases here. And we have policy briefs as well. There is a website. There is a documentary that is based on four of the cases here. Maybe some of you have seen it. I will show the trailer in a second. So it's running in 35 cinemas across Denmark right now, this documentary.
+
+00:58:30
+Just a small commercial we have moved on. So we are now looking into a project where we cannot really adapt anymore. So now we know we are losing something. So this is based on the loss and damage concept. But we are looking into all the non-economic losses that will happen, especially across the Arctic. So we have nine different cases across the Arctic region in all the countries except Russia.
+
+00:59:00
+And you can see the nice phases of the people I am working with and that project and also their affiliations. Yeah, is there a question for Rico? Or you can think, er we up Natalie? Thanks Rico. You are paper focused on the Faroe Islands, but did you see a distinction between kind of awareness or concern or maybe emotions, especially if we are thinking about sense of place across countries?
+
+00:59:30
+Or was there kind of a common denominator that you could sum up? No, people are really disagreeing across the, and I think it also depends on the different hazards. Some of them are quite rapid moving in a way, for instance the landsides in Norway and so on. Or they really have to do something. And also the avalances in Iceland already relocating communities where the storms is something we are used to it.
+
+01:00:00
+And they, as I said, they are very used to this in regard to also they think they can handle it. And they have also built for it right now. So I think it really depends on the speed of the hazards that we are looking into, how they see it, how they can adapt in a way. Because many of them are so, you might know in a week before, and then you have the chance to move away compared to the landside and avalances. You don't know that, so it can happen very quickly. Thank you.

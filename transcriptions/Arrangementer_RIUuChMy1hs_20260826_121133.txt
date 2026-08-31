@@ -1,0 +1,62 @@
+=== DNNK Webinar Transskription ===
+Kategori: Arrangementer
+Video ID: RIUuChMy1hs
+URL: https://youtube.com/watch?v=RIUuChMy1hs
+Kilde: lokal transskription (faster-whisper small, dansk)
+Transskriberet: 2026-08-26T12:11:33.357633
+
+==================================================
+
+00:00:00
+Hej, jeg hedder Morten Grum. Jeg kommer fra Watersurf, og jeg skal fortælle om en AI-acceleratede afløbsmodell, hvor man arbejder sammen. Jeg vil starte med at fortælle, de sidste to år, der har den haft et MLB-projekt, hvor vi sammen med DTU og Borkom i Tyskland, har lavet et proof of contact på det, jeg vil tale om i dag.
+
+00:00:30
+Men jeg vil først fortælle, hvorfor jeg står her. Jeg kommer i dag, fordi vi har fået et endnu brugste projekt, og sammen med seks forsøgninger og kommuner, der skal vi udvikle videre på det her produkt, iterativt, og vi søger i dag andre forsøgninger, kommuner, der gerne vil være med til den rejse.
+
+00:01:00
+Vi udvikler iterativt, så vi kører igennem nogle workshops, hvor man anvender værktøret i det sted, som det nu er, og så mødes man igen noget tid senere, efter det er blevet udviklet videre på det, og baseret på de erfaringer, og så kører vi videre på den måde. Problemet er, at hverdenover, den misteres da rigtig meget i regn- og spildevandsinfrastruktur, og det er på grund af klimatilpassning,
+
+00:01:30
+det er på grund af mobilisering, og det er på grund af aldrende infrastruktur. Det kræver rigtig meget samarbejde mellem forskellige interessenter og forskellige eksperter,
+
+00:02:00
+og nutidens planlægningsværktøjer til afløbssystemer, det er både langsamt, klosset, har meget silutankergang, og er slet ikke inkluderende i den grad, som der behov for. Så løsningen er, at vi har en model, som vi kan stå sammen med i et møde, i en workshop, og teste forskellige løsninger, og med det samme se, hvad konsekvensen er for overløb og vand på terejn, hvor meget vand der kommer på terejn.
+
+00:02:30
+Og det er, at man kan teste, for eksempel et bærmjable vej, eller en rockflo, eller nogle grønne bøde, eller kombinationen af mere traditionelle løsninger som grå infrastruktur, og med det samme se, hvad effekten er det.
+
+00:03:00
+Og teknologien bag det er, at man går med et forslag, og så har vi hydrodynamisk simulering, som kører cirka 100 gange på de tilfælde vi har kørt, 100 gange hurtigere end de eksisterende modeller. Og så beregner man, hvor meget vand der kommer på terejn, hvor meget vand der går i overløb, og kan lave ekstremt statssik på det, som man kan køre.
+
+00:03:30
+Se, ja, men hvor ofte sker det, og i hvor store mængder. Den hydrodynamisk modellering med maskinlæringen, den passer rigtig godt med overensk med eksisterende numeriske metoder. Det her er et eksempel med nogle forskellige metoder, og det eneste, vi kan se her, er, at både flå og overløb niveau,
+
+00:04:00
+altså opstugninger omkring huse, det passer rigtig godt med de eksisterende modeller. Så vi skal forestille os, at vi står ved en tavle, eller med hver vores computer, i et teamsmøde, eller nogen ved teamsmøde, nogen i tavle, og ser, okay, hvad hvis vi ændrer effektingsgraden her, og vi sætter nogle vejbede ind her, vi bygger et lidt mindre basering, måske en vi ellers ville have gjort,
+
+00:04:30
+nød ved overløbet, og så ser vi med det samme, okay, hvor meget effekt har det på, hvor meget vand der kommer på terejn, og hvor meget, hvilken effekt har det på overløb, hvor meget der går i overløb, og er det, og er det, er det ind på vores mål, målrammen, og så kan man prøve, i stedet for, at man,
+
+00:05:00
+i stedet for, at man, man sidder ved et møde, og bliver enige om tre scenarier, der skal undersøges, og så går der tre uger, hvor en modeller sidder og kværner nogle tal, og så kommer man tilbage, ah, der har gået en af de der, der er rigtig dure, vi bliver nødt til at finde på noget andet, så kan man her, afprøve måske 16, 20, 30 forskellige forslag, vælge det tog tre ud, som man gerne vil kigge nærmere på, måske med et lidt klassisk modell. På løbet, vi kører nu,
+
+00:05:30
+det er det her enderbygselprojekt, det er et 15 månedt projekt, hvor vi har forvert case, i hver søgning, der har vi tre workshops, en nu her i efterår, og så to næste år, og så har vi selvfølgelig projekt seminarer, hvor vi deler viden med en anden, og det er selvfølgelig det her forløbde ting. Så, hvad skal man sige, det generelle fordel i at arbejde på den her måde,
+
+00:06:00
+det er jo, at man sparer tid, med hurtigere forløb, man har mere tværtagelige involvering, man kommer for ikke en biolog, eller urbane-økolog ind, som lige pludselig siger, nej, ho, det er der, det går ikke, og der har man allerede lavet hele sitt projekt klar, til at blive teget op, og vores forventning, det kan vi selvfølgelig ikke sige nu,
+
+00:06:30
+men vores forventning er også, at det bliver en mere kreativ proces, fordi vi får flere folk involveret løbende i processen, og så større transparent. Og hvad får man ud af konkret, at være med i det her forløb? Jamen det er, at man får med sin case, den bliver gemarbejdet, med det time, man nu sætter op, at, måske tre fra plan, en fra anlæg,
+
+00:07:00
+en fra drift, en fra vejerdeling i kommunen, en fra, og det var klart, og ja, så et tværfarligt team, at de folk, der har en mening om det her, og så får man, man laver selv en slight resume i produktet, og det som det kræver,
+
+00:07:30
+det er, at man har en god case, som gerne skulle være rigtig relevant, at man deltager i det her tre workshops, at man har en eksisterende status-model for afløbsystemet, det kan være både spillemansystem, ramlandsystem, det kan være kombineret af de to, og så, at man inviterer de relevante personer fra kommunen, og eller rådgiver, hvis man bruger dem,
+
+00:08:00
+og så deltager, som man vil, i de her to projektseminarer, og så 140.000, for at være med i det caseforløb. Teamet, teamet er ved at blive udbygget, vi har en på vej, snart, vi er to, vi har en på vej, og vi er ved at høre en fjer. Så, jeg vil bare sige,
+
+00:08:30
+vi har plads til flere, så, tage fat!

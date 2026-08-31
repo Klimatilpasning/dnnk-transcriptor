@@ -38,7 +38,26 @@ THREADS = int(os.environ.get("WHISPER_THREADS", max(4, (os.cpu_count() or 8) - 4
 def hent_lyd(video_id: str, mappe: str) -> Path | None:
     """Hent lyd-only stream. Ingen ffmpeg-postprocessing (whisper læser selv)."""
     out = os.path.join(mappe, f"{video_id}.%(ext)s")
-    cmd = [sys.executable, "-m", "yt_dlp", "-f", "bestaudio[abr<=128]/bestaudio",
+    # De to ekstra argumenter er begge STRENGT nødvendige — uden dem giver
+    # YouTube HTTP 403 på alle lydformater:
+    #
+    #   --js-runtimes node
+    #     Uden en JS-runtime kan yt-dlp ikke løse YouTubes n-challenge
+    #     (nsig-signatur) og falder tilbage til android_vr-klienten, hvis
+    #     GVS-URL'er afvises med 403. Kræver pakken yt-dlp-ejs, der leverer
+    #     selve challenge-solveren (se requirements.txt).
+    #
+    #   player_client=web_embedded
+    #     Klient-matrix målt 26/8-2026: web og mweb → "Video unavailable";
+    #     tv → alt DRM-beskyttet; ios → kræver PO Token; android → SABR-only
+    #     uden URL. Kun web_embedded giver rigtige lyd-URL'er (139/140/251).
+    #
+    # PO Token er derimod IKKE nødvendig: bgutil-provideren blev afprøvet,
+    # genererede et gyldigt token, og downloaden gav stadig 403. Blindspor.
+    cmd = [sys.executable, "-m", "yt_dlp",
+           "--js-runtimes", "node",
+           "--extractor-args", "youtube:player_client=web_embedded",
+           "-f", "bestaudio[abr<=128]/bestaudio",
            "--no-warnings", "--no-playlist", "-o", out,
            f"https://youtube.com/watch?v={video_id}"]
     r = subprocess.run(cmd, capture_output=True, text=True,

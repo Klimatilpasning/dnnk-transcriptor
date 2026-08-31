@@ -1,0 +1,59 @@
+=== DNNK Webinar Transskription ===
+Kategori: Arrangementer
+Video ID: ZVkyCW5IMTU
+URL: https://youtube.com/watch?v=ZVkyCW5IMTU
+Kilde: lokal transskription (faster-whisper small, dansk)
+Transskriberet: 2026-08-26T11:58:54.932593
+
+==================================================
+
+00:00:00
+Tak fordi jeg kunne komme i dag og fortælle omkring, hvad vi går og arbejder med endnu en gang, noget med at sætte lidt data. Men i denne gang går vi lidt mere, og vi går lidt ned i tempo, og vi går lidt mere i dybden, fordi det, vi arbejder med som landstyr, det er jo meget med koordinator. X, Y og Z koordinator. Og det, vi har ekstremt meget fokus på, er Z koordinatorne, altså højde informationer. I vand har den fremragende engelskab kommet ned med lidt tyngde kraft, og det kan finde ud af at leve de steder hen, hvor der er laveste. Og det arbejder vi meget med, og vi har blandt andet udviklet barterfilturer, ligesom den, vi ser nede ved Odensefjord her.
+
+00:00:30
+Så vi leverer både hardware og nogle beregninger og nogle løsninger, som henvender sig til en bred skar af bruger. Alle, der har brug for ordentlig højde informationer, gode højde informationer, det kan være kommuner, det kan være forsynninger, det kan være private virksomheder, havne, alle infrastrukture, ejer, har brug for det rigtige datagrundlag for deres projekter. Og det er noget, vi arbejder med.
+
+00:01:00
+Vi har som sagt taget sætteligt teknologien i brug, og der er ingen batterier her, der alumineres konstruktioner og rene hardware, som står vinklet på den rigtige måde og reflekterer signalet fra sentinelt sættelitterne og holder øje med, hvordan tingene bevæger sig. Og da det tit er inden for prænser, hvor man har noget sætning og noget forvændning om sætning, selv på havneområder, så kan vi altså følge løbende, hvordan sætter tingene sig.
+
+00:01:30
+Og det, vi har gjort, det er, at vi har klamateret nogle nye teknologier i gammel dage, hvor man gik rundt til fodes og målt op fra fikspunkter og brugte forskellige traditionelle opmodelsmetoder. Der tog det lang tid, det var meget dyrt, og derfor undlod man måske nogle gange at følge op på noget opmåling eller monitorering. Og hvis tingene ikke lige frem sådan synes, det gik i stykkerhjemmet, så kunne man jo sige, det går nok. Men vi har introduceret det, vi kalder for et motoriserende element, det er altså en måde at måle højder på,
+
+00:02:00
+så vi kan få et solidt udgangspunkt for, hvordan tingene bevæger sig. Det har vi som, tror vi nok, vi har ikke set noget lignende i Europa, og det gør altså, at man kan få målet nogle højder hurtigere og billigere og bedre end man kan med traditionel metoder. Så det er altså noget med økonomiet at gøre, og ved hjælp af radreflektoren kan man altså få højt bestemt meget præcist på millimeternivå, hvordan noget desætter sig.
+
+00:02:30
+Og det vi har i Danmark og mange andre steder, det er jo en kombination af forskellige udfordringer, der under direkterumstændigheder summer sig op til store uløber. I Danmark har vi noget kortlægning af, hvor der er øde, riske og forsætninger måske kan I se, der er nogle lye så røde områder her. Vi har noget oplift efter istiden, så Norge land stiger op af havet, mens Sønderland går dit modsatte vej, og noget af det, vi har observert, for det vi har arbejdet med tidligere hos nogle af vores kunder,
+
+00:03:00
+det er, at man forsætter lige havneområder, der kan være forsvinde mange centimeter hen over tid, men det går jo over, så det her er slådase, det er på den lang bane, og ved at få mange dage og kigge bagud på, hvordan udviklingen har været, kan man også gå ind og få os i, hvordan det udvikler sig frem over. Og nogle gange, når vi siger, om man har genmålet noget af det infrastruktur, man har, er, at vi har området det ene gang med tre decimaler, og det ser stadig ud som om det ligger, hvor det skal,
+
+00:03:30
+så der sker vel ikke noget, men vi har her længe vidtby der, altså for småne 14 centimeter over en 16-årig periode der, lige ved siden af, er der kun for småne 2 centimeter, så det gør altså, at der bliver nogle lokale setninger, som er uanset, og det kan jeg gå ind og påvirke infrastrukturen i jorden, og selvfølgelig også i forhold til overspøgelsesrisk hos os, og så videre. Så det, vi gør, er, at vi tager vores motoriserende magnet, hvor fastlagt en baseline,
+
+00:04:00
+altså et højde niveau, som vi købler til vores nationale højde system, og så isolerer vi nogle fikspunkter, som er vores rettereffektorer, og som er en passiv opmodlingsinstrument, den står der bare og ser smuk ud, og hver set er der, kommer den sat lidt forbi og skaber nye data, og det håber sig op og giver en masse mulighed for at lave beregninger og fremskrivninger, og det kan man så visualisere på forskelligvis, man kan leverere kommet separeret filer,
+
+00:04:30
+som kan bruges hele gennem skalgog og manipulerer højdemodeller, man kan leverere gidsfiler, man kan leverere mange forskellige former for data, og forskellen fra før og til nu, det er altså, at når man først har fastlagt højde niveau en gang for alle, så foregår alt opmodling inden for kontoret. Så det vil altså sige, man kan spare penge, og man kan lave opdateringer efter eget ønskevård, hvor tid det skal være.
+
+00:05:00
+Jeg siger ikke, jeg laver det indledningsvis, det er slovdager, som man laver altså ikke beregninger, hvad sier det da, når der har været den nye overflyvning, men man kan selvfølgelig gøre det hvert halvår, eller hvert hele år, alt efter hvert situation der. Noget af det, som vi har oplevet, der bliver en sidegevindst ved at bruge de her retter og flektorer til højde bestemmelse, og som hvor sidegevindsten måske kan kunne hente at blive den største gevindst i virkeligheden, det er at man kan bruge nogle velkendte måder og mål GPS på. Det hedder ængelstations-RSK, hun vil ikke blive for teknisk.
+
+00:05:30
+Men ved at bruge rettereflektoren som et fikspunkt, og så bevæge sig i op til fem kilometer væk fra rettereflektoren, der kan man altså måle ultra præcis til højder med GPS, vil man ikke kan med standardmetoderne med GPS-opmodling. Så vi snakker centimeter nok, det hedder på GPS-højder, og vi har lige sat et projekt i gang, hvor vi uddækker skærnforsyning, hvor vi skar en ordentlig bid af regningen for at måle, fordi vi gik over fra tidligere at have målt metodtagestationen og nivellemang,
+
+00:06:00
+andre opmålingsmetoder, der sager længere tid og mere omstændigere beregn og så videre, til at bruge den her reflektor og ængelstations-RSK, hvor det gerne bespars på 20 % på hele omkostningen på den her opmåling. Så der pængers bare, og der er præcis højder at hente, og videre kan den her rettereflexe også bruge som fixpunkt til laserscanning. Der har vi et laserscanning fra siden strandbygnet ude til fjord,
+
+00:06:30
+hvor vi har VFC'er, at vi har højde noktighed på 1 cm på sådan et dige, og vi har selvfølgelig massivis af punkter på sådan et dige, og det giver også nogle muligheder i folket klimateltpassning at få det bedste mulighed i dagens grundlag. Så bedre og billigere, det burde det være noget, der kan få skabt interessen, og det er selvfølgelig noget, det vil prøve at gå ud og sige, at for rigtig mange intressent er der noget at spare og noget at hente, og vi vil gerne prøve at bruge Danmark som forgangsland,
+
+00:07:00
+også i forhold til det internationale marked, fordi de har sat lidt af, så de bliver skabt og leveret, og sent til Nelsal Lidon over hele kloden, og vores nyemangshold, ja, man kan nok ikke køre til den anden side kloden, men i hvert fald i Europa kan vi komme rundt med det, og derfor vil vi gerne prøve at bruge de her projekter, som er løftestang til at skabe noget af den her export- og vandteknologi, som vi alle sammen ønsker så meget. Og her lige nogle eksempel på målgruppen, vi har det her kørende indenfor alle de her sektorer,
+
+00:07:30
+vi har 100 rette reflektorer sat op i Danmark indtil nu, indenfor de sidste tre år, og vi er i færd med at fylde ud indenfor de forskellige sektorer, flere forsøgninger er på vej, flere havner er på vej, statelige styrelser er på vej, vi har blandt andet køsthjusrater, der skal sætte 14 rette reflektorer op langs med Vestkøsten, og kommunerne og forsøgningerne ud i det område er begyndt at sige, om kan vi samtænke dem med noget,
+
+00:08:00
+som giver mere nok de højde informationer i vores lokale område, sådan at vi også kan træffe de rigtige beslutninger i forhold til projektgrundlag. Og vi samarbejder med Geo, der har vi lavet en af otte ESA-projektere, så de kigger nedfra, de kigger ovnfra, som er heller holdt.

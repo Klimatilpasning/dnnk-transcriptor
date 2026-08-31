@@ -1,0 +1,203 @@
+=== DNNK Webinar Transskription ===
+Kategori: Oevrige
+Video ID: hAU-rCQOZkA
+URL: https://youtube.com/watch?v=hAU-rCQOZkA
+Kilde: lokal transskription (faster-whisper small, dansk)
+Transskriberet: 2026-08-26T15:14:04.771430
+
+==================================================
+
+00:00:00
+Vi er fra Frederiksberg. Alle sammen, jeg hedder Christian Bayer, jeg er fra Frederiksberg-forsyning, hvor jeg husker lidt en gang mellem at prøve at stille en grav til projekter og den slags. Og med mig har jeg Dorte Vinkler Nædelsen. Jeg er altså fra Frederiksberg Kommune, sidder som projektchef for vores kommunale skybrudsprojekter, og derfor bygger jeg i denne her sammenhæng og indkøber en masse forskellige ting. Og jeg har taget min gruere kollega med.
+
+00:00:30
+Og jeg hedder Bo Rasmussen. Jeg er også fra Frederiksberg Kommune, og jeg tager fikplannedækker. Og hvad jeg laver her, det forklager jeg lidt senere. Yes, men jeg har fået lov at starte lidt, fordi jeg er jo noget af markedet, og jeg er den helt urimelige del af markedet, fordi jeg er den del af markedet, som bare vil have noget. Man er ikke helt nødvendigvis altid ved, hvad jeg er, fordi kvand min juridiske baggrund så har indtæt overhovedet farveligt i forhold til,
+
+00:01:00
+at jeg kan vide, hvordan sådan noget her skal se ud. Men grunden til, at jeg taler den om der, er fordi jeg havde fornøjelsen af i midten af tierne, efter et par store regnskyld at stå med den opgave, der er handlet om. Nu er der ikke et Frederiksberg-kort. Det kommer helt sikkert på et eller andet tidspunkt. Ingen Frederiksberg-kort. Ingen Frederiksberg-kort. I ved sikkert, hvordan Frederiksberg er.
+
+00:01:30
+Det er en by, som omgivet en anden by, hvor vandet har lidt svært ved at komme væk. Det var der, vi stod i midten af tierne og skulle finde nogle nye løsninger for, hvordan man skulle få klimatilpasset Frederiksberg. Hvis vi havde gjort det på den helt almindelige markedsmåde og brugt det, man ellers gjorde, så havde det kostet os 18-20 milliarder, tror jeg det var. Det tænkte vi ikke, at kunderne, borgerne på Frederiksberg, havde råd til.
+
+00:02:00
+Så vores opgave var i virkeligheden at finde ud af, hvordan vi kunne reducere de omkostninger og finde nogle nye løsninger til, hvordan vi skulle gøre det. Derfor teamede vi op med vores bedste venner, Skrøsdrej Eier, Frederiksberg Kommune, om at finde ud af, hvordan vi kunne lave nogle nye løsninger, og det betyder, at vi skulle finde ud af, hvad vi kunne gøre med det her vand, som der kom meget mere af, men også hvordan vi kunne gøre det på nogle måder,
+
+00:02:30
+som vi måske ikke kendte helt til i dag. Derfor begyndte vi at efterspørge nogle nye løsninger. Godt Michael er her i dag, fordi han var faktisk noget af det første, vi efterspurte. Vi havde en umulig vej, som handlede Helenevej, som faktisk var noget af det, der satte os rigtig godt i gang med at tænke nye løsninger, fordi der kunne vi ikke lave en ny kloak, fordi hvis vi lavede en ny kloak, så ville vi ikke sige smadre et helt område af Frederiksberg, men så ville vi i hvert fald tilføre meget mere vand til et område fra Frederiksberg,
+
+00:03:00
+hvor der var oversvømme til i forvejen. Så der fik vi... Vi fik mådnet den teknologi, vil jeg kalde, når det havde været, hvor vi fik lavet gruskasetter, og pærmable belægning på en lille vej, og fik testet den også i forhold til, at vi kan vide, hvordan det nedsiver, og kan vide, hvilke stoffer der bevæger sig rundt i de her gruslag, og hvordan det bevæger sig. Så det var første gang, vi fik testet sådan en. Og så er lidt senere, så efterspurte vi noget andet end vodebesænger,
+
+00:03:30
+fordi der er ikke så meget plads til på Frederiksberg. Jeg tror faktisk, ja, vi har et enkelt trøje. Men det er ikke noget, man kan etablere nye af, fordi der er befestninger og alt muligt andet på Frederiksberg ret hæftigt. Så vi begyndte at efterspørge nogle nye løsninger. Ja, det var der, hvor jeg kan se i min mailkurspondance, at jeg begyndte at snakke med Anders i 2018. Så det var der, hvor den tanke i virkeligheden begyndte at boble,
+
+00:04:00
+og så har vi jo haft en dialog om det lige siden der, og langsomt men sikkert, hvad han nu havde sagt til Rockflow, og til andre, at vi vil gerne noget andet end bare rør og ledninger. Vi vil gerne nogle andre løsninger. Så det har vi sammen med Frederiksberg og Kune efterspurte hele vejen. Og så skal jeg lige huske, at jeg synes, du havde en meget god pointe her. Fordi det, jeg tror, vi også har reflekteret over, det er med, at det perfekte det findes ikke.
+
+00:04:30
+Vi er villige til, at også teste det uperfekt, fordi vi ved, at hvis ikke vi også prøver det uperfekte eller det uprøvede, så ender vi med, at kunderne på Frederiksberg bliver oversødnet alligevel. Og det er faktisk noget af det vigtigste for os, det er, at vi ikke får de her kæmpekæmpere oversømmelser, fordi så bliver vores kunder meget skuffet over os, fordi det forventer, at nu har vi haft et par stykker, så nu må vi da have løst det. Så det er faktisk det, vi arbejder med,
+
+00:05:00
+og jeg tænker, du vil fortælle, hvordan det er, vi arbejder med det? Det vil jeg i hvert fald. Som sagt, så er det jo lidt en opgave, vi har forandret, og det visste vi godt, da vi gik i gang. Jeg tror ikke, vi visste, hvor stort den var, og det vi i hvert fald ikke visste, det var, hvor uprøvet et område, det her klimatilpassing faktisk er. Altså, had det bare været motorvare, vi skulle lave, så findes der masser af standarder, og masser af regler, og masser af erfaringer, og masser af vejledninger, og masser af alt.
+
+00:05:30
+Det gør der bare ikke her, og det gør der slet ikke, når man snakker om tætby, fændt vi jo så ret hurtigt ud af. Meget af det klimatilpassingsløsning, og om teknikker og produkter, der findes, fungerer sindssygt godt i Jylland. Men hvis man sidder i en tætby, hvor der bare ikke er plads, og hvor der ikke er muligheder på samme måde, så er det en udfordringer, og det vil sige ret hurtig fandt, at vi har faktisk behov for at få udviklet nogle ting.
+
+00:06:00
+Ikke at vi altid ved, hvad der er deres udviklingsmænd, men vi kan se, at der er i hvert fald det, der er. Det løser ikke det, vi har problem, vi har. Så, vi har ret tidlig, som Christian også sagde, at vi har haft øjnene åbne for, at findes der noget, der er ude, der kunne løse de her udfordringer, vi står med, og ja, vi vil gerne være med til at udvikle, hvis på nogen måde kan. Det første punkt, altså det, jeg har taget med her, det er lidt så de erfaringer, vi har gjort de sidste 7-8 år,
+
+00:06:30
+som bygge her, snakker jeg nu, kommunalt bygge her, i forhold til de her, de med på tilpassningsprojekter, vi laver. Og det, man skal huske, det er, at kommunen, ganske rigtig kommunen er kommunen, men kommunen er rigtig mange roller også. Og jeg står her nu som projektchef, for vores kommunaleskyppelsprojekter, og i den rolle, der er jeg bygge her. Og det vil sige, så skal jeg faktisk også forholde mig til myndighedskrav, også kommunens myndighedskrav. Og det er nok en af de største udfordringer,
+
+00:07:00
+vi fandt ret hurtigt, det var den her med. Jamen, vi troede, at hvis vi manglede noget, så kunne vi jo bare spørgmændigheden. Så havde de en krav eller en standard, eller en regel for, hvordan vi så skulle fatte, hvad vi skulle have fyldt. Det har de altså ikke altid. Og så en meget godt eksempel på det, så har jeg taget to billeder med her. Det er de glade, lejende børn i vand. Det er fra vores ende på Peterbarnsvej, den, der hedder Sløjfen, hvor vi nede under, det var et af de allerførste projekter,
+
+00:07:30
+vi lavede. Har et meget stort magasin med regnvand. Og ideen var, at vi gerne skulle genbruge det her regnvand, og have det op på pladsen, så alle de glade, lejende børn kunne leje det her genbrugsregnvand. Det var der sådan nogle, der menede, det var en rigtig dårlig idé, på grund af bakterier. Og vi havde faktisk svært ved at finde ud at snakke med vores egen mengeravdeling, som henvies til embedslagen, som henvies til nogen andre, som henvies til nogen tredje. Og til sidst blev det sådan lidt et, nej, fretsækkeret skyld.
+
+00:08:00
+Og vi holdte lidt på, at det nok var embedslagen, der havde sagt nej. Og så begyndte der pludselig at bygge nogle rykter på, men betyder det så, at vi heller ikke må have vandet oppe og bruge det til at vande planter med, for eksempel. Vores grætner må de gå ud og bruge det her vand. Nej, det måtte nok heller ikke, men faktisk var der ikke rigtigt nogen, der havde sådan, fordi der ikke var de her. Sådan er det krav. Var der stadigligt usikkerhed. Så nu, og det er så det andet billede, jeg har den fine pumpe her, det er på Pekka Ram Salé, der har vi lavet et nyt anlæg,
+
+00:08:30
+med en masse dejleregnerne i. Så spurgte vi så igen, kunne det tænke, at vi måske ikke brugte vandet til Ejme, men brugte vandet til at vande med. Og så fik vi jer. Med nogen forbehold. Det er fordi, at der har kommet en ny impedslen. Og det er simpelthen bare for at vise, at det her er så et område, det er et fagfelt, hvor, jeg tror ikke det sådan, hvis man snakker motorvallet. Det er simpelthen, at der er så mange, der ikke ved endnu, for vi har ikke været ude at spørge nok. Vi har ikke været ude at teste nok.
+
+00:09:00
+Nu kan jeg så sige, lige med de lejnebørn, vi har stadig ikke håbet om en dag, at måske i en eller anden grad, kunne bruge vandet til at leje i, eller røre vi bare. Så nu har vi været ude at snakke med vores egen miljømyndighed, og prøve at få kortlagt, hvad er det fris for nogle stoffer, i hvilke mængder, på hvilke nivåer, der skal måles for, og testes for, hvis man eventuelt skal derhende, hvor vi kan bruge det til det her. Det er sådan det første trin igen på at prøve at finde ud af,
+
+00:09:30
+hvad er det egentlig for nogle krav, vi har brug for at stille som myndighed, eller møndigheden, der er brug for at stille, for at vi kan udvikle noget, som kan bruges i de her sammenhængen. Så bare lige sådan en myndighed og myndighed, men ikke så meget myndigheder, så man kan få det her til virkelig. Ja, det er cool. Den anden, og det er som min primære rolle, det er jo så som bygge her, og det, vi også har lært, en ting var, at vi ikke vist fandt ud af myndigheder,
+
+00:10:00
+ikke altid ved, hvad myndigheder mener, men det næste vi fandt ud af, det var meget det der med, at vi troede, at vi havde det ønske, som vi kan se, at mange af de traditionelle produkter ikke opfylder. Så mange gange så opdagede vi så, at vi har brug for noget andet, men det, der så også skete, når vi så har fundet ud af, gået i marked og spurgt, kan hjælpe os med det her, fundet ud af, at det ikke er der, så har vi begyndt at udvikle selv, gerne sammen end en eller anden,
+
+00:10:30
+en procent af det her, som har været med på ideen. Og så har det typisk, at vi så undervejs, og rører, og diskuterer, og prøver efter, så har man pludselig fundet ud, at det, vi troede, der var vores ønske, og behov, det er egentlig noget helt andet. Eller måske, at det egentlig ikke, det, der var det vigtige, vi troede, der var det vigtige, det er noget andet, der er det vigtige. Og det er jo det fantastiske i sådan nogle processer. Vi bliver klogere samtidig, det tager noget tid, det tager noget frustration,
+
+00:11:00
+og også noget beglede, begynder at tænke, at lykkes, vi tror, vi ved, hvad vi vil have, men det gør vi ikke altid. Det er også en processer, nu er det her til. Som et eksempel, så har jeg taget den her, Friksbergstenen, som vi her, diskussioner kalder den med. Det er en græsameringssten, og det kan jo være, det er set før, den er vi på. Men den her græsameringsstenen, den er lavet sådan, så for at først er den lavet, så den kan indholde vand, absorber vand,
+
+00:11:30
+og holde på vandet længere, og så græset har noget voksag, fordi fors problem er, når vi laver græsameringen på Friksberg, og så dør det græset lynhurtigt. Det tør simpelthen ud, det bliver så meget citage på tingene, så det bliver stittet ned, og vi vil rigtig gerne undgå de vejrebatter, vi vil gerne have dem til at se sådan ud, som der er på billede, fine grønne, men i realiteten så ender de i socialtidig, eller asfalt, fordi de er ikke robuste nok. Så vi vil gerne udvikle en græsameringssten, der kunne klare, den had den robusthed, som vi havde brug for,
+
+00:12:00
+og vi ville gerne måtte indhålle noget vand for de det frem og væksende græset. Og så snakkede vi med nogle af vores kloegræten, og som sagde, prøv at høre grunden, til det aldrig fungerer på Friksberg. Det er fordi de græsårder, vi bor på Friksberg, det er nogle med højtlægtende rød og trød, fordi de er de mest robuste græser, der der er. Og det kan man ikke på de amelige græsameringssten, fordi jorden rører aldrig hinanden, de er små huller, og så kan de ikke leve. Så I skal simpelthen,
+
+00:12:30
+så må vi jo have noget, hvor jorden hele tiden rører hinanden, og hvor vi optimerer vækstbeting som for græset. Og det lykkedes. Det, vi var mest bange for, at vi så havde lavet det her for meget græsere, det var, hvor de beboerne ville reagerer på det der, når de skulle have hendt cyklen i græs. For nu virker det, som I kan se. Der er næsten for meget græs, men det har vi faktisk kun fået rutser. Så det, det visste vi så ikke. Vi havde mere fokus på det andet. Ja,
+
+00:13:00
+men det var sådan en, vi troede måske, vi skulle ende et helt andet sted, men det viser så, at det her kunne lade sig gøre, og det fungerer. De to kortere om metoder til det her markedsmodningen, udviklingen, produktudviklingen, de erfanger, vi har gjort os, regel nummer 1, når man går ind i sådan noget, specielt som byg her, det er, at man skal vide, at der er en risiko, men kan ikke,
+
+00:13:30
+det er nemt for mig som byg her at sige, det er nemt, hvis jeg ved, hvad jeg vil have, så gå ved og sige, jeg vil have den der, den skal max koste det her, det er det, jeg vil betale for den. Det er svært, når jeg går ud som byg her at sige, jeg vil have noget i denne her retning, og det må ikke være for dyrt. Men det man skal vide, når man ikke ved, eller er klar over, når man gør det her, det er, at der er altid en bygget risiko. Og det skal man, når man er vidtig til at acceptere, og man skal have sagt det hele vejen op igen med organisationen,
+
+00:14:00
+og hvem det nu er, der giver penge til en, fordi der er altid en mulighed for, at man kan komme til at koste et ekstra, og mere end man rejner med, og det kan også være en risiko, at vi ikke lykkes, så den er det. Når det er så at sagt, så vil jeg sige, at de fleste af de samarbejdsautor, eller UPI, og andet, vi har lavet, udviklingssamarbejde i forskellige måder, er faktisk blevet rigtig, rigtig fine, og vi har virkelig fået noget, og vi har måtte gået at reparere på. Sådan er det. Man skal bare ikke forvente, at man får et fuldstændig færdig produkt,
+
+00:14:30
+som er til gennemtastet. Det gør man ikke. Man får noget, som er helt specift, til det, man har behov for. Kan få, hvis det lykkes. De tre måder, vi har brugt, eller prøvet, at lave de her samarbejder på, det har været OPIA, altså offentlig private innovationssamarbejder. Vi har faktisk lavet nogle uden kontrakt, hvis de virker lavet en, men selvfølgelig skal det have noget aftalt være klar og nogle kontrakter, det er klart. Men i mindre skala kan det faktisk godt fungere.
+
+00:15:00
+Så har vi lavet en del OPIA medkontrakt. Det er faktisk det, vi har allerbedste erfaringer med. Fordi det er der, hvor man kan lave en aftale konkret og noget, et produkt vil gerne have. Og så kan man begynde at udvikle sammen, og blive klåber under vejs. Også til sidst kan man så gå ud, og det er det, vi typisk har gjort, der er så bagefter at lave et udbud. Lave en ramme aftale, snak med marked, er der nogen andre, der har kommet på noget af det samme, findes der nogle, der bare allerede har lyst den her for længe siden. Så skal man lige have testet af.
+
+00:15:30
+Men man er i hvert fald blevet klåber bagefter. Så har vi også prøvet de store innovationspartnerskaber, det vil sige, hvor man først laver noget udvikling sammen. Også bagefter laver typisk en, det har i hvert fald en totalt anspris kontrakt, en større aftale om at implementere det bagefter. Altså vil sige, det er altid en oplevelse. Vi er blevet klåber, jeg tror også markedet er blevet klåber det her. Jeg kan i hvert fald se, der er kommet nogle produkter, der er ude, som ikke var der før, som afhjælper nogen af de behov, som vi havde tidligere.
+
+00:16:00
+Man skal bare være vildig til, at få begge sider at lave, der ligger en risiko i det. Eller være med at bruge sådan, og det viser sig, at der er gået rådder det hele, fordi den plast, der blev brugt i drengene, det er jo virkelig bare åbenbart ikke helt, så der er den levetid, som producenter. Sådan er det. Til gengæld så får man nogle produkter, man aldrig havde set før, som kan det måde være helt unikt. Så, jeg kan kun anbefale det. Men det er sådan fra mit syn, som bygge er sådan lidt oppe fra,
+
+00:16:30
+i forhold til markedet. Så tænkte jeg, at vi gik mikrofonen til min kollega. Så kan du sige noget, jeg lærer konkret. Ja. For min erfaring. Jamen, jeg har et trafikplan, Degger. Og man kan sige, jeg kommer fra en verden, hvor jeg godt ved, hvad jeg vil have. Det hedder cirka, hvad det koster, og den er typisk over på en hylde, og så siger jeg, tre af dem. Der var jeg også lykkelig uvidende, og med rigtig meget, med klimatepassen.
+
+00:17:00
+Jeg havde fået meget simple opgave. Du har en gammel plads, den lige noget, der er løgn. Vi vil gerne have en ny plads, den skal være fin, og folk vil gerne bruge den. Det var også, at jeg skulle lave en parkeringskælder. Der skal være 207 pladser, den skal være på tre plan. Ja, det er til at forstå. Jeg gik ud, jeg fandt en totalt entreprenør, lavede en aftale med ham, så vi bygger sådan en. Så sagde han, det kan vi sange. Den koster det der. Super, gå i gang. Og det gjorde vi. Og vi gravede, og gravede, og gravede.
+
+00:17:30
+Og så visede det sig, at min kære kollega, hun havde lavet en skybrudsplæng. Oh! Langlands plads, som det, der ligger over i Svømmehalskq. Det kvarterer har rimelig mange problemer med vand, når det er deres skybrud. Og så sagde hun, jeg vil gerne opbevare vand på din plads, helst ovenpå din parkeringskælder. Og kiggede vi lidt på hinanden, og så tog vi lige et par snakker ude på gangen, og så gik jeg forbi min totalt entreprenør og sagde,
+
+00:18:00
+hvad skal du høre? Jeg har en klima, kollega. Hun vil gerne have vand ovenpå parkeringskælderne, og han kiggede på mig og sagde, det skal komme aldrig til at ske. Okay. Men lad os prøve at kigge på det alligevel. Og det gjorde vi så. Det vi så gjorde, det var faktisk, at, vi byggede pækælderen, og så tog vi alt det, som vi havde lagt ovenpå, og lagde i skuffen,
+
+00:18:30
+og startede helt forfra. Vi fik en ny røggeover, til knødet, som havde specialiseret sig i klima. Vi fik lavet ufatte i mange forsøg til bære under, af alle mulige og umulige produkter, som jeg aldrig nogensinde havde haft i min vejkads før, men det har jeg nu. Og så udviklede vi en ny sten, med det meget munrette navn, Mi Per Stone. Og den lavede vi sammen med et firma, der hedder Midtgård,
+
+00:19:00
+og vores krav til den var relativt simpel. Den skulle være beton. Den skulle kunne holde til at ligge på en plads, skulle være permeable, og skulle den helst også have en no-nox. Overflade. Og det vil sige, at den kan fjerne nogst fra luften. Og det satte han så i gang med. Og det var også, at vi øvnte gerne at lægge den i et mønster, der hedder Chelsea Mønster. Og det er det, der har vist, og jeg vil bare sige, brulæggeren har aldrig hørt om det før. Vores tidligere kollega Mehl,
+
+00:19:30
+han havde hørt om det før, så det ville han gerne have. Så vi lavede fire forskellige sten. I fire forskellige størrelser, og fire forskellige farver, så satte vi ellers brulæggeren i gang med at lægge det ud over en plads på ca. 3.000 m2. Han var pæn træt af os til at starte med. Men så fandt han ud af, hvordan han kunne gøre det, og så gik det faktisk ret hurtigt. Så lige forbi det indvidende, så gik det meget godt. Det fine ved den der sten,
+
+00:20:00
+er, at den er permeable, så tilbageholder den faktisk også noget i de hulrum, der er. Og det vil sige, at vi tilbageholder noget af det vand, der falder på pladsen, så når det bliver rigtig solskind igen, fordampere det, og nedsæt den varmeøgis effekt, der er sådan set af. Svømhadsquartet er en af de tættest bebyggete områder, overhovedet på Frederiksberg. Frederiksberg er jo et ret tæt bebygget, for dem er, at der kender det. Så der havde vi brug for at få sænket noget temperatur, og det kunne vi gøre ved det. Det var også, at har vi også et rigtigt stort toppepersen,
+
+00:20:30
+midt inden på pladsen, som er voldsomt populært, og der er det så snart plus 20 grader, men så har vi vand i baseringen. Det hjælper også rigtig fint til at sætte temperaturen nedover. Så der er noget rente effekt, og det er igen de stort toppepers, som vi gerne vil have ud af, og der har vi så testet på, hvor den ser ud, når det danner på sten, hvor den ser ud efter sten, hvor den ser ud, når det kommer igennem skaven, og er råkfluget. Det skal nok komme tilbage til, og det viser faktisk, det renter faktisk ret godt.
+
+00:21:00
+Så nedunder, så skulle jeg granitskave, og det er ikke så fremmede for mig, det kan jeg godt. Det er bare stort sten, er stort sand, så det er fint nok. Og så fandt de nogle fulmaterieler, og noget afretningslag og bærlag, og lavede det nedunder det. Og så nedunder, der kom Anders og sagde, men jeg har et produkt, der hedder råkflug. Det kan vi godt lægge ned, og det her fint bærhjøen, det kan vi godt gå på, og man kan også køre på det.
+
+00:21:30
+Jeg tænkte, hvor står det i min vejlede for vejdet, det står jo ikke inde i e-modul, og alt muligt andet, som jeg har hørt om det tidligere. Og så er Anders, det er ikke noget problem. De har prøvet noget i holdet, det virker skide godt, jeg har kørt i 20 år, de kører lastbiler frem og tilbage over det hele dagen, de er der jo ikke andet. Det var fint. Så vi smarte i holdet. Og så fik vi sat borde, og vi lavede prøvplattform, udvæget, at vi var holdt med, og alt muligt andet for at teste,
+
+00:22:00
+kan det her nu holde, og kan det, som vi vil, og så blev vi nødt til at lave en anden ene for det, sådan som er testet normalt, så gik det jo bare råkvuld. Stort set, ikke? Så når man trykker på det, ja, det er hårdt nok, men når du så ser en prøvstand til, så er det ikke så hårdt. Så det skulle vi lige lave på en anden måde, så færdig, at vi sovede, men det kan man faktisk godt, og det er faktisk enten med, at vi har lavet vildt mange forsøg, også ud på vejen, og så er det simpelthen at, vi kan godt have det,
+
+00:22:30
+i vores vejkasse. Og det var faktisk op til de krav, til bæren, som den skal. Skal så sige, Slangladsplads er en meget stille, rolig, fredelige område. Det er ikke sådan, der kører 10.000 biler i døgnet, eller noget, der kører nok nærmere 800, og er dem, der kører 4 lasbiler i døgnet, eller noget den stige. Så vi har vandt et sted, hvor der er begrænset med trafik. Vi ved sådan cirka, hvad det mest er. Det er personbiler, og cykler, så vester nu skete noget,
+
+00:23:00
+og vi er blevet nødt til at lukke en af vejene, fordi nogle gange, så går det skævt. Det gjorde det heldigvis ikke her. Så kunne vi pille det op, og så kunne vi have startet med normalt bære lager, så var det ligesom det. Men det har det ikke været år siden 19. Vi monitorerer det nøbende, i forhold til sætninger, og der er ikke sket noget med det endnu. Det har jeg også talet om, at vi skulle have vandet over på vores p-kælder. Og det er faktisk det, man kan se på billedet op. Det er opbygning over på p-kælderen. Og det der så er, det er,
+
+00:23:30
+det er den der viser. Det går rundt om hjørnet. Og det, vi så blev nødt til, men det var helt mindet tavpaps med en brænd over på en p-kælder, som man normalt laver. Det gjorde vi ikke. Så vi fandt en brug med en brænd, så man brugte til motorvejsbrug. Og så laver vi den ud over hele vores p-kælder. Og så laver vi ellers et soppebesætning over på. Og så stod det der i 48 timer, og så testede vi, er det tæt eller er det ikke tæt. Og tæt er ikke kluraktt, fordi jeg blev belært om,
+
+00:24:00
+der er forskellige former af tæt. Altså i min verden, der er tæt eller utæt. Så det blev, hvor det skulle vandet, og det kom ikke ned i konstruktionen. Og så blev alle ind i om, det er fint. Og så byggede vi så belægning med rockplåd og granitskævre og stennorm på. Og så havde vi det som en plads. Ude i vejen, og så er det lidt anderledes ud. Og så er det billed at finde nærmest ude på ganget sted.
+
+00:24:30
+De er udviklet lidt, i forhold til hvor mange huller, der er i rockplåd. Men er så det samme princip. Og man kan sige, men vi tog faktisk en helt normal traditionel opbygning af vejkassen, og så i stedet for at have vores bære lære bundtagning. Så laver vi rockplåd i. Og der så fungerede de sidste tre år. Og man kan sige, der var gravmaskine og alt, hvad der var i leveranser til pladsen.
+
+00:25:00
+De kørte frem og tilbage, henover det der gruslag før, endda der kom asfalt på. Andersen var ikke helt tilfreds. Den ene gang, der kom det ud. Det havde han ikke karanteret. Men så sagde de, det gav nok godt hold. Så det gjorde det. Og så, der kom asfalt på, så gik det nok så fint. Og det måler vi jo så på løbende det ud. Og det sidste, jeg har fået ved det her, det kom med i katalogmetoden, og så kan man bare have brugt det. Og nu er jeg vejt de aktoretter med på det.
+
+00:25:30
+Så vi startede, og så blev det testet, og I kørte videre med det. Og så nu er det okay. En anden ting, vi gør på Langlandsplads, det er data. Vi er vildt glad for data. Og det tænker jeg, det er de fleste, der er nok også. Så over på pladsen, der monitorerer vi en hel masse. Vi har alt verdens værstationer, derover i forhold til temperatur og vind, for altså,
+
+00:26:00
+luftfugtighed, mikroklima, alt muligt andet. Og vi måler tre forskellige steder. Så vi har sat værstationer op på vores trappetøvner, elevatertøvner, der går ned i parkeringskælderen, så man ikke kan komme til dem. Og så måler vi det. Og så bruger vi det, sådan til at se, udover vadesækter, alt muligt andet, hvor nord kommer der eventuelt et skybrud. For vi kan styrre det vand, der er på pladsen. Alt i alt, der har vi
+
+00:26:30
+cirka 700 kubikmeter vand, der kan opmarkedsnere os på pladsen, i forbindelse med et skybrud. Der er en lille smule på selve pladsen, hvor der ligger en lille smule rockflow, så ude i vejen, der ligger mere rockflow, og så har vi en boldbanen, hvor vi neder under helt boldbanen, har lagt et ordentligt bassin af rockflowers, som kan føles op for skybrud. Og så har vi et spjæl, der styrer alt det her ude til kloakken. Og det vil sige, vi har noget ude i kloakken,
+
+00:27:00
+der siger, om der er plads eller ikke plads, og så har vi en selve langenlands plads, der siger, har den plads til opstu, eller skal den have med noget vand? Og de to ting får vi så til at tale sammen, så vi leder kun vand ude fra pladsen til kloakken, og kloakken siger, er der rum til det. Og det er så, at det samme, vi kommer til at lave med næste parkeringskælder, og den er vi i gang med bag ved rødhuset, for der har vi lavet et endnu større bassin, og der har vi lavet ned i parkeringskælderen den her gang,
+
+00:27:30
+så det skal nok blive spændende. Og det var lidt, hvad jeg havde. Tak for det. En tur til Frederiksberg, som man jo øver at sige, at Frederiksbergs besøgning er jo, der bor DNNK, og jeg kan i hvert fald høre, at vi skal have flere vejfolk med i DNNK, så man får det samarbejde på tværs i kommunerne med os. Vi har par minutter til nogle spørgsmål.
+
+00:28:00
+Hvad vil I gerne blive klogere på der? Åh, undskyld, Katsrinja. Jeg skal bare lige forstå det rigtigt. Det er rigtig spændende det her. Du siger, at den her løsning, den er godkendt, er vejdirekturatet til deres katalog over... Bære... Jeg har ikke forstand på vej. Ja. Bærelag i vejprofiler. Det er sådan, det skal forstå. Vejdirekturatet.
+
+00:28:30
+Det var vi. Ja, det var fint. Men det giver ikke en vandkvalitets teknisk løsning. Nej. Det er kun bære, jo. Det er i forhold til. Fordi det kunne være skidefæt eller superfæt, som nu skal jeg også snakke med. Hvis vi kunne få alle de her løsninger og putte ind i kataloget hos vejdirekturatet, og de så samme tid i. Ja. Men vejdirekturatet får også primært til konstruktionen og bære, jo. Jeg tænker, at det andet er, at vi snakker ved at blive imålet og testes, hvis vi ser os rigtig. Super.
+
+00:29:00
+Ja. Super. Det var bare en interesse. Så har vi et spørgsmål hernede. Jeg spørger, at der er de forstået, at alt vandet fungerer som forsinkelse. Så bliver det lidt ude til klarken. Og til randsanlægget bliver randet sidste ende. Man har ikke overvejet om, at der er noget af det vand, at det bliver så meget randt, at man kan lede det direktiske recipientet, og bruge det til noget andet. Jo. Vores store problem på Frederiksberg, er, at vi har virkelig dårlig nedsivningsevner.
+
+00:29:30
+Så det er der med, at vi vil allerede helst have vandet ned i jorden, så vi kan få det ned til Grundvand. Vi tager jo trækkevandet op på Frederiksberg. Vi invænger selv trækkevand. Så det vil vi allerede blive helst. Det er, hvor det er muligt. Gør vi det. Det svære er, at det er meget få steder. Det er muligt. Derfor er det primært forsinkelse, vi arbejder med på Frederiksberg. Også som langvandspladshjul her. Også er et eksempel på, så prøver vi så vidt muligt også, og sik det mod fordampning. Når ikke man kan nedsev, så kan man jo prøve at få vandet op af. Så mere kontinuerligt vandning af vores vejtræer,
+
+00:30:00
+så de kan hjælpe os med at få vand, permabelflise og andre ting. Fordi det er den måde, vi kan få det udenom spillevandet teknisk anlæg, og renseanlægget, og det vil vi allerede helst, hvis vi kunne. Vi vil gerne, takkegang er, at vi har prøvet at fremme et bæredygtigt vandkredsløb. Lige meget hvad derfor en vandtruppe, og hvilken process den er. Så skal vi passe på den, for vi får den tilbage igen forhåbentligvis.
+
+00:30:30
+Jeg synes virkelig, at de her to spørgsmål er lidt sjovt, fordi det er gode og relevante input, men også et eksempel på det, det er, at vi gerne vil det hele på en gang. Jeg tror, at en af grunde til, man kommer videre på Frederiksberg, det er, at man virkelig har sådan, at vi skal videre, og når vi sådan som rådgiver, vi er ude i rigtig mange kommuner for syn. Og vi ser sådan den gode cirkel, og den nogen cirkel. Og uanset, at man ikke kommunerne for syn, med en gode eller nogen cirkel, så er folk flittig, og får en hel masse fra hånden. Den gode cirkel, det er der, hvor man har kommet i gang med nogle projekter,
+
+00:31:00
+og der har man så travlt, så når næste projekt kommer, og der er nogen der siger, vi vil gerne lave sådan, og sådan, så kigger man efter løsninger, fordi vi skal videre, fordi jeg er travt med et eller andet, ikke? Og nogen cirkel, det er den her kommun, hvor man har ikke fået nogen projekter i gang, så når der kommer nogen med et eller andet, så siger man, det må vi undersøge nærmere. Og så går man og undersøger på det, inden sådan en grad, så man aldrig kommer i gang med projekter, eller hvis der kommer nogen med projekter mere, så har man masser af tid til at skyde det ned. Og det er ikke ud fra, du ønsker om at skyde tingene ned, men det er simpelthen den, at vi er født flitige,
+
+00:31:30
+vi vil gerne gøre det ordentligt, men enten så ryger man den ene, eller også ryger man den anden. Der er noget kultur i det, men der er også bare noget rutine. Og det er erfaring. Vi har lige sidste spørgsmål fra Christian. Ja, den her nærmest til Louise. Jeg bedde mærke i, om denne her, Fred Reksberg, Græsameringssten sagde, at den var i asfalt. Ej, otskyld, så mener jeg, det betyder. Tak. Ja, okay. Ja, Mabel betyder. Det var... Ja.
+
+00:32:00
+Godt tak, for det skal vi ikke give en hånd igen.

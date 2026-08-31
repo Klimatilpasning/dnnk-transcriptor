@@ -1,0 +1,50 @@
+=== DNNK Webinar Transskription ===
+Kategori: Arrangementer
+Video ID: rw-2t2DL4aU
+URL: https://youtube.com/watch?v=rw-2t2DL4aU
+Kilde: lokal transskription (faster-whisper small, dansk)
+Transskriberet: 2026-08-26T11:44:26.950791
+
+==================================================
+
+00:00:00
+Jeg hedder Dennis, og jeg er en af grundlæggerne bag World Web Tools, som er en ny SMV. Vi startede op fra lande år siden, og jeg samtidig er også professor ved Aarhus Universitets. Vi er et spinavt firma af Aarhus Universitets, og vi udspringer af verdens stærkeste forskningsgruppe indenfor vandkvalitets modellering. Det vi laver, da vi leverer data, så vil vi også et software-laster-service firma, så vi leverer data fra vand. Vi leverer frem i tiden, så vi giver prognoser til kommuner, forsøgninger og til private via vores løsene, der havde ASAP platform.
+
+00:00:30
+Vores løsene, der står i en bedre beslutning og også bedre økonomie- og vandforsøgning, og så også relation af skadsområden i forbindelsen med årsunder. Vores løsene er så relevant for vandforsynene, som bruger overflade. Det betyder, at vi kigger også på markeder ude over Danmark, så vi kigger på marked som Spanien, Tyskland og USA. Så vi kigger på billede-problemet, der står over for, hvis man er forvaltere af evangelien, der baserer på overfladevand, så har vi her et resoar, og det er kun i Danmark, at vi har patent på dårlig vandkarte. Det har man rigtig mange steder i verden.
+
+00:01:00
+Det har man også i USA, hvor det her billede er frem. Når man er dårlig vandkvalitet, så er man for store allerokonomiseringer. Man kan få ildsvindbunden, og så får man produktion af magan. Det koster noget. Og så er det vægt, når man ikke sælger magan, da det er grøntsvædt for det. Så der er et plan, for at fremse det. De er også uformelige med ekstremt vand, så der er større risiko for overfladen. Det er, når man måske kan mitigere, at vi har et resoar, så hvis man ved på form af meget landkommen ved de kommende dage, så kan vi så få mere vand ud, så vi får en buffer til at mødekomme den her potentielle overfladen.
+
+00:01:30
+Hvis vi kigger lidt på problemets omtræng, så er der over 8.000 af de her store resovarer. I Europa er der over 7.000, og derudover er der 1.000 viser af mindre reservoirer, og over langt over halvden med den her problem med vandprilitet. Så hvis man er forvalt af sådan en reservoirer, så står man i udfringen, hvor du har givet det bedst mening at pump vand ud til den videre forsøgning, og for hvilken dybde, så mange de her reservoirer har man. Pumpestemer, der er i forskellige dybder, som operatører skal vælge at pumpe i forskellige dybder.
+
+00:02:00
+For at finde ud af, hvad det giver bedst mening, og i forhold til hvor meget det skal pumpes, og for hvilken dybden, det har været den løsning, vi kan lade at sætte plattformen. Så det er én plattform, der samler alt data, så giver der et overblik over realistatet for, hvad er vandpriliteten i dag, og hvad er den de kommende optillende i dag fra mit tiden, og hvor meget vand er det på vej til mit reservoir. Så det giver sig bedre indblægge i forhold til traf, bedre beslutninger op til mere sin dræft. Modellerne som laver de her pronose har en sin forangring i forskning, så vi har kombineret to verdens mest avancerede hønderne i sin konditionel,
+
+00:02:30
+og en vandprilitetskonditionel. Og det er her, vi elskeder os, for nogle af de konkurrenter, der er formarkedt. Så vi har gjort nogle avancerede modeller supernemmel og brænligt, så man skal ikke være en teknisk wizard for at bruge vores system, man lukker sammen ind på vores platform, og så får man adgang til alle det her data, som de her modeller producerer. Det som modellerne også udebærker sig ved, det er, at de kan afvide super hårdt, så de tager ikke timevis eller dagigvis at afvikle, vi kan køre den flere gange dagligt efter, når det kommer nye vejre og seks prognoser ind.
+
+00:03:00
+Samtidigt så kan de afvælges på globalt tilgældende data, så vi kan sætte det her op i Danmark, vi sætter det op i Tyskland, vi sætter det op i USA, vi sætter det op i Spanien, hvis det er vel baseret på globalt tilgældende data, som vi simpelthen bare kan høse ned. Hvis man siger ikke på hvilken valg de giver det så, der ved jeg, at prognoser besætet beslutninger, det giver en mere stabil vandforsyn. Det er et eksempel for USA, der betyder også, at man som forbruger at ville til at betale en højere pris for vand. Vi ved også, at så næsten bare en tims varsling i forødelsen med en kommende årsund,
+
+00:03:30
+det kan du se i skade eller reductioner om, så godt skal vi have en årsund på 10. Og så er den mest stabileret som cost benefit analys, der er lavet på bærende sammenlige, den totale værdi, at det her prognoser data, det gengler som en af vandoperatøret for et reservat, det lader USA, og for et engel reservat, lader den totale gældens, et simpelthen som kring 50 mio. kroner, hvert år. Hvis huses der 8.000 reservats i USA. Så hvad kræver du så, hvis man vil i gang? Det giver god mening, men det kræver for det første en onboarding,
+
+00:04:00
+hvis man skal have bygget de her modeller op, modellerne i sig selv bliver open source i en fuldstændig gradis. Det betyder også, at vi har et kæmpe motorum med andre forskere i verden, det hele tiden optimerer, vi har bare bygget vores lyse ovenpå nogle gradis tilgængelige modeller, som har en forankring i forskning. Men det kræver stadig noget at sætte modellerne op, og tilpaste dem til de lokale case. Det kan vi gøre, det kan vi have taget med en ægansportal i for, men kan også gøre det selv, at man kan få tre fat til at gøre det. Det vi er så ellers klar, det er et ordentligt arbejde af mange, for at drive de her forekast som en foradgang til via vores platform.
+
+00:04:30
+Hvis vi kigger på at holde det bag på Søsens, så er vi fire grundlægger, hvor vi har sætter, andre sidder på toppen. Vi har en baggrund endnu fra hykologisk modellering, så vi er nødder nede i motorum, hvilke modeller giver mening, om man skal lave at kigge i tid. Vi bruger at sætte de her modeller til at køre klima-snarget i hele verden. Men for at gøre dem envældig for en æg-experte, så har vi nødt til at lave parterskab med nogle, som er rigtig gode til IT. Så der har vi nogle, et par soft-engineeringer med endnu, som har gået til skolærebrød og løsning, for at tænke til at køre hurtigt ved en sky,
+
+00:05:00
+og for at lave en fed brugflade, der gør den nemt og roligt her løsning, som vi nu har produceret. Så vi siger, at vi har i vores hold alt, hvor man kommer med en idé til en løsning, så vi kan producere det hele indhavs. Der har vi også lige på indbordstrapetiske samarbejde, med Armcatch, hos det hedder Kimberia Consulting, og de har kontorer i Houston og i Milwaukee. Så tror vi til at få mere sygning på de amerikanske markeder, så de gør deres bedre til vores valgepropositioner, så hvad er med de skaberne til vores produkter.
+
+00:05:30
+Og så kan de også sygning på de amerikanske markeder, så jeg har masser af samtale med forskellige ingen sønøvhuse og USA, så kan vi samarbejde med dem, og skabe øjeligt med de fra deres kunder. I forhold til hvor langt vi er, så er vi som sagt et nyt firma, så vi er under to år gammel, men vi har taget en projekt der nu i Danmark, i Sverige og i Spanien, så har vi et tristort lobesæt i Texas. Texas har en stor drækvandsforsyn, der forsyner noget af Dallas og Fort West, omkring 2.500 mennesker, og alt der er strækvandsforsynet, baseret på fire store SOAs. Og der laver vi sådan en showcase på vores løsninger,
+
+00:06:00
+og det kører åbresyld nu, og der prøver vi også på os selv at beklare på, med den kan vores prognost af, at der ender ikke, man siger, at der er stavlige arbejde, så vi kan jo endnu skabe at prøve os selv det muligt i verden. Så vi arbejder målrettet på at vokse især på de amerikanske markeder, men også på de danske og spanske markeder, har vi projektet lige nu. Så det vil lade af, at det skulle vi have lade af for kunder, men også af strategiske partnerskaber, altså hvem der gerne vil have med til en videreafturløsning, og kigge på hele vanske kræsler, hvor ikke kun ned i røststemerne, som der er rigtig mange der er dygtige til. Vi går op i den store skala på det holistiske overblik, at nogle der lejmer også og hjælper sig med at komme ud på det insulterne marked, så er vi klar til at lege med.
+
+00:06:30
+Tak for at mærke sig med den.

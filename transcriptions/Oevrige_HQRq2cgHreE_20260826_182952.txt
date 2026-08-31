@@ -1,0 +1,122 @@
+=== DNNK Webinar Transskription ===
+Kategori: Oevrige
+Video ID: HQRq2cgHreE
+URL: https://youtube.com/watch?v=HQRq2cgHreE
+Kilde: lokal transskription (faster-whisper small, dansk)
+Transskriberet: 2026-08-26T18:29:52.889832
+
+==================================================
+
+00:00:00
+Så med det så tror jeg, at I skal tage styringen, Andreas og Lars, det er for min Andreas, der gør det, ikke? Jo, det er det. Godt. Så må I lige sige, at det er rigtigt ud, der er ikke noget med et mærkeligt format eller noget andet. Ja, det er meget sikker. Men som sagt, det hedder Andreas Forsoft og kommer fra Holbe Kommune, og jeg har Lars, min makker fra Vores Håbsyningsselskab med i dag.
+
+00:00:30
+Og vi vil lige fortælle lidt om, hvordan vores arbejde med risikokortlægningen har været. Jeg vil ikke gå så meget ind i de tekniske detaljer, for det tænker jeg, at det kommer vi til at vente rigtig meget i dag. Og det er jo Jørgen og Erland, blandt andet, som er eksperter med på det område.
+
+00:01:00
+Men det starter egentlig med, at kommunen, vi som mange andre kommuner, de har forpligtet sig til Paris-hålletagens målsætning om at være klimaneutral i 2050, som en del af DQ20. Og i den forbindelse har vi også nogle krav om, at vi skal kigge på konsekvenserne, for konsekvenserne af klimaforandringerne. Og nærmere bestemt siger, at vi skal lave modering af de væsentlige klimaristiske, og vi skal analysere de konsekvenser, og så skal vi have beskrivet de tilpassningstilltag, som er nødvendigt.
+
+00:01:30
+Så i det arbejde, der havde vi behov for at få lavet en risikokortlægning. Og derfor så tog vi så fatt i vores forsøgningsselskab, fordi vi så, at vi havde et behov for at få lavet nogle opdateret data på vores klorikerede områder. Så der fik jeg fatt i Lars på et meget tidlig tidspunkt.
+
+00:02:00
+Vi fik satte sammen i en lille gruppe, bestående af repräsentant fra vores bildevandsteam, og så planordelingen, hvor jeg sidder. Og så Lars, som repräsentant fra Force, om at få opstille de forudsætninger, som vi havde brug for at få lavet de her analyser på. Og vi har også spareet omkring valget og rådgiver. Og så har vi egentlig kørt sådan et ret tæt parlvøb efterfølgende både forhold til, da vi så har fået data fra fortsætsrådgiver, som vi kunne bruge i risikokortlægningen, som CBMC har lavet for os.
+
+00:02:30
+Og så har vi gennemgået resultaterne sammen. Og så har vi også haft samarbejde om at sætte udarbejdet af planen, det som jeg har en forvending om, at vi fortæller det til samarbejde, når vi så skal til at komme i gang med at handle på de her ting. Men en del af DECO 2020, der er jo de her kraver, om at vi skal analysere og vurdere vores primære risikokiller eller farakiller.
+
+00:03:00
+Og det er jo de her vandrelaterede problemer, og derover har vi så destine temperaturer, flere og længere hedebølger blandt andet, blandt andre ting også. Man i og med, at de vandrelaterede farakiller af Mæerseren, håndgreblier og beregne risikoposter, er det også dem, som vi så har fokuseret på. Grundet den datatype, så er der, hvor CBMC har regnet på risikodere, så har været på regn, hav og de vandrelaterede oversvæmmelser.
+
+00:03:30
+De har også kigget på destine grundvand, men det har været en lidt anden tilgang til det. Men det har betydet, at vi har kunne få en samlet risikokortlægning på tværs af alle farakiller, og vi så kunne få et overblik over, hvad er den primære risiko nu her, og hvordan vil det se ud i fremtiden.
+
+00:04:00
+Det behov vi så, det var, at vi gerne ville have, at vi selv kunne arbejde videre med data efterfølgende, så vi kunne lave nye analyser, når vi fik op det til at data eller vi fik nye viden, og at vi så kunne bruge det i vores prioritering mellem de udpadde områder, som vi så får lavet i den her ordnet screening.
+
+00:04:30
+Og der valgte vi så CBMC, fordi vi blandt andet så kunne få adgang til Yucat, som jo nummer i lige retmeret, Jørgen og anden, er en tidlig version af det her MUDP-projekt. Så vi har værktøjet til os selv at kunne lave analyserne fremover, når vi så skal til at reviderer på den plan, som vi laver.
+
+00:05:00
+Og ud af den kortlægning, der fik vi ligesom et vigtigt budskab, og det var, at regn det er den primære kilde til risiko i dag, og over de næste 50-100 år, der vil det være stormflod og havstigningerne, som vil være den primære kilde. Og det kan man sige, det er jo sådan et ret solidt budskab, som vi kan nemt få medle til vores politiker. Så det, baseret på det, gjorde så, at vi valgte at udparre en række fokusområder på regn,
+
+00:05:30
+og så lige ledes på havvand, da vi så, at der er et behov for, at vi lige så får lavet, formulerede nogle indsatser på begge områder, som vi så kan gå videre med nogle analyser og så i det ontsæt projekt. Så for stormflod, der tog vi direkte udgangspunkt i den kortlægning, vi fik, og brugte risiko kortlægningen til, og lavet de her udpegninger, som vi så skal arbejde videre med,
+
+00:06:00
+og han udserer lidt mere på, og så kan vi så forvente, at vi så kan bruge risikoanalysen, og jukehat i den process, til så at få privaterede imellem de områder før vi går videre til et ontsæt projekt. For regnvand var vi lidt nødt til at vælge en lidt anden tilgang. Vi startede egentlig på samme måde med at tage udgangspunkt i de kloakoplande, som brugte ud i risiko kortlægningen, men vi opdagede ret hurtigt,
+
+00:06:30
+at vi oplevede en del opland, hvor det var en enkelt skade eller en enkelt kilde, kan man sige, som var årsagt til, at hele udpegning eller et helt opland brugte ud i vores analyse. Det var som regel af erhvervudsbygninger med rigtig mange for dregetmeter, så vi kørte ud og kiggede på nogle af dem, og nogle af dem har sikkert allerede gennemskodet det på de her to kortedsnit. Men de fleste tilfælde, der var det enten en dagligvarputik eller en lærerhald med læse rampe,
+
+00:07:00
+hvor de analyser, for som vi havde fået, de viste lige som at banet samlet sig der, og det gjorde så, at de har bonget ud i vores risikoanalysen. Så i stedet først måtte vi gå vores årsvemsanalyser manuelt igennem, og så ude fra nogle kriterier har vi så lavet nogle manuelt udpegninger, kan man sige,
+
+00:07:30
+som vi så skal kigge nærmere på. Bør vi så, ligesom med stormflod, så kan bruge risikoanalyserne til at privatere imellem de udpegninger, vi har lavet. Så for stormflod, der har vi kunne bruge risikoanalysen tidligt i processen, og så regner vi med at gøre det igen senere, men for regnvand, der kommer det først senere. Så det er egentlig en liten pointe, det er, at vi skal huske, at resultatet, vi får,
+
+00:08:00
+det afspaler det data, vi bruger, og det er vigtigt, at vi kan ikke bare kigge på risikokortlægningen, isoleret sig, at vi er nødt til at vide, hvad det er for noget data, som ligger bag, for at vi også kan komplodere noget fra det. Så det er også en ret vigtig læring for os, at det er vigtigt, at vi først får gennemgået rådstrømmelsesanalysen, så man kan få sorteret i det. Og med det er så vanligt, giver ordet til Lars.
+
+00:08:30
+Jeg kan se, der er lige et spørgsmål, skal vi tage det under vejs her, er det smartest? Det kan vi da godt. Det lyder rigtig spændende, hurtigt spørgsmål omkring stormflød, er det sammenlige resultater i form af kødsplanlægger, og det andet i forhold til det manuelle gennemgang, er det altså hvor lang tid til at det, kan jeg sige lidt om det? I forhold, hvad mener du med sammenlignelige data?
+
+00:09:00
+I kødsplanlægger er der jo også en årlig skadesøkonomi, der er beregnet ved forskellige stormforsændelser. Ser det ud til at passe nogenlunde med det, i har beregnet, eller er det meget skudt ved siden af? Det har vi faktisk ikke været ind og kigge på. Vi har ikke kigget helt så meget på, hvad de konkrete skader, altså talene på dem,
+
+00:09:30
+vi har mest brugt dem som sådan en enhed for at kunne sammenlignen på tværs af de forskellige kilo, og så efterfølgende nu her, hvor vi så skal til at prioritere imellem dem, og så tænker jeg, at når vi skal til at lave projekterne og finde ud af, at hjemme hvad kan så betale, så vil vi begynde at kigge på de reale skades i krone og øre. Så på den måde har vi gået lidt mere sådan, vi har ikke kigget på det som krone og øre, men mere bare som en enhed, hvor vi så kunne sammenligne områderne imellem.
+
+00:10:00
+Det andet, du har i forhold til, den malnuelle gennemgang, den har taget et par dage, altså man kan sige, det har kun været for vores klorikerede områder, og vi har ret meget, ret store landområder i Hållby kommun, så det har taget et par dage at gå det igennem, og det har vi allerede været ved at kigge på de forskellige byer områder for at se, men hvad viser de overstrømtesdater, som deler den kvalitet til kring,
+
+00:10:30
+som vi gennemgik, da vi måde tåde data fra forhåretsrådgiver? Det lyder fint. Andreas, kan du give mig styringen, så kan jeg klikke mig gennem den her? Jeg tror, du skal andemåde om. Så, må vi se, om jeg kan nu. Jeg vil sige et ganske kort få ting, og i den her sammenhæng,
+
+00:11:00
+der er vi jo som forsynsskab ved med til at leverere overstrømtesberegninger for de områder, hvor vi har modeller, og det er jo egentlig også en særskild punkt, at man skal huske, at de steder, hvis man skal analysere det her for en hel kommun, så er der steder, hvor der ikke er klorak, eller der er steder, hvor der ikke er regnvandsklorak, så der skal man selv finde på et eller andet, hvis I er bare i overskrifter. Det kan jeg længe og alle andre undskylde at gøre. Nu har jeg nogen forslag til, hvordan man kan gøre. Jeg har været sådan et rundt om mig selv i forhold til input,
+
+00:11:30
+i forhold til de her beregninger, fordi vi har gjort det, at vi har brugt vores Mike Urban modell, og koppede den sammen med en overflade modell, og kørt beregningerne på det, som ubelbart var i min forståelse, det bedste grundlag, vi overhovedet kunne have, og det har jeg reflekteret en del over, og jeg vil prøve at dele noget af det mere her. Her ude til venstre her, der ser man en representation, det er hovedet fra Skalco,
+
+00:12:00
+hvor de lille prikker representerer vejrestene, og de gule prikker representerer dækseler. Dækseler kan så både være i det her tilfælde, af det fjernvarme område, så det kan både være fjernvarme, og medgang til vores hovedkloak og sådan nogle flere stil. Og det har jeg så tilvandt mig at kalde virkelighed. Og Wooptie, så kommer vi hen mod, der er mange skudt billede her, det var det irriterende, jeg klikker den hele vejen ud, så kan vandet komme på til sidst.
+
+00:12:30
+Wooptie, det jeg vil vise, det var det her Mike Flott, som er måden, hvor på Mike Flott, ligesom representerer den virkelighed, nu kalder jeg det så virkelighed, det må jeg lige tage med grøntsat, og det er altså ved at inddele verden i små firekanten, og lave nogle teleportationer ind til de her, som jeg kalder Knude nummer 1, 2, 3, det her, og derfra der møder overfladen vores rørmodel, som er Mike Urban dernede, og Mike Urban er jo kendt verktor, som vi bruger meget i forsøgningsbranchen, og det er jo lavet udviklet til at regne på rørsystemer,
+
+00:13:00
+og regne på hovedsystemerne, og det har altså ikke alle de her indgangspunkter, så vi får med stikledninger, og vejræster og alt den slags. Det har skal gå heller ikke, og vi ser hvordan, hvad hedder det, strømlingsvejen er ulystigt, sukset heller over, flere af de her vejræste eksempelvis, og lige i det konkrete eksempel, der der strømlingsveje, der går nord og syd, og et eller andet hen til den her, nu hedder vejen Kløvervej, og hvor der er en større samling af vand,
+
+00:13:30
+og så stikker vandet af vest på, det er en ude af gode strømlingsvejen, hvis man kan sige det sådan, og med den, de vejræster, der viser der, der tænker ikke, at det skal gå af en relevant representation af, hvordan vandet kommer til at stå der, for det vil jo helt sådan stå, at drene af via den, de forbindelser, der lavede, og Mike Urban, andet bedre representation, det vil jeg faktisk ikke, altså jeg har i hvert fald, og måske det er ondt fag, at lave det på et medslag her, men jeg har jo også blevet mærksom
+
+00:14:00
+på en måde, hvor på vores modeller, satte op og regnede, det er det her, med vandet falder på fladen, og så uanset, om stikkeledninger står nok, eller vejræsten er stoppet, eller ej, så brugte de havnet nede i systemet, og hvis det går i udvikling med overfladen, så er det først, efter det har været nede i røren, så det er ikke sådan, som regnen faktisk falder, hvis man kan sige det sådan. Og i alle de her, jeg synes, vi har set nogle eksempler på, hvor for eksempel de her læse ramper som massen, jeg ved godt, det er det andet,
+
+00:14:30
+en anden på engle, men man kan sige, vi kom ud i nogle sjov steder, hvor vi tross et, må jeg sige, dyrt, og hvad havde det bekostet, model, udgangspunkt. Jeg synes ikke, vi har fået nogle resultater, som vil betegne, som væsentlig bedre i forhold til Skalgo. Jeg siger ikke, vi skal drop mark flot, jeg siger bare, at i de her type beregninger, i de her screeninger, der er opløsningen generelt, i alt det her, i en sådan grad,
+
+00:15:00
+så jeg vil, næste gang, der vil jeg givetvis bruge noget mere simpelt, gerne, jeg forestiller mig noget, i tillægge kalder jeg en bog, noget, altså sådan sådan, Skalgo-agtigt, men noget kommentation for nedsivning, eller kommentation for klockerede områder, og så vil jeg gennem min, min mic beregninger, til de her, det er den iteration, vi har kommet frem til nu, så det skal øvrigt også til at lave, men altså, hvor vi dykker ned i de konkrete områder,
+
+00:15:30
+skal givetvis være nogen, der sidder og lyder med, der synes, at det var noget af det dummeste, de nogen havde hørt, og det skal være fuldstændig velkomne til, og hvad vi vil sige, det gode ved U-Kat er i hvert fald, at man kan selv vælge sin religiolus, man kan sige det sådan, altså, hvis man har nogle modell- beregninger, som man har fået top-tuner til, at man tror virkelig holdt på dem her, eller ellers kan man bruge dem som input, og ellers kan man også få indtil beregninger, som nogle
+
+00:16:00
+skaldtuberegninger, så er jeg, ja. Jeg kommer nogle spørgsmål, I må godt sige holdt. Det var det, jeg også bringe ind her, Lars, det er jo han igen fra Ackens. Jeg tror, der er en interessant pointe her, jo netop med, hvad er det for et niveau, parmaler man spiller i, fordi som du beskriver, den måde i at fået mig et flot modellet sæt op, så er det rigtig, så er der
+
+00:16:30
+en sæt op på en sådan måde, så hvad er det først, skal ned i klokken op igen. Men det er jo lige så meget valg, man kan gøre, og måske meget af det, der taler lidt om mange frihedsgrader, der ligger i en micflot, som også sker den meget høj niveau af komplektitet. Og jeg kan ikke være mere enlig i forhold til snakker- screening, som er det, at vi starter, og så måske vi hænger ting lige til siden hen. Men det er mere billede derom micflot. Alt så gør det der, lige, vi skal tænke om, om du også ligger flere eller mindre i det,
+
+00:17:00
+men ellers, synes jeg, der er en god pointe her i, fra det meget komplekse til noget sæt på, som er det, der ligger i. Ja, og jeg måske sige helt ærligt, så var jeg ikke klar over, at der var flere forskellige måder at sætte en micflotberegning op på. Jeg troede, at der var mic open, og så var der flot, hvis du smidte en overflade modellet på. Det første i forløbet eller efterfløbet vil jeg faktisk sige, at man kan lave det forskellige måder. Men der må jeg bare sige, at så fuck, det bliver svært, hvis man skal
+
+00:17:30
+lave det, vil det falde på overfladen. Hvis du skal have all de her low points, hvis du skal have noget, der repræsentativt minder om den måde, så strømmer mig ned i kloaksystemet. Det bliver nogle togne modeller ud af det her. Tænker jeg nu bare. Jeg bryder ind og forslår, at er vi lige forgivet jerespersonistationen færdig for at flere spørgsmål, og så måske tage kjertan også har været på, fordi det samme emn i handen kommer ind over. Der var mange relevante kommentarer og spørgsmål ude i forum
+
+00:18:00
+nu. Vi har også haft sådan en tidsplan, så hvis vi må få lov til at gøre den færdigere at køre kjertan efter det. Jeg havde faktisk også tænkt, at jeg så, at kjertan skulle prøve efter mig, og så tænkte jeg, at det er meget spændt på. Men nu, jeg tænkte i hvert fald, at om ikke andre, så når man er med i nogen webinar her, så er det altid det her, sådan skal I tage, det er at sige her. Men nu er jeg ikke fordi, jeg havde så væsentlig meget mere end det her. Nu prøver jeg lige at klikke ned til den næste. Spørgsmål, se, vi er noget af det.
+
+00:18:30
+Så kan vi faktisk nå et enkelt spørgsmål mere. Erlande, jeg ved ikke om du har været overblik over, hvad der var mest urgent af den, der har været her? Det er svært at sige, jeg har ikke fuldt ned, jeg har ikke læst, at alle spørgsmålen er allerede nu. Nej. Nej. Okay, så lad os...

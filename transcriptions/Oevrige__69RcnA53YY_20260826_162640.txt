@@ -1,0 +1,248 @@
+=== DNNK Webinar Transskription ===
+Kategori: Oevrige
+Video ID: _69RcnA53YY
+URL: https://youtube.com/watch?v=_69RcnA53YY
+Kilde: lokal transskription (faster-whisper small, dansk)
+Transskriberet: 2026-08-26T16:26:40.777324
+
+==================================================
+
+00:00:00
+For et stort tid, der skrev andres til mig, om jeg ville komme og presentere det her med Ranskning af Rejnmand. For dem, der ikke kender mig, så kommer jeg fra Teknologisk Institut, hvor jeg sidder på Rørescenteret, hvor vi har et netværk, der hedder mann-kvalitet og batter. Der sidder også en del af, som jeg ved, at jeres organisationer er med i det her netværk, så måske har I hørt om det. Men jeg tænkte, det kunne jeg da sanges, og så samtidig blev mig og Mathias kopt sammen, og det finder jeg så ud af, hvad efter hvore for.
+
+00:00:30
+Men inden jeg begynder at presentere den her vejledning, som vi har lavet i det her netværk, så går jeg lige et skridt tilbage, og det omkring det her med, vi sidder en blanded skarre folk her. Hvad er det egentlig, vi vil, når det er, vi snakker separerering af Rejnvand? Hvorfor er det, vi gør det her? For det har rigtig meget gør med også det her med, hvorfor det er, vi har gået ud og lavet den her vejledning. Og meget af det, vi sådan gode arbejder med, det er, når vi separerer Rejnvand, så er det for at få det væk fra Spildevandsledninger, så vi har det separeret Rejnvand i enledning.
+
+00:01:00
+Spildevand i en anden ledning, og det er primært for at undgå de her fællesårerløb, vi har hørt så meget om. Kunne vi det, så bygget vi jo bare rentningsanlæggeren, så kæmpestore vi overhovedet kunne, så vi kunne håndtere alt det her vand på en gang. Det kan vi jo ikke altid. Nogle gange så har vi også det her med, så vil vi egentlig gerne bruge det her Rejnvand til nogen andre ting. Og de seneste på, der har kommet rigtig meget mere omkring det her med at bruge det til rekreativ formål. Der er også nogen, der bruger deres Rejnvand til tolletskøl og tøjvask.
+
+00:01:30
+Så igen vil vi gerne vide lidt mere om det her Rejnvand, og vi vil sikre også, at der ikke er så, som jeg skriver. Beskytte vores recipienter, fordi her er uanskeligt stoffer. For der er ikke nogen her, der måsede at tro, at Rejnvand er rent. Det er det ikke. Lige gulv det om det er Rejnvand, når det kommer fra himlen. Eller det har lydet overflade, så er der få regne stoffer i det. Det er bare forskelligt, at få regne der. Og det skal man altid have i tankerne. Og så er der det her med, at vi vil gerne de her ting. Men samtidig arbejder vi også altid for deres forsigtighedsprincipt.
+
+00:02:00
+Vi vil ikke lide noget ud til vores recipienter, som kan være med til at få regnet dem. Vi vil heller ikke bruge vores Rejnvand rekreativ. Hvis vi risikerer, at børnene går hen og stikker fingere ned i det her vand, og slikker på det og bliver syg bagefter. Det er vi heller ikke interesseret i. Så der har været rigtig meget omkring de seneste på, hvordan vi renser det her Rejnvand. Og det der er al de her ting, de skal kunne gå hånd i hånd. Vi skal rense Rejnvandet, vi skal separere det, vi skal ikke udlede noget. Så det er rigtig mange ting, der skal spille ind i hinanden.
+
+00:02:30
+Så det er ligesom grunden til, hvorfor det er, at vi går ind og renser. Og så har vi også lige det der med, at vi har også en lovgivning i Danmark. Og den skal vi også overholde. Så det har vi også lige taget med, fordi der sidder måske også nogle her. Der er ikke lige helt altså stærke i den her lovgivning. Og jeg har altså ikke tænkt mig lige at køre alle de her forskellige paragrafer, og det er egentlig igennem. Men der er sådan i Danmark, der har vi en miljøbeskyttelseslog, som ligesom står øverst. Så har vi for EUs vandetid, der har vi vandremtgivtid, som også går ind og dikterer nogle ting. Vandremtgivtid går altså ind og dikterer ret meget i forhånd til det her med rænsning af Rejnvand.
+
+00:03:00
+Derunder har vi nogle bekendtgørelser, som gør, at vi når vi udleder Rejnvand, skal sørge for, at det bliver rænset. Og så ved jeg ikke, hvor mange af jer, der er bekendt med det her med, vi har i vores lovgivning. Det her stående katten, der har godt pej heroppe. Ja, det katten, det her batbegre. Det bedste er velet både teknologi, det er der størst og simpelthen indskrede i vores lovgivning omkring, når vi udleder Rejnvand til resiplenter.
+
+00:03:30
+Nu stod jeg i går over i Odense, eller jeg sad faktisk i går i Odense og hørte nogle folk og snakker om det her karren. Hun er rigtig meget karrensiden, pejrer sig ned på der karren, meget omkring det her batbegrep og lovgivning omkring det. Men det her batbegrep, det kommer tilbage fra industrien, så når man har forbrænger og man kræver, at tingene skal laves til bat der, så er det noget med processer og det er noget om den processlinje, man arbejder. Det har man valgt og set ind i de her lovgivninger, og det gør faktisk, at vi står og har nogle lidt store udfordringer. Det kommer vi tilbage til.
+
+00:04:00
+Så det, der er med lovgivningen, det er, at vores lovgivning, den siger simpelthen, at når vi arbejder med Rejnvand, og det skal udledes, så er det vigtigt, det skal tænke på, det er resiplenterne. Og det kommer lidt frem til det her netværk som sagt, som er stiftet tilbage i 2020, den gang sidder karren på Tekologisk Institut, som andre startede med at sige, der var en masse netværk, der blev lagt sammen under DLNK, og der valgte man at lave det her netværk, der kun handler om vandkvalitet og bedt.
+
+00:04:30
+Netværket har en hjemmeside, som I kan se her, den hedder Rejnvandskvalitet, venestrej, apc.teknologisk.dk, ja, den er meget langt, det er jeg ked af. Slejelsen bliver de også sendt ud bag efter. Der bliver nicket, så kan I se linket det om. Men det, der er omkring det her med bad, det er igennem historierne, der har det her med bad været diskuteret rigtig meget, mange gange, og hvordan man renter Rejnvand til bad.
+
+00:05:00
+Og der kan man sige uhelligvis, heldigvis, det kommer ind på hvad for en side, man sidder på her. Der har der været nogle klaneunstader, hvor der er blevet gået ind og sagt, at Rejnvandsbesænger kan være bad. Så når man sidder med folk i kommunerne, der sidder som myndigheder, ja, men så ved de, at Rejnvandsbesænger er bad, der står i lovgivning, når vi udleder Rejnvands, så skal det rentes til bad.
+
+00:05:30
+Gæsild, hvad der sker, der bliver rentet til Rejnvandsbesænger, og alle de her renterteknologier, når vi lige hører dig på Rockflow, de har svært ved at komme ind på mangageder. Så det der var mening med det her netværk, og det er et netværket arbejde med, det vil jeg simpelthen at sige, vi har rigtig mange teknologier om markedet, hvordan får vi dem med ind på markedet. Et af de ting netværket klart ville have på det tidspunkt, det startede, det var at sige, de vil gøre, der var skulle ligge katalog over forskellige renterteknologier, man kunne skaffe. Og de her renterteknologier skulle testes på en ens måde,
+
+00:06:00
+så når man sad at skulle vælge en renterteknologi, så hvis man, at der var testet på den samme måde, så om man kunne kigge og sige, okay, jeg skal vælge bad, og bad er også noget med økonomien at gøre, skal man lige huske, det har ikke kun noget om at gøre om, hvordan det her rentes, det er også økonomisk, hvad der er økonomisk forsvarligt. Så når man sad som forsøgning eller kommun, og skulle vælge et teknologi, så kunne man kigge i katalode og sige, den her produkt, det er blevet testet i henhold til den her vejledning, som netværket har lavet,
+
+00:06:30
+og så kunne man sige, okay, jeg står i den her case, jeg har det her vand, der kommer ind, det skal lade se ud, godt, jeg vælger denne her teknologi. Det var det overordnet mål hele tilbage, da netværket startede, og det er også stadig det netværket, det arbejder med primært. Der er en hjemmeside som sagt, der er den her liste over produkter, den kan man finde, der er 10 produkter på den liste nu, tror jeg, der, og så er der denne her vejledning, den ser sådan her ud, hvis man printer den, den ligger derinde, den er frit tilgængeligt,
+
+00:07:00
+det er Mathias, blandt andet, der kommer til at snakke om, det er, han har prøvet vejledningen, den er i en form, hvor vi gerne vil have den blive testet, men der er selvfølgelig også stadig ikke nogen ting, der skal finjustere at sige den, fordi når man har siddet bagbord af ting, vi gør det lige sådan her, så når man står ude i fælden, så er det ikke altid, det kan jeg altså gøre. Så det, der er med vejledningen, det er, den skulle give denne her testprocedyr til test af renseløsninger for regnerstrømning, så vi havde en test, der er anerkendt i den danske vandbranche,
+
+00:07:30
+der blev udført ens form i test, fordi her teknologier, så der var et bedre sammenligningens grundlag, og jeg synes, vi er kommet en rigtig stykke langt hindervejen, vi har vejledningen, den er ude at blive testet flere forskellige steder, nu skal vi bare have resultaterne ind på hjemmesiden, og den måde, den her vejledning, den er bygget op på, det er ligesom sådan et trætrinsmodel, som man kigger på tester, og bliver foretaget i laboratoret, så bliver der kigget på sådan nogle pilotest,
+
+00:08:00
+og så bliver der kigget på fæltest. Jeg skal nok lige komme lidt ind på, hvad forskellen er på de her 3-test. Og som sagt, der er jo rigtig mange produkter på markedet i dag, så det, man gør, eller vi gør når, nu siger vi, det er netværket, gør det, når der er et produkt, så kigger man på, og findes der allerede noget dokumentation, er produktet fx testet i Tyskland i henhold til den tyske DWA-test dernede, ja, men så kigger vi på det, og siger, okay, den ligner meget, den måde vi også kræver på i vejledning, der skal testes af, den er faktisk en samme,
+
+00:08:30
+og så siger man, okay, der ligger noget dokumentation, godt man behøver ikke at gå ind og lave en yderligere test, hvis dokumentationen er god nok, så er det de resultater, man overfører til de danske resultater. Hvis ikke, hvis nu det er et nyt produkt, eller det ikke er blevet testet i et anerkendt laboratorie, ja, men så må man be, ofte er det jo producenten, om at gå tilbage og lave nogle test i laboratoriet. Det sidste der er, men det er de her felt-test, som er delt op i pilottest,
+
+00:09:00
+og de her felt-målinger, og som sagt, jeg kommer lige lidt mere ind på, hvad forskellen er på de her to. Udover, at man har lavet denne her procedure for, at man har de her tre trin, man skal igennem, og der skal du sige, hvis nu man ligger, har rigtig mange felt-målinger, så kan man sange sende dem ind, og så kommer de frem som resultater, hvis de bliver godkendt. De fleste har laboratoriet testet, så det er ikke sådan, man skal alesbringe fra det en til det andet. Så er der lavet et minimum-statusest
+
+00:09:30
+over, hvad der skal testes for, og det her set er, du har diskuteret rigtig, rigtig meget, både før og netværket, og også i netværket. Det, vi har valgt at sige, er, at der er minimumstoffer, der skal testes for hver gang. Man må gerne teste for meget mere, det er der overhovedet ikke nok, så følger man det, men de her stopper skal bare være med, og I kan se, at der er nogle metaller, der er nogle pH-er, og så er der nogle næringstoffer. Grunden til, at de er dem, der er udvaltet,
+
+00:10:00
+det er simpelthen, for det, vi ser udeledningstilladelserne, er det ofte dem, der bliver stillet krav til. Så er der selvfølgelig partikler, og det er fordi, det er rigtig meget forordning, vi har i regnvandet, det bliver fjernet ved partiklerne, så selvfølgelig skal det også testes for, hvor meget partikler bliver fjernet. Og så er der nogle fysiske målinger, så det er rigtig rett at vide, hvad for en pH, der vandet har haft, når det bliver lidt ud igennem, og det samme kontaktivitet,
+
+00:10:30
+for det har noget at gøre med, hvor mange partikler, der er til steder, hvor stor de er. Så er der også stillet krav, med den rekreative brug af regnvandet, at der skal kunne skrives ind, i hvordan den her teknologi kan få en adorn til at fjerne bakterier. Det er ikke et krav, der bliver testet for det, men der skal skrives, om produktet kan fjerne bakterier, ved at man sætter UV til, eller noget i den stil, eller det i sig selv kan fjerne bakterier. Så det er ligesom de ting,
+
+00:11:00
+der bliver testet for. Og så var der som sagt det her med, vi havde de her tre test-laboratorietestene, hvordan man gør det, hvad der er minimums krav til, man skal gøre hele tiden. Så for eksempel for laboratorietestene, der er krav om, der skal være tre gennemkørsler, man tager indløb og udløbsprøver, i både laboratoret og i pilotest udefælden, der måler man på kunstigt vand, det vil sige på milisilt partikler, og en regnvandskoktil, bestående af de stoffer, man skal have. Når man så begynder at snakke om fæltest, så er det altså på rigtig anlæg,
+
+00:11:30
+der står der ude og bliver brugt, hvor man simpelthen måler på rigtige regnhældser. Det gør selvfølgelig, at det her er noget, der tager lidt tid, fordi erfaring viser, hvad man skal lave målinger på regnhælder, så regner det ikke. Vind det, at den kommer på gang. Sådan er det sværere. Så det tager rigtig meget tid nogle gange det her. Som jeg også kan se, så er der også hele tiden krav om, at flowet bliver noteret, og man ved, hvad flowet er, så man også ved, hvor hård belastning man laver på de her teknologier.
+
+00:12:00
+Men der er en lille forskel på de her målinger. Og det der så sker, til sidst, det er resultaterne, de kommer ind, og bliver vurderet af en tredje part. Det er ikke enten, hvad teknologisk institut, det kan også være en anden vidensinstitution, eller GTS, der ligesom sætter sig ned og vurderer resultaterne, og om de er lavet i henhold til, hvad vejledningen kræver. Og så bliver resultaterne lagt op. I kan se, at der ligger faktisk allerede to produkter, der har fået testet deres produkt i laboratoret. Og de bliver jo også lagt ind på den her hjemmeside.
+
+00:12:30
+Og så kan man se her, der er et eksempel på Setipile, men de har fået testet, og deres resultater ligger her. Det skal også være sådan, I skal forstå, at det er ikke sådan, så hjemmesiden ranker de her systemer, eller stiller dem over for hinanden. Det er brugeren, der vurderer. Jeg skal vælge en teknologi. Den skal kunne rense til det her. Jeg kan se resultaterne på de forskellige produkter, liggende her. For der er jo selvfølgelig også mange forskel på, med de her teknologier, vi kigger på, hvor stort oplandet er. Hvad for noget forening, der kommer for at blande.
+
+00:13:00
+Så der er jo selvfølgelig en vurderingssag, for gang til gang. Og som et ansigste slejt her. Husk lige det der. Det her er ikke en tryllepænd, der lige bliver kastet op, og så har vi løsningen. Der kommer til at gå tid. Det tager rigtig lang tid at teste, i særen, når vi har snakket om feltest. Så vi skal være tornmåde i. Gikker hende var anders. Og vi prøver virkelig at få det her frem, og få det gjort så hurtigt, vi overhovedkærn. Men der skal jo selvfølgelig testes. Og så skatter det også,
+
+00:13:30
+hvad den her risikovillighed for, når de anlægge bliver placeret rundt omkring, for ellers kommer vi aldrig til at lave feltestene. Vi kan lave laboratorietestene. Vi kan gøre det så godt, vi kan. Men hvis vi ikke kan få anlægene ud og prøve i virkelig verden, så kommer vi ikke ud. Yes. Ja, mens Anders lige kobler mig på.
+
+00:14:00
+Jeg hedder Mathias. Jeg har et firma, der hedder Vannemand. Og vi arbejder med planlægning, regn og spilvandsløsninger. Og det handler jo højt grad om, at vi gerne vil lade vandet et eller andet sted hen. I sidste ende. Så ud over Hydraulik er det jo rigtig meget med vurdering af vandkvalitets, måske måling af vandkvalitets, i en periode i hvert fald. Og simpelthen med henblik på at finde ud af, hvad det er for en rentemidur, der vil være passende til at kunne kononterere den her type af vand. Og jeg har ikke været en del af den netværk,
+
+00:14:30
+som Katrine lige har presenteret her, som har udarbejdet vejledningen. Jeg blev bet om, at Anders Labendous og gennemfør en modekampagne, som tog udgangspunkt i den vejledning, og med noget støtte fra DNNK i øvrigt. Så det, jeg vil gøre i næste 20 minutter, er at præsentere, hvad det er for et data set, der kommer ud af at følge den vejledning, som lige har blevet præsenteret her. Og ligesom at have det i udgangspunkt, til sådan en mere generelt diskussion om,
+
+00:15:00
+hvordan skal vi arbejde med sådan nogle data set for rentemetoder, selvom det så er med udgangspunkt i et rockflow-anlæg, der er bedre modt på. Så en lidt mere specifikt, de næste 20 minutter, Anders, det er ligesom nogle spørgsmål, i forhold til, at jeg vil kigge i gang med den her modekampagne, som kigger på, hvad er det for nogle data, vi ender med at stå med? Hvorfor lige er de? Hvor gode er de til at komme videre imod det mål,
+
+00:15:30
+som vi egentlig gerne vil have, at vi får en lidt mere dynamisk, større flexibilitet i vores klimatilpassning, at finde nogle løsninger, som er bat, som er de store våde rejmandsbassinger. Så det er for os, næste spørgsmål, hvor robust er det egentlig, det her, vi får ud af det, hvis vi sammenligner med det, vi har i dag, og betragter som bat, og også, hvordan skal vi angribe det her med, at vi taler om nye metoder, selv sagt, vil vi ikke have et ret stort data set,
+
+00:16:00
+når vi starter ud, og vi har aldrig nogen set den nu op på et niveau som våde rejmandsbassinger, fordi det er det, vi har anvendt i mange, mange år over hele verden. Så hvornår er vi i et sted, hvor vi begynder at kalde det bat, og hvad er det for nogle diskussioner, vi skal have i dag, og i fremtiden om, hvornår accepterer vi, at det her som verden er bat. Og hvad gør vi så, i tiden efter, når vi har taget springet, på nogle punkter, og kastet os ud i det, hvordan sikrer vi en opfølgning, som både, giver os en viden om,
+
+00:16:30
+hvordan belaster vi egentlig, de recipienter, vi udleder til, det er jo sådan set det overskygende mål, men også fungerer det her, som vi har regnet med, og bliver det ved med at fungere, der er noget levetidsaspekter, er nye teknologier, og lever det virkelig også op til den dokumentation, vi har indsamlet, meget grundigt. Så en super hurtig inflygning til den vejledning, der skulle tage et udmadspunkt i, den er egentlig rimelig lang vejledning,
+
+00:17:00
+men det er op som ved den her tabel, det man sådan set skal følge, og sådan en legrof, så kan den deles ind i, målet eller øverst, hvad er det for en dokumentation, vi får, vi får 10 regnhængelser, og et mål, for hvad kommer der ind, og hvad kommer der ud. Så er der nogle ting, som går sådan noget mere på det praktiske, det tekniske, i forhold til at set sådan en målekampagne op på regnvand, som er noget andet størrelse, næsten alle andre vandfraktioner, som er der,
+
+00:17:30
+når vi kommer og ved, nu vil vi lave det her. Det skal det ikke handle om i dag, det er mere en detalje, i gennemgang af vejledningen, og så er der også nogle ting, som går ikke så meget på rentemetoden og dokumentationer, men snarere sådan en form for karakterisering af, hvad er det inden for noget vand, vi har kigget på, i det her opland, vi har målt fra. Så som man ligger lidt hen af at sige, men vi vil gerne have, der er noget for regning, som set er målet på, så vi ved, vi har også rentet noget bort.
+
+00:18:00
+Som sagt bliver det med, udgangspunkt i Rockflow, som er belæggende i Aarhus, der er en rækdangel deroppe, med brun, som illustrerer, det her Rockflow-anlæg, som ligger i rabatten, på en mindre vej, og modtager kattenpøjden her, og modtager vand, fra et opland, på cirka en, reduceret hektar, som er en større omfragsvej, i Aarhusvej, i Beringvej, med en år støjentrafik på 18.000 køret tøj.
+
+00:18:30
+Så det er det, vi vil karakterisere, som en kraftig eller stærkt belastede vej. Anlægget er bygget op, af en sandfangsbrøn, tvivlsomfunktion, en manifold, der fordeler tiløbsvandet ud, i de her Rockflow-bats, som er 11 meter lange her, samlet også 2 meter i bredden. Anlægget er så pakket ind, Rockflow kan have både nedsiv, og rense og udlede.
+
+00:19:00
+Så det er det, som er pakket ind her, i en tæt membran, der bliver samlet i bunden, i drengelag, og leder til en udløbsmanifold. Så det vil sige, alt det vand vi leder ind her, kommer også ud, i vores udløbsbrøn. Og vi har så målet på, hvad kommer der ind, og hvad kommer der ud. Og det kan man i virkeligheden gøre på rigtig, rigtig mange måder. Og det er noget af det vejledning, prøver at tage hånd om, altså hvordan får vi ensaretet det, så vi kan sammenligne de ting, vi måler på, den tilgang,
+
+00:19:30
+jeg har valgt her, og som jeg synes er, i hvert fald i minimum, automatisk prøvetæning, og flowproportionalt. Så det vil sige, her har vi et eksempel på en regnhældelse, den sorte det flowe mål i indløbet, den blå flowe mål i udløbet, fra en hældelse den 23.12. sidste år. Og så simpelthen, for hver gang, der er blevet registreret, i det her tilfælde, én kubikmeter tilløb, bliver der taget en delprøv,
+
+00:20:00
+næste kubikmeter passeret, en ny delprøv, og det samme i udløbet, så det vil sige, man så tæt på, som muligt får det samme vand i sin indløbsprøve, som i det udløbsprøven. Og den er så udgivet af et antal delprøver, selvfølgelig af, hvor meget vand du kan opsamle, men også hvor lang regnhældelse du har. I det her tilfælde 35 delprøver, som så er blevet pulget ned i en stor dunk, i indløbet og i udløbet, som man får et resultat.
+
+00:20:30
+I det her tilfælde vil kalde en hendelsesmidelkoncentration, så det vil sige, i virkeligheden, hvad er den samlet masse af den parameter, vi kigger på, under den her kurve, delt med, hvad er det samlet vandvolumen, der har flyttet eller transporteret den forregning. Og det er det begrebet, at hendelsesmidelkoncentration, som jo til forskel fra en stikprøve, som er noget, der er simpel og gennemfør, som vi ser rigtig tit, den er udtaget på et eller andet tidspunkt, og hvis vi ved noget om flowet,
+
+00:21:00
+ved vi lidt om, hvordan det måske, men det varierer bare ekstremt meget, så når vi snakker om regnvand, giver det supergod mening, og bruger de her midelbetragninger. Dels er den her årsag, at det varierer så ekstremt meget for regnvand, at det giver bedre billede, når vi skal vurdere det, i forhold til målet, at se den endelige recipientbelastning, fordi langt størstedelen, der er en formulerende påvirkning, der er kun nogle få, som kan have
+
+00:21:30
+akuts-toxisk effekt, hvor det selvfølgelig kunne være interessant, at vide, hvad jeg har marxet på et givetidspunkt. Men sådan mådekampanjen er udført på den måde, som vi går igennem nu, den ender så ud med 10 regnvandelser, med en hendelsesmidelkoncentration, i vandet, der kom ind, og vandet, der kom ud. Det har jeg plottet op, fordi 10 hendelser, her for en af parameterne, vi har kigget, som er meget, fordi de bærer enormt meget af forretningen,
+
+00:22:00
+og jo, det er altid de største delen, af de teknologier, vi har til rådighed, baseret på at skulle fjerne regnvandelspartikler, det gælder rådbasinger, det gælder rockflow, det gælder næsten alle. Lige plottet op her på samme akser, så hvis der ikke er randsning, så fulgte vi bare den stiflede linje op her, og alt til højre for, altså en randsning, det vil sige her et eksempel, hvor vi har over 400 milligram ind, og knapp 50 milligram ud. Og så tilføjet en sort kog, lad os gå herover, der har jeg lige skalalerede lidt ned på y-axen,
+
+00:22:30
+så vi virkelig kan se, hvad det er, der foregår lidt mere detaljeret. Og så har vi så den her, som ligesom er et spændt for våde regnvandsbasinger, som vi tids sammenligner vores resultat, og med. Og det viser sådan, et generelt jo, der bliver randset for sundterede stof i det her tilfælde, men også sådan lidt brode billede af, altså, vi kan have både meget hård inløbskoncentrationer, vi kan have lavet indløbskoncentrationer. Det påvirker også i en vidsgrad, hvad vi så har i udløb. Vi har også nogle tilfælde,
+
+00:23:00
+lidt hård inløbskoncentrationer, men dog også, når vi har den højste indløbskoncentration. Så hvad stiller vi op med sådan datasat her, når vi så skal begynde at vurdere det, i forhold til nogle andre teknologier, som vi jo tit gør op imod gelende bad, et våde regnvandsbasing. Jamen så kan man jo for eksempel vælge, en oplands smidelkoncentration, en side mean concentration, som simpelthen oftest tager som medianen af de heldende smidler, du har for et opland.
+
+00:23:30
+Så i det her tilfælde vil du ligesom, hvad jeg skal af de fire største væk, og de fire mindste væk, og så ligger man et eller andet sted på et middel, for det her opland, så tager højde for, at regnvand er ekstremt varierende. Hvordan ser det så ud på nogle af de parameter? Vi skal ikke lige gå for dybnet i den her tabelt lige på næste, men bare sådan, okay, så siger vi 125 milligram SS, for det her opland, som typisk middel i tilløbet,
+
+00:24:00
+og 13 i udløbet, og så dernede af. Paranteserne, det er så de her store variationer, som vi ser. Og de er lidt interessant, når vi så går videre her, fordi dem robuste er det her, så hvad er det her så, når vi sammenligner op mod et våde regnvandsbasing? Lad os prøve først, og kig, de her kommer fra Faktabladet herovre, som blev lavet i Blande Aalborg Universitet, så er det vi meget, meget titiserer, når man vurderer ting op
+
+00:24:30
+imod BAT, og de våde regnvandsbasinger. Der er rigtig mange tal tabelt, men kan jeg rejse et okay, 125, 90, 13, 12, altså der er faktisk ret godt sammenfald mellem oplandsmediekoncentrationen i de her. Men der er noget større variation, når vi begynder at kigge på, hvad er marksbelastningen. Og hvorfor ser vi det her? Det er underligt egentlig. Det er det, som jeg ikke,
+
+00:25:00
+når man tænker på, hvordan de her tal, fra de våde regnvandsbasinger fremkommet. Fordi de fremkommede ved, at man har et våde regnvandsbasinger og baseret på en lang opholdstid er vandet i det basing i 250 kvm, og så har jeg ikke taget kænder, men der skal vinde en fald 25 mm regn, før du har fået flødt vandet igennem dit basing. Så når du måler og vil måle det ind og udløbe, så skal man i princippet måle over en lang periode
+
+00:25:30
+og ikke kun en regnhendelse, og i virkeligheden stadig ikke en stikprøve, fordi det er ikke det samme du har ind som ud. Og det er også det, man har gjort i de danske studio Life Treasure, som blev gennemført i Danmark over en lang periode hver gang der har løbet 50 kvm ud af det her basing. Så allerede der har du midlet variationen fra en hendelse ud over en længere periode. Så har du taget dine hendelser og utropleret man helt
+
+00:26:00
+masse studio fra USA. Og så har du gjort det samme som jeg lige gjorde og sagt, der er en rimelig stor variation i det. Hvad er midlen? Det er det, taget som med de hendvedi. Og så har du igen sammenholdt alle de her mange basinger på tværs og sagt, hvad er så det generelle billede. Så det vil sige, at når vi sammenligner nogle nye teknologier som er baseret på relativt få hendelser på noget af så varierende som regnvand, så må vi forvente, at der er en noget større variation.
+
+00:26:30
+Det er et fordi tidskab af en anden. Det er en hendelse kontra periode. Det er mange flere hendelser og det er på mange flere opladende på tværs. Så det er sådan set lige noget, man skal have i baghovedet når man begynder at sider og synes, okay, der er faktisk nogle ret højre koncentrationer ud af det her. Ja, men det kan du også godt opleve med våde regnvandsbasinger, det vi egentlig kalder BAT.
+
+00:27:00
+Hvad siger tiden? Så hvad? Jamen, hvad stiller vi så op med det? Når vi så vil sige, vi har det her data set, som vi nu har for workflow, er det BAT eller ej. Hvordan kommer vi videre og ud over at sige, at det er robust og sammenligning som våd regnvandsbasin. Men hvad så lige nu har vi 10 hendelser fra et opland i Aarhus. Hvordan kan vi blive sikre på, at når vi flytter det til et opland et eller anden sted i landet, måske en dag i verden, at vi kan tro
+
+00:27:30
+på, at den dokumentation, vi nu har brugt grudt og en del energi på at indsamle, vil være gelende her stadigvæk. Der er der to tilgangen til det som sammenlagt, måske kan hjælpe lidt i hvert fald til en begyndelse. Og som også er nævnt i vejledningen, det er blandt andet det her med partikler. For det er jo partikler, vi grundelæggende skal have fjernet fra regnvand. Og der betyder partiklerne størrelse en hel del
+
+00:28:00
+i forhold til hvor lett de er fjerne. Så det, vi har gjort ved kampanjen her i Aarhus, det er vi har blandt andet målt partiklestørrelsesfordeling. Og kigge på, hvor stor er de partikler, vi har mere at gøre her i forhold til det, vi ved om, hvordan partikler typisk er ud i regnvand. Og kurven her, den består af tre forskellige regnhendelser fra Aarhus, hvor vi kan sige, at andelen er partiklemasse, som er mindre end en eller anden givende størrelse,
+
+00:28:30
+så der er også prøv at hoppe ind her på kurven, hvor mange er mindre end de der cirka 20 mikrometer, der er cirka stedet med 70-80 % af partiklemassen. Det kan man i sværere livet forhold til sådan en kort her, men hvis man kigger på i forhold til den her kurven, som for eksempel er det her minisil, altså det kunstige produkt, vi synes, er repræsentativt for typisk regnvand og jo, det er også en gennemsnits kurve af en hel masse undersøgelser
+
+00:29:00
+ladet i Holland på regnvand. Så kan vi se, at vi faktisk har med relativt den er for skudt mod venstre, så vi er faktisk med relativt små partikler at gøre i det her opland. Så okay, så solenge vi har partikler på den størrelse, eller større, så burde veneregne med at kunne få nogle samme effekt i et andet opland. Så er der en bekymring om, at når man kigger på partikelmasse, så er det lidt interessant, at volume der er, der skal meget, meget få
+
+00:29:30
+store partikler til for at udgøre en meget stor andel af massen. Så selvom det synes om, at der nærmest ingen partikler er hernede under en til to my, så er der, fordi de er så små og vi snakker volymen her, altså en faktor 3 i beregningerne, så er det faktisk stadig vek langt, langt største delen af antallet partikler, der er i den størrelse, og der er meget stor overflade på mange partikler, så vi tror, at de måske bærer en stor del af forrening, så er vi fjerne
+
+00:30:00
+mange partiklerne. Men så kombineret med en målekampagne gennemfør, der viser, at vi fjerner partikler den her størrelse og jo, så ser vi også nogle lave udløbskoncentrationer. Jamen, så må vi være rimelig sikre på, at vi faktisk får fanget de partikler som bærer for reningen, så de to sammenlagt, og så er jo det et kraftigt trafikerede område, hvor vi har set alle partiklerne, og alle de eller alle de parameter, vi kigger på typisk i regnvand, så kan vi måske godt i virkeligheden flytte det
+
+00:30:30
+til et andet opland. Hej, to minutter. Ja, fordi skal vi lige så sagt om, hvordan kan vi så følge op på, når vi nu måske tager sprægget og flytter det, til et andet opland, om det som fungerer, som vi tror, og jo det er også, om vi belaster den recipient, som vi forventer. Det er det tit, vi ser, at de her krav til en ansøgning, om at kunne tage nogle stikprøver på et sidst punkt, og i virkeligheden får vi ret meget ud af det, det kommer virkelig meget andet om man tager den,
+
+00:31:00
+og hvornår i regnhændelsen, og regner det, og hvornår regnede det sidst almodig ting, så skulle vi måske prøve at også få en anden form for bat, ikke kun på rensemetode, ikke kun på, hvordan måler vi, men i virkeligheden også hvordan monitorerer vi efterfølgende, så vi får samlet mere og mere data, som vi går i gang med det, og der kunne en simpel måde som ikke af stikprøver, for eksempel være at tage det her, som er online målinger med en turbidity, som simpelthen så klart er det vand, vi har løbnet lige nu, og et eksempel her
+
+00:31:30
+fra ind, hvad man kan få ud af det jamen der er nogle prøver her, som er udtaget, og så er der en turbiditesmålning med den sort her, som kører op, falder ned, kører op igen, og kigger man så på prøverne der, så kan vi virkeligheden se, jamen det passer så meget godt med de prøver, at de første, du kan engang selv se farven de første 3-4 støkker, de taget her, så det er sådan set mørk, så bliver de klare, så kommer der igen et spike i turbidites, og så bliver de mørk igen
+
+00:32:00
+så både i det her med en stikprøve kan virkelig betyde altså hvornår har du taget den i det her forløb og virkeligheden kan vi med den her simple turbidity få ret godt billede af det og eftersom partikterne så koalerer ret godt til alle ja, til turbidites så kan vi regne, synes man det er en lang periode lige pludselig som eksempel her fra rockflow hvor vi også havde turbitesmålinger simpelthen se, om ok, det fungerer faktisk
+
+00:32:30
+som vi forventer og vi får fjernet partikter og så er der de her, så får vi så også i virkeligheden fjernet for eksempel for os fra koalationen mellem for os fra totalt stof og sink og kovre så der er ligesom en mulighed der for at prøve at lave noget simple monitorering og opfølgning og følge med som så kræver man lige, når man går i gang måske dedikerede går efter at få skabt de her koalationer, få taget en masse prøver
+
+00:33:00
+at der kan opstille dem og så ellers køre det på den måde Tak, og klappes alle med os til dig, Kathrine Tak for oplegge Jeg tænker noget, vi kommer til at diskutere det her i en paneldebat senere
+
+00:33:30
+hvor Kathrine også er med men det der er interessant for dem som kommer med en ny løsning, det er at de får det her stempel og det der er interessant for dem som sidder uden anden enden som skal købe løsningen, det er der stempel får de det stempel, når man følger den her er det der, vi er på vej hen Ja, det håber vi men det er sagt så findes der jo ikke en standard i Danmark til at give et bad stempel
+
+00:34:00
+Så på den måde kan man jo ikke altså igen, det er jo ikke sådan som jeg siger inden for denne her fabriksteknologi man kan få et bad stemmel, det findes ikke i Danmark det findes ikke i verden inden for rentning af Reinhard Så der er ellen andet som jeg siger med lovgivningen, der ikke hænger sammen men man siger man skal have bad men når man ikke har en standard som er styret af en danske lovgivning til at give bad stemler Jeg har tid til diskussionen om nu har Reinhardt-basingeren været op i klagene nu
+
+00:34:30
+skal man sende alle de her andre teknologier i klagene nu og så får det den vej igennem det hænger jo heller ikke i samme Vi kommer til at snakke om det i panelet baden, der er spørgsmål Ja eller det er faktisk, det er mere en kommentar Vi vil lige sige hvem du er Ja, jeg hedder Karin, jeg sidder ikke hvis jeg kommer fra Nires og jeg tænker det her med at give noget et bad stempel altså, at det ikke er noget der kan lade så gøre fordi bad er så mange ting men at man kan have nogle renteløsninger som er veldokumenteret
+
+00:35:00
+og så ved en renteløsning være bad i en situation og så i en anden situation så det måske ikke handler så meget om lige fra med et stempel men mere at få nogle dokumenteret løsninger som sådan en test måske eller forhåbentlig kunne gøre men så har jeg faktisk et lille spørgsmål fordi jeg tager ting på hvis man nu har en løsning som man ved så kan man ikke få kvælstof over hovedet men den er god
+
+00:35:30
+for alt muligt andre ting ville man så behøves at teste den for kvælstof i forhold til den her fordi så kunne den så ville den være veldokumenteret og få nogle stoffer i én sammenhæng og så kunne man sige den er faktisk god for vi har et opland med meget fosfor så derfor er den lige bad i den her situation jeg skal lige forstå det hvis den kunne tage fjernes fosfor eller ikke kunne fjernes fosfor hvis den kunne fjernes fosfor men ikke kvælstof behøves man så at teste den for kvælstof
+
+00:36:00
+nej i princippet nej jeg ved godt vi har skrevet det ind i den her minimums tabel over hvad der skal testes for man kunne sige man kunne teste for den og så skrive i kommentaren vi ved godt produktet ikke kan fjernes derfor kan de ikke fjernes jeg hedder Malene fra Helsingård Kommune
+
+00:36:30
+og så har jeg tænkt på det specielt metallanalyserne og måle på en filtreret prøve altså så man skældner mellem hvad der er partikelbundet og hvad der ikke er partikelbundet så ved man jo om det kan altså gøre at filtrere det væg eller ej det gør vi også og det siger wejtendig også man skal måle på den partikelbundet og den opløse grunden til jeg ikke lige har vist det på de her slides det er at det er en meget følelse om parameter der med hvornår er
+
+00:37:00
+det kommer at synge bundet eller ej og i virkeligheden skal man ud og filtrere sådan en prøve i det øjeblik man udtager den hvis man vil være sikker på det ikke står forandre så over tid så der er sådan en helt generelt ting i forhold til regnvand og akkrediterede procedure for mange parameter i hvor hurtigt kan vi få dem analyseret og hvor påvirkelig er de at det omgivende miljø på øjeblikket hvor de bliver taget så de er der man skal bare tage det med grænsalt nogle gange
+
+00:37:30
+fordi de er ekstremt varierende også fra oplands oplands altså det du fjerner langt hændervejene og det der er bundet på partiklerne som er oplands afhængigt af hvad er det for en type af partikler du har humostoffer så videre så den er sådan lidt svære at overføre men det er klart det er meget vigtig det er de opløste der gælder miljøkvalitetskraget godt, vi har to hurtig spørgsmål og hurtig svar jeg hedder Britt fra NovaFos og jeg vil spørge
+
+00:38:00
+i forhold til i nævnte DWA fra Tyskland i starten og om hvis der ligger nogle resultater fra sådan nogle instanser rundt omkring altså så behøver man eller er der ikke så gjort overvej altså om man behøver at køre hele muligheden igennem her og det er der jeg som sagt hvis produktet er testet i henhold til DWA så sætter man resultaterne til tredje part som vurderer resultaterne lever op til vejledning, og det gør de
+
+00:38:30
+fordi vejledningen er lavet ude for DWA det der skal sige, at DWA kigger kun på partikler og kun i laboratoet men det kunne for eksempel også være i forhold tilbage i alle mulige andre ting altså som vi lige hørte før, altså det bevidede jo ikke kun at være på nej, det er rigtig, jeg forstår godt om det men det kunne være der var en eller anden tabellist over test, andre test nationalen ja, altså selvfølgelig Adons er meget velkommen men selvfølgelig skal man have det her med
+
+00:39:00
+men du skal også godt spørgsmål, senere til paneldebat god, vi har en paneldebat om det her senere på dagen, så der tager vi nogle af de ting op også Svendigere fra danske industri, det er bare en kort bemærkning til bad, det er jo et dynamisk begreb i følge i direktivet der bliver revideret med bræftnoter derfor kan man ikke gøre det i forslåret med at give et badstempel men det er sammenligende med den gængse teknologi, det synes jeg det er rigtigt, og det er super god hvad sker der i den traditionelle løsning den anden ting, jeg vil sige, der er jo lige kommet
+
+00:39:30
+et nyt direktivudkast til prioriterede stoffer fra EU for to år siden, som der er to år til bliver vedtaget, så det er bare en idé gennem deres prøver i en fryser så i kan domontere det når de bliver vedtaget i fremtiden det tror jeg er en rigtig god råde godt tusind tak til jer

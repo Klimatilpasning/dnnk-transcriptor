@@ -1,0 +1,128 @@
+=== DNNK Webinar Transskription ===
+Kategori: Oevrige
+Video ID: DHL6mwwN6c4
+URL: https://youtube.com/watch?v=DHL6mwwN6c4
+Kilde: lokal transskription (faster-whisper small, dansk)
+Transskriberet: 2026-08-26T18:19:42.631166
+
+==================================================
+
+00:00:00
+Vi er nu nødt til det punkt på dagen, som er en hver arrangøres skræk, nemlig live demo. Det er Maria fra Atkins, som vil give os demoen, men inden der sidder vi at bage Erland om at introducere den. Vil du tage skærmen, Erland? Jeg prøver lige at se, om jeg kan få kontrol over det her. Igen måske er det noget, der tænker. Hvad er det gennem, tror jeg?
+
+00:00:30
+Mens vi venter her, så kan jeg da sige tak til, at det er både Holbeck og Kjærtans for nogle fine præsentationer. Jeg kan lige tilføre til Kjærtans kommentarer om de her fysiske forsøg, at de er udført af vores gamle kollega, Grant G. Smith, i Australien. Og mig bekendte jeg faktisk den eneste, der nogle ting har lavet og nogle fysiske forsøg er sådan nogle år som tager.
+
+00:01:00
+Så kan man tilføre en gammel kæphest, nemlig, at man skal huske, at fysiske forsøg er heller ikke særlighed. Nej, det er det. Nå. Jeg håber, vi kan se skærmen nu. Og tak for at få ordet bog. Inden vi går til den her live demo, så vil jeg lige genopfriske nogle af de ting, som bogs har i indenligst vis omkring den her service, som vi p.t. kalde Kranz. Og så tager vi så den her live demo med Maria, og så kommer jeg lige ind med en præænkelig slice om nogle observationspunkter, som jeg mener i.
+
+00:01:30
+I bør være bekendt med, hvis I går hen og anvender det her stykke værktøj her. Og så kan vi lige studere med nogle spørggrunder, hvis der er tid til det. Som bog, navet indenligst vis, så har vi jo besluttet at leve den her gratifession med vand, som kommer fra tre sidder. Det er skridbruddet, det er en klassiske, og så har vi vandløb, og så har vi havvvand.
+
+00:02:00
+I forbindelse med vandløb skal jeg lige sige, at det er kun af de største vandløbsdata, vi tager med i det her. Men forrigegen er selvfølgelig, at det bliver noget kvantitativt, som man kan gå ind og lave. De er rette sammenlægninger mellem i forskellige risici og killer til risiko her. Man kan også gå ind og lægge den sammen, så man kan se, at man både måske skader fra havvand og vandløb,
+
+00:02:30
+og måske også skridbruddet i samme omværing her. Og så kan man gå ind og kigge på det. Kortene, som bor også nemt, de bliver landstækkende, så det er sådan, at man så kan begynde at zoom ind på et eller andet område. Nu vil jeg bare vise nogle eksempel her nede fra Esbjerg, hvor man så kan gå ind og zoom ind. Selve oversvørendelses beregningerne bliver beregnet på en førsendemiddelig opløsning, som så bliver ageret op.
+
+00:03:00
+Og jeg tror nok, at vi ender med at lægge dem ud i den her grædismission i noget, der ligner 160 cm. opløsning. Simpelthen er pladsen en type, og vi tager det om ekstremt store datamenter her. Vi har jo lovet alle de her mange forskellige scenarier og så videre, og det er samlet, så ikke der vil vi bare op med data. Der bliver så også mulighed for at downloade de her akkurvede, og de vil ligge i TIFF-format, så de kan henhænge den anden direkte i jeres gidsystem.
+
+00:03:30
+Og så kan de ikke gøre det, som de har gjort i holdbæk. De kan ikke gå ind og analysere og postprocesere i det omfang, i følge af glæde på til det, og interessere de i de forskellige ting. Så det var sådan, at Risiko-korten af Dækker, som bor også nævnt endingsvis forskellige tidshøjson, vi regner selvfølgelig ud i nu tiden her. Vi ser på 20.30 og 21.20, og der har vi så lavet den her justering i forhold til tidligere, at vi nu benytter de samme tidshøjson, som man for eksempel finder i kampbånd værktøjer her.
+
+00:04:00
+Vi tager hensyn til klimasenarie og sådan noget, og det kommer også i dunktationen noget om, hvad det er for nogen IPCC-senarie, vi egentlig lægger til grund for de her. Så det kan I også finde ud af her. Men i bund og grund er det forskellige nedblødsmængder, vi kigger på, og forskellige avlandsstigninger, vi lægger ind og beregner de her ERD-kort mod far.
+
+00:04:30
+Det gælder skidbrødelser, som I har hørt flere gange nu her, da vi ser på to forskellige service-niveauer, som man kan gå ind og gligbåde sig om at se effekten af det. I den her gratis version her, der har vi kommet de her 2, 5 og 10 års service-niveau for afløgtssystemiske kapacitet, som man kan gå ind og kigge på det.
+
+00:05:00
+Men jeg tror, at jeg vil starte her, og så vil jeg give kontrollen over til Maria, hvis jeg kan finde ud af det. Det kan jeg ikke give den til dig gå. Jeg kan også starte den, og så kan Maria tage over. Hallo, my name is Maria. Lad mig lige indenvis vi sig Maria tager eller Engelsk, jeg håber, vi er altså okay med det, men vi kan godt stille spørgsmål på dansk.
+
+00:05:30
+Så hvad jeg vil gøre er version 0.9 af klimatidaptationen. Det er bare partelig populært med data, men funktionalitetet vil være simpelthen til version 1.0, som kommer til at blive lagt sammen.
+
+00:06:00
+Så der er 3 main panels her. I toppen kan vi tilføje vores område af intresset. Lad os tage for eksempel til SBAG. I toppen kan vi togle omvendelsen af bygninger og municipale borgere, som arbejder som bakgrøntmaps.
+
+00:06:30
+Og på røgne borgere kan vi tilføje hvilken scenario, fladscenario, som vi vil show. Så vi har flad på perspektivitet, flad som kommer fra røget og flad som kommer fra stedet. The unit is a chrono per square meter per year.
+
+00:07:00
+And we can click on the scenario, for eksempel for precipitation for now. And we can also show the precipitation 50 years ahead and 100 years ahead. So here is the visualization of this layer.
+
+00:07:30
+And for eksempel if we click on 100 years ahead prediction, we can see that there is a building which is flooded. Okay, and now for eksempel let's proceed to another municipality to Holbeck in order to show the floods from the sea and the precipitation at the same time.
+
+00:08:00
+Excuse me, it might be a bit slow because it runs locally. Okay, yes, so here we can see the layers for the sea and this precipitation and we can play around with the scenarios.
+
+00:08:30
+Okay, and in the end we have the handheld Q-keys in which the user can download the data in T format and proceed to further analysis locally if they want to.
+
+00:09:00
+Thank you for watching. I'm sure there will be time for a few questions, but before that Erland, would you like to add some things? No, I think it's fine with the demo and thank you very much Maria. The last column has a question, I'll raise this hand.
+
+00:09:30
+Thank you. Could you show an example of floods from the river? Yes. And mainly my question is what kind of model do you use to simulate the flood from rivers? Vi bruger bare de data, der er tilgængelig nationals for vandløbestata. Og det vil sige det er, så vi de husker, at det geustærd har lavet den, men...
+
+00:10:00
+Utstiller på kyst, jeg tror. Ja, okay. Så det er kun de største vandløb. Og vores erfaring er, at det er generelt ikke at de store udfordringer på vandløb. Indi. Så man har heldigvis historisk set lærerpladsveksien, kan man sige, og fundet ud af hvor man skal bygge her. Men lad mig lige tage over again så fra Maria.
+
+00:10:30
+Ja, ad eksempel her. Ah, sorry, Maria. Ah, okay, okay. Yes. Som jeg nævnte, eller som jeg også er set her, så prøver vi at lægge og smarten ret tæt op af, hvad folk det kender fra, for eksempel kamp i dag.
+
+00:11:00
+Så det hele designet af det her system her, det minder mig om, om det er i vand til at se på klimatilpassningen.dk. Hvis jeg vil sige, at jeg bor det her. Og det er simpelthen helt bevidst. Hvis man ved, hvordan man tilgår det der indien, så skal det være meget nemt at også bruge den her gratiservice forfraget også her. Men som jeg nævnte endeligvis, så er det lige også behov for at fortælle, eller gør jeg opmærksom på nogle observationspunkter, som I har andet har hørt noget om.
+
+00:11:30
+Man skal være opmærksom på et andet med, at selvfølgelig de her oversumtysk kort, som er baseret på brugsportkort fra SDFI. Og da det er en statisk modell, så viser det egentlig blotts, hvor vand det hænder hen i forskellige lavninger. Og det vi så har gjort, det har vi omsættet de her brugsportkort til nogle i vanddybter. Jeg skal bare være opmærksom på, at det er ikke nogen tidslige faktor, inden det som også Lars og Andreas og Kjartan alle, som har været ind på.
+
+00:12:00
+Men man kan jo sige, at det gør det jo sammenlignet med det, man allerede kender fra Skalco i dag, og også fra klimatilbasningen i Kampbos. Andet ting, jeg er nødt til at målge også have været ind på, er det her, hvad de har, man tager med her. Vi har valgt, at kun fokusere på bygningen, man kunne også tage vej med, og man kunne tage alle mulige andre ting med her.
+
+00:12:30
+Men for at gøre det enkelt og sammenlignet på krydsetværs, og også af hensyn til vejningen, vil jeg sige, så har vi så været kun at tage bygningen med her. Og det er en ganske simpel implementering, vi har lavet en skadesfunktion her, hvor vi simpelthen igen læner os op af, hvad man kan finde på i plask, om informationerne, hvad sådan nogle skader vi koster. Og bygningsdata, det er her, når vi henter fra SDFI igen, som læner sig op af Inspire databaseen som en EU database.
+
+00:13:00
+Og er det det her med bekendtgørelsen, som mange af jer også har været ind på her, den her 226.90, som også var i damen under den første, der opstartes produktionen til projektet her. Og det er jo sådan, at hvis man nærlæser den her bekendtgørelse, det er sådan, at man finder ud af, at de her risikokort, de opfyller ikke krævne til at få godkendt sine ansøgninger.
+
+00:13:30
+Hvis det er sådan, at loven handler om at få spil af en telskabel til at financiere en større del af regningen til klimatilplasting i fremadrettet i forhold til, hvad de har modtelt hiddetil. Og hvis man skal have det på plads, så skal man opfylle nogle krævne, og et af krævene er, at der skal anvendes dynamiske modeller til etabliering af oversvarmelseskortene. Så da det er, at det her det er, der ser på et statiske kort, så kan man så ikke benytte de kort, der findes i grævsvisionen her til at få godkendt sine ansøgninger.
+
+00:14:00
+Så det er ingen tvivl om, at risikokortene, som sådan, hejner sig primært til screening, og man skal gå ind og se, hvad det egentlig er, vi kan forvente deres skader rundt omkring, hvor den ser det ud i forhold til de forskellige oversvarmelsestyper. Men når det er sagt, så, som bruger også nemlig denne vis, så er det sådan, at beregningsværktøjet bag den her service her igen, det er et værktøj, som er blevet udviklet, og som læner, som har et op, og at de vil kendt gøre det så, da den ligger ind for området, og især skrift 31 fra Spilvandskomiteet i nogen år i dag.
+
+00:14:30
+Som man kan sige, det er de metoder, vi anvender til at beregne risisi. En anden ting, jeg vil nævne her, det er, at vi bare så heldig i projektet i Roskilde Kommune, og også er i gang til nogle forsikringsskader, som er begriveret fra forsikringspension, hvor man har fået analyseret de her forsikringsskader i Norge,
+
+00:15:00
+og at inklusiv den nedebørn, det skylde brugsenset som en intraf for at ramte København tilbage i 2011, det gik også at delevisinde over Roskilde Kommune og forsikringsskader der.
+
+00:15:30
+Alt i alt tror jeg nok, vi lavede en validering for 6 eller 7 delområder i Roskilde Kommune, og kom til den konfliktion, der faktisk var en ganske meget fin overindstandelse med beregningsværktøj, der ikke er skader, og det man havde fået indbrettet. Og som en del af øvelsen, så lavede vi den her analysiebåde baseret på skalgodase, altså statiske kort, men også på dynamiske kort fra Mike Flott.
+
+00:16:00
+Og uanset, om man brugte en eller anden, så endte vi den samme størrelssorten med hensyn til skaderne. Så vi har sådan en eller anden forventning om at værktøje drejner rimelig okay, når man ser på større geografiske områder. Det er klart, som Lars også gjorde klart i sin presentation hjemme, så er det vildt at være forskel i de enkele skader, hvis man vil ikke dykke ned i detaljerne.
+
+00:16:30
+Det er heller ikke det, man skal bruge det her værktøj til, men det ser ud som om, at et værktøj regner ganske fornuftigt. Selvfølgelig vil det være dejligt, hvis vi kan få, men det er det endnu mere, og det er også noget, vi kigger ind i, hvis vi ser lidt fremad. Og så synes jeg også lige, at man på nævne, som bruger også nævne værktøj, så er det end de forandringer, om det er oversymskort, der er baseret på statiske modeller eller på dynamiske modeller.
+
+00:17:00
+Så hvis det er, at man har data fra dynamiske modeller, så kan man jo bare bage, men døren i Sverige, så er det der i stand til at tage det ind i regning. Ja, så jeg tror ikke, jeg har så meget mere at sige udover, at vi forventer jo, som Maria også nevnte, at vi går live her om nogle måneder, da vi er i fuldgang med produktionen af de her, og det taler om stort og stort afmængder.
+
+00:17:30
+Så vi skal lige prøve at se, hvordan vi får det hele strækket sammen og får oplådet det og gjort det hele klart, så vi kan begynde at benytte den her service fra sommeren af. Yes. Ja, vi har fem minutter til nogle spørgsmål eller ønsker. Det er ønsker, som vi jo ikke mindst også gerne vil høre på det her tidspunkt.
+
+00:18:00
+Så hold det ind i ektebæge, der ser ud som om, der er en hånd op, men jeg tror måske det er bare en, der ikke har troet ned igen. Nej, det er faktisk en ny hånd. Ja, okay. Ja, jeg har lige en kommentar også i forhold til det her med validering, i forhold til forsikringsdater. Så forsikringsdater er jo ikke samfundsøkonomien, bare lige en kommentar til det. Og så en observation. Det virker som om i projektet, at der er stort fokus på især overstrømsesmodellering, stelen og usikkerhed i og metoder. Hvad man kan gøre, hvad man får, hvis man gør det en fremfor et andet.
+
+00:18:30
+Hvad med den anden sidebruder, der har med skadesberegning, er at gøre? For usikkerhedderne her er jo lige så store. Er det noget, der vil komme mere fokus på, altså få flere skadesfunktioner og flere detaljer? Ja, kan jeg sige det. Det er rigtigt, at vi måske også med den baggrund, vi har har været meget fokuseret på hydrologi og hygdomlikken i det her. Produktet som sådan, eller værktholdt som sådan, har også en mulighed for at amagerere skadesfunktioner.
+
+00:19:00
+Det er ligesom op til den enkele brugere at tage beslutningen om, hvilke asets spil man har med en produktet, som sådan er forberedt til, at det kan både tage emateriale og imateriale skade med, og direkte og indirekte og alt det her. Og du kan også lave vanddygt afhængige skader osv.
+
+00:19:30
+Det er som at åbne en Pandora CSG, og i landstads synes jeg, at man skal starte simpelt. Så kan man hende og vejen gøre det mere komplekst, hvis man ønsker det. Men vi har jo i den illedende presentation, jeg gav Peter, der nevnte jeg også, at når vi kommer over i betalningspersonen, så er det et af de områder, man vil kunne veje på. Man vil kunne lægge sin egen assetkort, sin egen skadekort, og der bliver meget frit valgt.

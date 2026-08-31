@@ -1,0 +1,131 @@
+=== DNNK Webinar Transskription ===
+Kategori: Oevrige
+Video ID: g2fNV0LyDxQ
+URL: https://youtube.com/watch?v=g2fNV0LyDxQ
+Kilde: lokal transskription (faster-whisper small, dansk)
+Transskriberet: 2026-08-26T16:05:24.276628
+
+==================================================
+
+00:00:00
+Jeg hedder Louise, og det er min kollega Thomas, og vi arbejder hjemmedan. For cirka, det har været næsten, snart to år siden andres, at du hører altså indtil lige som at finde ud af, hvordan kan man egentlig modulere sådan et rockflow-magasin, altså hvor der rent faktisk er forsænkelse i selve magazinet, hvordan kan vi modulere det i hydrauliske programmer, som for eksempel Mike Urban
+
+00:00:30
+og nu Mike Plus, som blev anvendt rigtig meget af hydrauliker. Og vi er lidt det tredje lede efter Isaac med at sige, der er nogle anvisninger for, hvordan man skal dimensionere et rockflow-magasin. Sådan der. Og hvad skal der så bagefter? Hvordan kan vi se, at hvordan påvirker det så egentlig et anden hydraulisk system, som for eksempel et kloakssystem,
+
+00:01:00
+hvis man putter det ind i en model. Så det er lidt det, vi gerne vil fortælle jer lidt om her i dag, og det første vi vil komme ind på, det er, hvad har de første overvejelser egentlig været, lidt en intro til hele, vi kalder det bare projektet. Så vil vi komme lidt ind i den periode, hvor vi prøvede at kalibrere et model-setup, et model-setup, som vi havde antaget kunne være noget, vi kunne bruge til.
+
+00:01:30
+Og så vil vi komme lidt ind på selve model-setupet, og hvilke modelparameter man vil gå videre med, for så er det sidste at komme ind på, hvad er det så for et værktøj, vi har udarbejdet, til modellering af rockflom-magasin i i-mic plus eller mic ebben. Og så lige til sidst evaluerere lidt på, hvor langt er vi egentlig, og hvad er det egentlig for et værktøj, som nu er apparet til at blive brugt. Nej, det var undskyldt.
+
+00:02:00
+Hvad var det første, vi skulle kigge på, da vi fik den her opgave? Det var helt simpelthen, at vi skulle prøve at forstå, hvad det er for nogle hydrauliske aspekter, der foregår i et rockflom-magasin. Og hvordan kan vi oversætte det her til et mic plus-sprug eller mic ebben-sprug? Fordi en ting er, hvad skal jeg der i virkeligheden, men hvordan kan vi simulere det?
+
+00:02:30
+Og hvad skal endeproduktet egentlig være? Og endeproduktet var vi egentlig også lidt enige om i starten, det skulle være en eller anden form for et manual og et værktøj til, så at det er nemt for mic ebben og mic plusbrug og til at indsætte det her rockflom-magasin i mic ebben og mic plus. Så det var ligesom det, vi fik snakket om i starten. Og så ja, okay, vi skal prøve at forstå, hvad det er for nogle hydrauliske aspekter,
+
+00:03:00
+der er i et rockflom-magasin, fordi det er egentlig ikke så simpelt, som at det er bare et voldum, når så løber der vandet ud. Fordi inden i selve magasinet, så sker der nogle hydrauliske forhold, som kan være meget varierende af, hænge af om det, at vi har et fyllt magasin eller et delvis fyllt magasin, og flået igennem magasinet, det kan både være et mattet flå og et unmettet flå.
+
+00:03:30
+Og det mattet flå kan være ok, simpelthen at beskrive, men det umettet flå er faktisk mere kompleks. Men vores ønske er faktisk at prøve at beskrive noget kompleks, men simpelthen. Fordi når man skal hen og så lige pludselig modellere noget, ja, men den værste fjende for en modellør, det er noget, det er kompleks, fordi det er der, man laver fejl. Hvis der er alt for mange parameter, det er alt for meget, du skal med en modell,
+
+00:04:00
+så begynder det faktisk, og du faktisk laver fejl, og laver får nogle forkertet resultater. Så i sidste ende, så vil vi gerne over at prøve at lave et simpel set-up, altså beskrive noget kompleks i et simpel set-up, som mange Mike Urban og Mike Plus bruger faktisk kender til. Så det modellset-up, som vi i første omgang tænkte, det her er noget, alle kender til, og noget alle kan bruge, og det er et simpel kontakt. Jamen det er at beskrive selve rokflomarkasins forsikkelsesvolumen,
+
+00:04:30
+men så også det flove, der kommer igennem markasinet via en udløbsledning. Det er et helt simpel koncept, som mange hydravalikker kender til. Men før vi kunne sige, at det er bare det her, I skal gøre, det er bare sådan her, I skal set-up, så vi nødt til at kalibrere, og validerer det her set-up. Og derfor kom ind i den her lidt længere kalibreringsperiod. Nu har du snakket lidt om før, det er med, at teknet tager tid,
+
+00:05:00
+og man skal være lidt som modig, og det er lidt det samme koncept her, og vi har fuldt med på linjen med Anders og Isaac og Mathias, og det er med, at vi lærer noget nyt hele tiden, med hvordan også de hydravaliske forhold fungerer, og det er sådan det, vi også kalibrerer op imod. Og det er sådan noget, Thomas, vi fortæller lidt om. Ja, går igen. Så kalibrering via laboratoriforsøg og testanlæg i marken.
+
+00:05:30
+Til start med i forhold til den her kalibreringsproces, fordi vi gik jo ind med mere eller mindre ingen viden, så vi indhændede alle det data, vi egentlig havde. Vi havde både data fra de forsøger, Isaac fortalte om tidligere, vi havde en masse data fra Holland, der begyndte også stille og rolig at komme nogle data ind fra forskellige testanlæg i marken. Så vores tilgang var, at vi startede med nogle af de lidt mere
+
+00:06:00
+kontrollerede laboratoriforsøg. Det her viser, for eksempel, tømningen af vand fra et rockflow-element. Vi har to forskellige forsøgs set-up, og vores model fit. Det kan man se, det er dejligt nemt. I det her tilfælde, det passer altid bedre i laboratoriet, end det gør i virkeligheden.
+
+00:06:30
+Hvilke er næste case her? Der er vi i Aarhus tross. Locationen blev nævnt tidligere omkring Riesvang. Når man går ud og begynder at måle i virkeligheden, så kan man formange sig overradsfattere. Nogle gange, der hvor man er kendende, der er målerudsikkerhed, som gør, at nogle målinger bare ikke egnere sig til at indgå i sådan en kalibrering.
+
+00:07:00
+Der er også nogle set-upformer at finde ud af, måske er der et eller andet galt med selve elementer, der ligger ude i vejen og under jorden, og så handler det om en eller anden form for fejlfinding. Kan vi gøre noget ved det her? I den her kalibreringsproces, det har også været en form for længerevandt process, hvor vi løbner og kigger på data, og får ud af, hvilke data er sigende for elementerne
+
+00:07:30
+og deres måder at ge på, når vi hellere vand på, og der løber vand ud. Så det er også lidt til, at vi har fået måderperioder, hvor vi soler på vores dataset, hvor vi kan se, at der er en masse balance, som er advastende, hvis man skal kunne modellere det teoretisk. Det hjælper ikke så meget, hvis vi har nogle måledater, det siger, der løber mere vand ind, end der løber ud, eller omvendt mere ud, end der løber ind. Det bliver ret svært at ramme med en teoretisk model.
+
+00:08:00
+Så det har været en udvælse af nogle perioder og måledater, som vi stoler på. Det har så givet os en mulighed for, at kalibrere de her modeller, således, at vi kan illustrere, hvis for samme, model output, som vi gør i vores målinger. Det gælder så vidt, både for de her testandækvirkeligheden,
+
+00:08:30
+så vidt som laboratorieforsøgende. Som Louise, nævntidligere, så er det lidt forskel på, hvordan vandet agerer, om vi har et mættet volymen, og vi følger der sidst lov, med tryk igennem volymen, eller om vi er nede i den her umættede zone, hvor der er varierende flow, igennem elementet afhængig af, hvor vandmættet selve elementet er.
+
+00:09:00
+Vi har forsøgt i den her samlede modell, ligesom at komme med et samlet brug på, hvordan man nemt kan modellere elementerne, således, at man kan sætte dem ind i de hydrauliske modeller, vi anvender til at dimensionere afløbssystemer. Du vil sige et brug omkring det. Ja. Med kalibrering af det her modellet set op, så kunne vi faktisk komme lidt videre og se,
+
+00:09:30
+at egentlig så kan vi godt set et simpelt set op, som andre Mike Urban og Mike Plusbrugere egentlig også kan sætte sig ind i. Så vi prøver lidt at fjerne den her kompleksitet, og simpilisere den så, at det bliver nemmere for hydravelikker, at beskrive et rockflow-markasin i et hydravelisk program. Så når vi så kom om på den anden side af kalibreringsperioden,
+
+00:10:00
+det var at sige, okay, vi tror egentlig på det her set op, som vi første omgang antog, vi godt kunne bruge. Vi fandt også ud af med tiden, at det var mere komplekst, men vi tænkte, at vi kan i hvert fald godt få beskrevet det simpelt alligevel, men vi er nødt til at diffranchere emellem medtede flow, og umettede flow, og hvor umettede flow, det er noget, vi har defineret på baggrund af noget kalibreringsfaktor, og det er en følningsgrad, der er selve makasinet.
+
+00:10:30
+Men det endeproduktet, så blev det, ja, men det var, ja, et Excel-værktøj, hvor at de input, der er i selve Excel-værktøj, men det er det, man får, hvis man bruger VSPs anvisninger. Så det er rockflow, rockflow-makasins dimensioner, hvad for nogle koder har man prosikteret, og hvad er det for en hydraulisk ledningsævne, som vi går videre med. De input gør så, at selve hydraulikerne,
+
+00:11:00
+når man skal til at eftervise rockflow-makasins hydrauliske effekt på et f.eks. klarektsystem, det får så noget besænkegeometri ud, og en flowregulering, man kan putte på den her, på udløbet, så man netop kan dokumentere, hvilken effekt det så har på et klarektsystem. Og ja, det sidste og det helt endeproduktet bliver en manual, man kan følge lidt slavisk, hvordan skal man sætte et rockflow-makasin op,
+
+00:11:30
+teoretisk i et hydraulisk program, og hvordan skal man bruge selve Excel-værktøj? Og bare lige for at give det helt simpelt, måske ikke så fascinerende eksempel, men det øverste især med den grønne kasse og de røde streger, det er faktisk sådan et helt simpelt rockflow-makasin, sat op endemark plus, og det er godt at se meget kedeligt og uinspireret ud,
+
+00:12:00
+men det er faktisk sådan, det sætter sig op, fordi det er et helt simpelt koncept. Så den grønne kasse især, det er selve volume, der blev beskrevet, og den røde streger, det er at simplisere rør, hvor den venstre ledning, det er der, hvor at udløbsflået beskrives. Og så kan man sige, at det er egentlig ikke et set-up, som man bruger i alt muligt andre volymeler,
+
+00:12:30
+og så sætter en eller anden drossling på en ledning. Men forskellen her, hvis man bruger rockflow, det er at selve rockflow-makasinet er det, der forsænker vandet. Det er ikke en eller anden drossling, men det kan man også sige, der må ikke max komme det her vand ud, men i mange mest af tiden, så vil flået faktisk være meget mindre, fordi det er rockflow-makasinet, eget læge med, der styrer hvor hurtigt, at makasinet tømmes.
+
+00:13:00
+Og det er den hødt årlig, der har været vigtig at vise, hvis man skal ind og se, hvordan det tømmes til en kulak, eller tømmes til et vandløb. Og det, så ser jeg hernede, er et resultat af følgningen af volymen. Det har det så, som vi har fået ude for Mike Plus, og pieket det op, det er at sige, at det er følgningen af volymet, og det, man ser, er, at der er forholdsvis hurtig følgning,
+
+00:13:30
+hvor at udløbsflået, for det vil jo blive tømt stille og roligt, stadigvæk, mens det fyldes, men fordi vi ikke har helt mættet volymen, altså et helt fyldt volymen, så er det ikke et særligt stort flå, der heller løber ud. Og I kan også se tømningen hver efter efter peak, hvor det ikke længere regner, men så vil det blive tømt meget, meget langsomt, fælge det også, at den, ligesom det, et rockflow-makasin kan, det kan fyldes forholdsvis hurtigt, men tømmes langsomt,
+
+00:14:00
+særligvis med en følge af anvisningerne. Yes. Man kan sige, at vi er noget rigtig langt, ved at kunne beskrive et rockflow-element i de ytravliske modeller, men der er stadigvæk lidt arbejde endnu. Vi tænker selv, at det her umættet flow,
+
+00:14:30
+der er stadigvæk nye arrangementer, og det vil vi godt kunne tænke os at beskrive bedre, og det vil altid være en opvejning mellem at, hvad vi gerne beskriver det, korrekt og komplekster, men det skal stadigvæk være simple at indvende. Så det vil altid være en afvejning der. Så ser vi frem til stadigvæk flere løbende valideringer med nye testlokationer. Der kan man lære ekstremt meget, lige så snart man går til en ny lokation. Og det hænger lidt sammen med den næste.
+
+00:15:00
+Det her med, at næste skridt er, at det her værktøj, de tages i brug i forbindelse med nye testlokationer. Både for at få noget feedback på, er det også det, man ser i virkeligheden. Det er vand, vi heller ud, kommer det også, eller ind, kommer det også ud, i den måde, vi har beskrevet det på, nu er det en tidspunkt. Og også få noget feedback på, at værktøjet, vi har sat op, og den manual, vi har sat op, er det nem at følge, sådan, at man sidder ved forsøgninger,
+
+00:15:30
+kommuner, rådgiver og kabroten, og nemt kunne beskrive det her færdagliske. Og så tidspunkt, det er råkflug i komplekse kvarkenlæg, som dækker lidt over det her med, at vi forsøger at beskrive det simpelthen, eller således, at det kan både være nemt at indfyre en færdaglisk modell, men også sådan, at det er omfattende for mange anlægstyper, men der vil være komplekse kvarkenlæg,
+
+00:16:00
+hvor man skal ind og skru på nogle ting, det ved vi også fra alle andre hyrdagliske anlæg, at man kan have nogle meget simple basænger, men man kan også have nogle basænger, der hænger sammen i meget komplekse sammenhæng, hvor man ikke kan bruge standardmodellerne. Så det er også noget, der på sikt vil komme mere at sige, hvornår skal man ind og lave noget mere komplekst. Ja, det var det, vi havde. Det var det.
+
+00:17:00
+Hej, Ida fra Rambøll. Jeg tænkte på, at der er blevet lavet noget i forhold til faskiner, at modellere dem i Mic Plus også. Hvordan adskiller det her så fra det? Der er en funktion i Mic Plus og Mic Uppen, der hedder, det er sådan en grønne kasse, du kan sætte ind og sige, det definerer et laranlæg. Forskellen er bare det, det er lidt det samme, som Spildevands kommenteret har også deres laranlæg.
+
+00:17:30
+Men forskellen er bare, at et rockflow-magasin, der er simpelthen forsænkelse ind i selve magasinet, der er nogle krafter, der styrer, hvor hurtigt det kan tømmes. Og hvis man kigger på, at sige på en helt almindelig faskine, som vi kender det, kan sætte, plastigt kan sætte, der er ikke forsænkelse igennem, når der er offentligt, så sætter man en drossling på, eller der er nedsivning. Hvis nu for eksempel, at man laver et rockflow-magasin med nedsivning,
+
+00:18:00
+så er det faktisk også mere i jordens egen hydrableskledningsevn, der er ligesom bestemmer, hvor hurtigt magasinet kan tømmes. Så der er egentlig ikke så stor forskel. Det er lige så snart, at vi siger, at vi har et lukket magasin med tæt membran, og vi har udløbt til klokken. Men så er det lidt nogle andre aspekter, fordi så er det selve magasinet, der bestemmer det. Kommentarer?
+
+00:18:30
+Jeg udmærker klar over, at IU er engageret af rockflow, og derfor er det så helt specielt på netop performance fra den type, men kan det danne grundlag for eksempel forskellige vækstmedier i stedet fra rockflow, så det bliver nemmere at tilgå det, for eksempel. Fordi så tænker jeg, at det får en et bredere anvendelse,
+
+00:19:00
+også på sekt i forhold til forskellige typer. Ja. Ja, altså man kunne måske. Fordi det performance, eller forsættelsen inde i opbygningen er helt essentielt, men den vil jo være anderledes i forskellige andre typer. Ja, men hvis man nu lige kigger, det vi har lært i hele den her proces, det er jo, at vi troede, at vi havde en helt klokke klar ide om, hvordan hytter olikken fungerer igennem sådan et filter.
+
+00:19:30
+Men det, man jo så også har lært under processen, det er jo, at det er ikke helt så tydeligt, og der skal mere viden til, der skal mere forståelse til, før man lige som bare kan gå hen og beskrive det så simple som vi jo gør det. Det er selvfølgelig med nogle empiriske relationer, vi prøver at lave, for at så sætte det simple koncept op, så der er noget kompleksitet bag det simple koncept. Men jeg ved ikke, om man kan overskrive det direkte,
+
+00:20:00
+hvis det er andre, lad os sige, porus elemer. Fordi det er igen en ting, man jo lærer her, det er jo, at det kan være meget forskelligt for materiale til materiale, men jeg vil ikke afvise det, men jeg kan heller ikke sige det på stående, for usærligt, når man nu har fået lidt mere viden omkring, hvordan så der er noget materiale fungerer. Du kom sådan set omkring de lovisere,
+
+00:20:30
+men altså det var det der med om det kunne bruges på andre meter, som du spurgte om, men altså hvis det er et porus meter, det er hvor man kan ansage, at der sidste lovdagen gør sig gældende, og der er en linje af sammenhængen med dem, tryk gradienten og fløvet ud af lavet, og det er jo sådan en grundforudsætning i den måde, Luisa og Thomas har modelleret det på, så kan det fint bruges til lige præcis andet end et rock-flow-element. Godt, skal vi ikke sige tak til Thomas og Luisa fra NVD'en.

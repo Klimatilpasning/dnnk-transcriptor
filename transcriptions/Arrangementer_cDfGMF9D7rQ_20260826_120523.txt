@@ -1,0 +1,53 @@
+=== DNNK Webinar Transskription ===
+Kategori: Arrangementer
+Video ID: cDfGMF9D7rQ
+URL: https://youtube.com/watch?v=cDfGMF9D7rQ
+Kilde: lokal transskription (faster-whisper small, dansk)
+Transskriberet: 2026-08-26T12:05:23.912142
+
+==================================================
+
+00:00:00
+Egentlig så startede historien bevægt sig en del år før jeg kom ind i billedet blandt de her tre folk, som har gået ud og arbejdet med vandrenewagingsprojekter hos Hufford. De har arbejdet med vandrenewagingsprojekter i mange år, og har fundet ud af, at processen i et udskiftet vandrør og renoveret vandrør er både besværligt, farligt for dem, der arbejder med det, og det er utroligt for surreskrivene, og derfor også dyrt.
+
+00:00:30
+Derfor besluttede vi, at der måtte være en nemmere måde, at man kunne gøre det her på, og deres første tegne var, at han lærer at bygge en robot, der kan gøre det, sådan nogle af de mennesker, der gør det nu. Det eneste problem var, at de havde ingen idé om, hvordan man bygget en robot, så der skulle de ud og have fat i nogle mennesker, der kunne finde ud af det.
+
+00:01:00
+Så de ringede over til Odense Robotics. Vi har sådan en god robotkloster i Odense, hvor der sidder og laver meget kompetente mennesker ind på robotter, og har haft det i fat på blandt andet æsken Østergård, som er founder af det, der hedder Universal Robots, som er i dag af Danmarks største robotlægsel på. Derudover fik de også fat i Peter Snedegård, som sidder og hos Odense Robotics, som business development manager, og fik overvist de her to robotfolk om, at det her var en god idé.
+
+00:01:30
+Og sammen gik de sammen for sidste rampsup med mission om at ene robot teknologi og vandforsyning. Så det er simpelthen det, der lægger et spørgård på, at vi starter i årsvekspunktet. Så det, vi gerne vil med vores robot, er at automatisere processen i at udskifte og reparere vandræv. Vi vil gerne lignere nogle af de udledninger, og det er ressourcespil, og de omkastninger, der er emolleret i den her process.
+
+00:02:00
+Helt generelt vil vi gerne fremme effektivitetens sikkerhed og bæredyptigheden i vandforsyningens prængelsen. Det er problematikker, som de her gutter gik ude og fik øje på i gennemlagsfragende arbejde med vandrævneværing. Det var, at hver gang man tilskifte et vandræv, så skal det graves et kæmpe stort hulle. Ofte så er de to gange, to gange, to meter. Det gjorde man grav op for de her huller. Det bliver læset på en ladsbil, og så bliver det kørt til deponi.
+
+00:02:30
+Når de så er færdig med at reparere det her vandræv, så inkøber de nye djør og putter ned det samme hulle. Så er det opstår et kæmpe ressourcespil i den her process. De graver alle tusind de her huller overligt, så det vil sige, at der er 144.000 på bitmeter jord, der bliver kørt til deponi. Så er det et massivt ressourcespil, og det koster også i kroner og øger 30.000 kroner, og laver et vandræv.
+
+00:03:00
+Vi har altså 45.000 kilometer vandræv i Danmark, der skal laves. Grunden til, at man graver de her stort huller er, at det er fordi, vi sender menneskerne for at lave selvfølgelig impressionerne. Så det er derfor, der skal grave så stort, fordi de skal have det rigtige algorithm til at arbejde. Men der sker også mange arbejdsmiljøer, når man sender på et ned i et tung og dybt jordhul, og i nogle meget udfordrende.
+
+00:03:30
+Udfordrende arbejdsmiljøer, udfordrende arbejdstillinger. Det betyder også, at der ikke er særligt mange mennesker, der gider at tage de her arbejdsgraver. Der er rigtig meget manglet på de snøet, der gider at tage og lave de her reparationer. Så derfor betyder det også, at forsynningsvirksomheder venter i rigtig lang tid på, at de kan få lavet de her reparationer. Derudover, så er det vigtigt, at når man laver de her reparationer, så skal man dokumentere, hvad man laver.
+
+00:04:00
+Både for at sikre kvaliteten af de reparationer, man laver, men også for at sikre drikkevandseligheden. Når man arbejder med drikkevand, så arbejder man med fødevare. Det er svært, når man er en smid, der står noget i et jordhul, og i nogle sværlige arbejdstillinger. Det er simpelthen, at man kunne dokumentere det her. Vores løsning kommer i, at i stedet for at bruge en smid til at lave reparationen, så bruger vi en robot i stedet for.
+
+00:04:30
+Så hele problemet af det her er simpelthen at få personen op af de her hul. Når vi forhåndt og behøvede kvaliteten, så kan vi reducere hulstøjelsen gewaltigt, fordi der er ikke samme krav til en robot arbejdsmiljø, som det er til en snud. Bærebrug robot-teknologi i forsynningsregningsen, det kan de drage til at reducere. Det har jordforbrugt kvalitet, det vil gerne reducere hulstøjelsen med omkring en fjernsprojekt. Det vil fjerne de flaskehalse, vi har med med til at gå og vente på folk, der kan gøre det.
+
+00:05:00
+Det vil fjerne de sikkerhedsresistiet, der er fordi de mennesker, der arbejder med det lige nu. Og vi vil nemmere kunne overholde dokumenteret drikkemandssikkerhed og dokumentere processen samtidig med, at man kan opsamle de fulde datan, når man stikker robot med et hul, med nogle kameraer og med nogle sensorer. Så igen, prøv med til tegningssikkerhed og bærdighed. Når man reducerer sådan et hul, med algerdsprojekt, så kan man spare omkring 10.000 kroner per hul.
+
+00:05:30
+Vi kigger på 18.000 hul og årligt i Danmark. Hos de tre store forsyningsaltskaber vil vi sige, vi har et årligt besparelsespresentiale på 140.000 kroner. Det er bært over de krav af de her 18.000 hul. Lige nu, der arbejder vi sammen med nogle af Danmarks største forsyningsaltskaber på forventen og siden. Og hos landet for at arbejde tæt sammen med medindustrien og for at komme ud og teste vores produk med dem. Vi har også lige landet det, der hedder en VUDP.
+
+00:06:00
+Vi samarbejder med de her industriepartner, netop for at køre projektet sammen med dem og sikre, at vi får det testet ude i virkeligheden. Timet bagud over vores faglere, så vores professionelle investerelser, så er vi også et team, der knukler i hverdagen med at bygge den her bot. Der er mig selv, der er uddannet sviningenieur med speciale i bæredyptighed, livsyklusiologiske, så det er særlig bæredyptigheden i det her.
+
+00:06:30
+Der er mit speciale, så har vi vores dybtige tekniker med, som de faktisk alle er machineingenieurer, men har speciale i vort software og vort hardware. Så har vi intraktermekaniker med på timet også, fordi han ved en masse om de her maskiner ude for sådan en plads. Og så har min speciale studierne med, som også netop kigger på livsyklusanalysen i det her projekt. Så hvis der er nogen, der skal bygge en bot, så er der os.
+
+00:07:00
+Det vil jeg give nok.

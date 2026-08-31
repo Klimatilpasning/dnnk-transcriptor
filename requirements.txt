@@ -5,3 +5,9 @@ pypdf>=4.0,<6
 # se fetch_youtube_subs.py). Ikke pinnet opad: yt-dlp skal kunne følge
 # YouTube's ændringer, ellers stopper hentningen med at virke.
 yt-dlp>=2025.1.1
+
+# Leverer JS-challenge-solveren, som yt-dlp bruger via --js-runtimes node.
+# Uden den falder yt-dlp tilbage til android_vr-klienten, hvis lyd-URL'er
+# afvises med HTTP 403 — se kommentaren i transcribe_local_audio.py.
+# Kun nødvendig for den LOKALE lyd-vej; undertekst-hentningen klarer sig uden.
+yt-dlp-ejs>=0.8

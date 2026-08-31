@@ -1,0 +1,107 @@
+=== DNNK Webinar Transskription ===
+Kategori: Oevrige
+Video ID: u1kaQlQjbeQ
+URL: https://youtube.com/watch?v=u1kaQlQjbeQ
+Kilde: lokal transskription (faster-whisper small, dansk)
+Transskriberet: 2026-08-26T18:37:35.546863
+
+==================================================
+
+00:00:00
+Til introduktion har Kjartan fortalt mig, at han ikke helt uden fortrydelse kan konstatere, at han arbejder med hydrauliske modeller de sidste 25 år. Jeg synes nu for os her, der er der kun en styrke. Og Kjartans arbejdsfelter har været oprindelig i kysten af området og åbenhav og vandløb. Men i de sidste mange år har fokus været på afløbsystemer og overflade afstrømning.
+
+00:00:30
+Så Kjartan, vil du ikke det lagt, det gør også i nogle af dine overvejelser? Jo, det kan du få. Og tak fordi jeg måtte være med. Lars og Andreas, jeg har gjort noget af dem, hvor jeg får mig. Jeg kan sige, at jeg er bare enig i det, jeg har været ind på. Det er meget interessant. Min titel, overvejelser omkring 1-2-D-modeller, det er simpelthen i mange eller bedre år.
+
+00:01:00
+Men det er egentlig fordi, jeg synes, der er en hel del overvejelser, som man kan gøre sig, når man har været opstillet de her modeller. Det er ikke fordi, jeg har svarende, men der er været for nogle interessante diskussioner i forhold til, hvordan man kan gribe det her an. Så har jeg også noget, som jeg synes har været interessant at kigge på fra den anden side af verden, som inspiration og det kommer så til sidst. Der er en del links i presentationen, men jeg går ud fra, at man kan få presentationen bag efter.
+
+00:01:30
+Så kan man måske gå lidt på opdales i de længste, der ligger i presentationen. Men for det første, så står man egentlig over på valg med, hvilke modeller typer skal man vælge, når man skal til at kigge på modellering af vandpåoverfladen. Og jeg synes egentlig, i den klimakroge, hvor det kom, det er så godt nok til 11 år siden, det kom i 2011.
+
+00:02:00
+Det er godt startpunkt for at kigge på, hvordan kan man gribe det her an. Selvom den er lidt, altså det er gået over 10 år siden, men så synes jeg, at den giver sådan en god indføring i, hvordan kan man gribe det andet. Så har det alligevel sket noget senere i 2011. Vi har fået skalgog, som har gjort livet noget nærmere i forhold til at skulle kigge egentlig på terrænget, og hvordan strømmer det på overfladen.
+
+00:02:30
+Altså det er jo egentlig en fantastisk værktur. Så har vi egentlig fået lidt mere komplutterkraft, som gør, at den her analyser som Lars og Andreas Rente på med, at regne ud. Hvis vi nu laver regnenfald på terræng, det bliver så lidt nærmere, fordi vi simpelthen kan komme igen med de beregninger. Det er jo ingen fattig mange beregningspunkter, der skal til, hvor jeg er gennemfør, sådan beregning.
+
+00:03:00
+Men der er undet, at vi jo beregningskraften i tak med, bliver tilgængeligt. Så synes jeg også, vi har begyndt at få lidt større fokus på hydrologi og afstrømning fra grunden og området. Der er en del initiativere i forhold til at få kort lag, det er lidt bedre. Jeg tror, nu kom der en rapport, som Kogi havde lavet i forhold til Danerejn som faldt i Tyskland her i sidste sommer.
+
+00:03:30
+Hvordan den ene ville have indflydelse, hvis den faldt i Danmark. Og der var det også ind på, at der var noget foregående regn, som har faldet i dagene inden det så skete i Tyskland. Og det er jo noget af det, det har indflydelse på, hvordan reaktionen er på en givende regn. Det er simpelthen hydrologi, når hun kommer, som ligger i det grunde område. Er det meget vandmættet eller er det ikke? Og så er det en ting, det ikke har ændret sig, det er, at vi kommer ingen vej,
+
+00:04:00
+hvis ikke vi har fokus på tage regnet på kvalitet på inddater. Altså har vi simpelthen styr på alle de ting, som gør vandet i det løb af den ene vej eller den anden vej. Har vi de mure, der skal tage, har vi de gulder i terrenge, der i røringer, der skal tage på, at vi egentlig får de ikke gæde vandet i det rigtige stedere ind. Så til modelletyper, så stiller de forskellige modeller lidt på skelige krav til inputdata.
+
+00:04:30
+Og det her er jo egentlig det, som Lars og Andreas også var ind på. Nu har jeg prøvet at tage en op, sådan et 2D-system, hvor man egentlig har et hus, så jeg er ude til højre med en kælder, det har noget guldavløb, der er en tavplade på deres hus, så det er et mættede tavl nedløb, der er så måske en lavning ind i området, og det har givet viste dreng.
+
+00:05:00
+Der er nogle vejemæste ud i vejen, og så har vi hovedledning, som leder væk området. Man kunne tilføje vejkøb, der er i det her. Man kunne have et vandløb ned ved siden af. Man kunne ligge ned til kysten. Der er utroligt mange koplinger, som går så gældne, hvis man skal kigge på det samlede billede. Man skal egentlig også bruge at tage stilling til, om kan vandet komme igen i bygningen.
+
+00:05:30
+Hvad er der nogle åbninger, som det kan strømme igen? Det kommer jeg også lidt ind på lidt senere. Det her viser jo egentlig bare, hvor kompleks man kan gøre det, hvis man skal prøve at bygge lidt ned i detaljen. Så har jeg lidt den samme pointe, som Lars har snakket om. Tidligere så flyttede man sig og sætte alle regnen ned i brunnen ude i vejen. Det var sådan en standard modende at gøre det på.
+
+00:06:00
+Der har vi altså fået lidt bedre mulighed for at gøre det her i stedet for, hvor vi egentlig laver vandfald op i området, og så må det selv benvej, hvor det nu kan benveje. Det tog pointen her er, at hvis du gør det her, hvis du laver vandfald på, så kan det godt være, at du får et bedre resultat, men det kræver også, at du går ned i detaljer på enkelte hus, for eksempel.
+
+00:06:30
+Modellen ved jo ikke, hvordan den skal gøre. Du skal sådan set fortælle den, hvordan er koptingerne. Det kan godt lade sig gøre med en enkelt hus, men hvis vi er et større bygge område, så skal man virkelig tænke sig godt om at finde det rigtige detaljeringsnivå, fordi hvis det tager en halv time eller en time at lægge et hus ind i modellen, så kommer vi jo aldrig igen. Så er jeg helt enig i den pointe med, at man skal tænke sig rigtig godt om, og egentlig prøve at begrænne sig områdemasse i forhold til,
+
+00:07:00
+at du skal være relativt sikker, at det giver noget givindst at lægge det store arbejde, at lave en detaljermodell. Du skal egentlig reservere det til de områder, som du er relativt sikker på, at der er et problem. Og så netop prøver at kombinere et prorholdsvis simple værktor, som er effektivt, ligesom til regnerne, der lyder, så skal alle gå relativt simple beregninger til at spørge sig ind,
+
+00:07:30
+og så først der begynder at sætte de rigtige mange detaljer på. Næste punkt, det var egentlig, i hvilke sikkerhedsfaktorer man skal bruge. De sikkerhedsfaktorer, som man ofte bruger, de kommer måske fra skrift 29, eller hvor man nu har dem fra, men ofte så bliver det egentlig lagt ind, som med 100 års planlægningshorisont. Og det er lang tid, at kigge frem i tiden,
+
+00:08:00
+altså selvmærskæren, han kunne nok ikke se, hvordan vi ser ud i dag, selvom det her billede skulle være fra 1929, det er svært at se langt frem i tiden. Selv kan jeg selvfølgelig, jeg kan godt se frem til i aften, hvor Islandier vinder Danmark med et par mål, så det kan jeg alle jo se, men længere end det, det er svært at spurgere om. Vi skal kigge på rumfadsudviklingen, så begyndt man at flyve i 1919,
+
+00:08:30
+det var omkring 50 år senere, hvor man ud i rummet. På 50 år igen, så har vi en Tesla i ompress omkring Mars, så det gør også udviklingen tændt nogle gange lidt mærkelige drejninger, men det vil sige med det, det kan godt være, man skal lægge en sikkerhedsfaktor ind, som henviser til et lidt kortere planlægningshorisont.
+
+00:09:00
+Det koster rigtig meget de ekstra sikkerhedsfaktorer, og det anlægter du bygger, hvis det skal leve op til et 100-års planlægningshorisont, så er der altså noget dyre end, hvis du planlægger efter en 50-årshorisont, og det er ikke, hvor de anlægter går i stykker med 50 år, men så har du måske bruget nogle nye teknologier og nogle nye muligheder. Her blev vej, et godt eksempel, mobile demninger,
+
+00:09:30
+som måske gør, at du kan supplere det projekt, som du har bygget, med nogle relativt billige midler til danstid. Det synes jeg er en overvej til at være. Det næste, det var egentlig, hvilken regnummer skal bruge, og her vil jeg egentlig henvisere direkte til Søren Dornalds præstation, for det var møde for nogle år siden, det har jeg lagt en længde ind til, men pointen er egentlig, at CDS det er egentlig en slags superregn,
+
+00:10:00
+fordi den rammer den høj gentagsperiodet på særlig 100 år, på alle vejheder, det er sig ugercentrum, det er 5-10 minutter eller 6 timer, så er den 100-årsregn, mens det er virkeligheden, og det er så den orange søgle her i virkeligheden, det er 100 på alle vejheder. Hvis du så tager en historisk regn som egentlig er målt, så er den typisk toppe på en af vejhederne, mens den er lavere på de andre, så det er det, jeg mener med, og den kan gå ind i godt, det er traktis lidt som en superregn.
+
+00:10:30
+Så der er et stort forskel på resultaterne, når man bruger den en eller anden, og det vil sige, man risikerer ikke noget skjul sikkerhed ind, hvis man bruger CDS. Hvis alle de her ting, som jeg har snakket om, er at spare på det en eller andet, det er egentlig fordi, så har du penge til at lave flere projekter, så er det ikke sådan, at man ikke bruger penge, men du har simpelthen mulighed for at bruge penge på flere projekter på samme tid.
+
+00:11:00
+En ting jeg også vil fremhæve på til vejen, det er, at adgang til Rata-dater, den ser lidt bedre ud efterhånden, det er mere frikede af noget Rata-dater for foreningende hverdage, der er i valgsektoren, som er nogle af de store forsøgninger i Danmark, de er ved at kigge på at få gjort det lidt mere tilgængeligt til alle forsøgningerne, på en nem og kvalitetssikker måde, hvor det er et utroligt spændende initiativt synes jeg,
+
+00:11:30
+hvor vi måske får mulighed for at lave Rata-dater indover, Rata-vejen indover vores beregninger, i stedet for at bruge en enkelt eller et par stykker regnmåler. Det har i set betydning, hvis du begynder at kigge på lidt større områder, og der har vi faring fra, at regnene ikke nødvendigvis falder jevnlig oplandet, så det er et rigtig spændende udvikling. Så har jeg lidt et forhold til validering,
+
+00:12:00
+og det har jeg prøvet at kigge på, men regner vi egentlig rigtig, altså passer modellerne egentlig, de er de samme resultater, som er målet eller observeret, når de her regn de falder. Der findes ikke ret mange studier, men i fælde på, hvor den her fra Australien, hvor man egentlig havde taget et område, som har udsat for oversømmelse, så havde man simpelthen lavet en bygget, en fysisk modell, den er den hele område, med huse og terrenge og det hele,
+
+00:12:30
+og så brød man at holde vand på, og se, hvor står vandstaden, hvor blev det målt dengang, det skete, og kan modellerne gennemske, så det er egentlig bare en anden befaling, man kan se og kigge på det. Man har simpelthen vand på, og så kan man jo måle, og så kan man begynde at kigge på modellerne, og se, hvordan lægger man bygninger ind. Det viser sig, at der er mange forskellige moder, at lægge bygninger ind i en modell,
+
+00:13:00
+og det giver lidt forskellige resultater, afhængig af, hvordan du implementerer det. Og det er sådan nogle detaljer, som vi måske ikke snakker på meget om, og det er egentlig utrolig interessant, at høre, hvordan andre gør det. Jeg kan huske, at jeg var med i diskussionen på Tidspunkt i Hydraulikere i Forsyningerne, som diskuterede det her sidste gang, vi havde ikke lige været tilbassensplaner, det har sikkert været i 12-14 stykker, og det visste sig, at man har egentlig fået
+
+00:13:30
+forskellige input fra forskellige rådgiver, de vil sige, man gjorde det relativt forskelligt, sådan med at lægge de her ting ind, og det giver forskellige resultater. Det var egentlig bare en inspiration. Jeg kiggede lidt på, at har man nogle nationale standarder for, hvordan man egentlig modeller tog det på århederne. Det eneste, jeg kunne finde, det var noget fra Australien igen.
+
+00:14:00
+Så vi er helt på den anden side af verden. Men der ligger en interessant rapport om, at man har egentlig prøvet at kigge på det her, den anden side af overblik over, hvordan man egentlig grib det her an. Og det sidste, det er utroligt godt, hvis man skal ned og træne, om man mangler en god video til at kigge på, så er der noget, det hedder Australien Waterscoop, som har, jeg tror, de op 125 videoer,
+
+00:14:30
+er en teamsvejhed, hvor de diskuterer de her emner, som måske er ret specifikke, men så er livet utroligt interessante. Kommer om en masse teori, men også, hvordan bruger man de forskellige modeller? Jeg tror, at der er en del de gratis værktøjer, der ikke har os fra USA, som også kan bruges til togelig modellering på overfladen. Discuterer det her med,
+
+00:15:00
+Ring on Grid eller Direct Rainfall, det hvor vi snakker om før, men hvor regnen falder direkte på overfladen. Så der er egentlig en rigtig mange spændende videoer, der, som jeg synes, man kan gå på opdager til. Yes, det tror jeg, det var det. Tusind tak, Kjartan. Der var nogle meget konkrete og gode idéer til, hvordan vi kan komme videre med at blive klogere på det i hvert fald.
+
+00:15:30
+Og så er egentlig en masse spørgsmål oplendende, som jeg er sikker på, der er rigtig mange mening om i kredsen her. Vi har allerede fået par utrygt i kommentarerne, men vi har fem minutter til spørgsmål, og jeg synes, at det er okay, hvis man også rækker tilbage og stiller spørgsmål til Lars eller Andreas i de fem minutter, hvis man har nogen. Så ved vi, at vi skal sige noget.
+
+00:16:00
+Vi er ikke i sin om. Johan, jo.

@@ -1,0 +1,59 @@
+=== DNNK Webinar Transskription ===
+Kategori: Arrangementer
+Video ID: zQ7nBjYq6Mk
+URL: https://youtube.com/watch?v=zQ7nBjYq6Mk
+Kilde: lokal transskription (faster-whisper small, dansk)
+Transskriberet: 2026-08-26T11:50:54.275492
+
+==================================================
+
+00:00:00
+Jeg hedder Peter Nasch. Jeg kommer fra Fjermed og Drøp. Og Drøp er en, der lige kommer op og kører her. Så kan jeg jo se en af de tre virksomheder som Klaus. Nævendelig i starten, som er det vis eget af Aarhusvand. Og det har ikke så meget mere op nu. Men det vil jeg mange af dem fortælle om. Hvad efter det? Jeg synes, at jeg faktisk har en fantastisk måde at forbide en ud af sådan nogle organisationer, som Aarhusvand, hvor der sidder. Folk, som virkelig ved hvad de snakker om. Men hvordan viden nogle gange, kun han er så kommet til at udtrykke nogle projekter.
+
+00:00:30
+Og ikke så meget bliver det lige tværs af forsynning over det i Danmark. Så det er den model, jeg kan befale til alle. Det jeg skal snakke om nu, det er så om Drøp. Og vi handler om data. Vi kommer fra data. Og vi vil gerne gøre data til løsninger. Så hvor Rimonis sagde, vi skal skabe datastrømmen, så prøver vi lige så måske, vi skal tage de datastrømmen og gøre det til noget brugbare løsning. Og hvorfor skal vi det? Ja, men i undergrund tror vi på, at vi kan bruge den eksisterende vandinfrastruktur,
+
+00:01:00
+vi har, og her snakker vi. Hvem er spillemands infrastruktur? Er meget bedre end det gør i dag. Det vil sige, når vi skal ud og lave klimatilpassninger, så i stedet for undervendigvis at bygge en masse nye landløsninger, så prøv at bruge den infrastruktur, der findes allerede. Og måske bare bruge den lidt smarter og lidt bedre. I dag lever alt vand ned og bakke. Tænk, hvis man kunne stoppe noget af det, så skulle de skybrød kun være en del af byen, og ikke over hele byen samtidig, og så koncentrere sig om det, og bruge på din løsning. Det er sådan den grundlæggende. Men før man skal ture det,
+
+00:01:30
+så skal man ligesom vide, hvor det vand er. Og det er så det, vi prøver at komme med, nogle løsning, så man kan lave datadrævne overvågning ved altid. Vi kommer ud af et samarbejde med kommuner og flere vandselskaber, og har fået støttet for innovationsvand, og også ABG, og det er jo fordi, man tænker, at jeg kan faktisk gøre en stor fortsætning. Helt grundlæggende, så vil vi egentlig gerne udvide sådan set stedet for at måle på vand,
+
+00:02:00
+som vi gør i dag, typisk ned på pumpestationer og på rentanlæg. Så sæt de små måler op over det hele. For det er jo længere op i oplandet, vi kan komme. Det er tidligere at se, at vi er vatter på reg. Vi ved altid, om det regner, og så stiger vandet et eller andet sted, og det går ned og bakke, som vi har sørget før. Og det mønster, det ser vi igen og igen, uanset hvor faktisk hvor kraftigt det regner. Selvfølgelig er det, at det hænger vortet regner, men hvis vi har de her målepunkter, der er ude og rigtig mange appen,
+
+00:02:30
+så kan vi skabe det her ordentligt. Og hvordan får man mange målepunkter, om det gør, hvad de skal være billig i? Eller så er det fordørt. Så det er det, vi har rådt det hele tid på. Men som målet, delen er en del af vores produkter, vi har sådan set hele, hvad de kreden kan man sige, fra måling og til beslutning, men vores fokus er faktisk på det end i midten. Altså dem mere at få data, vasket, gjort klar til at tage nogle beslutninger på, får vi ens rættet, og får vi kørt sammen.
+
+00:03:00
+Og så bruger noget machine learning og andre ting, selv at få sat system i tingene og gøre det klar. Og vi kan vise her i året vand, at man faktisk kan spare på driften, ved det samme, op til 20 procent. Og så på de helt store, og hvis vi kan begynde at lave klimatilpassen, hvor vi gør det smart, i stedet for bare at helde betong og CO2 ned og gør det stort. På måler siden, der er det en IWT-måler, som vi har brugt rigtig mange penge på,
+
+00:03:30
+kan godt sige det er det dyrt at lave harper. Det er egentlig, at den nu er blevet så flexibel. Den er egentlig bygget til kloaker, men har været brugt det andet muligt andre steder, der har været sat hver stationer op sammen med den, som vi kører igennem boxen og også har en kvalitet her, som vi tester i øjeblikker bl.a. i Aarhus. For det, der er kærmende i det, det er at få kvalitet. Kvalitet er ikke nogenvendigvis en absolut størrelse. Det er, kvalitet må godt være relativt, men det skal være kendt.
+
+00:04:00
+Sådan når vi bruger data i forskellige sammenhænger, så skal vi vide, hvorfor en kvalitet det har. Og det kan man skabe på rigtig mange niveauer, helt ude på centeren, hvor den laver sådan et sanity-check. Det er måler nu, passer det med det, for lidt tiden. Og hvis det er helt anderledes, så prøver jeg lige at måle igen. Sådan vil I selv gøre, hvis I skal stå derude med en tommestok, og det er sådan set det sammen, vi prøver at putte ind i vores tensor. Og når man så kommer op igen, så skal man selvfølgelig vide, hvor man er, om det gemning og mål, det man gør. Fjernesat, tidsanalyser, sådan noget, det har I sikretet sammenlaget med på et tidpunkt.
+
+00:04:30
+Og så kommer vi op i det næste lag, hvor vi har noget kiglønning indover, det kommer jeg lige med et eksempel på. Og så til sidst, så er der også noget, fordi der sidder noget vidende ude hos alle forsøgninger i Danmark, så som simpelthen kan se på de her tidsæder, hvad der foregår på en måde, som vi ikke i hvert fald ikke nu kan lære vores maskiner. Men hver eneste gang, de registrerer det, så kan vi jo lære det over tid, måske blive lige så dygtige. Maskinlæringen delen her er kritisk, fordi vi skal keep rigtig mange data på én gang. Så det, vi gør, er at bygge sådan et nordræt netværk,
+
+00:05:00
+som man har det over til venster, for at være enkelt sensor. Det man så bruger som input, det er alle de sensorer, der er omkring det. Det vil sige netop det her forestil af det regner, og man ser den her puls gå ned igennem til stel, om det nu går den egen eller anden vej. Men så lader vi faktisk en forhold til, så at man ikke har måling. Det andet afput, det er hvor meget tror vi på den forhold til, som vi lige har lavet. Det er et mønst, vi har set før, at det kraftigere end det plejer er, at der er et eller andet anderledesvittet.
+
+00:05:30
+Og så stiger udsikkerheden, og plikker vi så ro i vores beslutning. Vi har fået eksempel, fordi man kan egentlig bruge det her over det hele, for vi vil egentlig gerne bruge det over det hele. Men når vi er ude og snakkes, så skal det her implementeres i en eller anden grad. Exempel her fra forestil i Osgilde, hvor de kiggede på regnmødsbesænger. Og det var, at de havde sådan pånemmelse af, at regnmødsbesænger måske stort, de altid var tørre. Regnmødsbesænger burde jo blive uden gang, man burde ligesom det, de byggede til. Og derfor har vi haft de her billige sensorer siddende
+
+00:06:00
+over et år, hvor der faktisk har været op til flere skybrugtshændelser. Der er den maximale følgensgrad, i andre bedstængerne har været 50%. Nogle af de andre har været helt ned på 10%. Og den vil sige, de har simpelthen ikke bidraget til løsningen, i hvert fald ikke i særlig hård grad, og i slet ikke den grad, de kunne gøre. Så der kigger vi på, at bruge den her vidende aktiv spørglede videre. Det andet eksempel, det er så fra en år, hvor man bruger det her til Aarhusværmelser. Det handler meget om,
+
+00:06:30
+hvordan nedebøger fungerer i Aarhusværmelser, når man smelter, men det kunne ligeså godt være i andre steder i Danmark. Og der videre er, at det er fuldstændig datadragende. Og det kommer ud med en aktuelle beslutning, og faktisk en tiltag, som prædelskabet skal lave, i et givendsted, og fjerne stykke varm for at gøre det bedre. Jeg kan også have vist andre eksempel. Vi har Grønbylde har brugt det her, som et modelforslag, som vi op i Kalsnes,
+
+00:07:00
+og Nordicroup har fink på lærløsninger, præcis på samme måde for at se, hvor fungerer de her lærløsninger, som lige hører dem, og det bringer mig frem til den her slag, fordi det egentlig ikke mødte, hvis vores data der sker ind i det, det kan være alt muligt andre. Så det er et bygsel meget åbent, så man kan putte hver sådan en helst ind i den ene side, man kan faktisk også kive det ud, og bruge de alt muligt andre sammen på den side, og der er bedt gjort. Og så arbejder man her både røvgiver, og laver færdige løsninger
+
+00:07:30
+til kommuner og kursyn. Så det er et eller andet sted information, som en service, og vi håber, der håber vi meget om at være færdig. Og det er vi faktisk klar til at rulle ud nu, har det været en af vores plads. Det vi mangler, så vi andre også har sagt det, at hvordan får vi det egentlig bræt ind i folks verde, så det faktisk bliver et værktøj i det daglige, og ikke kun i år osv. Så man skal spørge sig selv, får du nok ud af din data i dag, og tager du beslutninger,
+
+00:08:00
+hvad sidder på maven for nævne sig, eller gør du et folk på basis af data? Tak for at være med. Tak for nu.
