@@ -1220,10 +1220,10 @@
     "kilde": "youtube-subs"
   },
   "H_HnxXoQVVE": {
-    "status": "failed",
+    "status": "skipped",
     "last_attempt": "2026-08-26T06:32:16",
     "attempts": 1,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+    "note": "\"DNNK's generalforsamling 2025\". Videoen findes (HTTP 200) og lyden kan hentes, men whisper fandt kun 54 tegn tale - optagelsen er reelt uden brugbar tale. Ikke et teknisk problem."
   },
   "0jnsC5JPHvA": {
     "status": "done",
@@ -1304,10 +1304,12 @@
     "kilde": "whisper-small"
   },
   "Tr1Zf5SFBJg": {
-    "status": "failed",
-    "last_attempt": "2026-08-26T06:33:06",
-    "attempts": 1,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+    "status": "done",
+    "last_attempt": "2026-08-31T17:04:26",
+    "attempts": 0,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription",
+    "order_id": null,
+    "kilde": "whisper-small"
   },
   "QC0zz_tEViU": {
     "status": "done",
@@ -1316,28 +1318,30 @@
     "kilde": "youtube-subs"
   },
   "rIsvg0nHu58": {
-    "status": "failed",
-    "last_attempt": "2026-08-26T06:33:18",
-    "attempts": 1,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+    "status": "done",
+    "last_attempt": "2026-08-31T17:06:51",
+    "attempts": 0,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription",
+    "order_id": null,
+    "kilde": "whisper-small"
   },
   "dBgGPA6gvro": {
-    "status": "failed",
+    "status": "skipped",
     "last_attempt": "2026-08-27T19:28:05",
     "attempts": 3,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+    "note": "Videoen findes ikke mere paa YouTube (oEmbed HTTP 404, tjekket 2026-08-31). Intet at hente - hverken undertekster eller lyd."
   },
   "NduJYdtn_zU": {
-    "status": "failed",
+    "status": "skipped",
     "last_attempt": "2026-08-27T19:28:10",
     "attempts": 3,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+    "note": "Videoen findes ikke mere paa YouTube (oEmbed HTTP 404, tjekket 2026-08-31). Intet at hente - hverken undertekster eller lyd."
   },
   "dzM8UYhQDy0": {
-    "status": "failed",
+    "status": "skipped",
     "last_attempt": "2026-08-27T19:28:09",
     "attempts": 3,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+    "note": "Videoen findes ikke mere paa YouTube (oEmbed HTTP 404, tjekket 2026-08-31). Intet at hente - hverken undertekster eller lyd."
   },
   "FstuVt6efp4": {
     "status": "done",
@@ -1378,6 +1382,6 @@
     "status": "failed",
     "last_attempt": "2026-08-29T14:11:40",
     "attempts": 1,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+    "note": "YouTube svarer HTTP 403 (tjekket 2026-08-31) - ikke slettet, men utilgaengelig, formentlig privat. Kan proeves igen hvis den goeres offentlig."
   }
 }
