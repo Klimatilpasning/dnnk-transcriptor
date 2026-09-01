@@ -1380,8 +1380,8 @@
   },
   "N9jDYwakMaE": {
     "status": "failed",
-    "last_attempt": "2026-08-29T14:11:40",
-    "attempts": 1,
-    "note": "YouTube svarer HTTP 403 (tjekket 2026-08-31) - ikke slettet, men utilgaengelig, formentlig privat. Kan proeves igen hvis den goeres offentlig."
+    "last_attempt": "2026-09-01T13:54:46",
+    "attempts": 2,
+    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
   }
 }
