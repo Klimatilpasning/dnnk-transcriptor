@@ -47,7 +47,7 @@ Tak.
 Tak skal du have Julie.
 
 00:02:41
-Stopper lige delingen, som i også kan få lov at sige hej til mig. Se hvordan jeg ser ud. Jeg hedder ole Christian Christensen og Jeg har arbejdet med klimaodeller specifikt med regionale klima-modeller her på DMI mange år, og det Jeg vil fortælle om Det er altså, at hvad får man ud af klimamodeller hvad er klimamodeller?
+Stopper lige delingen, som i også kan få lov at sige hej til mig. Se hvordan jeg ser ud. Jeg hedder ole Christian Christensen og Jeg har arbejdet med klimamodeller specifikt med regionale klima-modeller her på DMI mange år, og det Jeg vil fortælle om Det er altså, at hvad får man ud af klimamodeller hvad er klimamodeller?
 
 00:03:03
 Hvad er det for en form for resultater, der kommer ud?
@@ -83,10 +83,10 @@ Slip her jamen det hjalp ikke.
 Ja ja.
 
 00:03:53
-Der var lidt træghed i musen så som sagt, hvad er en klimamodel ECM? Det er en global klimamodel RCM. Det er en regional kaliomodel fra en CPM.
+Der var lidt træghed i musen så som sagt, hvad er en klimamodel ECM? Det er en global klimamodel RCM. Det er en regional klimamodel fra en CPM.
 
 00:04:04
-Det er en convection premiering, altså en særlig afart af en regional piramodel, og Jeg vil gå ind på.
+Det er en convection premiering, altså en særlig afart af en regional klimamodel, og Jeg vil gå ind på.
 
 00:04:12
 Den det, der ligesom gør Vores model resultater klar til at kunne blive brugt i for eksempel klimaatlasset, altså hvad. Hvordan får vi resultater ud derfra? Hvad er det for en form for resultater og snakke en lille smule om usikkerhed?
@@ -125,7 +125,7 @@ En meget, meget omfattende model. Det er ikke en statistisk model. Det er en dyn
 Vi skal kende atmosfærens tilstand.
 
 00:05:46
-På et eller andet tidspunkt tidspunktet nu og for at kunne det, så deler vi jo op. Vi deler jorden op i en masse kitterbokse, og vi deler den også op i en masse niveauer.
+På et eller andet tidspunkt tidspunktet nu og for at kunne det, så deler vi jo op. Vi deler jorden op i en masse gitterbokse, og vi deler den også op i en masse niveauer.
 
 00:05:58
 Og i hver eneste af de der små kuber hver eneste gitterboks hver eneste niveau. Der kender vi nogle fysiske felter. Vi kender temperaturer og vind i 2 retninger.
@@ -152,7 +152,7 @@ Måske 150 år hver især og kigge på alle de Meteorologiske felter der kommer 
 Selvom Vi har en frygtelig masse gitterbokse og en frygtelig masse niveauer, så kan vi ikke beskrive alt det, Der er relevant. For eksempel så foregår altså Sådan nogle gitterbokse i en global model er måske 100 km, og Det er jo alt for stort til at kunne sige noget om nedbør til at kunne sige noget om, hvad der løber i floder til at kunne sige noget om land havkontrast og så videre og så videre og så videre. Så derfor har vi også noget der hedder.
 
 00:07:28
-Den fysiske parametreisering, som er nogle ligninger, der ligesom.
+Den fysiske parameterisering, som er nogle ligninger, der ligesom.
 
 00:07:32
 Tilnærmer alt det der sker på< en gitterbokse skala og hvad der så er med i den her fysiske parameterisering. Det afhænger jo af opløsningen af modellen, så Det er lidt forskelligt fra den her globale model vi snakker om lige nu og så til den de regionale modeller, som Vi skal snakke om om lidt.
@@ -209,7 +209,7 @@ Faktisk rimelig korrupte til at reproducere det klima, Der er i virkeligheden. D
 Statistikken hvor tit sker hvad for en form for værd.
 
 00:10:26
-Og som sagt, nu er det bare illustreret. Opløsning betyder noget. Her har vi Danmark, hvis der var 200 km skidtafstand.
+Og som sagt, nu er det bare illustreret. Opløsning betyder noget. Her har vi Danmark, hvis der var 200 km gitterafstand.
 
 00:10:34
 Det er Sådan en lille firkantet ting det bliver bedre, hvis Vi har en regional model på 50 km og endnu bedre hvis Vi har en på den nuværende.
@@ -281,7 +281,7 @@ De enkelte lande har givet en masse penge til at give til at til, at deres insti
 Simuleringer der har også været en masse penge fra e us forskningsmidler. Deres rammeprogrammer horizon programmer til at finansiere det her.
 
 00:14:28
-Det første store internationale projekt sluttede i 2004. Det hed prugtens den næste generation med mange flere modeller og højere opløsning sluttede i 0 9 og siden da. Der har vi haft Sådan en slags paraplyorganisation, som vi kalder codex, som er en del af verdens betologiske organisations underudvalg for numeriske simuleringer.
+Det første store internationale projekt sluttede i 2004. Det hed PRUDENCE den næste generation med mange flere modeller og højere opløsning sluttede i 0 9 og siden da. Der har vi haft Sådan en slags paraplyorganisation, som vi kalder CORDEX, som er en del af verdens meteorologiske organisations underudvalg for numeriske simuleringer.
 
 00:14:53
 Af klimaet kongeliser p.
@@ -377,7 +377,7 @@ Af først vil jeg lige vise hvad de her 133 simuleringer jeg nævnte lige før.
 Hvad hvad? Hvordan er det egentlig fordelt?
 
 00:19:31
-Der er nu skal jeg prøve at tælle 24 68 10 12 Der er 13 forskellige regionale modeller. Det er de dem i kan se på linjen her foroven, og så er der for hvert af de her tidligere af de såkaldte ACP scenarier Der er der en 9 modeller eller Sådan og Det er næsten man ikke helt de samme modeller for de forskellige.
+Der er nu skal jeg prøve at tælle 24 68 10 12 Der er 13 forskellige regionale modeller. Det er de dem i kan se på linjen her foroven, og så er der for hvert af de her tidligere af de såkaldte RCP scenarier Der er der en 9 modeller eller Sådan og Det er næsten man ikke helt de samme modeller for de forskellige.
 
 00:19:55
 Scenarier og alt det Der er farvet grønt eller blåt. Det er simuleringer, Der er udført, altså hvor lige netop den her globale model er blevet nedskaleret til 12 kilometers opløsning af lige netop den her regionale model og alle de her data ligger lige til at hente og lige til at lave statistik på det Jeg vil vise. Det er så de dem jeg lige pludselig har farvet rødt her.
@@ -422,7 +422,7 @@ Hvad betyder den for temperaturen og den enkelte regionale model? Hvad betyder d
 Der er en betydning især af de globale modeller for hvor meget.
 
 00:21:38
-Opvarmning Der er Der er en model, den britiske hat-jam, som har en meget højere følsomhed end end den.
+Opvarmning Der er Der er en model, den britiske HadGEM, som har en meget højere følsomhed end end den.
 
 00:21:48
 End de andre det her er ved at springe let henover.
@@ -449,7 +449,7 @@ Hver eneste symbol på det her plot er en helt simulering, hvor Vi har taget æn
 Det forventer DJF betyder december, januar, februar.
 
 00:22:58
-Så, og Vi har så taget alle Vores simuleringer fra codex og fra det tidligere projekt, der hedder ensembles for forskellige.
+Så, og Vi har så taget alle Vores simuleringer fra CORDEX og fra det tidligere projekt, der hedder ensembles for forskellige.
 
 00:23:11
 Udslipsscenarier Sådan at Vi har.
@@ -476,7 +476,7 @@ Så det så ser vi et meget mere støjfyldt. Det er vist faktisk ekstremt end vi
 Den simulering, som Vores eget Institut havde lavet, eller hvad det nu kunne være, så risikerede man at at få noget, man overhovedet ikke rigtig kan bruge.
 
 00:24:24
-Hvis man kigger på dem alle sammen under et, så kan man se Der er en svag og den er insigant. Men Der er en tendens til at der vil komme mere ekstremt vind når det bliver varmere, altså i fremtiden. Men man er ligesom nødt til at kigge på alt hvad man har i bøtten for for at kunne grave den konklusion.
+Hvis man kigger på dem alle sammen under et, så kan man se Der er en svag og den er insignifikant. Men Der er en tendens til at der vil komme mere ekstremt vind når det bliver varmere, altså i fremtiden. Men man er ligesom nødt til at kigge på alt hvad man har i bøtten for for at kunne grave den konklusion.
 
 00:24:43
 Og den er som sagt ikke rigtig statistisk signifikant på på noget højt niveau.
@@ -506,7 +506,7 @@ Om Danmark, hvor der jo er en masse lokale kontraster, der påvirker hver og kli
 Så hvad er en convertion premiering model en CPM.
 
 00:26:16
-En model, der tillader konverktion, altså billedet. Det er, at hvis vi går ned under de her cirka 4 km mellem kilderpunkter, så er der jo nogen konventive vejrsystemer, hvor skyerne altså, eller hvor systemerne fylder mere. Hvorved man altså faktisk eksplicit kan opløse dem ved de værdier Vi har i hver eneste gitterbokse på hvert eneste niveau, som er snakket om.
+En model, der tillader konvektion, altså billedet. Det er, at hvis vi går ned under de her cirka 4 km mellem gitterpunkter, så er der jo nogen konvektive vejrsystemer, hvor skyerne altså, eller hvor systemerne fylder mere. Hvorved man altså faktisk eksplicit kan opløse dem ved de værdier Vi har i hver eneste gitterbokse på hvert eneste niveau, som er snakket om.
 
 00:26:42
 Så skal man fjerne noget af den der fysiske parameterisering, som er nogle approximative ligninger, der siger noget om hvad der sker på.
@@ -551,10 +551,10 @@ Når det regner, hvor meget kommer der så?
 Og Det er team nedbør det her. Det glemte jeg at sige, så Det er ikke daglige nedbør, så vi kiggede på lige før der retfærdiggjorde.
 
 00:28:36
-Kære seaberne på 12 km, nu hvor Vi har højere opløsning, så kan vi faktisk med mening kigge på kigge på temanedbør og så endelig her til højre. Der har vi et ekstremt Det er den Det er 99%.
+Kære seaberne på 12 km, nu hvor Vi har højere opløsning, så kan vi faktisk med mening kigge på kigge på timenedbør og så endelig her til højre. Der har vi et ekstremt Det er den Det er 99%.
 
 00:28:51
-Perentilen er nedbør altså den intense nedbør, som kun bliver overskredet i en procent af dagene.
+Percentilen er nedbør altså den intense nedbør, som kun bliver overskredet i en procent af dagene.
 
 00:28:59
 Eller i timerne. Undskyld.
@@ -593,7 +593,7 @@ Vi har også nogle simuleringer over Danmark.
 Og det her. Det er Sådan et plot man kan prale med.
 
 00:31:03
-Vi ser Vores DMI klimakrint Danmark datasæt som er en.
+Vi ser Vores DMI Klimagrid Danmark datasæt som er en.
 
 00:31:12
 Et gitter som bygger på stationsobservationer, så Det er ligesom så tæt, vi kan komme på et realistisk nede i Vores kortår Danmark som muligt, og man kan se hvor det regner mest og hvor det regner mindre, og det passer sikkert også med hvad i Sådan går og ved. Og Det er jo så ikke så godt, når vi kigger på 12 kilometerskørslen her at.
@@ -767,7 +767,7 @@ Men det Det er jo Det er et stort konsortium, og Det er vi meget glade for, ford
 Løse konkrete problemer sammen med andre mennesker, altså Der er en.
 
 00:40:29
-8 10 forskellige nationalmæssologiske institutter som samarbejder om den her harmoniklit model. Mest de Sådan halsmå lande fordi alle de store lande som Tyskland og Frankrig og Storbritannien, de har deres egen modeludvikling og deres egne klimaodeller.
+8 10 forskellige nationalmæssologiske institutter som samarbejder om den her harmoniklit model. Mest de Sådan halsmå lande fordi alle de store lande som Tyskland og Frankrig og Storbritannien, de har deres egen modeludvikling og deres egne klimamodeller.
 
 00:40:49
 Ja var der.
@@ -821,13 +821,13 @@ Jeg bliver jo nødt til at indrømme, at.
 Eurocordex.
 
 00:42:54
-Hvor Europa jo er fyldt med ret rige institutioner, euro-x og langt flere simuleringer end den sydamerikanske cordeks.
+Hvor Europa jo er fyldt med ret rige institutioner, euro-x og langt flere simuleringer end den sydamerikanske CORDEX.
 
 00:43:05
 Afrika er et lidt specielt tilfælde, fordi vi bevidst rekordik samarbejdet. Der valgte vi Afrika som Vores pilotområde, så der blev faktisk for nogle år siden lavet.
 
 00:43:17
-Ret mange simuleringer over Afrika Afrika er stor, så Det var i 25 kilometers optøvelse. Men og Det er dog ikke helt så mange som et eurocort eksamen, altså der. Der må jeg jo sige ja altså vi modtager jo penge.
+Ret mange simuleringer over Afrika Afrika er stor, så Det var i 25 kilometers opløsning. Men og Det er dog ikke helt så mange som et eurocort eksamen, altså der. Der må jeg jo sige ja altså vi modtager jo penge.
 
 00:43:31
 Men Vi er jo nødt til at have penge for at få råd til at køre de her simuleringer, og Det er jo tit i forbindelse med, at den enkelte nation eller måske på EU plan, at man vil vide noget om hvad sker der her.
@@ -845,7 +845,7 @@ At, Der er andre steder i verden, der bliver meget, meget kraftigt ramt af de me
 Altså måske hvad mark snakker om Vores ghanaprojekt.
 
 00:44:14
-Han laver en slide her flyvende fordi DMI altså specifikt DMI har et solgt samarbejde med ghanas metologisk Institut om at lave en pendant til det her klima somagt kom til at snakke om lige om det øjeblik.
+Han laver en slide her flyvende fordi DMI altså specifikt DMI har et solgt samarbejde med ghanas meteorologisk Institut om at lave en pendant til det her klima somagt kom til at snakke om lige om det øjeblik.
 
 00:44:28
 Men men absolut og og det det gode er jo så at Det er nogle internationale. Det er nogle globale organisationer der.
