@@ -1646,7 +1646,7 @@ skadesfunktionerne for bygninger stammer fra
  
  Skadesdata fra Stormrådet  
  Danmarks Adressers Web API (DAWA) 
- Kysdirektoratets højvandsstatistik  
+ Kystdirektoratets højvandsstatistik  
  Havvand på Land data (SDFE) 
  
 Skadesdata fra stormrådet er anvendt til at estimere skader for bygningskategorierne 
@@ -2734,7 +2734,7 @@ oversvømmelser og investeringer i klimatilpasning. DTU Management, Lyngby. Hent
 november 2022 fra https://www.klimatilpasning.dk/media/1887277/samfundsoekonomiske-
 konsekvenser-af-oversvoemmelser-og-investeringer-i-klimatilpasning.pdf  
  
-IPPC. 2022. Climate Change 2022: Impacts, Adaptation, and Vulnerability. IPCC Working 
+IPCC. 2022. Climate Change 2022: Impacts, Adaptation, and Vulnerability. IPCC Working 
 Group II contribution to the Sixth Assessment Report. Hentet november 2022 fra 
 https://www.ipcc.ch/report/sixth-assessment-report-working-group-ii/  
  

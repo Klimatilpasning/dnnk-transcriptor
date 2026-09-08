@@ -2076,6 +2076,180 @@
         "forkert": "klimapaktor",
         "rettet": "klimafaktor",
         "antal": 1
+      },
+      {
+        "forkert": "DNA ks",
+        "rettet": "DNNK's",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "lene margot",
+        "rettet": "Line Markert",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "vallensmyndighed",
+        "rettet": "vandløbsmyndighed",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "valusloven",
+        "rettet": "vandløbsloven",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "udlændingstilladelser",
+        "rettet": "udledningstilladelser",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "udligningstilladelse",
+        "rettet": "udledningstilladelse",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "uddannelsestilladelser",
+        "rettet": "udledningstilladelser",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "batteknologi",
+        "rettet": "BAT-teknologi",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "alexsomkostningerne",
+        "rettet": "anlægsomkostningerne",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "spildevejsselskabet",
+        "rettet": "spildevandsselskabet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "spillandsselskab",
+        "rettet": "spildevandsselskab",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "spilvejsselskabet",
+        "rettet": "spildevandsselskabet",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "spillevandsselskabet",
+        "rettet": "spildevandsselskabet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "spilartselskabet",
+        "rettet": "spildevandsselskabet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "spilværdsselskab",
+        "rettet": "spildevandsselskab",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "bilværdselskab",
+        "rettet": "spildevandsselskab",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "spildevandsvandsplan",
+        "rettet": "spildevandsplan",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "spillerselskabet",
+        "rettet": "spildevandsselskabet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "spillandsforsyning",
+        "rettet": "spildevandsforsyning",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "spilværsplanen",
+        "rettet": "spildevandsplanen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "spillandselskab",
+        "rettet": "spildevandsselskab",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "spildevandselsselskabet",
+        "rettet": "spildevandsselskabet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "spildevandselskab",
+        "rettet": "spildevandsselskab",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "spildevandselskabet",
+        "rettet": "spildevandsselskabet",
+        "antal": 5,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "spildevandselskaber",
+        "rettet": "spildevandsselskaber",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "spildselskabet",
+        "rettet": "spildevandsselskabet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "spillerskabet",
+        "rettet": "spildevandsselskabet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "spilleringsselskabet",
+        "rettet": "spildevandsselskabet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "spilvejsselskab",
+        "rettet": "spildevandsselskab",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": [
@@ -4324,6 +4498,54 @@
         "rettet": "kote man ligger i",
         "antal": 1,
         "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "IDNNK",
+        "rettet": "i DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Henriette soya",
+        "rettet": "Henriette Soja",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Anette",
+        "rettet": "Henriette",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Annette",
+        "rettet": "Henriette",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "miljø og fødevare ved fødevareklagenævnet",
+        "rettet": "miljø- og fødevareklagenævnet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "haftsyningspligter",
+        "rettet": "forsyningspligter",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Maria og jeg",
+        "rettet": "Marie og jeg",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "politikningsprojekter",
+        "rettet": "kystsikringsprojekter",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -5017,6 +5239,186 @@
         "rettet": "kloakledninger",
         "antal": 1,
         "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "DNK webinar",
+        "rettet": "DNNK webinar",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "2 Trier",
+        "rettet": "Tue Trier",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DNKS hjemmeside",
+        "rettet": "DNNKs hjemmeside",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "den KS hjemmeside",
+        "rettet": "DNNKs hjemmeside",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "matripære",
+        "rettet": "matrikulære",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "spiller selskab",
+        "rettet": "spildevandsselskab",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kommunalfuldt materialerne",
+        "rettet": "kommunalfuldmagtsreglerne",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kommunalt materialerne",
+        "rettet": "kommunalfuldmagtsreglerne",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "eksplodere",
+        "rettet": "ekspropriere",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "eksplosion",
+        "rettet": "ekspropriation",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "vandagemyndigheden",
+        "rettet": "vandløbsmyndigheden",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "vandetsmyndigheden",
+        "rettet": "vandløbsmyndigheden",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "strandbrevet",
+        "rettet": "strandbredden",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "borgerlandet",
+        "rettet": "forlandet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "vejlektorret",
+        "rettet": "Vejdirektoratet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "whitehovnes paragraf 77",
+        "rettet": "vejlovens paragraf 77",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "vejledningspardag 77",
+        "rettet": "vejlovens paragraf 77",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "vejlån pakket 8 stykke 3",
+        "rettet": "vejlovens paragraf 8 stykke 3",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "vejleåvej vejmyndigheden",
+        "rettet": "vejloven, vejmyndigheden",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "allednings",
+        "rettet": "ledningsejerne",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "vejen om paragraf 4 styk et",
+        "rettet": "vejlovens paragraf 4 stykke 1",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Danmark som er brancheforeningen",
+        "rettet": "DANVA som er brancheforeningen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "inspirationsparatimer",
+        "rettet": "inspirationsparadigmer",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "spillere. Selvskaber",
+        "rettet": "spildevandsselskaber",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kommentarskommission",
+        "rettet": "taksationskommission",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tilstandsbaitter",
+        "rettet": "tilstandsservitutter",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ekspropressionsmaterialet",
+        "rettet": "ekspropriationsmaterialet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ekspropressionsprocessen",
+        "rettet": "ekspropriationsprocessen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ekspropressionsbeslutningen",
+        "rettet": "ekspropriationsbeslutningen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ekspropressionsmuligheden",
+        "rettet": "ekspropriationsmuligheden",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -15304,6 +15706,23 @@
       {
         "forkert": "blasfalt",
         "rettet": "asfalt",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\PDF_Metodetilgange_for_beregning_af_økonomisk_skade_på_bygninger_til_risikoanalyser_.txt": {
+    "anvendt": [
+      {
+        "forkert": "Kysdirektoratets",
+        "rettet": "Kystdirektoratets",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "IPPC",
+        "rettet": "IPCC",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
       }
