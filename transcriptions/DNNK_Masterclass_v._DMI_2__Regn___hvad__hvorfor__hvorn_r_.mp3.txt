@@ -143,7 +143,7 @@ Automatisk og moderne udstyr som de de 3 øverste målere her. Og hvis vi kigger
 De ejer alle de røde målere, og derudover så er der nedbørmålere fra andre interessenter, som også ejer nedbørmålere og som deler det med DMI og og som indgår i nogle af DM i's nedbørsprodukter.
 
 00:09:57
-Men hvis man henter en Meteorologiske målestationsdata, fordi amin, så kan man kun få for de røde punkter og i nogle af de entapolerede data Vi skal snakke om senere, så indgår de de andre punkter også. Det er mest punkter eller nedbør. Måler er nogenlunde jævnt fordelt over landet.
+Men hvis man henter en Meteorologiske målestationsdata, fordi amin, så kan man kun få for de røde punkter og i nogle af de interpolerede data Vi skal snakke om senere, så indgår de de andre punkter også. Det er mest punkter eller nedbør. Måler er nogenlunde jævnt fordelt over landet.
 
 00:10:12
 Hvorimod de blå punkter som er ejet af spildevandskomiteen og som udgør en stor andel af af eller det eget af forsyningsselskaberne, og som samler deres nedbør-data igennem spildevandskomiteen og deler dem med DMI.
@@ -173,10 +173,10 @@ Når vi snakker nedbørmålere, så er det ofte Sådan. Sådan har jeg selv arbe
 Der er især.
 
 00:12:36
-Usikkerheder omkring, hvordan turbulens fra vinden omkring åbningen af regimmåleren kan skabe bios og fejlstimering af, hvor meget nedbør der faktisk falder.
+Usikkerheder omkring, hvordan turbulens fra vinden omkring åbningen af regimmåleren kan skabe bias og fejlstimering af, hvor meget nedbør der faktisk falder.
 
 00:12:46
-Sådan så at det det man måler nede II spanden enten med en vejemåler eller med en tippingbucket det faktisk ikke er er så repræsentativt for hvor meget nedbør der i virkeligheden er faldet på jorden i gennemsnit rundt omkring måleren. Derudover så kan der ske nogle wattingtab kalder vi dem nogle Sådan af af fra fra nedbøren falder ned i spanden til den kommer derhen hvor det bliver vejet eller en en ske skal tippe at der går der noget tabt på siderne og målingerne ved at simpelthen at fugte måleren inden at nedbøren og vandet kan sive længere ned.
+Sådan så at det det man måler nede II spanden enten med en vejemåler eller med en tippingbucket det faktisk ikke er er så repræsentativt for hvor meget nedbør der i virkeligheden er faldet på jorden i gennemsnit rundt omkring måleren. Derudover så kan der ske nogle vædningstab kalder vi dem nogle Sådan af af fra fra nedbøren falder ned i spanden til den kommer derhen hvor det bliver vejet eller en en ske skal tippe at der går der noget tabt på siderne og målingerne ved at simpelthen at fugte måleren inden at nedbøren og vandet kan sive længere ned.
 
 00:13:15
 For nogle typer målinger. Der kan der også ske fordampning af vandet, inden at det bliver målt, og så kan det også ske det, vi kalder effekter. Hvis Der er genstande rundt omkring måleren, eller hvis Der er en signifikant kant rundt omkring måleren, der gør at nedbør rammer kanten eller rammergenstanden.
@@ -185,7 +185,7 @@ For nogle typer målinger. Der kan der også ske fordampning af vandet, inden at
 Ved siden af kan sprøjte ned i spanden.
 
 00:13:33
-Og Jeg har et billede til Venstre. Det viser nogle forskere, der har lavet nogle simuleringer. 3 d computational flod-dynami simuleringer af vindforhold rundt omkring nedbør målinger.
+Og Jeg har et billede til Venstre. Det viser nogle forskere, der har lavet nogle simuleringer. 3 d computational fluid-dynamik simuleringer af vindforhold rundt omkring nedbør målinger.
 
 00:13:43
 Og Det er forskellige typer af nedbørmålere, og der kan man se. Det er faktisk virkelig stor forskel på, hvor meget turbulens Der er rundt omkring måleren og ovre til højre, der har DMII en rapport for nogle år siden undersøgt, hvordan bør man egentlig korrigere for hvor meget nedbør man har målt i forhold til hvor meget vi tror der i virkeligheden er faldet baseret på, hvor meget det her blæst og hvor kraftig i regnen var. Og Jeg har linket til en lille rapport, hvis man er super nørdet og gerne vil gå ned i detaljerne.
@@ -206,7 +206,7 @@ Det, Der er tilgængeligt på frie data for alle i offentligheden. Det er 10 x 1
 Og som egentlig ikke har rettighed til at Sådan direkte dele, så derfor er de kun en del af et afledt produkt, som så bliver delt.
 
 00:15:16
-Men jeg tænker, at hvis man har særlige behov eller man er interesseret i noget forskning, der hedder udviklingsprojekt, så kan man nok godt snakke med os og især spildemandskomiteen om muligheden for at at dele det data. Men det der så er tilgængeligt for alle lige nu, så man bare kan downloade Det er 10 og en 10 km og 20 gange og 20 km grids overlader op til højre har jeg taget en lille skematisk figur med hvordan den her enterpulering den foregår, så lad os sige, at vi står i den røde kridtcelle og skal have et vægtet gennemsnit af hvor meget nedbør Der er faldet der.
+Men jeg tænker, at hvis man har særlige behov eller man er interesseret i noget forskning, der hedder udviklingsprojekt, så kan man nok godt snakke med os og især spildevandskomiteen om muligheden for at at dele det data. Men det der så er tilgængeligt for alle lige nu, så man bare kan downloade Det er 10 og en 10 km og 20 gange og 20 km grids overlader op til højre har jeg taget en lille skematisk figur med hvordan den her interpolering den foregår, så lad os sige, at vi står i den røde gridcelle og skal have et vægtet gennemsnit af hvor meget nedbør Der er faldet der.
 
 00:15:44
 Så kigger vi på nedbørmålerne der står rundt omkring. Det er de grønne trekanter og af hvor meget de her mål og så den måde. Alt det mest algoritme fungerer på.
@@ -215,7 +215,7 @@ Så kigger vi på nedbørmålerne der står rundt omkring. Det er de grønne tre
 Det er ved, at den kigger ud i alverdenshjørner finder den nedbørmåler den trekant der står tættest på i hver verdenshjørne, og så tager den et vægtet gennemsnit af dem, og hvor at afstanden til den tilmålerne i hver verdens øjne er med i vægtningen. Så hvis du står tæt på den firkant, Vi er interesseret i at få et estimat af nedbør i så vigtigst din måling højt, og hvis du står langt væk, så vigtigst den lavt.
 
 00:16:14
-Udover afstanden til grillcellerne mellem grundcellerne og nedblrammerne, så er der også det kort nede i Venstre hjørne, der tæller med i den her vægtning, og Det er et kort som nogle klimatologer på DMI engang har lavet, der viser ligesom en klassifikation af det danske klima i på Sådan en kyst til indlandsklimadiet, for det man kan se for rigtig mange Meteorologiske variabler også nedbør. Det er, at Der er stor forskel på kyst og på indlandsklima det regner i virkeligheden mere indlands, end det gør ude langs kysterne, og Det er man nødt til at tage højde for, hvis man skal have nogle ordentlige interpositioner.
+Udover afstanden til gridcellerne mellem gridcellerne og nedblrammerne, så er der også det kort nede i Venstre hjørne, der tæller med i den her vægtning, og Det er et kort som nogle klimatologer på DMI engang har lavet, der viser ligesom en klassifikation af det danske klima i på Sådan en kyst til indlandsklimadiet, for det man kan se for rigtig mange Meteorologiske variabler også nedbør. Det er, at Der er stor forskel på kyst og på indlandsklima det regner i virkeligheden mere indlands, end det gør ude langs kysterne, og Det er man nødt til at tage højde for, hvis man skal have nogle ordentlige interpolationer.
 
 00:16:46
 Så det bliver vægtet noget med afstanden og nedbørmålerne og så også i forhold til hvor nedbør målerne står i forhold til hvor dine grillstal er om den har lignende klima.
@@ -245,7 +245,7 @@ Først kvalitetssikret en dag senere eller 3 dage senere, men de er altså tilg�
 Så udover nedbør måler interpollerede nedbør måler data, så har vi også det der hedder verter, og nu får vi en meget hurtigere kort. Influenza vejrrater er fordi i virkeligheden meget komplekst, men det der foregår over i Venstre side. Det er et overblik over hvor.
 
 00:18:36
-Dmi har radar stående henne, som kigger op i atmosfæren og måler nedbør. Der er 5 af det, der kaldes sebåndsratere, som han har noget at gøre med de bølgelængder, de sender ud på mikrobølger ud af og de 5 retter, der står en oppe i Nordjylland ved sindal, så står der en på rømø på Samsø på Bornholm og en på Stevns lige syd for København og tilsammen så scanner de hele atmosfæren over Danmark og over til højre. Der har jeg lånt en figur fra malte am, som er man kan finde den på evalforeningens hjemmeside, hvor man også kan læse mere om, hvordan vejrvarter måler.
+Dmi har radar stående henne, som kigger op i atmosfæren og måler nedbør. Der er 5 af det, der kaldes C-bånds-radarer, som han har noget at gøre med de bølgelængder, de sender ud på mikrobølger ud af og de 5 retter, der står en oppe i Nordjylland ved sindal, så står der en på rømø på Samsø på Bornholm og en på Stevns lige syd for København og tilsammen så scanner de hele atmosfæren over Danmark og over til højre. Der har jeg lånt en figur fra malte am, som er man kan finde den på evalforeningens hjemmeside, hvor man også kan læse mere om, hvordan vejrvarter måler.
 
 00:19:08
 Og den her figur den viser, at en vejrter, som er i virkeligheden et det ser ud. Det ligner et tårn, hvor der står en stor forvokset golfbold på og inde i den her golfbold, der sidder der Sådan en hvad der ligner en parabolantenne og snor rundt om sig selv, og det den gør, mens den står og snorrer rundt om sig selv. Det er den til at nå at pulse er mikrobølger ud, og de her mikrobølger, hvis de rammer noget i atmosfæren, så bliver de reflekteret tilbage mod radaren og radaren lytter sig på det ekko, der kommer hjem.
@@ -266,7 +266,7 @@ Der er byer og andre objekter der står i vejen i radarens synspunkt. Der kan og
 Er tilbage til sidst. Det er kun nedbør eco'erne på arbejde og de data, som man så kan hente er nedbør ekkoer. Det er de her 3 typer af data.
 
 00:20:42
-Over til Venstre, Der er der de rå retter og data, hvor vi så har filtreret alle de her støjsignaler fra, og det kaldes volumenato på frie data 3 dét volumen, data og det det findes for hver af de her enkelte 5 retter og Det har taget en visualisering med her, som viser nogenlunde hvordan det ser ud, så i et polart coranisk system der kan du få rettere echo estimater II Sådan nogle ja polært 3 d.
+Over til Venstre, Der er der de rå retter og data, hvor vi så har filtreret alle de her støjsignaler fra, og det kaldes volumenato på frie data 3 dét volumen, data og det det findes for hver af de her enkelte 5 retter og Det har taget en visualisering med her, som viser nogenlunde hvordan det ser ud, så i et polart koordinat system der kan du få rettere echo estimater II Sådan nogle ja polært 3 d.
 
 00:21:08
 I forskellige.
@@ -281,7 +281,7 @@ Der skal man helst have lidt professionelle radar erfaring, før man går i gang
 Rå data definerer et horisontalt plan i atmosfæren i en eller 2 højde for eksempel 1 km.
 
 00:21:39
-Og så på tværs af alle de her forskellige individuelle målinger i forskellige forskellige bølger og højder ud fra radaren, så entrepulerer man 1 2 d kort af nødburger ekkoerne, og så får man i virkeligheden Sådan noget der minder om 1 2 2 d kort af af af nødbør og de her 2 d.
+Og så på tværs af alle de her forskellige individuelle målinger i forskellige forskellige bølger og højder ud fra radaren, så interpolerer man 1 2 d kort af nedbør ekkoerne, og så får man i virkeligheden Sådan noget der minder om 1 2 2 d kort af af af nødbør og de her 2 d.
 
 00:21:59
 Kort de findes både for enkeltrater og ligesom er vist på billedet i midten. Det er for den der står på Stevns, men også som et sammensat billede, hvor alle 5 rater og stata er sat sammen, så man kan få et landsdækkende.
@@ -317,7 +317,7 @@ Og DMI har også sin egen supercomputer, som vi ejer sammen med det islandske Me
 Det er estimater for for jordoverfladen.
 
 00:24:47
-Og man kan hente alle mulige data for frie data, men når vi snakker om nedbør, så er det altså i de her områder, Der er vist over til Venstre. Vi simulerer simulerer atmosfæren i det blå felt over nordeuropa og i det røde felt over Grønland og begge felter af daisa bliver frigivet.
+Og man kan hente alle mulige data for frie data, men når vi snakker om nedbør, så er det altså i de her områder, Der er vist over til Venstre. Vi simulerer simulerer atmosfæren i det blå felt over nordeuropa og i det røde felt over Grønland og begge felter af data bliver frigivet.
 
 00:25:06
 Prognoserne Det er mest egne prognoser forudsiger vejret 60 timer frem i tiden så 2,5 dag cirka.
@@ -596,7 +596,7 @@ Både af nu egentlig, men også hvordan det ændrer sig under forskellige klimas
 Den det brugte jeg bevilgede ikke en masse tid på i dag, fordi jeg vidste at mark havde dækket det sidste gang. Men Der er jo Der er jo rig mulighed for at hente data der kan bruges ind under klima atlas.
 
 00:41:03
-Så nævnte Jonas spilvandskomiteen, som suverænt er den største samling af regnmålere, Vi har i Danmark.
+Så nævnte Jonas spildevandskomiteen, som suverænt er den største samling af regnmålere, Vi har i Danmark.
 
 00:41:13
 De udgjorde udgiver deres skrifter med med guidelines til, hvordan man skal bruge regndata og og.
@@ -614,7 +614,7 @@ Men de her afledte produkter omkring intensitetskurver og lignende. De er frit t
 Og der stationskort er jo meget udbredt for rigtig mange steder og og Der er meget data, der går langt tilbage, så Der er nu efterhånden, hvad vi vi kørende på 45 når lige nu, så der Der er meget data at gå af gå f, og så er der Sådan helt andre data.
 
 00:42:21
-Det her, Det er bare et eksempel, men men Der er flere udbydere og og sælgere af for eksempel vejrstationer til privatpersoner, som inkluderer, at de faktisk samler data op for de her værrestationer. Net må er nok den største udbyder. i Danmark vil jeg tro Der er nogle andre der der ligger og bider dem i hælene, men men Der er.
+Det her, Det er bare et eksempel, men men Der er flere udbydere og og sælgere af for eksempel vejrstationer til privatpersoner, som inkluderer, at de faktisk samler data op for de her værrestationer. Netatmo er nok den største udbyder. i Danmark vil jeg tro Der er nogle andre der der ligger og bider dem i hælene, men men Der er.
 
 00:42:44
 Jeg har. Jeg får lyst til at sige 10 tusindvis af vejrstationer i Danmark. Det er nok.
@@ -632,7 +632,7 @@ Man kan få nogle eksempler også gratis på.
 Hent ned, men man kan også betale sig fra at få få meget detaljeret datasæt for for for regionen.
 
 00:43:12
-Jeg ved Aalborg Universitet har arbejdet med det her og brugt det til at validere noget andet, så der ligger der ligger noget eksempler på, hvordan man bruger det på regn. Personligt har jeg brugt det på temperatur i forhold til at se på urbanheated Island og og Jeg kan afsløre der havde vi cirka 2,5 1000 stationer i københavnsområdet i storkøbenhavn, så det siger noget om datatætheden er kæmpe kæmpe høj.
+Jeg ved Aalborg Universitet har arbejdet med det her og brugt det til at validere noget andet, så der ligger der ligger noget eksempler på, hvordan man bruger det på regn. Personligt har jeg brugt det på temperatur i forhold til at se på urban heat island og og Jeg kan afsløre der havde vi cirka 2,5 1000 stationer i københavnsområdet i storkøbenhavn, så det siger noget om datatætheden er kæmpe kæmpe høj.
 
 00:43:33
 Og vi havde den luksus, så vi kunne sige rigtig meget data fra os, hvor vi var i tvivl om kvaliteten og og køre en masse kvalitetssikring ned over og stadigvæk inde i lige i underkanten. 200 fulde data serier for den periode vi så på i københavnsområdet med minutopløsning på på temperatur, hvor vi havde alt, hvad der var det mindste mistænkelige, havde vi som sidder fra, så så der Der er utrolig meget data, der findes derude, som er tilgængelig, men men.
@@ -680,7 +680,7 @@ Vandbalancer og og videre estimerer udledninger af af næringsstoffer fra landbr
 Og Det er så fordi at den her korrektion af nedbøren er ned de målte værdier den ikke kan ikke har været en del af de data, Der er blevet brugt til det her, og Det er heller ikke en del af de data som ligger i frie data lige nu.
 
 00:46:22
-Men siden da 20 20 20 21, hvor det blev åbenlyst for alle, at der var et problem her, der har DMI arbejdet på. Hvordan skulle vi egentlig lave Sådan en korrektion baseret på på vindmålinger af nedbørstat og de er stadig ved at lægge sidste hånd på det aftalen med blandt andet geos og Aarhus Universitet om præcis hvordan det skal være. Men så er det også meningen, at de data, de skal komme i komme i frie data som den korrigerede nedbørmålet og data.
+Men siden da 20 20 20 21, hvor det blev åbenlyst for alle, at der var et problem her, der har DMI arbejdet på. Hvordan skulle vi egentlig lave Sådan en korrektion baseret på på vindmålinger af nedbørstat og de er stadig ved at lægge sidste hånd på det aftalen med blandt andet GEUS og Aarhus Universitet om præcis hvordan det skal være. Men så er det også meningen, at de data, de skal komme i komme i frie data som den korrigerede nedbørmålet og data.
 
 00:46:49
 Og jeg prøvede at at få et svar på, hvornår det kunne være, og jeg kunne ikke få andet ud af.
@@ -797,10 +797,10 @@ Så forsinkelsen på, hvornår prognoserne kommer.
 Den bliver elimineret fuldstændig, og Det er virkelig, virkelig spændende faktisk, og det foregår på alle mulige planer. De udvikler, der foregår lige nu, men Vi er super glade for at, at Vi har muligheder for at være med på den bølge, fordi ellers så så står vi overfor virkelig stor konkurrence for for alle de store ting giganter som Google og favori og alle mulige andre.
 
 00:55:05
-Og det sidste datasæt Jeg har taget med her. Det er et datasæt, som er blevet produceret igen også over rigtig mange GBU timer på en super-computer. Det er i virkeligheden det.
+Og det sidste datasæt Jeg har taget med her. Det er et datasæt, som er blevet produceret igen også over rigtig mange GPU-timer på en super-computer. Det er i virkeligheden det.
 
 00:55:16
-Det er et datasæt der hedder et reanalysedatasæt eller et reen assis på engelsk, hvis man googler sig frem til andre realitys datasæt. Det er Sådan et datasæt. Det fungerer ved, at Det er en numerisk sværmodel.
+Det er et datasæt der hedder et reanalysedatasæt eller et reanalysis på engelsk, hvis man googler sig frem til reanalysis datasæt. Det er Sådan et datasæt. Det fungerer ved, at Det er en numerisk sværmodel.
 
 00:55:27
 Sådan en der producerer prognoser også og så en masse datasimulering som man laver i virkeligheden.
@@ -824,13 +824,13 @@ Og jeg mener, at det i ideen er, at det skal gå helt tilbage til 1950.
 Lige nu de første datasæt som er er færdige, og som vi selv sidder og leger med på meget spændt stadie. Det er gå tilbage til 1990.
 
 00:56:39
-Og over til højre. Der har jeg vist hvordan det der ligger offentligt tilgængeligt nu. Det er reanalysedatasæt der hedder ERA 5 som er produceret af af det store europæiske vejr af Meteorologiske og vejrpornos Institut ovre i England.
+Og over til højre. Der har jeg vist hvordan det der ligger offentligt tilgængeligt nu. Det er reanalysedatasæt der hedder ERA 5 som er produceret af af det store europæiske vejr af Meteorologiske og vejrprognose Institut ovre i England.
 
 00:56:53
 De har lavet Sådan en en re analyse datasæt verden og Der er sli.
 
 00:56:59
-Pigen i Danmark så højde coater Danmark igennem deres model, så ser den Sådan her ud, og opløsningen er cirka 31 x 31 km i grillcellerne, hvorimod Det er super højtopløselige datasæt. Vi kommer til at køre, og som har krævet flere års udregninger på en supercomputer at producere. Det kommer til at have 2,5 x 2,5 km at opløsning, så man kan både få estimater af for eksempel hvor Jeg er nedbør Der er faldet og hvad temperaturen har været på overfladen, men også hvis man skulle være interesseret i det.
+Pigen i Danmark så højde coater Danmark igennem deres model, så ser den Sådan her ud, og opløsningen er cirka 31 x 31 km i gridcellerne, hvorimod Det er super højtopløselige datasæt. Vi kommer til at køre, og som har krævet flere års udregninger på en supercomputer at producere. Det kommer til at have 2,5 x 2,5 km at opløsning, så man kan både få estimater af for eksempel hvor Jeg er nedbør Der er faldet og hvad temperaturen har været på overfladen, men også hvis man skulle være interesseret i det.
 
 00:57:27
 Information om variable op i atmosfæren helt op til langt op i atmosfæren mange kilometer oppe i atmosfæren.
