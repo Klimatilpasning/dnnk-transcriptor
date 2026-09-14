@@ -1,0 +1,89 @@
+=== DNNK Webinar Transskription ===
+Kategori: Oevrige
+Video ID: SuR8zU8kFoE
+URL: https://youtube.com/watch?v=SuR8zU8kFoE
+Kilde: YouTube auto-undertekster (dansk)
+Transskriberet: 2026-09-14T14:50:44.806360
+
+==================================================
+
+00:00:00
+Hej Mark Rand her Marina [Musik] slide- etiket til min
+
+00:00:30
+crossfoil. Så jeg skifter til engelsk for at være mere tydelig. Øh, denne præsentation handler om at vurdere potentialet i disse øh tuksat-love eller trykbelagte love, trykbelagte sæbe, måske ville vi kalde det på engelsk, hvis sådan noget findes. Øh, og se om det kan virke i stor skala. Så vi har nogle gode eksempler indtil videre på, øh, disse løsninger på byggepladsniveau, og vi
+
+00:01:00
+ved lidt om, hvordan de fungerer, men spørgsmålet er, om der er nogen form for skalerbarhed af disse løsninger, så vi tager eksemplet med LGARDS, øh, de ting jeg vil forsøge at dække i denne præsentation, øh lidt om, hvor meget af det område der er uigennemtrængeligt for den uigennemtrængelige åbenlyshed. Hvor meget koster taget? Og øh, hvis vi tager de tage, kan vi så
+
+00:01:30
+komme tæt på at opfylde klimatilpasningsmålene om øh 30% afbrydelse af det afgørende område, og så se på detaljerne ved nogle af disse tage og øh prioritere med hensyn til øh, hvad ejerskabet af dem er, og deres fysiske egenskaber. Så dette er de syv skybrudsoplande her i København. Så du
+
+00:02:00
+kan se, at der er en oversigt over områderne for hver af dem. Så det samlede areal er næsten 10.000 hektar . Så i vores tilfælde vil vi se på LG's O, fordi øh, ja, det er et godt eksempel på, hvor vi har mange forskellige øh arealanvendelser. Det er også der, vi befinder os her. Det er centralt beliggende og udgør mere end 10% af det samlede areal.
+
+00:02:30
+Så det er det område, vi undersøger for at skalere op. Så vi har allerede hørt om nogle af eksemplerne hos Lunoptigal. Vi ser, hvor godt det kan fungere der, disse tryksatte sæbeskum. Øh, men det er lidt et idealiseret eksempel, hvor vi har store tage og masser af grønt område. Så vi vil gerne se på, om det kan skaleres op til hele Lil Godzos opland
+
+00:03:00
+og måske endda til hele øh-skybrudshåndteringsområdet. Så området er 2,2 hektar, og så er Lardzo lidt over tusind, og hvad med øh 10.000 hektar? Så vil vi se på, hvordan det kan se ud. Øh, så det er en slags rumlig analyseundersøgelse. Så vi havde brug for nogle data om landdække. Så dette er fra data
+
+00:03:30
+for Sunnings Bethes-data. Øh, de har altså øh disse data tilgængelige på deres hjemmeside gratis. De øh ja, så de kommer med et nyt datasæt hvert år. De sidste par år har de på en måde indarbejdet AI. Det har været øh, lad os se, de sidste par år. Ja . Uanset hvad, de sidste par år kan man se, øh, det er en neural netværksmodel.
+
+00:04:00
+Så det er denne her. Og den opdeler alt landdække i Danmark i disse 14 forskellige kategorier. Den er i en meget høj opløsning, ligesom 10 x 10 cm. Vi kiggede på dataene for oplandet, og du kan se her, øh, i alt er det omkring 2/3 uigennemtrængeligt. Så det her er ligesom at tage de 14
+
+00:04:30
+kategorier og øh opsummere dem ned til fire, fordi mange af dem enten næsten ikke er nogen i byen, det kunne være afgrøder, eller det kunne være et drivhus eller noget i den stil. Så ville vi bare flytte det til tagkategorien. Øh, og hvis vi sætter det i disse fire kategorier af bygninger, asfalterede områder, gamle områder og vand, ender vi med omkring 2/3 uoverkommelighed inden for ladso-oplandet. og 27,1% af det går til at bygge
+
+00:05:00
+hustage. Så kiggede vi også på ejerdata fra data for forhandleren. Øh, så det er lidt sværere at få fat i data på grund af GDPR, og du skal underskrive nogle aftaler. Det er lidt nemmere, hvis du ikke har brug for de specifikke ejere, men endda at få ejerkategorien. Ja, du skal underskrive nogle aftaler. Men vi fik de
+
+00:05:30
+data for øh, for oplandet og opdelte det i disse kategorier. Så man kan se private virksomheder, øh, forskellige øh, regeringer, andelsboliger og almene boligforeninger. Så det ville være, øh, ligesom Luna ville være den sociale boligforening, og vi kan se, at procentdelen af ​​det samlede areal for eksempel for den ene er 4%. Og så er dette fordelingen af ​​områder.
+
+00:06:00
+Og hvis vi ser på arealet optaget af bygninger i de forskellige ejerkategorier, kan du se her. Og hvis vi lægger alt det sammen, giver det igen disse, øh, 293 hektar eller 27% af det samlede opland, der er bygninger. Så en betydelig del af oplandet består af bygninger.
+
+00:06:30
+Så det her handler om, øh, hvis vi ja, hvis vi tager det websted, øh lungel, hvor meget af det er uigennemtrængeligt? Hvad skal der til for at nå klimatilpasningsmålene der? og hvor meget ville det koste? Så hvis vi tager AKB Luna-skalaen, er området 2,2 hektar, af det, øh, det er
+
+00:07:00
+omkring 1,1 hektar imperativt dækning. Så klimatilpasningsmålene siger, at vi skal afbryde 30% af det, for at tage højde for fremtidige regnmængder, der vil være større. Øh, så det ville være 0,3 hektar der, og indtil videre tror vi, at omkostningerne ved det vil være omkring 1010 millioner. Øh, og hvis vi så skalerer det op
+
+00:07:30
+til hele oplandet, øh, omkring 1000 hektar, og vi siger, øh, vi lægger hele det afgørende areal sammen, hvilket ville være omkring 700 hektar. Så det betyder, at vi skal afbryde effektivt ved hjælp af disse tryksatte, øh Lara, for eksempel, øh 30%. Så det betyder, at vi bliver nødt til at afkoble 212 hektar. Så hvis vi bare ganger det, kan vi sige, at det sandsynligvis ville koste næsten, øh, næsten 2
+
+00:08:00
+milliarder. Og så ved vi ikke rigtigt, om vi skalerer det i den større skala, hvis vi prøver at skalere det op, fordi tingene bliver lidt forskellige i de forskellige oplande, men det ville være som at gange med 10. Så jeg gætter på, at vores spørgsmål til diskussion er, øh, hvad kan vi sammenligne det med? Så disse 1,9 milliarder, hvis det er, hvad det koster at bruge tryksat sæbe, hvad svarer så til f.eks. grå infrastruktur til at
+
+00:08:30
+afbryde dette 30% imperøse område? Så det er noget, vi muligvis kan diskutere. Ja . Så, jeg gætter på, at det er ligesom Marina talte om, ligesom en 10-årig, øh, dybest set. Så det kunne være disse forskellige niveauer, ligesom et overløb eller som at forsøge at fordampe de første 10 mm
+
+00:09:00
+eller hvad det nu er. Øh, men ja, 10 10 år. Okay . Så hvor mange tage skal vi egentlig bruge for at nå dette mål? Så hvis vi kan håndtere afstrømning fra de 30% af de bydende vanskelige områder. Så det var de 212 hektar øh, det var ja, 700 hektar, cirka uigennemtrængelige for at afbryde 30% af det, det ville være 212 hektar
+
+00:09:30
+øh øh med tryksat L. Så tilbage til denne tabel, hvis vi lægger alle bygningsarealerne fra alle de forskellige ejerkategorier sammen, ville vi få 292. Så det betyder, at vi virkelig ville have brug for omkring 70% af de tilgængelige tage øh lad os sige ved hjælp af eller ja frakoblet ved hjælp af tryksat LR for eksempel for at nå disse
+
+00:10:00
+mål. Så det viser, at vi ikke bare kunne målrette os mod én af disse ejerskaber. Som for eksempel den sociale boligforening, selv hvis vi fik alle de sociale boligbygninger, ville det give os lad os sige 14,3 hektar. Så det ville jeg mene, at det ville være betydeligt, måske ligesom 7% af det samlede beløb, vi ville have brug for, men vi ville helt klart også være nødt til at få en betydelig del af nogle af disse større. Så andelsboligforeningen, der er 80 hektar inden for oplandet.
+
+00:10:30
+Så vi bliver helt klart også nødt til at inkludere de større. Øh ja, så omkring 70% af bygningerne i alt. Så vi er nødt til at inkludere de fleste af de forskellige typer ejerskab af bygninger. Og så handler dette spørgsmål om, hvorvidt alle hustage rent faktisk er egnede til at bruge tryksat L. Og det var noget arbejde, som nogle af de
+
+00:11:00
+studerende i vores afdeling startede på sidste år. De byggede denne GIS-model, der undersøgte forskellige kriterier for taget. Så hvor det skråner, hvis det er mod et grønt område, hvor langt er det grønne område fra taget? Og hvad er forholdet mellem taget og det grønne område? Så det afhænger selvfølgelig af, hvilke, øh, hvilke parametre du sætter i modellen. Men baseret på en model
+
+00:11:30
+som denne, konkluderede de, at omkring 30%, måske lidt mindre eller mere, afhængigt af området, ville blive betragtet som egnet til brug med tuk satla. Øhm, så det ville være en ja, en tagflade, der vender ud mod et grønt område. Det grønne område er ikke for langt væk, og der er et godt forhold mellem de to. Men den undersøgte ikke de
+
+00:12:00
+specifikke forhold i det grønne område, som f.eks. permeabiliteten osv. Okay. Ja. Så hvis vi ja, 30% kunne betragtes som egnede, og så er resten måske mulige, men lidt vanskeligere. Øh ja, denne her. Så vi havde bare denne diskussion eller brainstorming om, hvem der rent faktisk ville være i stand til at implementere den slags
+
+00:12:30
+løsninger, og hvordan de ville betale for det? Øhm, hvem det hvem det ville være, hvad er deres incitamenter, hvordan ville de betale for det, og om vi allerede har eksempler på alt det. Så øh, måske kan vi vende tilbage til dette i diskussionen, hvis vi har nogle eksempler på, øh, hvor dette kunne gøres eller er blevet gjort, og hvad incitamenterne ville være. Øh, men jeg tror, det er alt, jeg har for nu om øh
+
+00:13:00
+ja, om opskaleringen, men vi kan vende tilbage til alle disse, som du vil tale om i detaljer, og du er altid velkommen til at sende mig en e-mail bagefter, hvis du har spørgsmål. Tak.
