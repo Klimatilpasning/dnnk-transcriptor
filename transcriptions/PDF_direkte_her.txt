@@ -268,7 +268,7 @@ metoden. DAPP-metoden er baseret på at synliggøre, hvorvidt en
 given løsning giver flere veje at gå over tid. Det vil sige tilpasningsdyg-
 tighed overfor udviklingen inden for klimaændringer . 
  
-Note: DAPP står for Dynamic Adaptative Policy Pathways
+Note: DAPP står for Dynamic Adaptive Policy Pathways
 AA
 
 13
@@ -2209,7 +2209,7 @@ f.eks. strandeng der kan mindske bølgekraften og derved sinke erosion.
 Herved kan en række merværdier indtænkes sammen med de beskyt-
 tende løsninger, f.eks. i form af biodiversitet, CO2 optag og rekreative 
 muligheder .
-Et eksempel på et større realignment projekt er Hersketh Out Marsh  i 
+Et eksempel på et større realignment projekt er Hesketh Out Marsh  i 
 Storbritannien, hvor en saltmarsk i 1980´erne blev omdannet til land-
 brug ved hjælp af diger . Med havstigning opstod behovet for stærkere 
 beskyttelse. Dette blev gjort ved at fjerne digerne og tilbageføre områ-

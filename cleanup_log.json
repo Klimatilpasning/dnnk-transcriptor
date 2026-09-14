@@ -1626,6 +1626,192 @@
         "forkert": "gyldensten Strand",
         "rettet": "Gyldensteen Strand",
         "antal": 1
+      },
+      {
+        "forkert": "covi",
+        "rettet": "COWI",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "skal gule live",
+        "rettet": "Scalgo Live",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "coaches grease",
+        "rettet": "coastal squeeze",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Colst grease",
+        "rettet": "coastal squeeze",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "coached schrys",
+        "rettet": "coastal squeeze",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "salsa og fugtighedstålende",
+        "rettet": "salt- og fugtighedstålende",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ingrøvel bruges hane",
+        "rettet": "engryle, brushane",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "grønbrød",
+        "rettet": "grønbroget",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "haverne stiger",
+        "rettet": "havene stiger",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kulstof-retionskapacitet",
+        "rettet": "kulstof-retentionskapacitet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "diarsluser",
+        "rettet": "digesluser",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "MDR ordning",
+        "rettet": "MVJ-ordning",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "MPJ ordningen",
+        "rettet": "MVJ-ordningen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "lå Laudrup",
+        "rettet": "lå brak",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "amfionsult",
+        "rettet": "Amphi Consult",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Strand 1000",
+        "rettet": "strandtudsen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "strandusen",
+        "rettet": "strandtudsen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "strandusser",
+        "rettet": "strandtudser",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "strandudserne",
+        "rettet": "strandtudserne",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "STU rapport",
+        "rettet": "SDU-rapport",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Cowi-apport",
+        "rettet": "COWI-rapport",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tiktokken",
+        "rettet": "Tech Talken",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "IDNKS klimakalender",
+        "rettet": "i DNNK's klimakalender",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DND ks hjemmeside",
+        "rettet": "DNNK's hjemmeside",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "biositeten",
+        "rettet": "biodiversiteten",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "biosstenen",
+        "rettet": "biodiversiteten",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "biostatsforbedring",
+        "rettet": "biodiversitetsforbedring",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "biosofisplaner",
+        "rettet": "biodiversitetsplaner",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "klimahandelsplan",
+        "rettet": "klimahandlingsplan",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "det næsten netværk for klimatilpasning",
+        "rettet": "Det Nationale Netværk for Klimatilpasning",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Bak god morgen",
+        "rettet": "Tak, god morgen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": [
@@ -1713,6 +1899,16 @@
         "forkert": "soke horizon projekt",
         "rettet": "SOS Horizon-projekt",
         "grund": "afvist"
+      },
+      {
+        "forkert": "strandsroser",
+        "rettet": "strandtudse",
+        "grund": "AI-rensning (rutine) - frasorteret ved kritisk gennemgang (risikabelt)"
+      },
+      {
+        "forkert": "middelhavandspejlet",
+        "rettet": "middelhavvandspejlet",
+        "grund": "AI-rensning (rutine) - frasorteret ved kritisk gennemgang (risikabelt)"
       }
     ]
   },
@@ -4773,9 +4969,27 @@
         "rettet": "tørkeperioder",
         "antal": 1,
         "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "sygesekretær",
+        "rettet": "Forsyningssekretariatet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Danmark har lavet nogle inspirationsparadigmer",
+        "rettet": "DANVA har lavet nogle inspirationsparadigmer",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
-    "afvist": []
+    "afvist": [
+      {
+        "forkert": "julik",
+        "rettet": "Julie",
+        "grund": "AI-rensning (rutine) - frasorteret ved kritisk gennemgang (risikabelt)"
+      }
+    ]
   },
   "transcriptions\\Webinar_om_jura_3._Aftaler_om_klimatilpasning.mp3.txt": {
     "anvendt": [
@@ -15728,5 +15942,407 @@
       }
     ],
     "afvist": []
+  },
+  "transcriptions\\PDF_Hvem_skal_betale_Bidragsmodeller_for_klimatilpasning_i_kystområder_og_vandopland.txt": {
+    "anvendt": [
+      {
+        "forkert": "Hørholm Kommune",
+        "rettet": "Hørsholm Kommune",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "naturforvalting",
+        "rettet": "naturforvaltning",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\PDF_direkte_her.txt": {
+    "anvendt": [
+      {
+        "forkert": "Dynamic Adaptative Policy Pathways",
+        "rettet": "Dynamic Adaptive Policy Pathways",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Hersketh Out Marsh",
+        "rettet": "Hesketh Out Marsh",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\DNNK_Masterclass_om_Klimaveje_v__VIA_University_College_i_sa.mp3 (1).txt": {
+    "anvendt": [
+      {
+        "forkert": "dræn stabilt",
+        "rettet": "DrænStabil",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "rindstabilen",
+        "rettet": "drænstabilen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "dressingstabilen",
+        "rettet": "drænstabilen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "renstabilt",
+        "rettet": "drænstabilt",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "stringstabil",
+        "rettet": "drænstabil",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "træningsstabile",
+        "rettet": "drænstabile",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "drinstabil",
+        "rettet": "drænstabil",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "drein stabilen",
+        "rettet": "drænstabilen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "drinkterbilen",
+        "rettet": "drænstabilen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "premat",
+        "rettet": "permeabel",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "permat",
+        "rettet": "permeabel",
+        "antal": 10,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "permale",
+        "rettet": "permeable",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "permable",
+        "rettet": "permeable",
+        "antal": 7,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "penable",
+        "rettet": "permeabel",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "parmabel",
+        "rettet": "permeabel",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "pamable",
+        "rettet": "permeable",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "pamabel",
+        "rettet": "permeabel",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "lenevej",
+        "rettet": "Helenevej",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "pentonit",
+        "rettet": "bentonit",
+        "antal": 4,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "dantunitz",
+        "rettet": "Dantonit",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "danfonit",
+        "rettet": "Dantonit",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "permabel",
+        "rettet": "permeabel",
+        "antal": 12,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "permatable",
+        "rettet": "permeable",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": [
+      {
+        "forkert": "NTC",
+        "rettet": "NCC",
+        "grund": "AI-rensning (rutine) - frasorteret ved kritisk gennemgang (risikabelt)"
+      },
+      {
+        "forkert": "perval",
+        "rettet": "permeabel",
+        "grund": "AI-rensning (rutine) - frasorteret ved kritisk gennemgang (risikabelt)"
+      }
+    ]
+  },
+  "transcriptions\\Oevrige_wEl5KwXTgmQ_20260907_102709.txt": {
+    "anvendt": [
+      {
+        "forkert": "VTA EU-teamet",
+        "rettet": "WTA EU-teamet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "North Vispal",
+        "rettet": "Nordrhein-Westfalen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "North Ryan Vistan",
+        "rettet": "Nordrhein-Westfalen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "North Ryan Westfallen",
+        "rettet": "Nordrhein-Westfalen",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Nordaustralien",
+        "rettet": "Nordrhein-Westfalen",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Nordfalien",
+        "rettet": "Nordrhein-Westfalen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "North Ryan Laspalia",
+        "rettet": "Nordrhein-Westfalen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Düdeldorf",
+        "rettet": "Düsseldorf",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Dissled",
+        "rettet": "Düsseldorf",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Colonia",
+        "rettet": "Köln",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Badminster",
+        "rettet": "Bad Münstereifel",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Artal",
+        "rettet": "Ahrtal",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Helenaborre",
+        "rettet": "Helsingborg",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Gothingberg",
+        "rettet": "Göteborg",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "GNNK",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Vodolski",
+        "rettet": "Wody Polskie",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Spawn Cities",
+        "rettet": "Sponge Cities",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Mada-øen",
+        "rettet": "Madeira",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Algaro",
+        "rettet": "Algarve",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DNN-case-webinarer",
+        "rettet": "DNNK-case-webinarer",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DNK's hjemmeside",
+        "rettet": "DNNK's hjemmeside",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "det danske netværk for klimatilpasning",
+        "rettet": "Det Nationale Netværk for Klimatilpasning",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Limbi",
+        "rettet": "Lemvig",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Limvi",
+        "rettet": "Lemvig",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Limb",
+        "rettet": "Lemvig",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "LEVI vandforsyning",
+        "rettet": "Lemvig Vand",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Levi",
+        "rettet": "Lemvig",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Copanicus",
+        "rettet": "Copernicus",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Vest- Utland",
+        "rettet": "Vestjylland",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "klimatron",
+        "rettet": "Klimatorium",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "climatum",
+        "rettet": "Klimatorium",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Climatum",
+        "rettet": "Klimatorium",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "clamatorum",
+        "rettet": "Klimatorium",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": [
+      {
+        "forkert": "VEU",
+        "rettet": "WTA",
+        "grund": "AI-rensning (rutine) - frasorteret ved kritisk gennemgang (risikabelt)"
+      },
+      {
+        "forkert": "Gusto",
+        "rettet": "Gustav",
+        "grund": "AI-rensning (rutine) - frasorteret ved kritisk gennemgang (risikabelt)"
+      }
+    ]
   }
 }
