@@ -947,135 +947,237 @@
   "transcriptions\\Godmorgen med DNNK  Mulighedskatalog for involvering af borg.txt": {
     "anvendt": [
       {
-        "forkert": "Julie kulby Bjerre",
-        "rettet": "Julie Kolbye Bjerre",
-        "antal": 1
-      },
-      {
-        "forkert": "nyt arkitekter",
-        "rettet": "Lytt Arkitekter",
-        "antal": 1
-      },
-      {
-        "forkert": "dafproces",
-        "rettet": "DAP-proces",
-        "antal": 1
-      },
-      {
-        "forkert": "krydst tektorratet",
-        "rettet": "Kystdirektoratet",
-        "antal": 1
-      },
-      {
-        "forkert": "kystteparatet",
-        "rettet": "Kystdirektoratet",
-        "antal": 1
-      },
-      {
-        "forkert": "kystdirektoratets",
-        "rettet": "Kystdirektoratet",
-        "antal": 1
-      },
-      {
-        "forkert": "multikriteranalyse",
-        "rettet": "multikriterieanalyse",
-        "antal": 3
-      },
-      {
-        "forkert": "renzebassiner",
-        "rettet": "regnvandsbassiner",
-        "antal": 1
-      }
-    ],
-    "afvist": [
-      {
-        "forkert": "Det er MK kl. 1",
-        "rettet": "DNNK kl. 8",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "Charlotte zinbrich skov",
-        "rettet": "Charlotte Sinbrück Skov",
-        "grund": "afvist"
-      },
-      {
         "forkert": "lyt artektor",
-        "rettet": "Lytt Arkitekter",
-        "grund": "afvist"
+        "rettet": "LYTT Arkitekter",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "daf proces",
-        "rettet": "DAP-proces",
-        "grund": "afvist"
+        "forkert": "stormflåden",
+        "rettet": "stormfloden",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kvote 4",
+        "rettet": "kote 4",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
         "forkert": "kystvigtigt rattets",
         "rettet": "Kystdirektoratets",
-        "grund": "afvist"
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "multikreanalyser",
-        "rettet": "multikriterieanalyser",
-        "grund": "afvist"
+        "forkert": "renzebassiner",
+        "rettet": "rensebassiner",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "cvest 200 år",
-        "rettet": "en næste 200 år",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "Niels Henrik på Holstebro Kommune",
-        "rettet": "Niels Henrik, Holstebro Kommune",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "syntes",
-        "rettet": "Sønæs",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "syntes i Viborg",
-        "rettet": "Sønæs i Viborg",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "danne bolig",
-        "rettet": "Danske Boligadvokater",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "1 4 firer 0,5 m",
-        "rettet": "1,4 til 4,5 m",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "18, 72 stormfloden",
-        "rettet": "1872-stormfloden",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "18, 72 stormflåden",
-        "rettet": "1872-stormfloden",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "den store mandstrupning",
-        "rettet": "den store manddrukning",
-        "grund": "afvist"
+        "forkert": "housespejlstigning",
+        "rettet": "havspejlstigning",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
-    ]
+    ],
+    "afvist": []
   },
   "transcriptions\\Godmorgen med DNNK Det bæredygtige vandkredsløb – fra en reg.txt": {
     "anvendt": [
       {
-        "forkert": "DNAK",
+        "forkert": "DNK",
         "rettet": "DNNK",
-        "antal": 1
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "tiktok",
-        "rettet": "Tech Talk",
-        "antal": 1
+        "forkert": "DN ks",
+        "rettet": "DNNKs",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Det er NNK.",
+        "rettet": "Det er DNNK.",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Det er NNK er jo også",
+        "rettet": "DNNK er jo også",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "IDNK",
+        "rettet": "i DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Frederik Midtjylland",
+        "rettet": "Region Midtjylland",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Rikke hovedstaden",
+        "rettet": "Region Hovedstaden",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "watercard",
+        "rettet": "WaterCoG",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "watercape projektet",
+        "rettet": "WaterCoG-projektet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "watercab task force",
+        "rettet": "WaterCoG Task Force",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "post-t coach projekt",
+        "rettet": "Coast to Coast-projekt",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "coach 2 posts projektet",
+        "rettet": "Coast to Coast-projektet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kast 2 coach projektet",
+        "rettet": "Coast to Coast-projektet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kunst til coach",
+        "rettet": "Coast to Coast",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kortumcoach 2 kos projektet",
+        "rettet": "kort om Coast to Coast-projektet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "coach 2 ghostprojektet",
+        "rettet": "Coast to Coast-projektet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kast 2 coach jo også viser",
+        "rettet": "Coast to Coast jo også viser",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Coach 2 coach projektet",
+        "rettet": "Coast to Coast-projektet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "hostecoat",
+        "rettet": "Coast to Coast",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "post og coach projektet",
+        "rettet": "Coast to Coast-projektet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "klamatorien",
+        "rettet": "Klimatoriet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "concitto",
+        "rettet": "CONCITO",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kinderilpasningsplaner",
+        "rettet": "klimatilpasningsplaner",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "amslængde",
+        "rettet": "armslængde",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "opstændig princippet",
+        "rettet": "armslængdeprincippet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "afstemte princippet",
+        "rettet": "armslængdeprincippet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "IPC crapporten",
+        "rettet": "IPCC-rapporten",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kulegrænseoverskridende",
+        "rettet": "kommunegrænseoverskridende",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "aup problematik",
+        "rettet": "å-problematik",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "hvidovsplaner",
+        "rettet": "Hvidovre",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "stormlodsikring",
+        "rettet": "stormflodssikring",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "havout metode",
+        "rettet": "Harvard-metoden",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -1925,9 +2027,88 @@
   "transcriptions\\Godmorgen_med_DNNK__Stort_LAR-anl_g_i_Urbanplan.txt": {
     "anvendt": [
       {
-        "forkert": "DNAK",
+        "forkert": "DRNK",
         "rettet": "DNNK",
-        "antal": 2
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DNK",
+        "rettet": "DNNK",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DNNKI",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "perch Knudsen",
+        "rettet": "per Knudsen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "lastipsarkitekter",
+        "rettet": "landskabsarkitekter",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "lastbil arkitekter",
+        "rettet": "landskabsarkitekter",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "landskarkitekter",
+        "rettet": "landskabsarkitekter",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ting brand landskab",
+        "rettet": "Thing Brandt Landskab",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ting brand de er",
+        "rettet": "Thing Brandt de er",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "malmus",
+        "rettet": "Malmos",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "malmros",
+        "rettet": "Malmos",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "malmose",
+        "rettet": "Malmos",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "horo",
+        "rettet": "HOFOR",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "KRB",
+        "rettet": "KAB",
+        "antal": 4,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -3373,17 +3554,96 @@
   "transcriptions\\Tech_Talk_015_-_N_r_klimatilpasning_skal_t_nkes_sammen_med_f.txt": {
     "anvendt": [
       {
-        "forkert": "DNAK",
-        "rettet": "DNNK",
-        "antal": 1
+        "forkert": "viblomst",
+        "rettet": "byblomst",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "tiktok",
-        "rettet": "Tech Talk",
-        "antal": 1
+        "forkert": "Dybblomster",
+        "rettet": "Byblomst",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Kristina",
+        "rettet": "Christina",
+        "antal": 4,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "warcon talk",
+        "rettet": "walking-talk",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "landskabingeniør",
+        "rettet": "landskabsingeniør",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "fælledgruppen",
+        "rettet": "følgegruppen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "bo becja",
+        "rettet": "Rudbeckia",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "larbed",
+        "rettet": "LAR-bed",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "larm projekter",
+        "rettet": "LAR-projekter",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "larvejbedet",
+        "rettet": "LAR-vejbede",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DNN ks",
+        "rettet": "DNNKs",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "upmagasineringsvolumen",
+        "rettet": "opmagasineringsvolumen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "regnbue",
+        "rettet": "regnbede",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
-    "afvist": []
+    "afvist": [
+      {
+        "forkert": "Kristine",
+        "rettet": "Christina",
+        "grund": "afvist manuelt (tvetydigt, kan referere til deltager 'Katrine')"
+      },
+      {
+        "forkert": "merien",
+        "rettet": "Merian",
+        "grund": "afvist manuelt (for usikkert plantenavn-gæt)"
+      }
+    ]
   },
   "transcriptions\\Tech_Talk_016_-_Sammenh_ngen_mellem_oversv_mmelse__folks_hel.txt": {
     "anvendt": [
@@ -17299,5 +17559,195 @@
         "grund": "AI-rensning (rutine) - frasorteret ved kritisk gennemgang (risikabelt)"
       }
     ]
+  },
+  "transcriptions\\Konferencer_UBpqgUQzJas_20260826_063120.txt": {
+    "anvendt": [
+      {
+        "forkert": "rampøl",
+        "rettet": "Rambøll",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Frederiksbergen",
+        "rettet": "Frederiksberg",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Karlsbergbyen",
+        "rettet": "Carlsbergbyen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Amisvej",
+        "rettet": "Amicisvej",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Missisvej",
+        "rettet": "Amicisvej",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Amisesvej",
+        "rettet": "Amicisvej",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "avisesvej",
+        "rettet": "Amicisvej",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Hollandervej",
+        "rettet": "Hollændervej",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Vadfræsberg",
+        "rettet": "Frederiksberg",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Godmorgen med DNNK – Borgerinddragelsesprocesser i klimatilp.txt": {
+    "anvendt": [
+      {
+        "forkert": "denne k",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Christopher",
+        "rettet": "Kristoffer",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "christoffers",
+        "rettet": "Kristoffers",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "hurric king cathrine",
+        "rettet": "Hurricane Katrina",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "London cintæk it",
+        "rettet": "London Can Take It",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "rebecca sonnets aparadis builden heill",
+        "rettet": "Rebecca Solnits A Paradise Built in Hell",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "rebecca sonnet",
+        "rettet": "Rebecca Solnit",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Rebecca solnnet a parate Paradise spil in hill",
+        "rettet": "Rebecca Solnit, A Paradise Built in Hell",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "danteys peak",
+        "rettet": "Dante's Peak",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "peace brosnan",
+        "rettet": "Pierce Brosnan",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "wisk preception paradoks",
+        "rettet": "risk perception paradox",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "hospicestigning",
+        "rettet": "havstigning",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "houspite, Steven",
+        "rettet": "havstigninger",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "valgdan i projektet",
+        "rettet": "Realdania-projektet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Real Daniels",
+        "rettet": "Realdania",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "real dania projektet",
+        "rettet": "Realdania-projektet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ja Daniel havde arbejdet",
+        "rettet": "ja Realdania havde arbejdet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Daniel har jo puttet",
+        "rettet": "Realdania har jo puttet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "urt stormen",
+        "rettet": "Urd-stormen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "stormflåden",
+        "rettet": "stormfloden",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Real dania",
+        "rettet": "Realdania",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
   }
 }
