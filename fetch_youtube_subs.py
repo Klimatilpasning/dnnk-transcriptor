@@ -27,6 +27,13 @@ import tempfile
 from datetime import datetime
 from pathlib import Path
 
+# Konsollen på Windows bruger som standard cp1252, som ikke kan skrive
+# emojis i statusbeskederne nedenfor — det crashede tidligere hele
+# kørslen midt i en batch (fx efter et YouTube-429-svar).
+if sys.stdout.encoding and sys.stdout.encoding.lower() != "utf-8":
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+
 TRANSCRIPTIONS_FOLDER = Path("transcriptions")
 STATE_FILE = "processed_videos.json"
 BLOCK_SECONDS = 30          # samme granularitet som Transkriptor-formatet
