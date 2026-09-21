@@ -1,0 +1,1311 @@
+=== DNNK PDF Dokument ===
+Titel: Hvordan skal en bidragsmodel for klimatilpansing se ud
+Kategori: Rapporter_s3
+Kilde: https://usercontent.one/wp/www.dnnk.dk/wp-content/uploads/2022/11/Hvordan-skal-en-bidragsmodel-for-klimatilpansing-se-ud.pdf
+Indekseret: 2026-09-21T18:32:38.585369
+
+==================================================
+
+AARHUS  
+UNIVERSITET
+DCE – NATIONALT CENTER FOR MILJØ OG ENERGI
+AU
+Teknisk rapport fra DCE – Nationalt Center for Miljø og Energi nr. 229 2022
+HVORDAN SKAL EN BIDRAGS-
+MODEL FOR KLIMATILPASNING
+SE UD?
+
+Teknisk rapport fra DCE – Nationalt Center for Miljø og Energi
+AARHUS  
+UNIVERSITET
+DCE – NATIONALT CENTER FOR MILJØ OG ENERGI
+AU
+2022
+Toke Emil Panduro
+Aarhus Universitet, Institut for Miljøvidenskab
+HVORDAN SKAL EN BIDRAGSMODEL FOR
+KLIMATILPASNING SE UD?
+nr. 229
+
+Datablad 
+ Serietitel og nummer: Teknisk rapport fra DCE - Nationalt Center for Miljø og Energi nr. 229 
+ 
+ Kategori:  Rådgivning 
+ 
+ Titel: Hvordan skal en bidragsmodel for klimatilpasning se ud? 
+ 
+ Forfatter: Toke Emil Panduro 
+ Institution: Aarhus Universit et, Institut for Miljøvidenskab 
+ Udgiver: Aarhus Universitet, DCE – Nationalt Center for Miljø og Energi © 
+ URL: http://dce.au.dk 
+ Udgivelsesår: Januar 2022 
+ Redaktion afsluttet: Januar 2022 
+ 
+ Faglig kommentering: Marianne Zandersen, Institut for Miljøvidenskab (fagfællebedømmer) 
+ Kvalitetssikring, DCE: Vibeke Vestergaard Nielsen 
+ Sproglig kvalitetssikring: Ann-Katrine Holme Christoffersen 
+ Finansiel støtte: Finansieret af Region Hovedstadens regionale udviklingsmidler  
+ Bedes citeret: Panduro, T.E. 2022. Hvordan skal en bidragsmodel for klimatilpasning se ud? Aarhus 
+Universitet, DCE – Nationalt Center for Miljø og Energi, 33 s. - Teknisk rapport nr. 229 
+http://dce2.au.dk/pub/TR229.pdf 
+  Gengivelse tilladt med tydelig kildeangivelse 
+ Sammenfatning: I denne rapport opstilles en teoretisk ramme for bidragsmodeller og dernæst 
+afprøves forskellige bidragscases. Rapporten giver en række anbefalinger på, 
+hvorledes bidragsmodeller kan konstrueres bl.a. på baggrund af materiel 
+skadesmodeller  
+ Emneord: Klimatilpasning, Bidragsmodeller  
+ Layout: Ann-Katrine Holme Christoffersen 
+ Foto forside: colourbox.dk (COLOURBOX7375819) 
+ ISBN: 978-87-7156-660-4 
+ ISSN (elektronisk): 2244-999X 
+ Sideantal: 33 
+ Internetversion: Rapporten er tilgængelig i elektronisk format (pdf) som 
+http://dce2.au.dk/pub/TR229.pdf 
+ 
+
+Indhold 
+Forord 5  
+Sammenfatning 6  
+Summary 7  
+1 Introduktion 8  
+2 Teoretisk ramme for bidragsmodeller 10  
+2.1 Klima-risikomodel 10  
+2.2 Klimatilpasningstiltag 11  
+2.3 Gevinster og omkostninger 12  
+2.3.1 Hvad driver resultatet af analysen? 13  
+2.3.2 Håndtering af usikkerhed og fordelinger 13  
+2.3.3 Kritisk infrastruktur og samfundsmæssig 
+risikoaversion 13  
+3 Hvem og hvor meget skal vi bidrage 15  
+3.1 Fairness 15  
+3.2 Engangsbidrag eller løbende bidrag 16  
+3.3 Forholdet mellem materielskade og immateriel skade & 
+bidrag 17
+ 
+3.4 Risikoaversion 19  
+3.5 Gennemsnittet er blot midten af fordelingen 20  
+4 Indvendinger mod at bidrage 22  
+5 Afprøvning af økonomisk cases for bidrag 24  
+5.1 Bidrag for indirekte gevinster af klimatilpasningstiltag 24  
+5.2 Store infrastruktur virksomhedsbetalingsvillighed 25  
+6 Hvordan skal en bidragsmodel se ud 26  
+Referencer 27  
+Bilag 29  
+Deskriptiv data 29  
+Modelestimation 31  
+ 
+ 
+ 
+ 
+
+5 
+Forord 
+Denne rapport er udgivet som en del af forskningsprojektet ”Klimatilpasning 
+på tværs”. Hovedformålet med forsknin gsprojektet er at bidrage med nye 
+vinkler på kendte problemstillinger i forhold til gennemførelse af helhedsori-
+enterede klimatilpasningsprojekter. 
+Region Hovedstaden har bevilliget tre millioner kroner til projektet, mens øv-
+rige partnere bidrager med arbejdstid  og/eller økonomiske midler. Brøndby 
+Kommune og Egedal Kommune varetager en sekretariatsfunktion for hvert 
+case-område i projektperioden. 
+Partnerskabskredsen bag projektet består af kommunerne Ballerup, Born-
+holm, Brøndby, Egedal, Fredensborg, Frederikssund, Furesø, Gladsaxe, Her-
+lev, Hvidovre, Ishøj, København, Ros kilde og Vallensbæk, samt Rudersdal 
+som repræsentant for Forsyningsselska bet Novafos' ejerkommuner, og Grib-
+skov kommune som repræsentant for Nordkystens Fremtid (Halsnæs, Grib-
+skov og Helsingør kommune), Novafos, Københavns Universitet, Aarhus 
+Universitet, Miljøstyrelsen, Kystdirektoratet, Forsikring & Pension og Region 
+Hovedstaden. 
+Desuden følger CONCITO, Danmarks Tekn iske Universitet, Forsikring og 
+Pension, HOFOR, Region Sjælland samt Det Nationale Netværk for Klimatil-
+pasning projektet. 
+Projektet om mulige bidragsmodeller i forhold til klimatilpasningsprojekter 
+indeholder både en styregrupper og en følgegruppe bestående af repræsen-
+tanter fra projektpartnerne. Det faglige indhold i rapporten er skrevet af Toke 
+Emil Panduro. Følgegruppen har haft mulighed for at læse rapporten før ud-
+givelse, men der har ikke været nogen kommentarer.  
+
+ 
+6 
+Sammenfatning 
+I rapporten opstilles en teoretisk ramme for, hvem der opnår gevinsterne af 
+klimatilpasningstiltag. Med udgangspun kt i velfærdsøkonomisk nytteetik 
+diskuteres efterfølgende, hvorledes bidragsmodeller bør konstrueres, så dem 
+der opnår gevinsterne af et klimatilpasningstiltag, også er dem, der bidrager 
+til klimatilpasningens gennemførsel og vedligeholdelse. 
+I rapporten konkluderes det, at bidragsmodeller bør tage udgangspunkt i in-
+dividuel nytteetisk fairness, hvor fair ness bedømmes ud fra om individet er 
+bedre stillet efter klimatilpasningstiltaget i forhold til før implementeringen 
+af klimatilpasningstiltaget, når bidraget medregnes. Gevinsten af klimatilpas-
+ningstiltag er den reducerede eksponer ing i forhold til klimahændelser, der 
+kan føre til materielle og  ikke-materielle omkostninger for husholdninger og 
+virksomheder. En bidragsmodel bør tage udgangspunkt i disse gevinster, da 
+andre mulige gevinster af klimatilpasningstiltag ikke er af en størrelsesorden, 
+der berettiger et særskilt fokus. 
+
+7 
+Summary 
+The report presents a theoretical framework for whom that benefits from a 
+given climate adaptation project. Based on welfare economic utility theory, it 
+discusses how contribution models should be constructed so that beneficiar-
+ies of climate adaptation initiatives are also those who contribute to imple-
+mentation and maintenance costs of the climate adaptation measure. 
+The report concludes that contribution models should be based on individual 
+utility fairness, where fairness is assessed based on whether the individual is 
+better off after the climate adaptation pr oject is implemented than before the 
+climate adaptation project is implemented, when the contribution is also in-
+cluded in the assessment. The benefit of climate adaptation measures is calcu-
+lated as the reduced exposure to flooding that otherwise would lead to tangi-
+ble and intangible costs for households and companies. A contribution model 
+should be based on these benefits since other possible benefits are negligible. 
+
+ 
+8 
+1 Introduktion 
+Inden for det kommende årti vil vi overskride den politiske fastsatte målsæt-
+ning om at holde den globale temperatur under 1.5°C i forhold til før indu-
+strielt niveau. Målsætning blev fastsat ud fra forventningen om, at globale 
+temperaturstigninger over 1.5°C vil sætte gang i feedback-mekanismer, der 
+vil skubbe det globale klimasystem ud af dets nuværende ”stabile” tilstand 
+(IPCC, 2021). En ny tilstand vil indfinde sig hen over de næste århundrede 
+eller årtusinder med potentielt katastro fale konsekvenser for opretholdelsen 
+af nuværende samfund kloden over. 
+I mellemtiden, mens klimaet undergår forandringer, skal vi fortsat drive sam-
+fundet. Vi vil skulle tilpasse os et fortsat foranderligt klima. Det kræver, at vi 
+er forudseende, dvs. at vi evner at forudsige de kommende forandringer og 
+at vi handler proaktivt på de konsekvenser forandringerne vil have for vores 
+samfund. Det mest sandsynlige er, at det kun delvist vil lykkedes os. 
+Klimaet er et komplekst system som stadigvæk ikke er beskrevet og forstået i 
+tilstrækkelig grad. Der vil komme overraskelser; nogle mere ubehagelige end 
+andre. Det vi tror, vi ved om kommende klimaforandringer, bygger på sand-
+synlighedsfordelinger med et betydeligt  udfaldsrum (IPCC, 2021). Risikoen 
+for ekstreme vejrhændelser er under forandring. Risikofremskrivningerne i 
+forbindelse med klimaforandringer kan være svære at håndtere for befolknin-
+gen. Generelt har folk behov for konkret erfaring med negative hændelser, før 
+handling føles påkrævet (Gregory & Satterfield, 2002). 
+Dette menneskelige vilkår ka n være med til at forklare, hvorfor vi indtil vi-
+dere i såvel Danmark, EU som i resten af verden har udvist så bemærkelses-
+værdig dårlig dømmekraft i forhold til håndteringen af de menneskeskabte 
+klimaforandringer. I over 40 år har ma n med sikkerhed vidst at drivhusgas-
+ser, i det omfang som de hidtil er blevet udledt, kan have irreversible og vold-
+somme konsekvenser. Alligevel har de politiske tiltag været for små til at have 
+en nævneværdig effekt på udledningen af drivhusgasser. På samme måde er 
+klimatilpasningstiltag generelt først blevet iværksat på bagkant af konkrete 
+ekstreme vejrhændelser, som f.eks. Greve kommune i starten af nullerne og 
+Københavns kommune i begyndelsen af 2010’erne, som fandt midler til at 
+lave tilstrækkelige klimatilpasning efter en ekstrem-klimahændelse. 
+Denne rapport er en del af forskningsprojektet ”Klimatilpasning på Tværs”. 
+Forskningsprojektet har som målsætning at øge sandsynligheden for, at kli-
+matilpasningsprojekter igangsættes med rettidig omhu, dvs. før en ekstrem-
+hændelse indtræffer. I den forbindels e er økonomien i klimatilpasningspro-
+jekter en af de store stopklodser for, at kommuner og forsyningsselskaber la-
+ver klimatilpasning. De to grundlægge nde økonomiske problemstillinger, 
+som kommuner og forsyningsselskaber står overfor i forbindelse med klima-
+tilpasningsprojekter er, ”hvem skal betale?” og ”hvordan vi skal vi betale kli-
+matilpasningsprojekterne?”. 
+I denne rapport analyseres, hvorledes bidragsmodeller, ba seret på en vel-
+færdsøkonomisk teoretisk ramme, kan betale for klimatilpasningstiltag. In-
+den for velfærdsøkonomiske rammer kan man opstille et simpelt princip, der 
+siger, at ”Dem der har nytten (læs: gevinsterne) af klimatilpasningen bør også 
+
+9 
+være dem, der betaler for klimatilpasni ngen”. I dag er nytteprincippet an-
+vendt i forbindelse med kystbeskyttels e mod kysterosion og stormflod samt 
+oversvømmelse fra vandløb. Oversvømmelse fra ekstremregn bliver håndte-
+ret i et samarbejde mellem kommuner og  forsyningsselskaberne, hvilket be-
+tyder, at ekstremregn håndteres økonomisk solidarisk gennem vandlednings-
+saftgiften og kommuneskatten. I forbin delse med forhøjet grundvand er an-
+svarsfordelingen uklar, og det er ikke tydelig, hvem der skal bidrage økono-
+misk til en løsning (Fryd et al., 2021). 
+Udfordringen ved at anvende nytteprincippet er i første omgang at identifi-
+cere hvem, der har gevinsterne af klimatilpasning, og i anden omgang hvor 
+stor denne gevinst er. For at få et ov erblik over hvem, der har gevinsterne, 
+opstilles en teoretisk klimarisikomodel,  der kan generaliseres til klimatilpas-
+ningsudfordringer i forbindelse med skybrud, stormflod, vandløb og forhøjet 
+grundvandsstand. I det omfang det er muligt, dokumenteres gevinsterne med 
+udgangspunkt i litteraturen eller i tilgængelige data. I den forbindelse bereg-
+nes en ny skadesomkostningsmodel for oversvømmelse af parcel- og række-
+huse samt sommerhuse. To cases for bidragsmodeller analyseres med ud-
+gangspunkt i den teoretiske ramme. Afslutningsvis beskrives hvorledes ram-
+merne for en bidragsmodel bør være ud fra et nytteetisk udgangspunkt. 
+
+ 
+10 
+2 Teoretisk ramme for bidragsmodeller 
+For at få et overblik over hvem der ha r gevinsterne, opstilles en teoretisk kli-
+marisikomodel, der kan generaliseres til klimatilpasningsudfordringer i for-
+bindelse med skybrud, stormflod, vandløb og forhøjet grundvandsstand. Kli-
+marisikomodellen vil tage højde for eksponering (læs: udsathed/sårbarhed) 
+og skadesomkostninger. Der vil ligeledes blive opstillet en teoretisk ramme 
+for klimatilpasningstiltag, som kan anvendes til at identificere eventuelle 
+samfundsmæssige mergevinster, der kan relateres til klimatilpasningstiltag. 
+Samlet set, ville denne øvelse beskrive  den teoretiske ramme for den gevinst 
+samfundet eller individer opnår i forbindelse med klimatilpasning. De opstil-
+lede ligninger kan således fortolkes ud  fra et aggregeret velfærdsøkonomisk 
+perspektiv og ud fra et individuelt bidragsperspektiv. 
+2.1 Klima-risikomodel 
+Klimarisikomodellen (R) består af en eksponeringsfunktion (e) og en skades-
+omkostningsfunktion (o).  
+𝑅(𝑒, 𝑜)      ( 1 )  
+• R - klimarisikomodel 
+• e – eksponeringsfunktion 
+• o – omkostningsfunktion 
+ 
+Eksponeringsfunktionen består af en forventning til de kommende klimafor-
+andringer. Forventningerne bygger på klimascenarier, der igen er baserede 
+på en lang række antagelser om udviklingen af de globale drivhusgasemissi-
+oner (s), globale klimamodeller (m) og oversættelse af globale klimaforan-
+dringer i regionale og lokale klimamodeller (lm), der kan forudsige den gene-
+relle udvikling og sandsynligheden for ekstreme hændelser. Dette vil give ud-
+slag i nogle sandsynlighedsfordelinger for forskellige hyppigheder af eks-
+treme hændelser i forhold til skybrud, stormflod, vandløb og forhøjet grund-
+vandsstand (Lavell et al., 2012). 
+Eksponeringen er ligeledes en funktion af terræn (t), hydrologiske afstrøm-
+ningsmønstre (h), tekniske anlæg (a),  den eksisterende landskabsanvendelse 
+(la) og den forventede udvikling i landskabsanvendelse (ula). I forbindelse 
+med stormflod vil eksempelvis højden over middelhavstandsniveau, afstan-
+den til kysten, vegetation i kystområdet, højden på eksisterende diger, tilste-
+deværelsen af byer, infrastruktur, landbrug og udviklingen af nye byområder 
+have betydning for eksponeringen. Ti lsammen kan disse variable udtrykke, 
+hvor eksponeret eller udsat områder er i forhold til klimaforandringerne (La-
+vell et al., 2012). 
+ 𝑒(𝑙𝑚(𝑚(𝑠)), 𝑡, ℎ, 𝑎, 𝑙𝑎, 𝑢𝑙𝑎)     ( 2 )  
+• lm – lokal og regional klimamodel 
+• m – global klimamodel  
+• s - drivhusgasemissionsscenarier  
+• t – terræn 
+• h - hydrologiske afstrømningsmønstre 
+• a – tekniske anlæg 
+
+11 
+• la - eksisterede landskabsanvendelse 
+• ula - udvikling i landskabsanvendelse 
+ 
+Udfaldsrummet for eksponeringen er re lativ stort og afhængig af, hvilke an-
+tagelser, der lægges ind i beregningerne af de forskellige eksponeringsvari-
+able. Eksempelvis er der generel uenighed om, hvor eksponeret Danmark er 
+i forhold til den maksimale stormflodsva ndstand fra Østersøen. De teoretisk 
+maksimale vandstande i det aktuelle klima varierer fra under 2 m (Kystdirek-
+toratet, 2018) og op til 5-6 m (COWI, 2017). Valget af vandstand og den for-
+ventede havvandstandsstigning vil være af afgørende betydning for den vur-
+derede eksponering. 
+Skadesomkostningsfunktionen (o) i forbindelse med oversvømmelser fra sky-
+brud, stormflod, vandløb og forhøjet grundvandsstand vil selv være en funk-
+tion af materielskade på boligen (bm), immateriel nyttetab for oversvømmede 
+borgere (im), risikoaversion blandt ek sponerede borgere (rab), ændring i be-
+boersammensætning som følge af erkendt eksponering (bs), materielskade for 
+virksomhed (vm), risikoaversion blan dt eksponerede virksomheder (rav), 
+materiel skade af infrastruktur (im) samt tab af brug infrastruktur (bi). 
+𝑜(𝑏𝑚, 𝑖𝑚, 𝑟𝑎𝑏, 𝑏𝑠, 𝑣𝑚, 𝑟𝑎𝑣, 𝑖𝑚, 𝑏𝑖)     ( 3 )  
+• bm - materielskade af boliger 
+• im - immateriel nyttetab 
+• rab - risikoaversion blandt eksponerede borgere 
+• bs - beboersammensætning 
+• vm - materielskade for virksomhed 
+• rav - risikoaversion blandt eksponerede virksomheder 
+• im - skade af infrastruktur 
+• bi - tab af brug infrastruktur 
+ 
+Interaktionen mellem den estimerede ek sponering og skadesomkostning vil 
+tilsammen give grundlaget for at vurdere, hvor store gevinster der opnås ved 
+et given klimatilpasningstiltag for samfundet, borgerne og virksomhederne. 
+Helt konkret vil gevinsten skulle beregnes ved at sammenholde værdien af en 
+situation uden klimatilpasning (uk) med værdien af en situation med klima-
+tilpasning (mk). 
+𝐺𝑒𝑣𝑖𝑛𝑠𝑡 = 𝑅
+௠௞ −𝑅௨௞    ( 4 )  
+• 𝑅௠௞ – Værdien af risiko med klimatilpasning 
+• 𝑅௨௞ – Værdien af risiko uden klimatilpasning 
+ 
+2.2 Klimatilpasningstiltag 
+Effekterne af hvert klimatilpasningstiltag (K) vil blive vurderet som funktion 
+af investeringsomkostninger (io), de res vedligeholdelsesomkostninger (ve) 
+og deres potentielle mergevinster (mg) for naboerne til klimatilpasningstilta-
+get. 
+𝐾(𝑖𝑜, 𝑣𝑒, 𝑚𝑔)     ( 5 )  
+• K – klimatilpasningstiltag 
+• io – investeringsomkostninger 
+• ve – vedligeholdelsesomkostninger 
+
+ 
+12 
+• mg - potentielle mergevinster  
+ 
+Tiltagene vil være kontekstspecifik. Specielt mergevinsterne (mg) af klimatil-
+pasningstiltag vil være afhængige af hv em og hvor mange, der bliver berørt 
+af hver enkelt tiltag, og hvilket slags tiltag, der udføres. Nogle tiltag vil kunne 
+skabe mergevinst, som f.eks. multif unktionelle naturbaserede løsninger, 
+mens andre tiltag ikke vil kunne skabe mergevinst, som f.eks. større kloakrør. 
+Det kan være udslagsgivende for valg af tiltag, om mergevinsten inddrages i 
+beregningerne. Zhou et al. (2013a) viser f.eks., at i det omfang den rekreative 
+gevinst af forskellige klimatilpasningstiltag inddrages i de økonomiske be-
+tragtninger, så ændrer konklusionerne sig betydeligt. De klimatilpasningstil-
+tag, der er baserede på naturløsninger  såsom grønne infrastrukturer og blå 
+regnvandsbassiner, vil indeholde rekrea tive værdier og vil potentielt kunne 
+forskyde netto-omkostningsberegningerne af klimatilpasningstiltagene. An-
+dre mergevinster, der opstår som følge af naturbaserede løsninger såsom for-
+bedrede biodiversitet, helbred og luftkvalitet, er små og vil ikke kunne rykke 
+ved en velfærdsøkonomisk omkostningsbetragtning (Panduro et al., 2021). 
+Tabel 1   Oversigt over mulige klimatilpasningstiltag. 
+ 
+2.3 Gevinster og omkostninger  
+Forholdet mellem gevinsten af klimatilpasning og effekterne ved klimatilpas-
+ningstiltag er det der afgør, om et projekt bør sættes i gang. De samlede ge-
+vinster af et projekt bør overstige om kostningerne, således følgende ulighed 
+er gældende. 
+0 < 𝐺𝑒𝑣𝑖𝑛𝑠𝑡 + 𝐾(𝑖𝑜, 𝑣𝑒, 𝑚𝑔)    ( 6 )  
+Bemærk at investeringsomkostninger ne og vedligeholdelsesomkostninger 
+trækker projektets værdi ned, mens de mulige mergevinster i de fleste tilfælde 
+vil trække projektet op. Gi vet at den samlede værdi af et projekt overstiger 
+nul, så vil det ligeledes være teoretisk muligt også at sikre økonomisk bidrag 
+til projektets gennemførsel. Husholdninger og virksomheder burde være vil-
+lige til at bidrage til den samlede gevinst af et klimatilpasningsprojekt. Det vil 
+sige, at den gevinst de opnår ved den formindskede risiko som følge af klima-
+tilpasningsprojektet og den mulige merg evinst af projektet, vil gøre det at-
+traktivt at bidrage til klimatilpasningsprojektets gennemførsel.  
+Stormflod Skybrud Vandløb Forhøjet grundvandsstand  
+Diger Kloakudvidelser Overløbsbassiner  Dræningsrør og kanaler  
+Sandfodring  Underjordiske  
+regnvandsbassiner  
+Udvidelse af vandløb Permanent pumpning  
+Naturbaserede løsninger  
+såsom, stenrev, ålegræs 
+Overjordiske  
+regnvandsbassiner  
+  
+Strategisk tilbagetrækning Strategisk ekspropriation   
+ Grønne og blå  
+regnvandsbassiner  
+  
+ Grønne wadier    
+ Små og store faskiner   
+Beredskab - midlertidige  
+diger, sandsække, pumper 
+m.m. 
+Beredskab - midlertidige  
+diger, sandsække, pumper 
+m.m. 
+Beredskab - midlertidige  
+diger, sandsække, pumper 
+m.m. 
+Beredskab - midlertidige  
+diger, sandsække, pumper 
+m.m. 
+
+13 
+2.3.1 Hvad driver resultatet af analysen? 
+I samfundsøkonomiske cost-benefit-analyser vil der altid være variable, der 
+mangler pga. af manglende viden. Ud fra en pragmatisk tilgang, er det ikke 
+vigtigt at inddrage alle variable. Det er vigtigt at inddrage de variable, der kan 
+have indflydelse på udfaldet af cost-benefit-analysen – det vil sige om cost-
+benefit-analysen viser et samfundsøkonomisk overskud eller underskud af en 
+given investering. Det vil således være en del af opgaven at vurdere samtlige 
+variables potentiale til at påvirke beslutninger om klimatilpasningsinvesterin-
+ger. I forbindelse med beregninger af bidragsfordelinger og modeller, der til-
+skriver gevinster, vil nogle gevinster væ re så ubetydelige, at disse vil være 
+ligegyldige for det samlede bidrag. Uvæsentlige deltaljer med fokus på alle 
+bidrag – også de minimal bidrag - kan gøre bidragsmodeller så komplicerede, 
+at det bliver svært at lave en opperationel bidragsmodel - se kapitel 5. 
+2.3.2 Håndtering af usikkerhed og fordelinger 
+Mange af de variable, der vil indgå i klimarisikomodellerne og klimatilpas-
+ningstiltagene, vil være stokastiske me d forskellige statistiske fordelinger. 
+Nogle af disse statistiske fordelinger er identificerede, mens andre fordelinger 
+ikke vil være identificerede. I tilfældet af manglende data og viden om forde-
+lingen vil kvalificerede gæt erstatte statistisk definerede fordelinger. Samtidig 
+kan nøjagtigheden, hvormed variablene identificeres, variere. Således vil 
+nogle variable kunne anvendes i vurderingen af konkrete projekter, mens an-
+dre variable er for upræcise til at beskrive konkrete projekter. 
+Den grundlæggende konsekvens af den manglende sikkerhed for de enkelte 
+variable er - selvom om uligheden i ligning 6 overholdes på gennemsnittet – 
+at der vil være en signifikant sandsynlighed for at omkostningerne overstiger 
+gevinsterne for en betydelig del af husholdningerne, der indgår i bidragsmo-
+dellen, hvis de beregnede omkostninger og gevinster ligger tæt på hinanden.  
+I den forbindelse vil det være relevant at  sikre, at de samlede gevinster over-
+stiger omkostninger med en betydelig procentdel. Finansministeriet opererer 
+med begrebet dødvægtstab, hvor alle offentlige udgifter skal ganges med 1,25 
+for på den måde at gøre alle offentlige investeringer dyrere. Begrundelsen for 
+dødvægtstabet bygger på nogle teoretiske overvejelser om, at skatter forstyr-
+rer et ellers perfekt marked, hvilket giver et velfærdtab (Møller & Jensen, 
+2004). Selvom dødsvægtstabet bygger på antagelser, som nemt vil kunne sky-
+des ned, vil selve øvelsen med at ga nge dødvægtstabet på investeringsom-
+kostningerne og vedligeholdelsesomkostninger sikre, at sandsynligheden for 
+at gevinsterne overstiger omkostningerne falde betydeligt. Det vil derfor være 
+relevant at anvende samme vægtning på 1,25 i forholdet mellem beregnede 
+gevinster og det bidrag den enkelte borger eller virksomhed pålægges. 
+2.3.3 Kritisk infrastruktur og samfundsmæssig risikoaversion  
+Nogle hændelser eksponerer kritisk infr astruktur eller vil have så store om-
+kostninger, at beslutningstagere vil vurdere, at omkostningerne forbundet 
+med hændelserne er uacceptable. Det kan eksempelvis være oversvømmelse 
+af hospitaler eller hændelser med lav sandsynlighed, men med eksponeringer 
+af et meget stort antal borgere, som f.eks. oversvømmelserne i New Orleans i 
+2005. En investerin gsvurdering af klimatilpasningstiltag bør som minimum 
+forholde sig til disse tilfælde, hvor økonomiske prioriteringer mellem omkost-
+ninger og gevinster sættes ud af kraft pga. samvariationen mellem risikoaver-
+sion og størrelsen på hændelsen; størrelsen på risikoaversionen er bl.a. en 
+
+ 
+14 
+funktion af størrelsen på omkostningerne forbundet med en hændelse (Pratt, 
+1978). 
+Det betyder bl.a., at meget voldsomme hændelser er uacceptable, også selvom 
+hændelserne har en meget lille sandsynlighed. Et godt eksempel på en sådan 
+beslutning er den politiske beslutning om ikke at producere energi fra atom-
+kraft i Danmark. Når eksponeringen er lille, men omkostningen stor, så er den 
+samlede risiko lille, hvis man ser bort fra risikoaversionen. I tilfældet med 
+atomkraft har risikoaversion drevet poli tiske beslutningstagere til at afvise 
+atomkraft. Muligheden for atomkraft lignende hændelser i en omkostnings-
+størrelsesorden i forhold til oversvømme lser fra stormflod, er en mulighed, 
+selvom sandsynligheden er så lille, at den ikke kan kvantificeres. En stormflod 
+på 5-6 meter der rammer København - som COWI (2017) regner med – vil 
+muligvis have et omkostningsomfang, som politisk ikke vil være acceptabelt. 
+Overvejelserne om kritis k infrastruktur og uacceptable risiko ligger grund-
+læggende uden for klassiske nytteetiske overvejelser. Økonomiske nytteeti-
+ske betragtninger opererer inden for ke ndte og afgrænsede fordelinger for 
+udfaldsrum. Ekstreme hændelser med lille sandsynlighed for at opstå er 
+svære – muligvis umulige - at kvantifi cere i monetære enheder, fordi forde-
+lingen og risikoaversionen ikke kendes. Ansvaret for denne type overvejelser 
+er derfor udelukkende en politisk vurdering. Det betyder dermed også, at an-
+svaret for bidrag bør ligge hos de politiske instanser, der træffer afgørelse om 
+kritisk infrastruktur og uacceptable risiko. 
+
+15 
+3 Hvem og hvor meget skal vi bidrage 
+Det nytteetiske udgangspunkt betyder, at dem der har gevinsterne af en given 
+handling bør være villige til at bidrage med op til den gevinst, de opnår ved 
+handlingen. 
+3.1 Fairness 
+I forbindelse med bidrag til klimatilpasningsprojekter bliver den nytteetiske 
+betragtning generelt udvidet til, at folk og virksomheder bør bidrage propor-
+tionalt med den gevinst de opnår ved klimatilpasningen. Dette udvider ud-
+fordringen med at afgøre, hvor meget den enkelte skal bidrage. Proportiona-
+litetsbetragtningen kræver nemlig, at gevinsterne for alle folk og virksomhe-
+der opgøres, og dernæst fordeles omkostninger i samme forhold som de op-
+nåede gevinster. Det er svært eller må ske umuligt at opgøre alle gevinsterne 
+for alle – mere om det nedenfor – og på den måde kan det være svært at opnå 
+proportionalitet. 
+Generelt omtales proportionalitetsprincippet som fair. Her vurderes fairness 
+i forhold til fællesskabet, hvor det grundlæggende spørgsmål er: ”Hvor meget 
+skal jeg betale i forhold til alle andre?”. Fairness kunne i stedet tage udgangs-
+punkt i individet. En individuel tilgang til fairness vil gøre øvelsen med at 
+beregne bidrag væsentligt nemmere. I de tte tilfælde vil bidraget være fair, 
+hvis gevinsten af klimatilpasningstilta get overstiger bidraget – med faktor 
+1,25 for en sikkerhed skyld. I denne sammenhæng er det grundlæggende 
+spørgsmål, om personen eller virksomheden er bedre stillet efter klimatilpas-
+ningsprojektet, hvor de er pålagt at bidrage, end før klimatilpasningsprojek-
+tet. Hvis gevinsterne overstiger omkost ningerne for den enkelte, vil denne 
+være blevet behandlet fair ud fra en in dividuel nytteetisk betragtning. De to 
+typer fairness-tilgange kan form uleres på følgende måde, hvor i beskriver et 
+individ såsom en person eller en virksomhed. 
+Proportional fairness: 
+𝑏𝑖𝑑𝑟𝑎𝑔௜ = 𝐾(𝑖𝑜, 𝑣𝑒) ∗
+∑ ௚௘௩௜௡௦௧௘௥೔
+೙
+೔సభ
+௚௘௩௜௡௦௧௘௥೔
+   *    1,25     +   𝐾(𝑚𝑔௜)                           (7) 
+Individuel nytte-etisk fairness: 
+ 𝑏𝑖𝑑𝑟𝑎𝑔௜ < 𝐺𝑒𝑣𝑖𝑛𝑠𝑡௜ ∗1,25                                                                                                (8) 
+De to definitioner er væsentligt forske llige fra hinanden. Det er operationelt 
+væsentligt mere kompliceret at beregne fairness ud fra et fællesorienteret pro-
+portionalitetsfairnessprincip i forhold til et individuelt nytteetisk fairness-
+princip. 
+I det omfang en individuel nytteetisk tilgang anvendes, kræver det, at gevin-
+sterne overstiger bidraget. I den forbin delse kan nogle generelle mindre de-
+taljerede beregninger være nok til at sandsynliggøre, at uligheden i ligning 8 
+overholdes. Det betyder ligeledes, at husholdninger eller virksomheder kan 
+pålægges at betale det samme bidrag, og så selvom de enkelte husholdninger 
+eller virksomheder har forskellige gevi nster af et klimatilpasningstiltaget. I 
+det tilfælde at proportionalitetsfairness tilstræbes, så kræver det, at man ken-
+der alle parters gevinster af klimatilpasn ingsprojektet præcist nok til, at man 
+
+ 
+16 
+kan opgøre andelen af gevinsterne. Det kan hurtigt blive et uoverskueligt og 
+ressourcekrævende projekt at opgøre, sp ecielt i forbindelse med klimatilpas-
+ningsprojekter der berører større byområder. 
+3.2 Engangsbidrag eller løbende bidrag  
+Et klimatilpasningstiltag, såsom et dige eller et overløbsbassin, kan nemt op-
+fattes som et projekt, der har en start og en slutning. På samme måde er selve 
+konstruktionsomkostningen i mange tilfælde væsentligt større end de aggre-
+gerede diskonterede vedligeholdelsesomkostninger. For dem, der opnår ge-
+vinsten af klimatilpasningstiltaget, er det omvendt. Gevinsten af et klimatil-
+pasningstiltag er en flowværdi, som husholdninger og virksomheder nyder 
+godt af. Værdien af risikoen for oversvømmelse er i år, næste år, året efter og 
+så fremdeles. Således bør ligning 4 udvides til at indeholde et tidselement som 
+beskrevet nedenfor.  
+Gevinsten for den enkelte husholdning eller virksomhed (i) for en specifik pe-
+riode (tid) 
+𝐺𝑒𝑣𝑖𝑛𝑠𝑡
+𝑖,𝑡𝑖𝑑  = 𝑅𝑚𝑘,𝑖,𝑡𝑖𝑑 −𝑅 𝑢𝑘,𝑖,𝑡𝑖𝑑                                                                             (9) 
+ 
+Gevinsten for hele projekte t over hele tiltagets leve tid, inddrager gevinsten 
+for en given husholdning eller virksomhed (i) aggregeret over projektets le-
+vetid målt i år (tid). 
+𝐺𝑒𝑣𝑖𝑛𝑠𝑡 = ∑ 𝑅
+௠௞
+௠,௡
+௧௜ௗୀ଴,   ௜ୀଵ −∑ 𝑅௨௞
+௠,௡
+௧௜ௗୀ଴,   ௜ୀଵ                                                         (10) 
+ 
+Flowværdien er ikke anderledes end nå r folk køber hus eller bil. Hovedom-
+kostningen afholdes i forbindelse med købet, men gevinsten opnås i forbin-
+delse med brugen af huset eller bilen. Værdien af et hus eller en bil er den 
+nuværende samt det forventede forbrug ude i fremtiden for den nuværende 
+og mulige kommende ejere. I modsætning til huset eller bilen, som er et privat 
+gode, vil den enkelte ikke kunne sælge et klimatilpasningsprojekt ud fra, 
+hvornår brugen af projektet stopper ved en evt. flytning eller ved død. 
+I en teoretisk økonomisk virkelighed vil risikoen fra klimaforandringerne ind-
+arbejdes i ejendomsmarkedet i forbindelse med, at husholdningerne opdate-
+rer deres viden omkring risikoen for ov ersvømmelser. På den måde ville et 
+klimatilpasningstiltag, der reducerer risikoen for oversvømmelse ligeledes 
+blive indarbejdet i ejendomsprisen for berørte boliger. I en økonomisk teore-
+tisk virkelighed ville husholdninger og  virksomheder opleve værdien af kli-
+matilpasningstiltag i deres ejendomsvæ rdi eller gennem deres husleje. Pro-
+blemet er blot, at folk generelt synes at være uvidende omkring risikoen for 
+oversvømmelser (Lautrup et al., 2021). På den måde oplever husholdninger 
+og virksomheder ingen gevinst af klima tilpasningstiltag. Gevinsterne bliver 
+med stor sandsynlighed ikke kapitaliseret i ejendomsmarkedet (Lautrup et al., 
+2021). 
+I det omfang at bidraget pålægges at udbetales som et engangsbeløb, for at 
+finansiere et klimatilpasningsprojekt,  vil engangsbeløbet blive opfattet som 
+den aggregerede gevinst for hele klimatil pasningsprojektet. Det vil sige, at 
+hvis man pålægger husholdninger og virksomheder at bidrage gennem et en-
+gangsbeløb, så pålægger man dem at bidrage for gevinsten af klimatilpas-
+ningstiltaget for sig selv og alle kommende ejere. De fleste ejendomme vil 
+
+17 
+skifte ejere, og det synes at være urimeligt ikke at fordele udgiften til alle ejere 
+af ejendommene i stedet for kun at fokusere på de nuværende ejere. I det om-
+fang at en kommune pålægger beboerne i et boligområde at bidrage til et kli-
+matilpasningsprojekt med et engangsb eløb, så vil nogle husholdninger op-
+leve at skulle bidrage forholdsvis mege t i forhold til deres forventninger til 
+opnåede gevinster. For de husholdninger der eksempelvis påtænker at flytte 
+inden for en overskuelig fremtid, eller hvis husholdningsmedlemmer er ter-
+minal syge, eller blot er ældre, vil de langt fra opnå den aggregerede gevinst. 
+På den anden side vil husholdninger, der forventer at bo samme sted i mange 
+år, ikke opleve samme problem, når de personligt opgør gevinster og bidrag 
+til et klimatilpasningstiltag. 
+Ud fra en nytteetisk betragtning er det tydeligt, at bidraget til klimatilpas-
+ningsprojekter bør fordeles ud på både nuværende og kommende ejere. Ge-
+vinsten af klimatilpasningsprojekter er en flowværdi, og det bør bidragsfor-
+delingen reflektere. Det betyder, at husholdninger og virksomheder, der op-
+når en gevinst af et klimatilpasningsprojekt, bør pålægges et løbende bidrag, 
+evt. et årligt bidrag. 
+3.3 Forholdet mellem materielskade og immateriel skade 
+samt bidrag 
+I forbindelse med oversvømmelser fra skybrud, stormflod, vandløb og forhø-
+jet grundvandsstand vil der opstå mate rielle skader på ejendomme, bygnin-
+ger og flytbare genstande. Virksomheder vil ligeledes kunne opleve skader på 
+produktionsapparatet, der skal udbedr es, samtidig med tabt produktionska-
+pacitet i en kortere eller længere periode. 
+De udgåede materielle skader kan beregnes med udgangspunkt i forsikrings-
+data fra forsikringspension (Zhou et al., 2013b). På baggrund af modelestima-
+tioner af stormflodsrådets forsikringssa ger, kan materielle  skader fra storm-
+flodsoversvømmelser nu kvantificeres separat. Modelestimationer kan findes 
+i bilaget til rapporten. 
+I tabel 2 præsenteres en fortolkning af modelestimaterne af skadesomkost-
+ningsmodellen for stormfoldsskader do kumenteret i bilaget. Skadesomkost-
+ninger i tabel 2 beskriver den gennemsnitlige omkostning ved stormflodsska-
+der. Der vil være oversvømmelser af  boliger, hvor genne msnittet vil ligge 
+langt fra virkeligheden. Skadesomkostni nger er modelleret for sommerhuse 
+og for parcel og rækkehuse. Størrelsen på boligen, typen af skade, boliger der 
+har flere etager, type af hus, prisen på  bolig og geografisk placering i forhold 
+til vandstand, kyst og vandløb viser sig at have betydning for størrelsesorde-
+nen for de materielle skader på over svømmede boliger. Variablene træhus, 
+varmepumpe og brændeovn bør fortolke s som proxy-variable, der beskriver 
+typer af bolig i stedet for en konkret installation i forbindelse med boligen. I 
+det omfang at en bolig får installeret en brændeovn, så bør man være forsigtig 
+med at fortolke skadesestimatet i forhold til materielle skader af eksempelvis 
+et parcelhus. 
+  
+
+ 
+18 
+Tabel 2   Fortolkede skadesomkostninger ved stormflodsskader. 
+ Sommerhuse Parcel-
+og rækkehuse
+Bolig størrelse m2 3200 600
+Bygningsskade  313.600 436.700
+Løsøre - skader på inventar  171.500 284.700
+Genhusning  200.700 423.900
+Tidligere udbetaling  36.200 122.900
+Mere end en etage  -170.000
+Træhus  77.500 121.100
+Varmepumpe  64.800 254.600
+Brændeovn  -85.800
+Boligpris/1000 kr. 16
+Højde over havet < 1m 306.300 300.800
+Højde over havet >=1m & < 1.5m  271.800 227.700
+Højde over havet >=1.5m & < 2m -94.800 -203.900
+Afstand til kyst < 35 m -52.400 -80.200
+Afstand til kyst >=35m & < 70m -82.500 -115.500
+Afstand til vandløb < 50 m -70.300
+Afstand til vandløb >=50m & < 150m -71.100
+Afstand til vandløb >=150m & < 500m -60.800
+*tallene er udtrykt i DKK 2000-2015. Se bilag for dokumentation af modelestimation. 
+Skadesomkostningstallene for storm-
+flodsskader kan fortolkes således, at et 
+parcelhus på 150 m2, der ligger 1.6 m 
+over havet og 40 m fra kysten, som  
+bliver oversvømmet, vil have en skade-
+omkostning på henved 500.000 kr. 
+ 
+Størrelse (150 m2) = 90.000 kr. 
+Bygningsskade 436.700 kr. 
+Inventarskade 284.700 kr. 
+Højden over havet 1.6m -203.900 kr. 
+Afstand fra kysten 40m -115.500 kr. 
+Samlet skadesomkostning 492.000 kr.  
+ 
+Det er generel svært at vurdere såvel tab i forbindelse med skader på produk-
+tionsapparat som de tab i produktionskapaciteten en virksomhed oplever. På 
+nuværende tidspunkt findes der ikke en model, der kan generalisere til hele 
+Danmark. 
+De immaterielle omkostninger, som folk oplever i forbindelse med oversvøm-
+melse, kan ikke kvantificeres ved hjæl p af forsikringsdata. Omkostningerne 
+handler om tab af ejendom, som har værdi for husholdningen, men som ikke 
+har værdi for andre, f.eks. tab af arvestykker og fotoalbums. Det kan ligeledes 
+dreje sin om besværet med at udbedre skader og mulig indkvartering i mid-
+lertidig bolig i forbindelse af udbedring, affugtning og afhjælpning af større 
+bygningsskader. Lautrup et al. (2021) finder i en større spørgeskemaundersø-
+gelse, at folk gerne vil betale for at  mindske sandsynligheden for oversvøm-
+melse. Betalingsviljen for at mindske sandsynligheden for oversvømmelse 
+kan, ses som et udtryk for hvor mege t folk forventer at miste i immateriel 
+
+19 
+nytte, hvis de oversvømmes. De folk, der besvarede undersøgelsen, havde en 
+gennemsnitlig betalingsvillighed på 2300 kr. og 2800 per år i 10 år for få redu-
+ceret risikoen for stormflod med henholdsvis 25 % og 50 % i forhold til det 
+nuværende niveau. I forhold til skybru d havde folk en gennemsnitlige beta-
+lingsvillighed på 3000 kr. og 3800 per år i 10 år for at få reduceret risikoen for 
+skybrud med henholdsvis 25 % og 50 % i forhold til det nuværende niveau. 
+Resultaterne viser, at folk vurderer, at  de vil opleve et immaterielt tab, som 
+ikke vil blive dækket af deres forsikringer. Folk vurderer samtidig dette beløb 
+til at være betydeligt. Det kan være sv ært at oversætte undgået immaterielle 
+tab til specifikke klimatilpasningstiltag, men tallene er af en størrelsesorden, 
+hvor det vil være problematisk ikke at forsøge at oversætte tallene i beregnin-
+gen af bidragsfordelingen i konkrete projekter.  
+Internationale studier viser at oversvøm melser kan føre til psykiske stressre-
+laterede sygdomme. Studierne bygger på spørgeskemaundersøgelser. Under-
+søgelserne er relaterede til voldsomme hændelser, der til dato ikke er obser-
+verede i Danmark (Reacher et al. 2004; Fernandez et al. 2015). Det mest om-
+fattende studie i Danmark af effekten af oversvømmelse på folks sundhed er 
+udført af Lautrup et al. (2021). Undersøgelsen bygger både på spørgeskema-
+undersøgelser og landsdækkende registerdata. Resultaterne viser, at der ikke 
+er nogen nævneværdig effekt af oversv ømmelser på folks sundhed. Forskel-
+len på de internationale studier og det danske kan muligvis forklares ved, at 
+omfanget/størrelsesorden af de undersøgte oversvømmelser er mindre i de 
+danske cases. På baggrund af de nuværende studier bør sundhedsrelaterede 
+gevinster ikke indgå i beregningerne af bidragsmodeller. 
+3.4 Risikoaversion 
+Risikoaversion beskriver det fænomen, at  folk generelt vil forsøge at undgå 
+hændelser med høj usikkerhed. Det betyder, at folk hellere vil vælge hændel-
+ser eller situationer til, som er mere forudsigelige end hændelser eller situati-
+oner, der er svære at forudsigelige – også selvom at gevinsten ved den forud-
+sigelige hændelse er langt lavere en d gevinsten fra den svært forudsigelige 
+hændelse. En person, der ikke er risikoavers, vil gange eksponering ( e) med 
+omkostning (o) ved en given hændelse. I denne sammenhæng udtrykker ek-
+sponeringen sandsynligheden for en given hændelse. En risikoavers person 
+vil tilføje et ekstra risikoaversfaktor til ligningen ( ra) som muligvis i sig selv 
+vil være en funktion af eksponeringen og omkostningen ved hændelsen. 
+𝑅𝑖𝑠𝑖𝑘𝑜 = 𝑒∗𝑜∗𝑟 𝑎     (11) 
+Forskning viser at folk generelt er mere  forbeholdende overfor at opleve en 
+omkostning end at opleve en gevinst.  Således vil risikoaversfaktoren ikke 
+være symmetrisk i forhold til omkostning er og gevinster. I forbindelse med 
+klimatilpasningsprojekter udtrykker risikoaversionen nyttetabet ved usikker-
+heden for, at der muligvis forekommer en oversvømmelse. Derudover ople-
+ver folk også et større tab, hvis de mi ster noget, end hvis de omvendt vinder 
+noget – også selvom det har samme værdi (Kahneman et al., 1991). 
+For at folk kan have en risikoaversion over for oversvømmelse fra skybrud, 
+stormflod, vandløb og forhøjet grundvandsstand kræver det, at folk er op-
+mærksomme på problemet. Resultaterne præsenteret af Lautrup et al. (2021) 
+viser grundlæggende, at folk ikke er opmærksomme på den risiko, de er udsat 
+for, og selv i forbindelse med en ov ersvømmelse glemmes risikoen efter tre 
+
+ 
+20 
+år. Risikoaversion vil derfor, for de fleste, være lille. Det betyder, at ra-fakto-
+ren i ligning 10 sandsynligvis vil være tæt på 1 for de fleste mennesker. Risi-
+koaversion i forhold til risiko for ekstreme klimahændelser er generelt under-
+belyst i litteraturen med undtagelse af få eksempler (f.eks. Kind et al., 2017; 
+Frontuto et al., 2020). Det betyder, at risikoaversion kun aktivt spiller en rolle 
+for velinformerede beslutningstagere, der har overblik over det mulige ud-
+faldsrum for ekstreme hændelser. 
+3.5 Gennemsnittet er blot midten af fordelingen  
+Eksponeringen for ekstreme klimahændelser i forhold til oversvømmelser fra 
+skybrud, stormflod, vandløb og forhøjet grundvandstand bør opfattes som 
+fordelingen af mulige hændelser. Både gennemsnittet og halerne i fordelingen 
+har betydning for, hvorledes man bør forholde sig til eksponeringen. Gen-
+nemsnittet er midten af fordelingen og giver blot det mest sandsynlig udfald. 
+Gennemsnittet er ikke det samme som det faktiske udfald. Nogle fordelinger 
+er smalle og ligger tæt på gennemsnittet, mens andre fordelinger er brede med 
+hændelser der spredes langt fra gennems nittet. Nogle fordelinger er yder-
+mere ikke symmetriske. Specielt forde linger, der beskriver klimahændelser, 
+vil sandsynligvis være højre skæve, eftersom meget voldsomme hændelser 
+sker med meget lille sandsynlighed. Den generelle forventning inden for klas-
+sisk statisk er, at når antallet af observationer stiger, vil gennemsnittet for for-
+delingen blive mere og mere tydeligt (Wooldridge, 2015). Det er en antagelse, 
+der grundlæggende er korrekt i de fleste tilfælde, men i tilfælde af eksempel-
+vis ekstremt højre skæve fordelinger - som optræder i forbindelse med klima-
+hændelser - behøves dette ikke nødvendigvis være tilfældet. Det kan teoretisk 
+være muligt, at der findes fordelinger,  hvor gennemsnittet bliver ved med at 
+rykke sig i forbindelse med at antallet af  observationer stiger (Mercure et al., 
+2021). Implikationerne er, at antagelser om fordelingerne for de forskellige 
+variable, der tilsammen beskriver eksponeringen, langt hen ad vejen vil resul-
+tere i et underestimat af den reelle eksponering. Det betyder, at vi muligvis 
+undervurder risikoen for oversvømmelser og dermed i andet led også under-
+vurderer gevinsterne af klimatilpasningstiltag. 
+De samme overvejelser, der gør sig gældende for klimaeksponeringen, gør sig 
+ligeledes gældende i forhold til omkostningerne af oversvømmelser. Den ge-
+nerelle anvendelse af gennemsnitsbetra gtninger i forhold til bygningsskader 
+eller tab af flytbart inventar, dækker over en fordeling, hvor de mindste vær-
+dier er mange gange mindre end de højeste værdier. I forbindelse med cost-
+benefit-analyse af klimatilpasningsproj ekter, hvor genne msnittet anvendes, 
+er dette et mindre problem, fordi de mindste og største værdier udligner hin-
+anden – igen under antagelse af en sy mmetrisk fordeling. I forbindelse med 
+opgørelse af bidrag vil det betyde, at man vil komme til at overestimere ge-
+vinsterne ved et klimatilpasningstiltag for halvdelen af husholdninger og 
+virksomheder. Omvendt vil man underestimere gevinsterne for den anden 
+halvdel af husholdninger og virksomheder. Størrelsesordenen af fejlestima-
+terne vil afhænge af, om fordelingen har en lille eller stor spredning i forhold 
+til gennemsnittet. 
+Det er ikke kun ved materielle skader , at gennemsnitsbetragtninger kan føre 
+til både betydelige underestimater og betydelige overestimater. Immaterielle 
+tab, risikoaversion, tidspræference osv.  kan alle beskrives som fordelinger. 
+Det betyder, at den enkeltes værdiopfattelse vil adskille sig fra alle andres. På 
+den måde vil gevinstberegninger være forskellige for alle husholdninger og 
+
+21 
+alle virksomheder. En bidragsmodel, der baserer sig på gennemsnitsbetragt-
+ninger og følger proportionalitets-fairne ss-princippet, vil uundgåelig føre til 
+en ikke-fair-bidragsfordeling. Det er til gengæld væsentlig mere sandsynligt, 
+at fairness kan opnås med et individuel  nytteetisk fairness-princip, selvom 
+man anvender gennemsnitsbetragtninger. Der mangler dog forskning i forde-
+lingerne i eksponerings- og omkostningsfunktionen. I det omfang disse for-
+delinger kan beregnes, ville det være mul igt at lave bidragsmodeller, der er 
+mere fair. 
+
+ 
+22 
+4 Indvendinger mod at bidrage 
+For den enkelte husholdning og virksomhed udgør et pålagt bidrag til et kli-
+matilpasningstiltag en omkostning. Husholdningen eller virksomheden vil 
+hellere end gerne ”free-ride” på et klimatilpasningstiltag for at slippe for at 
+bidrage, men stadig nyde godt af gevinster ved den mindskede risiko som 
+følge af klimatilpasningstiltaget. Ønsket om et ”free-ride” er et generelt øko-
+nomisk fænomen, som kan findes i mange situationer, som f.eks. da en stor 
+del af den danske befolkning ikke beta lte licens, men stadig benyttede sig af 
+Danmarks Radios medier, eller i forbin delse med store internationale aftaler 
+hvor lande forsøge at slippe uden om at bidrage eller overholde fælles aftaler 
+(Field & Field, 2016). 
+Det er således ikke overraskende, at husholdninger og virksomheder, som er 
+eksponerede i forhold til oversvømmelse, vil tage samme udgangspunkt. Pro-
+blemet er blot, at hvis alle ønsker at ”free-ride”, så er der ingen til at betale, og 
+så er der heller ingen gevinst at deles om. Ønsket om at ”free-ride” er eksem-
+pelvis den afgørende årsag til at de internationale klima-COP-møder ikke har 
+ført til et tilstrækkeligt fald i udledn ingen af drivhusga sser gennem aftaler. 
+Alle lande venter på, at alle andre lande påtager sig ansvaret, men på den 
+måde er der ingen, der påtager sig et ansvar. 
+Den første indvending mod at bidrage er, at andre burde bidrage til den fælles 
+løsning. For husholdningerne og virksomhederne vil det være nærliggende at 
+pege på kommuner og forsyningssels kaber; kommunerne og forsyningssel-
+skaberne kan så derefter pege på staten, og staten kan pege på husholdnin-
+gerne og virksomhederne. Den første indvending kommer dog til kort, hvis 
+man tager udgangspunkt i et fællesorienteret proportionalitetsprincip eller et 
+individuelt nytteprincip, hvor den grundlæggende etiske fordring er, at de 
+der har gevinsterne, er dem der bør betale. 
+Den anden indvending er at sætte spørgsmål ved den beregnede eksponering. 
+Det er et faktum, at den beregnede eksp onering er baseret på en lang række 
+variable, der alle sammen er baserede  på fordelinger med muligvis ukendte 
+spredninger. Det er således en helt ri melig position at indtage, at ekspone-
+ringsberegningerne er forkerte; det er nok mest sandsynligt, at eksponeringen 
+vil være forskellig fra, hvad der faktisk kommer til at ske. Indvendingen er 
+som udgangspunkt en dårlig strategi, fordi hvis der ikke er en eksponering, 
+så er der ingen grund til at foretage sig noget. Problemet er jo blot, at der fak-
+tisk er en eksponering, og man har en interesse i, at der sker noget – man har 
+blot ingen interesse i selv at betale. På  den måde skal ingen bidrage, men der 
+er heller ingen fælles gevinst i form af nedsat risiko fra oversvømmelse. Hvis 
+indvendingen skal imødegås, er det vigtigt at forstå, at folks opfattelse påvir-
+kes bedst af konkrete erfaringer (Doll & Ajzen, 1992), og at deres hukommelse 
+er kortvarig (Lautrup et al. 2021). Den bedste måde at overbevise husholdnin-
+ger og virksomheder om deres eksponering er ved, at de oplever en over-
+svømmelse. I det omfang der ikke er en oversvømmelse at læne sig op af, er 
+relaterbare historier om andre, der har oplevet en oversvømmelse den bedste 
+måde at overbevise om eksponering (Butow et al., 2005; Winterbottom et al., 
+2008; Bekker et al. 2013). Den anekdotisk historie skal give husholdningerne 
+og virksomhederne en indirekte erfaring med oversvømmelse. Da der tvivl 
+om eksponeringen, så bør historien sl å på omkostningssiden og specielt 
+skubbe til folks risikoaversion – se ligning 11. 
+
+23 
+Teknisk eller videnskabelig informat ion om eksponering overbeviser ikke 
+nødvendigvis de, der har indvendinger mod eksponeringen (Moore & Stilgoe, 
+2009; Dahlstrom, 2014). Det er altid nemmere at afvise noget, der er svært at 
+forstå, f.eks. tekniske abstraktioner so m grafer og procenter er i særdeleshed 
+svære at forstå. Hvis teknisk og videnskabelig information var overbevisende, 
+så ville der ikke være behov for at håndtere de accelererende klimaforandrin-
+ger, for så var udledningen af drivhusgasser stoppet for længst.  
+Den egentlige bevæggrund, for at nogle  husholdninger eller virksomheder 
+kunne sætte spørgsmålstegn ved eksponeringen, er ikke selve eksponeringen, 
+men at undgå at bidrage. I det omfang at husholdningerne eller virksomhe-
+derne ikke blev pålagt at bidrage, ville deres indvendinger hurtigt forstumme. 
+Der vil ikke være en fordel ved at mods ætte sig et projekt, der muligvis ned-
+sætter risikoen for oversvømmelse - også selvom den enkelte husholdning el-
+ler virksomhed er i tvivl om, hvor stor  eksponeringen reelt er, hvis de ikke 
+bliver pålagt at bidrage. 
+En tredje indvending er, at husholdningerne eller virksomhederne kan 
+hævde, at deres bidrag ikke står mål med de gevinster, de opnår i forbindelse 
+med et konkret klimatilpasningstiltag. Givet at omkostningsfunktionen består 
+af en række variable, der hver for sig beskriver fordelinger, vil det være uund-
+gåeligt, at nogle husholdninger eller vi rksomheder vil befinde sig i ekstre-
+merne af fordelingen. Det betyder grundlæggende, at en mindre andel af hus-
+holdninger og virksomheder vil have en væsentlige lavere gevinst end flertal-
+let af husholdninger og virksomheder. Det kan eksempelvis skyldes, at de po-
+tentielle materielle eller immaterielle skader so m følge af en oversvømmelse 
+er mindre for netop denne husholdning eller virksomhed sammenlignet fler-
+tallet. Selvom indvendingen kan være valid for nogen, vil indvending ikke 
+være det for flertallet. En pragmatisk tilgang vil være at tilbyde husholdnin-
+ger og virksomheder en konkret vurdering af gevinsterne af klimatilpasnings-
+tiltaget. Vurderingen vil både kunne sætte gevinsterne højere eller lavere end 
+den mere generelle vurder ingsmodel. På den måde vil den konkrete vurde-
+ring kunne sætte bidraget enten op eller ned. Sandsynligheden for at få sat sit 
+bidrag op vil mindske ”free-riders”-indvendinger om, at netop deres bidrag 
+ikke står mål med gevinsterne. 
+
+ 
+24 
+5 Afprøvning af økonomisk cases for bidrag 
+I det følgende afsnit foretages en økono misk vurdering af potentialet for bi-
+drag af to cases, der bryder rammerne for, hvorledes bidrag er blevet behand-
+let i rapporten indtil nu. Den ene case udforsker bidragspotentialet for folk, 
+der ikke direkte oplever oversvømmelse af egen bolig. Den anden case udfor-
+sker, hvordan betalingsvillighed for store virksomheder bør behandles i en 
+bidragsmodel. I løbet af Klima på Tværs-projektet er begge cases blevet bragt 
+på banen som mulig medfinansiering af klimatilpasningsprojekter. 
+5.1 Bidrag for indirekte gevinster af klimatilpasningstiltag 
+Klimatilpasningstiltag vil være en direkte gevinst for dem, der får sikret deres 
+ejendom mod oversvømmelse. Der vil også være indirekte gevinster af klima-
+tilpasningstiltag, som både vil tilfalde ejerne af ejendom, og folk eller virk-
+somheder, der benytter de byrum, hvor risikoen for oversvømmelser er blevet 
+mindsket. Folk og virksomheder, der benytter veje eller anden infrastruktur, 
+hvor eksponeringen for oversvømmelse er reduceret, vil sjældnere opleve 
+ikke at kunne anvende den udsatte vej eller infrastruktur. På samme måde vil 
+folk og virksomheder, der anvender byru m til andre formål, have en gevinst 
+af klimatilpasningstiltag, der reducere r eksponeringen for oversvømmelser. 
+Konsekvensen af en reduceret eksponering vil være, at folk og virksomheder 
+vil kunne benytte byrummet uhindret langt oftere. Ud fra en nytteetisk be-
+tragtning, burde disse folk og virksomheder yde et bidrag til de klimatilpas-
+ningstiltag, som de opnår en gevinst af. 
+Det midlertidig tab som folk og virksomheder, der indirekte vil blive påvirket 
+af en oversvømmelse, oplever, afhænger af muligheden for substitutter, dvs. 
+om den aktivitet, som man ville have foretaget i det oversvømmede område 
+kunne fortages et andet sted. I langt de fleste tilfælde, vil folk og virksomhe-
+der, der vil benytte en oversvømmet vej,  kunne finde en alternativ vej at be-
+nytte. Det samme gør sig gældende for folk eller virksomheder, der ønsker at 
+benytte et oversvømmet byrum til en ak tivitet. Der findes med stor sandsyn-
+lighed andre byrum, som kan fungere som substitut for det oversvømmede 
+byrum. Selvom der findes substitutter ti l de aktiviteter, der var tiltænkt et 
+oversvømmet byrum, så vil det i mange tilfælde opleves som et tab. Ændring 
+i nytten (n) for et individ vil være forskellen på den oplevede nytte af en akti-
+vitet (a) og den oplevede nytte af en substitutionsaktivitet (sa). 
+∆𝑛
+௜ = 𝑛௜(𝑎) −𝑛௜(𝑠𝑎)   
+I det omfang den alternative aktivitet er en perfekt substitut, så er der reelt 
+ikke noget tab for individet. Omvendt hv is der ikke findes en substitutions-
+aktivitet, så er nyttetabet lig med nytten af den tabte ak tivitet. I de fleste til-
+fælde er der en substitution, som kan er statte den oprindelige aktivitet, men 
+erstatningen er ikke perfekt. Det vil sige , at der er et nyttetab, men det sand-
+synligvis ikke særlig stort. For individet der plejer at anvende en vej, der er 
+midlertidig oversvømmet, vil en alternativ vej måske gøre rejsen 5-10 minut-
+ter længere. For individet, der er taget til byen for at have en kulturel ople-
+velse, vil individet blive nødt til at tage til en anden by for at have en sam-
+menlignelig oplevelse. Pointen er, at nyttetabet generelt ikke vil opleves som 
+stort, medmindre der ikke findes en su bstitutionsmulighed. Det betyder, at 
+
+25 
+bidraget, som man vil kunne forvente at modtage for disse folk og virksom-
+heder, vil være lille - så lille at bidraget vil være uden betydning for økono-
+mien i klimatilpasningsprojektet samm enholdt med, hvor besværligt det vil 
+være at administrere en sådan bidragsløsning. 
+5.2 Betalingsvillighed fra store infrastrukturvirksomheder 
+Store infrastrukturvirksomheder som f.eks. Metroselskabet, Københavns 
+Lufthavn og Sund & Bælt kan alle have deres egen vurdering af risikoen for 
+oversvømmelse. Denne risikovurdering ka n i væsentlig grad adskille sig fra 
+vurderingen fra den kommune, hvor de res anlæg er placeret. Givet usikker-
+hederne i risikomodellen i forhold til eksponering og omkostninger, så er det 
+ikke specielt overraskende, at forskellige  organisationer finder frem til for-
+skellige klimasikringsniveauer. Lad os sige, at de pågældende virksomheder 
+har besluttet sig for et sikringsniveau, der kan håndtere en 10.000-årshæn-
+delse. I det tilfælde vil denne vurderin g med stor sandsynlighed adskille sig 
+fra det niveau, som kommuner og forsyningsselskaberne vil arbejde hen 
+imod. Der kan være flere grunde til at vælge så højt et sikringsniveau for 
+denne type virksomhed: 
+• Virksomheden forventer ikke at skulle betale for sikringsniveauet. Det be-
+tyder, at mere sikring mod oversvømmelse altid er bedre. Virksomheder-
+nes udgangspunkt er således at ”free-ride” på de klimatiltag, som foreta-
+ges af kommunen eller forsyningsselskabet. 
+• Virksomheden har foretaget en vurdering af risikoen og er - ved at afveje 
+omkostninger og gevinster - kommet frem til, at dette er det optimale sik-
+ringsniveau for virksomheden. I denne situation er sikringsniveauet et re-
+elt udtryk for virksomhedens betalingsvillighed, dvs. et udtryk for, hvad 
+virksomhederne er villige til at bidrage med for at nå deres valgte sikrings-
+niveau. 
+ 
+Kommunen bør forholde sig til udmeldingen fra virksomhederne som om, 
+det er et udtryk for reel betalingsvillighed. I den forbindelse opstår spørgs-
+målet om virksomhederne, med deres betalingsvillighed, kan bidrage til en 
+fællesløsning, der kan ramme det valgte sikringsniveau. Alternativt må virk-
+somhederne påtage sig at løse opgaven selv ved at lave klimatilpasningstiltag, 
+der sikrer deres egen infrastruktur. Re sultatet behøver ikke at være enten en 
+fælles eller individuel løsning. Man kan sagtens forestille sig hybridløsninger, 
+hvor nogle tiltag fra virksomhederne giver meningen at lave i fællesskab med 
+kommuner og forsyningsselskaber, mens andre løsninger vil være nødt til at 
+blive foretaget individuelt af virksomheden. 
+
+ 
+26 
+6 Hvordan kunne en bidragsmodel se ud  
+I rapporten opstilles en teoretisk ramme for, hvem der opnår gevinsterne af 
+klimatilpasningstiltag. Med udgangspun kt i velfærdsøkonomisk nytteetik 
+diskuteres efterfølgende, hvorledes bidragsmodeller bør konstrueres, så dem 
+der opnår gevinsterne af et klimatilpasningstiltag, også er dem, der bidrager 
+til tiltagets gennemførsel. Følgende pointer omkring bidragsmodeller fremfø-
+res i løbet af rapporten. Disse pointer vil være relevante at forholde sig aktivt 
+til i forbindelse med udarbejdelsen af konkrete bidragsmodeller for konkrete 
+tiltag: 
+• Gevinsten af klimatilpasningstiltag er  forskellen på værdien af risikoen 
+med og uden klimatilpasningstiltaget. 
+• Risiko for oversvømmelse er en funktion af eksponering og omkostnin-
+gerne ved oversvømmelse. 
+• Der er store usikkerheder forbundet med beregninger af eksponeringen og 
+omkostningerne ved oversvømmelse. De t er vigtigt at indse, at udfalds-
+rummet for eksponering og omkostninger er mindst lige så relevant at for-
+holde sig til som gennemsnitsværdierne for eksponeringen og omkostnin-
+gen. 
+• Risikoen for meget ekstreme hændelser undervurderes i økonomiske be-
+regninger. Der betyder, at gevinsterne ved klimatilpasningstiltag også un-
+dervurderes. 
+• Risikoaversion kan man kun have, hvis man ved, at man er udsat for ri-
+siko. Derfor er det beslutningstageren , der har risikoaversion og ikke den 
+generelle befolkning, da befolkningen ge nerelt er uvidende om de risici, 
+de har i forhold til oversvømmelse. 
+• Det er undgåede materielle og imma terielle skader, der udgør gevinsten 
+af klimatilpasningstiltag. Det er disse  to elementer, som bidragsmodeller 
+skal baseres på. 
+• Indvendinger mod bidragsmodeller kan bygge på valide argumenter, men 
+bevæggrunden vil som oftest være at udgå at bidrage. Indvendinger imø-
+degås bedst ved, at de, der pålægges at bidrage, har konkret erfaring med 
+oversvømmelser, eller alternativt har indirekte erfaringer med oversvøm-
+melser gennem relaterbare anekdoter, der kan skubbe til folks risikoaver-
+sion. 
+• Når proportionalitet i forhold til fairness tilføjes nytteprincippet, bliver bi-
+dragsberegningerne væsentligt mere komplekse. 
+• Bidragsmodeller bør baseres på årlige løbende bidrag og ikke et engangs-
+beløb. 
+ 
+Det at konstruere en bidragsmodel baseret på et velfærdøkonomisk nytteetisk 
+udgangspunkt for klimatilpasningstiltag behøver ikke at være kompliceret. 
+En bidragsmodel bør baseres på individuel nytteetisk fairness med udgangs-
+punkt i materielle og ikke -materielle tab. Bidragsm odellerne vil kunne kriti-
+seres for alle de usikre antagelser, de  bygger på. Derfor må man anerkende, 
+at der ikke findes en korrekt bidragsmodel, men at der findes mange. 
+
+27 
+Referencer 
+Bekker, H.L., Winterbottom, A.E., Butow, P., Dillard, A.J., Feldman-Stewart, 
+D., Fowler, F.J. & Volk, R.J. (2013). Do personal stories make patient decision 
+aids more effective? A critical review  of theory and evidence. BMC medical 
+informatics and decision making, 13(2), 1-9. 
+Butow, P., Fowler, J. & Ziebland, S. (2005). Section 5: Using Personal Stories. 
+IPDAS International Collaboration Document. Edited by: A. O’Connor, Llew-
+ellyn-Thomas, H. & Stacey, D.  
+Dahlstrom, M.F. (2014). Using narratives and storytelling to communicate sci-
+ence with nonexpert audiences. Proceedings of the National Academy of Sci-
+ences, 111(Supplement 4), 13614-13620. 
+Doll, J. & Ajzen, I. (1992). Accessibility and stability of predictors in the theory 
+of planned behavior. Journal of personality and social psychology, 63(5), 754. 
+Fernandez, A., Black, J., Jones, M., Wilson, L., Salvador-Carulla, L., Astell-
+Burt, T. & Black, D. (2015). Flooding and mental health: a systematic mapping 
+review. PloS one, 10(4), e0119929. 
+Field, B.C. & Field, M.K. (2016). Environmental economics: an introduction, 
+7th. McGraw-Hill Education. 
+Frontuto, V., Dalmazzone, S., Salcuni, F. & Pezzoli, A. (2020). Risk Aversion, 
+Inequality and Economic Evaluation of Flood Damages: A Case Study in Ec-
+uador. Sustainability, 12(23), 10068. 
+Fryd, O., Panduro, T.E., Horn-Petersen, L., Vejre, H., & Anker, H.T. (2021). 
+Hvem skal betale? Bidragsmodeller for klimatilpasning i kystområder og 
+vandoplande. Institut for Geovidenskab og Naturforvaltning, Københavns 
+Universitet. IGN Rapport 
+Gregory, R.S. & Satterfield, T.A. (2002). Beyond perception: The experience of 
+risk and stigma in community contexts. Risk analysis, 22(2), 347-358. 
+IPCC, 2021: Climate Change 2021: The Physical Science Basis. Contribution of 
+Working Group I to the Sixth Assessme nt Report of the Intergovernmental 
+Panel on Climate Change [Masson-Delmo tte, V., P. Zhai, A. Pirani, S.L. Con-
+nors, C. Péan, S. Berger, N. Caud, Y. Chen, L. Goldfarb, M.I. Gomis, M. Huang, 
+K. Leitzell, E. Lonnoy, J.B.R. Matthew s, T.K. Maycock, T. Waterfield, O. 
+Yelekçi, R. Yu, & B. Zhou (eds.)]. Cambridge University Press. In Press. 
+Kahneman, D., Knetsch, J.L. & Thaler, R.H. (1991). Anomalies: The endow-
+ment effect, loss aversion, and status quo bias. Journal of Economic perspec-
+tives, 5(1), 193-206. 
+Kind, J., Wouter Botzen, W.J. & Aerts, J.C. (2017). Accounting for risk aver-
+sion, income distribution and social welfare in cost ‐benefit analysis for flood 
+risk management. Wiley Interdisciplin ary Reviews: Climate Change, 8(2), 
+e446. 
+
+ 
+28 
+Lautrup, M., Matthiesen, L.L., Jacobsen, J.B. & Panduro, T.E. (2021). Tættere 
+på klimatilpasningens samlede effekter. Institut for Fødevare- og Ressource-
+økonomi, Københavns Universitet. IFRO Rapport Nr. 297 
+Lavell, A., Oppenheimer, M., Diop, C., Hess, J., Lempert, R., Li, J. & Weber, E. 
+(2012). Climate change: new dimensions in disaster risk, exposure, vulnera-
+bility, and resilience. In Managing the risks of extreme events and disasters to 
+advance climate change adaptation: Spec ial report of the intergovernmental 
+panel on climate change (pp. 25-64). Cambridge University Press. 
+Mercure, J.F., Sharpe, S., Vinuales, J.E., Ives, M., Grubb, M., Lam, A. & Nijsse, 
+F.J. (2021). Risk-opportunity analysis for transformative policy design and ap-
+praisal. Global Environmental Change, 70, 102359. 
+Moore, A. & Stilgoe, J. (2009). Experts and anecdotes: The role of ‘‘anecdotal 
+evidence’’in public scientific controversies. Science, Te chnology, & Human 
+Values, 34(5), 654-677. 
+Møller, F. & Jensen, D.B. (2004). Ve lfærdsøkonomiske forvridningsomkost-
+ninger ved finansiering af offentlige projekter. Faglig rapport, (496). 
+Panduro, T.E., Nainggolan, D., Taylor, T. & Zandersen, M. (2021). Cost‐effec-
+tiveness of Nature ‐Based Solutions in the Urban Environment. Report pub-
+lished as part of the Regreen project finanzed by European Union Horizon 
+2020. 
+Pratt, J.W. (1978). Risk aversion in the small and in the large. In Uncertainty 
+in economics (pp. 59-79). Academic Press. 
+Reacher, M., McKenzie, K., Lane, C., Nichols, T., Kedge, I., Iversen, A. & Simp-
+son, J. (2004). Health impacts of floodin g in Lewes: a comparison of reported 
+gastrointestinal and other illness and mental health in flooded and non-
+flooded households. 
+Winterbottom, A.E., Bekker, H.L., Conner, M.T. & Mooney, A. (2008). Does 
+narrative information bias individual’s decision making? A systematic re-
+view. Soc Sci Med. 2008, 67 (12): 2079-2088.  
+Wooldridge, J.M. (2015). Introductory econometrics: A modern approach. 
+Cengage learning. 
+Zhou, Q., Panduro, T.E., Thorsen, B.J. & Arnbjerg-Nielsen, K. (2013a). Adap-
+tion to extreme rainfall with open urban drainage system: An integrated hy-
+drological cost-benefit analysis. Environmental management, 51(3), 586-601. 
+Zhou, Q., Panduro, T.E., Thorsen, B.J. & Arnbjerg-Nielsen, K. (2013b). Verifi-
+cation of flood damage modelling using insurance data. Water science and 
+technology, 68(2), 425-432. 
+
+29 
+Bilag 
+I dette afsnit dokumenteres modelestimater af skadesomkostningerne i for-
+bindelse med stormflodsoversvømmelse. Data bygger på forsikringssager be-
+handlet af Stormrådet i forbindelse med stormflodshændelserne fra december 
+2013 til oktober 2017. 
+Der estimeres tre modeller. Den første  model beskriver skadesudbetalingen 
+for alle boligtyper som funktion af en  række relevante forklarende variable. 
+Model to og model tre beskriver henholdsvis skadesudbetalingerne for som-
+merhuse og for parcel & rækkehuse som funktion af en række relevante for-
+klarende variable. 
+Deskriptiv data 
+I tabellen nedenfor, præsenteres deskriptiv data for de variable der indgår i 
+modellerne. 
+Alle Sager 
+Statistik N  Mean St. Dev. Min Pctl(25) Pctl(75) Max 
+Skadesomkostning 1.831  407.968,600 472.989,400 1.250,000 95.220,960 547.860,300 3.862.200,000 
+Bolig størrelse m2 1.831  105,983 60,446 21 62 135 485 
+Bygningsskade (dummy) 1.831  0,977 0,151 0 1 1 1 
+Løsøre (dummy) 1.831  0,571 0,495 0 0 1 1 
+Genhusning (dummy) 1.831  0,144 0,351 0 0 0 1 
+Tidligere udbetaling (dummy) 1.831  0,974 0,158 0 1 1 1 
+Mere end en etage (dummy) 1.831  0,050 0,219 0 0 0 1 
+Carport (dummy) 1.831  0,037 0,189 0 0 0 1 
+Sommerhus (dummy) 1.831  0,560 0,497 0 0 1 1 
+Træhus (dummy) 1.831  0,549 0,498 0 0 1 1 
+Varmepumpe (dummy) 1.831  0,150 0,357 0 0 0 1 
+Brændeovn (dummy) 1.831  0,365 0,482 0 0 1 1 
+Boligpris/1000 kr. 1.831  1.798,074 1.881,283 100,000 810,000 2.159,375 14.975,000 
+ Højde over havet < 1m 1.831  0,080 0,271 0 0 0 1 
+Højde over havet >=1m & < 1.5m 1.831  0,767 0,423 0 1 1 1 
+Højde over havet >=1.5m & < 2m 1.831  0,386 0,487 0 0 1 1 
+Afstand til kyst < 35 m 1.831  0,103 0,304 0 0 0 1 
+Afstand til kyst >=35m & < 70m  1.831  0,143 0,350 0 0 0 1 
+Afstand til kyst >=70m & < 140m 1.831  0,256 0,437 0 0 1 1 
+Afstand til vandløb < 50 m 1.831  0,089 0,285 0 0 0 1 
+Afstand til vandløb >=50m & < 150m 1.831  0,176 0,381 0 0 0 1 
+Afstand til vandløb >=150m & < 500m 1.831  0,216 0,411 0 0 0 1 
+Oversvømmelse hændelse 05-01-2017 1.831 0,081 0,273 0 0 0 1 
+Oversvømmelse hændelse 06-12-2013 1.831 0,872 0,335 0 1 1 1 
+Oversvømmelse hændelse 10-01-2015 1.831 0,021 0,144 0 0 0 1 
+Oversvømmelse hændelse 27-12-2016 1.831 0,016 0,127 0 0 0 1 
+Oversvømmelse hændelse 29-10-2017 1.831 0,008 0,087 0 0 0 1 
+Oversvømmelse hændelse 29-11-2015 1.831 0,002 0,040 0 0 0 1 
+
+ 
+30 
+ 
+Sommerhussager  
+Statistik N Mean St. Dev. Min  Pctl(25) Pctl(75) Max  
+Skadesomkostning 1.025 372.708,100 341.382,200 1.600,000 134.730,000 512.500,600 2.401.355,000 
+Bolig størrelse m2 1.025 71,298 28,437 21  52 84 308  
+Bygningsskade (dummy) 1.025 0,990 0,098 0  11 1  
+Løsøre (dummy) 1.025 0,650 0,477 0  01 1  
+Genhusning (dummy) 1.025 0,069 0,254 0  00 1  
+Tidligere udbetaling (dummy) 1.025 0,982 0,131 0  11 1  
+Mere end en etage (dummy) 1.025 0,011 0,103 0  00 1  
+Carport (dummy) 1.025 0,011 0,103 0  00 1  
+Sommerhus (dummy) 1.025 1,000 0,000 1  11 1  
+Træhus (dummy) 1.025 0,836 0,370 0  11 1  
+Varmepumpe (dummy) 1.025 0,144 0,352 0  00 1  
+Brændeovn (dummy) 1.025 0,401 0,490 0  01 1  
+Boligpris/1000 kr 1.025 975,479 457,013 100,000  697,500 1.125,000 5.800,000  
+ Højde over havet < 1m 1.025 0,083 0,276 0  00 1  
+Højde over havet >=1m & < 1.5m 1.025 0,840 0,367 0  11 1  
+Højde over havet >=1.5m & < 2m 1.025 0,344 0,475 0  01 1  
+Afstand til kyst < 35 m 1.025 0,066 0,249 0  00 1  
+Afstand til kyst >=35m & < 70m  1.025 0,072 0,259 0  00 1  
+Afstand til kyst >=70m & < 140m 1.025 0,294 0,456 0  01 1  
+Afstand til vandløb < 50 m 1.025 0,074 0,262 0  00 1  
+Afstand til vandløb >=50m & < 150m 1.025 0,140 0,347 0  00 1  
+Afstand til vandløb >=150m & < 500m 1.025 0,194 0,396 0  00 1  
+Oversvømmelse hændelse 05-01-2017 1.025 0,065 0,247 0  00 1  
+Oversvømmelse hændelse 06-12-2013 1.025 0,879 0,326 0  11 1  
+Oversvømmelse hændelse 10-01-2015 1.025 0,023 0,151 0  00 1  
+Oversvømmelse hændelse 27-12-2016 1.025 0,020 0,142 0  00 1  
+Oversvømmelse hændelse 29-10-2017 1.025 0,011 0,103 0  00 1  
+Oversvømmelse hændelse 29-11-2015 1.025 0,001 0,031 0  00 1  
+  
+
+31 
+Parcel- & Rækkehuse 
+Statistik N Mean St. Dev. Min Pctl(25) Pctl(75) Max  
+Skadesomkostning 731 480.044,900 612.051,900 1.455,000 69.611,090 675.045,800 3.862.200,000 
+Bolig størrelse m2 731 153,748 59,685 49 117 176 485  
+Bygningsskade (dummy) 731 0,975 0,155 0 1 11  
+Løsøre (dummy) 731 0,490 0,500 0 0 11  
+Genhusning (dummy) 731 0,250 0,434 0 0 0,5 1  
+Tidligere udbetaling (dummy) 731 0,973 0,163 0 1 11  
+Mere end en etage (dummy) 731 0,090 0,287 0 0 01  
+Carport (dummy) 731 0,077 0,266 0 0 01  
+Sommerhus (dummy) 731 0,000 0,000 0 0 00  
+Træhus (dummy) 731 0,202 0,402 0 0 01  
+Varmepumpe (dummy) 731 0,172 0,378 0 0 01  
+Brændeovn (dummy) 731 0,341 0,474 0 0 11  
+Boligpris/1000 kr 731 2.929,920 2.479,541 500 1.667,8 2.955 14.975  
+ Højde over havet < 1m 731 0,073 0,259 0 0 01  
+Højde over havet >=1m & < 1.5m 731 0,692 0,462 0 0 11  
+Højde over havet >=1.5m & < 2m 731 0,447 0,498 0 0 11  
+Afstand til kyst < 35 m 731 0,148 0,355 0 0 01  
+Afstand til kyst >=35m & < 70m  731 0,230 0,421 0 0 01  
+Afstand til kyst >=70m & < 140m 731 0,208 0,406 0 0 01  
+Afstand til vandløb < 50 m 731 0,114 0,317 0 0 01  
+Afstand til vandløb >=50m & < 150m 731 0,233 0,423 0 0 01  
+Afstand til vandløb >=150m & < 500m 731 0,252 0,434 0 0 11  
+Oversvømmelse hændelse 05-01-2017 731 0,103 0,304 0 0 01  
+Oversvømmelse hændelse 06-12-2013 731 0,866 0,341 0 1 11  
+Oversvømmelse hændelse 10-01-2015 731 0,015 0,122 0 0 01  
+Oversvømmelse hændelse 27-12-2016 731 0,012 0,110 0 0 01  
+Oversvømmelse hændelse 29-10-2017 731 0,004 0,064 0 0 01  
+ 
+Modelestimation 
+Nedenfor præsenteres en skadesomkostningsmodel, der beskriver skadesom-
+kostningerne for oversvømmede sommerhuse og parcel- & rækkehuse. Ska-
+desomkostninger er defineret af stormf lodsrådet og reflekterer den udbeta-
+ling den enkelte oversvømmede husstand har modtaget som forsikringsud-
+betaling fra stormflodsrådet. Modellen er estimeriet som en simpel lineær re-
+lation mellem skadesomkostningen og de forklarende variable. Modellerne er 
+estimeret med ”ordinary least square estimator” med en gaussian fordelings-
+antagelse. Forskellige funktionsformer,  estimatorer og fordelingsantagelser 
+var afprøvet. Disse variationer over beskrivelsen af skadesomkostninger viste 
+grundlæggende samme relationer som modelestimatorerne nedenfor. På den 
+baggrund, er der her valgt at præsente re den mest simple, men også den let-
+test forståelige. 
+Bemærk at modellerne er estimeret uden konstant. På den måde er model-
+lerne tvunget gennem nul – antagelsen he r er at der ikke er en gennemsnits-
+oversvømmelse. Konsekvens er at R
+2 ikke kan fortolkes på helt samme måde 
+
+ 
+32 
+som man vil gøre med en konstant i regressionen. Alle estimaterne præsente-
+res med robuste standardafvigelser. 
+Skadesomkostningsmodel 
+ Afhængig variabel: Skadesomkostning 
+ Alle sager Sommerhuse Parcel- & Rækkehuse 
+Bolig størrelse m2 1.134,020 *** 3.150,547*** 608,733** 
+ (215,394) (482,456)  (300,677) 
+Bygningsskade (dummy) 404.407,800 *** 313.576,800*** 436.676,200*** 
+ (36.709,120) (50.450,460)  (72.519,660) 
+Løsøre (dummy) 232.001,900 *** 171.492,900*** 284.654,100*** 
+ (17.801,290) (20.534,880)  (35.258,110) 
+Genhusning (dummy) 380.010,100 *** 200.664,300*** 423.863,000*** 
+ (37.022,650) (41.452,000)  (57.036,260) 
+Tidligere udbetaling (dummy) 103.719,200 *** 36.347,700 122.871,500*** 
+ (39.051,240) (64.457,700)  (45.359,200) 
+Mere end en etage (dummy) -110.445,700 ** 64.788,260 -169.977,000*** 
+ (46.331,150) (125.931,100)  (64.000,230) 
+Carport (dummy) 183.549,600 ** 126.892,800 145.476,100 
+ (83.013,870) (126.288,100)  (95.377,130) 
+Sommerhus (dummy) -129.096,800 ***   
+ (29.037,010)   
+Træhus (dummy) 110.236,100 *** 77.503,930*** 121.116,000** 
+ (26.807,330) (22.095,750)  (60.906,690) 
+Varmepumpe (dummy) 154.585,800 *** 64.843,850* 254.567,000*** 
+ (35.629,170) (33.254,930)  (66.552,600) 
+Brændeovn (dummy) -49.033,430 *** -22.623,090 -85.832,600** 
+ (18.139,650) (19.125,900)  (33.776,590) 
+Boligpris/1000 kr. -1,013 -11,182  15,947** 
+ (5,856) (23,856)  (7,348) 
+Højde over havet < 1m 252.004,200 *** 306.290,100*** 300.820,100*** 
+ (37.840,590) (44.518,920)  (83.324,470) 
+Højde over havet >=1m & < 1.5m 221.003,900 *** 271.819,300*** 227.657,400*** 
+ (25.268,610) (33.270,390)  (47.002,100) 
+Højde over havet >=1.5m & < 2m -128.976,800 *** -94.774,710*** -203.906,200*** 
+ (22.532,080) (21.761,250)  (49.956,530) 
+Afstand til kyst < 35 m -71.586,660 *** -52.401,460 -80.234,390* 
+ (24.613,800) (36.378,620)  (42.376,640) 
+Afstand til kyst >=35m & < 70m -109.183,200 *** -82.507,470*** -115.485,900*** 
+ (24.502,700) (30.886,230)  (41.355,280) 
+Afstand til kyst >=70m & < 140m -9.024,014 -25.366,970  -27.148,080 
+ (22.705,280) (23.580,390)  (54.025,350) 
+Afstand til vandløb < 50 m 27.312,390 -70.264,820 ** 95.991,090 
+ (40.536,930) (34.705,770)  (73.301,430) 
+Afstand til vandløb >=50m & < 150m -30.130,730 -71.108,780 *** -24.631,890 
+ (24.609,610) (26.379,610)  (42.710,470) 
+   
+
+33 
+Skadesomkostningsmodel 
+ Afhængig variabel: Skadesomkostning 
+ Alle sager Sommerhuse Parcel- & Rækkehuse 
+Fortsat…   
+Afstand til vandløb >=150m & < 500m -18.569,260 -60.763,320 *** 9.223,732 
+ (21.759,630) (21.991,530)  (41.070,020) 
+Oversvømmelse hændelse 05-01-2017 -622.600,200 *** -649.388,400*** -653.907,800*** 
+ (60.794,590) (92.039,800)  (103.298,600) 
+Oversvømmelse hændelse 06-12-2013 -482.682,200 *** -551.394,600*** -520.351,800*** 
+ (57.003,160) (85.301,600)  (96.514,300) 
+Oversvømmelse hændelse 10-01-2015 -590.900,600 *** -696.220,700*** -584.065,700*** 
+ (65.598,430) (91.981,130)  (111.531,900) 
+Oversvømmelse hændelse 27-12-2016 -396.108,900 *** -296.117,100** -664.982,600*** 
+ (93.008,990) (116.642,200)  (146.998,400) 
+Oversvømmelse hændelse 29-10-2017 -620.882,200 *** -637.836,300*** -769.221,500*** 
+ (73.919,430) (100.408,400)  (128.543,500) 
+Oversvømmelse hændelse 29-11-2015 -570.297,600 *** -658.895,700***  
+ (110.668,400) (101.160,000)   
+Observations 1.831 1.025  731 
+R2 0,655 0,691  0,673 
+Adjusted R2 0,650 0,683  0,662 
+Residual Std. Error 369.719,300 (df = 1804) 284.725,300 (df = 999)  452.277,000 (df = 706) 
+F Statistic 126,687 *** (df = 27; 1804) 85,747 *** (df = 26; 999) 58,176*** (df = 25; 706) 
+Noter: ***Signifikant på 1 procent niveau. 
+ **Signifikant på 5 procent niveau. 
+ *Signifikant på 10 procent niveau. 
+ 
+
+HVORDAN SKAL  EN BIDRAGSMODEL FOR
+KLIMATILPASNING SE UD?
+I denne rapport opstilles en teoretisk ramme for bidrags -
+modeller og dernæst afprøves forskellige bidragscases. 
+Rapporten giver en række anbefalinger på, hvorledes 
+bidragsmodeller kan konstrueres bl.a. på baggrund af 
+materiel skadesmodeller 
+ISBN: 978-87-7156-660-4
+ISSN: 2244-999X

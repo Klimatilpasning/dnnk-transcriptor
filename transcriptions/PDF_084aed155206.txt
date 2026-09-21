@@ -1,0 +1,473 @@
+=== DNNK PDF Dokument ===
+Titel: her >
+Kategori: Rapporter_s5
+Kilde: https://usercontent.one/wp/www.dnnk.dk/wp-content/uploads/2020/07/metoder-til-udvaskning-af-uoenskede-stoffer.pdf
+Indekseret: 2026-09-21T18:37:08.749873
+
+==================================================
+
+ERHVERVSAKADEMI AARHUS 
+Metoder til udvaskning af miljøfremmende stoffer 
+SPROGPOLITIK 
+Side 0 af 7 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+      
+Resumé: Pilottest af metoder til undersøgelse af 
+udvaskning af miljøfremmede stoffer fra 
+kunstgræsbaner i en kombineret laboratorie- og 
+feltundersøgelse 
+ 
+ 
+Bente Møller Marcussen, lektor 
+Afdelingen for laboratorie-, miljø-, fødevare- og procesteknologi 
+Erhvervsakademi Aarhus 
+ 
+
+
+ 
+ 
+ERHVERVSAKADEMI AARHUS 
+Metoder til udvaskning af miljøfremmende stoffer 
+SPROGPOLITIK 
+Side 1 af 7 
+ 
+ 
+Resumé: Pilottest af metoder til undersøgelse af 
+udvaskning af miljøfremmede stoffer fra kunstgræsbaner 
+i en kombineret laboratorie- og feltundersøgelse 
+ 
+Baggrund 
+Det er i de senere år blevet populært for idrætsforeninger at etablere kunstgræsbaner 
+til boldspil. Afløb fra banerne sker typisk via opsamling og lokal udledning til 
+vandløb/bassin eller rensningsanlæg, eller eventuelt nedsivning. De kunstgræsbaner, 
+der etableres i dag, er typisk 3. generations baner med græsfibre fæstnet til en måtte 
+perforeret med drænhuller (DHI , 2013). Som infill anvendes ofte granuleret materiale 
+fra brugte bildæk, som betegnes sort SBR (Styren-Butadien-Rubber). Med grundlag i 
+rapporten fra DHI 2013 ”Miljø- og sundhedsskadelige stoffer i drænvand fra 
+kunstbaner” er der en forventning om, at udvaskning af miljøfarlige stoffer fra 
+kunstgræsbaner er stærkt varierende. Rapporten foreslår bl.a., at der udvikles 
+standardmetoder til test af udvaskning fra materialer fra kunstgræsbaner, således at 
+der kan foreligge et sammenligningsgrundlag for de anvendte materialer 
+Formålet med dette projekt var at teste, om der kan tages repræsentative prøver af 
+drænvand fra to kunstgræsbaner samt at udvikle og teste udvaskningsmetoder af 
+banematerialer i laboratoriet.  
+ 
+Metoder 
+To kunstgræsbaner i Aarhus blev undersøgt, begge etableret i efteråret 2015. Banerne 
+havde begge kunstgræstæppe med infill af ovntørret kvartssand og sort SBR. Den ene 
+bane var etableret med membran under kunstgræstæppet til opsamling og afledning af 
+drænvand til rensningsanlæg (Gellerup). Den anden bane var etableret med 37 cm 
+drænlag under kunstgræstæppet og afledte drænvand til vandløb via regnvandsbassin 
+(BMI).  
+
+ 
+ 
+ERHVERVSAKADEMI AARHUS 
+Metoder til udvaskning af miljøfremmende stoffer 
+SPROGPOLITIK 
+Side 2 af 7 
+ 
+Der blev planlagt 3 gange tidsproportional prøvetagning for at få repræsentative 
+prøver af drænvandet fra banerne. I Byer i Vandbalances notat 5 (Bergen, et al., 2015) 
+kan ses eksempel på et mere omfattende prøvetagningsprogram, der dog lå udenfor 
+dette projekts ressourcer. 
+I laboratoriet blev der foretaget modificerede kolonnetests til undersøgelse af 
+udvaskning af miljøfremmede stoffer fra materialer. Materialet i kolonnerne blev 
+sammensat, så de relative størrelsesforhold mellem materialer svarede til forholdene 
+på banerne. Der blev således opsat 3 kolonner med membran under kunstgræs med 
+infill af kvartssand og sort SBR og 3 kolonner med kunstgræs med infill af kvartssa nd 
+og sort SBR, og herunder 37 cm drænlag. Sort SBR blev indsamlet på 
+opbevaringspladser ved to baner. Det var således ubrugt, men havde været udsat for 
+opbevaring og eventuel forvitring fra vind og vejr. Højden af kolonnerne var 1:1 i 
+forhold til profilen på banerne. Der blev desuden opsat 3 blinde kolonner uden 
+materiale, men med eluent.  
+Kolonnetesten var modificeret i forhold til standarder og tidligere forsøg med 
+udvaskningstest af kunstgræsmaterialer (Kalbe, et al., 2013); (Krüger, 2012) og 
+udvaskningstest fra uorganiske, granulære materialer (Nordtest, 1995). I kolonner med 
+banemateriale og drænlag af sand og grus er der tale om en kombination af organiske 
+og uorganiske materialer. De væsentligste ændringer var større kolonner (10 cm i 
+diameter). Desuden blev kolonnerne bygget retvendt med græslaget øverst, så 
+eluenten blev tilsat fra toppen af kolonnen. Dette var for at efterligne nedbør, hvilket 
+betyder, at materialet ikke blev mættet som ved flow nedefra og op. Når eluenten 
+tilledes fra toppen kan det lede til kanaldannelse i søjlerne med drænlag, men dette 
+forventes ikke ved lavt flow (0,8 ml/min). Som test for kanaldannelse blev der opstillet 
+en kolonne med drænlag, som blev elueret med farvestoffet brilliant blue. Eluenten, 
+der blev brugt i testkolonner og blindkolonner, var kunstigt fremstillet regnvand med 
+samme ionstyrke som regnvand, lav bufferkoncentration og pH blev indstillet til 6,5 
+ved fremstilling. 
+Der blev desuden udført batchtest, hvor banematerialerne (kunstgræs, SBR og 
+membran) samlet blev rystet i kolber i 24 timer ved 21 °C med kunstigt regnvand. På 
+grund af ustabilitet i rysteinkubatorens termostat, lykkedes det ikke at gennemføre 
+batchtest i triplikat, og kun enkelte kolber blev inkuberet efter planlagte metode. 
+  
+
+ 
+ 
+ERHVERVSAKADEMI AARHUS 
+Metoder til udvaskning af miljøfremmende stoffer 
+SPROGPOLITIK 
+Side 3 af 7 
+ 
+Med baggrund i DHIs rapport og tilgængeligt analyseudstyr blev der udvalgt følgende 
+stoffer til analyse: opløst metal: Zn og Cu ved brug af ICP-OES (Inductively Coupled 
+Plasma Optical Emission Spectrometry). Det lykkedes ikke at analysere bly. Der blev 
+målt pH og ledningsevne. Prøver taget af drænvand fra banerne blev desuden 
+analyseret for octylphenol, nonylphenoler og PAH (16), på GC-MS på eksternt 
+laboratorie, mens der blev taget stikprøver ud fra kolonneforsøg til analyse for ftalater 
+(plastblødgørere).  
+Vi ville gerne have testet, hvilken effekt de saltningsprodukter, der bliver brugt på 
+banerne, har på udvaskning af miljøfremmede stoffer. Derfor blev der udført batchtest 
+og kolonnetest med tilsat vejsalt til eluenten svarende til ”worst case” (DHI , 2013). Her 
+med et beregnet kloridindhold på 19,6 g/L.  Det viste sig dog, at vi ikke kunne 
+analysere prøver med så høj saltkoncentration på ICP-OES. 
+ 
+Resultater 
+Ved egne analyser var vi generelt udfordrede af at analysere i et lavt 
+koncentrationsområde. Opløst Cu  og ftalatanalyser have generelt 
+kvantifikationsgrænser (LOQ) over miljøkvalitetskravene (MKK) for indlandsvand (Miljø- 
+og fødevareministeriet, 2016), hvilket betyder, at lave koncentrationer over MKK, ikke 
+ville blive fundet.  
+Der var ikke mulighed for at udtage tidsproportionale prøver på banerne på grund af 
+udformning af prøvetagningsbrønd og lavt flow i brøndene på 
+prøvetagningstidspunktet. I stedet blev der taget stikprøver fra løbende stråle ud til 
+blandingsprøver én gang på hver bane. Stikprøver er udtryk for en øjeblikssituation, og 
+derfor ikke repræsentative, da parametre som nedbørshistorik, banens alder, forvitr ing 
+af materialer, genopfyldning med infill m.m.  formodentlig har indflydelse på 
+koncentrationerne af stoffer i drænvandet over tid.  
+Analyser af Cu og Zn i prøver fra banerne gav usikre resultater. 
+Stikprøver taget i forbindelse med projektet er ikke taget af akkrediteret personale og 
+kan derfor ikke anvendes administrativt.  
+  
+
+ 
+ 
+ERHVERVSAKADEMI AARHUS 
+Metoder til udvaskning af miljøfremmende stoffer 
+SPROGPOLITIK 
+Side 4 af 7 
+ 
+I stikprøve fra oktober 2016 taget af drænvand fra BMI banen (bilag 1) påvises ikke 
+PAH (16), mens der i en prøve taget i anden forbindelse i januar 2016 findes PAH 
+sum(16). Da der er tale om stikprøver vides ikke, om det skyldes den variation der 
+forventes at være forbundet med stikprøvetagning, eller om der er tale om en 
+tidsmæssig udvikling. Der påvises ikke octylphenol men der påvises nonylphenoler 
+(bilag1) 
+I en stikprøve fra Gellerupbanen taget november 2016 (bilag 2 side 2) påvises hverken 
+PAH(16) eller octylphenol, mens der påvises nonylphenoler. (Bemærk at bilag 2 side 1 
+er analyse af blindprøve af milliqvand). 
+I kolonnetest blev der ikke iagttaget kanaldannelse med farvetest  ved det anvendte 
+flow, men på grund af dele af materialets grovkornede karakter (stabilgrus) var der 
+luftlommer i dele af kolonnen.  
+Det viste sig, at der var en betragtelig forurening af prøverne udtaget fra kolonnerne, 
+idet der i de blinde kolonner (kolonner uden materialer med henstand af kunstigt 
+regnvand i 2*48 timer) blev målt højere koncentrationer af Zn og detekteret Cu i 
+forhold til prøvekolonner med baneprofiler. I den ene blindkolonne blev der desuden 
+detekteret ftalater. Det er derfor ikke muligt i dette projekt at dokumentere  
+udvaskning fra de udførte kolonneforsøg. 
+pH målt i kunstigt regnvand efter henstand var 7,4, hvilket tyder på at det ikke 
+lykkedes at fastholde pH på 6,5 i det kunstigt fremstillede regnvand. I både blindsøjler 
+og søjler med materialer steg pH op til 8,4 og 8,3 hhv. efter eluering. 
+I batchtest med samlet udvaskning fra græs, SBR og membran, er der kun resultater fra 
+enkelte rystekolber. Disse indikerede, som tidligere undersøgelser (Krüger, 2012), 
+betydeligt højere koncentrationer af Zn end i kolonnetests. Der blev desuden fundet Cu 
+i enkelte rystekolber. Da SBR var indsamlet fra udendørs opbevaring, er der tale om 
+ikke repræsentative prøver, da opbevaring og forvitring kan have indflydelse på 
+udvaskningen. 
+ 
+  
+
+ 
+ 
+ERHVERVSAKADEMI AARHUS 
+Metoder til udvaskning af miljøfremmende stoffer 
+SPROGPOLITIK 
+Side 5 af 7 
+ 
+Konklusioner og anbefalinger 
+Ved prøvetagning af drænvand fra kunstgræsbaner lykkedes det kun at tage 
+stikprøver. Disse vil kun give et øjebliksbillede af udvaskningen fra banen. Det 
+forventes at koncentrationen af udvaskede stoffer vil variere over tid i forhold til 
+banens alder og nedbørshistorik – er der tale om ”first flush” (nedbør efter længere tids 
+tørvejr) forventes højere koncentrationer end ved prøver taget efter længere 
+regnperioder. Desuden bør der tages højde for, at der genopfyldes SBR i løbet af 
+banens levetid. Derfor ville det være interessant hvis repræsentativ prøvetagning af 
+drænvand fra baner kunne gennemføres gennem hele deres levetid på ca. 10 år.  
+Da indledende undersøgelser tyder på, at det kun er en mindre andel af den nedbør , 
+der rammer banen, der opsamles i drænene (Fleming, et al., 2016) (Magnusson, 2017), 
+vil det være fornuftigt at kigge på andre muligheder for indsamling af drænvand f.eks. 
+FloPod (Fleming, et al., 2016).  
+En simplere løsning ville være at lave separat dræning på en repræsentativ del af banen 
+og indsamle hele prøvemængden fra delområdet. (Magnusson, 2017). Dette er 
+sammenligneligt med klassiske lysimetertests, men med den forskel, at der er naturligt 
+slid på materialerne fra fodboldspillerne. Prøvetagningen i Luleå er foregået o ver et år, 
+og fortsætter endnu et år. Hvis test af drænvand fra baner, skal repræsentere hele 
+banens levetid, ville det dog være nødvendigt at tage prøver over 10-12 år for at kunne 
+vurdere, om forceret udvaskning i kolonner kan efterligne udvaskningen direkte fra 
+banerne. 
+De afprøvede kolonnetest kunne ikke dokumenteres på grund af forurening af 
+blindprøver. Kolonnetest har tidligere vist reproducerbare resultater og mulighed for at 
+følge udvaskning over tid (Kalbe, et al., 2013). Det foreslås, at kolonner aflukkes i 
+toppen, så der ikke kan ske kontaminering fra omgivelserne. Det kan overvejes at 
+væde SBR med eluent (og opsamle og bruge dette i kolonnen) for at mindske 
+støvafgivelsen i forbindelse med pakning af søjler. 
+Det er muligt at eluere væske gennem kolonner i mængder der svarer til flere års 
+nedbør, men effekten af forvitring med UV, ozon, skiftende temperatur og fugtighed 
+og slid ved brug ikke medtaget. Laboratorietest (Kalbe, et al., 2013) har vist, at 
+forvitring af SBR af sol, vind, temperaturændringer kan have indflydelse frigivelse af 
+stoffer over tid. 
+  
+
+ 
+ 
+ERHVERVSAKADEMI AARHUS 
+Metoder til udvaskning af miljøfremmende stoffer 
+SPROGPOLITIK 
+Side 6 af 7 
+ 
+Valg af eluent til udvaskningstest har indflydelse på ionstyrke og pH værdi. Det skal 
+afvejes om man ønsker at fastholde pH ved at tilsætte buffer, og dermed ikke få 
+indblik i materialets eventuelle påvirkning af pH, eller om man vil lade materialet 
+påvirke pH værdien. I dette projekt blev der tilsat lav koncentration af buffer, og det 
+lykkedes dermed ikke at stabilisere pH i brugsopløsningen.  
+Ved test af materialer, er det vigtigt at tage stilling til, om der skal testes nye 
+materialer, der ikke har været udsat for forvitring. Opsamling fra baner, eller ved 
+udendørs oplagspladser ved baner som i dette projekt gør, at forvitring og opbevaring 
+af materialet kan gøre det vanskeligt at sammenligne i udvaskningstests.  
+Ved test af saltnings indflydelse på udvaskning, er det vigtigt at være opmærksom på 
+saltkoncentration i forhold til analysemetode.  
+  
+
+ 
+ 
+ERHVERVSAKADEMI AARHUS 
+Metoder til udvaskning af miljøfremmende stoffer 
+SPROGPOLITIK 
+Side 7 af 7 
+ 
+Referencer 
+Bergen, M. et al., 2015. Vurdering af regnafstrømningens kvalitet før og efter 
+rensning, s.l.: Byer i Vandbalance. 
+DHI , 2013. Miljø- og sundhedsskadelige stoffer i drænvand fra kunstgræsbaner, 
+Hørsholm: DHI. 
+Fleming, P. R., Frost, M. W. & Simpson, M. R., 2016. Drainage behaviour og sport 
+pitches - findings from a research study, Loughborough: Loughborough University. 
+Kalbe, U. et al., 2013. Development of leaching procedures for synthetic turf systems 
+containing scrap tyre granules. Waste biomass valor , 25. 5., pp. 4: 745-757. 
+Krüger, O., 2012. Comparison of batch and column tests for the elution of artificial turf 
+system components. Environmental science and technology, 14 november, pp. 13085-
+13092. 
+Magnusson, S., 2017. Bedömning av omgivningspåverkan från olika fyllmaterial i 
+konstgräsplaner. Fallstudie av dräneringsvatten, Luleå: Luleå tekniska universitet. 
+Miljø- og fødevareministeriet, 2016. Bekendtgørelse nr. 429 for fastlæggelse af 
+miljømål for vandløb, søer, overgangsvande,kystvande og grundvand. s.l.:s.n. 
+Nordtest, 1995. Solid waste, granular, inorganic material: Cloumn test (NT ENVIR 
+002), s.l.: Nordtest. 
+Nordtest, 1998. Solid waste, granular inorganic material: Compliance batch leaching 
+test (NT ENVIR 005), s.l.: Nordtest. 
+ 
+ 
+ 
+Aarhus, 14. august 2017 
+ 
+ 
+º Vedlagt bilag 1-2: analyserapporter  
+
+Eurofins Miljø A/S
+Ladelundvej 85
+6600 Vejen
+Danmark
+Telefon: 7022 4266
+CVR/VAT: DK-2884 8196
+AR-16-CA-00476201-01
+EUDKVE-00476201
+CA0013214
+Rapportnr.:
+Batchnr.:
+Kundenr.:
+Modt. dato:
+Erhvervsakademi Århus 
+Sønderhøj 30
+8260 Viby J
+Att.: Bente Møller Marcussen 11.10.2016
+Analyserapport
+Prøvetype: Andet urent vand
+Prøvetager: Rekvirenten
+Prøveudtagning: kl. 11.10.2016 kl.11.10.2016 til12:00 13:26
+Analyseperiode: 11.10.2016 - 01.11.2016
+BMI blandingsprøve
+11-10-16
+Prøvemærke:
+80393666Lab prøvenr: Um 
+(%)
+Enhed DL. Metode
+PAH-forbindelser
+Naphthalen < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Acenaphthylen < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Acenaphthen < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Fluoren < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Phenanthren < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Anthracen < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Fluoranthen < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Pyren < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Benzo(a)anthracen < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Chrysen/ Triphenylen < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Benzo(b+j+k)fluoranthen < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Benzo(a)pyren < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Indeno(1,2,3-cd)pyren < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Dibenzo(a,h)anthracen < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Benzo(g,h,i)perylen < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Sum PAH (16 EPA) # µg/l 0.01 M 0250 GC-MS 24
+Alkylphenoler og -ethoxylater
+Octylphenol < 0.1 µg/l 0.1 * M 0250 GC-MS 30
+Nonylphenoler 0.11 µg/l 0.05 M 0250 GC-MS 30
+Sara Skovsende Mørk
+Kundecenter
+Tlf:
+01.11.2016
+70224231
+G10@eurofins.dk Kunderådgiver
+Tegnforklaring:
+*): Ikke omfattet af akkrediteringen<: mindre end 
+DL.:
+i.p.:
+Detektionsgrænse
+ikke påvist>: større end 
+Um (%): Den ekspanderede måleusikkerhed Um er lig 2 x RSD%, se i øvrigt www.eurofins.dk, søgeord: Måleusikkerhed.
+Prøvningsresultaterne gælder udelukkende for de(n) undersøgte prøve(r).
+i.m.: ikke målelig
+Rapporten må ikke gengives, undtagen i sin helhed, uden prøvningslaboratoriets skriftlige godkendelse.
+#: ingen parametre er påvist
+11Side af
+
+Eurofins Miljø A/S
+Ladelundvej 85
+6600 Vejen
+Danmark
+Telefon: 7022 4266
+CVR/VAT: DK-2884 8196
+AR-16-CA-00486048-01
+EUDKVE-00486048
+CA0013214
+Rapportnr.:
+Batchnr.:
+Kundenr.:
+Modt. dato:
+Erhvervsakademi Århus 
+Sønderhøj 30
+8260 Viby J
+Att.: Bente Møller Marcussen 09.11.2016
+Analyserapport
+Prøvetype: Andet urent vand
+Prøvetager: BMMARekvirenten
+Prøveudtagning: kl. 08.11.2016 kl.08.11.2016 til13:45 15:23
+Analyseperiode: 09.11.2016 - 22.11.2016
+Miliq Gel blindPrøvemærke:
+48604801Lab prøvenr: Um 
+(%)
+Enhed DL. Metode
+PAH-forbindelser
+Naphthalen < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Acenaphthylen < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Acenaphthen < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Fluoren < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Phenanthren < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Anthracen < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Fluoranthen < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Pyren < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Benzo(a)anthracen < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Chrysen/ Triphenylen < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Benzo(b+j+k)fluoranthen < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Benzo(a)pyren < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Indeno(1,2,3-cd)pyren < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Dibenzo(a,h)anthracen < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Benzo(g,h,i)perylen < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Sum PAH (16 EPA) # µg/l 0.01 M 0250 GC-MS 24
+Alkylphenoler og -ethoxylater
+Octylphenol < 0.1 µg/l 0.1 * M 0250 GC-MS 30
+Nonylphenoler < 0.05 µg/l 0.05 M 0250 GC-MS 30
+Tegnforklaring:
+*): Ikke omfattet af akkrediteringen<: mindre end 
+DL.:
+i.p.:
+Detektionsgrænse
+ikke påvist>: større end 
+Um (%): Den ekspanderede måleusikkerhed Um er lig 2 x RSD%, se i øvrigt www.eurofins.dk, søgeord: Måleusikkerhed.
+Prøvningsresultaterne gælder udelukkende for de(n) undersøgte prøve(r).
+i.m.: ikke målelig
+Rapporten må ikke gengives, undtagen i sin helhed, uden prøvningslaboratoriets skriftlige godkendelse.
+#: ingen parametre er påvist
+21Side af
+
+Eurofins Miljø A/S
+Ladelundvej 85
+6600 Vejen
+Danmark
+Telefon: 7022 4266
+CVR/VAT: DK-2884 8196
+AR-16-CA-00486048-01
+EUDKVE-00486048
+CA0013214
+Rapportnr.:
+Batchnr.:
+Kundenr.:
+Modt. dato:
+Erhvervsakademi Århus 
+Sønderhøj 30
+8260 Viby J
+Att.: Bente Møller Marcussen 09.11.2016
+Analyserapport
+Prøvetype: Andet urent vand
+Prøvetager: BMMARekvirenten
+Prøveudtagning: kl. 08.11.2016 kl.08.11.2016 til13:45 15:23
+Analyseperiode: 09.11.2016 - 22.11.2016
+Gel 8/11 blandPrøvemærke:
+48604802Lab prøvenr: Um 
+(%)
+Enhed DL. Metode
+PAH-forbindelser
+Naphthalen < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Acenaphthylen < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Acenaphthen < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Fluoren < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Phenanthren < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Anthracen < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Fluoranthen < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Pyren < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Benzo(a)anthracen < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Chrysen/ Triphenylen < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Benzo(b+j+k)fluoranthen < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Benzo(a)pyren < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Indeno(1,2,3-cd)pyren < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Dibenzo(a,h)anthracen < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Benzo(g,h,i)perylen < 0.01 µg/l 0.01 M 0250 GC-MS 24
+Sum PAH (16 EPA) # µg/l 0.01 M 0250 GC-MS 24
+Alkylphenoler og -ethoxylater
+Octylphenol < 0.1 µg/l 0.1 * M 0250 GC-MS 30
+Nonylphenoler 0.26 µg/l 0.05 M 0250 GC-MS 30
+Sara Skovsende Mørk
+Kundecenter
+Tlf:
+22.11.2016
+70224231
+G10@eurofins.dk Kunderådgiver
+Tegnforklaring:
+*): Ikke omfattet af akkrediteringen<: mindre end 
+DL.:
+i.p.:
+Detektionsgrænse
+ikke påvist>: større end 
+Um (%): Den ekspanderede måleusikkerhed Um er lig 2 x RSD%, se i øvrigt www.eurofins.dk, søgeord: Måleusikkerhed.
+Prøvningsresultaterne gælder udelukkende for de(n) undersøgte prøve(r).
+i.m.: ikke målelig
+Rapporten må ikke gengives, undtagen i sin helhed, uden prøvningslaboratoriets skriftlige godkendelse.
+#: ingen parametre er påvist
+22Side af

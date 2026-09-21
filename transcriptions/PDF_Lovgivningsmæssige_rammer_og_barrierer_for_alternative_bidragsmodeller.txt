@@ -1,0 +1,873 @@
+=== DNNK PDF Dokument ===
+Titel: Lovgivningsmæssige rammer og barrierer for alternative bidragsmodeller
+Kategori: Rapporter_s3
+Kilde: https://usercontent.one/wp/www.dnnk.dk/wp-content/uploads/2022/11/Lovgivningsmaessige-rammer-og-barrierer-for-alternative-bidragsmodeller.pdf
+Indekseret: 2026-09-21T18:32:34.016735
+
+==================================================
+
+/u.sc/n.sc/i.sc/v.sc/e.sc/r.sc/s.sc/i.sc/t.sc/y.sc /o.sc/f.sc /c.sc/o.sc/p.sc/e.sc/n.sc/h.sc/a.sc/g.sc/e.sc/n.sc 
+Lovgivningsmæssige rammer og barrierer for alternative bidragsmodeller vedrørende
+klimatilpasning
+Anker, Helle Tegner; Nymann, Peter
+Publication date:
+2021
+Document version
+Også kaldet Forlagets PDF
+Citation for published version (APA):
+Anker, H. T., & Nymann, P. (2021). Lovgivningsmæssige rammer og barrierer for alternative bidragsmodeller
+vedrørende klimatilpasning. Institut for Fødevare- og Ressourceøkonomi, Københavns Universitet. IFRO
+Rapport Nr. 301
+Download date: 12. okt.. 2021
+
+ 
+ 
+Lovgivningsmæssige rammer og barrierer 
+for alternative bidragsmodeller 
+vedrørende klimatilpasning   
+ 
+ 
+ 
+ 
+ 
+ 
+Helle Tegner Anker 
+Peter Nymann 
+ 
+ 
+ 
+301 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IFRO Rapport 301 
+Lovgivningsmæssige rammer og barrierer for alternative bidragsmodeller vedrørende 
+klimatilpasning 
+Forfattere: Helle Tegner Anker1 og Peter Nymann2  
+1 Institut for Fødevare- og Ressourceøkonomi, Københavns Universitet 
+2 Advokatfirmaet Energi & Miljø 
+Udgivet oktober 2021  
+ISBN: 978-87-93768-28-4 
+Rapporten er udarbejdet i regi af projektet ”Klimatilpasning på Tværs” med finansiering fra Region 
+Hovedstaden. 
+Se hele rapportserien på http://www.ifro.ku.dk/publikationer/ifro_serier/rapporter/ 
+Institut for Fødevare- og Ressourceøkonomi (IFRO) 
+Københavns Universitet 
+Rolighedsvej 25 
+1958 Frederiksberg C 
+www.ifro.ku.dk
+
+
+1 
+ 
+Forord 
+Dette notat er udarbejdet i regi af projektet Klimatilpasning på Tværs  med finansiering fra Region 
+Hovedstaden. Projektet har en bred partnerskabskreds, der blandt andet omfatter flere kommuner i 
+hovedstadsregionen og sekretariatsbetjenes af Egedal og Brøndby kommuner. I projektet er der 
+blandt andet fokus på, hvordan udgifterne til klimatilpasningsprojekter kan fordeles, og hvordan der 
+kan sikres samarbejde på tværs af kommunegrænser. I projektet indgår forskningsbidrag om blandt 
+andet bidragsmodeller, anden finansiering, samarbejde på tværs og interessentinddragelse. 
+Målgruppen for forskningsbidragene er dels de deltagende partnere i projektet, dels andre der 
+arbejder med klimatilpasning i praksis.  
+Notatet er udarbejdet som en del af en serie af fire arbejdspakker om bidragsmodeller med fokus på 
+henholdsvis eksisterende vi den, principper og pejlemærker for nye bidragsmodeller, barrierer for 
+implementering og afprøvning af modeller. 
+Notatet har til formål at afdække  lovgivningsmæssige rammer og barrierer for alternative 
+bidragsmodeller vedrørende klimatilpasning i vandløbs- og kystbeskyttelsesprojekter.  Undersøgelsen 
+er gennemført som en traditionel juridisk analyse af eksisterende lovgivning og praksis, herunder 
+relevante offentliggjorte domme og klagenævnsafgørelser. 
+Der er foretaget faglig kvalitetssikring af notatet ved intern gennemlæsning på Institut for Fødevare- 
+og Ressourceøkonomi, Københavns Universitet. 
+Frederiksberg, august 2021 
+ 
+  
+
+2 
+ 
+Indhold 
+1. Introduktion.................................................................................................................................... 3 
+2. Alternative bidragsmodeller for kyster og vandoplande .............................................................. 3 
+2.1. Takstfinansierede modeller ........................................................................................................ 3 
+2.1.1 Pligtmæssige bidrag ............................................................................................................... 4 
+Potentielle barrierer.................................................................................................................... 5 
+2.1.2 Frivillige bidrag ....................................................................................................................... 5 
+Klimatilpasningsprojekter ........................................................................................................... 5 
+Afgrænsning mellem spildevandsanlæg og vandløb .................................................................. 7 
+Afgrænsning mellem spildevandsanlæg og vejafvandingsanlæg ............................................... 7 
+Potentielle barrierer.................................................................................................................... 8 
+2.2. Offentlige bidrag (stat/kommuner) ............................................................................................ 8 
+2.2.1 Pligtmæssige bidrag ............................................................................................................... 9 
+Potentielle barrierer.................................................................................................................. 10 
+2.2.2 Frivillige bidrag ..................................................................................................................... 10 
+Statslig støtte ............................................................................................................................ 10 
+Kommunale bidrag .................................................................................................................... 11 
+Potentielle barrierer.................................................................................................................. 12 
+2.3. Private bidrag fra bygherrer/developers ................................................................................. 12 
+2.3.1 Pligtmæssige bidrag ............................................................................................................. 12 
+Grundejere ................................................................................................................................ 12 
+Betingelser for ibrugtagning af ny bebyggelse ......................................................................... 13 
+Potentielle barrierer.................................................................................................................. 14 
+2.3.2 Frivillige bidrag ..................................................................................................................... 14 
+Potentielle barrierer.................................................................................................................. 15 
+3. Sammenfatning ................................................................................................................................ 15 
+Oversigt over love m.v. ........................................................................................................................ 18 
+Referencer ............................................................................................................................................ 18 
+ 
+  
+
+3 
+ 
+1. Introduktion 
+Spørgsmålet om, hvem der skal (eller kan) betale for projekter, der har til formål at afbøde 
+oversvømmelse eller erosion som følge af klimaforandringer, giver anledning til en række overvejelser. 
+I dette notat fokuseres der på de lovgivningsmæssige rammer – og særligt eventuelle barrierer – for 
+’alternative’ bidragsmodeller i forbindelse med klimatilpasningsprojekter . Alternative bidrags -
+modeller skal her ses i modsætning til bidragsfordeling ud fra det almindelige nytteprincip, der gælder 
+både efter kystbe skyttelsesloven og vandløbsloven , hvor de (grund -)ejere, der vil have nytte af 
+klimasikringen, skal betale. I realiteten vil der dog næppe være tale om egentlige alternativer, men 
+derimod om en kombination af forskellige muligheder for at bidrage til finan siering af 
+klimatilpasningsprojekter. Bidragsmodeller skal derfor i dette notat ikke forstås snævert som 
+pligtmæssige bidrag, men mere bredt som modeller, hvor der også kan være tale om ’frivillige’ bidrag 
+enten fra forsyningsselskaber, offentlige myndigheder eller private. Der vil i notatet blive anvendt en 
+sondring mellem pligtmæssige bidrag og frivillige bidrag – og de lovgivningsmæssige rammer og 
+barrierer vil blive analyseret i forhold hertil.  
+Der anvendes i notatet ikke en opdeling i forhold til henholdsvis kyster og vandoplande. Dette skyldes 
+i det væsentlige, at de lovgivningsmæssige rammer for bidrag fra for eksempel offentlige myndigheder 
+eller private parter i et vist omfang er de samme, uanset om klimatilpasningen angår et kystprojekt 
+eller et vandoplandsprojekt. Der kan dog være visse modeller (eller bidragydere) , der i overvejende 
+grad er knyttet til bestemte projekter, for eksempel er takstfinansierede modeller særligt relevante i 
+forhold til klimatilpasning i vandoplande.   
+I notatet fokuseres der på tre ’alternative’ bidragsmodeller. Det drejer sig om 1) takstfinansierede 
+modeller, hvor forsyningsselskaberne spiller en central rolle, 2) offentlige b idrag fra kommuner eller 
+staten samt 3) private bidrag fra bygherrer eller developers, navnlig i forbindelse med byudvikling. 
+Notatet behandler ikke muligheden for, at der kan være andre alternative bidragydere, for eksempel 
+fonde, forsikringsselskaber eller Stormrådet. Opmærksomheden henledes på, at såfremt Stormrådet 
+skal kunne deltage mere aktivt i klimatilpasningsprojekter , vil det som udgangspunkt kræve en 
+lovændring. Tilsvarende gælder ved etablering af eksempelvis en kyst- og/eller klimasikringsfond. 
+Derimod er der som udgangspunkt ikke noget til hinder for, at private fonde med videre kan yde støtte 
+til klimatilpasningsprojekter.1  
+2. Alternative bidragsmodeller for kyster og vandoplande 
+2.1. Takstfinansierede modeller  
+Muligheden for at anvende takstfinansierede bidrag gennem forsyningsselskaberne er primært 
+relevant i forhold til klimatilpasning i vandoplande og håndtering af spildevand i form af tag - og 
+overfladevand (regnvandsafledning). Det kan dog ikke afvises, at der også i forhold til kyster kan være 
+situationer, hvor der er behov for kombinerede løsninger med for eksempel  højvandslukke eller 
+håndtering af ’bagvand’, det vil sige vand fra ’baglandet’, hvor forsyningerne også vil kunne spille en 
+rolle.2  
+                                                           
+1 Om private støttemuligheder se for eksempel https://www.klimatilpasning.dk/. 
+2 Forsyningssekretariatet har i sag 13/03642 vedrørende Aarhus Vand truffet afgørelse om, at en 
+højtvandsbarriere havde som det primære formål at sikre midtbyen og togbanen og ikke at håndtere tag- og 
+
+4 
+ 
+I det følgende skitseres de generelle rammer for takstfinansieret klimatilpasning med særligt fokus på 
+de lovgivningsmæssige barrierer for, at forsyningsselskaberne bidrager til klimasikring.  
+2.1.1 Pligtmæssige bidrag 
+I forhold til pligtmæssige bidrag kan forsyningsselskaberne sættes i bidrag i henhold til nytteprincippet 
+efter både vandløbsloven og kystbeskyttelsesloven. 
+For kystbeskyttelsesprojekter er det i kystbeskyttelsesloven præciseret, at nytteprincippet gælder for 
+’ejere af fast ejendom’, hvilket ud over grundejere også kan omfatte for eksempel ledningsejere. Dette 
+følger ligeledes af Miljø- og Fødevareklagenævnets praksis, hvor også en mere indirekte fordel ved at 
+kunne tilgå en installation ved oversvømmelse udløste bidragspligt.3 
+Nytteprincippet gælder også for vandløbsprojekter, det vil sige  regulering af vandløb, jf. vandløbs -
+loven. Det gælder også for hel eller delvis omlægning af rørlagte vandløb, jf. vandløbslovens § 32. 
+Da vandløb, søer og lignende indvande omfattet af vandløbsloven ofte fungerer som det vandområde, 
+hvor forsyningsselskabernes regnvandskloakker har udløb til, kan forsyningsselskaberne sættes i 
+bidrag efter vandløbsloven s medbenyttelsesprincip, jf. vandløb slovens § 63 . Ved meddelelse af en 
+tilladelse efter miljøbeskyttelseslovens § 28 til forsyningsselskabernes udledning af spildevand 
+forudsættes myndigheden ligeledes at have forholdt sig til det modtagende vandområde.4 
+Som en særlig variant af nytteprincip pet kan forsyningsselskaber  også blive sat i bidrag efter 
+vandløbslovens § 68. Forsyningsselskaber kan her pålægges at yde bidrag til vandløbets regulering og 
+vedligeholdelse, hvis udledning af spildevand i nævneværdig grad forøger arbejdet ved vandløbets 
+oprensning. Det må antages, at vandløbslovens anvendelse af begrebet ’ejere af ejendomme’ i lovens 
+§ 68, stk. 2 også omfatter ledningsejere, der kan have nytte af et vandløb til bortledning af spildevand, 
+jf. lovens § 68, stk. 1, hvorefter både ejere af ejendomme eller anlæg kan pålægges bidrag. 
+Forsyningsselskabers bidragspligt eller bidrag for medbenyttelse af vandløbene vil i udgangspunktet 
+forudsætte, at der indgås en mindelig løsning om de økonomiske forhold, eller at disse afklares af 
+taksationsmyndighederne.5 Bidragspligt for forsyningsselskaber er tæt knyttet til, om der kan 
+identificeres en nytte eller fordel af projektet, herunder set i forhold til de udgifter selskabet ellers 
+                                                           
+overfladevand i Aarhus Å. Omkostningerne til højtvandsbarrieren kunne derfor ikke indregnes i prisloftet, og 
+forsyningsselskabet kunne ikke medfinansiere højtvandsbarrieren. Forsyningssekretariatet accepterede dog 
+efter fornyet henvendelse fra Aarhus Vand med oplysninger om, at højtvandsbarrieren også ville have  en 
+afledt effekt på kapaciteten i Aarhus Å, at selskabet kunne medfinansiere 20 procent af højtvandsbarrieren, se 
+Forsyningssekretariatets afgørelse af 26. juni 2013, j.nr. 13/03642. 
+3 Se Miljø- og Fødevareklagenævnets afgørelse af 9. oktober 2019 (j.nr. 19/06109 og 19/06110), der er optrykt 
+i MAD 2020.201, hvor også en indirekte beskyttelse (eller nytte) gav grundlag for bidragspligt.  
+4 I MAD2006.751 fandt Miljøklagenævnet, at der var hjemmel til at regulere tilførslen af spildevand til vandløb 
+med det sigte at sikre bredejerne mod unødige gener i forbindelse med oversvømmelser og nedbrydning af 
+brinker. Der var også hjemmel til i udledningstilladelsen at fastsætte vilkår for den maksimale vandmængde, 
+der måtte udledes til vandløbet, da der ikke i det pågældende vandløbsregulativ var fastsat nogen angivelse 
+heraf. Se også MAD2017.426, hvor retten i Odense idømte et spildevandsselskab en bøde på 50.000 kr. for at 
+have fortsat spildevandsudledning i tre år efter Natur- og Miljøklagenævnets ophævelse af udlednings-
+tilladelsen, hvorved der var sket periodevis oversvømmelse. Byretten fandt dog, at der på grund af manglende 
+årsagsforbindelse ikke var grundlag for erstatningsansvar for oversvømmelsesskader. 
+5 En tvist om bidragsfordeling må indbringes for den relevante taksationskommission, hvis afgørelse derefter 
+kan indbringes for en overtaksationskommission nedsat efter lov om offentlige veje, se blandt andet  Anker og 
+Janfelt (2020, s. 9). 
+
+5 
+ 
+ville have haft til håndtering af overfladevand eller spildevand. Det ka n for eksempel være sparede 
+udgifter til kloakledninger eller bassinkapacitet, der ellers ville have været nødvendige.6  
+Potentielle barrierer 
+De potentielle barrierer, der er forbundet med forsyningsselskabers pligtmæssige bidrag i henhold til 
+nytteprincippet, vil i et vist omfang være knyttet til, hvor tæt en forbindelse der kan siges at være 
+mellem vandløbs - eller kystsikringsprojektet  og den direkte (eller ev entuelt indirekte) nytte, som 
+forsyningsselskabet har. I hvilket omfang der faktisk fastsættes bidragspligt for forsyningsselskaber, 
+navnlig for så vidt angår indirekte nytte, er uafklaret , og der er kun få afgørelser vedrørende 
+forsyningsselskabernes bidragspligt fra taksationskommissionerne (for vandløb)  eller fra Miljø - og 
+Fødevareklagenævnet (for kyster). Særligt for vandløbssager i henhold til vandløbslovens §§ 63 og 68 
+forudsættes normalt, at de involverede parter indbyrdes bliver enige om projekternes økonomi. 
+Samtidig kan der være en tilbageholdenhed med at pålægge forsyningsselskaber at tage del i 
+vedligeholdelsesbyrden, da forsyningsselskabet ikke er bredejer i vandløbslovens forstand.  
+2.1.2 Frivillige bidrag 
+Der er flere forskellige situationer, hvor forsyningsselskaberne ’frivilligt’ eller på eget initiativ kan 
+bidrage til klimasikring. For det første er der mulighed for  at deltage i finansieringen af for eksempel 
+vandløbsprojekter efter de nye regler om klimatilpasning af spildevandsanlæg i betalingsloven og 
+vandsektorloven. For det andet er der mulighed for, at  et klimasikringsprojekt kan defineres som et 
+spildevandsteknisk anlæg og dermed være et anliggende for forsyningsselskabet. Endelig kan der være 
+tale om samarbejdsprojekter, hvor håndtering af spildevand sker i et samspil med andre 
+infrastrukturprojekter, for eksempel  vejprojekter. Der kan altså være et større eller mindre 
+pligtelement forbundet med sådanne ’frivillige’ bidrag. Endvidere kan der i alle tre situationer være 
+visse lovgivningsmæssige barrierer forbundet med forsyningernes mulighed for at bidrage. 
+Fælles for disse projekter er, at der  skal kunne identificeres en interesse, som forsyningsselskabet 
+lovligt må varetage og takstfinansiere . Klimatilpasningsprojekternes lovlighed vil som udgangspunkt 
+blive vurderet i forbindelse med Forsyningssekretariatets afgørelse om prislofter/økonomiske rammer 
+i henhold til vandsektorloven og kommunernes godkendelse af forsyningsselskabernes takster.   
+Klimatilpasningsprojekter 
+Reglerne om klimatilpasning af spildevandsanlæg blev ændret ved lov nr. 2210 af 29. december 2020,7 
+hvor den hidti l gældende medfinansieringsordning blev afskaffet. Til udmøntning af loven er der 
+endvidere udstedt en række bekendtgørelser, se nedenfor.  
+I forhold til klimatilpasning af spildevandsanlæggene er det forsyningsselskabets opgave at sørge for 
+transport, behandling og/eller afledning af tag- og overfladevand inden for det serviceniveau, der er 
+fastsat for selskabet i spildevandsplanen.  
+Ved serviceniveau forstås her en angivelse af, hvor ofte vand fra henholdsvis regnvandskloakker og 
+kloakker med en blanding af regn- og spildevand i gennemsnit må forekomme på terræn i mængder, 
+der forvolder skade . Ifølge bekendtgørelse nr. 2276 af 29. december 2020 om fastsættelse af 
+                                                           
+6 I MAD2010.385 afviste Overtaksationskommissionen for Nordsjælland dog, at kommunens sparede udgifter 
+til anlæg af broer ved rørlægning af et vandløb kunne betragtes som en selvstændig nytte, der knyttede sig til 
+reguleringen af vandløbet.  
+7 Lov om ændring af lov om betalingsregler for spildevandsforsyningsselskaber m.v., lov om miljøbeskyttelse, 
+vandsektorloven, lov om vandløb og lov om vandforsyning m.v. 
+
+6 
+ 
+serviceniveau m.v. for håndtering af tag - og overfladevand (serviceniveaubekendtgørelsen) er det 
+blevet præciseret, at kommunerne må fastsætte et bindende serviceniveau for spildevandsanlæggene 
+i konkrete kloakeringsområder. Serviceniveauet bliver herefter bindende for  forsyningsselskaberne, 
+når der etableres nye spildevandsanlæg , eller eksisterende anlæg udskiftes. Det er et krav, at 
+kommunen kan dokumentere, at serviceniveauet er fastsat til et samfundsøkonomisk 
+hensigtsmæssigt niveau, hvis serviceniveauet fastsættes højere end en 5 -års regnhændelse  i 
+separatkloakerede områder og en 10-års regnhændelse i fælleskloakerede områder.  
+I områder, hvor serviceniveauet for spildevandsanlæggene ønskes forhøjet, skal der foretages en 
+samfundsøkonomisk analyse , hvor de forventede årlige skadesomkostninger uden  klimatilpasning 
+afvejes over for omkostningerne til en klimatilpasningsløsning. Analysen skal  dokumentere, at det 
+valgte serviceniveau er det  niveau, der udviser den størst mulige positive nettonutidsværdi.  Det er 
+kommunen, der vælger det hydrologiske opl and eller kloakeringsområde, hvor serviceniveauet skal 
+forhøjes – og dermed kommunen, der sætter de ydre rammer for klimatilpasningen via spildevands -
+planlægningen. 
+Det samfundsøkonomisk mest hensigtsmæssige serviceniveau skal på den måde fungere som en ydre 
+grænse for, i hvor høj grad forsyningsselskaberne lovligt må udføre og betale for klimatilpasning.  
+Til udmøntningen af lov nr. 2210 af 29. december 2020 er der også udstedt bekendtgørelse nr. 2275 
+af 29. december 2020 om spildevandsforsyningsselskabers omkostninger til klimatilpasning i forhold 
+til tag- og overfladevand og omkostninger til projekter uden for selskabernes egne spildevandsanlæg 
+og med andre parter i øvrigt (omkostningsbekendtgørelsen). 
+Omkostningsbekendtgørelsen regulerer forsyningsselskabers indregning  af dels udgifter til klima -
+tilpasning, dels udgifter til aftaler med andre parter om etablering eller drift af spildevandsanlæg eller 
+andre anlæg i spildevandsbidragene. Det er dermed omkostningsbekendtgørelsen, der skal erstatte 
+den hidtidige medfinansieringsordning – og dermed fastsætte rammerne for forsyningsselskabernes 
+takstfinansiering af udgifterne til klimatilpasning.   
+Det er efter omkostningsbekendtgørelsen en f orudsætning, at der kun kan indregnes udgifter til 
+håndtering af tag - og overfladevand op til det serviceniveau, der i spildevandsplanen er fastsat for 
+forsyningsselskabet for det pågældende kloakeringsområde. Det gælder, uanset om området er fysisk 
+kloakeret i forvejen, eller der er tale om nykloakering. Håndtering af tag- og overfladevand over det 
+fastsatte serviceniveau er dermed uden  for forsyningsselskabets ansvarsområde – og må i givet fald 
+varetages og finansieres af andre parter. 
+Forsyningsselskabet skal samtidig dokumentere, at fysiske løsninger, der etableres til opfyldelsen af 
+det fastsatte serviceniveau, er selskabsøkonomisk hensigtsmæssig via en sammenligning med mindst 
+ét andet relevant løsningstiltag, der opfylder samme serviceniveau, men afvi ger væsentligt fra 
+løsningen, som selskabet ønsker at etablere. 
+Ligesom den hidtidige medfinansieringsordning giver omkostningsbekendtgørelsen  forsynings-
+selskabet mulighed for at indgå samarbejder med andre parter om projekter uden for forsynings -
+selskabets spildevandsanlæg. Her er mange af medfinansieringsordningens fysiske bindinger af 
+projekterne til bestemte arealer m.v. nu ophævet, hvorved forsyningsselskaberne har videre adgang 
+til at deltage i sådanne projektsamarbejder. Det er frivilligt for et forsyningsselskab, om det ønsker at 
+indgå i et samarbejde om et projekt, men hvis selskabet indgår i samarbejdet, skal 
+omkostningsbekendtgørelsens regler følges, hvilket særligt betyder, at der skal laves en 
+
+7 
+ 
+omkostningsfordeling, der viser, at selskabet ikke finansierer udgifter, der ligger uden for ansvars -
+området.  
+I modsætning til medfinansieringsprojekterne indgår projektanlæg , der er omfattet af de nye regler 
+om klimatilpasning , i den økonomiske regulering af vandsektoren, hvilket betyder, at projekterne 
+bliver omfattet af vandsektorlovens effektiviseringskrav  på samme måde som forsyningsselskabets 
+øvrige spildevandsanlæg. 
+Afgrænsning mellem spildevandsanlæg og vandløb  
+Som det er beskrevet i Anker  og Janfelt (2020, s. 4ff) , er det sandsynligvis muligt at optage et 
+eksisterende vandløb som et spildevandsteknisk anlæg i spildevandsplanen med den virkning, at 
+ejerskabet til vandløbet overgår til forsyningsselskabet som en del af selskabets anlæg. 
+Et vandløb bør alene optages som spildevandsanlæg, hvis van dløbet opfylder definitionen på et 
+spildevandsanlæg, jf. spildevandsbekendtgørelsens § 4, stk. 7. Samtidig bør eksisterende dræn -
+rettigheder afvikles ved en vandløbssag, så de frakobles vandløbet , når  det overgår til 
+spildevandsanlæg (Miljøstyrelsen 2018, afsn. 2.1.8). 
+Efter optagelsen som spildevandsanlæg betaler forsyningsselskabet alle udgifter til den fremadrettede 
+drift og vedligeholdelse af den del af vandløbet, der optages som selskabets spildevandsanlæg. 
+Eventuelle øvrige dele af anlægget, der er p laceret på privat grund, og som alene servicerer samme 
+ejendom, har forsyningsselskabet imidlertid ikke hjemmel til at udføre arbejder på.  
+Afgrænsning mellem spildevandsanlæg og vejafvandingsanlæg  
+Overfladevand, der opsamles og afledes fra vejarealer, er omfattet af definitionen på spildevand. Dog 
+tilhører v ejafvandingsanlægget som udgangspunkt vejens udstyr i medfør af vejlovene, hvorfor 
+vejafvandingsanlægget kan sammenlignes med et privat spildevandsanlæg.  
+Sædvanligvis afgrænses vejafvandingsanlægget o ver for spildevandsanlægget således, at vejristen, 
+brønden og stikledningen frem til et grenrør/påhug på forsyningsselskabets hovedledning i vejen 
+tilhører vejejeren (Klima-, Energi- og Forsyningsministeriet 2017, pkt. 1.1.4). Det udgangspunkt kan 
+dog ændres – for eksempel  i områder, hvor der ikke er en regnvandskloak. I praksis defineres 
+vejafvandingsanlægget som tekniske anlæg i form af installationer og rør i vejen, der udelukkende 
+eller overvejende har til formål at bortlede vejvand.   
+Forsyningsselskabet kan drive vejafvandingsanlægget for vejejeren, men i så fald skal det ske imod 
+betaling på markedsvilkår, da der er tale om en tilknyttet aktivitet for selskabet. 
+Vejarealet kan anvendes som et led i klimatilpasningen ved e tablering af skybrudsveje eller vejbede 
+til opsamling af vand. Forsyningsselskabet kan indgå i disse projekter for så vidt angår selskabets 
+ansvar for håndteringen af tag - og overfladevand inden for det fastsatte serviceniveau. Hvis 
+forsyningsselskabet deltager i et sådant vejprojekt, skal reglerne om klimatilpasning ovenfor iagttages. 
+Da ledninger i vejareal som udgangspunkt er omfattet af gæsteprincippet efter vejlovens § 77, bør der 
+tages særligt højde  for risikoen for, at det kan være nødvendigt at beta le udgifterne til omlægning 
+eller ændring af klimatilpasningsprojektet som følge af vejejerens vejarbejder.8  
+                                                           
+8 Se blandt andet Markert og Soja (2021). Gæsteprincippet betyder, at ledningsejeren som ’gæst’ skal afholde 
+udgifterne til arbejder på ledninger, når arbejderne er nødvendige af hensyn til (vej -)ejerens ændrede brug af 
+arealet, medmindre andet er særligt aftalt eller bestemt. 
+
+8 
+ 
+Potentielle barrierer 
+Selvom der med afskaffelse af de særlige medfinansieringsregler og tilknyttede begrænsninger er 
+skabt bredere mulighed for, at forsyningsselskaberne kan vælge at bidrage til klimasikringsprojekter, 
+er der fortsat en række potentielle barrierer for forsyningsselskabernes bidrag. Det er således fortsat 
+en forudsætning, at der skal kunne identificeres en interesse, som forsyningss elskabet lovligt kan 
+varetage og takstfinansiere. Det gælder bla ndt andet  kravene til fastsættelse af det samfunds-
+økonomisk mest hensigtsmæssige serviceniveau  og forudsætningen om, at der kun kan indregnes 
+udgifter til håndtering af tag- og overfladevand op til det fastsatte serviceniveau. Endvidere kan kravet 
+om at dokumentere, at en fysisk løsning er selskabsøkonomisk hensigtsmæssig, muligvis også rumme 
+visse udfordringer og yderligere omkostninger . Endelig har det været påpeget, at det forhold, at 
+anlæggene bliver omfattet af vandsektorlovens effektiviseringskrav , kan udgøre en barriere.9 Der er 
+tale om en kombination af lovgivningsmæssige barrierer for de maksimale bidrag for 
+forsyningsselskaberne og økonomiske barrierer for incitamentet til frivil ligt at deltage i klimasikring, 
+for eksempel på grund af dokumentationskrav. 
+De nævnte krav og barrierer gælder som udgangspunkt både for forsyningsselskabernes egne 
+spildevandsanlæg og ved forsyningsselskabernes deltagelse i samarbejdsprojekter , for eksem pel 
+vandløbsregulering eller vejprojekter. Særligt for så vidt angår vejprojekter, kan det omtalte 
+gæsteprincip udgøre en særlig barriere for at indgå i klimatilpasningsprojekter, hvor der etableres 
+spildevandsløsninger som en del af et vejanlæg. 
+Den uklare afgrænsning mellem vandløb og spildevandsanlæg kan potentielt også udgøre en barriere, 
+navnlig i forhold til usikkerhed om, hvornår et vandløb kan ændres til et spildevandsanlæg, og om det 
+indebærer yderligere forudsætninger, for eksempel om afkobling af  dræn. Det er dog med de nye 
+regler i mindre omfang afgørende for forsyningsselskabernes frivillige bidrag, om der er tale om et 
+vandløb eller et spildevandsanlæg, da  samarbejdsprojekter indgår på lige vilkår med traditionelle 
+spildevandsanlæg i relation t il de økonomiske rammer for forsyning sselskabernes bidrag. Dette kan 
+måske skabe mulighed for i højere grad at lave samarbejdsprojekter, hvor nytteprincippet kombineres 
+med bidrag fra forsyningsselskaberne i det omfang, det kan godtgøres, at der alene fina nsieres 
+udgifter, der vedrører forsyningsselskabets ansvarsområde.    
+2.2. Offentlige bidrag (stat/kommuner) 
+Selvom nytteprincippet er udgangspunktet for bidragsfordeling både i vandløbs- og kystbeskyttelses-
+sager, er der også mulighed for, at det offentlige – stat eller kommuner – kan bidrage til klimasikrings-
+projekter på forskellig vis. Der kan være tale om pligtmæssige bidrag, navnlig baseret på 
+nytteprincippet som grundejere eller eventuelt baseret på en offentligretlig nytte i sikring af bestemte 
+samfundsmæssige goder, for eksempel immaterielle værdier.10 Dette gælder både i forhold til stat og 
+kommuner. Særlige udfordringer eller barrierer kan knytte sig til tværkommunale projekter. 
+For så vidt angår frivillige bidrag kan der også være visse udfordringer eller barrierer knyttet til bidrag 
+fra både stat og kommuner. Her kan der blandt andet være spørgsmål om, hvordan der kan sikres en 
+rimelig og ligelig fordeling af offentlige midler, blandt andet i forhold til den almene samfundsnytte af 
+et projekt. Endvidere sætter det statslige anlægsloft grænser for kommunale anlægsudgifter. 
+                                                           
+9 Se blandt andet DANVA (2021). 
+10 Se blandt andet Kystdirektoratet (2018, s. 24ff). 
+
+9 
+ 
+2.2.1 Pligtmæssige bidrag 
+Pligtmæssige bidrag for det offentlige vil som nævnt primært være baseret på  nytteprincippet, hvor 
+det offentlige som grundejer eller på anden vis kan have nytte af et vandløbs - eller 
+kystbeskyttelsesprojekt.  
+Staten har derudover en særlig funktion i forhold til statslig kystsikring. Miljøministeren kan i medfør 
+af kystbeskyttelseslovens § 2b be slutte, at der skal udføres kystbeskyttelsesforanstaltninger med 
+staten som bygherre. Der kan her både være tale om Kystdirektoratets løbende kystbeskyttelse langs 
+den jyske vestkyst og om projekter, som andre statslige myndigheder udfører. Om noget er sta tslig 
+kystsikring eller ej, beror således på miljøministerens beslutning. Der er dog også særlove vedrørende 
+visse digeprojekter, for eksempel lov nr. 69/1873 om digearbejder på Lolland og Falster, hvor statens 
+(og eventuelt andre offentlige myndigheders) bidrag til anlægsudgifterne er fastsat.11 
+Udførelsen af (statslige) kystbeskyttelsesprojekter kræver siden 1. september 201812 udtrykkeligt en 
+anlægstilladelse efter kystbeskyttelseslovens § 3, stk . 1 og 5 , i modsætning til de hidtidige 
+’fællesaftaler’, s om har været ud arbejdet i henhold til sædvane.  Der er senest udarbejdet fire 
+fællesaftaler for perioden 2020 -2024, hvor der både aftales indsats og fastlægges en økonomisk 
+fordeling mellem staten og kommunerne for visse kyststrækninger.13    
+Kommunerne kan som myndighed for kommunale fællesprojekter  beslutte at sætte ejere af fast 
+ejendom i bidrag efter nytteprincippet, jf. kystbeskyttelseslovens § 9a. I tilfælde, hvor kommunen selv 
+ejer en ejendom, der opnår en nytte af kystbeskyttelsesforanstaltningen, vil kommunen dermed også 
+kunne blive bidragspligtig.14 Det er også i et vist omfang muligt, at en kommune skal yde bidrag som 
+følge af almene interesser, for eksempel i forhold til kulturhistoriske eller rekreative værdier.15 Dette 
+er blandt andet lagt til grund i en afgørelse fra Miljø- og Fødevareklagenævnet om kystsikring ved Gl. 
+Skagen, hvor kommunen fandtes at være nærmere til at bære omkostningerne ved beskyttelse af Gl. 
+Skagens historiske islæt end de lokale grundejere. 16 Det er dog uklart, hvor grænserne går for 
+kommunernes bidragspligt i så henseende.  
+Den tidligere gældende bestemmelse i kystbeskyttelseslovens § 9, stk. 2, hvorefter ministeren kunne 
+pålægge en kommune at bidrage til et kystbeskyttelsesprojekt foranlediget af en anden kommune, er 
+nu ophæv et for at give større kommunal handlefrihed på kystbeskyttelsesområdet.  Dette kan 
+potentielt udgøre en barriere i projekter, der berører mere end én kommune , og hvor der ikke kan 
+opnås enighed om et frivilligt bidrag. Såfremt et projekt berører mere end én kommune, må der som 
+udgangspunkt tages stilling til bidragsfordelingen i de enkelte kommuner. 17 Det fremgår i øvrigt 
+                                                           
+11 Se også lov nr. 319/1976 om forstærkning af Ribe dige og anlæg af veje langs nogle diger.  
+12 Lov nr. 720/2018 om ændring af lov om kystbeskyttelse m.v. 
+13 Se Kystdirektoratets information herom, https://kyst.dk/projekter/faellesaftaler/  
+14 Se for eksempel Miljø- og Fødevareklagenævnets afgørelse af 6. juni 2017 (MAD2017.203), hvor Slagelse 
+Kommune blev sat i bidrag for et kommunalt ejet parkeringsareal.  
+15 Se i denne retning lovbemærkningerne til kystbeskyttelsesloven fra 1988, FT 1987-88 L 37 Forslag til Lov om 
+kystbeskyttelse. 
+16 Miljø- og Fødevareklagenævnets afgørelse af 7. juni 2017, NMK-450-00008 (MAD2017.209) vedrørende et 
+kystbeskyttelsesprojekt ved Gl. Skagen. 
+17 Se blandt andet Miljø- og Fødevareklagenævnets afgørelse af 3. maj 2017 (NMK-451-00004) vedrørende 
+Jyllinge Nordmark, hvor nævnet hjemviste Roskilde og Egedal kommuners enslydende afgørelser vedrørende 
+bidragspligt.  
+
+10 
+ 
+direkte af lovens § 3, stk. 3, at det er kommunalbestyrelsen for de grundejere, der opnår beskyttelse, 
+som er tilladelsesmyndighed og dermed også skal tage stilling til bidrag fra de pågældende grundejere.  
+En kommune kan overordnet bidrage til klimatilpasning på vandløbsområdet  på to måder – enten 
+igennem et ejerskab til et offentligt vandløb eller i sin egenskab af grund - eller vejejer efte r 
+nytteprincippet.  
+Således kan en kommune medvirke til gennemførelsen af en vandløbsreguleringssag, der skaber 
+yderligere plads i et vandløb til bortledning af vand fra for eksempel  spildevandsanlæg eller 
+klimatilpasningsanlæg. Her er der dog ikke tale om en pligt for kommunen. 
+Som bredejer – ejer af en ejendom eller vej, der grænser op til et vandløb – kan en kommune også 
+pålægges bidrag efter vandløbsloven i forbindelse med gennemførelsen af et vandløbsprojekt. Efter 
+praksis18 er vejejeren ’bredejer’ i vandløbslovens forstand, når et privat vandløb er ført under en vej, 
+hvilket betyder, at vedligeholdelsen af vejunderføringen påhviler vej ejeren. På samme måde vil 
+kommunen derfor kunne sættes i bidrag efter vandløbsloven, hvis der gennemfø res 
+vandløbsprojekter med et klimatilpasningsformål.  
+Hvis en kommune udleder overfladevand fra et vejafvandingsanlæg, vil kommunen – som med -
+benytter af vandløbet – principielt også kunne pålægges bidrag til vandløbets vedligeholdelse, jf. 
+vandløbslovens §§ 63 eller 68. 
+Potentielle barrierer 
+I forhold til pligtmæssige bidrag under nytteprincippet savnes der klarere regler eller retningslinjer for 
+at kunne pålægge enten statslige eller kommunale myndigheder , der ikke  er ejere af fast ejendom,  
+bidrag efter nytteprincippet som følge af mere almene interesser, herunder interesser i forhold til 
+kulturmiljø, rekreation, naturbeskyttelse og infrastruktur m.v. Dette kan udgøre en barriere navnlig i 
+forhold til kystbeskyttelsesprojekter. Den manglende mulighed for, at andre kommuner kan sættes i 
+bidrag eller pålægges at deltage i et projekt efter kystbeskyttelsesloven, kan også udgøre en væsentlig 
+barriere i forhold til kystbeskyttelsesprojekter, der går på tværs af kommunegrænser.  
+2.2.2 Frivillige bidrag 
+Statslig støtte 
+Det er i særlige tilfælde muligt at få statslig støtte til gennemførelse af projekter med et 
+klimatilpasningsformål. En sådan støtte forudsætter dog som udgangspunkt en hjemmel i 
+lovgivningen. 
+I medfør af bekendtgørelse nr. 982 af 24. juni 2020 om tilskud fra pulje til diger og anden 
+kystbeskyttelse har regeringen afsat to tilskudspuljer for henholdsvis 2020 og 2021 på hver c irka 40 
+mio. kr. til kystbeskyttelsesforanstaltninger. Det er kommuner og digelag, der kan ansøge Kyst-
+direktoratet om støtte fra puljerne til enten projekter om etablering eller forstærkning af diger ved 
+Vadehavet eller kommunale fællesprojekter i områder, hvor risikoen for erosion er størst ifølge 
+Kystanalysen fra 2016.  Projekterne må ikke være færdigetableret og afsluttet på ansøgnings -
+                                                           
+18 Miljø- og Fødevareklagenævnets afgørelse af 30. maj 2017, j.nr. NMK-43-00579 og Miljø- og 
+Fødevareklagenævnets afgørelse af 18. maj 2017, j.nr. NMK-43-00523. 
+
+11 
+ 
+tidspunktet. Der findes også en særlig tilskudsordning for Klima-Lavbundsprojekter, hvor reduktion af 
+oversvømmelsesrisiko også er et af kriterierne for, om der kan tildeles støtte.19 
+Kommunale bidrag  
+Kommunernes frivillige bidrag til klimatilpasningsprojekter efter både vandløbsloven og 
+kystbeskyttelsesloven er undergivet visse rammer, blandt andet i form af kommunalfuldmagten og 
+det såkaldte anlægsloft.  
+Kommunalfuldmagtsreglerne er praksisskabte regler  for, hvilke dispositioner en kommune må 
+foretage uden egentlig lovhjemmel, herunder hvilke ydelser kommunen må stille til rådighed for 
+borgerne. Der er både i vandløbsloven og i kystbeskyttelsesloven udtrykkelig hjemmel til, at 
+kommunen helt eller delvist kan afholde udgifterne til visse projekter, hvorved kommunalfuldmagten 
+ikke finder anvendelse.  For kystbeskyttelsesloven gælder det fællesprojekter, jf. lovens § 9. For 
+vandløbslovens vedkommende gælder det offentlige vandløb, jf. vandløbslovens § 24, stk. 2, men 
+derimod ikke offentlige pumpelag, jf. § 42 a.  
+For andre projekter må nytteprincippet lægges til grund, og eventuelle yderligere kommunale bidrag 
+må ske under iagttagelse af kommunalfuldmagten.  
+Natur- og Miljøklagenævnet har i en afgørelse vedrørende en kommunes restaurering  af et privat 
+vandløb lagt til grund, at u dgiftsfordelingen efter nytteprincippet i vandløbslovens § 35  i 
+udgangspunktet ikke kan fraviges, med mindre der foreligger en særlig vandløbsfaglig begrundelse.20 
+I sagen fandt nævnet, at kommunens mulighed for at overtage vedligeholdelsen af et privat vandløb  
+– og dermed udgifte rne hertil – uden særlig lovhjemmel hvilede på kommunalfuldmagtsreglerne. 
+Nytteprincippet kan ikke tilsidesættes for at varetage andre hensyn af for eksempel social karakter, 
+hvilket sætter en begrænsning for, hvilke udgifter en kommune på frivillig basis kan vælge at påtage 
+sig for at gennemføre et klimatilpasningsprojekt.    
+I forhold til klimatilpasningsprojekter efter vandløbsloven eller kystbeskyttelsesloven vil 
+kommunalfuldmagten kræve, at de t kan sandsynliggøres, at der forfølges en saglig, kommunal 
+interesse ved finansieringen af projektet, og at projektet har en vis almennyttig værdi. Netop på grund 
+af nytteprincippet i lovgivningen vil der ofte kunne udpeges en kreds af personer, der opnår en gevinst 
+ved projektets gennemførelse, hvilket taler imod, at projektet i sin helhed har almennyttig værdi. Dog 
+kan det næppe afvises, at enkeltstående delelementer i et projekt kan have en sådan tilstrækkelig 
+kommunal interesse, at kommunen kan finansiere disse dele – for eksempel forbedring af strand -
+faciliteter, forbedring af infrastruktur eller lignende.   
+Anlægsloftet udgøres af den anlægsramme, som k ommunerne efter budgetloven og regeringens og 
+KL’s aftale om den kommunale økonomi er underlagt.21 Anlægsloftet gælder for kommunernes 
+investeringer og kan derfor udgøre en økonomisk barriere for kommunernes frivillige investeringer i 
+klimatilpasningsprojekter. KL har fremsat ønsker om, at kommunernes andel af klimatilpasnings -
+                                                           
+19 Se nærmere i bekendtgørelse nr. 50/2021 om udtagning af kulstofrige lavbundsjorder med henblik på 
+genopretning af naturlig hydrologi (klima-lavbundsprojekter). Se også Miljøstyrelsen (2021).  
+20 Natur- og Miljøklagenævnets afgørelse af 17. oktober 2014, j.nr. NMK-43-00447. 
+21 Aftale om kommunernes økonomi for 2021. https://fm.dk/media/18036/aftale-om-kommunernes-
+oekonomi-for-2021.pdf  
+
+12 
+ 
+projekter skal fritages fra anlægsloftet (KL 2019). Det generelle anlægsloft blev som følge af en aftale 
+mellem regeringen og KL ophævet for 2020,22 mens anlægsrammen blev forøget for 2021. 
+Potentielle barrierer 
+I forhold til frivillige bidrag er der et vist råderum for kommunerne i henhold til de særlige hjemler i 
+henholdsvis vandløbsloven (for offentlige vandløb) og kystbeskyttelsesloven (for fællesprojekter). I 
+andre situationer sætter kommunalfuldmagten grænse r for, om kommunen kan medfinansiere 
+projekter. Det kan formentlig særligt være relevant at overveje en egentlig lovhjemmel til, at 
+kommunerne kan yde frivillige bidrag også i forbindelse med klimatilpasning, der berører private 
+vandløb. Derimod er det van skeligt at forestille sig, at individuelle kystsikringsprojekter kan have en 
+sådan samfundsmæssig betydning, at det kan begrunde offentlig finansiering. En anden potentiel 
+barriere eller uhensigtsmæssighed i forhold til frivillige bidrag er, at der i tværk ommunale projekter 
+kan være stor forskel på, om de enkelte kommuner ønsker at yde frivillige bidrag (og i hvilket omfang). 
+Det er dog næppe noget, der bør løses gennem lovgivningsmæssige ændringer. Det kan overvejes, om 
+der i øvrigt kan fastsættes forpligt ende rammer for kommunal deltagelse i tværkommunale 
+klimasikringsprojekter – både for vandløb og kyster.  
+2.3. Private bidrag fra bygherrer/developers  
+Klimatilpasning både i forhold til vandoplande  og kyster er i vidt omfang baseret på private bidrag i 
+kraft af det almindelige nytteprincip, hvor navnlig grundejere eller eventuelt andre ejere af fast 
+ejendom kan sættes i bidrag ud fra en nærmere fastlagt fordelingsnøgle (eller partsfordeli ng).23 
+Private bidrag fra bygherrer eller developers vil særligt være relevante i situationer, hvor der sker ny 
+bebyggelse eller egentlig byudvikling. I sådanne situationer kan klimatilpasning eller klimasikring indgå 
+som en mere eller mindre integreret del af det påg ældende byggeprojekt. Det kan navnlig være 
+relevant, hvis der planlægges for projekter i nye byområder, men det kan også være relevant, hvor 
+der planlægges for nyt byggeri i eksisterende byområder.  
+ 
+2.3.1 Pligtmæssige bidrag 
+Grundejere 
+Bygherrer eller developers kan i lighed med andre blive pålagt pligtmæssige bidrag til klimatilpasning 
+som grundejere. Dette gælder både i forhold til kystbeskyttelsesloven og vandløbsloven. Bygherrer vil 
+imidlertid ofte kun være grundejere i en kortere pe riode, hvorved det skal sikres, at kommende 
+grundejere forpligtes til at betale for drifts - og vedligeholdelsesudgifter, for eksempel  gennem et   
+kyst-, dige-, pumpe- eller vandløbslag. Vedtægter for sådanne lag må tinglyses på ejendommen for at 
+få gyldigh ed for senere erhververe af ejendommen. En sådan løsning forudsætter, at der på 
+tidspunktet for bygherrens afhændelse af ejendommen er en tilstrækkelig t klar afgrænsning af 
+klimatilpasningsprojektet. Er der tale om projekter, der først skal afgrænses og realiseres på et senere 
+tidspunkt, må det på det tidspunkt kræve en stillingtagen til, om de enkelte grundejere vil have nytte 
+af foranstaltninger efter det almindelige nytteprincip. 
+                                                           
+22 Tillæg vedr. kommunernes økonomi i lyset af COVID-19. https://fm.dk/media/18248/aftaleteksttiltag-vedr-
+kommunernes-oekonomi-i-lyset-af-covid19_a.pdf   
+23 Se blandt andet Klougart og Hilbert (2020) om kystbeskyttelseslovens nytteprincip i forhold til ejere af fast 
+ejendom, herunder ejere af infrastrukturanlæg, men ikke operatører eller brugere heraf, s. 3 og 13.  
+
+13 
+ 
+Betingelser for ibrugtagning af ny bebyggelse 
+En mulighed for at pålægge by gherrer/developers pligtmæssige bidrag til klimasikring i forbindelse  
+med nye projekter er i en lokalplan at fastsætte krav om afværgeforanstaltninger som betingelse  for 
+ibrugtagning af ny bebyggelse, jf. planlovens § 15, stk. 2, nr. 19 og § 15, stk. 10.24 Ifølge § 15, stk. 10 er 
+der ikke alene mulighed, men faktisk pligt til at fastsætte afværgeforanstaltninger, når der planlægges 
+for byudvikling, særlige tekniske anlæg, ændret arealanvendelse m.v. i udpegede oversvømmelses - 
+eller erosionstruede områder. Det er imidlertid kommunens valg, om etablering af sådanne 
+afværgeforanstaltninger skal fastsættes som en betingelse for ibrugtagning af det, som skal sikres mod 
+oversvømmelse. 
+Ifølge lovforarbejderne 25 kan afværgeforanstaltninger for eksempel  være regnvandsb assiner, 
+skråningsbeskyttelse, minimumskrav til sokkelkoter, etablering af diger eller højvandsmure. 26 En 
+lokalplan må ikke stride mod kommuneplanen, og det fremgår af § 11 b, stk. 1, nr. 14, at der også skal 
+fastsættes rammebestemmelser for afværgeforanstaltninger i kommuneplanen. Det skal dog ikke 
+nødvendigvis i rammebestemmelsen være angivet, hvilken type af afværgeforanstaltning der skal 
+etableres (Erhvervsstyrelsen 2020, s. 10) . For så vidt angår lokalplanen er det normalt et krav, at 
+lokalplanbestemmelserne skal være tilstrækkeligt klare og præcise for at kunne håndhæves, jf. 
+planlovens § 18. 27 Endvidere forudsættes det, at bestemmelserne er planl ægningsmæssigt 
+begrundede, det vil sige, at der skal være tale om arealrelaterede dispositioner.28 Endelig kan der ikke 
+med en lokalplan fastsættes bestemmelser for forhold, der reguleres efter anden lovgivning.29 I flere 
+tilfælde vil etablering af afværgefo ranstaltninger, for eksempel regnvandsbassiner eller diger, være 
+nærmere reguleret efter anden lovgivning, hvor der kan fastsættes nærmere vilkår for udformning af 
+anlæggene. Dette hindrer dog ikke, at en lokalplan kan fastsætte bestemmelser om placeringen  af 
+sådanne anlæg.  
+Hverken planloven eller lovforarbejderne til ændringen i 2018 forholder sig til, om der kan stilles krav 
+om etablering af afværgeforanstaltninger uden for lokalplanområdet. Dette kan ikke antages at være 
+tilfældet uden et klart hjemmelsgrundlag. Det er således, for så vidt angår planlovens § 15, stk. 1, nr. 
+12 om tilvejebringelse af eller tilslutning til fællesanlæg i eller uden for det af lokalplanen omfattede 
+område, antaget, at det , for så vidt angår tilvejebringelse, alene gælder  etablering af fællesanlæg 
+inden for lokalplanens geografiske område.30  
+At der ikke kan stilles krav om etablering af afværgeforanstaltninger uden for lokalplanområdet , er 
+også lagt til grund af Erhvervsstyrelsen (2021, s. 20), der blandt andet peger på, at dette kan føre til 
+en uhensigtsmæssig placering af for eksempel regnvandsbassiner, fordi det søges etableret inden for 
+lokalplanområdet, eller at lokalplanen udstrækkes til at gælde et større område , end det i øvrigt er 
+                                                           
+24 Bestemmelserne blev indføjet ved lov nr. 62/2018.  
+25 FT 2017-18, L 86 af 14. november 2017 forslag til lov om ændring af lov om planlægning (forebyggelse af 
+skader ved oversvømmelse eller erosion og mulighed for at etablere kystbeskyttelsesanlæg uden 
+tilvejebringelse af en lokalplan).  
+26 Endvidere kan henvises til Erhvervsstyrelsen (2021). Se s. 14 for eksempler på afværgeforanstaltninger.  
+27 Se blandt andet Anker (2013, s. 441). 
+28 Se blandt andet Anker (2013, s. 337ff). 
+29 Se blandt andet Pagh (2017 s. 332). 
+30 Se Andersen og Christiansen (1989, s. 230). Se endvidere Anker (2013, s. 403). 
+
+14 
+ 
+nødvendigt. Erhvervsstyrelsen peg er dog på muligheden for at kunne indgå frivillige aftaler med 
+bygherrer om etablering af anlæg uden for lokalplanområdet.  
+Det er i lovforarbejderne angivet, at bestemmelser om afværgeforanstaltninger i visse situationer vil 
+kunne medføre overtagelsespligt efter planlovens § 48, hvis en ejendom eller en del af en ejendom 
+må anses for forbeholdt til et offentligt formål.31 Der vil eksempelvis efter en konkret vurdering kunne 
+være krav om overtagelse, hvis byrden i form af forbehold til afværg eforanstaltninger rammer en 
+grundejer, som ikke eller kun i begrænset omfang samtidig har fordel af den udnyttelse, som 
+lokalplanen i øvrigt giver mulighed for. Det er uklart, om intentionen med lovændringen herved har 
+været, at bygherrer skulle kunne forpligtes til at etablere afværgeforanstaltninger, som i realiteten 
+kommer andre grundejere i området til gode. 
+Potentielle barrierer 
+Samlet set kan der altså være visse barrierer forbundet med muligheden for at fastsætte krav om 
+afværgeforanstaltninger i en lokalplan og dermed for at gøre etablering af sådanne foranstaltninger 
+til en betingelse for ibrugtagning af ny bebyggelse m.v. En væsentlig barriere er knyttet til, at der ikke 
+kan stilles krav om etablering af afværgeforanstaltninger uden for lok alplanområdet. Hertil kommer, 
+at flere typer af afværgeforanstaltninger, for eksempel  diger, skråningsanlæg og vandløbs -
+foranstaltninger er reguleret i anden lovgivning og vanskeligt lader sig regulere i en lokalplan. En 
+yderligere barriere kan knytte sig til beho vet for fremtidig drift og vedligeholdelse af eventuelle 
+afværgeforanstaltninger. Her er spørgsmålet, hvor langt planlovens § 15, stk. 2, nr. 17 om oprettelse 
+af grundejerforeninger og deres forpligtelse til at drive og vedligeholde fællesanlæg kan strækkes.  
+Der er således et behov for enten i planloven eller i vejledninger at præcisere eller tydeliggøre, at der 
+er nogle afværgeforanstaltninger, for eksempel knyttet til placering eller udformning af bebyggelse og 
+terrænforhold, som meningsfuldt kan fastsæt tes i en lokalplan, mens der er andre foranstaltninger, 
+for eksempel diger eller vandløbsforanstaltninger, som ikke kan eller bør reguleres i en lokalplan. 
+En alternativ eller supplerende mulighed kunne være at hente inspiration fra reglerne om etablering 
+af parkeringsfonde og indbetaling hertil som betingelse for en dispensation fra en lokalplans krav om 
+oprettelse af parkeringspladser, jf. planlovens § 21, stk. 2. På tilsvarende vis kunne der skabes hjemmel 
+til, at kommunerne opretter en klimasikringsfond , som der skal ske indbetaling til ved lokal -
+planlægning for ny bebyggelse m.v. i oversvømmelses- eller erosionstruede områder, særligt i tilfælde 
+hvor det ikke er muligt eller hensigtsmæssigt at etablere afværgeforanstaltninger i lokalplanområdet. 
+Det er i øvrigt antaget, at der for eksempel i forbindelse med successiv udbygning af et område vil 
+kunne dispenseres fra en lokalplans bestemmelser om etablering af fællesanlæg m.v. mod indbetaling 
+af et beløb til sikkerhed for den forholdsmæssige andel af de fo rventede udgifter ved anlæggets 
+senere etablering.32 Tilsvarende må antages også at kunne ske i forhold til klimasikring, der etableres 
+som fællesanlæg, ved successiv udbygning af et område. 
+2.3.2 Frivillige bidrag 
+Muligheden for, at en bygherre frivilligt kan tilbyde at dække udgifter til klimasikring , er for så vidt 
+ikke lovreguleret – bortset fra de særlige regler om udbygningsaftaler i planloven. Baggrunden for 
+planlovens regler om udbygningsaftaler skal findes i et ønske om at skabe klarere rammer for o g 
+                                                           
+31 I MAD2010.2757 fandt Overtaksationskommissionen for Vejle og Ringkøbing ikke grundlag for at, at udlæg af 
+et areal til regnvandsbassin i en privat udstykning kunne anses for udlagt til offentlige formål, hvorved der ikke 
+kunne kræves overtagelse efter planlovens § 48. 
+32 Se Andersen og Christiansen (1989, s. 231). Se endvidere Anker (2013, s. 404). 
+
+15 
+ 
+åbenhed om sådanne aftaler. Ifølge bemærkningerne til lov nr. 537/2007 33 var det ikke hensigten at 
+ændre på, at det er en kommunal opgave at foretage de fornødne investeringer i forbindelse med 
+udbygning af infrastruktur og byggemodning af et område. I hv ilket omfang det anses for en 
+kommunal opgave at afværge eller begrænse oversvømmelse (eller erosion), er ikke nødvendigvis lige 
+så klart. Her hviler dansk lovgivning i vidt omfang på  princippet om, at de, der har nytte af 
+klimasikringen, skal betale. Friv illige bidrag til klimasikring vil formentlig ofte være knyttet til, at der 
+skabes nogle muligheder for udnyttelse af arealer eller områder på en måde, som ellers ikke vil være 
+tilstede. I sådanne situationer kan der være behov for, at der i forbindelse me d udarbejdelse af en 
+lokalplan indgås udbygningsaftaler for at skabe klarhed over aftalerne.  
+En udbygningsaftale kan indgås mellem en grundejer og kommunalbestyrelsen om finansiering eller 
+etablering af visse anlæg, jf. planlovens § 21 b. Bestemmelsen omfatter alene fysiske infrastruktur -
+anlæg, og der er nærmere angivet tre situationer: 1) forbedringer af kvaliteten af infrastruktur, 2) 
+fremrykning af rækkefølge af udbygning og 3) ændring eller udvidelse af byggemuligheder. Både 2) og 
+3) vil formentlig kunne være relevante i forhold til klimasikring, selvom der ikke eksplicit er refereret 
+til klimasikring i lovbemærkningerne. Endvidere er det en forudsætning, at anlægget er nødvendigt 
+for at virkeliggøre planlægningen, jf. § 21b, stk. 3. Det fremgår udtr ykkeligt af stk. 3, at der også kan 
+være tale om anlæg uden for lokalplanområdet. I sådanne situationer kan det ikke forudsættes, at 
+lokalplanen indeholder nærmere bestemmelser for anlægget, idet der normalt ikke kan planlægges 
+for anlæg uden for lokalplanområdet. Derudover er det uklart, om der forudsættes fastsat nærmere 
+lokalplanbestemmelser for de anlæg, der er omfattet af en udbygningsaftale. Det fremgår imidlertid 
+af § 21 b, stk. 4, at oplysning om, at der foreligger et udkast til udbygningsaftale, sk al offentliggøres 
+samtidig med offentliggørelsen efter § 24 af forslag til kommuneplantillæg og lokalplan. Endvidere 
+skal indgåelse af udbygningsaftalen vedtages samtidig med lokalplanens endelige vedtagelse , jf. stk. 
+5.  
+Potentielle barrierer 
+De potentielle barrierer i forbindelse med indgåelse af udbygningsaftaler knytter sig først og 
+fremmest til spørgsmålet, om de pågældende klimasikringsanlæg falder ind under en af de tre 
+angivne kategorier i § 21 b, stk. 2. Dertil kommer, at der forudsættes en reel frivillighed fra 
+bygherrens side.   
+3. Sammenfatning 
+Som nævnt i indledning en er det overvejende sandsynligt, at de beskrevne bidragsmodeller i større 
+eller mindre omfang kombineres med hinanden og med det almindelige nytteprincip. Der er således 
+en ganske tæt sammenhæng med nytteprincippet, navnlig i forhold til de pligtmæssige bidrag. Det er 
+derfor nærliggende, at nytteprincippet fortsat vil udgøre kernen i klimatilpasningsprojekter både for 
+kyster og vandoplande, medmindre der er så store samfundsmæssige interesser på spil, at det kan 
+begrunde, at det offentlige – enten stat eller kommune – er den centrale bidragyder, eventuelt i 
+kombination med bygherrer eller developers, hvis der er tale om (samtidig) tilvejebringelse af nye 
+udviklingsmuligheder. Dette udelukker ikke, at der i de forskellige situationer kan være andre frivillige 
+bidragydere, eller at der eventuelt gennem ændring af lovgivningen kan bringes helt andre 
+bidragydere på banen, for eksempel Stormrådet eller særlige fonde. 
+                                                           
+33 FT 2006-07 L 204 Forslag til lov om ændring af lov om planlægning.  
+
+16 
+ 
+For så vidt angår nytt eprincippet i både kystbeskyttelsesloven og vandløbsloven kan det være 
+hensigtsmæssigt her at ridse op, hvilke lovgivning smæssige udfordringer eller eventuelle  barrierer, 
+der er forbundet med de gældende regelsæt. Dette er navnlig baseret på tidligere rapporter:34  
+ Afgrænsningen til grundejere eller ejere af fast ejendom kan være for snæver, selvom det 
+navnlig med ændringen af kystbeskyttelsesloven er understreget, at for eksempel ejere af 
+ledningsanlæg og dermed ejere af infrastrukturanlæg også hører til kredsen, der kan pålægges 
+bidrag. Tilsvarende er i praksis lagt til grund i forhold til vandløbsloven. Det er dog fortsat 
+uklart, hvor bred en kreds af ’ejere’ der er omfattet, og hvor langt nytteprincippet kan 
+udstrækkes. 
+ Afgrænsningen af nytte eller fordele er ikke ganske klar i praksis, navnlig når det handler om 
+immaterielle værdier af lokal eller national betydning. Sammenholdt med ejerbegrebet savnes 
+der klarere regler eller retningslinjer for, i hvilket omfang kommuner – eller eventuelt staten – 
+kan være bidragspligtige i projekter, hvor der sker beskyttelse af mere almene interesser, for 
+eksempel i forhold til kulturmiljø, rekreative interesser, turisme, infrastruktur m.v. 
+ Nytte eller fordele på tværs af kommunegrænser – både i forhold til ejere og almene 
+interesser – udgør også en udfordring navnlig i forhold til kystbeskyttelsesloven. Der savnes 
+klare lovgivningsmæssige rammer for, at der kan pålægges bidragspligt på tværs af 
+kommunegrænser eller eventuelt påbydes et samarbejde. 
+Dette notat har taget udgangspunkt i tre alternative ’bidragsmodeller’ eller rettere bidragydere, 
+nemlig takstfinansierede bidrag (forsyningsselskaberne), offentlige bidrag (stat eller kommune) samt 
+private bidrag fra bygherrer eller developers.  
+For så vidt angår forsyningsselskabernes takstfinansierede bidrag er de lovgivningsmæssige barrierer 
+i vidt omfang sammenhængende med, at der er fastsat grænser for, hvordan forsyningsselskaberne 
+kan disponere over de takstfinansierede midler. Det gælder principielt både i forhold til pligtmæssige 
+bidrag (under nytteprincippet) og frivillige bidrag.  
+ For de pligtmæssige bidrag er det en forudsætning, at der kan identificeres en nytte eller 
+fordel af projektet, herunder set i forhold til de udgifter selskabet ellers ville have haft til 
+håndtering af spildevand (overfladevand). Det kan for eksempel være sparede udgifter til 
+kloakledninger eller bassinkapacitet, der ellers ville have været nødvendige. Der kan i praksis 
+også være en vis uklarhed med hensyn til, i hvilket omfang forsyningsselskaberne faktisk 
+pålægges bidrag. 
+ For frivillige bidrag gælder det også, at der skal kunne identificeres en interesse, som 
+forsyningsselskabet lovligt må varetage og takstfinansiere. Dertil kommer, at de krav om 
+blandt andet dokumentation for det samfundsøkonomisk mest hensigtsmæssige 
+serviceniveau, forudsætningen om, at der kun kan takstfinansieres udgifter til overfladevand 
+op til det fastsatte serviceniveau, samt dokumentation for at den fysiske løsning er 
+selskabsøkonomisk hensigtsmæssig, kan begrænse incitamentet til frivilligt at deltage i 
+klimasikring. 
+For så vidt angår pligtmæssige bidrag fra stat eller kommune  under nytteprincippet er der visse 
+potentielle barrierer, som er knyttet til bidrag efter nytteprincippet. 
+                                                           
+34 Se blandt andet Anker og Janfelt (2020) og Anker, Fryd og Panduro (2021). 
+
+17 
+ 
+ Mulighederne for at pålægge bidrag som følge af mere almene interesser, herunder interesser 
+i forhold til kulturmiljø, rekreation, infrastruktur m.v. er uafklarede både i lovgivning og i 
+praksis. Dette skaber en vis usikkerhed og kan udgøre en barriere navnlig i forhold til 
+kystbeskyttelsesprojekter. 
+ Manglende mulighed for at andre kommuner kan sættes i bidrag eller påbydes at deltage i et 
+projekt efter kystbeskyttelsesloven udgør også en væsentlig barriere navnlig i forhold til 
+kystbeskyttelsesprojekter, der går på tværs af kommunegrænser.  
+For så vidt angår frivillige bidrag fra offentlige myndigheder er der et vist råderum for kommunerne i 
+henhold til de særlige hjemler i henholdsvis vandløbsloven (for offentlige vandløb) og kyst -
+beskyttelsesloven (for fællesprojekter).  
+ I andre situationer sætter kommunalfuldmagten grænser for, om kommunen kan medvirke til 
+at finansiere projekter, for eksempel i forhold til private vandløb.  
+ En anden potentiel barriere eller uhensigtsmæssighed i forhold til frivillige bidrag er, at der i 
+tværkommunale projekter kan være stor forskel på, om de enkelte kommuner ønsker at yde 
+frivillige bidrag (og i hvilket omfang). Det er dog næppe noget, der bør løses gennem 
+lovgivningsmæssige ændringer. Det kan overvejes, om der i øvrigt kan fastsættes forpligtende 
+rammer for kommunal deltagelse i tværkommunale klimasikringsprojekter – både for vandløb 
+og kyster. 
+For så vidt angår pligtmæssige bidrag fra bygherrer/developers kan der være visse barrierer forbundet 
+med muligheden for at fasts ætte krav om afværgeforanstaltninger i en lokalplan og dermed for at 
+gøre etablering af sådanne foranstaltninger til en betingelse for ibrugtagning af ny bebyggelse m.v.  
+ En væsentlig barriere er knyttet til, at der ikke kan stilles krav om etablering af 
+afværgeforanstaltninger uden for lokalplanområdet. Hertil kommer, at flere typer af 
+afværgeforanstaltninger, for eksempel diger, skråningsanlæg og vandløbsforanstaltninger, er 
+reguleret i anden lovgivning og vanskeligt lader sig regulere i en lokalplan. 
+ En yderligere barriere kan knytte sig til behovet for fremtidig drift og vedligeholdelse af 
+eventuelle afværgeforanstaltninger. Her er spørgsmålet blandt andet, hvor langt planlovens § 
+15, stk. 2, nr. 17 om oprettelse af grundejerforeninger og deres forpligtelse til at drive og 
+vedligeholde fællesanlæg kan strækkes. Desuden kan der være behov for at præcisere, hvilke 
+afværgeforanstaltninger, for eksempel knyttet til placering eller udformning af bebyggelse og 
+terrænforhold, som meningsfuldt kan fastsættes i en lokalplan. 
+ En alternativ mulighed kunne være med inspiration fra reglerne om etablering af 
+parkeringsfonde og indbetaling hertil at fastsætte hjemmel til, at kommunerne kan oprette en 
+klimasikringsfond, hvortil der skal ske indbetaling ved lokalplanlægning for ny bebyggelse m.v. 
+i oversvømmelses- eller erosionstruede områder, særligt i tilfælde hvor det ikke er muligt eller 
+hensigtsmæssigt at etablere afværgeforanstaltninger i lokalplanområdet.  
+For så vidt angår frivillige bidrag fra en bygherre til klimasikring er der for så vidt ikke en lovregulering 
+– bortset fra de særlige regler om udbygningsaftaler i planloven. Baggrunden for disse regler er et 
+ønske om at undgå en gråzone og sikring af, at private ikke bliver ’pålagt’ at dække udgifter, som det 
+offentlige ellers skulle finansiere. Der skal derfor være tale om en reel frivillighed fra bygherrens side 
+til at kunne finansiere visse nærmere angivne anlæg m.v.   
+  
+
+18 
+ 
+ 
+Oversigt over love m.v. 
+Betalingsloven: lovbekendtgørelse nr. 553 af 24. april 2020 om betalingsregler for 
+spildevandsforsyningsselskaber m.v.  
+- bekendtgørelse nr. 2275 af 29. december 2020 om spildevandsforsyningsselskabers 
+omkostninger til klimatilpasning i forhold til tag- og overfladevand og omkostninger til 
+projekter uden for selskabernes egne spildevandsanlæg og med andre parter i øvrigt 
+(omkostningsbekendtgørelsen) 
+Klima-lavbundsbekendtgørelsen: Bekendtgørelse nr. 50 af 15. januar 2021 om udtagning af 
+kulstofrige lavbundsjorder med henblik på genopretning af naturlig hydrologi (klima-
+lavbundsprojekter) 
+Kystbeskyttelsesloven: lovbekendtgørelse nr. 705 af 29. maj 2020 om kystbeskyttelse m.v. 
+- bekendtgørelse nr. 982 af 24. juni 2020 om tilskud fra pulje til diger og anden kystbeskyttelse 
+Lov nr. 69 af 23. maj 1873 om digearbejder på Lolland og Falster 
+Miljøbeskyttelsesloven: lovbekendtgørelse nr. 1218 af 25. november 2019 om miljøbeskyttelse 
+- bekendtgørelse nr. 2276 af 29. december 2020 om fastsættelse af serviceniveau m.v. for 
+håndtering af tag- og overfladevand (serviceniveaubekendtgørelsen) 
+Vandløbsloven: lovbekendtgørelse nr. 1217 af 25. november 2019 om vandløb 
+Vandsektorloven: lovbekendtgørelse nr. 52 af 23. januar 2020 om vandsektorens organisering og 
+økonomiske forhold (vandsektorloven) 
+Referencer 
+Andersen, B. & Christiansen, O. (1989). Kommuneplanloven med kommentarer. Jurist- og 
+Økonomforbundets Forlag. 
+Anker, H.T. (2013). Planloven med kommentarer. Jurist- og Økonomforbundets Forlag. 
+Anker H.T. & Janfelt, A. (2020). Bidragsmodeller ved klimatilpasning – lovgivningsmæssige rammer. 
+IFRO Rapport Nr. 293. Institut for Fødevare- og Ressourceøkonomi, Københavns Universitet. 
+https://static-curis.ku.dk/portal/files/251309198/IFRO_Rapport_293.pdf 
+Anker, H.T., Fryd, O. & Panduro, T.E. (2021). Overordnede pejlemærker for betalingsmodeller for 
+klimatilpasning i vandoplande og på kyster. IFRO Rapport Nr. 296. Institut for Fødevare- og 
+Ressourceøkonomi, Københavns Universitet. 
+https://curis.ku.dk/portal/files/260037298/IFRO_Rapport_296.pdf  
+DANVA (2021). Indmelding til National Klimatilpasningsplan. Dansk Vand- og Spildevandsforening. 
+https://www.danva.dk/media/7471/klimatilpasningsplan-danva-indmelding_final.pdf  
+Erhvervsstyrelsen (2020). Vejledning i planlægning for forebyggelse og erosion, 2. version. 
+https://planinfo.erhvervsstyrelsen.dk/sites/default/files/media/publikation/vejledning_i_planlaegni
+ng_for_forebyggelse_af_oversvoemmelse_og_erosion.pdf  
+
+19 
+ 
+Erhvervsstyrelsen (2021). Evaluering af planlovens regler om forebyggelse af oversvømmelse og 
+erosion. 
+https://planinfo.erhvervsstyrelsen.dk/sites/default/files/media/publikation/evaluering_af_planloven
+_m.v._2021.pdf  
+KL (2019). Klimatilpasning for fremtiden: Vand fra alle sider. 
+https://www.kl.dk/media/22562/klimatilpasning-for-fremtiden-vand-fra-alle-sider.pdf  
+Klima-, Energi- og Forsyningsministeriet (2017). Vejledning om vandselskabers deltagelse i tilknyttet 
+virksomhed. VEJ nr 9038 af 26/01/2017. https://www.retsinformation.dk/eli/retsinfo/2017/9038  
+Klougart, S.K. & Hilbert, S. (2020). Bidragsmodeller og juridisk vurdering – stormflodssikring af 
+Kalveboderne. Lundgrens. 
+https://www.hvidovre.dk/~/media/ESDH/committees/86/1964/74194.ashx  
+Kystdirektoratet (2019). Vejledning til bidragsfordeling i forbindelse med etablering og 
+vedligeholdelse af kystbeskyttelsesforanstaltninger. 
+https://kyst.dk/media/79939/vejledning_til_bidragsfordeling.pdf  
+Markert, L. & Soja, H. (2021). Vandselskabernes mulighed for tillæg til økonomiske rammer. Ret & 
+Indsigt nr. 1/2021, Horten. https://www.horten.dk/viden/artikel2021/vandselskabernes-mulighed-
+for-tillaeg-til-oekonomiske-rammer  
+Miljøstyrelsen (2018). Spildevandsvejledningen til bekendtgørelse om spildevandstilladelser m.v. 
+efter miljøbeskyttelseslovens kapitel 3 og 4. Vejledning nr. 28. 
+https://www2.mst.dk/Udgiv/publikationer/2018/06/978-87-93710-38-2.pdf  
+Miljøstyrelsen (2021). Klima-Lavbund. Vejledning om tilskud til Klima-Lavbundsprojekter. 
+https://mst.dk/media/208644/februar-2021-vejledning-klima-lavbund.pdf  
+Pagh, P. (2017). Fast ejendom – Regulering og køb. Karnov Group.

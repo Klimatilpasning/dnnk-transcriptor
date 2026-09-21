@@ -1,0 +1,2641 @@
+=== DNNK PDF Dokument ===
+Titel: her >
+Kategori: Rapporter_s5
+Kilde: https://usercontent.one/wp/www.dnnk.dk/wp-content/uploads/2020/07/anvisning-025_web.pdf
+Indekseret: 2026-09-21T18:36:53.992566
+
+==================================================
+
+RENOVERING AF 
+FALDSTAMME-
+SYSTEMER 
+ 
+ 
+Rørcenter-anvisning 022 
+April 2017 
+ 
+Gregers ensvej
+DK-2630 T aastrup
+Telefon 72 20 20 00
+Telefax 72 20 20 19
+info@teknologisk.dk
+www.tek nologisk.dk
+Rørcentret
+Telefon 72 20 22 90
+Telefax 72 20 22 93
+ENERGI OG KLIMA
+ISBN 978-87-996243-0-0
+VANDBREMSER
+REGULERING AF VANDSTRØMME 
+I AFLØBSSYSTEMER
+Rørcenter-anvisning 019
+Maj 2013
+Gregers ensvej
+DK-2630 T aastrup
+Telefon 72 20 20 00
+Telefax 72 20 20 19
+info@teknologisk.dk
+www.teknologisk.dk
+Rørcentret
+Telefon 72 20 22 90
+Telefax 72 20 22 93
+ENERGI OG KLIMA 
+ISBN 978-87-999802-0-8
+VANDBREMSER
+REGULERING AF VANDSTRØMME 
+I AFLØBSSYSTEMER
+Rørcenter-anvisning 019
+Maj 2013
+REGNVANDSBASSINER
+Rørcenter-anvisning 025 
+April 2018 
+MED NATUR OG AKTIVITET
+
+Regnvandsbassiner
+Med natur og aktivitet
+Rørcenter-anvisning 025
+1. udgave, 1. oplag 2018
+© Rørcentret, 
+Teknologisk Institut 
+Tryk og indbinding: 
+Trykportalen 
+ISBN  978-87-999802-4-6
+ISSN  1600-9894 
+Nøgletitel: Rørcenter-anvisning 
+EAN  9788799980246
+
+3
+Forord
+Formålet med denne anvisning er at den kan tjene som et inspirationskatalog til planlægning, udførelse 
+og drift af regnvandsbassiner med natur og aktivitet. Anvisningen præsenterer både den gode proces, 
+det gode design og de gode eksempler, som allerede findes. 
+Anvisningen giver gode ideer til, hvordan regnvandsbassiner kan udformes med fokus på natur og re -
+kreativ værdi, så der er potentiale til at:
+• Sk abe oplevelser og værdi i byen og i eksisterende grønne områder og kulturlandskaber
+• Sk abe rammen om leg, læring og fritidsaktiviteter
+• Sk abe identitet, attraktion og værdi for lokalmiljøet
+• F ungere som undervisnings- og bevægelsesmiljø for institutioner
+• Højne naturkvaliteten og diversiteten i flora og fauna – både i bassinet og i landskabet omkring.
+Anvisningen er udarbejdet af Orbicon med bistand fra T eknologisk Institut, Rørcentret. Baggrunden 
+for anvisningen er skabt gennem afviklingen af 5 workshops med deltagelse af Ballerup, Køge og Fre -
+derikssund Kommuner, de respektive forsyninger Ballerup (Novafos), KLAR og Frederikssund, samt 
+Orbicon og Rørcentret. 
+Projektet er støttet af Realdania, Trygfonden og Partnerskabet Vand i byer.
+Orbicon og T eknologisk Institut håber, at anvisningen i fremtiden kan være til inspiration, når der skal 
+anlægges nye regnvandsbassiner
+April 2018
+
+
+4
+
+5
+1.0 Indhold
+2 Baggrund          7
+ 2.1 Andr e vejledninger om regnvandsbassiner      7
+3 Planlægning og pr ojektproces         8
+ 3.1 Plangrundlag          8
+ 3.2 Pr ojektproces          8
+4 Målgruppen/int eressenter/interessekonflikter mellem anvendelse   9
+ 4.1 Målgruppen          9
+ 4.2 St edet og processen for inddragelse       9
+ 4.3 T ommelfingerregler         10
+5 R egnvandsbassiner med natur         11
+ 5.1 R egnvandsbassiners naturpotentiale       11
+ 5.2  Udformning a f regnvandsbassiner med naturindhold     11
+  5.2.1 Natur orienteret udformning af regnvandsbassiner    11
+  5.2.2 Natur orienteret jordbearbejdning       14
+  5.2.3 Natur orienteret beplantning       15
+  5.2.4 Natur orienteret drift        15
+ 5.3 T ommelfingerregler         15
+6 R egnvandsbassiner med plads til aktivitet og adgang til vandet     16
+ 6.1 Analy searbejdet          16
+ 6.2 Pr ogrammering af området        16
+  6.2.1 Be vægelse og adgang        17
+  6.2.2 Bruger e          17
+  6.2.3 Ople velse ved og omkring vandet      19
+  6.2.4 Ople velser tæt på vand        21
+  6.2.5  Ople velser ved ophold og aktiviteter ved vand, over vand og med vand  23
+ 6.3 St edets læsbarhed         29
+ 6.4 F ormidling/Branding         29
+ 6.5 T ommelfingerregler         30
+7 Sikk erhed i forbindelse med oplevelse ved og omkring vandet     31
+ 7.1  Hv ordan reducerer man risikoen for at drukne      32
+ 7.2  Sikk erhed i forbindelse oplevelser ved og omkring vand     32
+ 7.3  Sikk erhed i forbindelse oplevelser tæt på vand      34
+ 7.4  Sikk erhed i forbindelse med ophold og aktiviteter ved vand, over vand, med vand  35
+ 7.5 T ommelfingerregler         38
+8 Hy giejne           39
+ 8.1  Bas siner uden planlagt kontakt med vandet      39
+ 8.2  Bas siner med planlagt kontakt med vandet      40
+ 8.3  T ommelfingerregler for sikring af de hygiejniske forhold     42
+9 Drift og pleje af regnvandsbassiner        43
+ 9.1  Drift og pleje a f bassin og bassinnære arealer med hensyn til naturindhold   43
+  9.1.1 Opr ensning af sediment        43
+ 9.2  Grøn drift a f bassinnære arealer med hensyn til rekreative oplevelser   46
+
+6
+  9.2.1 Beplantning         46
+  9.2.2  Naturtyper i r elation til det oplevede rum      46
+  9.2.3 Stis ystemer         46
+  9.2.4 Drift af aktivitetsområder og -anlæg      47
+ 9.3 T ommelfingerregler         48
+10 Finansiering           49
+11 Ek sempelsamling          50
+ 11.1 Selsmosen          51
+  11.1.1 F orbindelser         52
+  11.1.2 Ov ergange         52
+  11.1.3 Ophold          53
+  11.1.4 Aktivit eter         54
+  11.1.5 T ryghed          54
+ 11.2 sØnæs           55
+  11.2.1 F orbindelser         56
+  11.2.2 Ov ergange         56
+  11.2.3 Ophold          57
+  11.2.4 Aktivit eter         58
+  11.2.5 F ormidling         59
+ 11.3 Vær ebrobassinet         60
+  11.3.1 F orbindelser         61
+  11.3.2 Ov ergange         61
+  11.3.3 T ryghed          62
+  11.3.4 Biodiv ersitet         62
+ 11.4 Sillebr o Ådal          63
+  11.4.1 F orbindelser         64
+  11.4.2 Ov ergange         64
+  11.4.3 Ophold          65
+  11.4.4 Aktivit eter         66
+  11.4.5 F ormidling         66
+  11.4.6 T ryghed          67
+  11.4.7 Biodiv ersitet         67
+ 11.5 Ringkøbing K          68
+  11.5.1 F orbindelser         69
+  11.5.2 Ov ergange         69
+  11.5.3 Ophold          70
+  11.5.4   Aktiviteter        71
+  11.5.5 F ormidling         71
+12 R eferencer           72
+13 Bilag 1            73
+ 13.1  Hvilk e planer kan bruges til hvad til i forhold til bassiner med natur og aktivitet?  73
+  13.1.1  Kommuneplanen og plan- og bær edygtighedsstrategien.    73
+  13.1.2 Spilde vandsplanen        73
+  13.1.3 Klimatilpasningsplan og handleplaner heraf     73
+  13.1.4 L okalplanen         73
+14 Bilag 2            74
+ 14.1 Pr ojektudviklingsproces         74
+15 Bilag 3            78
+ 15.1 Gode arter til råjord      
+
+7
+2.1 Andre vejledninger om regnvandsbas-
+siner
+De seneste års arbejde med klimatilpasning af 
+byerne har skabt fokus på, at regnvandshåndte -
+ring skal ske i synergi med udvikling af natur og 
+byrum, og der findes efterhånden mange gode 
+klimaprojekter, hvor vandhåndtering i tæt by, i 
+veje og i grønne områder samtidig har skabt nye 
+kvaliteter i byen.
+Målet med denne anvisning er at vise, hvordan et 
+tilsvarende fokus på synergi mellem vandhånd -
+tering, natur og rekreativ kvalitet kan skabe nye 
+muligheder, når vi etablerer eller renoverer regn-
+vandsbassiner.  
+Anvisningen indledes med et kapitel, der om -
+handler planlægning, interessentinddragelse og 
+opstilling af mål for natur og rekreativ kvalitet 
+ved nyetablering og renovering af bassiner. Heref-
+ter følger to kapitler, der rummer anvisninger for, 
+hvordan bassiner kan udformes, så de foruden 
+rensning og forsinkelse giver plads til natur og ak-
+tiviteter. Anvisningens sidste kapitler omhandler 
+design og drift af regnvandsbassiner med kvalitet 
+samt en eksempelsamling, hvor muligheder og 
+løsninger i en række danske projekter vises og 
+kommenteres.
+Vejledningen adresserer også nogle af de poten -
+tielle konflikter, der kan opstå, når vi inviterer na-
+tur og mennesker ind i de spildevandstekniske 
+anlæg, som regnvandsbassiner også er. Således 
+gives der anvisninger på, hvordan man kan hånd-
+tere, at regnvandsbassiner med tiden bliver auto-
+matisk omfattet af Naturbeskyttelseslovens §3, 
+og hvordan man kombinerer adgang og aktivitet 
+ved bassinerne med hensyn til sikkerhed og hy -
+giejne. 
+Rørcenteranvisning 025, Regnvandsbassiner 
+med natur og aktivitet, fokuserer på fremme af 
+natur og rekreative muligheder i og omkring bas -
+sinerne. Anvisningen skal ses som et supplement 
+til en række tidligere arbejder, hvor nedenstående 
+er de væsentligste i forbindelse med etablering 
+og drift af regnvandsbassiner. 
+I de tidligere vejledninger for regnvandsbassiner 
+har fokus været på hydraulisk dimensionering, 
+rensning og drift. Vejledninger for udformning og 
+dimensionering af både våde regnvandsbassiner 
+og nedsivningsbassiner findes samlet på hjem-
+mesiden www.separatvand.dk. Vejledningerne 
+/1/ og /2/ er lavet med fokus på at sikre bas -
+sinernes hydrauliske og rensetekniske funktion 
+og repræsenterer BAT (Best Available T echno -
+logy) på området. Vejledningerne bruges som ud-
+gangspunkt for etablering af regnvandsbassiner 
+i de fleste kommuner og forsyninger. Flere kom -
+muner, f.eks. Århus /3/ har desuden udarbej -
+det egne vejledninger for regnvandsbassiner. På 
+www.separatvand.dk findes desuden en kemisk 
+karakterisering af regnvand, en risikovurdering i 
+forhold til nedsivning /4/ og udledning og et sæt 
+af anbefalinger til opstilling af vilkår for nedsiv-
+ning og udledning /5/. Hjemmesiden opdateres 
+løbende.
+Danva har udarbejdet to vejledninger, der er re-
+levante at kende. En om drift og vedligehold af 
+regnvandsbassiner /6/, der samler op på vigtige 
+forhold og anbefalinger ved drift af regnvands-
+bassiner, og en designguide for regnvandsbassi-
+ner /7/. 
+2.0 Baggrund
+
+8
+3.1 Plangrundlag 3.2 Projektproces
+3.0 Planlægning og projektproces
+Det plangrundlag, der ligger i de respektive kom-
+muner, er rammesættende og retningsgivende 
+for projektet. Det er ligeledes i plangrundlanget 
+man med rettidig omhu, kan regulere ønsker for 
+fremadrettet planlægning af bassiner med plads 
+til natur og aktiviteter. I denne anvisning er der 
+udarbejdet en gennemgang af hvilke planer, der 
+kan bruges til hvad i forhold til anlæg af bassiner 
+med plads til natur og aktiviteter. Gennemgangen 
+findes i bilag 1. 
+En optimal planlægning af et nyt regnvandsbassin 
+kræver, at alle hensyn er gennemtænkt og indar -
+bejdet helt fra den første tanke om bassinet er 
+gjort. 
+Den projektproces, som fremgår af bilag 2, kan 
+bruges til både store og små projekter, eksiste -
+rende og ny infrastruktur. Det er en slags bage -
+opskrift hvorudfra projektforløbet naturligvis til -
+passes til det enkelte projekt, men som angiver 
+hvilke overvejelser og emner, der er vigtige at få 
+tænkt ind i projektet helt fra starten. Figuren illu -
+strerer den iterative proces der skal gennemfø -
+res i forbindelse med udviklingen af projektet. En 
+uddybet ”bageopskrift” på det ideelle planlæg-
+ningsforløb er beskrevet i bilag 2
+Fokuspunkter
+Konkretisering
+Mål, rammer
+udformning
+placering
+kortmateriale (ana-
+lyser)
+synergier med øvrige 
+planer og visioner
+Arealerhvervel-
+se/tilladelser
+Afklare:
+- Arealreserv. i svp
+- Behov for udarb. af 
+tillæg til svp? 
+- Lokalplan behov
+- Øvrige tilladelser
+Tidsplan
+Projekt proces
+inddragelse
+planregulering
+tilladelser
+Interessenter 
+og Aktører
+Formelle 
+Ufomelle
+Den kritiske vej
+Udfordringer
+Økonomi
+Bindinger
+Design
+Krav
+Interessent ønsker
+Afklaring af efter-
+følgende drift
+Afklaring af rammer 
+for drift hhv kommu-
+ne og forsyning
+Udkast til driftsplan
+
+9
+4.1 Målgruppen
+4.2 Stedet og processen for inddragelse
+Hvem skal det nye regnvandsbassin være rekre -
+ativt for? Et hypotetisk spørgsmål, men dog et 
+spørgsmål, som åbner op for kompleksiteten i så-
+danne projekter. Det er uundgåeligt, at der opstår 
+konflikter i interesser mellem interessenterne. 
+Graden af konflikter afhænger af mange forhold. 
+Er det et bynært bassin med stor berøringsflade 
+til naboer mm, bliver bassinet brugt til forskellige 
+formål i dag eller ligger bassinet skjult for omver -
+denen? 
+Konsensustilgangen stræber efter, at alle bliver 
+stillet lige godt - eller lige dårligt. En anden tilgang 
+er netværkstilgangen, hvor det handler om at 
+kunne navigere strategisk i et givent område ved 
+at se muligheder for at bygge nye netværk og mo-
+bilisere opbakningen til disse. Evnen til at være 
+nysgerrig på områdets eksisterende netværk og 
+iboende ressourcer skal bruges aktivt. Det hand-
+ler så at sige om, at kortlægge, hvordan områdets 
+borgere, brugere og andre aktører er forbundet, 
+og hvordan relationerne mellem disse kan styr -
+kes. Igennem dette arbejde kan man få kortlagt 
+potentialer i områder, interesser og skabt grobun-
+den for et langvarigt engagement og ejerskab. 
+Hovedessensen i inddragelse er, at arbejdet er 
+stedsspecifikt. Det handler om at finde frem til 
+stedets egenart gennem interessenternes og bru-
+gernes oplevelser og syn på det pågældende om-
+råde. Dog er der nogle generelle elementer, som 
+går igen, når man skal arbejde med interessenter. 
+Figuren viser en simpel spørgemodel, som kan 
+bruges i arbejdet med at planlægge inddragelsen. 
+Figur 1: Spørgemodellen som med fordel kan 
+anvendes ved inddragelsesprocesser
+• Det første man spørger sig selv om, er ”hvor-
+for” skal interessenterne eller grupper af in -
+teressenter inddrages? Det er grundspørgs -
+målet, der går igen i hele processen, og som 
+udgør den røde tråd i inddragelsen. Det er 
+her strategien for inddragelsen udarbejdes 
+og rammerne sættes. Det skal være tydeligt, 
+hvilken form for inddragelse der ønskes. 
+• Dernæst kommer spørgsmålet ”hvem”. Her 
+udarbejdes en interessentanalyse, der skal 
+bruges som et dynamisk værktøj. Interessen-
+terne kortlægges og de interne magtforhold 
+og ønsker beskrives. 
+• Det næste skridt er at vurdere ”hvornår”, der 
+skal inddrages. Her handler det både om at 
+se, hvor i projektfaserne giver det værdi at få 
+viden og input, samt hvornår på året, ugen og 
+dagen man skal møde interessenterne. 
+4.0 Målgruppe/interessenter/interessekonflikter 
+melle anvendelse
+
+10
+Figur 2: Graden af inddragelse kan defineres ud fra denne trappe som viser informationsniveauet på det 
+nederste trin og samskabelsen på det øverste
+• Det sidste spørgsmål handler om ”hvordan” 
+de forskellige grupper skal inddrages? Her kan 
+man bruge de eksisterende netværk blandt 
+interessenterne, og udarbejde aktiviteterne i 
+fællesskab (gåture i området, workshops, di-
+gitale platforme og/eller arbejdsgrupper.)
+I arbejdet med at formulere en strategi for inddra-
+gelse er det vigtigt at gennemgå graden af inddra-
+gelse. Hvor stor indflydelse kan interessenterne 
+få, og i hvilken grad kan deres input og ideer indar-
+bejdes? Der kan arbejdes med at skelne mellem 
+information kontra inddragelse. Procesplanen for 
+inddragelse skal beskrive, hvornår der åbnes op 
+for inddragelse, og hvornår interessenterne skal 
+informeres om projektets stadier. I takt med at 
+projektet går gennem de forskellige projektfaser, 
+falder graden af inddragelse mens behovet for 
+information udadtil stiger. I bogen ”Innovativ kli -
+matilpasning med borgere” findes en række an -
+befalinger til inddragelse /8/.
+4.3 Tommelfingerregler
+Vær opmærksom på målgrupperne, når der skal inddrages. T ag højde for alle interessenter og 
+identificer eventuelle konflikter mellem interessenter, der skal håndteres i inddragelsesprocessen
+Fokuser i inddragelsesprocessen på stedet, stedets identitet og brug dernæst spørgemodellen til at 
+komme ind til kernen for inddragelsesprocessen. 
+Spørg:
+1) Hv orfor: Strategien for inddragelsen udarbejdes og rammerne sættes
+2) Hv em: Interessentanalysen udarbejdes
+3) Hv ornår: Tidspunkt for inddragelse
+4) Hv ordan: Identificer den mest hensigtsmæssige måde at inddrage på
+Vær generelt bevidst om graden af inddragelse; Information, Høring, Inddragelse, Deltagelse og/eller 
+Samskabelse 
+Samskabelse
+Deltagelse
+Inddragelse
+Høring
+Information
+
+11
+5.0 Regnvandsbassiner med natur
+Mange steder tjener regnvandsbassiner, der er 
+etableret som tekniske anlæg, også som rekrea-
+tive områder for de lokale beboere. Den rekrea -
+tive funktion skyldes i vid udstrækning, at regn -
+vandsbassinerne med omgivende arealer byder 
+på tilgængelig og ofte spændende natur på ste-
+der, hvor der ellers kan være langt til en sådan 
+på grund af bebyggelser og veje. mv. Regnvands-
+bassinerne er på den måde små grønne og blå 
+oaser i byrummene. Regnvandsbassinerne kan 
+samtidig have naturmæssig værdi i sig selv og i 
+det landskab, de indgår i. Praksis viser desuden, 
+at naturindholdet og den naturmæssige diversi -
+tet både i og omkring bassinerne kan øges væ -
+sentligt, hvis regnvandsbassinerne anlægges og 
+drives med sigte på fremme af de naturmæssi -
+ge kvaliteter. I tidsskriftet Vand og Jord findes en 
+gennemgang af naturindhold i regnvandsbassiner 
+/9/.
+Våde regnvandsbassiner vil ligesom naturlige 
+småsøer som regel være beskyttet jf. Naturbe -
+skyttelseslovens §3. 
+Bassinernes naturkvalitet og beskyttelse er som 
+udgangspunkt ikke i konflikt med bassinernes 
+tekniske funktion, da både bassinernes renseef -
+fekt og naturkvalitet er afhængig af, at bassinerne 
+løbende oprenses. Det har dog i praksis vist sig 
+vigtigt, at Forsyningen som bassinejer og drifts-
+ansvarlig indgår i konstruktiv dialog med Myndig -
+hed om vilkårene for drift og oprensning. Forhol -
+dene omkring drift af regnvandsbassiner findes 
+nærmere beskrevet i kapitel 9, Drift og pleje af 
+regnvandsbassiner.
+5.1 Regnvandsbassiners naturpotentiale
+5.2 Udformning af regnvandsbassiner 
+med naturindhold
+5.2.1 Naturorienteret udformning af regn-
+vandsbassiner
+Regnvandsbassiner er på mange måder pendan-
+ter til landskabets mange vandhuller og småsøer, 
+og meget af vores viden om regnvandsbassiner -
+nes naturpotentiale stammer fra undersøgelser 
+af vandhuller og småsøer. Flertallet af landska -
+bets mange vandhuller og en stor del af småsøer-
+ne er opstået som følge af målrettet gravning, ek-
+sempelvis efter mergel, eller som følge af anden 
+målrettet aktivitet. De således opståede små -
+vande fortæller os først og fremmest, at når der 
+opstår et nyt vandområde, så indfinder der sig 
+meget hurtigt arter af både planter og dyr med til-
+knytning til vand, og med tiden udvikles der ofte 
+en både artsrig og varieret natur med indhold af 
+sjældne og beskyttelseskrævende arter.
+Småvandene fortæller os også noget om, hvad 
+det er for egenskaber og karakteristika, der gør, at 
+nogle vandhuller har en bedre naturkvalitet end 
+andre, at nogle vandhuller er bedre ynglesteder 
+for padder end andre, og at nogle vandhuller for -
+bliver i god naturtilstand, mens andre mister na -
+turkvaliteten med tiden. Det er i vid udstrækning 
+denne viden, vi kan gøre brug af, til at designe 
+regnvandsbassinerne på en sådan måde, at der 
+skabes grundlag for et stort og varieret naturind -
+hold, og til at vedligeholde og pleje regnvands -
+bassinerne, så naturkvaliteten løbende holdes på 
+et højt niveau. Begge dele med sigte på at skabe 
+og bevare de naturmæssige kvaliteter, der også 
+har stor betydning for de rekreative kvaliteter.
+Både menneskeskabte småvande og naturlige 
+søer fortæller os, at jo større den fysiske variation 
+i bassinet er, og jo mere naturlige omgivelserne 
+er, desto rigere og mere varieret er naturindholdet 
+både i og omkring bassinet.
+Samtidig er det åbenlyst, at regnvandsbassiner 
+med en varieret form og naturprægede omgivel -
+ser virker mere tiltrækkende på folk end bassi -
+ner med en stram geometrisk form, omgivet af 
+slåede græsarealer og hegn mv. Dette sammen -
+fald mellem den naturmæssige og den rekreative 
+betydning af fysisk variation taler for at anlægge 
+regnvandsbassiner med fokus på den fysiske va-
+riation.
+Den således ønskelige fysiske variation indbefat-
+ter flere forskellige komponenter, hvoraf de vigtig-
+ste er: omrids, bundhældning og dybdevariation.
+
+12
+Figur 3:  Tv; Modsat tør natur udvikler naturen i og omkring småsøer og regnvandsbassiner sig meget 
+hurtigt. Allerede første år kan frøer og padder indvandre. Billederne viser samme bassin efter anlæg-
+gelsen i juni 2013, i august 2013 og i august 2016. Th; Billederne viser det samme bassin fra anlæggel-
+sesåret 2010 frem til 2017, 7 år efter, hvor det er helt tydeligt, at naturen indtager området og skaber ny 
+værdi ved et regnvandsbassin som dette.
+
+
+13
+• Et uregelmæssigt omrids er en af de nem -
+meste måder at skabe fysisk variation på i 
+forhold til planter og dyr. Samtidig giver det 
+regnvandsbassinet udseende som et natur -
+ligt vandområde, der også taler for et mere 
+rekreativt udtryk.
+• Bundhældning og dybdevariation er mere 
+subtile aspekter af den fysiske variation, idet 
+de er bestemmende for den fysiske variation 
+under vandoverfladen. Men fordi disse to pa-
+rametre almindeligvis afføder synlige forskel-
+le i vegetationens udvikling, er de alligevel af 
+betydning for det rekreative aspekt. Det kan 
+være en fordel for padder, at der placeres 
+flade sten i de lavvandede områder. Padder-
+ne benytter ofte stenene til solbadning. Man 
+kan også placere en stak marksten et stykke 
+ovenfor bredden. Mange padder og krybdyr 
+bruger diger og stendynger til overvintring.
+• Bundhældningen har en nær kobling til ter -
+rænhældningen over vandlinjen, og såvel na -
+turaspektet som sikkerhedsaspektet taler 
+for en flad bundhældning i bredzonen, det vil 
+sige i den brednære del af bassinet og videre 
+op i de nære omgivelser. Et fladt anlæg over 
+vandlinjen vil derudover gøre det nemmere 
+for brugerne at færdes tæt på vandlinjen – en 
+vigtig kvalitet for dem, der ønsker at komme 
+tæt på planterne og dyrene i vandet.
+• Dybden og dybdevariationen er bestem -
+mende for både arternes forekomst og ud -
+bredelse i bassinet, og de to parametre er 
+derudover bestemmende for bl.a. bassinets 
+egnethed som ynglested for padder. For at 
+sikre bassinets renseeffekt og beskytte det 
+mod tilgroning skal vanddybden i hovedbas -
+sinet mindst være 1-1,5 meter. Et målrettet 
+design af både dybden og dybdevariationen 
+er derfor en måde, hvorpå man tilegner bas -
+sinet bestemte kvaliteter for både planter og 
+dyr, og hvorpå man kan give bassinet et be -
+stemt vegetationsmæssigt udtryk.
+Figur 4: Bredzonen er vigtig for naturindholdet i regnvandsbassiner. 
+
+14
+5.2.2 Naturorienteret jordbearbejdning
+Ved gravning af regnvandsbassiner når man ty -
+pisk ned i den mere næringsfattige råjord under 
+den mere næringsrige topjord. Undlader man at 
+genudlægge topjorden (mulden) i og omkring 
+bassinet, får man i de fleste tilfælde en værdifuld 
+mulighed for at skabe et mere næringsfattigt bas-
+sin, end hvis man genudlægger den næringsrige 
+topjord, se figur 3 og 5. I bilag 3 findes en liste 
+med gode arter der kan etablere sig i råjord. 
+Tilledningen af regnvand vil ganske vist med ti -
+den berige den vandfyldte del af bassinet med 
+næringsstoffer, men over vandlinjen vil det kunne 
+gøre en stor forskel at undlade genudlægning af 
+topjorden. På natursiden vil den mere næringsfat-
+tige råjord erfaringsmæssigt blive bevokset med 
+en mere alsidig og mindre næringskrævende ve-
+getation, og på vedligeholdelsessiden vil behovet 
+for regelmæssig slåning kunne mindskes ad den 
+vej, modsat det man almindeligvis ser på de ste -
+der, hvor topjorden genudlægges.
+Figur 5: Billedet her fra Ringkøbing K, hvor man ser bassinernes brinker udlagt med råjord.
+
+15
+5.2.3 Naturorienteret beplantning
+Træer og buske er almindeligvis attraktive kompo-
+nenter i den rekreative kvalitet af grønne arealer, 
+og kan under visse forudsætninger også være det 
+omkring regnvandsbassiner. Der bør dog normalt 
+ikke etableres beplantning tæt på vådområdet. 
+Dette gælder særligt mod syd. Beplantning skyg -
+ger for vandhullet og forringer dermed vilkårene 
+for insekter, padder og vandplanter. Ved løvfald 
+vil blade falde i vandet, hvilket kan have negativ 
+betydning for vandkvaliteten. Høj beplantning tæt 
+på vådområdet kan også have negativ effekt på 
+vandfuglenes brug af vådområdet.
+I nogle omgivelser vil det være mest attraktivt at 
+undgå beplantning og derigennem skabe og beva-
+re lysåbne bassiner med de kvaliteter, der knytter 
+sig til sådanne, både naturmæssigt og rekreativt. 
+I andre omgivelser kan det være både naturligt og 
+attraktivt at plante træer og buske omkring dele 
+af bassinerne.
+Ved plantning bør der fokuseres på naturligt fore-
+kommende arter omkring småvande, eks. Rødel, 
+5.2.4 Naturorienteret drift
+I sidste ende er det driften af regnvandsbassinet 
+og dets omgivelser, der afgør, hvordan naturen 
+udvikler sig i og omkring bassinet. Drift af regn -
+vandsbassiner er beskrevet i kapitel 9.
+hæg, dunbirk og gråpil. Man skal dog være op -
+mærksom på, at især sidstnævnte kan få hele 
+bredzonen til at vokse til og derigennem forringe 
+såvel de naturmæssige som de rekreative værdi-
+er. Man skal derfor være varsom med plantning 
+af pil og være opmærksom på for stor spredning. 
+Man kan med fordel sikre sig at tilbageholdelse/
+nedskæring af beplantning bliver en del af drift -
+svejledningen for bassinet, således man bevarer 
+lysåbne områder og visuel kontakt til bassinet. 
+Det skal også nævnes, at både rødel og pil m.fl. 
+ofte indvandrer af sig selv, hvorfor det kan være 
+en god idé at se tiden an, førend der foretages 
+beplantning.
+5.3 Tommelfingerregler for udformning af bassiner med naturindhold
+Der er parametre, der er særligt væsentlige for naturindholdet i regnvandsbassiner, og som kan 
+tænkes ind, når man udformer og renoverer bassiner og planlægger driften af dem.
+• Bassinets fysiske udformning: Bassiner etableres så vidt muligt med naturpræg, så der 
+skabes fysisk variation i bassinets udformning, bredzone, bundhældning og dybde. For at sikre 
+bassinets renseeffekt og beskytte det mod tilgroning skal vanddybden i hovedbassinet mindst 
+være 1-1,5 meter. Bredzonen og terrænet omkring bassinet anlægges svagt skrånende og 
+gerne med udlægning af sten af hensyn til frøer og padder.  
+• Jordbearbejdning: Både bassinet og dets omgivelser kan med fordel anlægges i råjord og uden 
+dække af næringsrig muldjord.
+• Beplantning: Hvis bassinets omgivelser beplantes, benyttes hjemhørende arter. Alternativt kan 
+man afvente naturlig indvandring. Af hensyn til frøer og padder sikres det, at der er lysåbne sol-
+beskinnede områder i bredzonen. 
+• Drift og pleje: Regnvandsbassiner skal renses op for at bevare deres renseeffekt. Metoder og 
+forhold omkring sedimentfjernelse og oprensning findes beskrevet i kapitel 9
+
+16
+6.0 Regnvandsbassiner med aktivitet og adgang 
+til vandet
+Når man gør sig de første tanker omkring regn -
+vandsbassinets rekreative funktion er det vigtigt 
+at man ikke for hurtigt konkluderer, hvilke aktivi -
+teter man gerne vil have i området. Man skal sikre 
+sig, at de valg man tager, er baseret på et grundigt 
+forarbejde, der både indeholder en analyse af det 
+område man befinder sig i, samt at man har haft 
+en evt. inddragelse af de borgere, som vil få gavn 
+af området (se Kapitel 4).
+I det følgende afsnit beskrives den analyse og 
+programmeringsproces, der kan hjælpe med at 
+definere de rette funktioner i og omkring bassi -
+net. Desuden er der i kapitlet vist en række illu -
+strationer af rekreative/aktivitets muligheder, 
+som kan anvendes som inspiration til planlæg -
+ningsprocessen.
+6.1 Analysearbejdet
+6.2 Programmering af området
+Analysearbejdet omfatter følgende:
+1) F orståelse af den geografiske placering
+2) F orståelse af den lokale kontekst (hvem  
+ bor i omr ådet, hvilke funktioner findes i   
+ omr ådet osv.)
+3) F orståelse af områdets formål (nu og   
+ fremtidige)
+4) F orståelse af brugerne (nuværende/   
+ fr emtidige), og deres ønsker
+5) F orbindelserne og grænsefladerne til de  
+ tils tødende områder (stier, grønne area   
+ ler m v)
+6) Adgangen til omr ådet (offentligt/privat)
+ 
+Når man har sin analyse på plads, kan man be-
+gynde at fastlægge sine overordnede tanker for 
+stedet – man programmerer området så at sige, 
+og sætter ord på hvad man gerne vil hvor. 
+I sin programmering kan/skal man tage hensyn til 
+følgende punkter, som er beskrevet i de følgende 
+afsnit. 
+1) Be vægelse og adgang
+2) Brugere
+3) Ople velse ved og omkring vandet
+4) Ople velse tæt på vand
+5) Ople velser ved ophold og aktiviteter ved  
+ vand
+Figur 6: Figuren viser eksempler på de forskellige 
+stitypologier der beskrives i anvisningen
+
+17
+6.2.1 Bevægelse og adgang
+6.2.2 Brugere
+Bevægelsen ved bassinet reguleres primært af 
+det stisystem, der anlægges i området. Det kan 
+være en fordel at indtænke et hierarki i stisyste -
+met, som foreslået nedenfor (Se også forskellige 
+eksempler på forbindelser under case-beskrivel-
+serne).
+Forbindelsesstierne anlægges med fast, hård be-
+lægning, og fungerer som en forholdsvis hurtig 
+forbindelse fra A til B for cyklister og fodgænge-
+re. Denne type sti bør ikke oversvømmes og vil 
+derfor være den ”sikre” vej gennem området ved 
+bassinet. Stien kan føres over bassiner/vandløb 
+som en bro og anlægges med en bredde på 2-4 m 
+afhængig af behov og forventet belastning. 
+De rekreative stier udformes som 2-3 m brede 
+stier i klippet græs eller fint grus. Denne stitype 
+fører brugeren gennem området i et moderat 
+tempo og sikrer tilgængelighed for kørestolsbru -
+gere og barnevogne. En rekreativ sti kan risikere, 
+at blive oversvømmet, da den kan placeres tæt 
+op ad bassiner og vandløb. Stitypen kan overgå 
+til broer, hvor den krydser vandløb eller bassiner. 
+Aktivitetsstier udlægges med træflis eller som 
+trampestier i de tørre områder. Stierne er op til 1 
+meters bredde. Denne type sti slynger sig i land -
+skabet og inviterer til opdagelse, nysgerrighed, 
+samarbejde og afprøvning af motoriske færdig -
+heder eller fysisk træning. Flere steder kan akti-
+vitetsstien udformes som en forhindringsbane, 
+der bygges op af træ/beton eller andre materia -
+ler. Stierne lader brugerne komme tæt på, evt ud 
+i bassinet eller over vandløbet. Denne type sti vil 
+blive oversvømmet jævnligt, da placeringen man-
+ge steder ligger tæt op ad vandløb og bassiner, 
+for at skabe tæt sammenspil med vandet og det 
+øvrige terræn.
+De forskellige stityper supplerer hinanden, men 
+et område vil fint kunne fungere blot med den 
+rekreative stitype, der er alsidig og billig i anlæg 
+og drift. Hvis der er behov for hurtige forbindelser 
+igennem et område er forbindelsesstien god at 
+kombinere med den rekreative, og i de områder 
+hvor der er ressourcer til at programmere fysiske 
+tiltag ind, er det oplagt at anlægge aktivitetsstien, 
+der har et minimalt vedligeholdelsesbehov. Stisy-
+stemet bør planlægges, så det kobles på stier fra 
+de tilstødende områder. Derudover bør stisyste-
+met anlægges, så det er muligt at gå rundt i et om-
+råde og ikke kun igennem. Stierne må ikke ende 
+blindt og stierne bør have en destination. Figur 7 
+er udviklet på Gerlev Idrætshøjskole og viser at 
+bevægelsen altid skal kobles i knudepunkter og 
+skabe rundture, der ikke ender blindt. For mere 
+inspiration se case beskrivelserne under over -
+skrifterne ”Forbindelser”.
+Et sted kan programmeres til mange ting, men 
+før man beslutter sig for, hvad man skal kunne på 
+stedet, er det vigtigt at se på, hvem man forven -
+ter, der vil bruge stedet. 
+Området skal tilpasses, så det bedst muligt tilgo-
+deser brugernes behov. Der skal indtænkes vari-
+ation til aldersgrupper, hvis man har en bred bru-
+gergruppe, og man kan indtænke tilgængelighed 
+så også gangbesværede kan bevæge sig rundt i 
+dele af området (se afsnit ”Forbindelser” under 
+case beskrivelserne). 
+
+18
+Evt kobling til omgivelser
+Evt kobling til omgivelser
+Evt kobling til omgivelser
+Evt kobling til omgivelser
+Figur 7: Bevægelsesmodellen er udviklet på Gerlev Idrætshøjskole. Den viser hvordan bevægelsesforløb 
+altid skal have flere retninger
+Figur 8: Mange forskellige brugertyper kan anvende områderne
+
+19
+6.2.3 Oplevelse ved og omkring vandet
+Der er mange gode grunde til at have fokus på 
+stedets oplevelseskvaliteter. Forskning peger 
+nemlig på, at grønne områder har en positiv ind -
+virkning på menneskers sundhed på tre hoved -
+områder /10/:
+• Ved at opfordre til fysisk aktivitet
+• Ved at opfordre til social kontakt
+• Ved at give mulighed for fysisk og mental re -
+stitution
+Bassiner ligger ofte i bynære områder, hvor de 
+kan være et markant bidrag til områdets grønne 
+struktur. Derfor er der særlig grund til at være op-
+mærksom på, hvad bassinet og dets omgivelser 
+kan bidrage med i forhold til den oplevelsesrela -
+terede værdi.  Man skal grundigt overveje, hvilket 
+niveau det er realistisk at aktiviteterne ved bas-
+sinet opnår. Er målsætningen at området skal 
+være et naturområde med plads til fugleliv, så 
+skal man ikke fokusere på det fysiske element i 
+samme grad, som hvis bassinet er placeret ved 
+et idrætscenter eller i forlængelse af et grønt 
+område med mange fritidsløbere. I det følgende 
+beskrives nogle designparametre, der med fordel 
+kan gennemgås i forbindelse med udviklingen af 
+sit projekt. 
+6.2.3.1 Hvilket niveu er det rigtige?
+Nogle steder har en størrelse og beliggenhed, der 
+lægger op til, at man skal kunne være fysisk aktiv, 
+mens andre steder har en karakter, der egner sig 
+til ture, man kan gå alene eller sammen med an-
+dre. Det er forskelligt hvilket behov, der er for so-
+cialt samvær – nogle steder er bænke i landska -
+bet nok, mens andre steder har behov for, at man 
+kan være flere mennesker samlet, spise madpak-
+ker eller riste skumfiduser. Afhængig af, hvordan 
+stedets karakter ønskes at være, og hvilke bruge-
+re man har og vil have, skal programmeringen til -
+passes til det rigtige niveau. Der bør ikke være fy-
+siske aktiviteter på steder, hvor det er urealistisk, 
+at de vil blive brugt. Derimod bør et sted kunne 
+skabe plads til de brugere, der gerne vil færdes 
+alene og bruger stedet til mental genopladning. I 
+case beskrivelserne ses en stor variation i hvad 
+de forskellige områder tilbyder. Værebro bassin 
+er et eksempel på et samlingssted for en skole, 
+en svømmehal og et beboelsesområde. Således 
+er indretningen tilpasset bassinets grænseflader 
+mod disse funktioner. sØnæs er et eksempel på 
+et området med ofte høj anvendelsesniveau. Her 
+er både plads til leg, ophold med madpakker og 
+gåture ved og omkring vandet. Se case beskrivel-
+serne under ”Ophold” og ”Aktiviteter”. 
+Alene Socialt Fysisk
+Figur 9: Aktiviteter kan skelne mellem sociale, fysiske eller mentalt stimulerende oplevelser
+
+20
+6.2.3.2 Terræn og oplevelse
+T errænets bearbejdning har betydning for ople -
+velsen på stedet. I de viste eksempler er der fo -
+kus på synligt vand, som kan ses fra stierne. Her 
+er det både terrænets udformning og driften af 
+stedets beplantning, der har betydning for van -
+dets synlighed. En skrå brink med lav beplantning 
+øger synligheden til vandet (se midterste prin -
+cip), mens en nedgravet sti, anlagt ved siden af 
+vandet, giver en anden oplevelse både rumligt og 
+også i forhold til vandet. Her er man tættere på 
+vandet, og man får en følelse af omsluttet hed, 
+som virker beroligende og tryg. Under ”Forbindel-
+ser” ved case beskrivelserne, ses en variation af 
+eksempler på stiforløb langs vandet.
+Planter og træer, der har forskellige størrelser og 
+farver, er med til at give øjet nogle indtryk. Be -
+plantning er et af de ”arkitektoniske virkemidler” 
+man kan anvende til at skabe en oplevet fascina-
+tion, der er med til at få mennesker til at slappe 
+mentalt af i naturen. Med planternes mønstre og 
+en særlig sammensætning, er det muligt at desig-
+ne et sted, hvor man kan skabe oplevelsen af, at 
+være i et omsluttet rum, der sammen med vandet 
+stimulerer den mentale restitution, eller de rette 
+rammer for det sociale møde. Når der designes 
+med beplantning, kan man anvende en variation 
+i beplantningshøjder, typer og strukturer der kan 
+give forskellige oplevelser. Man kan med fordel 
+skelne mellem behovet for den grønne flade, den 
+trygge beplantning i ryggen, eller det omsluttende 
+tag af træernes kroner. Urter, stauder og træer bi-
+drager til sanselige oplevelser. Et grantræs grene 
+føles og dufter helt anderledes end bladene på 
+et birketræ. Placeringen af træer og buske kan 
+skabe læ og afskærme eller markere udsyn. Med 
+beplantning skabes der rum i et område, og den 
+varierede beplantning kan skabe varierende op-
+levelsesværdier. Med simple virkemidler og med 
+variation kan planter og træer give et sted karak -
+ter, atmosfære og identitet. De to cases Selsmo-
+sen og Sillebro Ådal er begge områder, der nu er 
+vokset til, og hvor man tydelig kan se, at beplant-
+ningen giver en særlig oplevelseskarakter i form 
+af styrede visuelle forbindelser, lukkede og om-
+sluttede rumdannelser og udsigter med rygska-
+bende beplantningsstrukturer.
+Vand man kan se Vand man kan se Vand der kan oversvømme
+Figur 10: Terrænets udformning er med til at bestemme, hvordan vandet opleves. Hvor tæt man kan 
+komme på og om landskabet ændres, når vandet stiger eller falder. Beplantning skaber også oplevelser. 
+
+21
+Vand der adskiller menne-
+sker og fauna
+Vand man er hævet over
+Beplantning der skaber rum 
+og oplevelse
+Vand man kan komme tæt på 
+med hjul
+Beplantning der skaber rum 
+og duft
+Vand man kan være tæt på
+6.2.4 Oplevelser tæt på vand
+En sti skaber forbindelse fra A til B. Turen fra et 
+sted til et andet giver forskellige oplevelser af -
+hængig af tempo, stiens bredde, belægningen og 
+omgivelserne. Stier kan gøre det muligt at se og 
+opleve et steds naturkvaliteter, som fx når man 
+går på en træbro og er hævet over vandet, men al-
+ligevel tæt på det. Herfra får man udsyn til detaljer 
+eller overblik over et bassin (se case beskrivelser 
+under ”Forbindelse” og ”Overgange”)
+Figur 11: Beplantning er et stærkt virkemiddel, der skaber rum og oplevelser med forskellige sanseind-
+tryk. En blomst der dufter, frugt der kan plukkes, og afskærmning med træer, græsser og buske er med 
+til at forme de ”rum” , der inviterer til ophold eller leg.
+Figur 12: Forbindelser kan både være træbroen i et vådt område, forbindelsesstien tæt på vandet eller 
+bassinet, og aktivitetsstien mellem beplantning ved eller i vandet.
+
+22
+Vand man kan komme over
+Vand man kan rulle ved
+Vand man kan gå ved siden af
+Vand man kan løbe ved Vand man kan cykle ved
+Figur 13: Forbindelser der tager dig sikkert over vandet, og en rekreativ sti, der leder gennem grupper af 
+træer og tæt på vandet.
+Figur 14: Forbindelser ved rekreative bassiner kan også invitere til fysisk aktivitet, som løb, cykling og 
+rulleskøjter.
+
+23
+6.2.5 Oplevelser ved ophold og aktiviteter 
+ved vand, over vand og med vand
+I de følgende afsnit beskrives forskellige måder 
+at opholde sig ved vandet på. Der henvises til 
+case beskrivelserne under overskrifterne ”Op -
+hold” og ”Aktivitet”
+At skabe de fysiske rammer for, at der er steder, 
+folk har lyst til at opholde sig, er vigtigt uanset 
+hvad det er for et sted. Jo længere tid den enkel-
+6.2.5.1 Steder til ophold
+te bruger er i området, jo mere liv skabes der. Til-
+stedeværelsen af andre mennesker er vigtig for 
+trygheden. 
+I mange tilfælde vil et naturskønt sted med sid-
+demuligheder være nok til at få folk til at opholde 
+sig. Ved rekreative bassiner kan der skabes op -
+holdssteder både ved og over vandet. Man kan 
+sidde og iagttage vandet, urterne, græsserne og 
+blomsterne, træerne, fuglene der flyver forbi og 
+insekterne eller frøen, der er i sit rette element. 
+Ophold kan også ske sammen med andre, hvor 
+det er samtalen og det sociale, der er fokus på. 
+Vand man kan få øje på Vand man kan være omringet 
+af
+Vand man kan se på og ophol-
+de sig ved
+Figur 15: Ophold sker i fuglekiggertårnet med udsigt over området og iagttagelse af fuglene. Man kan 
+sidde på en ø i vandet og høre frøerne kvække, eller man kan bruge trapperne til at sidde på og kigge på 
+fisk i vandet.
+
+24
+Vand man kan flyde på
+Vand man kan flyde på
+Vand man kan være over
+Vand man kan sove over
+Figur 16: En trækonstruktion på vandet inviterer til en pause, mens en træbro tilbyder en forbipasseren-
+de muligheden for at sidde og iagttage naturen.
+Figur 17: En ponton med siddemuligheder flyder i vandet, mens der et andet sted over et vådområde er 
+bygget et shelter.
+
+25
+Når bevægelse, brugere og aktivitetsniveau er 
+fastlagt, skal stedets aktiviteter defineres og pro-
+grammeres. 
+Man kan med fordel kan tage udgangspunkt i føl-
+gende:
+• Skal man skabe et sted med meget eller   
+lidt interaktion med vandet?
+• Skal man skabe et sted, hvor    
+brugere på varieret vis bliver udfordret?
+6.2.5.2 Aktiviteter ved og med vand
+Vand man kan lære om
+Vand man kan komme ned til
+Vand man kan opholde sig ved
+Vand man kan kigge igennem
+Vand man kan mødes ved
+Vand man kan fiske i
+• Er der behov for at skabe læringsmiljøer?
+• Osv.
+I det følgende gives der nogle eksempler på, hvor-
+dan forskellige aktiviteter kan tænkes sammen 
+med bassinet. Vand er et element, der tiltrækker 
+mennesker i alle aldre. Vand er et element, man 
+kan få lyst til at røre ved, undersøge eller iagttage. 
+Mulighederne er mange, og det er interaktionen 
+med vandet, ved siden af vandet og over vandet 
+som er i fokus her.
+Figur 18: Ved vandet er der et sted for oplysning og læring om stedet, rensning af vandet og beplantnin-
+gen. Et andet sted kan man sidde med familien og holde picnic, mens folk mødes et sted, hvor sidde-
+møbler er tilgængelige.
+Figur 19: Vandet tiltrækker sig opmærksomhed på mange måder, som her hvor et barn går helt ned til 
+vandkanten. Et andet sted undersøger en mand, hvad der er under overfladen, og i et vådområde fisker 
+en dreng efter haletudser.
+
+26
+Vand man skal klatre over
+Vand man ikke må falde i
+Vand man skal balancere 
+over
+Vand man ikke må falde i
+Vand man kan gå armgang 
+over
+Vand der kan dyrkes på
+Figur 20: Vand kan passeres på mange måder. Man må ikke falde i, og det kan kræve balance eller 
+styrke at overkomme disse forhindringer. Prøv at klatre mellem stammerne, der står som permanente 
+stylter, eller gå på line eller armgang.
+Figur 21: Sammen kan man hoppe fra sten til sten over vandet, svinge sig over vandet eller dyrke vand-
+planter på en flydende vandfarm.
+
+27
+Vand man kan flyde på
+Vand man kan flyve ved
+Vand som forhindringsbane
+Vand man kan gynge ved
+Vand der kan skøjtes på
+Vand der kan vippes på
+Figur 22: En familie kan trække sig over bassinet med trækfærgen, og de adrætte unge kan hoppe og 
+springe over parkour forhindringerne, mens der om vinteren kan være skøjteløb.
+Figur 23: Sammen kan man få dragerne til at flyve, gynge ud over vandspejlet og vippe på hver side af 
+åen.
+
+28
+Når aktiviteterne er planlagt, kan man skabe en 
+ekstra dimension i oplevelsen ved også at over -
+veje, hvordan ens aktiviteter skal stimulere de 
+øvrige sanser, der ikke er umiddelbart er indtænkt 
+i eksempelvis balanceelementer. Berøring med 
+vandet, beplantningen omkring en bænk, vandak-
+tivitet med sand, eller et plantevalg, der fremmer 
+naturhabitater og sanserne i form af dufte, farver 
+og lysspil.  
+6.2.5.3 Stedets særlige kendetegn - sanserne Fælles for arbejdet med den sanselige dimension 
+er at skabe noget, som indirekte kan fange folks 
+opmærksomhed og fascinere dem. Så har man 
+skabt et område, folk vender tilbage til. Det er 
+gennem fascination mennesker hengiver sig til en 
+oplevelse. Man skaber et frirum eller et åndehul, 
+hvor man har mulighed for at glemme alt om tid 
+og sted.
+Vand der pibler og bevæger 
+sig
+Vand man kan høre
+Vand man kan lege med
+Vand man kan røre og dufte Vand der er smukt og spej-
+lende
+Figur 24: Vandet pibler og klukker. En kvinde sopper, mens en dreng mærker vandet sprøjte op på sine 
+håndflader fra søjlespringvandet.
+Figur 25: Lyden af det, der gemmer sig under overfladen, forstøvet vand der køler og overrasker, og det 
+spejlende vand, der spejler dig og de grønne omgivelser.
+
+29
+6.3 Stedets læsbarhed 6.4 Formidling og Branding
+Stedets indretning skal være foreneligt med det 
+behov brugeren har, eksempelvis; når man desig-
+ner et område, der ligger tæt på en daginstitution 
+vil det være oplagt at designe aktivitetsområder, 
+så det tilgodeser det behov en daginstitution har. 
+Stedet skal også være læsbart og overskueligt, 
+det skal være let at gennemskue stisystemer, op-
+holdszoner og anvendelsesmuligheder. 
+Eksemplet sØnæs er et sted som er let at læse, 
+man har hurtigt et overblik over de primære for -
+bindelsesstier og de mere sekundære rekreative- 
+og aktivitetsstier. Det er også i dette område let 
+at se, hvor man kan slå sig ned på en bænk med 
+eller uden madpakke og bare nyde områdets 
+mangfoldige natur og aktiviteter. 
+Et godt og velovervejet design vil give identitet 
+til lokalområdet og lade det blive et brand. Det 
+er især tilfældet med sØnæs, som har skabt en 
+helt særlig identitet for det sønære område i Vi-
+borg, og som tiltrækker folk både fra lokalmiljø -
+et, men også mange besøgende udefra. En del 
+af det at brande et sted er også formidlingen af 
+stedets historie, funktion og kvaliteter. Skiltning 
+der forklarer dette kan opstilles ved indgange og 
+særlige steder, hvor man gerne vil formidle noget 
+specielt, se case beskrivelserne ”sØnæs”, ”Sille-
+bro Ådal” og ”Ringkøbing K” under overskrifterne 
+”Formidling”.
+
+30
+6.5 Tommelfingerregler for udformning af bassiner med aktivitet og adgang 
+til vandet
+Ved planlægning af et regnvandsbassin skal man indledningsvist foretage et grundigt analysearbejde 
+indeholdende flg. punkter:
+1) F orståelse af den geografiske placering
+2) F orståelse af lokal kontekst (hvem bor i området, hvilke funktioner findes i området osv.)
+3) F orståelse af områdets formål (nu og fremtidige) 
+4) F orståelse af brugerne (nuværende/fremtidige), og deres ønsker
+5) F orbindelserne og grænsefladerne til de tilstødende områder (stier, grønne arealer mv)
+6) Adgangen til området (of fentligt/privat)
+Dernæst kommer man til programmering, der indeholder følgende punkter:
+1) Be vægelse og adgang (vurdering af behov for variation mellem forbindelsesstier, rekreative  
+ s tier og aktivitetsstier)
+2) Brugere
+3) Ople velse ved og omkring vandet
+• Tilpas aktivitetsniveauet
+• Vær opmærksom på terrænets rolle i forbindelse med den oplevede værdi
+• Velovervejet indretning med beplantning kan skabe særlige oplevelsesrum
+4) Ople velser tæt på vand
+5) Ople velser ved ophold og aktiviteter ved vand
+Ud over dette skal man være bevidst om den oplevelsestype, man skaber i området, hvordan 
+man som bruger kan læse stedet, og hvordan man hjælper dette på vej gennem god branding og 
+formidling af stedets identitet og indretning. 
+
+31
+7 .0 Sikkerhed i forbindelse med oplevelse ved og 
+omkring vandet
+Adgang til vand giver adgang til oplevelser, men 
+udgør samtidig en risiko. Derfor har mange kom -
+muner og forsyninger rutinemæssigt opsat hegn 
+omkring deres regnvandsbassiner. Risikoen ved 
+at skabe adgang til regnvandsbassiner handler 
+om risiko for drukning og er afhængig af, hvordan 
+man indretter bassinet og dets omgivelser. 
+Der findes ikke klare regler for sikkerhed og ad -
+gang til vand, hverken når det gælder naturlige 
+søer, havne eller regnvandsbassiner, jf. nedenstå-
+ende boks. 
+I dette kapitel gives nogle anvisninger på, hvor -
+dan man kan arbejde systematisk med at finde 
+en balance mellem adgang og aktiviteter på den 
+ene side og en minimering af risiko for drukning 
+på den anden. Anvisningerne understøttes af en 
+række eksempler og gælder de bassiner, hvor 
+man planlægger og inviterer til adgang og aktivi-
+teter.
+Miljøstyrelsens holdning til hegning omkring regnvandsbassiner
+Den 2. januar 1986 skrev Miljøstyrelsen til samtlige kommunalbestyrelser:
+”En 9-årig dreng er druknet i et kommunalt regnvandsbassin, da han under leg gik igen -
+nem den tynde is. Ministeren har bedt Miljøstyrelsen om, at orientere kommunerne om 
+denne drukneulykke, der var omtalt i Jyllands-Posten d. 20. november 1985.
+Med Miljøbeskyttelseslovens vedtagelse er kommunalbestyrelserne pålagt ansvaret for det 
+samlede kloaksystem. Regnvandsbassiner i boligområder er, som nævnt af ministeren, en 
+del af kloaksystemet, og disse bør ikke udgøre en udfordring til børns udfoldelse og leg. 
+Børn søger derhen, hvor det er spændende at lege. For at undgå ulykker, anmodes kommu-
+nalbestyrelserne derfor om, at sikre en tilstrækkelig indhegning af regnvandsbassiner, der 
+udgør et faremoment i boligområder. ”
+I et notat om afskærmning fra spildevandsanlæg, hegning, afstandskrav mm. Fra 2004 
+skriver Miljøstyrelsen endvidere:
+”For så vidt angår regnvandsbassiner i boligområder, hører det formodentligt til undtagel-
+sen, at disse ikke er indhegnede, ligesom disse bassiner almindeligvis kun er vandfyldte i 
+forbindelse med regn. Miljøstyrelsen finder, at sådanne bassiner bør være indhegnede for at 
+forhindre ulykker som den omtalte. Når det derimod drejer sig om bassiner, der har karakter 
+af søer og er permanent vandfyldte, er det nok ikke ønskeligt at indhegne disse, da de ikke 
+adskiller sig væsentligt fra andre åbne vandområder. Det er Miljøstyrelsens opfattelse, at 
+kommunalbestyrelserne i forbindelse med
+Miljøbeskyttelsesloven er pålagt ansvar for det samlede kloaksystem. Miljøstyrelsen finder 
+ikke, at der er behov for at fastsætte regler for indretning og drift af de enkelte kloaksyste-
+mers dele, herunder indhegning, men finder, at der på baggrund af ulykken er behov for at 
+informere kommunerne om disse forhold” .
+https://ida.dk/sites/default/files/miljoe_og_regnvandssystemer_-_erfaringer_og_anbe -
+falinger_2006.pdf 
+
+32
+7 .1 Hvordan reducerer man risikoen for at 
+drukne
+7 .2 Sikkerhed i forbindelse med oplevel-
+ser ved og omkring vand
+Når man planlægger at give adgang til vand, risi -
+kerer man, at folk drukner, og det sikreste er der-
+for altid, at man fuldstændig forhindrer adgang 
+til vandet. Hvis man alligevel ønsker at realisere 
+den merværdi, som regnvandsbassiner rummer, 
+skal man derfor gøre en indsats for at minimere 
+druknerisikoen og sørge for at tilpasse indsatsen 
+til den planlagte brug af bassinet. 
+For at reducere druknerisikoen, kan man forstå 
+risikoen som et produkt af to faktorer:
+• Adgangen til vand – defineres af den adgang 
+og aktivitet, man planlægger. Det styrer, i hvor 
+høj grad folk risikerer at falde i vandet. Hvor 
+tæt kommer man på, og hvor let er det at fal-
+de i.
+• Sikkerhedstiltag – Lavt vand, fast bund, fla -
+de brinker, overvågning og gode oversigts -
+forhold, redningskranse og -bælter osv. kan 
+medvirke til at redde folk fra at drukne, selv -
+om de falder i vandet.  
+Ud over dette, skal man i planlægningen håndte -
+re, at mindre børn og berusede voksne er ekstra 
+udsatte i drukningssammenhæng. Indsatsen for 
+at beskytte børn og berusede går, ud over at lære 
+dem at svømme, på at sikre dem ved at reducere 
+deres eksponering for vand ved relevante sikker-
+hedstiltag
+Eksponeringen for at falde i vandet er bestemt 
+af den adgang og de aktiviteter, der planlægges. 
+I kapitel 6 og i de nedenstående afsnit tages ud-
+gangspunkt i tre niveauer af eksponering
+• Oplevelser ved og omkring vand, hvor der 
+planlægges med minimal risiko for at falde i 
+vandet 
+• Oplevelser tæt på vand, hvor man er så tæt 
+på vandet, at man kan falde i
+• Ophold og aktiviteter ved vand, over vand og 
+med vand, hvor der er reel risiko for eller in-
+tention om, at man falder i vandet
+Regnvandsbassiner giver muligheder for oplevel-
+ser ved og omkring vandet uden at det involverer, 
+at man kommer helt tæt på vandet. 
+Eksponering 
+I forhold til eksponering kan man arbejde med to 
+overordnede situationer:
+• Muligheden for at se vandet uden at være 
+tæt ved vandet. Her reduceres ekspone -
+ringsrisikoen ved at lægge stierne (i hvert fald 
+forbindelsesstier (inkl. cykelstier)) et stykke 
+fra vandet, og ved med beplantning eller højt 
+græs ikke at invitere til at forlade stien og gå 
+ned til vandet. På den måde reduceres også 
+muligheden for at mindre børn og berusede 
+falder i vandet
+• Muligheden for at være ved vandet uden at 
+risikere at falde i. Ved at holde en vis afstand 
+og markere en klar afgrænsning af stien mod 
+vandet med f.eks. en græsrabat, reducerer 
+man også muligheden for at falde i vandet 
+fra stien. Hvor der er mulighed for at komme 
+helt ned til vandet, kan man desuden reduce-
+re risikoen for at falde i med et rækværk eller 
+en kant, der er høj nok til at beskytte mindre 
+børn mod at falde i. 
+Sikkerhedstiltag
+• Hvis man vurderer, at der er behov for sup -
+plerende sikkerhedstiltag, kunne det f.eks. 
+være at etablere bredzonen med lavt vand, 
+fast bund, svagt skrånende brinker (maksi-
+malt 1:5) og mulighed for at komme op, hvis 
+man falder i.
+For hver overskrift gives eksempler på, hvordan 
+man med udgangspunkt i eksponering og sikker -
+hedstiltag kan reducere druknerisikoen.
+
+33
+Figur 26: Sti langs regnvandskanal. Der er ingen 
+barriere mellem stien og vandet, og vandet invite-
+rer til kontakt. Til gengæld er vanddybden meget 
+begrænset, og det er let at komme op. Stedet er 
+dog langt fra sikkert for små børn.
+Figur 27: Her er der kig fra stien til vandet uden at 
+der er risiko for at falde i vandet. Skillerabatten 
+med det høje græs udgør en barriere, der beskyt-
+ter både børn og stiens trafikanter mod at falde i 
+vandet.
+Figur 28: Her er det gået helt galt! Hovedstien gennem området føres helt ud langs vandet på et sted, 
+hvor man kan falde ud over en lodret kant ned i dybt vand. Kanten, som inviterer til, at man sidder eller 
+går på den, er ikke høj nok til at holde mindre børn tilbage, og der er ingen redningsstiger eller kranse 
+der gør det let at komme op af vandet igen.
+
+34
+7 .3 Sikkerhed i forbindelse med oplevel-
+ser tæt på vand
+Regnvandsbassiner kan også etableres, så de 
+inviterer til at man kommer helt tæt på vandet. I 
+forhold til eksponering gælder:
+• Muligheden for at være ved vandet uden at 
+risikere at falde i. Ved at holde en vis afstand 
+og markere en klar afgrænsning af stien mod 
+vandet med f.eks. en græsrabat, reducerer 
+man også muligheden for at falde i vandet 
+fra stien. Hvor der er mulighed for at komme 
+helt ned til vandet og på broer, kan man des-
+uden reducere risikoen for at falde i med et 
+rækværk eller en kant, der er høj nok til at be-
+skytte mindre børn mod at falde i. 
+• Sikre, at man aktivt skal opsøge de steder, 
+hvor man risikerer at falde i. Ved at lægge 
+stier, der fører ned til vandet som omveje og 
+mindre stier, vil man reducere brugen til dem, 
+der aktivt opsøger vandet og forhindre, at 
+mindre børn kommer der på egen hånd. 
+Sikkerhedstiltag
+Ved at invitere brugerne tæt på vandet er der en 
+reel risiko for at de falder i vandet. Derfor er det 
+vigtigt at sikre, at også børn og berusede folk kan 
+falde i vandet uden at drukne. Det betyder, at der 
+i denne situation er behov for at arbejde med 
+nogle sikkerhedstiltag:
+• Sikkerhedstiltag bør omfatte lavt vand under 
+broer, bredzone med lavt vand, fast bund, 
+svagt skrånende brinker (maksimalt 1:5) og 
+mulighed for at komme op, hvis man falder i, 
+og gode oversigtsforhold, så man kan se, hvis 
+nogen er faldet i. 
+Figur 29: Her fører en lokal trampesti ned til et 
+område tæt på vandet. Stien ender blindt og 
+ligger langt fra hovedstien, og her kommer ingen 
+mindre børn uden opsyn. Bredzonen er sikker med 
+fast bund, sten at tage fat i og svag hældning. 
+Oversigtsforholdene er relativt gode.
+Figur 30: Denne bro forbinder to parallelle stier 
+og fører i sig selv ingen steder hen. Man går altså 
+kun ud på den for at komme tæt på vandet. 
+Broen ligger desuden midt inde i et større natur-
+område, hvor mindre børn ikke færdes alene. Der 
+er ikke særlige sikkerhedstiltag som lavt vand eller 
+stiger omkring broen.
+
+35
+7 .4 Sikkerhed i forbindelse med ophold 
+og aktiviteter ved vand, over vand og 
+med vand
+I dette tilfælde planlægger man med en tættere 
+kontakt med vandet og måske endda med akti -
+viteter, hvor der skal planlægges med, at man kan 
+falde i vandet. I forhold til eksponering gælder 
+som ovenfor, at man kan arbejde med:
+• Muligheden for at være ved vandet uden at 
+risikere at falde i. Ved at holde en vis afstand 
+og markere en klar afgrænsning af sti eller ak-
+tivitet mod vandet med f.eks. en græsrabat, 
+reducerer man også muligheden for at falde 
+i vandet. Hvor der er mulighed for at komme 
+helt ned til vandet og på broer, flåder mm. kan 
+man desuden reducere risikoen for at falde i 
+med et rækværk eller en kant, der er høj nok 
+til at beskytte mindre børn mod at falde i. 
+• Sikre, at man aktivt skal opsøge de steder, 
+hvor man risikerer at falde i. Ved at lægge 
+stier, der fører ned til vandet som omveje og 
+mindre stier, vil man reducere brugen til dem, 
+der aktivt opsøger vandet og forhindre, at 
+mindre børn kommer der på egen hånd. Til -
+svarende sikre, at aktivitetsområder ligger, så 
+man aktivt skal opsøge dem.
+• Signalere tydeligt, når man går fra sikre om -
+råder til steder med stor risiko for at falde i. 
+Ved at gøre stier og aktiviteter, der fører en 
+ud over vandet, mest udfordrende i starten, 
+opnår man, at folk ved, hvad de går ind til og 
+ikke pludselig står i en udfordrende situation.
+Sikkerhedstiltag
+Ved at invitere brugerne tæt på vandet og ud på 
+vandet, er der en reel risiko for at de falder i van -
+det. Derfor er det vigtigt at sikre, at også mindre 
+børn og berusede folk kan falde i vandet uden at 
+drukne. Det betyder, at der i denne situation er 
+behov for at arbejde med nogle sikkerhedstiltag:
+• Sikkerhedstiltag bør omfatte lavt vand un-
+der broer, flåder og andre vandaktiviteter, 
+bredzone med lavt vand, fast bund, svagt 
+skrånende brinker (maksimalt 1:5) og mulig -
+hed for at komme op, hvis man falder i, og 
+gode oversigtsforhold, så man kan se, hvis 
+nogen er faldet i.
+Spænding uden risiko. Når man etablerer aktivite-
+ter ved og over vand er faren for at falde i vandet 
+ofte en drivende del af aktiviteten. I den sam -
+menhæng er det ligegyldigt, om vandet er dybt 
+eller helt lavt. Pointen er, at det gælder om ikke at 
+blive våd. Man kan altså sagtens lave noget, der 
+opleves spændende, uden at det indebærer en 
+risiko.
+Figur 31: To tilgange til samme aktivitet på vand. I Ringkøbing K (th.) reduceres risikoen for at falde i 
+vandet ved at lave hegn omkring flåden, mens man i Selsmosen (tv.) øger sikkerheden ved at sikre, at 
+vandet er lavt under flåderne.
+
+36
+Figur 32: Når man springer fra sten til sten, risikerer man at falde i vandet. Relativt lavt vand omkring 
+stenene øger sikkerheden. Ekstra afstand fra bredden til første sten sorterer i brugerne, og når vandet 
+stiger og bliver dybere, bliver der længere mellem stenene.
+Figur 33: Spænding uden risiko. En simpel forhindringsbane bliver meget mere spændende, når man 
+skal krydse noget vand. Også selv om vandet er så lavt, at det ikke udgør en risiko for dem, der kan 
+bruge forhindringsbanen. 
+
+37
+Vandsikker Kommune
+Rådet for større badesikkerhed prøver med en certificeringsordningen, der findes på 
+http://vandsikkerkommune.dk/ at reducere antallet af badeulykker. Initiativerne i denne 
+kampagne vil være med til at højne sikkerheden ved al omgang med vand. 
+En certificering skal indeholde følgende emner:
+1. Or ganisation for sikkerhedsarbejdet
+2. Risik ovurderinger af vandområderne. Opfølgning hvert 2. år
+3. Sikk erhed omkring vand i beredskabsplanen
+4. S vømmeundervisning til alle kommunens børn
+5. R etningslinjer for badeudflugter
+6. E fterleve Sikkerhed ved offentlige badeanlæg
+7. Prøve f or opsynspersonalet hvert år (Erhvervslivredderprøvens krav).
+8. R edningsudstyr opstilles på relevante steder.
+9. Inf ormation til alle om vand- og is sikkerhed.
+Figur 34: Broen udgør en risiko for, at man kan 
+falde i vandet, og jo længere, man kommer ud 
+på den, jo dybere bliver vandet. Ved eksempelvis 
+at gøre broen ganske smal, sender man et signal 
+om, at den er farlig, og det sorterer i, hvem der 
+bruger den.
+Figur 35: En udfordrende sti på en skillevæg i et 
+regnvandsbassin sender et klart signal om, at her 
+risikerer man at falde i. Sikkerheden er øget ved at 
+reducere vanddybden langs væggen og montere 
+rælinger langs bunden og toppen af væggen (ses 
+på billedet). Broen for enden af væggen sorterer 
+derimod ikke i, hvem der går ud på den. Det kunne 
+man gøre ved at fjerne brodækket på den første 
+meter af broen, så man skulle springe ud på den.
+
+38
+7.5 Tommelfingerregler 
+Her findes en liste over, hvordan der principielt kan sættes ind over for hver af de tre faktorer, så 
+risikoen for drukning minimeres. Brug listen som inspiration og lad relevante tiltag supplere hinanden.
+Eksponering for vand
+•  Adskil tr ansport- og hovedstier fra vand, så man ikke falder i ved et uheld. Adskil med   
+ a fstand, beplantninger eller højt græs.
+•  Skab mulighed for at vælge en sikk er vej, hvor man ikke risikerer at falde i vandet
+•  Undgå s tejle eller lodrette kanter ned mod vandet
+•  Inddel bas sinet i områder med forskellig grad af adgang og eksponering
+•  Gør adgang til v andet til et aktivt valg – man vælger at gå ned til pladsen ved vandet og   
+ vælger om vejen, der fører langs vandet
+•  Vær opmærk som på, at der er forskel på blot at give adgang og at invitere til ophold og   
+ aktivitet
+•  Gør det kræ vende at komme ud til områder, hvor man kan falde i vandet. Brug afstand og 
+•  forhindringer
+•  Skab mulighed for selv at vælge udfor dringer og sværhedsgrader af aktiviteter ved og på   
+ vand
+•  Informer om risik o og sikker adfærd
+•  Bely s evt. stier langs vandet eller brug reflekssten
+•  Brug hegn, h vor der er brug for at øge sikkerheden og andet ikke er muligt
+Individuel følsomhed 
+• Håndt er, at børn og berusere er særligt udsatte for druknefare ved at målrette tiltag mht.   
+ ek sponering og sikkerhed
+• Informer om v and og lær børnene at svømme og omgås vand
+Sikkerhedstiltag
+• L avt vand (<40 cm) og flade brinker (1:5) der, hvor man risikerer at falde i 
+• F ast bund og brinker med sten, vegetation eller stiger, så det er let at kravle op 
+• St ejle skråninger afvikles med dobbeltprofil, så der er et fladt, tørt område ved bredzonen
+• Signaler risik o ved aktiviteter ude på vandet. Lav f.eks. stor afstand mellem trædesten eller  
+ v ed at gøre adgangsbroer smalle. 
+• Skab gode o versigtsforhold, så man kan holde øje med hinanden
+• Opsæt r edningskrans, hvis det er relevant 
+
+39
+8.0 Hygiejne
+Klimatilpasning i den tætte by omfatter ofte an -
+læg, hvor regnvand håndteres på terræn i anlæg, 
+hvor der er adgang til at opleve eller lege med van-
+det. Det har rejst en diskussion om de hygiejniske 
+risici ved sådanne anlæg og ført til udarbejdelse 
+af et notatet ”Hygiejniske forhold ved håndtering 
+af regnvand i anlæg på terræn” /6/.
+En af notatets hovedkonklusioner er, at der kan 
+være hygiejniske risici forbundet med at lege 
+med vand, der er mere end 24 timer gammelt, 
+og at vandet, når de 24 timer overskrides, skal 
+udskiftes eller renses. 24-timersreglen bunder i 
+en tilsvarende regel for soppebassiner, hvor er -
+faringen er, at den hygiejniske forurening primært 
+stammer fra børnenes kontakt med vandet. 
+24-timersreglen kan ikke overføres direkte til 
+småsøer eller regnvandsbassiner. Det skyldes 
+dels, at bassinerne jo netop er permanent vand -
+fyldte, og dels at vandmængderne i bassinerne 
+8.1 Bassiner uden planlagt kontakt med 
+vand
+Indledningsvis skelnes der mellem anlæg uden 
+planlagt kontakt med vandet, og anlæg, hvor der 
+er planlagt kontakt med vandet. Det er kun i det 
+sidste tilfælde, at diskussionen om hygiejne har 
+nogen relevans. Det gælder derfor, at regnvand 
+frit kan håndteres på terræn i bassiner, der ikke 
+indbyder til leg eller direkte kontakt med vandet. 
+er så store, at den hygiejniske belastning fra leg 
+med vandet bliver mindre end i anlæg med små 
+vandmængder. 
+Notatets tilgang til at reducere de hygiejniske 
+risici ved omgang med regnvand kan dog også 
+anvendes i regnvandsbassiner, hvor der skabes 
+adgang til vandet og mulighed for leg ved, på eller 
+med vandet.
+Figur 36: Nogle aktiviteter bliver mere udfordrende, når der er kommet meget vand. Her skal der plan-
+lægges så kun voksne vover sig ud og dermed evt. eksponeres for vandet. Med fordel kan man formidle 
+om hygiejnerisici i sådanne situationer. 
+
+40
+8.2 Bassiner med planlagt kontakt med 
+vand
+Bassiner med planlagt kontakt med vand kan 
+f.eks. omfatte soppe- og pjaskebassiner, vandak-
+tivitetspladser, udspyer og fontæner.
+Som udgangspunkt kan det ikke anbefales at 
+bruge regnvandsbassiner som soppe- eller pja -
+skebassiner eller til badning. 
+Vand fra regnvandsbassiner vil normalt godt 
+kunne bruges til at føde vandaktivitetsområder. 
+Det er i den forbindelse vigtigt, at vandet pum-
+pes ind fra bassinets åbne del, og at man sikrer 
+sig, at vandet ikke er forurenet fra fejltilslutninger 
+fra spildevandskloakken eller fra store mængder 
+fugle, der kan optræde, hvis der bliver fodret ved 
+bassinet. Man bør også følge bassinets tilstand, 
+så man kan slukke for vandtilførslen i situationer 
+med masseopblomstring af alger. Dette vil dog 
+normalt ikke være et problem i regnvandsbassi-
+ner.
+Aerosoler eller oversprøjtning med vand fra fon -
+tæner eller vandkanoner (se figur 39) kan udgø-
+re en hygiejnisk risiko, hvis der bruges vand fra 
+regnvandsbassiner. Derfor bør de etableres på 
+en måde, så man minimerer eksponeringen af 
+brugerne.
+Figur 37: Leg ved eller på vandet inviterer ikke til direkte kontakt med vandet. Her er de hygiejniske risici 
+minimale.
+
+41
+Figur 38: Leg med vand og sand, så kan det vist ikke blive bedre. Anlægget inviterer ikke til, at man 
+drikker af vandet, men man får vand på hænderne - sammen med mudder og alt mulig andet godt.
+Figur 39: Soppebassin eller.... Her er der en risiko 
+for eksponering, når man plasker i vandet eller 
+hvis man drikker direkte af fontænerne. Større 
+fontæner kan også danne aerosoler.
+Figur 40: Her inviterer udspyet oppumpet vand 
+til, at man stikker hænderne ind under det eller 
+drikker af det. Det er en dårlig løsning, der øger de 
+hygiejniske risici væsentligt.
+
+42
+8.3 Tommelfingerregler for sikring af de hygiejniske forhold
+Spørgsmål om hygiejne er kun relevant ved bassiner, hvor der er planlagt kontakt til vandet. I disse 
+tilfælde er det nødvendigt at overveje aktiviteterne, således at der trods en vandnær aktivitet er 
+mindst mulig berøring med vandet. 
+Desuden skal man være opmærksom på hvad der sker i en situation, hvor der er meget vand i 
+anlæggene. 
+Hvis man anlægger soppe- og pjaskebassiner, vandaktivitetspladser, udspy og fontæner, kan det 
+ikke anbefales at bruge regnvandsbassiner. Men vand fra regnvandsbassiner vil normalt godt kunne 
+bruges til at føde vandaktivitetsområder. Her er følgende vigtigt:
+- V andet skal pumpes ind fra bassinets åbne del
+- Man skal sikr er sig, at vandet ikke er forurenet fra fejltilslutninger fra spildevandskloakken   
+ eller fugle
+- Bas sinets tilstand bør følges for at forebygge anvendelse af vand i forbindelse med alger. 
+Figur 41: De pedaldrevne vandkanoner er her etableret, så de kun kan skyde ud over vandet. Herved und-
+går man risiko for at eksponere brugerne for oversprøjtning eller aerosoler. Tilsvarende kan springvand 
+og fontæner placeres et stykke fra bredden.
+
+43
+9.0 Drift og pleje af regnvandsbassiner
+For at opretholde regnvandsbassiners rense -
+funktion skal bassinernes bund med års mellem-
+rum oprenses for aflejret sediment. Forbassiner 
+(sandfang) oprenses typisk med fem til ti års 
+mellemrum, mens hovedbassiner og regnvands -
+bassiner uden forbassiner normalt skal oprenses 
+med 20-40 års mellemrum. Det er forsyningerne, 
+der som ejere af bassinerne foretager denne op-
+rensning. Der findes særskilte vejledninger for, 
+hvornår og hvordan dette skal gøres /1/, /6/. 
+Driften af regnvandsbassinerne og af de tilstø -
+dende arealer er også helt afgørende for at udvik-
+le og opretholde naturen i og omkring bassinet og 
+de rekreative kvaliteter, man ønsker, at bassinet 
+skal have. Efter blot få år er det driften og ikke det 
+oprindelige anlæg, der bestemmer, hvilke kvalite-
+ter bassinet og dets omgivelser har.  
+Der har hidtil ikke været nogen retningslinjer for 
+driften af regnvandsbassiner som biotop eller af 
+de grønne arealer omkring regnvandsbassinerne, 
+men dette er nu beskrevet i Danvas vejledning 
+om drift /6/.
+Nedenfor sammenfattes nogle nødvendige drift -
+stiltag med fokus på at bevare bassinernes natur-
+værdi og rekreative kvalitet under overskrifterne:
+• Drift og pleje a f bassin og bassinnære   
+ ar ealer af hensyn til naturindhold
+• Grøn drift a f bassinnære arealer af   
+ hens yn til rekreative oplevelser
+• Drift a f aktivitetsområder og -anlæg
+9.1 Drift og pleje af bassin og bassinnære 
+arealer med hensyn til naturindhold
+Mange af vandhullerne og småsøerne i det åbne 
+landskab har fået lov at ligge urørte, siden de blev 
+gravet. Nogle har bevaret en lysåben beliggen -
+hed og god naturkvalitet, men mange er vokset 
+til med buske og træer samt store og robuste 
+sumpplanter som dunhammer og tagrør. Også på 
+dette punkt kan vandhullerne bidrage med vær -
+difuld viden om dels de problemer, der kan opstå 
+som følge af manglende eller utilstrækkelig pleje 
+af menneskeskabte småvande i kulturlandska -
+bet, og dels de foranstaltninger der skal til for at 
+opretholde en god naturtilstand.
+Bassinets omgivelser skal plejes for at undgå, at 
+de springer i skov, og hvis man vil sikre adgang til 
+bassinet. Af hensyn til frøer og padder er det sær-
+lig vigtigt at sikre, at dele af bredzonen fremstår 
+lysåben og solbeskinnet. Det ses ofte, at netop 
+bredzonen springer i skov, fordi den ikke indgår i 
+plejen af de grønne arealer omkring bassinet. Det 
+er derfor vigtigt, at plejen af bredzonen skrives 
+ind i plejeplanerne for bassinet og dets omgivel -
+ser.
+En af de vigtigste trusler mod både den tekniske 
+funktion og naturtilstanden i regnvandsbassiner 
+er opfyldning med sediment og tilgroning som føl-
+ge af reduceret vanddybde. Regnvandsbassiner 
+skal altså renses op for at bevare deres renseef-
+fekt. Metoder og forhold omkring sedimentfjer -
+nelse og oprensning findes beskrevet i /1/ og i 
+/6/, der også anviser plejetiltag omkring bassi -
+nerne. Opfyldning af bassinet med sediment kan 
+som beskrevet i /1/ reduceres ved at etablere et 
+sandfang/forbassin i forbindelse med indløbet. 
+9.1.1 Oprensning af sediment
+Der er stort sammenfald mellem det oprens -
+ningsbehov, der er det nødvendige for at opret -
+holde regnvandsbassiners rensefunktion, og de 
+foranstaltninger, der er nødvendige for at holde 
+naturtilstanden i bassinet på eller nær optimum. 
+Det skyldes, at også naturtilstanden trues af til -
+groning og opfyldning af bassinet. 
+Oprensning af våde regnvandsbassiner vil nor -
+malt kræve en dispensation fra Naturbeskyttel -
+seslovens § 3, der omfatter både naturligt fore-
+kommende og menneskeskabte søer (herunder 
+våde regnvandsbassiner), der er større end 100 
+m
+2. Bassiner på mindre end 100 m 2 kan også 
+være omfattet af § 3-beskyttelsen, hvis der i eller 
+omkring bassinet er særlige arter (bilag 4 arter ef-
+ter Habitatdirektivet), der skal beskyttes.
+Kommunen tager som myndighed stilling til be -
+
+44
+9.1.1.1 Pleje af vegetation og bassinets omgi-
+velser
+9.1.1.2 Fisk og andefodring
+skyttelse af naturtyper, og stiller dermed vilkår 
+for de dispensationer for Naturbeskyttelseslo -
+vens §3, der er nødvendige for at kunne oprense 
+regnvandsbassiner. I disse vilkår vil typisk indgå 
+et bestemt tidspunkt for udførelsen (perioden 
+oktober-marts).
+Det anbefales, at der indgås aftaler med Kommu-
+nen om vilkår for pleje og oprensning i forbindelse 
+med nyetablering af bassiner. Hvis Forsyningen 
+står over for oprensning og renovering af eksiste-
+rende bassiner anbefales det, at Kommunen ind-
+drages tidligt i processen, og at der så vidt muligt 
+formuleres nogle generelle vilkår for oprensning 
+og drift. 
+For at bevare åbne lavvandede områder kan det 
+være nødvendigt, f.eks. i forbindelse med sedi -
+mentfjernelse at fjerne en stor del at plantevæk -
+sten. Man kan enten skære det af eller rive det 
+op med rødder. Egentlig oprensning ved brug af 
+maskiner kræver tilladelse efter Naturbeskyt -
+I småsøer kan fisk ødelægge livsbetingelserne 
+for frøer og padder. Der bør derfor ikke udsættes 
+fisk i regnvandsbassiner. 
+Særligt i bynære småsøer og regnvandsbassiner 
+kan andefodring føre til, at der er unaturligt man-
+ge fugle i bassinet, og til at bassinet forurenes 
+med organisk stof og næringsstoffer fra brød og 
+fuglenes ekskrementer. Selv i begrænset omfang 
+har fodring af ænder en stor negativ effekt på na-
+turindholdet i småsøer og regnvandsbassiner og 
+bør derfor undgås.
+telsesloven. Alt plantematerialet bør fjernes et 
+stykke fra vådområdet for at begrænse risikoen 
+for udvaskning af næringsstoffer til vådområdet. 
+Bassinets omgivelser plejes, så det ikke springer 
+i skov, og af hensyn til flora og fauna habitater skal 
+det sikres, at bassinet ikke ligger i skygge af sto -
+re træer, Ved pleje af græs omkring bassinerne 
+er det en fordel, hvis der etableres en mosaik af 
+klippet græs og en vegetation, der kun slås en til 
+to gange årligt. Dette for at tilgodese habitater for 
+insekter og urtevækst.
+Figur 42: Store mængder sediment kan ophobes 
+på bunden af bassinerne over en årrække. 
+Figur 43: Regulering af vegetation i bredzonen. 
+Tagrør og anden vegetation kan fjernes ved op-
+gravning eller gentagne slåninger over flere år.
+
+45
+Figur 44: Massiv andefodring kan forurene vandet i søer og forårsage unaturlig stor bestand af ænder 
+og måger. Et regnvandsbassin vil normalt kunne huse nogle få andepar eller et enkelt svane- eller blis-
+hønsepar.
+
+46
+9.2 Grøn drift af bassinnære arealer med 
+hensyn til rekreative oplevelser
+Driften omkring et regnvandsbassin skal tage 
+hensyn til den indretning, der oprindeligt er tænkt 
+i relation til den oplevede rekreative værdi ved og 
+omkring bassinområdet.
+Det er derfor vigtigt at en drifts- og plejeplan in -
+deholder tegning/beskrivelser af beplantnings-
+strategi, aktivitetszoner og stiforløb, således at 
+de oprindelige funktioner kan opretholdes og 
+dermed opretholde den tilsigtede oplevelse i 
+området. 
+9.2.1 Beplantning
+9.2.2 Naturtyper i relation til det oplevede 
+rum
+9.2.3 Stisystemer
+Under afsnittet 6.3 Programmering af området 
+beskrives, hvorledes træer og øvrig beplantning, 
+som arkitektonisk virkemiddel, kan være med til 
+at sætte rammen for særlige typer af oplevelser. 
+Ofte er det ikke tilfældigt, hvordan træer og buske 
+er placeret i landskabet, og i driftsfasen er det af-
+gørende for bevarelse af de oprindelige hensigter 
+for områdets karakter, at respektere disse oprin-
+delige tanker for beplantning i området. 
+Områdets særlige indretning med beplantning 
+kan nogle steder være tiltænkt efter forskellige 
+principper. Særlige hensyn til lys/skyggeforhold 
+relateret til de indrettede oplevelsesrum. Særlige 
+beplantningsprincipper, tilfældigt eller styret. 
+Der kan altså være områder omkring bassinet, 
+hvor hensigten har været et omsluttet rum, der 
+via en sti leder den besøgende mod vandet. Og 
+andre steder, opholdsrum, hvor hensigten har 
+været den direkte visuelle kontakt til vandet, evt. 
+med en støttende beplantning i ryggen. Figur 45 
+viser en tydelig hensigt om visuel fysisk kontakt 
+til vandet, men her har driften slået fejl over åre -
+ne. 
+De særlige oplevelsesrum, visuelle kontakter til 
+vandet, fysiske kontakter til vandet skal beskri -
+ves og indarbejdes tydeligt i bassinets driftsplan 
+for at opretholde den tilsigtede merværdi i bas -
+sinområdet. Oplevelsesværdierne skal dernæst 
+også sammentænkes med den specifikke natur -
+type, der er valgt for området. 
+En klippet plæne kan være hensigtsmæssig i om-
+råder med mange brugere. Her kan plæner skabe 
+ramme for socialt samvær og fysisk aktivitet, og 
+sådanne områder skal slås med jævnlige mellem-
+rum i løbet af sæsonen. 
+Andre steder kan en mere ekstensiv drift af plæ-
+ner være foretrukket, så som naturgræs og blom-
+sterblandinger, der kan afløse det friserede ud -
+tryk og skabe sansemæssig stimuli og stor værdi 
+for flora og fauna. Sådanne arealer slås 1-2 gange 
+årligt idet tilgroning af busk- og træopvækst er 
+uønsket på sådanne arealer. 
+Andre steder igen kan hensigten være at lade om-
+rådet vokse til i krat og træplantninger. Det kan 
+være mere eller mindre kontrolleret i afgrænsede 
+klynger eller zoner ved og omkring bassinarealet. 
+Driftsplanen skal indeholde en klar beskrivelse af 
+hensigten med disse variationer i naturtyper, og 
+være specifik særligt i forhold til nedskæringer, og 
+zoner for forskellige typer af drift og pleje. 
+Alt afhængig af områdets størrelse kan stier have 
+varieret karakter. Stier med fast belægning, løs 
+belægning og naturstier skal tilses for skader, 
+evt. løse sten, lunker og afvandingsproblemer og 
+generelt leve op til funktionskravet for stier. Der 
+henvises til /13/ for yderligere beskrivelser om 
+drift af stier.
+
+47
+9.2.4 Drift af aktivitetsområder og anlæg
+De driftsmæssige hensyn, der skal tages i relation 
+til aktivitetsområder og anlæg, skal som beskre -
+vet under ”stisystemer” ligeledes sikre oprethol-
+delse af de opstillede sikkerheds- og funktions-
+krav. For aktivitetselementer kan der desuden 
+være nogle lovmæssige retningslinjer der skal 
+følges. 
+Udstyr som eksempelvis borde/bænke/grill mv. 
+skal holdes intakte og leve op til sikkerheds- og 
+funktionskrav. Desuden skal hærværk og graffiti 
+meldes, så området kan bringes tilbage til funkti-
+onel stand hurtigst muligt. 
+Der gælder generelt for aktivitetselementer og 
+udstyr at det skal rengøres, vedligeholdes evt. 
+med maling, repareres hvis det er gået i stykker, 
+smøres osv. For yderligere beskrivelse se /13/.
+Figur 45: Øverst og nederst.
+Søudsigt? Udsigtsbænke langs 
+en søbred med forskellige grader 
+af tilgroning. Et godt eksempel 
+på, at driften ikke har under-
+støttet intentionerne om at 
+skabe oplevelser omkring et 
+bassin.
+
+48
+9.3 Tommelfingerregler for drift af regnvandsbassiner
+Drift af hensyn til naturindhold:
+- Undgå at områderne springer i skov hvis man vil sikre adgang til bassinet.
+- Sørg for at dele af bredzonen fremstår lysåben og solbeskinnet af hensyn til padder og frøer
+- Sørg for at indskrive drift af bredzonen i plejeplanerne.
+Oprensning:
+• Generelt er der sammenfald mellem oprensningsbehov i relation til bassinets rensefunktion,   
+og foranstaltninger for opretholdelse af naturtilstanden i bassinet
+• Vær opmærksom på behov for dispensation fra Naturbeskyttelseslovens § 3
+• Kommunen tager som myndighed stilling til beskyttelse af naturtyper og stiller dermed vilkår   
+for de dispensationer for Naturbeskyttelseslovens §3, der er nødvendige for at kunne    
+oprense regnvandsbassiner. 
+• Sørg for aftale med Kommunen om vilkår for pleje og oprensning i forbindelse med    
+nyetablering af bassiner. 
+• Sørg for tidlig inddragelse af Kommunen, hvis forsyningen står over for oprensning og renovering 
+af eksisterende bassiner
+• Overvej at fjerne en stor del at plantevæksten for bevarelse af åbne lavvandede områder
+• Bassinets omgivelser skal plejes, så det ikke springer i skov, og bassinet ikke ligger i skygge af 
+store træer, af hensyn til flora og fauna habitater. 
+• Undgå ande-og fiskefodring
+Grøn drift af bassinnære arealer
+• Drifts og plejeplan bør indeholde beskrivelse af de oprindelige tanker for områdets indretning 
+med hensyn til:
+ o  Beplantningsstrategi
+ o  Stisystemer
+ o  Aktivitetszoner
+• Dette for opretholdelse af de tiltænkte oplevelsesværdier og anvendelsesmuligheder i bassin 
+området.
+• Drift af stisystemer, aktivitetsområder og anlæg skal tage hensyn til opstillede sikkerheds- og 
+funktionskrav. Der henvises til /13/ for yderligere beskrivelse af drift af grønne områder.
+
+49
+Omkostninger ved etablering og drift af regn -
+vandsbassiner påhviler normalt Forsyningen, der 
+også ejer bassinerne. Som udgangspunkt må For-
+syningen dog kun finansiere arbejder, der relate -
+rer sig til vandhåndteringen og til opfyldelse af de 
+krav, Kommunen stiller til bassinernes udform -
+ning og drift. Derfor er det vigtigt med en god dia-
+log mellem Forsyningen og Kommunen, så sup -
+plerende kvaliteter kan indarbejdes i projektet så 
+tidligt som muligt i planlægningen af bassinerne. 
+Bassinets naturpotentiale er hovedsageligt be -
+stemt af bassinets og bredzonens udformning 
+og orientering og af den efterfølgende drift. Hvis 
+disse forhold jf. tommelfingerreglerne i kapitel 5 
+indarbejdes i projektet fra en start, er de ikke for-
+dyrende for anlægsprojektet, så der vil med den 
+rette planlægning ikke være behov for nogen eks-
+tra kommunal finansiering af hensyn til bassiner -
+nes naturindhold. 
+Aktivitetsmulighederne omkring bassinet handler 
+om at skabe adgang, ophold og aktivitetsområ -
+der, og her kan der være behov for en suppleren-
+de kommunal finansiering i både anlæg og drift. 
+Der findes dog mange gode eksempler på, at For-
+syningerne har kunne bidrage til finansiering. 
+• T errænet omkring bassinet er helt afgørende 
+for de rekreative muligheder, bassinet kan 
+byde på. Med det rigtige design kan Forsynin-
+gen, uden at det er fordyrende for projektet, 
+skabe et terræn, der indbyder til adgang, op -
+hold og aktivitet. Hvis designet åbner for, at 
+den udgravede jord fra bassinet indbygges i 
+lokalt, f.eks. i aktivitetsområder, kan Forsynin-
+gen endda opnå store besparelser.
+• Stier til og omkring bassinet kan finansieres 
+af Forsyningen, der i forbindelse med drift og 
+inspektion har behov for at kunne komme til 
+bassinet. Der findes også eksempler på, at 
+Forsyningen har etableret mindre broer af 
+hensyn til mulighederne for prøvetagning.
+10.0 Finansiering
+• Sikre bredzoner og bundforhold kan etable -
+res som en del af bassinprojektet uden at det 
+er fordyrende.
+• Indretning af oversvømmelsesområderne 
+omkring bassinet med små vandflader eller 
+kanaler kan også finansieres af Forsyningen.
+Når det kommer til bænke og andet interiør, skal 
+dette finansieres af Kommunen. Flere kommuner 
+har i den forbindelse gode erfaringer med at søge 
+fondsfinansiering, hvis der etableres egentlige 
+aktivitetsområder i forbindelse med bassinet. 
+
+50
+11.0 Eksempelsamling
+Ringkøbing K
+sØnæs
+Selsmosen
+Værebro Bassin
+Sillebro Ådal
+I det følgende præsenteres forskellige cases, hvor merværdibegrebet er løst på forskellig vis. Alle ca -
+ses præsenteres hver især med relevante kategorier, som skal virke som inspiration til et fremadrettet 
+arbejde med regnvandsbassinerne. 
+
+51
+11.1 Selsmosen
+Lokalitet: Høje T aastrup Kommune
+Funktion: Regnvandsbassiner 
+T egnet af: Force4architects
+Opført: 2012
+Beskrivelse: Selsmosen er et bynært regnvandsbassin, der sikrer omgivelserne mod oversvømmelser. 
+I forbindelse med udvidelsen af bassinet, måtte man inddrage store grønne områder. Kommunen øn -
+skede derfor et nyt bassin med stor fokus på aktiviteter i, ved, på, og omkring vandet. Området frem -
+står i dag som et samlingssted for borgerne, et sted hvor man kan gå en rundtur på de mange stiforbin-
+delser, et sted hvor man kan finde legebarnet frem, et sted hvor man kan mødes og spille beachvolley 
+og meget mere. 
+Se mere: 
+www2.htk.dk/Driftsbyen/Park/Sitecore/Selsmosen_praesentation_kulturpartnerskabet.pdf
+Figur 46: Selsmosen, Høje Taastrup
+
+52
+11.1.1 Forbindelser
+11.1.2 Overgange
+Figur 47: I Selsmosen går forbindelsesstierne på kryds og tværs og skaber gode muligheder for rundture 
+i området. De fleste stier er af asfalt eller træ, hvilket sikrer god tilgængelighed for alle
+Figur 48: I en del af parken lægges der op til indirekte interaktion med vandet. Her kan man eksempelvis 
+krydse vandet på forskellig vis via balancegang, hoppefliser eller trækfærge. I disse områder er vanddyb-
+den af sikkerhedshensyn begrænset til 40 cm.
+
+53
+11.1.3 Ophold
+Figur 49: Der er mange muligheder for at opholde sig i Selsmosen. Man kan sidde på helt almindelige 
+bænke, sidde i solstole ved legeområdet, eller tage en pause i en af de mange hængekøjer på stedet. 
+Rækværket øverst til venstre beskytter på den ene side mod at man falder i vandet, men inviterer sam-
+tidig til ophold et sted, hvor kanten er lodret, og hvor der ikke er mulighed for at komme op af vandet 
+igen. Denne løsning er ikke gennemtænkt mht. sikkerhed. 
+
+54
+11.1.4 Aktiviteter
+11.1.5 Tryghed
+Figur 50: Området rummer også mulighed for mange former for aktivitet. Der er beachvolleybaner, et 
+sted man kan komme helt tæt på vandet og kigge ned, og i legeområdet kan man på flere forskellige 
+måder lege med vandet indirekte. Bl.a. på cyklen der pumper vand op til en vandkanon. Vandkanonerne 
+kan kun skyde ud over vandet og udgør derfor ikke en hygiejnisk risiko. Vandet renses, før det pumpes 
+ud af udspyet i nederste højre billede. Udspyet inviterer til, at man kan stikke hænderne ind under det 
+eller drikke af det. Det er af hygiejniske hensyn ikke en god løsning. Vandet burde pumpes ud i terrænni-
+veau.  
+Figur 51: Nogle steder er der tænkt på sikkerheden i området i tilfælde af drukneulykker. Flere steder er 
+der opsat redningskranse.
+
+55
+11.2 sØnæs
+Lokalitet: Viborg Kommune
+Funktion: Regnvandsbassiner med rensning og park- og vandlandskab 
+T egnet af: Møller&Grønborg og Orbicon
+Opført: 2015
+Beskrivelse: sØnæs ligger bynært i Viborg ud til Søndersø umiddelbart syd for den gamle bykerne med 
+Domkirken. Projektet ligger på et tidligere sumpet moseområde, hvor den primære rekreative funktion 
+var – ret dårlige og våde – boldbaner. Placeringen havde dog potentiale til både at sikre rensning af 
+overfladevand inden udledning til Søndersø, og potentiale til at skabe et attraktivt område ved søen.
+Projektet griber disse potentialer gennem etableringen af et offentligt parkrum med 725 m gangsti gen-
+nem et 10 hektar stort rekreativt område. Der er arbejdet aktivt på at skabe merværdi gennem kom -
+bination og samtænkning af funktioner, og området fremstår i dag som generator og ramme for læring 
+om natur, fællesskab, aktivitet og bevægelse. Området har dertil bidraget til identitet for nærområdet 
+og brandingværdi for hele Viborg.
+Der er skabt et dynamisk landskab, hvor opholdsarealer på øer forandrer sig alt efter vandstandsni -
+veauet i rensedammen og overløbsarealer. Der sker en mindskning af fosfor- og kvælstofudledningen 
+til Søndersø, og projektet tilbageholder skybrudsvand. 
+Se mere: 
+www.klimatilpasning.dk/media/969237/viborg_projektpr_sentation_web_lowres.pdf
+Figur 52: sØnæs ved Viborg. Afstanden mellem stien og vandet sikrer, at man ikke risikerer at falde i 
+vandet, når man færdes på stien.
+
+56
+11.2.1 Forbindelser
+11.2.2 Overgange
+Figur 53: De mange variationer af forbindelsesstier i området sikrer tilgængelighed og bevægelse for 
+alle. Der er ligeledes rekreative stier anlagt som grusstier, samt aktivitetsstier anlagt som trampestier. 
+Området har også stor variation af broer og betonflader, der skaber sammenhæng og sikrer tilgængelig-
+hed i hele området. 
+
+57
+11.2.3 Ophold
+Figur 54: Vandelementerne er konstant i sammenspil med brugerne. Her vises nogle af de mange 
+måder man kan krydse vandet. Overgangene over kanalerne er udfordrende uden at være farlige. De er 
+placeret, så mindre børn ikke kan komme til dem alene og de er så tilpas svære, at kun større børn vil 
+bruge dem. Samtidig er vanddybden og bredden af kanalerne meget begrænset. Tilsvarende gælder 
+for trædestenene, hvor afstanden ud til første sten naturligt sorterer i, hvem der bruger dem, og hvor 
+vanddybden er begrænset.
+
+
+58
+Figur 55: Der er overalt i parken indtænkt muligheder for ophold af forskellig art som tilgodeser mange 
+brugergrupper
+Figur 56: Forskellige aktiviteter er knyttet til området. Nogle aktiviteter anvender aktivt vandet som 
+rekreativt element, mens andre aktiviteter ikke anvender vandet (beachvolleybaner, fodboldbane mv.). 
+Men de bidrager til at skabe et samlet rekreativt område.
+11.2.4 Aktiviteter
+
+
+59
+Figur 57: Formidling er et gennemgående tema gennem hele området. Der er gjort en dyd ud af at for-
+tælle om vandets vej, vandets dynamiske virkning og områdets funktion i sin helhed.
+11.2.5 Formidling
+
+60
+11.3 Værebrobassinet
+Lokalitet: Gladsaxe
+Funktion: Regnvandsbassin med rensning, og bakket landskab
+T egnet af: Thomas Åbling Vandmiljø og Orbicon
+Opført: 2017
+Beskrivelse: Bassinet ved Værebroparken er et mindre regnvandsbassin, der er blevet udvidet på grund 
+af et behov for øget volumen i bassinet. Et gammelt hegn og tæt beplantning blev fjernet og bassinet 
+udvidet med 3300 m
+3. Den opgravede jord blev genindbygget i et nyt legende landskab i området. Det-
+te var især en økonomisk fordel for forsyningen, som ikke skulle finansiere jorddeponering andetsteds. 
+Væggen ned gennem midten af bassinet fungerer både som en skillevæg, så man cirkulerer vandet 
+mest muligt i bassinet og dermed opnår bedst mulig rensning og som et balance- og aktivitets element, 
+der giver anledning til stor underholdning for mange aldersgrupper. 
+Bassinet er med sin åbenhed mod sine omgivelser, og sit nye terræn blevet et samlingspunkt for bebo-
+elsesblokkene, skolen og svømmehallen, som alle ligger i umiddelbar tilknytning til området. Hvor det 
+før var en utilgængelig barriere, er det nye bassin et fælles område, der skaber synergi i mødet mellem 
+mennesker. 
+Figur 58: Værebro bassinet er et enkelt regnvandsbassin i et nyt landskab, der samler områdets mange 
+brugere på tværs. Azobevæggen gennem bassinet er anlagt af Forsyningen for at forbedre bassinets 
+renseevne.  Kommunen har betalt for trinene på ovenpå væggen. 
+
+61
+Figur 59: Ved Værebrobassin er det primært rekreative stier og aktivitetsstier, som binder de omkringlig-
+gende funktioner sammen. Stierne er grusstier af varierende bredde. Den brede grussti er anlagt, så den 
+er tilgængelig for alle.
+Figur 60: Der er mange forskellige overgange. Fra en simpel trædesten til azobevæggen, der virker som 
+forbindelse mellem bassinets sider.
+11.3.2 Overgange
+11.3.1 Forbindelser
+
+62
+Figur 61: På balancevæggen gennem vandet er der tænkt på sikkerhed. Overgangen er tydeligt udfor-
+drende og sorterer derved i, hvem der bruger den. Der er påsat to gelændere øverst og lidt længere nede, 
+som man kan træde på og gribe fat i, hvis man falder i vandet. I brinkzonerne er der lagt singelssten, så 
+man kan stå fast, hvis man skal op af bassinet.
+Figur 62: Det færdige bassin og brinker er anlagt med råjord, så de mere næringsfattige planter kan 
+vokse i området. Billedet er taget få måneder efter færdiggørelsen af anlægget. Med tiden vil mange 
+planter, træer og buske etablere sig. Driften vil sikre at området ikke vokser til i skov. De flade brinker vil 
+oversvømmes regelmæssigt og dermed give gode vilkår for mindre smådyr og padder i brinkområderne. 
+11.3.4 Biodiversitet
+11.3.3 Tryghed
+
+
+63
+11.4 Sillebro Ådal
+Lokalitet: Frederikssund
+Funktion: Regnvandsbassiner og stort naturområde
+T egnet af: Niras
+Opført: 2013
+Beskrivelse: Det 1,8 km lange grønne strøg gennem Frederikssund er et samlingspunkt for byen, et 
+grønt åndehul og et paradis for flora og fauna. Der er vådområder man krydser, opholdsarealer med 
+shelters og grill, bade- og fiskebro og meget mere. Sillebro Ådal er på en gang en stort klimatilpasnings-
+projekt og et naturgenopretningsprojekt, hvor Sillebro Å er ført tilbage til sit oprindelige slyngede forløb. 
+Se mere: 
+www.frederikssund.dk/oplev-frederikssund/leg-og-aktiviteter/Kaelkebakker-og-skoejtebaner/sille-
+bro-aadal
+Figur 63: Der går to hovedstier gennem ådalen. På disse stier kan ådalen opleves uden at man kommer 
+tæt på vandet.
+
+
+64
+11.4.1 Forbindelser
+11.4.2 Overgange
+Figur 64: Ned gennem hele Ådalen er der mange forskellige forbindelser, og stierne har karakter af både 
+forbindelsesstier, rekreative stier og aktivitetsstier. Træbroer over vandet, slåede græsstier og grusstier 
+sikrer tilgængelighed i hele området. 
+
+65
+Figur 65: Overgangene består af etablerede broer, og gamle træstammer placeret enkelte steder for den 
+modige. Overgangene udgør en risiko, og derfor er de lagt som bistier, som man aktivt skal vælge at 
+bruge dem. Overgangene er lagt tæt på bassinernes normale vandspejl. Det betyder, at de bliver over-
+svømmet, når anlægget er fyldt under kraftig regn, men samtidig, er det let at komme op, hvis man fal-
+der i. Der er ikke rækværk langs broerne, men bunden er fast, og vanddybden langs stierne er begrænset. 
+Figur 66: Opholdsområderne er grønne oaser i Ådalen. Her kan man mødes i bålhytterne eller ved 
+shelters. Eller man kan sidde alene og nyde roen på en stor sten eller udskåret træstamme og kigge på 
+vandet.
+11.4.3 Ophold
+
+66
+Figur 67: Stien rundt i ådalen forbindes i den østlige ende af en boardwalk langs bredden af en dyb grus-
+gravssø. Bardwalken bliver på den måde en del af hovedstisystemet og udgør sammen med det dybe 
+vand en klar risiko. Der er er eftermonteret stiger for at gøre det muligt at komme op, hvis man falder 
+eller springer i vandet.
+Figur 68: I hele området er der opsat skilte, der formidler naturområdet og dets potentialer. Der er lige-
+ledes skiltet for færdsel og løsgående hunde
+11.4.5 Formidling
+11.4.4 Aktiviteter
+
+67
+11.4.6 Tryghed
+11.4.7 Biodiversitet
+Figur 69: Der hænger redningskranse flere steder i området, og ved badebroen er der etableret en trap-
+pe, så det er let at komme i og op af vandet igen.
+Figur 70: Området emmer af biodiversitet. Der er forskelligt plejeniveau. Nogle steder slås ofte, andre 
+kun en gang årligt og andre steder igen springer i skov. Det giver en stor variation for flora og fauna. I 
+vådområderne er det også let at spotte et rigt faunaliv
+
+68
+11.5 Ringkøbing K
+Lokalitet: Ringkøbing
+Funktion: Regnvandsbassiner, stort naturområde, aktivitet og ophold
+T egnet af: SLA
+Opført: 2015 - 2016
+Beskrivelse: Ringkøbing K er en kommende ny bydel på 84 ha med ca. 1000 nye boliger sydøst for det 
+historiske bymiljø i Ringkøbing by og ud til Ringkøbing Fjord. Ringkøbing-Skjern Kommune og Realdania 
+By & Byg står bag byudviklingen.
+Området udvikles til at være en såkaldt naturbydel, hvor natur inklusiv tiltag til at klimasikre området 
+etableres, inden der bygges boliger. Halvdelen af området vil blive bebygget over 30 år med varieren -
+de typer af boliger i 2-3 etagers højde, mens det resterende område mod syd ud til fjorden udlægges 
+til permanent naturområde. Området har været udlagt til landbrugsjord, og er blevet drænet og tilført 
+kun-stig næring, da området oprindeligt har bestået af enge, hede og overdrev. Ringkøbing K genetab-
+lerer disse oprindelige naturtyper, og etablerer også nye såsom skov, søer, bærhaver og frugtlunde. Den 
+overordnede strategi for udviklingen har været at skabe et rekreativt naturområde med adgang for hele 
+Ringkøbing, og en høj herlighedsværdi gennem en lang række muligheder og aktiviteter.
+Se mere: https:/ /naturbydelen.dk/om-naturbydelen/udgivelser-om-naturbydelen
+Figur 71. I Ringkøbing K er der store forbindelsesstier. Nogle stier ligger i sikker afstand fra vandet, mens 
+andre fører ud over vandet. Nogle steder er stierne over vandet forsynet med rækværk.
+
+69
+11.5.1 Forbindelser
+11.5.2 Overgange
+Figur 72. Som supplement til de store forbindelsesstier, er der også mindre rekreative stier, der skaber 
+variation i forbindelserne gennem området. Træbroer over vandet og grusstier, der sikrer tilgængelighed. 
+Opholdssteder er markeret med skift i belægning til f.eks. tegl og beton.
+
+70
+Figur 73. Overgange over vand er etableret i træ uden rækværk. Overgange fra sti til det længere brofor-
+løb er markeret med rækværk på det første stykke. 
+Figur 74. Ind gennem området er der etableret mulighed for ophold flere steder. Der er både deciderede 
+siddemøbler som bordbænkesæt i området, men også sekundære siddepladser integreret i overgang 
+mellem bassin og opholdsområde.
+11.5.3 Ophold
+
+
+71
+Figur 75: Der er mulighed for mere aktivt at interagere med anlægget i Ringkøbing K, her via trækfær-
+gen, eller ved at observere insekthotellet i området
+Figur 76: Formidlingen i området består af vejvisere og informationstavler placeret i de forskellige del-
+områder.
+11.5.4 Aktiviteter
+11.5.5 Formidling
+
+
+72
+12.0 Referencer
+/1/ Våde bassiner til rensning af separat regnvand, Aalborg Universitet, Danmarks T ekniske Universi-
+tet, T ek-nologisk institut & Orbicon, 2012 (http:/ /separatvand.dk/download/V%C3%A5de%20bassi-
+ner_BAGGRUNDSRAPPORT.PDF)
+/2/ Større anlæg til overfladenedsivning af separat regnvand, http:/ /separatvand.dk/download/BAG-
+GRUNDSRAPPORT_Overfladenedsivning.pdf
+/3/ Regnvandsbassiner – Design og dimensionering, Århus Kommune og Århus Vand, 2016. https:/ /
+www.aarhus.dk/~/media/Dokumenter/T eknik-og-Miljoe/Natur-og-Miljoe/Vand/Spildevand/An -
+det/Regnvandsbassiner-12-2016.pdf
+/4/ Risiko ved nedsivning og udledning af separatkloakeret regnvand, Aalborg Universitet, Danmarks 
+T ekniske Universitet, T eknologisk institut & Orbicon, 2012 (http:/ /separatvand.dk/download/Riciko-
+vurdering_BAGGRUNDSRAPPORT.pdf)
+/5/ Anbefalinger til udledning og nedsivning af regnvand, Aalborg Universitet, Danmarks T ekniske Uni-
+versitet, T eknologisk institut & Orbicon, 2012 (http:/ /separatvand.dk/download/Anbefalinger_%20
+udledning_nedsivning_regnvand.pdf)
+/6/ Vejledning om drift og vedligehold af regnvandsbassiner, Danva-vejledning nr. 97, april 2016 
+(http:/ /www.danva.dk/Admin/Public/DWSDownload.aspx?File=%2fFiles%2fFiler%2fMEDLEM%2f-
+Publikationer%2fDANVA_Vejledning_97_drift_og_vedligehold_regnvandsbassiner_2016.pdf)
+/7/ Design guide for regnvandsbassiner, Danva 2018 
+/8/ Bog om innovativ klimatilpasning med borgere. http:/ /www.byplanlab.dk/sites/default/files2/
+InnovativKlimatilpasningmBorgereVIB.pdf
+/9/ Naturindholdet i regnvandsbassiner, Bjarne Moeslund, Orbicon. Vand og Jord, 17. årgang nr. 4, de-
+cember 2010 s. 135-137.
+/10/ (1948) Preamble to the constitution of the World Health Organization as adopted by the interna-
+tional Health Conference New Y ork. 
+/11/ Hygiejniske forhold ved håndtering af regnvand i anlæg på terræn, Orbicon, september 2015 
+(www.vandibyer.dk/media/1487/regnvand-og-hygiejne.pdf)
+/12/ Bilag 6 I Frederikssunds kommunes SPV 2013 – 2021. Håndtering af overfladevand og dimensi-
+onering af bassiner og faskiner
+/13/ Kjøller, C.P., Kristoffersen P., Nørgaard, J., T ang, K., Højholt, M., Himmer, S., Nielsen, J.N., Bavngaard, 
+J. (2015). Kvalitetsbeskrivelser for drift af grønne områder 2015. Institut for Geovidenskab og Natur -
+forvaltning, Københavns Universitet, Frederiksberg. 66 s. ill. 
+
+73
+13.0 Bilag 1
+13.1 Hvilke planer kan bruges til hvad i 
+forhold til bassiner med natur og aktivi-
+tet?
+13.1.1 Kommuneplan og plan- og bæredyg-
+tighedsstrategi 13.1.3 Klimatilpasningsplanen og handlepla-
+ner heraf
+13.1.4 Lokalplanen
+13.1.2 Spildevandsplanen 
+I dette bilag sammenfattes en plananalyse rela -
+teret til de planmæssige forhold man skal og med 
+fordel bør være opmærksom på i relation til plan-
+læging af et regnbassin med natur og aktivitet.
+• Belyser politiske visioner, strategier og   
+målsætninger
+• Angiver arealanvendelse (typisk reservering 
+af arealer til byudvikling, angivelse af landzo-
+ne til byzone). Her er det vigtigt at være op -
+mærksom på arealreservation til grønne og 
+blå områder også.
+• Ved arealanvendelse kan man bl.a. se på 
+fremtidens klima og konsekvenser heraf. 
+• Skal beskrive visioner om rekreativt brug af 
+grønne områder, fordi visioner og strategier 
+fra kommuneplanen føres videre i lokalpla-
+nerne. Formuleringerne skal have et retorisk 
+ophæng i KP og PBS.
+• Skybrud, stormflod, koblet regn og grund -
+vandsstigning. 
+• Risikoområder fra KTP skal indarbejdes i det 
+enkelte projekt. Derved får man øjnene op 
+for de udfordringer, der måske er i områderne 
+omkring det enkelte projekt, og derved kan 
+man løse flere problemstillinger i samme om-
+bæring.
+• Plan for håndtering af overløb, sikring af sår -
+bare områder
+En lokalplan er bindende 
+• Lokalplanen kan præcist beskrives udform -
+ning af det rekreative bassin, der kan f.eks. 
+sættes vilkår for arealudnyttelsen, anlægsty-
+pe, udformning mv. 
+• Sørger for at det rigtige areal reserveres (Eks-
+propriation mv). Arealreservation er ofte fore-
+taget i forbindelse med tillæg til spildevands-
+planen.
+• I lokalplanen skal man være bevidst om ret -
+ningslinjer for design. Se eksempel bilag 6, 
+Frederikssund kommune /12/.
+• I lokalplanen kan man skrive ”skal” for at gøre 
+visse krav til udformning af bassinet binden -
+de 
+Spildevandsplanen er i bassinsammenhæng et 
+aftalegrundlag for, hvor der skal være bassiner, og 
+hvordan de skal dimensioneres og fungere.
+• Skal respektere kommuneplanen
+• Arealreservation, grundlag for at kunne eks-
+propriere
+• Hvilken type bassin (beton eller grønt bassin)
+• Servicekrav, dimensionering (herunder angi-
+velse af klimafaktorer mv.) 
+• Tillægget skal belyse det der aftales, eks bas-
+sinvolumen, udledningspunkt, recipient og 
+driftsgrænser mellem kommune og forsyning.
+• Det defineres overordnet hvem der har an -
+svar for drift og hvad den skal bestå af. De-
+taljer herom aftales i aftaledokument, som er 
+juridisk bindende
+• Klimasikrede løsninger beskrives
+• Drejebog for udarbejdelse af tillæg. Til brug 
+for evt. developere og andre, der har en area-
+linteresse, der ikke er forsyningen eller kom -
+munen. 
+
+74
+14.0 Bilag 2
+14.1 Projektudviklingsproces
+Projektet forankres på lovpligtig møde mellem forsyning og kommune
+I hele beskrivelsen skal projekt forstås som selve bassinet samt det rekreative anlæg i og omkring 
+bassinet. 
+Generelt er det en fordel at kunne have et samlet forløb repræsenteret af det samme persongalleri. Det 
+gælder især, at det kan være en udfordring ved længerevarende projekter. 
+Forløbet skitseret i punktform:
+1. Idéfasen
+Idé til projekt forelægges en bred faggruppe (kommunalforvaltning, forsyning, rådgiver, evt. bor -
+gerinddragelse) til brainstorm på projektet, hvor ideer, faglige synspunkter, screening for mulige 
+konflikter identificeres (V1, V2, følsom arealanvendelse, planer mv.). Idéfase følges op med opføl-
+gende møde 1 – 2 uger efter første møde, til tilretning af ideen for projektet. Hvis muligt så definer 
+volumen og arealbehov allerede til det første møde, alternativt så tidligt i fasen som muligt. Afkla -
+ring om der er behov for bilag 4 arts screening. 
+2. Nedsættelse af projektgruppe og eller styregruppe/projektejer (afhængig af projektets størrelse)
+2.1. Pr ojektgruppen skal bestå af relevante fagpersoner herunder personer med viden om driften, 
+og plejeplanens indhold (hensyn til oprensning, drift af særlige naturtyper mv.) (Henvis til oplistede 
+aktører).
+2.2. Det er nødvendigt at opretholde et højt kommunikationsniveau imellem styregruppen/projek-
+tejer og projektgruppen. Dette for at sikre at ledelsen godkender de beslutninger, der er truffet i 
+projektgruppen, samt at sikre at der allokeres ressourcepersoner, som er relevante og har tid til at 
+være med på projektet.
+2.3. Det er vigtigt løb ende at sikre accept af projektet på lederniveau (kommune og forsyning) og på 
+det politiske niveau. 
+3.    Dispositionsforslag
+       På det opfølgende møde fra idefasen afklares følgende: 
+3.1. Konkr etisering af projektets formål: 
+3.1.1. Dispositionsforslaget skal også indeholde de rekreative elementer fx fritidsaktiviteter, 
+landskabelig udformning, natur, infrastruktur/stier, støttepunkter for uderumslæring, samt hyg-
+ge/ophold, fodboldbaner, dyrefolde, genbrug af jord (kælkebakker, volde, diger mv.)
+3.2. Planmæ ssige rammer for projektet: 
+
+75
+3.2.1. Udleder krav, grundvand, jordbund mv. Udformning og placering inkl. udarbejdning af pas-
+sende kortmateriale. Her er det relevant at identificere andre planer, som projektet indgår i fx 
+overordnede planer (se beskrivelse af planer). Vær her opmærksom på samtidighed og synergi 
+med kulturelle og rekreative elementer.
+3.2.2. Det skal skitseres, hvordan projektets økonomi fordeles mellem kommune og forsyning, 
+eksempelvis udarbejde juridisk aftale eller medfinansiering.  
+3.2.3. Det skal også meget tidligt præciseres hvor og hvordan forløb mellem anlæg og recipient 
+planlægges. Samt kortlægning af dræn.
+3.3. Udarb ejdelse af tidsplan for projektet (planer, tilladelser, arkæologiske undersøgelser mv.)
+3.4. Arealerhvervelse
+3.4.1. Der skal være egnet areal nok til projektet. I den forbindelse skal det afklares, om der skal 
+udarbejdes og vedtages et tillæg til fx spildevandsplan, lokalplanbehov/landzonetilladelse. 
+3.4.2. Skal der søges andre tilladelser for gennemførelse af projektet fx vandløbsregulering, §3 
+dispensation, §8 efter jordforureningsloven? Arealerhvervelse.
+3.5. Identific ere relevante Interessenter/Aktører, jf side 74
+3.6. Definer e den ”kritiske vej”. Ny identificerede udfordringer (økonomi, bindinger, design, krav, 
+interessentønsker mv.) kan have stor indflydelse på, hvordan man når i mål med projektet. 
+3.7. Der sk al udarbejdes en jordhåndteringsplan (tjek genindbygningsegnethed hvis der ønskes, 
+0-balance mv.)
+3.8. Afklaring a f efterfølgende drift (hhv. kommune/forsyning) (giver dette anledning til ændring af 
+projektet?). Der skal udarbejdes udkast til driftsplan
+4.    Myndighed og udbud
+4.1. Ansøgninger udarb ejdes til de forskellige myndigheder
+4.2. Udlednings tilladelsen. Det er vigtigt at den kører synkront med spildevandsplanen. 
+Det er vigtigt at den er på plads for at forebygge projektstop. 
+I forbindelse med udarbejdelse af tillæg til spildevandsplanen for et givent projekt, skal det forsø-
+ges allerede der, at indhente de oplysninger, som er nødvendige for også at kunne udarbejde en 
+udledningstilladelse. På den måde ”tvinges” ansøger allerede i planfasen til at tænke længere ned/
+ind i projektet. Erfaringen er, at man forebygger, at kravet om indhold/vilkår mm i udledningstilladel-
+sen kommer som en uventet opgave for ansøger. Det er en fordel både for ansøger og myndighed. 
+Desuden afklaring af køreveje, overkørsler og arbejde ved vandløb, hensyn til §3 områder, støj. 
+Forberede kommunikation i anlægsfasen (skiltning, tilgængelighed for bløde trafikanter mv).
+
+76
+Aktører uformelle
+Foreninger
+Mountain bike klubben, 
+lystfiskere, spejdere, borgere 
+(ikke grundejere), interesseorg: 
+DOF, DN, Friluftsrådet. (Liste 
+over høringsberettigede for-
+eninger)
+Grønt Råd
+Klageberettigede
+Sundhedsstyrelsen/
+Embedslægen, hvs@sst.dk
+Danmarks Fiskeriforening, 
+mail@dkfisk.dk
+Danmarks 
+Naturfredningsforening, 
+frederikssund@dn.dk, dn@
+dn.dk
+Dansk Ornitologisk Forening, 
+frederikssund@dof.dk, natur@
+dof.dk
+Sportsfiskerforbundet, post@
+sportsfiskerforbundet.dk
+Friluftsrådet
+nordsjaelland@friluftsraadet.
+dk, fr@friluftsraadet.dk   
+Greenpeace
+info.nordic@greenpeace.org
+Tilstødende afdelinger i 
+kommunen som indgår aktivt i 
+processen
+Herunder fra 
+Miljøbeskyttelsesloven
+§ 100. Lokale foreninger og or -
+ganisationer, der har beskyttel-
+se af natur og miljø som hoved-
+formål, kan påklage afgørelser, 
+som foreningen eller organisa-
+tionen har ønsket underretning 
+om, jf. § 76, stk. 1. Lokale for -
+eninger og organisationer, der 
+efter deres formål varetager 
+væsentlige rekreative interes -
+ser, kan påklage afgørelser, som 
+foreningen eller organisationen 
+har ønsket underretning om, 
+jf. § 76, stk. 1, når afgørelsen 
+berører sådanne interesser og 
+klagen har til formål at varetage 
+natur- og miljøbeskyttelse.
+Stk. 2. Landsdækkende for -
+eninger og organisationer, der 
+efter deres vedtægter har be-
+skyttelse af natur og miljø som 
+hovedformål, kan påklage afgø-
+relser efter bestemmelserne i 
+kapitel 3-5 og 9 a.
+Stk. 3. Landsdækkende for -
+eninger og organisationer, der 
+efter deres vedtægter har til 
+formål at varetage væsentlige 
+rekreative interesser, kan på -
+klage afgørelser efter bestem-
+melserne i kapitel 3-5 og 9 a, 
+når afgørelsen berører sådanne 
+interesser, og klagen har til for -
+mål at varetage natur- og miljø-
+beskyttelse.
+Stk. 4. Lokale afdelinger af 
+landsdækkende foreninger eller 
+organisationer er ikke omfattet 
+af bestemmelsen i stk. 1-3.
+Aktører formelle
+Myndigheder
+Spildevandsmyndighed
+Miljømyndighed
+Naturmyndighed 
+Planmyndighed
+Vejmyndighed
+Grundvandsmyndighed
+Vandløbsmyndighed
+Jordmyndighed 
+Politikere
+Forsyning
+Grundejere
+Kommunale ejendomme 
+Developere
+Driftsafdeling i kommunen
+Juridiske aspekter
+Arkæologiske interesser
+
+77
+4.3. Int ern høring og forhøring af udkast til udledningstilladelser og tillæg til spildevandsplan hos 
+forsyningen inden offentlig høring kan være en fordel.
+5.    Hovedprojekt
+5.1. Der udfør es detailprojektering på baggrund af ovenstående aftaler og skitserede forhold for 
+projektet. 
+5.2. Udarb ejdelse af udbudsmateriale samt i visse tilfælde myndighedsansøgninger overgår ofte 
+til rådgiver. Her er det for både kommune og forsyning vigtigt, at der kommunikeres i forhold til at 
+”huske” lovkrav og øvrige forhold, der er afgørende for projektets realisering. Det er ligeledes vigtigt 
+at huske at høre nabokommuner ved udledninger til grænsevandløb. 
+5.3. Husk: Plac eres udløb i nabokommune, skal der udarbejdes tillæg til spildevandsplan i begge 
+kommuner.
+6.    Anlægsfase
+6.1. Kommunik ation mellem plan og projekt er igen afgørende. Altså de ting man er blevet enige om 
+i hele planlægningen af projektet, skal også efterleves i udførelsen af projektet. Det sker at planen 
+ikke holder, og her er det igen vigtigt at kommunikere tilbage til myndighed ift. at ansøge om at opnå 
+tilladelse til holdbar ny løsning. 
+6.2. Håndt ering af klager (lav kommunikationsplan for borgerhåndtering, formidling af gener mv.)
+6.3. Dokument ation (før og efter)
+6.4. Opfølgning a f om vilkår for projektet er overholdt (dette gøres nemt hvis kommunikationen i 
+anlægsfasen er høj mellem entreprenør/myndighed)
+6.5. P å regnbetingende udledninger er kommunen tilladelsesmyndighed, men Miljøstyrelsen er til -
+synsmyndighed.
+7.    Afslutning/evaluering
+7.1. E valuering er vigtigt for at forbedre processen for næste projekt
+8.   Plejeplan og driftsfase, herunder beredskabsplan for håndtering af særlige hændelser, der giver  
+       uhensigtsmæssige udløb til recipienten. 
+
+78
+15.0 Bilag 3
+15.1 Gode arter til råjord
+Manna sødgræs (våd)
+Ager-tidsel (tør)
+Horse-tidsel (våd-tør)
+Kruset tidsel (tør)
+Tusindfryd (våd-tør)
+Glat-vejbred (våd)
+Lancetbladet vejbred (tør)
+Knæbøjet rævehale (våd)
+Eng-rottehale (våd)
+Lav ranunkel våd)
+Ager-padderok (våd)
+Prikbladet perikon (tør)
+Hvid-kløver (våd-tør)
+Fløjlsgræs (våd)
+Butbladet skræppe (våd)
+Kruset skræppe (tør)
+Håret star (våd)
+Rød svingel (våd-tør)
+Agervikke (tør)
+Blød hejre (tør)
+Gærde valmue (tør)
+Haremad (våd-tør)
+Skive kamille (våd-tør)
+Fliget brøndsel (våd)
+Lugtløs kamille (tør)
+Glat svinemælk (tør)
+Slangehoved (tør)
+Fin kløver (tør)
+Vellugtende kamille (våd-tør)
+Hvid okseøje (tør)
+Ager-mynte (våd)
+Bakke forglemmigej (tør)
+Bitter bakkestjerne (tør)
+Hyrdetaske (tør)
+Ungarsk vejsennep (tør)
+Rank vejsennep (tør)
+Følfod (våd-tør)
+Gråbynke (tør)
+Høgeskæg (tør)
+Glat svinemælk (tør)
+Katost (tør)
+Løg-karse (våd-tør)
+Smalbladet ærenpris (tør)
+Alm kællingetand (våd-tør)
+Humlesneglebælg (tør)
+Stenkløver (tør)
+Kløftet storkenæb (våd-tør))
+Pyrenæisk storkenæb (tør
+
+Øvrige anvisninger fra Rørcentret: 
+Rørcenter-anvisning 001 
+Ressourcebesparende afløbsinstallationer i 
+boliger, juni 1999 
+Rørcenter-anvisning 002 
+Ressourcebesparende vandinstallationer i boli-
+ger, juni 1999 
+Rørcenter-anvisning 003  
+Brug af regnvand til wc-skyl og vaskemaskiner 
+i boliger, september 2012 
+Rørcenter-anvisning 004 
+Renovering af afløbsledninger. Paradigma for 
+udbud og beskrivelse inkl. vejledning 
+2 udgave, januar 2005, inkl. Indlagt cd-rom 
+Rørcenter-anvisning 005 
+Fedtudskillere. Projektering, dimensionering, 
+udførelse og drift, marts 2000 
+Rørcenter-anvisning 006 
+Olieudskilleranlæg. Vejledning i projektering, 
+dimensionering, udførelse og drift, marts 2004 
+Rørcenter-anvisning 007 
+Dæksler og Riste. Dæksler og riste af støbe-
+jern til kørebane og gangarealer, maj 2005 
+Rørcenter-anvisning 008 
+Acceptkriterier. Retningslinier for vurdering af 
+nye og fornyede afløbsledninger ved hjælp af 
+TV-inspektion, maj 2005 
+Rørcenter-anvisning 009 
+Nedsivning af regnvand i faskiner. 
+Vejledning i projektering, dimensionering, 
+udførelse og drift af faskiner, maj 2005 
+Rørcenter-anvisning 010 
+Tømning af bundfældningstanke 
+(septitanke). Paradigma for udbudsmateriale, 
+marts 2006 
+Rørcenter-anvisning 011 
+Vacuumsystemer i bygninger. 
+Vejledning i projektering, udførelse og drift, 
+marts 2006 
+Rørcenter-anvisning 012 
+Nye afløbssystemer samt omlægninger. 
+Paradigma for udbud og beskrivelse, maj 2007 
+Rørcenter-anvisning 013 
+Erfaringer med nedsivningsanlæg, februar 
+2007 
+Rørcenter-anvisning 014 
+Afløbssystemer. 
+Oversigt over undersøgelses-, måle- og forny-
+elsesmetoder, april 2007 
+Rørcenter-anvisning 015 
+Tilbagestrømningssikring af vandforsyningssy-
+stemer, oktober 2009 
+Rørcenter-anvisning 016 
+Anvisning for håndtering af regnvand på egen 
+grund, maj 2012 
+Rørcenter-anvisning 017 
+Legionella.  
+Installationsprincipper og bekæmpelsesmeto-
+der, april 2012 
+Rørcenter-anvisning 018 
+Store nedsivningsanlæg. 
+Dimensionering og udførelse, august 2012 
+Rørcenter-anvisning 019 
+Vandbremser.  
+Regulering af vandstrømme i afløbssystemer, 
+maj 2013 
+Rørcenter-anvisning 020 
+Skybrudssikring af bygninger, september 2013 
+Rørcenter-anvisning 021 
+Kælderoversvømmelser.  
+Sikring mod opstigende kloakvand, september 
+2013 
+Rørcenter-anvisning 022 
+Renovering af faldstammesystemer, maj 2017 
+Rørcenter-anvisning 023 
+Regnvandsventilen, marts 2018 
+Rørcenter-anvisning 024 
+Beredskab.  
+Indsatsplaner for oversvømmelser, marts 2018
+Rørcenter-anvisning 025
+Regnvandsbassiner.
+Med natur og aktivitet, april 2018
+
+RENOVERING AF 
+FALDSTAMME-
+SYSTEMER 
+ 
+ 
+Rørcenter-anvisning 022 
+April 2017 
+ 
+Gregers ensvej
+DK-2630 T aastrup
+Telefon 72 20 20 00
+Telefax 72 20 20 19
+info@teknologisk.dk
+www.tek nologisk.dk
+Rørcentret
+Telefon 72 20 22 90
+Telefax 72 20 22 93
+ENERGI OG KLIMA
+ISBN 978-87-996243-0-0
+VANDBREMSER
+REGULERING AF VANDSTRØMME 
+I AFLØBSSYSTEMER
+Rørcenter-anvisning 019
+Maj 2013
+Gregers ensvej
+DK-2630 T aastrup
+Telefon 72 20 20 00
+Telefax 72 20 20 19
+info@teknologisk.dk
+www.teknologisk.dk
+Rørcentret
+Telefon 72 20 22 90
+Telefax 72 20 22 93
+ENERGI OG KLIMA 
+ISBN 978-87-999802-0-8
+VANDBREMSER
+REGULERING AF VANDSTRØMME 
+I AFLØBSSYSTEMER
+Rørcenter-anvisning 019
+Maj 2013
+RENOVERING AF 
+FALDSTAMME-
+SYSTEMER 
+ 
+ 
+Rørcenter-anvisning 022 
+April 2017 
+ 
+Gregers ensvej
+DK-2630 T aastrup
+Telefon 72 20 20 00
+Telefax 72 20 20 19
+info@teknologisk.dk
+www.tek nologisk.dk
+Rørcentret
+Telefon 72 20 22 90
+Telefax 72 20 22 93
+ENERGI OG KLIMA
+ISBN 978-87-996243-0-0
+VANDBREMSER
+REGULERING AF VANDSTRØMME 
+I AFLØBSSYSTEMER
+Rørcenter-anvisning 019
+Maj 2013
+Gregers ensvej
+DK-2630 T aastrup
+Telefon 72 20 20 00
+Telefax 72 20 20 19
+info@teknologisk.dk
+www.teknologisk.dk
+Rørcentret
+Telefon 72 20 22 90
+Telefax 72 20 22 93
+ENERGI OG KLIMA 
+ISBN 978-87-999802-0-8
+VANDBREMSER
+REGULERING AF VANDSTRØMME 
+I AFLØBSSYSTEMER
+Rørcenter-anvisning 019
+Maj 2013
+ENERGI OG KLIMA 
+ISBN 978-87-999802-4-6

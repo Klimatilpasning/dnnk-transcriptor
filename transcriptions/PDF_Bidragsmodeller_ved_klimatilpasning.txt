@@ -1,0 +1,869 @@
+=== DNNK PDF Dokument ===
+Titel: Bidragsmodeller ved klimatilpasning
+Kategori: Rapporter_s3
+Kilde: https://usercontent.one/wp/www.dnnk.dk/wp-content/uploads/2022/11/Bidragsmodeller-ved-klimatilpasning-lovgivningsmaessige-rammer_-Anker-og-Janfelt.pdf
+Indekseret: 2026-09-21T18:32:23.608931
+
+==================================================
+
+Bidragsmodeller ved klimatilpasning  
+– lovgivningsmæssige rammer   
+ 
+ 
+ 
+ 
+ 
+ 
+Helle Tegner Anker 
+Asger Janfelt 
+ 
+ 
+ 
+293 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IFRO Rapport 293 
+Bidragsmodeller ved klimatilpasning – lovgivningsmæssige rammer 
+Forfattere: Helle Tegner Anker1 og Asger Janfelt2 
+1IFRO, Københavns Universitet 
+2Advokatfirmaet Energi og Miljø 
+Udgivet november 2020  
+ISBN: 978-87-93768-20-8 
+Rapporten er udarbejdet i regi af projektet ”Klimatilpasning på Tværs ” med finansiering fra Region 
+Hovedstaden. 
+Se hele rapportserien på http://www.ifro.ku.dk/publikationer/ifro_serier/rapporter/ 
+Institut for Fødevare- og Ressourceøkonomi (IFRO) 
+Københavns Universitet 
+Rolighedsvej 25 
+1958 Frederiksberg C 
+www.ifro.ku.dk
+ 
+
+1 
+ 
+Indhold 
+Forord ................................................................................................................................................................ 2 
+1. Introduktion ................................................................................................................................................... 3 
+2. Vandløbsloven ............................................................................................................................................... 4 
+2.1. Proceduren for reguleringssager m.v. ................................................................................................... 5 
+2.2. Bidragsfordeling .................................................................................................................................... 6 
+2.3. Særligt vedrørende pumpelag ............................................................................................................... 8 
+3. Kystbeskyttelsesloven ................................................................................................................................... 9 
+3.1. Proceduren for fællesprojekter ........................................................................................................... 10 
+3.2. Bidragsfordeling .................................................................................................................................. 10 
+3.3. Etablering af digelag m.v. .................................................................................................................... 13 
+4. Medfinansiering m.v. – kommuner og forsyningsselskaber........................................................................ 14 
+4.1. Bidrag fra kommuner .......................................................................................................................... 14 
+4.2 Bidrag fra forsyningsselskaber m.v....................................................................................................... 14 
+4.3. Spildevandsanlæg og vejanlæg ........................................................................................................... 15 
+5. Planloven ..................................................................................................................................................... 16 
+Bilag 1. Oversigt over forskellige projekttyper og tilhørende bidragsydere ................................................... 18 
+ 
+  
+
+2 
+ 
+Forord 
+Dette notat  er udarbejdet i regi af projektet ”Klimatilpasning på Tværs ” med finansiering fra Region 
+Hovedstaden. Projektet har en bred partnerskabskreds , der blandt andet  omfatter flere kommuner i 
+hovedstadsregionen og sekretariatsbetjenes af Egedal og Brøndby kommuner.  I projektet skal der blandt 
+andet arbejdes på at udvikle konkrete modeller for, hvordan udgifterne til klimatilpasningsprojekter kan 
+fordeles, og hvordan der kan sikres samarbejde på tværs af kommunegrænser. I projektet indgår 
+forskningsbidrag om blandt andet  bidragsmodeller, anden finansiering, samarbejde på tværs og 
+interessentinddragelse. Målgruppen for forskningsbidragene er dels de deltagende partnere i projektet, dels 
+andre der arbejder med klimatilpasning i praksis.  
+Notatet er udarbejdet som en del af en første levering i en serie af fire arbejdspakker om bidragsmodeller 
+med fokus på henholdsvis eksisterende viden, principper og pejlemærker for nye bidragsmodeller, barrierer 
+for implementering og afprøvning af modeller.  
+Notatet har til formål at afdække de eksisterende lovgivningsmæssige rammer for bidragsmodeller i 
+kollektive vandløbs- og kystbeskyttelsesprojekter og den tilhørende praksis. Undersøgelsen er gennemført 
+som en traditionel juridisk analyse af eksisterende lovgivning og praksis, herunder relevante offentliggjorte 
+domme og klagenævnsafgørelser.  
+Der er foretaget faglig kvalitetssikring af notat et ved intern gennemlæsning på Institut for Fødevare - og 
+Ressourceøkonomi, Københavns Universitet. 
+Frederiksberg, oktober 2020 
+ 
+  
+
+3 
+ 
+1. Introduktion 
+Begrebet bidragsfordeling anvendes i såvel vandløbsloven1 og kystbeskyttelsesloven2 om fordeling af udgifter 
+til vandløbs- eller kystbeskyttelsesprojekter ved opkrævning af bidrag  (pengebeløb) fra ejere og andre, der 
+opnår beskyttelse eller anden nytte ved en foranstaltning. Bidragspligt indebærer, at der træffes en afgørelse, 
+hvor de enkelte bidrag sydere pålægges pligt til at indgå i bidragsfordelingen efter en nærmere angiven 
+fordelingsnøgle. For så vidt angår kystbeskytte lsesloven, er det kommunen, der træffer afgørelse om 
+bidragsfordeling, og afgørelsen kan påklages til Miljø - og Fødevareklagenævnet. For så vidt angår 
+vandløbsloven, kan kommunen alene søge forlig mellem de involverede . Hvis der ikke kan opnås enighed, 
+træffes en egentlig afgørelse om bidragsfordeling af en taksationskommission og kan påklages til en 
+overtaksationskommission.  
+At udgifterne til et projekt kan finansieres gennem pålæg af bidragspligt , udelukker ikke, at der i et vist 
+omfang kan ske finansiering af et projekt fra anden side. Eksempelvis kan der være tale om hel eller delvis 
+finansiering gennem kommunale midler, gennem vandselskaber eller andre aktører. Sådanne med -
+finansieringsmuligheder m.v. omtales kort nedenfor i kapitel 4. Hovedfokus er på de eksisterende modeller 
+for bidragsfordeling i henholdsvis vandløbsloven (kapitel 2) og kystbeskyttelsesloven (kapitel 3) samt det 
+bagvedliggende nytteprincip. I tilknytning til disse bidragsmodeller omtales i kapitel 5 kort planlovens regler, 
+hvorefter der i forbindelse med byudvikling eller ny bebyggelse kan pålægges bygherrer etablering af 
+afværgeforanstaltninger i forhold til oversvømmelse og erosion . Endvidere er der mulighed  for at indgå 
+såkaldte udviklingsaftaler. Disse regler kan i et vist omfang sidestilles med reglerne om bidragsfordeling, 
+selvom der er ikke er tale om egentlige afgørelser i form af pålæg af bidrag. Endvidere må opmærksomheden 
+henledes på, at klimatilpasningsprojekter også kan  omfatte spildevandstekniske løsninger eller eventuelt 
+vejløsninger. I så fald vil de relevante bestemmelser for henholdsvis spildevands- og vejprojekter finde 
+anvendelse, det vil sige,  at der som udgangspunkt vil være tale om takstfinansierede løsninger v ia 
+forsyningsselskabet3 eller eventuelt vejejerne.4 Afgrænsningen mellem de forskellige typer af projekter er 
+imidlertid ikke ganske klar, se eksempelvis nedenfor i kapitel 2 og 4.  
+Nytteprincippet og de eksisterende bidragsmodeller må ses i lyset af de tr aditionelle former for kollektive 
+vandløbs-, dige - og kystbeskyttelsesprojekter. Sådanne projekter har typisk haft til formål at afhjælpe 
+problemer med for eksempel oversvømmelse eller eventuelt at skabe mulighed for udnyttelse af vandlidende 
+eller oversvømmelsestruede arealer til gavn for en nærmere afgrænset kreds af lodsejere og eventuelt andre 
+interessenter. Traditionelt har reguleringsprojekter for vandløb tjent landbrugsmæssige formål ved sikring af 
+bedre afvanding af arealer. Der er dog også eksemple r på større reguleringsprojekter, der har til formål at 
+beskytte lavtliggende sommerhus- eller boligområder. Endvidere kan vandløbsregulering indgå i forbindelse 
+med naturgenopretningsprojekter m.v. Kystbeskyttelsesprojekter kan omfatte en større eller min dre kreds 
+af grundejere. Der sondres som udgangspunkt mellem fællesprojekter for flere ejendomme og individuelle 
+projekter for enkelte ejendomme. Såvel kystbeskyttelsesprojekter som vandløbsprojekter indebærer i visse 
+                                                           
+1 Lovbekendtgørelse 1217/2019 af lov om vandløb (vandløbsloven). 
+2 Lovbekendtgørelse 705/2020 af lov om kystbeskyttelse (kystbeskyttelsesloven).  
+3 Lovbekendtgørelse 553/2020 om betalingsregler for spildevandsforsyningsselskaber mv. (spildevandsbetalingsl oven). 
+4 Lov nr. 1520/2014 om offentlige veje m.v. med senere ændringer (vejloven) fastsætter regler om vejbidrag i lovens 
+kapitel 4. Lovbekendtgørelse 1234/2015 om private fællesveje indeholder også regler om udgiftsfordeling.  
+
+4 
+ 
+tilfælde etablering af kyst -, dige- eller pumpelag, som blandt andet har ansvar for vedligeholdelse m .v. af 
+anlæggene.  
+I det følgende redegøres kort for proceduren for kollektive vandløbs - og kystbeskyttelsesprojekter  og 
+dernæst for de tilknyttede bidragsmodeller i henholdsvis vandløbsloven (kapitel 2) og kystbeskyttelsesloven 
+(kapitel 3). Spørgsmålet om bidragsfordeling angår navnlig , hvem der kan sættes i bidrag og efter hvilke 
+principper. Det må bemærkes, at fastsættelse af bidrag er undergivet almindelige forvaltningsretlige 
+principper om saglighed og lighed. Der må således ske en ensartet anvendelse af sagligt begrundede kriterier 
+for fordeling af bidrag. Det hindrer imidlertid ikke, at det kan være sagligt at sondre mellem forskellige typer 
+af ejendomme. Proportionalitetsprincippet finder også anvendelse og kan blandt andet betyde, at der er 
+grænser for hvor stort et bidrag, der kan pålægges enkelte ejendomme , set i forhold til det mål, der ønskes 
+opnået (rimelighed), samt at der er grænser for , hvilket beskyttelsesniveau der kan pål ægges bidrag for 
+(nødvendighed og egnethed ).5 I kapitel 4 redegøres kort for reglerne om medfinansiering og for 
+afgrænsningen til spildevands- og/eller vejløsninger. Endelig redegøres i kapitel 5 kort for planlovens regler 
+om afværgeforanstaltninger og udviklingsaftaler.   
+2. Vandløbsloven 
+Håndtering af overfladevand i tilknytning til vandløb og søer vil som udgangspunkt kræve en tilladelse efter 
+vandløbsloven. Vandløbslovens § 6 fastlægger et generelt tilladelseskrav for ændring af vands naturlige afløb 
+til anden ejendom eller hindring af det naturlige afløb af vand fra højere liggende ejendomme, samt for 
+bortledning af vand fra vandløb, forandring af vandstanden i vandløb eller hindring af vandets frie løb. 
+Derudover indeholder vandløbsloven mere specifikke tilladelseskrav til en række vandløbsforanstaltninger, 
+herunder regulering af vandløb (§ 17), anlæg af nye vandløb (§ 21), etablering eller ændring af 
+udpumpningsanlæg (§ 38) og etablering af opstemningsanlæg (§ 48). Endvidere er der fastsat nærmere 
+bestemmelser vedrørende vandløbsrestaurering efter vandløbsmyndighedens beslutning (§ 37). Det må 
+understreges, at tilladelseskrav m.v. også finder anvendelse på grøfter, kanaler, rørledninger, søer, damme 
+og lignende indvande. Derimod er spildevandstekniske anlæg, det vil sige anlæg, der tjener til afledning eller 
+behandling af spildevand, ikke omfattet af vandløbsloven. Det er omdiskuteret, hvor når og hvordan et 
+vandløb kan ændres til et spildevandsteknisk anlæg. Miljø - og Fødevareklagenævnet har i en afgørel se fra 
+2018 lagt til grund, at det alene kan ske ved en ændring af spildevandsplanen. 6 Det er imidlertid 
+problematiseret, at der herved ikke træffes en afgørelse efter vandløbsloven om nedlæggelse af vandløbet 
+som en reguleringssag. 7 At et vandløb modtager  spildevand, hindrer ikke, at der fortsat er tale om et 
+                                                           
+5 Se blandt andet Jon Andersen, Forvaltningsret, 9. udgave, København: Karnov Group 2017, s. 157 -158 
+6 Miljø- og Fødevareklagenævnet har i en afgørelse af 17. april 2018, j.nr. NMK-43-00694 (MAD2018.156) udtalt, at 
+ændring af et forløbs status fra vandløb til spildevandsteknisk anlæg alene kan ske ved udarbejdelse af et tillæg til 
+spildevandsplan/revision af spildevandsplanen, blandt andet med henvisning til Miljøstyrelsens Vejledning nr. 3, 2001 
+om betalingsregler for spildevandsanlæg. Vejledningen forudsætter, at alle spi ldevandsanlæg fremgår af kommunens 
+spildevandsplan. Sagen blev i øvrigt genoptaget i 2019 med en præcisering af, at et  rørlagt forløb, der kun er tilsluttet 
+en enkelt ejendom, ikke retligt kan klassificeres som et (fælles) spildevandsteknisk anlæg omfattet af 
+miljøbeskyttelsesloven. Endvidere anførtes, at der var tale om et drænrør, der ikke kun modtog tag - og spildevand, 
+men også overfladevand/nedsevet vand fra markareal, se Miljø- og Fødevareklagenævnets afgørelse af 12. marts 
+2019, sagsnr. 19/01318 (MAD2019.74).  
+7 Se Soja, H., Kan kommuner nedlægge et vandløb uden at træffe en afgørelse, Ret & Indsigt nr. 1, 2019, 
+https://www.horten.dk/viden/artikler-2019/kan-kommuner-nedlaegge-et-vandloeb-uden-at-traeffe-en-afgoerelse, 
+
+5 
+ 
+vandløb.8 Ifølge spildevandsbekendtgørelsen defineres et spildevandsanlæg som åbne såvel som lukkede 
+ledninger og andre anlæg, der tjener til afledning og/eller behandling af spildevand i forbindelse med 
+udledning til vandløb, søer eller havet eller til afledning til jorden.9 
+Vandløbsloven indeholder særlige regler vedrørende dræning – dels den såkaldte frie dræningsret for 
+grundejere til at sænke grundvandsstanden på egen grund ved dræning m.v., når det er dyrkningsmæssigt 
+nødvendigt, dels bredejeres ret til at aflede overfladevand (og drænvand) til vandløb, jf. vandløbslovens § 3. 
+Det er som udgangspunkt vandløbsmyndigheden, det vil sige kommunalbestyrelsen, der meddeler tilladelse 
+efter vandløbsloven. Såfremt et vandløbsprojekt indgår i forbindelse med kystbeskyttelsesforanstaltninger 
+efter kystbeskyttelseslovens § 3, kan v andløbsmyndigheden beslutte, at der ikke kræves tilladelse efter 
+vandløbsloven til kystbeskyttelsesforanstaltninger. Dette forudsætter, at det samtidig fremgår af tilladelsen 
+efter kystbeskyttelsesloven. Der vil dog fortsat skulle træffes afgørelse vedrørende bidragsfordeling efter 
+vandløbsloven, jf. vandløbslovens § 7b, stk. 2. 
+2.1. Proceduren for reguleringssager m.v. 
+Der er fasts at nærmere regler om proceduren for blandt andet vandløbsregulering i bekendtgørelse om 
+vandløbsregulering og -restaurering m.v.10  Projekterne kan variere fra mindre projekter vedrørende enkelte 
+ejendomme til større projekter omhandlende mange ejendomme.  I projekter, der er omfattet af vandløbs-
+lovens kapitel 9 om udpumpningsanlæg med digeanlæg til afvanding eller bevanding, kan vandløbs -
+myndigheden oprette offentlige pumpelag eller afvandingslag, jf. vandløbslovens § 39.  
+Et forslag til et projekt skal in deholde nærmere oplysninger om projektet, herunder en oversigt over de 
+omfattede ejendomme og et overslag over udgifterne med forslag til fordeling af disse. Vandløbs -
+myndigheden skal indhente udtalelse fra interesserede myndigheder m.v. og der er pligt til at forhandle med 
+de berørte vandløbsmyndigheder, hvis sagen vedrører vandløbsforholdene i flere kommuner, jf. 
+bekendtgørelsens § 13.  
+Vandløbsmyndigheden kan herefter træffe afgørelse om fremme af projektet med en frist på mindst 4 uger 
+for fremsendelse af indsigelser. Såfremt vandløbsmyndigheden beslutter det, kan der indkaldes til et 
+offentligt møde med mindst 4 ugers varsel. Herefter vil der være en frist på mindst 4 uger for fremsendelse 
+af indsigelser.  
+Vandløbsmyndighedens godkendelse af et projekt,  der forudsætter tilladelse eller godkendelse efter 
+bestemmelserne i naturbeskyttelsesloven, miljøbeskyttelsesloven, vandforsyningsloven eller fiskeriloven , 
+kan først meddeles, når der foreligger endelig afgørelse efter disse bestemmelser, jf. bekendtgørelsens § 18. 
+Der skal ved den endelige afgørelse tages hensyn til samtlige afvandingsinteresser ved vandløbet og til 
+foreneligheden med den miljømæssige målsætning, der er fastlagt for vandløbet  i henhold til 
+vandplanloven.11 
+                                                           
+hvor der henvises til Miljø- og Fødevareklagenævnets afgørelse af 7. juni 2018, NMK-43-00712 om et privat rørlagt 
+vandløb, der ikke var optaget i spildevandsplanen. 
+8 Se Vestre Landsrets dom, afsagt den 14. juni 2004, 1. afdeling i B-0095-03 (MAD2004.584V) om rørledninger, hvor 
+der blev tilledt henholdsvis regnvand og vejvand. 
+9 Bekendtgørelse nr. 1317/2019 om spildevandstilladelser m.v. efter miljøbeskyttelseslovens kapitel 3 og 4. 
+10 Bekendtgørelse nr. 834/2016 om vandløbsregulering og -restaurering m.v. 
+11 Lovbekendtgørelse 126/2017 om vandplanlægning. 
+
+6 
+ 
+Godkendelse af et projekt skal in deholde endelig afgørelse om eventuelle økonomiske spørgsmål, om 
+arealerhvervelser og rådighedsindskrænkninger samt om erstatning for disse, jf. bekendtgørelsens § 19, stk. 
+2. Selve bidragsfordelingen indgår imidlertid ikke i godkendelsen, da dette afgøres  særskilt ved taksations-
+myndighederne, såfremt der ikke kan opnås enighed mellem parterne. Det betyder også, at Miljø - og 
+Fødevareklagenævnet ikke har kompetence til at tage stilling til bidragsfordelingen i forbindelse med en klage 
+over et projekt.12 
+2.2. Bidragsfordeling 
+For så vidt angår bidragsfordeling anvender vandløbsloven det såkaldte nytteprincip, hvorefter de 
+grundejere, der skønnes at have nytte af en foranstaltning, skal afholde udgifterne. Dette fremgår af lovens 
+§ 24 , stk. 1  for så vidt an går regulering af vandløb, det vil sige  ændringer af et vandløbs skikkelse og 
+forandringer af vandstanden i en sø. Det gælder også ved etablering af pumpeanlæg og digeanlæg, jf. § 41. 
+Endvidere fremgår det af § 22, at udgifter til etablering af nye vandløb afholdes af de grundejere, der ønsker 
+anlægget udført, og af de grundejere, der ønsker at medbenytte vandløbet.  Der er ikke regler om 
+bidragsfordeling ved vandløbsrestaurering, da det er vandløbsmyndigheden, der afholder udgifterne hertil, 
+jf. § 37, stk. 2.  
+En regulering efter vandløbsloven vil efter omstændighederne kunne udføres som et medfinansierings -
+projekt i henhold til spildevandsbetalingsloven , hvor projektet finansieres af spildevandsselskabet og en 
+projektejer i fællesskab . Vandløbslovens § 24 om bidragsfordeling ved regulering af vandløb finder ikke 
+anvendelse ved sådanne projekter, i det omfang udgifterne afholdes af spildevandsforsyningsselskabet eller 
+projektets ejer. På samme måde overtager spildevandsselskabet og projektets ejer vedligehol delsespligten 
+til det pågældende offentlige eller private vandløb efter lovens §§ 31 og 35 . Det fremgår af 
+medfinansieringsbekendtgørelsens § 5, som er omtalt nærmere nedenfor i kapitel 4.  
+Vandløbsmyndigheden har, for så vidt angår offentlige vandløb, hjemmel til at afholde udgifter til regulering, 
+vandstandsforandringer eller anlæg af nye vandløb, jf. § 24, stk. 2. Dette gælder derimod ikke i forhold til 
+offentlige pumpelag. Endvidere blev der ved lov nr. 492/2013 gennemført en ligestilling af offentlige og 
+private pumpelag, således at vandløbsmyndigheden ikke længere afholder administrationsudgifter for de 
+offentlige pumpelag, jf. § 42 a. Disse udgifter må afholdes af pumpelagene.  
+Såfremt der ikke kan opnås enighed mellem de involverede grundejere om fordeling af udgifterne, kan 
+spørgsmålet indbringes for vandløbsmyndigheden, der skal søge forlig mellem de berørte parter. 
+Vandløbsmyndigheden kan imidlertid ikke træffe afgørelse om bidragsfordelingen, da denne kompetence 
+ligger hos taksationsmyndighederne, som er nedsat efter lov om offentlige veje. Det betyder, at en tvist om 
+bidragsfordeling må indbringes for den relevante taksationskommission, 13 hvis afgørelse derefter kan 
+indbringes for en overtaksationskommission.14 Det fremgår dog af vandløbslovens § 63, at vandløbs -
+myndigheden kan godkende, at en person, der ikke har deltaget i en foranstaltning, kan benytte 
+foranstaltningen mod at betale en del af anlægsudgifterne og deltage i den fremtidige vedligeholdelsesudgift, 
+                                                           
+12 Se U2009.379H hvor Naturstyrelsen som daværende klageinstans vedrørende et vandløbsprojekt ikke kunne 
+bedømme, om proportionalitetsprincippet var iagttaget ved bidragsfordelingen. 
+13 Der er nedsat 15 taksationskommissioner efter vejlovens bestemmelser. Om taksationskommissionerne se blandt 
+andet Knoop, V.T., Vandløbssager i den kommunale taksationskommission – i en retlig belysning, KarnovGroup, 2018. 
+14 Der er nedsat syv overtaksationskommissioner efter vejlovens bestemmelser. Overtaksationskommissionerne 
+sekretariatsbetjenes af taksationssekretariatet, se www.taksationssekretariatet.dk.  
+
+7 
+ 
+samt erstatte det tab, som benyttelsen medfører. Vandløbsmyndighedens afgørelse herom kan indbringes 
+for taksationsmyndighederne. Endvidere fremgår det af § 68, at der kan pålægges bidrag til et vandløbs 
+regulering og vedligeholdelse ved en (væsentlig) f orøgelse af afløbsmængden fra ejendomme eller anlæg. 
+Tilsvarende gælder ved tilledning af spildevand, der i nævneværdig grad øger arbejdet ved vandløbets 
+oprensning. Det er antaget, at det ikke er tilstrækkeligt, at der sker belastning med større vandmængd e 
+alene, se i øvrigt kapitel 4 om medfinansiering m.v. 
+De udgifter, der indgår i en bidragsfordeling , er både anlægsudgifter og driftsudgifter, herunder  til 
+efterfølgende vedligeholdelse. Endvidere vil udgifter til erstatning for tab, som andre måtte lide som følge af 
+for eksempel en vandløbsregulering, også kunne indgå i bidragsfordelingen. Der gælder som udgangspunkt 
+et objektivt ansvar for skade efter vandløbsloven, således at enhver, der lider tab ved en vandløbsregulering, 
+forandring af vandstand eller  anlæg af et nyt vandløb , har ret til erstatning, jf. § 23. Tilsvarende gælder i 
+forhold til vandløbsrestaurering, jf. § 37, offentlige pumpelag, jf. § 45, og opstemningsanlæg m.v., jf. § 51. 
+I praksis vil der ved en bidragsfordeling blive taget udgangspun kt i  en såkaldt partsfordeling, hvor hver 
+ejendom tildeles et antal parter ud fra forskellige kriterier, for eksempel den arealmæssige andel, arealets 
+brugsværdi (landbrug, bolig eller andet), arealets værdi (fx bonitet for landbrugsarealer) eller beliggen hed. 
+Vandløbslovens nytteprincip indebærer, at der skal foretages en fordeling efter den nytte , de enkelte 
+interessenter har. Der kan ikke anvendes et solidaritetsprincip, hvor alle antages at have samme nytte af et 
+projekt.15  
+Som eksempler på bidragsforde ling efter nytteprincippet kan nævnes en sag fra Overtaksationskommissionen for 
+Århus og Holstebro om genåbning af et rørlagt vandløb, hvor visse strækninger fortsat skulle være rørlagt af hensyn 
+til den landbrugsmæssige drift . Overtaksationskommissionen fandt, at lodsejere, som bibeholdt rørlægning af 
+vandløb på deres ejendom, og som havde nytte heraf, måtte bidrage til at afholde udgifterne. 16 Overtaksations-
+kommissionen fandt ikke grundlag for at anfægte den af kommunen anvendte fordelingsnøgle, hvorefter bidragene 
+var fastsat proportionalt med længden af den rørlagte strækning på den enkelte ejendom.  
+I en anden sag afviste Overtaksationskommissionen for Fyn, Sønderjylland og Esbjerg, at en grundejer havde nytte 
+af regulering af en rørlagt vandløbsstrækni ng med en ny ledning, da vedligeholdelsesforpligtelsen påhvilede 
+kommunen, og der derfor ikke var sparede vedligeholdelsesudgifter for grundejeren. 17  
+Der kan ved fastsættelse af bidragsfordeling tages udgangspunkt i forskellige modeller, for eksempel TWI-
+modellen, som er en matematisk beregningsmetode, der beskriver vandstrømning og vandopstuvning på 
+jordoverfladen.18 Overtaksationskommissionen for Fyn, Sønderjylland og Esbjerg har dog bemærket, at en 
+sådan model ikke kan stå alene. Hvis særlige forhold gør sig gældende på den enkelte grund, må der tages 
+hensyn hertil. Der kan for eksempel  ikke ses bort fra, at grundejere, der har investeret i særlige 
+                                                           
+15 Se blandt andet Overtaksationskommissionen for Fyn, Sønderjylland og Esbjerg m.v. kendelse af 3. oktober 2012, 
+Otax 6/12 (MAD2012.2855). I sagen var der tale om et projekt med begrænsede reguleringer på enkelte 
+delstrækninger. En fordelingsmodel baseret på tilførte vandmængder ansås at væ re udtryk for et solidaritetsprincip, 
+der ikke havde hjemmel i vandløbsloven, da det ikke tog hensyn til, hvilken nytte den enkelte lodsejer havde af de 
+konkrete foranstaltninger. 
+16 Overtaksationskommissionen for Århus og Holstebro kendelse af 28. maj 2018, TS82101-00047(MAD2018.224). 
+17 Overtaksationskommissionen for Fyn, Sønderjylland og Esbjerg kendelse af 26. oktober 2017, TS82401-00006 
+(MAD2017.521). 
+18 TWI er en forkortelse for topographic wetness index. Se om modellen for eksempel Stisen, S. et.al., Modellering af 
+terrænnært grundvand, vandstand i vandløb og vand på terræn for Storå og Odense Å. Slutrapport (FODS 6.1 
+Fasttrack metodeudvikling), Dannmarks og Grønlands Geologiske Undersøgelser Rapport 2018/36 s. 70.  
+
+8 
+ 
+foranstaltninger, der har mindsket risikoen for oversvømmelse af bygningen, kan have mindre nytte af et 
+pumpelag end ejendomme, hvor bygningerne er mere sårbare.19 Overtaksationskommissionen bemærkede 
+endvidere, at ”det forhold, at der hidtil ikke har været oversvømmelse eller vandproblemer på en grund, er 
+ikke ensbetydende med, at ejendommen ikke har nytte af de eksisterende anlæg.”  
+Overtaksationskommissionen for Fyn, Sønderjylland og Esbjerg har dog også understreget, at der ikke 
+nødvendigvis skal ske en individuel gennemgang af et større antal ejendomme (i den konkrete sag 727 
+ejendomme). Men hvis der kan påvises konkrete forhold, må det vurderes, om anvendelsen af modellen har 
+været retvisende i det konkrete tilfælde. Det kan også være påkrævet, at det i relation til den enkelte  ejer 
+påvises, at indplaceringen i en høj nyttekategori er korrekt.20 
+For så vidt angår bidrag fra kommunen, vil der som nævnt være mulighed for, at vandløbsmyndigheden kan 
+vælge helt eller delvist at dække udgifterne, jf. vandløbslovens § 24, stk. 2. Kommunen kan imidlertid også 
+blive sat i bidrag i sin egenskab af grundejer ud fra nyttep rincippet eller eventuelt som en konsekvens af en 
+offentligretlig interesse i projektet. Overtaksationskommissionen for Nord - og Vestsjælland fandt således i 
+en sag, at en kommune forlods skulle betale 15 procent af udgifterne som følge af den offentligret lige 
+interesse i at undgå oversvømmelser i et større opland og baseret på infrastrukturmæssige hensyn.21  
+Endvidere er det set i praksis, at kommunen har overtaget vedligeholdelsespligten for en given vandløbs -
+strækning på privatretligt grundlag .22 Det må i givet fald forudsætte, at de almindelige kommunal -
+fuldmagtsregler overholdes, og at der således navnlig ikke sker nogen individuel økonomisk begunstigelse af 
+kommunens aftalepart. Konsekvensen af aftalen i den konkrete sag var i øvrigt, at spørgsmålet om, hvorvidt 
+vandløbet var tilstrækkeligt vedligeholdt, herefter ikke længere beroede på kommunens afgørelse efter 
+vandløbslovens § 27, men om nødvendigt måtte afklares ved civilt søgsmål. 
+2.3. Særligt vedrørende pumpelag 
+Vandløbsmyndigheden kan efter vandløbslovens § 39 træffe beslutning om oprettelse af offentlige pumpe -
+lag. Anlægsudgifterne og eventuelle senere ekstraordinære omkostninger kan anlægsmyndigheden finan -
+siere forskudsvis ved lånoptagelse med hjemmel i lovens § 42, eller vandløbsmyndigheden kan garantere for 
+disse låns forrentning og tilbagebetaling.  Pumpelagets udgifter i øvrigt udredes forskudsvis af vandløbs -
+myndigheden. Udgifternes endelige afholdelse påhviler dog bidragsyderne til laget efter lovens § 42 a.  
+Oprettelsen af et offentligt pumpelag betyder således ikke, at det offentlige kan eller skal afholde udgifterne 
+i større omfang end ved private pumpelag, men gør det muligt at pålægge private ejendomme at bidrage til 
+anlægget som beskrevet i det følgende. 
+Det følger af vandløbslovens § 40,  stk. 1, at kommunen i forbindelse med oprettelse af et pumpelag skal 
+fastsætte, hvilket område der skal høre under pumpelaget, og udfærdige en vedtægt for laget. Vedtægten 
+tinglyses på de ejendomme, der er medlem af laget, og på de ejendomme, der i øvrigt  yder bidrag til laget. 
+                                                           
+19 Overtaksationskommissionen for Fyn, Sønderjylland og Esbjerg kendelser af 17. november 2014, Otax 2/14. 
+20  Overtaksationskommissionen for Fyn, Sønderjylland og Esbjerg kendelse af 28. og 29. maj 2019, TS82401-00019 
+vedrørende et vandreguleringsprojekt i et sommerhusområde på Sydals. Projektet berørte727 sommerhusejere, som 
+alle var medlem af det offentlige Lysabild-Skovby landvindingslag. 
+21 Overtaksationskommissionen for Nord- og Vestsjælland berigtiget kendelse af 8. maj 2014, Otax 2013-1. Smh.m. 
+U2000.1668H vedrørende kystbeskyttelsesloven, se kapitel 3.2. 
+22 Se Miljø- og Fødevareklagenævnets afgørelse af 14. december 2017, j.nr. NMK-43-00664 (MAD 2017.500), hvor 
+kommunen havde påtaget sig vedligeholdelsespligten i forbindelse med salget af en campingplad s. 
+
+9 
+ 
+Ved fastsættelsen af, hvilke ejendomme der skal yde bidrag til laget, finder § 24, stk. 1, tilsvarende 
+anvendelse, jf. § 41. Udgifterne skal således afholdes af de grundejere, der skønnes at have nytte af 
+foranstaltningerne, og skal  fordeles mellem grundejerne efter den nytte, foranstaltningerne har for den 
+enkelte ejendom, som det netop fremgår af lovens § 24, stk. 1. Det må her bemærkes, at det forhold, at der 
+i § 41 og i § 42 a alene henvises til § 24, stk. 1, men ikke til § 24, s tk. 2, om kommunernes mulighed for helt 
+eller delvist at afholde udgifterne, betyder, at kommunerne ikke frivilligt kan afholde udgifter for et 
+pumpelag. 
+Vandløbsmyndigheden kan efter lovens § 43 pålægge pumpelaget at udføre nødvendige vedligeholdelses -
+arbejder på anlægget med tilhørende vandløb.  Endvidere kan vandløbsmyndigheden efter lovens § 31, stk. 
+2, pålægge pumpelag og landvindingslag helt eller delvis at afholde udgifterne til vedligeholdelse af vandløb 
+under laget og at foretage vedligeholdelsen. Vandløbsmyndighedens afgørelse om hel eller delvis afholdelse 
+af udgifterne kan senest 4 uger efter, den er meddelt parterne, forlanges indbragt for taksations -
+myndighederne. 
+Det er i praksis lagt til grund, at vandløbsmyndigheden efter denne bestemmelse også kan pålægge pumpelag 
+og landvindingslag vedligeholdelsespligten til et dige, da det fremgår af vandløbslovens § 2, stk. 4, at loven 
+også finder anvendelse på diger ved et vandløb. Det forudsætter dog i overensstemmelse  med lovens § 31, 
+stk. 2, at dig et hører ”under laget”. Det er i den forbindelse ikke tilstrækkeligt, at laget har en interesse i 
+vedligeholdelsen af diget.23 
+Pumpelagets anlæg vil efter omstændighederne også kunne have karakter af et medfinansieringsprojekt på 
+samme måde som en regulerin g efter vandløbsloven.  Det betyder efter den ovennævnte bestemmelse i 
+medfinansieringsbekendtgørelsens § 5 , at pumpelagets bidrag sydere ikke skal afholde anlægsudgifterne 
+endeligt efter nytteprincippet i lovens § 24, jf. § 42 a, i det omfang udgifterne afholdes af spildevands -
+selskabet eller projektets ejer. Principielt set vil et pumpelag formentlig godt selv kunne påtage sig rollen 
+som projektets ejer og under forudsætning af spildevandselskabets medvirken lade dette afholde de 
+omkostninger, der vil kunne finansieres i henhold til medfinansieringsbekendtgørelsen. Der henvises herom 
+til kapitel 4.2 nedenfor . Medfinansieringsreglerne indebærer således – i hvert fald rent principielt – en 
+yderligere finansieringsmulighed for pumpelaget . Det skal også ses i ly set af,  at pumpelaget s anlæg i 
+modsætning til et vandløbsreguleringsprojekt som nævnt ovenfor hverken helt eller delvist endeligt vil kunne 
+finansieres med kommunale midler. 
+3. Kystbeskyttelsesloven  
+Efter kystbeskyttelsesloven sondres der mellem fællesprojekter og individuelle kystbeskyttelsesprojekter. 
+Hertil kommer statslige projekter, jf. § 2  b, hvor det er staten, der afholder udgifterne. Spørgsmålet om 
+bidragsfordeling er alene relevant for projekter, der gennemføres som fællesprojekter, jf. lovens kapitel 1 a. 
+For så vidt angår individuelle projekter, der principielt vedrører individuelle ejendomme, forudsættes det, at 
+den, der ansøger om tilladelse til projektet, selv finansierer dette.  Der er ikke noget til hinder for, at der kan 
+indsendes koordinerede ansøgninger om individuelle projekter for flere ejendomme, men kommunen kan 
+ikke træffe afgørelse om bidragsfordeling for sådanne projekter. Et fællesprojekt forudsætter både, at 
+                                                           
+23 Se Overtaksationskommissionens afgørelse af 17. februar 2017 (MAD2017.510)), hvor laget uanset sin interesse i 
+digets vedligeholdelse ikke kunne pålægges vedligeholdelsespligt, da det fremgik af vedtægterne med tilhørende 
+kortbilag, at diget ikke var en del af landvindingslagets anlæg, ejendom eller ansvarsområde. 
+
+10 
+ 
+projektet tjener til beskyttelse for flere ejendomme , og at kom munen beslutter at fremme det som et 
+fællesprojekt. Fællesprojekter kan igangsættes både på foranledning af en (eller flere) grundejer(e) eller af 
+kommunen selv.  
+3.1. Proceduren for fællesprojekter 
+Kystbeskyttelsesloven fastsætter en parallel proces for t illadelse til et fællesprojekt og for den tilhørende 
+bidragsfordeling. Det indebærer blandt andet, at der, når der er truffet afgørelse om fremme af projektet, 
+skal ske en underretning af alle ejere, som vil opnå beskyttelse eller anden fordel af projektet. Herefter skal 
+der udarbejdes en nærmere beskrivelse af projektet og en egentlig ansøgning om tilladelse, der kan 
+udarbejdes af kommunen, et kystbeskyttelseslag eller grundejere. Projektet skal herefter i høring hos alle, 
+som kan blive pålagt bidragspligt , samt ejere af naboejendomme og andre interessenter. Herefter kan 
+kommunen træffe endelig afgørelse om gennemførelse af projektet og om bidragsfordelingen. Afgørelserne 
+kan påklages til Miljø - og Fødevareklagenævnet. Såfremt der sker ændringer af et proje kt, der berører nye 
+grundejere, kan det være nødvendigt at afholde et nyt møde eller foretage en fornyet høring.24 
+ 
+ 
+Figur 1. Beslutningsproces ved fællesprojekter, Anker, H.T. & Knoop, V.T., Byer og havvand – et 
+juridisk baselinenotat, IFRO Rapport 290, 2019. 
+3.2. Bidragsfordeling 
+Kystbeskyttelseslovens § 9 a fastlægger, at ejere af fast ejendom, som opnår en beskyttelse eller anden fordel 
+ved et projekt, kan pålægges bidragspligt. Ved lov 1372/2016 blev det tydeliggjort, at ikke alene grundejerne, 
+men også andre ejere af fast ejendom, der opnår beskyttelse eller anden fordel for deres ejendom, herunder 
+                                                           
+24 Se U2000.1668H: Dragør Nordstrand, hvor ændring af digeprojekt i forbindelse med udførelse ikke nødvendiggjorde 
+afholdelse af et nyt møde, blandt andet da ændringen ikke berørte nye grundejere. 
+Klage - fuld prøvelse (Miljø- og Fødevareklagenævnet)
+Afgørelse om projektet  (kommunen)
+Ansøgning
+Høring af alle, der kan blive pålagt bidragspligt, naboer og 
+interessenter m.v. Screening, miljøvurdering m.v.
+Afgørelse om fremme af projektet (kommunen)
+Underretning af dem, der kan opnå beskyttelse/fordel Evt. screening, miljøvurdering m.v.
+Fællesprojekt - projektforslag
+Kystdirektoratet - udtalelse Evt. screening, miljøvurdering m.v.
+
+11 
+ 
+ledningsejere,25 kan pålægges bidragspligt. Fast ejendom omfatter blandt andet bygninger m.v. på lejet grund 
+og ejerlejligheder. Endvidere blev det understreget i lovbemærkningerne, at der skal foretages en vurdering 
+ud fra saglige og faglige kriterier, lighedsgrundsætningen m.v., af hvem der skal pålægges bidragspligt og i 
+hvilket omfang. Eksempelvis kan ejere af ejendomme, som ikke ligger direkte ud til kysten, pålægges 
+bidragspligt, hvis de rekreative muligheder forbedres ved foranstaltning en.26 I øvrigt er det i 
+lovbemærkningerne påpeget, at eksempelvis en strands økonomiske betydning kan føre til en meget vid og 
+ubestemt kreds, hvilket kan begrunde, at kommunen bidrager til strandens beskyttelse og bevaring.  Det er 
+dog uklart, i hvilket omfang en kommune kan pålægges bidrag i andre egenskaber end som ejer af fast 
+ejendom.27 
+Et muligt eksempel på sidstnævnte er dog Miljø- og Fødevareklagenævnets afgørelse vedrørende Gl. Skagen,28 hvor 
+kommunen fandtes at være nærmere til at bære omkostningerne ved en beskyttelse af det historiske islæt, der var 
+knyttet til Gl. Skagen, end de grundejere, der lå inden  for kommunens 500 meter grænse fra kysten. Nævnet lagde 
+således vægt på, at alle skatteyderne i Frederikshavn Kommune , herunder særligt beboerne i hele Gl. Skagen og 
+Skagen, måtte antages at nyde godt af den turisme, som den særlige historik og natur medførte.  
+Kommunen har i § 9 under alle omstændigheder hjemmel til midlertidigt eller endeligt at afholde udgifter til 
+fællesprojekter på frivilligt grundlag . Derimod blev muligheden for, at ministeren kunne pålægge andre 
+kommuner bidrag, ophævet ved ændringen af kystbeskyttelsesloven i 2018.29 
+For så vidt angår opnåelse af beskyttelse, er det i Miljø - og Fødevareklagenævnets praksis med baggrund i 
+lovbemærkningerne30 lagt til grund, at der skal kunne  dokumenteres en reel risiko for de bidragspålagte 
+ejendomme, som afføder et behov for beskyttelse. 31 Dette er tidligere antaget at være tilfældet, når der er 
+risiko for erosion på en bidragspålagt ejendom indenfor 20-25 år, blandt andet med baggrund i det forhold, 
+at kystbeskyttelse som udgangspunkt kun kunne tillades, hvis der inden for 20 -25 år var risiko for 
+beskadigelse eller ødelæggelse af en ejendom. Ved ændringen af kystbeskyttelsesloven i 2018 blev der dog 
+lempet på kravet om et særligt behov for kystbeskyttelse, og det fremgik af lovbemærkningerne, ”at behovet 
+for kystbeskyttelse ikke skal udtrykkes på baggrund af, om en skade vil indtræffe inden for en given årrække, 
+og at et lille behov ikke i sig selv vil udelukke tilladelse til etablering af kystbeskyttelse.”32 Det må dog antages, 
+                                                           
+25 Om ledningsejeres bidragspligt se blandt andet Miljø- og Fødevareklagenævnets afgørelse af 9. oktober 2019, j.nr. 
+19/06109 og 19/06110. 
+26 Forslag til ændring af lov om kystbeskyttelse (forenkling af kommunernes sagsbehandling m.v.), FT 2016 -17 L 78. 
+27 Se blandt andet U2000.1668H hvor landsretten bemærkede, at der ikke efter den dagældende lov var hjemmel til at 
+pålægge kommunen yderligere bidrag i dens egenskab af kommune eller med den begrundelse, at et dige havde 
+medført besparelser vedrørende det kommunale kloaksystem og rensningsanlæg. 
+28 Miljø- og Fødevareklagenævnets afgørelse af 7. juni 2017, NMK-450-00008 (MAD2017.209) vedrørende et 
+kystbeskyttelsesprojekt ved Gl. Skagen. 
+29 Lov nr. 720/2018. 
+30 Forslag til lov om kystbeskyttelse, FT 1987-88 L 37. I lovbemærkningerne henvises endvidere til det grundlæggende 
+princip i den tidligere lovgivning (Lov nr. 235 af 12. juni 1922 ”kystsikringsanlægsloven” og Lov nr. 53 af 10. april 1874 
+”den almindelige digelov”), at det er ejerne af de ejendomme, der opnår beskyttelse ved et anlæg, der skal tage 
+initiativet til at bringe det til eksistens og afholde udgifterne ved dets etablering, drift og vedligeholdelse, i den 
+tidligere lovgivning. 
+31 Se Miljø- og Fødevareklagenævnets afgørelse af 7. juni 2017, NMK-450-00008 (MAD2017.209) vedrørende et 
+kystbeskyttelsesprojekt ved Gl. Skagen.  
+32 Forslag til lov om ændring af lov om kystbeskyttelse (Ændring af formålet med kystbeskyttelse og mulighed for 
+forsøgsprojekter), FT 2017-18 L 100. 
+
+12 
+ 
+at ændringen primært var møntet på individuelle projekter, mens der  formentlig fortsat må dokumenteres 
+et vist behov som forudsætning for, at der ved fællesprojekter kan pålægges bidrag.  
+For så vidt angår andre fordele, er det antaget, at der kan være særlige forhold, der kan begrunde bidragspligt, 
+for eksempel at forbedringen af en strand kan have en direkte økonomisk værdi for nærliggende ejendomme. 
+Det er således en forudsætning for at pålægge andre end de risikoramte ejendomme bidragspligt, at det kan 
+sandsynliggøres, at netop disse ejendomme opnår en fordel ved et projekt, for eksemp el ved at 
+sandsynliggøre en økonomisk værdistigning for disse ejendomme.33  
+I sagen vedrørende Gl. Skagen, der bestod af tre delprojekter over en 3,3 km kyststrækning, havde kommunen pålagt 
+i alt 1.500 ejendomme bidragspligt. Ejendommene, der lå ”bag” den k yststrækning, som skulle sikres med høfder, 
+blev inddelt i tre zoner: (1) ejendomme indenfor 100 meter fra kysten (47 procent af udgifterne), (2) ejendomme 
+mellem 100 og 300 meter fra kysten (32 procent af udgifterne) og (3) ejendomme mellem 300 og 500 met er fra 
+kysten (21 procent af udgifterne). Bidraget blev herefter fordelt i forhold til ejendomsværdiandel og kystlinjeandel 
+(zone 1) og ejendomsværdiandel (zone 2 og 3) med et gennemsnitligt bidrag på henholdsvis 29.000 kr. (zone 1), 
+5.600 kr. (zone 2) og 4.000 kr. (zone 3). Miljø- og Fødevareklagenævnet fandt, at kommunen ikke med tilstrækkelig 
+sikkerhed havde sandsynliggjort, at de bidragspligtige ejendomme, der for en dels vedkommende allerede var 
+kystbeskyttede, og for e n dels vedkommende lå 300 -500 meter fra kysten, opnåede beskyttelse som følge af 
+kystbeskyttelsesprojektet. Der var heller ikke tale om en ” anden fordel ”, da projektet ikke indebar en egentlig 
+”rekreativ værdiforøgelse”  for ejendommene i området. Nævnet fa ndt endvidere, at det lå ” uden for 
+kystbeskyttelseslovens formål, at grundejere skal være med til at bekoste kystbeskyttelse på grund af steders 
+generelle kulturelle eller historiske værdi .” Endelig bemærkedes, at det ikke er et sagligt hensyn efter 
+kystbeskyttelsesloven, at det bliver ” nemmere” at finansiere kystbeskyttelse, hvis der er flere bidrag sydere med. 
+Miljø- og Fødevareklagenævnet ophævede derefter kommunens afgørelse om bidragsfordeling og hjemviste sagen 
+til fornyet behandling.  
+Der stilles i pr aksis et krav om en vis aktualitet i forhold til den nytte eller fordel, som kan begrunde 
+bidragspligt.   
+I en sag fra Fredensborg Kommune fandt Miljø - og Fødevareklagenævnet, 34 at det ikke var tilstrækkeligt 
+sandsynliggjort, at grundejerne i to områder (1 og 3) opnåede en aktuel og tilstrækkelig konkret beskyttelse eller 
+fordel af kystbeskyttelsesprojektet, som ønskes udført alene til sikring af et andet område (2). Det kunne ikke 
+tillægges afgørende vægt, at grundejerne ved en eventuel underminering af vej en i område 2 ville blive nødt til at 
+bruge alternative ruter til at nå frem til deres hjem, eftersom adgangen til område 1 og 3 ikke blev afskåret. Nævnet 
+fandt ikke, at kommunen i tilstrækkelig grad havde konkretiseret den nytte, der kunne være for grundejere i område 
+1 og 3, og at de afledte virkninger af projektet lå langt fremme i tid en i forhold til højvandsproblematikken. Miljø - 
+og Fødevareklagenævnet ophævede herefter afgørelsen om bidragsfordeling og hjemviste afgørelsen til fornyet 
+behandling. 
+Efterfølgende traf kommunen en ny afgørelse om bidragsfordeling, der var baseret på en nærmere vurdering af 
+nyttevirkning af enkelte dele af projektet og præcisering af, hvilke ejere der skulle bidrage. Afgørelsen blev atter 
+påklaget og ophævet af Miljø - og Fødevareklagenævnet, da nævnet fandt, at der for en del af projektet ikke var 
+redegjort nærmere for den nytteværdi, kommunen og forsyningsselskaberne havde som ejere af infrastruktur. 35  
+                                                           
+33 Se Miljø- og Fødevareklagenævnets afgørelse af 7. juni 2017, NMK-450-00008 (MAD2017.209) vedrørende et 
+kystbeskyttelsesprojekt ved Gl. Skagen.  
+34 Miljø- og Fødevareklagenævnets afgørelse af 6. juni 2017, j.nr. 451-00005 (MAD2017.204).  
+35 Se Miljø- og Fødevareklagenævnets afgørelse af 1. november 2019, j.nr. 19/03879. 
+
+13 
+ 
+Det er også understreget i praksis, at såfremt et samlet kystbeskyttels esprojekt består af flere forskellige 
+delelementer, må der sikres en vurdering af, hvem der har nytte af hvert enkelt delelement.36 
+Endvidere har Miljø- og Fødevareklagenævnet lagt til grund, at der ikke var grundlag for at nedsætte bidrag 
+for ejendomme, der ville få et dige på deres ejendom, da dette forhold ikke angik selve bidragsfordelingen, 
+men derimod hørte hjemme under den efterfølgende stillingtagen til ekspropriation.37  
+I en afgørelse,38 der angik et sommerhusområde ved Næsby Strand, understregede nævnet, at selvom behovet for 
+kystbeskyttelse syntes at variere for de enkelte dele af området, var det nævnets opfattelse, at en ligelig fordeling 
+burde omfatte alle de grundejere, der opnåede beskyttelse og/eller anden fordel af projektet , herunder også 
+kommunen, der var ejer af et parkeringsareal.  
+Kystdirektoratet har i Vejledning til bidragsfordeling 39 angivet en nærmere proces for fastsættelse af 
+bidragspligt med forskellige delelementer, herunder fastsættelse af projektets effekt og dets nytteværdi for 
+ejendomme med mulighed for differentiering over tid og/eller geografisk. Det anbefales i vejledningen, at 
+bidragsfordelingen udformes så simpelt og enkelt som muligt under hensyntagen til de konkrete forhold.  
+De udgifter, der indgår i en  bidragsfordeling er både anlægsudgifter og driftsudgifter, herunder til 
+efterfølgende vedligeholdelse. Kommunen skal hvert år inden d en 1. oktober nærmere fastsætte, hvilke 
+bidrag de enkelte bidrag sydere skal indbetale til kommunen eller til et kystbeskyt telseslag, jf. lovens § 13. 
+Såfremt der sker større ændringer eksempelvis, at kredsen af bidragsydere udvides/indskrænkes, eller 
+anlægget udvides eller ændres væsentligt, skal der gennemføres en ny proces efter kystbeskyttelseslovens § 
+1 a.  
+3.3. Etablering af digelag m.v. 
+Kommunen kan beslutte, at der skal etableres et digelag eller et kystbeskyttelseslag, jf. 
+kystbeskyttelseslovens § 7. Der vil i givet fald være medlemspligt for de bidrag sydende ejere. Det er 
+kommunen, der fastsætter den endelige vedtægt for sådanne dige - eller kystbeskyttelseslag. Der er ikke 
+hjemmel til at delegere fastsættelse af bidrag til et lag.40 Det fremgår af lovens § 12, at et lag eller et medlem 
+af et lag kan forelægge kommunalbestyrelsen spørgsmål om fortolkning af lagets vedtæg t eller spørgsmål 
+om den måde, hvorpå laget forvaltes.  Kommunalbestyrelsen kan dog alene afgive en vejledende udtalelse 
+herom.  
+Såfremt et lag ikke efterkommer sine forpligtelser, for eksempel  til at gennemføre vedligeholdelse, kan 
+kommunen meddele et påbud og udføre foranstaltninger for lagets regning, hvis påbuddet ikke 
+efterkommes, jf. lovens § 12, stk. 2.  
+Kystbeskyttelseslovens bestemmelser om digelag m.v. omhandler alene de lag, hvor komm unen træffer 
+afgørelse om lagets etablering. Der er ikke noget til hinder for, at grundejere o g andre etablerer egne dige- 
+eller kystbeskyttelseslag.  
+                                                           
+36 MAD2017.209.  
+37 Miljø- og Fødevareklagenævnets afgørelse af 6. juni 2017, j.nr. NMK-451-00003 (MAD2017.203). Sagen angik et 
+digeprojekt til beskyttelse af et sommerhusområde ved Næsby Strand.  
+38 Miljø- og Fødevareklagenævnets afgørelse af 6. juni 2017, j.nr. NMK-451-00003 (MAD2017.203). 
+39 Kystdirektoratet, 2018, Vejledning til bidragsfordeling i forbindelse med etablering og vedligeholdelse af 
+kystbeskyttelsesforanstaltninger. 
+40 Se Miljø- og Fødevareklagenævnets afgørelse af 6. maj 2019, j.nr. 19/0377.  
+
+14 
+ 
+4. Medfinansiering m.v. – kommuner og forsyningsselskaber 
+4.1. Bidrag fra kommuner 
+Som nævnt ovenfor kan kommuner både under vandløbsloven og kystbeskyttelsesloven beslutte at afholde 
+en større eller mindre del af udgifterne til et vandløbsprojekt eller et fællesprojekt efter 
+kystbeskyttelsesloven. Dette kan være en udfordring i forhold til projekter, der går på tværs af 
+kommunegrænser, idet der ikke nødvendigvis er den samme betalingsvilje  eller -evne i de enkelte 
+kommuner.  
+For så vidt angår muligheden for at pålægge andre kommuner at bidrage til et projekt, vil det som 
+udgangspunkt alene kunne ske ud fra nytteprincippet, hvis de pågældende kommuner som grundejere kan 
+have nytte af et projekt i en anden kommune. Den tidligere hjemmel for ministeren i kystbeskyttelsesloven 
+til at kunne pålægge andre kommuner bidrag blev ophævet ved lovændringen i 2018. 
+Muligheden for, at en kommune frivilligt kan bidrage til et projekt i en anden kommune , vil i mangel af en 
+klar lovhjemmel være undergivet kommunalfuldmagten, det vil sige , at der som udgangspunkt stilles krav 
+om, at projektet kommer det kommunale fællesskab til gode (almennyttekriteriet). Dette hindrer dog næppe, 
+at der kan laves samarbejdsprojekter på tværs af kommuner, herunder med en aftalt fordeling af udgifter. 
+4.2 Bidrag fra forsyningsselskaber m.v. 
+Et andet spørgsmål er, i hvilket omfang forsyningsselskaber eller eventuelt andre infrastrukturejere skal eller 
+kan dække nogle af udgifterne. De pågældende selskaber kan som grundejere eller ledningsejere blive pålagt 
+bidrag i overensstemmelse med nytteprincippet  både i vandløbsprojekter  og kystbeskyttelsesprojekter . 
+Endvidere kan for eksempel forsyningsselskaber pålægges bidrag efter vandløbslovens § 68 i situationer, hvor 
+der tilføres spildevand, der i nævneværdig grad forøger arbejdet ved vandløbets oprensning.  
+Navnlig for så vidt angår vandløb og spildevand, er der særlige regler for, i hvilket omfang et forsyningsselskab 
+kan medfinansiere klimatilpasningsprojekter, der håndterer tag - eller overfladevand , i den såkaldte 
+medfinansieringsbekendtgørelse41 under spildevandsbetalingsloven. 42 De særlige medfinansieringsregler 
+blev udstedt med virkning fra 1. februar 2013. I den gældende medfinansieringsbekendtgørelse fra 2016 er 
+det en forudsætning, at der er tale om projekter, der er påvist i den kommunale risikokortlægning, det vil 
+sige som en del af de kommunale klimatilpasningsplaner. 
+Ved projekter i vandløb i landzone  og sommerhusområder samt projekter i rekreative områder  svarer 
+spildevandsselskabets andel af projektets omkostninger til de meromkostninger, som er nødvendige af 
+hensyn til håndtering af tag- og overfladevand. Det fremgår af bekendtgørelsens § 3. 
+Meromkostningsprincippet er nærmere beskrevet i Naturstyrelsens vejledende notat om medfinansierings-
+bekendtgørelsen fra 2015.43 Det fremgår heraf, at meromkostningerne er de nødvendige omkostninger, som 
+gør et kommunalt eller privat anlæg dyrere, end det ellers ville have været, hvis det ikke skulle håndtere tag- 
+og overfladevand. Det indebærer blandt andet, at hvis et eksisterende anlæg, der ombygges til også at kunne 
+                                                           
+41 Bekendtgørelse nr. 159/2016 om spildevandsforsyningsselskabers medfinansiering af kommunale og private 
+projekter vedrørende tag- og overfladevand. 
+42 Lovbekendtgørelse nr. 553/2020 om betalingsregler for spildevandsforsyningsselskaber. 
+43 Se Naturstyrelsen 2015, Vejledende notat om reglerne for spildevandsforsyningsselskabers medfinansiering af 
+kommunale og private projekter vedrørende tag- og overfladevand. 
+
+15 
+ 
+håndtere tag- og overfladevand, opnår en levetidsforbedring, vil projektejer skulle afholde omkostninger 
+svarende til levetidsforbedringen. Netop i forhold til vandløb kan der godt være tale om projekter, som alene 
+har til formål at håndtere tag - og overfladevand, hvorfor  spildevandsforsyningsselskabet i disse tilfælde 
+finansierer størstedelen af, eventuelt alle, omkostningerne.  
+Ved projekter i vandløb i byzone og projekter i og på veje gælder meromkostningsprincippet ikke. Ved disse 
+projekter udgør spildevandsforsyningsselskabets andel således alle de omkostninger, som er nødvendige for 
+at håndtere tag- og overfladevand, jf. bekendtgørelsens § 4. Det indebærer, at selskabet efter § 4 kan komme 
+til at afholde omkostninger til levetidsforbedringer, hvis et eksisterende anlæ g ombygges til også at kunne 
+håndtere tag- og overfladevand.  
+Selskabets andel af projektejers samlede investeringsomkostninger, der er nødvendige for håndtering af tag- 
+og overfladevand, jf. § 4, det vil sige projekter i byzone og i/på veje, vil under alle omstændigheder dog højst 
+kunne udgøre 75 p rocent, mens selskabet fortsat vil kunne afholde 100 procent af de samlede drifts - og 
+vedligeholdelsesomkostninger. 
+Såfremt et forsyningsselskab finansierer omkostninger i et vandløbsprojekt , gælder vandløbslovens regler 
+om bidragsfordeling ikke, jf. vandløbslovens § 24, stk. 4.  
+Der er i maj 2020 indgået en politisk aftale , som vil give mulighed for yderligere medfinansiering fra 
+spildevandsselskaberne og har til formål at sikre en mere helhedsorienteret indsats. Forsyningsselskaberne 
+vil ifølge denne aftale få mulighed for at finansiere 100 procent af de omkostninger, der (kun) har til formål 
+at håndtere regnvand. For de dele af et klimatilpasningsprojekt, som giver fælles nytte for såvel vandselskab 
+som andre, skal parterne aftale en omkostningsfordeling. Endvidere vil kravet om, at der kun skal ske 
+medfinansiering for projekter, der vedrører udpegede risikoområder, blive ophævet. Anvendelsen af midler 
+til projekter vil imidlertid blive underlagt effektiviseringskrav, således at det sikres, at forbrugerne ikke 
+betaler unødigt meget for klimatilpasningen. Der forventes fremsa t et lovforslag i 2020.  Et udkast til 
+lovforslag er den 24. august 2020 sendt i høring. 44 Ifølge høringsudkastet vil de gældende 
+medfinansieringsregler blive ophævet , og der vil blive mulighed for, at forsyningerne i videre omfang kan 
+indgå i klimatilpasnin gsprojekter, herunder også i forhold til andre parter såsom staten og regionerne. 
+Endvidere vil reglerne ikke kun omfatte tag- og overfladevand, men også for eksempel overløb. Det vil fortsat 
+være afgørende, at der er tale om projekter, der vedrører udlagt e kloakeringsområder, hvor 
+forsyningsselskabet har ansvar for håndtering af blandt andet tag- og overfladevand. Endvidere vil der blive 
+fastsat et maksimalt niveau for, hvad forsyningsselskaberne kan bidrage til ud fra, hvad der er 
+samfundsøkonomisk hensigtsmæssigt.  
+4.3. Spildevandsanlæg og vejanlæg 
+Såfremt et klimatilpasningsprojekt kan defineres som et spildevandsanlæg, vil det være forsyningsselskabet, 
+der som ejer, afholder udgifterne hertil i overensstemmelse med de regler, der gælder i spildevands -
+betalingsloven og vandsektorloven. Dette gælder alene i situationer, hvor forsyningsselskabet har ansvar for 
+håndtering af tag - og overfladevand, det vil sige  vand fra områder , der udlagt til kloakering i 
+spildevandsplanen.  
+                                                           
+44 Energistyrelsen, j. nr. 2020-10440, udkast til forslag til lov om ændring af lov om betalingsregler for 
+spildevandsforsynings-selskaber m.v., lov om miljøbeskyttelse, vandsektorloven og lov om vandløb 
+(Spildevandsforsyningsselskabers klimatilpasning m.v.). 
+
+16 
+ 
+Som nævnt ovenfor i kapitel 2, er afgrænsningen mellem vandløb og spildevandsanlæg ikke ganske klar. At 
+et vandløb modtager spildevand, hindrer ikke, at der fortsat er tale om et vandløb. 45 Omvendt vil der 
+formentlig være begrænset mulighed for, at et spildevandsanlæg kan modtage vandløbsva nd, herunder 
+drænvand.46 Ifølge spildevandsbekendtgørelsen defineres et spildevandsanlæg som ”åbne såvel som lukkede 
+ledninger og andre anlæg, der tjener til afledning og/eller behandling af spildevand i forbindelse med 
+udledning til vandløb, søer eller havet” eller til afledning til jorden. 47 Spildevandsanlæg skal være angivet i 
+spildevandsplanen.  
+Klimatilpasningsprojekter kan i et vist omfang også gennemføres som vejprojekter, for eksempel  
+skybrudsveje. Som udgangspunkt påhviler ansvaret for vejvand den , der ejer vejen. 48 Såfremt et vejanlæg 
+afleder vand til et spildevandsanlæg , betales der vejbidrag i overensstemmelse med spildevands -
+betalingsloven. I det omfang, der gennemføres vejprojekter, der håndterer tag - og overfladevand, vil 
+forsyningsselskaberne kunne medfinansiere sådanne projekter, jf. medfinansieringsbekendtgørelsen. Der 
+kan også være mulighed for, at der er tale om en kombination af et spildevandslæg og et vejanlæg. Der er 
+dog i praksis tvivl om den nærmere afgrænsning mellem sådanne anlæg. 49 Der er derfor fortsat siden 
+medfinansieringsreglernes tilvejekomst i 2013 ud over medfinansieringsprojekter blevet udført klima -
+tilpasningsprojekter i veje eller rekreative områder som almindelige samarbejdsprojekter, hvor der er delt 
+formål og ejerskab.  Medfinansieringsreglerne har muliggjort, at der også på et eksisterende anlæg med 
+anden/andre ejer(e) end et spildevandsforsyningsselskab og andet formål end håndtering af tag - og 
+overfladevand gennemføres tiltag med henblik på at opfylde et supplerende – og andet – formål end det 
+primære formål. 
+Medfinansieringsreglerne indebærer dog under alle omstændigheder ikke nogen udvidelse af spildevands -
+forsyningsselskabernes ansvarsområde, der således fortsat kun omfatter spildevand, herunder tag - og 
+overfladevand, der afledes til selskabets anlæg.  
+Med det kommende lovforslag  om spildevandsselskabers klimatilpasning forventes det, at selskaberne 
+fremover ville kunne udføre eller finansiere projekter i veje, hvor vandet afledes på overfladen, i det omfang 
+dette er den billigste mulighed i forhold til at opfylde deres forsyningspligt, herunder det fastsatte  
+serviceniveau for håndtering af tag - og overfladevand.  Heri ligger dog primært blot en præcisering af 
+reglernes nuværende anvendelsesområde. De væsentligste lovændringer – også i forhold til vejprojekte r – 
+vedrører således fortsat den politiske aftales ovennævnte elementer vedrørende blandt andet  
+effektiviseringskravet. 
+5. Planloven 
+Ved ændring af planloven i 2018 blev der skabt mulighed for, a t det i en lokalplan kan fastsættes som en 
+betingelse for ibrugtagning af ny bebyggelse, at visse afværgeforanstaltninger er etableret, jf. § 15, stk. 2, nr. 
+                                                           
+45 Se MAD2004.584V. 
+46 Omfangsdræn i bymæssig bebyggelse betragtes dog som spildevand og ledes normalt til spildevandsanlæg.  
+47 Bekendtgørelse nr. 1317/2019 om spildevandstilladelser m.v. efter miljøbeskyttelseslovens kapitel 3 og 4. 
+48 Lov nr. 1520/2014 om offentlige veje m.v. med senere ændringer (vejloven) fastsætter regler om vejbidrag i lovens 
+kapitel 4. Lovbekendtgørelse 1234/2015 om private fællesveje indeholder også regler om udgiftsfordeling.  
+49 Se Energistyrelsen, j. nr. 2020-10440, udkast til forslag til lov om ændring af lov om betalingsregler for 
+spildevandsforsynings-selskaber m.v., lov om miljøbeskyttelse, vandsektorloven og lov om vandløb 
+(Spildevandsforsyningsselskabers klimatilpasning m.v.). 
+
+17 
+ 
+19 og § 15, stk. 10 . Der er også mulighed for at indgå udbygningsaftaler, jf. § 21  b, hvor en grun dejer kan 
+tilbyde at finansiere visse infrastrukturanlæg. Udbygningsaftaler kan angå foranstaltninger uden for et 
+lokalplanområde, derimod kan betingelser for ibrugtagning formentlig kun angå foranstaltninger inden for 
+lokalplanområdet, som bygherren har rådighed over og dermed mulighed for at opfylde.50 Endvidere kan der 
+efter planlovens § 15, stk. 2, nr. 12 som betingelse for ibrugtagning stilles krav om tilvejebringelse af eller 
+tilslutning til fællesanlæg. Sådanne anlæg vil for eksempel kunne omfatte regnvandsbassiner og andre former 
+for fælles, private spildevandsanlæg.  
+  
+                                                           
+50 Se Anker, H.T. & Knoop, V.T., Byer og havvand – et juridisk baselinenotat, IFRO Rapport 290, 2019. Om 
+afværgeforanstaltninger m.v. se Erhvervsstyrelsen, Vejledning i planlægning for forebyggelse af oversvømmelse og 
+erosion, 2019. 
+
+18 
+ 
+Bilag 1. Oversigt over forskellige projekttyper og 
+tilhørende bidragsydere 
+         Projekt- 
+                    type 
+Bidragsyder 
+Kystbeskyttelses-
+projekter 
+(fællesprojekter) 
+Vandløbs- 
+projekter 
+(regulering) 
+Pumpelag Spildevands-
+projekter 
+Vejprojekter 
+Grundejere Nytteprincip,  
+jf. kbl. § 9 a 
+Nytteprincip,  
+jf. vll. § 24 
+Nytteprincip, jf. 
+vll. § 24, stk. 1 
+  
+Andre ejere af 
+fast ejendom, 
+herunder 
+ledningsejere 
+Nytteprincip,  
+jf. kbl. § 9 a 
+Nytteprincip Nytteprincip  Vejejer 
+Forsynings- 
+selskaber 
+Ejer af fast 
+ejendom, 
+herunder 
+ledningsejer,  
+jf. kbl. § 9 a 
+Grundejer m.v. 
+– vll. § 24 
+(nytteprincip) 
+Tilledning,  
+der forøger 
+oprensning,  
+jf. vll. § 68 
+Med-
+finansiering – 
+bkg. 159/2016 
+ 
+Grundejer m.v. – 
+vll. § 24 
+Medfinansiering 
+– bkg. 159/2016 
+Spildevands-
+betalingslovens 
+§ 1, stk. 4 
+Medfinansiering 
+jf. bkg. 59/2016 
+ 
+Spildevands-
+betalingslovens 
+§ 1, stk. 4 
+(spildevands-
+anlæg, evt. 
+samarbejds-
+projekt) 
+ 
+      
+Kommunen Ejer af fast 
+ejendom,  
+jf. kbl. § 9 a 
+Frivilligt bidrag,  
+jf. kbl. § 9 
+Grundejer,  
+jf. vll. § 24 
+Offentligretlig 
+interesse 
+(nytteprincip) 
+Frivilligt bidrag, 
+jf. vll. § 24, stk. 
+3  
+Grundejer,  
+jf. vll. § 24 
+Offentligretlig 
+interesse 
+(nytteprincip)? 
+  
+Staten Ejer af fast 
+ejendom,  
+jf. kbl. § 9 a 
+Grundejer,  
+jf. vll. § 24 
+ 
+Grundejer,  
+jf. vll. § 24 
+  
+Bygherrer (ny 
+bebyggelse 
+m.v.) 
+Afskærmnings-
+foranstaltninger – 
+pl. § 15, stk. 2,  
+nr. 19 
+Udbygnings-
+aftaler –  
+pl. § 21 b 
+Afskærmnings-
+foranstalt-
+ninger –  
+pl. § 15, stk. 2, 
+nr. 19 
+Udbygnings-
+aftaler –  
+pl. § 21 b 
+Forøget 
+afløbsmængde 
+– vll. § 68, stk. 
+1 
+Afskærmnings-
+foranstalt-
+ninger –  
+pl. § 15, stk. 2, 
+nr. 19 
+Udbygnings-
+aftaler –  
+pl. § 21 b

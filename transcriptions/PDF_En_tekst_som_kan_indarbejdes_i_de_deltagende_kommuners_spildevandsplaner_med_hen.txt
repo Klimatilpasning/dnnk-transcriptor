@@ -1,0 +1,107 @@
+=== DNNK PDF Dokument ===
+Titel: En tekst, som kan indarbejdes i de deltagende kommuners spildevandsplaner med henblik på at implementere skrift 31 i planerne
+Kategori: Rapporter_s6
+Kilde: https://usercontent.one/wp/www.dnnk.dk/wp-content/uploads/2020/07/Tekst-til-implementering-af-Skrift-31-endelig-udgave.pdf
+Indekseret: 2026-09-21T18:41:18.047409
+
+==================================================
+
+Advokat Line Markert
+Philip Heymans Allé 7
+2900 Hellerup
+Tlf. +45 3334 4000
+J.nr. 178870
+14. august 2018
+\\SRVADLIBPDF\AdlibJobFiles\d622257c-703a-43c3-92fe-3f0672acc54a\Input\Tekst til implementering af Skrift 31 endelig udgave.docx Horten Advokatpartnerselskab
+CVR 33775229
+IMPLEMENTERING AF SKRIFT 31 I SPILDEVANDSPLANER
+1. INDLEDNING OG OPDRAG
+Klikovand-samarbejdet har bedt Horten formulere en tekst, som kan indarbej-
+des i de deltagende kommuners spildevandsplaner med henblik på at imple-
+mentere Skrift 31 i planerne.
+Skrift 31 fastsætter en metode til at bestemme funktionskrav for håndtering af 
+regnvand på terræn ud fra nogle angivne beregningsmodeller. 
+Nedenstående tekst angiver 1) en formulering af selve målet for håndtering af 
+regnvand på terræn og 2) en nærmere beskrivelse af baggrunden for målet. 
+Herefter angives 3) en proces for implementering af metoden i kommunernes 
+spildevandsplaner.
+Teksten er udformet med henblik på, at vandselskaber kan ansøge Forsynings-
+sekretariatet om godkendelse af et tillæg til den økonomiske ramme, jf. ØR-
+bekendtgørelsens § 11.1
+2. TEKST 
+"…
+1. Mål
+Begrænse oversvømmelser i [Navn Kommune] gennem fastsættelse og opfyl-
+delse af samfundsøkonomisk optimale funktionskrav for regnvand på terræn.
+                                                            
+1 Bekendtgørelse nr. 1235 af 10. oktober 2016 om økonomiske rammer for vandselskaber (Udmøntning af 
+vandsektorforliget)
+
+Side 2
+2. Baggrund for mål
+Danmark står overfor klimamæssige forandringer, som medfører behov for at 
+øge robustheden overfor de stigende antal af skybrud og store regnmængder. 
+Kommunen ønsker at undgå eller begrænse ukontrollerede oversvømmelser, 
+som forvolder store skader på særligt bygninger og infrastruktur , og som inde-
+bærer en sundhedsmæssig risiko for menneskelig kontakt med spildevand.
+Når afløbssystemets kapacitet er opbrugt, vil der ske oversvømmelser på over-
+fladen. Kommunen ønsker at fastsætte samfundsøkonomisk optimale service-
+niveauer for regnvandshåndtering på terræn gennem funktionskrav, så regn-
+vandet også afledes kontrolleret, når kloaksystemerne ikke kan håndtere de 
+store regnmængder. 
+3. Nødvendige initiativer for at opnå mål
+Kommunen fastlægger på baggrund af et samarbejde med [Navn Vandselskab] 
+serviceniveau for regnvand på terræn i kommunen gennem funktionskrav. 
+Funktionskravet bestemmes ud fra Spildevandskomitéens anbefalinger i Skrift 
+31, der er et supplement til de anbefalede serviceniveauer og funktionskrav 
+for afløbssystemer under regn i Skrift 27. 
+Funktionskravet kan fastsættes for hele eller dele af kommunen. Funktions-
+kravet kan således være:
+1) Enslydende for hele kommunen 
+2) Differentieret efter arealanvendelsen, som fx hospitalsområder, bo-
+ligområder, vej- og parkområder mv. 
+3) Differentieret ud fra inddeling af kommunen i delområder ( geografisk 
+inddeling uden indvirkning fra den konkrete arealanvendelse)
+På baggrund af dialog med [Navn Vandselskab] beslutter kommunen, hvilke 
+dele af kommunen, som funktionskravet eller -kravene skal dække. Til brug for 
+dialogen udarbejder [Navn Vandselskab] en risikoanalyse og en samfundsøko-
+nomisk analyse i overensstemmelse med anbefalingerne i Skrift 31 og med in-
+put fra kommunen.
+[Navn Vandselskab] udarbejder risikoanalysen på baggrund af hydrauliske be-
+regninger og en opgørelse af potentielle skadesomkostninger. Kommunen
+samarbejder med [Navn Vandselskab] om risikoanalysen, hvor der er behov 
+for kommunens input. Risikoanalysen beregnes ud fra de forventede årlige 
+skadesomkostninger (EAD – Expected Annual Damage) i forhold til de t eller de
+overvejede funktionskrav. 
+[Navn Vandselskab] foretager en samfundsøkonomisk analyse. Dette kan ske 
+ved en cost-benefit-analyse, hvor risikoanalysens resultater sammenholdes 
+
+Side 3
+med de anslåede anlægs- og driftsomkostninger til mulige tiltag for håndtering 
+af regnvand på terræn. Dette kan alternativt ske ved en analyse over en sam-
+fundsøkonomisk optimering, hvor anlægs- og driftsudgifter til klimatilpasning 
+for en række forskellige funktionskrav inden for nærmere angivne gentagel-
+sesperioder sammenlignes med de forventede årlige skadesomkostninger 
+(EAD). 
+[Til brug for den samfundsøkonomiske analyse inddrager [Navn Vandsel-
+skab] kommunens hensyn til merværdi i de mulige tiltag, som eksempel-
+vis natur- og miljøformål, rekreative interesser og trafikale hensyn.] 
+ELLER 
+[Ud over den samfundsøkonomiske analyse inddrager kommunen ligele-
+des hensyn til merværdi i de mulige tiltag, som eksempelvis natur - og mil-
+jøformål, rekreative interesser og trafikale hensyn.]
+Når kommunen har fastlagt funktionskravet eller -kravene, optages disse som 
+serviceniveau i spildevandsplanen.
+[Navn Vandselskab] opfylder herefter serviceniveauet og funktionskravet eller 
+– kravene ved at udføre de nødvendige tiltag i overensstemmelse med de ud-
+førte analyser. Opfyldelsen kan eventuelt ske i samarbejde med kommunen, 
+hvis dette indebærer tiltag, som kommunen skal finansiere. 
+Anlæg til opfyldelse af serviceniveauet og funktionskravet eller -kravene pro-
+jekteres, anlægges, driftes og vedligeholdes inden for de til en hver tid gæl-
+dende regler i vandsektorloven og underliggende bekendtgørelser.  
+[Navn Vandselskabets] deltagelse i fastlæggelse og opfyldelsen af kommunens
+mål for serviceniveau for regnvand på terræn gennem funktionskrav er betin-
+get af, at Forsyningssekretariatet godkender [Navn Vandselskabs] omkostnin-
+ger hertil som tillæg til indtægtsrammen, jf. bekendtgørelse nr. 1235 af 10. ok-
+tober 2016 om økonomiske rammer for vandselskaber (ØR-bekendtgørelsen).  
+…"

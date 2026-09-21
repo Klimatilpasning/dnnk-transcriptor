@@ -1,0 +1,668 @@
+=== DNNK PDF Dokument ===
+Titel: Modeller for kommunale samarbejder
+Kategori: Rapporter_s3
+Kilde: https://usercontent.one/wp/www.dnnk.dk/wp-content/uploads/2022/11/Modeller_for_kommunale_samarbejder_2021_Rapport_web.pdf
+Indekseret: 2026-09-21T18:32:31.964475
+
+==================================================
+
+/u.sc/n.sc/i.sc/v.sc/e.sc/r.sc/s.sc/i.sc/t.sc/y.sc /o.sc/f.sc /c.sc/o.sc/p.sc/e.sc/n.sc/h.sc/a.sc/g.sc/e.sc/n.sc 
+Modeller for kommunale samarbejder inden for landskab, vand og klima
+Analyse og anbefalinger
+Horn-Petersen, Lin; Vejre, Henrik
+Publication date:
+2021
+Document version
+Også kaldet Forlagets PDF
+Citation for published version (APA):
+Horn-Petersen, L., & Vejre, H. (2021). Modeller for kommunale samarbejder inden for landskab, vand og klima:
+Analyse og anbefalinger. Institut for Geovidenskab og Naturforvaltning, Københavns Universitet. IGN Rapport
+Download date: 18. okt.. 2021
+
+Modeller for kommunale samarbejder 
+inden for landskab, vand og klima
+– Analyse og anbefalinger 
+Lin Horn-Petersen og Henrik Vejre
+IGN Rapport 
+Oktober 2021
+københavns universitet
+institut for geovidenskab og    
+naturforvaltning
+
+Titel
+Modeller for kommunale samarbejder inden for landskab, vand og 
+klima – Analyse og anbefalinger
+Forfattere
+Lin Horn-Petersen og Henrik Vejre 
+Bedes citeret
+Horn-Petersen, L. & Vejre, H. (2021): Modeller for kommunale sam-
+arbejder inden for landskab, vand og klima – Analyse og anbefalinger. 
+IGN Rapport, oktober 2021. Institut for Geo videnskab og Naturforvalt-
+ning, Københavns Universitet, Frederiksberg. 23 s. ill. 
+Udgiver
+Institut for Geovidenskab og Naturforvaltning
+Københavns Universitet
+Rolighedsvej 23
+1958 Frederiksberg C
+ign@ign.ku.dk
+www.ign.ku.dk
+Ansvarshavende redaktør
+Claus Beier
+ISBN
+978-87-7903-864-6 (web)
+Layout omslag
+Jette Alsing
+Forsidefoto
+Formidling af klimatilpasning i Viborg: Stolperne viser den forventede 
+vandstand ved forskellige regnhændelser.  
+Foto: Peter Stubkjær Andersen
+Publicering
+Rapporten er publiceret på www.ign.ku.dk
+Gengivelse er tilladt med tydelig kildeangivelse
+Skriftlig tilladelse kræves, hvis man vil bruge instituttets navn og/eller 
+dele af denne rapport i sammenhæng med salg og reklame
+
+3 
+ 
+Sammendrag  
+ 
+Rapporten identificerer og vurderer en række eksisterende modeller for samarbejde mellem offent-
+lige myndigheder, forsyningsselskaber og diverse private aktører, i forbindelse med forvaltning in-
+den for landskabs-, kyst- og vandløbssektorerne i Danmark. 
+ 
+Gennem interviews med nøglemedarbejdere og dokumentanalyse kan følgende hovedpunkter 
+opsummeres: 
+• Det er afgørende med en grundlæggende politisk opbakning til samarbejde. Det politiske op-
+hæng skal være tydeligt, og skal sikre fælles ejerskab til samarbejdet. En tydelig afstemning af 
+forventninger mellem alle parter skal opnås. 
+• Rammerne for samarbejdet skal defineres klart fra begyndelsen. Eventuelle bureaukratiske for-
+hindringer for samarbejde skal elimineres. Der skal arbejdes efter realistiske og fleksible mål, 
+hvor der er plads til løbende at omdefinere opgaver. 
+• Samarbejde om komplekse naturfænomener kræver et solidt fagligt grundlag. Der er en kritisk 
+masse af medarbejdere, der er nødvendig for at opnå resultater. 
+• Organisatorisk er det en stor styrke, at der opbygges et fælles sekretariat. Sekretariatsbistand er 
+essentiel for, at de faglige dele af opgaverne kan løses. 
+• Der skal udpeges en entydig ledelse af samarbejdet, og beslutningsstrukturerne skal være tyde-
+lige. Ansvaret for beslutningerne skal være entydige, og delegation af beslutningskraft skal være 
+veldefineret. 
+• Transparens i samarbejdet og tillid mellem parterne er centralt – alle i organisationen og alle 
+partnere skal være informerede og have indflydelse. 
+• Tilstrækkelige økonomiske og organisatoriske ressourcer er afgørende for et velfungerende 
+samarbejde. Den økonomiske model for samarbejdet, herunder fordeling af bidrag fra partnerne, 
+skal være på plads fra begyndelsen. Der skal skabes kontinuitet i bevillingerne. 
+• Det er i løsningen af grænseoverskridende problemer vigtigt, at samarbejdet geografisk betrag-
+tes som en helhed, hvor kommunegrænserne ignoreres. 
+• Når et velfungerende samarbejde om presserende problemer skal etableres, handler det i høj 
+grad om at flytte et mindset. Det, der tidligere var lokale dagsordener, skal ændres til at være 
+tværgående eller regionale dagsordener. 
+
+4 
+ 
+Indholdsfortegnelse  
+FORORD ............................................................................................................................. 5 
+1. BAGGRUND, AFGRÆNSNING OG FORMÅL ............................................................ 6 
+2. METODER .................................................................................................................... 8 
+3. RESULTATER............................................................................................................ 10 
+Medlemskreds ..........................................................................................................................................................10 
+Samarbejdernes formål og indhold ..........................................................................................................................10 
+Finansiering af samarbejderne ................................................................................................................................13 
+Organisering .............................................................................................................................................................14  
+4. EVALUERING AF SAMARBEJDERNE – STYRKER OG SVAGHEDER .................. 17 
+Relevans og nødvendighed .......................................................................................................................................17 
+Konkrete opgaver .....................................................................................................................................................17 
+Beslutningsstrukturen – delegering af beslutningskompetence...............................................................................18 
+Organisation .............................................................................................................................................................18 
+Økonomi og finansiering ..........................................................................................................................................20 
+Politisk opbakning ....................................................................................................................................................20 
+Asymmetri i samarbejdet .........................................................................................................................................21 
+Behov for fremtidig udvikling af samarbejderne ....................................................................................................21  
+5. ANBEFALINGER ....................................................................................................... 23 
+ 
+ 
+
+5 
+ 
+Forord 
+Denne rapport er udarbejdet i regi af projektet ”Klimatilpasning på Tværs” med finansiering fra  
+Region Hovedstaden. 
+ 
+Rapporten har til formål at identificere og vurdere en række eksisterende modeller for samarbejde 
+mellem offentlige myndigheder og forsyningsselskaber, i forbindelse med forvaltning inden for 
+landskabs-, kyst- og vandløbssektorerne i Danmark. 
+ 
+Formålet er desuden at skabe udgangspunkt for en diskussion af mulighederne for at ændre og ud-
+vikle de nødvendige samarbejder, der skal udfoldes i klimasikringsprojekter i fremtiden. 
+ 
+Undersøgelsen er gennemført som en kombineret dokumentanalyse og interviewanalyse. Interviews 
+har været gennemført med politiske og administrative medarbejdere i eksisterende danske samarbej-
+der. Dokumentanalysen har primært omfattet analyser af offentligt tilgængelige hjemmesider vedrø-
+rende de inkluderede samarbejder. 
+ 
+Rapporten indgår i en serie af rapporter i rammerne af projektet ”Klimatilpasning på Tværs”. 
+ 
+Der er foretaget faglig kvalitetssikring af rapporten ved intern gennemlæsning og diskussion af ind-
+holdet blandt forskerne i projektet samt ved en uvildig gennemlæsning og kommentering af indhol-
+det af en videnskabelig medarbejder på lektor/professor-niveau ved Institut for Geovidenskab og 
+Naturforvaltning på Københavns Universitet. 
+ 
+Frederiksberg 2021 
+  
+
+6 
+ 
+1. Baggrund, afgrænsning og formål 
+Den indsats, som verden står over for i forbindelse med tilpasning til klimaforandringer, er bagtæp-
+pet for denne rapport. Temperaturstigninger, hyppigere og kraftigere nedbør, stærkere storme samt 
+stigende havspejl, er alle fænomener, der kræver store indsatser og ikke mindst investeringer for at 
+afbøde de værste konsekvenser. Stort set alle klimaeffekterne er grænseoverskridende i deres karak-
+ter, og løsningerne kræver som en konsekvens grænseoverskridende samarbejder. 
+ 
+De store investeringer i klimasikringsløsninger er ofte finansieret af offentlige midler (herunder 
+forsyningsselskaber) med varierende bidrag fra private. Men i alle tilfælde kræver projekter, inve-
+steringer og udførelse et udbredt samarbejde mellem offentlige myndigheder, forsyningsselskaber 
+og eventuelt andre parter. Indsatserne kalder i vidt omfang på samarbejder på tværs af kommuner, 
+og i nogle tilfælde mellem kommuner, regioner og staten. 
+ 
+Der er lange traditioner for tværgående samarbejder mellem offentlige myndigheder og private sel-
+skaber og organisationer i Danmark. Samarbejdsprojekter i forbindelse med landskabet opstod alle-
+rede i løbet af 1800-tallet i forbindelse med blandt andet landvinding. Samarbejdskonstruktioner og 
+de involverede aktører har skiftet gennem tiden. 
+ 
+Formålet med denne rapport er at gennemgå og analysere en række eksisterende samarbejder mel-
+lem kommuner og mellem kommuner og forskellige andre aktører. Fokus sættes på fungerende 
+samarbejdsmodeller inden for sektorerne klima, vand, kyst og landskab. Analysen skal bidrage til at 
+forbedre modeller for samarbejder inden for især klimaområdet, hvor der forestår betydelige 
+samfundsmæssige indsatser i de kommende årtier. 
+ 
+Det har været prioriteret at inddrage samarbejdsfora, som varetager sammenlignelige opgaver, og 
+som omfatter sammenlignelige aktører. Samarbejder findes i forskellige regi og mellem forskellige 
+parter, men fælles for de fora der er inddraget er, at der foregår et gensidigt forpligtende samarbejde 
+med henblik på at løse en fælles, konkret opgave. 
+ 
+Samarbejderne består enten i driftssamarbejder af et eksisterende, fælles projekt, eller er et stående 
+forum, der dækker et konkret geografisk område, hvor der er problemer som ikke kan løses af de 
+enkelte kommuner i isolation. 
+
+7 
+ 
+ 
+Analysen omfatter kun danske eksempler. Der inddrages navnlig samarbejder, hvor kommuner spil-
+ler en hovedrolle. Kun eksisterende samarbejder, der vedrører landskab, natur, klimatilpasning, og 
+vand er inddraget. Der findes andre forpligtende samarbejder på tværs af kommuner der kunne ind-
+drages, fx drifts- og administrationsfællesskaber på tværs af kommuner. Sådanne samarbejder er 
+ikke omfattet af analysen.  
+
+8 
+ 
+2. Metoder 
+Identifikation af samarbejder 
+Forud for analysen blev der identificeret et antal samarbejder, der er relevante for problemstillingen, 
+og som uden større problemer kunne gøres til genstand for analyse. Kriterier var, at der skulle være 
+tale om samarbejder mellem kommuner eller mellem kommuner og forsyningsselskaber eller lig-
+nende aktører, og at informationer skulle være tilgængelige. Samarbejderne skulle være forplig-
+tende, det vil sige at der skulle være konkrete opgaver, som kræver en vis beslutningskompetence. 
+Følgende samarbejder blev valgt ud fra en indledende screening, og en efterfølgende ”snowbal-
+ling”-forespørgsel. 
+ 
+Samarbejder omfattet af analysen 
+Samarbejder mellem kommuner: 
+• Limfjordsrådet* 
+• Gudenåkomitéen* 
+• Strandparken I/S 
+• Hedeland I/S 
+• Nordkystens Fremtid 
+ 
+Samarbejder mellem kommuner og private selskaber/organisationer: 
+• Gudenåsamarbejdet 
+• Samarbejdet om Værebro Å* 
+• Harrestrup Å-samarbejdet* 
+• Usserød Å-samarbejdet* 
+ 
+Dokumentanalyse 
+Rapporten er for det første blevet til på basis af en dokumentanalyse, der omfatter offentligt tilgæn-
+gelige digitale dokumenter, der dokumenterer samarbejderne. Dokumentanalysen kunne typisk af-
+klare de formelle rammer for samarbejderne, deres formål, opgaver, organisering, og finansiering. 
+ 
+Interview af nøgleaktører 
+I et udvalg af samarbejderne (markeret med * ovenfor) blev det besluttet at supplere dokumentinfor-
+mationerne med interviews af nøgleaktører. Typisk blev de ansvarlige organisatoriske ledere inter-
+viewet. Interviews skulle afklare forhold der ikke direkte var aflæselige i de officielle dokumenter, 
+
+9 
+ 
+typiske hvordan samarbejdet i praksis forløber, perspektiver for samarbejdet, og fordeling af beslut-
+ningskompetence. I to tilfælde blev politikere, der var ansvarlige for samarbejdet, også interviewet. 
+  
+
+10 
+ 
+3. Resultater 
+I det følgende gennemgås samarbejdsmodeller i forhold til medlemsskab, formål, finansiering og 
+organisering. 
+Medlemskreds 
+I de analyserede samarbejder indgår kommuner eller både kommuner, forsyninger samt andre par-
+ter. Samarbejderne omfatter mellem 3 og 18 partnere. Størst er Limfjordsrådet med 18 kommuner 
+som medlemmer. Gudenåkomiteen omfatter potentielt 20 kommuner, men ikke alle, der kan være 
+medlemmer, er det aktuelt. Gudenå-samarbejdet, Værebro Å-samarbejdet og Harrestrup Å-samar-
+bejdet er også omfattende med henholdsvis 7, 8 og 10 kommuner med tilhørende forsyningsselska-
+ber. Ud over de 10 kommuner deltager også seks forsyningsselskaber i Harrestrup Å-samarbejdet. 
+Gudenå-samarbejdet omfatter også lokale aktionsgrupper (LAG) og turistorganisationer. Værebro 
+Å-samarbejdet omfatter også forsyningsselskaber samt Region Hovedstaden. 
+Samarbejdernes formål og indhold 
+Formålet med samarbejderne kan deles op i to hovedkategorier. Enten er der tale om konkret drift af 
+en bestemt enhed eller et bestemt geografisk område. Eller også er der tale om en koordinerende 
+funktion, der skal løse grænseoverskridende problemer, som ikke kan løses af de deltagende parter 
+hver for sig, eller hvor samarbejde i al fald løser problemerne bedre. 
+ 
+Køge Bugt Strandpark og I/S Hedeland er eksempler på, at konkrete arealer, der ligger i flere kom-
+muner, kræver et forpligtende samarbejde med henblik på at foretage fælles drift, der opfylder om-
+rådernes formål, fx rekreation og kystbeskyttelse. Den fælles drift indebærer et behov for en detalje-
+ret koordination på tværs af kommunegrænserne. I både Strandparken og Hedeland er der tale om 
+vigtige regionale rekreative områder, hvor der løbende skal træffes driftsbeslutninger, og jævnligt 
+skal vedtages strategier og lægges planer. Områderne er af en størrelse, sammenhæng og karakter, 
+at forvaltning hver for sig ikke ville give mening. Områderne kunne i princippet forvaltes af de en-
+kelte kommuner hver for sig, men da der er tale om regionale friluftsområder, hvor borgerne ikke i 
+praksis oplever kommunegrænser, og hvor visse faciliteter er fælles, kræver det samarbejde at for-
+valte dem. 
+ 
+
+11 
+ 
+En række samarbejder har fælles vandløbsforvaltning som omdrejningspunkt: Værebro Å-samarbej-
+det, Harrestrup Å-samarbejdet, Usserød Å-samarbejdet samt Gudenåkomiteen. Disse fire samarbej-
+der har alle som formål at håndtere vand – ikke mindst i oversvømmelsessituationer – og altså styre 
+vandkapaciteten i hele de respektive vandløbsoplande. Samarbejderne er i forskellige modenheds-
+trin. Opgaverne for de fire samarbejder varierer fra at varetage fælles driftsopgaver til at være koor-
+dinerende og initiativtagende. 
+ 
+Værebro Å-samarbejdet er et nyere, samarbejde set i forhold til de øvrige, hvor der stadig indhentes 
+data med henblik på en fælles forvaltning. Samarbejdet bygger på tidligere samarbejder mellem 
+kommunerne i oplandet, og en del af arbejdet har været udført i rammerne af Egedal kommunes 
+§17.4 udvalg nedsat i 2018. 
+ 
+Usserød Å-samarbejdet er et ældre samarbejde, hvis primære formål har været at sikre oplandet 
+mod oversvømmelser i forbindelse med regnvandshændelser, men samarbejdet omfatter også en 
+bredere fælleskommunal vision for åen, der også omfatter natur og rekreative hensyn. Samarbejdet 
+har dermed også et lokalsamfundsunderstøttende formål, der skal sikre åen som et fælles rekreativt 
+kulturmiljø. 
+ 
+Gudenåkomiteen har en lang række formål på natur- og miljøområdet, samt på det rekreative om-
+råde. Komiteen er et diskussionsforum, der virker forslagsstillende, koordinerer indsatser, samt vir-
+ker som rådgivende organ over for medlemskommunerne. Komiteen har i 2021 udarbejdet et for-
+slag til en helhedsplan for Gudenåen. Formålet med helhedsplanen er at håndtere Gudenåens vand 
+for at imødegå konsekvenserne af de stadigt stigende vandmængder og deraf højere vandstand og 
+hyppigere oversvømmelser langs åen. Helhedsplanen skal hjælpe de syv kommuner i samarbejdet 
+med at forvalte åen, således at der tages hensyn til klimaændringerne og afvandingsbehovet, sam-
+tidig med, at der skal værnes om naturen. Samarbejdet skal kortlægge omfanget af gener samt an-
+vise løsningsmuligheder og handlinger. 
+ 
+Komiteen skal desuden følge udviklingen i natur- og miljøforhold i Gudenåens vandsystem. Men 
+også den rekreative anvendelse og mulighederne for at udbygge de rekreative muligheder er et fo-
+kuspunkt. Komiteen drøfter indsatser til beskyttelse af natur- og miljø i oplandet til Randers Fjord 
+og prioritering af de forskellige anvendelsesinteresser i og omkring vandområderne. Den skal også 
+
+12 
+ 
+udgøre de deltagende kommuners organ for fælles udtalelser til og samarbejde med andre myndig-
+heder om Gudenåen og dens opland. Komiteen skal stille forslag til naturgenopretningsprojekter el-
+ler lignende projekter af betydning for større dele af Gudenåsystemet. Dette vil typisk omhandle 
+Gudenåens hovedløb, inkl. Randers Fjord og arealer heromkring samt projekter af generel betyd-
+ning omkring sidetilløb. 
+ 
+Harrestrup Å-samarbejdets formål er oversvømmelseshåndtering, og skal virke gennem et fælles 
+regulativ og anlægsprojekter. 
+ 
+Det meget omfattende samarbejde om Limfjorden i Limfjordsrådet har en række formål, hvor den 
+generelle miljøtilstand i fjorden er det centrale. Samarbejdet understøtter kommunernes arbejde som 
+myndighed i forhold til implementering af Vandrammedirektivet og Natura 2000. Limfjordsrådet 
+skal virke netværksopbyggende, det skal være et forum for udveksling af erfaringer, og der kan ud-
+veksles medarbejdere mellem kommunerne i samarbejdet. Rådet skal tilbyde fælles løsninger til 
+kommunerne og virke for en driftsoptimering i forhold til miljøbeskyttelse. 
+ 
+Limfjordsrådets fokus på at implementere vandrammedirektivet samt Natura 2000 direktiverne, her-
+under koordinering af Limfjordskommunernes vandhandleplaner, hæver samarbejdets karakter til 
+opfyldelsen af bindende juridiske opgaver. Samarbejdets kan selvstændigt gennemføre udredninger, 
+undersøgelser og beregninger, og kan udtale sig omkring de økonomiske forhold for kommunerne i 
+relation til størrelse og omfang af den statslige kompensation, der er forbundet med implementering 
+af tiltagene i medfør af Vandrammedirektivet i oplandet til Limfjorden. Limfjordsrådet fungerer 
+som Vandoplandsstyregruppe og udarbejder den lovpligtige vandoplandsplan, der koordinerer våd-
+områdeindsatsen og fosfor-ådalsindsatsen imellem de 18 oplandskommuner. Rådet udarbejder og 
+reviderer løbende vandoplandsplanen, og beslutter hvilke områder, der skal gennemføres nærmere 
+forundersøgelser for, og identificerer egnede projekter som de deltagende kommuner skal indstille 
+til staten med henblik på bevilling til realisering. Rådet indrapporterer status for fremdriften i vand-
+oplandet til den nationale styregruppe to gange årligt. 
+ 
+Limfjordsrådet rådgiver og understøtter kommunerne i varetagelsen af deres interesser i forhold til 
+offentlige myndigheder, interesseorganisationer, offentlige nævn og udvalg, samt Kommunernes 
+Landsforening. Rådet kan videre optræde som sagkyndigt høringsorgan i relation vand- og 
+
+13 
+ 
+naturplansområdet i Limfjordsoplandet. Dertil kommer, at rådet skal medvirke til netværksdannelse 
+internt og eksternt, herunder internationalt. Rådet har også formidlende opgaver, og kan indgå̊ i, 
+medvirke til eller formidle samarbejde vedrørende planer, systemer, opgaver i øvrigt af fælles inte-
+resse for og blandt medlemmerne. Rådets arbejde sker ved delegering fra kommunerne. 
+ 
+Limfjordsrådet er vokset frem efter Strukturreformen i 2007 med rod i vandoplandsstyregruppen og 
+arbejdet med at håndtere N udledning og forvaltning af vådområder. Rådet har således på en måde 
+erstattet de regional myndighedsopgaver der lå i amterne og i en periode miljøcentrene. 
+ 
+Gudenåsamarbejdet (ikke at forveksle med Gudenåkomiteen) har et fokus på at udbygge en samlet 
+friluftsdestination for Gudenå-oplandet. Samarbejdets opgaver omfatter også drift af arealer, 
+forretningsudvikling, synliggørelse og markedsføring. 
+ 
+Nordkystens Fremtid er et samarbejde mellem de tre kommuner på Nordsjællands nordkyst, Hals-
+næs, Gribskov og Helsingør. Samarbejdet indledtes i 2014 og har som helt dominerende opgave at 
+vedtage og implementere et fælles kystbeskyttelsesprojekt langs hele kysten. 
+Finansiering af samarbejderne 
+Der kan i finansieringen skelnes mellem finansiering af det daglige samarbejde og finansiering af 
+konkrete projekter. Medmindre andet fremgår vedrører finansieringsspørgsmålet selve samarbejdet 
+og ikke konkrete projekter. 
+ 
+Samarbejderne er generelt finansierede gennem medlemsbidrag. Fordelingen af bidragene på de en-
+kelte medlemmer varierer en del. Der er typisk tale om en fordeling, der afspejler andelen af inte-
+resse i den pågældende sag – som fx areal i et opland eller kommunernes størrelse. Harrestrup Å-
+samarbejdet er som noget usædvanligt finansieret af forsyningsselskaberne. Den 100% støtte fra 
+forsyningsselskaberne gav en sikkerhed for finansieringen, både af selve samarbejdet, men også de 
+omfattende anlægsarbejder, hvilket gav en stabilitet i forhold til de enkelte kommuner. Usserød Å-
+samarbejdets projekter er delvis finansieret gennem EU LIFE midler. 
+ 
+
+14 
+Limfjordsrådet finansieres via medlemsbidrag – kommunerne betaler et årligt grundbidrag, der fast-
+sættes pr. km2 oplandsareal til Limfjorden. Medlemsbidraget skal anvendes til at dække finansierin-
+gen af sekretariatsfunktionen og øvrige driftsomkostninger til møder og ekstern konsulentbistand. 
+Finansieringen er ikke statisk, der overvejes om der skal betales et højere kontingent. En del af fi-
+nansieringen sker ved at kommunerne søger penge til projekter, som rådet udfører. Projektmidler 
+kan både understøtte kommunale medarbejdere og rådets medarbejdere. 
+Medlemsbidraget i Gudenåkomiteen fastlægges efter en fordelingsnøgle besluttet i de respektive 
+byråd. Værebro Å-samarbejdet finansieres efter antal bred-meter langs vandløbssystemet for de en-
+kelte kommuner. 
+Organisering 
+Limfjordsrådet, Gudenåkomiteen, Strandparken I/S, og I/S Hedeland er formelle samarbejder op-
+hængt i Styrelsesloven. De fire samarbejder har alle formelle bestyrelser med ligelig repræsentation 
+fra de deltagende kommuner, og afgørelser træffes i bestyrelserne. Alle fire samarbejder støttes af 
+sekretariater. 
+Gudenåkomiteen omfatter 1 politisk medlem fra hver kommune, der samtidig er medlem af de en-
+kelte teknik-og miljøudvalg. Strandparken I/S har en bestyrelse med et politisk medlem fra hver af 
+kommunerne. I/S Hedeland har en lignende konstruktion, men med tre medlemmer fra hver af de 
+tre kommuner. Hedeland styres af et visionspapir med virkning fra 2017-2030. Gudenå-samarbejdet 
+styres af et borgmesterforum med 7 borgmestre samt et direktørforum og en faglig styregruppe. 
+Harrestrup Å-samarbejdet er organiseret med en styregruppe og et projektsekretariat. Samarbejdet 
+styres af en kapacitetsplan, og der er formuleret en samarbejdsaftale og et værdisæt, og der er udar-
+bejdet en planlægningshåndbog. 
+Flere af samarbejderne understøttes af egentlige sekretariater; således Strandparken I/S, I/S Hede-
+land, Gudenå-samarbejdet, Nordkystens Fremtid samt Harrestrup Å-samarbejdet. 
+De øvrige samarbejder har forskellige fora til styring og beslutninger. Gudenå-samarbejdet har en 
+politisk styregruppe bestående af borgmestre fra de syv deltagende kommuner. Værebro Å-samar-
+
+15 
+ 
+bejdet har en koordinationsgruppe med repræsentanter fra Teknologirådet, Byplanlaboratoriet, Tek-
+nologisk Institut, HOFOR, NOVAFOS og kommunernes forsyningsselskaber. Harrestrup Å-samar-
+bejdet har et forum med borgmestrene og forsyningsselskaberne, mens Usserød Å har en komite, 
+der rummer en politisk styregruppe med miljø og planchefer, samt repræsentanter for forsyningssel-
+skaberne. Harrestrup og Usserød-samarbejderne har desuden sekretariatsbetjening. Værebro Å-sam-
+arbejdet ledes af et forum bestående af formændene for Teknik- og Miljøudvalgene i de syv kom-
+muner, flankeret af embedsfolk, dertil repræsentanter for forsyningsselskaber og Region Hovedsta-
+den. Nordkystens Fremtid har en politisk styregruppe med 6 medlemmer og en administrativ styre-
+gruppe med seks medlemmer. De er sammensat med ledende politikere og chefer fra embedsvær-
+ket. 
+ 
+Limfjordsrådet har en omfattende organisation med et politisk forum sammensat af folkevalgte med 
+1-2 politiske repræsentanter fra kommunerne. Dertil kommer 0,5-1 årsværk fra hver kommune. 
+Limfjordsrådet arbejder ud fra et strategipapir, der virker som bindeled mellem Rådets visioner og 
+handleplaner. Rådet er bakket op af en embedsmandsgruppe der er ansvarlig for den faglige del af 
+samarbejdet. Limfjords-samarbejdet har et fælles sekretariat med 12 ansatte, og der er mulighed for 
+at nedsætte ad hocgrupper i organisationen. Organisatorisk og kompetencemæssigt kan Limfjords-
+rådet fremhæves som et meget beslutningskraftigt samarbejde. Limfjordsrådets opgaveløsning fore-
+går ved at kommunerne sender opgaver og forespørgsler om fx Vandrammedirektivet eller lav-
+bundsprojekter til rådet, som overtager opgaven og sætte en passende medarbejder til at løse opga-
+ven. Rådet har således ikke bemyndigelse til selv at tage opgaver op, det er altid kommunerne, der 
+har initiativpligten. Når Rådet løser en opgave i en kommune, vil det være en lokal embedsmand i 
+kommunen der styrer projektet over for det politiske system. 
+ 
+De samarbejder, der har konkrete driftsopgaver, og hvor hovedsigtet med samarbejdet er drift, har 
+tillige en selvstændig driftsenhed, som det er tilfældet med Strandparken I/S. 
+ 
+Værebro Å-samarbejdet er i en opbyggende fase, hvor arbejdet hovedsagelig er at tilvejebringe et 
+plangrundlag. Det er et godt eksempel på et nyt samarbejde under opstart. Der er fire samarbejdsty-
+per; drift og vedligehold, fællesregulativ for selskaber, projektsamarbejder samt politisk samar-
+bejde. Arbejdet er i høj grad organiseret i projektgrupper. 
+ 
+
+16 
+ 
+Usserød Å-samarbejdet har eksisteret i en del år og har løst de opgaver der oprindeligt begrundede 
+samarbejdet. Samarbejdet holdes i gang gennem et årligt møde. 
+  
+
+17 
+ 
+4. Evaluering af samarbejderne – styrker og svagheder 
+Herunder følger en sammenfattende analyse af samarbejderne, der bygger på interviews med 
+medarbejdere i samarbejderne. Evalueringen er afsæt til et sæt af anbefalinger til styrkelse og udvi-
+delse af eksisterende samarbejder, samt etableringen af nye. Evalueringen er søgt struktureret efter 
+nogle temaer som relevans, konkret opgaveløsning, ledelse, beslutningskompetence, organisering 
+og økonomi. Flere af temaerne er overlappende. Evalueringsinterviewene har alle taget udgangs-
+punkt i åbne samtaler, hvor hovedspørgsmålene drejede sig om hvad der er lykkedes og hvad der 
+ikke er lykkedes i samarbejdet, hvilke problemer der har været i samarbejdet og hvilke gode råd, der 
+kan gives videre til andre i samme situation. 
+Relevans og nødvendighed 
+Fælles for de analyserede samarbejdskonstruktioner er, at de alle er motiverede af en vis nødvendig-
+hed. Samarbejdet skaber en fælles gevinst ved løsning af opgaver, som partnerne har en forpligtelse 
+til at tage sig af. Der er derfor tale om forpligtende samarbejde om reelt eksisterende problemer, 
+som fx vandhåndtering eller miljøproblemer, eller konkrete arealer, der skal forvaltes. Og i alle  
+eksemplerne er alternativet til samarbejde ikke attraktivt – at skulle forvalte grænseoverskridende 
+opgaver hver for sig i kommuner er langt mere besværligt og omkostningstungt, end at skulle gøre 
+det i et forpligtende samarbejde. 
+Konkrete opgaver 
+Det er en indlysende fordel for samarbejderne, at der er en konkret opgave, der skal løses. Og 
+samarbejderne lettes, jo mere konkret opgaven er defineret. Samarbejdet giver i langt højere grad 
+sig selv, når der fx er et areal der skal driftes. Men også den lovgivningsmæssigt fastsatte forvalt-
+ning af Vandrammedirektiv og Natura 2000 er konkrete myndighedsopgaver, hvor samarbejdet er 
+helt konkret. De forskellige vandløbssamarbejder har særdeles konkrete opgaver at løse, nemlig 
+vandhåndtering og dermed beskyttelsen af store samfundsmæssige værdier. Et godt eksempel på at 
+en konkret opgave har været definerende for et samarbejde, er Gudenåkomiteens arbejde med en 
+helhedsplan for Gudenåen.  
+ 
+Men uanset hvor relevant, nødvendig og konkret opgaven er, lettes samarbejdet hvis der allerede er 
+fora, hvor embedsværksnetværk allerede eksisterer, og hvor bevidstheden om nødvendigheden af 
+tværgående samarbejde er til stede. 
+
+18 
+ 
+Beslutningsstrukturen – delegering af beslutningskompetence 
+Med stigende vigtighed og økonomisk konsekvens i beslutningerne, er det afgørende at der ligger 
+den fornødne beslutningskompetence i samarbejdet, og at der er en vis fælles beslutningskraft, der 
+sikrer at medlemmernes baglande ikke kan anfægte beslutninger der er taget centralt. 
+ 
+For at samarbejderne skal kunne lykkes, er det derfor vigtigt, at parterne delegerer en vis 
+beslutningskompetence til fælles organer. Selv i de samarbejdskonstruktioner, der har mange med-
+lemmer, er der en betydelig delegering af beslutningskompetencer. 
+ 
+Som eksempel har Limfjordsrådets partnere en stærk interesse i at samarbejdet fungerer med de 
+omfattende myndighedsopgaver og de mange koordinationsopgaver. Rådet løser så mange proble-
+mer som de enkelte kommuner ikke ville have mange chancer for at løse selvstændigt, og står som 
+samlet råd stærkere over for statslige myndigheder. Der er en tilsvarende accept af, at beslutnings-
+kompetencen ligger hos de politikere, der repræsenterer kommunerne. I rådet er det suverænt politi-
+kerne der bestemmer, da rådet ikke som sådan har en myndighed. Det er derfor lagt en betydelig be-
+slutningskompetence i samarbejdet ved delegering fra kommunerne. Gudenåkomiteen er et andet 
+eksempel på samarbejde hvor der også er en hel del magt delegeret til et centralt organ, i erkendel-
+sen af at vandløbsforvaltningen nødvendigvis må ses som en helhed, og kræver en helhedsplan som 
+alle kan tilslutte sig. 
+ 
+Beslutningskompetencen opnås ved at der i samarbejdets styrende organ er repræsentanter på højt 
+niveau fra deltagerne – fx administrative chefer, borgmestre eller udvalgsformænd. 
+Organisation 
+De omfattende samarbejdskonstruktioner der omfatter mange partnere med store og komplekse op-
+gaver, kræver en god organisation. Ikke mindst vigtigheden af et effektivt sekretariat, der kan have 
+fokus på den daglige drift, er essentielt. Det er karakteristisk for de store og velfungerende samar-
+bejder, at der er et fagligt stærkt sekretariat selv om de har varierende størrelse og opgaver. I et vel-
+fungerende samarbejder er der en klar rollefordeling mellem politikere og embedsværk, og en gnid-
+ningsfri kommunikation mellem de to grupper. 
+ 
+
+19 
+ 
+Et måske overset organisatorisk aspekt er at skabe et fagligt attraktivt miljø. Mange steder er der fx 
+mangel på kvalificerede hydrologimedarbejdere, og hvis der etableres et fagligt stærkt team kan det 
+medvirke til at tiltrække den rigtige arbejdskraft. I Limfjordsrådet fremhæves det tolv personer store 
+team som et eksempel på et meget stærkt fagligt miljø. I Gudenåkomiteen femhæves det, at organi-
+sationen har været drevet af stærke og kompetente medarbejdere, der har fået plads til at udføre op-
+gaverne på baggrund af en eksisterende organisation, der dannede ramme for udarbejdelse af hel-
+hedsplanen. 
+ 
+Fra Gudenåkomiteen fremhæves en effektiv sekretariatsbetjening som afgørende for samarbejdet. 
+Både ledelsesfunktionen og sekretariatsfunktionen er nødvendige at opfylde for at samarbejdet kan 
+fungere og løfte projekter. Mængden af daglige opgaver, der skal løses af et sekretariat kan være 
+stor, fx mødeforberedelse og opsamling på beslutninger. Derfor er det vigtigt at understrege at 
+sekretariatsbetjening kræver ressourcer. 
+ 
+I en effektiv organisation er en klar ledelse og en klar beslutningsstruktur central. I flere af samar-
+bejderne skelnes der mellem politiske beslutninger, der kræver, at den politiske del af organisatio-
+nen har en klar beslutningskompetence og fx er konsensusorienteret, og tekniske beslutninger, der 
+skal træffes hurtigt og konsekvent. Det er derfor vigtigt at have en kompetent teknisk ledergruppe 
+med repræsentanter for parterne, der er i stand til at træffe hurtige beslutninger for at få fremdrift i 
+processerne. Dette er fx praktiseret i Gudenåkomiteen. 
+ 
+Flere af samarbejderne bygger på tidligere kontakter mellem kommunerne – fx blev det i Harrestrup 
+Å-samarbejdet fremhævet som en stor styrke, at kommunerne på Vestegnen var vant til at samar-
+bejde på tværs af kommunegrænserne på mange fronter. Det gjorde det lettere organisatorisk at 
+etablere samarbejdet. 
+ 
+Der bliver under interviewene peget på en del organisatoriske risici. Der er et udtalt problem med 
+travlhed i organisationerne, og der fremhæves, at fx projektledere skal løse for mange administra-
+tive opgaver, udover at lede projektet eller skabe fremdrift i samarbejdet. Det er i mange organisa-
+tioner svært at operere på tværs af eksisterende strukturer, og det kræver dedikation allevegne i or-
+ganisationen at bakke op om de tværgående initiativer. I de tværgående funktioner kan det også 
+
+20 
+ 
+være vanskeligt at få en hverdagsorienteret føling med hinanden. Der er populært sagt mangel på 
+uformel snak og uformelle møder. Det er derfor hensigtsmæssigt at have fysiske faciliteter sammen. 
+Økonomi og finansiering 
+Tilstrækkelig og stabil finansiering af samarbejderne er afgørende for deres succes, hvilket frem-
+hæves samstemmende fra alle samarbejder. Fx understreges det fra Harrestup Å-samarbejdet, der 
+nød godt af en tilstrækkelig og stabil finansiering som en afgørende forudsætning for at arbejdet 
+kunne drives frem. Samarbejdet fungerer som omtalt ovenfor kun, hvis der er et understøttende  
+sekretariat med en vis kontinuitet, og de opgaver samarbejderne skal løse, fungerer kun med øko-
+nomiske midler til fx drift og analyser. I Gudenåkomiteen peges der på, at cost/benefit af investe-
+ringen i et velfungerende samarbejde var god. Der kom i sidste ende et bedre resultat ud af den  
+investering i ressourcer som man besluttede sig for. Det overses ofte, at der ikke bliver sat tilstræk-
+keligt årsværk af til opgaverne. Samarbejderne er ikke altid gjort med, at der bliver sat den rå løn af 
+til de pågældende medarbejdere. Der er brug for støttefunktioner og driftsmidler der ikke altid frem-
+går af budgetterne. Der skal med andre ord overheads med bevillingerne. 
+Politisk opbakning 
+De velfungerende samarbejder nyder anerkendelse blandt politikerne. Den politiske opbakning bli-
+ver konsekvent nævnt som essentiel for at få samarbejderne til at fungere. Det kræver både at det er 
+opgaver det nyder politisk bevågenhed, samt at de ansvarlige for den daglige drift af samarbejderne 
+er gode til at kommunikere tilbage til politikerne på en relevant og målrettet vis. Limfjordsrådet kan 
+fremhæves som et samarbejde, der meget anerkendt – både for de enkelte medarbejderes kompeten-
+cer, og for at rådet forstår det politiske system. Rådets gennemslagskraft vurderes som stor, også 
+landspolitisk. Limfjordsrådets formandsteam er bredt sammensat med forskellig politisk baggrund, 
+hvilket er en stor styrke. Hvis der er noget, der ikke fungerer, er formandstemaet udstyret med stærk 
+beslutningskompetence. 
+ 
+Ved længerevarende samarbejde kan det være en svaghed, hvis den politiske opbakning viger. Som 
+eksempel kan nævnes Usserød Å-samarbejdet, hvor den politiske interesse var massiv i de første 4 
+år, mens interessen har været vigende i de efterfølgende 3-4 år. Det kan være vigtigt at gøre politi-
+kerne løbende opmærksomme på at samarbejdet eksisterer og fungerer, og stadig har relevante op-
+gaver at varetage. 
+
+21 
+ 
+Asymmetri i samarbejdet 
+I samarbejderne vil der i en række tilfælde være partnere, der på grund af deres størrelse eller andel 
+i den problematik samarbejdet skal løse, vil være mere betydende end andre. Det er et kendt pro-
+blem som der er fundet forskellige konkrete løsninger på. Når store kommuner som København  
+eller Aalborg samarbejder med langt mindre kommuner, vil der kunne opstå reelle eller oplevede 
+skævheder. 
+ 
+I Limfjordssamarbejdet ligger der meget tyngde i Aalborg kommune, hvor sekretariatet og en stor 
+del af medarbejderne er placeret. Problemet med en potentiel skævhed har generelt været tacklet 
+med succes. Indimellem dukker skævheden op i organisationen og arbejdet, og så er det afgørende 
+at der er et enigt formandskab der kan håndtere eventuelle uenigheder. I Harrestrup Å-samarbejdet 
+var man fra starten bevidst om, at det kunne være et problem at samarbejdet foregik mellem Køben-
+havn og et antal væsentligt mindre kommuner. Derfor brugte man tid på at få et værdigrundlag og 
+en samarbejdsaftale på plads. Parterne brugte meget energi på at opnå et tillidsforhold, man vedtog 
+regler om åbenhed og 100% opbakning til beslutninger, samt en fordelingsnøgle til udgifter. 
+ 
+I Værebro Å-samarbejdet spiller Egedal Kommune en helt dominerende rolle, alene i kraft af at 
+langt størstedelen af oplandet ligger i denne kommune. Det har ifølge de interviewede ikke givet 
+anledning til konflikter i samarbejdet. 
+Behov for fremtidig udvikling af samarbejderne 
+Alle interviewede giver udtryk for, at samarbejderne vil fortsætte fremover. Der er forskellige sce-
+narier for det fremtidige samarbejde, men begrundelserne er nogenlunde de samme; der er for 
+mange fordele ved samarbejdet til at det giver mening at indstille det, og opgaverne vedbliver med 
+at være relevante. Det har været drøftet om nogle af samarbejderne enten skulle opløses efter at 
+have opfyldt sin mission, eller finde nye emner at samarbejde om. 
+ 
+Det har været nævnt som en mulighed, at samarbejdskonstruktionerne udviklede sig til at være en 
+art selvstændige selskaber. Det at udvikle et tværkommunalt samarbejde til et privat selskab ville 
+dog stride mod kommunalfuldmagten, og de nuværende konstruktioner sikrer at samarbejderne ikke 
+
+22 
+ 
+har myndighedsbeføjelser, men leverer fakta og viden til myndighedsbehandlingen. Det er også ble-
+vet nævnt, at nogle af samarbejderne udvikler sig i retning af at have opgaver som de gamle miljø-
+centre, der var statslige myndigheder, der opererede regionalt. 
+ 
+Diskussionen om fremtiden for samarbejderne berører emnet, om ikke opgaverne burde ligge hos 
+regionen eller staten, når kommunerne føler sig tvunget til at indgå i omfattende samarbejdskon-
+struktioner for at løse grænseoverskridende opgaver. Det var netop de tidligere amters opgave. For-
+delen fremhæves som, at samarbejderne vedrører kommunale opgaver, der vedrører mange andre 
+kommunale opgaver. Der kan i forhold til at løse klimaopgaverne virkelig stilles spørgsmål ved 
+hvor de bedst løses, men at en del af svaret ligger i hvem der er motiveret til at gøre det. Kommu-
+nerne skal ville samarbejdet, ellers kan opgaverne lige så godt ligge i Regionerne, i Naturstyrelsen 
+eller Miljøstyrelsen. 
+ 
+Nogle af samarbejderne udvikler sig hen ad vejen – fx Usserød Å-samarbejdet, der i begyndelsen 
+var en kapacitetsopgave, der skulle løses, men som har udviklet sig til også at være et driftssamar-
+bejde og et samarbejde om fremtidige opgaver som vandkvalitet, biodiversitet og rekreation. Det er 
+opgaver, der kan tages op, når der er blevet styr på vandmængderne. 
+  
+
+23 
+ 
+5. Anbefalinger 
+Alle de interviewede nøglepersoner blev bedt om at nævne de vigtigste kriterier for at samarbejdet 
+kan lykkes. De mange gode råd kan opsummeres til: 
+ 
+• Skab volumen både fagligt, og i mængden af medarbejdere i organisationen. 
+• Skab et fælles og neutralt sekretariat. Sekretariatsbistand er essentiel. 
+• Politisk opbakning og ophæng skal sikres i et fælles ejerskab til samarbejdet og en fælles 
+forventningsafstemning skal gennemføres. 
+• Der skal udpeges en entydig ledelse af samarbejdet, en der har ansvaret for det hele. 
+• Alle i organisationen skal være informerede og have indflydelse. 
+• Tilstrækkelige ressourcer er afgørende, og det er godt at have økonomisk model og fordeling på 
+plads fra begyndelsen. 
+• Samarbejdet skal omfatte hele landskabet i løsningerne, kommunegrænserne skal ignoreres. 
+• Rammerne for samarbejdet skal defineres klart og bureaukratiske forhindringer for samarbejde 
+skal elimineres. 
+• Der skal arbejdes efter realistiske og fleksible mål. 
+• Mindsettet skal flyttes; ”min” dagsorden skal blive til ”vores” dagsorden. 
+ 
+Mange af samarbejderne har gennemgået lange forløb før den organisatoriske konstruktion og fi-
+nansiering kom på plads og den egentlige opgave kunne løses. I en situation hvor klimatilpasningen 
+er en hasteopgave er det vigtigt at nye og eksisterende samarbejder kan drage nytte af de mange er-
+faringer. 
+ 
+De ovennævnte anbefalinger peger entydigt på at allokering af ressourcer, ændring af mindset, samt 
+etablering af en slagkraftig organisation er helt essentielle faktorer for samarbejdet. 
+ 
+I forhold til at skabe hurtig fremdrift i etablering af samarbejde er det afgørende, at der er en enty-
+dig og bindende politisk opbakning til samarbejdet, og at denne opbakning er tydelig i alle delta-
+gende kommuner. Med en politisk opbakning er det betydeligt lettere at sætte fremdrift i samarbej-
+det og finde løsninger på de problemer der er anledning til at samarbejdet overhovedet er relevant. 
+ 
+ 
+
+københavns universitet  
+institut for geovidenskab
+og naturforvaltning
+rolighedsvej 23
+1958 frederiksberg
+tlf. 35 33 15 00
+ign@ign.ku.dk
+www.ign.ku.dk

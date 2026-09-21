@@ -1,0 +1,658 @@
+=== DNNK PDF Dokument ===
+Titel: ”Vandoplandsbaseret samarbejde langs Værebro Å” >
+Kategori: Rapporter_s5
+Kilde: https://usercontent.one/wp/www.dnnk.dk/wp-content/uploads/2020/07/Vandoplandsbaseret-samarbejde-langs-Vaerebro-Aa.pdf
+Indekseret: 2026-09-21T18:38:42.387089
+
+==================================================
+
+Vandoplandsbaseret samarbejde langs Værebro Å 
+ 
+Fælles løsninger på et fælles problem 
+
+
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Forsidebillede: Værebro Ådal, fotografi: Egedal Kommune 
+Udgivet af Fonden Teknologirådet i samarbejde med Dansk Byplanlaboratorium og Teknologisk Institut 
+Maj 2019 
+ISBN: 978-87-91614-51-4 
+ 
+  
+
+3 
+ 
+ 
+Indhold 
+Indledning .......................................................................................................................................................... 4 
+Baggrund ........................................................................................................................................................... 5 
+Beskrivelse af projektets forløb ..................................................................................................................... 5 
+Organisering af projektet .............................................................................................................................. 5 
+Værebro Å – kort fortalt .................................................................................................................................... 7 
+Arealanvendelse ................................................................................................................................................ 9 
+Fremtidige større projekter i vandoplandet .................................................................................................. 9 
+Forskellige samarbejdsmodeller – inspiration til organisering ....................................................................... 11 
+Praksisnært samarbejde om drift og vedligehold i det daglige ............................................................... 11 
+Myndighedssamarbejde omkring fællesregulativ og tværkommunale forsyningsselskaber .................. 11 
+Projektsamarbejder ................................................................................................................................. 12 
+Politisk samarbejde ................................................................................................................................. 12 
+Samarbejdsmodeller – andre erfaringer ..................................................................................................... 13 
+Harrestrup Å – en samlet kapacitetsplan ................................................................................................ 13 
+Samarbejde om Storåen – klimatilpasning med en kommune for bordenden ....................................... 13 
+Gudenå-samarbejdet – region og kommuner i samspil .......................................................................... 13 
+Milsam – et formaliseret fagligt samarbejde med kommunal sekretariatsbetjening ............................. 14 
+Bycirklen .................................................................................................................................................. 15 
+Aarhus Vand ............................................................................................................................................ 15 
+Tradition for samarbejde i det små ......................................................................................................... 15 
+Mulige veje at gå i forbindelse med etablering af formaliseret samarbejde .............................................. 16 
+Fremtiden ........................................................................................................................................................ 17 
+Forslag til løsninger...................................................................................................................................... 17 
+Lovgivningsmæssige ................................................................................................................................ 17 
+Administrative/organisatoriske ............................................................................................................... 17 
+Økonomiske - finansiering ....................................................................................................................... 17 
+Hydrauliske muligheder ........................................................................................................................... 17 
+Scenarierne .................................................................................................................................................. 17 
+Interessenterne med i samarbejdet ............................................................................................................ 19 
+Samarbejdet kommunerne imellem............................................................................................................ 19 
+Sammenfatning ............................................................................................................................................... 20 
+ 
+
+4 
+ 
+Indledning 
+Værebro Å forbinder kommunerne i dens vandopland – ikke alene i ren geografisk betydning, men også i 
+den forstand, at kommunerne er forbundne i løsningen af de klimamæssige udfordringer, der i stigende 
+grad følger med at have en å i sin kommune. Det er tydeligt, at kommuner og forsyninger er nødt til at 
+samarbejde på tværs af administrative skel. 
+Dette tværkommunale samarbejde omkring Værebro Å er blevet til efter en lang række tilløb. Der er 
+tradition for at vandløbsmedarbejderne på tværs af kommunerne samarbejder om drift og vandløbspleje. 
+Kommunerne langs Værebro Å har også samlet deres tidligere enkeltvise vandløbsregulativer til ét fælles 
+regulativ. Dertil kommer forløberen for dette projekt, ”Vand på tværs”, som i 2017 belyste nødvendigheden 
+af et fælles datagrundlag og planoverblik for at kunne skabe fælles risikovurderinger og samarbejde.  
+Alt sammen udgør disse samarbejder sammen med dette projekt vigtige trædesten til et mere formaliseret 
+samarbejde, som borgerne i de involverede kommuner fremover kan have glæde af.   
+Projektet her skal hjælpe til at sikre et godt naboskab – hvor der er dialog og udveksling af nødvendig viden, 
+sparring og fælles løsninger på større problemer. Vi håber, at projektet kan inspirere andre kommuner og 
+forsyninger, som deler vandopland omkring en å. Vi har gjort os mange erfaringer – dem håber vi, kan 
+komme andre til gode. 
+Rapporten her er opsamlingen på dialog- og plansporet, som er det ene af to spor i projektet, og afleveres 
+sammen med resultaterne fra det andet spor, som omhandler indsamling af hydrauliske data, til de 
+deltagende kommuner.  
+Projektet er finansieret af de tre forsyninger i vandoplandet; Novafos, HOFOR og Fors. Hertil kommer 
+midler fra taskforcen KLIKOVAND samt Forsikring & Pension. 
+ 
+ 
+ 
+ 
+ 
+Kontakt 
+Seniorprojektleder  
+Søren Gram 
+Teknologirådet 
+sg@tekno.dk  
+  
+
+
+5 
+ 
+Baggrund 
+Projektet er udarbejdet med udgangspunkt i de kommunale ønsker og behov, der blev kortlagt i projektet 
+”Vand på tværs – oplandsbaseret klimatilpasning”, der blev finansieret af Region Hovedstaden og afsluttet i 
+2017. Projektet viste bl.a. at der er behov for modeller og data, der kan anvendes som grundlag for 
+fremtidige samarbejder og risikovurderinger i forbindelse med oversvømmelse. Ved Vand på Tværs-
+projektets afslutning blev det konkluderet, at de fleste kommuner efterspurgte konkrete værktøjer og 
+bedre datagrundlag til udarbejdelse af løsninger forbundet med oversvømmelse langs vandløbet. 
+Vand på tværs udgør derfor forløberen til dette projekt, som fordelt på to spor nu hhv. har afdækket de 
+tilgængelige hydrauliske data for hele åens vandopland hhv. samlet oplysninger om nuværende 
+arealanvendelse, planer for kommende udviklingsprojekter i vandoplandet samt mulige samarbejdsformer, 
+som kommunerne langs Værebro Å kan basere et fremtidigt samarbejde på. 
+Beskrivelse af projektets forløb 
+Projektet begyndte officielt med et opstartsmøde på Teknologisk Institut 7. januar 2019. Her fik de 
+relevante medarbejdere fra de syv kommuner (Egedal, Frederikssund, Roskilde, Ballerup, Furesø, Herlev og 
+Gladsaxe) og tre forsyninger (Novafos, HOFOR og Fors) mulighed for at møde hinanden og tage hul på den 
+dialog, som kan bære samarbejdet igennem i de kommende faser. På mødet blev også de to parallelle spor 
+præsenteret og projektets fremgangsmåde og kommunernes engagement blev fastlagt. 
+Frem til projektets midtvejsmøde 6. marts 2019 blev der indsamlet data og interviewet medarbejdere i alle 
+deltagende kommuner med det formål at skabe et fundament af viden til at bygge et fremtidigt samarbejde 
+på. Øget kendskab til åen og til nabokommunernes problemer har været i centrum, og det er blevet tydeligt 
+gennem interviewene, at med konkrete data i hånden er det nemmere at lægge trædestenene til et 
+kommende samarbejde. På midtvejsmødet blev de indsamlede data beskrevet, ligesom det blev drøftet, 
+hvordan man kunne se et fremtidigt samarbejde udforme sig. 
+På afslutningsmødet 24. april blev de færdige dataindsamlinger fra begge spor præsenteret, hvorefter de 
+kommunale medarbejdere diskuterede forskellige scenarier for den videre proces. Det endelige resultat af 
+projektet overgives herefter til det politiske niveau med henblik på at få skabt et beslutningsgrundlag for at 
+komme videre med et formaliseret tværkommunalt samarbejde.  
+Organisering af projektet 
+Projektet har været bredt organiseret med en koordinationsgruppe bestående af repræsentanter fra 
+Novafos, HOFOR, Fors, Teknologisk Institut, Dansk Byplanlaboratorium og Teknologirådet.  
+Gruppen har haft til opgave at koordinere de to spor og afholde de tre ovenfor nævnte møder for 
+repræsentanter fra de involverede kommuner.  
+På næste side ses en illustration af projektets organisering: 
+
+6 
+ 
+ 
+ 
+Efter et miniudbud omkring indsamling af hydraulisk data blev COWI valgt som rådgiver på det tekniske 
+spor. Dette spor havde til opgave at indsamle, kategorisere og kvalificere eksisterende data samt 
+komme med faglige input i dialogen om fremtidig anvendelse af data til hydraulisk analyse og 
+modellering. 
+ 
+Projektets andet spor omhandlede en kortlægning af den nuværende og planlagte arealanvendelse i 
+vandoplandet samt en opsamling af erfaringer med tværkommunale samarbejder – både blandt de 
+deltagende kommuner og andre steder i landet. Dette dokument udgør afrapporteringen for dette 
+spor. 
+ 
+ 
+  
+
+
+7 
+ 
+Værebro Å – kort fortalt 
+Værebro Å har sit udspring ved Smørmosen i Herlev og udgør i den første del af løbet kommunegrænsen 
+mellem Herlev og Gladsaxe i Gladsaxes vestligste del. Herfra løber åen mod Vesterled Sø og ind i Furesø 
+Kommune og videre til Søndersø, som åen er ledt udenom. Herfra løber åen mod Ballerup Kommune, hvor 
+den udgør kommunegrænsen mellem Furesø og Ballerup. Ved Måløv løber Måløv Å til hovedløbet og herfra 
+løber åen ind i Egedal Kommune, hvor et utal af mindre vandløb løber til og hvor Værebro Ådal for alvor 
+breder sig ud. Ådalen strækker sig ind i den nordligste del af Roskilde Kommune og åen munder ud i 
+Roskilde Fjord, hvor den på den sidste strækning udgør kommunegrænsen mellem Roskilde Kommune og 
+Frederikssund Kommune.  
+ 
+Kort 1: COWI 2019 – Rød linje angiver vandopland, sort linje angiver kommunegrænser. 
+Værebro Ådal var i forhistorisk tid en fjordarm, som hang sammen med Roskilde Fjord. Sidenhen (i 1800-
+tallet) tjente området til tørvegravning og allerede dengang påbegyndtes en udretning af åens forløb. I 
+1950’erne blev åen drænet og afvandet med det formål at dyrke jorden. Sidenhen er tørvejorden ”brændt 
+sammen”, hvilket har medført, at jorden er sunket sammen, og drænene har mange steder derfor ikke den 
+effekt, de havde engang. 
+I de senere år, er mængden af nedbør steget som følge af klimaforandringerne, ligesom vandstanden i 
+fjorden hyppigere er påvirket af stormflod, der skaber stuvning langt op i åen. Begge dele bidrager til, at de 
+områder i ådalen, der i en årrække har været landbrugsarealer, nu ikke længere er tørre, men derimod står 
+under vand store dele af året.  
+
+
+8 
+ 
+Det er særligt i ådalen i hele den sydlige del af Egedal Kommune og nordlige del af Roskilde Kommune, at 
+problemet er stort. Terrænet falder i dette område meget lidt – på en 11,5 km strækning er der kun 1,2 
+meters fald, hvilket resulterer i at vandet i regnfulde perioder har svært ved at løbe væk. 
+I Jyllinge Nordmark ved åens udløb er problemerne også store, og her skyldes det kombinationen af 
+fjorden, der ved stormflodshændelser både presser kyststrækningen og stuver vandet op i åen, der 
+efterfølgende kan oversvømme bebyggelsen inde fra landet.  
+Udfordringerne som beskrevet af kommunerne er illustreret på nedenstående kort: 
+ 
+Kort 2: Dansk Byplanlaboratorium 
+  
+
+
+9 
+ 
+Arealanvendelse 
+Arealanvendelsen i vandoplandet varierer. Efter åens udspring i Smørmosen, passerer den tættere 
+bymæssig bebyggelse, mens åen i Værebro Ådal løber i åbent land, der nogle steder er dyrkede marker, 
+græsningsarealer og fredede områder. Ved åens udløb er der igen vandløbsnær bymæssig bebyggelse i 
+Jyllinge Nordmark og Tangbjerg.  
+I Herlev og Gladsaxe er det nære vandopland primært udlagt til rekreative, fredede arealer. Ved Måløv Å er 
+en strækning af åen, der tidligere var rørført nu fritlagt og tilfører byen ny rekreativ værdi. Yderligere 
+fritlægning er under projektering. Langs store delen af strækningen i Furesø, Egedal, Roskilde og 
+Frederikssund kommuner, anvendes jorden langs åen til landbrug, græsningsarealer, og yderst i 
+Frederikssund er det vandløbsnære areal fredet strandeng. I Jyllinge Nordmark er det tidligere 
+sommerhusområdet konverteret til blandet helårs- og sommerhusbebyggelse, dog med en stor overvægt af 
+helårshuse. 
+ 
+Fremtidige større projekter i vandoplandet 
+I projektet er der gennemført en kortlægning af de planer og projekter, som kommunerne allerede kender 
+til eller har igangsat. Nedenstående viser, at der er rigtig mange planer og projekter i gang indenfor 
+vandoplandet til Værebro å.  
+I alle kommuner arbejdes der naturligvis seriøst ud fra gældende lovgivninger for både planlægning, 
+projekter, udledninger, befæstelsesgrader, krav til serviceniveau osv. Men kendskabet på tværs af 
+kommunerne, til hinandens planlægning og de vurderinger, drøftelser og beslutninger om de enkelte 
+projekter, der bliver taget, er flere steder mere sparsomt. Processerne har ofte en meget lokal kommunal 
+karakter og videndelingen på tværs af kommunegrænser opleves derfor mere tilfældig. Med et fremtidigt, 
+mere formaliseret samarbejde om åen, er vurderingen, at det vil være muligt at gennemføre en langt mere 
+sammenhængende planlægning i området. 
+Som der er redegjort for andetsteds i rapporten, er det oplevelsen, at der på praksisniveau mellem 
+kommunernes vandmedarbejdere er et stærkt og velfungerende samarbejde om den daglige drift og 
+vedligehold af åen. I løbet af projektet her, er det blevet tydeligt, at vandudfordringerne i ådalen er en 
+dagsorden, der vækker mere genklang hos kommunernes vandmedarbejdere end hos planmedarbejderne. 
+Det har været en udfordring at få begge fagligheder fra alle kommuner, repræsenteret i projektet. Det er et 
+dilemma, der kræver fokus i det fremtidige samarbejde, da det netop er i den forudgående overordnede 
+areal- og projektplanlægning, at der er behov for et større fokus på at styre vandet.   
+Ved åens udspring er der ikke planer om at udvikle eller ændre på sammensætningen i arealanvendelse i 
+vandoplandet, men når vi kommer til Ballerup Kommune, hvor der politisk er ambitioner om en kraftig 
+befolkningstilvækst på op mod 4000 nye borgere inden 2029, er der planer om fortætning og udvikling af 
+nye by- og erhvervsområder, hvor der lige nu er bar mark. I udviklingsplanerne er indtænkt tekniske anlæg 
+og andre løsninger til forsinkelse af vandet før det når åen. 
+ 
+
+10 
+ 
+ 
+Kort 3: Dansk Byplanlaboratorium 
+I Furesø Kommune er man i gang med at udvikle beboelsesområder på den tidligere flyvestation i Værløse, 
+men når dette store projekt er tilendebragt, er der på nuværende tidspunkt ikke politisk ønske om at 
+byudvikle yderligere i kommunen. I forbindelse med byudviklingen vil der komme en øget befæstningsgrad, 
+men konsekvenserne i forhold til udledning i den forbindelse er tænkt ind i løsningen, som skal forsinke 
+vandet inden det møder åen. Flyvestationens undergrund er ikke egnet til nedsivning. 
+I Egedal Kommune er der også byudviklingsprojekter i gang – blandt andet ved Egedal Station, hvor der 
+etableres boliger. Derudover kommer en række projekter med åens forløb, som dels har til hensigt at 
+klimasikre og forbedre vandløbets vandføring og forsinke vandet blandt andet ved genslyngning af mindre 
+sideåer til Værebro Å. 
+Desuden er Novafos i samarbejde med Egedal Kommune ved at omlægge Stenløse Å med det formål at 
+sikre byen mod skybrudsrelaterede oversvømmelser.  
+Roskilde Kommune er i gang med at etablere et dige og en sluse ved åens udløb for at sikre bebyggelsen i 
+Jyllinge Nordmark. Slusen og diget kommer også til at sikre byen Tangbjerg, der ligger i Egedal Kommune. I 
+skrivende stund er projektet påklaget, og derfor sat i bero. 
+I Jyllinge Nordmark er der også lokalplanlagt for udviklingsprojektet Bromarken, hvor der skal etableres ca. 
+215 nye ejendomme i perioden 2020-2021. Forsyningsselskabet Fors er desuden i projekteringsfasen på et 
+regnvandshåndterings- og afdræningsprojekt ved Jyllinge Nordmark i et forsøg på at løse områdets 
+problem med både regnvandshåndtering og et højt grundvandsspejl. 
+I Frederikssund Kommune er der ingen planer om ændret arealanvendelse af strandengene ned mod åen.  
+
+
+11 
+ 
+Forskellige samarbejdsmodeller – inspiration til organisering 
+Kommunerne langs Værebro Å er allerede vant til at samarbejde på forskellig vis, og overordnet set, har 
+interviewrunden vist, at der kan skitseres fire forskellige typer samarbejder: 
+Praksisnært samarbejde om drift og vedligehold i det daglige  
+Flere steder langs Værebro Å er der driftsaftaler, der går på tværs af kommunerne, og vandløbs-
+medarbejderne giver udtryk for, at de trækker på hinandens ekspertise, når de støder på noget, de ikke selv 
+kan løse. Samarbejdet har en flad struktur og karakter af netværkssamarbejde. 
+Der er ikke på samme måde tradition for sparring på tværs af kommunegrænserne, når det kommer til den 
+fysiske planlægning. Tilsvarende er flere kommuner trods øget fokus på tværfaglige samarbejder internt 
+udfordret på at få viden til at krydse de administrative faggrænser (silotænkning). Den fysiske planlægning i 
+vandoplandet en af nøglerne i forhold til at imødegå årsagerne til de problemer, som vandet giver. 
+Myndighedssamarbejde omkring fællesregulativ og tværkommunale forsyningsselskaber 
+Kommunerne langs Værebro Å har haft succes med at lave et fælles regulativ for åen. Her stod Egedal 
+Kommune som den drivende part i arbejdet, mens de øvrige kommuner deltog i arbejdsgruppen. 
+Regulativet er endnu ikke gældende, da det er påklaget, men det repræsenterer et vigtigt formelt grundlag 
+for et administrativt samarbejde.  
+Desuden har omlægningen til tværkommunale forsyningsselskaber også gjort sit til at vandløbsområdet 
+administrativt krydser kommunegrænserne i det daglige arbejde. Netop den tværkommunale organisering 
+på forsyningsområdet og deraf følgende bredere fokus har været en medvirkende årsag til at dette projekt 
+er igangsat. 
+ 
+Kort 4: Dansk Byplanlaboratorium 
+
+
+12 
+ 
+Projektsamarbejder  
+Kommunerne og forsyningerne har gennem projektet Vand på Tværs og nærværende projekt påbegyndt en 
+arbejdsform, hvor man i stigende grad samarbejder og orienterer sig på tværs af kommunegrænserne, fordi 
+det er tydeligt for den enkelte kommune, at klimatilpasningsarbejdet overskrider de administrative 
+grænser.  
+Efter Vand på Tværs kaldte alle kommuner på mere samarbejde, men med fokus på konkrete tiltag og 
+indsatser med tydelig effekt. De kommunale forvaltningsmedarbejdere udtrykte dengang såvel som nu et 
+tydeligt behov for handling bag ord. 
+Det primære fokus for et tværkommunalt samarbejde om Værebro Å har i dette projekt fokuseret på en 
+afdækning af de hydrauliske data, de forskellige kommuner ligger inde med for på den måde at skabe et 
+mere holistisk vidensgrundlag for kommunerne. Samtidig kan afdækningen tjene til at der udarbejdes en 
+oplandsbaseret hydraulisk model, som kommunerne kan bruge i deres arbejde med åen og til at holde op 
+imod større udviklingsprojekter i oplandet.  
+En vigtig del af projektsamarbejdet er også dialogskabelse kommunerne imellem – både på 
+medarbejderniveau og på ledelsesniveau. Det kræver en ledelsesmæssig forankring at prioritere tid til 
+samarbejdet med andre kommuner blandt de øvrige driftsopgaver. 
+Politisk samarbejde  
+Egedal Kommune har taget teten rent politisk for at Værebro Å kan komme i spil, hvis/når der kommer en 
+mulighed for at blive case-vandopland i forbindelse med den forventede ændring af Vandløbsloven. 
+Forventningen til ændringerne er, at der i stigende grad vil blive forbedrede rammer for oplandsbaseret 
+samarbejde og muligheder for at forpligte hinanden på tværs af kommunegrænser. Helt konkret har Egedal 
+Kommune sikret sig opbakning blandt de øvrige kommuners tekniske eller klimaudvalgsformænd for at 
+kunne stå samlet om et oplandsbaseret samarbejde, hvis muligheden kommer i forlængelse af den 
+ændrede vandløbslov.  
+ 
+  
+
+13 
+ 
+Samarbejdsmodeller – andre erfaringer 
+Som nævnt er der blandt kommunerne i oplandet til Værebro Å et ønske om at etablere et mere formelt 
+samarbejde om åen. I andre kommuner og langs andre åløb er der erfaringer, der kan drages inspiration fra 
+i et kommende tættere samarbejde. Disse kan også tjene som inspiration til andre tværkommunale 
+samarbejder om fælles åløb.  
+Harrestrup Å – en samlet kapacitetsplan 
+Et oplagt eksempel på et større samarbejde, hvor også flere af Værebro Å-kommunerne selv deltager, er 
+Harrestrup Å-samarbejdet, hvor 10 kommuner er lykkedes med at blive enige om en fælles kapacitetsplan. 
+I Harrestrup Å-samarbejdet har HOFOR stillet sig til rådighed med en sekretariatsfunktion, som 
+understøtter projektet på tværs af alle aktører. I Harrestrup Å-samarbejdet er læringen, at 
+helhedsplanlægning for et vandløb er en god ide. Der kræves meget store investeringer i tilbageholdelse af 
+vand omkring Harrestrup Å, og det har været helt nødvendigt for fremdriften i projektet, at det var et 
+forsyningsselskab, som havde den overordnede styring og koordinering af samarbejdet. Forudsætningen 
+for at HOFOR har kunnet tage sekretariatsrollen på sig, er den, at Harrestrup Å løber i bymæssig bebyggelse 
+i langt størstedelen af sit forløb. Alene derfor har forsyningsselskabet juridisk mulighed for at tage teten på 
+dette samarbejde. Andre vandoplande – herunder vandoplandet til Værebro Å – ser helt anderledes ud, og 
+derfor kan der være andre forudsætninger i forhold til forsyningernes engagement i et samarbejde.  
+Vejen til at opnå enighed og vedtagelsen af en kapacitetsplan for hele Harrestrup Å oplandet har bl.a. været 
+mange små skridt i planlægningsarbejdet og at det samlede værdisæt har været baseret på enighed, 
+åbenhed og tillid blandt parterne. Det har også været vigtigt løbende at tilpasse ambitionsniveauet til 
+realiteterne og at forankre planlægningen på alle niveauer dvs. både blandt medarbejdere, chefer og 
+politikere. Det har været en fordel for samarbejdet, at det har haft et sekretariat, som kontinuerligt har 
+kunnet arbejde for fællesskabet og sikre fremdrift. Desuden har en 100% finansiering af forsyningerne givet 
+den nødvendige arbejdsro.   
+Samarbejde om Storåen – klimatilpasning med en kommune for bordenden 
+I projektet ”Klimatilpasning af Storåen” i Holstebro Kommune ses det, hvordan et kommunalt samarbejde 
+om klimatilpasningsløsninger langs en å kan organiseres med en sekretariatsfunktion i den ene af de 
+deltagende kommuner.  
+Klimatilpasningsanlægget i Holstebro virker ved, at der i en oversvømmelsestruende situation tilbageholdes 
+vand i Vandkraftsøen og i ådalen opstrøms byen. Der bygges derudover et dæmningsanlæg med sluse i 
+ådalen og et nyt dæmnings- og sluseværk foran en eksisterende dæmning ved Vandkraftsøen. Sluserne vil 
+kun være i brug ved høj oversvømmelsesrisiko, og det er kun nødvendigt at tilbageholde vandet få dage.  
+Det er Holstebro Kommune, der har været drivkraft i projektet, men Vestforsyning Spildevand og Herning 
+Kommune er en del af projektgruppen, som kører parallelt med et samarbejde med landbo-
+organisationerne, der repræsenterer lodsejerne i projektområdet. Det er Holstebro by der har den største 
+udfordring med oversvømmelser, men Herning Kommune har været med i projektgruppen hele vejen og 
+lægger også areal til en mindre del af den samlede løsning. 
+Gudenå-samarbejdet – region og kommuner i samspil  
+Kommunerne langs Gudenåen har samarbejdet med Region Midt om at sikre langsigtede bæredygtige 
+løsninger og undgå suboptimering. Den regionale koordinering sikrer, at løsninger i videst muligt omfang 
+tilgodeser de mange interesser omkring et grænseoverskridende vandløb.  
+
+14 
+ 
+Med 146 km er Gudenåen Danmarks længste å. Gudenåen strømmer gennem syv kommuner og gennem 
+middelstore danske byer som Tørring, Silkeborg, Ry, Bjerringbro og Randers. Arealanvendelsen omkring åen 
+er primært landbrug, men arealerne indeholder desuden natur, herunder Natura 2000 arealer, samt 
+bymæssig bebyggelse. 
+Region Midtjylland arbejder i regi af klimatilpasningsprojektet Coast to Coast Climate Change (C2C CC) med 
+klimatilpasning af Gudenåen i tæt samarbejde med de berørte kommuner og vandselskaber. Målet er et 
+grundlag for at lave de rigtige tiltag, de rigtige steder. Det kan for eksempel være billigere at tilbageholde 
+vand på oplandsarealer i en kommune, fremfor at lave afhjælpende konstruktioner i en bymæssig 
+bebyggelse i en anden kommune. 
+Gudenåprojektet er et af 24 projekter i C2C CC. Projektet gennemføres i et partnerskab mellem de syv 
+gudenåkommuner og Skanderborg Forsyning. Projektet løber over seks år fra 1. januar 2017. Projektet 
+gennemføres i tre faser af hver to år. I fase 1 var Silkeborg Kommune sekretariat for delprojektet, men i dag 
+har Randers kommune overtaget denne rolle. 
+Regionens rolle har i første omgang været at skitsere det samlede C2C CC-projekt. Kongstanken er, at 
+kommuner og region i fællesskab kan lave bedre klimatilpasning end hver af partnerne kunne gøre det 
+selvstændigt. Skitsen til tværgående partnerskabsprojekt blev i sin tid præsenteret for alle kommuner i 
+regionen samt de samarbejdspartnere, som kommunerne valgte at invitere.  
+Regionen præsenterede også projektideen for andre relevante aktører, herunder Gudenåkommiteen. De 
+forskellige partnere har sammen med regionen som faciliterende part udviklet delprojekterne som 
+elementer i det samlede projekt. Regionens rolle har altså været ideskabende og faciliterende. I praksis i 
+dag, er regionen yderligere leadpartner, der forsøger at holde overblik, afrapportere til EU – både teknisk 
+og økonomisk, - og identificerer potentielle synergier mv. 
+I Gudenåprojektet deltager kun én forsyning aktivt, nemlig Skanderborg Forsyning. De er ophavsmænd til 
+ideen i Gudenåprojektet, idet de ønskede at alle Gudenåkommuner skulle anvende samme vandløbsmodel, 
+så de fik et fælles højkvalitets beslutningsgrundlag og mulighed for at samarbejde om scenarier for 
+forskellige indsatser. Yderligere skal der skabes et fælles varslingssystem. Det har forsyningen fået 
+Gudenåkommunerne med på. 
+En udfordring i samarbejdet har været, at partnerne i udgangspunktet havde samme budget, og at der 
+dermed ikke umiddelbart var bevilling til sekretariatsopgaven. Den udfordring har partnerskabet løst. 
+Der er indgået en kontrakt mellem partnerskabets aktører, Region Midtjylland og EU. Kontrakten oplyser, 
+hvilket arbejde der skal udføres hvornår, og hvordan det finansieres, herunder også bidrag til regionens 
+projektsekretariat. Yderligere er der en forpligtelse til at indgå i det samlede partnerskab på tværs af hele 
+C2C CC. 
+Milsam – et formaliseret fagligt samarbejde med kommunal sekretariatsbetjening 
+Milsam er et tværkommunalt samarbejde blandt 11 nordsjællandske kommuner og Region Hovedstaden, 
+og navnet henviser til ”MiljøSamarbejde”. Netværket har eksisteret længe - siden før kommunalreformen.  
+Netværket er delt op i faglige undergrupper, der hver især holder møder. Dette aftales i de enkelte grupper 
+over den fælles hjemmeside (milsam.dk), og der er tilknyttet en række erfagrupper til netværket.  
+På møderne i undergrupperne drøftes alt fra konkrete sager, praktiske problemer kommunerne i mellem, 
+lovgivning, eller der inviteres folk ind udefra til at holde oplæg om et emne, man gerne vil have større 
+
+15 
+ 
+indsigt i i fællesskab. Medlemmerne kommunikerer, stiller spørgsmål og arrangerer møder over 
+hjemmesiden. Der afholdes et årsmøde for alle i netværket.  
+Egedal Kommune har, indtil for nyligt, været sekretariatskommune for netværket, men vedkommende, der 
+var sekretær, er lige stoppet. Det er endnu uvist, hvem der fremover skal have sekretariatsfunktionen. 
+Bycirklen – et fagligt netværkssamarbejde 
+Bycirklen er et samarbejde mellem de tre kommuner Egedal, Frederikssund og Ballerup. Fra Isefjord og 
+Roskilde fjord i vest til hovedstaden i øst. Bycirklen er et samarbejde, som primært har fokus på bolig- og 
+erhvervsområdet. Samarbejdets faglige fokusområde er således ikke umiddelbart sammenligneligt med 
+Værebro Å, men måden, man har organiseret sig i regi af Bycirklen kan alligevel godt bruges til inspiration. 
+De tre kommuner har siden 1992 arbejdet sammen for at styrke udviklingen i egnen omkring 
+Frederikssundbanen, og samarbejdet i Bycirklen er grundlæggende organiseret omkring videndeling og 
+med udgangspunkt i en grundlæggende netværkstænkning, hvor kommunerne skiftes til at påtage sig det 
+politiske formandskab og organisere og stå for de aktiviteter, der skal ske i netværket.  
+Bycirklen holder fire årlige møder mellem kommunaldirektører og borgmestre for de tre kommuner.  
+Tidligere fulgte alle netværkets aktiviteter den til enhver tid siddende formandskabskommune. I dag er en 
+del af den administrative drift af netværket forankret fast i Ballerup Kommune.  
+Netværket har en tradition for samarbejde på administrativt niveau også. Aktiviteter på administrativt 
+niveau følger ligeledes formandskabet og kommunerne skiftes til at have værtskabet for faglige aktiviteter. 
+Aktiviteten følger behovet og antallet af projekter og sager. Tidligere var det f.eks. især på 
+infrastrukturområdet, at der på administrativt niveau, var behov for samarbejde. Da 
+Frederikssundmotorvejen blev anlagt og 3. etape nu er vedtaget, er behovet for et tæt administrativt 
+samarbejde på dette område ikke længere så stort.  
+Aarhus Vand – samarbejde om funktionelt ejerskab 
+I Aarhus Vand har man samarbejdet med forskellige lodsejere om et såkaldt funktionelt ejerskab, hvor 
+forsyningen mod en aftalt kompensation får ejerskab til en given funktion af et anlæg eller areal. Det har 
+man benyttet til at indgå aftaler med landmænd i Aarhus kommune. Aftalerne giver Aarhus Vand ret til 
+udledning af overfladevand under skybrud fra Aarhus Vands anlæg på et fastsat landbrugsareal.  
+Aarhus Vand betaler både et engangsbeløb for at få retten til udledning af vand samt en afgrødeerstatning 
+for hver gang man benytter muligheden for ”vandparkering” under ekstremhændelser. Størrelsen af 
+afgrødeerstatningen er aftalt mellem DANVA og Landbrug & Fødevarer.   
+Tradition for samarbejde i det små 
+Yderligere er det tidligere nævnte ad-hoc-prægede samarbejde om vandløbspleje et godt eksempel på, at 
+det ikke i alle tilfælde er nødvendigt med en meget formaliseret konstruktion for at få et samarbejde til at 
+fungere.  
+Det gælder bl.a. i forhold til erfaringsopsamling, indsamling af data samt forskellige driftsopgaver omkring 
+vandløb, hvor der er flere eksempler i Danmark på at det løses fint uden et formaliseret samarbejde. 
+Sådanne samarbejder fungerer normalt bedst, hvis økonomien ikke er for stor, så de ressourcer, der skal 
+benyttes primært er timer hos kommunernes medarbejdere eller kan tages fra kommunernes driftsmidler 
+uden større belastning.  
+ 
+
+16 
+ 
+Mulige veje at gå i forbindelse med etablering af formaliseret samarbejde  
+Projektet har vist, at der er vilje blandt kommunerne til at samarbejde omkring klimatilpasning i 
+vandoplandet til Værebro Å. Samarbejdet er først nu ved at tage form, og står overfor en modningsfase.  
+Det er tydeligt, at der blandt deltagerne er ønske om en formalisering af samarbejdet, og på det afsluttende 
+møde med kommunerne blev følgende eksempler på mulige veje ridset op.  
+1) Et administrativt samarbejde omkring udvikling af en hydrauliske model sammen med en 
+konsekvensbeskrivelse af forskellige tekniske løsninger/scenarier, hvor enten Novafos eller Egedal 
+Kommune er den drivende kraft og leverer sekretariatsbistand 
+2) Et politisk samarbejde, som træder i kraft efter vandløbslovens ændring.  
+a) Hvis den nye lov giver mulighed for at blive case-vandløb, går kommuner og forsyninger i 
+fællesskab efter dette. Nærværende projekt giver gode muligheder for at blive case-vandløb, da det 
+forudsættes, at der allerede er et samarbejde i gang.  
+b) Hvis den nye lov ikke giver mulighed for at blive case-vandløb, arbejder kommunerne sammen 
+både på politisk og administrativt niveau om at vurdere de mulige scenarier (se næste afsnit) og de 
+eksisterende data sammen med en egentlig hydraulisk model for vandoplandet.  
+3) Frem til lovændringen træder i kraft kan kommunerne bygge videre på dialogen fra projektet her og 
+sikre en fortsat forankring på tværs gennem et formelt netværkslignende samarbejde. Her kunne 
+Egedal med fordel sætte sig for bordenden og tage værtskabet. 
+4) Kommuner og forsyninger kan også lade sig inspirere af andre eksempler – som nævnt i rapporten her, 
+og udvikle deres egen konstruktion for et formelt samarbejde, som passer bedst muligt i deres 
+kontekst.   
+ 
+ 
+Illustration: Teknologirådet, Teknologisk Institut og Dansk Byplanlaboratorium 
+
+
+17 
+ 
+Fremtiden 
+Der er fortsat mange ubekendte i samarbejdet omkring Værebro Å. Vi ved endnu ikke, hvordan den 
+kommende vandløbslov kommer til at se ud, der er endnu ikke udarbejdet en hydraulisk model, og det er 
+fortsat uklart, hvordan ansvarsfordelingen skal være mellem kommuner og forsyninger. Men det betyder 
+ikke, at medarbejderne i de deltagende kommuner, ikke har gjort sig tanker om, hvordan samarbejdet 
+kommer videre i processen. 
+Forslag til løsninger 
+Undervejs i interviewrunden med kommunerne og på de tre arbejdsmøder, kom deltagerne med følgende 
+bud på fremtidens løsninger:  
+Lovgivningsmæssige 
+• Nye lovgivningsmæssige rammer i den nye vandløbslov, der muliggør oplandsbaseret samarbejde 
+Administrative/organisatoriske 
+• Forpligtende, tværkommunale samarbejder/løsninger 
+• Novafos som sekretariat – koordinerende rolle (ligesom HOFOR i Harrestrup Å) 
+• Kommune som sekretariat (mest nærliggende, at det er Egedal) 
+• Sekretariat/projektgruppe med repræsentanter fra hver kommune 
+• Fokus på vandhåndtering i kommunernes fysiske planlægning 
+Økonomiske - finansiering 
+• Tværkommunal finansieringsmodel 
+• Større finansieringsmuligheder til nedstrømsparkering af opstrømsvand 
+o Opstrømskommuner kan købe sig kapacitet hos nedstrømskommunerne 
+o Opkøb af jord langs åen, da det primært er græsning og mindre anvendeligt til landbrug 
+• Forsyningerne leverer det primære finansieringsbidrag – hvis den nye lovgivning tillader det 
+• Samfundsøkonomisk tankegang: nødvendigt at lave cost-benefit-analyser på mulige løsninger 
+Hydrauliske muligheder 
+• Oplandsmodel til styring af vandløb 
+• Ensartede modeller til vandhåndtering 
+• En hydraulisk model i Egedal, som kortlægger kvantitative data: 
+o Hvor hårdt er vandløbene belastet? 
+o Er der særlige kendetegn for specifikke vandløb? 
+• Udledninger må efterses, opdateres og formindskes 
+• Forsinkelse opstrøms i grønne arealer 
+• Forsinkelsesbassiner opstrøms 
+• Serviceniveauet ensrettes tværkommunalt 
+• Modellerne skal svare til omfanget af serviceniveauet 
+Scenarierne 
+På det afsluttende møde i projektet drøftede deltagerne en række scenarier for hvilke tekniske løsninger, 
+kommuner og forsyninger i fællesskab skulle gå videre med at få belyst konsekvenserne af. 
+Novafos og COWI præsenterede fire mulige scenarier: 
+› Mindre vand i Værebro Å 
+Vandet ledes til Roskilde Fjord gennem en ”fjordledning” fra nyt renseanlæg efter nedlæggelse af 
+Måløv Rens. Vandet kan også ledes gennem ”fjordledninger” fra byerne i vandoplandet direkte til 
+fjorden fremfor til åen. 
+
+18 
+ 
+› Styring af vandet i vandløbet 
+Vandet forsinkes i bassiner ved voldsomme regnskyl og får kontrolleret tilbageløb til åen, når der 
+igen er kapacitet. Styringen foregår i dette scenarium både opstrøms og nedstrøms. 
+› Større kapacitet 
+Åen graves dybere/bredere for at sikre hurtigere gennemløb. 
+› Vandparkering/vandmagasinering  
+Egnede områder langs åen, som alligevel oversvømmes hyppigt, omdannes til vandparkering/ 
+vandmagasinering. Primært en løsning, der kan anvendes nedstrøms. 
+ 
+Illustration: COWI 
+Alle deltagere var på mødet enige om, at det ikke er en realiserbar løsning at øge kapaciteten i Værebro Å 
+ved at grave enten dybere eller bredere. Til gengæld blev de to muligheder hhv. styring af vandet og 
+vandparkering drøftet som mulige løsninger. I den forbindelse vil det være nyttigt med yderligere 
+beregninger på, hvordan det kunne realiseres. Her vil en samlet hydraulisk model være afgørende for at få 
+beregnet konsekvenserne.  
+Desuden blev der på mødet drøftet muligheden for i højere grad at betragte vandet som en ressource 
+fremfor udelukkende som et problem, der skal håndteres. Vandet kan tænkes ind i forskellige rekreative 
+løsninger, hvilket der bliver brug for, idet der de kommende år forventes befolkningstilvækst i regionen. 
+Det kan yderligere øge biodiversiteten, hvis dele af ådalen omlægges til naturområde og desuden kunne 
+det undersøges, om det er muligt at bruge vandet til grundvandsdannelse/-indvinding.  
+En forventet tilvækst i den årlige nedbør vil alt andet lige danne større mængder grundvand - og dermed 
+også mere drikkevand til indvinding. For vandforsyningen vil det ikke i sig selv få den store betydning, da 
+der generelt i Danmark ikke er knaphed på grundvand af god kvalitet. Men der kan være regionale og lokale 
+forskelle, ligesom variationer over året kan volde problemer. Fx vil den forventede befolkningstilvækst i 
+Storkøbenhavn i de kommende år øge behovet for rent drikkevand. Dertil kommer, at der om sommeren 
+
+
+19 
+ 
+kan være længere tørkeperioder, større fordampning og dermed mindre infiltration, som kan øge 
+efterspørgslen på vand og dermed presset på grundvandsressourcen.  
+Landbruget, naturen, industrien og forbrugerne vil således i perioder kunne opleve en skærpet konkurrence 
+om grundvandet, som skal håndteres i fremtiden. 
+Interessenterne med i samarbejdet 
+Projektet her har været afgrænset til at have deltagelse af det administrative niveau fra kommuner og 
+forsyninger. På sigt bliver en tættere inddragelse af interessenter i det samlede vandopland nødvendig for 
+at finde holdbare løsninger for håndtering af vandet i Værebro Å. 
+Netop på vandløbsområdet har man i de senere år i hele landet samarbejdet tæt med interessenter om 
+vandløb i de såkaldte vandråd. Der blev i 2017 nedsat 23 vandråd, som har taget hul på den første af de 
+opgaver, som kommuner og vandråd skal varetage. Vandrådene rådgiver kommuner i deres arbejde med at 
+tjekke om de mindre vandløb med oplande under 10 km2 skal være med i vandområdeplanerne. Initiativet 
+er en udløber af Fødevare-og landbrugspakken fra december 2015, hvor det blev besluttet at opdatere 
+kriterierne for hvilke vandløb, der skal indgå i vandområdeplanerne.  
+Her kunne kommuner og forsyninger med fordel drage inspiration til samarbejdet med interessenterne i 
+Værebro Å-oplandet.  
+Samarbejdet kommunerne imellem 
+Med afsæt i både nærværende projekt og det omtalte Vand på Tværs, kunne det være gavnligt hvis det 
+politiske niveau tager næste skridt i en proces om at skabe et mere formaliseret samarbejde.  
+Med dataindsamlingen og de konkrete drøftelser om samarbejdsmuligheder, som er pågået i dette projekt, 
+er der skabt netop det momentum i projektet, som svarer på det administrative kald på fremdrift. Det 
+momentum er vigtigt at arbejde videre med.  
+Samtidig står det klart, at projektet også er i en tidlig modningsfase, hvor et mere formaliseret samarbejde 
+ikke nødvendigvis ligger lige for. Både proces, sammenhængskraft og politiske beslutninger vil kræve stor 
+tålmodighed fra alle parter.  
+Det er derfor vigtigt for projektets videre færd, at der findes en balance mellem at holde det momentum 
+der er opbygget nu, samtidig med at projektet og processen modnes langsomt for at give alle parter 
+mulighed for at følge med. 
+  
+
+20 
+ 
+Sammenfatning 
+Projektet har vist, at der i de deltagende kommuner er stor villighed til at lære mere om naboernes 
+problemer med åen og til at bidrage til en fælles løsning af problemerne. Den kommunegrænse-
+overskridende tankegang er ikke fjern for deltagerne, og deltagerne har allerede italesat forudsætningerne 
+for at gå videre med et formaliseret samarbejde. 
+Også på politisk niveau er der fokus på et øget samarbejde, og den konkrete organisering rent 
+administrativt, som skal understøtte den politiske vilje til at finde løsninger, er næste skridt. 
+Der tegner sig konturerne af et samarbejde, hvor de to drivende organisationer i den næste tid vil være 
+Egedal Kommune og Novafos. Egedal Kommune har den politiske drivkraft i forhold til deres §17,4-udvalg 
+omhandlende Værebro Å, og Novafos er den naturlige samarbejdspartner, idet de er forsyningsselskab i 
+fem ud af syv deltagende kommuner, og dermed dækker langt størstedelen af vandoplandet.  
+Der er en enighed om at yderligere viden kan kvalificere samarbejdet, og danne grundlag for at finde 
+tekniske løsninger på problemerne. Samtidig er der fokus på, at en teknisk løsning på problemet ikke 
+nødvendigvis er den eneste vej at gå. Et øget fokus på vandet som ressource kan også være frugtbart i det 
+kommende samarbejde.  
+Internt i kommunerne er det vigtigt at få sat vandhåndtering bredt på dagsordenen, så vandhåndteringen 
+tænkes ind tidligere i planlægning og udvikling af kommunernes areal. Silonedbrydning er nøgleordet, og 
+her kan det politiske fokus måske være med til at presse på for et øget samarbejde mellem faggrupperne 
+internt i kommunerne. 
+Vi ser frem til at følge samarbejdet tæt i den kommende tid. 
+ 
+ 
+ 
+  
+
+21 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Udgivet af Fonden Teknologirådet i samarbejde med Dansk Byplanlaboratorium og Teknologisk Institut 
+Maj 2019 
+ISBN: 978-87-91614-51-4

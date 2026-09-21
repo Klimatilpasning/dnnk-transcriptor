@@ -1,0 +1,1439 @@
+=== DNNK PDF Dokument ===
+Titel: her >
+Kategori: Rapporter_s5
+Kilde: https://usercontent.one/wp/www.dnnk.dk/wp-content/uploads/2020/07/1100029554-afsluttende-notat.pdf
+Indekseret: 2026-09-21T18:36:56.932582
+
+==================================================
+
+Rambøll Danmark A/S 
+CVR NR. 35128417 
+ 
+Medlem af FRI 
+ 
+ 
+ 
+ 
+ 
+ 
+1/26  
+ 
+Dato  2018-04-13 
+ 
+ 
+ 
+Rambøll 
+Hannemanns Allé 53 
+DK-2300 København S 
+ 
+T +45 5161 1000 
+F +45 5161 1001 
+www.ramboll.dk 
+ 
+ 
+Ref.  1100029554 
+Version  0.25 
+ 
+Udarbejdet af LNDB  
+Kontrolleret af HSN 
+Godkendt af LNDB 
+ 
+ 
+Fosforrensning af regnvand i urbane miljøer               
+- afsluttende notat 
+Projekt Fosforrensning af regnvand i urbane miljøer 
+Kunde Vand i Byer 
+Notat nr. 01 
+Dato 2018-04-13 
+Til Vand i Byer 
+Fra Linda Bredahl, Kasper Reitzel, Sara Egemose 
+Kopi til Henning Smith Nielsen 
+Contents 
+1. Baggrund ................................................................................................... 1 
+1.1 Fosforkrav til renset regnvand i urbane miljøer ............. 2 
+1.2 Udfordringer med prøveudtagninger ............................ 3 
+2. Graden af rensning i regnvand generelt .................................................... 4 
+3. Filtermedier som rensemetode .................................................................. 5 
+3.1 Eksisterende forskningsresultater vedr. filtertyper ......... 5 
+3.2 Optimering og standardisering af filterjord.................... 7 
+4. Test af fosforbindende produkter som filtermaterialer i 
+regnvandsbassiner .................................................................................... 9 
+4.1 Metode .................................................................... 9 
+4.2 Resultater og diskussion ............................................ 10 
+5. Test af relevant software for stoffjernelse .............................................. 12 
+5.1 Modelling of Water Management (STORM) ................... 12 
+5.2 Wet Detention Pond model (WDP) .............................. 13 
+6. Opsamling ............................................................................................... 14 
+7. Referencer ............................................................................................... 15 
+8. Bilag ........................................................................................................ 17 
+ 
+ 
+ 
+1. Baggrund 
+I klimatilpasningsprojekter i urbane miljøer er der ofte et ønske om 
+at føre og rense regnvandet synligt på terræn inden udledning til 
+recipient. I bymiljøer er der ofte begrænset fysisk plads, og rense-
+tiltag skal derfor placeres flere steder i byrummet enten i delop-
+lande eller i serie gennem oplandet. Endvidere stilles der høje krav 
+til vandkvalitet og æstetik i forhold til de synlige vandelementer og 
+slutrecipienten. 
+ 
+Fosfor (P) er den stofkomponent, der kan være sværest at fjerne, 
+og der er derfor i nærværende projekt primært fokus på rensning 
+for fosfor. 
+ 
+
+ 
+2/26 
+ 
+Nærværende notat opsamler forskellige rensemetoder for fosfor, hvor vandet håndteres 
+synligt i terræn eller i filtermaterialer, herunder renseeffekten af serieforbundne rensemeto-
+der og omtaler software, som kan beskrive dette. 
+ 
+Håbet er at notatet kan samle op på nyttig viden og sprede den til myndigheder, rådgivende 
+ingeniører og forsyningsselskaber, der arbejder med klimatilpasningsprojekter og rensning 
+af regnvand i urbane miljøer. 
+ 
+1.1 Fosforkrav til renset regnvand i urbane miljøer 
+På nationalt niveau er der ikke krav til, hvad det maksimale indhold (koncentrationen) af ek-
+sempelvis fosfor skal være i udledt vand, så længe koncentrationen af stoffet i recipienten 
+ikke overstiger recipientkvalitetskravene.  
+ 
+Recipientkvalitetskrav for mange stoffer er fastsat på grundlag af lovgivningen (bekendtgø-
+relse om fastsættelse af miljømål for vandløb, søer, kystvande, overgangsvande og grund-
+vand) /2/ og indgår også i miljømålene i statens vandplaner /3/. Dette gælder især miljøfar-
+lige forurenende stoffer, men et biologisk og fysisk-kemisk kvalitetselement som niveauet 
+for fosfor i en recipient er ikke fastsat i lovgivningen, og de angivne fosfor-koncentrationer i 
+vandplanerne indgår kun som støtteparameter til at vurdere, hvornår målsætningen skøn-
+nes opfyldt i den enkelte recipient. I mange tilfælde i vandplanen (Øresund) er disse fosfor-
+koncentrationer i søer sat til 70 μg total-P/l, mens der også ses 25 μg total-P/l samt værdier 
+omkring dette interval /3/.  
+ 
+Det fremgår også af Vandområdeplanen (Øresund) /4/, at den væsentligste årsag til, at søer 
+ikke har god økologisk tilstand, er tilførslen af fosfor. 
+ 
+Så længe miljømålene for recipienterne opfyldes, er det op til den enkelte kommune at fast-
+sætte, hvordan det bliver opfyldt og dermed at fastsætte det endelige kvalitetskrav for fos-
+for i en udledning til en recipient. Københavns Kommune har fastsat krav til indholdet af fos-
+for i en eventuel udledning til visse recipienter /5/ - se også Tabel 1.  
+ 
+Grundet sådanne krav er det relevant at undersøge de optimale metoder til rensning af 
+regnvand, inden vandet udledes til urbane miljøer. 
+
+ 
+3/26 
+ 
+Tabel 1. Københavns Kommunes forslag til kvalitetskrav for total-P niveauer i kommunens ferskvandsreci-
+pienter og til eventuel rensemetode af vand, som skal udledes til d isse. Tabel fra /5/.  
+ 
+ 
+1.2 Udfordringer med prøveudtagninger  
+Til at opnå et bedre nationalt vidensgrundlag omkring rensning af regnvand er det også re-
+levant at undersøge hvilke beregningsmetoder, der er optimale at anvende til dette. I ur-
+bane områder bliver det i dag mere og mere almindeligt at indbygge LAR-elementer/rense-
+bassiner i serie. I tætbebyggede områder sker dette som oftest pga. pladsmangel, mens der 
+i ydre mere provinsielle byområder sker det, at et villaområde, der indeholder et rensebas-
+sin, med tiden kommer til at ligge f.eks. opstrøms et nyt villaområde. Det ny område får 
+også et rensebassin og således er der opstået serielt forbundne rensebassiner, hvorfor stof-
+sammensætningen af det nedstrøms bassin er anderledes end det opstrøms bassin. 
+ 
+Man behøver måleresultater for rensemetoder som f.eks. serielt forbundne rensebassiner 
+(treatment-trains). Der er pt. ikke nok viden om, hvad rensegraden er i et bassin, som mod-
+tager vand fra et opstrøms rensebassin. Hvis man vil have nogen idé om, hvad rensegraden 
+egentlig er, når det let-sedimenterende materiale er fjernet i et opstrøms bassin, er det først 
+og fremmest nødvendigt at etablere mulighed for prøveudtagning for hvert enkelt rensebas-
+sin, der er forbundet i serie. I dag er udfordringen dog ofte, at der simpelthen mangler mu-
+lighed for at kunne udtage prøver, fordi der ved etablering af det pågældende anlæg ikke 
+
+
+ 
+4/26 
+ 
+blev taget højde for, at udtagninger skulle kunne lade sig gøre. Dette kan udbedres ved at 
+etablere en brønd ved henholdsvis indløb og udløb for hvert rensebassin. 
+ 
+Prøvetagninger forbedrer muligheden for at kunne opnå bedre estimater på rensningen i et 
+LAR-anlæg generelt ved brug af standardiserede beregningsmetoder. 
+ 
+2. Graden af rensning i regnvand generelt 
+Da der er et begrænset datamateriale på området, er det vanskeligt i praksis at kvantificere 
+hvor meget, at de forskellige rensemetoder rent faktisk renser vandet. Alene det, at graden 
+af rensning afhænger af stofkoncentrationerne i indløbsvandet, udgør en stor usikkerhed 
+omkring det at sammenligne forskellige rensegrader.  
+ 
+I nærværende notat er udarbejdet en oversigt over fundne rensegrader fra litteraturen i for-
+bindelse med kvalitet af regnvand. Oversigten ses i bilag 1 og dækker blandt andet filterme-
+dier/filtermaterialer og våde bassiner. Bilaget skal ses som en oversigt med forbehold for 
+ovenstående usikkerheder som forskellige i målemetoder, forudgående regnhændelser etc. 
+ 
+Alt efter rensemetode ses fosfortilbageholdelser på alt fra 20% til 90% (bilag 1). Renseef-
+fektiviteten for fosfor ligger i bassiner omkring 55-80% af total-P, ned til koncentrationer på 
+omkring 0,1 mg total-P/l (bilag 1). Renses fosfor i filtermaterialer ses renseeffektiviteter på 
+alt fra 35% til 90% afhængigt af de forskellige filtermaterialer og eventuelle berigelse af 
+disse. 
+ 
+Det er klart, at de store intervaller på renseeffekter afhænger af rigtig mange faktorer ud 
+over dimensioner på renseenheden. I f.eks. bassiner varierer stofkoncentrationerne i tilløbet 
+til et givent bassin meget mellem regnhændelser såvel som under selve hændelsen. Uden 
+detaljerede målinger er det ikke muligt at fastlægge disse variationer. Den store variation 
+under den enkelte regnhændelse, samt variationen fra hændelse til hændelse gør, at det 
+kræver en større målekampagne at bestemme, hvad der er en typisk belastning for et gi-
+vent bassin. Vollertsen et al. /7/ udtaler, at ”enkelte stikprøver er i denne sammenhæng 
+helt uden værdi”. 
+ 
+Opholdstiden er også afgørende for renseeffektiviteten. Opholdstiden vil variere for hver 
+regnhændelse afhængig af regnmængde og -intensitet. Der er i litteraturen angivet at et 
+vådvolumen på 250 m3/red.ha eller derover sikrer en tilstrækkelig lang opholdstid til at ren-
+seprocesserne kan nå at finde sted /7/,/8/. Er dette opfyldt, er der god sandsynlighed for at 
+et bassin renser med de i bilag 1 viste typiske rensegrader.  
+ 
+For filtermaterialer, hvor der sker en reaktion med indholdsstoffer, vil opholdstiden ligeledes 
+have en betydning. Derudover er det for filtermaterialer af betydning for renseeffektiviteten, 
+at der bliver fjernet tilstrækkeligt med partikler i vandet, inden vandet når filtermaterialet. 
+Herved undgås at filtermaterialet tilstoppes. 
+ 
+Det bemærkes, at rensegrader, i stedet for at stå alene, gerne skal ses sammen med ind-
+løbskoncentrationer i bassiner, idet et bassin reducerer høje indløbskoncentrationer mere 
+end lave indløbskoncentrationer. For veldimensionerede bassiner (> 250 m3/red.ha) vides 
+
+ 
+5/26 
+ 
+det, at udløbskoncentrationen fra bassinerne ofte vil være omtrent ens, uanset om indløbs-
+koncentrationen er høj eller lav /7/.  
+ 
+Rensegrader ses ofte i forhold til den totale fosforpulje (Total-P). Hvor effektivt fosfor kan 
+fjernes afhænger dog også af partikelstørrelse samt den form, som fosfor er på. Overordnet 
+kan total-P siges at bestå af ca. 50/50 opløst P og partikulært P /9/. Af total-P er ca. 75% af 
+puljen biotilgængelig, idet ikke kun det opløste fosfor men også en andel af det partikulære 
+fosfor er biotilgængeligt /9/.  
+ 
+Den partikelbundne del af fosforpuljen kan fjernes ved sedimentation, og generelt renser 
+våde regnvandsbassiner mere effektivt overfor partikelbundet forurening end for forurening 
+på opløst form /7/. Dog er det meste fosfor bundet til små partikler, som er de partikler, der 
+sedimenterer langsomst. 
+ 
+Det er altså ikke kun behovet for at finde metoder, der kræver mindre plads end regnvands-
+bassiner. Der er også behov for at anvende metoder, der effektivt fjernes de små partikler 
+og den opløste del af fosforpuljen. 
+ 
+3. Filtermedier som rensemetode 
+Københavns Kommune har tidligere lavet en oversigt over en række rensemetoder, og 
+hvilke af disse, der er gode til at fjerne hvilke forurenende stoffer, jf. /6/. Af oversigten 
+fremgår, at i forhold til sandfiltre, forceret sedimentation og kemisk fældning vil fosfor fjer-
+nes mest effektivt ved hjælp af fældning. 
+ 
+3.1 Eksisterende forskningsresultater vedr. filtertyper 
+Dette afsnit opsummerer de nyeste, allerede eksisterende forskningsresultater på mulige fil-
+tertyper fra de danske forskningsinstitutioner på området. Bilag 2 indeholder en opsumme-
+ring over en række parametre for diverse filtermaterialer til rensning af vand inklusiv rele-
+vante referencer.  
+ 
+Der er fokus på danske studier af filtermaterialer, da disse artikler typisk nævner alle de re-
+levante internationale artikler. Endvidere er fokus på tilbageholdelse af fosfor. Derfor er til-
+bageholdelse af andre stoffer kun nævnt sporadisk. Opsamlingen er udarbejdet med den til-
+gængelige tid og er derfor ikke nødvendigvis 100 % fyldestgørende for området, ligesom der 
+kan være studier, som ikke er publiceret, og som vi dermed ikke er bekendt med. 
+ 
+Tabellen i bilag 2 indeholder kun filtermaterialer, som har været testet eller anvendt i Dan-
+mark. Sand er det eneste filtermateriale, som der er solid erfaring med at bruge i Danmark. 
+Alle de andre materialer nævnt i tabellen (bilag 2) er således kun testet i laboratorieforsøg 
+eller anvendt i ganske få tilfælde eller i pilotanlæg. Det betyder også, at datagrundlaget er 
+meget begrænset. Det gælder også for sand, da langt de fleste anlæg ikke er moniteret.  
+ 
+Endelig gælder det generelt, at langtidsstudier over filtermaterialer stort set ikke eksisterer. 
+De fleste fosfor-tilbageholdelser er målt i filtrenes første leveår. For nogle af filtertyperne 
+gælder det, at de ikke er anvendt/testet i regnvandsbassiner men anvendt/testet som filter-
+materiale i rodzoneanlæg eller til rensning af diffus afstrømning og de vil dermed potentielt 
+også kunne anvendes i regnvandsbassiner. 
+
+ 
+6/26 
+ 
+ 
+Supplerende til bilag 1 viser nedenstående Tabel 2 en oversigt over nogle af alle de produk-
+ter, som bruges også til rensning af vand i det åbne land /24/. Det er dog langt fra alle som 
+er testet i Danmark. 
+ 
+ 
+Tabel 2 Resultater opnået vha. potentielle jordforbedrende midler og filtermaterialer /24/. 
+ 
+ 
+  
+
+
+ 
+7/26 
+ 
+3.2 Optimering og standardisering af filterjord 
+Nærværende afsnit fremhæver filterjord, dels pga. dens popularitet som lokal renseløsning i 
+urbane områder og dels på grund af filterjords tvivlsomme evne til at fjerne fosfor trods løs-
+ningens popularitet. Som nævnt er der i det urbane miljø ofte fysisk pladsmangel, så rense-
+løsninger, som kan integreres med andre funktioner, er populære. En renseløsning med fil-
+terjord anses for en rensemetode, som kan integreres i landskabelige elementer, fx regn-
+bede, og renseløsningen anvendes i dag i bred udstrækning.  
+ 
+Filterjord benævnes også filtermuld i litteraturen, men filterjord anses for bedre benæv-
+nelse, da det er en bred betegnelse for mange forskellige typer af jord. Til disse jorde kan 
+forskellige stoffer tilsættes, hvorefter den berigede filterjord opnår bedre evner til at fjerne 
+forureningskomponenter som fx fosfor. Filterjord er derfor i mange tilfælde grundlæggende 
+før eventuel tilsætning af jordforbedrende midler.  
+ 
+I Danmark findes ingen officiel standard-filterjord. Hvis rensemetoden skal udvikles og for-
+bedres, er der behov for en bedre standardisering af filterjord samt anvendelse heraf. Dette 
+ville give bedre mulighed for at sammenligne forsøgsresultater af rensemetoder med beri-
+gede filterjordsløsninger – til fordel for fosforfjernelse. 
+ 
+Der er kun få målinger af filterjords evne til at tilbageholde materiale. Filterjord er anvendt 
+flere steder i Tyskland igennem længere tid til rensning af vejvand inden nedsivning. Et fil-
+terjordsanlæg vil dog miste en del af kapaciteten efter et stykke tid, fordi vejvandet tilfører 
+nyt materiale til toppen af jorden, som fortættes. Filterjorden skal derfor udskiftes efter en 
+årrække.  
+ 
+Tyske krav til filterjord ses i Tabel 3. Den tyske manual danner baggrunden for nogle af 
+forskningsinstitutionernes forskning indenfor filterjord, hvorfra haves krav til indholdet i fil-
+terjord. I den tyske manual er der angivet intervaller for indholdet i jord, og der er dermed 
+kun den ene type filterjord. Den tyske manual anviser, at pH skal være mellem 6 og 8, 
+mens danske kilder mere nævner den lave ende af dette (6,5-7). 
+ 
+I udlandet er der dog ikke i samme grad interesse for forureningen i regnvand, fordi forure-
+ningsgraden er så meget lavere end i spildevand. I Danmark er filterjordskonceptet stadig 
+meget nyt (ca. 7-8 år gammelt) og forskningsresultaterne sparsomme.  
+ 
+Tabel 3 sammenholder oversigter over de optimale egenskaber i filterjord. 
+ 
+  
+
+ 
+8/26 
+ 
+ 
+ 
+Vidensblad 2015 /10/ Tyske krav ifølge Klikovand /11/  
+Tyske manuel /12/ 
+Tykkelse Filterjordlaget bør være 30-50 cm tykt af-
+hængigt af behovet for rensning og ønsker 
+til plantevækst. 
+Mindst 10 cm tykt lag topjord. Med en lav 
+kvalitet af jorden herunder skal laget af 
+topjord øges til mindst 20 cm. 
+Lednings-
+evne 
+Jordens hydrauliske ledningsevne bør ikke 
+være lavere end 10-5 m/s ved anlæggelse 
+(afhænger af jordens tekstur og kompakt-
+hed), men heller ikke højere end 10-4 m/s. 
+Justeres ved iblanding af sand. 
+Hydraulisk ledningsevne justeret til 10-4-10-
+5 m/s ved iblanding af sand. 
+Blandings-
+forhold og 
+kornstørrelse 
+Filterjorden skal være homogent blandet. 
+Det samlede indhold af ler (<0,002 mm) 
+og silt (<0,063 mm) bør ligge mellem 5 og 
+10 % (vægtprocent). 
+Et vist lerindhold (3 – 10 %). Filterjord kan 
+f.eks. fremstilles af muld fra depot iblandet 
+sand med kornstørrelse 0,02-2 mm i for-
+holdet 1 del muld til 1 del sand. Muld og 
+sand blandes grundigt, så der opnås en ho-
+mogen blanding. 
+Stof- 
+parametre 
+Jorden skal være ren i udgangspunktet, fx 
+Klasse 0 i Sjællandsvejledningen. Det gæl-
+der også, at der ikke bør være høje mæng-
+der fosfor, som let kan udvaskes med 
+regnvandet. 
+ 
+Organisk 
+stof 
+Indholdet af organisk materiale bør være 
+mellem 1 og 3 % (vægtprocent) og af så 
+stabil karakter som muligt. 
+Et vist humusindhold (1 - 3 %) 
+pH 
+ 
+ 
+pH mellem 6,5 og 8, men helst i den lave 
+ende af spektret.  
+/11/ anviser en høj pH (8,2 ligevægt med 
+kalk), mens /12/ angiver at pH skal være 
+mellem 6 og 8.  
+Ved tilsætning af kalk, under hensyntagen 
+til de naturlige lokale jordbundsforhold, kan 
+den ønskede pH-værdi på 6 til 8 opnås.  
+Tilsætninger En større bindingskapacitet og længere le-
+vetid kan opnås ved at iblande stærke ’sor-
+benter’. 
+Anvendelse af letopløseligt kalk er ikke til-
+rådeligt, da dette hurtigt udvaskes som hy-
+drogengencarbonat. Hvis f.eks. sand skal 
+inkorporeres som blanding til jorden i et 
+nedsivningsanlæg pga. meget lav permea-
+bilitet, bør der vælges et sandholdigt car-
+bonat. 
+Oplandska-
+rakteristik 
+Forholdet mellem vejareal eller parkerings-
+areal og nedsivningsareal kan variere alt 
+efter det forventede forureningstryk og 
+dybden af jordlaget. Danske eksempler va-
+rierer mellem ca. 1:5 og 1:25. 
+ 
+Dække Jordlaget skal placeres ved overfladen i an-
+lægget og bør være vegetationsdækket. 
+ 
+Tabel 3. Optimale egenskaber i filterjord. Kilden /11/ er et notat om LAR-grænseværdier og anbefalinger, 
+som refererer til den tyske manual om filterjord. Der er lidt uenighed om pH blandt kilderne. 
+ 
+
+ 
+9/26 
+ 
+4. Test af fosforbindende produkter som filtermaterialer i regnvandsbassiner 
+Afsnittet omhandler test af om visse produkter ville kunne bruges som filtermateriale i en 
+eventuel videreudvikling af filtertyper, der renser bedre for fosfor. I følgende test og forsøg 
+er fokuseret på at undersøge og dokumentere potentialet i anvendelse af produkter, der er 
+udviklet med det primære formål at tilbageholdelse af fosfor.  
+ 
+I forsøget er der således testet 3 forskellige fosforbindende produkters evne til at binde fos-
+fatkoncentrationer naturligt forekommende i regnvand, ved forskellige opholdstider. De 3 
+produkter er kort beskrevet i Tabel 4. 
+ 
+Det er vigtigt at fastslå, at dette forsøg ikke kan bruges til at konkludere, hvorvidt de 3 te-
+stede produkter vil være egnede som filtermateriale. Derimod skal testen vise, hvorvidt de 3 
+produkter er i stand til at binde fosfor under de korte opholdstider, der må forventes under 
+håndtering af bynært regnvand, og dermed danne vidensgrundlag for hvorvidt det er rele-
+vant at foretage yderligere laboratorieforsøg, der nærmere vil kunne teste de enkelte pro-
+dukters egnethed som decideret filtermateriale. 
+ 
+Phoslock Phoslock er et modificeret lerprodukt, hvor grundstoffet Lanthan (La) er ble-
+vet ionbyttet ind mellem de negativt ladede bentonitlag i lermatricen. 
+Lanthan har en meget høj affinitet for P, og ved P binding dannes to typer af 
+mineraler (Rhabdophane og Monazite), der begge er meget tungtopløselige 
+og ikke påvirkes af naturligt forekommende pH-udsving /13/, /14/ og /15/. 
+Aqual-P Aqual-P er en zeolit, hvor Aluminium (Al) er ansvarlig for P bindingen. Ifølge 
+producenten, vil Aqual-P pga. dens negativt ladede porøse struktur også 
+være i stand til at binde NH4+. Upublicerede forsøg på SDU indikerer at Aqual 
+P er mindre pH følsom end rent Al, men der ses dog stadig frigivelse af Al 
+ved højere og lavere pH værdier. For yderligere info se f.eks. /16/. 
+Lagdelte 
+dobbelt-
+hydroxi-
+der (LDH) 
+LDH’er består af lagdelte positivt-ladede lag, der er i stand til at tilbageholde 
+forskellige anioner, som f.eks. fosfat /17/. LDH’er forekommer både natur-
+ligt, men er også relativt simple og billige at syntetisere, hvorfor de har til-
+trukket en del opmærksomhed fra industri og forskning. Der findes mange 
+forskellige typer af LDH’er, og typen brugt i dette forsøg er en kommerciel 
+magnesium-aluminium hydroxynitrate. 
+Tabel 4 De 3 udvalgte produkter 
+ 
+4.1 Metode 
+Til alle forsøgene i dette projekt blev der anvendt kunstigt regnvand, der bestod af MilliQ 
+vand (demineraliseret og filtreret vand) med en pH værdi på 7. De 3 produkters maksimale 
+fosforbindingskapacitet i det kunstige regnvand, blev indledningsvist bestemt gennem et 24 
+timers fosforadsorptionsforsøg, og kan ses i Tabel 5.  
+ 
+Den maksimale fosforbindingskapacitet blev efterfølgende brugt til at dosere de enkelte pro-
+dukter i forhold til en fosforkoncentration på 100 µg P/l, som ligger inden for det spænd i 
+fosfatkoncentrationer, der er fundet i regnvand i København (Pers. Info. Morten Ejsing Jør-
+gensen, Københavns Kommune).  
+ 
+
+ 
+10/26 
+ 
+ 
+Fosforbindende produkt Maksimale P bindingskapacitet  
+(mg P/g produkt) 
+Phoslock 10:1 
+Aqual-P 5:1 
+LDH 7:1 
+Tabel 5 Maksimal fosforbindingskapacitet af Phoslock, Aqual-P og LDH 
+ 
+I et delforsøg blev der kun anvendt en produktdosis svarende til den maksimale fosforbin-
+dingskapacitet (Tabel 5), hvilket vil simulere fosforbindingskapaciteten i et ældre filter, hvor 
+fosforbindingskapaciteten er ved at være opbrugt.  
+ 
+Derudover testede vi også fosforbindingskapaciteten ved et 50 x større overskud af de en-
+kelte produkter i forhold til P, for at simulere en situation, hvor der er et større overskud af 
+fosforbindingskapacitet (f.eks. et nyanlagt filter).  
+ 
+Der er ikke foretaget detaljerede beregninger på, hvor stort et fosforbindingsoverskud et ny-
+anlagt filter vil have, og vi forventer at det testede overskud på 50 x dosis stadig vil være 
+stærkt underdoseret i forhold til en naturlig situation, hvor man må forvente et anlæg med 
+ca. 5 års fosforbindingskapacitet.  
+ 
+Forsøget blev udført i 50 ml centrifugerør i triplikater. Der blev tilsat en fosfatopløsning til 
+det kunstige regnvand svarende til en koncentration på 100 µg/l, hvorefter de fosfatbin-
+dende produkter blev doseret til de respektive centrifugerørene i: 1) et forhold svarende til 
+den maksimale fosforbindingskapacitet, samt 2) en dosis svarende til 50 x den maksimale 
+fosforbindingskapacitet.  
+ 
+Herefter blev prøverne inkuberet på rystebord og triplikater blev udtaget til tiderne: 5 min., 
+15 min., 30 min., 60 min., 6 timer og 24 timer, for at teste produkternes evne til at binde 
+fosfor, også ved korte opholdstider. Udover prøverne med de fosfatbindende produkter, blev 
+der også lavet en måleserie, hvor der kun var kunstigt regnvand med en fosfatkoncentration 
+på 100 µg P/l for at kunne korrigere for eventuelle ændringer i fosforkoncentrationen, der 
+måtte skyldes andre faktorer end de fosforbindende produkter. Efter inkubation af prøverne 
+blev disse filtreret på et 0,2 µm membranfilter, hvorefter fosfat blev analyseret.  Filterstør-
+relsen på 0,2 µm blev anvendt, fordi det er standard ved testning af Phoslock, idet fx 
+Lanthan kan eksistere i små kolloider, som kan passere gennem f.eks. et 0,65 eller 0,45 µm 
+filter /18/. 
+ 
+4.2 Resultater og diskussion 
+Af Figur 1 ses resultatet af adsorptionsforsøget. Det ses generelt at produkterne ved den 
+lave produktdosis kun binder omkring 50 % af den initiale fosfatkoncentration på 100 µg/l 
+indenfor de første 24 timer. Derimod formår alle 3 produkter at binde 100% af fosfaten så 
+snart de er overdoseret med 50 gange, og det selv efter kun 5 min. Det tyder således på at 
+disse produkter ville kunne bruges som filtermateriale til fældning af fosfor selv i systemer 
+med meget korte opholdstider. Da den anvendte overdosering på 50 gange ydermere for-
+ventes at være meget lav i forhold til et færdigt filtersystem, hvor man vil forvente en langt 
+højere overdosering (for at opnå en langvarig effektivitet af filtersystemet), giver dette 
+
+ 
+11/26 
+ 
+forsøg forhåbninger om at det vil være muligt at anvende de testede produkter, som filter-
+materialer. 
+ 
+ 
+Figur 1. Fosfatkoncentrationen som funktion af adsorptionstiden for Phoslock, Aqual- P og LDH, ved 1x do-
+sis og ved 50x dosis i forhold til fosfatmængden i inkubationsrørene. Standardafvigelser er angivet, men 
+ofte så små at de ikke kan ses af figuren. 
+ 
+Før man ville kunne designe systemer med fosfatfiltre ud fra ovenstående materialer er det 
+dog vigtigt at foretage yderligere test og evt. videreudvikling af materialerne, således at 
+man sikrer, at produkterne f.eks. ikke skylles ud af systemet eller frigiver skadelige metaller 
+som f.eks. lanthan (La). For Phoslock ved man f.eks., at partikelstørrelsen af lermatricen af-
+hænger af vandets hårdhed /15/, /18/, således at der dannes meget fine partikler i vand 
+med lav bufferkapacitet (som f.eks. regnvand). Dette ville potentielt kunne føre til at Phos-
+lock og små Lanthan-partikler skylles ud af systemet. Det er muligt at zeolitmatricen samt 
+LDH´erne kunne påvirkes på samme måde, men det kræver yderligere test. Det vil således 
+være relevant at foretage yderligere test og evt. produktudvikling med henblik på at videre-
+udvikle og designe filtermaterialer, med høj fosforbindingskapacitet ved naturlige fosforkon-
+centrationer og kort opholdstid. 
+ 
+  
+0
+20
+40
+60
+80
+100
+0
+20
+40
+60
+80
+100
+0 50 100 150 200 250 300 350 1200 1400 1600
+0
+20
+40
+60
+80
+100
+ 1 x dosis 
+ 50 x dosis
+Phoslock
+Aqual-P
+Fosfatkoncentration (µg/l)
+Inkubationstid (min)
+LDH
+
+ 
+12/26 
+ 
+5. Test af relevant software for stoffjernelse 
+Det er generelt meget svært at opstille en virkelighedstro model for stoftilførsel og stoffjer-
+nelse, da de varierer utrolig meget over tid og afhænger af f.eks. oplandstype, regnintensi-
+tet og varighed, forudgående tørvejrsperiode og opholdstid i afvandingselement. Det er der-
+for almen praksis at bruge en forsimplet beregning, med gennemsnitskoncentrationer og -
+fjernelsesgrader. Begrundelsen for denne tilnærmede metode er, at de varierende koncen-
+trationer og rensegrader vurderes at blive udlignet over tid. Der er gjort flere forsøg på at 
+standardisere en beregningsmetode:  
+ 
+Et udmærket beregningsværktøj er RegnKvalitet /19/, som er et excelark udviklet af Regn-
+vandsforum og kan downloades på www.regnvandskvalitet.dk. Beregningsværktøjet anses 
+for vidt udbredt og kan varmt anbefales til brug for vurdering af vandkvaliteten i udlednin-
+ger fra separatkloakerede, bynære områder. Værktøjet har dog fokus på beregning af vand-
+kvaliteten i indløbsvand og rensning indgår dermed ikke som en del af værktøjet, der derfor 
+ikke beskrives nærmere her.  
+ 
+SAMBA var en gang et gængs program, men dette er ikke så anvendt længere, og beskrives 
+ikke nærmere her. Til gengæld undersøgt to af de værktøjer, som er udviklet i den forbin-
+delse: STORM og WDP. 
+ 
+Desuden findes også softwaren EcoLab, som beregner vandkvaliteten dynamisk. EcoLab kan 
+anvendes integreret med det hydrodynamiske software MIKE URBAN fra 2017-versionen. 
+Dermed åbner det en ny mulighed for detaljerede beregninger af vandkvalitet på afstrøm-
+ning fra urbane befæstede overflader. EcoLab gør det muligt for brugeren selv at implemen-
+tere omsætningsudtryk og stofkomponenter. Programmet er derfor relativ kompliceret at 
+anvende. Det har ikke været muligt, indenfor rammen for nærværende projekt, at teste 
+EcoLAB i forbindelse med MIKE URBAN, men der er gode erfaringer med EcoLAB i andre 
+sammenhænge. 
+ 
+Et udenlandsk studie /20/ sammenligner fire udenlandske beregningsværktøjer og konklu-
+derer på baggrund af mange stoffer uden specifikt fokus på fosfor, der dog indgår som te-
+stet stofkomponent i alle værktøjerne. De i studiet fire udvalgte værktøjer er: StormTac, In-
+foworks CS, SuDS Studio og MUSIC. For sammenligning af disse beregningsværktøjer henvi-
+ses til /20/. 
+ 
+5.1 Modelling of Water Management (STORM) 
+Programmet STORM /21/ er udviklet af den tyske universitetsforsker Harald Sommer og 
+gennemgås her på baggrund af hans gennemgang af programmet på et webinar.  
+ 
+Programmet er baseret på massebalancer, i modsætning til f.eks. MIKE-produkterne, som er 
+baseret på hydrodynamik. Massebalancer er statiske med bl.a. faste tidsstep, hvorimod hy-
+drodynamiske modeller er dynamiske med bl.a. varierende tidsstep. Dette gør, at STORM 
+ikke er så beregningstung at arbejde med.  
+ 
+I modellen indtastes et opland, som består af en række brugerdefinerede deloplande, hvor 
+oplandstype, befæstelsesgrad, fordampning og nedbør mm. defineres. Det er muligt enten 
+
+ 
+13/26 
+ 
+at vælge default-indstillinger eller at indsætte bestemte tidsserier for regn (både CDS og 
+LTS modelregn), fordampning og temperatur /21/. 
+ 
+Programmet er opbygget af en række forskellige afvandingselementer, som f.eks. vandløb, 
+renseanlæg, grønne tage og regnbede. GIS-data kan anvendes. For hvert element defineres 
+en konstant indløbskoncentration og stoffjernelse for udvalgte parametre. Der er ingen præ-
+definerede parametre, stofkoncentrationer eller resegrader, dvs. at alt skal indtastes manu-
+elt. I forhold til den hydrauliske del, er simuleringen af den stofmæssige del meget simpel, 
+og kunne i princippet laves ved almindelige håndberegninger.  
+ 
+Der er umiddelbart ingen fordel ved at bruge STORM frem for MIKE-produkterne. STORM 
+vurderes at være anvendelig til mindre oplande, hvor fokus er på udledningen i et enkelt 
+punkt. MIKE-produkterne er derimod gode til alle oplandsstørrelser, hvor fokus er på flow og 
+vandstand undervejs og summeret, f.eks. ledningsstrenge og oversvømmelse på terræn.  
+ 
+Det anbefales primært at bruge STORM til simulering af vandbalancer i et opland, hvor man 
+har fravalgt brugen af MIKE-produkter af anden årsag. 
+ 
+5.2 Wet Detention Pond model (WDP) 
+Programmet eller modellen Wet Detention Pond (WDP) er udviklet af Ålborg Universitet af 
+Jes Vollertsen /22/ og kan downloades på www.separatvand.dk. Programmet er primært ud-
+viklet til at bestemme renseeffektiviteten af regnvandsbassiner. Det er med andre ord ikke 
+repræsentativt for andre LAR-elementer end bassiner.  
+ 
+WDP modellen skal bruge input for en selvvalgt historisk regnserie eller en tidsserie af til-
+løbsvandføring. Modellen regner med konstant sammensætning af indløbsvandet til bassinet 
+og modellen regner stoffjernelsen ud efter en simpel 1. ordens fjernelsesproces anvendt på 
+vandet i bassinet. Ålborg Universitet har testet, at modellen ikke blev bedre ved brug af en 
+mere avanceret fjernelsesmodel. Derudover er WDP testet imod MIKE URBAN, hvor det viste 
+samme resultater på regnvandsbassiner (pers. komm. Jes Vollertsen). 
+ 
+Som udgangspunkt kan modellen, for fosfors vedkommende, regne på total fosfor samt på 
+opløst fosfor (ikke testet nærmere). Dertil regner modellen som udgangspunkt på suspende-
+ret Stof, udvalgte tungmetaller samt enkelte andre stofparametre. Den førsteordenshen-
+faldskonstant/ratekonstant (k), der beskriver processen i bassinet, kan man se og justere, 
+så den kan simulere et andet stof.  
+ 
+Bruger kan ændre på en lang række andre forhold så som oplandsareal, dimensioner for 
+bassinet, om der skal medtages fordampning samt raten af denne, basisvandføring, nedsiv-
+ningsrate og udsivning afhængig af årstiden. Derudover kan brugeren ændre hvordan bassi-
+nets udløbsforhold er skruet sammen samt på stofsammensætningen i tilløbet til bassinet 
+/22/.  
+ 
+Modellen beregner kun ét bassin af gangen, men det er muligt at gemme opsætningen pr 
+bassin og bruge det som input til et nedstrøms forbundet bassin. Modellen kan således 
+regne på koblede bassiner /23/, og med den mulighed kan også sammenlignes resultater for 
+aflastning i forhold til, hvis opstrøms bassiner til- eller afkobles.  
+
+ 
+14/26 
+ 
+ 
+Efter beregning af vandkvalitet i WDP får man resultater på aflastningen set i forhold til en 
+gentagelsesperiode. Når modellen regner på koblede bassiner, indgår det direkte opland 
+også stadig i beregningen, idet indløbskoncentrationen i det nedstrøms bassin beregnes ud 
+fra udløbskoncentration i opstrøms bassin plus det direkte opland. 
+ 
+Der tages kun højde for stoffjernelsen i vandsøjlen, mens nedbrydningen af f.eks. biocider i 
+bassinets sediment ikke er omfattet.  
+ 
+Alt i alt lader Wet Detention Pond modellen, WDP, til at være et ganske udmærket simpelt 
+værktøj til beregning af stoffjernelse i regnvandsbassiner, når man husker på at der arbej-
+des med konstant indløbskoncentration. Softwaren er ikke så kompliceret som produkterne i 
+softwareserien MIKE men alligevel - med simpel årstidsvariation og med kobling af bassiner 
+- mere avanceret end de ellers gængse, simple håndberegninger.  
+ 
+6. Opsamling 
+Klimasikring øger behovet for at fraseparere regnvand fra kloaksystemet og håndtere regn-
+vand lokalt (LAR-løsninger). Recipientkvalitetskrav for bl.a. fosfor stiller dog store krav til 
+rensning af regnvand. Der er foretaget en gennemgang af gængse LAR-løsninger, hvor van-
+det håndteres synligt i terræn eller i filtermaterialer, og der er set på deres renseeffekt for 
+fosfor. Oversigter over fundne renseeffekter er samlet i bilag 1 og bilag 2.  
+ 
+I bymiljøer skal LAR-løsninger som oftest indpasses indenfor en begrænset fysisk ramme, 
+og rensetiltag skal derfor placeres flere steder i byrummet enten i deloplande eller i serie 
+gennem oplandet, før en tilstrækkelig rensning opnås. Udviklingen inden for byområderne 
+med LAR-elementer med anvendelse af filterjord efterlader et ønske om at optimere denne 
+type renseløsning, så den renser bedre for fosfor. Der er derfor testet nye materialer til 
+eventuel fremtidig brug af fosforfjernelse vha. filtermaterialer med høj fosforbindingskapaci-
+tet ved naturlige fosforkoncentrationer og kort opholdstid.  
+ 
+Resultaterne af de testede materialer (Phoslock, Aqual-P og LDH) giver forhåbninger om, at 
+det vil være muligt at anvende de testede produkter som fosforfiltermaterialer, der anses for 
+mindre pladskrævende end f.eks. åbne bassiner. Det er dog vigtigt at sikre, at produkterne 
+ikke har bivirkninger og f.eks. ikke skylles ud af systemet eller frigiver skadelige metaller.  
+  
+Ofte er de tilgængelige kvadratmeter i byrummet ikke fordelt optimalt i forhold til at sikre 
+den mest optimale strømningsvej, og der kan derfor være behov for serielt forbundne LAR-
+løsninger (treatment-trains). Helt generelt er det nødvendigt at anvende relevant software 
+for at designe optimale rensningsløsninger.  
+ 
+Der findes flere forskellige softwareprodukter til at beregne vandkvalitet og rensning af 
+regnvand. WDP anses som et godt produkt til dette. Tilbage er stadig ønsket om at kunne 
+tage højde for den ændring, der sker i partikelsammensætningen og/eller partikelstørrel-
+serne, efter at vandet har gennemløbet et LAR-element som et opstrøms bassin. En efterføl-
+gende rensning af dette vand i et nedstrøms koblet bassin kræver reelt andre ratekonstan-
+ter. WDP-modellen kunne reelt tage højde for dette, så begrænsningen ligger et andet sted, 
+nærmere bestemt i det vidensgrundlag, der er på feltmålinger af dette.  
+
+ 
+15/26 
+ 
+ 
+Der er med andre ord så stor usikkerhed på inputdata i eventuel modelsoftware, at det kræ-
+ver flere målinger, før det giver mening at tage højde for det i estimater af stoffjernelse i 
+koblede nedstrøms bassiner såvel som i filtermaterialer.  
+ 
+Flere resultater af prøvetagninger for bl.a. fosfor i LAR-elementer forbedrer input til software 
+og dermed muligheden for at kunne opnå bedre generelle estimater på rensningen ved brug 
+af standardiserede beregningsmetoder. 
+ 
+ 
+7. Referencer 
+Referencer tilhørende bilag 1 og bilag 2 er listet særskilt i hvert bilag. 
+ 
+/1/ Københavns kommune, Morten Ejsing Jørsensen, Bilag 2. Retningslinjer til ansøgning 
+om udledning af hverdagsregn og skybrudsregn. 03-03-2016, dokumentnummer, 
+2015-0209069-6. 
+/2/ Bekendtgørelse om fastlæggelse af miljømål for vandløb, søer, overgangsvande, kyst-
+vande og grundvand. BEK nr 1625 af 19-12-2017. 
+/3/ Vandplan 2009-2015. Øresund. Hovedvandopland 2.3. Vanddistrikt Sjælland. Miljømi-
+nisteriet. Naturstyrelsen. 2014 
+/4/ Vandområdeplan 2015-2021 for Vandområdedistrikt Sjælland. Juni 2016 
+/5/ Københavns Kommune. Vurdering af regnvandskapacitet i udvalgte søer i København 
+– Kritiske koter og kravkurver samt vandkvalitetskrav. 2017. 
+/6/ Københavns kommune, Morten Ejsing Jørsensen, Bilag 1. Notat om principper for 
+rensning af hverdagsregn (version 2). 03-03-2016. http://www.klikovand.dk/wp-con-
+tent/uploads/2017/06/Notat-om-principper-for-rensning-af-hverdagsregn-03-03-
+2016-K%C3%B8benhavns-Kommune.pdf 
+/7/ Vollertsen, J., Hvitved-Jacobsen, T., Nielsen, A.H. & Gabriel, S. 2012. Våde bassiner til 
+rensning af separat regnvand – Baggrundsrapport. Aalborg Universitet Aalborg Uni-
+versitet, Danmaks Tekninske Universitet, Teknologisk institut & Orbicon A/S. 
+/8/ Københavns Kommune. LAR-projekthåndbog. Tagvand og vejvand – Indhold af miljø-
+fremmede stoffer. 
+/9/ Egemose, S., Jensen, H.S. & Jensen, H.E. 2008. Fosfor i regnvand fra separatkloake-
+rede oplande. Vand & Jord 15. årgang nr. 2, maj, s. 63-65. http://www.lake-restora-
+tion.net 
+/10/ Sammensætning og brug af filterjord. Vidensblad Skov og Landskab 7.03-06. Maj 
+2015. 
+/11/ LAR-grænseværdier og anbefalinger. MILSAM (fælleskommunale miljøsamarbejde i 
+Nordsjælland). 2015. Tilgængelig på www.klikovand.dk 
+/12/ DWA. Standard DWA-A 138E: Planning, construction and operation of facilities for the 
+percolation of precipitation water. German Association for Water, Wastewater and Wa-
+ste, april 2005 
+/13/ Dithmer, L., Lipton, A.S., Reitzel, K., Warner, T.E., Lundberg, D. and Nielsen, U.G. 
+(2015) Characterization of Phosphate Sequestration by a Lanthanum Modified Benton-
+ite Clay: A Solid-State NMR, EXAFS, and PXRD Study. Environmental Science & Tech-
+nology 49(7), 4559-4566. 
+
+ 
+16/26 
+ 
+/14/ Dithmer, L., Nielsen, U.G., Lurling, M., Spears, B.M., Yasseri, S., Lundberg, D., Moore, 
+A., Jensen, N.D. and Reitzel, K. (2016) Responses in sediment phosphorus and lan-
+thanum concentrations and composition across 10 lakes following applications of lan-
+thanum modified bentonite. Water Research 97, 101-110. 
+/15/ Reitzel, K., Andersen, F.Ø., Egemose, S. and Jensen, H.S. (2013) Phosphate adsorp-
+tion by lanthanum modified bentonite clay in fresh and brackish water. Water Re-
+search 47(0), 2787-2796. 
+/16/ Zamparas, M., Gianni, A., Stathi, P., Deligiannakis, Y. and Zacharias, I. (2012) Re-
+moval of phosphate from natural waters using innovative modified bentonites. Applied 
+Clay Science 62-63, 101-106. 
+/17/ Goh, K.H., Lim, T.T. and Dong, Z. (2008) Application of layered double hydroxides for 
+removal of oxyanions: A review. Water Research 42(6-7), 1343-1368. 
+/18/ Reitzel, K., Balslev, K.A. and Jensen, H.S. (2017) The influence of lake water alkalinity 
+and humic substances on particle dispersion and lanthanum desorption from a lantha-
+num modified bentonite. Water Research 125, 191-200. 
+/19/ Regnkvalitet version 1.2. Januar 2017. Screeningsværktøj til beregning af regnvands-
+kvalitet for overfladeafstrømning. www.regnvandskvalitet.dk 
+/20/ Lind J. 2015. Stormwater modelling tools – a comparison and evaluation. Department 
+of Earth Sciences, Uppsala University. UPTEC W 14040, ISSN 1401-5765. 
+/21/ STORM - Software for Modelling of Water Management Systems 
+http://www.sieker.de/en/software/software-gis/product/storm-software-for-model-
+ling-of-water-management-systems-44.html  
+/22/ WDP brugervejledning – version 1.01. Ålborg 14. juni 2012. 
+/23/ WDP version 2.00 - Tillæg til brugervejledning. Ålborg 16. juni 2017. 
+/24/ Ballantine. D.J., Tanner C.C. (2010): Substrate and filter materials to enhance phos-
+phorus removal in constructed wetlands treating diffuse farm runoff: a review. New 
+Zealand Journal of Agricultural Research 53(1): 71-95. 
+ 
+ 
+
+Rambøll Danmark A/S 
+CVR NR. 35128417 
+ 
+Medlem af FRI 
+ 
+ 
+ 
+ 
+ 
+ 
+17/26  
+ 
+Dato  2018-04-13 
+ 
+ 
+ 
+Rambøll 
+Hannemanns Allé 53 
+DK-2300 København S 
+ 
+T +45 5161 1000 
+F +45 5161 1001 
+www.ramboll.dk 
+ 
+ 
+Ref.  1100029554 
+Version  0.25 
+ 
+Udarbejdet af LNDB  
+Kontrolleret af HSN 
+Godkendt af LNDB 
+ 
+ 
+8. Bilag 
+ 
+Bilag 1 Oversigt over i litteraturen fundne rensegrader/tilbageholdelse i forbindelse med kvalitet af regnvand. 
+ 
+Bilag 2 Opsamling på eksisterende forskningsresultater vedr. filtertyper til rensning af vand. 
+  
+
+ 
+18/26 
+ 
+8.1 Bilag 1 Oversigt over i litteraturen fundne rensegrader/tilbageholdelse i forbindelse med kvalitet af regnvand 
+ 
+Metode/me-
+die 
+  Bassin, kapacitet: > 250 m3/red.ha Sand-
+fiter 
+Sand-
+filter 
+m. Al 
+Ad-
+sorpti-
+ons-
+medie 
+Filter af stenuld Beplantet filteranlæg Syntetisk tilsæt-
+ning i filterjord 
+Rensegra-
+der/ 
+Udløbskon-
+centrationer 
+Enhed 
+for kon-
+centra-
+tioner 
+Typisk 
+rense-
+grad 
+/3/, 
+/4/ 
+Typisk 
+rense-
+grad, 
+BMP /1/, 
+/2/ 
+Konser-
+vativ ty-
+pisk 
+rense-
+grad 
+Kon-
+centra-
+tion i 
+udløb 
+generelt  
+/2/ 
+Typisk 
+rense-
+grad, 
+BMP  
+/5/ 
+Rense-
+grad 
+/9/ 
+Rense-
+grad 
+/10/ 
+Rense-
+grad 
+/11/ 
+Koncen-
+tration i 
+udløb 
+/11/ 
+Samlede 
+renseffekt 
+for bund-
+fældning 
+og filteran-
+læg /6/ 
+Koncen-
+tration i 
+udløb /6/ 
+Rense-
+grad fil-
+terjord 
+/7/ 
+Koncen-
+tration i 
+udløb 
+/7/ 
+Suspenderet 
+stof 
+mg/l 70 – 80 
+% 
+70 – 90 % 70% 12 (5-20) 85%           -191- -
+429% 
+  
+DOC mg/l   
+  
+    80 – 91 
+% 
+            
+BOD mg/l – 20 – 40 % 20% 4 (1-8)         97% < 10 -   
+COD mg/l – 30 – 60 % 30% 30 (10-
+60) 
+            -   
+Total Fosfor mg/l 55 – 65 
+% 
+60 – 80 % 55% 0.1 
+(0.05-
+0.2) 
+45% 70 - 90 
+%* 
+64% 66% 0.33 20% < 14 -1204 - 
+36% 
+0.275 
+Opløst Fosfor mg/l – 50 – 75 % 50%               -1479 - 
+43% 
+0.25 
+Total Kvælstof mg/l 30 – 35 
+% 
+20 – 60 % 20% 1.2 (0.7-
+2) 
+35%   45%   50% < 40 - - 
+NH3+NH4-N mg/l                 90% < 5 - - 
+Zink ug/l 45 – 55 
+% 
+40 – 85 % 40% 30 (5-60)     69%       97% 5.7 
+Zink filtreret ug/l –           65%       75 - 97% 5 
+
+ 
+19/26 
+ 
+Kobber ug/l – 60 – 80 % 60% 5 (2-8)     50%       84% 8.1 
+Kobber filtr. ug/l –            38% 64% 0.57     94 - 98% 1.9 
+Bly ug/l 65 – 75 
+% 
+– 65% < 10             91 - 97% 1.1 
+Bly filtr. ug/l –                   96% 0.5 
+Cd ug/l                     99% 0.05 
+Cd filtr. ug/l                     99% 0.05 
+Ni ug/l                     88 - 94% 1.9 
+Ni filtr. ug/l                     -91 - 
+94% 
+1.6 
+Cr (VI) 
+(CrO42-) 
+ug/l                     28 - 97% 17.9 
+Cr (VI) filtr. ug/l                     42 - 98% 14.3 
+Acenaphthen ug/l                     95 - 96% 0.04 
+Naphthalen ug/l   
+  
+              98% 0.02 
+Phenanthren ug/l                     98% 0.01 
+Glyphosat ug/l                     90% 0.09 
+MCPA ug/l   
+  
+              0 - 93% 0.3 
+Mechlorprop ug/l                     63% 0.2 
+* Stjernemarkeringer henviser til oplysninger jævnfør bilag 2. 
+ 
+ 
+Bilag 1 referencer 
+/1/  Vollertsen, J., Hvitved-Jacobsen, T., Nielsen, A.H. & Gabriel, S. 2012. Våde bassiner til rensning af separat regnvand – Baggrunds-
+rapport. Aalborg Universitet Aalborg Universitet, Danmaks Tekninske Universitet, Teknologisk institut & Orbicon A/S. 
+/2/  Faktablad om dimensionering af våde regnvandsbassiner. Aalborg Universitet, 2012. 
+/3/  Københavns Kommune. LAR-projekthåndbog. Våde bassiner og damme. December 2011 
+/4/  Vollertsen, J., Nielsen, A. H., Rasmussen, M. R., & Hvitved-Jacobsen, T. 2006. Våde regnvandsbassiner. Mikroben, 14(34), 4-9. 
+
+ 
+20/26 
+ 
+/5/ NCDENR Stormwater BMP Manual. Kapitel 11 Sandfilter. Juli 2007. https://ncdenr.s3.amazonaws.com/s3fs-public/Water%20Qua-
+lity/Surface%20Water%20Protection/SPU/SPU%20-%20BMP%20Manual%20Documents/BMPMan-Ch11-20090920-DWQ-SPU.pdf  
+/6/ Retningslinier for etablering af beplantede filteranlæg op til 30 PE. Miljøstyrelsen 2004. http://www2.mst.dk/Udgiv/publikatio-
+ner/2004/87-7614-454-2/pdf/87-7614-455-0.pdf 
+/7/ Byer i Vandbalance notat 6. Notat om renseeffektivitet af filterjord – danske erfaringer. Maj 2015 
+/8/ Blueguard Sorption Data. Dansand A/S 
+/9/ ALCOsand, er stadig udokumenteret. Kontaktperson: Simon Toft Ingvertsen. 
+/10/ Milford, printet ark med rensegrader efter forsøg med produkt. 
+/11/ Kofoed M. et al. 2016. Teknologi til rensning af vand fra trafikerede områder. Naturstyrelsen. Miljøministeriet. 
+  
+
+ 
+21/26 
+ 
+8.2 Bilag 2 Opsamling på eksisterende forskningsresultater vedr. filtertyper til rensning af vand. 
+Fodnoter refererer til kilden med korresponderende fodnote i kolonnen længst til højre. 
+ 
+Materiale Fordele Ulemper Retention Drift Levetid Øvrige kommentarer Referencer 
+Sand Mest anvendte materi-
+ale i DK. 
+Mange erfaringer. 
+Tilbageholder partikler 
+og partikulært P.  
+Billigt 
+Klotter nemt5 
+Uens rensning 
+Ikke god til op-
+løst P 
+Kornkurven afgør effekt. 
+Bedst i de første år. Der 
+ses alt fra 0-90 % i litte-
+raturen, men også gen-
+nemsnitligt 40-60% TP4. 
+F.eks. 13-18% af TP og 
+52-79% af PP1; 40-80% 
+PP2 
+Skal tilsæt-
+tes og efter-
+følgende 
+fjernes. 
+Evt. strigles 
+eller beplan-
+tes for at 
+undgå klot-
+ning. 
+10-15 år Anvendes meget varie-
+ret geografisk i DK. I 
+nogle forsyninger er 
+det almindelig praksis 
+at lave sandfiltre og 
+andre bruger dem al-
+drig. Også en del labo-
+ratoriestudier3 
+Egemose et al 2014 
+Hansen,  
+Madsen et al 2013 
+Sønderup et al 
+2014, 2014c, 2015 
+& 20162 
+Arias et al 20013 
+Danva 20064, Ege-
+mose in prep5 
+Fe-coated 
+sand 
+Samme som sand men 
+tilbageholder også op-
+løst P pga. Fe 
+Infiltrationsraten 
+falder 20-70%1 
+Primært lab-for-
+søg i DK 
+op til 90% bedre end 
+sand1 
+ukendt ukendt Opholdstiden er vigtig Madsen 20111 
+Ayoub et al 2001 
+Arias et al. 2006 
+Al-coated 
+sand 
+Samme som sand men 
+tilbageholder også op-
+løst P pga. Al 
+Lab-forsøg Fra <70 til >90%1 ukendt ukendt Opholdstiden er vigtig 
+Anden variant er Al-til-
+sætning til indløbsvan-
+det kombineret med 
+sandfilter inden udløb – 
+testet i Life-Treasure2 
+Ayoub et al 20011 
+Hvitved-Jacobsen 
+et al 20112 
+Arias et al 2006 
+Johannsen et al 
+2016 
+Knust be-
+ton 
+Binder P og tungme-
+taller effektivt 
+Fjerner partikler 
+Billigt  
+Høj pH i udløbs-
+vand 
+Uensartet pro-
+dukt 
+5,1-19,6 g P/kg1 
+83-96% opl. P og PP2, 
+ca. 80% opl. P og PP3 
+Skal tilsæt-
+tes og fjer-
+nes. 
+pH skal neu-
+traliseres i 
+starten 
+Som sand v. 
+rigtig dimen-
+sionering 
+(10-15 år) 
+Testet i 2 pilotanlæg i 
+DK 
+Egemose et al 
+20121 
+Petersen 20172 
+Sønderup et al 
+2011, 2011b, 
+2012,2014, 2014b, 
+2014c & 20153 
+  
+
+ 
+22/26 
+ 
+Materiale Fordele Ulemper Retention Drift Levetid Øvrige kommentarer Referencer 
+Skaller og 
+andre kalk-
+produkter 
+(kalcit/do-
+lomit) 
+Binder P pga. kal-
+cium i materialet 
+Både partikulært og 
+opløst P. 
+Billigt. 
+Risiko for klotning 
+Risiko for høj pH ved 
+nogle typer 
+Ukendt adsorbtion over 
+lang tid. 
+Ikke altid god adsorb-
+tion. 
+Heterogent materiale 
+86% TP og 84% opl. P1 
+1-2,5 kg P/m32. Andre 
+rapporterer om noget 
+lavere adsorbtionsrater 
+Skal til-
+sættes og 
+fjernes 
+ 
+Ukendt, men 
+der er regnet 
+på 100 år i 
+testbassinet!1 
+Udført i Life-treasure 
+testbassin i Odense1 og 
+senere anlæg I Silke-
+borg 
+Labtests: Arias & Brix 
+2005 har undersøgt 16 
+forskellige typer2. 
+Derudover mange an-
+dre labforsøg bl.a. 
+Stark 2004 
+Hvitved-Jacobsen 
+et al 2011 og refe-
+rencer deri1 
+Arias & Brix 20052 
+Stark 2004, 
+Wium-Andersen et 
+al 2012, Lyngsie 
+et al. 2013 
+Vollertsen og Kri-
+stensen 2010, 
+http://www.life-
+treasure.dk/  
+Filtermuld Fjerner både opløst 
+og partikulært stof. 
+Hel eller delvis LAR-
+løsning. 
+Valg af filterjorden af-
+gør effektiviteten. 
+Kræver plads 
+Meget varierende men 
+se bl.a. Cederkvist et al 
+2016 
+Pleje af ve-
+getation og 
+overflade 
+Sandsynligvis 
+20-50 år, men 
+kendes ikke 
+fra DK. 
+13-136 base-
+ret på labstu-
+dier1 
+Der findes nogle anlæg 
+i DK men ingen kendte 
+langtidsstudier. 
+Metoden stammer fra 
+Tyskland 
+Ingvertsen et al 
+20121 
+Ingvertsen et al 
+2012b 
+DWA 2005 
+Cederkvist et al 
+2013, 2016 
+Olivin og 
+Zeolit 
+Fe/Mg og Al-holdige 
+mineraler som bin-
+der opløst P og som 
+samtidig er filter for 
+partikler 
+Cost-effektive 
+pH stigning til 10 med 
+olivin, hvilket kræver 
+neutralisering mens ze-
+olit skaber pH-fald til 
+ca. 51. 
+Materialet tåler dårligt 
+fysisk stress og erode-
+res nemt1 
+Olivin: 49-98% TP af-
+hængig af opholdstid1 
+Zeolit: -2 til 31% af 
+opholdstid1 
+Skal til-
+sættes og 
+fjernes 
+Neutralise-
+ring af ud-
+løbsvand 
+ 
+ukendt 
+Primært labstudier og 
+få pilotanlæg  
+Vollertsen og Kri-
+stensen 2010 
+Wium-Andersen et 
+al 20121 
+  
+
+ 
+23/26 
+ 
+Materiale Fordele Ulemper Retention Drift Levetid Øvrige kommenta-
+rer 
+Referencer 
+CFH-12 
+(jernhydro-
+xidprodukt) 
+Binder P effektivt. 
+Skal blandes med 
+sand eller andet 
+Ensartet kommerci-
+elt produkt 
+Kun testet i lab og i 1 
+pilotstudie (bufferzone) 
+Binder kun opløst P og 
+kræver længere op-
+holdstid end det ofte er 
+tilfældet i bassiner 
+Binder op til 100%1 el-
+ler over 90%2  
+Skal til-
+sættes og 
+fjernes 
+sammen 
+med at fil-
+termateri-
+ale som 
+sand ellers 
+ingen 
+Ukendt, kom-
+mer an på do-
+sis  
+Jernhydroxider Jørgensen et al. 
+20171 og referen-
+cer i denne 
+Lyngsie et al 
+20132 
+Vand-
+værksslam 
+Jernslam (spildpro-
+dukt) fra vandvær-
+ker 
+Billigt 
+Binder opløst P 
+Kan allerede have P 
+bundet fra grundvan-
+det 
+Uensartet 
+Binder kun opløst stof 
+Kan indeholde tungme-
+taller 
+Kun testet i lab 
+Kun v. opløst P konc. 
+>200 ug/L1 
+Skal til-
+sættes og 
+fjernes 
+sammen 
+med at fil-
+termateri-
+ale som 
+sand ellers 
+ingen 
+Ukendt, kom-
+mer an på do-
+sis 
+Mange af de internati-
+onale studier er lavet 
+ved meget høje P-kon-
+centrationer 
+Et andet alternativ er 
+okkerslam fra okker-
+fældningsbassiner i 
+vandløb, se også Jør-
+gensen et al 2017 
+Jørgensen et al. 
+20171 og referen-
+cer i denne 
+LDH’er Binder bl.a. fosfat 
+effektivt. 
+Ensartet syntetise-
+ret produkt. 
+Primært labforsøg 
+Skal fremstilles, så dy-
+rere end f.eks. sand 
+7-82 mg P/g LDH Ukendt, 
+men skal 
+tilsættes 
+og fjernes 
+ukendt Layered double hydro-
+xides 
+Goh et al 2008 og 
+referencer i denne 
+Phoslock Bentonit coated 
+med lanthan. 
+Binder fosfat 
+Gode erfaringer fra 
+sørestaurering 
+Ensartet produkt 
+Dyrere end naturmate-
+rialerne 
+Meget finpartikulært 
+materiale 
+Bindingsratioen mellem 
+La og P er 1:1, men 
+Phoslock binder også 
+andre anioner, så bin-
+dingsratioen kan være 
+lavere. 
+ukendt ukendt Brugt til sørestaure-
+ring i udlandet, men 
+kun til labforsøg i Dan-
+mark 
+Reitzel et al 2010 
+Zamparas & Za-
+charias 2014 og 
+referencer i denne 
+ 
+
+ 
+24/26 
+ 
+Bilag 2 referencer 
+1. Arias, C.A., Del Bubba, M., Brix, H. (2001): Phosphorus removal by sands for use as media in subsurface flow constructed reed 
+beds. Wat Res 35(5):1159-1168. 
+2. Arias, C.A., Brix, H. (2005): Phosphorus removal in constructed wetlands: can suitable alternative media be identified? Water Sci 
+Technol 51(9):267-273 
+3. Arias, C.A., da Silva-Carballal, J., Garcia-Rio, L., Mejuto, J., Nunez, A. (2006): Retention of phosphorus by iron and aluminum-ox-
+ides-coated quartz particles. J. Colloid Interface Sci. 295: 65-70. 
+4. Ayoub, G.M, Koopman, B., Pandya, N. (2001): Iron and Aluminum Hydroxy (Oxide) Coated Filter Media for Low-Concentration 
+Phosphorus Removal. Water Environ Research 73(4):478-485. 
+5. Ballantine. D.J., Tanner C.C. (2010): Substrate and filter materials to enhance phosphorus removal in constructed wetlands treating 
+diffuse farm runoff: a review. New Zealand Journal of Agricultural Research 53(1): 71-95. 
+6. Cederkvist, K., Jensen, M.B., Ingvertsen, S.T., Holm, P.E. (2016): Controlling Stormwater Quality with Filter Soil—Ev ent and Dry 
+Weather Testing. Water 8(349) doi:10.3390/w8080349 
+7. Cederkvist, K., Ingvertsen, S.T., Jensen, M.B., Holm, P.E. (2013): Behaviour of chromium(VI) in stormwater soil infiltration sy-
+stems. Applied Geochemistry 35: 44-50. 
+8. Danva (2006): Vejledning nr. 71. Regnbetingede udledninger – Katalog over teknologier til reduktion af effekter i miljøet.  
+9. DWA (2005): Standard DWA-A 138E Planning, Construction and Operation of Facilities for the Percolation of Precipitation Water. 
+10. Egemose, S. (in prep): Removal of particulate matter and phosphorus in sand filters treating stormwater and drainage runoff: A 
+case study. 
+11. Egemose, S., Flindt, M. & Sønderup, M.J. (2014): Fosfor i regnvand og reduktion i våde bassiner. Spildevandsteknisk Tidsskrift 
+42(1): 36-39.  
+12. Egemose, S., Sønderup, M.J. Beinthin, M.V., Reitzel, K., Hoffmann, C.C. & Flindt, M.R. (2012): Crushed concrete as a phosphate 
+adsorbing material: A potential new management tool. Journal of Environmental Quality 41:647-653 
+13. Goh, K., Lim, T., Dong, Z. (2008): Application of layered double hydroxides for removal of oxyanions: A review. Water Research 
+42: 1343-1368. 
+14. Hansen, H.L. (2008): Effekten af infiltrationsbassiner til begrænsning af diffus fosforafstrømning til Nordborg Sø. Specialerapport. 
+Syddansk Universitet 
+15. Hvitved-Jacobsen, T., Vollertsen, J., Nielsen, A.H., Wium-Andersen, T. (2011): Teknologier for Recipientafstemt Rensning af Regn-
+vand – Resultater fra det EU-støttede LIFE-TREASURE Projekt. EVA 24(3). 
+16. Ingvertsen, S.T., Cederkvist, K., Regent, Y., Sommer, H., Magid, J., Jensen, M.B. (2012): Assessment of Existing Roadside Swales 
+with Engineered Filter Soil: I. Characterization and Lifetime Expectancy. J. Environ Qual. 41 doi:10.2134/jeq2011.0318 
+
+ 
+25/26 
+ 
+17. Ingvertsen, S.T., Cederkvist, K., Jensen, M.B., Magid, J. (2012b): Assessment of Existing Roadside Swales with Engineered Filter 
+Soil: II. Treatment Effi ciency and in situ Mobilization in Soil Columns. J. Environ Qual. 41 doi: 10.2134/jeq2012.0116. 
+18. Johannsen, L.L., Cederkvist, K., Holm, P.E., Ingvertsen, S.T. (2016): Aluminum Oxide-Coated Sand for Improved Treatment of Ur-
+ban Stormwater. J. Environ Qual. 45(2):720-727. 
+19. Jørgensen, C.A., Jensen, H.S. and Egemose, S. (2017): Phosphate adsorption to iron sludge from waterworks, ochre precipitation 
+basins and commercial ferrihydrite at ambient freshwater phosphate concentrations. Environmental Technology 38(17): 2185-2192 
+20. Lyngsie, G., Borggaard, O.K., Hansen, H.C.B. (2013): A three-step test of phosphate sorption efficiency of potential agricultural 
+drainage filter materials. Water Research 1-10. 
+21. Madsen, H.G. (2011): Forbedring af fosforfjernelse i sedimentationsbassiner med integrerede sandfiltre ved jerntilsætning. Bache-
+lorrapport. Syddansk Universitet.  
+22. Madsen, M.H, Egemose, S., Flindt, M., Sønderup, M.J. & Bochdam, T. (2013): Oplandets effekt på recipientkvaliteten. Vand og Jord 
+(4): 157-159. 
+23. Petersen, A.B. (2017): Ny konstruktion af regnvandsbassiner bør sikre øget næringsstofretention ved retention af first flush og an-
+vendelse af et knust betonfilter. Specialerapport. Syddansk Universitet. 
+24. Reitzel, K., Jensen, H.S., Mortensen, S., Egemose, S., Flindt, M. & Andersen, F.Ø. (2010): Kemisk sørestaurering 1: Et nyt fosfat-
+bindende produkt. Vand og Jord 17(1): 32-34. 
+25. Stark, T. (2004): Reactive Filter Materials for Removal of Phosphorus in Small Scale Wastewater Treatment Plants. Specialerapport. 
+Uppsala Universitet. 
+26. Sønderup, M.J., Egemose, S., Hansen, A.S., Grudinina, A., Madsen, M.H. & Flindt, M.R. (2016): Factors affecting retention of nutri-
+ents and organic matter in stormwater ponds. Ecohydrology 9(5): 796-806 
+27. Sønderup, M.J., Egemose, S., Bochdam, T. & Flindt, M.R. (2015): Treatment efficiency of a wet detention pond combined with fil-
+ters of crushed concrete and sand: a Danish full-scale study of stormwater. Environ Monit Assess 187(758): 1-18 
+28. Sønderup, M., Egemose, S., Hoffmann, C.C., Reitzel, K. & Flindt, M. (2014): Modeling phosphorus removal in wet ponds with ﬁlter 
+zones containing sand or crushed concrete. Ecological Engineering 66, 52-62 
+29. Sønderup. M.J., Flindt, M.R., Bochdam, T. & Egemose, S. (2014b): Potentiale og udviklingsmuligheder for knust beton som filter-
+materiale til rensning af regnvand. Rapport, Naturstyrelsen. 
+30. Sønderup, M. (2014c): Stormwater ponds as a measure for reduction of impacts from urban runoff on receiving waters. Processes, 
+efficiency and method development. PhD-afhandling. Syddansk Universitet. 
+31. Sønderup, M.J., Bochdam, T., Flindt, M. & Egemose, S. (2012): Riv huset ned og hjælp miljøet! DanskVand Oktober 2012, 52-53 
+32. Sønderup, M.J., Beinthin, M.V., Reitzel, K., Egemose, S. & Flindt, M.R. (2011): Knust beton til fosforfjernelse i vandmiljøet – Del 2. 
+Vand og Jord 18 (2): 72-75 
+
+ 
+26/26 
+ 
+33. Sønderup, M. J., Hessellund Jensen, C., Beinthin, M. V., Reitzel, K., Egemose, S. & Flindt, M. (2011b): Knust beton til fosforfjer-
+nelse i vandmiljøet – Del 1. Vand og Jord 18 (1): 32-35. 
+34. Vollertsen, J., Kristensen, N.K. (2010): Når vejvandet skal renses helt i bund. Trafik og veje juni/juli. 
+35. Wium-Andersen, T., Nielsen, A.H., Hvitved-Jacobsen, T., Kristensen, N.K., Brix, H., Arias, C., Vollertsen, J. (2012): Sorption media 
+for stormwater treatment – A laboratory evaluation of five low-cost media for their ability to remove metals and phosphorus from 
+artificial stormwater. Water Environ Res 84(7): 605-616. 
+36. Zamparas, M., Zacharias, I. (2014): Restoration of eutrophic freshwater bymanaging internal nutrient loads. A review. Sci Tot En-
+viron 496:551-562.

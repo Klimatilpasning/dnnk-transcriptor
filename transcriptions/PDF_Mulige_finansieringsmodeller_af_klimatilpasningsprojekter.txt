@@ -1,0 +1,1154 @@
+=== DNNK PDF Dokument ===
+Titel: Mulige finansieringsmodeller af klimatilpasningsprojekter
+Kategori: Rapporter_s3
+Kilde: https://usercontent.one/wp/www.dnnk.dk/wp-content/uploads/2022/11/Mulige-finansieringsmodeller-af-klimatilpasningsprojekter.pdf
+Indekseret: 2026-09-21T18:32:29.864348
+
+==================================================
+
+AARHUS  
+UNIVERSITET
+DCE – NATIONALT CENTER FOR MILJØ OG ENERGI
+AU
+Videnskabelig rapport fra DCE – Nationalt Center for Miljø og Energi nr. 459 2021
+MULIGE FINANSIERINGSMODELLER 
+AF KLIMATILPASNINGSPROJEKTER
+
+Videnskabelig rapport fra DCE – Nationalt Center for Miljø og Energi
+AARHUS  
+UNIVERSITET
+DCE – NATIONALT CENTER FOR MILJØ OG ENERGI
+AU
+2021
+Toke Emil Panduro
+Aarhus Universitet, Institut for Miljøvidenskab
+MULIGE FINANSIERINGSMODELLER 
+AF KLIMATILPASNINGSPROJEKTER
+nr. 459
+
+Datablad 
+ Serietitel og nummer: Videnskabelig rapport fra DCE - Nationalt Center for Miljø og Energi nr. 459 
+ 
+ Kategori:  Rådgivning 
+ 
+ Titel: Mulige finansieringsmodeller af klimatilpasningsprojekter 
+ 
+ Forfatter(e): Toke Emil Panduro 
+ Institution(er): Aarhus Universitet, Institut for Miljøvidenskab 
+ Udgiver: Aarhus Universitet, DCE – Nationalt Center for Miljø og Energi © 
+ URL: http://dce.au.dk 
+ Udgivelsesår: September 2021 
+ Redaktion afsluttet: September 2021 
+ 
+ Faglig kommentering: Louise Martinsen, Aarhus Universitet, Institut for Miljøvidenskab (fagfællebedømmer) 
+ Kvalitetssikring, DCE: Vibeke Vestergaard Nielsen 
+ Sproglig kvalitetssikring: Ann-Katrine Holme Christoffersen, Aarhus Universitet, Institut for Miljøvidenskab 
+ Ekstern kommentering:  Ingen 
+ Finansiel støtte: Finansieret af Region Hovedstadens regionale udviklingsmidler  
+ Bedes citeret: Panduro, T.E. 2021. Mulige finansieringsmodeller af klimatilpasningsprojekter. Aarhus 
+Universitet, DCE – Nationalt Center for Miljø og Energi, 27 s. – Videnskabelig rapport nr. 
+459. http://dce2.au.dk/pub/SR459.pdf
+ 
+  Gengivelse tilladt med tydelig kildeangivelse 
+ Sammenfatning: I denne rapport gennemgås forskellige løsningsmodeller for finansiering af 
+klimatilpasningsprojekter som en del af Region Hovedstadens projekt Klimatilpasning 
+på tværs. Den nuværende finansieringsløsning i Danmark, gennem KommuneKredit, 
+er attraktiv sammenlignet med de fleste andre mulige løsninger. Udenlandske 
+eksempler på finansieringsløsninger viser, at staten spiller en større rolle i for hold til 
+finansiering af klimatilpasningsprojekter sammenlignet med den nuværende løsning i 
+Danmark. 
+ Emneord: Klimatilpasning, Finansiering 
+ Layout: Ann-Katrine Holme Christoffersen 
+ Foto forside: COLOURBOX47300249 
+ ISBN: 978-87-7156-624-6 
+ ISSN (electronic): 2244-9981 
+ Sideantal: 27 
+ Internetversion: Rapporten er tilgængelig i elektronisk format (pdf) som 
+http://dce2.au.dk/pub/SR459.pdf
+ 
+ 
+
+Indhold 
+Forord 5 
+Sammenfatning 6 
+Summary 7 
+1 Introduktion 8 
+1.1 Økonomien i klimatilpasning 9 
+1.2 Hvad har betydning for hvor dyrt et lån er? 9 
+1.3 Den økonomiske krise og finansiering af  
+klimatilpasningsprojekter 10 
+1.4 Hvad skal en finansieringsmodel af klimatilpasnings- 
+projekter kunne? 11 
+2 Mulige finansieringsmodeller 12 
+2.1 Statsgarantimodellen 12 
+2.2 Statsfinansmodellen 13 
+2.3 Offentlig-Privat Partnerskab 14 
+2.4 Privat-Privat-Partnerskab 16 
+2.5 Innovationsløsning 17 
+2.6 Genforsikringsmodellen 18 
+2.7 Klima- og kystfond 20 
+2.8 Finansiering med pant i ejendom 20 
+2.9 KommuneKredit 21 
+3 International organisering og  finansieringsløsninger 22 
+3.1 Kystbeskyttelse i Tyskland 22 
+3.2 Klimatilpasning i Canada 23 
+4 Opsamling 24 
+5 Referencer 25 
+ 
+ 
+ 
+ 
+ 
+ 
+
+5 
+Forord 
+Denne rapport er udgivet som en del af forskningsprojektet ”Klimatilpasning 
+på tværs”. Hovedformålet med forskningsprojektet er at bidrage med nye 
+vinkler på kendte problemstillinger i forhold til gennemførelse af helhedsori-
+enterede klimatilpasningsprojekter. 
+Region Hovedstaden har bevilliget tre millioner kroner  til projektet, mens de 
+øvrige partnere bidrager med arbejdstid og/eller økonomiske midler. 
+Brøndby Kommune og Egedal Kommune varetager en sekretariatsfunktion 
+for hvert case-område i projektperioden. 
+Partnerskabskredsen bag projekt består af: 
+Kommunerne: Ballerup, Bornholm, Brøndby, Egedal, Fredensborg, Frederiks-
+sund, Furesø, Gladsaxe, Herlev, Hvidovre, Ishøj, København, Roskilde og 
+Vallensbæk, Rudersdal som repræsentant for N ovafos' ejerkommuner  og 
+Gribskov k ommune som repræsentant for Nordkystens Fremtid ( Halsnæs, 
+Gribskov og Helsingør kommune), Forsyningsselskabet Novafos,  Køben-
+havns Universitet, Aarhus Universitet, Miljøstyrelsen, Kystdirektoratet, For-
+sikring & Pension, Region Hovedstaden. 
+Desuden følger CO NCITO, Danmarks Tekniske Universitet, Forsikring og 
+Pension, HOFOR, Region Sjælland samt Det Nationale Netværk for Klimatil-
+pasning-projektet. 
+Projektet om mulige finansieringsmodeller af Klimatilpasningsprojekter in-
+deholder både en styregrupper og en følgegruppe bestående af repræsentan-
+ter fra projektpartnerne. Det faglige indhold i rapporten er skrevet af Toke 
+Emil Panduro med faglig sparring med Ole Fryd, Københavns Universitet, 
+Institut for Geovidenskab og Naturforvaltning. Følgegruppen har haft mulig-
+hed for at læse rapporten før udgivelse. Mundtlige kommentarer har resulte-
+ret i uddybning af  teksten, der styrker kommunikationen i forhold til læsere  
+uden indgående miljøøkonomisk viden. 
+
+ 
+6 
+Sammenfatning 
+En stopklods for gennemførslen af klimatilpasningsprojekt er er adgangen til 
+billig finansiering. I denne rapport gennemgår vi forskellige løsningsmodel-
+ler, der alle har sine fordele og ulemper. Finansieringsmodellerne vil kunne 
+kombineres og skabe hybrider, der er tilpasset den konkrete kontekst. 
+De aktuelle øko nomiske forhold gør det muligt at optage lån billigt. En for-
+udsætning for at lånene til klimatilpasningsprojekter er billige er, at lånta-
+gerne vurderes at have en høj kreditværdighed. I den forbindelse vil kommu-
+ner og staten kunne sikre høj kreditværdighed  ved at garantere lånene. I det 
+omfang kommuner og forsyningsselskabet påtager sig ansvar for klimatilpas-
+ningsprojekter, er den nuværende finansieringsmulighed gennem Kommu-
+neKredit attraktiv. 
+I rapporten gennemgås to udenlandske eksempler på finansiering. Vi viser at 
+finansieringsmodeller i Tyskland, Canada og Danmark er forskellig fra hin-
+anden. Eksempelvis fastlåses kystbeskyttelse i Tyskland til digeløsninger. I 
+Tyskland finansierer den føderale og lokale stat henved 90  % af kommende 
+digebyggerier. I Canada kan kommuner - og lignede administrative enhed er 
+- søge medfinansiering i fonde betalt af den fød erale og lokale stat. Både den 
+tyske og den canadiske løsning kan fungere som inspiration og som advarsel 
+i forhold til udviklingen af nye finansieringsmodeller i Danmark. 
+
+7 
+Summary 
+An obstacle for the implementation of climate adaptation projects is access to 
+cheap financing. In this report, we review various solutions, all of which have 
+their advantages and disadvantages. The described financing models can be  
+combined into hybrids that are adapted to the specific context. 
+The current financial conditions make it possible to take out very inexpensive 
+loans. A prerequisite for the loans for climate adaptation projects to be afford-
+able is that the borrowers are a ssessed to have a high credit rating. In this 
+connection, municipalities and the state will ensure high creditworthiness by 
+guaranteeing the loans. To the extent that municipalities and the utility com-
+pany take responsibility for climate adaptation projects, the current financing 
+option through KommuneKredit is attractive. 
+The report reviews two foreign financ ing examples. We show that financing 
+models in Germany, Canada, and Denmark are very different. For example, 
+coastal protection in Germany is locked into dike solutions as the federal and 
+local state funds up to 90 % of sea wall construction. In Canada, municipalities 
+- and similar administrative entities - can apply for co-financing in funds paid 
+for by the federal and local governments. Both the German and the Canadian 
+solutions can serve as an inspiration and as a warning in relation to the devel-
+opment of new financing models in Denmark. 
+
+ 
+8 
+1 Introduktion 
+Målsætningen om at holde den globale temperatur inden  for 1.5 C grad tem-
+peraturstigning i forhold til før industrielt niveau virker mindre og mindre 
+realistisk. De globale udledninger af drivhusgasser stiger fortsat og de nød-
+vendige politiske tiltag, der kunne understøtte en udvikling mod et nul-emis-
+sion-samfund udebliver på lokalt, regionalt og globalt plan ( IPCC, 2018; Pe-
+ters, 2018 Tokarska & Gillett, 2018). 
+Klimaet kommer til at forandre sig. I Danmark må vi forvente mere regn, og 
+hyppigere skybrud. Vi må forvente, at åer bliver til floder, og at kloak ker fly-
+der over. Vi må forvente, at havet stiger, at kysten år for år eroderer væk, og 
+at stormfloder presser vandet ind over havnekanten og ind over vores byer 
+(Thejll et al., 2020). 
+Hvis vi fortsat skal have et robust samfund, hvor borgere og virksomheder 
+kan være trygge i deres boliger og ved deres investeringer, er det helt nød-
+vendigt, at vi tilpasser os de kommende forandringer. Det er en umådelig stor 
+opgave, der ligger foran os. I Danmark har vi valgt, at det først og fremmest 
+er kommunerne, der skal løse udfordringerne for os, og at betalingen primært 
+skal komme fra dem, der vurderes at have ’nytte’ af klimaløsningen. Det kan 
+f.eks. være boligejere eller andre ejere af 
+fast ejendom, der ligger i oversvømmel-
+sesudsatte områder og som derfor vil 
+have ’nytte’ af et dige eller en anden 
+oversvømmelsesbeskyttelse. Det kan 
+også være at en kommune , eller evt. sta-
+ten vurderer, at der er tale om almeninteresse, f.eks. klimatilpasningen a f et 
+vigtigt byområde eller naturområde. 
+Det er vigtigt at være opmærksom på, at klimatilpasning er en udviklingspro-
+ces uden slutmål. Rammerne for klimatilpasning vil ændre sig i takt med kli-
+maforandringer, ændringer i samfundet og med fortsat mere og forh åbentlig 
+bedre viden. Klimatilpasningsløsningerne skal kunne håndtere, at klimafor-
+andringerne er et dynamisk problem, og at løsningerne vil skulle genbesøges 
+og revideres i takt med at vilkårene ændrer sig. Det kræver, at valgte løsnings-
+modeller er tilstrækkelig fleksible, så de kan tilpasses de ændrede vilkår (Arn-
+bjerg-Nielsen, 2020). Samtidig har løsningsmodeller en tendens til at blive ba-
+seret på tidligere løsningsmodeller. Det betyder grundlæggende, at når en løs-
+ningsmodel er valgt, er det svært at ændre til andre løsninger (Torfing, 2001). 
+Det er ligeledes vigtigt at forstå, at de negative konsekvenser af klimaforan-
+dringer opstår i et samspil mellem samfundet og klimaet. Den øgede risiko er 
+et resultat af samspillet mellem sårbarhed, eksponering og grad en af klima-
+påvirkning (Grøndahl et al., 2014). Øget risiko kan eksempelvis opstå som en 
+funktion af manglende planlægning og overblik, der tillader , at nye byområ-
+der placeres på arealer, der er udsatte i forhold til de eksisterende og kom-
+mende klimaforandringer. Det er således ikke kun ændringer i klimaet, der 
+udgør et problem, det er ligeledes udviklingen i samfundet, der skal klimatil-
+passes (Field et al., 2012). 
+Klimatilpasning er en proces der 
+ikke slutter. Finansieringsløsnin-
+ger skal være fleksible så de kan 
+håndtere nye situationer  
+
+9 
+1.1 Økonomien i klimatilpasning 
+Der er to grundlæggende økonomiske udfordringer i forbindelse med klima-
+tilpasning. Det drejer sig om ”hvem skal betale?” og ”hvordan skal vi betale 
+klimatilpasningsprojekterne?”. Det første spørgsmål retter sig mod hvem, der 
+skal bidrage økonomisk til klimatilpasningen og relaterer sig til en ansvars-
+fordeling. Det andet spørgsmål retter sig mod finansieringen af klimatilpas-
+ningen, og de muligheder, omkostninger og risici, der er forbundet med for-
+skellige finansieringsmodeller. I nogle tilfælde , er spørgsmålene afhængig af 
+hinanden, i andre tilfælde er de ikke. 
+I forbindelse med finansieringsspørgsmålet, bliver medfinansiering ofte taget 
+op i diskussionen blandt beslutningstagere. 
+Medfinansiering handler ikke om finansie-
+ring, men om bidrag. Medfinansiering er 
+grundlæggende et politisk spørgsmål, som er 
+blevet behandlet i en tidligere rapport i projektet ”Klimatilpasning på Tværs” 
+(se Fryd et al., 2021, s. 24). 
+Omdrejningspunktet for denne rapport er således at beskrive og vurdere, 
+hvorledes klimatilpasningsprojekter kan fin ansieres og udpege mulige løs-
+ningsforslag. 
+1.2 Hvad har betydning for hvor dyrt et lån er? 
+I forbindelse med finansieringsspørgsmålet , er et grundlæggende spørgsmål 
+”hvor dyrt bliver lånet?”. Omkostningerne i forbindelse med finansieringen 
+af klimatilpasningsprojekter afhænger af både långiver og låntager. Omkost-
+ningerne af et lån er en funktion af långivers alternativafkast og låntagerens 
+kreditværdighed. Alternativafkastet beskriver det afkast, som långiveren vil 
+kunne opnå ved at investere eller låne til anden siden. I gennemsnit vil det 
+alternative afkast være lig med markedsrenten, der er et udtryk for det sam-
+lede udbud og den samlede efterspørgsel efter kredit (Mishkin, 2007). I det 
+omfang långiveren ikke er bundet op af markedslogik, hvor långiver søger at 
+tjene penge til sin kreditforretning, behøver omkostningerne ved lånet ikke 
+følge markedsrenten. Staten eller kommunen kunne være en sådan långiver, 
+der kan sætte sig ud over generelle hensyn for afkast af kreditgivning.  
+Låntagerens kreditværdighed beskriver en vurdering af låntagerens evne til 
+at tilbagebetale et givent lån. I forbindelse med långivning er der altid en ri-
+siko for at låntageren ikke har mulighed for at betale tilbage . Risikoen for at 
+lånet misligholdes vil variere fra lånta-
+ger til låntager. Långiveren vil i den 
+forbindelse indarbejde risikoen for 
+misligholdelse i låneomkostningen 
+(Mishkin, 2007). Det betyder, at meget kreditværdige låntagere, såsom den 
+danske stat, kan optage lån meget billigt, mens mindre kreditværdige lånta-
+gere, såsom en person på offentlig forsørgelse, kun kan optage dyre lån med 
+høj rente. 
+Dynamikken, hvor mindre kreditværdige låntagere er tvunget til at optage 
+dyre lån, kan omgås, hvis lånet blive r garanteret af en tredjepart. Garantien 
+overfører risikoen til tredjepart, hvilket betyder, at långiveren kan tilbyde bil-
+ligere lån, da risikoen for misligholdelse er mindsket pga. tredjeparts garanti-
+stillelsen. I en klimatilpasningssammenhæng kunne staten, en kommune eller 
+Hvordan betaler vi for  
+klimatilpasning? 
+Lånetagers kreditværdighed har  
+betydning for hvor dyrt lånet bliver  
+
+ 
+10 
+et forsyningsselskab garantere lånet for låntageren. Det er vigtigt at være op-
+mærksom på, at den part , der garanterer et lån, vil have en omkostning, der 
+er lig med den risiko, de påtager sig. I det omfang lån garanteres for en lang 
+række låntagere, vil der være låntagere,  som vil misligholde lånet, og det vil 
+reflektere omkostningen ved at garantere lånet. 
+En anden faktor, der kan gøre et lån dyrt, er løbetiden for lånet. For långiveren 
+vil der være en omkostning forbundet med udlånet, der vægtes op mod ren-
+teindtægten. Jo længere lånet løber, jo større vil renteindtægten være. Det be-
+tyder, at lån med lang løbetid vil være dyrere end lån med kort løbetid 
+(Mishkin, 2007). Der er undtagelser til denne regel. Undtagelsen opstår i for-
+bindelse med stor usikkerhed omkring den generelle økonomiske udvikling. 
+I den forbindelse kan långivere have interesse i at binde deres midler i lån på 
+mellemlang sigt i forhold til at binde midler til kortsigtede lån (Field et al. , 
+2012). 
+Omkostningen ved at opt age lån er således en funktion af, hvem låntageren 
+og långiveren er. I afsnit 6 beskrives og analyseres finansieringsmodeller, der 
+hver for sig beskriver forskellige konstellationer af långivere og låntagere. 
+1.3 Den økonomiske krise og finansiering af  
+klimatilpasningsprojekter 
+Den globale økonomiske krise udløst af COVID-19-pandemien har presset na-
+tionalbanker og regeringer over hele kloden til at føre en særdeles aktivistisk 
+pengepolitik og ekspansiv finanspolitik (IMF, 2020). De pengepolitiske tiltag 
+har i 2020 øget den samlede mængde penge i hele verden i forsøget på at 
+sænke renten. Nationalbanker verden over har opkøbt statsobligationer og 
+virksomhedsobligationer i stor stil og solgt dem videre til en betydelig lavere 
+rente (IMF, 2020). Det har sikret, at finansielle intuitioner og investeringsban-
+ker er blevet presset over i aktiemarkedet for at finde højere afkast. Det har på 
+en gang sikret pæne stigninger på aktiemarkederne i både Danmark og på 
+globalt plan , efter de første betydelige fald i foråret 2020  (Nationalbanken, 
+2020).  
+I 2020 faldt de økonomiske aktiviteter med 3,6 % i Danmark og 2021 vil lige-
+ledes være påvirket (DØRS, 2020). Ud fra en klassisk økonomisk betragtning, 
+burde værdien af aktier samlet set falde , 
+når den økonomiske aktivitet falder. I 
+den nuværende situation har den førte 
+pengepolitik gjort, at værdien af aktierne 
+er steget, men samtidig at afkastet af vær-
+dipapirerne i gennemsnit er f aldet. Det betyder grundlæggende,  at samtlige 
+aktører - finansielle institutioner, investeringsbanker, pensionsselskaber, pri-
+vatpersoner – har vist sig at være villige til at acceptere et betydeligt lavere 
+afkast af deres investeringer end før krisen (Nationalbanken, 2020). Det bety-
+der samtidig, at investorer vil være åbne overfor nye former for investerings-
+objekter. Populært sagt: ”der er gået inflation i finansmarkederne og aktie-
+markederne”. I det omfang finansmarkederne og aktiemarkederne er koblet 
+til den generelle økonomi, kan vi forvente en mulig højre inflation fremadret-
+tet. For aktører, der skal ud at finansiere større klimatilpasningsprojekter, be-
+tyder det, at lån, der optages i den nærmeste fremtid, vil være relativt billige. 
+Det er værd at bemærke, at den økonomiske krise har været med til at for-
+stærke eksisterende pengepolitiske tiltag, der oprindeligt blev udviklet som 
+Renten er lav og klimatilpasning 
+bør være en del af en regerings- 
+ekspansiv finanspolitik. 
+
+11 
+svar på finanskrisen i 2008. Implikationerne er , at låntagning vil være billig i 
+al forudsigelig fremtid. 
+Den førte ekspansive fi nanspolitik har på kort sigt haft som målsætning at 
+begrænse tab af job og virksomhedskonkurser. Det er blevet gjort med opret-
+telse af støttepakker, der har sikret, at virksomheder har været i stand til at 
+fastholde ansatte i deres stillinger og sikret at virksomheder, der har mistet 
+omsætning på den korte bane, ikke har skullet dreje nøglen om. I forsøget på 
+at øge forbruget på den helt korte bane, har nogle lande anvendt såkaldte ’he-
+likopterpenge’, hvor penge uddeles til hele befolkningen (IMF, 2020). I D an-
+mark blev dette gennemført ved udbetaling af 1000 kr. til folk på overførsels-
+indkomster og udbetaling af administrativt opsparede feriepenge til folk i ar-
+bejde. På den længere bane kan den ekspansive finanspolitik føre til investe-
+ringer i det offentlige sundhedssystem, infrastruktur og i projekter,  der kan 
+begrænse udledningen af drivhusgasser. I denne sammenhæng kan større kli-
+matilpasningsprojekter, der mindsker risikoen for tab af værdier, ligeledes 
+indgå fint i projektporteføljen. Den økonomiske krise skaber mulighed for, at 
+staten vil have behov for at investere aktivt i projekter, der på sigt skaber 
+vækst og sikrer samfundets værdier. Der er en mulighed for, at staten relativt 
+nemt vil kunne finansiere klimatilpasningsprojekter, men denne mulighed 
+mindskes i takt med at den økonomiske krise bliver mindre dominerende.  
+1.4 Hvad skal en finansieringsmodel af klimatilpasnings- 
+projekter kunne? 
+En finansieringsmodel af klimatilpasningsprojekter skal først og fremmest 
+sikre billige lån. Dernæst bør finansieringsmodellen være nem at håndtere for 
+låntageren/-erne. Det betyder blandt andet, at det skal være administrativt 
+nemt at optage lån i forhold  til låntage-
+rens kompetencer. Ikke alle potentielle 
+låntagere i klimatilpasningsprojekter vil 
+have kompetencer til at vurdere finan-
+sielle produkter. Et kystsikringslag for et 
+mindre sommerhusområde eller en landmand med oversvømmelsesudsatte 
+marker, vil måske ikke have kompetencerne til at foretage en vurdering af 
+forskellige finansielle løsninger. I det omfang kommuner eller andre politiske 
+organisationer er involveret som låntagere, er det relevant at overveje, om kli-
+matilpasningsprojektet indgår i det of fentlige investeringsbudget og dermed 
+skal prioriteres på linje med andre offentlige opgaver. For at sikre politisk pri-
+oritering, kan det være nødvendigt at oprette en organisation, der har ansva-
+ret for at sikre finansiering. Endelig skal en finansieringsm odel for klimatil-
+pasningsprojekter kunne håndtere en meget varierende skala af klimatilpas-
+ningsprojekter. Spændet på størrelsen af projekter kan være så stort, at for-
+skellige finansieringsmodeller vil være relevante. 
+Lån skal være så billige som 
+muligt og administrative 
+nemme at optage  
+
+ 
+12 
+2 Mulige finansieringsmodeller 
+I de følgende afsnit vil en række finansieringsmodeller blive beskrevet og der-
+næst analyseret ud fra hvor billig låntagning vil være og hvor let finansie-
+ringsmodellen vil være at administrere. Finansieringsmodellerne vil ligeledes 
+blive vurderet ud fra, hvor nemt de kan tilpasses finansieringsbehovene i kli-
+matilpasningsprojekter. Det er vigtigt at være opmærksom på, at modellerne, 
+der bliver beskrevet, kan kombineres og dermed skabe hybridmodeller, der 
+er tilpasset specifikke problematikker. 
+2.1 Statsgarantimodellen 
+De store broprojekter fra de seneste årtier i Danmark er alle blevet finansieret 
+ved hjælp af statsgarantimodellen. I dag fungerer den statsgaranterede model 
+i forbindelse med det statsejede moderselskab Sund & Bælt, der ejer dattersel-
+skaber, der driver Storebælt, Øresund og den kommende Femern-forbindelse. 
+Et lignende set-up kunne etableres i forbindelse med større og mindre klima-
+tilpasningsprojekter. 
+I denne model bliver ansvaret for projektet 
+overdraget til et aktieselskab, der er 100  % 
+ejet af staten. Akti eselskabet får ansvaret for 
+at designe, finansiere, anlægge, drive og ved-
+ligeholde projektet. Det statsejede aktiesel-
+skab optager lån på de finansielle markeder 
+ved at udstede virksomhedsobligationer. Sta-
+ten stiller garanti for lånene og på den måde 
+tager staten risikoen. Givet den danske stats 
+høje kreditværdighed, giver denne løsning billige lån. Virksomhedsobligatio-
+nerne vil næsten blive opfattet som statsobligationer og omkostningen ved 
+lånene vil næsten være de samme. Statsobligationerne vil dog være en smule 
+billigere for låntageren end de statsgaranterede virksomhedsobligationer. 
+Obligationerne bliver udstedt løbende i konstruktionsfasen med forskellige 
+løbetider. På den måde undgår det statsejede aktieselskab en høj koncentra-
+tion af refinansiering, der er sårbar overfor uforudsete fluktuationer på de fi-
+nansielle markeder. 
+Statsgarantimodellen afhænger af indtægter fra brugerbetaling til både at 
+dække udgifter til afdrag, renter, driftsudgifter, reinvesteringer og evt. ud-
+bytte. Den største ulempe ved statsgarantimodellen er afhængigheden af bru-
+gerbetaling. Det kan være svært at forudsige antallet af brugere inden projek-
+tet sættes i drift. I det omfang at vurderingen af det fremtidige antal brugere 
+er forkert, kan staten være tvunget til at dække udgifterne i projektet. 
+Fordelen med statsgarantimodellen er, at staten bevarer kontrol gennem sit 
+ejerskab og kan udøve indflydelse på projektet i alle faser af projektets levetid. 
+Samtidig vil det statsejede aktieselskab have en tydelig missionsbeskrivelse , 
+som vil være mindre tydelig i statsfinansmodellen (se nedenfor). Statsgaran-
+timodellen, og herunder etableringen af det statsejede aktieselskab, sikrer 
+økonomisk uafhængighed og samtidig delvis autonomi fra andre politiske 
+prioriteringer. Det må forventes, at den delvise autonomi vil sikre ensidigt 
+fokus på optimering af drift, vedligehold refinansiering osv. af det specifikke 
+
+
+13 
+anlæg og/eller den specifikke opgave , som selskabet varetager. Der er den 
+ekstra fordel, at ansvaret ligger i den politisk udpegede bestyrelse og at folke-
+valgte politikere er isoleret fra eventuelle problemer. 
+I et klimatilpasningsperspektiv er elementer af statsgarantimodellen relevant 
+at overveje som en del af en mulig finansieringsmodel. Et statsejet aktiesel-
+skab, der udsteder statsgara nterede obligationer, vil givetvis kunne fungere, 
+også når det gælder klimatilpasning. Forskellen på statsgarantimodellen an-
+vendt i forbindelse med større broforbindelser og modellens anvendelse i for-
+bindelse med klimatilpasning vil være, at der ikke er en  naturlig indtægt for 
+løbende brug af klimatilpasningsløsningen. Man kunne forestille sig, at bolig-
+ejerne og ejerne af virksomhedsfaciliteter, der opnår en gevinst af projektet, 
+pålægges at betale løbende bidrag proportionalt med den gevinst, de har op-
+nået gennem projektet. En ramme for dette findes allerede i de gældende reg-
+ler for bidragsfordeling og kan f.eks. være afspejlet i en årlig (evt. differentie-
+ret) bidragssats baseret på den offentlige ejendomsvurdering (Fryd et al., 
+2021, s. 40). 
+Fordele  
+Staten har kontrol, men virksomheden har ansvaret. 
+Ingen politiske prioriteringer efter oprettelse af model-
+len. 
+Optag af billige lån – næste så billige som statsobligati-
+oner. 
+ 
+Ulemper  
+Afhængig af indtægt fra brugerbetaling – bidragsmodel 
+skal være helt tydelig. 
+ 
+ 
+2.2 Statsfinansmodellen 
+I statsfinansmodellen står staten selv for pro-
+jektet. Staten fremskaffer midler til dækning af 
+anlægssummen og driften på den årlige fi-
+nanslov. I praksis vil både anlægsarbejdet og 
+driften blive varetaget af private partnere på 
+grundlag af tidsbegrænsede kontrakter. I an-
+lægsfasen vil staten udbetale penge til entre-
+prenøren på basis af milepæle beskrevet i en 
+kontrakt. Forløbet omkring anlægsfasen af-
+hænger af størrelsen af projektet , og man kan forvente, at større projekter vil 
+have mange milepæle og strække sig over mange år, mens små projekter vil 
+have få milepæle (Sund & Bælt, 2014). 
+De udbetalte penge fra staten vil sandsynligvis blive finansieret af statsobli-
+gationer. Givet den danske stats høje kreditværdighed , vil omkostningen til 
+finansiering af projektet være så lav, som det kan lade sig gøre. Statsmodellen 
+er et forholdsvist simpelt administrativt set -up og det må forventes, at om-
+kostninger til kontrakter med mere vil være lave (Sund & Bælt, 2014). 
+Den største udfordring ved statsfinansmodellen er, at klimatilpasningspro-
+jekterne vil trække på de offentlige budgetter mange år frem i tiden. Det mind-
+sker folketingspolitikernes mulighed for at kunne prioritere frie midler i stats-
+budgettet år for år. Det kan føre til, at beslutninger omkring klimatilpasnings-
+projekter udsættes pga. manglende politisk bevågenhed og politisk priorite-
+ring i lyset af andre vigtige samfundsdagsordener. I tilfælde af at der går no-
+get galt i forbindelse med et klimatilpasningsprojekt, er politikerne  og em-
+
+
+ 
+14 
+bedsværket ansvarlige. Når en klimahændelse ødelægger ejendomme og kli-
+matilpasningen har været åbenlys mangelfuld, vil der være et politisk ansvar, 
+som kan være svært at løbe fra. Andre typer af finansieringsløsninger vil 
+kunne isolere politikere og embedsværket fra medansvar,  når et evt. skyld-
+spørgsmål skal placeres. 
+Fordele  
+Staten har kontrol. 
+Optag af billige lån – næste så billige som statsobligati-
+oner. 
+Ulemper  
+Politikere har ansvaret. 
+Politiske prioriteringer kan udskyde vigtige projekter. 
+ 
+2.3 Offentlig-Privat Partnerskab 
+Der findes mange eksempler på Offentlig-Private Partnerskaber (OPP) både i 
+Danmark og i udlandet. OPP kan udformes på mange forskellige måder. I et 
+klimatilpasningsperspektiv kan man forestille sig to grundlæggende finansie-
+ringsløsninger, en udvidet løsningsmodel og en simpel løsningsmodel. I den 
+udvidede model oprettes et konsor-
+tium af private virksomheder, der står 
+for hele projektet. Rammerne for et 
+udvidet OPP-projekt vil blive fastsat i 
+en kontrakt i samarbejde med offent-
+lige myndigheder. En kontrakt til et 
+udvidet OPP- projekt vil ofte have en 
+tidsramme, hvor ansvar og drift over-
+drages til den offentlige myndighed, 
+der enten kan vælge at påtage sig drif-
+ten eller lave en ny OPP- kontrakt for 
+denne del (Culp, 2011). 
+Et udvidet OPP -projekt er ofte anvendt i forbindelse med infrastrukturpro-
+jekter, hvor brugerbetaling dækker projektets udgiftsposter (Algarni et al.,  
+2007; Shaoul et al., 2006). I et klimatilpasningsprojekt, vil brugerbetaling ikke 
+være direkte anvendelig som i et infrastrukturprojekt, hvor brugerne er dem, 
+der benytter anlægget. Det kunne f.eks. være de bilister, der vælger at bruge 
+en betalingsvej. I et klimatilpasningsprojekt vil ”brugerne” skulle identifice-
+res og disse brugere vil ikke have mulighed fo r at fravælge at betale. Størrel-
+sen på betalingen kunne følge nytteprincippet, hvor brugerbetalingen er pro-
+portional med gevinsten af projektet. Den ufrivillighed og tvang af brugerbe-
+taling, som kan ligge i et udvidet OPP- klimatilpasningsprojekt, kan være en 
+forhindring for projektets gennemførsel. 
+I den simple løsning, vil OPP bestå udelukkende som et samarbejde i forhold 
+til finansiering. I denne sammenhæng, vil den offentlige myndighed stå for at 
+designe, bygge og drifte projektet. Finansiering kunne for egå ved at den of-
+fentlige myndighed udsteder obligationer, der opkøbes af eksempelvis pensi-
+onskasser, der kan tillade sig at have en lang tidshorisont på deres investerin-
+ger. Igen vil bidragsmodellen være afgørende for projektets succes. I det om-
+fang projektet bliver finansieret af brugerbetaling, vil der være et element af 
+tvang af borgere, der har gevinst af projektet. 
+Fortalerne for (udvidede) OPP oplister gerne en række fordele, der alle forud-
+sætter, at private virksomheder er bedre til at varetage proj ekter end offent-
+
+
+15 
+lige myndigheder. Antagelsen er, at private virksomheder ikke er bureaukra-
+tiske og har de rette kompetencer. Resultatet er, at private virksomheder er 
+bedre til at vurdere gevinsterne af projektet, herunder vurdere folks betalings-
+villighed. Virksomhederne er bedre til at overholde budgetter, at overholde 
+deadlines, levere kvalitet, overholde sikkerhedsstandarder, reducere miljø-
+problemer osv. (Boyer et al., 2016). Evidensen for at større private virksomhe-
+der ikke er bureaukratiske og til tide r mangler kompetence er ikke overbevi-
+sende (Everest-Phillips, 2015). Der synes heller ikke være belæg for at private 
+virksomheder generelt er bedre end offentlige virksomheder til at varetage 
+opgaver. Argumenterne for OPP synes langt overvejende at være ideologisk 
+funderet i en neoliberal dagsorden (Linder, 1999). 
+I tilfælde hvor der kan etableres fri konkurrence mellem forskellige virksom-
+heder, vil konkurrence føre til mest optimal udnyttelse af ressourcerne, jf. neo-
+klassisk økonomisk teori (Cowen & Tabarr ok, 2015). Det vil sige, at kun de 
+dygtigste virksomheder vil overleve konkurrence, mens de mindre dygtige 
+virksomheder, der måske lider af bureaukrati eller manglende kompetencer 
+går konkurs. Det er altså ikke den enkelte virksomhed, der sikrer en optimal  
+anvendelse af ressourcer, men det aggregerede resultat af konkurrence mel-
+lem mange virksomheder. 
+I tilfælde af manglende fri konkurrence, vil denne dynamik ikke opstå og pri-
+vate virksomheder vil ikke være bedre end offentlige virksomheder. Der er 
+på nuværende tidspunkt ikke et frit marked for klimatilpasning og derfor vil 
+man ikke kunne forvente, at den udvidede version af OPP vil være mere suc-
+cesfuld end andre typer af løsninger. Langt overvejende bør OPP anskues ud 
+fra en pragmatisk resultatorienteret betragtning, hvor projekter vurderes fra 
+sag til sag. 
+Den udvidede version af OPP vil ironisk nok være mere administrativt tung 
+at varetage. Det vil kræve en del ressourcer at få udarbejdet en kontrakt, der 
+indbefatter hele projektet. I den forbindelse bør man være opmærksom på, at 
+offentlige myndigheder og private virksomheder har forskellige normer og 
+målsætninger. Private virksomheder fokuserer på profit og intellektuel ejen-
+domsret, mens offentlige myndigheder fokuserer på gennemsigtighed, ens 
+behandling a f borgere og vidensdeling. Disse forskellige fokuspunkter kan 
+medføre konflikt (Boyer et al., 2016). Der kan samtidig være en ubalance i vi-
+densniveau mellem højt specialiserede virksomheder og offentlige myndig-
+heder, hvor virksomheden eksempelvis kan sikre uforholdsvis gode vilkår 
+skrevet ind i kontrakten. I forbindelse med OPP , bør den offentlige myndig-
+hed være lige så kompetent som deres private samarbejdspartnere. 
+Den udvidede OPP har den fordel, at ansvaret er udliciteret til private virk-
+somheder. I tilfælde af manglende succes,  vil ansvaret ligge på OPP- konsor-
+tiet og den offentlige myndighed vil kunne gribe ind i projektet via OPP-kon-
+trakten. Både den udvidede og den simple version af OPP vil føre til en rela-
+tivt dyr finansiering. Låntagerne vil være pr ivate borgere og virksomheder, 
+der vil have en lavere kreditværdighed end staten. I det omfang at staten vil 
+gå ind og lave lånegaranti, vil finansiering kunne gøres billigere. 
+
+ 
+16 
+Fordele  
+Klart defineret ansvar. 
+Muligvis mindre bureaukrati. 
+ 
+Ulemper  
+Manglende konkurrence, et neoliberalt projekt. 
+Vigtigt at kontrakten bliver udformet præcist. 
+Forskellige prioriteter i det offentlige og i private virk-
+somheder. 
+Dyre lån. 
+Bidragsmodel skal udformes… mere bureaukrati. 
+ 
+2.4 Privat-Privat-Partnerskab 
+I visse tilfælde kan klimatilpasningsprojektet 
+være igangsat af private organisationer som 
+f.eks. kystsikringslag. I denne sammenhæng 
+kan et klimatilpasningsprojekt foregå uden at 
+offentlige myndigheder inddrages med undta-
+gelse af tilladelser og lignende. Den private or-
+ganisation kan stifte et selskab, der varetager 
+konstruktionen, vedligeholdelsen og finansie-
+ringen af klimatilpasningsprojektet. Projektet 
+vil kunne finansieres ved at udstede virksomhedsobligationer. 
+Denne finansieringsløsning vil være relativt dyr og vil afhænge af virksom-
+hedsejernes kreditværdighed. Et kystsikringslag bestående af boligejere i før-
+ste række, vil sandsynligvis enten have formue eller have en høj indkomst. På 
+den måde vil kreditværdigheden være højere end gennemsnittet af den dan-
+ske befolkning. 
+En privat-privat-partnerskabs-model vil kræve, at det er muligt at organisere 
+berørte borgere om en fælles løsning. Det er en svaghed ved modellen og kan 
+i mange tilfælde resultere i manglende initiativ. Udfordringen ligger i, at en 
+borger eller virksomhed, der har gevinst af et klimatilpasningsprojekt, ikke 
+har nogen gevinst ved at bidrage til projektet – specielt ikke hvis forventnin-
+gen er, at projektet vil blive gennemført uanset egen bidrag. Det kan altid 
+bedre betale sig at lukrere på andres  indsats, og hvis alle har den indst illing, 
+så sker der ikke noget. 
+Fra et offentligt beslutningstagerperspektiv er et privat-privat-partnerskab at-
+traktivt, da løsningen ikke kræver, at beslutninger tages på et politisk niveau. 
+Ansvaret er klart defineret og manglende succes peger tilbage på det private 
+partnerskab. 
+Fordele  
+Drevet af borgere. 
+ 
+Ulemper  
+Dyre lån. 
+Det er svært for borgere at organisere. 
+Kan resultere i for lidt og for sen klimatilpasning. 
+ 
+
+
+17 
+2.5 Innovationsløsning 
+Klimatilpasningsprojekter koster generelt 
+mange penge at gennemføre. Når klima-
+tilpasningsprojekter skal gennemføres, er 
+det relevant at undersøge alternative mu-
+ligheder for bidrag og finansiering af pro-
+jekterne. I den forbindelse kan innovative 
+finansieringsløsninger af andre store  in-
+frastrukturprojekter fungere som inspira-
+tion. Metrobyggeriet i København er ble-
+vet og bliver finansieret af salg af grunde 
+i Ørestaden og grunde langs Københavns Havn. Salget og byudviklingen bli-
+ver foretaget af arealudviklingsselskabet By & Havn, der e r ejet 95 % af Kø-
+benhavns Kommune og 5 % af staten. By & Havn har således finansieret me-
+trobyggeriet uden at belaste offentlige investeringsbudgetter og kan på den 
+måde anses som en succes (By & Havn, 2020a).  
+Der er f lere udfordringer ved By & Havn -modellen. Den værdi som By & 
+Havn har skabt , kunne lige så godt være gået til andre formål, f.eks. bedre 
+skoler, plejehjem og rekreative områder i København. Ideen om at sælge 
+grunde gennem et selskab ejet af det offentlige ville sandsynligvis også være 
+sket uden behovet for et metrobyggeri. Det er en politisk beslutning at an-
+vende indtægterne for salg af grunde til at bygge metrobyggeriet . Pengene 
+kunne være brugt på alle mulige andre prioriteringer. En anden problemstil-
+ling er, at behovet for finansiering af metrobyggeriet har haft betydning for 
+den by, som er opstået på baggrund af grundsalgene. Grundlæggende har 
+ejendomsudviklere fået lov til at bygge bygninger med mange bolig-  og er-
+hvervskvadratmeter pr. grundarealenhed. I det omfang værdiskabelsen for 
+By & Havn havde været mindre presserende, kunne andre målsætninger som 
+f.eks. bykvalitet og byliv have fået en højere prioritet (Majoor, 2015).  
+By & Havn er også involveret i Lynetteholmen, der er planlagt som en ny by-
+del i den nordøstlige del af Københavns Havn. De første ideer til Lynettehol-
+men kom ud af et behov for at sikre København mod stormflod fra nord og 
+samtidig have et sted at deponere overskudsjord fra udgravninger i forbin-
+delse med forskellige typer af anlægsarbejde i København. Ideen var således 
+at bygge et dige. Når man nu var i gang, kunne man lige så godt bygge nogle 
+huse oven på diget og dermed få finansieret dele af eller hele di gebyggeriet 
+ved at omdanne et restprodukt (jord) til værdigenererende byggegrunde gen-
+nem opfyldning af havnebassinet (Københavns Kommune, 2011). I 2020 er 
+ideen blevet til Lynetteholm, en bydel med plads til 35.000 beboere og lige så 
+mange arbejdspladser ( By & Havn, 2020b). På den måde er klimasikringen 
+koblet med andre politiske målsætninger, såsom behovet for flere boliger i 
+København. Det betyder, at det kan blive svært at adskille den ene målsæt-
+ning fra den anden. Derudover har projektet sin egen selvforstærkende logik. 
+Lynetteholmen vil have behov for adgang for bydelens kommende beboere 
+og derfor skal der være en metrostation og en havnetunnel osv. (Københavns 
+Kommune, 2020; Vejdirektoratet, 2020). Det oprindelige behov kan i sidste 
+ende komme til at spille en ganske lille rolle. Nye udgifter, såsom en havne-
+tunnel, kan risikere at gøre Lynetteholmen for dyr og dermed falder hele pro-
+jektet, inklusive den oprindelig idé om at klimasikre København mod storm-
+flod fra nord. 
+Klimatilpasningsprojekter vil i nogle tilfælde kunne benytte sig af en By & 
+Havn-model. Fordelen ved en sådan løsning er, at projektet ikke vil belaste 
+
+
+ 
+18 
+offentlige investeringsbudgetter og behovet for politiske prioriteringer af en-
+kelte projekter kan undgås. Udfordringerne ved en By & Havn -model er, at 
+grundsalg sandsynligvis kun vil kunne anvendes i de største danske byer. 
+Samtidig vil projektet kunne skabe såvel negative som positive afledte effek-
+ter på andre politiske målsætninger, som i tilfældet af By & Havn. I det om-
+fang grundsalg vil v ære en lukrativ forretning for en kommune, kan det un-
+dre, at sådan en aktivitet ikke allerede er i gang. Det betyder, at en innovati-
+onsmodel som By & Havn-løsningen ikke nødvendigvis er en mulighed i selv 
+større byområder. Derudover kan der være etiske overvejelser om, hvorvidt 
+denne tilgang kan føre til et A -hold og et B -hold inden for klimatilpasning i 
+forhold til, hvor det kan betale sig at investere i klimatilpasning ud fra et mar-
+kedsmæssigt perspektiv. 
+Fordele  
+Ingen ekstra omkostninger. 
+Ansvar ligger i virksomhed, der er ejet af staten. 
+ 
+Ulemper  
+Fungere kun hvor der er efterspørgsel efter grunde. 
+Kan have negative afledte effekter for byudviklingen. 
+Andre dagsordner kan drive projekterne. 
+2.6 Genforsikringsmodellen 
+Genforsikringsmodellen blev først formu leret af Ole Larsen, der er sekretari-
+atschef i den regionale udviklingsorganisation CALL Copenhagen. Ideen blev 
+udviklet ud fra den betragtning, at stigende risiko for klimaforandringer vil 
+have betydning for forsikringsselskaberne i Danmark. Forsikringsse lskabers 
+forretningsmodel er baseret på, at forsikringsselskaberne kender risikoen 
+bedre end forsikringstageren og at forsikringsselskaberne evner at forholde 
+sig rationalt til risikoen. Det eller de forsikringsselskaber, der er bedst til at 
+vurdere risikoen, vil kunne sætte forsikringspræmien korrekt og vil dermed 
+kunne levere et forsikringsprodukt, der både kan konkurrere med andre sel-
+skaber, mens forsikringspræmien samtidig er høj nok til at sikre forsikrings-
+selskabet indtjening. For forsikringsselskaber ne er det ikke så meget, at risi-
+koen er høj i forbindelse med klimaforandringerne, men mere at det er svært 
+at vurdere risikoen. Forsikringsselskaberne kan altid hæve forsikringspræmi-
+erne for forsikringstagerne , hvis forsikringsselskaberne vurde rer at risi koen 
+har ændret sig. 
+I det omfang at risikoen 
+kontinuerligt fejlbedøm-
+mes af et forsikringssel-
+skab, vil selskabet gå 
+konkurs. Klimatilpas-
+ningsprojekter styrer ri-
+sikoen, hvilket er en ge-
+vinst for forsikringssel-
+skaberne. Denne gevinst 
+burde gøre forsikrings-
+selskaberne villige til at 
+medfinansiere klimatil-
+pasningsprojekter. Pro-
+blemet er blot, at konkur-
+rencen mellem forsik-
+ringsselskaberne forhindrer dem i at finansiere et klimatilpasningsprojekt. 
+Hvis et forsikringsselskab betaler for et klimatilpasningsprojekt, må selskabet 
+dele gevinsterne med alle sine konkurrenter, men alene påtage sig omkost-
+
+
+19 
+ningerne. Alternativt vil alle forsikringsselskaberne skulle deles om omkost-
+ningerne, men her opstår samme problem som beskrevet i Privat-Privat-Part-
+nerskabs afsnit 2.4. Selskaberne har alle interesse i at et klimatilpasningspro-
+jekt gennemføres, men det vil være fordelagtigt ikke at bidrage til løsningen, 
+hvis forventningen er, at projektet vil blive gennemført uanset egen bidrag. 
+Hvis der kun fandtes et forsikringsselskab i Danmark, ville forsikringsselska-
+bet have et langt større incitament til aktivt at medfinansiere klimatilpas-
+ningsprojekter. På sin vis er det næsten sådan forsikringsselskaberne er orga-
+niseret i andet led. Forsikringsselskaberne er selv forsikret gennem genforsik-
+ringsselskaber. Genforsikring sikrer forsikringsselskaber mod udsving i for-
+sikringskrav, der i nogle år kan lægge betydelige beslag på enkelte selskaber 
+eller hele sektorens forsikringsmidler. Voldsomme klimahændelser, såsom 
+stormfloden Bodil i 2 013 eller ekstremregn i sommeren 2011 i København, 
+kunne være eksempler på hændelser, der har haft betydning for udsving i 
+forsikringskrav. I Danmark består markedet for genforsikring af to selskaber. 
+Disse genforsikringsselskaber vil have samme interesse som forsikringssel-
+skaberne - hvis risikoen er styret, så er det generelt nemmere at sætte den kor-
+rekte forsikringspræmie. Genforsikringsselskaberne vil have nemmere ved at 
+samarbejde, fordi de kun er to selskaber og fordi Danmark kun dækker et lille 
+område i deres forsikringsforretninger. Det betyder, at genforsikringsselska-
+berne vil have nemmere ved at medfinansiere enten større klimatilpasnings-
+projekter eller en portefølje af mindre klimatilpasningsprojekter. 
+Denne finansieringsmodel kan videreudvikles, s åledes at genforsikringssel-
+skaberne finansierer klimatilpasningsprojekter ud over gevinster ved at styre 
+risikoen. Denne videreudvikling kræver, at risikoen for klimahændelser kan 
+beregnes nogenlunde præcist og forsikringspræmierne kan fastlægges deref-
+ter. Det kræver samtidig, at forsikringsselskaberne har mulighed for at fast-
+fryse forsikringspræmierne over en periode. 
+Denne type model handler om at lade forsikringstagerne betale for klimatil-
+pasningen gennem deres forsikringspræmier. Løsningen går ud på at få gen-
+forsikringsselskaberne til at betale for klimatilpasningsprojekter mod at eksi-
+sterende forsikringspræmier fastholdes. Ændringen i risikoen og fastholdel-
+sen af genforsikringspræmien vil give et overskud, der kan betale for klima-
+tilpasningsprojekter. G enforsikringspræmien vil blive reflekteret i forsik-
+ringspræmierne, som borgere og virksomheder skal betale til forsikringssel-
+skaberne. På den måde vil det være de borgere og virksomheder, der oplever 
+en reduceret risiko, som vil komme til at betale for kli matilpasningsprojek-
+terne gennem deres forsikringspræmier. 
+For at denne betalingsmodel kan lykkes,  vil det kræve, at forsikringsselska-
+berne og udbyderne af klimatilpasningsprojekter kan vurdere risikoen i for-
+bindelse med klimaforandringerne præcist nok til at overskuddet af klimatil-
+pasningsprojekter kan bedømmes. For at denne løsning kan realiseres, vil det 
+nok kræve, at ’business casen’ udforskes, efterprøves og opstilles. Genforsik-
+ringsmodellen har den helt oplagte fordel, at dem, der har gevinsterne af kli-
+matilpasningsprojekterne, kommer til at betale. Samtidig er modellen mar-
+kedsdrevet og kræver ingen offentlige midler. I det omfang modellen kan im-
+plementeres, vil det ligeledes give anledning til få konflikter mellem borger 
+og kommunerne. Løsningen vil være så teknisk, at ganske få borgere og virk-
+somheder vil have ressourcer til at gennemskue forretn ingsmodellen - hvad 
+man ikke forstår, stiller man spørgsmålstegn ved. Det som forsikringstagere 
+
+ 
+20 
+vil møde på forsikringsmarkedet er en række konkurrenceudsatte produkter, 
+der alle inkluderer en genforsikringsklimatilpasningsomkostning.  
+Fordele  
+Markedsdrevet løsning. 
+Sikrer at dem der har gevinsten, betaler. 
+Intet politisk ansvar for finansiering. 
+ 
+Ulemper  
+Kræver at risikoen kan bedømmes præcist. 
+Business-casen bør afdækkes yderligere. 
+ 
+2.7 Klima- og kystfond 
+Dansk Industri har foreslået en statelig dansk klima- og kystfond, der kan 
+være med til at finansiere klimatilpasningsprojekter. Midlerne i den foreslå-
+ede klima- og kystfond skal bl.a. komme fra et indskud på 1 mia. kr. fra fi-
+nansloven og ved at hæve stormflodsafgiften og stormfaldsordningen fra 
+hhv. 60 kr. til 100 kr. og fra 50 kr. til 90 kr. pr. brandforsikringspolice pr. år. 
+Afgiftsstigningerne vil føre til omkring 180 mio. kr. i øgede indtægter til 
+Stormrådet, som Stormrådet vil kunne føre videre til klima - og kystfonden. 
+Over tid vil fondens virke øge sikringsniveauet, hvilket vil føre til et overskud 
+for Stormrådet på grund af faldende udgifter til dækning af skader. Dette 
+overskud bliver ligeledes foreslået overført til klima- og kystfonden. 
+Dansk Industri foreslår, at klima - og 
+kystfonden kan finansiere op til 50 % af 
+et klimatilpasningsprojekt. Tilskuddets 
+størrelse foreslås at variere i forhold til 
+hvor effektiv klimatilpasningsprojektet 
+er til at håndtere risiko og hvor holdbar tilpasningsmetoden vurderes at være. 
+Derudover foreslås, at en betingelse for medfinansiering fra k lima- og kyst-
+fonden vil være, at der udarbejdes en kommunal plan for projektet samt en 
+samarbejdsplan med spildevandsselskaberne.  
+Dansk Byggeris forslag vil ikke håndtere hele finansieringsudfordringen, men 
+vil muligvis kunne reducere omfanget af udfordringen, således at nødven-
+dige projekter kan igangsættes. Medfinansiering af klimatilpasningsprojekter 
+vil ligeledes bid rage til, at projekterne reelt efterspørges af grundejerne, der 
+opnår gevinsterne ved projektet. 
+Det politiske ansvar vil fortsat ligge hos kommuner og forsyningsselskaber. 
+Problemet med finansiering er ikke løst fuldstændig, men Dansk I ndustris 
+forslag kan være en del af en løsning. 
+2.8 Finansiering med pant i ejendom 
+Den tidligere borgmester for Gribskov 
+Kommune og nuværende medlem af 
+Folketinget, Kim Valentin, for eslog for 
+år tilbage, at der blev oprettet en selv-
+ejende fond, der kunne finansiere klimatilpasningsprojekter. Den selvejende 
+fond skulle operere inden for den nuværende lovgivning, hvilket betyder,  at 
+låntagerne ville være grundejere, der indgår som en del af projektet. For at 
+sikre en lav låneomkostning foreslog Kim Valentin, at grundejerne kan låne 
+med pant i deres ejendom. Denne løsning minder meget om den løsning, som 
+Roskilde Kommune er kommet frem til i forbindelse med kystsikringen af Jyl-
+linge Nordmark. Borgerne i Jyllinge Nordmark kan enten betale kontant eller 
+Dansk industri ser et behov for  
+statslige medfinansiering betalt  
+gennem afgifter  
+Roskilde Kommune accepterer 
+pant i ejendom som betaling  
+
+21 
+optage kommunegaranteret lån. Det kommunegaranterede lån kan indefryses 
+på lige vilkår med ejendomsskatten for pensionister. Det betyder, at borgerne 
+først oplever et økonomisk tab i forbindelse med fraflytning af ejendommen. 
+Denne type finansiering af klimatilpasningsprojekter vil foregå på markeds-
+vilkår, men på grund af ejendomsværdipanten vil kreditværdigheden af lån-
+tagerne være høj – med forbehold for hvor i landet denne løsning anvendes. 
+Omkostningerne vil dog sa mlet set være højere, end hvis lånene var statsga-
+ranterede eller hvis obligationerne blev udstedt som statsobligationer.  
+2.9 KommuneKredit 
+Mange k limatilpasningsprojekter for etaget af kommuner og forsyningssel-
+skaber bliver i dag finansieret af ved hjælp af Ko mmuneKredit, der er kom-
+munernes og regionernes egen kreditforening. Lånene er garanteret solidarisk 
+af KommuneKredits medlemmer, der består af samtlige 98 kommuner og fem 
+regioner i Danmark. Obligationerne som KommuneKredit udsteder vurderes 
+at være meget sikre. Det betyder, at lån optaget i KommuneKredit kan finan-
+sieres med en relativt lav rente (KommuneKredit, 2020).  
+KommuneKredit er reguleret af Erhvervs-
+ministeriet via en lånebekendtgørelse. På 
+nuværende tidspunkt kan lån kun gives til 
+offentlige ikke -kommercielle og ikke -kon-
+kurrenceudsatte sektorer. For at et lån kan gives, skal projektet være offentligt 
+drevet og projektet må hverken give overskud eller underskud (Kommune-
+Kredit, 2020). 
+I dag kan projekte r, der ligger inden for forsyningsselskabernes ansvarsom-
+råde, blive finansieret af KommuneKredit. Det betyder bl.a., at projekter, der 
+relaterer sig til kystsikring drevet af private , ikke umiddelbart er dækket af 
+ordningen. En opdatering af Erhvervsminist eriet lånebekendtgørelse kunne 
+eventuelt være en løsning for projekter, der falder uden for forsyningsselska-
+bernes ansvarsområde. 
+KommuneKredit sikrer billig 
+finansiering  
+
+ 
+22 
+3 International organisering og  
+finansieringsløsninger 
+De fleste vestlige demokratier har klimatilpasningspolitikker, hvor ente n lo-
+kale, regionale, statslige eller føderale organisationer har hele eller dele af an-
+svaret for klimatilpasning. Langt overvejende er ansvaret for klimatilpasning 
+pålagt lokale og regionale organisationer. Konsekvensen er, at det er lokale 
+og regionale offentlige og private organisationer, der har ansvaret for at finan-
+siere klimatilpasningstiltag i de fleste vestlige demokratier.  Der er dog und-
+tagelser, eksempelvis har Can ada, Tyskland, Frankrig og Storb ritannien alle 
+statslige finansieringsprogrammer til kystsikring, der dækker hele eller dele 
+af etablering og vedligeholdelsesomkostningen (OECD, 2019). I det følgende 
+gennemgås to eksempler på, hvorledes disse statslige finansieringsprogram-
+mer fungerer. 
+3.1 Kystbeskyttelse i Tyskland 
+Organiseringen og finansie ringen omkring kystbeskyttelse i Tyskland er ho-
+vedsageligt fokuseret på konstruktion og vedligeholdelse af diger. Det snævre 
+fokus på diger har betydet - og betyder - at andre klimabeskyttelsesløsninger 
+bliver underprioriteret til fordel for digeløsninger. Den manglende fleksibili-
+tet i forhold til løsningsmodeller vil sandsynligvis føre til mindre optimale 
+løsninger i konkrete tilfælde, hvor naturbaserede løsninger (Morris et al.,  
+2018), planlægning og kysttilbagetrækning ville være en bedre løsning samlet 
+set (Borsten et al., 2020).  
+Den tyske stat differentierer mellem statsdiger og regionale diger. Statsdi-
+gerne designes til at overholde en 200-årshændelse, mens det er op til en lokal 
+vurdering, hvad et regionalt dige skal kunne håndtere. Kystplanlægningen af 
+statsdiger bliver 100 % finansieret af den føderale stat. Etableringsomkostnin-
+gerne til statsdiger bliver dækket med 70  % af den føderale stat og med 30  % 
+af den lokale tyske stat (bund). Ansvaret og udgifterne til vedligeholdelse af 
+statsdigerne tilfalder 100  % den lokale stat. De regionale diger bliver gerne 
+igangsat i et sammen spil mellem kommuner og lokale v and- & jordforenin-
+ger. De regionale diger bli ver finansieret af de føderale og  lokale stater med 
+90 % i forhold til investeringsomkostningerne og med 30 % i forhold til vedli-
+geholdelsesomkostningerne. Den/de lokale kommuner skal finansiere 10  % 
+af investeringsomkostningerne, og de lokale vand - & jordforeninger skal fi-
+nansiere 70 % af vedligeholdelsen af de regionale diger. Finansiering af dige-
+projekterne sker over de føderale statsskatter og lokale statsskatter. Kommu-
+nernes omkostning til de regionale diger går over de kommunale budgetter. 
+De lokale vand- og jordforeninger har udgifter til vedligeholdelse af digerne. 
+Indtægterne til finansiering går gennem afgifter, som foreningerne kan på-
+lægge borgere og virksomheder, der har 
+gevinst af diget. Forskellen på statsdiger 
+og regionale diger afgøres af, om diget re-
+sulterer i ”generel velfærd”. Det er en vag 
+definition, hvilket giver konflikt. Kom-
+muner, lokale borger og virksomheder har interesse i, at de lokale diger bliver 
+defineret som statsdiger, mens den føderale og lokale stat har modsatrettet 
+interesse (Wolff et al., 2016). 
+I Tyskland finansieres kystbe-
+skyttelse af staten og der er over-
+blik over klimatilpasningstiltag 
+
+23 
+Organiseringen og finansieringen omkring kystbeskyttelse er tydeligvis base-
+ret på historiske stiafhængighed – hvor tidligere løsninger også bliver fremti-
+dens løsninger. Det er en styrke, at der ligger en ramme for finansiering af  
+kystbeskyttelse, og at omkostningerne til kystbeskyttelse ikke i nævneværdig 
+grad pålægger lokalsamfundet omkostninger. På den måde udgør økonomi 
+ikke et stort problem for at få lokalsamfundet til at støtte digeprojekter. Pro-
+blemet med den tyske løsning er, at den mangler fleksibilitet i forhold til løs-
+ninger, og den utydelige definition af stats- og regionale diger er problemati-
+ske. Der kan ligeledes være en udfordring med manglende lokal opbakning 
+til digeprojekter, som vedtages uden at inddrage lokalbefolkningen. Det mod-
+satte kan ligeledes være et problem, hvor lokale ønsker til kystbeskyttelse ikke 
+bliver prioriteret fra centrale offentlige instanser. 
+3.2 Klimatilpasning i Canada 
+Den canadiske stat har oprettet en national fond -  ”National Disaster Mitiga-
+tion Program” - som giver provinser eller territorier mulighed for at søge om 
+medfinansiering til klimatilpasning. Midler fra fonden kan videreformidles til 
+kommuner og andre offentlige og private organisationer, NGO og stammeråd 
+(NDMP, 2021). Mindre lokalsamfund kan ligeledes søge midler til klimatil-
+pasning finansieret i ”New Building Canada Fund” (NBCF, 2021). Den føde-
+rale stat har ligeledes etableret en fond baseret på beskatning af benzin – ”Gas 
+Tax Fund”- hvor midlerne bl.a. kan anvendes til klimatilpasn ing.  For at en 
+kommune kan søge midler i ” Gas Tax Fund” skal kommunen have en bære-
+dygtighedsplan (Dupuis, 2016).   
+Under de føderale støtteordninger, har provinsregeringerne i Canada nedsat 
+andre fonde, som offentlige og private organisationer kan søge (OECD, 2019). 
+Eksempelvis kan kommuner på øen Nova Scotia søge midler i to fonde på 
+kontoret for kommunale anliggender og nødstyring ”Emergency Manage-
+ment Office of the Department of Municipal Affairs”. Fondene dækker bl.a. 
+investeringer i infrastruktur, der mindsker risikoen for oversvømmelse for 
+både stormflod, skybrud og floder.  
+Det er gældende for alle de forskellige 
+fonde i Canada, at der er tale om medfi-
+nansiering af projekter. Det er kommu-
+nerne eller sammenlignelige organisatio-
+ner, der har ansvaret for at projekter gen-
+nemføres og vedligeholdes. Kommunerne vil således være nød t til at optage 
+lån på markedsvilkår. Nogle af kravene til fondsansøgningerne kræver spe-
+ciel viden og kræver ekstern rådgivning (Dupuis, 2016). De mange fondsmu-
+ligheder kan ud fra en overfladiske betragtning se ud som om , det skaber 
+mindre administration, m en fondsordningerne kan sagtens resultere i væ-
+sentlig mere administration og bureaukrati, fordi kommunerne skal rette ind 
+efter de forskellige fondes  krav til ansøgerne og krav om dokumentation. Et 
+måske endnu større problem ved den canadiske løsning er, a t der ikke er no-
+get overblik over, om medfinansieringen er tilstrækkelig for at imødekomme 
+nuværende og kommende udfordringer med at tilpasse sig klimaet. Der er 
+således høj risiko for at kommunerne i Canada underinvestere i klimatilpa s-
+ning pga. af for få midler. 
+I Canada kan kommuner opnå 
+medfinansiering fra staten og 
+provinsregeringerne  
+
+ 
+24 
+4 Opsamling 
+En vigtig stopklods for gennemførslen af klimatilpasningsprojekter er adgan-
+gen til billig finansiering. I denne rapport har vi gennemgået forskellige løs-
+ningsmodeller, der alle har sine fordele og ulemper. Det er vigtigt at være 
+opmærksom på, at løsningerne kan kombineres og dermed skabe hybridmo-
+deller, der er tilpasset specifikke projekter. Fælles for flere af finansieringsløs-
+ningerne er, at der er behov for at vurdere og evt. opdatere lovgivningen på 
+området. De aktuelle økonomiske forhold gør det muligt at optage lån billigt. 
+En forudsætning for at lånene til klimatilpasningsprojekter er billige er, at lån-
+tagerne vurderes at have en høj kreditværdighed. I den forbindelse vil kom-
+muner og staten kunne sikre høj kreditværdighed ved at garantere lånene. 
+De to udenlandske eksempler viser , at finansieringen kan gribes an på væ-
+sentlig forskellige måde, der både har fordele og ulemper. I Tyskland fastlåses 
+kystbeskyttelse til digeløsninger . Til gengæld udgøre finansiering ikke en 
+stopklods for kommende kystbeskyttelsesprojekter. I Canada bliver klimatil-
+pasningsprojekter finansieret gennem forskellige støtteordninger, der dækker 
+dele af udgiften til projekter. Den canadisk tilgang sikrer på ingen måde billig 
+finansiering for den del af projektet, som ikke dækkes af de statslige fonde.  I 
+en dansk kontekst sikre r KommuneKredit, at klimatilpasningsprojekter kan 
+finansieres billigt, hvis projektet styres af kommunerne. 
+
+25 
+5 Referencer 
+Algarni, A. M., Arditi, D. & Polat, G. , 2007: Build-operate-transfer in infra-
+structure projects in the United S tates. Journal of Construction Engineering 
+and Management, 133(10):728–735. 
+Arnbjerg-Nielsen, K., 2020: Panta Rhei-non-stationarity in planning, design-
+ing, and operating urban drainage syste ms. Doctoral thesis. Department of 
+Environmental Engineering. Danish Technical University. 
+Boston, J., Panda, A. & Surminski, S.,  2020: Designing a funding framework 
+for the slow-onset impacts of climate change: insights from recent experiences 
+with coastal retreat. Centre for Climate Change Economics and Policy Work-
+ing Paper, 373. 
+Boyer, E.J., Van Slyke, D.M. & Rogers, J.D., 2016: An empirical examination of 
+public involvement in public-private partnerships: Qualifying the benefits of 
+public involvement in  ppps. Journal of Public Administration Research and 
+Theory, 26(1):45–61. 
+Cowen, T. & Tabarrok, A., 2015: Modern principles of microeconomics. Mac-
+millan International Higher Education. 
+Culp, G., 2011: Alternative project delivery methods for water and wastewater 
+projects:  Do they save time and money? Leadership and Management in En-
+gineering,11(3):231–240 
+Dupuis, J., 2016: “The Gas Tax Fund: Chronology, funding and agreements”, 
+Library of Parliament, Ottowa, Ontario. Tilgængelig via:  
+https://lop.parl.ca/staticfiles/PublicWebsite/Home/ResearchPublicati-
+ons/InBriefs/PDF/2016-99-e.pdf 
+DORS, 2020: Dansk Økonomi efterår 2020. Technical report, De Økonomiske 
+Råds Sekretariat. 
+Everest-Phillips, M. (2015). Is the private sector more efficient? A cautionary 
+tale. Singapore: UNDP Global Centre for Public Service Excellence 
+Field, C.B., Barros, V., Stocker, T.F. & Dahe, Q., 2012:  Managing the risks of 
+extreme events and disasters to advance climate change adaptation: special 
+report of the intergovernmental panel on climate change. Cambridge Univer-
+sity Press. 
+Fryd, O., Panduro, T.E., Horn -Petersen, L., Vejre, H. &  Anker, H.T.,  2021: 
+Hvem s kal betale? Bidragsmodeller for klimatilpasning i kystområder og 
+vandoplande. IGN Rapport, marts 2021. Institut for Geovidenskab og Natur-
+forvaltning, Københavns Universitet. 
+Greenwood, R., Hanson, S.G., Shleifer, A. & Sørensen, J.A., 2020: Predictable 
+financial crises. Technical report, National Bureau of Economic Research.  
+
+ 
+26 
+Grøndahl, L., Poulsen, N., Christensen, J.H., Arnbjerg-Nielsen, K., Grindsted, 
+A., Halsnæs, K. & Olesen, M.;  2014: Analyse af IPCC delrapport 2: Effekter, 
+klimatilpasning og sårbarhed-med særligt fokus på Danmark. 
+By & Havn, 2020a:  Om by havn. Tilgængelig via:   
+https://byoghavn.dk/om-by-havn/ 
+By & Havn, 2020b: Lynetteholm.  Tilgængelig via:  
+https://byoghavn.dk/lynetteholm/ 
+IMF, 2020: World economic outlook international monetary fu nd a long and 
+difficult ascent. Technical report, International Monetary Fund. 
+IPCC, 2018: Global Warming of 1.5°C. An IPCC Special Report on the impacts 
+of global  warming of 1.5°C above pre- industrial levels and related global 
+greenhouse gas emission pathways, in the context of strengthening the global 
+response to the threat of climate change, sustainable development, and efforts 
+to eradicate poverty . Masson-Delmotte, V., Zhai, P., Pörtner, H.- O., Roberts, 
+D., Skea, J., Shukla, P.R., Pirani, A., Moufouma -Okia, W., Péan, C., Pidcock, 
+R., Connors, S., Matthews, J.B.R. Chen, Y. Zhou, X. Gomis, M.I. Lonnoy, E. 
+Maycock, T. Tignor, M. & Waterfield T. (eds.). 
+Københavns Kommune, 2011: Københavns klimatilpasningsplan. Technical 
+report, Københavns Kommune. 
+Københavns Kommune, 2020: Afrapportering af forundersøgelse af metrobe-
+tjening af lynetteholm. Technical report, Økonomiforvaltningen -Københavns 
+Kommune. 
+KommuneKredit, 2020: Om KommuneKredit. Tilgængelig via:   
+https://www.kommunekredit.dk/om-kommunekredit/ 
+Linder, S.H. , 1999: Coming to terms with the public -private partnership: A 
+grammar of multiple meanings. American behavioral scientist, 43(1):35–51. 
+Morris, R.L., Konlechner, T.M., Ghisalberti, M. & Swearer, S.E. , 2018: From 
+grey to green: Efficacy of eco ‐engineering solutions for nature ‐based coastal 
+defence. Global change biology, 24(5), 1827-1842. 
+Majoor, S., 2015: Urban megaprojects in crisis? Ørestad Copenhagen revisited. 
+European Planning Studies, 23(12):2497–2515. 
+Mishkin, F.S., 2007: The economics of money, banking, and financial markets. 
+Pearson education. 
+Nationalbanken, 2020: Monetære og finansielle tendenser – september 2020. 
+Technical report, Danmarks Nationalbank. 
+NDMP, 2021: National Disaster Mitigation Program. Tilgængelig via:   
+https://www.publicsafety.gc.ca/cnt/mrgnc-mngmnt/dsstr-prvntn-
+mtgtn/ndmp/index-en.aspx 
+NBCF, 2021: New Building Canada Fund. Tilgængelig via:  
+https://www.infrastructure.gc.ca/plan/nbcf-nfcc-eng.html 
+
+27 
+OECD, 2019: Responding to Rising Seas: OECD Country Approaches to Tack-
+ling Coastal Risks, OECD Publishing, Paris. Tilgængelig via:  
+https://doi.org/10.1787/9789264312487-en 
+Peters, G.P., 2018: Beyond carbon budgets. Nature Geoscience, 11(6):378–380. 
+Shaoul, J., Stafford, A. & Stapleton, P., 2006: Highway robbery? a financial 
+analysis of design, build, finance and operate (dbfo) in uk roads. Transport 
+Reviews, 26(3):257–274. 
+Sund & Bælt , 2014: Den danske statsgarantimodel -  Funktionsmåde og erfa-
+ringer med store trafikale infrastrukturprojekter. Teknisk rapport. Sund & 
+Bælt Holding A/S. 
+Thejll, P., Boberg, F., Schmith, T., Christiansen, B., Christensen, O.B., Madsen, 
+M.S., Su, J., Andree, E., Olsen, S., Langen, P.L., Madsen, K.S. & Pedersen, R.A., 
+2020: Methods used in the Danish Climate Atlas. DMI Report 2020. Tilgænge-
+lig via:   
+https://www.dmi.dk/fileadmin/Rapporter/2020/DMI_SR_20_20.pdf 
+Tokarska, K. B. & Gillett, N.P. , 2018: Cumulative carbon em issions budgets 
+consistent with 1.5 c global warming. Nature Climate Change, 8(4):296– 299. 
+Torfing, J., 2001: Path‐dependent Danish welfare reforms: the contribution of 
+the new institutionalisms to understanding evolutionary change. Scandina-
+vian political studies, 24(4), 277-309. 
+Vejdirektoratet, 2020: Forundersøgelse af Østlig ringvej. Technical report, Vej-
+direktoratet. 
+Wolff, C., Vafeidis, A.T., Lincke, D., Marasmi, C. & Hinkel, J.,  2016: Effects of 
+scale and input data on assessing the future impacts of coastal flooding: An 
+application of DIVA for the Emilia -Romagna coast. Frontiers in Marine Sci-
+ence, 3, 41. 
+
+MULIGE FINANSIERINGSMODELLER 
+AF KLIMATILPASNINGSPROJEKTER
+I denne rapport gennemgås forskellige løsningsmodeller 
+for finansiering af klimatilpasningsprojekter som en del 
+af Region Hovedstadens projekt Klimspasning på tværs. 
+Den nuværende finansieringsløsning i Danmark, gennem 
+KommuneKredit, er attraktiv sammenlignet med de fleste 
+andre mulige løsninger. Udenlandske eksempler på finan -
+sieringsløsninger viser, at staten spiller en større rolle i for 
+hold til finansiering af klimatilpasningsprojekter sammen -
+lignet med den nuværende løsning i Danmark.
+ISBN: 978-87-7156-624-6
+ISSN: 2244-9981

@@ -1,0 +1,200 @@
+=== DNNK PDF Dokument ===
+Titel: Guide: Beslutninger (Hvem skal vi tale med?)
+Kategori: Rapporter_s5
+Kilde: https://usercontent.one/wp/www.dnnk.dk/wp-content/uploads/2020/07/03_Guide_til_Hvem_skal_vi_tale_med.pdf
+Indekseret: 2026-09-21T18:38:57.746778
+
+==================================================
+
+Kommunen Forsyningen Naboer/nabogrundejerforeninger Eksterne rådgivere Politi Overvej
+1 Grønt tag Byggetilladelse
+Bygningskonstruktør: Statiske beregninger ift. 
+tagets/spærrenes bæreevne
+Er der andre elementer af bygningerne der vil være relevante at renovere i 
+samme omgang (facade, tagrende mm.)
+2 Regnbed Miljøafdeling: Nedsivningstilladelse
+Forsyningen kan sidde inde med hydraulisk viden 
+og evt. model
+Hvis vandet ledes til en anden mands grund skal det 
+tinglyses
+Rådgivende ingeniør/kloakmester: Hydraulisk 
+dimensionering evt. ved brug af "LAR"-regneark 
+(nedsivning) eller Regnrække-regneark (uden 
+nedsivning) (SVK/IDA)
+Evt. landskabsarkitekt om plantevalg
+Hvis vandet skal ledes videre, hvor skal det ledes hen og hvem ejer den 
+grund. Vandet skal som udgangspunkt holdes på egen grund.
+Planterne i regnbedet skal kunne tåle både meget våde og meget tørre 
+perioder
+3 Faskine
+Miljø afd: nedsivningstilladelse
+Evt. tilslutningstilladelse ved overløb 
+til regnvandsledning.
+OBS på gældende afstandskrav til 
+f.eks. Bygninger og 
+drikkevandsboringer
+Hvis der drosles til regnvandskloaken, spørg 
+Forsyningen om tilslutningspunkter
+Rådgivende ingeniør/kloakmester: Hydraulisk 
+dimensionering evt. ved brug af "LAR"-regneark eller 
+Regnrække-regneark (SVK/IDA)
+Jordbundsforholdene og grundvandsspejlet har rigtig meget at sige. Mange 
+steder (især på Sjælland og nær kyster generelt) er jordbundsforholdene for 
+dårlige eller grundvandsspejlet for højt.
+Kan også anvendes uden nedsivning ved f.eks. at drosle til 
+regnvandskloaken.
+4 Regnvands-
+beholder
+Vandet bør ikke anvendes til vandning af køkkenhave, hvis det er 
+tjærepaptag eller zinktagrender, men kan bruges til blomsterbede mm.
+5 Højvandslukke
+Kloakmester/VVS: Dimensionering og rigtig placering 
+ift. tagnedløb og afløb fra stue/1. sal
+6 Omfangsdræn
+Miljøafdeling: Tilslutningstilladelse 
+til regnvandskloaken, eller 
+udledningstilladelse til f.eks. Grøft Tilslutningspunkter til regnvandskloaken
+Entreprenør (gerne med både kloakmester, 
+anlægsgartner mv. ) Dimensionering af dræn, 
+drænkasse og skråningsanlæg i udgravningen
+Hvis der er kælder i bygningen og der graves helt ind til kældervæggen, kan 
+det overvejes at efterisolere og tætne kældervæggene i samme omgang.
+HUSK ordentlige rense- og inspektionsmuligheder
+7 Vejbed
+Miljøafdeling: Nedsivningstilladelse
+Vejafdeling: Trafikgodkendelse
+Hvis der drosles til regnvandskloaken, spørg 
+Forsyningen om tilslutningspunkter. Forsyningen 
+kan sidde inde med hydraulisk viden og evt. 
+model
+Går vejen gennem flere grundejerforeninger så hør 
+om der evt. skal laves vejbede på hele vejen, hvilket 
+både er godt ift. vandhåndtering og ensartet 
+udseende.
+Rådgivende ingeniør/kloakmester: Hydraulisk 
+dimensionering evt. ved brug af "LAR"-regneark 
+(nedsivning) eller Regnrække-regneark (uden 
+nedsivning) (SVK/IDA)
+Evt. landskabsarkitekt om plantevalg
+Godkendelse ift. 
+trafiksikkerhed
+Planterne i vejbedet skal kunne tåle både meget våde og meget tørre 
+perioder.
+Oversigtsforhold og placering ift. indkørsler/svingradier
+8 Grøft
+Miljøafdeling: Nedsivningstilladelse 
+og gravetilladelse
+Forsyningen kan sidde inde med hydraulisk viden 
+og evt. model
+Går vejen gennem flere grundejerforeninger så hør 
+om grøften skal fortsætte langs hele vejen.
+Rådgivende ingeniør/kloakmester: Hydraulisk 
+dimensionering evt. ved brug af "LAR"-regneark 
+(nedsivning) (SVK/IDA)
+Godkendelse ift. 
+trafiksikkerhed
+Hvis vandet skal ledes videre, hvor skal det ledes hen og hvem ejer den 
+grund. Kan evt. kombineres med en af de andre løsningsmuligheder
+9 Permeabel 
+belægning
+Miljøafdeling: Nedsivningstilladelse
+Vejafdeling: Trafikgodkendelse
+Forsyningen kan have standarder for dimension 
+af dræn og drænkasse
+Går vejen gennem flere grundejerforeninger så hør 
+om den permeable belægning skal fortsætte langs 
+hele vejen, for at få et bedre helhedindtryk og 
+ensartethed.
+Entreprenør/kloakmester: Opbygning af drænlag i 
+vejen
+Godkendelse ift. 
+trafiksikkerhed
+Overvej om det kan være et led i renoveringen af vejen, og om det skal 
+kombineres med andre tiltag, f.eks. 7: vejbede, 11: hævede kantsten.
+10 Skybrudsvej Vejafdeling: Vejreglement
+Forsyningen kan sidde inde med hydraulisk viden 
+og evt. model
+Godkendelse ift. 
+trafiksikkerhed
+Hvis vandet skal ledes videre, hvor skal det ledes hen og hvem ejer den 
+grund.
+11 Hævede 
+kantsten
+Vejafdeling: Vejreglement, 
+materialer og afledning af 
+skybrudsvand
+Forsyningen kan sidde inde med hydraulisk viden 
+og evt. model
+Landskabsarkitekt/anlægsgartner, rådgivende 
+ingeniør, entreprenør
+Godkendelse ift. 
+trafiksikkerhed Kan også være et led et renovering af kantsten/fortov/vej
+12 Græslavning
+Miljøafdeling: Nedsivnings-
+/tilslutnings-/udlednings- og 
+gravetilladelse og tilladelse jf. 
+Byggeloven
+Forsyningen kan sidde inde med hydraulisk viden 
+og evt. model
+Er der en nabogrundejerforening der også kanne have 
+interesse i at lede vand til græslavningen, så man kan 
+dele udgifterne.
+Rådgivende ingeniør/kloakmester: Hydraulisk 
+dimensionering evt. ved brug af "LAR"-regneark 
+(nedsivning) eller Regnrække-regneark (uden 
+nedsivning) (SVK/IDA)
+Kan græslavningen anvendes til andre formål i tørvejr f.eks. Boldbane. Er der 
+evt. en eksisterende boldbane der kan sænkes
+13 Rende
+Miljøafdeling: Udlednings-
+/tilslutningstilladelse Tilslutningspunkter til regnvandskloaken Rådgivende ingeniør: Dimensionering
+Hvis vandet skal ledes videre, hvor skal det ledes hen og hvem ejer den 
+grund. Kan evt. kombineres med en af de andre løsningsmuligheder
+14 Vådbassin
+Miljøafdeling: Nedsivnings-
+/tilslutnings-/udlednings- og 
+gravetilladelse og tilladelse jf. 
+Byggeloven. + evt. landzone 
+tilladelse
+Forsyningen kan sidde inde med hydraulisk viden 
+og evt. model
+Er der en nabogrundejerforening der også kanne have 
+interesse i at lede vand til vådbassinet, så man kan 
+dele udgifterne.
+Rådgivende ingeniør/kloakmester: Hydraulisk 
+dimensionering evt. ved brug af "LAR"-regneark 
+(nedsivning) eller Regnrække-regneark (uden 
+nedsivning) (SVK/IDA) Kan vådbassin indgå som et rekreativt element i grundejerforeningen.
+15 Tørbassin
+Miljøafdeling: Nedsivnings-
+/tilslutnings-/udlednings- og 
+gravetilladelse og tilladelse jf. 
+Byggeloven
+Forsyningen kan sidde inde med hydraulisk viden 
+og evt. model
+Er der en nabogrundejerforening der også kanne have 
+interesse i at lede vand til tørbassinet, så man kan dele 
+udgifterne.
+Rådgivende ingeniør/kloakmester: Hydraulisk 
+dimensionering evt. ved brug af "LAR"-regneark 
+(nedsivning) eller Regnrække-regneark (uden 
+nedsivning) (SVK/IDA)
+Kan tørbassinet anvendes til andre formål i tørvejr f.eks. Boldbane. Er der 
+evt. en eksisterende boldbane der kan sænkes
+16 Dige
+Miljøafdeling: Gravetilladelse og 
+jordhåndtering og tilladelse jf. 
+Byggeloven
+Forsyningen kan sidde inde med hydraulisk viden 
+og evt. model
+Er der en nabogrundejerforening der også kan have 
+interesse i at anlægge et dige, så udgifterne kan deles Rådgivende ingeniør: Dimensionering
+Overvej at spørge DMI/Kystdirektoratet om hvilken kote, det vil være 
+hensigtsmæssigt at bygge diget til. 
+17 Pumpe
+Miljøafdeling: Udlednings-
+/tilslutningstilladelse Tilslutningspunkter til regnvandskloaken Kloakmester: Dimensionering
+Hvor vandet pumpes hen, og om pumpen skal kombineres med andre tiltag, 
+f.eks. 6: Omfangsdræn, 16: Dige
+Større private/offentlig arealer Vej Privat matrikel
+  Løsning

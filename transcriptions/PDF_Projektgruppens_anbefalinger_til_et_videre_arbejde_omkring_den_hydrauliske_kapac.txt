@@ -1,0 +1,92 @@
+=== DNNK PDF Dokument ===
+Titel: Projektgruppens anbefalinger til et videre arbejde omkring den hydrauliske kapacitet i Værebro Å systemet >
+Kategori: Rapporter_s5
+Kilde: https://usercontent.one/wp/www.dnnk.dk/wp-content/uploads/2020/07/Anbefalinger-til-et-videre-arbejde-omkring-den-hydrauliske-kapacitet-i-Værebro-Å-systemet-8.1.pdf
+Indekseret: 2026-09-21T18:38:38.009503
+
+==================================================
+
+Anbefalinger til et videre arbejde omkring den hydrauliske 
+kapacitet i Værebro Å systemet  
+ 
+  
+Baggrund   Novafos, HOFOR, FORS og KLIKOVAND har i efteråret 2018 – maj 2019 arbejdet 
+på et projekt om data og hydraulik for Værebro Å systemet. I forbindelse med projektet er der afholdt 
+tre workshops med de deltagende Kommuner, de to første workshops indeholdt en indføring til 
+projektet, vidensdeling om Værebro Å systemet og inspiration fra andre projekter. Den tredje 
+afslutningsworkshop havde til formål at kikke frem i forhold til, at komme med anvisninger til et 
+fremtidigt arbejde omkring Værebro Å systemet. Dette notat indeholder konklusionerne fra mødet og 
+projektgruppens anbefalinger til et videre arbejde.   
+Ud over dette notat er der i forbindelse med projektet udarbejdet et datakatalog der giver et overblik 
+over eksisterende data for Værebro Å systemet, en rapport ”Overblik over samt analyse af 
+hydrauliske data for Værebro Å oplandet” med et tilhørende teknisk bilag og datakataloget samt 
+shape filer, der viser udbredelsen af relevant data fra datakataloget. Derudover er der en rapport om 
+Vandoplandsbaseret samarbejde langs Værebro Å udarbejdet af Teknologirådet og Dansk 
+Byplanlaboratorium mf.     
+Anbefalinger til et videre arbejde omkring hydraulisk kapacitet i Værebro Å systemet Igennem 
+projektet er det blevet klart for de deltagende, at de hydrauliske problemer, der ses omkring Værebro 
+Å systemet ikke kan løses decentralt i de enkelte kommuner, men at der er behov for en fælles 
+løsning.   
+  
+For at finde ud af, hvad det er der udløser oversvømmelserne i Værebro Å systemet, er det derfor 
+projektgruppens anbefaling at starte med, at lære vandløbet at kende, som et samlet forløb. Ud fra 
+Cowis vurdering vil den bedst egnede måde være at opbygge en simpel model (MIKE HYDRO) for 
+Værebro Å-systemet og køre nogle scenarieberegninger som beskrevet i rapporten  
+”Overblik over samt analyse af hydrauliske data for Værebro Å oplandet”. Derved vil det være muligt 
+at se, hvordan vandløbssystemet reagerer ved forskellige tiltag, f.eks. hvilken indvirkning byernes 
+vand har på vandløbssystemet, hvad sker der, hvis man tilbageholder vand opstrøms i systemet eller 
+graver vandløbet bredere/dybere. Gennem scenarier kan der opnås en forståelse for 
+vandløbssystemet, der kan danne baggrund for nogle løsningsscenarier og dermed mulige 
+fremtidige løsninger i forhold til de kapacitetsproblemer, der ses i Værebro Å i dag.     
+  
+Der er bred enighed i projektgruppen om, at det ikke kun er en løsning man skal se på, men en 
+kombination af flere.   
+  
+De forskellige løsningsscenarier bør vurderes ud fra anlægsøkonomi og praktisk realiserbarhed. 
+Desuden bør det vurderes hvor fremtidssikrede de forskellige løsninger er, da byudvikling og 
+landskabelige ændringer kan påvirke løsningernes holdbarhed. Der peges også på muligheden for 
+at se vandet som en ressource, idet der på sigt kan vise sig muligheder for øget brug af ferskvandet 
+til andre formål, fx markvanding i tørre perioder eller f.eks. reinfiltration til ny grundvandsdannelse.    
+  
+ 
+  
+19-06-2019  
+Side 1 | 2  
+  
+  
+S18-3305  
+D19-057068   
+
+
+ 
+Der var på den afsluttende workshop en drøftelse af mulige fremtidsscenarier for Værebro Å. Her 
+blev mulighederne for at genskabe den nederste del af åen som en Fjord arm til Roskilde Fjord og 
+naturområde blandt andet drøftet.     
+  
+Projektgruppens anbefalinger til et videre arbejde, er  
+  
+1. at fortsætte det etablerede samarbejde mellem kommuner, regioner og forsyninger på tværs 
+af hele vandoplandet.  
+  
+2. at der opbygges en hydraulisk model til beregning af overordnede scenarier. Igennem 
+scenarieberegningerne opnås der en samlet forståelse af hvad der påvirker vandløbet og 
+dermed hvilke løsningskombinationer der kan arbejdes videre med frem mod en endelig 
+løsning.   
+  
+3. at scenarierne vurderes i forhold til anlægsøkonomi, praktisk realiserbarhed og 
+fremtidssikring.  
+  
+Resultaterne herfra vil kunne bruges fremadrettet i udviklingen af en vision for området omkring åen, 
+og arbejdet kan sigte imod en afprøvning af udmøntningen af å-udvalgets anbefalinger.        
+  
+Projektgruppen for ’overblik over samt analyse af hydrauliske data for Værebro Å oplandet’.  
+Novafos, HOFOR, FORS og KLIKOVAND  
+  
+  
+  
+ 
+  
+19-06-2019 
+Side 2 | 2 
+S18-3305 
+D19-057068

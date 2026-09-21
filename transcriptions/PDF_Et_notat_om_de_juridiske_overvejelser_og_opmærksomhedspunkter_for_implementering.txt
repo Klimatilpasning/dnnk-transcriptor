@@ -1,0 +1,179 @@
+=== DNNK PDF Dokument ===
+Titel: Et notat om de juridiske overvejelser og opmærksomhedspunkter for implementeringen af Skrift 31
+Kategori: Rapporter_s6
+Kilde: https://usercontent.one/wp/www.dnnk.dk/wp-content/uploads/2020/07/Notat-om-implementering-af-Skrift-31-endelig-udgave.pdf
+Indekseret: 2026-09-21T18:41:17.345221
+
+==================================================
+
+Advokat Line Markert
+Philip Heymans Allé 7
+2900 Hellerup
+Tlf. +45 3334 4000
+J.nr. 178870
+14. august 2018
+\\SRVADLIBPDF\AdlibJobFiles\1495331a-533d-4b7d-8a1b-f6ccca6e7fdb\Input\Notat om implementering af Skrift 31 endelig udgave.docx Horten Advokatpartnerselskab
+CVR 33775229
+NOTAT
+OPMÆRKSOMHEDSPUNKTER FOR IMPLEMENTERING AF SKRIFT 31
+1. INDLEDNING OG OPDRAG
+Klikovand-samarbejdet har bedt Horten formulere en tekst, som kan indarbej-
+des i de deltagende kommuners spildevandsplaner med henblik på at imple-
+mentere Skrift 31 i planerne.
+Skrift 31 fastsætter en metode til at bestemme serviceniveau for regnvand på 
+terræn gennem funktionskrav ud fra nogle angivne beregningsmodeller. 
+Teksten til spildevandsplanerne beskriver en nærmere proces for implemente-
+ring af metoden i kommunernes spildevandsplaner, herunder hvilke opgaver, 
+der bør løses af henholdsvis kommunen og vandselskabet, og er indsat i et 
+selvstændigt dokument.
+Dette notat er et supplement til teksten og redegør for de juridiske overvejel-
+ser og vurderinger, som ligger bag tekstens nærmere formulering. 
+2. JURIDISKE OVERVEJELSER OG VURDERINGER
+2.1 Kompetencefordeling
+Skrift 31 beskriver en metode til at bestemme serviceniveau for regnvand på 
+terræn gennem funktionskrav, men tager ikke stilling til opgavefordelingen 
+mellem kommune og vandselskab. 
+Opgavefordelingen er væsentlig, da vandselskabet som udgangspunkt ikke må 
+udføre kommunens opgaver og omvendt. Vandselskaber kan undtagelsesvis 
+løse opgaver fx for ejerkommunen, hvis opgaven kan løses af vandselskabet 
+som en tilknyttet aktivitet, og kommunen lovligt kan udlicitere opgaven. I så 
+
+Side 2
+fald skal vandselskabet som udgangspunkt have vederlag for levering af ydel-
+ser til kommunen.
+I forhold til de opgaver, som metoden i Skrift 31 lægger op til, har både kom-
+mune og vandselskab interesse i og i et vist omfang pligt til at løse opgaven.
+Opgaverne kan inddeles i følgende hovedgrupper: 1) beslutning om funktions-
+krav, 2) risikoanalyse, 3) samfundsøkonomisk analyse og 4) inddragelse af 
+merværdi. 
+Nedenstående vurdering tager ikke stilling til den økonomiske fordeling af 
+kommunernes og vandselskabernes omkostninger, da dette kommer an på en 
+konkret vurdering af de enkelte projekter. For så vidt angår vandselskabers 
+mulighed for at opnå tillæg til indtægtsrammen er dette behandlet nedenfor 
+under afsnit 2.3 om ØR-bekendtgørelsen. 1
+1) Beslutning om funktionskrav 
+Kommunen afgør, hvilket eller hvilke funktionskrav, der skal fastsættes for 
+håndtering af regnvand på terræn, vil ikke kunne overlade den endelige afgø-
+relse herom til andre. Det er således kommunen, som fastsætter funktionskra-
+vet/-kravene i spildevandsplanen efter den sædvanlig procedure herfor.
+2) Risikoanalyse
+Risikoanalysen indeholder to parametre; resultat af hydrauliske beregninger 
+og summen af skadesomkostninger. Begge opgavetyper har driftsmæssig ka-
+rakter, da det ikke indebærer myndighedsudøvelse. 
+Det er endvidere vores vurdering, at vandselskaberne kan udføre risikoanaly-
+sen. Afhængig af de konkrete omstændigheder vil det være en del af vandsel-
+skabets hovedaktivitet eller tilknyttede aktiviteter. 
+3) Samfundsøkonomisk analyse
+Den samfundsøkonomiske analyse kan foretages enten som cost-benefit-
+analyse eller som en analyse over en samfundsøkonomisk optimering. 
+Begge metoder for den samfundsøkonomiske analyse indebærer en vurdering 
+af risikoanalysens resultater ud fra de anslåede anlægs- og driftsomkostninger 
+til mulige tiltag for at opfylde det fastsatte serviceniveau for regnvand på ter-
+ræn, herunder ud fra en række forskellige løsningsmuligheder. 
+Ligesom for risikoanalysen har den samfundsøkonomiske analyse således 
+driftsmæssig karakter, da det ikke indebærer myndighedsudøvelse.
+Hvor der indgår beregninger af forhold, som ligger uden for vandselskabets 
+ansvarsområde, som fx inddragelse af rekreative byrumsinteresser i anlægge-
+                                                            
+1 Bekendtgørelse nr. 1235 af 10. oktober 2016 om økonomiske rammer for vandselskaber (Udmøntning af 
+vandsektorforliget)
+
+Side 3
+ne, vil det være nødvendigt at foretage en konkret vurdering af, om vandsel-
+skabet kan udføre opgaven. Afhængig af de konkrete omstændigheder vil det 
+være en del af vandselskabets hovedaktivitet eller tilknyttede aktiviteter.
+4) Inddragelse af merværdi
+Til brug for bestemmelse af funktionskravet/-kravene inddrages beregninger 
+og/eller betragtninger om merværdi ved de konkrete tiltag. Merværdi i Skrift 
+31s forstand kan fx være natur- og miljøformål, rekreative interesser og trafi-
+kale hensyn. Dette vil ofte være hensyn og interesser, som varetages af kom-
+munen. 
+Kommunen kan vælge enten at lade disse input indgå i vandselskabets cost-
+benefit-analyse eller foretage en selvstændig vurdering heraf på baggrund af 
+cost-benefit-analysen. 
+2.2 Tidspunkt for fastlæggelse af funktionskravet/-kravene
+Metoden i Skrift 31 indebærer en iterativ proces, hvilket betyder, at kommu-
+nen og vandselskabet vil være nødsaget til at træffe midlertidige beslutning er, 
+der genovervejes, når der gennem metodens skridt er opnået relevant bag-
+grundsviden for de konkrete beslutninger. 
+Dette betyder også, at der ligger en ekstra øvelse i at få Forsyningssekretaria-
+tet til at forstå, at der søges om midler til en længere proces og ikke blot fx an-
+lægsprojekter. 
+Vi anbefaler derfor, at der ansøges om forhåndsgodkendelse hos Forsynings-
+selskabet tidligt i processen, sådan at der er mulighed for at gå i dialog med 
+Forsyningssekretariatet om, hvorfor målopfyldelsen indebærer de konkrete til-
+tag, og hvorfor disse berettiger et tillæg til indtægtsrammen efter ØR-
+bekendtgørelsen, jf. mere herom i afsnit 2.3.
+2.3 Mulighed for tillæg efter ØR § 11
+ØR-bekendtgørelsens § 11 giver mulighed for, at vandselskaberne kan opnå til-
+læg til indtægtsrammen i nærmere angivne situationer.2
+Vandselskaberne vil efter § 11, stk. 1, kunne ansøge om tillæg til opfyldelse af 
+statslige eller kommunale fastsatte, pålagte eller godkendte mål. 
+Bestemmelsen fastsætter en beløbsmæssig væsentlighedsgrænse på 500.000 
+kr. årligt eller 1 pct. af den økonomiske ramme for det pågældende år. Kun 
+projekter der overstiger disse beløb kan danne grundlag for tillæg efter § 11, 
+stk. 1.
+                                                            
+2 Bekendtgørelse nr. 1235 af 10. oktober 2016 om økonomiske rammer for vandselskaber (Udmøntning af 
+vandsektorforliget)
+
+Side 4
+Beløbet beregnes ud fra selskabets afskrivninger, driftsomkostninger og finan-
+sieringsomkostninger til alle projekter, som vandselskabet har gennemført på 
+grundlag af målet og evt. andre mål omfattet af § 11 stk. 1. Dette medfører, at 
+selskabets samlede omkostninger til opfyldelse af mål skal have en betydelig 
+størrelse for at overstige bestemmelsens væsentlighedsgrænse. Det kan være 
+en udfordring for mindre selskaber, der ønsker at opnå tillæg til målopfyldelse. 
+Indarbejdes teksten om implementering af Skrift 31 i kommunernes spilde-
+vandsplaner, vil der være tale om et mål, der efter omstændighederne kan 
+danne grundlag for et tillæg efter § 11, stk. 1. Teksten redegør for, at målop-
+fyldelsen kan indebære både en analyseproces og en anlægsproces, hvilket 
+begge til sammen eller hver især kan danne grundlag for ansøgning om tillæg. 
+Vejledningen til ØR-bekendtgørelsen angiver, at der endvidere skal være tale 
+om mål, der ligger inden for vandselskabets hovedvirksomhed, og at aktivite-
+ten skal ligge uden for vandselskabets almindelige driftsopgaver. 
+Mål, der ligger inden for vandselskabets hovedvirksomhed, kan fx være for-
+bedringer til miljø, klima og serviceniveau. Et mål om at fastsætte funktions-
+krav for regnvand på terræn med henblik på at begrænse oversvømmelser, når 
+kloaknettets kapacitet er opbrugt, falder inden for disse typetilfælde.
+Vandselskabets almindelige driftsopgaver omfatter fx opretholdelse af den ek-
+sisterende forsyningssikkerhed eller en stabil drift af primære aktiviteter. Som 
+eksempler på tiltag, der ligger ud over sædvanlige driftsopgaver, nævner For-
+syningssekretariatets vejledning blandt andet separatkloakering, der gennem-
+føres som led i klimatilpasninger eller lignende. 
+Tiltag, der forbedrer regnvandshåndtering på terræn i en klimamæssig sam-
+menhæng, vil således efter vores vurdering falde uden for vandselskabernes 
+almindelige driftsopgaver. En proces for implementering af Skrift 31 varetager 
+flere af disse hensyn, da metoden tager sigte på at løse en miljø- og klimaop-
+gave og anvendes til at fastsætte og opfylde et serviceniveau herfor. 
+Det er således også vores vurdering, at det vil være muligt at opnå tillæg til 
+indtægtsrammen for opfyldelse af et mål om at begrænse oversvømmelser 
+gennem optimering af regnvandshåndtering på terræn.
+Da der imidlertid er tale om en opgave, som løses i fællesskab med kommunen 
+og i grænseområdet mellem kommunens og vandselskabets kompetencer, er 
+det vores anbefaling, at vandselskabet søger om Forsyningssekretariatets for-
+håndsgodkendelse, inden arbejdet igangsættes. Til brug for ansøgningen bør 
+vandselskabet tydeliggøre, hvilke opgaver, der eventuelt løses for kommunen 
+mod betaling, og som derfor ikke indgår som en del af vandskabets omkost-
+ninger til opfyldelse af målet. 
+
+Side 5
+2.4 Differentieret funktionskrav
+Metoden i Skrift 31 lægger op til, at der kan vedtages enten et samlet funkti-
+onskrav for hele kommunen eller flere funktionskrav fordelt efter særlig areal-
+anvendelse eller geografiske områder. 
+Forvaltningsretligt er der visse forhold, som kommunen skal være opmærk-
+somme på, hvis der vedtages et differentieret servicemål på tværs af kommu-
+nen. Kommunen er underlagt de forvaltningsretlige regler og principper om 
+saglighed og lighed i sin myndighedsudøvelse. 
+Dette betyder, at kommunen kan vedtage et differentieret funktionskrav, når 
+der vurderes at være en saglig begrundelse herfor, ligesom kommunen har 
+pligt til at behandle lige forhold ens.
+Forsyningsretligt kan vandselskaberne håndtere regnvand på terræn efter for-
+skellige serviceniveauer, så længe dette sker på forsvarlig vis og i henhold til 
+spildevandsplanens bestemmelser. 
+Dog fortolkes spildevandsbetalingslovens solidaritetsprincip ofte som en pligt 
+til at behandle lige forhold ens, og vi anbefaler derfor, at vandselskaberne lige-
+som kommunerne foretager en vurdering af, om der er tale om en saglig for-
+skelsbehandling, hvis ensartede områder serviceres ud fra forskellige mål eller 
+metoder.

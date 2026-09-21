@@ -1,0 +1,420 @@
+=== DNNK PDF Dokument ===
+Titel: Miniudbud af projektet >
+Kategori: Rapporter_s5
+Kilde: https://usercontent.one/wp/www.dnnk.dk/wp-content/uploads/2020/07/MINIUDBUD-Værebro-Å-hydrauliske-data.pdf
+Indekseret: 2026-09-21T18:38:40.144611
+
+==================================================
+
+J. nr. x 1 
+Sag: TASK FORCE 
+ 
+ 
+ 
+ 
+ 
+ 
+GLADSAXE KOMMUNE 
+By- og Miljøforvaltningen 
+KLIKOVAND 
+ 
+ 
+MINIUDBUD – FORPROJEKTER  
+RAMMEAFTALENS BILAG 4 
+ 
+MINIUDBUD VEDRØRENDE OVERBLIK OVER SAMT ANALYSE 
+AF HYDRAULISK DATA FOR VÆREBRO Å-OPLANDET 
+8. NOVEMBER 2018 
+ 
+  
+ 
+
+ 
+J. nr. x 2 
+Sag: TASK FORCE 
+ 
+MINIUDBUD VEDRØRENDE OVERBLIK OVER SAMT ANALYSE AF HYDRAULISK DATA FOR VÆRE-BRO Å-OPLANDET 
+Gladsaxe Kommune, KLIKOVAND afholder miniudbud i overensstemmelse med afsnit 7 i ramme-
+aftale om rådgivning til KLIKOVAND indgået mellem rådgiveren og Gladsaxe Kommune, KLIKO-
+VAND. 
+1. OPGAVEN 
+Formål 
+I samarbejde med de tre forsyninger og syv kommuner i Værebro Å vandopland udbyder KLIKO-
+VANDs Task Force et projekt, som har til formål at indsamle og analysere eksisterende data for 
+Værebro Å-oplandet. Dataoverblikket og analysen kan fungere som operationelt grundlag for 
+fremtidige klimatilpasningsløsninger, såvel som fælles vidensgrundlag for dialog og samarbejde 
+mellem kommuner og forsyninger indenfor Værebro Å-oplandet. På baggrund af konklusionerne 
+fra projektet ’Vand på tværs’ sigter nærværende projekt mod at kortlægge, samle og evaluere 
+kvaliteten af eksisterende data, samt skabe overblik over behovet for nye data. Dette gøres side-
+løbende med, at parternes behov og ønsker til f.eks. en fælles hydraulisk model formuleres.  
+ 
+ 
+Baggrund 
+Udgangspunktet for dette projekter er, at der er behov for tværkommunale samarbejder mellem 
+kommuner, som deler et vandopland, for at nedbringe risici for oversvømmelser og skabe robu-
+ste fremtidige løsninger og investeringer. 
+ 
+Projektet er udarbejdet med udgangspunkt i de kommunale ønsker og behov, der blev kortlagt i 
+projektet ’Vand på tværs – oplandsbaseret klimatilpasning’ (herefter ’Vand på tværs’), der blev 
+afsluttet i 2017 (se bilag 1). Vand på Tværs viste bl.a., at der er behov for konkrete værktøjer og 
+bedre datagrundlag, der kan anvendes som grundlag for fremtidige samarbejder og risikovurde-
+ringer i forbindelse med oversvømmelse herunder opdaterede klimadata og afstrømningsscena-
+rier.  
+ 
+En del af en større proces 
+Dette projekt ”Overblik over samt analyse af hydrauliske data for Værebro Å oplandet” indgår 
+som det tekniske spor i et større projekt ”Værebro Å: Vandoplandsbaseret samarbejde på tværs 
+af kommunegrænser”. Det samlede projekt kan danne grundlag for et videre arbejde, med det 
+formål at skabe et nyt og velfunderet grundlag for en mere robust håndtering af oversvømmel-
+sesrisici i Værebro Å vandopland.  
+ 
+I det samlede projekt arbejdes der på to sideløbende spor, et teknisk spor samt et dialogbaseret 
+spor (se bilag 2). Det samlede projekt styres af koordinationsgruppen for de to spor bestående af 
+projektejere for hhv. det tekniske spor (de tre forsyningsselskaber) og for det dialogbaserede 
+spor (Teknologirådet, Teknologisk Institut og Dansk Byplanlaboratorium) (se figur 1). Rådgiver 
+skal ud over møder med projektgruppe for det tekniske spor, deltage i workshops, der er fælles 
+for de to spor, samt evt. i begrænset omfang i møder med koordinationsgruppen. 
+ 
+ 
+ 
+
+ 
+J. nr. x 3 
+Sag: TASK FORCE 
+ 
+   
+Figur 1 Organisationsdiagram for det samlede projekt om Værebro Å 
+Dette miniudbud vedrører det tekniske spor, som skal skabe overblik over og vurdere eksiste-
+rende data, der senere kan danne grundlag for en fælles hydraulisk model. 
+ 
+Det dialogbaserede spor vil arbejde med udfordringer og muligheder ved at arbejde på tværs og 
+forsøge at opstille modeller for tværkommunale samarbejder på vandoplandsniveau med fokus 
+på klimatilpasning og arealplanlægning (se bilag 2). Der vil være input til den samlede proces fra 
+Region Hovedstaden, DMI, samt kommunerne og forsyningerne i Værebro Å-oplandet. 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+J. nr. x 4 
+Sag: TASK FORCE 
+ 
+Projektområde 
+Det hydrologiske opland til Værebro Å strækker sig over Allerød, Ballerup, Egedal, Frederikssund, 
+Furesø, Gladsaxe, Herlev og Roskilde Kommuner, hvor forsyningen varetages af Novafos, FORS 
+og HOFOR. Værebro Å-systemet består af i alt 37 offentlige vandløb, beliggende i kommunerne 
+Ballerup, Egedal, Frederikssund, Furesø, Gladsaxe, Herlev og Roskilde Kommuner. Et Bilag til fæl-
+lesregulativet for Værebro Å indeholder en liste over vandløbene i Værebro Å-systemet (Bilag 4).  
+ 
+Selve Værebro Å er ca. 35 km lang og afvander ca. 150 km2. Værebro Å har et fald på omkring 20 
+m på forløbet fra Smørmosen til Roskilde fjord. Projektområdet omfatter hele det hydrologiske 
+opland til åen (se figur 2).  
+ 
+ Figur 2 Afgrænsning af projektområdets hydrologiske opland, kilde Forslag til fælles regulativ for Værebro Å 2017  
+ 
+Opgaven indeholder følgende ydelser  
+- Overblik over eksisterende modeller og data - datakatalog 
+- Vurdering af datakvaliteten for den indsamlede data – analyse af muligheder og behov 
+for nye data 
+- Præsentation af resultater og anbefalinger 
+- Oplæg til opbygning og indhold af fremtidig model – sammenhæng til dialogsporet 
+ 
+Opgavens elementer beskrives nærmere i det følgende.  
+
+
+ 
+J. nr. x 5 
+Sag: TASK FORCE 
+ 
+2. RÅDGIVERENS YDELSER 
+2.1. Overblik over og analyse af data til brug for hydraulik for Værebro Å opland    
+Opgaven bliver at indsamle, kategorisere og kvalificere eksisterende data samt komme med fag-
+lige input i dialogen om fremtidig anvendelse af data til hydraulisk analyse og modellering. Dette 
+omfatter 4 hovedaktiviteter: 
+ 
+1. Overblik over eksisterende modeller og data - datakatalog: 
+Skabe overblik over eksisterende data og anvendeligheden af disse, i forhold til opbygning af en 
+fremtidig model. Data omfatter alle relevante data der vil kunne bruges til hydraulisk og hydrolo-
+gisk modellering for vandoplandet for eksempel: Tvær- og længdesnit af åen, ledningsnet, ter-
+rænhøjder og terrænændringer over tid, historiske oversvømmelser og tidsserier for nedbør, til-
+strømninger og tilledninger. Alt data registreres i et datakatalog med beskrivelse af data, vurde-
+ring af datakvalitet samt reference til kommune/forsyning, afdeling, kontaktperson, og hvor data 
+kan findes. Data skal primært indsamles hos de deltagende Kommuner og Forsyninger samt evt. 
+relevante statslige organisationer eller virksomheder (GEUS, DMI, DHI mf.) Der afholdes 1. work-
+shop d. 7. januar med medarbejdere fra de deltagende kommuner, hvor rådgiver skal holde op-
+læg om hvilke data der er relevante for opbygning af en model samt hvorledes registreringen og 
+vurderingen skal foregå (se 2.3. Tidsplan og møder). Efterfølgende forventes rådgiver at besøge 
+alle de deltagende kommuner og forsyninger med mindre andet aftales.  
+ 
+2. Vurdering af datakvaliteten - Analyse af muligheder og behov for nye data: 
+Det samlede datakatalog skal analyseres med henblik på at vurdere om datagrundlaget er til-
+strækkelig detaljeret, til at understøtte state-of-the-art modellering af oplandet. Herunder er det 
+væsentligt at vurdere anvendeligheden af data. Eventuelle mangler i data (hvilke strækninger af 
+Å-systemet er der data for og hvor er der ikke) skal dokumenteres og forslag til ny dataindsam-
+ling skal rapporteres. Dette kan for eksempel omfatte forslag til nye målestationer eller opmålin-
+ger, samt en evt. drift af datakataloget. Der er formentlig projekter i oplandet der har opstillet 
+modeller for mindre strækninger af å-systemet og der forventes en dialog med disse for at 
+danne sig et billede af det fremtidige modeludviklingsniveau. 
+ 
+3. Præsentation af resultater og anbefalinger 
+Resultaterne fra dataindsamlingen og analysen skal præsenteres og diskuteres i en workshop for 
+begge spor med en større interessentkreds i projektet (se 2.3. tidsplan og møder). Præsentatio-
+nen skal indeholde beskrivelse af tilgængelige data og belyse behovet for nye data med en anbe-
+faling for opdateringen af data (skal der måles mere? Hvor og hvornår?). Præsentationen koordi-
+neres og planlægges i tæt samråd med projektgruppe for det tekniske spor og tovholder fra ko-
+ordinationsgruppen.  
+  
+4. Oplæg til opbygning og indhold af fremtidig model – sammenhæng til dialogsporet 
+Rådgiver skal komme med et oplæg til, hvilke modelopbygninger der kan være relevante for et 
+projekt som Værebro Å-systemet. I den forbindelse skal rådgiver vurdere hvilke faktorer der kan 
+tænkes at påvirke modelopbygningen og databasebehovet (modelleringsscenarier). Herunder 
+skal det vurderes, om forskellige valg for fremtidigt ”serviceniveau” (hverdagsregn, skybrud etc.) 
+for Værebro Å-systemet har betydning for valg af en hydraulisk model. Samtidig skal rådgiver 
+komme med forslag til, hvilke elementer modellen kan bestå af (fx overfladeafstrømning, kloak-
+modeller, vandløbsmodeller etc.). Derudover skal det vurderes, i forhold til fremtidige modelbe-
+regninger, hvordan faktorer som afstrømningen fra grønne arealer kan medregnes i påvirkningen 
+af å-systemet samt hvordan man kan opbygge sandsynlige regnhændelser over det 150 km2 
+
+ 
+J. nr. x 6 
+Sag: TASK FORCE 
+ 
+store opland. Det endelige oplæg skal præsenteres og diskuteres på afslutningskonferencen d. 
+24. april med kommunerne (se 2.3. tidsplan og møder). Det skal forventes at størstedelen af 
+modtagerne til oplægget ikke har erfaring/kendskab til modelberegninger og modelopbygninger 
+og derfor skal oplægget præsenteres på en let forståelig måde. Præsentationen koordineres og 
+planlægges i tætsamråd med projektgruppe for det tekniske spor og tovholder for koordinations-
+gruppen.  
+ 
+ 
+Leverancer: 
+- En rapport i A4 der indeholder en opsummerende beskrivelse af den viden der er samlet 
+igennem de fire hovedaktiviteter. Derudover skal der konkluderes på anvendeligheden af 
+eksisterende data til opbygning af en fremtidig model samt overblik over behov for nye 
+data.  
+- Et Excel ark med et samlet datakatalog for Værebro Å-systemet.  
+- Tre præsentationer/dialogoplæg på workshops for deltagende kommuner og forsyninger 
+m.fl., datoerne for møderne står i 2.3 Tidsplan og møder. 
+2.2. Krav til afrapportering  
+Ordregiver (projektejerne, HOFOR, Novafos, Fors og Task Force) forventer, at alt afleveret mate-
+riale (inkl. udkast) er gennemarbejdet og kvalitetssikret, og at der er afsat tid i tidsplanen til kom-
+mentering og timer i budgettet til at rette materialet efter kommentering af Ordregiver og Task 
+Forcen, som dog så vidt muligt vil koordinere kommenteringen.  
+2.3. Tidsplan og møder 
+Rådgiver skal i sit tilbud tage højde for følgende møder:  
+ Opstartsmøde med Ordregiver d. 5. december 2018 kl. 13. Den valgte rådgiver udarbej-
+der en dagsorden for mødet, som bl.a. skal indeholde:   
+o Forventningsafstemning og endelig afklaring af opgaven, dens detaljeringsgrad 
+og rammer. 
+o Fremtidige møder og proces planlægges 
+o Samarbejde og inputs fra projektets parter 
+o Endelige formater af leverede resultater 
+ 
+Når der er valgt en rådgiver, giver Ordregiver supplerende inputs til dagsorden. 
+Task Forcen tager referat af dette møde.  
+ 
+ D. 7. januar 2019 kl. 12.30-15.00: opstartsworkshop med alle deltagere i både spor 1 og 2 
+i projektet. Rådgiver skal på dette møde præsentere de relevante fagmedarbejdere fra 
+kommuner og forsyninger for hvilke data og oplysninger som rådgiver finder relevante i 
+forhold til opbygningen af en model for Værebro Å-systemet.  
+ 
+ D. 6. marts 2019 kl. 13: Midtvejsworkshop i projektet for både spor 1 og 2. Rådgiver skal 
+på dette møde give en status for indsamling og analyse af data, samt præsentere et før-
+ste bud på forudsætninger for og omfang af udviklingen af en eventuel fremtidig model. 
+ 
+
+ 
+J. nr. x 7 
+Sag: TASK FORCE 
+ 
+ D. 24. april 2019 kl. 13: Afslutningskonference for både spor 1 og 2: Rådgiver skal på 
+dette møde præsentere hovedkonklusionerne fra rådgivers arbejde med særlig vægt på 
+forudsætninger for og omfang af udviklingen af en eventuel fremtidig model. 
+ 
+ Derudover holdes der koordineringsmøder mellem de to spor d. 14.12 og 6.2 hvor rådgi-
+ver som udgangspunkt ikke deltager, men efterfølgende skal forvente at holde møde 
+med projektejer hvor tovholder for koordinationsgruppen eventuelt inviteres. 
+   
+Derudover skal følgende møder skitseres af rådgiver i tilbuddet:  
+ Relevante og løbende projektmøder med HOFOR, Novafos og Fors. Task Forcen deltager 
+efter aftale. Rådgiver tager referat.  
+ Afslutnings- og evalueringsmøde med HOFOR, Novafos, Fors og Task Force. Task Force 
+tager referat af dette møde.  
+ 
+Da Task Forcens rammeaftale gælder til og med 31. december 2018 er det vigtigt, at rådgiver og 
+ordregiver er opmærksom på, at alle kontrakter og samarbejdsaftaler er underskrevet inden 
+denne dato.  
+ 
+Bilag  
+ 
+Bilag 1: Afrapportering: Vand på tværs – oplandsbaseret klimatilpasning. 
+Bilag 2: Projektbeskrivelse: Værebro Å: oplandsbaseret samarbejde på tværs af kommune-
+grænser. 
+Bilag 3: Forslag til Fællesregulativ for Værebro Å-systemet. 
+Bilag 4: Oversigt over regulativer og vandløb omfattet af fællesregulativet. 
+Bilag 5: Redegørelse – Grundlag og konsekvenser. 
+Bilag 6: Kort over vandløb i det nye fællesregulativ. 
+Bilag 7:  Hvidbog fra ur-høring af fællesregulativet. 
+Bilag 8: Optælling – Fællesregulativ for Værebro Å-systemet. 
+3. ORDREGIVERS YDELSER 
+I forbindelse med opgaveløsningen leverer:  
+ 
+Forsyninger (HOFOR, Novafos og Fors): 
+ Løbende sparring og feedback på opgaven  
+ Oplysning om eksisterende data for Værebro Å-systemet og tilknyttet afløbssystemer 
+ Deltagelse i workshops  
+ 
+Kommuner:  
+ Oplysninger om eksisterende data om Værebro Å-systemet  
+ Deltagelse i workshops  
+ 
+4. ORGANISATION 
+Projektejer: Hofor, Fors, og Novafos 
+ 
+Projektleder: Pernille Sloth, psl@novafos.dk (Novafos),  
+
+ 
+J. nr. x 8 
+Sag: TASK FORCE 
+ 
+ 
+Projektmedarbejdere: Else Marie Jacobsen, elja@hofor.dk (HOFOR) og Anders Hertz Kristensen, 
+ahk@fors.dk (Fors) samt evt. øvrige medarbejdere fra de tre forsyninger 
+ 
+Kommunal følgegruppe: Repræsentanter fra kommuner, som resultatet bl.a. skal præsenteres 
+for.  
+ 
+Den regionale Task Force for klimatilpasning: Jens Stærdahl, jensta@gladsaxe.dk (primære kon-
+taktperson) og Signe Boelsmand, sigboe@gladsaxe.dk  
+5. TIDSFRISTER 
+Til afslutningskonferencen d. 24. april afholdes den endelige oplæg om opbygning og indhold af 
+fremtidig model 
+ 
+Opgaven forventes afsluttet og afleveret (inkl. afslutningsmøde) inden udgangen af april 2019.  
+6. ØKONOMI 
+Opgavens samlede budget kan ikke overstige 400.000 kr. Heraf kan HOFORs andel af projektet 
+ikke overstige kr. 116.000, Novafos’ andel af projektet kan ikke overstige kr. 284.000.  
+ 
+7. SÆRLIGE FORHOLD 
+Ingen kendte forhold.  
+ 
+8. TILDELINGSKRITERIER 
+Tildelingskriteriet er det økonomisk mest fordelagtige tilbud.  
+Tilbuddene i miniudbuddet bedømmes på baggrund af følgende underkriterier: 
+ 
+- Pris 20 % 
+- Organisation og bemanding (herunder CV'er) (40 %.) 
+- Opgavens løsning (40 %.) 
+9. AFLEVERINGSKRAV 
+Til brug for bedømmelsen skal rådgiveren aflevere følgende: 
+9.1. Pris 
+Pristilbud, jf. <Tilbudsskema for forprojekter>   
+ 
+Der skal gives tilbud i fast pris. 
+ 
+
+ 
+J. nr. x 9 
+Sag: TASK FORCE 
+ 
+Den pris, som indgår i bedømmelsen, er den samlede pris fra det udfyldte tilbudsskema med det 
+af rådgiver angivne tidsforbrug fordelt på medarbejderkategorier. Rådgiveren kan enten vælge 
+at tilbyde en timepris som anført i pkt. 10 i rammeaftalen eller tilbyde en lavere timepris. 
+9.2. Organisation og bemanding 
+a) Organisationsplan for den organisation og bemanding, der er til rådighed for gennemfø-
+relsen af forprojektet indsættes i tilbudsskemaet for forprojekter. I organisationsplanen 
+skal angives sagsansvarlig, projektleder, medarbejdere tilknyttet projektet, kompetence-
+forhold, kommunikationslinjer og ansvarsforhold. Relationen til Ordregivers organisation 
+skal fremgå.  
+ 
+b) CV’er for de medarbejdere, der indgår i organisationsplanen. En person kan dække flere 
+funktioner, ligesom en funktion kan dækkes af flere personer. Et CV forventes at inde-
+holde følgende oplysninger; grunduddannelse, relevante videre-/efteruddannelser, tidli-
+gere ansættelser og funktioner, relevante funktioner og udførte opgaver, evt. ledelseser-
+faring. Det skal tydeligt fremgå af cv'erne, hvilken medarbejderkategori i tilbudsskemaet 
+den enkelte medarbejder skal afregnes efter. Et CV må maksimalt fylde 2 A4-sider.  
+9.3. Opgavens løsning 
+a) Kort beskrivelse, som viser, at rådgiver har ideer og indsigt i opgaven. Maksimalt 3 A4- 
+sider.  
+ 
+b) En vurdering af de aspekter (f.eks. risici) i forbindelse med opgavens løsning, som bør 
+håndteres for at sikre et succesfuldt projekt. Det henstilles, at vurderingen ikke fylder 
+mere end 1 A4-sider.  
+c) En tidsplan, maksimalt 1 A4-side. 
+ 
+Supplerende materiale, såsom bilag vil ikke indgå i bedømmelsen.  
+ 
+10. SPØRGSMÅL OG HENVENDELSER 
+Alle henvendelser skal ske elektronisk. 
+ 
+Spørgsmål skal stilles skriftligt til følgende mailadresse: Jens Stærdahl, jensta@gladsaxe.dk med 
+kopi til Pernille Sloth, psl@novafos.dk 
+ 
+Spørgsmål vil blive besvaret løbende skriftligt og til alle tilbudsgivere. 
+ 
+Spørgsmål stillet senere end 6 arbejdsdage før tilbudsfristen vil ikke blive besvaret. 
+ 
+Hvis rådgiveren ikke vil give tilbud på opgaven, beder vi om at få en orientering senest 3 dage ef-
+ter modtagelse af miniudbud.  
+ 
+ 
+
+ 
+J. nr. x 10 
+Sag: TASK FORCE 
+ 
+11. AFLEVERING AF TILBUD 
+Tilbud skal afleveres elektronisk pr. e-mail til Jens Stærdahl, jensta@gladsaxe.dk med kopi til 
+Signe Boelsmand sigboe@gladsaxe.dk, Pernille Sloth pls@novafos.dk, Frank Brodersen 
+frbr@hofor.dk, Else Marie Jakobsen elja@hofor.dk, og Anders Hertz Kristensen ahk@fors.dk     
+ 
+Frist for aflevering af tilbud er mandag d. 26. november 2018 kl. 12 
+ 
+Der modtages ikke alternative bud. 
+ 
+12. FORBEHOLD  
+Tilbudsgiverne opfordres til at afstå fra at tage forbehold, herunder standardforbehold og andre 
+faglige forbehold.  
+ 
+Såfremt tilbudsgiver opfatter vilkår i miniudbudsmateriale som uacceptable eller uhensigtsmæs-
+sige, opfordres tilbudsgiver til at stille spørgsmål hertil frem for at tage forbehold. Ordregiver vil 
+herefter tage stilling til, om der skal foretages ændringer i det udsendte materiale.  
+ 
+Tilbud, der indeholder forbehold, der er i strid med grundlæggende udbuds- eller kontraktvilkår, 
+eller som indeholder forbehold, som ikke kan prissættes, vil blive afvist som ukonditionsmæs-
+sige.  
+ 
+Tilbudsgiver gøres opmærksom på, at Ordregiver også er berettiget til at afvise tilbud, der inde-
+holder forbehold for ikke grundlæggende vilkår. 
+13. BEDØMMELSE 
+Tilbuddene bedømmes i henhold til den fremsendte evalueringsmodel.  
+13.1. Pris 
+Laveste tilbudspris.  
+13.2. Organisation og bemanding 
+Der lægges vægt på, at relevante fagområder er dækket af medarbejdere med relevant erfaring 
+og kompetencer.  
+ 
+Der lægges endvidere vægt på, at rådgiveren etablerer en organisation, som indeholder klare og 
+logiske kompetence- og ansvarsforhold, således at kommunikation fremmes og spildtid internt i 
+organisationen og i relation til Ordregiver minimeres. 
+13.3. Opgavens løsning 
+Der vil blive lagt vægt på, at rådgiveren har ideer til løsningselementer og demonstrerer faglig 
+indsigt i opgaverne.  
+ 
+
+ 
+J. nr. x 11 
+Sag: TASK FORCE 
+ 
+Endvidere vil der blive lagt vægt på, at rådgiveren har forståelse for de vigtigste udfordringer og 
+har forslag til at tackle disse.  
+ 
+14. AFTALEINDGÅELSE 
+Ordregiver vil, når bedømmelsen er afsluttet, indgå aftale med den rådgiver, der har afgivet det 
+økonomisk mest fordelagtige tilbud.  
+ 
+Aftalen vil blive indgået på baggrund af paradigme for rådgivningsaftale, bilag 2 til Rammeaftalen 
+om rådgivning til KLIKOVAND indgået mellem rådgiveren og Gladsaxe Kommune, KLIKOVAND

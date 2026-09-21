@@ -1,0 +1,591 @@
+=== DNNK PDF Dokument ===
+Titel: Overblik over samt analyse af hydrauliske data for Værebro Å oplandet her >
+Kategori: Rapporter_s5
+Kilde: https://usercontent.one/wp/www.dnnk.dk/wp-content/uploads/2020/07/Overblik-over-samt-analyse-af-hydrauliske-data-for-Værebro-Å-oplandet.pdf
+Indekseret: 2026-09-21T18:38:37.095533
+
+==================================================
+
+JUNI 2019 
+KLIKOVAND 
+OVERBLIK OVER SAMT 
+ANALYSE AF HYDRAULISKE 
+DATA FOR VÆREBRO Å 
+OPLANDET 
+RAPPORT 
+ 
+   
+ 
+ 
+
+
+ 
+ 
+JUNI 2019 
+KLIKOVAND 
+OVERBLIK OVER SAMT 
+ANALYSE AF HYDRAULISKE 
+DATA FOR VÆREBRO Å 
+OPLANDET 
+RAPPORT 
+ 
+  
+ ADRESSE COWI A/S 
+Parallelvej 2 
+2800 Kongens Lyngby 
+ 
+ TLF +45 56 40 00 00 
+ FAX +45 56 40 99 99 
+ WWW cowi.dk 
+PROJEKTNR. DOKUMENTNR.     
+A120211 A120211-020 
+      
+VERSION UDGIVELSESDATO BESKRIVELSE UDARBEJDET KONTROLLERET GODKENDT 
+3.0 18. juni 2019  LSFV/JIJ BOC JIJ 
+
+
+ 
+ 
+     
+DATAINDSAMLING VÆREBRO Å  5  
+http://projects.cowiportal.com/ps/A120211/Documents/03 Project documents/A120211-020_Rapport_datakatalog_VærebroAa.DOCX  
+INDHOLD 
+1 Indledning 7 
+2 Datakatalog 9 
+3 Vurdering af datakvalitet 11 
+3.1 Målinger 11 
+3.2 Fysiske data 12 
+3.3 Modeller 12 
+3.4 Viden 12 
+3.5 Planlægning 13 
+3.6 Samlet evaluering af datagrundlag 13 
+4 Oplæg til opbygning og indhold af fremtidig 
+model 14 
+4.1 Mulige modelværktøjer 14 
+4.2 Fordele og ulemper ved de forskellige 
+programmer 17 
+5 Anbefaling til opsætning af hydraulisk model 18 
+ 
+
+ 
+ 
+     
+DATAINDSAMLING VÆREBRO Å  7  
+http://projects.cowiportal.com/ps/A120211/Documents/03 Project documents/A120211-020_Rapport_datakatalog_VærebroAa.DOCX  
+1 Indledning 
+KLIKOVAND har i samarbejde med Novafos, HOFOR, Ballerup, Egedal, Furesø, 
+Frederikssund, Gladsaxe, Herlev og Roskilde Kommune iværksat dette projekt, 
+hvis formål der er at indsamle og evaluere data for Værebro Å-oplandet samt 
+give et bud på, hvordan ønskerne til en fælles fremtidig hydraulisk model kan 
+formuleres.  
+I Værebro Å-oplandet er der i alt 87 km vandløb, hvoraf Værebro Å udgør de 19 
+km. Over halvdelen af oplandsarealet anvendes i dag til landbrug (Figur 1).  
+ 
+Opland: 15347 hektar Arealanvendelse 
+Egedal 60 % 
+Furesø 15 % 
+Ballerup 11 % 
+Roskilde 8,4 % 
+Herlev 2,3 % 
+Gladsaxe 2,2 % 
+Frederikssund 0,6 % 
+Allerød 0,5 % 
+Landbrug: 52 % 
+Byområder: 20 % (bebygget 4%) 
+Skov: 12 % 
+Natur: 8 % 
+Vandløb og søer 3 % 
+Øvrigt 2 % 
+Figur 1 Oversigtskort over opland til Værebro Å samt nøgletal for oplandet  
+
+
+ 
+ 
+     
+ 8  DATAINDSAMLING VÆREBRO Å 
+ http://projects.cowiportal.com/ps/A120211/Documents/03 Project documents/A120211-020_Rapport_datakatalog_VærebroAa.DOCX 
+Projektet udgør det tekniske spor i det overordnede projekt: ”Værebro Å, vand-
+oplandsbaseret samarbejde på tværs af kommunegrænser”, som er et samar-
+bejde mellem 7 kommuner og de tre forsyninger i oplandet. Projektets overord-
+nede formål er at skabe et nyt og velfunderet grundlag for en mere robust hånd-
+tering af oversvømmelsesrisici i Værebro Å-vandoplandet ved hjælp af nye red-
+skaber og en styrket tværkommunal indsats. 
+Der arbejdes i to sideløbende spor: et teknisk spor og et dialogbaseret spor. De 
+to spor har arbejdet sideløbende og været forankret i tre workshop i første 
+halvår af 2019. 
+Nærværende rapport udgør afrapporteringen fra det tekniske spor om hydrauli-
+ske data. Afrapporteringen består af nærværende rapport, et teknisk bilag, et 
+datakatalog i Excel og en QGIS-opsætning for georefererbare data i datakatalo-
+get.  
+Rapporten opsummerer viden indsamlet i projektet samt vurderer datakvalitet 
+og behovet for supplerende data. Desuden indeholder rapporten et oplæg til op-
+bygning og indhold af fremtidig model. Det tekniske bilag gennemgår detaljerne 
+i datakataloget og introducerer opsætningen i QGIS.  
+Alle 7 kommuner, Novafos og HOFOR har bidraget med data til datakataloget. 
+Data er derudover indsamlet direkte fra relevante statslige organisationer som 
+f.eks. GEUS, DMI, Styrelsen for Dataforsyning og Effektivisering, Kystdirektora-
+tet, GeoDanmark mfl. 
+
+ 
+ 
+     
+DATAINDSAMLING VÆREBRO Å  9  
+http://projects.cowiportal.com/ps/A120211/Documents/03 Project documents/A120211-020_Rapport_datakatalog_VærebroAa.DOCX  
+2 Datakatalog 
+Datakataloget er opbygget i Excel, således at det nemt kan opdateres med ny 
+viden og ligger i et format, alle kan tilgå. I datakataloget er der en informations-
+fane, der kort beskriver de data, der ligger i datakataloget, og de parametre, der 
+er brugt til at beskrive data.  
+Datakataloget er opdelt i fem hovedkategorier, som er målinger, fysiske data, 
+modeller, viden og planlægning. Indenfor hver kategori er det muligt at sortere 
+på data, således at hvis man ønsker f.eks. en måleserie for nedbør, som måler 
+frem til i dag, kan man hurtig få en overblik over, hvor det er muligt.  
+Samlet set er der på nuværende tidspunkt 734 datapunkter i datakataloget. 
+Langt de fleste datapunkter er måleserier og fysiske registreringer såsom bore-
+prøver eller vandløbsopmålinger. Der er dog også både vandløbsmodeller og 
+grundvandsmodeller i datakataloget.  
+Datakatalog for Værebro Å 
+› Målinger   314 datapunkter 
+› Fysiske data  296 datapunkter 
+› Modeller      72 datapunkter 
+› Viden      39 datapunkter 
+› Planlægning     16 datapunkter 
+› Samlet   734 datapunkter 
+For den del af datakataloget, som kan georefereres, er der tilknyttet en opsæt-
+ning i GIS. Denne giver mulighed for på at vise de forskellige typer af data på et 
+kort som temaer, der kan slås til og fra for at få et overblik over, hvor der er 
+data.  
+ 
+Figur 2 Overblik over måledata i GIS 
+
+
+ 
+ 
+     
+ 10  DATAINDSAMLING VÆREBRO Å 
+ http://projects.cowiportal.com/ps/A120211/Documents/03 Project documents/A120211-020_Rapport_datakatalog_VærebroAa.DOCX 
+ 
+Figur 3 Overblik over modeller i GIS 
+ 
+Figur 4 Overblik over fysiske data i GIS 
+ 
+Figur 5 Overblik over viden om oversvømmelser i GIS 
+
+
+ 
+ 
+     
+DATAINDSAMLING VÆREBRO Å  11  
+http://projects.cowiportal.com/ps/A120211/Documents/03 Project documents/A120211-020_Rapport_datakatalog_VærebroAa.DOCX  
+3 Vurdering af datakvalitet 
+3.1 Målinger 
+Der er generelt en god dækning i form af meteorologiske data for oplandet samt 
+hydrologiske data for vandløbet. De væsentligste i forhold til opstilling af hy-
+drauliske modeller er nedbør og afstrømning. Data der kun er relevante ved 
+mere avancerede modeller end der normalt inddrages er: fordampning, tempe-
+ratur, vandindvinding, vind, udledninger fra renseanlæg og udledning fra befæ-
+stede arealer.  
+3.1.1 Nedbør 
+Der er kontinuert målt nedbør på forskellige stationer i oplandet tilbage fra 1979 
+til i dag. 23 nedbørsmålere er i drift i 2019. Målestationen ved Søborg vandværk 
+har målt kontinuerligt siden 1. januar 1979. 
+3.1.2 Vandstand og vandføring 
+Vandføring er en afgørende datakilde til hydrauliske vandløbsmodeller, som en-
+ten bruges direkte som input til stationære modeller eller til kalibrering af dyna-
+misk afstrømningsmodeller. Vandføringen bestemmes normalt på grundlag af 
+målinger af vandstand og omregnes til vandføring på grundlag af QH-relationer, 
+der er bestemt ved en række samhørende enkelt målinger af vandstand og 
+vandføring ved den pågældende station. 
+Der findes vandstandsmålinger fra 55 lokaliteter, hvoraf 35 er enkeltmålinger og 
+20 er kontinuerte målinger af kortere eller længere varighed. Målestationen ved 
+Veksø Bro har været i drift siden maj 1978 og er stadig i drift. Samlet er 6 
+vandstandsmålere i drift i 2019. 
+Der er 70 serier af vandføringsmålinger (nogle stationer har flere, da der både 
+foreligger enkeltmålinger brugt til QH-relationer og tidsserier). 18 stationer har 
+kontinuerte målinger med daglige værdier. For Veksø Bro foreligger der data fra 
+1979 til 2012 med døgnmiddelvandføringer, og ved Snydebro er der opsat en ny 
+måler, der har målt kontinuert siden 2009. Enkeltmålingerne i oplandet kan bru-
+ges til at oplandskorrigere afstrømningerne ved opsætning af en hydraulisk mo-
+del. 
+3.1.3 Fordampning, vind og temperatur 
+Der foreligger meteorologiske data fra DMI i 10 x 10 m grid for potentiel for-
+dampning, vind og temperatur. Endvidere findes målinger af vandtemperatur 
+ved enkelte lokaliteter.  
+3.1.4 Vandindvinding 
+Der er 137 vandboringer i oplandet. Data om disse findes i jupiterdatabasen.  
+
+ 
+ 
+     
+ 12  DATAINDSAMLING VÆREBRO Å 
+ http://projects.cowiportal.com/ps/A120211/Documents/03 Project documents/A120211-020_Rapport_datakatalog_VærebroAa.DOCX 
+3.1.5 Udløb fra renseanlæg og befæstede arealer 
+Der er begrænset viden om de faktiske udledninger fra befæstede arealer til 
+vandløbssystemet. Data foreligger i form af data i PULS, som kan have varie-
+rende kvalitet. For 4 renseanlæg findes der målinger af udledningen. NOVAFOS 
+har målinger af døgnudledningen for de sidste få år. 
+Ift. de befæstede arealer vil det være muligt på grundlag af hydrauliske bereg-
+ninger på afløbsmodeller (se senere afsnit) at opstille tidsserier for regnbetin-
+gede udledninger til vandløbssystemet.  
+3.2 Fysiske data 
+De mest relevante fysiske data for opstilling af hydrauliske modeller er konkrete 
+data for de elementer, der transportere vandet og kan blive berørt af oversvøm-
+melser. 
+Der er generelt en rigtig god dækning i oplandet i form af opmålinger af vand-
+løb, ledningsdatabaser og terrænmodeller. Vandløbsopmålingerne er nyest i de 
+nedre dele af vandløbssystemet, mens der for de øverste delstrækninger og 
+nogle sidetilløb kun findes ældre opmålinger tilbage fra 1996. 
+I forhold til opstilling af hydrauliske modeller vurderes det, at der er et godt 
+grundlag at arbejde videre på. 
+3.3 Modeller 
+Der er gennem de seneste år udviklet og opstillet en række hydrauliske modeller 
+i oplandet. For hovedparten af vandløbssystemet findes vandløbsmodeller i 
+VASP. Disse bruges i den daglige vandløbsadministration bl.a. til sammenligning 
+mellem opmålt skikkelse og den regulativmæssige skikkelse. Derudover findes 
+der en række MIKE 11-vandløbsmodeller, som er opsat med forskellige formål. 
+Der findes bl.a. modeller for den nedre del ved slusen (under etablering) og til 
+brug for vådområdeprojekter, samt for Tibberup Å og for Måløv Å. Ved det vi-
+dere arbejde med hydrauliske modeller skal man være opmærksom på med hvil-
+ket formål de forskellige modeller er opsat, og hvilke forudsætninger, der er 
+brugt. 
+Der findes modeller for alle offentlige kloaksystemet i oplandet, og der er der-
+med et godt grundlag for at vurdere betydningen af de regnbetingede udlednin-
+ger samt evt. opstille hydrauliske modeller, der indeholder beskrivelse af kloak-
+systemet. 
+3.4 Viden 
+Der findes en række rapporter, der behandler forskellige forhold i oplandet. En 
+del af disse omhandler projekter og undersøgelser, som bidrager med viden om 
+de modeller, der allerede er opsat for vandløbssystemet.  
+
+ 
+ 
+     
+DATAINDSAMLING VÆREBRO Å  13  
+http://projects.cowiportal.com/ps/A120211/Documents/03 Project documents/A120211-020_Rapport_datakatalog_VærebroAa.DOCX  
+En væsentlig rapport er DHIs statusrapport fra 2014 om udviklingen i vandstand 
+og vandføring i Værebro Å. Den giver et godt samlet hydrologisk overblik og in-
+deholder analyser af oplandet og de hydrologiske forhold. 
+3.5 Planlægning 
+Denne del af datakataloget indeholder oplysninger og henvisninger til relevante 
+spildevandsplaner og andre relevante planer, der kan have væsentlig betydning 
+for de fremtidige hydrauliske forhold i oplandet. 
+3.6 Samlet evaluering af datagrundlag 
+Det vurderes samlet, at der er et godt og tilstrækkeligt grundlag for opstilling og 
+udvikling af både simple og meget avancerede hydrauliske modeller for Værebro 
+Å-oplandet.  
+Den tilgængelige viden kan opsummeres som følger: 
+› Vandløbsopmålinger 
+› Viden om næsten alle strækninger 
+› Nogle er ældre 
+› Modeller 
+› MIKE 11 modeller opsat for delstrækninger – med forskellige formål 
+› VASP for stort set hele systemet 
+› Data er generelt godt dækkende 
+› God kvalitet af måledata 
+› Mangler viden/tidsserier om samlede udledninger fra befæstede arealer på 
+bedre niveau end PULS data 
+› God beskrivelse af fysiske forhold 
+I det videre arbejde kan der dog vise sig behov for at indsamle yderligere data. 
+Dette kan f.eks. være målinger på regnbetingede udledninger til kalibrering af 
+MIKE Urban modellerne for at få endnu bedre indblik i de regnbetingede udled-
+ningers betydning. Eller det kan være supplerende synkronmålinger af vandfø-
+ring i sidetilløb for at opnå en endnu bedre beskrivelse af, hvor vandet kommer 
+fra. Sådanne behov kan først adresseres, når der foreligger en hydraulisk model 
+og udfordringer og muligheder er yderligere konkretiseret og detaljeret. 
+
+ 
+ 
+     
+ 14  DATAINDSAMLING VÆREBRO Å 
+ http://projects.cowiportal.com/ps/A120211/Documents/03 Project documents/A120211-020_Rapport_datakatalog_VærebroAa.DOCX 
+4 Oplæg til opbygning og indhold af 
+fremtidig model 
+4.1 Mulige modelværktøjer 
+I dette afsnit gives en kort beskrivelse af relevante modelværktøjer med deres 
+fordele og ulemper. 
+4.1.1 SCALGOLive 
+SCALGOLive indeholder et simpelt hydraulisk værktøj som særligt har sine styr-
+ker ift. screening for oversvømmelser og hurtige analyser. Styrken er, at der 
+regnes på den fuldt detaljerede terrænmodel med en opløsning på 40 x 40 cm. 
+Herved kan selv små variationer i terrænet beskrives og tages ind i beregnin-
+gen. De hydrauliske beregninger er forholdsvis simple og baseret på GIS-
+analyser af terrænmodellen, der beregner, hvordan vandet bevæger sig og kort-
+lægger lavninger og strømningsveje. Der kan påføres en vilkårlig vandmængde i 
+skybrudskortet, som så viser, hvor vandet samler sig, hvordan det kommer der-
+hen, og hvilket opland der bidrager.  
+ 
+Figur 6 Screendump af SCALGOLive – vandløb, for Værebro Å. Det markerede 
+længdeprofil viser terræn og vandstand ned gennem vandløbet.  
+SCALGOLive kan desuden (siden foråret 2019) arbejde med vandløbsoversvøm-
+melser i et vandløbsmodul. Vandløbsmodulet er baseret på manningformlen. Det 
+er muligt at "nedbrænde" en simpel beskrivelse af vandløb med bundkoter, 
+bundbredde og sideanlæg i terrænmodellen. Herved kan der udarbejdes over-
+svømmelseskort for forskellige karakteristiske afstrømninger. Beregningerne er 
+stationære, hvilket betyder, at man ikke kan lave analyser af betydningen af at 
+lave et magasin på vandløbet, da dynamikken i fyldning og tømning af dette 
+ikke kan simuleres. 
+
+
+ 
+ 
+     
+DATAINDSAMLING VÆREBRO Å  15  
+http://projects.cowiportal.com/ps/A120211/Documents/03 Project documents/A120211-020_Rapport_datakatalog_VærebroAa.DOCX  
+4.1.2 VASP 
+VASP er et vandløbsadministrationsprogram udviklet af Orbicon. Det anvendes 
+af mange kommuner i Danmark. VASP kan regne på åbne og lukkede vandløb, 
+broer og bygværker. Som udgangspunkt beregnes vandspejl på den opmålte el-
+ler regulativmæssige vandløbsskikkelse. Det omkringliggende terræn tages såle-
+des ikke i regning. Det er dog muligt at udvide tværsnittene med f.eks. 50 m til 
+hver side og på denne måde inddrage hele ådalen i beregningerne.  
+ 
+Figur 7 VASP med beskrivelse af længdeprofil og tværprofiler.  
+Som SCALGOLive regnes der også i VASP på stationære strømninger. 
+4.1.3 3Di 
+Nelen og Schuurmans er leverandører af et nyere hollandsk beregningsværktøj, 3Di. 3Di 
+kan i samme model beregne strømninger på overfladen, i terrænnært grundvand og i lednin-
+ger. Det er muligt at opsætte modeller, der regner på 2D terræn, 2D terrænnært grundvand, 
+1D kloaksystem og 1D vandløb samt inddrage hav og søer i samme model.  
+Selve opsætningen er relativ tung og kræver ekspertviden om programmet, men det er her-
+efter muligt at lave hurtige scenariekørsler og på den måde analysere flere løsninger på kort 
+tid.   
+3Di er webbaseret og beregningerne foregår således i et webinterface, som det også ken-
+des fra SCALGO. 
+
+
+ 
+ 
+     
+ 16  DATAINDSAMLING VÆREBRO Å 
+ http://projects.cowiportal.com/ps/A120211/Documents/03 Project documents/A120211-020_Rapport_datakatalog_VærebroAa.DOCX 
+ 
+Figur 8 Udsnit af webside for 3Di 
+4.1.4 MIKE 
+MIKE programmerne, der udvikles af DHI, kan betegnes som standard software i 
+Danmark til dynamiske beregninger på afløbssystemer, vandløb, grundvand og 
+hav. Programpakken består af en række specialiserede produkter: MIKE Urban 
+til kloak, MIKE Hydro til vandløb, (tidligere MIKE 11), MIKE 21 til hav, fjorde og 
+søer og MIKE SHE til grundvand. 
+ 
+Figur 9 Eksempel på MIKE modelopsætning  
+Programmerne kan efter behov sammenkobles. MIKE SHE er som udgangspunkt 
+koblet med MIKE Hydro til beskrivelse af vandløbet, mens de øvrige programmer 
+kan kobles til beregning af oversvømmelser på terræn ved hjælp af en MIKE 
+FLOOD-komponent. 
+
+
+ 
+ 
+     
+DATAINDSAMLING VÆREBRO Å  17  
+http://projects.cowiportal.com/ps/A120211/Documents/03 Project documents/A120211-020_Rapport_datakatalog_VærebroAa.DOCX  
+MIKE FLOOD kan således koble enten afløbssystem og terræn, vandløbssystem 
+og terræn eller både kloak, vandløb og terræn i en og samme model. Terræn 
+kan i den forbindelse både være en beskrivelse af land og havbund. 
+4.2 Fordele og ulemper ved de forskellige 
+programmer 
+De forskellige programmer har hver især en række primære anvendelsesområ-
+der, styrker og svagheder. Nedenstående matrice giver en simpel sammenlig-
+ning af de nævnte modelværktøjer. 
+ 
+SCALGO 
+Live 
+VASP 3Di (MIKE Urban) MIKE Hy-
+dro 1D 
+MIKE 
+FLOOD 
+Hverdagsregn/ 
+afstrømning Ikke egnet Egnet Egnet Egnet Egnet Egnet 
+Skybrud Egnet Kan bruges Egnet Egnet Egnet Egnet 
+Dynamisk afstrømning Ikke mulig Ikke mulig God Bedst Bedst Bedst 
+Præcision Middel Middel God Bedst Bedst Bedst 
+Detaljering (udbredelse af 
+oversvømmelser) God Middel God Middel  Middel Bedst 
+Brugervenlighed Let tilgængeligt Superbru-
+ger 
+Superbru-
+ger Ekspert Ekspert Ekspert 
+Scenarie analyser Hurtig Hurtig Hurtig Rimelig Rimelig Langsom 
+Omkostning Billigt Mellem  Mellem  Mellem  Mellem  Dyrt 
+Tabel 1 Oversigt over modeller, med tekst er angivet en kort beskrivelse, mens 
+farven indikerer anvendelighed, eller økonomi/tid. Grøn er bedst og rød er 
+værst/dyrest. 
+Ved valg af det modelværktøj skal det fastlægges, hvad formålet er med opsæt-
+ningen af en hydraulisk model. Hvilke mulige scenarier skal undersøges? Skal 
+der både kunne regnes på hverdagsregn og skybrud? Skal der være kobling til 
+grundvand, og hvilke andre hydrauliske problemstillinger er relevante at belyse. 
+ 
+
+ 
+ 
+     
+ 18  DATAINDSAMLING VÆREBRO Å 
+ http://projects.cowiportal.com/ps/A120211/Documents/03 Project documents/A120211-020_Rapport_datakatalog_VærebroAa.DOCX 
+5 Virkemidler og scenarier for Værebro Å 
+Grundlæggende kan der arbejdes med tre forskellige virkemidler for at reducere 
+oversvømmelsesproblematikken i Værebro Å: 
+› Mindre vand i Værebro Å 
+› Større kapacitet 
+› Styring af vandet  
+Derudover er det selvfølgeligt muligt at undlade at gribe ind (0-scenarie) og lade 
+forholdene udvikle sig i takt med klimaet. 
+0-scenariet vil medføre, at situationen langsomt forværres. Der er en række 
+forhold, som er i gang med at ændre sig og vil påvirke afstrømningen og afvan-
+dingen af ådalen. Vinternedbøren forventes at stige med op til 20%, hvilket vil 
+medføre stigende grundvandsstand og større vinterafstrømning. De nuværende 
+våde perioder i vinter og forårsmånederne kan således blive længere. Om som-
+meren vil hyppigheden af skybrud øges og medføre øgning i de regnbetingede 
+udledninger. Variationen år for år kan også forventes at blive større, således at 
+der både kan forekomme meget våde perioder, som efteråret 2017, og særdeles 
+tørre somre, som sommeren 2018. 
+Den stigende havvandstand vil ligeledes reducere afstrømningskapaciteten, da 
+vandspejlsfaldet fra åen ud mod Roskilde Fjord reduceres. 
+Fortsat dræning af de vandløbsnære arealer vil medføre, at den igangværende 
+sætning af arealerne vil fortsætte, hvilket også forringer afvandingen.  
+Mindre vand i Værebro Å, kan f.eks. ske ved afkobling af renseanlæg og udled-
+ning til fjorden. En anden, men dog økonomisk urealistisk, mulighed er afkobling 
+af vand fra byområderne og befæstede arealer. Det kunne dog tænkes, at der 
+kan findes mindre byområder, der kan ledes til nabooplande. 
+
+ 
+ 
+     
+DATAINDSAMLING VÆREBRO Å  19  
+http://projects.cowiportal.com/ps/A120211/Documents/03 Project documents/A120211-020_Rapport_datakatalog_VærebroAa.DOCX  
+ 
+Figur 10 Illustration af ”mindre vand i Værebro Å”  
+Større kapacitet handler om at forbedre vandføringsevnen. Dette kan i praksis 
+ske ved at udvide vandløbet. Der er dog en række forhold der gør, at mulighe-
+derne er begrænsede. Således ligger udløbet lavt, og vandspejlet er påvirket af 
+vandstanden i Roskilde Fjord. En udvidelse og uddybning får således ikke 
+samme effekt, som hvis disse randbetingelser ikke var gældende. En udvidelse 
+af tværsnittet vil desuden medføre lavere strømningshastighed, som vil medføre 
+en øget plantevækst i vandløbet og øget sedimentation. Derved stiger den hy-
+drauliske modstand, og det øgede tværsnit har derved kun effekt på vandspejlet 
+lige efter grødeskæring. 
+Der er i forbindelse med sluse projektet projekteret en pumpe ved udløbet af 
+Værebro Å. Det er dog ikke meningen, at denne skal pumpe konstant, men kun i 
+forbindelse med højvande, hvor slusen lukkes. 
+ 
+Figur 11 Illustration af ”større kapacitet i Værebro Å”  
+
+
+ 
+ 
+     
+ 20  DATAINDSAMLING VÆREBRO Å 
+ http://projects.cowiportal.com/ps/A120211/Documents/03 Project documents/A120211-020_Rapport_datakatalog_VærebroAa.DOCX 
+Styring af vandet kan ske efter to forskellige principper. Det eksisterende ter-
+ræn kan udnyttes til etableres nye lavbundsområder til oversvømmelser, som 
+udjævner vandføringen, fordi at vandet fordeles på større arealer. Effekten på 
+oversvømmelser er dog større ved en aktiv styring af vandet i ådalen, hvor man 
+med sluser udnytter det eksisterende terræn til kontrollerede oversvømmelser. 
+Da der oftest er tale om langvarige oversvømmelser samt store afstrømninger, 
+er metoden kun brugbar, hvis der disponeres over betydelige arealer. 
+ 
+Figur 12 Illustration af ”Vandparkering i Værebro Å” 
+ 
+Figur 13 Illustration af ”Styring af vandet i Værebro Å”  
+
+
+ 
+ 
+     
+DATAINDSAMLING VÆREBRO Å  21  
+http://projects.cowiportal.com/ps/A120211/Documents/03 Project documents/A120211-020_Rapport_datakatalog_VærebroAa.DOCX  
+De beskrevne virkemidler kan undersøges hver for sig, for at finde potentialet 
+ved enkelte mulige indgreb, men i praksis vil der ved opstilling af egentlige sce-
+narier for ådalen, ofte være tale om en kombination af virkemidler.  
+
+ 
+ 
+     
+ 22  DATAINDSAMLING VÆREBRO Å 
+ http://projects.cowiportal.com/ps/A120211/Documents/03 Project documents/A120211-020_Rapport_datakatalog_VærebroAa.DOCX 
+6 Anbefaling til opsætning af hydraulisk 
+model 
+På baggrund af forløbet af projektet og de afholdte workshops anbefales en ite-
+rativ tilgang til modelopsætningen. Dette foranlediges af, at der er behov for at 
+få belyst en række indledende scenarier, før man kan se i hvilken retning pro-
+jektet evt. kan udvikle sig.  
+Såfremt man udfører en indledende analyse af de enkelte virkemidler og deres 
+mulige effekt, så får man en viden om hvor langt man kan komme med forskel-
+lige typer af indgreb. Herefter vil det være muligt at opsætte egentlige scena-
+rier, der kombinerer de forskellige virkemidler 
+Vi anbefaler derfor en faseopdelt modelopsætning baseret på DHI software. De 
+mulige faser og udbytte af disse er skitseret i nedenstående diagram. 
+Tabel 2 Forslag til faseopdelt modelopsætning  
+Fase Formål Model Mulige resultater 
+1 At analysere de for-
+skellige virkemidler 
+ift. effekt  
+MIKE Hydro model, 
+opsat på grundlag 
+af eksisterende 
+MIKE 11 modeller, 
+tværsnitsopmålin-
+ger og terræn. 
+Afstrømning fra be-
+fæstede arealer ba-
+seres på simple 
+arealbaserede be-
+tragtninger. 
+Effekt af de forskel-
+lige virkemidler: 
+- afkobling af ren-
+seanlæg 
+- udvidelse af kapa-
+citet 
+- styring af vandet i 
+vandløbet 
+-magasinering og 
+vandparkering 
+ 
+- analyse af klima-
+påvirkninger 
+2 Detaljering af rele-
+vante parametre 
+Afhængig af resul-
+ter af fase 1: 
+- Detaljering af af-
+strømning fra befæ-
+stede arealer 
+- kobling med MIKE 
+SHE og udvikling af 
+afstrømningsmodul 
+Forbedret viden ift. 
+videre beslutninger 
+om mulige indgreb i 
+oplandet. 
+3 Detaljering til kon-
+kret projektering 
+Afhængig af behov 
+for projektering 
+Detaljeret analyse 
+af projekter, sam-
+menhænge, konse-
+kvenser og effekt. 
+ 
+I fase 1 foreslås det, at der opstilles en relativ simpel MIKE Hydro model for det 
+samlede vandløbssystem baseret på eksisterende MIKE 11 modeller og opmålin-
+ger af tværsnittet. Tværsnittene udvides i ådalen til at omfatte terræn, og der 
+opstilles simple modeller for byområderne for at modellere effekten af de regn-
+betingede udledninger. Modellen påføres vandføring på grundlag af målinger og 
+
+ 
+ 
+     
+DATAINDSAMLING VÆREBRO Å  23  
+http://projects.cowiportal.com/ps/A120211/Documents/03 Project documents/A120211-020_Rapport_datakatalog_VærebroAa.DOCX  
+kalibreres mod målt vandstand og vandføring. Modellen kan anvendes til at vur-
+dere effekten af de forskellige virkemidler. Det vurderes, at dette arbejde kan 
+udføres i løbet af 2-3 mdr. 
+Resultaterne i fase 1 vil give grundlag for det videre arbejde i fase 2. Her kan 
+der være behov for at detaljere nogle af analyserne eller evt. koble et grund-
+vandsmodul på. Omfanget af arbejde i fase 2 kan variere en del, modelarbejdet 
+vurderes at kunne udføres på 1-6 mdr. hvor kobling med en grundvandsmodel 
+vil være det mest tidskrævende. 
+I fase 3 opstilles konkrete tiltag og disse analyseres med hensyn til funktion og 
+effekt. Da det ikke vides, om der er behov for få eller mange tiltag, og disse kan 
+være indbyrdes afhængige, kan tidsforbruget for fase 3 ikke fastlægges nær-
+mere nu.

@@ -1,0 +1,1243 @@
+=== DNNK PDF Dokument ===
+Titel: her >
+Kategori: Rapporter_s5
+Kilde: https://usercontent.one/wp/www.dnnk.dk/wp-content/uploads/2020/07/first-flush-review.pdf
+Indekseret: 2026-09-21T18:36:50.548198
+
+==================================================
+
+Vand i Byer 
+Rapport 
+Januar 2018 
+ 
+ 
+First flush  
+Review og principper for karakterisering af first 
+flush 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+
+  
+ first flush  review / bop / 2018-01-19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Denne rapport er udarbejdet under DHI’s ledelsessystem, som er certificeret af Bureau Veritas  
+for overensstemmelse med ISO 9001 for kvalitetsledelse  
+ 
+ 
+ 
+ 
+ 
+Godkendt af 
+ 
+Invalid signature
+X
+Approved by
+Signed by: Henrik Garsdal  
+ 
+ 
+ 
+
+
+  
+ 
+DHI • Agern Allé 5  •      • 2970  Hørsholm  
+Telefon: +45 4516 9200  • Telefax: +45 4516 9292  • dhi@dhigroup.com  • www.dhigroup.com  
+ 
+First flush  
+Review og principper for karakterisering af first 
+flush 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Udarbejdet for Vand i Byer og Københavns Kommune 
+Repræsenteret ved Maria Burup Dahl, Teknologisk Institut 
+                                            Mia Jahn Knudsen, Københavns 
+Kommune   
+Vejbrønd 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Projektleder Bodil Mose Pedersen 
+Kvalitetsansvarlig Ulf Nielsen 
+ 
+Projektnummer 11821416 
+Godkendelsesdato Endelig rapport 25. januar 2018 
+Klassifikation Åben 
+ 
+  
+
+
+  
+ first flush  review / bop / 2018-01-19 
+ 
+ 
+ 
+ 
+ 
+
+  
+ i 
+ 
+INDHOLDSFORTEGNELSE 
+ 
+1 Sammenfatning ................................ ................................ ................................ ........... 3 
+2 Indledning og formål ................................ ................................ ................................ ... 5 
+3 First flush ................................ ................................ ................................ ..................... 7 
+3.1 Karakterisering af first flush ........................................................................................................... 7 
+3.2 Sammenfatning – Karakterisering af first flush ............................................................................ 15 
+3.3 Moniteringsmetoder – parametre og stofbelastning .................................................................... 16 
+3.3.1 Målemetoder anvendt til karakterisering af first flush .................................................................. 16 
+4 Regulering af regnvandsstrøm ved vandbremser ................................ .................. 19 
+4.1 Anvendelse af vandbremser til regnvandsregulering................................................................... 23 
+5 Måleprogram for first flush ................................ ................................ ....................... 25 
+5.1 2-trins måleprogram ..................................................................................................................... 25 
+5.1.1 Karakterisering af afstrømningsoplandet ..................................................................................... 27 
+5.1.2 Indretning af prøvetagningssted .................................................................................................. 27 
+5.1.3 Dataopsamling ............................................................................................................................. 27 
+5.1.4 Måleperiode ................................................................................................................................. 28 
+5.1.5 Databearbejdning og erfaringsopsamling .................................................................................... 29 
+6 Konklusioner og anbefalinger ................................ ................................ .................. 31 
+6.1 Anbefalinger ................................................................................................................................. 32 
+7 Referencer ................................ ................................ ................................ ................. 33 
+ 
+ 
+FIGURER 
+ 
+Figur 3-1:  Afhængigt af first flush koefficienten er forholdet mellem den akkumulerede masse og det 
+akkumulerede flow inddelt i forskellige zoner /9/. .......................................................................... 8 
+Figur 3-2:  M(V) kurver for 162 regnhændelser /4/ .......................................................................................... 9 
+Figur 3-3:  To små regnhændelser fra d. 3. og 4. marts (b) samt 5. og 6. marts 2005 (c) i det 
+separatkloakerede opland Chassieu i Frankrig. I figuren er vist regnintensiteten (I), flow 
+(Q) SS (TSS) og COD. De lodrette linjer viser start og slut på regnhændelserne. Den 
+lysegrå markering viser 95% konfidensinterval. .......................................................................... 11 
+Figur 3-4:  Successive regnhændelser fra d. 29. og 30. maj (b) samt 5. og 6. juni 2008 (c) i det 
+separatkloakerede opland Chassieu i Frankrig. I figuren er vist regnintensiteten (I), flow 
+(Q) SS (TSS) og COD. De lodrette linjer viser start og slut på regnhændelserne. Den 
+lysegrå markering viser 95% konfidensinterval. .......................................................................... 11 
+Figur 3-5:  Klassifikation af M(V) kurver i tre zoner /12/. ............................................................................... 12 
+Figur 3-6:  Effektivitetsfaktor E(V) for regnvandsafstrømning fra en motorvej i Californien /8/.  .................... 15 
+Figur 4-1:  Cyklonbremsen (CYE) /13/. ......................................................................................................... 20 
+Figur 4-2:  Vertikal centrifugalbremse (CEV) /13/.......................................................................................... 20 
+Figur 4-3:  Horisontal centrifugalbremse /13/. ............................................................................................... 21 
+Figur 4-4:  Grafisk præsentation af hvirveleffekten på udløbsflowet, når vandbremsen arbejder ved 
+henholdsvis 73% og 100% effektivitet, og indløbsflowet til en brønd er større end 
+udløbsflowet. ................................................................................................................................ 22 
+
+  
+ii First Flush  review / bop / 2018-01-19 
+Figur 5-1: Skitse med tilløb og afløb fra brønd med vandbremse. De ideelle målepunkter er 
+indtegnet. ..................................................................................................................................... 26 
+Figur 5-2:  Systemoversigt for datahåndtering. ............................................................................................. 28 
+ 
+ 
+TABELLER 
+ 
+Tabel 3.1:  Antallet af regnhændelser, der på baggrund af fire forskellige definitioner af first flush 
+udviser first flush egenskaber. I alt 162 regnhændelser er vurderet. /4/  ..................................... 10 
+Tabel 4.1:  Sammenfatning af karakteristika for vandbremser. ..................................................................... 23 
+Tabel 5.1:  Oversigt over fire trin i et måleprogram for first flush. .................................................................. 26 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+
+Sammenfatning  
+ 1 
+Forord 
+I juni 2017 indsendte Københavns Kommune en ansøgning til Vand i Byer II med anmodning 
+om midler til finansiering af dette review om First Flush. Umiddelbart efter indsendelsen 
+bevilligede Vand i Byer II penge til projektet. HOFOR bidrog også til finansieringen. I 
+projektperioden frem til januar 2018 har følgende medarbejdere fra Københavns Kommune og 
+HOFOR bidraget med viden og kommentarer til rapporten samt givet input til forbedringer: 
+• Mia Jahn Knudsen, Københavns Kommune (projektleder) 
+• Eva Baunegaard Hemmersam, Københavns Kommune 
+• Ida Marie Knudsen HOFOR 
+• Jeanet Stagsted, HOFOR 
+Bodil Mose Pedersen, DHI har udarbejdet rapporten. 
+  
+
+Sammenfatning  
+ 3 
+1 Sammenfatning 
+I forbindelse med skybrudssikring og afkobling af overfladeafstrømning fra kloaksystemet ønsker 
+Københavns Kommune og HOFOR at etablere systemer med vandbremser til styring af 
+fordelingen af vand mellem spildevandskloakken og vandområderne. Det er en almindelig 
+antagelse, at den første regnvandsafstrømning i byområder har et forhøjet indhold af 
+forurenende stoffer, og dette fænomen kaldes ”first flush”. Denne viden tænkes udnyttet til at 
+styre afledningen af regnvand, så det mest forurenede vand ledes i kloakken, og det mindre 
+forurenede regnvand ledes til vandområder. 
+Formålet med projektet har været at afklare, hvad der skal til for at dokumentere, om 
+fraseparering af first flush ved hjælp af vandbremser kan sidestilles med BAT. Metoden forventes 
+anvendt i separate regnvandssystemer til at begrænse udledningen af det mest forurenede vand 
+fra overfladeafstrømning. I relation til formålet er der gennemført en litteratursøgning, og baseret 
+på udvalgte videnskabelige artikler om first flush er følgende overordnede emner behandlet: 
+• Karakterisering af first flush 
+• Vandbremser 
+• Måleprogram til fastlæggelse af størrelsen af first flush effekten og vandbremseregulering 
+Litteraturgennemgangen viste, at ud over beskrivelser og kvalitativ bestemmelse af first flush er 
+den mest anvendte metode til analyse af first flush udarbejdelse af M(V) kurver, der viser den 
+akkumulerede stofbelastning i forhold til den samlede masse fra en nedbørshændelse (y-akse) 
+og forholdet mellem akkumuleret flow og det samlede flow (x-akse). 
+Regnhændelser kan overordnet set inddeles i tre kategorier: 
+• Små regnhændelser, hvor dynamikken i stofkoncentrationer og flow tilnærmelsesvist følges 
+ad 
+• Successive regnhændelser med flere efter hinanden følgende flow peaks og peaks af 
+stofkoncentrationer. Peaks forsvinder efterhånden og efterfølges af fortyndingseffekter 
+• Kraftige regnhændelser, hvor der indledningsvist opstår peaks med forhøjede 
+stofkoncentrationer, som efterfølgende aftager, hvorefter fortyndingseffekten tager over. 
+Ved regnhændelserne beskrevet under det første punkt er der ingen first flush effekt, mens der i 
+de to andre situationer vil være en større eller mindre first flush effekt, der kan udnyttes til at 
+regulere regnvandsstrømme. 
+Vandbremsen er primært konstrueret for at beskytte nedstrøms beliggende kloaksystemer ved 
+at tillade et forud fastsat maksimalt flow at passere. I første omgang kan en simpel regulering 
+bestå i fast indstilling af vandbremsen baseret på måling af sammenhørende værdier af flow og 
+turbiditet for et velbeskrevet opland. Ud fra erfaringsopsamlingen opstilles efterfølgende forslag 
+til indstillinger af vandbremsen, der tillader forskellige størrelser af flow at passere til kloakken, 
+og som samtidig sikrer en tilstrækkeligt god kvalitet af vandet, der udledes til vandområdet.  
+Et måleprogram til karakterisering af first flush og vurdering af om regulering med en 
+vandbremse kan sidestilles med BAT anbefales gennemført i fire trin, hvor de to første trin alene 
+består af online målinger og de to sidste inkluderer automatisk prøvetagning og kemiske 
+analyser. Flow, turbiditet, nedbørsmåling og eventuelt ledningsevne er alle parametre, der kan 
+gennemføres som online målinger med automatisk dataopsamling. For at reducere 
+omkostninger til udstyr kan man i første omgang vælge kun at udføre online målinger. De 
+hyppigst valgte parametre til karakterisering af first flush er suspenderet stof, tungmetaller (total 
+og filtreret), COD, Total-N og Total-P. Suspenderet stof og COD er de parametre med den 
+største first flush effekt. De nævnte analyseparametre kræver flowproportional frakt ioneret 
+prøvetagning for at resultaterne kan anvendes til karakterisering af first flush.
+
+Indledning og formål  
+ 5 
+2 Indledning og formål 
+Dette projekt om first flush review og principper for karakterisering af first flush er et bobleprojekt 
+under ”Vand i Byer 2” og medfinansieres af Københavns Kommune. 
+I forbindelse med skybrudssikring og afkobling af overfladeafstrømning fra kloaksystemet ønsker 
+Københavns Kommune og HOFOR at etablere systemer (vandbremser) til styring af fordelingen 
+af vand mellem spildevandskloakken og vandområderne. 
+Det er en almindelig antagelse, at den første regnvandsafstrømning i byområder har et forhøjet 
+indhold af forurenende stoffer, og dette fænomen kaldes ”first flush”. Denne viden bør kunne 
+udnyttes til at styre afledningen af regnvand, så det mest forurenede vand ledes i kloakken, og 
+det mindre forurenede regnvand ledes til vandområder med tilstrækkelig kapacitet.  
+Kendskabet til, hvilke faktorer det er relevant at monitere for at afgøre, hvor overfladeafstrømning 
+kan ledes hen, er imidlertid begrænset og baseres i dag væsentligst på generelle 
+regnkvalitetsdata og hydraulisk modellering og ikke på viden om sammensætningen af first flush. 
+Formålet med projektet har været at afklare, hvad der skal til for at dokumentere, om 
+fraseparering af first flush ved hjælp af vandbremser kan sidestilles med BAT. Metoden forventes 
+anvendt i separate regnvandssystemer til at begrænse udledningen af det mest forurenede vand 
+fra overfladeafstrømning. I relation til formålet gennemføres følgende aktiviteter: 
+• Indsamling af videnskabelige artikler og sammenfatning af viden om first flush 
+• Beskrivelse af parametre til karakterisering af first flush samt anvendelige prøvetagnings- 
+og målemetoder  
+• Beskrivelse af vandbremser og muligheden for deres anvendelse til at sikre tilfredsstillende 
+vandkvalitet af det udledte vand 
+• Opstilling af overordnede guidelines i forhold til indretning af prøvetagningssteder med 
+henblik på monitering før og efter vandbremsen 
+• Opstilling af et måleprogram for first flush  
+Selve planlægningen og udførelsen af et måleprogram er ikke en del af projektet. Det er 
+hensigten, at HOFOR efterfølgende gennemfører måleprogrammet i et eller flere case-områder. 
+Københavns Kommune vil samle op på resultaterne, som formodes at kunne danne grundlag for 
+egne og andre myndigheders vurdering af mulighederne for separering af first flush som 
+alternativ til rensning af overfladeafstrømning. 
+  
+
+  
+6 First Flush  review / bop / 2018-01-19 
+ 
+ 
+
+First flush  
+ 7 
+3 First flush 
+I 1990’erne var beskrivelsen af first flush i stor udstrækning relateret til overløb fra kombinerede 
+kloaksystemer og i mindre omfang relateret til regnvandssystemer, men som følge af udbygning 
+af separate regnvandssystemer samt klimaændringer og stigning i de regnvandsmængder, der 
+skal udledes til vandområder, er der i løbet af 00’erne udgivet flere videnskabelige artikler om 
+karakterisering af first flush for regnvand alene. Karakteriseringen går både på matematisk 
+beskrivelse og på indholdet af forurenende stoffer i first flush. Det følgende afsnit 3.1 beskriver 
+væsentlige udfordringer i forhold til de aktuelle problemstillinger omkring first flush i Danmark.  
+Beskrivelsen er baseret på informationer fra 11 internationale videnskabelige artikler om 
+regnvandsmåleprogrammer og dataanalyse vedrørende nedbørs- og afstrømningsforhold, 
+koncentrationer af forurenende stoffer, flowmålinger m.m. Ofte er de separatkloakerede arealer i 
+udlandet betydeligt større end i Danmark.  
+De udenlandske erfaringer vedrørende first flush kan imidlertid sammenlignes med danske 
+forhold, idet den mest anvendte metode til karakterisering af first flush består af flowdata og data 
+for forurenende stoffer i form af M(V)-kurver, der viser den akkumulerede stofbelastning i forhold 
+til den samlede masse fra en nedbørshændelse (y-aksen), samt forholdet mellem akkumuleret 
+flow og det samlede flow. I afsnit 3.1 er der mere detaljeret redegjort for, hvordan first flush 
+karakteriseres. Helt overordnet er first flush effekten større for små afstrømningsoplande end for 
+større oplande. 
+Centrale emner fra de videnskabelige artikler er gennemgået under følgende overskrifter:  
+• First flush fænomenet og fordeling af forurenende stoffer i forhold til vandvolumenet /3/  
+• First flush analyse /9/ 
+• Kvalitativ og kvantitativ analyse af regnvandsafstrømning /4/ 
+• Online turbiditetsmålinger, suspenderet stof og COD /12/ 
+• Tungmetalforurening /2/, /7/  
+• Afstrømning fra kobbertag /6/ 
+• Afstrømning fra zinktag /10/ 
+• Sæsonbestemt first flush /1/, /8/ 
+• Redefinering af first flush fænomenet /5/ 
+3.1 Karakterisering af first flush 
+First flush fænomenet og fordeling af forurenende stoffer i forhold til vandvolumenet /3/ 
+Indledningsvist defineres first flush som den første del af det udledte vandvolumen, der 
+transporterer hovedparten af mængden af forurenende stoffer. Denne definition er meget 
+upræcis, og der er derfor behov for en kvantificering af first flush. 
+Som et alternativ til en udelukkende beskrivende eller kvalitativ bestemmelse af first flush er der 
+i denne artikel præsenteret en kvantitativ bestemmelse og definition af first flush ud fra M(V) 
+kurver. Definitionen samt metoden til beregning af, hvornår der optræder first flush, kan 
+imidlertid ikke stå alene, når man ønsker at designe rensefaciliteter, idet first flush fænomenet er 
+komplekst, og variationerne af first flush er mange. På den anden side er en statistisk analyse af 
+eksperimentelle M(V) kurver og bestemmelse af first flush koefficienten b (afvigelsen fra 
+diagonalen) et anvendeligt udgangspunkt, hvor der er taget hensyn til oplandet, 
+regnvandssystemet og regnhændelsen. Ved gennemgang af /9/ er der en mere detaljeret 
+beskrivelse af M(V) kurver – herunder datagrundlag og princip. 
+Ved analyse af 197 regnhændelser fra kombinerede kloaksystemer og separate systemer fandt 
+man, at det for separate systemer gjaldt, at 80% af den samlede masse af forurenende stoffer 
+blev transporteret med de første 74% af vandmængden. Dette gjaldt for 50% af 
+
+  
+8 First Flush  review / bop / 2018-01-19 
+regnhændelserne. I undersøgelsen fandt man, at first flush koefficienten (b) afhænger af 
+forureningsparameteren, overfladetypen samt regnhændelsens intensitet og varighed. 
+First flush analyse /9/ 
+I artiklen ”First flush analysis of urban storm runoff” /9/ er first flush defineret som den 
+indledende periode med overfladeafstrømning, hvor koncentrationen af forurenende stoffer er 
+højere end senere i nedbørshændelsen. En anden anvendt definition af first flush /3/ er, at 80% 
+af massen skylles af inden for 30% af tiden for regnhændelsen. Dette gælder imidlertid kun i 1% 
+af alle regnhændelser. 
+Andre forskere er refereret i artiklen, og disse forskere har konkluderet, at first flush resulterer i 
+en betydelig ”peak” i stofbelastningen i begyndelsen af en regnhændelse, og at denne ”peak” vil 
+variere fra parameter til parameter. F.eks. blev der i /3/ målt større first flush effekt for 
+suspenderet stof end for COD. 
+Desuden er det konkluderet, at der ikke var nogen sammenhæng mellem tørvejrsperiodens 
+varighed og størrelsen af first flush, og endelig konkluderes det, at first flush er større for små 
+afstrømningsarealer end for store arealer (>100 ha). 
+First flush effekten bestemmes ud fra kurver, der viser akkumuleret stofbelastning (y-aksen), 
+hvor L = forholdet mellem akkumuleret masse/samlet masse, mens x-aksen er F=Akkumuleret 
+flow/samlet flow (se Figur 3-1). Vinkelhalveringslinjen (45° linjen) i figuren repræsenterer den 
+situation, hvor koncentrationen af forurenende stoffer er konstant under regnhændelsen. First 
+flush er repræsenteret ved data, der ligger over 45° linjen, og datapunkter under linjen 
+repræsenterer situationen, hvor der er sket en fortynding af forurenende stoffer. 
+Afvigelsen af den akkumulerede masse-kurve fra diagonalen er et udtryk for størrelsen eller 
+størrelsen af first flush. Her i rapporten er anvendt ”størrelsen af first flush”, og det er det samme 
+som afvigelsen fra diagonalen i en figur svarende til Figur 3-1. Afvigelsen i forhold til diagonalen 
+er omvendt proportional med first flush koefficienten b. Det vil sige, at: 
+L = Fb   
+Værdien af first flush koefficienten b kan beregnes ved ln(L) = b·ln(F). 
+ 
+Figur 3-1:  Afhængigt af first flush koefficienten er forholdet mellem den akkumulerede masse og det 
+akkumulerede flow inddelt i forskellige zoner /9/. 
+
+
+First flush  
+ 9 
+I artiklen er præsenteret data fra 38 regnhændelser fra 13 forskellige oplande, og på baggrund 
+af analyser af data udført efter principperne beskrevet ovenfor er følgende konklusioner 
+fremhævet: 
+• Den relative størrelse af first flush i et beboelsesområde er SS>HEM>Fe og PO4-
+P>TKN>COD>TP>Pb, hvor HEM er olie/fedt efter n-hexan ekstraktion, og TKN er total 
+Kjeldahl-N. 
+• Baseret på beregning af størrelsen af b kan den relative størrelse af first flush rangeres på 
+følgende måde: TKN> PO4-P>TP>COD>Fe>HEM>SS 
+• Der blev ikke fundet nogen sammenhæng mellem first flush og den forudgående 
+tørvejrsperiodes længde. 
+Kvalitativ og kvantitativ analyse af regnvandsafstrømning /4/ 
+Ved undersøgelse af 162 regnhændelser og præsentation af tilhørende M(V) kurver er 
+hændelserne blevet inddelt efter forskellige definitioner af first flush. Følgende definitioner  er i 
+artiklen anvendt for first flush: 
+• 40% af mængden af forurenende stoffer er indeholdt i 20% af vandvolumenet 
+• 80% af mængden af forurenende stoffer er indeholdt i 30% af vandvolumenet  
+• Max-MV >0,2 (afstanden mellem M(V) kurven og vinkelhalveringslinjen) og  
+• b<0,862, hvor first flush koefficienten b kan beregnes ved ln(L)= b·ln(F) (se side 6) 
+ 
+Figur 3-2:  M(V) kurver for 162 regnhændelser /4/ 
+Data i Tabel 3.1 viser, at antallet af first flush hændelser er meget afhængigt af definitionen, der 
+anvendes. Definitionen b<0,862 svarer til en definition, hvor 50% af mængden af forurenende 
+stoffer er indeholdt i 55% af vandvolumenet (50/55). Jo mindre skarp/afgrænset definitionen er, 
+jo flere hændelser vil blive betragtet som first flush. 
+Ovenstående vil kunne anvendes i et måleprogram for first flush til at fastlægge , hvilken 
+definition der vil være fordelagtig at anvende under danske forhold for at afgøre, hvor der er tale 
+om first flush, og hvilke kriterier der skal lægges til grund for fremtidig intelligent styring af 
+vandbremser. 
+  
+
+
+  
+10 First Flush  review / bop / 2018-01-19 
+Tabel 3.1:  Antallet af regnhændelser, der på baggrund af fire forskellige definitioner af first flush udviser 
+first flush egenskaber. I alt 162 regnhændelser er vurderet. /4/ 
+ 
+Online turbiditetsmålinger, suspenderet stof og COD /12/ 
+Over fire år har der i et separatkloakeret opland i Chassieu i Frankrig været gennemført 
+turbiditetsmålinger, som har resulteret i vurdering af 239 regnhændelser. Oplandet dækker et 
+areal på 185 ha. 
+Databehandlingen inkluderede følgende: 
+• En statistisk analyse af fordelingen af belastningen med SS og COD under regnhændelser 
+samt beregning af de enkelte hændelsers middelkoncentration (EMC). Analysen viste, at 
+EMC og stofbelastningerne tilnærmelsesvist er logaritmisk normalfordelt 
+• En undersøgelse af korrelationen mellem EMC/belastning og karakteristika for 
+regnhændelsen, som ikke viste nogen klar korrelation til faktorer, der beskriver 
+regnhændelsen, f.eks. det totale regnvolumen, mm regn, maksimal regnintensitet  
+• M(V) kurver, der beskriver massefordelingen inden for regnhændelsen. Massefordelingen 
+blev klassificeret i tre kategorier.  
+Ud fra grafisk analyse af TSS og COD optegnet som M(V) kurver og sammenkædning med 
+nedbørsdata samt flowmålinger er der opstillet tre typer af regnhændelser: 
+• Små regnhændelser, hvor dynamikken i stofkoncentrationer og flow tilnærmelsesvist følges 
+ad 
+• Successive regnhændelser med flere flow peaks og peaks af stofkoncentrationer, der 
+aftager og efterfølges af fortyndingseffekter 
+• Kraftige regnhændelser, hvor der indledningsvist opstår peaks med forhøjede 
+stofkoncentrationer, som efterfølgende aftager, hvorefter fortyndingseffekten tager over. 
+I Figur 3-3 (b og c) ses en regnhændelse af den førstnævnte type. På grund af oplandets 
+størrelse og placeringen af flowmåleren er det maksimale flow forsinket i forhold til tidspunktet 
+for regnhændelsens maksimum. Toppen for TSS og COD koncentrationer er forskudt i forhold til 
+maksimum for flow. I Figur 3-3 (c) ses det, at forøgelsen i stofkoncentration kommer lidt før 
+forøgelsen i flow. 
+I Figur 3-4 ses successive regnhændelser med forøgelserne i stofkoncentrationerne efter den 
+første regnhændelse. Efterfølgende udviser stofkoncentrationerne ikke samme dynamik som 
+flowet. Forøgelsen i stofkoncentrationer forsvinder tilnærmelsesvist. 
+
+
+First flush  
+ 11 
+ 
+Figur 3-3:  To små regnhændelser fra d. 3. og 4. marts (b) samt 5. og 6. marts 2005 (c) i det separatkloakerede 
+opland Chassieu i Frankrig. I figuren er vist regnintensiteten (I), flow (Q) SS (TSS) og COD. De lodrette 
+linjer viser start og slut på regnhændelserne. Den lysegrå markering viser 95% konfidensinterval. 
+ 
+Figur 3-4:  Successive regnhændelser fra d. 29. og 30. maj (b) samt 5. og 6. juni 2008 (c) i det separatkloakerede 
+opland Chassieu i Frankrig. I figuren er vist regnintensiteten (I), flow (Q) SS (TSS) og COD. De lodrette 
+linjer viser start og slut på regnhændelserne. Den lysegrå markering viser 95% konfidensinterval. 
+M(V) kurver beskriver på samme måde som i /9/ og Figur 3-1 den relative akkumulerede masse 
+af det forurenende stof (M) som funktion af det relative akkumulerede vandvolumen over hele 
+nedbørshændelsen. I Figur 3-5 er M(V) kurverne klassificeret i tre zoner A, B og C. 
+
+
+  
+12 First Flush  review / bop / 2018-01-19 
+ 
+Figur 3-5:  Klassifikation af M(V) kurver i tre zoner /12/. 
+• Zone A inkluderer hændelser, for hvilke det gælder, at fraktionen x af den totale hændelses 
+belastning transporteres i en fraktion af det samlede vandvolumen, der er betydeligt mindre 
+end x. Det betyder, at koncentrationen af forurenende stoffer bliver forhøjet svarende til, at 
+der er en first flush effekt. 
+• I Zone B afviger andelen x af den totale forureningsmængde ikke fra andelen af det 
+samlede vandvolumen for regnhændelsen. I den situation er first flush effekten minimal 
+eller ikke eksisterende. 
+• Zone C inkluderer hændelser, hvor fraktionen af forurenende stoffer i relation til den 
+samlede belastning transporteres i et relativt vandvolumen, der er større end x. 
+Denne simple klassifikation tillader en sammenligning af regnhændelser og oplande ud fra en 
+praktisk orienteret synsvinkel i relation til realtidskontrol af regnvandssystemer under 
+regnhændelser. 
+De vigtigste konklusioner fra statistisk analyse og karakterisering af de mange regnhændelser 
+ved M(V) kurver i artiklen viser, at der er: 
+• Stor variation i resultaterne fra forskellige typer af oplande og regnhændelser  
+• Det er nødvendigt at udføre specifikke målinger i de enkelte oplandstyper 
+• Korrelationen mellem det totale vandvolumen under regnhændelsen og belastningen med 
+SS og COD var god (højeste korrelationskoefficienter). 
+Der er i artiklen beskrevet en korrelationsanalyse af sammenhængen mellem traditionelle 
+parametre til karakterisering af regnhændelser og belastning samt EMC. Der er kun få 
+parametre til beskrivelse af regnhændelser, der korrelerer med stofbelastningen. Resultaterne 
+fra /12/ er efterfølgende anvendt til at etablere regressionsmodeller med det formål at foreslå 
+belastning og EMC for regnhændelser. 
+Tungmetalforurening /7/ 
+Formålet med undersøgelsen beskrevet i artiklen var bl.a. at identificere nøgleparametre, der 
+har indflydelse på størrelsen af first flush. I reference /2/ er som i andre artikler /5//6//8//9//12/ 
+anvendt M(V) kurver som udgangspunkt til at beskrive størrelsen af first flush. Indledningsvist er 
+first flush defineret som en uforholdsmæssigt stor belastning med forurenende stoffer i løbet af 
+den tidlige fase af en afstrømningshydrograf (M(V). 
+
+
+First flush  
+ 13 
+First flush ratio FF25 er defineret som den totale forureningsbelastning transporteret af de første 
+25% af afstrømningsvolumen:  
+𝐹𝐹(25) = M(t)
+V(t)25 
+M(t) = den normaliserede akkumulerede tungmetalbelastning (akkumuleret masse/samlet 
+masse).  
+V(t)25 = det normaliserede akkumulerede afstrømningsvolumen, når 25% af volumenet har 
+passeret (akkumuleret volumen/samlet volumen). FF(25) = 2 svarer til, at 50% af mængden af 
+forurenende stoffer vil være indeholdt i de første 25% af afstrømningsvolumenet  
+En variansanalyse (redundans) viste, at overfladetypen og karakteristika ved 
+nedbørshændelsen har betydning for størrelsen af first flush effekten. Regnhændelser beskrives 
+ved mm regn, regnintensitet samt længden af den forudgående tørvejrsperiode. De nævnte 
+parametre udgør 72,9% af variationen for first flush ratioen FF25. 
+Fire nøgleparametre er identificeret som dem, der væsentligst påvirker størrelsen af first flush:  
+• Nedbørsmængden (mm) 
+• Regnintensiteten 
+• Den forudgående tørvejrsperiode 
+• Overfladetypen 
+Endelig blev det konkluderet, at den relative størrelse af first flush for opløste metaller kunne 
+rangordnes på følgende måde: Fe, Mn>Cu, Zn>Pb. 
+Afstrømning fra kobbertag /6/ 
+First flush er defineret som den indledende periode af en regnhændelse, hvor koncentrationen 
+af forurenende stoffer er betydeligt højere end i den efterfølgende periode. First flush er 
+efterfølgende nærmere defineret på to alternative måder: 
+• 80% af stofbelastningen afgives i 30% af den samlede vandmængde 
+• Stofbelastningen i de første 25% af den samlede vandmængde 
+I denne undersøgelse er der tale om afstrømning fra en skrå tagflade, og derfor er karakteristika 
+anderledes end for mere vandrette overflader. 
+Der er brugt den samme fremgangsmåde til beskrivelse af first flush effekten som i /2/ og /9/, 
+hvor first flush koefficienten er et udtryk for størrelsen af first flush effekten. Når L afbildes mod 
+F, og kurven ligger over diagonalen, er der en first flush effekt. Når kurven ligger under 
+diagonalen, kan det være, fordi der ikke kan frigives korrosionsprodukter fra tagfladen, eller fordi 
+regnen er så kraftig, at kontakttiden er for kort til, at vandet kommer i kontakt med tagfladen, så 
+der frigives forurenende stoffer. 
+I en 18 måneders prøvetagningsperiode viste 40% af regnhændelserne moderate first flush 
+effekter. I 37% af alle de regnhændelser, hvorfra der blev udtaget prøver, var der en moderat 
+fortyndingseffekt. 
+Konklusionerne i denne artikel er væsentligt anderledes end i mange andre artikler, fordi 
+undersøgelsesområdet er tage med en stejl hældning, hvilket giver andre afvaskningsforløb end 
+for tilnærmelsesvist vandrette overflader. Eksempelvis fandt man ingen korrelation mellem first 
+flush og parametre som regnintensitet, mm nedbør og længden af forudgående tørvejrsperiode. 
+Afstrømning fra zinktag /10/ 
+I en to-årig periode blev afvaskning fra et 14 år gammelt zinktag i Tyskland undersøgt. Den 
+årlige afvaskningsrate for zink var 3,73 g/m2, og den flowvægtede gennemsnitskoncentration var 
+
+  
+14 First Flush  review / bop / 2018-01-19 
+4,9 mg/l. Den årlige nedbørsmængde i området er 868 mm. I 93% af de undersøgte 
+regnhændelser blev first flush fænomenet observeret på baggrund af first flush koefficienter. Lav 
+regnintensitet medførte højere zinkkoncentrationer. Varigheden af en forudgående 
+tørvejrsperiode kunne ikke direkte relateres til den indledende zinkkoncentration i en 
+afstrømningshændelse.  
+Der blev anvendt samme prøvetagningsmetode som i /3/. Der blev målt zinkkoncentrationer på 
+op til 30 mg/l i den indledende fase af en afstrømningshændelsen, hvorefter den flowvægtede 
+middelkoncentration faldt til ca. 5 mg/l. For størstedelens vedkommende befinder zink sig på 
+opløst form. Ved lav regnintensitet stiger zinkafvaskningen. Ekstremt høje regnintensiteter (over 
+0,085 mm/min) resulterer i en fortyndingseffekt og i zinkkoncentrationer på under 1 mg/l.  
+Sæsonbestemt first flush /8/ 
+Gennem analysering af regnvandsdata fra Californien fra perioderne 1999-2000 og 2002-2003 
+har man forsøgt at klarlægge fordelene ved at rense overfladeafstrømning først på sæsonen 
+sammenlignet med sidst på sæsonen. Danmark har ikke på samme måde en lang tør sommer, 
+hvor der sker opbygning af forurenende stoffer på overfladen. Her er varigheden af de tørre 
+perioder kortere og den opbyggede forurening mindre, inden der sker afstrømning. I Californien 
+efterfølges den tørre sommer af en våd vinter. Der er således tale om ”sæsonpræget” first flush.  
+For at kunne bestemme den mulige fordel ved at behandle vandet tidligt på sæsonen frem for 
+senere blev der defineret en effektivitetsfaktor som funktion af det akkumulerede 
+afstrømningsvolumen: 
+𝐸(𝑉) = (𝑀(𝑣)/𝑣
+(1−𝑀(𝑣)/(1−𝑣) 
+• E(V) = effektivitetsfaktor for et specifikt akkumuleret regnvandsvolumen V 
+• M(v) er den normaliserede akkumulerede masse ved et specifikt normaliseret akkumuleret 
+afstrømningsvolumen v 
+Effektivitetsparameteren er tænkt som et mål for den fordel, der er ved at behandle 
+regnvandsafstrømning først på sæsonen frem for sidst på sæsonen. 
+På Figur 3-6 er vist effektivitetsfaktoren E(V) for 10 intervaller af afstrømningsvolumener. Den 
+stiplede linje ved 1,0 er den relative effektivitet, hvis forureningsparameteren er konstant over 
+hele den våde periode, dvs. det tilfælde, hvor der ikke eksisterer en sæsonbestemt first flush.  
+For alle parametre gjaldt, at den relative effektivitet var højest i 10-20% intervallet af 
+afstrømningsvolumenet. Eksempelvis var medianeffektivitet 3,5 for TOC ved 10-20% af 
+afstrømningsvolumenet, hvilket betyder, at man ved at behandle de første 10-20% af vandet kan 
+fjerne 3,5 gange flere forurenende stoffer i begyndelsen fremfor senere i en nedbørshændelse.   
+Metaller, der adsorberer til suspenderet stof, vil typisk følge den samme trend som suspenderet 
+stof. Opløste metaller behøver derimod ikke en minimumsafstrømning for at blive mobiliseret, og 
+dermed udviser de en høj grad af sæsonbestemt first flush. Svarende til danske forhold kan det 
+betyde, at metaller efter en lang tørkeperiode vil kunne blive frigivet sel v ved små regnskyl med 
+lav intensitet. Erfaringen er, at hvis man er specielt bekymret for opløste metaller, er det 
+værdifuldt at fastlægge styringsstrategierne efter at behandle/rense vand fra regnhændelser , der 
+optræder efter lange tørvejrsperioder. 
+En strategi, hvor afstrømningen renses først i en længere regnvejrsperiode, kan ikke 
+umiddelbart anvendes til danske forhold, men princippet om at lede regnvand i 
+spildevandskloakken efter en tørvejrsperiode på en vis længde kan godt fungere.  
+
+First flush  
+ 15 
+ 
+Figur 3-6:  Effektivitetsfaktor E(V) for regnvandsafstrømning fra en motorvej i Californien /8/. 
+Redefinering af first flush fænomenet /5/ 
+I denne artikel bliver first flush fænomenet kvantificeret som det afstrømningsvolumen, der skal 
+til for at reducere koncentrationen af forureningsparametrene til baggrundsniveauet. Den 
+foreslåede metode til at opgøre afstrømningsvolumenet starter med at finde 
+gennemsnitskoncentrationen for et givent ”inkrement” (tilvækst) af et udledt volumen ved at 
+bruge et antal ”forureningsgrafer”. 
+Ikke-parameterbetinget statistik benyttes til at etablere den karakteristiske forureningsgraf ved at 
+poole statistisk forskellige afstrømningsinkrementer. Det gør det muligt at identificere oplandets 
+start- og baggrundsforureningskoncentration samt kvantificere first flush volumenet og 
+størrelsen. 
+I artiklens konklusioner står bl.a., at fremgangsmåden er lovende i forhold til at bestemme first 
+flush volumenet, dvs. det afstrømningsvolumen, som reducerer koncentrationen af 
+forureningskomponenter til baggrundsniveauet, samt størrelsen af first flush beskrevet ved den 
+statistiske sandsynlighed for henholdsvis den indledende koncentration og 
+baggrundskoncentrationen. Til forskel fra de traditionelle metoder til beskrivelse af first flush 
+(eksempelvis /1/) er denne metode knyttet til traditionelle statistiske værktøjer , som ikke er 
+baseret på vilkårlige definitioner. Metoden er mere praktisk orienteret, men den er ikke fu ldt 
+udviklet, idet der mangler større indsigt i de faktorer, der karakteriserer first flush. Det pointeres, 
+at det er vigtigt at få fastlagt netop dimensioneringen af behandlingssystemer til håndtering af 
+first flush, idet der findes tommelfingerregler, der siger, at den første 0,5 inch (12,7 mm) nedbør 
+skal behandles, eller 90% af vandmængden skal behandles. Ingen af delene er anvendelige i 
+forhold til danske afstrømnings- og nedbørsforhold. 
+3.2 Sammenfatning – Karakterisering af first flush 
+Den mest simple definition af first flush er, at det er den første del af det udledte vandvolumen, 
+og denne del indeholder hovedparten af mængden af forurenende stoffer. Denne definition er 
+imidlertid upræcis, og derfor er der fremkommet mange alternative definitioner af first flush 
+herunder: 
+• 80% af stofbelastningen afgives i 30% af den samlede vandmængde 
+• 40% af mængden af forurenende stoffer er indeholdt i 20% af vandvolumenet  
+• 50% af mængden af forurenende stoffer er indeholdt i 55% af vandvolumenet  
+• Stofbelastningen i de første 25% af den samlede vandmængde 
+
+
+  
+16 First Flush  review / bop / 2018-01-19 
+Jo mindre skarpt afgrænset definition af first flush der anvendes, jo flere regnhændelser vil 
+kunne karakteriseres som first flush hændelser. 
+Den hyppigst anvendte metode til karakterisering af first flush består i at opstille M(V)-kurver. 
+Det vil sige kurver, der viser den akkumulerede stofbelastning i forhold til den samlede masse 
+fra en nedbørshændelse (y-aksen), og forholdet mellem akkumuleret flow og det samlede flow. 
+Herudfra kan størrelsen af first flush bestemmes. 
+Overfladetype og andre karakteristika som f.eks. mm regn, regnintensitet samt længden af den 
+forudgående tørvejrsperiode har for de fleste oplandstyper betydning for størrelsen af first flush 
+effekten. For regnvandsafstrømning fra tagflader med en stejl hældning er situationen imidlertid 
+en anden: Her vil regnvandet ikke indeholde større mængder forurenende stoffer efter en lang 
+tørvejrsperiode, og der ses ingen korrelation mellem størrelsen af first flush og høj regnintensitet 
+og nedbørsmængden. Der er således forskel på fist flush effekten ved afstrømning fra tage og 
+ved afstrømning fra et opland med en svag hældning. 
+I Danmark er afstrømningsoplandene ofte betydeligt mindre end i udlandet, og dermed er first 
+flush hyppigt større end den, der ses i udlandet. Det betyder også, at first flush effekten alt andet 
+lige bedre kan udnyttes i reguleringsmæssig henseende til afledning af det mest forurenende 
+regnvand til kloak og det mindre forurenede vand til vandområder. 
+De hyppigst anvendte analyseparametre til karakterisering af first flush er SS, COD og 
+tungmetaller. For SS og COD er first flush effekten størst. Det er fordelagtigt at måle SS online 
+som turbiditet frem for at udføre fraktioneret prøvetagning, der resulterer i et stort 
+analysearbejde.  
+3.3 Moniteringsmetoder – parametre og stofbelastning 
+Måleprogrammer identificeret i den videnskabelige litteratur, og som har til formål at 
+karakterisere first flush, er meget tidskrævende, hvis ikke målinger kan gennemføres online og 
+med elektronisk dataoverførsel. Det betyder, at first flush gennemgående karakteriseres ved 
+måling af turbiditet og flow. Turbiditeten kan via kalibreringskurver omsættes til koncentrationer 
+af suspenderet stof. Temperatur, pH, ledningsevnemålinger og flow kan måles og opsamles via 
+online sensorer. 
+Parametre som COD, total-N, Total-P og tungmetaller kræver udtagning af vandprøver, der 
+efterfølgende sendes til laboratorier. For at karakterisere first flush kræves eventuelt fraktioneret 
+prøvetagning, og heraf følger et stort og omkostningsfuldt analysearbejde. 
+Dertil kommer indhentning af informationer om nedbørshændelserne, herunder mm nedbør, 
+regnintensitet, varighed og forudgående tørvejrsperiode. Disse informationer kan i Danmark 
+indhentes via DMI’s SVK målersystem (Spildevandskomiteens regnmålersystem) /16/, eller der 
+kan opsættes en regnmåler i det afstrømningsopland, der ønskes karakteriseret. Der er i 
+øjeblikket 145 SVK målestationer fordelt over hele landet.  
+3.3.1 Målemetoder anvendt til karakterisering af first flush 
+Nedenfor er refereret fra artikler, hvor fremgangsmåden for flowmåling, prøvetagning, 
+analyseparametre og online måling af pH, temperatur, flow, ledningsevne og turbiditet er 
+beskrevet. 
+I et separatkloakeret afstrømningsopland på 185 ha og en befæstelsesgrad på 0,72 blev der 
+gennem flere år gennemført måleprogrammer af regnvandet. Case-området ligger nær Lyon i 
+Frankrig, og det primære fokus i måleprogrammet var målinger af turbiditet og flow /4/. Formålet 
+med målingerne var at vurdere langtidsudviklingen i regnvandskvaliteten. I datavurderingen 
+indgik også M(V) kurver for suspenderet stof. Måleprogrammet inkluderede pH, temperatur, 
+
+First flush  
+ 17 
+flow, ledningsevne og turbitidet, som blev målt kontinuerligt i 2 minutters intervaller. 
+Flowmålingen foregik ved hjælp af måling af vanddybden og –hastigheden i et kloakrør på 1,6 m 
+i diameter, og her var loggeintervallet også 2 minutter. Regnmåleren leverede tidsserier af 
+nedbørsmængden inden for 6 minutters intervaller. Vurdering af den samlede datamængde 
+viste, at der skete udfald af dataopsamling for regnmålinger i 7,4% af tiden. Desuden manglede 
+ca. 13% af flowmålingerne og ca. 30% af tubiditetsmålingerne, der alle blev udført i 2 minutters 
+intervaller. Usikkerhed er uundgåelig ved målinger af hydrologiske faktorer og vandkvalitet. I den 
+samlede usikkerhed indgår også usikkerhed på instrumentmålinger og kalibreringsusikkerhed. I 
+/4/ lå den relative usikkerhed mellem 15 og 35% for flowmålinger, mens usikkerheden på 
+bestemmelse af suspenderet stof var 10-20%  
+I måleprogrammet præsenteret i /9/ blev anvendt stikprøvetagning, hvor der eksempelvis blev 
+udtaget 42 prøver over 2,2 timer og med prøvetagning i 3-5 minutters intervaller før peak flow og 
+med 15-30 minutters intervaller efter peak flow. Flowet blev målt ud fra dybde og vandhastighed. 
+I /7/ er beskrevet et måleprogram, hvor fokus var tungmetaller - herunder kobber, mangan, bly, 
+zink og jern. Der blev undersøgt overfladeafstrømning fra tre typer overflader: tage med tagpap, 
+en stærkt trafikeret vej og en p-plads. Formålet var at vurdere forureningen med opløste 
+tungmetaller, tidsmæssige effekter af tungmetalforurening fra forskellige typer overflader samt at 
+identificere nøgleparametre, der påvirker størrelsen af first flush (se side 12). Der blev manuelt 
+udtaget stikprøver under regnhændelser med 2 minutters intervaller i de første 10 minutter, 
+dernæst med 5 minutters intervaller i 20 minutter efterfulgt af 10 minutters intervaller i 30 
+minutter og endelig 15 minutters intervaller indtil afslutningen af regnhændelsen. I alt blev der 
+udtaget 259 prøver fra forskellige regnhændelser til analyse. 
+Hovedformålet i dette studie /6/ var at identificere first flush effekten under overfladeafstrømning 
+fra fire kobbertage (i alt 5.100 m2) i München. Der var fire prøvetagningssteder knyttet til fire 
+separate tagflader. Der blev udført flowproportional automatisk prøvetagning med magnetisk 
+induktive flowmålere samt online dataopsamling (datalogning med 20 sek. interval). 
+Prøvetagningen begyndte, når flowet havde ligget på 1 l/min i 60 sek. Prøvetagningen stoppede 
+igen, når flowet havde været under 0,6 l/min i 60 sek. Prøveoptageren havde 12 flasker hver 
+med et volumen på 2,5 l. I løbet af denne to-trins prøvetagningsprocedure blev der opsamlet 
+500 ml. Med en prøvetagningsperiode på 2 min. og udtagning af fire prøver i hver flaske var det 
+muligt at prøvetage over lang tid, inden prøvebeholderne var fyldt op.  
+Reference /8/ indeholder data fra karakterisering af overfladeafstrømning fra motorveje. 
+Prøvetagningen foregik ved, at der i løbet af den første time blev udtaget stikprøver med 15 
+minutters mellemrum og derefter stikprøver med 1 times mellemrum i op til 8 timer. Desuden 
+blev et antal prøver udtaget flowproportionalt med en automatisk prøveoptager. I reference /8/, 
+hvor der er behandlet en stor mængde regnvandsdata, blev det konkluderet, at der er forskel på 
+mængden af partikelbundne metaller i stikprøver sammenlignet med mængden i prøver udtaget 
+som delprøver med en automatisk prøveoptager. 
+Følgende moniteringsmetoder anvendes typisk i forbindelse med karakterisering af first flush: 
+• Flowmåling baseret på måling af vandhastighed og –dybde samt logning med varierende 
+frekvens 
+• Manuelt udtaget stikprøver med varierende frekvens 
+• Automatisk flowproportional prøvetagning med varierende start- og stopkriterier 
+• Online måling af parametre som f.eks. turbiditet, pH, ledningsevne, temperatur.  
+Følgende analyseparametre indgår hyppigt i måleprogrammer: 
+• Suspenderet stof (TSS) 
+• Metaller (Cu, Pb, Zn, Fe) 
+• COD, BOD, TOC, DO 
+• Total-N, TKN, Total-P, PO4-P, NH4-N, NO3-N 
+• Heptan ekstraherede stoffer 
+• Hårdhed 
+
+  
+18 First Flush  review / bop / 2018-01-19 
+• Na+, K+, Ca2+, Mg2+, Cl-, SO42-,F- 
+• Mikrobiologiske parametre 
+I rapporten ”Bobleprojekt – First flush og hverdagsregn”, der beskriver moniteringsfaciliteter og 
+et måleprogram for testanlæg med filtermuld /17/, er der refereret til udstyr og metoder, der kan 
+benyttes til flowmåling, automatisk prøvetagning samt turbiditets-, ledningsevne- og 
+nedbørsmåling. Desuden er der i rapporten givet anbefalinger til dataopsamling og 
+datahåndtering. 
+ 
+
+Regulering af regnvandsstrøm ved vandbremser  
+ 19 
+4 Regulering af regnvandsstrøm ved vandbremser 
+Ekstreme regnhændelser er ofte karakteriseret ved at være kortvarige og meget lokale , og det 
+er ofte kun i korte perioder, at regnvandsledninger bliver fuldtløbende, og hvor der er behov for 
+at lede regnvandet ad andre veje end den primære. Hyppigheden af hydraulisk overbelastning 
+af regnvandssystemer forventes imidlertid at stige som følge af klimaændringer.  
+Vandbremser anvendes typisk til at regulere vandstrømme, hvor regnvand er blandet op med 
+overløb fra kloakker. I disse situationer er formålet med vandbremsen at beskytte nedstrøms 
+beliggende kloaksystemer mod overløb ved kun at tillade et forud fastlagt maksimum flow og 
+omdirigere det overskydende flow til eksempelvis et opmagasineringsbassin. Når belastning en 
+af kloaksystemet er faldet, kan vandet fra opmagasineringsbassinet ledes tilbage til 
+kloaksystemet. 
+I Københavns Kommune anvendes vandbremser også i separate regnvandsledninger  i 
+eksempelvis kvarteret omkring Tordenskjoldsgade, hvor regnvandet i forbindelse med 
+hverdagsregn ledes til kloaksystemet og videre til Renseanlæg Lynetten. Hvis regnvandsflowet 
+overstiger kapaciteten i kloakledningen, vil en vandbremse placeret i brønden, der har 
+forbindelse til kloaksystemet, sikre, at flowet ikke overstiger kapaciteten i kloakledningen, og det 
+overskydende regnvand vil blive udledt til Københavns Havn.  
+Som det er beskrevet tidligere, vil Københavns Kommune og HOFOR gerne reducere den 
+hydrauliske belastning af kloaksystemerne og belastningen på renseanlæggene gennem 
+anvendelse af vandbremser, som omdirigerer regnvand med lav forureningsgrad til Københavns 
+Havn. For at vurdere, om dette er en mulighed, er her beskrevet, hvilke typer af vandbremser 
+der findes, og hvordan de kan indgå i reguleringen af regnvandsstrømme.  
+Denne form for regulering skal ses som et alternativ til rensning af regnvand tæt ved 
+udledningspunktet. Hvis first flush effekten udnyttes ved indstilling af vandbremser, kan der 
+muligvis opnås en begrænset miljømæssig effekt. Den største miljømæssige effekt forventes 
+opnået ved udvikling af vandbremser, der kan reguleres ud fra sammenhørende målinger af flow 
+og turbiditet. 
+Vandbremser findes i to hovedtyper - hvirvelbremser, der i hovedsagen bremser ved hjælp af 
+centrifugalkraft, og dem, der bremser uden. Her forklares, hvordan hvirvelbremser bremser ved 
+hjælp af centrifugalkraft, hvilket er eksemplificeret med cyklonbremsen. I Figur 4-1, Figur 4-2 og 
+Figur 4-3 er vist tre typer af hvirvelbremser:  
+• Cyklonbremse (CYE) 
+• Centrifugalbremse-vertikal (CEV) 
+• Centrifugalbremse-horisontal (CEH) 
+
+  
+20 First Flush  review / bop / 2018-01-19 
+ 
+Figur 4-1:  Cyklonbremsen (CYE) /13/. 
+ 
+ 
+Figur 4-2:  Vertikal centrifugalbremse (CEV) /13/. 
+
+
+Regulering af regnvandsstrøm ved vandbremser  
+ 21 
+ 
+Figur 4-3:  Horisontal centrifugalbremse /13/. 
+I en normal regnvejrssituation, hvor en lille vandmængde løber i kloakledningen, står 
+vandspejlet under toppen af indløbsåbningen til vandbremsen, og der sker ingen opbremsning 
+af vandet. 
+Under regn forøges regnvandsmængden, og vandet stiger foran regulatoren. Når vandet når op 
+over toppen af indløbsåbningen - men stadig er under toppen af hvirvelkammeret – spærres luft 
+inde i kammeret, og vandets strømningstværsnit indsnævres. Den øgede modstand reducerer  
+den vandmængde, der kan løbe igennem regulatoren (Figur 4-1). 
+Når vandet stiger op over toppen af regulatoren, får trykket vandet i regulatoren til at rotere. 
+Luften optager en del af udløbets tværsnitsareal, og vandet roterer hurtigere mod 
+regulatorspidsens udløb. Resultatet er et tryktab og en passende modstand mod gennemløbet. 
+Vandstanden i brønden falder efterhånden til under toppen af vandbremsen, og med det 
+aftagende tryk kollapser hvirvlen.  Den erstattes af luft, der med nogen forsinkelse suges ind i 
+regulatoren, som derfor først normaliserer sin funktion, når vandstanden er lidt under det niveau, 
+hvor dannelsen af den bremsende hvirvel startede. 
+Når hvirvlen ophører, forøges flowet gennem vandbremsen, hvorved eventuelle aflejringer 
+opstrøms spules med ud. Et typisk forløb af en vandbremse er præsenteret i Figur 4-4, der viser 
+H som funktion af flowet. 
+
+
+  
+22 First Flush  review / bop / 2018-01-19 
+ 
+Figur 4-4:  Grafisk præsentation af hvirveleffekten på udløbsflowet, når vandbremsen arbejder ved 
+henholdsvis 73% og 100% effektivitet, og indløbsflowet til en brønd er større end 
+udløbsflowet. 
+Cyklonbremser kan monteres med en justerbar indløbsblænde. Indløbsblænden kan reguleres 
+trinløst til eksempelvis ±25% af kapaciteten i midterstilling. Indstillingsintervallet vil variere 
+afhængigt af vandbremsens maksimale kapacitet. 
+De nuværende modeller af vandbremser kan benyttes til at kontrollere og regulere regnvand, så 
+f.eks. det første og mest forurenede regnvand ledes til kloaksystemet, mens store og mindre 
+forurenede regnvandsmængder senere under en nedbørshændelse kan udledes til 
+vandområder eller opmagasineres, indtil der er plads i afløbssystemet. 
+Cyklonbremser kan anvendes til regulering af alle vandføringer, undtagen de helt små – dvs. 
+vandføringer mellem 8 og 600 l/s. Udformningen af regulatoren er dog lidt forskellig afhængigt af 
+flowet. Cyklonbremsen fungerer ved hjælp af gravitation og er designet, så der opnås maksimal 
+selvrensning. 
+Cyklonbremser kan indbygges i eksisterende brønde uden højdetab. De almindeligste størrelser 
+kan passere et brønddæksel og er anvendelige både ved nye anlæg og ved regulerin ger i 
+eksisterende systemer.  
+Centrifugalbremsens gennemløbsåbning er større end cyklonbremsens, og det giver i den 
+situation en mindre risiko for tilstopningsproblemer, så her er centrifugalbremsetypen mest 
+hensigtsmæssig.  Der findes to hovedtyper af centrifugalbremser: Horisontal, som benyttes til 
+spildevand, og vertikal, som benyttes til regnvand. Designet af centrifugalbremserne adskiller sig 
+fra cyklonbremserne, men funktionen er i princippet den samme. 
+
+
+Regulering af regnvandsstrøm ved vandbremser  
+ 23 
+Den vertikale centrifugalbremse kan monteres i en brønd med sandfang og i forbindelse med 
+afløb fra forsinkelsesbassiner og bygværker m.m. Den vertikale centrifugalbremse anvendes til 
+regulering af små og moderate vandmængder, og den findes i forskellige størrelser og kan 
+regulere fra ca. 0,2 l/s til 80 l/s.  
+Den horisontale centrifugalbremse monteres normalt på tilløbet i en brønd i forbi ndelse med 
+afløb fra bassiner og overfaldsbygværker og anvendes til regulering af små og moderate 
+vandmængder (4-30 l/s). Horisontale centrifugalbremser bliver kun brugt i specielle tilfælde og 
+er ikke almindelige i Danmark.  
+I Tabel 4.1 er karakteristika for vandbremser sammenfattet i forhold til dimensioner, funktion, 
+fordele, ulemper og økonomi. 
+Tabel 4.1:  Sammenfatning af karakteristika for vandbremser. 
+Karakteristika for vandbremser 
+Dimensioner og kapacitet Centrifugalbremse (0,2-80 l/s) eller cyklonbremse (10-600 l/s) sikrer konstant 
+vandføring - selv ved stort interval af trykhøjder. Tværsnit >200 mm. 
+Funktion Kan benyttes til at regulere tilførslen af regnvand til renseanlæg/recipient.  
+Fungerer som et alternativ til drosselledninger og spjæld. Ingen renseeffekt, 
+men kan anvendes til sikring af, at first flush ledes til renseanlæg. Sikring 
+mod oversvømmelser nedstrøms bremsen. 
+Kombineres med Kombineres typisk med regnvandssystemer med udløb til vandområder og 
+kontrol af den hydrauliske belastning. 
+Fordele Vandbremser giver mulighed for, at der maksimalt kan passere en fast 
+begrænset vandmængde på et udvalgt sted. Mulighed for spuling af 
+vandbremse. 
+Økonomi  Anskaffelsespris: 12.000-35.000 kr. 
+Ulemper Der kan være behov for spuling af vandbremsen 
+4.1 Anvendelse af vandbremser til regnvandsregulering 
+Når der gives tilladelse til udledning af overfladeafstrømning fra befæstede arealer, skal det ske 
+ved anvendelse af den kombinerede metode. Det betyder konkret, at der skal stilles krav om 
+anvendelse af bedst tilgængelig teknik (BAT), og hvis ikke anvendelse af BAT er tilstrækkelig til 
+at opfylde miljømål i henhold til vandplaner og miljøkvalitetskrav i BEK 439 af 19/05/2016, skal 
+der stilles vilkår i den enkelte tilladelse. 
+Vandbremser kan anvendes som en BAT-løsning, hvis det kan godtgøres – f.eks. gennem et 
+måleprogram - at kvaliteten af den udledte vandstrøm er tilstrækkelig god til at sikre miljømålet 
+for vandområdet. 
+Som beskrevet ovenfor er vandbremsen primært konstrueret for at beskytte nedstrøms 
+beliggende kloaksystemer ved at tillade et forud fastsat maksimalt flow at passere 
+vandbremsen. Anvendelse af vandbremsen til intelligent regulering under first flush vil kræve, at 
+reguleringen også baserer sig på stofbelastningen målt ved parametre som eksempelvis 
+turbiditet/suspenderet stof. Mosbæk A/S, der er leverandør af mange typer vandbremser, er ikke 
+bekendt med, at der findes vandbremser med mulighed for intelligent styring /18/. 
+
+  
+24 First Flush  review / bop / 2018-01-19 
+Ved litteratursøgningen er der ikke fundet beskrivelser af intelligent styring af vandbremser/flow 
+regulatorer, hvor realtidsmålinger af turbiditet indgår i reguleringen. I første omgang kunne en 
+simpel regulering bestå i fast indstilling af vandbremsen baseret på måling af sammenhørende 
+værdier af flow og turbiditet for et velbeskrevet opland. Ud fra erfaringsopsamlingen opstilles 
+efterfølgende forslag til indstillinger af vandbremsen, der tillader forskellige størrelser af flow at 
+passere til kloakken. Under regnhændelser måles flow og turbiditet før brønden, hvor 
+vandbremsen sidder, og i regnvandet, der passerer til vandområdet (eller til kloak). 
+ 
+ 
+
+Måleprogram for first flush  
+ 25 
+5 Måleprogram for first flush 
+5.1 2-trins måleprogram 
+Overordnet set foreslås det at inddele måleprogrammet til karakterisering af first flush i fire trin, 
+hvor de to første trin alene består af online målinger og de to sidste inkluderer automatisk 
+prøvetagning og kemiske analyser. Figur 5-1 viser en skitse af tilløb og afløb fra en brønd med 
+en vandbremse. Målepunkterne på figuren er beskrevet nedenfor. 
+• 1A: I dette trin etableres erfaringer med måling af sammenhørende værdier af flow - og 
+turbiditet samt kalibrering mellem turbiditet og suspenderet stof. Desuden opnås erfaring 
+med dataopsamling og overførsel. Data anvendes til at opstille M(V) kurver (se afs. 3.1) og 
+fastlægge kriterier (flow og turbiditet) for afledning til vandområder 
+• 1B: I dette trin suppleres med online målinger på udløbssiden til vandområdet. Regnvandet 
+karakteriseres med hensyn til flow og turbiditet. Dermed kan der opstilles en simpel 
+massebalance for fordelingen af stof og vand mellem kloak og vandområde. Det ideelle 
+ville være også at udføre flow- og turbiditetsmåling i afløbet til kloak. Desuden kan der 
+eventuelt udføres målinger, hvor vandbremsen indstilles til forskellige maksimum flow. 
+Herefter opstilles massebalancer for vand og suspenderet stof (tilløb/kloak/vandområde) for 
+forskellige driftssituationer. 
+• 2A: I dette trin opstilles en automatisk prøveoptager i tilløbet til brønden med vandbremsen. 
+Dette trin kan eventuelt springes over, og man kan gå direkte til trin 2B, så der straks 
+etableres to prøvetagningssteder (før vandbremse og i udløb til vandområdet). Der 
+opsamles vandprøver til kemisk analyse for tungmetaller, COD og næringssalte. Den 
+automatiske prøvetagning bør gennemføres som fraktioneret prøvetagning med udtagning 
+af delprøver efter et forud fastlagt regnvandsvolumen. Dette vil kræve en del erfaring 
+vedrørende flow ved forskellige regnhændelser. Målet er at sammenkæde 
+turbiditetsmålingerne med stofbelastningen for de nævnte parametre. 
+• 2B: Dette trin inkluderer som tidligere nævnt fraktioneret prøvetagning i udløbet til 
+vandområdet samt kemiske analyser. Dette vil muliggøre opstilling af en massebalance for 
+stoffordelingen mellem kloak og vandområdet. 
+I Tabel 5.1 er vist en oversigt over målesteder, online parametre og analyseparametre samt 
+nødvendigt udstyr til karakterisering af first flush.  
+  
+
+  
+26 First Flush  review / bop / 2018-01-19 
+Tabel 5.1:  Oversigt over fire trin i et måleprogram for first flush.  
+Program-trin Målesteder Parametre Udstyr 
+1A 
+Online målinger 
+I regnvandsledning, der fører til 
+brønd, hvor vandbremsen 
+sidder. 
+Online flow, turbiditet, 
+nedbørsmåling samt eventuelt 
+ledningsevne, temperatur og 
+pH. Kalibrering mellem 
+turbiditet og suspenderet stof. 
+Flowmåler, turbiditetsmåler, 
+nedbørsmåler samt udstyr 
+til dataopsamling og  
+–overførsel. 
+1B 
+Online målinger 
+inkl. massebalance 
+I regnvandsledning, der fører til 
+brønd, hvor vandbremsen 
+sidder, samt i udløbet til 
+vandområdet. 
+ 
+Online flow, turbiditet, 
+nedbørsmåling samt eventuelt 
+ledningsevne, temperatur og 
+pH. Kalibrering mellem 
+turbiditet og suspenderet stof i 
+udløbet til vandområdet. 
+Flowmåler, turbiditetsmåler 
+(to steder), nedbørsmåler 
+samt udstyr til 
+dataopsamling og  
+-overførsel. 
+2A 
+Online målinger 
+Automatisk 
+flowproportional 
+prøveudtagning 
+I regnvandsledning, der fører til 
+brønd, hvor vandbremsen 
+sidder. 
+Online flow, turbiditet, 
+nedbørsmåling samt eventuelt 
+ledningsevne, temperatur og 
+pH. 
+Analyseparametre: SS, 
+tungmetaller (total og filtreret), 
+COD, Total-N og Total-P.  
+Flowmåler, turbiditetsmåler, 
+nedbørsmåler samt udstyr 
+til dataopsamling og  
+–overførsel. Automatisk 
+prøveoptager. 
+2B 
+Online målinger 
+Automatisk 
+flowproportional 
+prøveudtagning 
+inkl. massebalance 
+I regnvandsledning, der fører til 
+brønd, hvor vandbremsen 
+sidder, og i udløbet til 
+vandområdet. 
+Online flow, turbiditet, 
+nedbørsmåling samt eventuelt 
+ledningsevne, temperatur og 
+pH. 
+Analyseparametre: SS, 
+tungmetaller (total og filtreret), 
+COD, Total-N og Total-P. 
+Flowmåler, turbiditetsmåler 
+(to steder), nedbørsmåler 
+samt udstyr til 
+dataopsamling og  
+–overførsel. Automatisk 
+prøveoptager (to steder). 
+ 
+Brønd m. 
+vandbremse
+Tilløb af regnvand
+ Afløb til kloak
+Udløb vandområde
+Målepunkt
+ 
+Figur 5-1: Skitse med tilløb og afløb fra brønd med vandbremse. De ideelle målepunkter er indtegnet. 
+
+Måleprogram for first flush  
+ 27 
+5.1.1 Karakterisering af afstrømningsoplandet 
+Det reducerede areal bestemmes bedst ved sammenhørende målinger af afstrømning og 
+nedbør. Men da dette sjældent er muligt, beregnes arealet i praksis oftest ud fra 
+erfaringsværdier for den hydrologiske reduktionsfaktor og opmålinger af det befæstede areal.  
+Det reducerede areal kan fastsættes ud fra nedenstående relation: 
+Ared = ᵠ · ᵝ · Atotal, hvor 
+ᵠ er afløbskoefficienten (eller den hydrologiske reduktionsfaktor)  
+ᵝ er befæstelsesgraden  
+Atotal er det samlede oplandsareal  
+Den anvendte metode afhænger af analysens formål, se eventuelt anbefalingerne i /19/. Typiske 
+befæstelsesgrader for forskellige oplandsområder er: 
+• Butiksområder: Ca. 0,80-0,90 
+• Tæt, lavt/højt byggeri, f.eks. etageboliger: Ca. 0,50-0,75 
+• Erhvervsområder: Ca. 0,60-0,75 
+• Åbent, lavt byggeri, f.eks. parcelhusområder: Ca. 0,35-0,50 
+Afløbskoefficienten eller den hydrologiske reduktionsfaktor for befæstede arealer afspejler, at 
+befæstede flader i en vis udstrækning er permeable. F.eks. giver fortove og 
+brostensbelægninger mulighed for, at en del af afstrømningen nedsiver i jorden, hvorved 
+afstrømningen reduceres. 
+Afløbskoefficienten (φ) kan fastsættes ud fra retningslinjerne i /19/: 
+• 1,0 for tagflader og tætte terrænbelægninger, f.eks. af asfalt, beton eller belægninger med 
+tætte fuger 
+• 0,8 for belægninger med grus- eller græsfuger 
+• 0,6 for grusbelægninger 
+• 0,1 for havearealer og arealer uden belægning 
+5.1.2 Indretning af prøvetagningssted 
+I rapporten om monitering af hverdagsregn og first flush /17/ findes detaljerede beskrivelser af, 
+hvordan et måle- og prøvetagningssted skal være indrettet for at opnå troværdige målinger af 
+nedbør, flow og turbiditet samt udtagning af repræsentative prøver til analyse. 
+Prisen for etablering af en flowmåler, tubiditetsmåler, nedbørsmåler, prøvetager samt udstyr til 
+dataopsamling og overførsel af data vurderes at være i størrelsesordenen 100.000 kr. Dertil 
+kommer udgifter til opsætning og test. Prisen vil afhænge af målestedets indretning, om der er 
+permanent strømforsyning, eller der skal anvendes batterier, og om udstyret f.eks. skal placeres 
+i et målerskab for at beskytte mod hærværk, eller måleudstyret kan placeres i brønden. Her er 
+det nødvendigt at kontakte en leverandør, der kan rådgive om mulighederne Dataopsamlingen 
+kan enten ske ved overførsel i realtid eller ved batchvis overførsel. 
+5.1.3 Dataopsamling 
+I tilknytning til målestedet - eventuelt i en målestation - etableres et dataopsamlings- og 
+datahåndteringssystem for realtidsmålinger fra flowmålere, prøveudtagere og turbiditetsmålere.  
+I praksis kan man installere en lille DIMS database (DIMS = data integrationssystem) lokalt på 
+en PC i målestationen, eksempelvis en NUC (kraftig minicomputer). Denne sender så data op i 
+
+  
+28 First Flush  review / bop / 2018-01-19 
+skyen til datafarmen, hvor data også lægges i en DIMS database. DIMS er et system til 
+datahåndtering i realtid samt til databearbejdning. 
+Fra bruger-PC'en kan der enten være adgang til data via en DIMS klient (hvor der er fuld 
+mulighed for at anvende funktioner i DIMS), eller der kan laves en adgang via en browser. I så 
+fald er der dog kun adgang til at se de data, man har valgt at gøre tilgængelige. Derefter kan 
+man gemme data i Excel på egen PC, hvis man skal arbejde videre med dem. DIMS vil være 
+installeret på NUC'en og kan også lægges på bruger-PC'en. 
+ 
+Figur 5-2:  Systemoversigt for datahåndtering. 
+5.1.4 Måleperiode 
+I måleprogrammerne beskrevet i referencerne nævnt i kapitel 3 er der gennemgående opsamlet 
+data om first flush over to år eller mere. Disse langvarige måleperioder er nødvendig for at opnå 
+tilstrækkeligt med data til at kunne fastlægge, hvilke nedbørssituationer der kan karakteriseres 
+Målepaneler 
+PC inkl. datalogger og 
+4G-netværksforbindelse 
+DIMS 
+Datafarm 
+Brugeradgang 
+Turbiditet 
+Ledningsevnemåler 
+Nedbørsmåler 
+Niveaumåler 
+Temperatur 
+Flow 
+Prøveudtager 
+Web-adgang 
+
+Måleprogram for first flush  
+ 29 
+som first flush. Desuden er det nødvendigt med et solidt datagrundlag om forholdet mellem 
+belastningen til kloak og til vandområdet i forskellige nedbørssituationer (regnintensitet,  
+-mængde, varighed) og om driftssituationer for vandbremsen for at kunne opstille retningslinjer 
+for indstilling af vandbremser. Udvikling af vandbremser/regulatorer, der kan styres intelligent ud 
+fra flow og turbiditet, vil kunne forbedre reguleringen af forurenede regnvandsstrømme. Der bør 
+som minimum gennemføres målinger over et år. 
+5.1.5 Databearbejdning og erfaringsopsamling  
+Efter en indkøringsperiode med test af turbiditets-, flow- og nedbørsmåler samt dataopsamling 
+og overførsel iværksættes en testperiode på minimum tre måneder med dataopsamling under 
+varierende nedbørshændelser (mm nedbør, intensitet og varighed) og situationer , hvor 
+vandbremsen træder i funktion. First flush kvantificeres ud fra M(V) kurver for hver af de valgte 
+måle/analyseparametre (turbiditet, COD, tungmetaller m.fl.). 
+ 
+
+Konklusioner og anbefalinger  
+ 31 
+6 Konklusioner og anbefalinger 
+Formålet med projektet har været at afklare, hvad der skal til for at dokumentere, om 
+fraseparation af first flush ved hjælp af vandbremser kan sidestilles med BAT, og om metoden kan 
+anvendes i separate regnvandssystemer til at begrænse udledningen af det mest forurenede 
+vand fra overfladeafstrømning. 
+Baseret på gennemgang af internationale videnskabelige artikler om first flush er der i rapporten 
+beskrevet tre hovedemner:   
+• Metode til analyse af first flush 
+• Vandbremser til regulering af regnvandsstrømme 
+• Måleprogram til karakterisering af first flush 
+Konklusioner og anbefalinger er relateret til disse tre emner. 
+First flush 
+First flush defineres – i sin mest simple form - som den første del af et udledt vandvolumen, der 
+indeholder hovedparten af mængden af forurenende stoffer. Der findes flere og mere 
+afgrænsede definitioner af first flush som f.eks., at de første 30% af vandmængden indeholder 
+80% af stofbelastningen. Jo mindre skarpt afgrænset definition af first flush er, jo flere 
+regnhændelser vil kunne karakteriseres som first flush hændelser. 
+Litteraturgennemgangen viste, at ud over beskrivelser og kvalitativ bestemmelse af first flush er 
+den mest anvendte metode til analyse af first flush udarbejdelse af M(V) kurver, der viser den 
+akkumulerede stofbelastning i forhold til den samlede masse fra en nedbørshændelse (y-aksen) 
+og forholdet mellem akkumuleret flow og det samlede flow. Vinkelhalveringslinjen (45° linjen) på 
+en figur med M(V) kurver repræsenterer den situation, hvor koncentrationen af forurenende 
+stoffer er konstant under regnhændelsen. First flush er repræsenteret ved data, der ligger over 
+45° linjen, og datapunkter under linjen repræsenterer situationen, hvor der er sket en fortynding 
+af forurenende stoffer. Den maksimale afstand fra vinkelhalveringslinjen til kurven, der ligger 
+ovenover, er et udtryk for størrelsen af first flush.  
+Regnhændelser kan overordnet set inddeles i tre kategorier: 
+1. Små regnhændelser, hvor dynamikken i stofkoncentrationer og flow tilnærmelsesvist følges 
+ad 
+2. Successive regnhændelser med flere efter hinanden følgende flow peaks og peaks af 
+stofkoncentrationer. Peaks forsvinder efterhånden og efterfølges af fortyndingseffekter 
+3. Kraftige regnhændelser, hvor der indledningsvist opstår peaks med forhøjede 
+stofkoncentrationer, som efterfølgende aftager, hvorefter fortyndingseffekten tager over. 
+Ved regnhændelserne beskrevet under punkt 1 er der ingen first flush effekt, mens der i de to 
+andre situationer vil være en større eller mindre first flush effekt, der kan udnyttes til at regulere 
+regnvandsstrømme, så den første og mest forurenede del ledes til kloak og den efterfølgende til 
+et vandområde.  
+Vandbremse 
+Vandbremsen er primært konstrueret for at beskytte nedstrøms beliggende kloaksystemer ved 
+at tillade et forud fastsat maksimalt flow at passere. 
+I første omgang kan en simpel regulering bestå i fast indstilling af vandbremsen baseret på 
+måling af sammenhørende værdier af flow og turbiditet for et velbeskrevet opland. Ud fra 
+erfaringsopsamlingen opstilles efterfølgende forslag til indstillinger af vandbremsen, der tillader 
+forskellige størrelser af flow at passere til kloakken, og som samtidig sikrer en tilstrækkeligt god 
+kvalitet af vandet, der udledes til vandområdet.  
+
+  
+32 First Flush  review / bop / 2018-01-19 
+Anvendelse af vandbremsen til intelligent regulering under first flush  vil kræve, at reguleringen 
+også baserer sig på stofbelastningen målt ved parametre som eksempelvis 
+turbiditet/suspenderet stof og flow. 
+Måleprogram 
+Formålet med måleprogrammer for first flush i en brønd, hvor der er installeret en vandbremse , 
+er at kvantificere størrelsen af first flush, fastlægge stofbelastningen i vandet, der udledes til 
+vandområdet, og sammenligne med stofmængden, der ledes til kloak. Det maksimale flow til 
+kloak kan reguleres ved indstilling af vandvandbremsen. 
+Forslaget til et måleprogrammet er inddelt i fire trin, hvor de to første trin alene består i online 
+målinger, mens de to sidste inkluderer automatisk prøvetagning og kemiske analyser. 
+Målingerne omfatter tilløb og to afløb fra brønden (til kloak og til vandområde). 
+Flow, turbiditet, nedbørsmåling og eventuelt ledningsevne er alle parametre, der kan 
+gennemføres som online målinger med automatisk dataopsamling f.eks. med to minutters 
+intervaller. For at reducere omkostninger til udstyr kan man i første omgang vælge kun at udføre 
+online målinger. De hyppigst valgte parametre til karakterisering af first flush er suspenderet 
+stof, tungmetaller (total og filtreret), COD, Total-N og Total-P. Suspenderet stof og COD er de 
+parametre med den største first flush effekt. De nævnte analyseparametr e kræver 
+flowproportional fraktioneret prøvetagning. 
+6.1 Anbefalinger 
+Ved litteratursøgning blev der ikke identificeret måleprogrammer, hvori der indgik vandbremser 
+til regulering af regnvandsstrømme. Et måleprogram vil kunne dokumentere størrelsen af first 
+flush og fordelingen af vand- og stofmængde mellem udløb til kloak og udløb til et vandområde. 
+Som minimum anbefales målemåleprogrammet at omfatte følgende aktiviteter: 
+• Online måling og dataopsamling af flow og turbiditet i tilløb til regnvandsbrønd med 
+vandbremse og i afløbet til kloak 
+• Kalibrering mellem turbiditet og koncentrationer af suspenderet stof 
+• Indsamling af data vedrørende oplandet (areal, overfladetyper) og nedbør (mm nedbør, 
+intensitet, varighed m.m.) 
+• Målinger under varierende kapacitet for vandbremsen 
+• Kontakt til leverandør af nødvendigt måleudstyr og udstyr til dataopsamling  
+• Levering og opsætning samt indkøring af udstyr 
+De indsamlede og bearbejdede data forventes at kunne understøtte udvikling af en vandbremse 
+med intelligent styring, hvor flow til kloak reguleres efter turbiditet og flow.  
+ 
+ 
+
+Referencer  
+ 33 
+7 Referencer 
+/1/ Soller, J. et al. 2005. “Evaluation of seasonal scale first flush pollutant loading and 
+implications for urban runoff management”. Journal of Environmental Management 76: 
+309-318. 
+/2/ Charters, F.J., Cochrane, T.A. and O’Sullivan, A.D. 2016. “Untreated runoff quality from 
+roof and road surfaces in a low intensity rainfall climate”. Science of the Total 
+Environment 550: 265-272. 
+/3/ Bertrand-Krajewski, J-L., Chebbo, G. and Saget, A. 1998. “Distribution of pollutant mass 
+vs volume in stormwater discharges and the first flush phenomenon”. Water Resources 
+32, 8: 2341-2356. 
+/4/ Sun, S. et al. 2015. “Long-term stormwater quantity and quality analysis using continuous 
+measurements in a French urban catchment”. Water Research 85: 432-442. 
+/5/ Bach, P.M., McCarthy, D.T. and Deletic A. 2010. “Redefining the stormwater first flush 
+phenomenon”. Water Research 44: 2487-2498. 
+/6/ Athanasiadis, K., Horn H. and Helmreich, B. 2010. “A field study on the first flush effect of 
+copper roof runoff”. Corrosion Science 52: 21-29. 
+/7/ Li, W. et al. 2012. “Temporal variation of heavy metal pollution in urban stormwater 
+runoff”. Front. Environ. Sci. Eng. 6(5): 692-700. 
+/8/ Lee, H. et al. 2004. “Seasonal firsh flush phenomenon of urban stormwater discharges”. 
+Water Research 38: 4153-4163. 
+/9/ Lee, J.H. et al. 2002 “First Flush analysis of Urban storm runoff” The Science of the Total 
+Environment 293 (2002)163-175. 
+/10/ Schriewer, A., Horn, H. Helmreich, B. 2008. “Time focused measurements of roof runoff 
+quality” Corrosion Science 50: 384-391. 
+/11/ Bonhomme, C., Petrucci, G. 2017. “Should we trust build-up/wash off quality models at 
+the scale of urban carchments?” Water Research 108: 422-431. 
+/12/ Métadier, M., Bertrand-Krajewski, J.-L. 2012. “The use of long-term on-line turbidity 
+measurements for the calculation of urban stormwater pollutant concentrations, loads, 
+pollutographs and intra-event fluxes” Water Research 46: 6836-6856. 
+/13/ Mosbæk A/S http://www.mosbaek.dk/dk/losninger/funktion/vandbremser-med-
+hvirveleffekt/ 2017. 
+/14/ Teknologisk Institut, Rørcenter – anvisning 019. ”Vandbremser – Regulering af 
+vandstrømme i afløbssystemer”. Maj 2013. 
+/15/ Københavns Kommune, Teknik og Miljøforvaltning. ”Rensning af hverdagsregn – 
+renseteknologier”. Rapport udarbejdet af DHI januar 2016. 
+/16/ DMI SVK målersystem: https://www.dmi.dk/erhverv/anvendelse-af-
+vejrdata/spildevandskomiteens-regnmaalersystem/ 
+/17/ Vand i Byer og Københavns Kommune. ”Bobleprojekt – First flush og hverdagsregn”. 
+Rapport udarbejdet af DHI marts 2017. 
+
+  
+34 First Flush  review / bop / 2018-01-19 
+/18/ Mosbæk A/S. Kommunikation med Torben Krejbjerg 15.11.2017. 
+/19/ Miljøministeriet, Miljøstyrelsen. 1992. ”Bestemmelse af befæstet areal”¸ 
+Spildevandsforskning fra Miljøstyrelsen, Nr. 43.

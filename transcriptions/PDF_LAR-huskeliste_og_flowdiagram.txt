@@ -1,0 +1,174 @@
+=== DNNK PDF Dokument ===
+Titel: LAR-huskeliste og flowdiagram >
+Kategori: Rapporter_s4
+Kilde: https://usercontent.one/wp/www.dnnk.dk/wp-content/uploads/2021/04/LAR-huskeliste.pdf
+Indekseret: 2026-09-21T18:36:02.280415
+
+==================================================
+
+Fokuspunkter til LAR-projekter 
+1) Jordbundsforhold (Se notat MST)
+ Er der forurening (V1 eller V2) i 
+området?
+ Er der gamle grusgrave?
+ Risikerer vi grundvandsstigning?
+ Hvor tæt er grundvandet på terræn?
+ Er vi inden for 25 meter fra 
+vandindvindingsboringer?
+ Er der kendskab til tidligere oplag af 
+salt på ejendommen.
+ Er det muligt at nedsive pga. 
+terrænhældning og 
+jordbundsforhold?
+JA NEJ – Intet projekt 
+2) Undersøgelse af området
+På sitet:
+ De lokale terrænforhold (Kan vandet
+løbe fra nedløb til græsareal)
+ Afstandskrav til skel og bygninger
+ De eksisterende grønne områder
+ Nedløbsrør og tagmaterialer
+På computeren: 
+ De overordnede terrænforhold (kan
+vandet løbe sammen i en større
+helhed)
+ Overskrider vandet skel ved skybrud?
+ Separatkloakering i området? – Kan
+de få tilbagebetaling?
+ Juridiske forhold/lovgivninger
+ Ledningsoplysning: fjernvarme, el, tv-
+kabel, telefon, gasledning etc.
+3) Se projekt i større sammenhæng
+ Kloak/opland
+ Vej-/cykelstiprojekter
+ Andre projekter
+ Hvornår kan/skal/vil Forsyningen 
+være med?
+Information hentes fra Kort og luftfoto + 
+nedsivningspotentialekortet + Danmarks 
+miljøportal (Areal-info) 
+Miljøafdelingen kontaktes. 
+Hjælp til afstandskrav på regnvands-
+hjemmesiden under nedsivning. 
+Højdekurver findes under kort og luftfoto 
+Tjek evt. kort  over separatkloakering. 
+Snak sammen med Miljø, Park & Veje, 
+Forsyningsselskab og Ejendomscenteret. – 
+Evt. Fjernvarme. 
+
+ Lokalplaner
+4) Miljømæssige påvirkninger:
+ Private §3 søer (Over 100 m2)
+ Udledning til recipienter? – Hvilke
+undersøgelser kommer forud?
+ VVM screening
+ Bilag 4 arter (Beskyttede dyrarter)
+ Naturbeskyttelsesloven
+ Habitater
+Indgår der vejvand i projektet? 
+JA NEJ  Gå til 6) 
+5) Vejforhold
+ Trafikmængder
+ Vejstandard/renovering af vej
+ Vejkategori
+ Tilgængelighed
+6) Forurening og glatførebekæmpelse
+ Saltning af veje og p-arealer –
+alternativ glatførebekæmpelse skal
+vurderes i forhold til
+udledning/nedsivning
+ Rensning af vejvand (filtermuld)
+ Forskellige krav til forskellige
+befæstelser alt efter hvor det ledes
+hen
+7) Brandforhold - Brandredningsarealer
+ Min. 3 meter bred zone omkring
+bygningerne, hvor
+brandmyndigheden skal kunne rejse
+en håndstige med en vinkel på 70
+grader op til 2 sal (10,8 meter).
+(Gældende hvis der kun
+brandveje/vinduer på den ene side af
+bygningen!)
+ Adgang med brandslukningsfartøj
+Miljøafdelingen skal involveres 
+Hvem står for VVM-screening? 
+Park & veje skal involveres 
+Skal vejarealerne inddrages skal der tages 
+kontakt til Forsyningsselskabet 
+Dialog med beredskabet + 
+Byrådssekretariatet 
+
+8) Fjernvarmeledninger
+ Tjek om der er fjernvarmeledninger på
+matriklen
+ Afstandskrav til ledningen og krav om
+beplantning over ledningen i tilfælde af
+opgravning
+9) Tilgængelighedsforhold
+ Ændres der på belægning, så det
+bliver et nyt anlæg – gælder
+handicapvenlig tilgængelighed
+ Ændres der i flugtveje eller
+tilgængeligheden for f.eks. brandbil
+Indgår der grønne tage i projektet? 
+JA NEJ  Gå til 11 
+10) Byggeskadefonden
+ Skal der anlægges grønne tage,
+dækker byggeskadefonden ikke, hvis
+de anlægges på organisk materiale
+ Man skal kunne se undersiden af den
+krydsfiner som taget ligger på. Hvis
+der er flere forskellige lag af isolering
+og plader (paralleltagkonstruktion) kan
+man ikke inspicere om der er
+utætheder.
+ Gælder specielt boxmodulhuse
+ Alternativt skal man lave opbygninger
+uden træ og i stedet af metal eller
+beton.
+Er det usandsynligt at skabe jordbalance, så 
+en del af jorden skal køres væk fra matrikel? 
+JA  NEJ  gå til 12) 
+Byrådssekretariatet skal involveres 
+
+11) Jordflytning og Jorddating 
+ Tjek om jorden kan 
+genbruges på matriklen  
+ Tjek om jorden kan 
+genbruges et andet sted i kommunen. 
+ Tjek om de omkringliggende 
+kommuner kan bruge jorden 
+ 
+12) Ansøgning om nedsivningstilladelse 
+Tjek med og/eller udlevér retningslinjer for 
+nedsivning til ansøger. 
+ 
+13) Monitering 
+ Jorden, som vand nedsives igennem 
+ Vandet, der nedsiver 
+ Grundvandet under nedsivningsanlægget 
+ Overløb til kloak, mængde og hyppighed 
+ Monitering af systemfunktion (tømmes faskinen, er belægningen fortsat 
+permeabel, ledes vandet hen hvor det skal på overfladen?) 
+ Glatførebekæmpelsesmidler og miljøfremmede stoffer fra vejvand 
+ Overvej om længerevarende vilkår bør tinglyses 
+ 
+14) MBL §20, tilbagekaldelse af tilladelse 
+I forbindelse med vilkår om, at ”Tilladelser kan 
+ændres eller tilbagekaldes uden erstatning”, 
+bør det overvejes om der er behov for at 
+formulere under hvilke omstændigheder en 
+tilladelse til større projekter kan blive kaldt 
+tilbage.  
+ 
+15) Drift af anlæg 
+ Hvem står for vedligehold og drift? 
+ Er der et ønske om at involvere 
+borgere i drift og pleje? 
+ Kræver driften af grønt anlæg eller 
+glatførebekæmpelse særlige 
+kompetencer eller nyt udstyr? 
+ Er der behov for en driftsaftale? 
+Portaler til lokal jordflytning: 
+www.jordbase.dk

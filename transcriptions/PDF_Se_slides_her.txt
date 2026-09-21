@@ -1,0 +1,305 @@
+=== DNNK PDF Dokument ===
+Titel: Se slides her >
+Kategori: Rapporter_s5
+Kilde: https://usercontent.one/wp/www.dnnk.dk/wp-content/uploads/2020/07/Værebro-Å_samarbejde_slides-fra-1.-workshop-7.-januar-2019.pdf
+Indekseret: 2026-09-21T18:38:44.122007
+
+==================================================
+
+Vandoplandsbaseret samarbejde 
+Værebro Å
+Teknologisk Institut 7. januar 2019
+
+
+Carsten Nystrup 
+VELKOMMEN
+
+▪ Velkommen til opstartsmøde på Teknologisk Institut
+▪ Projekt og formål
+▪ Organisationsplan og tidsplan
+Værebro Å projekt
+
+
+▪ Finansieret af forsyningerne, KLIKOVAND samt Forsikring & 
+Pension 
+▪ Kommunerne bidrager kun med arbejdstid i forbindelse med 
+at vi indsamler data 
+Værebro Å – Projekt og formål
+
+
+Fælles projekt med de to tæt forbundne spor:
+▪ Det tekniske spor (Cowi er udførende som rådgiver)
+▪ Dialog- og planspor (Teknologirådet, Dansk Byplan og
+Teknologisk Institut) 
+Værebro Å – Projekt og formål
+
+
+Værebro Å - Organisationsplan
+
+
+Tidsplan
+
+Det tekniske spor
+Else Marie Jakobsen, HOFOR
+Det tekniske spor omfatter:
+• Undersøgelse af relevante data til brug for en hydraulisk model
+• Fx afstrømning fra befæstede arealer og grønne arealer, vandløbsdata, udbredelse af regn, 
+data der udvikler sig historisk som grundvandsstand eller terrænkoter, mv.
+• Kortlægning og indsamling af foreliggende data
+• Kortlægning af datakvalitet og datahuller
+• Bud på fremtidig modelindhold afhængig af formålet
+Herunder
+• Vurdering af relevante data ved forskellig brug af model, fx forskellige 
+serviceniveauer
+De tre forsyninger Novafos, HOFOR og FORS har sammen med KLIKOVAND udbudt 
+opgaven, som Cowi har vundet. Novafos v. Pernille Sloth er projektleder.
+
+
+Der forudsættes, at en fremtidig model
+• ser på hele vandløbet
+• skal kunne understøtte en helhedsplan for det samlede vandløbssystem
+Værdi for alle –overblik over relevante data og indsigt i 
+modelopbygning og forskellige anvendelsesmuligheder. 
+Mulighed for at arbejde videre med en hydraulisk model og dermed 
+mulighed for at se effekt af konkrete projekter.
+Mange interesser tilknyttet Værebro Å - Det tekniske spor leverer 
+sammen med dialogsporet et grundlag at arbejde videre på sammen, 
+hvis parterne ønsker det. 
+Det tekniske spor
+Else Marie Jakobsen, HOFOR
+
+
+Dialogspor
+Søren Gram, Fonden Teknologirådet
+Hvad betyder åen i den enkelte kommune og på 
+tværs?
+– planer
+– visioner
+– historie
+– udfordringer
+
+Dialogspor 
+Søren Gram, Fonden Teknologirådet
+Dialogsporet skal munde ud i:
+• Tværkommunale samarbejdsmodeller på 
+vandoplandsniveau 
+• Et fælles overblik over nuværende og 
+fremtidige planer for arealanvendelse i 
+Værebro Å oplandet (eller i områder der 
+influerer på vandafstrømningen)
+
+Kommunernes rolle og bidrag
+• Stille viden og data til rådighed
+– Ikke producere nyt 
+– vi står for at skabe overblikket
+– Indsamling: mail, telefonisk eller møder
+• Deltagelse i to stormøder efter dette:  
+– midtvejsmøde 6.3. og afslutningskonference 24.4.
+
+Kommunernes udfordringer (drøftelse)
+• Hvad er vigtigt at få diskuteret på tværs?
+• Hvad er de væsentligste udfordringer og 
+behov?
+• Hvad kan I se i krystalkuglen, der vil få 
+betydning for klimatilpasning og 
+arealanvendelse?
+
+PAUSE
+
+Hvilke data skal indsamles?
+1. Teknisk spor
+v. COWI
+2. Dialogspor
+v. Dansk Byplanlab
+
+7. JANUAR 2019
+VÆREBRO Å17
+Værebro Å
+Konkretisering af hvilke data, der skal indsamles
+Jeppe Sikker Jensen, COWI
+
+Konkretisering af hvilke data, der skal indsamles
+7. JANUAR 2019
+VÆREBRO Å18
+Værebro Å
+› Data er inddelt i kategorier på 
+baggrund af type
+› Målinger
+› Fysiske data
+› Modeller
+› Viden
+› Planlægning
+
+
+Målinger
+7. JANUAR 2019
+VÆREBRO Å19
+Værebro Å
+› Typer af målinger
+› Nedbør
+› Fordampning
+› Vind
+› Temperatur
+› Vandføring
+› Vandstand
+› Udledning fra 
+renseanlæg
+› Udledning fra 
+befæstede arealer
+› Manningtal
+› Andre
+› Parametre til at beskrive målinger
+› Geometri: punkt, linje eller areal
+› Placering: X,Y-koordinater for punkter
+› Lokalitet: navn eller område
+› Start dato og slut dato for måleperiode
+› Kvalitet: online måling, digital måling, nedstik mv. 
+› Frekvens for måling af data
+› Navn på organisation, som har indmålt
+› Kort beskrivelse af data
+› Dataejer: navn på organisation, afdeling, 
+kontaktpersoner, e-mail
+
+Fysiske data
+7. JANUAR 2019
+VÆREBRO Å20
+Værebro Å
+› Typer af fysiske data
+› Terrænmodel
+› Vandløbsopmåling
+› Kloakledning
+› Dræn
+› Hydraulisk 
+tilpasning
+› Vandløbsregulativ
+› Bygværk
+› Andet
+› Parametre til at beskrive fysiske data
+› Geometri: punkt, linje eller areal
+› Placering: X,Y-koordinater for punkter
+› Lokalitet: navn eller område
+› Dato for opmåling
+› Ansvarlig organisation for opmåling
+› Kort beskrivelse af data
+› Dataejer: navn på organisation, afdeling, 
+kontaktpersoner, e-mail
+
+
+Modeller
+7. JANUAR 2019
+VÆREBRO Å21
+Værebro Å
+› Typer af modeller
+› Kloakerede oplande med hydrauliske modeller
+› Vandløb med hydrauliske modeller
+› Grundvandsmodeller
+› Fjordmodel
+› Andet
+› Parametre til at beskrive modeller
+› Geometri: punkt, linje eller areal
+› Placering: X,Y-koordinater for punkter
+› Lokalitet: navn eller område
+› Dato for seneste opdatering
+› Ansvarlig organisation for opdatering
+› Dato for seneste kalibrering
+› Diskretisering
+› Kort beskrivelse af data
+› Beskrivelse af formålet med modellen
+› Dataejer: navn på organisation, afdeling, 
+kontaktpersoner, e-mail
+
+Viden
+7. JANUAR 2019
+VÆREBRO Å22
+Værebro Å
+› Typer af viden
+› Historiske observationer
+› Fysiske ændringer
+› Kortlagte oversvømmelser
+› Sandsynlighed og omfang af oversvømmelser
+› Sætninger
+› Andet
+› Parametre til at beskrive viden
+› Geometri: punkt, linje eller areal
+› Placering: X,Y-koordinater for punkter
+› Lokalitet: navn eller område
+› Dato for observation/ændring
+› Ansvarlig organisation for observation/ændring
+› Kort beskrivelse af observations/ændring
+› Dataejer: navn på organisation, afdeling, 
+kontaktpersoner, e-mail
+
+Planlægning
+7. JANUAR 2019
+VÆREBRO Å23
+Værebro Å
+› Typer af planlægning
+› Byudvikling
+› Separat kloakering
+› Omstrukturering af spildevandsrensning
+› Fysiske ændringer i vandløb
+› Klimafremskrivninger og scenarier
+› Omstrukturering af spildevandsledninger
+› Parametre til at beskrive planlægning
+› Geometri: punkt, linje eller areal
+› Placering: X,Y-koordinater for punkter
+› Lokalitet: navn eller område
+› Forventet dato for færdiggørelse
+› Navn og type på plan, hvor tiltag står beskrevet
+› Kort beskrivelse af planens omfang
+› Dataejer: navn på organisation, afdeling, 
+kontaktpersoner, e-mail
+
+
+Den 7. januar 2019 24Klimatilpasning Værebro å
+DIALOGSPORET // 
+KLIMATILPASNING VÆREBRO Å
+
+Formål 
+08-01-2019 25
+• Plan- og arealoverblik 
+• Det gode naboskab – hvem er vi?
+• Værdien af at kende hinandens planforhold og 
+udfordringer; få tid til at lære hinanden at kende
+
+Plan- og arealoverblik
+7. Januar 2019 26Klimatilpasning Værebro å
+• Planstatus - kommuneplaner, relevante lokalplaner, 
+spildevands- og vandløbsplaner, regulativer.
+• Ejer- og anvendelsesforhold
+• Undersøgelse af muligheder for opstuvning/ 
+opmagasinering, anvendelse.
+• Store byudviklingsprojekter, andre projekter osv. 
+med betydning for åen og dens opland.
+• Visioner og planer for hvordan åens opland skal 
+udvikle sig?
+
+Dialogen
+Den 7. januar 2019 27Klimatilpasning Værebro å
+• Samlet overblik over, hvad åen betyder for jer i 
+kommunerne?
+• Hvordan arbejder I med åen? 
+• Det gode naboskab – hvad betyder det?
+• Hvad vil og kan ‘man’ samarbejde om?
+• Hvad gør man andre steder? Hvad er jeres gode 
+erfaringer? Og hvilke udfordringer har I?
+
+Aktiviteter og resultater
+Den 7. januar 28Klimatilpasning Værebro
+• Aktiviteter:
+• Interviewrunde med relevante planfolk + evt. 
+GIS-folk.
+• Mulighed for enkelt opfølgende samtale i 
+telefonen?
+• >>> Skriv kontaktpersoner på!
+• Delresultater – den 6. marts
+• Resultater den 24. april
+
+Næste skridt og aktiviteter 
+før midtvejsmødet d. 6. marts
+Dataindsamling og dialog 
+• Datoer
+• Kontaktpersoner
+• Andre vigtige oplysninger
+
+Tak for i dag

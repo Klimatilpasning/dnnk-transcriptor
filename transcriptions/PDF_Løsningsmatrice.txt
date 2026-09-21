@@ -1,0 +1,47 @@
+=== DNNK PDF Dokument ===
+Titel: Løsningsmatrice
+Kategori: Rapporter_s5
+Kilde: https://usercontent.one/wp/www.dnnk.dk/wp-content/uploads/2020/07/02_Løsningsmatrix_Symptomer_og_årsager.pdf
+Indekseret: 2026-09-21T18:38:56.917648
+
+==================================================
+
+Symptom/årsag
+AI 6 17 2 3 7 8 9 12
+AII 6 17 2 3 7 8 9 12
+BI 6 17 13 15 2 3 7 8 9 12
+BII 13 8 15 6 17 12 2 3 4 1
+BIII 13 8 15 12 14 3 2 17
+BV 13 8 15 12 14 3
+CII 5 12 7 8 2 3 4 15
+CIII 5 12 7 8 2 3 14 15
+CIV 5
+DIII 10 11 14 13 7 2 8 12 15
+DV 10 11 14 13 2 3 15
+EII 10 11 13 7 12 16 15 14 3 2 8 9 4 1
+EIII 10 11 13 16 7 15 14 12 3 2 8
+EIV 11 16
+FII 13 12 2 3 16 15 14
+FIII 13 12 2 3 16 15 14
+GIV 16 17 11
+HII 16 17 11
+HIII 16 17 11
+HV 16 17 11
+A I
+B II
+C III
+D IV
+E V
+F
+G
+H
+Vand fra kloak i vej løber ind på grund Tøbrud
+Vand løbende på terræn fra nabogrund
+Havvand ind til bygning
+Vand fra å/sø løber ind på grund 
+Vand stående i lavpunkt på grund Længerevarende regnperioder
+Vand op af gulvafløb/toilet i kælder Skybrud
+Vand fra vej løber ind på grund Stormflod
+Primære løsninger (I prioriteret rækkefølge) Sekundære løsninger (I prioriteret rækkefølge) Løsninger der forværrer symptomet
+Symptom Årsag
+Vand ind gennem revner i kældervæg Højtstående grundvand

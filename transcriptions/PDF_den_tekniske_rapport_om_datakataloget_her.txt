@@ -1,0 +1,392 @@
+=== DNNK PDF Dokument ===
+Titel: den tekniske rapport om datakataloget her >
+Kategori: Rapporter_s5
+Kilde: https://usercontent.one/wp/www.dnnk.dk/wp-content/uploads/2020/07/Teknisk-bilag-om-datakatalog-ofr-Værebo-Å-oplandet.pdf
+Indekseret: 2026-09-21T18:38:34.634488
+
+==================================================
+
+http://projects.cowiportal.com/ps/A120211/Documents/03 Project documents/A120211-021_Teknisk_bilag_VærebroAa.DOCX 
+  
+ ADRESSE COWI A/S 
+Parallelvej 2 
+2800 Kongens Lyngby 
+ 
+ TLF +45 56 40 00 00 
+ FAX +45 56 40 99 99 
+ WWW cowi.dk 
+PROJEKTNR. DOKUMENTNR.      
+A120211 2  
+       
+VERSION UDGIVELSESDATO BESKRIVELSE UDARBEJDET KONTROLLERET GODKENDT  
+1.0 12. maj 2019 Teknisk bilag LSFV BOC JIJ  
+INDHOLD 
+1 Indledning 2 
+2 Datakatalog 2 
+2.1 Målinger 2 
+2.2 Fysiske data 4 
+2.3 Modeller 5 
+2.4 Viden 6 
+2.5 Planlægning 7 
+2.6 QGIS visualisering af data 8 
+ 
+  
+KLIKOVAND 
+OVERBLIK OVER SAMT ANALYSE 
+AF HYDRAULISKE DATA FOR 
+VÆREBRO Å OPLANDET  
+ 
+
+ 
+ 
+     
+ 2  TEKNISK BILAG 
+ http://projects.cowiportal.com/ps/A120211/Documents/03 Project documents/A120211-021_Teknisk_bilag_VærebroAa.DOCX 
+1 Indledning 
+Dette notat er et teknisk bilag til rapport "Overblik over samt analyse af hydrau-
+liske data for Værebro Å oplandet" (maj 2019).  
+Bilaget giver et overblik over data og datakilder til det udarbejdede datakatalog. 
+Endvidere gives en introduktion til de udarbejdede GIS-filer og opsætningen i Q-
+GIS. 
+2 Datakatalog 
+Datakataloget er opbygget til at give et overblik over eksisterende data og mu-
+lighederne for at bruge data til at opbygge en fremtidig model. Derfor indgår 
+både nuværende modeller, tidsserier for målinger, fysiske data samt rapporter 
+fra tidligere arbejde med Værebro Å-oplandet.  
+Datakataloget er opbygget i Excel og er opdelt i fem hovedkategorier: målinger, 
+fysiske data, modeller, viden og planlægning. I selve Excel datakataloget kan 
+brugeren sortere på relevante parametre såfremt der f.eks. ønskes overblik over 
+igangværende målingerne eller særlige sidevandløb. Derudover er der tilføjet en 
+informationsfane, som giver en kort introduktion til datakataloget og de data, 
+der hører under de forskellige kategorier.  
+Data er indsamlet hos Egedal, Furesø, Gladsaxe, Herlev, Ballerup, Frederikssund 
+og Roskilde kommuner samt Novafos og HOFOR. Derudover er data indsamlet 
+hos relevante statslige organisationer som f.eks. GEUS, DMI, Styrelsen for Data-
+forsyning og Effektivisering mfl.  
+Da datakataloget er opsat i Excel, giver det mulighed for at udbygge dokumen-
+tet løbende, når der opnås ny viden, og tilføje den til datakataloget.  
+Ud over datakataloget i Excel er relevante data, som med fordel kan vises på 
+kort, vist i QGIS, således at udstrækning af data eller dækning af måledata kan 
+tilgås visuelt.  
+2.1 Målinger 
+Første kategori er målinger. Tabel 1 viser en oversigt over data, der beskriver 
+målinger, og hvilke parametre der beskriver data i datakataloget. Det har ikke 
+været muligt at få fyldestgørende viden om alle parametre for alla datamålinger, 
+men den viden, der kunne tilvejebringes, er indført i datakataloget.  
+
+ 
+ 
+     
+TEKNISK BILAG  3  
+http://projects.cowiportal.com/ps/A120211/Documents/03 Project documents/A120211-021_Teknisk_bilag_VærebroAa.DOCX  
+Tabel 1: Data og parametre, der beskriver målinger.  
+Data der beskriver målinger Parametre til at beskrive data  
+Nedbør 
+Fordampning 
+Vind 
+Temperatur 
+Vandføring 
+Vandstand 
+Udledning fra renseanlæg 
+Udledning fra befæstede arealer  
+Manningtal 
+Andre 
+Geometri: punkt, linje eller areal  
+Placering: X,Y-koordinater for punkter 
+Lokalitet: navn eller område 
+Datatype: nedbør, vandføring mv.  
+Start dato og slut dato for måleperiode  
+Kvalitet: online måling, digital måling, nedstik mv.  
+Frekvens for måling af data 
+Navn på organisation, som har indmålt  
+Kort beskrivelse af data 
+Dataejer: navn på organisation, afdeling, kontakt-
+personer, e-mail 
+ 
+Data for målinger er indsamlet fra flere forskellige kilder og gælder både målin-
+ger, som er online p.t. og historiske målinger. Nedenfor ses hovedkilderne til 
+data og hvilke data, som de kan bidrage med:  
+› Nedbør for alle SVK-målere i området 
+› Vandstand for data lagt ind på hydrometri.dk 
+› Vandtemperatur for data lagt ind på hydrometri.dk 
+› Lufttemperatur i grid fra DMI 
+› Vind i grid fra DMI 
+› Fordampning i grid fra DMI 
+› Vandføring for data lagt ind fra stationer på hydrometri.dk 
+› Vandboring for data lagt ind på data.geus.dk 
+› Data fra kommunerne og forsyninger 
+Tabel 2 viser en oversigt over alle data indenfor målinger. Der kan ses hvilken 
+datatype og hvor mange datapunkter, som ligger i datakataloget. For nedbør, 
+vandføring og vandstand er derudover også opgivet, hvor mange som er igang-
+værende målinger. 
+
+ 
+ 
+     
+ 4  TEKNISK BILAG 
+ http://projects.cowiportal.com/ps/A120211/Documents/03 Project documents/A120211-021_Teknisk_bilag_VærebroAa.DOCX 
+Tabel 2: Oversigt over datatype og antal datapunkter for målinger.  
+Datatype Antal datapunkter 
+Fordampning 1 
+Nedbør  31 (heraf 23 igangværende) 
+Temperatur 4 
+Udledning fra befæstede arealer 7 
+Udledning fra renseanlæg  4 
+Vandboring 137 
+Vandføring 73 (heraf 1 igangværende) 
+Vandstand 56 (heraf 6 igangværende) 
+Vind 1 
+ 
+2.2 Fysiske data 
+De fysiske data og parametre til at beskrive dem er vist i tabel 3. Som ved må-
+linger er det ikke alle parametre, som kendes for alle data.  
+Tabel 3: Data og parametre, der beskriver fysiske data.  
+Data der beskriver de fy-
+siske data 
+Parametre til at beskrive data 
+Terrænmodel 
+Vandløbsopmåling 
+Kloakledning 
+Dræn 
+Hydraulisk tilpasning 
+Vandløbsregulativ 
+Bygværk 
+Andet 
+Geometri: punkt, linje eller areal  
+Placering: X,Y-koordinater for punkter 
+Lokalitet: navn eller område 
+Datatype: terrænmodel, vandløbsopmåling mv.  
+Dato for opmåling 
+Ansvarlig organisation for opmåling  
+Kort beskrivelse af data 
+Dataejer: navn på organisation, afdeling, kontakt-
+personer, e-mail 
+ 
+Fysiske data er indsamlet fra flere forskellige kilder. Nedenfor ses hovedkilderne 
+til data og hvilke data, som de kan bidrage med: 
+› Terrænmodel fra Styrelsen for Dataforsyning og Effektivisering 
+› Hydraulisk tilpasning fra Styrelsen for Dataforsyning og Effektivisering 
+› Geoteknisk boring for data lagt ind på data.geus.dk 
+› Vandløbsopmålinger fra kommunerne  
+› Fællesregulativ for Værebro Å 
+›  
+› Vandløbsregulativer fra kommunerne 
+› Data fra kommunerne og forsyninger 
+
+ 
+ 
+     
+TEKNISK BILAG  5  
+http://projects.cowiportal.com/ps/A120211/Documents/03 Project documents/A120211-021_Teknisk_bilag_VærebroAa.DOCX  
+Tabel 4 viser alle data indenfor fysiske data. Der ses, hvilken datatype og hvor 
+mange datapunkter, som ligger i datakataloget. Andet dækker over jordartskort, 
+risiko for sætning, vertikale landbevægelser, befæstelsesgrad, hydraulisk led-
+ningsevne, højvandsstatistik, højvandshændelser, søkort, nedbørsstatistik, kli-
+mascenarier for temperatur, potentiel fordampning, CDS-regnhændelser, vand-
+løbsmidte, vandløbskant, afvandingsgrøft og afstrømningsstatistik.  
+Tabel 4: Oversigt over datatype og antal datapunkter for fysiske data.  
+Datatype Antal datapunkter 
+Bygværk 2 
+Dræn  5 (henviser til flere drænplaner) 
+Geoteknisk boring 153 
+Hydraulisk tilpasning 2 
+Kloakledning/opland 1 
+Terrænmodel 2 
+Vandløbsopmåling 59 
+Vandløbsregulativ 54 
+Andet 18 
+ 
+2.3 Modeller 
+Tabel 5 viser hvilke typer af modeller, som er medtaget, og parametre til at be-
+skrive modellerne med.  
+Tabel 5: Data og parametre, der beskriver modeller.  
+Data der beskriver model-
+ler for oplandet 
+Parametre til at beskrive data 
+Kloakerede oplande med hy-
+drauliske modeller 
+Vandløb med hydrauliske mo-
+deller 
+Grundvandsmodeller 
+Fjordmodel 
+Andet 
+Geometri: punkt, linje eller areal  
+Placering: X,Y-koordinater for punkter 
+Lokalitet: navn eller område 
+Datatype: kloakerede oplande, fjordmodel mv.  
+Dato for seneste opdatering 
+Ansvarlig organisation for opdatering  
+Dato for seneste kalibrering 
+Diskretisering 
+Kort beskrivelse af data 
+Beskrivelse af formålet med modellen  
+Dataejer: navn på organisation, afdeling, kontaktper-
+soner, e-mail 
+ 
+Data for modeller er indsamlet fra flere forskellige kilder. Generelt ligger model-
+ler for vandløb hovedsageligt hos kommunerne og modeller for afløbssystemer 
+hos forsyningerne.  
+
+ 
+ 
+     
+ 6  TEKNISK BILAG 
+ http://projects.cowiportal.com/ps/A120211/Documents/03 Project documents/A120211-021_Teknisk_bilag_VærebroAa.DOCX 
+Tabel 6 viser oversigt over modeller og antal af de forskellige typer af modeller. 
+Nogle af modeller overlapper i forhold til grundvand og vandløb. Det er vigtigt at 
+orientere sig om formål og detaljering af modellerne, hvis de skal sættes sam-
+men. Andet dækker over data i SCALGO Live og skybrudsmodel.  
+Tabel 6: Oversigt over datatype og antal datapunkter for modeller.  
+Datatype Antal datapunkter 
+Grundvandsmodel 15 
+Kloakmodel 5 
+Vandløbsmodel: VASP 38 
+Vandløbsmodel: MIKE 11 9 
+Vandløbsmodel: MIKE URBAN 1 
+Andet 2 
+ 
+2.4 Viden 
+Kategorien viden er meget bred og dækker også over vidt forskellige typer data. 
+Tabel 7 viser data, der kan beskrive viden, og hvilke parametre, det er beskre-
+vet med i datakataloget. 
+Tabel 7: Data og parametre, der beskriver nuværende viden.  
+Data der beskriver nu-
+værende viden 
+Parametre til at beskrive data 
+Historiske observationer 
+Fysiske ændringer 
+Kortlagte oversvømmelser 
+Sandsynlighed og omfang 
+af oversvømmelser 
+Sætninger 
+Rapporter 
+Andet 
+Geometri: punkt, linje eller areal  
+Placering: X,Y-koordinater for punkter 
+Lokalitet: navn eller område 
+Datatype: historiske observationer, fysiske ændringer 
+mv. 
+Dato for observation/ændring 
+Ansvarlig organisation for observation/ændring  
+Kort beskrivelse af observations/ændring  
+Dataejer: navn på organisation, afdeling , kontaktperso-
+ner, e-mail 
+ 
+Størstedelen af data indenfor viden er rapporter, som dækker over mange for-
+skellige formål og fokusområder. Tabel 8 viser oversigt over datatype og antal 
+datapunkter for viden. Andet dækker over en bred vifte er forskellig viden, f.eks. 
+oprensning af sandfang i vandløb, afværgeboring i grundvand, fredning af Lille-
+rødbæk Enge mv.  
+
+ 
+ 
+     
+TEKNISK BILAG  7  
+http://projects.cowiportal.com/ps/A120211/Documents/03 Project documents/A120211-021_Teknisk_bilag_VærebroAa.DOCX  
+Tabel 8: Oversigt over datatype og antal datapunkter for viden.  
+Datatype Antal datapunkter 
+Fysiske ændringer  4 
+Historiske observationer 1 
+Kortlagte oversvømmelser 1 
+Rapport  23 
+Andet   9 
+ 
+2.5 Planlægning 
+Data for planlægning er vist i Tabel 9, hvor data, der beskriver plantiltag og pa-
+rametre til at beskrive data er vist. Data kommer hovedsageligt fra kommuner-
+nes spildevandsplaner.  
+Tabel 9: Data og parametre, der beskriver plantiltag.  
+Data der beskriver plan-
+tiltag 
+Parametre til at beskrive data 
+Byudvikling 
+Separat kloakering 
+Omstrukturering af spilde-
+vandsrensning 
+Fysiske ændringer i vand-
+løb 
+Klimafremskrivninger og 
+scenarier 
+Omstrukturering af spilde-
+vandsledninger 
+Andet 
+Geometri: punkt, linje eller areal  
+Placering: X,Y-koordinater for punkter 
+Lokalitet: navn eller område 
+Datatype: byudvikling, separat kloakering mv.  
+Forventet dato for færdiggørelse 
+Navn og type på plan, hvor tiltag står beskrevet  
+Kort beskrivelse af planens omfang  
+Dataejer: navn på organisation, afdeling, kontaktperso-
+ner, e-mail 
+ 
+Tabel 10 viser oversigt over datatype og antal datapunkter. Eksempler er (a) et 
+par udløb ved Værløse flyvestation som neddrosles, (b) kystsikring med diger og 
+sluse ved Roskilde Fjord og (c) separatkloakering af Ballerup bymidte.  
+Tabel 10: Oversigt over datatype og antal datapunkter for plantiltag.  
+Datatype Antal datapunkter 
+Byudvikling 1 
+Fysiske ændringer i vandløb  1 
+Omstrukturering af spildevandsled-
+ninger 
+2 
+Spildevandsplan   11 
+Andet 1 
+  
+
+ 
+ 
+     
+ 8  TEKNISK BILAG 
+ http://projects.cowiportal.com/ps/A120211/Documents/03 Project documents/A120211-021_Teknisk_bilag_VærebroAa.DOCX 
+2.6 QGIS visualisering af data 
+Relevante data fra de fire kategorier målinger, fysiske data, modeller og viden er 
+visualiseret i QGIS. Dette er et supplement til datakataloget, men det indeholder 
+ikke alt viden og kan derfor ikke stå alene. Desuden opdateres opsætningen i 
+QGIS ikke automatisk, hvis man ligger ny viden ind i datakataloget.  
+Figur 1 - figur 4 viser udsnit af QGIS med henholdsvis målinger, fysiske data, 
+modeller og viden. Det er muligt at slå de forskellige lag af og på samt at vise  
+f.eks. årstal for måling eller hvorvidt målinger er igangværende.  
+Selve opsætningen ligger gemt i en zip-fil, som er navngivet QGIS-
+datakatalog.zip. Inde i denne ligger der to undermapper "Datakatalog" og 
+"QGIS". Filen for opsætning af visualiseringen ligger i folderen "QGIS" og henter 
+data fra "Datakatalog". Når zip-filen hentes ned, skal de to mapper lægges side-
+ordnet for at opsætningen kan bruges direkte.  
+Datakataloget er lagt ind med en række shape-filer: 
+› Fysisk_data_vandløbsopmåling.shp 
+› Fysiske_data.shp 
+› Model_grundvand.shp 
+› Model_vandløb.shp 
+› Model_VASP.shp 
+› Målinger.shp 
+› Viden_oversvømmelse.shp 
+QGIS-opsætningen indeholder en undermappe med baggrundskort. Baggrund-
+skortet er opbygget af fire shape-filer: 
+› Kommune.shp 
+› Kommune_SjællandØst.shp 
+› Vandløb.shp 
+› Værebro_opland.shp 
+
+ 
+ 
+     
+TEKNISK BILAG  9  
+http://projects.cowiportal.com/ps/A120211/Documents/03 Project documents/A120211-021_Teknisk_bilag_VærebroAa.DOCX  
+ 
+Figur 1: Udsnit af QGIS med målinger.  
+ 
+ 
+Figur 2: Udsnit af QGIS med fysiske data.  
+ 
+ 
+Figur 3: Udsnit af QGIS med modeller.  
+  
+
+
+ 
+ 
+     
+ 10  TEKNISK BILAG 
+ http://projects.cowiportal.com/ps/A120211/Documents/03 Project documents/A120211-021_Teknisk_bilag_VærebroAa.DOCX 
+ 
+Figur 4: Udsnit af QGIS med viden om oversvømmelser.

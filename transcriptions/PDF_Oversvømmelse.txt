@@ -1,0 +1,255 @@
+=== DNNK PDF Dokument ===
+Titel: Oversvømmelse >
+Kategori: Rapporter_s4
+Kilde: https://usercontent.one/wp/www.dnnk.dk/wp-content/uploads/2021/04/Oversvoemmelse_Gammelby-casen1.pdf
+Indekseret: 2026-09-21T18:36:03.854610
+
+==================================================
+
+Spørgsmål om erstatningsansvar ved 
+oversvømmelse før de nye regler trådte ikraft pr. 1. 
+januar 2021
+Udarbejdet af  Advokat Pia L. Nielsen, Aumento Advokatfirma 
+Jeg har fået en fiktiv case, og er blevet anmodet om at besvare denne – herunder 
+med inddragelse af en alternativ besvarelse, hvis området er omfattet af 
+en risikokortlægning, som forsyningerne efter indførelse af miljøbeskyttelseslovens § 
+32a i 2012 har skullet udforme og afgive oplysninger til kommunerne om til 
+brug for kommunens samlede oversvømmelseskort.  
+Der foreligger ikke nogle konkrete domsafgørelser vedrørende oversvømmelser i 
+relation til skybrud – eller risikokortlægning. Jeg tager derfor forbehold for 
+senere retsafgørelser.  
+Case: Gammelby 
+En ejendom i Gammelby er i juli 2015 blevet oversvømmet af kloakvand efter en kraftig 
+regnhændelse. Der har været vand på terræn. Ejerne har kontaktet kommunen og 
+forsyningen for en afklaring, og mener, at der foreligger et erstatningsansvar i sagen.  
+Efter nogle beregninger er forsyningsselskabet kommet frem til, at det kraftige regnvejr 
+svarede til en 7-års regnhændelse. 
+Ejendommen er beliggende i den gamle bykerne (fælleskloakeret i 1950’erne). 
+Landvæsenskommisionskendelsen, der lå til grund for kloakeringen, fastlagde, at 
+kloakkerne skulle være dimensioneret til 140 L/s/ha (svarende til det vi i dag kalder en 
+2-års regnhændelse).
+Ejerne henviser til den gældende spildevandsplan, hvor det fremgår at 
+forsyningsselskabet skal leve op til et generelt serviceniveau svarende til 10-års 
+regnhændelser i fælleskloakerede områder.  
+Det fremgår således af Gammelby Kommunes spildevandsplan, at: 
+”Gammelby Kommune har fastsat følgende serviceniveau, som Gammelby 
+Forsyning vil tilstræbe at sikre sine forbrugere i forbindelse med nyanlæg 
+eller renoveringer: 
+Efterlevelse af Ingeniørforeningens Skrift nr. 27 om tilladelige hyppigheder 
+for oversvømmelser som følge af overbelastede kloakker. Det vil 
+sige at kloakkerne dimensioneres, så de kan rumme en regnhændelse 
+med en gentagelsesperiode på en gang hvert 10. år for fællessystemer 
+og en gang hvert 5. år for separate regnvandssystemer.” 
+Forsyningsselskabet holder fast i, at serviceniveauet i den gamle bykerne hedder vand 
+til terræn ved en 2-års regnhændelse. Forsyningsselskabet mener, at det generelt 
+udmeldte serviceniveau (vand på terræn hvert 10. år) kun er gældende, når kloakkerne 
+er anlagt eller ændret efter indførelse af dette serviceniveau.  
+
+2 /7
+Er der et erstatningsansvar i sagen? 
+Svar: 
+Indledning 
+Helt indledningsvist skal det slås fast, at der ikke i miljøbeskyttelsesloven eller anden 
+lovgivning er fastsat regler om erstatningsansvar for oversvømmelser mv.  
+Sager om ansvar for oversvømmelser af private ejendomme med spildevand skal derfor 
+afgøres efter dansk rets almindelige regler om erstatning uden for kontrakt 
+(culpaansvar). Dette betyder, at der ved en vurdering af ansvaret for en oversvømmelse 
+skal være noget at bebrejde forsyningen (culpa) for at forsyningen ifalder et ansvar. 
+Culpaansvaret indebærer, at domstolene i forhold til en konkret situation vil tage 
+udgangspunkt i hvad en ”bonus pater” (den gode fornuftige) forsyning i samme situation 
+ville gøre eller have gjort.  
+Hvis de stridende parter – i dette tilfælde – grundejeren og forsyningen ikke kan blive 
+enige om, hvorvidt der foreligger et ansvar eller ej, er det i sidste ende domstolene, der 
+skal træffes afgørelse i sagen.  
+Nedenstående svar er udledt på baggrund af den foreliggende retspraksis om 
+oversvømmelser. Der foreligger ikke trykt domspraksis, hvor fastsatte servicemål og 
+risikokortlægning er behandlet af domstolene. Jeg skal derfor tage forbehold for senere 
+domstolsafgørelser, der konkret forholder sig hertil.  
+Den foreliggende retspraksis 
+Det må med den foreliggende domspraksis ligges til grund, at forsyningsselskaberne vil 
+blive vurderet at være ansvarlige for oversvømmelser som følge af materialesvigt.  
+Hvis forsyningsselskaberne ved brug af et planlægningssynspunkt i deres tekniske og 
+økonomiske planlægning kan tage højde for, at der med tiden vil indtræde brud på 
+ledninger mv. som følge af materialesvigt, er der ingen undskyldning. I dette tilfælde vil 
+oversvømmelser forårsaget heraf antageligt føre til et erstatningsansvar for forsyningen.  
+Hvis der sker oversvømmelse som følge af blokering, sammenbrud eller tilstopning af 
+ledninger som følge af manglende vedligehold, må det også ligges til grund, at der vil 
+være noget at bebrejde kloakforsyningen – og dermed også være et erstatningsansvar.  
+Sammenfattende synes retspraksis at ligge til grund, at hvis oversvømmelserne sker 
+som følge af, at forsyningerne har forsøgt at spare ved dimensionering eller vedligehold, 
+så foreligger der et ansvar for forsyningerne, idet det reelt ikke er undskyldeligt at have 
+noget materiel, der kan gøre rigtigt stor skade, som man ikke har vedligeholdt eller man 
+har dimensioneret i strid med gældende normer.  
+
+3 /7
+Er forsyningen bundet af spildevandsplanen, og kan borgere støtte ret på 
+spildevandsplanens angivelser? 
+Spildevandsplanerne er kommunernes redskab til at sikre forsvarlig og miljørigtig 
+afledning af spildevand inden for kommunen.  
+Kommunerne er bundet af planerne - forstået på den måde, at hvis en kommune ønsker 
+at ændre på den planlægning, der er indført i spildevandsplanen – være sig 
+tidsmæssige forhold omkring planlagte kloakeringer eller ændring af en allerede udført 
+kloakering mv. – har kommunerne en forpligtelse til at ajourføre planen, således at 
+planen altid er opdateret og udvisende for, hvordan kommunen håndterer spildevand, 
+og hvad der er planer om for fremtiden.  
+Grundejere og forsyninger er i princippet ikke juridisk forpligtede af spildevandsplanen. 
+Det skal dog tages med det gran salt, at spildevandsplanen reelt er forsyningernes 
+investeringsplan – og at forsyningerne ikke har en egen bestemmelse i forhold til 
+håndteringen af spildevand i kommunerne. En forsyning kan således ikke i strid med 
+spildevandsplanens angivelser gå ud og separatkloakere et område, idet dette må 
+antages at indebære en miljøretlig afgørelse i forhold til grundejerne i form af et påbud 
+om ændring af afløbssystemerne i henhold til  miljøbeskyttelseslovens § 30, som alene 
+kan træffes af kommunen.  
+Forsyningen kan således alene udføre projekter, som fremgår af spildevandsplanens 
+plandel.  
+Når kommunerne angiver et ”serviceniveau” i en spildevandsplan, skal anvendelse 
+af dette serviceniveau specificeres i forhold til de enkelte kloakoplande – og der bør 
+indgå en prioriteret tidsplan for at få de kloakoplande, hvor dette servicemål ikke 
+endnu kan overholdes, renoveret og udbygget til den service kommunen ønsker 
+at tilbyde borgerne.  
+Anvendelse af et servicemål/serviceniveau er underlagt de nye regler i 
+bekendtgørelsen om fastsættelse af serviceniveauer.  
+I dette tilfælde kalder Gammelby Kommune det et serviceniveau, at fælleskloakkerne 
+skal indrettes sådan, at der kun ske opstuvning til kritisk kote hvert 10. år. Dette svarer 
+reelt til det minimumsfunktionskrav, som Spildevandskomiteen har fastsat i skrift 27 for 
+dimensionering i 2005.   
+Hvis Gammelby havde fastsat et ”serviceniveau”, der fastsatte en kortere 
+gentagelsesperiode på f.eks. 5 år, ville dette være i konflikt med den sædvanlige 
+dimensioneringspraksis siden 2005, jf. Skrift 27. Hvis forsyningen i denne situation, til 
+trods for viden/ ”burde viden” om komiteens minimumsfunktionskrav i fælles kloakerede 
+oplande, fulgte kommunens ”servicemål” uden at gøre indsigelser, kan det ikke afvises, 
+at der ville kunne pålægges et ansvar for oversvømmelser, der sker som følge af den 
+således planlagte "underdimensionering". Det er ikke undskyldeligt for forsyningen 
+(og om muligt heller ikke for kommunen) at medvirke til en planlægning og 
+udførelse af anlæg i strid med sædvanlig dimensioneringspraksis. En 
+underdimensionering kan ikke begrundes med ret meget andet end besparelseshensyn, 
+som ikke kan antages at være et lovligt hensyn hverken for kommunen eller forsyningen.  
+
+4 /7
+Grundejerne er som sagt ikke juridisk forpligtede af planen – men kan i en del 
+situationer godt støtte ret på spildevandsplanens angivelser om f.eks. status for 
+kloakering.  
+Hvis det således fremgår af spildevandsplanen, at et område skal kloakeres for både 
+spildevand og regnvand, kan forsyningen ikke i strid med planens angivelser tvinge 
+grundejere inden for oplandet til selv af foranstalte lokal afledning af regnvand. Dette er 
+en miljøretlig afgørelse som forsyningen som driftsenhed ikke er berettiget eller 
+bemyndiget til at varetage.  
+Hvorvidt grundejeren i det konkrete tilfælde kan støtte ret på hensigtserklæringen om, at 
+hele kommunen skal have et serviceniveau svarende til Spildevandskomiteens 
+minimumsfunktionskrav afhænger af tekstens ordlyd, anlæggenes alder, planens alder 
+og om der foreligger en prioritering i spildevandsplanen om, hvordan man i kommunen 
+vil opnå sit servicemål.  
+I forhold til den konkrete sag, må det ligges til grund, at planen angiver, at Gammelby 
+Forsyning vil sikre vil tilstræbe at sikre sine forbrugere [serviceniveauet på 10 år] i 
+forbindelse med nyanlæg eller renoveringer. 
+Konkret har forsyningen således ret i, at opdateringen af kloaksystemet i 
+overensstemmelse med spildevandsplanen kun er ”tilstræbt”, og at serviceniveauet 
+alene gælder for nyanlæg og ledninger, der bliver renoveret efter indførelse af 
+serviceniveauet i planen.  
+Isoleret set – har forsyningen således ret i sine betragtninger. 
+Det må også ligges til grund, at det i domstolspraksis er et accepteret udgangspunkt, at 
+det ikke er samfundsmæssig økonomisk muligt at ”opgradere” alle gamle anlæg til 
+Spildevandskomiteens ændrede skrifter på én gang qua tankegangen, at der skal være 
+noget at bebrejde forsyningen.  
+Den nye viden om de ændrede regnmønstre og kravene i den ændrede 
+dimensioneringspraksis fra Spildevandskomiteen indebærer imidlertid nok, at 
+Gammelby Forsyning ikke i al fremtid vil kunne henholde sig til, at opgradering af 
+ledningsnettet til at opfylde minimumsfunktionskravet først sker i forbindelse med 
+renovering, hvis der er områder, der er plaget af oversvømmelser som følge af ”gammel 
+dimensionering”,  
+Hvis forsyningen ved, at spildevandsanlæggene der ligger i bykernen er væsentligt 
+underdimensionerede i forhold til nugældende dimensioneringspraksis, og der er stor 
+risiko for hyppige oversvømmelser og ødelæggelser af grundejernes ejendomme og 
+ejendele, kan forsyningen ikke vedblive at forholde sig passivt og fortsætte med at 
+henholde sig til spildevandsplanens ordlyd.  
+Vedblivende passivitet er en undladelse, som også i dansk erstatningsret kan anses 
+som ansvarspådragende.  
+Der foreligger ikke retspraksis på sådanne undladelser. Det kan derfor ikke nærmere 
+fastlægges, hvornår manglende prioritering af at udvide allerede eksisterende anlæg,  
+
+5 /7
+der i dag må anses som underdimensionerede i forhold til nugældende 
+dimensioneringspraksis.  
+Der er ingen tvivl om, at en ”bonus pater” forsyning, i den beskrevne situation ville 
+kunne fremvise et spildevandsplantillæg, hvor det fremgår, hvordan og hvornår det 
+historisk underdimensionerede anlæg i bykernen, der i øvrigt stort set var 
+renoveringsmodent under alle omstændigheder grundet alder, ville skulle renoveres. 
+Renoveringsplanen bør herudover også gennemgå prioriteringshensynene, som 
+forsyningen skal operere under – herunder prioriteringen mellem renovering af gamle 
+ledninger, håndtering af oversvømmelsesrisici og nyanlæg af kloakker i nyudviklede 
+byområder, idet det må ligges til grund, at forsyningerne generelt ikke har råd til at 
+udføre alt på én gang.  
+Hvis Gammelby forsyning har en renoveringsplan, der møder ovenstående krav, indsat i 
+spildevandsplanen, og kan dokumentere, at denne bliver overholdt, må det antages, at 
+chancerne for, at forsyningen ikke bliver anset som ansvarlig for oversvømmelsen, er 
+større end hvis Gammelby Forsyning ikke har nogen former for planer.  
+Hvis der ikke foreligger en renoverings/investeringsplan i spildevandsplanen om at 
+bringe de gamle anlæg up to date i forhold til tidsvarende dimensionering i de områder, 
+hvor der er risiko for oversvømmelser, kan det ikke afvises, at en domstol vil se dette 
+som en bevidst besparelsesstrategi, der påfører grundejerne skade – dvs. en forsætlig 
+handling.   
+Andre forhold, der formodentligt også vil blive inddraget ved en vurdering af 
+ansvaret i sagen om Gammelby  
+Senere kapacitetsudvidelser 
+Hvis der ikke er sket nnogen former for ændringer af afledningen i bykernen siden 
+50’erne har forsyningen ikke noget at frygte i forhold hertil.  
+Hvis grundejeren omvendt kan dokumentere, at kommunen/ forsyningen siden 50’erne 
+har ladet bykernen, der anvender det samme ledningsnet, vokse bebyggelsesmæssigt 
+eller mht. befæstelse uden at tage højde for kapaciteten i ledningsnettet, kan det ikke 
+afvises, at der vil kunne være et ansvar for forsyningen, idet forsyningen herved i 
+længere tid har været bekendt med, at der er opstået en underdimensionering uden at 
+man af den grund har foretaget korrigerende handlinger.  
+Forsyningerne (og kommunerne via spildevandsplanerne og tilslutningstilladelser) er 
+ansvarlige for at påse at kloakledningernes kapacitet altid svarer til den aktuelle eller 
+planlagte bebyggelse.  
+Forsyninger og kommuner kan ikke lovligt give tilladelse til tilkobling af spildevand, hvis 
+ledningsnettet ikke er dimensioneret til at modtage de konkrete spildevandsmængder, 
+der beregnes afledt fra området efter udbygning. 
+Hvis der, når et område udbygges, vil opstå underkapacitet i ledningsnettet, må 
+kommunen påbyde forsyningen om at udbygge ledningsnettet førend de nye 
+kloakoplande kan tilkobles.  
+
+6 /7
+Hvis der er sket udvidelse af byggeriet eller befæstelsen i den konkrete sag om 
+Gammelby, vil dette kunne indvirke negativt på ansvarsvurdering idet det ikke er 
+undskyldeligt, at man ikke i forbindelse med udvidelse af kloakoplandet mv. foretog en 
+udbygning af kloaknettet ud fra en betragtning om, at der ved udbygningen blev koblet 
+mere spildevand på.  
+Forsyningen har ved udbygningen fået bidrag/årlige driftsbidrag for de tilsluttede 
+brugere, hvorfor det ikke forekommer undskyldeligt, at kloakforsyningen/kommunen ikke 
+har foretaget en kapacitetsvurdering forud for tilslutning af yderligere kloakoplande.  
+Risikokortets udvisende 
+Hvis der i Gammelby efter ændringen af miljøbeskyttelsesloven fra december 2012 er 
+lavet oversvømmelseskort, der viser, at der på det bestemte sted i Gammelbys bykerne 
+er et bluespot, og at der til stadighed sker oversvømmelser der - selv ved mindre 
+regnhændelser, kan det heller ikke afvises, at forsyningen alene af denne grund vil 
+kunne ifalde et ansvar, hvis ikke registreringen har ført til en prioritering og 
+igangsætning af tiltag til at sikre området mod oversvømmelser. 
+Det er givet, at det i hvert fald vil indvirke negativt på ansvarsvurderingen. 
+Situationen, hvor der allerede nu i juli 2015  er sket gentagne oversvømmelser af 
+et område – og forsyningen ikke kan dokumentere, at den har igangsat eller 
+foretaget tiltag for at sikre området mod fremtidige oversvømmelser – svarer lidt til, 
+at man af sparehensyn har underdimensioneret ledningsnettet oprindeligt.  
+Konklusion  
+Der er en række faktorer, der skal vurderes, når domstolene skal vurdere et ansvar i 
+sagen.  
+Hvis det som beskrevet i casen ligges til grund, at oversvømmelsen er en enkeltstående 
+begivenhed og det samtidig lægges til grund:  
+- at anlægget i udgangspunktet må antages at være dimensioneret i 
+overensstemmelse med Landvæsenskommissionens kendelse,
+- at der ikke er sket udvidelse af byggeri eller befæstelse i kloakoplandet efter 
+landvæsenskommissionens kendelse og den heri fastlagte dimensionering.
+- at Forsyningen har en renoveringsplan, hvor der er planlagt en opgradering for 
+området
+- at området ikke er udpeget i et risikokort eller
+- at området er udpeget på et risikokort, og der er en plan for, hvordan og 
+hvornår området bliver sikret mod oversvømmelse.
+Så kan forsyningen ikke bebrejdes noget. Det må med retspraksis ligges til grund, at 
+domstolene indtil videre har accepteret, at der kan ske oversvømmelser som følge af, at 
+kloakanlæg er dimensioneret i henhold til tidligere tiders dimensioneringspraksis.  
+I forhold til grundejernes argumentation må denne afvises. Spildevandsplanens konkret 
+ordlyd ikke er en tilsikring om et serviceniveau i de områder, der er kloakeret før 
+indførelse af servicemål og niveauer, men alene en hensigtserklæring om at opdatere 
+alle kloakanlæg.     
+
+7 /7

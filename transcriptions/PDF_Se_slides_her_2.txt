@@ -1,0 +1,336 @@
+=== DNNK PDF Dokument ===
+Titel: Se slides her >
+Kategori: Rapporter_s5
+Kilde: https://usercontent.one/wp/www.dnnk.dk/wp-content/uploads/2020/07/Værebro-Å-samarbejde-slides-fra-3.-workshop-24-april2019.pdf
+Indekseret: 2026-09-21T18:38:48.592283
+
+==================================================
+
+Vandoplandsbaseret samarbejde 
+Værebro Å
+Teknologisk Institut 24. april 2019
+
+
+VELKOMMEN
+v. Carsten Nystrup
+
+
+Værebro Å –fremskivning af 
+klimaændringer
+Jeppe Sikker Jensen, COWI AS
+24  april 2019 Værebro Å 4
+
+Klimaændringer
+24  april 2019 Værebro Å 5
+›Øget temperatur
+› Ændret nedbør
+› Øget vinterafstrømning
+› højere ekstremvandføring
+› højere grundvandsstand
+› Ændret sommerafstrømning
+› højere ekstremvandføring
+› Øget fordampning
+› lavere vandføring!
+›Øget temperatur
+› Stigende havvand
+› lavere afstrømning
+› højere vandstand
+› højere grundvandsstand
+›Men hvad betyder det i Værebro 
+Å?
+
+Ændret nedbør
+24  april 2019 Værebro Å 6
+›Sommersituation (skybrud)
+› År 2050, 2 års hændelse: +9%
+› År 2050, 10 års hændelse: +14%
+› År 2050, 100 års hændelse +18%
+› År 2100, 2 års hændelse: +20%
+› År 2100, 10 års hændelse: +30%
+› År 2100, 100 års hændelse +40%
+›Vintersituation
+› 2050: +11%
+› 2100: +3-25%
+
+Ekstremværdier
+24  april 2019 Værebro Å 7
+› GEUS: 
+https://www.klimatilpasning.dk/me
+dia/602966/geusrapport2013_29_k
+limaekstremvandf_ring.pdf
+› Figur: ændring i 100 års hændelse, 
+for perioden 2021-2050, 
+sammenlignet med 1961-1990. 
+60 års fremskrivning.
+
+
+Specifikt for Værebro Å (Veksø Bro) 
+60 års klimafaktor
+24  april 2019 Værebro Å 8
+
+
+Vandstandstigning (i fjorden)
+24  april 2019 Værebro Å 9
+› Ændring i middelvandstand ift. 
+2017 (korrigeret for landhævning).
+› 2050: +23 cm
+› 2090: +55 cm
+› 2120: +88 cm 
+› Ændring af stormflodskote
+› Højvandstatistik for Jyllinge
+› Påvirkning af afstrømning
+0
+50
+100
+150
+200
+250
+300
+350
+1 10 100 1000 10000
+Jyllinge
+2017 2117
+
+24  april 2019 Værebro Å 10
+
+
+Påvirkning fra havet?
+24  april 2019 Værebro Å 11
+› Gennemsnitligt vandspejlsfald fra 
+Veksø Bro til Roskilde Fjord: 1,2 m
+› 0,1 o/oo
+› Maksimalt vandspejlsfald 2,4 m
+› 0,2 o/oo
+› Afstand ca. 11,5 km
+Halvering af fald => Reduktion af 
+vandføringsevne
+De våde perioder bliver længere.
+
+
+Opsummering
+24  april 2019 Værebro Å 12
+›Der er problemer i dag.
+›Det vi oplever ekstremt vil mest 
+sandsynlig ske ca. dobbelt så ofte 
+om 60 år og måske op til 5 gange 
+så ofte.
+›Vinter og forårssituationen vil 
+fremover være endnu mere våd.
+›Vandspejlsstigningen i havet vil 
+reducere åens vandføringsevne.
+
+
+13
+24  april 2019
+Værebro Å 
+
+Scenarier
+24  april 2019 Værebro Å 14
+›Mindre vand i Værebro Å
+›Styring af vandet i Værebro Å, i 
+vandløbet
+›Større kapacitet
+›Vandparkering/vandmagasinerin
+g 
+
+
+Mindre vand i Værebro Å
+24  april 2019 Værebro Å 15
+
+
+Styring af vandet i Værebro Å
+24  april 2019 Værebro Å 16
+
+
+Større kapacitet
+24  april 2019 Værebro Å 17
+
+
+Vandparkering/magasinering
+24  april 2019 Værebro Å 18
+
+
+24  april 2019 Værebro Å 19
+Større kapacitetMindre vand i Værebro Å
+VandparkeringStyring af vandet
+Oversigt over scenarier
+
+
+20
+24  april 2019
+Værebro Å 
+
+24  april 2019 Værebro Å 21
+›SCALGO
+›VASP
+›MIKE 
+›3Di
+›andre
+Hydrauliske modelværktøjer
+
+24  april 2019 Værebro Å 22
+›Forskellige hydrauliske værktøjer, 
+har forskellig styrke og svagheder.
+› Hverdag vs. skybrud?
+› Samspil med grundvand?
+› Kloak vs. åbent land?
+› Screening –detalje og præcision
+› Brugervenlighed og mulighed for 
+involvering
+› Anvendelse: administration eller 
+ekstremhændelser
+Forskellen på de forskellige værktøjer
+
+24  april 2019 Værebro Å 23
+SCALGO
+Live
+VASP 3Di (MIKE Urban) MIKE Hydro 
+1D
+MIKE FLOOD
+Hverdagsregn/
+afstrømning
+Skybrud
+Dynamisk afstrømning
+Præcision
+Detaljering (udbredelse af 
+oversvømmelser)
+Brugervenlighed Let 
+tilgængeligt Ekspert Ekspert Ekspert Ekspert Ekspert
+Scenarie analyser Hurtig Hurtig Hurtig Rimelig Rimelig Langsom
+Omkostning Billigt Billigt Mellem Mellem Mellem Dyrt
+Fordele og ulemper
+
+24  april 2019 Værebro Å 24
+›Beregning på selve vandløbet.
+›Analyse af nuværende og fremtidig 
+situation
+›Analyse af effekter af forskellige 
+virkemidler
+› Fjernelse af vand
+› Styring af vandet
+› Øge kapacitet
+› Vandparkering
+Behov ift. scenarier
+
+24  april 2019 Værebro Å 25
+›Anvendes af alle eksperter i DK
+›Stor detalje og præcision
+›Fuld dynamisk beregning
+›Mulig integration mellem DHI 
+produkter:
+› Mike Hydro (vandløb)
+› Mike Urban (afløbssystemer)
+› Mike SHE (grundvand)
+› MIKE 21 Kobling til kyst og terræn
+MIKE Hydro, Urban, Flood
+
+Konkret forslag kravspecifikation (Fase 1):
+24  april 2019 Værebro Å 26
+›MIKEhydro model 
+› Udvidelse af eksisterende modeller
+› Tværsnit inkl. terræn for hele 
+vandløbssystemet.
+› Randbetingelser:
+› Vandføringsmålinger 
+(oplandskorrigeret)
+› Simpel bymæssig afstrømning
+(laterale tilløb korrigeres for disse)
+› Vandstandsrand nedstrøms
+›Beregninger
+› Kalibrering mod målinger
+› Beregning af nuværende forhold 
+og klimascenarier
+› Ekstremafstrømninger
+› Vintersituationer
+› Stigende vandstand og stormflod
+› Beskrivelse af virkemidler (resultat 
+af workshop) og analyse af disse.
+
+24  april 2019 Værebro Å 27
+›Konkret vurdering af nuværende og 
+fremtidig situation
+›Vurdering af hvilke scenarier der 
+kan have en effekt og i hvilket 
+omfang der skal sættes ind for at 
+fastholde eller forbedre den 
+nuværende situation (hvis muligt!).
+Resultat af fase 1 model:
+
+28
+24  april 2019
+Værebro Å 
+
+PAUSE
+
+PLAN- OG DIALOGSPORET
+Formål: 
+Igennem projektet får de deltagende kommuner og forsyningsselskaber indblik i 
+hinandens udfordringer, og der skabes et fælles billede af de klima- og arealrelaterede 
+problemstillinger, der er lokaliseret i vandoplandet.
+Projektets samlede resultater har til formål at etablere et grundlag for, at kommunerne 
+og forsyningsselskaberne efterfølgende vil kunne formulere deres fælles behov og 
+ønsker til et fremtidigt samarbejde om udfordringerne 
+omkring Værebro Å. 
+
+
+TIDSLINJE
+Vand på 
+Tværs
+Støttet af 
+Region H
+2017
+Kommunerne 
+samles 
+Forsyningerne 
+går med
+2018
+KLIKOVAND og 
+Forsikring & 
+Pension går 
+med
+Miniudbud Projektfase
+2019
+Projekt 
+afsluttes
+Maj 2019
+Videre 
+proces
+
+
+KORTLÆGNING
+
+
+NYE TRÆDESTEN TIL SAMARBEJDER
+• God tradition for samarbejde om drift
+• Hydraulisk model
+• Ønske om formaliseret samarbejde
+• Finansiering 
+• Godt naboskab
+
+
+VEJE FREM
+Ny vandløbslov 
+=> forbedret 
+mulighed for 
+oplandsbaseret 
+samarbejde
+Case-vandløb –
+finansiering fra staten 
+Formelt pol. og adm. 
+samarbejde indenfor 
+lovens nye rammer
+Netværks-
+samarbejde
+Teknisk samarbejde 
+om hydraulisk model 
+–med forsyning som 
+tovholder
+Inspiration fra Storå, 
+Gudenå mv. Noget helt femte
+2017 Maj 2019
+
+NÆSTE SKRIDT 
+
+
+TAK FOR I DAG
+Teknologisk Institut 24. april 2019

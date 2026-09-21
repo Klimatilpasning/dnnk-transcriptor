@@ -1,0 +1,2645 @@
+=== DNNK PDF Dokument ===
+Titel: Download rapporten her >
+Kategori: Rapporter_s4
+Kilde: https://usercontent.one/wp/www.dnnk.dk/wp-content/uploads/2022/01/Samfundsoekonomiske-konsekvenser-af-oversvoemmelser-og-investeringer-i-klimatilpasning-_-final_reduced.pdf
+Indekseret: 2026-09-21T18:36:30.913684
+
+==================================================
+
+Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 1 
+ 
+Samfundsøkonomiske konsekvenser 
+af oversvømmelser og investeringer i 
+klimatilpasning 
+ Udarbejdet af DTU for Miljøministeriet 
+ 
+Kirsten Halsnæs, Morten A. D. Larsen og Karin L. Drenck 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+January 2022 
+ 
+
+2 Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 
+ 
+ 
+ 
+Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning  
+   
+ 
+Report   
+2022 
+ 
+By 
+Kirsten Halsnæs, Morten A. D. Larsen og Karin L. Drenck 
+ 
+Copyright: Reproduction of this publication in whole or in part must include the 
+customary bibliographic citation, including author attribution, report title, 
+etc. 
+Cover photo: Unsplash license, photo by Samara Doole 
+Published by: DTU, Department of  Management Engineering, Produktionstorvet, 
+Building 424, 2800 Kgs. Lyngby Denmark  
+
+Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 3 
+  
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+4 Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 
+Indholdsfortegnelse 
+Indholdsfortegnelse ............................................................................................. 4  
+Forkortelser og forklaring af begreber .................................................................. 6  
+1. Opsummering ............................................................................................. 7  
+2. Introduktion ................................................................................................ 7  
+2.1 Hovedelementer i samfundsøkonomiske analyser af oversvømmelser ................. 11 
+3. Oversigt over studier af samfundsøkonomiske omkostninger ved 
+oversvømmelser og klimatilpasning ...........................................................13 
+4. Analyse af studier med estimater af samfundsøkonomiske omkostninger 
+ved oversvømmelser og klimatilpasning ....................................................17 
+4.1 Landsdækkende danske studier ............................................................................. 19 
+4.2 Internationale landsdækkende studier .................................................................... 20 
+4.3 Studier for København og hovedstadsområdet ...................................................... 21 
+4.4 Omkostningerne ved oversvømmelser og tilpasning ved skybrud ......................... 23 
+4.5 Omkostninger ved oversvømmelser og tilpasning for vandløb ............................... 24 
+4.6 Omkostninger ved oversvømmelser og klimatilpasning for grundvand .................. 24 
+4.7 Generelle konklusioner på studier over oversvømmelser fra stormflod, skybrud, 
+vandløb og grundvand og klimatilpasning ......................................................................... 24 
+5. Kritiske metodiske og datamæssige forudsætninger for sammenligning af 
+studierne ...................................................................................................25 
+5.1 Økonomi .................................................................................................................. 25 
+5.2 Klima og hydrologi ................................................................................................... 29 
+5.3 Konklusion ............................................................................................................... 32 
+6. Analytiske værktøjer udviklet for Danmark ................................................32 
+6.1 DTU SkadesØkonomi modellen .............................................................................. 33 
+6.2 KAMP ...................................................................................................................... 34 
+6.3 PLASK ..................................................................................................................... 35 
+6.4 Kystplanlægger ....................................................................................................... 35 
+7. Generelle konklusioner i et landsdækkende perspektiv .............................37 
+7.1 Stormflod ................................................................................................................. 37 
+
+Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 5 
+7.2 Skybrud ................................................................................................................... 42 
+7.3. Vandløb ................................................................................................................... 44 
+7.4. Grundvand .............................................................................................................. 44 
+7.5 Opsummerende oversigt over samfundsøkonomiske udgifter til oversvømmelser og 
+tilpasning ........................................................................................................................... 45 
+8. Behovet for et styrket vidensgrundlag ....................................................... 47 
+9. Appendiks ................................................................................................. 49 
+9.1 Enhedsomkostninger - sektoropdelt ....................................................................... 49 
+10. Referencer ................................................................................................ 52 
+ 
+  
+
+6 Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 
+Forkortelser og forklaring af begreber 
+NPV Net Present Value (NPV) – nutidsværdien af en fremtidig strøm af 
+betalinger tilbagediskonteret til dagens værdi med en diskonteringsfaktor. 
+Finansministeriet fastsætter diskonteringsfaktoren, som skal anvendes i 
+forbindelse med offentlige investeringer.  
+RCP Representative Concentration Pathway (RCP) – Repræsenterer scenarier 
+for drivhusgas-koncentrationer i atmosfæren som følge af emissions-
+scenarier for udledning i dag og typisk frem imod midten eller slutningen af 
+dette århundrede. Specifikke - og ofte benyttede scenarier i faglitteraturen - 
+inkluderer RCP 2,6, RCP 4,5, RCP 6 og RCP 8,5, som stammer fra IPCC’s 
+Assessment Report nr. 5 (AR5) (IPCC 2014). Tallet tilknyttet scenariets 
+navn (f.eks. 8,5), svarer til fortegnet på strålingsbalancen i toppen af 
+atmosfæren målt i watt per. m
+2, og et højere tal svarer til en højere 
+drivhusgas-udledning og dermed højere global opvarmning. I fht. fokus i 
+denne rapport er det velkendt, jfr. både AR5 og den nyere AR6 (IPCC 
+2014, IPCC 2021), at et højere RCP-scenarie generelt også resulterer i 
+voldsommere ekstremer med betydning for de fire kilder til oversvømmelser 
+i Danmark, som behandles her.  
+RP Returperiode (RP) – Et udtryk for sammenhængen mellem størrelsen af en 
+event, såsom en oversvømmelse, og hvor ofte den forventes at forekomme 
+baseret på historiske målinger. Ofte designes klimatilpasningstiltag ift. et 
+givet returperiode-niveau såsom et 1000-års niveau (RP1000), som for en 
+given lokalitet svarer til et oversvømmelses-niveau. Typiske måleenheder 
+er: For stormfloder - højde over normalt havniveau (f.eks. 3 m), for skybrud 
+- nedbørsmængde (f.eks. 150 mm), for vandløb - vandføring (f.eks. 50 
+m
+3/s) og for grundvand - højde i fht. terræn (f.eks. 0.25 m). Til en egentlig 
+analyse skal der også tilknyttes antagelser om varighed af påvirkningen, da 
+omfanget af skader og de deraf følgende omkostninger kan være påvirket 
+heraf.  
+ 
+ 
+
+Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 7 
+1. Opsummering 
+Samfundsøkonomiske omkostninger ved oversvømmelser relateret til stormflod ved 
+kyster, skybrud, vandløb og grundvand er gennemgået i denne rapport baseret på en 
+vurdering af eksisterende danske og internationale studier. Der er desværre relativt få 
+studier på området, så det faglige grundlag for at drage konklusioner om, hvad 
+oversvømmelser kunne koste, og hvad der dermed vil kunne betale sig at investere i 
+klimatilpasning, er desværre spinkelt. 
+Oversvømmelser ved oversvømmelser i kystområder er det bedst dækkede områder i 
+studierne. Her er det vurderet, at oversvømmelser indenfor de næste hundrede år kan 
+have omkostninger på trecifrede milliardbeløb både relateret til store 
+oversvømmelseshændelser og også samlet set ift. en række oversvømmelser, som 
+kan hænde gennem en hundrede-årig periode. Omkostningerne ved klimatilpasning til 
+imødegåelse og reduktion af oversvømmelserne er ikke kortlagt på nationalt plan, men 
+afgrænsede geografiske områder er dækket i estimater for en række kommuner. 
+Oversvømmelser ved skybrud og fra vandløb og grundvand er ikke opgjort samlet for 
+Danmark og det samme gælder for klimatilpasning. En række lokale studier eksisterer, 
+og det har også været vurderet, hvor store ekstraomkostninger, som klimatilpasning 
+kunne udgøre ift. forventede investeringer i kloaksystemet som værende i 
+størrelsesordenen ca. 25% til klimatilpasning. Investeringer i kloaksystemet er 
+naturligvis kun en lille del af udgifterne til klimatilpasning indenfor skybrud, vandløb og 
+grundvand. 
+En samlet konklusion på rapportens analyse af eksisterende studier er dermed, at der 
+kan forventes betydelige samfundsøkonomiske omkostninger fra oversvømmelser og til 
+klimatilpasning. På baggrund af de potentielt store samfundsøkonomiske risici og de 
+relativt få studier på området, så anbefales det at styrke det faglige grundlag gennem 
+flere danske studier som en nødvendig forudsætning for at understøtte en 
+omkostningseffektiv indsats på området. 
+2. Introduktion 
+Gennem et review af eksisterende danske videnskabelige studier og udredninger, 
+suppleret med referencer til relevant international viden, undersøges:  
+• Samfundsøkonomiske omkostninger ved klimaforandringer som følge af 
+oversvømmelser fra stormflod, skybrud, vandløb og højtstående grundvand 
+baseret på eksisterende studier.  
+• Omkostninger ved klimatilpasning til imødegåelse af 
+oversvømmelsesomkostninger fra stormflod, skybrud, vandløb og højtstående 
+grundvand baseret på eksisterende studier. 
+• Sammenlignelighed af studierne på basis af metoder og kritiske forudsætninger 
+set ift. klimascenarier, oversvømmelsesberegninger og samfundsøkonomiske 
+beregninger.  
+
+8 Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 
+• Forskelle i enhedsomkostninger for skader ved oversvømmelser samt antagelser 
+om hyppighed og intensitet af fremtidige oversvømmelseshændelser og 
+betydninger heraf ift. overordnede konklusioner om samlede danske 
+samfundsøkonomiske omkostninger ved oversvømmelser og investeringer i 
+klimatilpasning. 
+• Mulighederne for at drage overordnede danske konklusioner baseret på 
+foreliggende studier og simple opskaleringer af samfundsøkonomiske 
+omkostninger ved oversvømmelser fra stormflod, skybrud, vandløb og grundvand 
+og investeringer i klimatilpasning.  
+• Identifikation af områder, hvor vidensgrundlaget er spinkelt eller, hvor foreliggende 
+resultater er forbundet med særlige usikkerheder. Forslag til hvordan der kan 
+etableres et bedre vidensgrundlag. 
+Litteraturgennemgangen fokuserer på samfundsøkonomiske konsekvenser, hvor 
+omkostninger ses ud fra en samlet samfundsmæssig synsvinkel, hvor både tab for 
+private personer og virksomheder tillægges en betydning, men hvor også fælles 
+værdier, som f.eks. natur og kulturarv indgår. I praksis er det her en begrænsning, at 
+mange studier udelukkende er baseret på foreliggende statistik over f.eks. 
+forsikringsudbetalinger i forbindelse med oversvømmede bygninger, hvilke ikke 
+afspejler det fulde værditab af oversvømmelser set fra et samfundsøkonomisk 
+synspunkt, hvor andre værdier som tab af ejendomsværdi, besvær for boligejerne mm 
+kan indgå. Yderligere er det en begrænsning, at oversvømmelser indenfor alle de fire 
+områder typisk vil involvere påvirkning af værdier, som ikke er markedsomsatte, og 
+hvor økonomiske opgørelser beror på værdisætningsstudier, som ikke i tilstrækkeligt 
+omfang dækker alle påvirkede områder som f.eks. biodiversitet, helbred og kulturarv. 
+Betydningen af forskelle i økonomiske begreber, som er anvendt i analyserne, vil blive 
+adresseret nærmere i afsnit 2.  
+Studiet foretager en gennemgang af den foreliggende litteratur og undersøger 
+mulighederne for at drage en række overordnede konklusioner om 
+skadesomkostninger ved oversvømmelser fra stormflod, skybrud, vandløb og 
+højtstående grundvand og dertil knyttede omkostninger og gevinster ved 
+klimatilpasning. Usikkerheder i datagrundlag, metoder og sammenlignelighed 
+diskuteres.  
+Selve det faglige grundlag for at opgøre samfundsøkonomiske omkostninger ved 
+oversvømmelser fra stormflod, skybrud, vandløb og grundvand og klimatilpasning 
+baseret på publicerede studier er meget spinkelt i en dansk sammenhæng. 
+Foreliggende studier dækker typisk kun delemner inden for de forskellige typer af 
+oversvømmelser og kun geografiske delområder. Yderligere har studierne ikke på en 
+konsistent måde anvendt samfundsøkonomiske metoder, og studiernes antagelser om 
+omkostninger og oversvømmelsers intensitet og hyppighed er derudover ofte 
+usammenlignelige og mangelfulde. Ydermere er kun få sektorer, og mestendels 
+bygninger, omfattet af studierne. Der er også en række svagheder i de økonomiske 
+studiers forudsætninger om klima og hydrologi, hvilket kan betyde, at der er stor 
+usikkerhed omkring, hvor ofte specifikke oversvømmelseshændelser kan forekomme, 
+og dermed omkring hvor meget det kan betale sig at investere i klimatilpasning. 
+Yderligere er klimatilpasning kun i begrænset omfang integreret i de foreliggende 
+
+Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 9 
+studier over omkostninger ved oversvømmelser (se også tabel 2). Dette vanskeliggør 
+alt i alt mulighederne for at etablere stærke konklusioner på tværs af studierne.  
+En anden vigtig metodisk forskel i de foreliggende studier er, at de økonomiske 
+beregninger i nogle studier opgør oversvømmelsesomkostninger, som en samlet 
+omkostning ved en given oversvømmelse i et givet år, mens andre studier beregner 
+forventede omkostninger, hvor der tages højde for, hvor hyppigt specifikke hændelser 
+kan forventes at forekomme. Konkrete eksempler på sådanne beregningsmæssige 
+forskelle gennemgås senere i rapporten.  
+Gennemgangen af de foreliggende studier og en supplerende overslagsberegning 
+foretaget af DTU leder frem til en række overordnede konklusioner om 
+samfundsøkonomiske omkostninger ved oversvømmelser og investeringer i 
+klimatilpasning, som fremgår af Tabel 1. Se en nærmere gennemgang af 
+forudsætninger og resultater i afsnit 8 og detaljer omkring de enkelte studier i afsnit 3. 
+Som det ses af Tabel 1 er de samlede omkostninger ved stormfloder dækket af studier, 
+hvor DTU (2021) har estimeret omkostninger ved enkeltstående stormflodshændelser 
+på bygninger på mellem 16,1 mia. DKK og 60 mia. DKK, og Cowi har estimeret 
+nutidsværdien af forventede omkostninger til at være 100 mia. DKK. Disse estimater 
+forudsætter, at der ikke er foretaget klimatilpasning. Der er ikke foretaget samlede 
+studier for Danmark over omkostningerne til klimatilpasning i kystområderne, men 
+Kystdirektoratet har opgjort antallet af strækninger, hvor beskyttelse kan være 
+nødvendig. Udover de samlede opgørelser af omkostninger for hele Danmark har 
+Incentive (2020) opgjort de potentielle omkostninger ved stormflod i København og 
+Hvidovre til at være 5,1 mia. DKK over en 100 årig periode. 
+Der foreligger ikke samlede omkostningsskøn for skybrud, men det er skønnet, at op 
+mod 400.000 bygninger kunne være i risiko. Estimatet er dog højt, da der ikke er taget 
+højde for afløbssystemer i beregningen. Ekstra investeringer i kloaksystemer kan på et 
+meget usikkert grundlag estimeres til at være i størrelsesordenen 900 mio. DKK per år 
+set ift. samlede forventede årlige investeringer i kloakker på ca. 5 mia. DKK FRI (2021) 
+og Smith (2012). Udover investeringer i kloakker vil klimatilpasning også omfatte 
+løsninger til håndtering af overfladevand. Skybruddet i København 2. juli 2011 vidner 
+om de meget høje omkostninger, der kan være forbundet med skybrud. Det skønnes 
+her, at alene forsikringsdækkede omkostninger udgjorde i størrelsesordenen 6 mia. 
+DKK (Klimatilpasning.dk, 2013). 
+På baggrund heraf giver studiet først et første overblik over hvilke nøgleelementer, som 
+en solid faglig analyse bør indeholde. Hermed dannes et godt grundlag for, hvordan 
+der kan etables et bedre grundlag for det videre arbejde med udviklingen af en strategi 
+for klimatilpasning i Danmark. 
+  
+
+10 Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 
+Tabel 1. Oversigt over landsdækkende estimater over samfundsøkonomiske omkostninger ved 
+oversvømmelser og klimatilpasning for stormflod, skybrud, vandløb og grundvand.  
+ Estimerede omkostninger 
+oversvømmelser 
+Estimerede 
+omkostninger 
+klimatilpasning 
+Bemærkninger 
+Stormflod    
+DTU (2021a) 
+Hele Danmark 
+Mellem 18,2 mia. DKK og 60 
+mia. DKK for en stormflod 
+svarende til en 100 års RP i 
+et lavt og højt klimascenarie 
+for en periode 100 år frem. 
+For en stormflod svarende til 
+en 50 års RP omkostninger 
+være 16,1 mia. DKK 
+Ikke omfattet af 
+studiet 
+Flere hændelser vil kunne 
+forekomme i perioden, som 
+f.eks. også 20 års 
+hændelser, og en 
+risikoberegning vil 
+akkumulere alle 
+hændelserne 
+COWI (2017) 
+alle danske byer 
+NPV på 100 mia. DKK for en 
+100 årig tidshorisont  
+Ikke omfattet af 
+studiet 
+Et højt maksimalt 
+stormflodsniveau på 5 m. er 
+omfattet 
+(Vousdoukas et al., 
+2020) Hele 
+Danmark 
+ 
+Indtil 2100 årlig risiko på 
+mellem 8,9 mia. EUR og 84,6 
+mia. EUR i henholdsvis lavt 
+og højt klimascenarie  
+Indtil år 2100 årlige 
+omkostninger for en 
+digehøjde på 0,88 m i 
+lavt klimascenarie på 
+90,2 mio. EUR og 
+224,06 mio. EUR, i 
+højt klimscenarie 
+ 
+Estimatet er meget højt, og 
+omkostningsdata er 
+generaliserede 
+internationale data 
+Incentive, 2020 
+København og 
+Hvidovre 
+Den forventede risiko ved 
+oversvømmelser indtil 2120 
+svarer til en nutidsværdi på 
+ca. 5,1 mia. DKK. Heraf 
+udgør privat beboelse 1,7 
+mia. DKK og 
+erhvervsbygninger 0,64 mia. 
+DKK 
+Ikke omfattet af 
+studiet 
+Et højt maksimalt 
+stormflodsniveau på 5 m. er 
+omfattet 
+Turisme 
+Overslagsberegning 
+af DTU 
+13,1 mia. DKK i samlet risiko   
+Kystbeskyttelse 
+Beskyttelse mod 
+stormfloder og 
+erosion 
+  
+Estimatet er overvurderet 
+grundet manglende 
+præcise data 
+Skybrud    
+Region Midtjylland 
+og SCALGO (2020) 
+– screening studie 
+393.500 bygninger i 
+lavninger, hvor 
+afløbssystemer ikke er 
+indregnet 
+ 
+Estimatet er højt, da 
+afløbssystemer i praksis vil 
+aftage en stor del af 
+oversvømmelserne 
+Vandløb    
+Region Midtjylland 
+og SCALGO (2020) 
+– screening studie  
+10.600 bygninger   
+Grundvand    
+Miljøministeriet 
+(2021 
+450.000 bygninger har 
+grundvandsspejl på under 1 
+m, hvoraf 50.000 har kældre 
+  
+
+Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 11 
+2.1 Hovedelementer i samfundsøkonomiske analyser af oversvømmelser 
+Et vigtigt formål med at gennemføre samfundsøkonomiske analyser af 
+oversvømmelser og klimatilpasning er at vurdere, hvad det ud fra et samfundsmæssigt 
+perspektiv kan betale sig at investere i klimatilpasning. Tankegangen er her, at det kan 
+betale sig at investere i at undgå omkostninger ved oversvømmelser op til et niveau, 
+hvor en udvidelse af investeringerne i klimatilpasning vil have højere omkostninger end 
+den økonomiske værdi af undgående skader ved klimatilpasningen. Denne tankegang 
+svarer til logikken i cost-benefit analyser, hvor omkostningerne ved en given indsats 
+sammenlignes med dens fordele.  
+I forbindelse med vurderinger af, hvor meget der skal investeres i klimatilpasning 
+betyder det så også, at det oftest ikke kan betale sig at gennemføre klimatilpasning op 
+til et niveau, hvor alle oversvømmelsesskader undgås. Denne konklusion beror på, at 
+det kan være meget dyrt at gennemføre klimatilpasning op til et højt beskyttelsesniveau 
+ift. værdien af undgåede oversvømmelsesskader. Derudover vil omkostningseffektive 
+strategier for klimatilpasning indebære, at de billigst mulige tiltag skal implementeres 
+først, og efterhånden som klimatilpasningsindsatsen øges kan omkostningerne blive ret 
+høje.  
+I praksis er det en vanskelig opgave at gennemføre analyser, som giver et solidt 
+grundlag for omkostningseffektiv vurdering af investeringer i klimatilpasning, da der her 
+både vil være behov for meget detaljerede vurderinger af omkostningerne ved 
+oversvømmelser, og af omkostningerne ved reduktion af oversvømmelserne gennem 
+klimatilpasning. Sådanne analyser må baseres på data og metoder fra klimafysik, 
+hydrologi og økonomi, og en bred interdisciplinær fundering er dermed nødvendig. 
+Derudover er der nogle særlige udfordringer i at analysere konsekvenserne af 
+klimahændelser som oversvømmelser pga. store usikkerheder. Tidshorisonten for 
+beregningerne afspejler lange tidshorisonter på 100 år og mere med dertil knyttede 
+usikkerheder om udviklingen i klima og samfundsmæssige værdier. De økonomiske 
+analyser af omkostningerne ved oversvømmelser er direkte afhængige af forudgående 
+analyser af, hvordan klimaet påvirker vores vandsystemer. Understøttet af hydrologiske 
+modeller er det så muligt at beregne hvilke geografiske områder, som kan være udsat 
+for oversvømmelser. Kombineret med data for aktiviteterne i oversvømmede områder 
+kan økonomiske omkostninger ved oversvømmelser herefter beregnes som grundlag 
+for vurdering af, hvad det kan betale sig at investere i klimatilpasning. Figur 1 illustrerer 
+hovedelementerne i analyser af omkostninger ved oversvømmelser og klimatilpasning. 
+Som illustreret i figuren er de samfundsøkonomiske omkostninger ved 
+oversvømmelserne drevet af klimascenarier med data om vind og nedbør og dertil 
+knyttede forudsætninger om hyppighed og intensitet af hændelser, som kan føre til 
+oversvømmelser i form af stormflod, skybrud, vandløb og grundvand. Klimahændelser 
+kan forårsage stormflod som konsekvens af stærk vind i kortere eller længere perioder, 
+og kan medføre skybrud knyttet til ekstremregn. Oversvømmelser fra vandløb og 
+grundvand kan være knyttet til høje niveauer for nedbør over længere perioder. 
+Klimahændelsers effekt i form af oversvømmelser beregnes med modeller 
+repræsenterende hydrologi i kystområder, overfladevand ved nedbør, 
+gennemstrømning i vandløb og grundvandsstand, og som resultat heraf beregnes 
+oversvømmede områder. De potentielt oversvømmede områder kobles geografisk med 
+
+12 Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 
+data for aktiviteter og værdier i områderne som videre basis for at vurdere 
+omkostninger ved oversvømmelser. Aktiviteterne og værdierne kan med varieret 
+detaljeringsgrad omfatte bygninger, erhverv, infrastruktur, helbred, turisme mm. På 
+baggrund heraf kan der beregnes samfundsøkonomiske omkostninger ved specifikke 
+oversvømmelseshændelser.  
+ 
+ 
+Figur 1. Hovedelementerne i analyser af klimapåvirkning, oversvømmelser, omkostninger 
+og risiko. 
+ 
+Set i et samfundsøkonomisk perspektiv for, hvad det kan betale sig at investere i 
+klimatilpasning, må der dog føjes en ekstra dimension til beregninger af 
+omkostningerne ved oversvømmelser, nemlig en vurdering af de forventede 
+omkostninger ved oversvømmelser. De forventede omkostninger afhænger af, hvor 
+hyppigt specifikke oversvømmelser kan forventes som f.eks., hvor tit vi vil se 
+stormfloder ved kysterne, hvor vandet kommer 2, 3 eller måske helt op til 5 meter over 
+dagligt normalniveau. De forventede omkostninger kan indgå i en beregning af risiko, 
+hvor sandsynligheden for specifikke oversvømmelser (repræsenterende hyppighed) 
+multipliceres med omkostningerne ved oversvømmelserne. Der beregnes her en 
+samlet akkumuleret risiko for oversvømmelser ved en række forskellige 
+klimahændelser i et område over en tidsperiode. 
+Sandsynligheden for klimahændelser, som f.eks. et stormflodsniveau på 3 m i havet, 
+bliver ofte betegnet som såkaldte returperioder (RP), og man kan f.eks. tale om en 
+stormflod repræsenterende en RP100, hvilket betyder, at en stormflod forventes at 
+kunne ske en gang per hundrede år. Tilsvarende principper kan anvendes i forbindelse 
+med skybrud, vandløb og grundvand. Hvis man så vil beregne, hvor meget det kan 
+betale sig at investere i klimatilpasning i et givet område med oversvømmelsesrisiko, 
+så må investeringen sammenlignes med reduktionen i oversvømmelsesomkostninger, 
+som der opnås i en tidsperiode svarende til investeringens levetid. Her vil indgå 
+undgående oversvømmelsesomkostninger for flere oversvømmelser, som f.eks. 
+svarende til returperioder på 10 år, 20 år, 50 år, 100 år og måske længere, hvis det er 
+relevant (se i øvrigt ordforklaring på side 3). 
+I denne rapport vurderes oversvømmelser og klimatilpasning fra stormflod, skybrud, 
+vandløb og grundvand baseret på foreliggende danske og internationale rapporter og 
+
+
+Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 13 
+videnskabelige publikationer. Som det fremgår af ovenstående er der tale om en 
+kompleks sammenhæng mellem metoder og forudsætninger i analyser af 
+oversvømmelser. Derfor vil rapporten især fremhæve studier over metodiske elementer 
+og forudsætninger, som har betydning for overordnede konklusioner i en dansk 
+sammenhæng. 
+3. Oversigt over studier af samfundsøkonomiske 
+omkostninger ved oversvømmelser og 
+klimatilpasning  
+Et review er gennemført af danske og internationale rapporter og videnskabelige 
+studier, som indeholder skøn over omkostningerne ved oversvømmelser og 
+klimatilpasning fra stormfloder, skybrud, vandløb og grundvand. Ud over 
+litteratursøgning på nettet er der også rettet henvendelse til KL, Danske Regioner og 
+rådgivere med invitation til at foreslå specifikke studier. De identificerede studier 
+indeholder både egentlige kvantitative omkostningsstudier, studier af mere 
+metodemæssig karakter og beskrivelser af analytiske værktøjer og 
+beregningsforudsætninger.  
+Litteratursøgningen har vist, at kun relativt få studier dækker oversvømmelser for hele 
+Danmark. En række studier, som dækker København og hovedstadsområdet, er derfor 
+medtaget, da disse studier skønnes at give et godt grundlag for en vurdering af kritiske 
+forudsætninger og usikkerheder set ift. overordnede landsdækkende konklusioner.  
+Tabel 2 viser en oversigt over studierne, som er inddraget i analysen og af deres 
+dækning af geografiske områder, oversvømmelsestyper og sektorer startende med 
+økonomiske studier med egentlige omkostningsestimater, efterfulgt af studier 
+omfattende værktøjer og metoder og afsluttet med generelle vurderinger på området. 
+Tabellen indeholder forkortede titler på studierne mhp. at give et let overblik over, hvad 
+de enkelte studier indeholder. 
+Som det fremgår af Tabel 2, er oversvømmelser fra stormflod det hyppigst studerede 
+område. De landsdækkende økonomiske analyser omfatter her: 
+• DTU studiet (DTU, 2021a) over samlede oversvømmelsestruede bygninger 
+baseret på skadesomkostninger fra Stormrådet og på skøn over berørte 
+ejendomsværdier baseret på statistik over salgspriser pr. m
+2 på 
+kommuneniveau.  
+• COWI studiet fra 2017 (COWI, 2017a) med skøn over omkostningerne ved 
+stormflod i form af forsikringsudgifter for oversvømmede bygninger i byer 
+suppleret med vurderinger af omkostninger ved skader på infrastruktur og 
+tidsmæssige forsinkelser i transport for en 100-årig periode.  
+• Arnbjerg-Nielsen et al. (2015) med opgørelse af omkostningerne ved 
+oversvømmelser ved stormflod og skybrud baseret på de samme sektorer, som 
+
+14 Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 
+i COWI studiet fra 2017 i perioden op til 2100 i form af indeksværdier for 
+omkostningerne og deres udvikling over tid. 
+• Vousdoukas et al. (2020) med beregning af omkostningerne ved stormflod i 
+Danmark for høje og lave klimascenarier indtil 2100 og omkostningerne til 
+klimatilpasning repræsenteret ved diger 
+• IMF (2020) med beregning af omkostningerne for klimatilpasning til stormfloder 
+for eksisterende og fremtidige investeringer i infrastruktur i danske områder, 
+som kan være truede af oversvømmelser.  
+En række geografisk afgrænsede studier af omkostningerne ved stormflod omfatter for 
+København og Hovedstadsområdet: 
+• COWI (2010; 2016; 2017b; 2018; 2019; 2020) med studier over København og 
+dele af hovedstadsområdet. 
+• Smith innovation (2020) og Incentive, 2020 med beregning af omkostningerne 
+ved stormflod syd for København omfattende København og Hvidovre. 
+• Hallegatte et al. (2007; 2011; 2013) med beregninger af 
+oversvømmelsesomkostninger for stormflod i København baseret på 
+internationale data. 
+• Abadie et al. (2019), med beregninger af oversvømmelsesomkostninger for 
+stormflod i København baseret på internationale data 
+• Prahl et al. (2018) med sammenlignende af Hallegate beregninger og egne 
+oversvømmelsesberegninger for København baseret på en standardiseret 
+model for byer i EU.  
+Der er meget få studier som har opgjort omkostninger ved oversvømmelser for skybrud 
+og dertil knyttet klimatilpasning. Studierne omfatter på landsplan: 
+• Smith innovation (2012) med opgørelse af markedspotentialet for 
+klimatilpasning til skybrud på landdækkende niveau på basis af skønnede 
+ekstra udgifter til investering og vedligehold af kloakker og til afvanding af 
+vejanlæg inden for en 20 årig tidshorisont. Disse udgifter er dog ikke sat i 
+forhold til opgørelser af skaderne ved oversvømmelser ved skybrud. 
+• Arnbjerg-Nielsen et al. (2015) med en sammenlignende opgørelse af 
+omkostningerne ved oversvømmelser og klimatilpasning for stormflod og 
+skybrud med indeks for reduktion af omkostninger ved optimal klimatilpasning. 
+En enkelt dansk undersøgelse (Kouno og Realise, 2020) indeholder 
+samfundsøkonomiske cost-benefit analyser for løsninger til håndtering af terrænnært 
+grundvand. Analysen er dog ikke landsdækkende, men indeholder case studier for 
+Sunds, Herlev, Odense og Aarhus. Tidshorisonten er uklar men går til år 2100 for 
+Odense. 
+Der er næsten ingen studier over oversvømmelser fra vandløb, men Danske Regioner 
+(Region Midtjylland og SCALGO, 2020) har skønnet over antallet af bygninger som 
+kunne være oversvømmelsestruede i hele Danmark. Derudover har 
+
+Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 15 
+Erhvervsministeriet, 2017 offentliggjort statistik over udbetalinger fra Stormrådet i 
+forbindelse med oversvømmelser fra vandløb. Miljøstyrelsen har også i et internt notat 
+til Miljøministeriet beregnet antallet af oversvømmede bygninger med KAMP modellen. 
+En række studier beskriver metodiske og beregningsmæssige forudsætninger for 
+beregninger af omkostninger ved oversvømmelser, og disse omfatter også en række 
+gratis tilgængelige analytiske værktøjer inklusive DTUSkadesøkonomi modellen, 
+Miljøstyrelsens KAMP model, Miljøstyrelsens PLASK model og Kystdirektoratets 
+Kystplanlægger (DTU 2021b; Danmarks Miljøportal (n.d.); Miljøstyrelsen (2020); KDI 
+(2021). En nærmere gennemgang af metoder og værktøjer er indeholdt i afsnit 5 og 6. 
+De empirisk orienterede studier over omkostninger er suppleret med en række mere 
+generelle strategiske, faglige og politiske vurderinger af oversvømmelser og 
+klimatilpasning, som ikke direkte indeholder empiriske estimater på området. Disse 
+studier er vist i den nederste del af Tabel 2. 
+  
+
+16 Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 
+Tabel 2. Oversigt over studiernes dækning af geografi, oversvømmelsestyper og sektorer.  
+  
+
+
+Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 17 
+4. Analyse af studier med estimater af 
+samfundsøkonomiske omkostninger ved 
+oversvømmelser og klimatilpasning  
+I det følgende præsenteres i tabelform (tabel 3) oversigter over studierne, som 
+indeholder økonomiske opgørelser af de samfundsøkonomiske omkostninger ved 
+oversvømmelser og til klimatilpasning. Der præsenteres særskilte oversigter over 
+studier for stormflod og skybrud, og disse er efterfulgt af nogle korte beskrivelser af de 
+enkeltstående tilgængelige studier for vandløb og grundvand. Omkostningerne, som er 
+opgjort i de enkelte studier, repræsenterer meget forskellige metoder og 
+forudsætninger, og betydningen af disse forskelle belyses i en sammenlignende 
+vurdering af resultaterne.  
+  
+
+18 Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 
+Tabel 3. Oversigt over studier med opgørelser af omkostninger ved stormflod og 
+klimatilpasning. 
+  
+ 
+
+
+Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 19 
+Tabel 3 fortsat. 
+ 
+ 
+4.1 Landsdækkende danske studier 
+DTU (2021a) beregner omkostningerne ved stormflod for 50- og 100 års returperioder 
+(RP) i form af en aggregering af omkostningerne baseret på en detaljeret modellering 
+af stormflodshøjder og antal berørte bygninger repræsenteret på kommuneniveau. For 
+et RCP 4,5 klimascenarie beregnes omkostningerne ved stormflod til at være 16,1 mia. 
+DKK svarende til en 50 års returperiode og 18,2 mia. DKK svarende til en 100 års 
+returperiode. Der er her anvendt en ensartet gennemsnitværdi for stormflodshøjder for 
+givne tidsintervaller som f.eks. for perioden 2041-70 svarer til dataperioder i DMI's 
+
+
+20 Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 
+Klimaatlas1 (DTU 2021a). Hvis klimascenariet i stedet er RCP 8,5, stiger omkostningen 
+til at være 20,1 mia. DKK. For en scenarieperiode i slutningen af dette århundrede 
+(udregnet tilsvarende for 2071-2120) kan omkostningerne komme helt op på 60,5 mia. 
+DKK for 90% percentilen af et RCP 8,5 scenarie. Af rapporten fremgår det, at de 
+pågældende skader ikke kan udløses af en enkelt storm, men er baseret på regionalt 
+forankrede beregninger over konsekvenserne af stormfloder, hvor der er taget højde 
+for, hvordan ekstreme stormflodsniveauer kan opstå i forskellige dele af Danmark. 
+Ligeledes ses det i rapporten, at oversvømmelses-fremskrivningerne med den 
+anvendte stormflodsmodel giver højere estimater for antallet af berørte bygninger end, 
+hvis en oversvømmelsesmodel var anvendt, hvor der blev taget højde for en stormflods 
+varighed og udbredelsen af vand over tid. 
+COWI (2017a) beregner omkostningerne ved en stormflod for alle danske byer over en 
+100 årig periode til at svare til en nutidsværdi (NPV) på 100 mia. DKK. Der er her taget 
+hensyn til den samlede sandsynlighed for oversvømmelser i hele den 100 årige 
+analyseperiode i form af en risikoberegning. Beregningerne bygger på forudsætninger 
+om havstandsniveauer for fremtidige klimaændringer, disse er dog ikke direkte relateret 
+til alternative klimascenarier. De samlede omkostninger er beregnet på basis af en 
+opskalering til alle danske byer, baseret på en detaljeret analyse for de 46 største 
+kystbyer i Danmark og for Kerteminde og Lemvig. Disse byer dækker 42% af 
+Danmarks befolkning ud af de estimerede 45% som lever i kystzonen, så 
+dækningsgraden af studiet er høj. 
+DTU og COWI analyserne er ikke direkte sammenlignelige, da DTU beregningen opgør 
+den samlede fremtidige omkostning ved specifikke enkeltstående stormfloder, mens 
+COWI beregningen omfatter de samlede tilbagediskonterede omkostninger ved 
+oversvømmelser over en 100-årig scenario periode, hvor flere forskellige 
+oversvømmelseshændelser kan forekomme. Derudover bygger DTUs beregninger på 
+lokalt specificerede skadesfunktioner givet vanddybde på land, hvor højere vanddybder 
+betyder stigende omkostninger per oversvømmet enhed i modsætning til COWI 
+beregningen, som anvender konstante enhedsomkostninger uanset vanddybde for 
+oversvømmede bygninger. Yderligere medtager COWIs beregninger ud over bygninger 
+også omkostninger på infrastruktur, forsinkelser i transport og elsvigt. Bygningerne 
+udgør her 63% af omkostningerne. Hverken DTU- eller COWI studiet omfatter samlede 
+opgørelser af omkostningerne til klimatilpasning. 
+4.2 Internationale landsdækkende studier 
+Vousdoukas et al. (2020) opgør de samlede årlige forventede skadesomkostninger i en 
+periode indtil år 2100 ved stormflod i Danmark til at være 8,9 mia. EUR i et lavt udslips-
+scenarie (svarende til et lavt RCP 4,5 klimascenarie), og i et højt udslips scenarie 
+(svarende til RCP 8,5 klimascenarie) til at være 84,6 mia. EUR for hele Danmark. 
+Tilpasningsomkostninger er beregnet som gennemsnitlige årlige omkostninger for en 
+digehøjde på 0,88 m i et lavt scenarie og på 1 m i et højt scenarie svarende til 
+henholdsvis 90,2 mio. EUR og 224,06 mio. EUR, hvilket gør disse investeringer i 
+                                                                                                                                          
+1 DMI angiver perioder som f.eks. 2041-70 for vandstandshøjder i deres Klimaatlas for at mindske usikkerhederne ift. 
+bagvedliggende beregninger med klimamodeller.  
+
+
+Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 21 
+kystbeskyttelse yderst rentable. Vousdoukas (2020) beregningen er ligesom COWI 
+(2017a) en beregning af risiko, hvor hyppigheder over forskellige 
+oversvømmelseshændelser indgår. COWI beregningen indeholder dog ikke alternative 
+scenarier for vandstandsstigninger og afspejler dermed heller ikke et højt RCP 8,5 
+scenarie som Vousdoukas. Alt i alt ligger Vousdoukas, 2020 beregningerne over 
+omkostninger ved oversvømmelser på et højt niveau sammenlignet med COWI, 2017a 
+også i betragtning af den kortere scenarieperiode i Vousdukas beregningen 
+sammenlignet med COWI.  
+IMF (2020) har som en del af baggrundsarbejdet for deres Fiscal Monitor beregnet, at 
+udgifterne til klimatilpasning i Danmark kan udgøre 1,7% af BNP årligt til 
+klimatilpasning inden for de næste 15 år til sikring af eksisterende og fremtidig 
+infrastruktur, hvilket vil svare til 39,6 mia. DKK ift. BNP niveauet i 2020. Dette er et 
+meget højt omkostningsniveau set ift. studierne af DTU (2021a) og COWI (2017) og 
+studiet af Vousdoukas (2020). IMF studiet har begrænsninger ift., at der ikke er 
+anvendt danske data for sårbarheder, se i øvrigt Springmann (2012) for en nærmere 
+redegørelse for de bagvedliggende regnemetoder for vurdering af klima og infrastruktur 
+i IMF studiet. 
+4.3 Studier for København og hovedstadsområdet 
+En række studier for København og hovedstadsområdet er foretaget af COWI (2010; 
+2016; 2017b; 2020). COWI data om stormflodshøjder indgår også i Incentive (2020) 
+studiet om stormflodssikring i den sydlige del af København og Hvidovre og i 
+kommunernes egne planer for klimatilpasning.  
+COWI-studierne med forskellige reference-år bygger på en ensartet metode, og 
+forudsætningerne er løbende opdateret efterhånden som nye klimadata og 
+omkostningsdata har været til rådighed. Resultaterne af de seneste studier vil derfor 
+særligt her blive behandlet.  
+COWI (2019) opgør derudover omkostningerne ved stormflod og havvandstigning for 
+udvalgte byer i Region Hovedstaden inklusive København, Lyngby-Taarbæk, Gentofte, 
+København, Frederiksberg, Tårnby, Dragør, Hvidovre Kommune, Brøndby Kommune, 
+Vallensbæk, og Ishøj. Omkostningerne ved stormflod er her opgjort til samlet at være 
+en NPV på 22,5 mia. DKK for en 100 årig periode, og der er efterfølgende beregnet 
+omkostninger ved klimatilpasning for de enkelte kommuner. Omkostningerne til 
+klimatilpasning for Københavns kommune er her beregnet til at være NPV 5,2 mia. 
+DKK og bygger på forudsætninger om en stormflodshøjde for en returperiode på 1000 
+år på 3,6 m ved en stormflod fra syd. Københavns kommunes stormflodsplan for 2017 
+har tidligere opgjort omkostningerne til oversvømmelser ved stormflod til at være 11,8 
+mia. DKK og omkostningerne til klimasikring til klimatilpasning niveau til at være 7,5 til 
+7,6 mia. DKK, hvis der sikres svarende til en beskyttelse mod en stormflod svarende til 
+en returperiode på 1000 år for hele København (Københavns Kommune, 2017). 
+Stormflodshøjden svarer her til niveauet i Incentive (2020).  
+Incentive (2020) og Smith Innovation (2020) har opgjort en NPV for fremtidige skader til 
+5,1 mia. DKK frem mod år 2120 fordelt på sektorerne: infrastruktur, forsinkelser og 
+bygninger. Bygningers andel er her 59%, hvis den nuværende kystbeskyttelse 
+
+22 Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 
+fortsættes uændret. En sikring, hvor oversvømmelser helt ville kunne undgås for de to 
+kommuner, vil indebære en omkostning på NPV 2.4-4.7 mia. DKK, for en kystsikring til 
+5 m. Dette svarer til en besparelse på 0,6-2,8 mia. DKK NPV i forhold til 
+omkostningerne ved oversvømmelser. En række beregninger af 
+stormflodsomkostninger er opdateret i studiet i f.h.t. tidligere analyser, deriblandt 
+(COWI, 2017b). De økonomiske komponenter tæller her bl.a. private bygninger, 
+erhverv, elsvigt, infrastruktur (transformerstationer, veje og jernbaner), forsinkelser 
+(transport – veje, tog og fly), sygdom/sundhed og huspriser. Ud af de samlede 
+omkostninger ved oversvømmelser fra stormflod udgør privat beboelse 1,7 mia. DKK 
+og erhvervsbygninger 0,64 mia. DKK. Beregningerne gælder for et relativt højt 
+stormflodniveau (se en nærmere gennemgang af alternative forudsætninger om 
+stormflodsniveauer i afsnit 4). 
+Der er gennemført en række internationale studier for København omfattende Abadie 
+et al. (2019), Hallegate et al. (2011) og Prahl et al. (2017).  
+Hallegate et al. (2011) beregner omkostningerne ved stormflod i København svarende 
+til et niveau på 1,5 m. til at være 3 mia. EUR. Fremtidige stigninger i værdier er 
+indregnet baseret på forudsætninger om økonomisk vækst. Forudsætningerne om 
+omkostninger ved oversvømmelser er baseret på internationale kilder og ligger på et 
+højt niveau sammenlignet med antagelser i danske studier.  
+Abadie et al. (2019) beregner, at der efter gennemførelse af en optimal klimatilpasning 
+i form af diger vil være omkostninger svarende til en NPV 25,4 mio. EUR ved stormflod 
+i København i år 2100. Omkostningerne til diger er i et lavt RCP 2,6 scenarie 7,2 mio. 
+EUR, og i et højt RCP 4,5 scenarie 10,4 mio. EUR. Omkostningerne til sikring med 
+diger er sat lavt sammenlignet med f.eks. Incentive (2020)'s estimater over sikring i 
+Københavns og Hvidovre kommuner og også ift. Københavns stormflodsplan fra 2017. 
+Prahl et al. (2018) sammenligner studier af Hallegate et al. (2011 og 2013) med egne 
+modelberegninger og konkluderer, at en stormflodshøjde på 5 m. i København kan 
+medføre omkostninger på mellem 4,28 mia. EUR og 29,7 mia. EUR, hvilket svarer til 
+stormflodsniveauet i de høje stormflodsscenarier, som er indeholdt i Incentive (2020) 
+studiet for København og Hvidovre. 
+Som konklusion på de danske studier for København og en række af 
+hovedstadskommunerne kan man fremhæve, at de fleste dansk baserede studier 
+bygger på relativt ensartede forudsætninger om enhedsomkostninger ved 
+oversvømmelser (se en nærmere gennemgang af disse i afsnit 4). Der er dog 
+betydelige forskelle i forudsætningerne om stormflodsniveauer svarende til specifikke 
+returperioder især for Københavnsområdet, hvor en række af de nyeste danske studier 
+fra 2017 og frem har inddraget høje stormflodsniveauer svarende til op til 5 meter frem 
+imod år 2100, hvilket er en markant øgning i forhold til yderligere studier. Inddragelsen 
+af de høje stormflodsniveauer er baseret på en nyligt udviklet metode for fremskrivning 
+af stormflodshøjder i østersøområdet, som adskiller sig fra andre anvendte metoder i 
+stormflodsfremskrivninger, se afsnit 4 for en nærmere diskussion af metoderne. Høje 
+forudsatte niveauer for stormflodshøjder giver et højt estimat for antallet af berørte 
+bygninger og aktiviteter, og dermed relativt høje omkostninger for oversvømmelser. 
+Sådanne forskelle i forudsætninger om stormflodshøjder er en væsentlig årsag til 
+forskelle i konklusioner om omkostninger ved oversvømmelser og investeringer i 
+
+Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 23 
+klimatilpasning i København og i hovedstadsområdet. Sammenlignet med danske 
+studier så varierer internationale studier relativt mere både i deres forudsætninger om 
+omkostninger og om stormflodshøjder. De internationale studier omfatter således også 
+både lave omkostningsskøn som i Hallegate et al. (2011) baseret på et forudsat lavt 
+stormflodsniveau, og meget høje skøn som i Prahl et al. (2017) under forudsætning af 
+en stormflodshøjde på så meget som op til 5 m.  
+4.4 Omkostningerne ved oversvømmelser og tilpasning ved skybrud 
+En opgørelse af omkostningerne ved oversvømmelser og tilpasning ved skybrud er vist 
+i Tabel 4.  
+ 
+Tabel 4. Oversigt over opgørelsen af samfundsøkonomiske omkostninger ved skybrud.  
+  
+ 
+Som det fremgår af Tabel 4, er der ikke nogle landsdækkende studier, som opgør 
+omkostningerne ved oversvømmelser fra skybrud. Smith Innovation (2012) har dog 
+opgjort merudgifterne til investeringer på kloakområdet på landsplan til imødegåelse af 
+skybrud til at udgøre 10-20% ekstra omkostninger til nyanlæg og 10-25 % ekstra i 
+forbindelse med renovering, og det ville i Smiths beregning svare til merinvesteringer 
+på 180 til 410 mio. DKK. årligt. Kloakområdet er det største udgiftsområde inden for 
+klimasikring for skybrud (Smith Innovation, 2012). 
+Københavns kommunes skybrudsplan fra 2012 beregner de samlede udgifter til 
+klimasikring til at være 3,8 mia. DKK frem til år 2033, hvilket svarer til en årlig 
+omkostning på 0,19 mia. DKK. Skybrudstiltagene er et supplement til investeringerne 
+på kloakområdet. Skybrudsplanen indeholder afledning af nedbør til havet, 
+opmagasinering af vand og blå-grønne løsninger i byen.  
+Arnbjerg-Nielsen et al. (2015) konkluderer, at skaderne ved et højt klimascenarie 
+svarende til RCP 8,5 ved skybrud i København kan være 3,7 gange skybrudsskaderne 
+i dag og, at det kan være optimalt, at investere i klimatilpasning, som stort set undgår 
+disse skader. Der foreligger dog ikke direkte økonomiske skøn i denne artikel.  
+
+
+24 Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 
+På baggrund af disse meget begrænsede tilgængelige studier over omkostningerne 
+ved skybrud og klimatilpasning må det konkluderes, at det er meget svært drage 
+overordnede konklusioner på området. 
+4.5 Omkostninger ved oversvømmelser og tilpasning for vandløb 
+Der er ingen samlede danske analyser af oversvømmelser fra vandløb, men Danske 
+Regioner har i en beregning med SCALGO estimeret antallet af berørte bygninger ved 
+oversvømmelser fra vandløb ved en 100 års hændelse til at være 10.664 bygninger og 
+tilsvarende ved skybrud ved en 100 års hændelse til at være 393.574 bygninger 
+(Region Midtjylland og SCALGO, 2020). Derudover har Erhvervsministeriet (2017) 
+opgjort det samlede antal anmeldte skader ved oversvømmelser for perioden 2010-
+2016 fra vandløb til at være 184 små hændelser med en gennemsnitlig udbetaling på 
+2,1 mio. DKK per hændelse og tre store hændelser med en gennemsnitlig udbetaling 
+på 10,7 mio. DKK per hændelse. 
+4.6 Omkostninger ved oversvømmelser og klimatilpasning for 
+grundvand 
+Der foreligger ingen samlede analyser for omkostningerne ved oversvømmelser fra 
+grundvand, men Realise og Kuono (2020) har gennemført en cost-benefit analyse af 
+løsninger til håndtering af terrænnært grundvand baseret på case studier for Sunds, 
+Odense, Herlev, og Aarhus. I Sunds er det antaget, at der er 58 berørte ejendomme, i 
+Odense 4.360 berørte ejendomme med kælder og 335,4 km vej, i Herlev 321 
+ejendomme med kældre berørt plus 29 virksomheder samt 3,2 km vej, og i Aarhus er 
+der 651 ejendomme med og uden kældre berørt plus 20,5 km vej. Rapporten 
+indeholder en række økonomiske opgørelser af omkostningerne ved oversvømmelser, 
+hvor et hovedelement er tab af ejendomsværdier. Forudsætningerne bag 
+beregningerne af tabte ejendomsværdier ved høj grundvandsstand fremgår dog ikke 
+transparent i rapporten.  
+4.7 Generelle konklusioner på studier over oversvømmelser fra 
+stormflod, skybrud, vandløb og grundvand og klimatilpasning 
+Som allerede konkluderet i afsnit 1 og i dette afsnit er der væsentlige mangler i den 
+eksisterende litteraturmæssige baggrund for at træffe overordnede konklusioner om 
+samfundsøkonomiske omkostninger inden for de enkelte typer af oversvømmelser 
+såvel som på tværs af de forskellige typer af oversvømmelser, idet grundige analyser 
+heraf udestår og i særdeleshed studier med samme forudsætninger. Stormfloder er 
+bedst dækket i litteraturen, og især København og Hovedstadsområdet er dækket af 
+studier. På dette område er der muligheder for at danne sig et overblik over antallet af 
+berørte bygninger og påvirkningen af trafik på trods af variation i forudsætninger om 
+havstandsniveau og stormflodsscenarier mellem studierne. DIsse studier er et godt 
+indledende grundlag for at vurdere de samfundsøkonomiske omkostninger ved 
+stormfloder, men de bør videreudvikles med en opdatering af scenarier for 
+stormflodshændelser og med mere omfattende økonomiske vurderinger af hvilke 
+værdier, som er på spil ved oversvømmelser både i form af markedsomsatte goder og 
+værdier som økosystemer, helbred og kultur, som er vanskeligere at værdisætte. 
+
+Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 25 
+Oversvømmelser i forbindelse med skybrud er meget sparsomt dækket i litteraturen, og 
+det er derfor vanskeligt at drage konklusioner om antallet af berørte bygninger eller 
+andre omkostninger. Samme begrænsninger gør sig også gældende inden for 
+oversvømmelser fra vandløb og grundvand, hvor stort set ingen studier har dækket 
+områderne.  
+En række metodiske spørgsmål og forudsætninger vil i det næste afsnit blive diskuteret 
+som basis for en vurdering af i hvilket omfang de foreliggende studier vil kunne danne 
+baggrund for at drage overordnede danske konklusioner. 
+5. Kritiske metodiske og datamæssige 
+forudsætninger for sammenligning af studierne 
+I forbindelse med sammenligning af studier over omkostninger ved oversvømmelser og 
+klimatilpasning introducerede afsnit 2 indledningsvis en række særlige kritiske 
+metodiske spørgsmål og forudsætninger i forbindelse med vurdering og sammenligning 
+af studier af omkostninger ved oversvømmelser og klimatilpasning. I forlængelse heraf 
+vil disse faglige elementers betydning for specifikke studier og deres konklusioner blive 
+belyst nærmere. 
+5.1 Økonomi 
+De fleste opgørelser, som er indeholdt i studierne af samfundsøkonomiske 
+omkostninger ved oversvømmelser og klimatilpasning, som er omtalt i afsnit 3, 
+indeholder ikke en klar skelnen mellem samfundsøkonomi og privatøkonomi. Et 
+eksempel herpå er opgørelser over omkostninger ved oversvømmelser af bygninger, 
+hvor studierne næsten udelukkende fokuserer på omkostninger til renovering af 
+bygninger baseret på tidligere forsikringsudbetalinger eller andre kilder for 
+reparationsomkostninger. Sådanne omkostninger afspejler en række privatøkonomiske 
+omkostninger, men der er ikke taget højde for en række andre omkostningselementer, 
+som f.eks. omkostninger i form at tabt ejendomsværdi, som er med i Incentive (2020) 
+studiet for København og Hvidovre. Yderligere er der også en række privatøkonomiske 
+omkostninger hos beboere og ejere som f.eks. arbejdstid forbundet med oprydning, 
+genhusning og administration af forsikringssager, som heller ikke er medtaget (DTU, 
+2021b). Alt i alt kan det konkluderes, at omkostninger ved oversvømmelser af 
+bygninger dermed er sat lavt og primært afspejler et privatøkonomisk perspektiv. I 
+forbindelse med beregninger af omkostninger for transportsektoren anvender studierne 
+dog typisk samfundsøkonomiske forudsætninger for værdien af tid i forbindelse med 
+forsinkelser. En dækkende samfundsøkonomisk beregning burde i princippet også 
+inddrage andre konsekvenser af oversvømmelser end eksisterende studier som f.eks. 
+på natur, helbred, kulturelle og historiske værdier, og produktionstab. Nogle af de 
+tilgængelige analytiske værktøjer kan understøtte sådanne beregninger som f.eks. 
+DTU, 2021 og KDI, 2020, men disse værktøjer har endnu ikke været anvendt til 
+landsdækkende analyser med inddragelse af alle disse elementer, se en gennemgang 
+af værtøjerne i afsnit 5.  
+
+26 Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 
+Som anført i afsnit 3, så beregner nogle studier omkostningerne ved en given 
+stormflodshændelse, og tilbagediskonterer denne værdi til en nutidsværdi NPV, mens 
+andre studier beregner en fremtidig værdi for omkostningerne ved en oversvømmelse 
+som i DTU uden tilbagediskontering til nutidsværdier (2021b). I forlængelse heraf kan 
+der foretages risikoberegninger, hvor omkostningerne opgøres som en forventet værdi, 
+hvor der både tages højde for omkostningerne ved forskellige oversvømmelses 
+hændelser og hyppigheden af hændelserne. Risikoberegninger kan enten 
+repræsenteres som en nutidsværdi (NPV), som f.eks. i COWI (2017a) eller som 
+forventede årlige omkostninger, hvor en NPV er fordelt ud over analysens tidshorisont i 
+form af konstante årlige omkostninger. Risikoberegninger vil typisk omfatte hændelser 
+med hyppige returperioder og lave oversvømmelsesniveauer og hændelser med 
+sjældne returperioder og højere oversvømmelsesniveau, og dertil knyttede relativt lave 
+og høje omkostninger ved oversvømmelser. I opgørelsen vil de hyppige hændelser 
+med relativt lave omkostninger ved oversvømmelser tælle mest, simpelthen fordi de 
+optræder ofte. Modsat vil beregninger over en specifik stormflodshændelse kunne 
+resultere i, at sjældne hændelser med høje omkostninger ved oversvømmelser kan 
+komme til at fremstå markant. Sådanne store oversvømmelser kan ofte være vigtige i 
+forbindelse med beslutningstagning, og konsekvenserne heraf bør derfor også 
+fremlægges og belyses i studierne. I forbindelse med anvendelse af 
+samfundsøkonomiske beregninger som basis for beslutninger om klimatilpasning er det 
+således vigtigt både at tilvejebringe information om mindre- og større oversvømmelses 
+hændelser og at vurdere, hvorvidt det er omkostningseffektivt at gennemføre 
+klimatilpasning til meget høje stormflodsniveauer, hvis de dermed forbundne udgifter 
+stiger kraftigt.  
+De danske beregninger over omkostninger ved oversvømmelser har fulgt 
+Finansministeriets retningslinjer for diskonteringsrenter for samfundsøkonomiske 
+analyser, og disse diskonteringsrenter er blevet justeret i en nedadgående retning over 
+tid. Studier som har anvendt relativt lave diskonteringsrenter langt ude i fremtiden vil få 
+et relativt højt skøn over omkostningerne ved oversvømmelser sammenlignet med 
+studier med lavere fremtidige diskonteringsrenter. Dette har en særlig betydning, da 
+omkostningerne ved oversvømmelser vil vokse over tid, alene fordi fremtidige 
+forudsætninger om havstandsstigninger og hyppighed af skybrud mm. som følge af 
+klimaændringer.  
+Studierne over omkostninger ved oversvømmelser bygger i de fleste tilfælde på ret 
+detaljerede beregninger af omkostninger knyttet til oversvømmelse af en bygning, en 
+vejstrækning og lignende, og forskelle i forudsætninger om omkostninger for disse 
+områder har derfor en stor betydning for resultaterne. I det følgende gennemgås en 
+række af de vigtigste omkostningsforudsætninger, som indgår i danske studier. 
+Nedenstående Tabel 5 viser en oversigt over en række centrale forudsætninger om 
+omkostninger anvendt i danske oversvømmelsesstudier dækkende områder, som ofte 
+har være omfattet af studier, nemlig bygninger, erhverv, transport, infrastruktur og 
+elsvigt. Appendiks 9.1 indeholder samlede oversigter over omkostningsforudsætninger 
+i alle rapportens studier opdelt på sektorer.   
+Når omkostningerne ved oversvømmelserne sammenlignes på basis af 
+forudsætningerne indeholdt i Tabel 5, er det vigtigt at bemærke, at forskelle i 
+omkostninger f.eks. ift. boliger kan afspejle forskellige typer af oversvømmelser, hvor 
+
+Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 27 
+der har vist sig en tendens til, at meget høje oversvømmelsesniveauer, som ved Bodil 
+Stormen i 2013, gav meget høje omkostningsniveauer. Erhvervsministeriet (2017) 
+indeholder på basis af beretninger fra Stormrådet et godt statistisk grundlag for at 
+fastlægge enhedsomkostninger for oversvømmelser ved stormflod for bygninger, og 
+denne statistik ligger til grund for DTU (2021). Det er ikke helt klart, hvilket 
+kildegrundlag, som der ligger til grund for omkostningsforudsætningerne i de andre 
+studier, som er indeholdt i Tabel 5. Indenfor skybrud, vandløb og grundvand er der kun 
+et meget sparsomt datagrundlag for at fastsætte enhedsomkostninger for 
+oversvømmelser bl.a. fordi databeskyttelsesregler i de seneste år har gjort det 
+vanskeligt at få direkte adgang til forsikringsoplysninger på detaljeret niveau. 
+Forskelle i forudsætninger om omkostninger i de forskellige studier kan også være en 
+konsekvens af, at studierne omhandler forskellige geografiske områder, hvor visse 
+byområder kan indeholde høje ejendomsværdier sammenlignet med andre områder 
+med deraf følgende forskellige niveauer for forsikringsudgifter. Derudover er der også 
+forskelle i metoderne, som omkostningerne er fastlagt ved. Nogle metoder, som f.eks. 
+DTU (2021b), har fastlagt omkostninger ved oversvømmelse af antal m
+2 boliger fra 
+stormflod ved detaljerede beregninger af sammenhængen mellem stormflodsniveauer 
+på land og forsikringsudgifter, mens andre metoder opererer med ens omkostninger 
+per m
+2 uanset vanddybder. På trods af disse forskelle er der ret stor ensartethed 
+mellem de forudsatte omkostninger per m2 bolig eller stuetage for stormflod i f.eks. 
+COWI (2017a) på 3.599 DKK per m2 for alle vanddybder på land og i DTU (2021b) 
+(skadesmodel) på 4.807 DKK ved en vandstand på land på 100 cm baseret på statistik 
+fra Stormrådet og egne oversvømmelsesberegninger.  
+Som tidligere angivet er der meget stor usikkerhed om omkostningerne ved 
+forsikringsudbetalinger for skybrud. De forskellige studier nævner usikkerheden og 
+anvender derefter en ens værdi på omkring 1.250 DKK per m
+2 med reference til 
+statistik fra Forsikring og Pension. Det er her værd at bemærke, at omkostningerne ved 
+skybrud for boliger, som angivet i tabel 5 er sat til et markant lavere niveau end for 
+stormflod. Omkostningerne, som er angivet for produktionstab i virksomheder, er alle 
+baseret på specifikke studier f.eks. for hovedstandsområdet, og det giver begrænsede 
+muligheder for at anvende disse på flere områder. Det samme er tilfældet for elsvigt.  
+DTU (2021b) har udviklet en open source model til opgørelse af omkostninger ved 
+stormfloder, som indeholder data for en række omkostninger, som ligger udover, hvad 
+der er indeholdt i ovenstående Tabel 5. Disse omfatter bl.a. værdier for arbejdstid 
+anvendt af bygningsejere i forbindelse med oprydning og forsikringssager efter 
+oversvømmelser, antal berørte beskæftigede i oversvømmede virksomheder, tabte 
+turismeindtægter og rekreative værdier. Analysen af omkostningerne ved 
+oversvømmelser fra stormflod af Incentive (2020) indeholder også en række 
+omkostningselementer ud over indholdet i Tabel 5 bl.a. omfattende et skønnet tab i 
+ejendomspriser i oversvømmede områder, sundhed og en meget detaljeret opgørelse 
+af omkostninger relateret til transportområdet, hvor offentlig transport som metroen og 
+lufthavnen indgår. Forudsætningerne om tab i ejendomspriser i Incentive (2020) er 
+baseret på en sammenligning af ejendomspriserne i Jyllinge efter Bodil stormen i 2013 
+med priserne i naboområdet Frederikssund, og det blev her konkluderet, at priserne for 
+sammenlignelige boliger efter oversvømmelsen var 3% lavere for Jyllinge end i 
+Frederikssund. Dette prisfald er så fremskrevet til at fortsætte i beregningsperioden. 
+
+28 Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 
+Nationalbanken, (2021) har tilsvarende vurderet faldet i salgspriser for boliger i et 
+oversvømmelsestruet område i Roskilde efter oversvømmelser og konkluderer, at 
+priserne i en 3 årig periode har været reduceret med 6%, og at en langsigtet effekt over 
+en 100 årig tidshorisont kunne være i størrelsesordenen 3-4%. Samtidig konkluderer 
+Nationalbanken også, at de økonomiske risici ved sådanne oversvømmelser formentlig 
+er større end svarende til et prisfald på 3-4%. Disse fremskrivninger af 
+ejendomsprisernes påvirkning af oversvømmelsesrisici er naturligvis meget usikre pga. 
+det meget spinkle eksisterende datagrundlag. Fremtidige ejendomspriser må forventes 
+at blive påvirket af en række faktorer omfattende tilgængeligheden af transparent 
+information om oversvømmelsesrisiko, oversvømmelseshændelser og af, hvordan den 
+finansielle sektor reagerer på risikoen for belåning af ejendomme i 
+oversvømmelsestruede områder. Der vil i det følgende blive belyst en række særligt 
+kritiske metodiske og beregningsmæssige forudsætninger i klimafremskrivninger og 
+hydrologiske beregninger af betydning for samfundsøkonomiske beregninger af 
+oversvømmelser og klimatilpasning. 
+ 
+Tabel 5. Oversigt over centrale forudsætninger om omkostninger i danske 
+oversvømmelsesstudier angivet i DKK per m2 eller per enhed berørt. SF: Stormflod; SB: 
+Skybrud; GV: Grundvand; VL: Vandløb. 
+ 
+
+
+Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 29 
+5.2 Klima og hydrologi 
+5.2.1 Stormflod 
+For stormfloder har studierne anvendt to forskelligartede metoder til beregning af 
+scenarier for fremtidige vandstande: En statistisk metode baseret på returperioder for 
+historisk observerede vandstande samt en metode baseret på numerisk modellering af 
+fysiske processer for stormflodsdynamik. 
+Statistisk modellering af stormflod 
+Den statistisk baserede metode baserer sig på en beregnet statistisk sammenhæng 
+mellem hyppigheden af specifikke vandstandsniveauer. Jo længere en 
+observationsperiode, der ligger til grund for sådanne analyser og dermed flere 
+observerede hændelser med forhøjet vandstand, jo bedre er den givne sammenhæng, 
+bl.a. fordi fremtidige forhøjede vandstandsniveauer beregnes som en ekstrapolation af 
+statistikken over tidligere hændelser. I Danmark er måleserier for vandstand i havet 
+tilgængelige for udvalgte danske havne og varierer i længde imellem ca. 20-150 år. Der 
+beregnes på basis af vandstandene returperioder for specifikke hændelser svarende til 
+vandstandsniveauer baseret på lokale data (se også indledende afsnit med forklaring 
+af begreber). Der bør i studier med større geografisk dækning tages højde for, at den 
+naturlige variation imellem lokaliteter indenfor Danmark varierer enormt: I 
+Vadehavsbyer såsom Ribe er en 100-års hændelse på ca. 4,8 m hvor en tilsvarende 
+hændelse i Korsør er ca. 1,57 m (KDI, 2019). Oveni returperiode-niveauerne for lokale 
+vandstande ved stormfloder baseret på historiske målinger tilføjes projekterede 
+havspejlsstigninger, som følge af klimaændringer i en fremtidig returperiode-statistik for 
+forventede vandstande ved en stormflod. For København er havspejlsstigninger f.eks. 
++52 cm i år 2100 for RCP 8,5 (DMI, 2020). I DTU (2021a) er vandstandsmålinger og 
+returperiodestatistik fra alle officielle danske målestationer opskaleret til hele Danmark, 
+hvor der er differentieret imellem lokale forhold og niveauer for udvalgte RCP-
+scenarier, og fremtidige perioder fremgår desuden.  
+Returperiode-metodikken, anvendt i sammenhæng med en statisk modellering af 
+oversvømmelser, svarer til antagelser om, at stormfloder har en meget lang varighed, 
+hvilket indebærer, at oversvømmelser kan brede sig langt ind på land. En sådan 
+forsimpling har en positiv bias i form af en høj estimering af oversvømmede arealer, 
+idet en stormflod ved komplekst terræn i praksis ikke vil nå lige så langt ind over land. 
+Der er stor forskel i brugen af den statistiske returperiode-metodik i forskellige studier. 
+Nogle studier baserer sig på øjenvidneberetninger i årrækken 1044-1872, bl.a. COWI 
+(2018) om stormflodsniveauer. foruden de officielle tidsserier fra 1873 og fremad. 
+Denne metodik er også brugt i Incentive (2020), hvor stormflodshøjder, der langt 
+overstiger analyser med brug af officielle statistikker siden 1872, indgår. 
+Øjenvidneberetningerne for perioden 1044-1872 er meget højere end, hvad der er målt 
+i officielle observationstidsserier siden 1873. I de officielle statistikker fra 
+Kystdirektoratet (KDI 2017) er en nuværende 500-års stormflod for både Københavns 
+Nordhavn samt Køge (som repræsentant for sydlige stormfloder) ca. 1,7 m. Hvis man 
+til dette niveau lægger både øvre usikkerheds-interval for returperioden (0,2 m) samt 
+øvre konfidensinterval for havspejlsstigning fra DMIs klimaatlas fra det højeste 
+
+30 Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 
+emissionsscenarie (RCP 8,5: 0,96 m) fås 2,86 m (DMI, 2020). Tilsvarende for en 
+10.000 års hændelse i DMIs klimaatlas (DMI 2020) er en RCP8,5 hændelse for 
+slutningen af århundredet for Københavns på 2.4 m, med et usikkerhedsloft op til 3,3 
+m. Begge disse fremskrivninger (for Øresund og nordlige dele af København) er +2 m 
+under niveauet fra Incentive (2020). Forskellen mellem de forskellige tilgange til 
+fastsættelse af stormflodsniveau har meget stor betydning for estimeringen af 
+omkostninger ved forskellige hændelser. I forbindelse med stormfloder i København og 
+Hvidovre sker f.eks. stor andel af skaderne på metroen og lufthavnen, når 
+vandstandsniveauet overstiger 3,5 m og altså ved et niveau, som primært er indeholdt i 
+forudsætninger, som følger af historiske øjenvidneberetninger. De forskellige tilgange 
+til fastlæggelse af forudsætninger om stormflodsniveauer debatteres blandt fagfolk 
+(f.eks. Larsen, 2020). 
+Dynamisk modellering af stormflod 
+Et alternativ til den statistiske modellering af stormflodshøjder er en numerisk/dynamisk 
+modellering, som er baseret på velkendte geofysiske og empiriske processer for 
+udvikling af høje vandstande i havet og i stormfloders bevægelser igennem 
+eksempelvis et urbant miljø og dets lokale topografi. En sådan form for modellering er 
+ikke pt. foretaget på nationalt niveau med stormfloder for øje, men må forventes at 
+kunne udføres inden for en årrække både pga. tilføjet computerkraft og nye 
+modelkoder. Af numeriske modeller, som pt. benyttes i Danmark, findes både mere 
+lokalt orienterede modeller såsom DHIs MIKE 21 m.fl. samt modeller i større skala 
+såsom HBM som typisk simulerer havområder omkring hele Danmark og mest bruges 
+indenfor varsling (DMI, 2020) og forskning (Su et al., 2021). Numeriske modeller kan 
+mere præcist end statistiske modeller inddrage lokale forhold og indflydelsen af en 
+stormflods varighed, såsom vist og benyttet i f.eks. Su et al. (2021); Incentive (2021); 
+DTU (2021a). DTU (2021a) viser forskellen mellem den statistiske og dynamiske 
+tilgang, hvoraf den dynamiske model giver en markant mindre grad af oversvømmelse 
+end den statiske ved samme stormflodshøjde pga., at de storm i den dynamiske model 
+har begrænset varighed modsat i den statiske model, som ikke indeholder tidsmæssige 
+begrænser i, hvor meget vandet kan udbrede sig. Eksempelvis giver den statistiske 
+model 3-4 gange så stort et oversvømmet areal samt antal oversvømmede huse 
+sammenlignet med den dynamiske model for Aabenraa for de fleste fremtidige 
+scenarier hen imod midten af dette århundrede (DTU, 2021a).   
+5.2.2 Skybrud 
+Beregninger af oversvømmelsesomfanget i forbindelse med et skybrud over Danmark 
+foretages typisk ved at analysere lokale tidsserier af høj tidslig opløsning af observeret 
+nedbør til estimering af, hvor ofte skybrudshændelser med en given intensitet kan 
+forventes. For fremtidige hændelser benytter konsulenter, typisk skrifter fra 
+Spildevandskomiteen (Spildevandskomiteen, 2017) til fremskrivning af ændringer i 
+skybrudsintensitet/nedbørsrater. Hertil knyttes værktøjer til estimering af 
+’designnedbør’ hvor forløb af maksimum-niveau er designet til at matche fremtidige 
+scenarier. DMIs klimaatlas har også for nylig offentliggjort fremskrivninger af 
+ekstremregn baseret på IPCC RCP-scenarier og regionale klimamodeller (DMI, 2020).  
+
+Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 31 
+Tidsserierne med nedbør bruges efterfølgende som input til en oversvømmelsesmodel, 
+som simulerer vandets dynamiske bevægelser i tid og sted over terræn og nedsivning 
+igennem jord og i kloaksystemer for derved at estimere en distribueret udbredelse af 
+oversvømmelsesdybder. I Danmark benyttes ofte enten DHIs eller SCALGOs 
+værktøjer (henholdsvis MIKE URBAN og SCALGO Live), som meget groft opsummeret 
+har fordele i form af henholdsvis mulighed for implementering af øget kompleksitet og 
+flere brugerindstillinger (DHI) og hurtige beregninger og intuitivt online interface 
+(SCALGO). SCALGO er benyttet til en analyse på lokalt plan (Region Midtjylland og 
+SCALGO, 2020), men resultatet på ca. 394.000 ramte bygninger er med overvejende 
+sandsynlighed meget overestimeret grundet manglende inddragelse af afløbssystemer 
+og lokale drænforhold. Vandselskaberne bruger egne modelopsætninger på lokalt 
+niveau, som kombineret for større geografiske områder kunne give indikationer for 
+sårbarheder på regional/national skala: Sådanne resultater er dog typisk ikke er 
+offentligt tilgængelige. I Region Midtjylland og SCALGO (2020) benyttes SCALGO til 
+landsækkende analyser på screeningsniveau af risikoen for oversvømmelse fra 
+skybrud, og i f.eks. Københavns kommunes klimatilpasningsplan (Københavns 
+Kommune 2011) benyttes MIKE URBAN.  
+5.2.3 Vandløb 
+For modellering på national skala findes SCALGOs værktøj, som er online/browser 
+baseret og er i stand til at simulere oversvømmelser fra vandløb, med en mindre grad 
+af kompleksitet i fht. samspil med f.eks. kloaksystemer, nedsivning og grundvand. 
+Endvidere kan SCALGO heller ikke simulere tilbagestuvningsproblematikker i 
+forbindelse med kapacitetsbegrænsninger i f.eks. underføringer og rørlægninger. 
+Derudover findes, stadig på national skala, DHIs MIKE SHE/MIKE 11 model i en 
+opsætning lavet af GEUS kaldet DK-modellen til numerisk modellering af vandløbs- og 
+grundvands- hydrologi på tværs af Danmark (Højbjerg et al., 2013; Larsen et al., 2016; 
+Refsgaard et al., 2016). Denne modelopsætning kan gratis rekvireres af slutbrugere, 
+men kræver licens til egne beregninger for grundvand, hvor vandløbselementer indgår. 
+DK-modellen er tilgængelige online i de Hydrologiske informations og prognosesystem 
+(HIP) (GEUS, 2020) og er vedligeholdt af SDFE og GEUS. 
+HIP udnytter modelresultater, som er etableret på forhånd i en database, hvorimod 
+SCALGO kan specificeres af en bruger i realtid og vise resultater umiddelbart herefter. 
+Der findes mange andre værktøjer med potentiale til storskala vandløbssimulering 
+globalt set, men udbredelsen i Danmark er begrænset, og modelopsætning af inputfiler 
+og validering er både tidskrævende og kræver høj og specialiseret ekspertise. Af 
+andre, mindre udbredte og kun lokalt anvendelige, vandløbsmodeller kan nævnes 
+f.eks. VASP og HYMOD. 
+I Region Midtjylland og SCALGO (2020) benyttes SCALGOs værktøj til vurdering af 
+risikoen for oversvømmelser fra vandløb – resultater herfra er vist i afsnit 6.3. I 
+Miljøstyrelsens KAMP model kan antal oversvømmede bygninger analyseres for meget 
+lokale kortudsnit, hvor resultater for vandløb er baseret på SCALGO og foretaget af 
+Kystdirektoratet.  
+
+32 Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 
+5.2.4 Grundvand 
+Estimeringer af omkostninger ved oversvømmelser fra grundvand på matrikelniveau, er 
+betinget af detaljeret viden om hydrologisk dynamik og samspillet med både 
+jordbundsforhold og drænforhold for urbane, naturlige og landbrugsmæssige miljøer på 
+tværs af spatiale og temporale skalaer. Dermed er meget detaljeret viden nødvendig 
+for at foretage egentlige landsdækkende analyser. Det eneste værktøj som pt. er sat 
+op til at simulere fremtidige grundvandsforhold på nationalt plan i Danmark er HIP-
+værktøjet, som også er omtalt ovenfor (GEUS, 2020). Her kan udtrækkes terrænnært 
+grundvand i 100 m opløsning for hele Danmark, for både historiske, fremtidige og 
+realtidshændelser (varsling). Data er præsenteret som sandsynligheder, og 
+ekstremprognoser og kan udtrækkes pr. årstid eller måned. Miljøministeriet (2021) 
+indeholder en overslagsberegning baseret på KAMP på et 10 x 10 m opløsningsniveau 
+for hele landet, som viser at 450.000 bygninger på landsplan har mindre end en meter 
+til grundvandsspejlet, hvoraf 51.000 har kældre.   
+5.3 Konklusion 
+Indenfor økonomi, klima og hydrologi er der et solidt vidensmæssigt grundlag for 
+analyser af samfundsøkonomiske omkostninger ved oversvømmelser og tilpasning, 
+men dette grundlag er ikke fuldt ud bragt i spil indenfor analyser på området. Der er 
+nogle få eksempler på analyser indenfor stormflod, som indenfor deres egen metodiske 
+ramme og forudsætninger bygger på et solidt fagligt grundlag. Der er dog også her 
+væsentlige behov for videreudvikling for bedre at kunne repræsentere 
+samfundsøkonomiske perspektiver. Indenfor skybrud, vandløb og grundvand mangler 
+samlede landsdækkende analyser. Der kunne dog på disse områder relativt enkelt 
+videreudvikles både metoder og forudsætninger bla. baseret på studierne for stormflod 
+som grundlag for økonomiske vurderinger af omkostninger ved oversvømmelser og 
+klimatilpasning.  
+Scenarierne over klimarelaterede oversvømmelses hændelser og hydrologi varierer 
+stærkt mellem studierne, og det skyldes bl.a., at der udestår en dybdegående faglig 
+diskussion af, hvad der gør sig gældende for Danmark. Dette betyder f.eks. at den 
+maksimale stormflodshøjde for København er meget usikker. 
+ 
+6. Analytiske værktøjer udviklet for Danmark  
+I dag bruges flere forskellige værktøjer og modeller til analyser af omkostningerne ved 
+oversvømmelser og klimatilpasning med forskelligartede detaljeringsgrader og 
+kompleksitet. Vi vil i det følgende sammenligne eksisterende offentligt tilgængelige 
+værktøjer og belyse deres egnethed til samfundsøkonomiske analyser på sektorielt og 
+geografisk niveau. Vi belyser her fire gratis tilgængelige værktøjer nemlig DTU's 
+Skadesøkonomi model, KAMP modellen, PLASK modellen og Kystplanlægger.  
+Nogle af værktøjerne har integreret modellering af oversvømmelser på basis af 
+scenarier, og andre fokuserer udelukkende på beregning af omkostninger ved 
+
+Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 33 
+oversvømmelser baseret på oversvømmelsesdata fra andre modeller. Ud over forskelle 
+i modelstrukturer indeholder værktøjerne også forskelligartede forudsætninger om 
+hydrologi, klima og økonomi - se afsnit 4 for en nærmere gennemgang af forskelle og 
+betydningen af disse. På grund af disse forskelle vil opgørelser af omkostninger ved 
+oversvømmelser derfor i meget høj grad afhænge af de værktøjer, som bruges. Et 
+overblik over de fire danske gratis værktøjer og en fremhævelse af stærke og svage 
+sider gives i følgende. 
+6.1 DTU SkadesØkonomi modellen 
+DTU SkadesØkonomi modellen (DTU, 2021b) er udviklet af DTU som led i 
+COHERENT projektet finansieret af Innovationsfonden 2017-2021, og er tilgængelig 
+som open source. En række kommuner og KL samarbejder ledet af GeoFyn om 
+videreudvikling og anvendelse af modellen til beregning af planer for klimatilpasning. 
+Disse omfatter p.t. de fynske kommuner, Aabenraa, Vejle, og Slagelse. Kommunerne 
+har bidraget direkte økonomisk til videreudvikling af en ny modelversion. Modellens 
+styrke ligger specielt i mulighederne for at beregne økonomiske konsekvenser af 
+oversvømmelser på baggrund af data, som er direkte i overensstemmelse med 
+kommunernes egne GIS data systemer, som anvendes i deres planlægning. 
+Derudover bygger modellen på et stærkt forankret brugerejerskab, hvor kommunernes 
+egne medarbejdere støttes i selv at foretage analyser. Flere nye outputfaciliteter er 
+under udvikling baseret på ønsker fra kommunerne som følge af deres ibrugtagning af 
+modellen. Et særligt træk ved modellen er dens forskningsforankring, som omfatter 
+kompetencer indenfor klimasystemer, hydrologi og økonomi, hvilket betyder, at 
+modellen hele tiden løbende kan opdateres med nye data, og beregningsrutiner, som 
+bl.a. afspejler de nyeste resultater fra FN's klimaekspertpanel, IPCC. 
+Modellen indeholder p.t. ikke data for omkostninger ved klimatilpasning, men en 
+videreudvikling af modellen vil omfatte data for specifikke tiltag. Modellen kan 
+anvendes til en iterativ beregning, hvor eksterne beregninger med 
+oversvømmelsesmodeller med integrerede klimatilpasningstiltag kan anvendes til at 
+beregne reduktioner i omkostninger ved oversvømmelser ved klimatilpasning i form af 
+risikoreduktion ved givne investeringer. Sådanne beregninger kan dermed danne basis 
+for vurderinger af, hvor meget det kan betale sig at investere i klimatilpasning. 
+• Fokus: Økonomisk opgørelse af omkostninger ved oversvømmelser, suppleret 
+med fysiske indikatorer for biodiversitet og kritisk infrastruktur. 
+• Oversvømmelsestype: Primært udviklet for stormflod, men der indgår også 
+omkostningsdata på et mere overordnet niveau for skybrud og vandløb. 
+• Sektorer: Bygninger i form af boliger, fritidsboliger og erhverv (BBR), 
+erhvervenes produktion koblet til lokale CVR registre over beskæftigelse og 
+værditilvækst, transport inklusive værdi af tidsmæssige forsinkelser og udgifter 
+til reparation af veje, helbred baseret på lokale data om sårbare aldersgrupper 
+og psykisk stress, rekreative værdier baseret på værdisætning af rekreative 
+værdier, biodiversitet i form af indeks for rødlistede arter, turisme i form af data 
+fra Visit Danmark og kommunerne om antal besøgende og forbrug per døgn på 
+lokalt niveau.  
+
+34 Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 
+• Geografisk opløsning: Bestemmes af bruger, da modellens GIS program tillader 
+kobling mellem oversvømmelsesberegninger og kort over samfundsmæssige 
+værdier og natur mm på et vilkårligt brugervalgt geografisk detaljeringsniveau.  
+• Oversvømmelsesmodel: Bruger oversvømmelseskort som input. Disse kan 
+både være genereret med en dynamisk eller en statisk model. 
+• Output: Detaljeret kortmateriale for sektorerne med markering af vanddybder, 
+og markering af berørte sektorer. Samlede økonomiske 
+omkostningsberegninger for områder og risikoberegning, hvor sandsynligheden 
+for hændelser og forventede omkostninger indgår. 
+• Datagrundlag: Spørgeskemaer, forsikringsudbetaling, alle tilgængelige digitale 
+data på GIS niveau. Open source. Kan linkes direkte til officielle digitale 
+databaser i SDFE og i kommuner mm. 
+6.2 KAMP 
+KAMP (Danmarks Miljøportal, n.d.) er meget velegnet til at give et overblik på 
+screeningsniveau over potentielt oversvømmelsestruede områder. Holder styr på 
+arealanvendelser og med direkte link til lokalplaner (PlanDk system), jordbundsarter, 
+HIP mm. Beregninger over oversvømmelser fra nedbør viser lavninger, og der er ingen 
+vurderinger af nedsivninger eller mere avanceret hydrologisk modellering. 
+Klimascenarierne er knyttet direkte til DMIs Klimaatlas. Antallet af påvirkede bygninger 
+og veje vises, og der beregnes samlet ejendomsværdi fratrukket grundværdier for 
+berørte områder. 
+Det er en styrke ved KAMP, at arealdata for mange planlægningsaspekter 
+sammenstilles, så brugere let kan se, hvilke typer af arealer inkl. natur, lokalplaner mm, 
+som kan være oversvømmelsestruede. Oversvømmelsesberegningerne svarer til 
+havvand på land anvendt i Kystplanlægger. For vandløb og skybrud beregnes 
+overfladevand, og for grundvand indgår HIP baserede data. En meget sparsom 
+repræsentation af økonomi er indbygget (kun ejendomsværdier). Resultaterne kan ikke 
+downloades, så brugere kan ikke direkte arbejde videre og anvende KAMP som en del 
+af egne beregninger. KAMP har været anvendt til en række beregninger internt i 
+Miljøministeriet. 
+• Fokus: Oversvømmelsesrisiko som skal støtte miljø- og planmedarbejderes 
+klimatilpasningsarbejde på et screeningsniveau. 
+• Oversvømmelsestype: Alle fire kilder. 
+• Opløsning: Varierende. Fra 0,4x0,4 m til 100 x100 m alt efter kilder og 
+resultater. 
+• Oversvømmelsesmodel: Statiske 2D overflademodeller. For alle 
+oversvømmelsestyper er det muligt at få vist vand på terræn i forbindelse med 
+præ-definerede hændelser eller som funktion af stigende havvand eller 
+nedbørsmængder (brugerdefineret). Detaljeret modellering af afløbssystemer 
+mm er ikke indeholdt. 
+• Styrke: Brugervenligt og hurtigt værktøj, som kan give et overblik på 
+screeningsniveau.  
+• Datagrundlag: Klimascenarier, Bluespot-kort, data fra HIP, BBR/OIS, data fra 
+Kystdirektoratets ’National risikokortlægning’, samt oversvømmelsesanalyser 
+baseret på Danmark højdemodel. Økonomiske konsekvenser af 
+
+Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 35 
+oversvømmelser opgøres på basis af ejendomsværdi minus grundværdi for 
+berørte bygninger. Bygninger, som ikke ejendomsvurderes, inkluderes ikke i 
+beregningen, det samme gælder småbygninger såsom carporte og udhuse, og 
+ejerlejligheder medtages heller ikke. 
+6.3 PLASK 
+PLASK (Miljøstyrelsen, 2020) er udarbejdet til at fremme kommunikationen mellem 
+forsyninger og kommuner og sætter en ramme for konsistent beregning af projekter i 
+tråd med officielle samfundsøkonomiske retningslinjer. Værktøjet kan anvendes til at 
+screene mulige klimatilpasningsprojekter til beskyttelse mod oversvømmelser fra 
+ekstrem nedbør og kan sammenstille oplysninger om økonomi omfattende skader på 
+bygninger, elsvigt og trafik. Beregninger af klimatilpasning kan foretages på baggrund 
+af et katalog over tiltag, og brugeren skal så selv indtaste økonomi i systemet. På 
+baggrund heraf giver PLASK mulighed for at beskrive omkostningsfordelingen mellem 
+de involverede parter, eksempelvis forsyningsselskab, kommune og private bygherrer. 
+Brugeren skal selv angive andele for projekterne, som derefter summeres op. Tre 
+specifikke projekter kan sammenlignes. Modellen er baseret på at brugeren selv 
+eksternt foretager beregninger af oversvømmelser med og uden klimatilpasningstiltag.  
+• F okus: Beregning af samfundsøkonomiske værdier af forskellige 
+klimatilpasningsløsninger på projektniveau. 
+• Oversvømmelsestype: Skybrud. 
+• Opløsning: Afhænger af afgrænsningen af specifikke projekter. 
+• Oversvømmelsesmodel: Bruger oversvømmelseskort som input. Disse kan 
+både være genereret med dynamiske og med statiske modeller, og det gælder 
+for oversvømmelser såvel som for effekten af klimatilpasning. Brugerne skal 
+selv specificere oversvømmelse og effekt af klimatilpasning. 
+• Datagrundlag: Omkostninger ved oversvømmelser beregnes ud fra 
+enhedsomkostninger fra COWI og Kystdirektoratet, som er meget aggregerede 
+gennemsnits omkostninger på landsplan. Modellen indeholder et meget 
+detaljeret katalog over tiltagsomkostninger med angivelse af "NIRAS 
+erfaringsoplysninger som kilde". Heraf kan det ikke udledes, hvad 
+erfaringsgrundlaget egentlig bygger på f.eks. i form af anvendelse af de enkelte 
+tiltag. Værktøjet har også en facilitet, hvor en kvalitativ vurdering af merværdier 
+kan tilføjes af brugerne med indikation af høje, middel og lave værdier indenfor 
+kategorierne landskab, byrum, befolkning og natur med mulighed for 
+brugerudvidelser. 
+ 
+6.4 Kystplanlægger 
+Kystplanlægger (KDI, 2021) kan anvendes til at vise risiko ved erosion og 
+oversvømmelser på landsplan baseret på detaljerede fysiske oplysninger om kysterne 
+og GIS data for bygninger, infrastruktur og erhverv og kan give et godt overordnet 
+billede af risikoområder i Danmark på screeningsniveau. Risiko repræsenteres samlet 
+for 100 m x 100 m celler, baseret på en aggregeret omkostningsberegning for 
+bygninger, landbrugsareal, husdyrsproduktion og virksomheder mm. og hyppighed af 
+oversvømmelseshændelser. Resultatet angives i farvekoder dækkende omkostninger i 
+intervaller op til et niveau på over 500.000 DKK per år. Modellen har indbygget klima 
+
+36 Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 
+og hydrologiske data, og brugerne har ikke selv mulighed for at vælge egne input. 
+Output er risikokort med aggerede data for 100x100m celler med en indbygget 
+vægtning af celler med forskellige risikoniveauer. På den baggrund er det ikke muligt 
+direkte at relatere resultaterne til detaljerede sektorspecifikke omkostninger eller til 
+lokale klimatilpasnings projekter, og samfundsøkonomiske omkostninger kan ikke 
+udledes af modellens beregninger. En del af modellens omkostningsdata for 
+oversvømmelser er baseret på kildemateriale, som er ret gammelt, og det gælder f.eks. 
+på bygningsområdet, hvor enhedsomkostningerne bygger på oversvømmelsesdata fra 
+perioden 1973 til 2006. Modellens data for omkostninger ved reparation af infrastruktur 
+bygger også på et svagt grundlag. Yderligere er der anvendt meget aggregerede 
+danske data til beregning af produktionstab i virksomheder ved oversvømmelser.   
+• Fokus: Oversvømmelses- og risikokortlægning ved kysterne samt forslag til 
+tilpasning. 
+• Oversvømmelsestype: Stormflod. 
+• Opløsning: 100x100 m modelceller. 
+• Oversvømmelsesmodel: Havvand på land. 
+• Styrke: Analyseværktøj til kommunerne samt færdigt udarbejdede rapporter 
+med forslag til løsninger langs alle landets kyststrækninger. Ser både på 
+stormflod og erosion. Brugeren kan også vælge selv at hente værktøjet og 
+foretage egne analyser, og derved selv lave risikokort. Modellen beregner 
+skade på flere sektorer ud over bygninger og infrastruktur, såsom skade på 
+landbrugsareal, husdyrsproduktion og virksomhedstab. 
+• Datagrundlag: Klimascenarier, MiljøGIS, SDFE KORT10, Jupiter, BBR, DHIs 
+MetOcean-model, Danmarks Højdemodel, data fra Kystanalysen, Beach model 
+(erosionsmodel). Økonomiske enhedspriser er samlet fra Kystdirektoratet, 
+BaneDanmark, ejendoms- og grundværdier, egne estimater og funktioner for 
+skade ved erosion, modeller for virksomhedstab (bruger bl.a. CVR registeret 
+som input), samt Natur- og Erhvervsstyrelsens husdyrsdatasæt og 
+afgrødedatasæt. 
+• Bemærkning: De færdigt udarbejdede rapporter for hver strækning indeholder 
+løsningsforslag, såfremt en model-celles risiko overstiger 1,5 mio. DKK. 
+Risikoniveau i model-celler angives ved farvekoder. 
+ 
+Der er i princippet ingen hindringer for, at de fire omtalte værktøjer i højere grad kunne 
+anvende fælles forudsætninger til brug ved beregninger af omkostninger ved 
+oversvømmelser svarende til de omkostningskategorier, som er indeholdt i Tabel 5 i 
+afsnit 4. Det vil f.eks. betyde, at omkostningsberegninger foretaget med 
+DTUSkadesøkonomi og Kystplanlægger byggede på et mere ensartet grundlag. En 
+sådan koordinering af data kunne med fordel baseres på en aftale mellem 
+vidensinstitutioner om fælles faglig udvikling, og også rådgivere på området burde 
+indgå i dette fællesskab, så modeller som PLASK og internt anvendte værktøjer i 
+højere grad kunne bygge på et fælles fagligt grundlag. 
+Der er muligheder for at udvide beregninger med de enkelte værktøjer som KAMP og 
+PLASK med f.eks. omkostningsberegninger foretaget med DTUSkadesøkonomi, som 
+er modellen med de mest omfattende økonomiske beregninger. Kystplanlægger 
+indeholder meget detaljerede data for kysternes sårbarhed og resultaterne heraf kunne 
+
+Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 37 
+være interessante at anvende i detaljerede beregninger af klimatilpasning i 
+kystområderne. Disse resultater er dog ikke tilgængelige som selvstændigt output, der 
+kan anvendes af andre værktøjer. En sådan facilitet kunne med fordel udvikles.   
+7. Generelle konklusioner i et landsdækkende 
+perspektiv 
+I dette afsnit præsenteres en række overordnede konklusioner for Danmark baseret på 
+de meget begrænsede tilgængelige studier af samfundsøkonomiske omkostninger ved 
+oversvømmelser og klimatilpasning fra de fire oversvømmelseskilder. Den meget 
+begrænsede litteratur på området betyder, at samlede konklusioner for Danmark er 
+behæftet med stor usikkerhed, og at økonomiske konsekvenser kun delvist er belyst. 
+Som supplement til de overordnede konklusioner baseret på studier præsenteres en 
+række simple overslagsberegninger mhp. understøttelse af overordnede danske 
+konklusioner.  
+Som tidligere konkluderet i afsnit 2 dækker studierne i særligt omfang 
+samfundsøkonomiske omkostninger og klimatilpasning ved stormfloder med særligt 
+fokus på bygninger, og dette område vil derfor have en særlig vægt i de samlede 
+konklusioner.  
+7.1 Stormflod 
+Omkostninger ved oversvømmelser 
+Stormfloder er den hyppigst dækkede oversvømmelseskilde i studierne for Danmark 
+som konkluderet tidligere, men samlede landsdækkende konklusioner er dog meget 
+sparsomme. Omkostningerne for byerne er beregnet af COWI (2017a) for en 100 årig 
+periode til at udgøre en NPV på 100 mia. i form af en risikoberegning under hensyn til 
+sandsynligheden for oversvømmelseshændelser i hele analyseperioden. Tilsvarende 
+har DTU (2021a) beregnet, at omkostningerne ved en stormflod for et RCP 4,5 
+scenarie og en 50-års stormflod kan udgøre 16,1 mia. DKK samt, at tilsvarende 
+omkostninger for 100-års returperioder for RCP 4,5 og RCP 8,5 scenarier udgør 18,2-
+20,1 mia. DKK. I en efterfølgende upubliceret DTU beregning, hvor sandsynligheden 
+for hændelserne er tilføjet mhp. på et estimat af risiko, og med antagelser om 
+omkostninger for hændelser for lavere returperioder, opnås omkostninger i NPV i 
+samme størrelsesordenen som i COWI (2017a), hvor omkostninger for bygninger i en 
+NPV risikoberegninger udgør 63,6 mia. DKK.  
+Beregninger af risiko giver et godt samlet økonomisk grundlag for at vurdere 
+investeringer i klimatilpasning, men detaljeret information om omkostningerne ved 
+specifikke oversvømmelseshændelser og om, hvilke værdier ud over konsekvenser for 
+bygninger, som er på spil, har også en vigtig selvstændig betydning i forbindelse med 
+beslutninger om klimatilpasning. Bygninger har været relativt let at inddrage i analyser, 
+da der foreligger forsikringsoplysninger fra oversvømmelser, og på den måde er 
+bygninger kommet til at veje tungt i opgørelser. Der er dog også et statistisk grundlag 
+
+38 Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 
+for at andre vigtige sektorer, som f.eks. industri og serviceerhverv kunne inddrages i 
+analyser, der mangler dog her en detaljeret geografisk statistik over værditilvækst, som 
+grundlag for at beregne produktionstab ved oversvømmelser. Derudover er der et godt 
+grundlag for at inddrage omkostningerne ved trafikpåvirkning fra oversvømmelser, 
+hvilket i princippet kunne beregnes på basis af eksisterende landstrafikstatistik og 
+modeller, hvis disse informationer var tilgængelige på detaljeret geografisk niveau. 
+Som supplement til beregninger af omkostninger ved oversvømmelser af bygninger, 
+erhverv og trafik kan det også være af stor lokal betydning af inddrage et endnu 
+bredere spektrum af værdier, som også omfatter en rækkeværdier som f.eks. helbred, 
+natur og kulturelle værdier, som kan være svære at sætte pris på. Inddragelsen af 
+sådanne værdier er vigtigt, da de ellers ikke bliver synlige og kan prioriteres direkte i 
+opgørelser over omkostninger ved oversvømmelser. 
+Risikoanalyser vil som tidligere nævnt komme til at lægge særligt vægt på relativt lave 
+oversvømmelsesniveauer med begrænsede omkostninger, da sådanne hændelser 
+sker ofte og kommer til at tælle meget i risikoopgørelserne. Dette kan stå i modsætning 
+til, at beslutningstagere i mange tilfælde vil lægge vægt på at undgå store 
+oversvømmelseshændelser. En anden begrænsning i forbindelse med 
+risikoberegninger er, at sandsynligheden for oversvømmelseshændelser er behæftet 
+med meget stor usikkerhed, og en samlet risikoberegning kan dermed komme til at 
+maskere en vigtig del af risikobilledet. Alt i alt må det dermed konkluderes, at i 
+forbindelse med beregninger af omkostninger ved oversvømmelser, er det vigtigt både 
+at vise resultater over konsekvenserne af specifikke oversvømmelser og af den 
+samlede forventede risiko med tydelig angivelse af usikkerheder og konsekvenser, 
+som er vanskelige at repræsentere i økonomiske værdier.  
+Et internationalt studie (Vousdoukas et al., 2020) opgør de samlede årlige forventede 
+skadesomkostninger indtil år 2100 ved stormfloder i Danmark til at være 8,9 mia. EUR i 
+et lavt udslips-scenarie (svarende til et lavt RCP 4,5 klimascenarie), og i et højt udslips-
+scenarie (svarende til et højt RCP 8,5 klimascenarie) til at være 84,6 mia. EUR for hele 
+Danmark. Disse omkostninger ligger på et meget højt niveau, hvilket bl.a. afspejler 
+studiets fremskrivning af fremtidige økonomiske værdier repræsenteret ved BNP. 
+Tilpasningsomkostninger er beregnet som gennemsnitlige årlige omkostninger for et 
+digehøjde på 0,88 m i det lave scenarie og på 1 m i det høje scenarie svarende til 
+henholdsvis 90,2 mio. EUR og 224,06 mio. EUR, hvilket gør investeringer i disse diger 
+yderst rentable. Diger på den højde vil dog kun i begrænset omfang reducere 
+omkostningerne ved oversvømmelser, og der vil også være resterende omkostninger 
+på henholdsvis 1,14 mia. EUR og 2,82 mia. EUR i henholdsvis det høje og lave 
+klimascenarie. 
+Region Midtjylland og SCALGO (2020) konkluderer at 64.000 huse med en samlet 
+værdi på 178,2 mia. DKK målt i ejendomsværdier kan oversvømmes ved stormfloder 
+på nationalt niveau. For alle kyststrækninger er der forudsat samme stormflodshøjde 
+nemlig på 2 m, hvilket dog ikke afspejler de reelle variationer indenfor Danmark. 
+Scenariet anses derfor ikke for at være plausibelt. For kontekst forekommer 2 m 
+vandstand alene som en del af den daglige tidevandscyklus i vadehavet, mens der for 
+mange andre dele af Danmark aldrig er målt en 2 m vandstandsvariation.  
+
+Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 39 
+For hovedstadsområdet er der udarbejdet analyser af Rambøll (2020), Incentive (2020) 
+og af Københavns og Hvidovre kommuner under forudsætning af et højt 
+stormflodsniveau på 5 m svarende til en 2000-års stormflod (ved brug af metoden som 
+inddrager uofficielle observationer for en periode lang historisk tidsperiode (se den 
+metodiske gennemgang i afsnit 4). Omkostningerne er opgjort for private bygninger, 
+erhverv, elsvigt, infrastruktur (transformerstationer, veje og jernbaner), forsinkelser 
+(transport – veje, tog og fly) og for sygdom/sundhed. Analyserne når frem til samlede 
+omkostninger i nutidsværdier, på ca. 5,1 mia. DKK for perioden frem imod år 2120, og 
+af disse udgør privat beboelse 1,7 mia. DKK og erhvervsbygninger 0,64 mia. DKK  
+Som supplement til disse konklusioner har DTU i nærværende studie beregnet de 
+mulige omkostninger for kystturisme i Danmark, da mistede indtægter fra kystturisme 
+er en væsentlig del af lokale omkostninger ved stormfloder. Beregningerne er foretaget 
+per kommune ved at multiplicere antal overnatninger i månederne for stormfloder 
+(oktober-marts) med indtægten per overnatning. Antal overnatninger pr. måned og 
+kommune er fra (VisitDenmark / Danmarks Statistik, 2021), og det gennemsnitlige 
+døgnforbrug er i (Visitdenmark, 2018) estimeret til 650 DKK/døgn for kystkommuner og 
+1.700 DKK/døgn for København, Århus, Odense og Ålborg. Perioden 2017-2019 er 
+benyttet (før Covid19). Kun kommuner, som rammes af oversvømmelse for RCP 8,5 
+scenariet baseret på DTU (2021), er medtaget, så kommuner uden kyst såsom 
+Frederiksberg indgår ikke. Beregningen afspejler dermed summen, som en kommune 
+risikerer at miste, hvis al turisme er sat ud af spillet i en hel vintersæson for et 
+pågældende RCP-scenarie. Tallet skal derfor nedjusteres, hvis ikke al turisme rammes 
+grundet oversvømmelses omfang, eller justeres efter hvilket tid af året, 
+oversvømmelsen rammer. Det er naturligvis usikkert i hvor lang en periode, at 
+stormfloder vil kunne betyde, at turister vælger ikke at komme, men hvis der f.eks. er 
+tale om oversvømmelser af overnatningssteder eller populære attraktioner, kan der 
+være tale om en betydelig nedgang i antallet af turister. Hvis der tages udgangspunkt i 
+det maksimale forbrug af turister for stormflodsmånederne oktober til marts vil de 
+samlede tabte turistindtægter for disse måneder kunne være 5,9 mia. DKK for 
+København efterfulgt af Varde på 814 mio. DKK, Århus på 750 mio. DKK og 
+Ringkøbing-Skjern på 677 mio. DKK, hvilket kan give en indikation af potentielt mistede 
+turistindtægter, hvis oversvømmelser i kystområderne forhindrer turister i at komme til 
+områderne. Samlet, for alle kystbyer med tilgængelige data, er beløbet 13,1 mia. DKK, 
+som vist i Tabel 6. 
+Tilpasning 
+For klimatilpasning til imødegåelse af stormflod har Kystdirektoratet udarbejdet en 
+analyse af sårbarheden af danske kyststrækninger som led i udviklingen af 
+Kystplanlægger-værktøjet (KDI, 2021). Nærværende studie har fået data direkte stillet 
+til rådighed af Kystdirektoratet om sårbare kyststrækninger truet af oversvømmelse 
+eller kysterosion angivet for tre tidshorisonter: Kort, mellemlangt og langt sigt, hvilket 
+dækker tidshorisonterne 20 år, 50 år og 100 år (2040, 2070 og 2120). Disse data er 
+vist i tabel 7 nedenfor og viser totallængden af kyststrækninger, hvor Kystdirektoratet 
+har foreslået en reduktion af oversvømmelses- og eller erosionsrisikoen. 
+Strækningerne med behov for kystbeskyttelse i Danmark udgør henholdsvis 2.164 km, 
+3.068 km og 4.299 km på kort-, mellemlangt- og langt sig. Strækningerne omfatter 
+strækninger, som i dag ikke har kystbeskyttelse og strækninger, hvor eksisterende 
+
+40 Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 
+beskyttelse bør udvides pga. fremtidige havstandsstigninger. Samtidig er der angivet et 
+antal vejledende forslag til en reduktion af risici fra Kystdirektoratet. Kun antallet af 
+forslag og ikke dimensionering og længde af tiltagene for specifikke strækninger er 
+angivet. Dette må ses i lyset af, at det er kommunerne, der har ansvar for design og 
+dimensioner af risikoreducerende tiltag. 
+ 
+Tabel 6. Omkostninger pr. kommune i mistede turistindtægter for en vintersæson som følge af 
+stormflod i mio. DKK. 
+Assens 28,3 Middelfart 89,2 
+Bornholm 69,2 Morsø 23,5 
+Brønderslev 16,8 Norddjurs 85,2 
+Esbjerg 118,6 Nordfyns 53,3 
+Fanø 115,4 Nyborg 53,7 
+Faxe 31,4 Næstved 33,4 
+Fredensborg 5,2 Odder 23,8 
+Fredericia 59,2 Odense 346,6 
+Frederikshavn 160,4 Odsherred 53,5 
+Frederikssund 24,7 Randers 26,1 
+Faaborg-Midtfyn 33,4 Ringkøbing-Skjern 676,9 
+Gentofte 28,9 Roskilde 34,9 
+Guldborgsund 131,9 Rudersdal 35,9 
+Haderslev 88,9 Samsø 11,3 
+Halsnæs 37,1 Skive 43,4 
+Hedensted 49,7 Slagelse 54,3 
+Helsingør 97,4 Stevns 22,9 
+Holbæk 21,0 Struer 21,1 
+Holstebro 139,3 Svendborg 43,5 
+Horsens 43,4 Syddjurs 144,0 
+Ishøj 10,7 Sønderborg 177,3 
+Jammerbugt 202,7 Thisted 126,5 
+Kalundborg 37,0 Tønder 307,1 
+Kerteminde 22,2 Tårnby 111,0 
+Kolding 123,8 Varde 814,0 
+København 5,884,4 Vejle 122,3 
+Køge 18,7 Vesthimmerlands 79,9 
+Langeland 56,2 Viborg 36,8 
+Lejre 11,3 Vordingborg 38,7 
+Lemvig 133,6 Ærø 9,9 
+Lolland 208,7 Aabenraa 57,5 
+Lyngby-Taarbæk 21,9 Aalborg 507,3 
+Læsø 6,9 Aarhus 750,2 
+Mariagerfjord 39,7 Sum 13092,9 
+
+Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 41 
+Tabel 7. Kategorier og omfang af truede kyststrækninger samt antal umiddelbart anbefalede 
+kystbeskyttelsesanlæg (uafhængig af størrelse) (KDI, 2021) og data fra Kystdirektoratet leveret 
+5/10 2021. 
+  Kort sigt Mellemlang sigt Lang sigt 
+Kategorier og inddeling af truede kyststrækninger (reduktionsstrækninger) 
+Antal strækninger (med ensartet risikobillede), 
+som vurderes truet ud af de 459 
+strategistrækninger 
+ 110 (24%) 178 (39%) 249 (54%) 
+Antal samlede strækninger med 
+oversvømmelsesrisiko  92 67 71 
+Antal samlede strækninger med erosionsrisiko  11 45 83 
+Antal samlede strækninger med både 
+oversvømmelses- og erosions-risiko  7 66 95 
+Samlet længde på truede strækninger (km)  2164 3068 4299 
+Antal kystbeskyttelsesanlæg på truede kyststrækninger (reduktionsstrækninger) 
+Ift. reduktion af oversvømmelsesrisikoen 
+Diger  42 59 75 
+Højvandsmur  60 72 82 
+Klitbarrierer (naturbaseret højvandsbeskyttelse)  20 37 48 
+Sluse (ved munding af vandløb)  21 28 37 
+Ift. reduktion af erosionsrisikoen 
+Sandfodring  19 84 124 
+Skråningsbeskyttelse  2 3 4 
+Bølgebryder  0 1 1 
+ 
+Tabel 8 viser enhedsomkostninger for kystbeskyttelsestiltag, der kan anvendes til 
+beregning af omkostninger for klimatilpasning langs danske kyststrækninger baseret på 
+økonomiske afvejninger og politiske beslutninger. På dette grundlag har lokale studier 
+omfattende INCENTIVE, 2020 og Rambøll m.fl., 2020 estimeret omkostningerne til 
+klimatilpasning for stormfloder i København og Hvidovre kommuner inklusive dige-
+placeringer i Dragør og Tårnby kommuner til at udgøre 2,4-4,7 mia. DKK. Københavns 
+kommunes klimaplan fra 2017 opgør omkostningerne til at være 7,5-7,6 mia. DKK for 
+klimasikring af hele København og understreger her, at tallet er opnået i en indledende 
+screeningsfase (Københavns Kommune, 2017). Begge disse studier benytter 
+sikringshøjder på 5 m, ved stormfloder fra syd. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+42 Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 
+Tabel 8. Enhedsomkostninger for kystbeskyttelsestiltag (Kilder: Rambøll 2015; KDI 2016).  
+  Tilpasningstiltag Kort sigt Mellemlang 
+sigt Lang sigt 
+Enhedsomkostnin
+ger (moderat 
+eksponering, 25 
+års levetid 
+(sandfodring 
+undtaget)) 
+Diger (DKK/km) 19.000.0
+00 DKK 
+29.000.000 
+DKK 
+39.000.000 
+DKK 
+Dige vedligehold (DKK/km/år) 0 DKK 0 DKK 1.000.000 
+DKK 
+Højvandsmur (DKK/km) 19.000.0
+00 DKK 
+29.000.000 
+DKK 
+39.000.000 
+DKK 
+Højvandsmur vedligehold (DKK/km/år) 0 DKK 0 DKK 1.000.000 
+DKK 
+Klitbarrierer (naturbaseret 
+højvandsbeskyttelse) 
+17.000.0
+00 DKK 
+25.000.000 
+DKK 
+34.000.000 
+DKK 
+Klitbarrierer vedligehold (DKK/km/år) 0 DKK 0 DKK 0 DKK 
+Sluse (ved munding af vandløb) 23.000.0
+00 DKK 
+35.000.000 
+DKK 
+47.000.000 
+DKK 
+Sluse vedligehold (DKK/km/år) 0 DKK 1.000.000 
+DKK 
+1.000.000 
+DKK 
+Sandfodring (hvert 5. år) 5.000.00
+0 DKK 
+5.000.000 
+DKK 
+5.000.000 
+DKK 
+Skråningsbeskyttelse  13.000.0
+00 DKK 
+13.000.000 
+DKK 
+13.000.000 
+DKK 
+Skråningsbeskyttelse vedligehold 
+(DKK/km/år) 0 DKK 0 DKK 0 DKK 
+Bølgebryder  20.000.0
+00 DKK 
+20.000.000 
+DKK 
+20.000.000 
+DKK 
+ 
+7.2 Skybrud 
+Omkostninger ved oversvømmelser 
+Som konkluderet i afsnit 2 er der ikke udført samlede danske analyser af 
+omkostningerne ved oversvømmelser fra skybrud i Danmark, men omfanget af 
+udfordringen opsummeres kort på baggrund af foreliggende studier. Det er i den 
+sammenhæng vigtigt at bemærke, at forsyningsselskaberne og kommunerne har udført 
+detaljerede analyser dækkende en stor del af den samlede danske udfordring, men 
+disse analyser er ikke offentligt tilgængelige og er heller ikke udført på basis af 
+ensartede forudsætninger.  
+Danske regioner (Region Midtjylland and SCALGO, 2020) har udført en analyse af 
+oversvømmelser af antal berørte bygninger ved oversvømmelser fra hav, nedbør og 
+vandløb vha. SCALGO-værktøjet. En række forsimplinger indgår i dele af antagelser 
+og metodikker, deriblandt er der for nedbør ikke medtaget underjordiske 
+afløbssystemer, som vil reducere oversvømmelserne (se afsnit 4). I Danske Regioners 
+analyse fremgår det, at nedbørsbetingede oversvømmelser af bygninger i lavninger 
+står for langt størstedelen af bygningsmassen i fare for oversvømmelser totalt set, 
+
+Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 43 
+nemlig 393.500 bygninger for en 100-års begivenhed. Yderligere har Miljøstyrelsen i en 
+analyse for Miljøministeriet på basis af KAMP modellen foretaget en analyse, som 
+samlet set skønner antallet af berørte bygninger af alle typer af oversvømmelser til at 
+være i en størrelsesorden på 700.000 svarende til skønnet af Danske Regioner. 
+I Rambøll (2018) indgår skadesomkostningerne ved skybrud beregnet for 
+repræsentative cases baseret på PLASK-værktøjet (Miljøstyrelsen, 2020). Heraf ses 
+for et blandet område med boliger, erhverv og en gennemfartsvej omfattende 12.000 
+indbyggere og 144.000 m
+2 bygningsareal omkostninger ved skybrud i nutidsværdier på 
+59 mio. DKK for en 100-års periode. For et blandet byområde med 75.000 m2 blandet 
+byggeri ses tilsvarende omkostninger ved skybrud på ca. 170 mio. DKK, og for et tyndt 
+befolket landområde ses omkostninger ved skybrud på 50 mio. DKK. Det er ikke muligt 
+på baggrund af disse cases at drage generelle konklusioner om samlede danske 
+omkostninger.   
+Skybrudshændelsen d. 2/7 2011 over hovedstadsområdet, som var den hændelse med 
+de hidtil største registrerede omkostninger, vurderes af have forvoldt omkostninger 
+indenfor skadeskategorier dækket af forsikringer på ca. 6 mia. DKK og udløste 
+efterfølgende forsikringsudbetalinger på ca. 5. mia. DKK, heraf 2,24 mia. DKK for 
+erhvervsbygninger. (Rambøll, 2018).    
+Tilpasning 
+ Smith Innovation (2012) har med klimafaktorer på 1,2 og 1,5 (svarende til intensiteten 
+af ekstreme skybrud som styrende faktor for dimensioneringen af kloakker) estimeret, 
+at klimaændringerne vil medføre merinvesteringer på 2.4 mia. DKK og 5.5 mia. DKK i 
+nutidsværdi over en 20-årig periode til investeringer i kloakker. I forhold til et årligt 
+investeringsniveau forventes klimaændringer at øge investeringerne med henholdsvis 
+10% og 23% for en klimafaktor på 1,2 og 1,5.  
+Arbejdet med kloak og spildevand tilgodeser ud over reduktion af direkte 
+oversvømmelsesbaserede omkostninger også varetagelse miljøhensyn, som f.eks. 
+reduktion af uhensigtsmæssig udledning af spildevand. Der kan derfor være en vis 
+grad af merværdi i forbindelse med investeringer i kloakker til skybrudssikring, og der 
+kan også være fordele forbundet med reduktion af overfladevand, som ledes til 
+spildevandsanlæg, hvis der gennemføres separat kloakering.   
+Som udgangspunkt for en vurdering af klimatilpasningsbehovet indenfor 
+kloakeringsområdet i Danmark vurderes tilstanden for det danske kloakeringssystem 
+som udgangspunkt at være god (karakter 4 ud af 5), og samtidig er kloaksystemets 
+gennemsnitlige alder faldende pga. mange nyinvesteringer (Foreningen af Rådgivende 
+Ingeniører, 2020). Historisk er der fra 2013-2016 foretaget overfladebaserede 
+klimatilpasningsprojekter for 1,1 mia. DKK, svarende til 275 mio. DKK/år (Foreningen af 
+Rådgivende Ingeniører, 2020), og de samlede investeringer i kloakker har udgjort ca. 
+1.8 mia. DKK/år. Heraf er 800 mio. DKK til nyanlæg, og 1 mia. DKK er til vedligehold 
+og fornyelse (Smith Innovation / Realdania, 2012). Samlet anvendes ca. 5 mia. DKK/år 
+på udbygning og vedligehold af kloaksystemer og spildevand, og dette tal forventes 
+ifølge (Foreningen af Rådgivende Ingeniører, 2020) at være stabilt. Hvis vi tager 
+udgangspunkt i ovenstående skøn fra (Smith Innovation, 2021) om 20-23% ekstra 
+investeringer på kloakområdet pga. klimaændringer, så vil ekstrainvesteringer udgøre 
+
+44 Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 
+ca. 900 mio. DKK årligt ud af de 5 mia. DKK, som iflg. FRI anvendes årligt på 
+investeringer på kloakområdet. 
+7.3. Vandløb 
+Omkostninger ved oversvømmelser 
+I Region Midtjylland og SCALGO (2020) beregnes antallet af huse, som er 
+oversvømmelsestruede fra vandløb ved en 100-års hændelse til 10.664 med en samlet 
+ejendomsværdi (fratrukket grundværdi) på 25,2 mia. DKK. Heraf må kun en 
+delmængde forventes at være påvirket ved en konkret begivenhed (se også afsnit 6.2 
+om oversvømmelser i lavninger fra skybrud). Denne værdi må ses som et groft estimat 
+og står påfaldende alene i litteraturen om oversvømmelser fra vandløb i Danmark 
+samlet set. 
+Herudover har Stormrådet udgivet tal i 2017 over de sparsomme antal 
+oversvømmelser, som har været kompensationsberettigede i perioden 2011-2016, og 
+opgør det samlede udbetaling til 55 mio. DKK, hvoraf de 23 mio. DKK er for små 
+hændelser (11 stk.), og 32 mio. DKK er for store hændelser (3 stk.).     
+Tilpasning 
+I forbindelse med landbrugsaftalen (indgået 4. okt. 2021) kan der være nogle 
+sidegevinster i form af klimatilpasning til oversvømmelser fra vandløb. Målet i aftalen er 
+varigt at udtage 100.000 ha lavbundsjord, inkl. randarealer med henblik på CO
+2- eller 
+næringsstof-effekter, og en synergi med klimatilpasning er her åbenlys. Det er dog ikke 
+muligt at vægte hensynet til klimatilpasning og begrænsning af næringsstofudledning 
+direkte. Miljøstyrelsen forventer omkostninger, som beløber sig til 128.000/133.000 
+DKK/ha uden/med jordfordelingsomkostninger. Samlet giver dette en udgift på 12,8-
+13,3 mia. DKK. For erstatningssager i forbindelse med vandløbsrestaurering, hvor 
+oversvømmelser forventes at gøre jorden ikke-brugbar, på 150.000-180.000 DKK/ha 
+for omdriftsjord og 50.000-100.000 DKK/ha for anden jord. Scenarier for fremtidige 
+udtag til vandløbsrestaurering er ikke tilgængelige (personlig kommunikation, 
+Miljøstyrelsen).  
+7.4. Grundvand 
+Omkostninger ved oversvømmelser 
+Som for vandløbsbetingede oversvømmelser er litteraturen inden for 
+skadesomkostninger fra grundvandsbetingede oversvømmelser meget sparsom. I 
+Realise og Kuono (2020) indgår cases, hvoraf det største af disse er for Odense 
+kommune. I disse cases opgøres de samlede skadesomkostninger til 4.3 mia. DKK, for 
+en 100-årig tidshorisont, der er dog stor usikkerhed omkring metoden og 
+forudsætningerne anvendt til opgørelse af skadesomkostningerne i disse cases. 
+Beregningerne er baseret på en kombination af beregninger fra GEUS og 
+kommunernes egne data (GEUS, 2020). Specifikke fremtidsscenarier 
+(RCP/returperiode) fremgår ikke. Af flere årsager er en simpel skalering til et samlet 
+dansk niveau på baggrund af case studierne ikke meningsfyldt, deriblandt pga. 
+
+Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 45 
+forskelle i arealanvendelse, værdier og grundvandsniveau og dynamik. For eksemplets 
+skyld kan det dog skønnes, at skadesomkostningerne for Odense (205.881 indbyggere 
+i 2020) svarer til omkostninger på 121,5 mia. DKK for hele Danmark (5,84 mio. 
+indbyggere i 2020) skaleret på basis af indbyggertal alene.     
+En indledende basis for opskalering af omkostninger af oversvømmelser fra grundvand 
+i Danmark kan være et estimat over antallet af berørte bygninger (Miljøministeriet, 
+2021). Heraf fremgår det, at 450.000 bygninger på landsplan har mindre end en meter 
+til grundvandsspejlet, hvoraf 51.000 har kældre. Det er ikke muligt på dette grundlag at 
+skønne over, hvor mange af disse bygninger, som vil få oversvømmelser fra 
+grundvand, og omkostningsberegningerne per oversvømmet bygning i ovennævnte 
+case studier danner heller ikke et godt grundlag for samlede omkostningsskøn.   
+Tilpasning 
+I ovenstående eksempel for Odense er der angivet tilpasningsomkostninger på 207-
+726 mio. DKK for forskellige tilpasningsscenarier omfattende forskellige aktører og 
+omfang af tilpasning. Alle disse scenarier er rentable hvad angår sparede 
+oversvømmelsesomkostninger, som er i intervallet 851-3.887 mio. DKK. Som ovenfor 
+kan en simpel skalering udføres som rent overslag på basis af befolkningstal på 
+nationalt niveau, svarende til et interval for nationale tilpasningsomkostninger på 5,9-
+20,6 mia. DKK, men det må understreges, at estimatet er et meget groft overslag og er 
+meget afhængigt af lokale forhold. 
+7.5 Opsummerende oversigt over samfundsøkonomiske udgifter til 
+oversvømmelser og tilpasning 
+I den følgende Tabel 9 gives et overblik over samlede omkostninger ved 
+oversvømmelser og klimatilpasning indenfor stormflod, skybrud, vandløb og grundvand 
+baseret på studier og overslagsberegninger af DTU indeholdt i nærværende afsnit. 
+Overslagsberegningerne er behæftet med betydelig usikkerhed.  
+ 
+  
+
+46 Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 
+Tabel 9. Oversigt over landsdækkende estimater over samfundsøkonomiske omkostninger ved 
+oversvømmelser og klimatilpasning for stormflod, skybrud, vandløb og grundvand.  
+ Estimerede omkostninger 
+oversvømmelser 
+Estimerede 
+omkostninger 
+klimatilpasning 
+Bemærkninger 
+Stormflod    
+DTU (2021a) 
+Hele Danmark 
+Mellem 18,2 mia. DKK og 60 
+mia. DKK for en stormflod 
+svarende til en 100 års RP i 
+et lavt og højt klimascenarie 
+for en periode 100 år frem. 
+For en stormflod svarende til 
+en 50 års RP omkostninger 
+være 16,1 mia. DKK 
+Ikke omfattet af 
+studiet 
+Flere hændelser vil kunne 
+forekomme i perioden, som 
+f.eks. også 20 års 
+hændelser, og en 
+risikoberegning vil 
+akkumulere alle 
+hændelserne 
+COWI (2017) 
+alle danske byer 
+NPV på 100 mia. DKK for 
+100 årig tidshorisont  
+Ikke omfattet af 
+studiet 
+Et højt maksimalt 
+stormflodsniveau på 5 m. er 
+omfattet 
+(Vousdoukas et al., 
+2020) Hele 
+Danmark 
+ 
+Indtil 2100 årlig risiko på 
+mellem 8,9 mia. EUR og 84,6 
+mia. EUR i henholdsvis lavt 
+og højt klimascenarie 
+Indtil år 2100 årlige 
+omkostninger for en 
+digehøjde på 0,88 m i 
+lavt klimascenarie på 
+90,2 mio. EUR og 
+224,06 mio. EUR, i 
+højt klimscenarie 
+ 
+Estimatet er meget højt, og 
+omkostningsdata er 
+generaliserede 
+internationale data 
+Incentive, 2020 
+København og 
+Hvidovre 
+Den forventede risiko ved 
+oversvømmelser indtil 2120 
+svarer til en nutidsværdi på 
+ca. 5,1 mia. DKK. Heraf 
+udgør privat beboelse 1,7 
+mia. DKK og 
+erhvervsbygninger 0,64 mia. 
+DKK 
+Ikke omfattet af 
+studiet 
+Et højt maksimalt 
+stormflodsniveau på 5 m. er 
+omfattet 
+Turisme 
+Overslagsberegning 
+af DTU 
+13,1 mia. DKK i samlet risiko   
+Kystbeskyttelse 
+Beskyttelse mod 
+stormfloder og 
+erosion 
+  
+Estimatet er overvurderet 
+grundet manglende 
+præcise data 
+Skybrud    
+Region Midtjylland 
+og SCALGO (2020) 
+– screening studie 
+393.500 bygninger i 
+lavninger, hvor 
+afløbssystemer ikke er 
+indregnet 
+ 
+Estimatet er højt, da 
+afløbssystemer i praksis vil 
+aftage en stor del af 
+oversvømmelserne 
+FRI (2021) og Smith 
+(2012)    
+Vandløb    
+Region Midtjylland 
+og SCALGO (2020) 
+– screening studie  
+10.600 bygninger   
+Grundvand    
+Miljøministeriet 
+(2021 
+450.000 bygninger har 
+grundvandsspejl på under 1 
+m, hvoraf 50.000 har kældre 
+  
+ 
+  
+
+Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 47 
+8. Behovet for et styrket vidensgrundlag  
+I nærværende analyse er der foretaget en kortlægning af eksisterende viden og 
+konklusioner om samfundsøkonomiske omkostninger ved oversvømmelser og 
+klimatilpasning foruden identifikation af datamæssige og metodemæssige svagheder 
+og litteratur-review.  
+Som konkluderet er der relativt få dækkende danske studier over omkostningerne ved 
+oversvømmelser, og studierne dækker i overvejende grad stormfloder samtidig med, at 
+klimatilpasning kun er belyst i meget begrænset omfang. Det er dermed vanskeligt at 
+drage konklusioner om økonomisk optimale investeringer i klimatilpasning i forbindelse 
+med oversvømmelser fra stormflod, skybrud, vandløb og grundvand. Denne konklusion 
+står i modsætning til den samlede, men dog sporadisk dækkende evidens om, at 
+oversvømmelser kan medføre meget store samfundsøkonomiske omkostninger. 
+Som det fremgår at litteraturstudiet og af rapportens gennemgang af metodiske 
+udfordringer og kritiske forudsætninger, så er det en krævende opgave at gennemføre 
+robuste studier af omkostninger på alle de fire oversvømmelsesområder på 
+landsdækkende niveau såvel som i geografisk afgrænsede områder. Der er dog i 
+Danmark et robust fagligt-, model-, og datamæssigt grundlag for at gennemføre 
+sådanne analyser i et samspil mellem forskning, myndigheder, rådgivere og andre 
+involverede parter, og samtidig giver vores meget veludviklede digitale systemer helt 
+unikke muligheder for at gennemføre avancerede studier.  
+En mere robust og samlet national analyse af de samfundsøkonomiske omkostninger 
+ved oversvømmelser knyttet til stormfloder, vandløb, grundvand og skybrud og 
+investeringer i klimatilpasning på detaljeret geografisk niveau bør adressere: 
+• Intensitet og hyppighed af hændelser. 
+• Modellering af oversvømmede områder betinget af hændelser. 
+• Sårbare aktiviteter og værdier som boliger, sommerhuse, erhverv, trafik, vejnet, 
+rekreative områder, historiske og kulturelle værdier og økosystemer inkl. 
+estimering af økonomiske værdier for alle områder suppleret med data for 
+særlige områder som helbredsmæssige konsekvenser, biodiversitet og unikke 
+kulturelle værdier.  
+• Detaljeret kortlægning af den nutidige og fremtidige arealanvendelse i Danmark 
+for en række alternative fremtidsscenarier repræsenterende byudvikling, 
+erhverv, landbrug, skovbrug og økosystemer. Fremtidige scenarier for 
+arealanvendelse kunne f.eks. baseres på en sammenstilling af forskellige 
+planer og diskussionsoplæg, som foreligger for de forskellige områder. 
+• Detaljeret geografisk vurdering af muligheder og omkostninger ved 
+klimatilpasning for oversvømmelser fra stormflod, skybrud, vandløb og 
+grundvand.  
+• Statistik over omkostninger ved oversvømmelseshændelser: Forsikring, 
+erhvervsindtægter, forsyningssektor, potentielle lokale produktionstab for 
+virksomheder ved oversvømmelser (Danmarks statistik) mm. 
+• Vurderinger af finansieringsbehov og byrdefordeling i forbindelse med 
+investeringer i klimatilpasning. 
+
+48 Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 
+Der er allerede en del aktiviteter i gang til planlægning og gennemførelse af 
+klimatilpasning indenfor stormflod, skybrud, vandløb og grundvand. Det manglende 
+vidensgrundlag, som er kortlagt i rapporten peger på, at der er en stor risiko for, at der 
+ikke vil blive gennemført omkostningseffektiv klimatilpasning med mindre, der hurtigt 
+investeres i tilvejebringelse af et bedre vidensgrundlag baseret på et tæt samspil 
+mellem forsknings, rådgivning og opgavevaretagelse hos myndighederne. Manglen på 
+et stærkt vidensgrundlag kan betyde, at der enten investeres i for meget eller i for lidt 
+klimatilpasning pga. mangelfuld vurdering af omkostninger ved oversvømmelser og af 
+deres lokalisering og hyppighed. Der er også en risiko for helt at overse 
+oversvømmelsesrisiko overfor store samfundsmæssige værdier og natur. 
+Samtidig viser gennemgangen af studierne også, at der faktisk er et godt grundlag i 
+Danmark for hurtigt at kunne etablere et bedre vidensgrundlag, og realiseringen af 
+dette kunne bl.a. ske gennem en række tiltag omfattende: 
+• Å benhed omkring data og beregningsforudsætninger omfattende både 
+offentlige myndigheder, forsyningssektoren og vidensinstitutioner. 
+• Etablering af dataplatforme med adgang til open source værktøjer og med 
+oversigt over data omfattende både frie data og kommercielt tilgængelige data. 
+• Statslig koordinering af hvordan digitale data kan stilles til rådighed for analyser 
+af oversvømmelser og klimatilpasning. 
+• Tværfagligt samarbejde om landsdækkende analyser af samfundsøkonomiske 
+omkostninger ved oversvømmelser og klimatilpasning inklusive finansiering af 
+studierne. 
+  
+
+Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 49 
+9. Appendiks 
+9.1 Enhedsomkostninger - sektoropdelt 
+Enhedsomkostninger fundet i danske rapporter og studier, som supplerer uddraget af 
+de nyeste forudsætninger om enhedsomkostninger indeholdt i tabel 5 i afsnit 4.1. 
+ 
+ 
+Kort titel
+Kystplanlægger
+Stormflod og havvandsstigninger
+Beskyttelse mod oversvømmelse af 
+København
+Konsekvenser af stormflodssikring af 
+Kalveboderne
+ klimasikring af København mod 
+oversvømmelser
+Udredning om tilpasning til 
+havvandstigninger
+DTU Skadesmodel, stormflod, 100 cm 
+vandstand
+Byernes udfordringer med 
+havvandstigning
+ Forsyningssikkerhed på vandområdet
+PLASK
+Enhedsomkostninger fra skybrud
+DTU Skadesmodel, Skybrud, 20 cm 
+vandstand
+cost-benefit-analyser  af terrænnært 
+grundvand
+DTU Skadesmodel, Vandløb, 20 cm 
+vandstand
+Vand- og spildevandsanlæg i 
+landbrugsjord 2021
+Reference
+KDI, 2021
+COWI, 2018
+COWI 2016
+Incentive, 
+2020
+COWI, 2010
+Rambøll, 
+2015
+DTU, 2021b
+COWI, 
+2017a
+Rambøll, 
+2018
+Miljøstyrelse
+n, 2020
+COWI, 2014
+DTU, 2021b
+Realise Aps 
+og Kuono 
+P/S, 2020
+DTU, 2021b
+SEGES,  
+2021
+Oversvøm-
+melsestype SF SF SF SF SF SF SF SF SB SB SB SB GV VL -
+Stueetage - 
+privat 3599 [m²] 2825 [m²] 5973 [m²] 40512 
+[bygn] 3599 [m²] 1153 [m2] 1257 [m²] 1107 [m²] 184 [m²]
+Kælder – 
+privat 537 [m²] 528 [m²] 352 [m²] 50000 
+[bygn] 537 [m²] 530 [m2] 578 [m²] 509 [m²] 283 [m²]
+Bolig Funktion 4807[m²] 1257 [m²] 976 [m²]
+Etage- 
+ejendom
+220000 
+[bygn]
+Tab af 
+indbo - 
+helårsbolig
+Funktion
+Fritidshus 25000 
+[bygn] 5616 [m²] 1249 [m²] 970 [m²]
+Udhuse og 
+carporte 5000 [bygn]
+Øvrige 
+bygninger
+50000 
+[bygn]
+Bygnings-
+skade, 
+erhverv
+5510 [m²] 238418 
+[virks.] 1407 [m²] 34970 
+[virks] 1092 [m²]
+Tab af 
+løsøre - 
+erhverv
+153268 
+[virks.]
+135.000 
+[virk.]
+Drifts/ 
+produktions- 
+tab, erhverv
+184651 
+[virks.]
+160.000 
+[virk.]
+Erhverv - 
+skader, 
+produktions
+tab og 
+løsøre
+Funktion 472997 
+[virks]
+448000 
+[virks.]
+222685 
+[bygn]
+455616 
+[virks.]
+210.000 
+[m²]
+Forsynings- 
+og tekniske 
+bygnigner
+50000 
+[bygn]
+Butikker - 
+produktions- 
+tab
+0 [enh.]
+Butikker - 
+erstatning 
+varelager- 
+kælder
+2328 [m²]
+Butikker - 
+erstatning 
+varelager- 
+stue
+2328 [m²]
+Butikker - 
+renoverings
+omkostning 
+stue
+3121 [m²]
+Bebyggelse
+
+50 Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 
+ 
+ 
+ 
+ 
+ 
+Kort titel
+Kystplanlægger
+Stormflod og havvandsstigninger
+Beskyttelse mod oversvømmelse af 
+København
+Konsekvenser af stormflodssikring af 
+Kalveboderne
+ klimasikring af København mod 
+oversvømmelser
+Udredning om tilpasning til 
+havvandstigninger
+DTU Skadesmodel, stormflod, 100 cm 
+vandstand
+Byernes udfordringer med 
+havvandstigning
+ Forsyningssikkerhed på vandområdet
+PLASK
+DTU Skadesmodel, Skybrud, 20 cm 
+vandstand
+cost-benefit-analyser  af terrænnært 
+grundvand
+DTU Skadesmodel, Vandløb, 20 cm 
+vandstand
+Vand- og spildevandsanlæg i 
+landbrugsjord 2021
+Reference
+KDI, 2021
+COWI, 
+2018
+COWI 2016
+Incentive, 
+2020
+COWI, 
+2010
+Rambøll, 
+2015
+DTU, 2021b
+COWI, 
+2017a
+Rambøll, 
+2018
+Miljøstyrels
+en, 2020
+DTU, 2021b
+Realise Aps 
+og Kuono 
+P/S, 2020
+DTU, 2021b
+SEGES,  
+2021
+Oversvøm
+melsestype SF SF SF SF SF SF SF SF SB SB SB GV VL -
+Elsvigt 
+private
+2098 
+[enh.] 2063 [enh.] 1850 [enh.] 2098 
+[enh.]
+2230 
+[husstand]
+Elsvigt 
+erhverv
+6295 
+[virks.]
+6189 
+[virks.]
+5551 
+[virks.]
+6295 
+[virks.] 6693 [virks.]
+Elsvigt, 
+offentlig 
+institution
+0 [enh.] 6693 [off. 
+inst.]
+Transforme
+r- stationer
+1100000 
+[enh.]
+1100000 
+[enh.]
+Elsvigt
+Kort titel
+Kystplanlægger
+Stormflod og havvandsstigninger
+Beskyttelse mod oversvømmelse af 
+København
+Konsekvenser af stormflodssikring af 
+Kalveboderne
+ klimasikring af København mod 
+oversvømmelser
+Udredning om tilpasning til 
+havvandstigninger
+DTU Skadesmodel, stormflod, 100 cm 
+vandstand
+Byernes udfordringer med 
+havvandstigning
+ Forsyningssikkerhed på vandområdet
+PLASK
+DTU Skadesmodel, Skybrud, 20 cm 
+vandstand
+cost-benefit-analyser  af terrænnært 
+gr
+undvand
+DTU Skadesmodel, Vandløb, 20 cm 
+v
+andstand
+Vand- og spildevandsanlæg i 
+landbrugsjord 2021
+Reference
+KDI, 2021
+COWI, 2018
+COWI 2016
+Incentive, 
+2020
+COWI, 2010
+Rambøll, 
+2015
+DTU, 2021
+COWI, 
+2017a
+Rambøll, 
+2018
+Miljøstyrelse
+n, 2020
+DTU, 2020
+Realise Aps 
+og Kuono 
+P/S, 2020
+DTU, 2020
+SEGES,  
+2021
+Oversvømmelsestyp
+e SF SF SF SF SF SF SF SF SB SB SB GV VL -
+Tabt 
+husdyrsproduktion, 
+svin
+3079 [dyr]
+Tabt 
+husdyrsproduktion, 
+kvæg
+11642 [dyr]
+Tab af afgrøde type 
+1 (vinterafgrøder), 
+oversvømmelse
+8083,5 [ha]
+Tab af afgrøde type 
+2 (vårafgrøder), 
+oversvømmelse
+3118,5 [ha]
+Tab af afgrøde type 
+3 (hovedsageligt 
+græs), 
+oversvømmelse
+2310 [ha]
+Tab af afgrøde, 
+gennemsnitserstatni
+ng
+1,31 [m2]
+Landbrug
+
+Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 51 
+ 
+ 
+  
+Kort titel
+Kystplanlægger
+Stormflod og havvandsstigninger
+Beskyttelse mod oversvømmelse af 
+København
+Konsekvenser af stormflodssikring af 
+Kalveboderne
+ klimasikring af København mod 
+oversvømmelser
+Udredning om tilpasning til 
+havvandstigninger
+DTU Skadesmodel, stormflod, 100 cm 
+vandstand
+Byernes udfordringer med 
+havvandstigning
+ Forsyningssikkerhed på vandområdet
+PLASK
+DTU Skadesmodel, Skybrud, 20 cm 
+vandstand
+cost-benefit-analyser  af terrænnært 
+grundvand
+DTU Skadesmodel, Vandløb, 20 cm 
+vandstand
+Vand- og spildevandsanlæg i 
+landbrugsjord 2021
+Reference
+KDI, 2021
+COWI, 2018
+COWI 2016
+Incentive, 
+2020
+COWI, 2010
+Rambøll, 2015
+DTU, 2021b
+COWI, 2017a
+Rambøll, 2018
+Miljøstyrelsen, 
+2020
+DTU, 2021b
+Realise Aps 
+og Kuono P/S, 
+2020
+DTU, 2021b
+SEGES,  2021
+Oversvøm-
+melsestype SF SF SF SF SF SF SF SF SB SB SB GV VL -
+Trafikfor- 
+styrrelser alle 
+hovedveje
+239 [t] 272 [t] 305 [t] 363 [t] 310 [t] 239 [t] 310 [t] 301 [t] 310 [t] 310 [t]
+Vejbrud/ 
+genopfør- else 500 [m²] 3001 [m] 2951 [m] 1100000 
+[enh.] 3001 [m] 100 til 
+1000 [m2] 3203 [m] 534 [m²]
+Jernbane, 
+nyetablering
+37500 
+[m²]
+Jernbane 
+skinnerep 4324 [m] 5000 [m] 4324 [m]
+Oprydning 3 [m²] 3 [m²] 3 [m²]
+Station 
+(genetablering af 
+sårbare 
+installationer)
+497919 
+[enh.]
+228788185 
+[enh.]
+497919 
+[enh.]
+Skader på 
+kloakker
+1201168 
+[enh.]
+1100000 
+[enh.]
+1100000 
+[enh.]
+1201168 
+[enh.]
+Anlæg+driftstab, 
+Kastrup Lufthavn
+5,1×10^9 
+[enh.]
+5,1×10^9 
+[enh.]
+Anlæg+driftstab, 
+Øresundsbro 
+(tunnel)
+4,1×10^9 
+[enh.]
+4,1×10^9 
+[enh.]
+Driftstab, 
+jernbane
+0,2×10^9 
+[enh.]
+0,2×10^9 
+[enh.]
+Anlæg+driftstab,
+Metro
+2×10^9 
+[enh.]
+2×10^9 
+[enh.]
+Forsinkelser, 
+Kastrup Lufthavn
+5,9×10^9 
+[pers. 
+forsink.]
+5,9×10^9 
+[pers. 
+forsink.]
+Forsinkelser, 
+Øresundsbro
+3,8×10^9 
+[pers. 
+forsink.]
+3,8×10^9 
+[pers. 
+forsink.]
+Forsinkelser, 
+jernbane
+7,2×10^9 
+[pers. 
+forsink.]
+7,2×10^9 
+[pers. 
+forsink.]
+Forsinkelser, 
+Metro
+7,5×10^9 
+[pers. 
+forsink.]
+7,5×10^9 
+[pers. 
+forsink.]
+Forsinkelser 
+kollektivtransport 
+generelt
+338 [time]
+Infrastruktur
+
+52 Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 
+10. Referencer 
+• Abadie, L. M., Galarraga, I., Markandya, A., og Sainz De Murieta, E. (2019). 
+Risk measures and the distribution of damage curves for 600 European coastal 
+cities. Environmental Research Letters, 14(6). 064021. 
+https://doi.org/10.1088/1748-9326/ab185c 
+• Arnbjerg-Nielsen, K., Leonardsen, L., & Madsen, H. (2015). Evaluating 
+adaptation options for urban flooding based on new high-end emission scenario 
+regional climate model simulations. Climate Research, 64(1). 73–84. 
+https://doi.org/10.3354/cr01299 
+• COWI (2010). Muligheder og konsekvenser af klimasikring af København mod 
+oversvømmelser. [Udarbejdet for Københavns Kommune, Teknik og 
+Miljøforvaltning] 
+• COWI (2014). Enhedsomkostninger ved oversvømmelsesskader fra skybryd 
+[Udarbjedet for Forsikring & Pension] 
+• COWI (2016). Designgrundlag for beskyttelse mod oversvømmelse af 
+København. [udarbejdet til Københavns Kommune] 
+• COWI (2017a). Byernes udfordringer med havvandstigning og stormflod. 
+[udarbejdet til Realdania] 
+• COWI (2017b). Opdateret overslag for sikring af København mod stormflod. 
+[udarbejdet til Københavns Kommune] 
+• COWI (2018). Stormflod og havvandsstigninger. [Udarbejdet til 
+regnvandsforum] 
+• COWI (2019). Udredning om stormflod og havvandsstigning i regi af 
+regnvandsforum - stormflodssikring. [Udarbejdet til Regnvandsforum, Af Jeppe, 
+S., Jensen, A. og Schmidt Nørgaard, A. H. K] 
+• COWI (2020). Stormflod og havvandsstigning - strategi for klimatilpasning af 
+små havne. [udarbejdet til Region hovedstaden og regnvandsforum, Af Jensen, 
+J. P. og Overgaard, P. H.] 
+• Danmarks Miljøportal (n.d.), KAMP - et Klimatilpasning- og 
+Arealanvendelsesværktøj til Miljø- og Planmedarbejdere. Tilgængeligt på 
+https://kamp.miljoeportal.dk/ (besøgt 20/10/2021) 
+• DMI (2020). Methods used in the Danish Climate Atlas, Danmarks 
+Meteorologiske Institut (DMI). [Af Thejl, P., Boberg, F., Schmith, T., 
+Christiansen, B., Christensen, O.B., Madsen, M. S., Su, J., Andree, E., Olsen, 
+S., Langen, P. L., Madsen, K. S. og Pedersen, R. A.) 
+• DTU (2020). Omkostninger ved kystoversvømmelse i Jyllinge Nordmark [af 
+Halsnæs, K., Møller, P. L., Bay, L., Svenningsen, L. S., Dømsgaards, M. L., 
+Larsen, M. A. D.] 
+
+Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 53 
+• DTU (2021a). Data-driven climate services - Deliverable 2 on National and local 
+scale flood modelling as a basis for damage cost assessments. [Udarbejdet til 
+DMI af Larsen, M. A. D., Karamitilios, G., Dømgaard, M. L. og Halsnæs, K.]  
+• DTU (2021b), Modeldokumentation og -vejledning for DTU SkadesØkonomi 
+model [Af Halsnæs, K., Dømgaards, M. L., Larsen, M. A. D., Kaspersen, P. S.] 
+• EEA (2016). Climate change, impacts and vulnerability in Europe 2016 - An 
+indicator based report. European Environmental Agency (EEA) 
+• EEA (2017). Climate change adaption and disaster risk reduction in Europe - 
+Enhancing coherence of the knowledge base, policies and practices, European 
+Environmental Agency (EEA). [Af Kurnik, B., Castellari S., Jol, A., Mysaik, J., 
+Schwarze, R., Groeve, T. D., Swart, R., Semenza, J. C., Kendrovski, V., 
+Jeuken, A., Wolters, H. Pringle, P., et al,.]  
+• Erhvervsministeriet (2017). De fremtidige stormflods-, oversvømmelses- og 
+stormfaldsordninger.  
+• EU Kommisionen (2021). 'Economic impacts of climate change and mitigation' i 
+Quarterly Report on the Euro Area, 20(1). pp. 23-37 [Af Dimitrijevics, A. og 
+Mourre, G.] 
+• EU (2020). Adaptive asset management for flood protectionm - FAIR end 
+report,  
+• Foreningen af Rådgivende Ingeniører (2020). State of the Nation 2020 - Kloak 
+og Spildevand. 
+• GEUS (2020). HIP - Sammenfatningsrapport vedr. modelleverancer til 
+Hydrologisk Informations- og Prognosesystem, De Nationale Geologiske 
+Undersøgelser for Danmark og Grønland (GEUS) 
+• Hallegatte, S., Hourcade, J. C., & Ambrosi, P. (2007). Using climate analogues 
+for assessing climate change economic impacts in urban areas. Climatic 
+Change, 82(1-2). 47–60. https://doi.org/10.1007/s10584-006-9161-z 
+• Hallegatte, S., Ranger, N., Mestre, O., Dumas, P., Corfee-Morlot, J., Herweijer, 
+C., & Wood, R. M. (2011). Assessing climate change impacts, sea level rise 
+and storm surge risk in port cities: A case study on Copenhagen. Climatic 
+Change, 104(1). 113–137. https://doi.org/10.1007/s10584-010-9978-3 
+• Hallegatte, S., Green, C., Nicholls, R. J., & Corfee-Morlot, J. (2013). Future 
+flood losses in major coastal cities. Nature climate change, 3(9). 802-806. 
+• Højberg, A. L., Troldborg, L., Stisen, S., Christensen, B. B. S., & Henriksen, H. 
+J. (2013). Stakeholder driven update and improvement of a national water 
+resources model. Environmental Modelling and Software, 40, 202–213. 
+https://doi.org/10.1016/j.envsoft.2012.09.010 
+• IMF (2020). Fiscal Monitor: Policies for the Recovery. International Monetary 
+Fund (IMF) 
+
+54 Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 
+• Incentive (2020). Samfundsøkonomiske kosekvenser af stormflodssikring af 
+Kalveboderne. [udarbejdet til Københavds kommune og Hvidovre Kommune, Af 
+Kolstrup, K., Espensen, P. F. og Franch, T.] 
+• IPCC (2007). Climate Change 2007: Synthesis Report. Contribution of Working 
+Groups I, II and III to the Fourth Assessment Report of the Intergovernmental 
+Panel on Climate Change (IPCC) [Af Pachauri, R.K and Reisinger, A. (eds.)]. 
+IPCC, Geneva, Switzerland, 104 pp. 
+• IPCC (2014). Climate Change 2014: Synthesis Report. Contribution of Working 
+Groups I, II and III to the Fifth Assessment Report of the Intergovernmental 
+Panel on Climate Change [Af R.K. Pachauri and L.A. Meyer (eds.)]. IPCC, 
+Geneva, Switzerland, 151 pp. 
+• IPCC (2021). Climate Change 2021: The Physical Science Basis. Contribution 
+of Working Group I to the Sixth Assessment Report. Intergovernmental Panel 
+on Climate Change (IPCC) [Af Masson-Delmotte, V., P. Zhai, A. Pirani, S.L. 
+Connors, C. Péan, S. Berger, N. Caud, Y. Chen, L. Goldfarb, M.I. Gomis, M. 
+Huang, K. Leitzell, E. Lonnoy, J.B.R. Matthews, T.K. Maycock, T. Waterfield, O. 
+Yelekçi, R. Yu, and B. Zhou (eds.)]. Cambridge University Press. In Press. 
+• Jebens, M., Sorensen, C., & Piontkowitz, T. (2016). Danish risk management 
+plans of the EU Floods Directive. I 'E3S Web of Conferences (7)' . EDP 
+Sciences. 
+• KDI (2016). Omkostningseffektiv kystbeskyttelse - Definition og beregning af 
+omkostningseffektiv kystbeskyttelse, Kystdirektoratet (KDI) 
+• KDI (2018). Metode til national risikovurdering af oversvømmelse fra hav og 
+vandløb samt ajourføring af risikoområder, Kystdirektoratet (KDI). [Af Andersen, 
+K. J., Piontkowitz, T., Jebsen, M., Thomsen, M., Henriksen, L., S., Sørensen, 
+C.S. og Ditlevsen, C.] 
+• KDI (2021). Metoderapport for kystplanlægger. Kystdirektoratet (KDI). [Af 
+Bonde, L., Viocan, U. R., Ditlevsen, C., Geertsen, K.-S., Grimstrup, C., 
+Halvorsen, N. S., Hansen, M. U., Karlsson, H. V., Kloster, B. B., Knudsen, N. 
+R., Kørchen, R., Merione, M., Nielsen, P. S., Sørensen, C. S., Thomassen, J., 
+Toxvig, I. G., Jensen, M. G.] 
+• KL og DANVA (2019). National indsats imod stigende overfladenært 
+grundvand. [Af Kaalund, L. og Bjerregaard, N. V.) 
+• KL (2020). Klimatilpasning for fremtiden - vand fra alle sider, Kommunernes 
+Landsforening (KL) 
+• Klimatilpasning.dk (2013): 
+https://www.klimatilpasning.dk/aktuelt/nyheder/2013/juli/nye-tal-for-
+skybrudsskader/ (17/01/2021) 
+• KU IFRO (2019). IFRO Rapport - Review af litteratur om økonomiske effekter af 
+havvandsstigninger for byer. Københavns Universitet; Institut for Fødevare- og 
+Ressourceøkonomi (KU IFRO). [Af Schou, J. S., Lautrup, M. og Callesen, G. 
+E.) 
+
+Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 55 
+• KU IFRO (2021). Tættere på klimatilpasningens samlede effekter [Af Lautrup, 
+M., Matthiesen, L. L., Jacobsen, J. B., Panduro, T. E.] 
+• Københavns Kommune (2012). Skybrudsplan.  
+• Københavns Kommune (2017). Stormflodsplan.  
+• Københavns Kommune (2011). Københavns klimatilpasningsplan. 
+• Larsen, M. A. D., Refsgaard, J. C., Jensen, K. H., Butts, M. B., Stisen, S., & 
+Mollerup, M. (2016). Calibration of a distributed hydrology and land surface 
+model using energy flux measurements. Agricultural and Forest Meteorology, 
+217, 74–88. https://doi.org/10.1016/j.agrformet.2015.11.012 
+• Larsen, M. A. D. (2020). Beslutningsgrundlag for sikring mod stormflod skal 
+være rationelt. Ingeniøren, Watertech 3, p. 54-67. 
+• Nationalbanken (2021). Flood Risk Discounts in the Danish Housing Market. 
+Economic Memo- October 2021 - No 7 Mirobe, Georogio and Poeschl, 
+Johannes 
+• Mijø- og fødevareministeriet (2016). Kystanalyse. [Af kyst- og 
+fødevareministeriet, erhvervs- og vækstministeriet, social- og 
+indenrigsministeriet og energi-, forsynings- og klimaministeriet] 
+• Miljøstyrelsen (2017). Evaluering af kommunal klimatilpasning. 
+• Miljøstyrelsen (2020). PLASK- klimatilpasningsværktøj til dialog og beregning. 
+• Miljøministeriet (2021). Afrapportering fra fast track-projekt om højtstående 
+grundvand i byområder.  
+• Olesen, L., Löwe, R and Arnbjerg-Nielsen, K. (2017). Flood Damage 
+Assessment: Literature review and recommended procedure. [Udarbejdet til 
+Cooperative Research Centre for Water Sensitive Cities, Melbourne, 
+Australien.]" 
+• Prahl, B. F., Boettle, M., Costa, L., Kropp, J. P., & Rybski, D. (2018). Damage 
+and protection cost curves for coastal floods within the 600 largest European 
+cities. Scientific data, 5(1). 1-18. 
+• Rambøll (2015). Udredning om tilpasning til havvandsstigninger. [Udarbejdet til 
+Realdania af Nielsen, H. S., Hansen, J. A., Juhl, M. B. M, Jensen, L.H., 
+Schellenkens, E., Ballard, D., Cleveringa, J., Thomsen, H., Leonardsen. og J., 
+Munk, T. S.,] 
+• Rambøll (2018). Baggrundsrapport - Analyse af forsyningssikkerhed på 
+vandområdet. [Udarbejdet til miljøstyrelsen] 
+• Realise og Kuono (2020). Samfundsøkonomiske cost-benefit-analyser for 
+løsninger til håndtering af terrænnært grundvand. [Udarbejdet til DANVA og KL] 
+• Refsgaard, J. C., Sonnenborg, T., Butts, M., Christensen, J., Christensen, S., 
+Drews, M., … Vilhelmsen, T. N. (2016). Climate change impacts on 
+groundwater hydrology – where are the main uncertainties and can they be 
+
+56 Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 
+reduced? Hydrological Sciences Journal, 61(13), 2312–2324. 
+https://doi.org/10.1080/02626667.2015.1131899 
+• Regeringen (2019). Danmarks hovedstad - initiativer til styrkelsen af 
+hovedstadsområdet. 
+• Region Midtjylland og SCALGO (2020). Analyse: Risiko for oversvømmelse af 
+ejendomme [udarbejdet til Danske Regioner] 
+• SEGES (2021). Vand- og spildevandsanlæg i landbrugsjord 2021 
+• Smith innovation (2012). Markedets vej - Analyse af markedspotentialet for 
+klimatilpasning. [udarbejdet til Realdania] 
+• Smith innovation (2020). Sammen om vandet - stormflodssikring af 
+Kalveboderne. [Udarbejdet Københavns Kommune og Hvidovre Kommune] 
+• Spildevandskomiteen (2017), Skrift 31 - Metoder til bestemmelse af 
+serviceniveau for regnvand på terræn, Dansk Igeniørforening, Danmark. 
+• Springmann, M. (2012). The costs of climate-change adaptation in Europe: A 
+review. 
+• Su, J., Andrée, E., Nielsen, J. W., Olsen, S. M., & Madsen, K. S. (2021). Sea 
+Level Projections From IPCC Special Report on the Ocean and Cryosphere 
+Call for a New Climate Adaptation Strategy in the Skagerrak-Kattegat Seas. 
+Frontiers in Marine Science, 8, 629470. 
+https://doi.org/10.3389/fmars.2021.629470  
+• Visitdenmark, 2018. Turisternes døgnforbrug. 
+• VisitDenmark og Danmarks Statistik, 2021. Overnatninger efter kapacitet, 
+gæstens nationalitet, overnatningsform, periode, område og tid [Online]. URL 
+https://visitdenmark.statistikbank.dk/VDK 
+• Vousdoukas, M. I., Voukouvalas, E., Mentaschi, L., Dottori, F., Giardino, A., 
+Bouziotas, D., & Feyen, L. (2016). Developments in large-scale coastal flood 
+hazard mapping. Natural Hazards and Earth System Sciences, 16(8). 1841-
+1853. 
+• Vousdoukas, M. I., Mentaschi, L., Hinkel, J., Ward, P. J., Mongelli, I., Ciscar, J. 
+C., & Feyen, L. (2020). Economic motivation for raising coastal flood defenses 
+in Europe. Nature Communications, 11(1). 2119. 
+https://doi.org/10.1038/s41467-020-15665-3

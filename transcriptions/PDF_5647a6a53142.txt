@@ -1,0 +1,1387 @@
+=== DNNK PDF Dokument ===
+Titel: her >
+Kategori: Rapporter_s5
+Kilde: https://usercontent.one/wp/www.dnnk.dk/wp-content/uploads/2020/07/monitering-af-first-flush-og-hverdagsregn.pdf
+Indekseret: 2026-09-21T18:37:07.422962
+
+==================================================
+
+Vand i Byer og Københavns Kommune 
+Rapport 
+April 2017 
+ 
+ 
+Bobleprojekt - First flush og 
+hverdagsregn 
+Moniteringsfaciliteter og måleprogram for testanlæg 
+med filtermuld 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+
+  
+ monitering af first flush og hverdagsregn / BOP/2017-04-03 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Denne rapport er udarbejdet under DHI’s ledelsessystem, som er certificeret af Bureau Veritas  
+for overensstemmelse med ISO 9001 for kvalitetsledelse  
+ 
+ 
+ 
+Godkendt af 
+ 
+07-04-2017
+X
+Approved by
+Signed by: Lars Neubert
+ 
+ 
+ 
+ 
+ 
+
+
+  
+ 
+DHI • Agern Allé 5  •   • 2970  Hørsholm  
+Telefon: +45 4516 9200  • Telefax: +45 4516 9292  • dhi@dhigroup.com  • www.dhigroup.com  
+ 
+Bobleprojekt - First flush og 
+hverdagsregn 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Udarbejdet for Vand i Byer og Københavns Kommune 
+Repræsenteret ved Yngve Juul Voss  
+Monitering ved hjælp af passive prøvetagere 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Projektleder Bodil Mose Pedersen 
+Kvalitetsansvarlig Ulf Nielsen 
+ 
+Projektnummer 11820697 
+Godkendelsesdato 2017.04.03 
+Revision Endelig rapport 
+Klassifikation Åben 
+ 
+  
+
+
+  
+ monitering af first flush og hverdagsregn / BOP / 2017-04-03 
+ 
+ 
+ 
+ 
+
+  
+ i 
+ 
+INDHOLDSFORTEGNELSE 
+ 
+1 Sammenfatning ................................ ................................ ................................ ........... 3 
+2 Indledning og formål ................................ ................................ ................................ ... 5 
+2.1 Baggrund ........................................................................................................................................ 5 
+2.2 Formål ............................................................................................................................................ 6 
+2.3 Uplandsgade .................................................................................................................................. 6 
+2.4 Aktivitetsplan .................................................................................................................................. 7 
+3 Udstyr til regnvandsmonitering og indretning af målepunkter ................................  9 
+3.1 Overordnet beskrivelse af vejgrøft med filtermuld ......................................................................... 9 
+3.2 Målesituationer og –metoder ....................................................................................................... 10 
+3.2.1 Hverdagsregn ............................................................................................................................... 10 
+3.2.2 First flush ...................................................................................................................................... 11 
+3.3 Flowmåler ..................................................................................................................................... 12 
+3.4 Automatisk prøveudtager ............................................................................................................. 13 
+3.5 Turbiditetsmålere ......................................................................................................................... 13 
+3.6 Ledningsevnemåler ...................................................................................................................... 14 
+3.7 Nedbørsmåler .............................................................................................................................. 14 
+3.8 Vandstandsmåler ......................................................................................................................... 14 
+3.9 Datahåndtering............................................................................................................................. 15 
+3.10 Passive prøvetagere .................................................................................................................... 16 
+3.11 Anbefalinger - måleudstyr ............................................................................................................ 19 
+4 Moniteringsprogram ................................ ................................ ................................ . 21 
+4.1 Analyseparametre ........................................................................................................................ 21 
+4.1.1 Karakterisering af filterjord ........................................................................................................... 23 
+4.2 Hverdagsregn - automatisk prøvetagning .................................................................................... 23 
+4.3 Hverdagsregn – passive prøvetagere .......................................................................................... 24 
+4.4 First flush – automatisk fraktioneret prøvetagning ....................................................................... 24 
+4.5 First flush – online-målinger ......................................................................................................... 25 
+4.6 Online-målinger, dataopsamling og dataoverførsel ..................................................................... 25 
+4.7 Modellering ................................................................................................................................... 25 
+4.8 Anbefalinger – moniteringsprogram ............................................................................................. 26 
+5 Referencer ................................ ................................ ................................ ................. 29 
+ 
+ 
+ 
+FIGURER 
+ 
+Figur 2-1:  Den røde indramning viser strækningen på Uplandsgade, hvorfra vejvand fra den ene 
+halvdel af vejen skal ledes til regnvandssystemet og til grøften med filterjord.  ............................. 6 
+Figur 3-1:  Principskitse for opsamling af vejvand og tilledning til grøft med filtermuld 3 samt 
+afledning fra grøft med filtermuld 1, 2 og 3. ................................................................................... 9 
+Figur 3-2:  Systemoversigt for datahåndtering. ............................................................................................. 15 
+Figur 3-3:  SorbiCell med diameter 11 mm, længde 75 mm, volumen 3 ml. Materiale: polypropylen.  ......... 16 
+Figur 3-4:  Placering af SorbiCell i prøvebeholderen (WW50) ...................................................................... 17 
+Figur 3-5:  Placering af WW50 (holder til SorbiCell) på udløbssiden i regnvandsbrønd. Når vandet i 
+forbindelse med nedbør stiger op i brønden, vil regnvandet blive presset igennem 
+
+  
+ii Monitering af first flush og hverdagsregn / Initials / 2017-04-03 
+SorbiCellerne, som sidder i WW50’erne. Opsætningen på billedet indeholder fire 
+forskellige typer af SorbiCeller til monitering af henholdsvis næringssalte, tungmetaller, 
+PAH og phthalater........................................................................................................................ 19 
+ 
+ 
+ 
+TABELLER 
+ 
+Tabel 3.1:  Gentagelsesperioder for 5-100 års regn. Ved dimensionering af regnvandssystemer 
+anvendes ofte 10-års hændelser som dimensionsgivende. ........................................................ 11 
+Tabel 3.2 Gennemsnitlige antal døgn pr. år med mere end 10 mm nedbør/15/. ........................................ 11 
+Tabel 3.3:  Oversigt over fordele og ulemper ved henholdsvis at anvende passive prøvetagere og 
+automatiske prøvetagere til regnvandsprøvetagning samt overslagspriser for ans kaffelse 
+af de to typer udstyr. .................................................................................................................... 18 
+Tabel 3.4:  Forslag til moniteringsudstyr. ....................................................................................................... 20 
+Tabel 4.1:  Forslag til analyseparametre ved automatisk og passiv prøvetagning i forbindelse med 
+monitering af hverdagsregn og first flush. Desuden er vist forslag til måleperioder. Online -
+målinger kan med fordel køre kontinuert.  ................................................................................... 22 
+Tabel 4.2:  Forslag til to niveauer af moniteringsprogram. Basisprogrammet indeholder de mest 
+basale parametre, mens det udvidede måleprogram indeholder flere basale fysis-kemiske 
+parametre og miljøfremmede stoffer............................................................................................ 27 
+ 
+ 
+BILAG 
+BILAG  A – Moniteringsudstyr 
+Leverandører af udstyr 
+ 
+ 
+
+Sammenfatning  
+ 3 
+1 Sammenfatning 
+Projektet ”Monitering af first flush og hverdagsregn i testanlæg med filtermuld” er finansieret af 
+Innovationsnetværket Vand i Byer og Københavns Kommune. Projektet er et såkaldt 
+bobleprojekt, hvor en af betingelserne er, at det skal have en klimavinkel. 
+Københavns Kommune og HOFOR vil i forbindelse med skybrudssikring og afkobling af vejvand 
+fra Uplandsgade på Amager etablere en grøft langs med vejen, som kan modtage vejvand. 
+Vejgrøften opbygges som et testanlæg med tre sektioner med forskellige typer filtermuld, der 
+kan tilbageholde forurenende stoffer. I tilknytning til testanlægget etableres 
+moniteringsfaciliteter, der gør det muligt at undersøge forureningsgraden af first flush og teste 
+forskellige filterjordes renseeffekt. 
+Bobleprojektet omhandler planlægning og design af målefaciliteter og dataopsamling samt 
+opstilling af moniteringsprogrammer. Dimensionering, design af anlægget med filtermuld og valg 
+af filtermuld ligger uden for rammerne af dette projekt. Når anlægsarbejdet i Uplandsgade er 
+færdigt og moniteringsfaciliteterne etableret, kan indkøring og afprøvning gå i gang. 
+Resultaterne fra Uplandsgade skal indgå i beslutningsgrundlaget for håndtering af vejvand fra 
+veje med samme indretning og trafikbelastning (godt 10.000 ÅDT). På nuværende tidspunkt er 
+det stærkt begrænset, hvor mange data der eksisterer om forurening fra veje med en daglig 
+belastning på mere end 10.000 køretøjer, det vil sige veje med en høg forureningsgrad. 
+Grundlæggende er der to typer af nedbørshændelser, der skal kunne moniteres i indlø b og 
+udløb fra vejgrøfterne: first flush og hverdagsregn. Forslagene til måleudstyr er beskrevet med 
+henblik på at opnå repræsentativ prøvetagning og valid karakterisering af regnvand fra veje med 
+høj trafikbelastning samt måling af renseeffektiviteten for forskellige typer filterjord. 
+Karakterisering af kemiske og fysiske parametre skal ske ved traditionelle kemiske analyser i 
+laboratoriet eller ved online sensorer, hvor der er etableret dataopsamlings - og 
+datahåndteringssystem for realtidsmålinger fra flowmålere, prøveudtagere, turbiditets-, 
+ledningsevne-, regn- og vandstandsmålere. 
+Forslagene til moniteringsprogrammer indeholder anbefalinger til analyseparametre ved 
+monitering af first flush og under hverdagsregn. Både traditionel automatisk flowproportional 
+prøvetagning og monitering ved hjælp af passive prøvetagere er beskrevet med hensyn til antal 
+af prøver, måleperioder, analyseparametre, onlinemålinger m.m.  
+Moniteringsprogrammerne er designet med henblik på, at de kan anvendes til kalibrering af 
+modeller til grønne løsninger i MIKE URBAN, hvor man kan modellere specifikke grønne 
+løsninger som f.eks. vejbede, vejgrøfter, beplantede render, regnbede m.m. , og modellerne 
+inkluderer - ud over hydraulik - også stoffjernelse. 
+Projektets primære målgrupper er planlæggere af vejvandshåndtering, leverandører af LAR-
+teknologi og moniteringsteknologi samt centrale og lokale miljømyndigheder, 
+forsyningsselskaber, rådgivere samt beslutningstagere med tilknytning til udvikling af 
+byområder. 
+  
+
+  
+4 Monitering af first flush og hverdagsregn / BOP / 2017-04-03 
+ 
+ 
+
+Indledning og formål  
+ 5 
+2 Indledning og formål 
+2.1 Baggrund 
+Dette projekt er et såkaldt bobleprojekt delvist finansieret af innovationsnetværket for 
+klimatilpasning kaldet ”Vand i Byer”. Københavns Kommune er medlem af innovationsnetværket 
+og finansierer ligeledes en del af projektet: I maj 2016 ansøgte Københavns Kommune, 
+repræsenteret ved Yngve Juul Voss, ”Vand i Byer” om midler til gennemførelse af projektet, og i 
+august 2016 blev projektet bevilliget. 
+I forbindelse med skybrudssikring og afkobling af vejvand fra Uplandsgade på Amager ønsker 
+Københavns Kommune i samarbejde med HOFOR at etablere en grøft langs vejen til at 
+modtage vejvandet. I grøften placeres tre sektioner med forskellige typer filtermul d, som kan 
+tilbageholde forurenende stoffer. Der skal etableres moniteringsfaciliteter, som gør det muligt at 
+måle regnvandskvaliteten under first flush og under hverdagsregn og teste forskellige typer 
+filterjords renseeffekt. Dimensionering, design af anlægget med filtermuld og valg af filtermuld 
+ligger uden for rammerne af dette projekt. 
+Aktiviteterne omkring moniteringsanlæg med filterjord er generiske i forhold til andre anlæg til 
+regnvandsrensning, og derfor kan projektets anbefalinger vedrørende moniteringsudstyr, 
+dataopsamlingsfaciliteter, opstilling af måleprogram m.m. anvendes, hvor man ønsker 
+opsamling af data og større viden om regnvandskvalitet og renseeffektivitet. Data kan 
+efterfølgende indgå i modellering af regnvandsafstrømning.  
+Når kommunerne etablerer LAR-løsninger til regnvandshåndtering, er der ofte ikke tænkt på 
+etablering af passende moniteringsfaciliteter til prøvetagning, flowmåling, onlinemåler og 
+dataopsamling, som kan give større viden om hydraulik, vandkvalitet, reseeffektivitet o g 
+styringsmuligheder (vandbremse). Dette projekt vil hjælpe kommuner og forsyningsselskaber i 
+planlægningen af moniteringsfaciliteter og tydeliggøre, hvilke forhold der skal med i 
+overvejelserne i forhold til måleparametre, nedbørs- og afstrømningsforhold m.m. 
+Forskellen mellem dette projekt og projektet om ”Udvikling og dokumentation af 
+nedsivningsløsninger med filterjord” /13/ er, at der her er fokuseret på: 
+• Monitering af first flush 
+• Mulighed for sammenligning af flere typer filterjord 
+• Monitering af regnvand fra en stærkt trafikeret vej 
+• Sikring af, at de nødvendige hydrauliske data er til rådighed til modellering af vejgrøfter i 
+MIKE URBAN 
+• Udbredt anvendelse af online-måleudstyr, der giver mulighed for hurtig dataoverførsel og 
+fjernovervågning 
+Ved starten på projektet i november 2016 blev der nedsat en arbejdsgruppe for projektet med 
+følgende medlemmer: 
+• Yngve Juul Voss, Københavns Kommune 
+• Mads Popowitz, HOFOR 
+• Bodil Mose Pedersen, DHI 
+ 
+  
+
+  
+6 Monitering af first flush og hverdagsregn / BOP / 2017-04-03 
+2.2 Formål 
+Formålet med projektet i forhold til vejgrøfter med filterjord er: 
+• At beskrive, hvilke faciliteter der skal etableres for at kunne monitere og dokumentere 
+renseeffekten af filtermuld i forhold til regnvandsafstrømning fra en vej med en 
+trafikbelastning på mere end 10.000 køretøjer i døgnet 
+• At opstille forslag til et moniteringsprogram, hvor data efterfølgende kan anvendes til 
+kalibrering af modellering for vejvandsafledning og –rensning 
+• Efter etablering af moniteringsfaciliteter at opnå større viden om koncentrationer af 
+forurenende stoffer i vejvand under hverdagsregn og first flush 
+• At beskrivelserne af udstyr og måleprogrammer er generiske, så den indsamlede viden kan 
+bruges ved indkøb af moniteringsudstyr og planlægning af måleprogrammer til andre typer 
+anlæg til regnvandsrensning 
+Prøvetagningsfaciliteter skal tilpasses, så der bliver mulighed for at udtage prøver og måle flow 
+under hverdagsregn. Desuden skal man kunne karakterisere regnvandsafstrømningen fra first 
+flush med henblik på at vurdere, hvor lang tid der går fra starten af en nedbørshændelse, og 
+indtil koncentrationen af forurenende stoffer i vejvandet er blevet så lav, at direkte udledning kan 
+tillades. 
+Denne rapport kan eventuelt indgå som baggrundsmateriale ved et udbud for etablering af 
+vejgrøften ved Uplandsgade og tilhørende målefaciliteter. Når anlægsarbejdet i Uplandsgade er 
+færdigt (formentlig) i 2018, vil moniteringen kunne gå i gang. Resultaterne fra Uplandsgade skal 
+indgå i beslutningsgrundlaget for håndtering af vejvand fra veje med samme indretning og 
+trafikbelastning som Uplandsgade. En trafiktælling gennemført i maj 2014 viste, at der i 
+gennemsnit passerer 11.400 køretøjer pr. dag (ÅDT) ved Uplandsgade 74 /11/. 
+2.3 Uplandsgade 
+I hele Uplandsgades længde - ca. 1.300 m - skal vejvandet fra den ene halvdel af vejen afkobles 
+fra spildevandssystemet og ledes ud i grøften, der placeres langs med vejen ud mod 
+Kløvermarken. Et luftfoto af Uplandsgade er vist i Figur 2-1. I grøften placeres filtermuld, som 
+skal tilbageholde forurenende stoffer, inden vandet siver ned til et drænrør placeret under 
+filtermulden. For enden af Prags Boulevard munder drænrøret ud i kanalen, der fører ud ti l 
+havnen og har udløb ved Prøvestenen. 
+ 
+Figur 2-1:  Den røde indramning viser strækningen på Uplandsgade, hvorfra vejvand fra den ene 
+halvdel af vejen skal ledes til regnvandssystemet og til grøften med filterjord. 
+ 
+
+
+Indledning og formål  
+ 7 
+2.4 Aktivitetsplan 
+Dette projekt er første fase i den række af aktiviteter, som skal føre frem til drift og overvågning 
+af det anlæg med filtermuld, der skal etableres i Uplandsgade til rensning, nedsivning og på sigt 
+udledning af vejvand. Det samlede projekt kan inddeles i følgende fire aktiviteter: 
+1. Planlægning og design af målefaciliteter og dataopsamling 
+2. Opbygning, installation og implementering  
+3. Indkøring, afprøvning og kalibrering 
+4. Drift og gennemførelse af måleprogram 
+Fase 1 vil inkludere 
+• Fastlæggelse af måleparametre, måle- og prøvetagningspunkter 
+• Forslag til prøvetagningsudstyr, flowmålerudstyr, online-målere og nedbørsmåler 
+• Forslag til overordnet datakommunikation og IT 
+• Moniteringsplan og kalibreringsarbejde 
+ 
+  
+
+  
+8 Monitering af first flush og hverdagsregn / BOP / 2017-04-03 
+
+
+Udstyr til regnvandsmonitering og indretning af målepunkter  
+ 9 
+3 Udstyr til regnvandsmonitering og indretning af målepunkter 
+3.1 Overordnet beskrivelse af vejgrøft med filtermuld 
+Som nævnt i afs. 2.3 forventes grøften langs Uplandsgade at blive inddelt i tre sektioner med 
+hver sin type filtermuld. Figur 3-1 viser en principskitse af anlægget med tilhørende 
+sandfangsbrønde - én indløbsbrønd og tre udløbsbrønde. I hver brønd kan der opsættes 
+sensorer til måling af flow, turbiditet og ledningsevne. Alternativt kan der etableres rørføringer 
+fra hver af de tre udløbsledninger og fra sandfangsbrønden før Filter 3 til et målerskab. I 
+målerskabet placeres en pumpe og mulighed for at skifte mellem de tre udløb. På den måde vil 
+der kun være behov for et sæt sensorer til måling af ledningsevne og turbiditet i udløbsvand fra 
+de tre grøfter med filtermuld.  
+For at opnå et jævnt strømningsforløb omkring flowsensoren vurderes det nødvendigt at 
+etablere en sandfangsbrønd efter hver af de tre grøfter. 
+ 
+Figur 3-1:  Principskitse for opsamling af vejvand og tilledning til grøft med filtermuld 3 samt afledning 
+fra grøft med filtermuld 1, 2 og 3. 
+På Figur 3-1 er kun vist aquadræn ud for Filter 3, idet der overvejes andre løsninger for 
+afvandingen og opsamling af regnvandet på vejstrækningen langs Filter 2 og 3 (ja n. 2017). 
+Udløbene fra alle tre filtre samles i én brønd, hvorefter regnvandet ledes til Øresund. I det 
+aktuelle projekt vil det rensede regnvand først blive udledt, når det er dokumenteret, at 
+kvaliteten opfylder kravene til regnvandsudledning til Øresund. Indtil da vil det rensede regnvand 
+blive ledt til spildevandskloakken. 
+Grøft m. filtermuld 1 
+ Grøft m. filtermuld 3 
+Grøft m. filtermuld 2 
+Aqua-dræn 
+Vand fra vejbane 
+og evt. cykelsti 
+Sandfangsbrønd 
+ Målerskab 
+Sandfangsbrønde 
+
+  
+10 Monitering af first flush og hverdagsregn / BOP / 2017-04-03 
+I rapporten fra ”Vand i Byer” om Dokumentation af Filterjord /13/ er der en beskrivelse af 
+opbygningen af et nedsivningsanlæg med filterjord. Anlægget blev etableret i forbindelse med 
+en P-plads. Erfaringer fra drift og monitering af dette anlæg mundede ud i en række 
+anbefalinger, der bl.a. vedrørte sammensætningen af filterjorden, som bør have et lavt indhold 
+af fosfor. Desuden bør man sikre sig, at grundvandsstanden er minimum 2 m under terræn. 
+Under anlæg af filterjordsanlægget skal man undgå kompaktering af jorden, hvilket ellers vil 
+kunne nedsætte nedsivningsevnen. 
+I nærheden af udløbsbrøndene etableres et målerskab, som forsynes med lys og el-tavle (230 
+V). I målerskabet placeres to automatiske prøveudtagere til udtagning af prøver fra indløb til 
+Filter 3 samt fra udløb fra Filter 1, 2 eller 3. Der etableres rørføringer således, at der udføres 
+online-målinger på indløbet til Filter 3, og tilsvarende skal der skiftevis kunne gennemføres 
+online-målinger fra de tre udløb. Desuden etableres udstyr til dataopsamling, 
+datakommunikation m.m.  
+3.2 Målesituationer og –metoder 
+Grundlæggende er der to typer af nedbørshændelser, der skal kunne moniteres i indløb og 
+udløb fra vejgrøfterne: 
+• Hverdagsregn  
+• First flush 
+I afs. 3.2.2 og 3.2.1 er de to typer nedbørshændelser beskrevet, og i de efterfølgende afsnit (3.3 
+- 3.10) er forslag til prøvetagnings- og måleudstyr præsenteret. 
+3.2.1 Hverdagsregn  
+I projektet om ”Rensning af hverdagsregn” /6/ blev hverdagsregn defineret som regnhændelser, 
+der ikke er skybrud. Den meteorologiske definition på skybrud er >15 mm nedbør på 30 min. 
+Også i dette projekt er hverdagsregn alle nedbørstyper, der ikke kan karakteriseres som 
+skybrud. Ved dimensionering af afløbssystemer går man typisk efter, at de skal have en 
+kapacitet svarende til afstrømning ved en 10-års regn (10 års gentagelsesperiode). 
+Sammenhængen mellem varighed, gentagelsesperiode og nedbørsmængden målt i mm er vist i 
+Tabel 3.1. 
+Fra nedbørsmålinger forskellige steder i Danmark er der samlet en såkaldt lands -regnrække for 
+1933-62. Disse nedbørsmålinger viser, at der i gennemsnit én gang hvert 10. år kan forventes 
+en nedbørshændelse over 15 min. med en gennemsnitlig intensitet på 190 liter/(s ha) , og at der 
+én gang hvert 2. år kan forventes en nedbørshændelse over 10 min. med en gennemsnitlig 
+intensitet på 140 liter/(s ha). I et notat udarbejdet af VandCenter Syd i 2014 er den 
+dimensionsgivende regn for en 2-års hændelse foreslået ændret til 160 l/(s ha) for 10 min /14/. 
+Anbefalingerne vedrørende dimensionsgivende regn ændres i takt med udviklingen i 
+nedbørsmønsteret og den sikkerhed politikere og myndigheder ønsker i forhold till beskyttelse af 
+infrastruktur. 
+I forhold til at vurdere, hvilken hydraulisk kapacitet et anlæg til regnvandsrensning bør have, er 
+der tillige behov for at præcisere designkriterierne ud over regnintensiteter. Eksempelvis kan 
+man anvende 90 eller 80% af overfladeafstrømningen på årsbasis som den vandmængde, der 
+skal renses. Den resterende vandmængde by-passes renseanlægget. Alternativt kan det 
+eksempelvis accepteres, at anlægskapaciteten dimensioneres, så der tillades 10 gange bypass 
+pr. år. 
+ 
+
+Udstyr til regnvandsmonitering og indretning af målepunkter  
+ 11 
+Tabel 3.1:  Gentagelsesperioder for 5-100 års regn. Ved dimensionering af regnvandssystemer 
+anvendes ofte 10-års hændelser som dimensionsgivende. 
+ 5 år 10 år 20 år 50 år 100 år 
+Antal mm regn ved 
+varighed på 30 min. 17,7 21,8 26,1 33,0 39,0 
+Antal mm regn ved 
+varighed på 2 timer 27,2 33,2 39,6 49,7 58,5 
+Antal mm regn ved 
+varighed på 4 timer 32,9 39,9 47,3 59,0 59,0 
+ 
+Ved tidligere måleprogrammer for anlæg med filterjord /13/ viste det sig, at 10-15 mm regn var 
+optimalt i forhold til at opnå til strækkeligt flow i udløbet fra anlægget til at kunne udtage 
+repræsentative prøver. Det gennemsnitlige antal døgn, hvor der i Danmark falder mere end 10 
+mm nedbør, fremgår af Tabel 3.2. Data er baseret på nedbørsmålinger fra hele landet fra 1988 
+til 2002. Antal døgn pr. år med mere end 10 mm nedbør varierede mellem 13,7 og 25,7 døgn i 
+det nævnte årsinterval. På baggrund af klimamodeller forventes antallet af døgn pr. år med 
+mere end 10 mm at stige med 3 døgn frem mod 2050. 
+Tabel 3.2 Gennemsnitlige antal døgn pr. år med mere end 10 mm nedbør/15/. 
+Gennemsnitlige antal døgn med nedbør i Danmark 
+(Jylland/Øerne minus Bornholm 1988-2002) 
+Nedbør Antal døgn pr. år 
+Mindst 10 mm/døgn 19,87 
+Mindst 15 mm/døgn 8,36 
+Mindst 20 mm/døgn 3,58 
+Mindst 25 mm/døgn 1,69 
+Mindst 30 mm/døgn 0,82 
+Mindst 40 mm/døgn 0,23 
+3.2.2 First flush 
+Det er en almindelig antagelse, at den første regnvandsafstrømning i byområder har et forhøjet 
+indhold af forurenende stoffer, og dette fænomen kaldes first flush. Forurenende stoffer 
+akkumuleres i tørvejrsperioder, og stofkoncentrationen falder i takt med, at overfladerne 
+afvaskes. En almindelig anvendt regel for first flush er ”Half inch rule”, ifølge hvilken 90% af en 
+regnhændelses totale forurening vil være til stede i den første halve inch (12,7 mm) /1/, /2/. I 
+Danmark er der imidlertid ikke mange nedbørshændelser om året på mere end 12 mm , og bl.a 
+derfor er definitionen ikke anvendelig her. Der er dog også andre faktorer såsom overfladens 
+forureningsgrad, den forudgående tørvejrsperiode og afstrømningskoefficienten, der er 
+bestemmende for stofbelastningen under first flush.  
+Kendskabet til first flush har stor betydning i forhold til styringen af vandkvaliteten i det 
+vandområde, hvortil regnvandet udledes, men en præcis definition af first flush er mindre 
+væsentlig. Det er vigtigere at beskrive udviklingen i forureningen i løbet af forskellige typer 
+nedbørshændelser, f.eks. korte nedbørshændelser med høj regnintensitet, hvor der i den 
+forudgående periode har været en længere tørvejrsperiode, og eksempelvis længere 
+nedbørshændelser med lav regnintensitet, hvor den forudgående periode er karakteriseret ved 
+hyppige nedbørshændelser.  
+
+  
+12 Monitering af first flush og hverdagsregn / BOP / 2017-04-03 
+Udviklingen i forureningen vil tillige afhænge af forureningen af de overfladetyper, der er 
+repræsenteret i afstrømningsoplandet. I det aktuelle projekt sker afstrømningen fra 
+Uplandsgade, der har asfaltbelægning og en trafikbelastning på >10.000 køretøjer pr. døgn. 
+Når renseanlæg eller faciliteter til behandling og håndtering af regnvand skal dimensioneres, er 
+det vigtigt at kende vandmængden og mængden af forurenende stoffer, der skal behandles. 
+Hvis Uplandsgades længde tredeles, vil vejstrækningen, hvorfra regnvandet afstrømmer, være 
+ca. 430 m. Vejarealet, inklusive cykelsti, bliver herefter ca. 2.600 m2. Hvis der regnes med et 
+gentagelsesinterval på 5 år for den dimensionerende regnhændelse over 10 min., en 
+koncentrationstid på 10 min., et initialtab på 0,6 mm og en hydrologisk reduktionsfaktor på 0,8 , 
+kan regnvandsafstrømningen ved hjælp af MOUSE modellering beregnes til ca. 38 l/sek. Til 
+beregningen af den dimensionerende 5-årshændelse er anvendt data fra SVK-nedbørsmåleren 
+på Kløvermarksvej. 
+Monitering af first flush skal bidrage med viden om de nedbørssituationer, hvor regnvandet er så 
+forurenet, at det skal behandles inden udledning. First flush kan defineres som det aktuelle 
+regnvandsvolumen og de aktuelle koncentrationer af forurenende stoffer, der afstrømmer fra et 
+givet areal. Ud fra disse data kan fastlægges guidelines for management strategier og design af 
+faciliteter til behandling og håndtering af regnvandet. 
+3.3 Flowmåler 
+Ud fra en forudsætning om, at vandkvaliteten i tilløbet til Filter 3 vil være tilnærmelsesvist den 
+samme i tilløbet til Filter 1 og 2, har Københavns Kommune valgt kun at måle flow og 
+vandkvalitet for det regnvand, der tilføres Filter 3. Alt andet lige vil der være større usikkerhed 
+forbundet med at opstille massebalancer for Filter 1 og 2, hvis disse baseres på flow målt for 
+Filter 3.  
+Man kan eventuelt vælge at montere en flowsensor i udløbet fra Filter 2, som kan flyttes til Filter 
+3. Dermed er der mulighed for at gennemføre moniteringsprogrammer samtidigt på to af filtrene.  
+Bilag A indeholder en oversigt over leverandører af flowmålere og link til datablade med 
+informationer om målerområde, usikkerhed, krav til installation, loggefrekvens m.m. Der kan 
+enten monteres en magnetisk induktiv flowmåler beregnet til at måle på delvis t fyldte rør, eller 
+der kan benyttes flowsensorer, som er baseret på Doppler-princippet, og hvor flowet beregnes 
+ud fra vandhastighed, vanddybde samt rørets konfiguration. 
+Design og opbygningen af vejgrøfterne er ikke en del af dette projekt. Listen n edenfor er tænkt 
+anvendt ved vurdering af tilbud på vejgrøfter og moniteringsudstyr og beskriver faktorer, som er 
+vigtige at være opmærksomme på ved valg af flowmåler og dens placering /8/:  
+• Hydrauliske forudsætninger (der må ikke være turbulens umiddelbart opstrøms eller 
+nedstrøms målestedet). Flowmålere placeres bedst før brønde. 
+• Målerområde fastsættes normalt ud fra maksimalt forventet flow. Man skal dog være 
+opmærksom på, at flowet er størst ved lav vandhastighed og lav vanddybde. I den aktuelle 
+situation ønskes flowmåling både under hverdagsregn og first flush, hvor afstrømn ingen er 
+størst. Det optimale er en flowmåler, der kan måle ved lave vanddybder (ned til ca. 2 cm) 
+og samtidig har en maksimal kapacitet på omkring 100 m3/time. Normalt øges 
+nøjagtigheden, jo mindre forskel der er mellem det normale og det maksimale flow. 
+• Hvis flowmålingerne efterfølgende skal bruges til modellering, skal man regne med, at 
+loggefrekvensen skal være 10 sek.  
+• Ved placering af flowmåleren/-sensorerne er det en fordel, at man i umiddelbar nærhed kan 
+kontrollere vanddybde og –hastighed og sammenligne med flowmålerens målinger. 
+• Opsamling, overførsel, lagring og styring af data skal kunne koordineres (synkroniseres 
+tidsmæssigt) med data fra online målere (turbiditet og ledningsevne).  
+
+Udstyr til regnvandsmonitering og indretning af målepunkter  
+ 13 
+• Flowmåleren skal kunne benyttes til styring af en automatisk prøveudtager 
+(flowproportional prøvetagning). 
+• I relation til overførsel af målinger er det vigtigt at kende mulige dataformater og indlæsning 
+i f.eks. Excel. 
+• Fjernovervågning bør være mulig. 
+3.4 Automatisk prøveudtager 
+Til udtagning af regnvandsprøver i indløbet til Filter 3 anbefales det at opstille en automatisk 
+prøveudtager, som styres af flowmåleren i indløbet. Tilsvarende opstilles en automatisk 
+prøveudtager, som kan udtage prøver i udløbet fra Filter 3. I Bilag A findes en liste over mulige 
+leverandører af prøveudtagere og links til datablade med specifikationer.  
+Af praktiske hensyn kan det være fordelagtigt, at der er endnu en prøveudtager til rådighed til 
+udtagning af regnvandsprøver i udløbet fra Filter 1 og 2 således, at der kan udtages prøver fra 
+to af filtrene samtidigt – enten Filter 1 og 3 eller Filter 2 og 3. Der kan enten etableres stationære 
+prøvetagere, hvor der samtidig er mulighed for at skifte mellem prøvetagningsstederne , eller der 
+kan benyttes transportable prøveudtagere, som kan anvendes til andre prøvetagningsopgaver i 
+kommunen. 
+Oftest vil det være tilstrækkeligt at kunne karakterisere en flowproportional regnvandsprøve, 
+som repræsenterer en enkelt regnhændelse eller flere regnhændelser inden for det samme 
+døgn. Ofte defineres to uafhængige regnhændelser som hændelser, der sker med mere end tre 
+timers mellemrum. I sådanne situationer opsamles prøven i én beholder. Hvis der er behov for 
+en detaljeret karakterisering af first flush, kan de fleste prøvetagere indstilles til fraktioneret 
+prøvetagning. Dette kræver, at prøveudtageren har en karrusel med flasker, som skifter efter et 
+forud fastlagt tidsinterval eller flow. Ved analyse af prøverne kan udviklingen i 
+stofkoncentrationer f.eks. følges over tid. 
+Der må påregnes en periode til indkøring af prøveudtagerne, hvor der indhentes erfaring med 
+indstilling af delprøvestørrelse og frekvens af delprøver. 
+3.5 Turbiditetsmålere 
+Ved karakterisering af first flush er en af de vigtigste parametre suspenderet stof (SS). En stor 
+del af de forurenende stoffer, herunder specielt tungmetaller og PAH, adsorberes til SS, og når 
+koncentrationen af SS efter first flush er blevet mindre, er det et tegn på, at koncentrationen af 
+forurenende stoffer er reduceret. 
+Turbiditet er et mål for, hvor transparent en væske er, og dermed et udtryk for koncentrationen 
+af uopløste stoffer. Enheden for turbiditetsmålingen er ofte FNU (Formazin Nephlometric Unit). 
+Nogle turbiditetsmålere bruger NTU (Nephlometric Turbidity Unit) i stedet for FNU, men basalt 
+set kan de to enheder sidestilles. I Bilag A findes en liste over mulige leverandører af 
+turbiditetsmålere og links til datablade med specifikationer.  
+For at kunne omsætte de loggede turbiditetsmålinger til koncentrationer af suspenderet stof 
+(SS) kan der under en nedbørshændelse udtages et antal stikprøver i indløbet og i udløbet 
+samtidig med, at turbidimeteret aflæses. Stikprøverne analyseres derefter i laboratoriet for SS, 
+hvorefter sammenhørende værdier af FNU og SS kan afbildes i et diagram, og 
+regressionskoefficienten beregnes og anvendes til beregning af SS-koncentrationer ved de 
+efterfølgende turbiditetsmålinger. 
+Der placeres to turbiditetsmålere, som måler i indløbsvandet til Filter 3 og på skift i udløbsvandet 
+fra de tre filteranlæg. Der kan opnås større fleksibilitet, hvis der monteres endnu en 
+turbiditetsmåler, som på skift kan sidde i udløbet fra henholdsvis Filter 2 og 3. Målerne bør 
+
+  
+14 Monitering af first flush og hverdagsregn / BOP / 2017-04-03 
+monteres med en målesonde til at måle turbiditeten svarende ca. til intervallet 0,001 til 4000 
+FNU (svarende til et indhold af TS på mellem 1 og 50.000 mg/l). Et snævrere interval kan være 
+fordelagtigt. Typisk er usikkerheden <5% af måleværdi ± 0,01 FNU. 
+Placeringen og monteringsretningen af målesonderne i indløb og udløb er vigtige i forhold til at 
+sikre repræsentative målinger. Turbidimeteret opfatter luftbobler som partikler, idet lyset fra 
+luftbobler bliver reflekteret. Luftbobler i vandet kan således resultere i falske signaler.  
+På nogle målesonder er der foran målevinduet monteret en visker, som skal holde målevinduet 
+rent. Sætter der sig snavs på målevinduet, kan det selvfølgelig føre til ukorrekte målinger.  
+3.6 Ledningsevnemåler 
+Mange kommuner søger i deres spildevandsplanlægning at undgå nedsivning af vejvand i 
+byzoner, idet indholdet af salt i grundvandet er et stigende problem. Karakterisering af vejvandet 
+med hensyn til saltindhold giver større viden om saltbelastningens omfang og behovet for 
+eventuel indgriben. 
+I regnvand måles salt typisk enten som chlorid eller som ledningsevne. Begge parametre kan 
+med en vis tilnærmelse omregnes til en saltkoncentration (NaCl). Måleresultater er stærkt 
+påvirkede af vejsaltning, nedbørsvariationer, trafikbelastning m.m. I forbindelse med udledning 
+af regnvand til ferskvandsområder eller nedsivning af regnvand bør saltindholdet vurderes eller 
+måles. Ferskvand er overordnet set karakteriseret ved, at saltholdigheden er mindre end 5 ‰. I 
+danske vandløb er saltholdigheden ofte betydeligt lavere.  
+I Uplandsgade foreslås opsat ledningsevnemålere i ind- og udløb ved Filter 3. Afhængigt af 
+filterjordtyperne kan det overvejes, om der også skal opsættes ledningsevnemålere i udløbet fra 
+Filter 1 og 2. Visse filterjorde kan føre til en stigning i ledningsevnen efter, at regnvandet er 
+passeret. 
+I Bilag A findes en liste over mulige leverandører af ledningsevnemålere og links til datablade 
+med specifikationer.  
+3.7 Nedbørsmåler 
+I umiddelbar nærhed af prøvetagningsstedet bør der opsættes en regnmåler, som eventuelt kan 
+kobles til prøveudtagerne, så de startes, når der er faldet en forud fastlagt mængde nedbør. 
+Automatiske nedbørsmålere kan typisk indstilles til at logge nedbøren for hver 0,1 mm.  
+I Bilag A findes en liste over mulige leverandører af nedbørsmålere og links til datablade med 
+specifikationer.  
+3.8 Vandstandsmåler 
+Til måling af vandstanden i de tre grøfter med filtermuld anbefales det at opstille en niveaumåler 
+(tryktransducer) i hver sektion. Princippet i målingen er, at et mekanisk signal omsættes til et 
+elektrisk signal. I tryktransduceren er der en membran af titanium, og vandtrykket forårsager, at 
+der sker en indbøjning i membranen. Jo større vandstand, jo højere vandtryk og følgelig stør re 
+påvirkning af membranen /8/. Tryktransduceren placeres i bunden af et borehul. 
+Data for vandstanden skal bl.a. anvendes ved modellering af de hydrauliske forhold  i 
+vejgrøfterne, hvor andelen af filterjord, der er vandmættet/ikke-vandmættet skal kendes for at 
+kunne beregne ud- og nedsivningen fra filterjorden til den omgivende jord.  
+
+Udstyr til regnvandsmonitering og indretning af målepunkter  
+ 15 
+3.9 Datahåndtering 
+I målestationen etableres et dataopsamlings- og datahåndteringssystem for realtidsmålinger fra 
+flowmålere, prøveudtagere, turbiditets-, ledningsevne-, regn- og vandstandsmålere.  
+I praksis kan man installere en lille DIMS-database (DIMS = data integrations system) lokalt på 
+en PC i målestationen, eksempelvis en NUC (kraftig minicomputer). Denne sender så data op i 
+skyen til datafarmen, hvor data også lægges i en DIMS database. DIMS er et system til 
+datahåndtering i realtid samt til databearbejdning. 
+Fra bruger-PC'en kan der enten være adgang til data via en DIMS-klient (hvor der er fuld 
+mulighed for at anvende funktioner i DIMS), eller der kan laves en adgang via en browser. I så 
+fald er der dog kun adgang til at se de data, man har valgt at gøre tilgængelige. Derefter kan 
+man gemme data i Excel på egen PC, hvis man skal arbejde videre med dem. DIMS vil være 
+installeret på NUC'en og kan også lægges på bruger-PC'en. 
+ 
+Figur 3-2:  Systemoversigt for datahåndtering. 
+Målepaneler 
+PC inkl. datalogger og 
+4G-netværksforbindelse 
+Dims 
+Datafarm 
+Brugeradgang 
+Turbiditet 
+Ledningsevnemåler 
+Nedbørsmåler 
+Niveaumåler 
+Temperatur 
+Flow 
+Prøveudtager 
+Web-adgang 
+
+  
+16 Monitering af first flush og hverdagsregn / BOP / 2017-04-03 
+3.10 Passive prøvetagere 
+Et alternativ til konventionel, automatisk flowproportional prøvetagning kan være prøvetagning 
+ved hjælp af passive prøvetagere, som er baseret på, at forurenende stoffer, der ønskes 
+bestemt i en vandstrøm, passerer en lille beholder indeholdende en stofspecifik sorbent (se 
+Figur 3-3). De forurenende stoffer adsorberes til sorbenten og akkumuleres. Når den passive 
+prøvetager efter en vis periode (2-3 uger) tages op, er mængden af stof, som findes i sorbenten, 
+et udtryk for den akkumulerede mængde stof. Sorbenten elueres, eluatet analyseres for 
+specifikke forurenende stoffer, og koncentrationen omregnes til gennemsnitskoncentration i 
+vandstrømmen. 
+Passive prøvetagere har i 2015-16 været afprøvet til monitering af regnvand, som ledes ud i 
+Slotsholmskanalen i det indre København /9/. Resultaterne fra bestemmelse af næringssalte, 
+tungmetaller og PAH’er var så lovende, at en ny målerunde blev igangsat i nov. 2016. I den 
+efterfølgende målerunde blev der indført en række forbedringer i forhold til opsætningen af de 
+passive prøvetagere, og kapaciteten af adsorbenterne til opsamling af forurenende stoffer og 
+parametrene blev udvidet med en række phthalater. 
+Anvendelse af passive prøvetagere forbedrer mulighederne for at detektere miljøfremmede 
+stoffer (herunder tungmetaller og PAH) i regnvand, som typisk forekommer i lave 
+koncentrationer i forhold til detektionsgrænserne og samtidig varierer over tid. I de passive 
+prøvetagere sker en akkumulering af stofferne i sorbenten. Også ved kortvarige 
+nedbørshændelser vil de miljøfremmede stoffer kunne detekteres. Ofte er det med 
+konventionelle prøvetagningsmetoder vanskeligt at få startet en automatisk prøveudtager på det 
+rigtige tidspunkt i forhold til tilstrømningen af det første regnvand. Længere måleperioder og 
+mindre tilsyn gør prøvetagning i flere punkter mere overkommelig rent økonomisk.  
+ 
+ 
+Figur 3-3:  SorbiCell med diameter 11 mm, længde 75 mm, volumen 3 ml. Materiale: polypropylen. 
+Ved de to ovennævnte måleprogrammer blev der anvendt passive prøvetagere leveret af 
+Sorbisense. På Figur 3-3 er vist, hvordan SorbiCell er opbygget, og Figur 3-4 viser placering af 
+SorbiCell i WW50 (prøvebeholder). Endelig viser Figur 3-5, hvordan fire WW50 er anbragt på et 
+V-overfald ved udløbet fra en regnvandsbrønd. 
+Sorbent (polymer) 
+Salt (glasfiber filter med salt) 
+Flowretning 
+
+Udstyr til regnvandsmonitering og indretning af målepunkter  
+ 17 
+ 
+Figur 3-4:  Placering af SorbiCell i prøvebeholderen (WW50)  
+Uanset om man vælger automatisk prøvetagning eller prøvetagning ved hjælp af SorbiCells , vil 
+der være behov for at etablere flowmåling i indløb til Filter 3 og i udløb fra Filter 1, 2 og 3, 
+således at der er mulighed for beregning af belastning og opsamling af forurenende stoffer i de 
+forskellige filtertyper.  
+ 
+ 
+
+
+ 
+ 
+Tabel 3.3:  Oversigt over fordele og ulemper ved henholdsvis at anvende passive prøvetagere og automatiske prøvetagere til regnvandsprøvetagning samt 
+overslagspriser for anskaffelse af de to typer udstyr.  
+Prøvetagningsmetode Anskaffelsespris kr. Fordele Ulemper Kommentarer 
+SorbiCell WW50 ca. 1.300 kr. pr. stk. 
+SorbiCells 300-400 kr. pr. stk. 
+Monitering over flere 
+nedbørshændelser. 
+Ingen strømforsyning. 
+Ingen rørføringer. 
+Kun opløste og kolloide stoffer 
+kan analyseres. 
+Vanskeligt at monitere enkelte 
+regnhændelser. 
+Ved analyse af f.eks. 
+næringssalte, tungmetaller og 
+PAH skal anvendes tre typer 
+SorbiCells og dermed tre 
+WW50. 
+WW50 kan i en 
+regnvandsbrønd monteres på 
+en overfaldskant, se billede på 
+forsiden af rapporten (ekstra 
+udstyr). 
+Automatisk prøveudtager ISCO 3700 incl. sugeslange 
+og kassette, der muliggør 
+fraktioneret prøvetagning. Ca. 
+35.000 kr.  
+Mulighed for udtagning af 
+flowproportionale prøver. 
+Både totale og opløste stoffer 
+kan analyseres i prøven. 
+Mulighed for fraktioneret 
+prøvetagning. 
+Strømforsyning. 
+Lav vandstand på 
+prøvetagningsstedet kan 
+forhindre optagning af prøver. 
+Hyppigt tilsyn og 
+prøveafhentning er nødvendig. 
+Prøveudtagere bør placeres i 
+et målerskab, og der skal 
+etableres rørføringer fra 
+prøvetagningsstedet til 
+prøveudtageren (ekstra 
+udstyr). 
+ 
+
+Udstyr til regnvandsmonitering og indretning af målepunkter  
+ 19 
+ 
+Figur 3-5:  Placering af WW50 (holder til SorbiCell) på udløbssiden i regnvandsbrønd. Når vandet i 
+forbindelse med nedbør stiger op i brønden, vil regnvandet blive presset igennem 
+SorbiCellerne, som sidder i WW50’erne. Opsætningen på billedet indeholder fire forskellige 
+typer af SorbiCeller til monitering af henholdsvis næringssalte, tungmetaller, PAH og 
+phthalater. 
+3.11 Anbefalinger - måleudstyr 
+Det vil være fordelagtigt, at det på et tidligt tidspunkt - f.eks. i udbudfasen – besluttes, hvilket 
+moniteringsudstyr der basalt set skal monteres til overvågning af tilløbsvandet og ved udløbet 
+fra de tre filterjordsanlæg.  
+Tabel 3.4 indeholder forslag til basisudstyr og til udstyr, der giver flere muligheder for 
+kontinuerlig overvågning og måling af regnvandskvaliteten. Indledningsvis skal man gøre sig 
+klart, om der skal etableres udstyr til automatisk prøvetagning, eller om monitering skal ske ved 
+hjælp af passive prøvetagere (se afs. 3.10). Ved opsætning af online-målere, og specielt det 
+tilhørende udstyr til dataopsamling, er det vigtigt at tage højde for, at der senere eventuelt kan 
+opsættes flere online-målere.  
+I stedet for at opsætte en regnmåler på stedet kan der anvendes nedbørsdata fra 
+Spildevandskomiteens (SVK) regnmålersystem, som drives af DMI og omfatter 154 målere 
+spredt over hele Danmark 
+Ofte er der i turbiditets-, ledningsevne- og pH-målere indbygget en temperaturmåler, og derfor 
+er det ikke nødvendig med en selvstændig temperaturmåler. Ved valg af leverandør af 
+moniteringsudstyr er det nærliggende at vælge en leverandør, som kan levere hovedparten af 
+det udstyr, man beslutter sig for at indkøbe. Dermed er der større sandsynlig hed for , at de 
+enkelte udstyrskomponenter til dataopsamling kan fungere sammen. 
+Endelige skal det besluttes, hvordan dataopsamlingssystemet skal opbygges, hvem der skal 
+have adgang, om data skal være tilgængelige med kortere eller længere tids forsinkelse , mm.  
+
+
+  
+20 Monitering af first flush og hverdagsregn / BOP / 2017-03-01 
+ 
+Tabel 3.4:  Forslag til moniteringsudstyr. 
+Udstyr Basisudstyr Udvidet liste 
+med udstyr 
+Flowmåler X X 
+Automatisk prøveudtager  X 
+Passive prøvetagere X  
+Turbiditetsmåler X X 
+Ledningsevnemåler  X 
+Vandstandsmåler X X 
+Regnmåler  X 
+pH-måler  X 
+Temperatur  X 
+Datahåndtering batchvis 
+overførsel X  
+Dataoverførsel realtid  X 
+ 
+Under ”Vand i byer” gennemførtes i 2013-2015 et projekt om ”Realtids monitering af 
+distributionsnet”, dvs. overvågning af flow og vandkvalitet i drikkevandssystemer /16/. Udgifterne 
+til etablering af målestationer med udstyr til måling af pH, ilt, ledningsevne, turbiditet og flow 
+samt opstilling af et absorbans spektrofotometer blev opgjort til 660.000 kr. ekskl. moms. I 
+prisen indgår også pc, monitor mm. 
+Projektrapporten indeholder detaljerede beskrivelser af udstyret, der blev sat op i 
+målestationerne. Udstyrsmæssigt er moniteringen af drikkevand og regnvand ikke fuldstændig 
+sammenlignelig, men udstyrsbeskrivelsen med prisoverslag angiver størrelsesordenen for 
+udgifterne til en målestation til regnvandsmonitering. Ved regnvandsmoniteringen vil det være 
+hensigtsmæssigt at opstille automatiske prøveudtagere, hvilket ikke er tilfældet med 
+drikkevandsmonitering. Til gengæld blev der ved monitering af drikkevand anvendt et absorbans 
+spektrofotometer til monitering af TOC og DOC (Total Organic Carbon og Dissolved Organic 
+Carbon).  
+ 
+
+Moniteringsprogram  
+ 21 
+4 Moniteringsprogram 
+Formålet med monitering af et anlæg med filterjord er typisk at dokumentere belastning og 
+renseeffektivitet i en eller flere af følgende situationer: 
+• Under hverdagsregn 
+• Under first flush 
+• I skybrudssituationer 
+• I forbindelse med årstidsvariationer 
+• Udviklingen i hele anlæggets levetid 
+I dette kapitel er opstillet forslag til moniteringsprogrammer, der skal dokumentere belastning og 
+renseeffektivitet for udvalgte parametre under hverdagsregn og under first flush.  
+4.1 Analyseparametre 
+Ved valg af analyseparametre er der her taget udgangspunkt i rapporten om Regnkvalitet og 
+klimatilpasning /4/. I rapporten er udpeget seks stofgrupper omfattende i alt 30 parametre. 
+Parametrene er valgt ud fra en gennemgang af litteratur reviews, indsamlede danske og 
+udenlandske data, eksisterende miljøkvalitetskrav samt målsætninger for vandområder. 
+Indikatorparametrene omfatter almindelige spildevandsparametre, næringssalte, udvalgte 
+metaller, PAH, phthalater, bisphenol A og pesticider. Begrundelser for valg af de nævnte 
+parametre findes i /4/. Parametrene er vist i Tabel 4.1, hvor det desuden er markeret, hvilke 
+parametre det vil være relevant at medtage i følgende fire prøvetagningssituationer: 
+• Hverdagsregn - automatisk prøvetagning 
+• Hverdagsregn – passive prøvetagere 
+• First flush – automatisk fraktioneret prøvetagning 
+• First flush – online-monitering 
+Bly, kobber og zink er i regnvand næste altid tilstede i koncentrationer over 
+detektionsgrænserne. Overfladeafstrømning fra industriområder kan indeholde andre 
+spormetaller end de tre nævnte, og i disse situationer vil det være relevant at analysere for 
+f.eks. cadmium, chrom, kviksølv og nikkel.  
+  
+
+  
+22 Monitering af first flush og hverdagsregn / BOP / 2017-03-01 
+Tabel 4.1:  Forslag til analyseparametre ved automatisk og passiv prøvetagning i forbindelse med 
+monitering af hverdagsregn og first flush. Desuden er vist forslag til måleperioder. Online-
+målinger kan med fordel køre kontinuert.  
+  Hverdagsregn First flush 
+  Automatisk 
+prøvetagning 
+Passiv 
+prøvetagning 
+Automatisk 
+fraktioneret 
+prøvetagning 
+Online måling 
+Måleperiode 10 regn-
+hændelser 
+4 gange 2-6 
+uger 5 regnhændelser 2-3*) 
+regnhændelser 
+Parametre         
+Ledningsevne Online Online Online Online 
+Suspenderet Stof/Turbiditet X Online X Online 
+BOD X 
+ 
+X 
+ COD X 
+ 
+X 
+ Næringssalte 
+    Total-P X 
+ 
+X 
+ Opløst P (ortho-P) X X X 
+ Total-N X X**) X 
+ Spormetaller 
+    Zink X X X 
+ Zink filt X 
+ 
+X 
+ Kobber X X X 
+ Kobber filt X 
+ 
+X 
+ Bly X X X 
+ Bly filt X 
+ 
+X 
+ PAH 
+    Acenapthen X X X 
+ Fluoren X X X 
+ Phenanthren X X X 
+ Fluoranthen X X X 
+ Pyren X X X 
+ Benz(a)pyren X X X 
+ Benz(bjk)fluoranthen X X X 
+ Indeno(1,2,3cd)pyren X X X 
+ Benz(ghi)perylen X X X 
+ Phthalater 
+    DBP X X X 
+ BBP X X X 
+ DEHP X X X 
+ DEHA X X X 
+ Øvrige org. stoffer 
+    Bisphenol A X X X 
+ Pesticider 
+    2,6-diklorbenzamid (BAM) X  X 
+ Isoproturon X  X 
+ Mechlorprop X  X 
+ Glyphosat X  X 
+ AMPA X  X 
+ *) Under 2-3 regnhændelser udføres samtidige bestemmelser af ledningsevne og suspenderet stof i 
+stikprøver  
+**) Kun nitrit+nitrat bestemmes. 
+
+Moniteringsprogram  
+ 23 
+4.1.1 Karakterisering af filterjord 
+Filterjord er en homogen jordblanding, der for at fungere optimalt skal opfylde en række krav til 
+f.eks. indholdet af ler, silt, sand og organisk materiale. I Danmark er der ingen nationale 
+standarder for sammensætningen af filterjord, men referencerne /12/ og /13/ indeholder en 
+række anbefalinger til filterjords sammensætning og karakteristika. Det samlede indhold af ler 
+(<0,002 mm) og silt (<0,063 mm) bør ligge mellem 5 og 10 vægt%, indholdet af organisk 
+materiale bør ligge mellem 1 og 3 vægt%, mens pH bør ligge mellem 6,5 og 7. 
+I det færdige filterjordsanlæg bør følgende parametre måles: 
+• Porevolumen 
+• Hydraulisk ledningsevne 
+• Koncentrationen af næringssalte (N og P) 
+• Tørstof (vandprøve filtreret og tørret ved 105 °C) og Glødetab (TS-prøven glødes i en ovn 
+og det organiske materiale svarer til glødetabet) 
+• pH 
+4.2 Hverdagsregn - automatisk prøvetagning 
+Efter installering af flowmåler og prøvetagningsudstyr er det nødvendigt med en 
+indkøringsperiode på en til tre måneder afhængigt af nedbørsfrekvensen, -intensiteten og  
+-mængden. Der vil altid være forskelle i afstrømningsforhold fra sted til sted, og derfor er der 
+behov for en kortere eller længere indkøringsperiode. I indkøringsperioden skal der indhentes 
+erfaringer med indstilling af prøveudtageren under forskellige typer af nedbørshændelser, hvor 
+regnintensitet, varighed og længde af tørvejrsperioderne varierer. Hermed opnås erfaring med 
+hensyn til delprøvefrekvens, delprøvestørrelse, flow for igangsætning af prøveudtager, 
+loggefrekvens, dataopsamling, dataoverførsel m.m.  
+Normalt vil prøvetagningen blive igangsat i det øjeblik, indløbsflowet til grøften med filterjord når 
+et vist niveau. Dette fastlægges i indkøringsperioden. Tilsvarende indstilles prøveudtageren 
+placereret i udløbet fra grøften. Udløbsflowet vil være tidsmæssigt forskudt i forhold til tilløbet og 
+afhænge af længden på den forudgående tørvejrsperiode, vandmætningsgraden af filterjorden 
+og nedsivningshastigheden. Under indkøring er det vigtigt at indhente erfaringer om størrelsen 
+af udløbsflowet for at kunne indstille prøveudtageren og udtage repræsentative prøver. 
+Under drift skal opsamlede regnvandsprøver modtages på analyselaboratoriet inden for 24 
+timer efter, at prøvetagningen er afsluttet. Den opsamlede prøve opbevares nedkølet under 
+udtagning (så vidt muligt) og forsendelse til analyselaboratoriet.  
+For at opnå et solidt datagrundlag for vurdering af regnvandssammensætningen før og efter 
+rensning anbefales det at 
+• Udtage prøver fra 10 nedbørshændelser 
+• Fordele prøvetagningerne, så de dækker en stor del af året 
+• Udtage prøver, der dækker tørvejrsperioder af varierende længde 
+• Gennemføre fraktioneret prøvetagning (se afs.4.4) 
+Nedbørshændelserne, der karakteriseres, kan også bestå af flere hændelser opstået på samme 
+dag. Det kan være relevant at kassere opsamlede prøver, som ligner nedbørssituationer, der 
+allerede er karakteriseret. 
+
+  
+24 Monitering af first flush og hverdagsregn / BOP / 2017-03-01 
+4.3 Hverdagsregn – passive prøvetagere 
+I afs. 3.10 er beskrevet, hvordan passive prøvetagere af typen SorbiCell kan placeres i 
+regnvandsbrønde, der fungerer som sandfang. Erfaringer med anvendelse af SorbiCell til 
+monitering af næringssalte, tungmetaller og PAH’er i regnvand viser, at der i løbet af en 
+måleperiode bør falde 10-20 mm regn, hvoraf flere nedbørshændelser bør resultere i mere end 
+4 mm nedbør over 2-4 timer. Ved nedbørshændelser af denne størrelse opnås et stabilt 
+vandniveau over prøvebeholderen (WW50), og dermed sikres gennemstrømning i de passive 
+prøvetagere og adsorption af forurenende stoffer. 
+På den ene side er det vigtigt, at prøvebeholderne sidder så længe i prøvetagningspunktet, at 
+der bliver adsorberet en tilstrækkelig mængde forurenende stoffer i de passive prøvetagere til, 
+at mængden kan bestemmes, og middelkoncentrationen beregnes. På den anden side må de 
+passive prøvetagere ikke sidde så længe i prøvetagningspunktet, at adsorptionskapaciteten er 
+opbrugt. Det optimale tidsrum for moniteringen afhænger tillige af mængden af forurenende 
+stoffer i regnvandet. 
+Med passive prøvetagere kan man vælge at gennemføre fire måleperioder af to til seks ugers 
+varighed afhængigt af nedbøren. Måleperioderne bør fordeles over året, så de dækker de fire 
+årstider. 
+Ud over analyseusikkerheden er der også knyttet usikkerhed til placeringen af prøvebeholderen  
+(WW50) i en regnvandsbrønd. Hvis beholderen (WW50) er placeret for højt i forhold til en 
+overfaldskant, vil der ved små vandstandsstigninger ikke blive ledt vand igennem den passive 
+prøvetager, og dermed vil stofkoncentrationerne blive underestimeret. Derfor er det vigtigt at 
+have en veldefineret overfaldskant og sikkerhed for, at prøvebeholderen bliver siddende i 
+samme niveau i hele måleperioden. 
+Ved modellering af overfladeafstrømning og renseeffekten i LAR-løsninger anvendes typisk data 
+for de enkelte regnhændelser. Derfor er regnkvalitetsmålinger udført ved hjælp af passive 
+prøvetagere ikke umiddelbart anvendelige ved modellering, idet stofkoncentrationerne er udtryk 
+for middelværdier for flere regnhændelser. Til gengæld er metoden fordelagtig, hvis man ønsker 
+at opgøre den samlede belastning med forurenende stoffer for en længere periode. Det kræver 
+så, at den udledte vandmængde er kendt og dokumenteret gennem flowmålinger.  
+4.4 First flush – automatisk fraktioneret prøvetagning 
+Karakterisering af vandkvalitet i forbindelse med first flush kan ske på to niveauer:  
+• Fraktioneret prøvetagning med analyse for udvalgte parametre i alle opsamlede fraktioner 
+• Online-målinger af flow og turbiditet og evt. andre parametre (se afs.4.5) 
+Hvis fraktionerne dækker et kvarter til en time, kan det resultere i mange prøver, som skal 
+analyseres. Det er dog altid muligt at blande to eller flere prøvefraktioner sammen. Derfor er det 
+som regel bedre at vælge korte tidsrum mellem fraktionerne end lange. Ved lange 
+nedbørshændelser er der den risiko, at der ikke er tilstrækkeligt med flasker i den automatiske 
+prøveudtager til opsamling af fraktionerne. 
+For at reducere analyseomkostningerne kan parametrene i de fraktionerede prøver f.eks. 
+reduceres til at omfatte: Suspenderet stof, BOD, COD, Total-N, Total-P samt tungmetallerne bly, 
+kobber og zink. 
+
+Moniteringsprogram  
+ 25 
+4.5 First flush – online-målinger 
+Formålet med online-målinger af turbiditet er at kæde målingerne sammen med den 
+karakterisering, der sker gennem fraktioneret prøvetagning. Således kan belastningen med 
+forurenende stoffer både før og efter vejgrøfterne relateres til turbiditetsmålingerne , idet der er 
+en forventning om, at en høj andel af forurenende stoffer bundet til partikler resulterer i en høj 
+turbiditet. Turbiditetsmålinger kan dermed blive en styrringsparameter i de situationer, hvor man 
+eksempelvis kan vælge mellem af lede vejvand i kloakken eller udlede vejvandet til 
+vandområder, når indholdet af forurenende stoffer er lavt. 
+Ledningsevnemålinger afspejler regnvandets indhold af opløste salte, og ledningsevnen målt i 
+mS/m ganget med en faktor 7 angiver tilnærmelsesvist indholdet af opløste salte i g/m 3. I 
+vinterperioder med saltning på veje vil chlorid- og natriumioner dominere og bidrage til forhøjet 
+ledningsevne. Saltindholdet i regnvand kan være kritisk, hvis vandet udledes til et 
+ferskvandsområde. Ferskvand er overordnet set karakteriseret ved, at saltholdigheden er 
+mindre end 5‰. I danske vandløb er saltholdigheden ofte betydeligt lavere. 
+Som nævnt i afs. 3.5 skal der udføres sammenhørende bestemmelse af suspenderet stof og 
+ledningsevnemålinger i et antal regnvandsprøver. Under to til tre nedbørshændelser udtages 
+fem til ti stikprøver, som analyseres for suspenderet stof i laboratorium efter en standardiseret 
+analysemetode, f.eks. ISO/EN 872:2015. I de samme prøver måles ledningsevnen.  
+Målinger af turbiditet og ledningsevne kan gennemføre også uden for de planlagte 
+prøvetagningsperioder, og dermed er der mulighed for at etablere et solidt datagrundlag for 
+modellering af vejgrøfter. 
+4.6 Online-målinger, dataopsamling og dataoverførsel 
+Et system til dataopsamling og -håndtering er beskrevet i afs. 3.9  
+4.7 Modellering 
+I MIKE URBAN kan man modellere specifikke grønne løsninger som f.eks. vejbede, vejgrøfter, 
+beplantede render, regnbede m.m. Det detaljerede niveau af modellen inkluderer - ud over 
+hydraulik - også stoffjernelse. Ved hjælp af ECOLAB er det muligt at koble den hydrauliske 
+beregning til vurdering af vandkvaliteten. I ECOLAB har brugeren adgang til alle 
+procesbeskrivelser gennem en template og mulighed for at ændre og udvide med flere 
+processer samt opstille simple renseprocesser til vurdering af renseeffekten i forskellige LAR-
+elementer. Man kan således lave sin egen ECOLAB template til beskrivelse af stoffjernelsen og 
+koble den til MIKE URBAN. Måleprogrammet er designet med henblik på, at data kan anvendes 
+til kalibrering af modellering af vejgrøfter med filterjord i MIKE URBAN.  
+I en rapport udarbejdet under projektet ”Byer i Vandbalance” /10/ er opstillet en række forslag til 
+modellering af renseeffekten for udvalgte LAR-teknologier - herunder vejbede, som i en vis 
+udstrækning kan sammenlignes med grøfter med filtermuld. Fra både vejbede og grøfter kan 
+udsivning til det omgivende jordmiljø ske gennem sider og bund. Over tid vil udsivning gennem 
+bunden dog stoppe pga. tilstopning, hvorfor det i MIKE URBAN er muligt at slå udsivning fra 
+bund fra. 
+I filterjorden vil der dels ske en mekanisk filtrering, som vil have karakter af overfladefiltrering, 
+samt en større eller mindre grad af dybdefiltrering og adsorption af opløste stoffer , afhængigt af 
+filterjordens karakteristika. Organisk materiale afsat i filterjorden vil give anledning til mikrobiel 
+aktivitet, der kan være aerob i toppen af filterjorden og anaerob i de dybere lag. Plantevækst i 
+
+  
+26 Monitering af first flush og hverdagsregn / BOP / 2017-03-01 
+overfladen kan via rodnettet påvirke filterjorden i retning af øget hydraulisk ledningsevne og øget 
+mikrobiel omsætning. 
+I /10/ er opstillet forslag til modellering af vejbede/anlæg med filterjord, hvor der som 
+udgangspunkt er gjort en række antagelser vedrørende tilbageholdelse af suspenderet stof, 
+konstant hydraulisk ledningsevne, konstant fjernelsesgrad m.m. Forudsætningerne munder ud i 
+en antagelse om, at fjernelse af opløst stof sker ved en 1. ordens reaktion. I beregningerne af 
+vandkvaliteten efter rensning indgår tillige en række konstanter: filterjordens porøsitet, den 
+omgivende jords ledningsevne, fraktionen af ikke filtrerbart suspenderet stof samt 
+reaktionskonstanter for de forurenende stoffer.  
+Forud for modellering af hydraulik og vandkvalitet efter rensning skal der indhentes en række 
+data: 
+• Flowet ind i filterjordsanlægget vil blive logget med en valgt frekvens, f. eks. 5 sek. 
+intervaller 
+• Overfladeafstrømningen kan også beregnes ud fra nedbøren og vejarealet tilknyttet 
+filterjordsanlægget 
+• Infiltrationshastighed (konstant eller beregnet som funktion af vandstand, areal, hydraulisk 
+ledningsevne og porøsitet af filterjord) 
+• Vandstand i vejbedet 
+Vandkvaliteten, der ledes ind i anlægget, kan bestemmes ved: 
+• Online målinger, f.eks. måling for hvert 5. sek. (turbiditet/suspenderet stof, evt. andre 
+parametre, som kan måles online, N og P) 
+• Flowproportional prøvetagning giver en middel stofkoncentration under én 
+nedbørshændelse 
+• Fraktioneret prøvetagning giver konstant stofkoncentration i et kortere tidsinterval (f.eks. 1 
+time) 
+• Passive prøvetagere, som måler de gennemsnitlige stofkoncentrationer over flere 
+nedbørshændelser 
+De karakteriseringsmetoder, der er relateret til en enkelt regnhændelse, giver de mest 
+anvendelige data til modellering. 
+4.8 Anbefalinger – moniteringsprogram 
+Når først online-målinger og tilhørende dataopsamling er etableret og indkørt, vil tilsyn under 
+prøvetagningskampagner samt håndtering og analyse af prøver være en betydelig omkostning, 
+og her kan det være en fordel at gennemføre mere eller mindre intensive 
+moniteringsprogrammer afhængigt af det specifikke formål (drift, kravoverholdelse, 
+renseeffektivitet). Tabel 4.2 indeholder forslag til et basismoniteringsprogram og et udvidet 
+moniteringsprogram. 
+  
+
+Moniteringsprogram  
+ 27 
+Tabel 4.2:  Forslag til to niveauer af moniteringsprogram. Basisprogrammet indeholder de mest basale 
+parametre, mens det udvidede måleprogram indeholder flere basale fysisk-kemiske 
+parametre og miljøfremmede stoffer. 
+Afstrømningstype Basismoniteringsprogram Udvidet moniteringsprogram 
+Hverdagsregn – automatisk 
+prøvetagning 
+Online turbiditets- og flowmålinger, 
+vandstandsmåling 
+ 
+Fuldt måleprogram som 
+beskrevet i Tabel 4.1, inkl. online 
+turbiditet, ledningsevne, 
+temperatur, nedbørsmåling, pH 
+Hverdagsregn passiv 
+prøvetagning 
+Online turbiditets- og flowmålinger, 
+vandstandsmåling 
+Nitrat+nitrit, ortho-P, tungmetaller 
+Fuldt måleprogram som 
+beskrevet i Tabel 4.1, inkl. online 
+turbiditet, ledningsevne, 
+temperatur, nedbørsmåling, pH, 
+vandstandsmåling 
+First flush - automatisk 
+fraktioneret prøveudtagning 
+5-10 fraktioner udtages i løbet af 
+en nedbørshændelse, og hver 
+fraktion analyseres i laboratoriet for 
+SS, TN, TP, COD, Pb, Cu, Zn 
+Fuldt måleprogram som 
+beskrevet i Tabel 4.1, inkl. online 
+turbiditet, ledningsevne, 
+temperatur, nedbørsmåling, pH, 
+vandstandsmåling 
+First flush – online-målinger Online turbiditets- og flowmålinger, 
+vandstandsmåling 
+Udtagning af stikprøver som 
+analyseres i laboratoriet (SS, TN, 
+TP, COD, Pb, Cu, Zn) 
+Turbiditet, ledningsevne, 
+temperatur, nedbørsmåling, pH, 
+vandstandsmåling 
+Udtagning af stikprøver, som 
+analyseres i laboratoriet (alle 
+parametre nævnt i Tabel 4.1). 
+ 
+Analysedata bør altid vurderes efter hver målerunde, så man sikrer sig, at der ikke analyseres 
+for parametre, som kan forventes at ligge under detektionsgrænsen i efterfølgende målerunder. 
+Ved vurdering af analysedata vil vurderingen ske ud fra viden om eksempelvis trafikbelastning, 
+tørvejrsperiodens varighed forud for nedbørshændelsen, årstidsvariationer, saltning m.m. 
+Turbiditetsmålinger bør altid under indkøringsfasen kombineres med samtidig aflæsning af 
+turbiditetsmåleren og udtagning af stikprøver, som analyseres for suspenderet stof efter en 
+standardiseret metode. 
+Fraktioneret automatisk prøvetagning er den dyre løsning til karakterisering af first flush. Dels er 
+der omkostninger til anskaffelse af udstyret og dels til prøvehåndtering og analyser. 
+Omkostninger stiger proportionalt med antallet af prøver, der skal karakteriseres. 
+  
+
+  
+28 Monitering af first flush og hverdagsregn / BOP / 2017-03-01 
+
+
+Referencer  
+ 29 
+5 Referencer 
+/1/ Peter M. Bach, David T. McCarthy, Ana Deletic: Redefining the stormwater first flush 
+pnenomenon. Water Research 44 (2010) pp. 2487-2498. 
+/2/ J. L. Bertrand-Krajewski, G. Chebbo, A, Saget (1998): Distribution of pollutants mass vs 
+volume in stormwater discharges and the first flush phenomenon. Water Research 32, pp. 
+2341-2356. 
+/3/ Miljøministeriet, By- og Landskabsstyrelsen: Tilførsel af lokalt renset regnvand til 
+ferskvandsområder. Rapport udarbejdet af DHI 2010. 
+/4/ Regnvandsforum: Regnvandskvalitet og klimatilpasning – Planlægningsværktøjet 
+RegnKvalitet. Jan. 2015. 
+/5/ RegnKvalitet 1.2 www.regnvandskvalitet.dk. Dec. 2016. 
+/6/ Københavns Kommune: Rensning af hverdagsregn - Renseteknologier. Rapport 
+udarbejdet af DHI. Jan. 2016. 
+/7/ Teknologisk institut, Flowcenter Danmark: Flowmåling af regn- og spildevand – 
+Problematik, test og vejledning. Marts 2016. 
+/8/ http://www.teknologisk.dk/undersoegelsesmetoder/5-vandfoerings-og-
+vandstandsmaaling/20887,6 
+/9/ Københavns Kommune: Karakterisering af regnvand ”Ved Stranden” og ”Havnegade” – 
+Passive prøvetagere. Rapport udarbejdet af DHI. Sep. 2016. 
+/10/ Forsknings- og Innovationsstyrelsen: Byer i Vandbalance - Modellering af 
+renseeffektiviteten for udvalgte LAR-teknologier. December 2014. 
+/11/ Københavns Kommune: Teknik og Miljøforvaltningen, Center for Trafik og Byliv. Manuel 
+trafiktælling på tællested 341 tirsdag d. 6. maj 2014. 
+/12/ Simon Toft Ingvertsen, Karin Cederkvist, Marina Bergen Jensen: Sammensætning og 
+brug af filterjord. Videnblad Park og Landskab maj 2015. 
+/13/ Københavns Universitet, Institut for Geovidenskab og Naturforvaltning: Baggrundsrapport 
+vand i Byer IP02: Dokumentation af Filterjord, februar 2015. 
+/14/ Vandcenter Syd: Notat om udviklingen af regnen i forhold til dimensionering af 
+udstykninger. Januar 2014. 
+/15/ http://www.expo-net.dk/Standard/Produkter/Bygge%20-
+%20anl%C3%A6g/Nedsivning%20af%20regnvand/Regn-hyppigheder.aspx 
+/16/ Vand i Byer: Nordhavn – En bydel i Vandbalance, Projekt C: Realtidmonitering af 
+distributionsnet. September 2015. 
+ 
+  
+
+  
+30 Monitering af first flush og hverdagsregn / BOP / 2017-03-01 
+ 
+ 
+
+  
+  
+ 
+BILAG  
+ 
+ 
+  
+
+  
+ Monitering af first flush og hverdagsregn / BOP / 2017-03-01 
+ 
+ 
+ 
+
+  
+  
+ 
+BILAG  A – Moniteringsudstyr  
+Leverandører af udstyr  
+ 
+ 
+ 
+  
+
+  
+ Monitering af first flush og hverdagsregn // BOP / 2017-04-03 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Leverandører af udstyr 
+ 
+Moniteringsudstyr Producent/leverandør Produkt Beskrivelse Link til produkt 
+Flowmålere     
+ Fagerberg/Krohne 
+www.fagerberg.dk 
+ 
+Tidalflux DN200- DN1600 Magnetisk induktiv flowmåler til delvist 
+fyldte rør. Ved lav fyldningsgrad (<10%) 
+stiger usikkerheden på flowmålingen. 
+http://www.fagerberg.dk/cgi-
+files/mdmgfx/22658-
+td_tidalflux2300f_en_130627_40024898
+02_r02.pdf 
+ Aquasense 
+www.Aquasense.dk 
+ 
+ISCO 2150 Baseret på Doppler princip med måling 
+af vandhastighed og vanddybde. Måler 
+ned til en vanddybde på ca. 1,5 cm. 
+http://www.aquasense.dk/index.php/pro
+dukter/flowmalere/kloak-og-
+kanal/item/55-isco-2150-flowmåler 
+ 
+ MJK Automation 
+www.mjk.com 
+ 
+Sontek IQ  Baseret på Doppler princip med måling 
+af vandhastighed og vanddybde.  
+DN 500 –DN 5000 mm. 
+http://mjk.com/da/mjk-produkter/flow-
+maling/doppler-flowmaling 
+ 
+ Danova ApS 
+www.danova.dk 
+ 
+NIVUS 
+Stationær flowmåler OCM 
+PRO CF 
+Mobil flowmåler PCM4  
+Til alle rørprofiler. Doppler princip. www.danova.dk  
+Prøvetagningsudstyr Fagerberg MAXX stationær og 
+transportabel prøveudtagning 
+Den stationære prøveudtager kan 
+leveres som specialdesignede 
+målestationer med integreret flow og 
+pH-måling. 
+http://www.fagerberg.dk/Produkter/MAX
+X-TP4-W  
+ Aquasense ISCO transportabel eller 
+stationær  
+Med og uden mulighed for køling. 
+Mulighed for fraktioneret prøvetagning. 
+Kan være relevant ved karakterisering af 
+first flush. 
+http://www.aquasense.dk/index.php/pro
+dukter/proveoptagere 
+ 
+ Hach 
+www.dk.hach.com 
+ 
+Bühler Stationære prøvetagere med og uden 
+køling. Mulighed for fraktioneret 
+prøvetagning. 
+http://dk.hach.com/buhler-tryk-
+vakuumpr-veoptagere/station-re-pr-
+veoptagere/family?productCategoryId=5
+1090709103 
+ MJK Automation Vandprøvetager 780 Tryk – vacuum. Kan kobles til MJK 
+flowmåler 713. 
+http://mjk.com/da/mjk-
+produkter/analysemaling/provetagning 
+ 
+  
+
+ 
+ 
+ 
+Moniteringsudstyr Producent/leverandør Produkt Beskrivelse Link til produkt 
+Prøvetagningsudstyr 
+(fortsat) 
+Endress + Hauser 
+www.dk.endress.com 
+Liquistation CSF48 Automatisk stationær prøveudtager. http://www.endress.com/en/Field-
+instruments-overview/liquid-analysis-
+product-overview/sampler-stationary-
+csf48 
+Turbiditetsmåler Fagerberg WTW VisoTurb 700 IQ. http://www.fagerberg.dk/Produkter/Anal
+yse/Digital-procesanalyseudstyr-
+IQ/Elektrodersensorer/Turbiditet/?highli
+ght=turbiditet 
+ Aquasense S::CAN Turbi::lyser med temperatur måling. http://www.aquasense.dk/index.php/ren
+sningsanlaegget/brochure 
+ Hach Ultraturb sc turbidtetsmåler Med automatisk rensesystem. http://dk.hach.com/suspenderede-
+stoffer/solitax-sc-
+sensorer/family?productCategoryId=250
+34625098 
+ MJK Automation SuSix Turbiditets- og tørstofmåler. 
+Måleområde 0,001-9999 FNU/NTU. 
+http://mjk.com/da/mjk-
+produkter/analysemaling/torstofmaling 
+ Endress + Hauser Turbidity sensor Turbimax 
+CUS52D 
+Anvendelig til drikkevand og 
+procesvand. 
+http://www.endress.com/en/search?high
+light=conductivity&highlight=conductivity
+&highlight=conductivity&highlight=cond
+uctivity&filter.text=turbidity 
+Regnmåler MJK rainAhead Max. 2,4 mm pr. min. 
+0,2 mm pr. puls. 
+http://mjk.com/da/mjk-
+produkter/analysemaling/provetagning/r
+ainahead 
+ Aquasense 
+ 
+PRONAMIC 
+Rain-O-Matic 
+Professional Rain Gauge 
+Max. 2,4 mm pr. min. 
+0,2 mm pr. puls. 
+http://www.aquasense.dk/index.php/ren
+sningsanlaegget/meteorologi 
+Ledningsevne Fagerberg WTW TetraCon 700. http://www.fagerberg.dk/Produkter/Anal
+yse/Analog-
+procesanalyseudstyr/Elektrodersensore
+r/Ledningsevne/?highlight=ledningsevne 
+ 
+ 
+  
+
+ 
+ 
+ 
+Moniteringsudstyr Producent/leverandør Produkt Beskrivelse Link til produkt 
+ Aquasense S::CAN Condu::lyser, inklusive temperatur 
+måling. 
+http://www.aquasense.dk/index.php/ren
+sningsanlaegget/brochure 
+ Hach Hach 3400 konduktivitetssensorer med 
+digitalkontakt. 
+http://dk.hach.com/konduktivitetssensor
+er/3400-konduktivitetsensorer-med-
+digital-
+kontakt/family?productCategoryId=2511
+3673880 
+ Endress + Hauser Digital conductivity sensor 
+Condumax CLS21D 
+ 
+Anvendelig til miljømålinger. http://www.endress.com/en/Field-
+instruments-overview/liquid-analysis-
+product-overview/conductivity-
+conductive-sensor-
+cls21d?highlight=conductivity 
+Niveaumåler MJK Automation MJK Expert  Tryktransducer til anvendelse i 
+borehuller. 
+http://www.xylemwatersolutions.com/sc
+s/denmark/da/applikationer/renvatten/va
+ndbehandling/tryktransmitter/Document
+s/Expert%20tryktransmitter%20datablad
+.pdf

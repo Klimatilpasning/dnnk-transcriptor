@@ -1,0 +1,1707 @@
+=== DNNK PDF Dokument ===
+Titel: Interessentinddragelse i kommunal klimatilpasning
+Kategori: Rapporter_s3
+Kilde: https://usercontent.one/wp/www.dnnk.dk/wp-content/uploads/2022/11/Interessentinddragelse_i_kommunal_klimatilpasning_2021_Rapport_web.pdf
+Indekseret: 2026-09-21T18:32:36.661506
+
+==================================================
+
+/u.sc/n.sc/i.sc/v.sc/e.sc/r.sc/s.sc/i.sc/t.sc/y.sc /o.sc/f.sc /c.sc/o.sc/p.sc/e.sc/n.sc/h.sc/a.sc/g.sc/e.sc/n.sc 
+Interessentinddragelse i kommunal klimatilpasning
+Kortlægning af interesser og metoder
+Andersen, Peter Stubkjær; Horn-Petersen, Lin; Fryd, Ole; Vejre, Henrik
+Publication date:
+2021
+Document version
+Også kaldet Forlagets PDF
+Citation for published version (APA):
+Andersen, P. S., Horn-Petersen, L., Fryd, O., & Vejre, H. (2021). Interessentinddragelse i kommunal
+klimatilpasning: Kortlægning af interesser og metoder.
+Download date: 14. okt.. 2021
+
+Interessentinddragelse i  
+kommunal klimatilpasning
+– Kortlægning af interesser og metoder 
+Peter Stubkjær Andersen, Lin Horn-Petersen, Ole Fryd og Henrik Vejre
+IGN Rapport 
+Oktober 2021
+københavns universitet
+institut for geovidenskab og    
+naturforvaltning
+
+Titel
+Interessentinddragelse i kommunal klimatilpasning
+– Kortlægning af interesser og metoder
+Forfattere
+Peter Stubkjær Andersen, Lin Horn-Petersen, Ole Fryd og Henrik Vejre 
+Bedes citeret
+Andersen, P .S., Horn-Petersen, L., Fryd, O. & Vejre, H. (2021):  
+Interessentinddragelse i kommunal klimatilpasning – Kortlægning af 
+interesser og metoder. IGN Rapport, oktober 2021. Institut for Geo-
+videnskab og Naturforvaltning, Københavns Universitet, Frederiksberg. 
+48 s. ill. 
+Udgiver
+Institut for Geovidenskab og Naturforvaltning
+Københavns Universitet
+Rolighedsvej 23
+1958 Frederiksberg C
+ign@ign.ku.dk
+www.ign.ku.dk
+Ansvarshavende redaktør
+Claus Beier
+ISBN
+978-87-7903-865-3 (web)
+Layout omslag
+Jette Alsing
+Forsidefoto
+Oversvømmelse i Nørreådalen 
+Foto: Henrik Vejre
+Publicering
+Rapporten er publiceret på www.ign.ku.dk
+Gengivelse er tilladt med tydelig kildeangivelse
+Skriftlig tilladelse kræves, hvis man vil bruge instituttets navn og/eller 
+dele af denne rapport i sammenhæng med salg og reklame
+
+3 
+ 
+ 
+Sammendrag  
+ 
+Klimatilpasningsprojekter fordrer inddragelse af interessenter, som ofte har specifikke ønsker, lokal 
+viden og erfaringer og væsentlige interesser i forhold til, hvad der konkret igangsættes af forandring 
+i regi af projektet. Kommunerne i Danmark har en særlig rolle i klimatilpasningen, både som pro-
+jektejer og som myndighed. Derfor hviler der ansvar på den kommunale forvaltning, når interessen-
+ter skal høres og involveres. Her bør opmærksomheden rettes på det konkrete projekts karakter, som 
+er afgørende for hvilke inddragelsesmetoder og -værktøjer, der tages i brug.  
+ 
+På baggrund af litteraturstudier, spørgeskemaundersøgelse og en workshop med kommuner i  
+Region Hovedstaden gives følgende anbefalinger i rapporten: 
+ 
+• Vær opmærksom på interessenters forskellige perspektiver og på at sikre transparent i klimatil-
+pasningsprojekter. 
+• Tag i planlægningen af interessentinddragelse hensyn til at klimatilpasningsprojekter ofte er ka-
+rakteriseret ved stor kompleksitet, mange dagsordener og skalaer og en lang tidshorisont.  
+• Vær opmærksom på, hvor vigtig det konkrete klimatilpasningsprojekt er i forhold til andre kom-
+munale opgaver, når indsatser prioriteres. 
+• Vær opmærksom på eksisterende samarbejder om klimatilpasning, og hvordan der kan skabes 
+rum for partnerskaber med nye interessenter.  
+• Afklar fra projektstart formål, grænser og forventet udbytte med interessentinddragelse. 
+• Hav grundig kendskab til ’best practices’ om interessentinddragelse i klimatilpasningsprojekter 
+og arbejd for at sikre tidlig og reel inddragelse.  
+ 
+Anbefalingerne er beskrevet i uddybet form i rapporten. 
+
+ 
+4 
+ 
+Indholdsfortegnelse  
+FORORD ........................................................................................................................................ 5 
+1. INTERESSENTINDDRAGELSE I DEN OFFENTLIGE KLIMATILPASNING .......................... 6 
+Hvorfor inddragelse? .................................................................................................................... 7 
+Hvorfor er interessentinddragelse en udfordring? ..................................................................... 8 
+Er interessentinddragelse i klimatilpasningsprojekter noget særligt? ................................... 10 
+Eksempler på inddragelse i danske klimatilpasningsprojekter ............................................... 12 
+2. OVERORDNEDE RAMMER FOR INTERESSENTINDDRAGELSE ..................................... 14 
+3. FORVALTNINGSTRADITIONER OG INTERESSENTINDDRAGELSE ................................ 17 
+4. METODER TIL INDDRAGELSE I KLIMATILPASNINGSPROJEKTER ................................ 19 
+Eksempler på inddragelsesmetoder .......................................................................................... 19 
+Metoder til inddragelse – hvad skal vi så gøre? ....................................................................... 25 
+5. KORTLÆGNING AF INTERESSENTER NATIONALT OG REGIONALT ............................. 26 
+Overnational styring ................................................................................................................... 32 
+National styring ........................................................................................................................... 32 
+Regional styring .......................................................................................................................... 32 
+Lokal styring ............................................................................................................................... 32 
+Hvem er interessenterne i det konkrete klimatilpasningsprojekt? .......................................... 33 
+6. INTERESSENTUNDERSØGELSE BLANDT KOMMUNER I REGION HOVEDSTADEN ..... 35 
+Introduktion til spørgeskemaundersøgelsen ............................................................................ 35 
+Resultater af spørgeskemaundersøgelsen ............................................................................... 35 
+7. WORKSHOP OM INTERESSENTINDDRAGELSE – INPUT FRA KOMMUNERNE ............. 41 
+8. FREMTIDENS INTERESSENTINDDRAGELSE I KLIMATILPASNINGSPROJEKTER ........ 43 
+Anbefalinger ................................................................................................................................ 44 
+LITTERATURLISTE ..................................................................................................................... 45 
+
+ 
+5 
+ 
+Forord 
+Denne rapport er udarbejdet i forbindelse med projektet Klimatilpasning på tværs (2020-21), som er 
+igangsat af Region Hovedstaden i samarbejde med en række kommuner i regionen. Forskere fra 
+Københavns Universitet har bidraget med forskningsaktiviteter i form af workshops med kommuner 
+og øvrige interessenter samt i udarbejdelsen af en række notater og rapporter.  
+ 
+Rapporten har til formål at skabe et overblik over interessentinddragelse i forbindelse med klimatil-
+pasningsprojekter. Rapporten giver dels en generel introduktion til interessentinddragelse i den of-
+fentlige forvaltning, dels eksempler på metoder til interessentinddragelse. Desuden indeholder rap-
+porten resultater fra en undersøgelse om klimatilpasning og interessentinddragelse blandt 
+kommunerne i Region Hovedstaden.  
+ 
+Der er foretaget faglig kvalitetssikring af rapporten ved intern gennemlæsning og diskussion af ind-
+holdet blandt forskerne i projektet samt ved en uvildig gennemlæsning og kommentering af indhol-
+det af en videnskabelig medarbejder på lektor-/professorniveau ved Institut for Geovidenskab og 
+Naturforvaltning på Københavns Universitet. 
+ 
+Frederiksberg, oktober 2021 
+  
+
+ 
+6 
+ 
+1. Interessentinddragelse i den offentlige klimatilpasning 
+Når staten, regionerne og kommunerne i Danmark udarbejder planer for fremtiden, er der en stærk 
+tradition for, at interessenter skal inddrages som del af planlægningsprocessen. Baggrunden for at 
+inddrage de parter, der er berørte af planerne, er flersidige og beror i høj grad på de enkelte interes-
+senters rolle, interesse og indflydelse i det projekt, som planerne er en del af (Ulrich n.d.). 
+ 
+I nogle tilfælde drejer interessentinddragelsen sig blot om at informere borgere, i andre tilfælde dre-
+jer inddragelsen sig om en høring, og endelig kan inddragelse bero på at et ønske om at interessen-
+terne skal bidrage aktivt til arbejdet i projektet eller i at være med til tage beslutninger vedrørende 
+projektets gennemførelse. Således kan inddragelsesniveauet spænde vidt, hvilket i litteraturen er 
+blevet illustreret som en ”inddragelsesstige”, kendt som Arnsteins Ladder, hvor det laveste niveau 
+er beskrevet som manipulation og det øverste trin som borger-kontrol (Hansen & Mäenpää 2008). 
+ 
+Figur 1. Hhv. oprindelig version af Arnstein (1969) og oversat version. (* Bemærk at ”Placation” er vanskeligt at oversætte til 
+dansk). 
+ 
+Der bliver i interessentstigen brugt værdiladede ord til at beskrive de forskellige grader af inddra-
+gelse. En vigtig pointe fra inddragelsesstigen er dog, at den offentlige forvaltning gennem aktive 
+valg kan beslutte, i hvor høj grad interessenter skal eller bør inddrages i et konkret projekt. Og at 
+graden af inddragelsen er rammesættende for, hvilke indsatser og metoder, der bringes i spil i de  
+enkelte projekter.  
+ 
+
+
+ 
+7 
+ 
+I danske klimatilpasningsprojekter, som er blevet gennemført det seneste årti, har det næppe været 
+målet at ramme nogen af to yderpunkter, som findes på inddragelsesstigen i forhold til inddragelse 
+af offentligheden. Men inddragelse af berørte parter vurderes i stigende grad vigtigt, når projekter 
+skal gennemføres, blandt andet for at sikre et højere niveau af ejerskab for beslutninger i projektet 
+og for de effekter projektet har (fx Friluftsrådet 2015). 
+ 
+Center for Offentlig Kompetenceudvikling (COK) gennemførte i 2017 en undersøgelse blandt dan-
+ske kommuner, hvoraf det fremgår, at en af de vigtigste udfordringer i den kommunale forvaltning 
+er inddragelse af borgere. Kommuner har generelt oplevet en stigende tendens til at borgere inddra-
+ges i kommunale beslutningsprocesser, men udtrykker samtidig usikkerhed omkring, hvordan man 
+konkret tilrettelægger interessentinddragelsesprocesserne (COK 2017).  
+Hvorfor inddragelse? 
+Inddragelse af borgere i projekter som iværksættes af offentlige instanser, er forbundet med en 
+række positive effekter, eksempelvis mulighed for at inddrage viden fra borgere, at mindske mulig 
+modstand mod et projekt, og som nævnt herover, øget ejerskab for projektet og dets formål.  
+ 
+Når det drejer sig om inddragelse generelt kan man med fordel skelne mellem hvilke fordele der er 
+fra et offentlig myndigheds-perspektiv og fra et borgerperspektiv. I en rapport om ”Byens borger-
+inddragelse” lavet til Københavns Kommune (Rambøll 2012) identificeres forskellige typer af for-
+mål med interessentinddragelse generelt. Fra et myndighedsperspektiv har inddragelse således i 
+særlig grad til formål at:  
+ 
+• Få indsigt i lokale borgeres forhold 
+• Få mulighed for at mobilisere lokale kræfter 
+• Sikre forankring af kommunale indsatser 
+• Sikre politisk legitimering af planlagte tiltag. 
+ 
+Således har myndighedsperspektivet dels meget konkret fokus på bedre at forstå og inddrage det lo-
+kale, og dels at arbejde relationelt med borgere for at opnå opbakning og legitimitet omkring de ind-
+satser, der igangsættes fra myndighedernes side.  
+ 
+
+ 
+8 
+ 
+Fra et borgerperspektiv kan der ligeledes identificeres en række formål med at blive inddraget i den 
+offentlige forvaltnings projekter (Rambøll 2012):  
+ 
+• Få information om planlagte tiltag 
+• Få mulighed for at påvirke beslutninger 
+• Bidrage til at udvikle den lokale identitet 
+• Medvirke til demokratisk dannelse. 
+ 
+Borgerperspektivet er ligeledes dels konkret i forhold til at opnå information om tiltag og have mu-
+lighed for at påvirke tilblivelsen og konkretiseringen af tiltagende, og dels mere abstrakt med hen-
+syn til at bidrage til en højere grad af lokal identitet og demokratiforståelse.  
+ 
+I forhold til de to perspektiver, er der en vigtig pointe i, at det i udgangspunktet er den offentlige 
+myndighed, der har ansvaret for at inddrage borgerne og dermed også har serveretten i forhold til at 
+definere niveauet af inddragelse (jf. Arnsteins inddragelsesstige). Der er således en klar forventning 
+om, at det er den offentlige myndighed, der tager initiativet til inddragelsen. Ligeledes bør der også 
+være en forventning til borgerne om, at de som udgangspunkt ønsker at blive inddraget i beslutnin-
+gerne og ønsker at bidrage, om end det naturligvis ikke er samtlige borgere i et lokalområde, der 
+medvirker. Pointen er dog, at myndigheder og borgere er gensidigt afhængige når det drejer sig om 
+interessentinddragelse, og dermed har begge parter som udgangspunkt også et ansvar for at bidrage 
+(Marzuki 2015).  
+ 
+I den forbindelse bør det fremhæves, at de identificerede formål fra hhv. et myndigheds- og borger-
+perspektiv ikke som udgangspunkt er konkurrerende. Ideelt set vil alle ovenstående formål kunne 
+opnås, og dermed sikre synergi mellem myndigheder og borgere, hvilket i et overordnet perspektiv 
+bør være det helt centrale formål med interessentinddragelse (Hansen & Mäenpää 2008). 
+Hvorfor er interessentinddragelse en udfordring? 
+Som det blev fremhævet i undersøgelsen fra COK (2017), bliver interessentinddragelse ofte anset 
+for at være en udfordring i de danske kommuner. Der kan fremføres flere generelle forhold ved in-
+teressentinddragelse, der gør, at det bliver anset for at være besværligt og udfordrende. I punktform 
+fremhæver bl.a. Saarikoski et al. (2010), at interessentinddragelse også kan være karakteriseret ved 
+at: 
+
+ 
+9 
+ 
+ 
+• Være mere tids- og ressourcekrævende 
+• Lede til uenigheder mellem borgere og eksperter 
+• Enkeltpersoner/-interessenter kan obstruere processen 
+• Centrale personer ikke nødvendigvis kan eller vil inddrages. 
+ 
+Når interessenter inddrages tager processer oftest længere tid, idet borgere typisk har andre gøremål 
+(arbejde mv.) og derfor ikke har samme tid til rådighed til at indgå i en interessentinddragelses-pro-
+ces, som den kommunale forvalter. Samtidig kan de enkelte projekter kræve, at deltagerne får yder-
+ligere kendskab til situationen (fx teknisk viden), og kan derfor involvere uddannelse såvel proces-
+suelt som fagligt. Uenigheder i inddragelsesprocesser må karakteriseres som almindelige, og måske 
+ligefrem en nødvendighed for at komme frem til fælles løsninger. Når en forvaltning inddrager of-
+fentligheden, lægger der som udgangspunkt også et mandat til at borgere og andre interessenter kan 
+gøre deres mening gældende. Det betyder dog, at der er en risiko for, at processen løber i hård-
+knude, og dermed forsinker beslutninger og tiltagenes gennemførsel. Endelig vil man i en inddra-
+gelsesproces skulle være opmærksom på, om man har fået inddraget de rigtige personer, herunder 
+om deltagerkredsen er repræsentativ for det konkrete projekt, og at de beslutninger der træffes i ind-
+dragelsesprocessen dermed har den fornødne legitimitet. Ofte vil interessent-deltagerkredsen i et 
+projekt være et særligt segment bestående af veluddannede borgere med sociale og økonomiske res-
+sourcer (Inch 2015). Dette kræver således en særlig opmærksomhed fra den kommunale forvaltning 
+i planlægning af inddragelsesprocesser, så repræsentativitet sikres. I den forbindelse opdeler Agger 
+(2005) borgerne i tre kategorier, hhv. ”Ekspertaktivister”, ”Hverdagsmagere”, og ”ikke-deltagende 
+borgere”. Agger & Hoffmann (2008) betoner, at det er vigtigt at overveje, hvordan synspunkter og 
+interesser fra de ikke-deltagende borgere indfanges.  
+ 
+På trods af disse kendte udfordringer er det vigtigt at fremhæve, at mange danske kommuner arbej-
+der aktivt med at udvikle deres interessentinddragelsesprocesser. Der er fokus på at forbedre borger-
+nes oplevelser og input, og dermed et konstruktivt fokus på at interessentinddragelse som udgangs-
+punkt forbedrer den offentlige forvaltning og relationerne mellem myndigheder og borgere. Et 
+eksempel er fra Assens Kommune, hvor man holder borgertopmøder til at kickstarte lokale projek-
+ter og følger op med løbende dialog med interessenterne til de enkelte projekter (COK 2017). COK 
+(2017) fremhæver de generelle udfordringer ved interessentinddragelse, hvilket følges op af Kom-
+
+ 
+10 
+ 
+muners Landsforening (i den forbindelse med fokus på socialområdet), som påpeger: ”I kommu-
+nerne skal vi blive endnu bedre til at gå i dialog med og inddrage borgerne. Erfaringer fra adskillige 
+kommuner viser, at jo bedre vi er til at få en god dialog med borgeren, desto større er chancen for, 
+at de er trygge, og at vi bevilger de rigtige indsatser, som rent faktisk gør en positiv forskel for den 
+enkelte” (KL 2021). 
+Er interessentinddragelse i klimatilpasningsprojekter noget særligt? 
+Som udgangspunkt er inddragelse af interessenter alment for alle offentlige tiltag og projekter. Når 
+det kommer til offentlige klimatilpasningsprojekter, er der således også et behov for at inddrage 
+borgere, som er berørt af de tiltag og mulige forandringer, projekterne medfører.  
+ 
+Til trods for dette, er der visse forhold i klimatilpasningsprojekter, som gør disse særlige og derfor 
+kræver særlige fokuspunkter og processer for inddragelse, der er nøje gennemtænkte. Hügel og  
+Davies (2020) fremhæver kompleksitet, konkurrerende dagsordner, skala-afhængige værdier og ge-
+nerationslagt sigte som fire hovederkendelser og pejlemærker for interessentinddragelse i forbin-
+delse med klimatilpasningsprojekter.  
+ 
+Kompleksitet: For det første er klimatilpasningsprojekter ofte kendetegnet ved en stor grad af kom-
+pleksitet i forhold til fagligt indhold. I dansk sammenhæng drejer projekter om klimatilpasning 
+sig ofte om håndtering af vand på nye måder, så eksempelvis afledning af vand sker effektivt og 
+hurtigt, så vandet ikke medfører skader på bygninger, arealer eller produktionsapparater. Tiltag 
+kræver derfor indgående kendskab til vandføring, terræn, jordbundsforhold, ejerskab over byg-
+ninger og arealer som er berørte. Dette kan i mange tilfælde strække sig over store områder med 
+meget forskelligartede arealanvendelser. Ligeledes vil det være relevant at inddrage viden om 
+naturforhold og biodiversiteten på de berørte arealer, og hvilke regler der eksempelvis gælder for 
+beskyttelse af truede arter. Dette kræver igen kendskab til lovgivning, ikke bare på naturbeskyt-
+telsesområdet, men også inden for vandløbsforvaltning og jordbrug, og ikke mindst det kom-
+plekse sæt af regler, der gælder i berørte byområder. 
+ 
+Konkurrerende dagsordner: For det andet vil ændringer af arealers anvendelse i forbindelse med 
+klimatilpasning ofte berøre en bred kreds af borgere, som ikke nødvendigvis deler holdninger til, 
+
+ 
+11 
+ 
+hvad der er vigtigt at beskytte og tilpasse i klimatilpasningsprojekter. Det betyder, at der i forbin-
+delse med projekter og tiltag skal tages særligt hensyn til en lang række interessenter, når foran-
+dringer foreslås og skal gennemføres. Man skal som projektansvarlig være i stand til at vurdere 
+konsekvenser for alle berørte parter, og ofte vil landmanden, biologen og den almene borger 
+have forskellige fokuspunkter: er det sikring af fødevareproduktionen, af den sjældne engplante, 
+eller af havehuset ned til vandløbet, det vigtigste? Dette understreger naturligvis vigtigheden af 
+at sikre det rette niveau af interessentinddragelse, når projekter skal gennemføres.  
+ 
+Skala-afhængige værdier: Klimatilpasningsprojekter berører ofte store områder, og i nogle til-
+fælde vil der skulle tages hensyn til meget lokale værdier, som eksempelvis fredede bygninger, 
+der er beliggende i risikoområder for oversvømmelse, der er i fokus. I andre tilfælde dækker der 
+store arealer, hvor et bredere perspektiv om eksempelvis vandføring og naturområder er på spil. I 
+de tilfælde, hvor klimatilpasningstiltagene er relateret til vandløb vil forhold om opstrøms- og 
+nedstrøms-problematikker være relevante at se på, idet tiltag som opmagasinering, stemmeværk 
+eller genslyngninger af åløb, ofte vil påvirke vandføringen såvel som arealbehovet både op-
+strøms som nedstrøms. I den sammenhæng kan der være særskilte udfordringer forbundet med, 
+at vandløbsmyndigheder langs større vandløb typisk skifter mellem forskellige kommuner, der 
+kan have forskellige modeller og traditioner for vandløbsvedligeholdelse som eksempelvis grø-
+deskæring og vedligehold af åbrinker.  
+ 
+Generationslangt sigte: Forandringer i forbindelse med klimatilpasningsprojekter har ofte lang 
+tidshorisont, og tilmed kan enkelte tiltag i et projekt have forskellige tidsmæssige sigter. Det er 
+en naturlig del af alle projekter at forholde sig til tidshorisonter, og derfor forventeligt også noget 
+som de projektansvarlige for klimatilpasningsprojekter har skarpt øje for. En særlig opmærksom-
+hed går dog på, at man i disse projekter kan påvirke kommende generationers muligheder for at 
+anvende arealer til de formål, der også engang i fremtiden vil være væsentlige. Derfor er en væ-
+sentlig pointe netop, at klimatilpasning også tænkes ind i et bæredygtigt udviklingsperspektiv, 
+som netop understreger vigtigheden af at ”opfylde de nuværende behov, uden at bringe frem- 
+tidige generationers muligheder for at opfylde deres behov i fare” (World Commission on  
+Environment and Development, 1987).  
+ 
+
+ 
+12 
+ 
+I og med klimatilpasningsprojekter således er karakteriseret ved stor kompleksitet, mange konkurre-
+rende dagsordner, vidtstrakte skala-afhængige værdier og ikke mindst et langt sigte, som kan 
+strække sig over flere generationer, kræver det som oftest noget særligt af inddragelsesprocesserne 
+(Few et al. 2007). I første omgang drejer det sig om fra start at skabe klarhed over, hvad det over-
+ordnede formål med inddragelse af interessenter i klimatilpasningsprojektet er, hvad grænserne for 
+inddragelse er, og endelig hvad det forventede udbytte ved inddragelse er (Few et al. 2007).   
+ 
+I den internationale akademiske litteratur bliver det fremført, at foreninger i civilsamfundet og det 
+private erhvervsliv i højere grad end tidligere deltager aktivt i diskussioner om klimaforandringer 
+og -tilpasning, og dermed også bidrager til udformning af projekter og løsninger. Ligeledes påpeges 
+det i følge Hügel og Davies (2020), at formel inddragelse og deltagelse fra uorganiserede grupper, 
+de almindelige borgere, i høj grad er fraværende. De fremfører i den sammenhæng nogle af de alle-
+rede identificerede udfordringer ved interessentinddragelse (tid, ressourcer, uenigheder, ineffektivi-
+tet) som grunden til den mangelfulde inddragelse. Samtidig påpeges det, at øget borgerinformation 
+omkring et kommende projekt ikke nødvendigvis leder til større opmærksom og dermed, at interes-
+senter aktiveres og kræver inddragelse.  
+Eksempler på inddragelse i danske klimatilpasningsprojekter 
+Selv om internationale forskere har påpeget, at inddragelsen af almindelige borgere i klimatilpas-
+nings-projekter generelt er fraværende eller i bedste fald mangelfuld, så findes der i dansk sammen-
+hæng flere gode eksempler på aktiviteter og initiativer, hvor borgere/interessenter inddrages enten 
+på overordnet anbefalingsniveau eller meget konkret i lokale klimatilpasningsprojekter. Et par ek-
+sempler på disse er:  
+ 
+Borgertinget på klimatilpasningsområdet: Borgertinget blev gennemført fra efteråret 2020 til for-
+året 2021, og havde til formål at samle en repræsentativ kreds af 99 danske borgere til at give in-
+put og anbefalinger til den fremtidige danske klimatilpasningsindsats. Målet var således ikke blot 
+at give borgerne mulighed for at blive hørt, men at involvere en udvalgt skare af borgere aktivt i 
+formulering af kommende indsatser. I april 2021 overdrog Borgertinget 117 klimaanbefalinger 
+inden for 19 forskellige emner til Klima-, energi, og forsyningsministeren og Folketingets 
+Klima-, Energi- og Forsyningsudvalg. Anbefalingerne fremgår af rapporten ”Borgertingets anbe-
+
+ 
+13 
+ 
+falinger” og er interessant i forhold til interessentinddragelse idet der opfordres til yderligere til-
+tag for at involvere borgere både nationalt, ved at etablere Borgertinget som et permanent foreta-
+gende, og lokalt ved at gennemføre lokale borgerting i hver af de danske kommuner (Klima-, 
+energi, og forsyningsministeriet 2021).  
+ 
+Innovativ klimatilpasning med borgere: I 2015 udgav en række aktører inden for vandplanlæg-
+ningsområdet en håndbog om innovativ klimatilpasning. Bogen blev udgivet af Vand i byer, 
+Dansk Byplanlaboratorium, Danva, og Aalborg Universitet. Bogen har til formål at inspirere fag-
+folk inden for klimatilpasning til at arbejde mere innovativt og øge inddragelse af borgere i kli-
+matilpasningsindsatser. Håndbogen giver en generel indledning til innovativ klimatilpasning og 
+koblingen til bæredygtig udvikling. Derudover anvises 14 konkrete anledninger til samarbejde 
+med borgere i klimatilpasningen og derefter ligeledes 14 cases, hvor klimatilpasning og samar-
+bejde med borgere belyses gennem konkrete eksempler. Bogen afsluttes med 10 konkrete anvis-
+ninger til at fremme samarbejdet mellem det offentlige og borgere i forbindelse med klimatilpas-
+ningsprojekter, eksempelvis ved at skabe samarbejdsfora, etablere en drejebog for 
+interessentinddragelse og mobilisere stedets ressourcer (Hoffmann et al. 2015).  
+ 
+Klima100: I denne publikation fra 2018 er samlet 100 klimatilpasningsprojekter i 80 af de danske 
+kommuner. De udvalgte løsninger betegnes i publikationen som eksempler på de bedste klima-
+løsninger i Danmark. Et af vurderingskriterierne for projekterne har været graden af interessent-
+inddragelse. En af pointerne er, at de mest succesfulde løsninger netop er blevet realiseret på 
+baggrund af innovativ og omfattende interessentinddragelse fra start af projektet. Ligeledes på-
+peges det, som også anført i den internationale litteratur, at det er en notorisk udfordring at ind-
+drage alle borgere på repræsentativ vis og udnytte deres ressourcer i tilstrækkelig grad i klimatil-
+pasningsprojekter. I godt en håndfuld af eksemplerne nævnes interessentinddragelse som et 
+centralt element for, at løsningerne er blevet til virkelighed (Sustainia & Realdania 2018).  
+  
+
+ 
+14 
+ 
+2.  Overordnede rammer for interessentinddragelse 
+De danske lovgivningsmæssige rammer for interessentinddragelse i miljøsager (i bred forstand) er 
+komplekse. Et grundlag for information til borgere og inddragelse af interessenter findes i Aar-
+huskonventionen fra 1998 (”Konvention om adgang til oplysninger, offentlig deltagelse i beslut-
+ningsprocesser samt adgang til klage og domstolsprøvelse på miljøområdet”). I mange tilfælde vil 
+projekter der vedrører klimatilpasning være at betragte som en miljøsag, og derfor vil der være en 
+forventning om, at klimatilpasningsprojekter også lever op til målene beskrevet i Aarhuskonventio-
+nen.  
+ 
+Aarhuskonventionen beskæftiger sig på overordnet niveau med, hvad der er blevet betegnet som de 
+tre søjler i konventionen, hvor offentligheden skal informeres og inddrages (Mauerhofer 2016). Det 
+drejer sig om ”1) ret til adgang til miljøoplysninger”, ”2) ret til deltagelse i beslutningsprocesser” og 
+”3) adgang til klage og domstolsprøvelse”. I et interessentinddragelsesperspektiv er alle tre søjler 
+vigtige, men i et fokuseret perspektiv om at inddrage borgere aktivt må den 2. søjle anses som væ-
+rende vigtigst.  
+ 
+Aarhuskonventionen beskriver forventninger til niveauet af inddragelse inden for tre områder, hhv. 
+”offentlig deltagelse i afgørelser vedrørende konkrete aktiviteter”, ”offentlig deltagelse i planer, 
+programmer og politikker vedrørende miljøet” og ”offentlig deltagelse ved udarbejdelse af ministe-
+rielle bestemmelse og/eller generelt anvendelige, juridiske bindende, normative instrumenter”. I 
+henhold til konventionens artikel 6, beskrives der for det første område meget deltaljeret, hvordan 
+niveauet af information om aktiviteter og tidlig inddragelse sikres. For det anden og tredje område 
+er konventionen omvendt meget lidt detaljeret, og beskriver blot, at der skal fastsættes passende 
+praktiske og/eller andre foranstaltninger med henblik på offentlighedens deltagelse. Her er det altså 
+dels kontekstafhængigt og dels traditionsafhængigt, hvilken form og hvilket niveau af interessent-
+inddragelse den ansvarlige myndighed lægger op til i eksempelvis udarbejdelsen af en offentlig kli-
+matilpasningsplan. For en mere specifik beskrivelse af Aarhuskonventionens mål og midler henvi-
+ses til konventionsteksten på retsinformation.dk (BKI nr. 10 af 13/03/2003 – Bekendtgørelse af 
+Århus-konventionen af 25. juni 1998 om adgang til oplysninger, offentlig deltagelse i beslutnings-
+processer samt adgang til klage og domstolsprøvelse på miljøområdet). 
+ 
+
+ 
+15 
+ 
+Det nationale arbejde med at leve op til konventionens formål afrapporteres årligt (Miljøministeriet 
+2021). I afrapporteringen nævnes, at en række danske love rammesætter offentlighedens adgang til 
+information og offentlig deltagelse. På generelt niveau gælder det hhv. Forvaltningsloven (LBK nr. 
+433 af 22/04/2014 – Bekendtgørelse af forvaltningsloven) og Offentlighedsloven (LBK nr. 145 af 
+24/02/2020 - Bekendtgørelse af lov om offentlighed i forvaltningen), som fastsætter rammerne for 
+hhv. borgeres rettigheder og beføjelser samt adgang til information og aktindsigt. På specifikt ni-
+veau gælder Miljøoplysningsloven (LBK nr. 980 af 16/08/2017 - Bekendtgørelse af lov om aktind-
+sigt i miljøoplysninger), som supplerer de to generelle love med en række punkter vedrørende ad-
+gang til miljøoplysninger (Miljøministeriet 2021). Disse love er dog primært rettet mod at sikre 
+adgangen til miljøoplysninger.  
+ 
+Særligt de to EU-direktiver, Oversvømmelsesdirektivet (Europa-Parlamentets og Rådets direktiv 
+2007/60/EF af 23. oktober 2007 om vurdering og styring af risikoen for oversvømmelser) og Vand-
+rammedirektivet ((Europa-Parlamentets og Rådets direktiv 2000/60/EF af 23. oktober 2000 om 
+fastlæggelse af en ramme for Fællesskabets vandpolitiske foranstaltninger), stiller krav til med-
+lemslandenes arbejde med klimatilpasning og vandmiljøet. Oversvømmelsesdirektivet fastsætter, at 
+alle EU-medlemslande skal planlægge håndtering af ekstreme oversvømmelser, der kan skabe nega-
+tive følger for kulturarv, miljø, sundhed eller økonomi. I Danmark er direktivet implementeret i 
+Miljø- og Fødevareministeriets ”Lov om vurdering og styring af oversvømmelses-risikoen for vand-
+løb og søer” (Miljøstyrelsen 2021). Med EU’s vandrammedirektiv fastlægges rammerne for beskyt-
+telse af vandløb og søer, kystvande, overgangsvande og grundvand i alle EU-lande og hvordan dis-
+ses tilstand kan forbedres. Alle EU-lande er forpligtede til at leve op til direktivets formål og 
+dermed implementere direktivet i national lovgivning (Miljøstyrelsen 2021). Direktivet stiller krav 
+til en række miljømål og overordnede rammer for, hvordan overvågning af vandmiljøets tilstand 
+skal planlægges og gennemføres. Vandrammedirektivet er udmøntet i den danske lovgivning om 
+”Lov om vandplanlægning”, som netop rummer bestemmelser om miljømål, vanddistrikter, myn-
+digheders ansvar, planlægning og overvågning mv (Miljøstyrelsen, n.d.). 
+ 
+Med hensyn til interessentinddragelse i forbindelse med projekter der formuleres i regi af vandram-
+medirektivet, kan der sondres mellem tre niveauer af inddragelse/deltagelse, hhv. information, kon-
+sultation og aktiv involvering. Rettidig og relevant information samt offentlige høringsperioder 
+(konsultation) er obligatorisk i henhold til direktivet, men EU-landene kan selv fastlægge niveauet 
+
+ 
+16 
+ 
+af aktiv involvering (Hansen & Mäenpää 2008).  Oprettelsen af Vandrådene er et eksempel på, 
+hvordan man i dansk sammenhæng har arbejdet med direkte involvering af interessenter som del af 
+Vandrammedirektivet og er beskrevet af Graversgaard et al. (2016).  
+  
+
+ 
+17 
+ 
+3. Forvaltningstraditioner og interessentinddragelse 
+Opmærksomheden på inddragelse af interessenter i kommunal natur- og miljøforvaltning er som 
+anført herover steget de senest år, og det må forventes at det også gælder, når det kommer til projek-
+ter vedrørende klimatilpasning. Det fremføres i undersøgelsen fra Center for Offentlig Kompetence-
+udvikling, at flere kommuner eksperimenterer når de inddrager borgere, eksempelvis ved at afholde 
+workshops, udforme samskabelsesprocesser og invitere til borgertopmøder (COK 2017). Dette kan i 
+en forvaltningskontekst karakteriseres som noget, der går i retning af en bottom-up tilgang. 
+ 
+Her er det således på sin plads kort at nævne, at der ofte skelnes mellem hhv. en bottom-up og en 
+top-down tilgang i forvaltning og planlægning: I sin rene form vil bottom-up være kendetegnet ved, 
+at borgere og interessenter ad egen drift tager initiativ til indsatser eller projekter, eksempelvis in-
+den for forvaltningen af naturområder. Her er det de aktive borgere, som er centrum for det der sker 
+og dermed også dem som er drivkraften bag projektets gennemførsel. Tilsvarende vil top-down i sin 
+rene form være karakteriseret ved, at den offentlige forvaltning (f.eks. kommunen) er initiativtager 
+til projekter og uden egentlig inddragelse (eller kun ved minimal inddragelse dvs. det der er nødven-
+digt jf. lovgivningen) af offentlighed gennemfører projekter. Ind imellem disse to rene former/yder-
+punkter findes naturligvis alle mulige mellemformer, hvor borgere og interessenter i større eller 
+mindre omfang inddrages. Ligeledes vil det også være muligt at beskrive projekter ud fra niveauet 
+af bottom-up i et tids- eller faseperspektiv, altså i hvilken grad interessenter inddrages eller tager 
+initiativ i forskellige faser i et projekt.  
+ 
+Forskellige kommuner har ligeledes forskellige traditioner for, hvordan og i hvilken grad de arbej-
+der med interessentinddragelse i deres natur-, miljø- og klimatilpasningsprojekter. Dette er fx an-
+skueliggjort i Klima100 publikationen (Realdania 2018), hvor der i nogle projekter særligt fremhæ-
+ves kommunale projekter, hvor en stor grad af bottom-up tilgang har været afgørende for succes. De 
+forskellige niveauer og traditioner fortæller dog også noget om, at der ikke fra national side er fast-
+lagt et forventet niveau af interessentinddragelse i fx klimatilpasningsprojekter, og det naturligt gi-
+ver en stor variation i, hvor meget og hvor lidt interessenter inddrages – afhængigt af hvilken kom-
+mune og hvilket projekt der er tale om. 
+ 
+Nogle kommuner har egne metoder til interessentinddragelse, eksempelvis Aarhus Kommunes ”År-
+husmodel for borgerinddragelse” (Århus Kommune 2004), ”Furesømodellen for borgerinddragelse” 
+
+ 
+18 
+ 
+(Furesø Kommune n.d.) og Fredensborg Kommunes ”Sådan arbejder vi med borgerinddragelse” 
+(Fredensborg Kommune n.d.). Andre kommuner har udviklet en politik for interessentinddragelse, 
+fx Sønderborg (Sønderborg Kommune n.d.), Syddjurs, Albertslund, Skanderborg, Odder, og Born-
+holms Regionskommune, hvor politik og strategier for interessentinddragelse i bred forstand er be-
+skrevet. 
+  
+
+ 
+19 
+ 
+4. Metoder til inddragelse i klimatilpasningsprojekter 
+En naturlig forlængelse af traditioner og kommunale politikker er at berøre de metoder for interes-
+sentinddragelse, der findes. Altså, hvordan man (som kommune) konkret kan arbejde med at ind-
+drage interessenter og borgere. Ved inddragelsesmetoder forstås i korte træk den fremgangsmåde, 
+der benyttes i forbindelse med involvering af borgere, og kan være sammensat af mange forskellige 
+processer, planer og værktøjer.  
+ 
+Indledningsvis er det værd at slå fast, at metoder der benyttes til at inddrage borgere i klimatilpas-
+ningsprojekter som udgangspunkt ikke adskiller sig fra metoder, der generelt benyttes i andre natur- 
+og landskabsforvaltningsprojekter og i forbindelse med byudvikling. 
+ 
+Nedenstående eksempler på metoder er udvalgt, fordi de er blevet benyttet i klimatilpasningsprojek-
+ter inden for de seneste år. Eksempler er beskrevet kortfattet her, og en detaljeret beskrivelse kan 
+findes i referencerne til de udvalgte metoder. 
+Eksempler på inddragelsesmetoder 
+Procesplan og metodekatalog - NIRAS & Teknologirådet  
+I forbindelse med udviklingen af et klimatilpasningsprojekt på Frederiksberg udviklede NIRAS i 
+samarbejde med Teknologirådet og støttet af KLIKOVAND, Greater Copenhagen og Region Ho-
+vedstad en procesplan (NIRAS 2017a) og et metodekatalog (NIRAS 2017b). Begge er konkrete 
+værktøjer til, hvordan og hvornår forskellige typer af interessenter kan inddrages i et klimatilpas-
+ningsprojekt. Metodekataloget kan læses som en forlængelse af procesplanen.  
+ 
+I metodekataloget præsenteres fem kategorier af interessentgrupper: A) Projektgruppe, B) Professi-
+onelle, C) Forbund & organisationer, D) Lokale foreninger, og E) Brugere & borgere. Ligeledes 
+gennemgår 12 typer af inddragelsesmetoder. Hovedformålet med kataloget er at beskrive inddragel-
+sesmetoderne og deres tilknytning til interessentgrupperne. Beskrivelserne består af en grundig for-
+målsbeskrivelse, vejledninger, tidsoverblik, rollefordeling, oplysninger om hvornår i processen me-
+toden burde anvendes og til hvilken interessentgruppe.  
+ 
+ 
+ 
+
+ 
+20 
+ 
+Metodekataloget gennemgår følgende 12 inddragelsesmetoder:   
+ 
+I kataloget anbefales det, at der anvendes følgende metoder til de fem interessentgrupper:  
+ 
+• Projektgruppe: Afklaringsworkshop 
+• Professionelle: Følgegruppe 
+• Forbund & organisationer: Caféseminar, Interviewmøde, Perspektivværksted 
+• Lokale foreninger: Caféseminar, Open Space, Brugerværksted, Skurvogne, Medier 
+• Brugere & borgere: Parkvandring, Orienteringsmøde, Brugerværksted, Langbordsmøder, Me-
+dier, Skurvogne 
+ 
+Herunder er tre udvalgte metoder beskrevet med hensyn til formål, tilknyttede interessentgruppe og 
+praktisk information:  
+ 
+Afklaringsworkshop: Formålet med metoden er, at projektgruppen for det på gældende projekt 
+diskuterer og beslutter, hvilke mål og ønsker de har til interessentinddragelsen. Endvidere skal 
+gruppens nuværende viden samles, og rollerne og ansvarsområderne, der omhandler interessent-
+inddragelse i projektet, skal defineres og fastlægges. Workshoppen er med til at styrke den in-
+terne organisering af projektgruppens arbejde og ansvarsområde. Metoden er relevant at arbejde 
+med, da erfaring fra projektarbejde viser, at en stram intern organisering med en klar ansvars- og 
+kompetencefordeling er afgørende for at projektgruppen fungerer og dermed en forudsætning 
+for, at projektet bliver en succes. Workshoppen har en varighed på én dag, og det er væsentligt, 
+at alle medlemmer af projektgruppen deltager. Workshoppen bør afholdes i begyndelsen af pro-
+jektudviklingen (NIRAS, 2017a). 
+ 
+Orienteringsmøde: Formålet med metoden er at skabe åbenhed omkring projektet for borgere og 
+andre interesserede. Med mødet kan projektgruppen få feedback på forslag, der eksempelvis 
+kunne have været diskuteret på øvrige interessentmøder. Det anbefales, at mødet har en varighed 
+Afklaringsworkshop  
+ 
+Perspektivværksted 
+ 
+Brugerværksted  
+ 
+Følgegruppe 
+ 
+Orienteringsmøde 
+ 
+Parkvandring  
+ 
+Caféseminar  
+ 
+Medier   
+ 
+Langbordsmøder 
+ 
+Interviewmøde  
+ 
+Open Space  
+ 
+Skurvogne  
+ 
+
+ 
+21 
+ 
+på ca. 3 timer, og at det afholdes som et fyraftensarrangement. Invitationen udsendes som en 
+åben invitation, hvilket indebærer at antallet af deltagere ikke kan forudsiges. Selve mødet bør 
+indledes og afsluttes af en formel person, som borgmesteren eller formanden for By- og Miljøud-
+valget. Der vil som udgangspunkt ikke være plenumoplæg fra projektgruppen, men der gives i 
+stedet brugere og borgere mulighed for at stille spørgsmål til medlemmerne af projektgruppen og 
+øvrige fagpersoner. Aftenen afsluttes med en kort opsamling ved projektgruppen. Metoden an-
+vendes under projektforslagsfasen (NIRAS, 2017a).  
+ 
+Caféseminar: Formålet med metoden er at udvikle idéer og visioner på tværs af forbund, organisa-
+tioner samt lokale foreninger. Tanken er at skabe et uformelt og afslappet forum, hvor der er god 
+plads til dialoger blandt de fremmødte. Målet for projektgruppen er at lytte til deltagernes diskus-
+sion af, hvordan forskellige interesser kan sameksistere samt høre deres forslag og idéer, således 
+at disse kan indgå i det videre arbejde med projektet. Seminaret anbefales at have en varighed på 
+en dag. Deltagerne er forbund, organisationer og lokale foreninger, og som minimum anbefales 
+det at have 25 deltagerne. Cafémødet afholdes under projektets proces om dispositionsforslag 
+(NIRAS, 2017a).  
+ 
+For en mere deltaljeret beskrivelse af alle metoder henvises til Metodekatalog til procesplan 
+(NIRAS, 2017a).   
+  
+Få styr på vandet – NIRAS med flere 
+I forlængelse af ovenstående metodekatalog har NIRAS også været med til at udarbejde en guide til 
+grundejerforeninger kaldet Få styr på vandet - en GUIDE til grundejerforeningers klimatilpas-
+ning (NIRAS 2018). 
+ 
+Publikation er udarbejdet i samarbejde med mange af de samme partnere, herunder Forsikring & 
+Pension, Region Hovedstaden, Greater Copenhagen, KLIKOVAND samt Niels Lützen Landskabs-
+arkitekter. Guiden er beskrevet som en generel guide til grundejerforeninger, men giver samtidig 
+meget konkrete eksempler på håndtering af kendte udfordringer og hvordan de kan løses. Det kan 
+eksempelvis være løsninger i forbindelse med problemer som højt grundvand, skybrud, længereva-
+rende regnperioder, tøbrud eller stormfold (NIRAS 2018).   
+ 
+
+ 
+22 
+ 
+Guiden beskriver en konkret køreplan for, hvordan grundejerforeninger kan arbejde med klimatil-
+pasningsprojekter, og er samtidig en opfordring til, at foreninger af ejere tager ansvar for at sikre 
+deres lokalområde i ”kampen mod klimaet”. I korte træk består køreplanen af tre trin: 
+ 
+Identificér symptomer og forstå årsager: Her arbejdes med at undersøge, hvad der er af proble-
+mer i lokalområdet – jf. ovenstående liste af problemer, og skabe forståelse for, hvad de under-
+læggende årsager er til at de problemer findes i lokalområdet.  
+ 
+Find løsninger: Når problemer og årsager er identificeret er næste skridt at finde løsninger som er 
+relevante og forventes at virke på de konkrete problemer, der er fundet. Her listes en lang række 
+kendte og gennemprøvede løsninger, som et katalog af muligheder grundejerforeningen i fælles-
+skab med dens medlemmer kan vælge imellem. Kataloget skitserer eksempler på tidligere løsnin-
+ger og påpeger fordele og ulemper ved de enkelte løsninger. 
+ 
+Igangsæt klimatilpasning: Når de relevante løsninger er valgt er sidste skridt at få igangsat selve 
+klimatilpasningen, som kan være enkelte tiltag eller en kombination af flere løsninger. Ved dette 
+skridt skal finansieringsmuligheder for projektet klarlægges og besluttes. Ligeledes skal grund-
+ejerforeningen i dialog med kommunen, forsyningsselskaber, nabogrundejerforeninger og rådgi-
+ver for at sikre, at projektet kan blive til virkelighed.  
+ 
+Interessentinddragelsen, som beskrives i denne publikation, er ikke direkte fra offentlig myndighed 
+til borgere, men går gennem en hovedinteressent, nemlig grundejerforeningen. Her lægges nemlig 
+op til at foreningen inddrager interessenter, og dermed får aktiveret borgere, som har en reel og me-
+get direkte interesse i, at projektet gennemføres og dermed reducerer risikoen for at blive berørt af 
+klimarelaterede problemer med vand. Dette er som udgangspunkt et rigtigt stærkt grundlag for, at 
+interessentinddragelsen kommer til at virke og at klimatilpasningsprojektet dermed kan gennemfø-
+res med opbakning fra borgerne.  
+ 
+Bedre interessentinddragelse - Lise Gamst  
+Publikationen Bedre interessentinddragelse (Gamst 2007) har til formål at danne overblik over, 
+hvilke inddragelsesmetoder, der egner sig til hvilke situationer og at informere om, hvordan disse 
+metoder kan fremme en positiv interessentinddragelse. Publikationen er skabt på baggrund af inter-
+
+ 
+23 
+ 
+viewundersøgelser udført i 15 kommuner i Danmark og med input fra forskellige interessentgrup-
+per. Publikationen er tænkt som inspiration for alle, der arbejder med interessentinddragelse især i 
+byudviklingsprojekter. Den rummer eksempelvis vejledninger til, hvordan en samlet kommunikati-
+onsplan og interessentinddragelse kan udarbejdes, og særligt hvilke komponenter og metoder der 
+kan anvendes hertil.  
+ 
+I Gamsts publikation gennemgås der tre metoder, der er anses som meget anvendelige til interes-
+sentinddragelse. Alle tre metoder er af typen storgruppemetoder. De er valgt, da de til dels er veleg-
+nede til udviklingsarbejde med deltagere med meget forskellige forudsætninger, og til dels fordi de 
+kan anvendes i mindre såvel som store grupper - alt fra 20-40 personer og op til 500 personer. Me-
+toderne er derfor særligt anvendelige i et projekt, hvor en eller flere kommuner ønsker at inddrage 
+et højere antal af borgere og interessenter. De tre metoder er beskrevet kortfattet herunder:  
+ 
+Værdsættende undersøgelser: Metoden har til formål at vende tingene på hovedet, og hvor der 
+tages udgangspunkt i det velfungerende i projektet frem for problematikkerne. Denne metode 
+kan bruges i opstarts- og visionsfasen af projektet, samt senere som et led i workshops og til eva-
+lueringer.  
+ 
+Open Space: Denne metode bygger på principper om inkludering, frivillighed, engagement og an-
+svar. Metoden er udviklet til at arbejde med meget store grupper om komplekse problemstillin-
+ger, hvor det særligt ønskes, at interessenterne får indflydelse på udviklingen og løsninger i det 
+pågældende projekt. Med Open Space får deltagerne til ansvar at udarbejde temaer, program og 
+løbende skabe en dagsorden for mødet. Temaerne organiseres i grupper, hvor deltagerne selv 
+vælger, hvilken gruppe(r) de ønsker at deltage i alt efter de temaer, der interesserer dem. Work-
+shoppen afsluttes med en fælles præsentation af gruppernes arbejde. Metoden er brugbar både til 
+visionsarbejde og efterfølgende til idé- og projektudvikling.  
+ 
+World café: Konceptet i world café er, at deltagerne bevæger sig i rotation mellem selvorganise-
+rede eller planlagte grupper. Med rotationen sikres deltagerne at modtage den samme indsigt og 
+viden til trods for, at de er inddelt i mindre grupper. Metoden bidrager til effektivitet i de enkelte 
+grupper, giver overblik over projektet, samtidig med at en vidensdeling opstår mellem delta-
+gerne. Hovedformålet er at opnå erfaringsudveksling, som giver deltagerne mulighed for at 
+skabe fælles forståelse for projektet. Dette kræver selvfølgelig, at deltagerne bidrager og deltager 
+
+ 
+24 
+ 
+aktivt i snakken ved grupperne. Metoden vurderes at være yderst brugbar, når deltagerne besid-
+der forskellige erfaringer og synspunkter.   
+ 
+Ud over gennemgangen af de tre metoder omtaler Gamst også, at der blandt interessenter generelt er 
+en efterspørgsel på reel involvering (velvidende at publikationen er fra 2007). Interessenterne øn-
+sker at inddrages på et tidspunkt, hvor projektet stadig er forholdsvis åbent og der rent faktisk er 
+mulighed for at have indflydelse på dets udvikling. Derudover anføres, at der er behov for at inte-
+ressenterne først kvalificeres for at opnå en reel involvering, hvor de rent faktisk yder indflydelse på 
+projektet. Dette kan gøres ved at arbejde med inddragelsesmetoder, som tilbyder interessenterne læ-
+ring om projektplanlægning og procesplan, hvilket vil bevirke til en bedre forventningsafstemning 
+mellem interessenter og projektgruppe og give mere værdifulde input fra interessenterne (Gamst 
+2007).  
+ 
+Borgerne på banen - Annika Agger & Birgitte Hoffmann 
+Bogen Borgerne på banen (Agger & Hoffmann 2008) præsenterer teoretiske såvel som praktiske 
+vinkler på borger- og interessentinddragelse i den offentlige styring. Bogen henvender sig dermed 
+særligt til en målgruppe bestående af projektledere, planlæggere og forvaltere i lokale byplanspro-
+cesser. Formålet med bogen er at give målgruppen redskaber til at kunne facilitere komplekse ud-
+viklingsprocesser, hvor det ønskes at aktuelle borgere og interessenter inddrages i ovenstående pro-
+ces. Bogen er opdelt i tre forskellige dele: en teoretisk del, en fortællingsdel og en metodedel.  
+ 
+Metodedelen rummer en række konkrete metoder og redskaber til arbejdet med lokal udvikling. I 
+denne del gennemgås 27 forskellige metoder til borger- og interessentdeltagelse i byudviklingspro-
+jekter. Metoderne udgør tilsammen et bredt spektrum af muligheder for at skabe handlinger, diskus-
+sioner og opbygge nye relationer, der kan bidrage til dynamiske forløb mellem borgere, øvrige inte-
+ressenter, planlæggere og politikere. Ifølge Agger & Hoffmann (2008) er det væsentligt, at 
+metoderne tilpasses de lokale aktører og projektets proces, samt at metoderne udvikles og justeres, 
+mens de anvendes.  
+ 
+De 27 metoder er grupperet i de nedenstående fire temaer:  
+ 
+• Acceleration: metoder til at kortlægge, identificere og mobilisere ressourcer 
+• Synergi: metoder til samarbejde, videndeling og kvalificering af processer  
+
+ 
+25 
+ 
+• Inklusion: metoder til at inddrage forskellige målgrupper  
+• Navigation: metoder til visioner, forankring og evaluering  
+ 
+De fire temaer bidrager dermed til at skabe klarhed over, hvad man gerne vil opnå i inddragelses-
+processen, og vil typisk være knyttet til de forskellige fortløbende faser i et projekt.  
+ 
+For detaljeret beskrivelse af de 27 metoder henvises til bogen.  
+Metoder til inddragelse – hvad skal vi så gøre? 
+Ovenstående eksempler på inddragelsesmetoder er som nævnt udvalgt for at illustrere, hvordan me-
+toder har været brugt i forbindelse med klimatilpasningsprojekter i de seneste år. Som det tydeligt 
+fremgår, er der et væld af metoder, som kan anvendes i forbindelse med forskellige faser i projektet. 
+En af grundene til at fremhæve de forskellige metoder til interessentinddragelse i denne rapport er 
+at pointere, at der er mange muligheder, men særligt at valget at metode(r) i høj grad er op til den 
+ansvarlige offentlige myndighed eller projektgruppe. 
+Når det er sagt, så er det vigtig at understrege ovenstående pointer fra litteraturen: A) at projekt-
+gruppen fra starten af et projekt skal bruge tid på at afklare, hvad formålet med inddragelsen er, 
+hvor vide / snævre rammerne for inddragelsen er, og hvad man forventer at få ud af interessentind-
+dragelsen, jf. Few et al. (2007). Og B) at når denne indledende afklaring i forhold til hvorfor man 
+ønsker at få borgere engageret i et klimatilpasningsprojekt og hvilke omfang man forventer ind-
+drage folk, kan træffe beslutninger om hvordan (metoder/værktøjer) igangsættes. Og endelig C) at 
+karakteren af klimatilpasningsprojektet med hensyn til kompleksitet, antal interessenter og dagsor-
+dener, skala og tidshorisont (jf. Hügel & Davies 2020) er helt afgørende for, hvilke metoder, der 
+vælges i det konkrete projekt.  
+  
+
+ 
+26 
+ 
+5. Kortlægning af interessenter nationalt og regionalt  
+Når man forsøger at skabe sig et overblik over, hvilke interesser, der findes når det drejer sig om 
+klimatilpasning, bliver det hurtigt tydeligt, at der er mange interessenter på flere forskellige ni-
+veauer. Dette er med til at bekræfte, at der i klimatilpasningsprojekter ofte er stor kompleksitet og 
+mange dagsordener, som man som projektansvarlig skal forholde sig til.  
+ 
+Nedenstående tabel giver et overblik over interessenter i klimatilpasningen i Danmark, og opsum-
+merer de enkelte interessenters roller og indflydelse i klimatilpasningsprojekter. Under tabellen er 
+udvalgte kategorier af interessenttyper beskrevet sammenfattende.   
+ 
+
+ 
+27 
+ 
+Tabel 1. Overblik over interessenter i klimatilpasningen i Danmark. 
+Interessenttype Interessenterne  Rolle ift. klimatilpasning  Indflydelse på klimatilpasningsprojek-
+ter 
+ 
+Overnational  
+styring 
+EU 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Beskyttelse af vandet og udarbejdelse af 
+klimapasningstiltag i Europa gennem di-
+verse EU-direktiver. Koordinering af EU-
+indsatser i visse sektorer, som eksempel-
+vis landbrug, vand, biodiversitet, fiskeri 
+og energi.  
+ 
+ 
+Påvirker den nationale lovgivning gen-
+nem EU-lovregulativer og direktiver, som 
+oversvømmelsesdirektivet og vandram-
+medirektivet, hvori der også opstilles kon-
+krete mål, aktiviteter og tidsfrister.  
+  
+EU spiller en væsentlig rolle, hvis et kli-
+matilpasningsprojekt krydser den danske 
+grænse.   
+ 
+National styring Den danske Stat 
+• Miljøministeriet  
+- Miljøstyrelsen  
+- Naturstyrelsen, herunder 
+Kystdirektoratet 
+• Ministeriet for Fødevarer, 
+Landbrug og Fiskeri 
+-      Landbrugsstyrelsen  
+• Klima-, Energi- og Forsynings-
+ministeriet 
+- Energistyrelsen 
+• Finansministeriet  
+• Transport- og Boligministeriet 
+• Erhvervsministeriet 
+-      Erhvervsstyrelsen  
+ 
+Udarbejder love og planer for at sikre 
+gode rammer for klimatilpasningen i Dan-
+mark, som eksempelvis planloven, natur-
+beskyttelsesloven, miljøbeskyttelsesloven, 
+vandløbsloven, vandsektorloven og miljø-
+målsloven.  
+ 
+Udarbejder vandområdeplaner. 
+ 
+Producerer og stiller data om klimatilpas-
+ning til rådighed for regionerne og kom-
+munerne, samt tilbyder vejledning herom.  
+ 
+Interesse i klimatilpasning ift. den natio-
+nale økonomiske vækst og samfundsøko-
+nomien.  
+Lovregulativernes indflydelse på klimatil-
+pasningsprojekter, og sikring af god infor-
+mation og koordination herom.  
+ 
+Landsplanlægning, som udstikker de 
+overordnede retningslinjer for planlæg-
+ningen.  
+ 
+Staten har derudover selv et ansvar ift. at 
+klimatilpasse som ejer af infrastruktur, 
+bygninger og arealer.  
+ 
+’Handlingsplan for klimasikring af Dan-
+mark’ beskriver initiativer, som fra sta-
+tens side skal være med til at skabe en 
+bæredygtig, grøn klimatilpasningsindsats 
+i Danmark. 
+
+ 
+28 
+ 
+Interessenttype Interessenterne  Rolle ift. klimatilpasning  Indflydelse på klimatilpasningsprojek-
+ter 
+ 
+Beredskabsstyrelsen 
+ 
+Det statslige beredskab  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Det kommunale beredskab  
+ 
+Det statslige beredskabet har til opgave at 
+assistere de kommunale redningsbered-
+skaber, politi og øvrige myndigheder til 
+alle tænkelige natur- og menneskeskabte 
+katastrofer, herunder også de klimarelate-
+rende som en oversvømmelse- eller erosi-
+onssituation.   
+ 
+Skal yde lokal forsvarlig indsats ved ek-
+sempelvis farligt vejr, stormflod eller 
+ulykker. 
+ 
+Beredskabet har ingen direkte indflydelse 
+på klimatilpasningsprojekter, men i for-
+bindelse med manglende klimatilpasning 
+er det Beredskabets opgave at sikre bor-
+gere og virksomheder i tilfælde af en kli-
+mahændelse.  
+  
+ 
+ 
+ 
+ 
+Regional styring  
+ 
+ 
+Regionerne  
+ 
+ 
+Regionerne kan bidrage med strategisk 
+helhedssyn, og skabelse af netværk på 
+tværs af kommunegrænser, samt faglig 
+støtte og lokalt kendskab til problemstil-
+linger og aktører.   
+ 
+ 
+Regionerne udgør ikke nogen myndighed 
+og står formelt ikke for varetagelsen af 
+opgaver i forbindelse med klimatilpas-
+ning. Men som region kan de bidrage med 
+viden, koordinations- og sekretariatsfunk-
+tion, samt faglig læring på tværs af geo-
+grafiske skel, f.eks. i tværkommunale 
+vandoplande. 
+ 
+Lokal styring  Kommunerne  
+ 
+Kommunerne kontrollerer oversvømmel-
+sesrisici udarbejder klimatilpasningspla-
+ner samt spildevandsplaner, og udformer 
+konkrete klimatilpasningsløsninger.  
+ 
+Økonomisk interesse i at klimatilpasse.  
+Påvirker klimatilpasningsindsatsen 
+gennem udarbejdelse og implementering 
+af klimatilpasningsstrategier og projekter 
+i den enkelte kommune. Disse tiltage vil 
+fremgå via. kommuneplaner, lokalplaner, 
+spildevands- eller klimatilpasningsplaner. 
+ 
+ 
+
+ 
+29 
+ 
+Interessenttype Interessenterne  Rolle ift. klimatilpasning  Indflydelse på klimatilpasningsprojek-
+ter 
+ 
+Forsyningsselskaber  Kommunale og private vand- og 
+spildevandsselskaber 
+ 
+ 
+ 
+Kontrollerer kommunens oversvømmel-
+sesrisici ved kortlægning og implemente-
+ring af vandinfrastruktur.  
+ 
+Understøtter klimatilpasningsprojekter i 
+kommunerne med økonomi, viden, miljø-
+rapporter og arbejdskraft. 
+  
+Afledning af kundernes spilde- og regn-
+vand.  
+ 
+Har indflydelse på klimatilpasning som et 
+rådgivende organ.   
+ 
+Forsyningsselskabers rolle i henhold til 
+kommunernes spildevandsplaner, er at 
+sørge for etablering, drift og vedligehol-
+delse af anlæggene, der er beskrevet i pla-
+nerne.  
+ 
+Skal stille den nødvendige økonomiske 
+og regnskabsmæssige information til rå-
+dighed, som kommunen skal anvende for 
+at udforme spildevandsplanen. 
+ 
+Vidensinstitutioner 
+og -roller 
+ 
+ 
+ 
+Universiteter + Teknologisk Insti-
+tut   
+ 
+DHI  
+ 
+ 
+DMI  
+ 
+ 
+ 
+ 
+GEUS 
+ 
+ 
+ 
+ 
+ 
+KU, DTU, AU osv. bidrager generelt med 
+viden og forskning om klimatilpasning.  
+ 
+DHI er en uafhængig, international råd-
+givnings- og forskningsorganisation, der 
+er specialister i vandmiljø.  
+ 
+DMI, er et institut under Klima-, Energi- 
+og Forsyningsministeriet, der udarbejder 
+og behandlermeteorologisk viden og data, 
+der dækker områderne vejr, klima og hav.  
+ 
+GEUS er en selvstændig og uafhængig 
+forsknings- og rådgivningsinstitution til-
+hørende Klima-, Energi- og Forsynings-
+ministeriet. Kortlægger bl.a. undergrun-
+den og ressourcerne.  
+Påvirker klimatilpasningsprojekterne gen-
+nem viden og forskning.   
+
+ 
+30 
+ 
+Interessenttype Interessenterne  Rolle ift. klimatilpasning  Indflydelse på klimatilpasningsprojek-
+ter 
+ 
+Kystdirektoratet  
+ 
+ 
+Kystdirektoratet under Naturstyrelsen ud-
+arbejder risikovurderinger for hele Dan-
+marks kyststrækning, som afdækker risi-
+koen for oversvømmelse eller erosion. 
+Ydermere udformer direktoratet vejle-
+dende løsningsforslag til kystbeskyttelse.   
+ 
+Private firmaer og 
+organisationer  
+Private fonde, forsikringsselska-
+ber og investorer  
+ 
+Fx RealDania, Lokale og Anlægs-
+fonden, Nordea-fonden, Forsikring 
+& Pension 
+ 
+Støtter klimatilpasningsprojekter gennem 
+finansiering.  
+ 
+Influerer klimatilpasningsprojekter gen-
+nem sikring af finansieringsmuligheder.  
+ 
+ 
+Private rådgivende virksomheder 
+ 
+Fx ingeniører, arkitekter, 
+landskabsarkitekter og 
+anlægsfirmaer.  
+ 
+ 
+ 
+ 
+Vurdering af oversvømmelsesrisici, 
+stormflodssikring, hydrologiske vurderin-
+ger, undersøgelser og analyser. Koncept- 
+og designudvikling, landskabsarkitektur 
+og masterplanlægning. Firmaerne arbejder 
+med hele spekteret fra indledende under-
+søgelser, analyser til udvikling af design 
+og anlægsarbejde. 
+ 
+ 
+ 
+ 
+ 
+ 
+Rådgivende organ og influerer klimatil-
+pasningsindsatsen gennem udarbejdelse 
+af tekniske løsninger, design- og anlægs-
+forslag.  
+
+ 
+31 
+ 
+Interessenttype Interessenterne  Rolle ift. klimatilpasning  Indflydelse på klimatilpasningsprojek-
+ter 
+ 
+Interesse- og aktivitetsorganisati-
+oner 
+ 
+Fx landbrugsforeninger,  
+fiskeriforeninger, og  
+Danmarks Naturfredningsforening 
+Varetagelse og beskyttelse af arealanven-
+delse, økonomiske interesser, og naturin-
+teresser.  
+Har ingen direkte indflydelse. Kan lige-
+som borgerne influere klimatilpasnings-
+projekter gennem interessentinddragelse 
+eller et samarbejde med den offentlige 
+sektor.  
+ 
+Kan påvirkes negativt pga. eksempelvis 
+ændring i arealanvendelse og økonomiske 
+foranstaltninger. Mens klimatilpasning på 
+den positive side kan medføre til bedre 
+vandmiljø, rekreative faciliteter og for-
+bedret infrastruktur.   
+ 
+Borgerne  
+ 
+Borgerne og private personer spiller ingen 
+større rolle ift. planlægning af klimatilpas-
+ning i det offentlige rum.  
+Men de har ansvar for at klimasikre deres 
+egen ejendom.  
+Har ingen direkte indflydelse. Men bor-
+gerne kan til dels påvirke klimatilpas-
+ningsprojekter gennem interessentinddra-
+gelse, henvendelser til kommunerne eller 
+via politiske afstemninger.  
+ 
+ 
+ 
+
+ 
+32 
+ 
+Overnational styring  
+EU’s rolle i klimatilpasningsindsatsen er særlig aktuel, når det omhandler klimatilpasning på tværs 
+af medlemslandenes grænser - eksempelvis ved vandløbsoplande. EU kan derudover udgøre en væ-
+sentlig rolle i at styrke solidariteten mellem medlemslandene, og særligt sikre at medlemslandene 
+kan og er i stand til at træffe de nødvendige foranstaltninger for at klimatilpasse (European Com-
+mission, n.d.a). I 2013 blev en fælles strategi for, hvordan EU’s medlemslande skal tilpasse sig til 
+fremtidens klima vedtaget i Europa-Kommissionen. Med strategien opfordrer kommissionen netop 
+alle medlemslandene til at vedtage omfattende tilpasningsstrategier, således at de griber ind i klima-
+tilpasningsindsatsen. Endvidere yder EU finansiering til at landene kan få opbygget den nødvendige 
+tilpasningskapacitet (European Commission, n.d.b).   
+National styring 
+Staten skal sørge for de bedste mulige rammer for kommunernes klimatilpasning. Dette praktiseres 
+ved at støtte kommunernes arbejde ved at stille data og kort til rådighed for kommunernes risiko-
+kortlægning i forbindelse med klimatilpasningsplanerne, ved at gennemføre nødvendige ændringer 
+af lovgivning, sikre løbende vidensgrundlag og vejlede om konsekvenserne af klimaændringer (Kli-
+matilpasning, 2018; Klimatilpasning, 2019; Regeringen, 2012).  
+Regional styring 
+Regionerne besidder ikke meget formel autoritet i forhold til den konkrete klimatilpasningsindsats 
+eller lovgivning herom. Regionerne har til gengæld egenskaberne til at danne brobygning mellem 
+eksempelvis kommunerne, udarbejde tværkommunale analyser, stå for projektudvikling, sikre fag-
+lig støtte, facilitering og netværk på tværs af de kommunale grænser (Danske Regioner, 2018).  
+Lokal styring  
+Kommunernes hovedrolle i klimatilpasningsindsatsen er at kortlægge og analysere problematik-
+kerne vedrørende erosion og oversvømmelse (såvel som andre klimaindsatser), udforme planer og 
+strategier, planlægge samt implementere tiltag, der kan styrke den lokale infrastruktur og udvikling, 
+således at det mere eksterme vejr i fremtiden kan håndteres (Hellesen et al., 2011; Klimatilpasning, 
+2018).  
+ 
+
+ 
+33 
+ 
+I sommeren 2012 vedtog Regeringen og Kommunernes Landsforening, at alle kommuner inden ud-
+gangen af 2013 skulle have udarbejdede klimatilpasningsplaner (Naturstyrelsen, 2013). Klimatil-
+pasningsplanerne er omdrejningspunktet for kommunernes klimatilpasningsindsats. Planerne rum-
+mer kortlægning af oversvømmelsestruede områder, anvisninger for, hvordan disse skal tilgås og 
+hvordan indsatsen skal prioriteres. Disse fremgår som en del af kommuneplanen 2013 eller som et 
+tillæg hertil. Der stilles ikke krav om revision af klimatilpasningsplanerne, men mange kommuner 
+har på eget initiativ valgt at fortsætte udarbejdelsen af klimatilpasningsplaner i forbindelse med den 
+seneste kommuneplanrevision (Klimatilpasning, 2018). 
+ 
+Med en planlovsændring i 2018 blev nye regler for forebyggende planlægning for erosion og over-
+svømmelse udformet. Som konsekvens skal kommunernes planlægning i et større omfang under-
+støtte forebyggelsen af skader, som følge af oversvømmelse eller erosion grundet klimaforandrin-
+ger. Planlovsændringen indebar ydermere, at kommunerne kan stille krav til, at en bygherre skal 
+sikre, at afværgeforanstaltninger etableres i de områder, der er udpegede som værende oversvøm-
+melses- eller erosionstruede i kommuneplanen (Erhvervsstyrelsen, 2019).  
+ 
+Som en del af klimatilpasningsindsatsen har kommunerne pligt til at udarbejde en spildevandsplan. 
+Planens formål er at redegøre for, hvordan spildevand og regnvand skal håndteres i den pågældende 
+kommune, herunder fastsætte et serviceniveau i forhold til regnbetingede oversvømmelser, der er 
+samfundsøkonomisk hensigtsmæssigt, og at beskrive eksisterende og planlagte kloakeringsområder 
+samt krav til renseforanstaltninger i de kommunale såvel som i de private anlæg (Klimatilpasning, 
+2020).   
+Hvem er interessenterne i det konkrete klimatilpasningsprojekt? 
+Ovenstående skema giver et overblik over den store variation i interessenter, der findes når man ta-
+ler om klimatilpasning på generelt niveau. Afslutningsvis er det dog værd at bemærke, at der kan 
+være stor variation mellem konkrete klimatilpasningsprojekter i forhold til, hvem der er reelle inte-
+ressenter. Det kommer an på projektets indhold og omfang, på lokaliteten og hvordan omgivelserne 
+til lokaliteten er. Derfor er det altid relevant at skabe overblik over interessenter, eksempelvis gen-
+nem en interessentanalyse, hvor roller, interesser og indflydelse kortlægges og vurderes i forhold til 
+hinanden. For nærmere beskrivelse og diskussion af interessentanalyse som værktøj henvises til 
+
+ 
+34 
+ 
+Reed et al. (2009), som har gennemført et omfattende review af interessentanalysemetoder inden for 
+naturressourceforvaltning.  
+  
+
+ 
+35 
+ 
+6. Interessentundersøgelse blandt kommuner i Region Hovedstaden  
+Nedenstående kapitel rapporterer resultaterne fra en undersøgelse om klimatilpasning i kommu-
+nerne, som er baseret på et spørgeskema til centrale klimamedarbejdere i Region Hovedstadens 28 
+kommuner. 
+Introduktion til spørgeskemaundersøgelsen 
+Kommunernes arbejde med at inddrage borgere i forbindelse med klimatilpasningsprojekter er ble-
+vet undersøgt i sommeren 2020, hvor vandløbs- og klimamedarbejdere i kommunerne i Region Ho-
+vedstaden fik tilsendt en spørgeskemaundersøgelse udarbejdet af Københavns Universitet, som del 
+af projektet Klimatilpasning på tværs. Formålet med undersøgelse var at få indblik i kommunernes 
+nuværende arbejde med klimatilpasning, samt hvilke forventninger og ønsker de deltagende kom-
+muners medarbejdere har til inddragelse af andre interessenter i det fremtidige arbejde med klima-
+tilpasning.  
+ 
+Spørgeskemaet blev udsendt digital til medarbejdere i Region Hovedstadens 28 kommuner, hvoraf 
+17 medarbejdere svarede tilbage. I nogle tilfælde har to medarbejdere fra samme kommune svaret 
+med forskellige perspektiver, og i alt er 11 af kommunerne i Region Hovedstaden repræsenteret.  
+Selve spørgeskemaet bestod af 13 hovedspørgsmål samt en række baggrundsspørgsmål.  
+Resultater af spørgeskemaundersøgelsen 
+Kommunerne har, når det gælder klimatilpasning, både fokus på vandforvaltning i relation til vand-
+løb og til kysterne. I nogle kommuner er der lange kystlinjer, og det er derfor naturligt at kystfor-
+valtning fylder meget i klimatilpasningsarbejdet. Ligeledes vil andre kommuner slet ikke have kyst, 
+og af den grund er fokus udelukkende på vandløb og vådområder. Og endelig fremhæver nogle 
+kommuner, at begge dele er lige relevant i deres kommune. Dog er det relevant at fremhæve, at kli-
+matilpasningsprojekter er meget forskellige rent teknisk, hvis man kigger på hhv. kystprojekter og 
+vandløbsprojekter, men at interessentinddragelsesaspekterne i begge projekttyper er sammenligne-
+lige.  
+ 
+ 
+ 
+ 
+
+ 
+36 
+ 
+ 
+Tabel 2. Faktaboks om respondenter og organisation og koordination af klimaarbejdet i kommunerne.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Klimatilpasning på dagsordenen 
+ 
+Som del af undersøgelsen blev de kommunale klimamedarbejdere spurgt om, hvor højt de vurde-
+rede, at klimatilpasning er på dagsordenen hos såvel de kommunale politikere som hos borgerne i 
+kommunen. 
+ 
+Figur 2. Klimatilpasning på den politiske dagsorden. Svar på spørgsmålet ”I hvor høj grad er klimatilpasning på den politiske dags-
+orden i din kommune?”. 
+ 
+I høj grad 
+6%
+I nogen grad
+29%
+I lav grad 
+53%
+I meget lav grad
+12%
+Faktaboks om respondenter: 
+Kommuner 
+Ballerup, Bornholm, Brøndby, Egedal, Fre-
+derikssund, Furesø, Herlev, Ishøj, Roskilde, 
+Rudersdal, Vallensbæk 
+Medarbejderfunktioner 
+Miljømedarbejder/-sagsbehandler/-chef, 
+Vandløbsmedarbejder/-sagsbehandler, pro-
+jektleder, planlægger, centerchef, chefkonsu-
+lent, leder af Natur og Miljø, Klimatilpas-
+ningskonsulent 
+Anciennitet 
+Gennemsnitligt 10 år (mellem 2 og 24 års 
+ansættelse)  
+Organisering af klimarbejde i kommunerne 
+Flere kommuner har allerede en velfungerende 
+organisering af arbejdet med klimatilpasning. 
+Det gælder i særlig grad samarbejdet mellem 
+kommunen og forsyningsselskaberne.  
+ 
+I tilfælde af vandløb der går på tværs af kom-
+muner eller ved kyststrækninger, er der også 
+etablerede samarbejdsfora. 
+ 
+Koordination af klimaarbejdet 
+Udover koordination og samarbejde med forsy-
+ningsselskaber øvrige kommuner, er der gene-
+relt også samarbejde med landbrugsforeninger, 
+grundejerforeninger, boligselskaber, lodsejere 
+samt rådgivere.  
+
+ 
+37 
+ 
+Som det fremgår af figur 2, er der stor variation i svarene med hensyn til klimatilpasning på den po-
+litiske dagsorden. Ca. 1/3 af svarene peger på, at klimatilpasning er prioriteret i kommunen, mens 
+de øvrige 2/3 mener, at det er relativt lavt prioriteret.  
+ 
+I figur 3 vises vurderingen af, hvor vigtigt klimatilpasning ifølge de kommunale klimamedarbejdere 
+er for borgerne i kommunerne. Her er svarene, at over 80% vurderer at klimatilpasning er vigtigt, 
+overvejende ”i nogen grad”, men også en stor andel vurderer i høj grad. Figur 2 og figur 3 illustrerer 
+således, at der kan være et mismatch mellem hvad politikkerne vurderer vigtigt, og borgernes vur-
+dering. Dette skal selvfølgelig tages med det forbehold, at hverken politikkerne eller borgerne har 
+svaret selv, men at resultatet beror på en vurdering fra de ansatte i den kommunale forvaltning. Et 
+andet forhold, der bør fremhæves er, at undersøgelsen er lavet i sommeren 2020, hvor mediebilledet 
+i særlig grad var dækket af Covid-19-situationen. Klimatilpasnings-dagsordenen vurderes generelt 
+at fylde mere og mere både generelt i samfundet og i dansk og international politik, hvilket eksem-
+pelvis er tilskyndet af seneste udgivelse af Intergovernmental Panel on Climate Change’s rapport 
+om klimaforandringer, som beskriver dystre scenarier for fremtiden (IPCC 2021).   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 3. Klimatilpasning på borgernes dagsorden. Svar på spørgsmålet ”I hvor høj grad er klimatilpasning vigtigt for borgerne i din 
+kommune?”. 
+ 
+Udfordringer i klimatilpasningsprojekter 
+De kommunalt ansatte blev bedt om at beskrive, hvilke udfordringer de oplever i forbindelse med 
+klimatilpasningsprojekter. Som det fremgår af figur 4 er interessentinddragelse procentmæssigt det, 
+som flest af de kommunale klimatilpasningsmedarbejdere anser for at være udfordrende, idet 35% 
+I høj grad 
+29%
+I nogen grad
+53%
+I lav grad 
+18%
+
+ 
+38 
+ 
+af svarene anfører dette. Dette stemmer på overens med, hvad der også anføres i litteraturen (Few et 
+al. 2007, COK 2017, Hügel & Davies 2020).  
+ 
+Figur 4. Identifikation af udfordringer i klimatilpasning ifølge kommunerne.  
+ 
+Ud over interessentinddragelse nævnes også finansiering (35%), samarbejde – både tværkommunalt 
+(12%) og med forsyningsselskaber (12%) og bidragsfordeling som udfordringer i arbejdet med kli-
+matilpasning. Alle disse temaer er behandlet i øvrige rapporter, som er udarbejdet i regi af projektet 
+Klimatilpasning på tværs (evt. henvisning).  
+ 
+Rationaler for at indgå i klimatilpasningsprojekter 
+De kommunalt ansatte blev bedt om at sætte ord på, hvilke rationaler forskellige typer af interessen-
+ter har for at indgå aktivt i klimatilpasningsprojekter. Rationaler blev italesat i forhold til borgere, 
+bolig- og ejerforeninger, forsyningsselskaber, Vidensinstitutioner, rådgivningsfirmaer og kommu-
+nerne.  
+• For borgere fremhæves det, at de har et ønske om at bo i områder med dejlig natur og rent 
+vandmiljø, samt for borgere i risikoområder, at de ønsker gode løsninger for at undgå fremtidige 
+oversvømmelser på deres ejendom. Dette er også et rationale der fremhæves hos bolig- og ejer-
+foreninger, som har en opgave i at sikre deres medlemmer de bedst mulige forhold.  
+• Forsyningsselskaberne fremhæves generelt som konstruktive samarbejdspartnere, som primært 
+har en økonomisk interesse i klimatilpasning. Der er en forventning om, at det er dyrere ikke at 
+klimatilpasse. Det påpeges også, at det er en kerneopgave for forsyningerne, og at de er forplig-
+tet til af bidrage til at finde klimaløsninger, herunder sikre aflastning af spildevandssystemerne.  
+Interessentinddragelse 35%
+Tværkommunalt 
+samarbejde 12%
+Samarabejde med 
+forsyningsselskaber  6%
+Bidragsfordeling (ift. 
+lodsejere) 6%
+Finansiering i øvrigt 
+35%
+Andet 6%
+
+ 
+39 
+ 
+• Vidensinstitutioner og rådgivningsfirmaer deler det rationale, at de gerne vil bidrage med at 
+dele viden, men det fremhæves, at der som oftest også vil være et økonomisk rationale bag, i det 
+klimatilpasning også er et forretningsområde i vækst for rådgiverne.  
+• Kommunerne har generelt som rationale, at de ønsker at sikre recipienter mod overløb og at 
+borgere ikke bliver udsat for oversvømmelser, som kan påføre skader på både anlæg og bygnin-
+ger. Ligeledes anføres, at dele af den kommunale organisation ønsker at bruge klimatilpasnings-
+projekterne til at skabe nye naturoplevelser og anden merværdi for borgerne, altså en helheds-
+orienteret indsats.  
+ 
+Generelt fremhæves det, at der er mange interessenter, der bidrager på forskellig vis i forbindelse 
+med klimatilpasningsprojekter, men at den primære bidragsyder og samarbejdspartner for kommu-
+nerne aktuelt er forsyningsselskaberne. 
+ 
+Typer af klimatilpasningsprojekter i hovedstadsregionens kommuner 
+Der bliver til spørgsmålet om, hvilke typer af klimatilpasningsprojekter, der er gennemført de sene-
+ste tre år fremhævet en lang række projekter af vidt forskellig størrelse og omfang. Det vidner om, 
+at der i hovedstadsregionens kommuner er rigtigt godt gang i klimatilpasningen. Det drejer sig ek-
+sempelvis om konkrete initiativer som skybrudssikring og LAR-projekter, renovering af regnvands-
+ledninger, genåbning af vandløb, afkobling af regnvand fra kloaksystemet i fælleskloakerede områ-
+der og kystsikring, men også planarbejde i form af robusthedsanalyser, ny klimaplan og 
+borgeraktiviteter om, hvad borgeren selv kan gøre.  
+ 
+I flere tilfælde bliver det fremhævet, at borgeren har spillet en rolle ved at være inddraget i projek-
+tet, men generelt fremføres som herover, at det primære samarbejde foregår mellem kommunale 
+myndigheder og forsyningsselskaber.  
+ 
+Fremtidens inddragelse af interessenter i klimatilpasningsprojekter 
+Svarene på, hvordan man i fremtiden kan arbejde med interessentinddragelse viser, at flere kommu-
+ner allerede er godt i gang med inddragelsesprocesser i forbindelse med klimatilpasningsprojekter. 
+Dog efterlyses det, at man også fra overordnet niveau (Regering, ministerier, styrelser) bidrager 
+med anvisninger og mål. Eksempelvis påpeges, at transportsektoren (Bane Danmark, Vejdirektora-
+tet) er vanskelig at inddrage i arbejdet.  
+ 
+
+ 
+40 
+ 
+Generelt er holdningen til hvordan interessenter kan inddrages og aktiveres i den fremtidige klima-
+tilpasningsindsats blandt de adspurgte i spørgeskemaundersøgelsen, at de skal inddrages langt tidli-
+gere i projektprocessen. De skal inddrages allerede i idéfasen, så de kan få en reel indflydelse på 
+projekterne. Denne indsats skal særligt forekomme steder, hvor interessenterne selv ser tydeligt be-
+hov for det. Den metodiske tilgang til inddragelsen kan ifølge de adspurgte foregå via borgermøder, 
+stormøder/messer, skurvognsmøder i bestemte områder eller grundejerforeningsmøder. 
+  
+
+ 
+41 
+ 
+7. Workshop om interessentinddragelse – input fra kommunerne 
+I forbindelse med afholdelse af en workshop om interessentinddragelse i projektet Klimatilpasning 
+på tværs blev deltagerne fra hovedstadens kommuner bedt om at give deres input til ”best practices” 
+i forbindelse med interessentdragelse i klimatilpasningsprojekter. På baggrund af processen endte 
+deltagerne med at lave en ”inddragelsesblomst”, som på overskriftsform angav vigtige opmærksom-
+heder og anbefalede praksisser for interessentinddragelse i det fremadrettede arbejde med klimatil-
+pasning. 
+ 
+Figur 5. Inddragelsesblomst med ”best practices”. 
+ 
+Som det fremgår af figur 5 er der identificeret 6 områder, som bør være i fokus, når inddragelse af 
+interessenter i klimatilpasningsprojekter planlægges. Det drejer sig ifølge de kommunale klimamed-
+arbejdere og –chefer om at opnå eller sikre:  
+ 
+• Ejerskab gennem tidlig inddragelse. Interessenter skal med om bord fra start, så de føler sig 
+hørt og ved hvordan de kan bidrage i den videre proces.  
+• En fælles forståelse for problemstillinger, udfordringer og løsninger. Bemærkningen om at 
+”starte med en oversvømmelse” adresserer, at klimaudfordringen skal være present og relevant 
+for de borgere, der bliver inddraget. 
+• Rettidig formidling skal sikre, at alle væsentlige informationer skal være til stede for de inte-
+ressenter, der er berørt af og inddraget i et klimatilpasningsprojekt.  
+
+
+ 
+42 
+ 
+• Overskuelighed om hvad klimaprojektets omfang er, og på hvilket niveau interesser har mulig-
+hed for at blive inddraget. 
+• Rummelighed overfor alle relevante interessenter i forhold til at være med og til at kunne frem-
+sætte holdninger og synspunkter om et kommende eller igangværende projekt.  
+• Metodebevidsthed blandt de ansvarlige projektledere, så de kender værktøjskassen med rele-
+vante inddragelsesmetoder, som passer til projektet og dets forskellige faser.  
+ 
+De fremhævede ”best practices” lægger sig meget fint i forlængelse af resultaterne af litteraturstu-
+diet i denne rapport samt de forhold som fremhæves fra spørgeskemaundersøgelsen om interessent-
+inddragelse blandt kommunerne i Region Hovedstaden. Dermed kan de fungere som en indledende 
+checkliste til overvejelser og beslutninger, når kommunerne fremover starter nye klimatilpasnings-
+projekter op.  
+  
+
+ 
+43 
+ 
+8. Fremtidens interessentinddragelse i klimatilpasningsprojekter  
+Ovenstående studier af litteratur om interessentinddragelse, undersøgelsen om interessentinddra-
+gelse hos Region Hovedstadens kommuner og workshoppen med hovedstadens kommuner giver 
+samlet en række relevante input til, hvordan man i fremtiden bør arbejde med interessentinddragelse 
+i kommunalt styrede klimatilpasningsprojekter.  
+ 
+Som fremhævet herover er der både en anerkendelse af, at mange kommuner allerede arbejder mål-
+rettet og systematisk med at inddrage interessenter i deres klimatilpasning, og en opmærksomhed på 
+at interessentinddragelse er en udfordring, som skal adresseres. Undersøgelserne viser, at der mange 
+steder er gode tanker og takter, og at man som kommune har et reelt ønske om inddrage borgere i 
+klimatilpasningsprojekter, men også at der er et ønske om gøre inddragelsen endnu bedre og rele-
+vant. Flere kommuner har allerede udarbejdet egne modeller for inddragelse og i nogle tilfælde også 
+formuleret en politik for interessentinddragelse. Et sådan arbejde kunne også andre steder bidrage til 
+i diskussion af, hvordan den enkelte kommune selvstændigt og i samarbejde med andre kommuner, 
+gerne vil sikre at deres inddragelse lever op til både borgernes ønsker og forvaltningens mål. 
+ 
+Der findes allerede et væld af spændende og innovative metoder til at inddrage borgere i den offent-
+lige forvaltnings projekter. Et af de spørgsmål, der undervejs i projektet Klimatilpasning på tværs 
+dukkede op var, om der er behov for en udvikling af målrettede metoder til interessentinddragelse 
+inden for klimatilpasning. Undersøgelserne inkluderet i denne rapport peger på, at det i højere grad 
+er andre faktorer end interessentinddragelses-metodeudvikling, der er det vigtigste for at sikre en 
+endnu bedre inddragelse. Men som det blev fremhævet i workshoppen om interessentinddragelse, så 
+bør de kommunale medarbejdere have kendskab til flere forskellige værktøjer til at få borgere i tale, 
+og være bevidst om, hvilke inddragelsesmetoder, der passer til projektets formål og omgang, og i 
+hvilke faser i projektet de enkelte metoder er relevante at bruge. Alternativt kan eksterne eksperter i 
+inddragelse inddrages undervejs i projektet, som supplement til kommunens egne kompetencer og 
+til inspiration for det videre inddragelsesarbejde.  
+ 
+Med baggrund i resultaterne fra nærværende undersøgelser, kan afslutningsvist opstilles nedenstå-
+ende anbefalinger for det videre arbejde med interessentinddragelse i klimatilpasningsprojekter. 
+
+ 
+44 
+ 
+Anbefalinger 
+I fremtidens kommunale klimatilpasningsprojekter anbefales det at: 
+ 
+• Være opmærksom på, at der er både et borgerperspektiv og et myndighedsperspektiv på interes-
+sentinddragelse, og at der er transparens for alle parter omkring hvad målene for både borgere 
+og myndigheder er med hensyn til inddragelse.  
+• Tage hensyn til, at klimatilpasningsprojekter ofte er karakteriseret ved a) stor kompleksitet, b) 
+mange konkurrerende dagsordner, c) vidtstrakte, skala-afhængige værdier og d) en lang tidsho-
+risont, som kan strække sig over flere generationer. Alle fire aspekter bør undersøges og beskri-
+ves tydeligt som del af projektopstart.  
+• Være opmærksom på, at der kan være forskel på, hvor vigtigt politikere, borgere og andre inte-
+ressenter opfatter klimatilpasning i forhold til andre kommunale opgaver og dagsordner. I den 
+forbindelse kan det være en løftestang for planlægningen, udviklingen og implementeringen af 
+klimatilpasningsindsatsen, at det sker ud fra et helhedsorienteret perspektiv, der også adresserer 
+andre aspekter som f.eks. forbedring af vandmiljøet, borgernes naturoplevelser eller økonomisk 
+vækst.  
+• Være opmærksom på, at kommunerne allerede udnytter det gode samarbejde med forsyningssel-
+skaber i forbindelse med klimatilpasningen. Dette vil fremadrettet forventeligt også i højere 
+grad omfatte statslige styrelser, regioner, andre kommuner, virksomheder og interesseorganisati-
+oner og ikke mindst de uorganiserede grupper. Der bør tages hensyn særligt til de borgergrup-
+per, der kun i ringe grad eller slet ikke kommer til orde i traditionelle inddragelsesprocesser, 
+men som forventes at have ’noget i klemme’ på kort eller lang sigt. 
+• Sørge for at afklare fra start, hvad det overordnede formål med inddragelse af interessenter i kli-
+matilpasningsprojektet er, hvad grænserne for inddragelse er, og hvad det forventede udbytte 
+ved inddragelse er. 
+• Have kendskab til, hvad ”best practices” om interessentinddragelse foreskriver, og starte klima-
+tilpasningsprojekter op med en drøftelse af eksempelvis de aspekter, der er fremhævet i inddra-
+gelsesblomsten (Hvordan sikrer vi ejerskab? Hvordan sikrer vi en fælles forståelse? Hvilken for-
+midling skal projektet sikre? Hvordan skaber vi overskuelighed for interessenterne? Hvordan 
+sikrer vi rummelighed og respekt? Har vi kendskab til de rette inddragelsesmetoder?). Særligt 
+bør fremhæves, at tidlig og tillidsfuld inddragelse anses for at være det bedste udgangspunkt for 
+et succesfuldt klimatilpasningsprojekt. 
+
+ 
+45 
+ 
+Litteraturliste 
+Agger, A. & Hoffmann, B., 2008. Borgerne på banen - håndbog til borgerdeltagelse i lokal byud-
+vikling, Velfærdsministeriet, København. 
+Agger, A., 2005. Demokrati og deltagelse - et borgerperspektiv på kvarterløft: Ph. d.-afhandling. 
+Arnstein, S. R., 1969. A ladder of citizen participation. Journal of the American Institute of Plan-
+ners, Issue 4, pp. 216-224. 
+Beredskabsstyrelsen, 2016. Beredskabsplaner. https://brs.dk/planlaegning/helhed/beredskabspla-
+ner/Pages/beredskabsplaner.aspx 
+Besøgt 16.06.20 
+COK (Center for Offentlig Kompetenceudvikling), 2017. Omfanget af interessentinddragelse vok-
+ser. https://www.denoffentlige.dk/undersoegelse-omfanget-af-interessentinddragelse-vokser Besøgt: 
+07.08.21 
+Danske Regioner, 2018. En styrket regional rolle i klimatilpasningen. https://www.regioner.dk/me-
+dia/10227/en-styrket-regional-rolle-i-klimatilpasning.pdf Besøgt: 24.07.20 
+Erhvervsstyrelsen, 2019. Vejledning i planlægning for forebyggelse af oversvømmelse og erosion. 
+https://planinfo.erhvervsstyrelsen.dk/sites/default/files/media/publikation/vejledning_i_planlaeg-
+ning_for_forebyggelse_af_oversvoemmelse_og_erosion.pdf Besøgt: 11.06.22 
+European Commission n.d.a. Adaptation to climate change. https://ec.europa.eu/clima/poli-
+cies/adaptation/what_en Besøgt: 11.06.20 
+European Commission n.d.b. EU Adapatation Strategy. https://ec.europa.eu/clima/policies/adap-
+tation_en Besøgt: 11.06.20 
+Few, R., Brown, K., & Tompkins, E. L., 2007. Public participation and climate change adapta-
+tion: avoiding the illusion of inclusion. Climate policy, 7(1), 46-59.  
+Fredensborg Kommune, n.d. Sådan arbejder vi med borgerinddragelse. https://www.fredens-
+borg.dk/document/43330a1a-a9c2-4474-85e1-79ffe27020c9 Besøgt: 12.08.21 
+Furesø Kommune, n.d. Furesømodellen for borgerinddragelse. https://www.furesoe.dk/me-
+dia/1746/furesoe-modellen-for-borgerinddragelse.pdf Besøgt: 13.08.21  
+Gamst, L., 2007. Bedre interessentinddragelse – inspiration til byudviklingsprojekter.  
+Hansen, H.S. and Mäenpää, M., 2008. An overview of the challenges for public participation in 
+river basin management and planning. Management of Environmental Quality: An International 
+Journal.  
+
+ 
+46 
+ 
+Hellesen, T., Lund, D. L., Nellemann, V. & Sehested, K., 2011. Klimatilpasning i de danske 
+kommuner – et overblik. https://www.klimatilpasning.dk/media/5342/rapport_overblik_re-
+vaug11_slutvers_web.pdf Besøgt: 11.06.20 
+Hoffman, B., Elle, M., Dahl-Hansen, J., Wejs, A., 2015. Innovativ klimatilpasning med borgere – 
+Håndbog til bæredygtig omstilling. https://www.byplanlab.dk/sites/default/files/InnovativKlimatil-
+pasningmBorgereVIB.pdf  Besøgt: d. 11.08.21 
+Hügel, S., & Davies, A. R., 2020. Public participation, engagement, and climate change adaptation: 
+A review of the research literature. Wiley Interdisciplinary Reviews: Climate Change, 11(4), e645. 
+Inch, A., 2015. Ordinary citizens and the political cultures of planning: In search of the subject of a 
+new democratic ethos. Planning Theory, Issue 4, pp. 404-424. 
+IPCC, 2021. Summary for Policymakers. In: Climate Change 2021: The Physical Science Basis. 
+Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on 
+Climate Change [Masson-Delmotte, V., P. Zhai, A. Pirani, S. L. Connors, C. Péan, S. Berger, N. 
+Caud, Y. Chen, L. Goldfarb, M. I. Gomis, M. Huang, K. Leitzell, E. Lonnoy, J.B.R. Matthews, T. 
+K. Maycock, T. Waterfield, O. Yelekçi, R. Yu and B. Zhou (eds.)]. Cambridge University Press. In 
+Press. 
+Klima-, energi, og forsyningsministeriet, 2021. Borgertingets anbefalinger – Borgertinget på kli-
+maområdet. https://kefm.dk/Media/637552682717115773/Klimaborgertingets%20anbefalinger.pdf
+  
+Besøgt: 11.08.21 
+Klimatilpasning, 2017. Netværk inden for klimatilpasning. https://www.klimatilpasning.dk/me-
+dia/1362448/netv_rk_inden_for_klimatilpasning_2017.pdf  Besøgt: 16.06.20 
+Klimatilpasning, 2018. Klimatilpasningsplaner ØK13. https://www.klimatilpasning.dk/kommu-
+ner/klimatilpasning-i-kommunerne/klimatilpasningsplan-%C3%B8k13/ Besøgt: 16.06.20 
+Klimatilpasning, 2019. Handlingsplan for klimasikring af Danmark. https://www.klimatilpas-
+ning.dk/kommuner/handlingsplan-for-klimasikring-af-danmark Besøgt: 11.06.20 
+Klimatilpasning, 2020. Spildevandsplaner. https://www.klimatilpasning.dk/sektorer/plan/klimatil-
+pasning-i-kommunerne/spildevandsplaner/ Besøgt: 16.07.20 
+Klimatilpasning, n.d.a. Borgerne. https://www.klimatilpasning.dk/borger/ Besøgt 16.06.20 
+Klimatilpasning, n.d.b. Kommunerne. https://www.klimatilpasning.dk/kommuner/ Besøgt 
+16.06.20 
+Marzuki, A., 2015. Challenges in the Public Participation and the Decision Making Process. Soci-
+ologija i prostor/Sociology & Space, 53(1). 
+
+ 
+47 
+ 
+Mauerhofer, V., 2016. Public participation in environmental matters: Compendium, challenges and 
+chances globally. Land Use Policy, 52, pp.481-491. 
+Miljøstyrelsen, 2021.  EU's Vandrammedirektiv. https://mst.dk/natur-vand/natur/international-na-
+turbeskyttelse/eu-direktiver/eus-vandrammedirektiv/ Besøgt: 24.06.21 
+Miljøstyrelsen, n.d.a. Oversvømmelser. https://mst.dk/natur-vand/klimatilpasning/oversvoemmel-
+ser/ Besøgt: 25.08.20 
+Naturstyrelsen, 2013. Klimatilpasningsplaner og klimalokalplaner. https://www.klimatilpas-
+ning.dk/media/1581020/klimatilpasningsvejledning_webv2.pdf Besøgt: 06.09.21 
+NIRAS, 2017a. Metodekatalog til procesplan. https://klikovand.dk/projekter/interessentinddra-
+gelse-hvem-hvornaar-og-hvordan/ Besøgt: 23.08.21 
+NIRAS, 2017b. Procesplan.  
+https://www.klikovand.dk/wp-content/uploads/2018/01/Procesplan_Gr%C3%B8ndalsparken.pdf  
+Besøgt: 23.08.21 
+NIRAS, 2018. Få styr på vandet – en guide til klimatilpasning for grundejere.  
+https://www.dnnk.dk/faa-styr-paa-vandet-en-guide-til-klimatilpasning-for-grundejere/ Besøgt: 
+07.09.21 
+Rambøll, 2012. Byens borgerinddragelse - Et litteraturstudie. https://www.kk.dk/sites/default/fi-
+les/edoc/b2a08c55-00c6-42e9-a4b9-f6da56f1887d/4c13ee0a-42cf-4c9a-ba60-151d5311aa61/Atta-
+chments/afa72f5d-9fb8-4617-97e4-6d5ebbe7d08e.PDF Besøgt: 24.08.21 
+Realdania, 2012. Fra viden til virksomhed – Kortlægning af vidensmiljøer inden for Klimatilpas-
+ning. https://issuu.com/realdania.dk/docs/fra-viden-tilvirksomhed Besøgt: 23.08.21 
+Reed, M. S., Graves, A., Dandy, N., Posthumus, H., Hubacek, K., Morris, J., ... & Stringer, L. 
+C., 2009. Who's in and why? A typology of stakeholder analysis methods for natural resource man-
+agement. Journal of Environmental Management, 90(5), 1933-1949. 
+Regeringen, 2012. Sådan håndterer vi skybrud og regnvand – Handlingsplan for klimasikring i 
+Danmark. https://www.klimatilpasning.dk/media/566642/klimahandlingsplan.pdf Besøgt: 16.03.21 
+Rådet for Den Europæiske Union, 2009. Hvidbog – Tilpasning til klimaændringer: et europæisk 
+handlingsgrundlag. https://op.europa.eu/en/publication-detail/-/publication/e6a7f768-00fe-4430-
+ab63-067ca0aca9f2/language-da Besøgt: 12.03.21 
+Sustainia & Realdania, 2018. Klima100 – 100 klimaløsninger fra de danske kommuner. https://re-
+aldania.dk/publikationer/faglige-publikationer/klima100 Besøgt 11.08.21 
+
+ 
+48 
+ 
+Sønderborg Kommune, n.d. Borgerinddragelsespolitik. https://sonderborgkommune.dk/sites/all/fi-
+les/Forvaltninger/Intern%20Stab/Kommunikation/Dokumenter/Borgerinddragelsespolitik.pdf  Be-
+søgt: 14.09.21.  
+Ulrich, J., n.d. Inddragelse eller involvering - hvordan når vi borgerne i samskabende processer?  
+https://viden.via.dk/evu/inddragelse-eller-involvering Besøgt 23.08.21 
+World Commission on Environment and Development, 1987. Report of the World Commission 
+on Environment and Development: Our Common Future.  
+Århus Kommune, 2004. Århusmodel for borgerinddragelse. https://www.aarhus.dk/me-
+dia/4397/aarhusmodel-for-borgerinddragelse.pdf  Besøgt: d. 13.08.21  
+Aarhus Universitet – Nationalt center for Miljø og Energi, 2014. Landmanden som vandforval-
+ter. https://www.klimatilpasning.dk/media/870661/Landmanden%20som%20forvalter.pdf Besøgt: 
+22.07.20 
+
+københavns universitet  
+institut for geovidenskab
+og naturforvaltning
+rolighedsvej 23
+1958 frederiksberg
+tlf. 35 33 15 00
+ign@ign.ku.dk
+www.ign.ku.dk
