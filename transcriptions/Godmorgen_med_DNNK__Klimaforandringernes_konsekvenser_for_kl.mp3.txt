@@ -2,7 +2,7 @@
 Godmorgen.
 
 00:00:06
-Velkommen til det her DNMK webinar, hvor vi i dag skal høre om havniveau og stormflåder, og vi starter ud med at høre hjalte humor. Danielsen fortælle om, hvordan klimaændringerne har betydning for fremtidens havniveau og stormflods intensitet. Og derefter så vil Katrine viberg fra arkitektskolen i Aarhus.
+Velkommen til det her DNNK webinar, hvor vi i dag skal høre om havniveau og stormflåder, og vi starter ud med at høre hjalte humor. Danielsen fortælle om, hvordan klimaændringerne har betydning for fremtidens havniveau og stormflods intensitet. Og derefter så vil Katrine viberg fra arkitektskolen i Aarhus.
 
 00:00:32
 Fortælle om, hvordan de her forventede ændringer kan har betydning for, hvordan vi indretter Vores og planlægger Vores kystbyer, og det kommer til at blive Sådan, at.
@@ -92,7 +92,7 @@ Så hele hele tyngdepunktet for jorden begynder at få skub sig, og det betyder 
 Vandet rent faktisk ændrer sig ikke jævnt eller hvor det ender så. Når vi snakker om at at Vi har oplevet en global havnivostigning på cirka 3 mm 3,5 globalt, så er der stor regional forskelle og Europa, der ligger det mellem 2 og 4 mm lokalt. Hvor meget man rent faktisk oplever.
 
 00:06:17
-Når vi så ser på de forskellige scenarieudviklinger, som som IBPCIPC.
+Når vi så ser på de forskellige scenarieudviklinger, som som IPCC.
 
 00:06:24
 Snakker om, så har Vi har vi alle de de gængse scenarier man snakker om. De snakker om en templa eller en en havniveaustigning på mellem en halv og en hel meter i slutningen af århundreder, Sådan som de mest sandsynlige scenarier. Men Der er også ekstrem scenarier, som som er væsentlig højere, som som også er nødt til at være med i en eller 2.
@@ -176,7 +176,7 @@ Hvis vi, hvis vi inddeler landet i Sådan en masse oplande som som nogenlunde j�
 Og det betyder jo rigtig meget, men hvor meget vi så skal lægge til fremover, er jo er jo rigtig interessant, fordi en ting er at snakke frem til over 2100, som vi rigtig ofte gør med klimatilpasning.
 
 00:12:34
-Ud fra en betragtning om, at rigtig mange simuleringer og IPC arbejde har haft et fokus, så rigtig mange af Vores scenarier, de går frem til år 2100. Så Det er det, Vi har haft data på. Men når vi snakker i specielt havniveaustigninger, så fordi Det er de her relativt langsomme systemer, så.
+Ud fra en betragtning om, at rigtig mange simuleringer og IPCC arbejde har haft et fokus, så rigtig mange af Vores scenarier, de går frem til år 2100. Så Det er det, Vi har haft data på. Men når vi snakker i specielt havniveaustigninger, så fordi Det er de her relativt langsomme systemer, så.
 
 00:12:51
 Så giver det ikke nødvendigvis mening at stoppe med at se der, og derfor er der lavet en masse kørsler, der kører helt frem til at 2300 for ligesom at prøve at nå frem til at se. Jamen hvornår kommer det her system nødvendigvis i ligevægt.
@@ -278,7 +278,7 @@ Det var mine ord for den her kamp, og Jeg vil give gulvet videre til Katrine.
 Tak for invitationen. Jeg hedder Katrine liberg, Jeg er lektor på arkitektskolen Aarhus og centerleder Vores nye Center for kommende landskaber.
 
 00:18:56
-Det har taget med. Det er et projekt, Vi er i gang med at afslutte. Der hedder, hvad bygger vi på kanten frem til fremtiden, som på den måde måske ligger meget godt forlængelse af dit oplæg i alle, hvor Vi har kigget på stormfledsættende og House stigning og så undersøgt bygningstypologi og byrum på lavtliggende havnearealer og sammenholdt det med landskabstypologier i lidt længere tidsperspektiv.
+Det har taget med. Det er et projekt, Vi er i gang med at afslutte. Der hedder, hvad bygger vi på kanten frem til fremtiden, som på den måde måske ligger meget godt forlængelse af dit oplæg i alle, hvor Vi har kigget på stormfledsættende og havstigning og så undersøgt bygningstypologi og byrum på lavtliggende havnearealer og sammenholdt det med landskabstypologier i lidt længere tidsperspektiv.
 
 00:19:21
 Og Årsagen er egentlig at vi i 2 sammenhæng kunne se, at det så ud som om, at vi byggede meget, men også at vi byggede relativt enslydende på mange af Vores havn eller.
@@ -287,10 +287,10 @@ Og Årsagen er egentlig at vi i 2 sammenhæng kunne se, at det så ud som om, at
 Lige Sådan man kan skifte projektet. Det er en del af byer, når det stigende havvands initiativet, hvor der både har været pilotprojekter og rejsehold og andre forskningsprojekter.
 
 00:19:48
-Og Det er støt og baldania. For ellers er det ikke været muligt.
+Og Det er støt og Realdania. For ellers er det ikke været muligt.
 
 00:19:54
-Eventu udgangspunkt i Det var oprindeligt blandt andet, at covid havde lavet skadeberegninger for, hvad de enkelte byer, så Det er relation til, hvornår byggeår er og ikke så underligt, fordi Der er byggeår eller byggeboben for halvtredserne og frem, så er der også flere skadesomkostninger ved nyere byggerier. Men så må man sige det vi ønskede. Det var at prøve at se.
+Eventu udgangspunkt i Det var oprindeligt blandt andet, at COWI havde lavet skadeberegninger for, hvad de enkelte byer, så Det er relation til, hvornår byggeår er og ikke så underligt, fordi Der er byggeår eller byggeboben for halvtredserne og frem, så er der også flere skadesomkostninger ved nyere byggerier. Men så må man sige det vi ønskede. Det var at prøve at se.
 
 00:20:16
 Hvad kan vi sige etablere vidensgrundlag, der ligger?
@@ -302,7 +302,7 @@ Altså omkring det ved jeg sige jamen hvad. Hvordan ser det ud i de her byer?
 Hvis vi ser dem på kort, bliver lavet nogle kortlægninger. Vi har lavet feltstudier og set på udviklingsplaner og og spurgt en stor række kommuner om hvad er deres praksisser?
 
 00:20:36
-Covis så på 48 byer, fordi vi havde erfaringer fra fra nogle af pilotprojekterne byerne det stene havvand, så har vi udvidet let og set på 54 byer, som for en stor del af nogle af Danmarks større byer.
+COWI så på 48 byer, fordi vi havde erfaringer fra fra nogle af pilotprojekterne byerne det stigende havvand, så har vi udvidet let og set på 54 byer, som for en stor del af nogle af Danmarks større byer.
 
 00:20:52
 Man kan sige problemstillingen er er ikke kun dansk. En stor del af verdens befolkning lever faktisk i nærheden af kysten.
@@ -380,7 +380,7 @@ Det vil sige, vi taler om nogle byer, der i virkeligheden har måske 8 900 over 
 På en højde springer heroppe med Aarhus. København.
 
 00:25:30
-Videre en stor del af byerne er købstæder og middelalderbyer. Det betyder også, at de har måske nogle bestemte strukturer i deres historiske, delt og særligt måske for nogle af de mindre kødsbyrde. Også det, Der er en del af deres måske kernekvalitet sammen med deres havudsigt og deres lystbådehavne.
+Videre en stor del af byerne er købstæder og middelalderbyer. Det betyder også, at de har måske nogle bestemte strukturer i deres historiske, delt og særligt måske for nogle af de mindre købstæder. Også det, Der er en del af deres måske kernekvalitet sammen med deres havudsigt og deres lystbådehavne.
 
 00:25:51
 Der er sket cirka det samme i en stor del af byerne. Hvis man sidder øverst til højre. Den er kært nummer et.
@@ -407,7 +407,7 @@ Hvis vi ser på femmeren, så kan vi se at den byudvikling vi så har haft siden
 Det er.
 
 00:27:05
-Baseret på 100 års endelse i 21. 20 på et RC piber, 5 scenarie.
+Baseret på 100 års endelse i 21. 20 på et RCP 8,5-scenarie.
 
 00:27:12
 Og det vil selvfølgelig være forskellige højder i forskellige byer, og der har vi taget udgangspunkt i klimaatlas.
@@ -560,10 +560,10 @@ En 2 ting er at vi altså også er i en periode hvor at de har meget ressourcetu
 Vi udfordres også lidt af af det her træk mod havet, fordi når Vi skal først skal vi følge op, og så skal vi pilotere rigtig meget og måske have betonplader ud. Vi bruger rigtig mange ressourcer på overhovedet at bygge noget af de her liggende lidt våde områder.
 
 00:37:34
-Nu har taget eksempler fra lidhouse med herovre til højre altså.
+Nu har taget eksempler fra Lighthouse med herovre til højre altså.
 
 00:37:39
-Den er 172 m høj, men den har altså også krævet 70 meters meget kraftigt pilotering og mindre tættere på og en stor betonplade og Det er jo ressourcer. Hvis vi kigger frem som malte sagde, at hvis det her bliver stående i mange år, så selv hvis man man kan sige på en eller 2 måde lykkedes med at flytte det her om 200 år, så er alle de ressourcer vi putter.
+Den er 172 m høj, men den har altså også krævet 70 meters meget kraftigt pilotering og mindre tættere på og en stor betonplade og Det er jo ressourcer. Hvis vi kigger frem som hjalte sagde, at hvis det her bliver stående i mange år, så selv hvis man man kan sige på en eller 2 måde lykkedes med at flytte det her om 200 år, så er alle de ressourcer vi putter.
 
 00:38:04
 Ned under overfladen. Dem kommer vi aldrig nogensinde til at kunne flytte, så Der er måske også Sådan lidt husholdningsøkonomi i.
@@ -581,7 +581,7 @@ Har lavet den der lille tidslinje hernede, og som vi så var en del af de byer, 
 Men hvis man kigger op, fordi Vi er jo også godt klar over at det tager tid at bebygge i Aarhus, som startede med idekonkurrencen om havnearealerne 99.
 
 00:38:45
-Og Vi er jo slet ikke færdige endnu. Nu er vi 24, så Vi er godt klar over. Det er langt sejt træk, men hvis man så sammenholder det med nogle af de tidshorisonter IIPCC, som i alle også gjorde opmærksom på, jamen, så er den her periode jo egentlig utrolig kort.
+Og Vi er jo slet ikke færdige endnu. Nu er vi 24, så Vi er godt klar over. Det er langt sejt træk, men hvis man så sammenholder det med nogle af de tidshorisonter IPCC, som i alle også gjorde opmærksom på, jamen, så er den her periode jo egentlig utrolig kort.
 
 00:39:00
 Og hvis man så sammenligner den med periode fra.
@@ -605,7 +605,7 @@ Vi har også kigget lidt på potentialer, fordi et er tendenserne, men Det er og
 Jeg burde lige have sagt noget her. Det Der er helt tydeligt. Det er at Der er nogle virkelig store kvaliteter og det Der er nogle meget meget flotte havnerum og.
 
 00:40:09
-Og hvad kan man sige havrum i mange kødsbyer og Sådan, så Det er jo bestemt ikke undervurdere at Det har nogle store kvaliteter. Spørgsmålet er hvordan man bruger de kvaliteter.
+Og hvad kan man sige havrum i mange købstæder og Sådan, så Det er jo bestemt ikke undervurdere at Det har nogle store kvaliteter. Spørgsmålet er hvordan man bruger de kvaliteter.
 
 00:40:21
 Det ene er er landskabelige potentialer.
@@ -659,7 +659,7 @@ Mest som samtale.
 Og ikke som et endegyldigt.
 
 00:44:15
-Det er jo mere komplekst end det, man grundlæggende så er der. Det er selvfølgelig nogle sammenhænge for om man er en florby og har et højt bagland.
+Det er jo mere komplekst end det, man grundlæggende så er der. Det er selvfølgelig nogle sammenhænge for om man er en fjordby og har et højt bagland.
 
 00:44:24
 Og kan tale nogle løsninger, hvorimod, hvis man er dragør og har et lavland med de. Jamen jamen så er det altså ikke helt det samme løsninger ved overtid kan tale ind i.
@@ -716,7 +716,7 @@ Hurtigt hurtigt hurtigere profit end det langsomme der der stiger.
 Så for at samle helt op, så kan man sige der ligger altså. Vi kan i hvert fald se, at Det er de samme mere eller mindre blyudviklingspraksisser og landskabspraksisser og bygningspraksisser. Vi kan se rigtig mange af byerne, så Der er masser af dele.
 
 00:47:27
-Og så er der noget med med med tidsperspektivet, at det måske simpelthen er for kort og så igen, hvis man ser på IPT cs tidshorisonter. Jamen Det er salg. Dem er næsten ingenting i forhold til.
+Og så er der noget med med med tidsperspektivet, at det måske simpelthen er for kort og så igen, hvis man ser på IPCC's tidshorisonter. Jamen Det er salg. Dem er næsten ingenting i forhold til.
 
 00:47:41
 Hvor længe Vores byer har stået, og hvad det egentlig er, vi giver videre.
@@ -788,7 +788,7 @@ Forstå hvad Der er sket i fortiden, og så skal vi jo kombinere det med klimasc
 Hvordan man skal gøre det, men før sommerferien kom en del af port et ud, som netop handlede rigtig meget om at finde ud af. Jamen, hvad er det værst tænkelige, man kan forestille sig i København ud fra de her betragtninger med at se på køge bugt, og hvordan er dynamikken og hvor kommer stormen fra og alle de her ting for at få en idé om?
 
 00:51:11
-Ikke fordi man skal gøre det alle steder. Nødvendigvis. Det er et meget omfattende arbejde, men men den her bro af historiske data for hvad der rent faktisk er sket kombineret med hvad ved vi fra modellerne og hvad ved vi for IBC, og hvordan omsætter vi det til og et risikobillede, vi kan forholde os til i fremtiden?
+Ikke fordi man skal gøre det alle steder. Nødvendigvis. Det er et meget omfattende arbejde, men men den her bro af historiske data for hvad der rent faktisk er sket kombineret med hvad ved vi fra modellerne og hvad ved vi for IPCC, og hvordan omsætter vi det til og et risikobillede, vi kan forholde os til i fremtiden?
 
 00:51:30
 Og så det næste spørgsmål er til Katrine, og Det var noget jeg også sad og tænkte lidt over. Da du havde det oplæg, kan vi konkludere, at landets kommuner over en bred kam har udstedt byggetilladelser uden at bedømme floor stormflodsrisikoen.

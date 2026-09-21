@@ -1,5 +1,5 @@
 00:00:06
-Hej allesammen og velkommen til den 3 del og sidste del af DNN k's og DMI masterclass i dag. Der kommer det til at handle om stormfloder, både hvor de sker hvor tit de sker og noget omkring forandringer, men Det har vi både Carsten og Martin som skal gå jer igennem det med jer det næste 1,5 times tid, så det håber vi bare på at i er klar til at have hentet jeres kaffe til og så.
+Hej allesammen og velkommen til den 3 del og sidste del af DNNK's og DMI masterclass i dag. Der kommer det til at handle om stormfloder, både hvor de sker hvor tit de sker og noget omkring forandringer, men Det har vi både Carsten og Martin som skal gå jer igennem det med jer det næste 1,5 times tid, så det håber vi bare på at i er klar til at have hentet jeres kaffe til og så.
 
 00:00:33
 Håber vi på, at i vil blive med helt til til sidst, fordi der vil vi meget gerne også lige få lidt feedback fra jer.
@@ -11,7 +11,7 @@ Som i jo kan tænke over løbende også for hele masterclæresten, og det skal v
 Vil præsentere sig selv, og det vil Carsten også, når han kommer på.
 
 00:00:59
-Ja hej allesammen. Jeg hedder Martin Olesen og Jeg er kildeforsker på DMI på nationalcenter for klimaforskning og har arbejdet med regional klimamodellering i ja 15 år nu.
+Ja hej allesammen. Jeg hedder Martin Olesen og Jeg er klimaforsker på DMI på nationalcenter for klimaforskning og har arbejdet med regional klimamodellering i ja 15 år nu.
 
 00:01:14
 Og vil fortælle lidt om.
@@ -62,13 +62,13 @@ Stille og roligt derudaf og stille og roligt. Det kan man sige for den første d
 Og så Sådan mere accelererende frem mod i dag.
 
 00:03:18
-Og hvorfor? Hvorfor overhovedet vise den her kurve når vi når vi snakker havnebogstigninger og stormflod?
+Og hvorfor? Hvorfor overhovedet vise den her kurve når vi når vi snakker havniveaustigninger og stormflod?
 
 00:03:25
 Det er selvfølgelig fordi.
 
 00:03:27
-At altså den globale millille temperatur i sig selv er jo ikke Sådan specielt interessant. Altså at temperaturen nu foreløbig er steget op mod 1,5 grad er jo ikke så imponerende i forhold til at vi sidste for for et par uger siden havde et temperaturhop fra minus 10 til plus 16 grader over en enkelt dag. Det er jo så 26 grader fra den ene dag til den 2.
+At altså den globale middeltemperatur i sig selv er jo ikke Sådan specielt interessant. Altså at temperaturen nu foreløbig er steget op mod 1,5 grad er jo ikke så imponerende i forhold til at vi sidste for for et par uger siden havde et temperaturhop fra minus 10 til plus 16 grader over en enkelt dag. Det er jo så 26 grader fra den ene dag til den 2.
 
 00:03:49
 Men når det så alligevel er vigtigt, så er det fordi at at når man globalt set.
@@ -92,7 +92,7 @@ Foreløbig stigning på 1,5 grad, men den her temperaturstigning.
 Den fører en helt masse andre ting med sig. Nu var det jo en en gymnasieklasse der der der Sådan brainstormmede frit fra leveren og alt hvad der står her, er Sådan set rigtigt. Altså en højere temperatur.
 
 00:04:55
-Det gør et havisen bliver mindre der. Det gør så at alberedoen den den ændrer sig, så vi går fra at have en meget lys overflade til en meget mørk overflade og der absorberes mere, og det giver så en feedback mekanisme til temperaturen og så videre.
+Det gør et havisen bliver mindre der. Det gør så at albedoen den den ændrer sig, så vi går fra at have en meget lys overflade til en meget mørk overflade og der absorberes mere, og det giver så en feedback mekanisme til temperaturen og så videre.
 
 00:05:10
 Der er færre skibakker. Det er jo det her med Det var en gymnasieklasse, så er der også et særligt fokus på Sådan nogle ting. Måske.
@@ -194,7 +194,7 @@ Og det der ligger dernede hvis man fjerner det jamen så mister man så en masse
 En en den sidste detalje, den det sidste bidrag til havniveau ændringer, skal jeg så sige?
 
 00:10:23
-Det er det vi kalder landhabing. Det er illustreret med den her gamle vægt, altså landhaven.
+Det er det vi kalder landhævning. Det er illustreret med den her gamle vægt, altså landhævningen.
 
 00:10:30
 Der har vi i Danmark som Sådan et response på sidste istid, blandt andet altså efter sidste istid, som var godt 11.000 år siden cirka 11.000 år siden der.
@@ -206,7 +206,7 @@ Den den massive isklump der lå på Vores på Vores i Vores gård, der trykkede 
 Dengang, og Det er et par millimeter om året Sådan i gennemsnit over landet.
 
 00:11:11
-Der kan man Jeg har lige et kort her du viser det ude til højre her. Der kan man se hvordan landhvævningen er, er er foregået eller er foregået her og nu.
+Der kan man Jeg har lige et kort her du viser det ude til højre her. Der kan man se hvordan landhævningen er, er er foregået eller er foregået her og nu.
 
 00:11:22
 Efter den sidste istid og det det her. Det er et en meget en dugfrisk kurve.
@@ -398,7 +398,7 @@ Fra år til år og så en generel stigning, så hvorfor er det lige præcis nu, 
 Det samspil, Der er mellem havet og atmosfæren, som foregår II stillehavet, og Det kan man så se herud for Sydamerika lige midt i kortet her. Der kan man se en temperatur animal i det står på hvad hedder det. Den her collage herude II højre side at der har vi usædvanlig varm overflade temperatur.
 
 00:22:29
-Og Det er det vi kalder elinju, og når så stort et område er usædvanligt varmt, så har det stor indflydelse på på hele vejrsystemet og hele atmosfæren og versystemet globalt.
+Og Det er det vi kalder El Niño, og når så stort et område er usædvanligt varmt, så har det stor indflydelse på på hele vejrsystemet og hele atmosfæren og versystemet globalt.
 
 00:22:41
 En 2 ting når man nu har det her kort fremme.
@@ -407,7 +407,7 @@ En 2 ting når man nu har det her kort fremme.
 Så kan man så kan man se at at Der er også foregået noget II nordatlanten, så her har vi også ekstra varmt og og meget varmere end end end end man normalt har i det her område.
 
 00:23:01
-Og det altså sammen med det andet sammen med med en linje, så er det jo noget af det Der er med til at at sætte sætte skub i den hektologiske cyklus, så vi.
+Og det altså sammen med det andet sammen med med en linje, så er det jo noget af det Der er med til at at sætte sætte skub i den hydrologiske cyklus, så vi.
 
 00:23:11
 Så vi får mere.
@@ -440,7 +440,7 @@ Og og kraftigere.
 Man kan se her, hvordan den her. Det er jo det, vi kalder den en linje på kortet her. Det er kraftige en linje Vi har her i 3.
 
 00:24:37
-24, og der kan man se hvordan en linje fra 1982 og frem til i dag har været kraftigt positiv, og så har man den den negative fase, som hedder la linja, altså hvor hvor man kan sige overflade vand vandtemperaturen ud for.
+24, og der kan man se hvordan en linje fra 1982 og frem til i dag har været kraftigt positiv, og så har man den den negative fase, som hedder La Niña, altså hvor hvor man kan sige overflade vand vandtemperaturen ud for.
 
 00:24:53
 Ud fra hvad hedder det? Sønderikas vestkyst er er lavere end normalt. Det er så det, vi kalder en landlinje og så hedder.
@@ -452,7 +452,7 @@ Kommer der en linje og en land linje. Det overtager og afløser hinanden derudaf
 Periode imellem.
 
 00:25:10
-Og der kan man se her til sidst. Der er vi ude i en i en i en kraftig linje, som har givet anledning til det her. Og sidste gang vi havde en kraftig ninue.
+Og der kan man se her til sidst. Der er vi ude i en i en i en kraftig linje, som har givet anledning til det her. Og sidste gang vi havde en kraftig El Niño.
 
 00:25:18
 Det var der II 16, hvor hvor vi også havde en hel del rekorder, og hvis vi så lige kigger på kortet igen fra før, så kan man godt se. Og Det er jo ikke fordi Der er fuldstændig sammenfald mellem at Vi har 1 1 1 Sådan peak II, global temperatur og en linje, men alligevel så kan man godt se at at Der er noget.
@@ -461,7 +461,7 @@ Det var der II 16, hvor hvor vi også havde en hel del rekorder, og hvis vi så 
 De her og små op og nedture her. Det er det vi kalder de naturlige variationer og en stor del af dem.
 
 00:25:43
-Kan tilskrives en linje jo her så man kan Sådan tage det her og lægge over i og så kan så kan man Sådan forklare hvorfor, hvorfor det kører op og ned, hvor hvor imod den generelle stigning her. Det er jo så bare eller bare, men Det er jo så på grund af den øgede koncentration af strivhedsplads, som giver Sådan en en mere jævn stigning II temperatur.
+Kan tilskrives en linje jo her så man kan Sådan tage det her og lægge over i og så kan så kan man Sådan forklare hvorfor, hvorfor det kører op og ned, hvor hvor imod den generelle stigning her. Det er jo så bare eller bare, men Det er jo så på grund af den øgede koncentration af drivhusgas, som giver Sådan en en mere jævn stigning II temperatur.
 
 00:26:03
 Bare lige for at at at se på den seneste.
@@ -881,7 +881,7 @@ For eksempel finde København.
 Og.
 
 00:46:04
-Så kommer man ned i den her. Det var den her Martin havde klippet ud og her er så de enkelte hændelser inde i den her PDF fil fra kyststituttet og så også på næste side. Så er så den figur som Martin viste.
+Så kommer man ned i den her. Det var den her Martin havde klippet ud og her er så de enkelte hændelser inde i den her PDF fil fra Kystdirektoratet og så også på næste side. Så er så den figur som Martin viste.
 
 00:46:17
 Nu har jeg så taget København, som holder lidt længere, men stadigvæk det samme at Der er nogle observationer der viser alle de ekstreme ren har målt og så også den røde.
@@ -893,7 +893,7 @@ Model der siger, Det er indenfor det her område har vi en model vi tror rimelig
 Så Det er det Vi skal arbejde med, og så kommer vi faktisk også til at gå ind og kigge lidt på de her.
 
 00:46:41
-Højvandsstatistikker, og de ligger også tilgængeligt på DM i's hjemmeside, så vi cykler lidt rundt på klimaets hjemmeside på DM iss hjemmeside og så på kystdikturelt hjemmeside, fordi Det er der data kommer fra, når Vi skal ind og.
+Højvandsstatistikker, og de ligger også tilgængeligt på DMI's hjemmeside, så vi cykler lidt rundt på klimaets hjemmeside på DMI's hjemmeside og så på Kystdirektoratets hjemmeside, fordi Det er der data kommer fra, når Vi skal ind og.
 
 00:46:56
 Og arbejde med det her.
@@ -1181,7 +1181,7 @@ Der hvor åen kommer ind.
 Og det her. Det giver et billede, og Det er ikke usædvanligt for for for de her kystbyer at sige jamen en tiårs endelse i 2024.
 
 01:00:18
-Ja, der vil være et eller andet antal huse her, og eftersom 10 års hændelsen er under det som naturskagerådet refunderer, og Det er i det hele taget er ret tit, så kunne man godt mistænke det for at Det var en af de her modelfejl.
+Ja, der vil være et eller andet antal huse her, og eftersom 10 års hændelsen er under det som Naturskaderådet refunderer, og Det er i det hele taget er ret tit, så kunne man godt mistænke det for at Det var en af de her modelfejl.
 
 01:00:35
 Og i hvert fald så lige gå ind og tjekke, hvad det hvad Det er.
@@ -1205,7 +1205,7 @@ At halvdelen af det her område faktisk vil blive oversvømmet i fremtiden.
 Med de bygninger, Der er der og.
 
 01:01:43
-Og Det er et ganske typisk tegn, og Det er jo det, som blandt andet DTUS rapport påpegede det her at sige, at at vi får relativt hurtigt.
+Og Det er et ganske typisk tegn, og Det er jo det, som blandt andet DTU's rapport påpegede det her at sige, at at vi får relativt hurtigt.
 
 01:01:52
 Nogle relativt voldsomme påvirkninger af oversvømmelser?
