@@ -8,13 +8,13 @@ Transskriberet: 2026-08-26T12:05:23.912142
 ==================================================
 
 00:00:00
-Egentlig så startede historien bevægt sig en del år før jeg kom ind i billedet blandt de her tre folk, som har gået ud og arbejdet med vandrenewagingsprojekter hos Hufford. De har arbejdet med vandrenewagingsprojekter i mange år, og har fundet ud af, at processen i et udskiftet vandrør og renoveret vandrør er både besværligt, farligt for dem, der arbejder med det, og det er utroligt for surreskrivene, og derfor også dyrt.
+Egentlig så startede historien bevægt sig en del år før jeg kom ind i billedet blandt de her tre folk, som har gået ud og arbejdet med vandrenewagingsprojekter hos HOFOR. De har arbejdet med vandrenewagingsprojekter i mange år, og har fundet ud af, at processen i et udskiftet vandrør og renoveret vandrør er både besværligt, farligt for dem, der arbejder med det, og det er utroligt for surreskrivene, og derfor også dyrt.
 
 00:00:30
 Derfor besluttede vi, at der måtte være en nemmere måde, at man kunne gøre det her på, og deres første tegne var, at han lærer at bygge en robot, der kan gøre det, sådan nogle af de mennesker, der gør det nu. Det eneste problem var, at de havde ingen idé om, hvordan man bygget en robot, så der skulle de ud og have fat i nogle mennesker, der kunne finde ud af det.
 
 00:01:00
-Så de ringede over til Odense Robotics. Vi har sådan en god robotkloster i Odense, hvor der sidder og laver meget kompetente mennesker ind på robotter, og har haft det i fat på blandt andet æsken Østergård, som er founder af det, der hedder Universal Robots, som er i dag af Danmarks største robotlægsel på. Derudover fik de også fat i Peter Snedegård, som sidder og hos Odense Robotics, som business development manager, og fik overvist de her to robotfolk om, at det her var en god idé.
+Så de ringede over til Odense Robotics. Vi har sådan en god robotkloster i Odense, hvor der sidder og laver meget kompetente mennesker ind på robotter, og har haft det i fat på blandt andet Esben Østergaard, som er founder af det, der hedder Universal Robots, som er i dag af Danmarks største robotlægsel på. Derudover fik de også fat i Peter Snedegård, som sidder og hos Odense Robotics, som business development manager, og fik overvist de her to robotfolk om, at det her var en god idé.
 
 00:01:30
 Og sammen gik de sammen for sidste rampsup med mission om at ene robot teknologi og vandforsyning. Så det er simpelthen det, der lægger et spørgård på, at vi starter i årsvekspunktet. Så det, vi gerne vil med vores robot, er at automatisere processen i at udskifte og reparere vandræv. Vi vil gerne lignere nogle af de udledninger, og det er ressourcespil, og de omkastninger, der er emolleret i den her process.

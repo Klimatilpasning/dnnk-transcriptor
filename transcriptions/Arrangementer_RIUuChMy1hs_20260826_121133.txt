@@ -8,10 +8,10 @@ Transskriberet: 2026-08-26T12:11:33.357633
 ==================================================
 
 00:00:00
-Hej, jeg hedder Morten Grum. Jeg kommer fra Watersurf, og jeg skal fortælle om en AI-acceleratede afløbsmodell, hvor man arbejder sammen. Jeg vil starte med at fortælle, de sidste to år, der har den haft et MLB-projekt, hvor vi sammen med DTU og Borkom i Tyskland, har lavet et proof of contact på det, jeg vil tale om i dag.
+Hej, jeg hedder Morten Grum. Jeg kommer fra WaterZerv, og jeg skal fortælle om en AI-acceleratede afløbsmodell, hvor man arbejder sammen. Jeg vil starte med at fortælle, de sidste to år, der har den haft et MLB-projekt, hvor vi sammen med DTU og Bochum i Tyskland, har lavet et proof of contact på det, jeg vil tale om i dag.
 
 00:00:30
-Men jeg vil først fortælle, hvorfor jeg står her. Jeg kommer i dag, fordi vi har fået et endnu brugste projekt, og sammen med seks forsøgninger og kommuner, der skal vi udvikle videre på det her produkt, iterativt, og vi søger i dag andre forsøgninger, kommuner, der gerne vil være med til den rejse.
+Men jeg vil først fortælle, hvorfor jeg står her. Jeg kommer i dag, fordi vi har fået et InnoBooster-projekt, og sammen med seks forsøgninger og kommuner, der skal vi udvikle videre på det her produkt, iterativt, og vi søger i dag andre forsøgninger, kommuner, der gerne vil være med til den rejse.
 
 00:01:00
 Vi udvikler iterativt, så vi kører igennem nogle workshops, hvor man anvender værktøret i det sted, som det nu er, og så mødes man igen noget tid senere, efter det er blevet udviklet videre på det, og baseret på de erfaringer, og så kører vi videre på den måde. Problemet er, at hverdenover, den misteres da rigtig meget i regn- og spildevandsinfrastruktur, og det er på grund af klimatilpassning,
@@ -41,7 +41,7 @@ nød ved overløbet, og så ser vi med det samme, okay, hvor meget effekt har de
 i stedet for, at man, man sidder ved et møde, og bliver enige om tre scenarier, der skal undersøges, og så går der tre uger, hvor en modeller sidder og kværner nogle tal, og så kommer man tilbage, ah, der har gået en af de der, der er rigtig dure, vi bliver nødt til at finde på noget andet, så kan man her, afprøve måske 16, 20, 30 forskellige forslag, vælge det tog tre ud, som man gerne vil kigge nærmere på, måske med et lidt klassisk modell. På løbet, vi kører nu,
 
 00:05:30
-det er det her enderbygselprojekt, det er et 15 månedt projekt, hvor vi har forvert case, i hver søgning, der har vi tre workshops, en nu her i efterår, og så to næste år, og så har vi selvfølgelig projekt seminarer, hvor vi deler viden med en anden, og det er selvfølgelig det her forløbde ting. Så, hvad skal man sige, det generelle fordel i at arbejde på den her måde,
+det er det her InnoBooster-projekt, det er et 15 månedt projekt, hvor vi har forvert case, i hver søgning, der har vi tre workshops, en nu her i efterår, og så to næste år, og så har vi selvfølgelig projekt seminarer, hvor vi deler viden med en anden, og det er selvfølgelig det her forløbde ting. Så, hvad skal man sige, det generelle fordel i at arbejde på den her måde,
 
 00:06:00
 det er jo, at man sparer tid, med hurtigere forløb, man har mere tværtagelige involvering, man kommer for ikke en biolog, eller urbane-økolog ind, som lige pludselig siger, nej, ho, det er der, det går ikke, og der har man allerede lavet hele sitt projekt klar, til at blive teget op, og vores forventning, det kan vi selvfølgelig ikke sige nu,

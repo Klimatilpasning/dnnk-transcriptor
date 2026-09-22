@@ -758,38 +758,19 @@
   "transcriptions\\DNNKs_virtuelle_studietur_-_hydroseperatoren.txt": {
     "anvendt": [
       {
-        "forkert": "beflantet filter",
-        "rettet": "beplantet filter",
-        "antal": 1
-      }
-    ],
-    "afvist": [
-      {
         "forkert": "hydroseapparaterne",
-        "rettet": "hydroseparatoren",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "hyttesebaseret",
-        "rettet": "hydroseparatoren",
-        "grund": "afvist"
+        "rettet": "Hydroseparatoren",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
         "forkert": "hydrocepsebratoren",
         "rettet": "hydroseparatoren",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "hydrosebor",
-        "rettet": "hydroseparator",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "plantet filteranlæg",
-        "rettet": "beplantede filteranlæg",
-        "grund": "afvist"
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
-    ]
+    ],
+    "afvist": []
   },
   "transcriptions\\God Morgen med DNNK – Webinar om Vandrensning.txt": {
     "anvendt": [
@@ -2981,6 +2962,12 @@
         "forkert": "klimailpasning",
         "rettet": "klimatilpasning",
         "antal": 1
+      },
+      {
+        "forkert": "",
+        "rettet": "",
+        "antal": 0,
+        "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
       }
     ],
     "afvist": [
@@ -7681,33 +7668,19 @@
   "transcriptions\\V.I.P.__WaterZerv.mp3.txt": {
     "anvendt": [
       {
-        "forkert": "innoboust",
-        "rettet": "InnoBooster",
-        "antal": 1
+        "forkert": "kommer fra waterf",
+        "rettet": "kommer fra WaterZerv",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "oløb",
-        "rettet": "overløb",
-        "antal": 1
+        "forkert": "pukkum i Tyskland",
+        "rettet": "Bochum i Tyskland",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
-    "afvist": [
-      {
-        "forkert": "profit content",
-        "rettet": "proof of concept",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "pukkum",
-        "rettet": "Bochum",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "hydrolynisk simulering",
-        "rettet": "hydrodynamisk simulering",
-        "grund": "afvist"
-      }
-    ]
+    "afvist": []
   },
   "transcriptions\\V.txt": {
     "anvendt": [
@@ -26074,6 +26047,157 @@
         "rettet": "",
         "antal": 0,
         "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Arrangementer_cDfGMF9D7rQ_20260826_120523.txt": {
+    "anvendt": [
+      {
+        "forkert": "Hufford",
+        "rettet": "HOFOR",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "æsken Østergård",
+        "rettet": "Esben Østergaard",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Arrangementer_RIUuChMy1hs_20260826_121133.txt": {
+    "anvendt": [
+      {
+        "forkert": "kommer fra Watersurf",
+        "rettet": "kommer fra WaterZerv",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Borkom i Tyskland",
+        "rettet": "Bochum i Tyskland",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "endnu brugste projekt",
+        "rettet": "InnoBooster-projekt",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "enderbygselprojekt",
+        "rettet": "InnoBooster-projekt",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\V.I.P._Box_of_Green.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "boxer screeningen",
+        "rettet": "Box of Green",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "BoxerGreen",
+        "rettet": "Box of Green",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "vokser Green",
+        "rettet": "Box of Green",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "boxerforeningen",
+        "rettet": "Box of Green",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Oevrige_rIsvg0nHu58_20260831_170651.txt": {
+    "anvendt": [
+      {
+        "forkert": "Frederik Speer Kommune",
+        "rettet": "Frederiksberg Kommune",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Langerlands Plads",
+        "rettet": "Langelandsplads",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "langdagens plads",
+        "rettet": "Langelandsplads",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Langlandsplads",
+        "rettet": "Langelandsplads",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Rokfløve",
+        "rettet": "RockFlow",
+        "antal": 6,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Rokhulgruppen",
+        "rettet": "Rockwool Gruppen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Rokvul",
+        "rettet": "Rockwool",
+        "antal": 4,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Oevrige_PKlQbQZRZk0_20260826_180643.txt": {
+    "anvendt": [
+      {
+        "forkert": "Nordkøstens fremtid",
+        "rettet": "Nordkystens Fremtid",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "linfjorden",
+        "rettet": "Limfjorden",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "linfjord samarbejde",
+        "rettet": "Limfjord-samarbejde",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Gudnå",
+        "rettet": "Gudenå",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
