@@ -7,22 +7,22 @@ Transskriberet: 2026-08-26T06:30:49.977137
 ==================================================
 
 00:00:00
-Jeg har en agenda med tre punkter. Først vil jeg gerne lave en kort gennemgang af Dinge og Bo IQ og så fortælle kort om oversømelsesdata, som vi har på DGO BO IQ. Og så sidste en diskussion af hvordan vi mener på dino at vi udnytter geodata og også oversømelsesdata på den bedst
+Jeg har en agenda med tre punkter. Først vil jeg gerne lave en kort gennemgang af DinGeo og BoIQ og så fortælle kort om oversømelsesdata, som vi har på DinGeo og BoIQ. Og så sidste en diskussion af hvordan vi mener på DinGeo at vi udnytter geodata og også oversømelsesdata på den bedst
 
 00:00:30
 mulige måde. Altså trække så meget information som er så let som muligt for brugerne at at forstå. Førsto det er et ø et site jeg ligesom startup ved et tilfælde fordi jeg lavede sitet til mig selv og så var der mange der fandt det interessant og så lavede vi et startupfirma øh den centrale for de GR det er adressen af nøglen. Så der er en masse geodata, men man slår altid en adresse op. Så på
 
 00:01:00
-så når man kommer ind på Ding Go, så er det første man blev spurgt om, det er at slå en adresse op. Når man kommer over på et adresseops side, så er der en masse geodata, som vi har samlet øh 40 til 60 forskellige datakilder og talt sammen den anden dag og næsten 2000 forskellige datapunkter på hver eneste adresse. Målgruppen for sitter har altid været ikke eksperter. Øh, hovedsagelig henvend til boligejere og boligkøbere, at når de
+så når man kommer ind på DinGeo, så er det første man blev spurgt om, det er at slå en adresse op. Når man kommer over på et adresseops side, så er der en masse geodata, som vi har samlet øh 40 til 60 forskellige datakilder og talt sammen den anden dag og næsten 2000 forskellige datapunkter på hver eneste adresse. Målgruppen for sitter har altid været ikke eksperter. Øh, hovedsagelig henvend til boligejere og boligkøbere, at når de
 
 00:01:30
-er interesseret i en bolig, at de kan få så mange data som overhovedet muligt fra den her bolig. Og det gea, der kommer ud til en en bred øh befolkningsmasse, der er 800.000 til 1 million adresseopslag hver eneste måned ø på på din ø mest almindelige feedback både positive og negative feedback. Den mest almindelige feedback er faktisk, at folk er forundret over, hvor mange geodata der er. Hvis de er interesseret i en bolig, så slår de op, og så finder de
+er interesseret i en bolig, at de kan få så mange data som overhovedet muligt fra den her bolig. Og det gea, der kommer ud til en en bred øh befolkningsmasse, der er 800.000 til 1 million adresseopslag hver eneste måned ø på på DinGeo mest almindelige feedback både positive og negative feedback. Den mest almindelige feedback er faktisk, at folk er forundret over, hvor mange geodata der er. Hvis de er interesseret i en bolig, så slår de op, og så finder de
 
 00:02:00
 gods, der er så mange geodata faktisk på den her ejendom. Og det er en god feedback for os, fordi det var sådan set derfor vi lavede sitet for at gøre opmærksom på alle de her data. Sitet er en privatvirksomhed, så vi skal tjene penge, og det gør vi via reklamer på sitet for øh banker og forsikringe og folk der kan forbedre boliger og ejendomsmalere og købsmalere som kan hjælpe med at behandle boliger.
 
 00:02:30
-Øh, i forbindelse med Dingo, så har vi løbende fået henvendelser for andre virksomheder, som er interesseret i de her data, selvom det egentlig er åbne data, men interesseret i det, vi har gjort. Vi har forarbejdet data og samlet den. Så i år så har vi taget det skridt at lave et nyt site, der hedder BoQ, hvor vi har har data warehouse for Dinge data, hvor vi hver eneste dag går ind og henter de nyeste data på Dingeo. Og det samme fra vores søsterside boliga, hedder boligmarkedsdata.
+Øh, i forbindelse med Dingo, så har vi løbende fået henvendelser for andre virksomheder, som er interesseret i de her data, selvom det egentlig er åbne data, men interesseret i det, vi har gjort. Vi har forarbejdet data og samlet den. Så i år så har vi taget det skridt at lave et nyt site, der hedder BoIQ, hvor vi har har data warehouse for DinGeo-data, hvor vi hver eneste dag går ind og henter de nyeste data på Dingeo. Og det samme fra vores søsterside boliga, hedder boligmarkedsdata.
 
 00:03:00
 Øh, så kan vi levere de her data til virksomheder, som er interesseret i de her data øh øh i alle mulige formater, API eller databasedums eller CSV-filer og med den nøgle, der nu passer til virksomhedens øh database. Og det går faktisk ret godt. Vi har en voksende mængde kunder, forsikringsselskaber, banker, realkredit, kommuner, energi, energiforsyning og så videre.
@@ -58,7 +58,7 @@ med på på adresseopslagene. Og jeg tror der kommer præsentationer om nogle af
 Og en anden ting, det var, at de webgløsninger er ofte målrettede eksperter. Så det lavede folk, som kender de her data rigtig godt, og der er mulighed for at slå en masse lag til, og man skal også kunne læse en legende og så videre. Ø, det er ikke altid at ø at det er let for den almindelige bruger at at forstå den type løsninger. Øh, ja, så løsningen var at ø for mig at lave
 
 00:08:30
-gingave, som som så hjælper brugeren med at gå ud og hente de her datakilder øh og servere dem i ensamlet opsagsside. Og det det kan synes trivielt. I virkeligheden så er der nogle det er ikke så lett i virkeligheden, fordi der er øh øh datakilderne de har forskellige format. Øh øh så der er en masse
+DinGeo, som som så hjælper brugeren med at gå ud og hente de her datakilder øh og servere dem i ensamlet opsagsside. Og det det kan synes trivielt. I virkeligheden så er der nogle det er ikke så lett i virkeligheden, fordi der er øh øh datakilderne de har forskellige format. Øh øh så der er en masse
 
 00:09:00
 forskellige data her der skal øh hæftes sammen og gerne skjule kompleksiteten ved alle de her data for for brugeren. Øhm der forskellige databasenøgler for forskellige systemer. Øh forskellige koordinatsystemer for forskellige webgifsløsninger. Øhm, så men ja, så det her hovedarbejdet, fordi en at bo i kollega til at og arbejde med de her data.

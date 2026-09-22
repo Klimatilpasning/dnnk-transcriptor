@@ -9072,6 +9072,12 @@
         "rettet": "affektionsværdier",
         "antal": 1,
         "grund": "Fable-fund + domæne-review (Opus)"
+      },
+      {
+        "forkert": "",
+        "rettet": "",
+        "antal": 0,
+        "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
       }
     ],
     "afvist": []
@@ -25075,6 +25081,133 @@
         "rettet": "GEUS-data",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Climate_Adaptation_Summit_2024_-_Blaz_Kurnik.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "IEA",
+        "rettet": "EEA",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Konferencer_uXKC54VDPAs_20260826_063049.txt": {
+    "anvendt": [
+      {
+        "forkert": "Dinge og Bo IQ",
+        "rettet": "DinGeo og BoIQ",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DGO BO IQ",
+        "rettet": "DinGeo og BoIQ",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Ding Go",
+        "rettet": "DinGeo",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "dino",
+        "rettet": "DinGeo",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "din ø",
+        "rettet": "DinGeo",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "BoQ",
+        "rettet": "BoIQ",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Dinge data",
+        "rettet": "DinGeo-data",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "gingave",
+        "rettet": "DinGeo",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Konferencer_qIyqX6OD96Y_20260826_064011.txt": {
+    "anvendt": [
+      {
+        "forkert": "Jennifer Cher",
+        "rettet": "Jennifer Cherrier",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Cony Island",
+        "rettet": "Coney Island",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "hry",
+        "rettet": "Henri",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Fally",
+        "rettet": "FEMA",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "520 meter kystlinje",
+        "rettet": "520 mil kystlinje",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "30,50 kr.",
+        "rettet": "30-50 cm",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Konferencer_xDdOgmmFbYA_20260826_062838.txt": {
+    "anvendt": [
+      {
+        "forkert": "",
+        "rettet": "",
+        "antal": 0,
+        "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Konferencer_YV7kyRcXJnk_20260826_063106.txt": {
+    "anvendt": [
+      {
+        "forkert": "",
+        "rettet": "",
+        "antal": 0,
+        "grund": "AI-rensning (rutine) - foreslaaet par matchede ikke, ingen aendring"
       }
     ],
     "afvist": []
