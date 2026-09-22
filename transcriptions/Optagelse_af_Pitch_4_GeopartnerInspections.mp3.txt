@@ -8,7 +8,7 @@ Vi går lidt mere i dybden fordi det vi arbejder med som landbrug. Det er jo meg
 XY og z koordinater og det. Vi har ekstremt meget fokus på. Det er z koordinaterne, altså højdeinflammationer, fordi vand har jo den fremragende egenskab kombineret med lidt tyngdekraft, og Det kan finde ud af at løbe de steder hen, hvor Der er lavest, og det arbejder vi meget med.
 
 00:00:30
-Og Vi har blandt andet udviklet rettereffektorer, ligesom den vi ser nede ved Odense Fjord her. Så vi leverer både hardware og nogle beregninger og nogle løsninger, som henvender sig til en bred skare.
+Og Vi har blandt andet udviklet radarreflektorer, ligesom den vi ser nede ved Odense Fjord her. Så vi leverer både hardware og nogle beregninger og nogle løsninger, som henvender sig til en bred skare.
 
 00:00:43
 Af af brugere.
@@ -20,7 +20,7 @@ Alle, der har brug for ordentlige højde informationer, gode hånd informationer
 Vi har som sagt taget satellitteknologien i brug, og Der er ingen batterier her. Der er aluminiums konstruktioner ren hardware.
 
 00:01:11
-Som står vinklet på den rigtige måde at reflektere signalet fra sentinal satellitterne og holde øje med, hvordan tingene de bevæger sig. Og da er det jo tit er indenfor brancher, hvor man har noget sætning og noget forventning om sætning, for eksempel på havneområder. Jamen, så kan vi altså følge løbende.
+Som står vinklet på den rigtige måde at reflektere signalet fra Sentinel-satellitterne og holde øje med, hvordan tingene de bevæger sig. Og da er det jo tit er indenfor brancher, hvor man har noget sætning og noget forventning om sætning, for eksempel på havneområder. Jamen, så kan vi altså følge løbende.
 
 00:01:28
 Hvordan sætter tingene sig, og det Vi har gjort, Det er, at Vi har.
@@ -29,7 +29,7 @@ Hvordan sætter tingene sig, og det Vi har gjort, Det er, at Vi har.
 Implementeret nogle nye teknologier i gamle dage, hvor man gik rundt til fods og målte op fra fikspunkter og.
 
 00:01:41
-Og brugt forskellige traditionelle opmodningsmetoder, der tog det lang tid. Det var meget dyrt, og derfor undlod man måske nogle gange at følge op på noget opmåling eller monitorering. Og hvis tingene ikke ligefrem Sådan synligt gik i stykker, jamen så kunne man jo sige det går nok, men Vi har introduceret det vi kalder for et not and virker ikke et motoriseret vilement.
+Og brugt forskellige traditionelle opmodningsmetoder, der tog det lang tid. Det var meget dyrt, og derfor undlod man måske nogle gange at følge op på noget opmåling eller monitorering. Og hvis tingene ikke ligefrem Sådan synligt gik i stykker, jamen så kunne man jo sige det går nok, men Vi har introduceret det vi kalder for et not and virker ikke et motoriseret nivellement.
 
 00:02:00
 Det er altså en måde at måle højder på, Sådan at vi kan få et solidt udgangspunkt for hvordan tingene bevæger sig.
@@ -38,7 +38,7 @@ Det er altså en måde at måle højder på, Sådan at vi kan få et solidt udga
 Det har vi som tror vi nok. Vi har ikke set noget lignende i Europa.
 
 00:02:13
-Og det gør altså, at man kan få målt nogen højder hurtigere og billigere og bedre, end man kan med traditionelle metoder. Så Det er altså noget med økonomi at gøre og ved hjælp af rettereflektoren. Der kan man altså få højt bestemt meget præcist på milimeter niveau.
+Og det gør altså, at man kan få målt nogen højder hurtigere og billigere og bedre, end man kan med traditionelle metoder. Så Det er altså noget med økonomi at gøre og ved hjælp af radarreflektoren. Der kan man altså få højt bestemt meget præcist på milimeter niveau.
 
 00:02:28
 Hvordan noget det sætter sig.
@@ -71,7 +71,7 @@ Og påvirke instrukturen II jorden og selvfølgelig også i forhold til.
 Oversvømmelsesrisiko og så videre.
 
 00:03:55
-Så det vi gør. Det er at vi tager Vores motoriserede neuman på fastlagt en baseline, altså et højt niveau, som vi kobler til Vores nationale højdesystem, og så etablerer vi nogle fikspunkter, som er Vores retterefktorer.
+Så det vi gør. Det er at vi tager Vores motoriseret nivellement på fastlagt en baseline, altså et højt niveau, som vi kobler til Vores nationale højdesystem, og så etablerer vi nogle fikspunkter, som er Vores radarreflektorer.
 
 00:04:11
 Og, som er en passiv opmålings instrument. Den står der bare og ser smuk ud og og hver 6 dag kommer der en satellit forbi og skaber nye data, og det hober sig op og giver en masse muligheder for at lave beregninger og fremskrivninger. Og Det kan man så visualisere på forskellig vis man kan levere.
@@ -86,16 +86,16 @@ Og forskellen fra fra før til nu. Det er altså, at når man først har fastlag
 Men man kan for eksempel gøre det hvert halve år eller hvert hele år, alt efter hvad situationen er.
 
 00:05:13
-Noget af det, som Vi har oplevet. Der bliver en sidegevinst ved at bruge de her radarflektorer til højest bestemmelse, og som hvor sidegevinsten måske kan gå hen og blive den største gevinst i virkeligheden. Det er at man kan bruge nogle velkendte måder at måle GPS på.
+Noget af det, som Vi har oplevet. Der bliver en sidegevinst ved at bruge de her radarreflektorer til højest bestemmelse, og som hvor sidegevinsten måske kan gå hen og blive den største gevinst i virkeligheden. Det er at man kan bruge nogle velkendte måder at måle GPS på.
 
 00:05:28
-Det hedder enkeltstationsr k. Nu vil jeg ikke blive for teknisk, men ved at bruge radarreflektoren som et fikspunkt og så bevæge sig i op til 5 km væk fra radoren.
+Det hedder enkeltstations-RTK. Nu vil jeg ikke blive for teknisk, men ved at bruge radarreflektoren som et fikspunkt og så bevæge sig i op til 5 km væk fra radaren.
 
 00:05:39
-Der kan man altså måle ultrapræcist til højder med GPS, hvilket man ikke kan med standardmetoderne med GPS opmåling. Så vi snakker centimeter nøjagtighed på GPS højder og Vi har lige sat et projekt i gang, hvor vi ude ved ringhus skærm Forsyning, hvor vi skar en ordentlig bid af regningen for at måle, fordi det gik over fra tidligere at have målt med total station og level mange andre opmålningsmetoder der tager lidt længere tid og mere omstændigheder beregner og så videre.
+Der kan man altså måle ultrapræcist til højder med GPS, hvilket man ikke kan med standardmetoderne med GPS opmåling. Så vi snakker centimeter nøjagtighed på GPS højder og Vi har lige sat et projekt i gang, hvor vi ude ved Ringkøbing-Skjern Forsyning, hvor vi skar en ordentlig bid af regningen for at måle, fordi det gik over fra tidligere at have målt med total station og level mange andre opmålningsmetoder der tager lidt længere tid og mere omstændigheder beregner og så videre.
 
 00:06:07
-Til at bruge den her reflektor og enkelt stations RCK, hvor det gav en besparelse på 20% på hele omkostningen på den her opmåling. Så Der er penge at spare, og Der er præcise højt at hente, og endvidere kan den her ratere refleks også bruges som fixpunkt til laserscanning. Der har vi et en laserscanning fra siden strandbygning nede ved Odense Fjord, hvor Vi har verificeret, at Vi har højde nøjagtighed på 1 cm på Sådan en dige.
+Til at bruge den her reflektor og enkeltstations-RTK, hvor det gav en besparelse på 20% på hele omkostningen på den her opmåling. Så Der er penge at spare, og Der er præcise højt at hente, og endvidere kan den her radarreflektoren også bruges som fixpunkt til laserscanning. Der har vi et en laserscanning fra siden strandbygning nede ved Odense Fjord, hvor Vi har verificeret, at Vi har højde nøjagtighed på 1 cm på Sådan en dige.
 
 00:06:35
 Og Vi har selvfølgelig massevis af punkter på Sådan et, og det giver altså også nogle muligheder i forhold til klimatilpasning og få det bedst mulige databundlag så bedre og billigere. Det burde jo være noget, der kan få skabt interessen og. Og Det er selvfølgelig noget af det, vi prøver at gå ud og sige, at for rigtig mange interessenter er der noget at spare og noget at hente, og vi vil gerne prøve at bruge Danmark som foregangsland også i forhold til det internationale marked.
@@ -107,14 +107,14 @@ Fordi de her satellitdata, de bliver skabt og leveret er sendt til nedsat satell
 Det her kørende indenfor alle de her sektorer.
 
 00:07:34
-Vi har 100 retterefktorer sat op i Danmark indtil nu indenfor de sidste 3 år og og Vi er i færd med at fylde ud indenfor de forskellige sektorer. Flere forsyninger er på vej. Flere havne er på vej.
+Vi har 100 radarreflektorer sat op i Danmark indtil nu indenfor de sidste 3 år og og Vi er i færd med at fylde ud indenfor de forskellige sektorer. Flere forsyninger er på vej. Flere havne er på vej.
 
 00:07:48
-Statslige styrelser er på vej. Vi har blandt andet kystdirektoratet, der skal sætte 14 retter og flerektorer op langs med Vestkysten og kommunerne og forsyningerne ude i det område er begyndt at sige. Jamen kan vi samtænke det med noget?
+Statslige styrelser er på vej. Vi har blandt andet kystdirektoratet, der skal sætte 14 radarreflektorer op langs med Vestkysten og kommunerne og forsyningerne ude i det område er begyndt at sige. Jamen kan vi samtænke det med noget?
 
 00:08:01
 Som giver mere nøjagtig højt informationer i Vores lokalområde.
 
 00:08:04
-Sådan at vi også kan træffe de rigtige beslutninger i forhold til projektgrundlag, og vi samarbejder med geo. Der har vi lavet 8 essaprojekter, så dem de kigger nedfra. Vi kigger ovenfra, så må jeg hellere holde.
+Sådan at vi også kan træffe de rigtige beslutninger i forhold til projektgrundlag, og vi samarbejder med geo. Der har vi lavet 8 ESA-projekter, så dem de kigger nedfra. Vi kigger ovenfra, så må jeg hellere holde.
 

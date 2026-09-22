@@ -325,6 +325,12 @@
         "forkert": "kørselsbeskyttelsesloven",
         "rettet": "kystbeskyttelsesloven",
         "antal": 2
+      },
+      {
+        "forkert": "",
+        "rettet": "",
+        "antal": 0,
+        "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
       }
     ],
     "afvist": [
@@ -3461,73 +3467,91 @@
   "transcriptions\\Optagelse_af_Pitch_4_GeopartnerInspections.mp3.txt": {
     "anvendt": [
       {
-        "forkert": "radarflektoren",
-        "rettet": "radarreflektoren",
-        "antal": 1
-      },
-      {
-        "forkert": "hottesystem",
-        "rettet": "højdesystem",
-        "antal": 1
-      }
-    ],
-    "afvist": [
-      {
         "forkert": "rettereffektorer",
         "rettet": "radarreflektorer",
-        "grund": "afvist"
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "rettereflektoren",
+        "rettet": "radarreflektoren",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
         "forkert": "retterefktorer",
         "rettet": "radarreflektorer",
-        "grund": "afvist"
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "radarflektorer",
+        "rettet": "radarreflektorer",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
         "forkert": "radoren",
+        "rettet": "radaren",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ratere refleks",
         "rettet": "radarreflektoren",
-        "grund": "afvist"
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
         "forkert": "retter og flerektorer",
         "rettet": "radarreflektorer",
-        "grund": "afvist"
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "ratere refleks",
-        "rettet": "radarreflektor",
-        "grund": "afvist"
+        "forkert": "essaprojekter",
+        "rettet": "ESA-projekter",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
         "forkert": "sentinal satellitterne",
         "rettet": "Sentinel-satellitterne",
-        "grund": "afvist"
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "enkeltstationsr k",
-        "rettet": "enkeltstations-RTK",
-        "grund": "afvist"
+        "forkert": "motoriseret vilement",
+        "rettet": "motoriseret nivellement",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "motoriserede neuman",
+        "rettet": "motoriseret nivellement",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
         "forkert": "ringhus skærm Forsyning",
         "rettet": "Ringkøbing-Skjern Forsyning",
-        "grund": "afvist"
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "højdeinflammationer",
-        "rettet": "højdeinformationer",
-        "grund": "afvist"
+        "forkert": "enkeltstationsr k",
+        "rettet": "enkeltstations-RTK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "hånd informationer",
-        "rettet": "højdeinformationer",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "vilement",
-        "rettet": "nivellement",
-        "grund": "afvist"
+        "forkert": "enkelt stations RCK",
+        "rettet": "enkeltstations-RTK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
-    ]
+    ],
+    "afvist": []
   },
   "transcriptions\\September - november 2025\\Godmorgen_med_DNNK__N_r_jorden_skrider___landskred_som_overs.mp3.txt": {
     "anvendt": [
@@ -25682,6 +25706,164 @@
         "rettet": "",
         "antal": 0,
         "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Arrangementer_TYAN6ZpLxEQ_20260826_123444.txt": {
+    "anvendt": [
+      {
+        "forkert": "NTC",
+        "rettet": "NCC",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\V.I.P._AquaGreen.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "publisering af biomasser",
+        "rettet": "pyrolysering af biomasse",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ved at publicere",
+        "rettet": "ved at pyrolysere",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Optagelse_af_Pitch_7_WaterWebTools.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "wall web tools",
+        "rettet": "Water Web Tools",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "psykologisk modellering",
+        "rettet": "hydrologisk modellering",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Arrangementer_ZVkyCW5IMTU_20260826_115854.txt": {
+    "anvendt": [
+      {
+        "forkert": "barterfilturer",
+        "rettet": "radarreflektorer",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "sentinelt sættelitterne",
+        "rettet": "Sentinel-satellitterne",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "klamateret",
+        "rettet": "implementeret",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "motoriserende element",
+        "rettet": "motoriseret nivellement",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "radreflektoren",
+        "rettet": "radarreflektoren",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Norge land",
+        "rettet": "Nordjylland",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Sønderland",
+        "rettet": "Sønderjylland",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "slådase",
+        "rettet": "slow data",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "motoriserende magnet",
+        "rettet": "motoriseret nivellement",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "rettereffektorer",
+        "rettet": "radarreflektorer",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "retter og flektorer",
+        "rettet": "radarreflektorer",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ængelstations-RSK",
+        "rettet": "enkeltstations-RTK",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "rettereflektoren",
+        "rettet": "radarreflektoren",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "uddækker skærnforsyning",
+        "rettet": "Ringkøbing-Skjern Forsyning",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "metodtagestationen og nivellemang",
+        "rettet": "totalstation og nivellement",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "rettereflexe",
+        "rettet": "radarreflektor",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "køsthjusrater",
+        "rettet": "Kystdirektoratet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "rette reflektorer",
+        "rettet": "radarreflektorer",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
