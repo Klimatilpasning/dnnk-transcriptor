@@ -38,7 +38,7 @@ Ja godt jeg fik mulighed for at skifte slide i hvert fald. Projektet er finansie
 Lasse omkring Det var PHD studerende og Jette hun er professor, så Jeg er så seniorforsker og har deltaget en del og Jette har været Sådan mere flyvende over vandene som professor nu gør.
 
 00:01:58
-Men Vi har blandt andet finansieret Realdania og danske regioner og forre og Novafos og en række kommuner og forsikringer pension. Og så har vi også været finansieret af de hersens, den her EU fonde kæk, så Det er Sådan en en masse fonde og en masse småpenge, Der er tilsammen har gjort, at Vi har kunne lave et større projekt, og Det er vi jo selvfølgelig enormt taknemmelige for at kunne lade sig gøre.
+Men Vi har blandt andet finansieret Realdania og danske regioner og forre og Novafos og en række kommuner og Forsikring & Pension. Og så har vi også været finansieret af de hersens, den her EU fonde kæk, så Det er Sådan en en masse fonde og en masse småpenge, Der er tilsammen har gjort, at Vi har kunne lave et større projekt, og Det er vi jo selvfølgelig enormt taknemmelige for at kunne lade sig gøre.
 
 00:02:23
 I rapporten så stiller vi os 2 grundlæggende spørgsmål, og Det er 2 spørgsmål, som egentlig var noget, som Region Hovedstaden ofte blev stillet af deres af de kommuner, der ligger inde i hovedstaden. Og det handler simpelthen om, om der var en sammenhæng mellem oversvømmelser og sundhed, så hypotesen var, at hvis nu man blev oversvømmet, så havde man stressreaktionen eller måske endda fysiske reaktioner i form af.
@@ -56,10 +56,10 @@ Men Det var ligesom den ene spørgsmål, er der en sammenhæng mellem oversvømm
 Hvor ubehageligt er det for folk, at kan vi kvantificere det? Kan vi prøve at beskrive det i en økonomisk sammenhæng?
 
 00:03:14
-Og det kommer altså også af, at når man lavede, når man kigger på konsulentrapporter, der prøver at lave cos benefitanal analyser af af klimatilpasningsprojekter.
+Og det kommer altså også af, at når man lavede, når man kigger på konsulentrapporter, der prøver at lave cost-benefit-analyser af af klimatilpasningsprojekter.
 
 00:03:25
-Så har man jo taget udgangspunkt i de materialer og skader, som man kan hive har hivet ud af nogle af de data, som forsikring og pression har har stillet til rådighed. Men hvad med alle de immaterielle skader altså ned med sundhed? Og det med at Det kan være en.
+Så har man jo taget udgangspunkt i de materialer og skader, som man kan hive har hivet ud af nogle af de data, som Forsikring & Pension har har stillet til rådighed. Men hvad med alle de immaterielle skader altså ned med sundhed? Og det med at Det kan være en.
 
 00:03:40
 En ubehagelig overraskelse eller en ubehagelig oplevelse at se sit hus blive oversvømmet, men tabet af familiebilleder og den slags ting.
@@ -203,7 +203,7 @@ Så er de villige til at betale 2300 kr. Hvert år i 10 år og lidt mere hvis vi
 Nogle nogle relativt pæne store beløb, som stiger i forhold til, hvor meget risikoen man man nedsætter for? Og vi spørger i forhold til folks vi. Vi fortæller dem, hvor risikos at de er.
 
 00:13:32
-Baseret på den information, der der Sådan offentligt tilgængelig så bluesbot korts og højde over afstandsniveauer og og og og så nogle informationer har de fået.
+Baseret på den information, der der Sådan offentligt tilgængelig så blue spot-kort og højde over afstandsniveauer og og og og så nogle informationer har de fået.
 
 00:13:46
 Jeg er godt klar over, at når man modellerer overser på skybrud, så plus bare kort måske ikke verdens bedste redskab. Men Det er oftest de eller de informationer Der er ofte tilgængelige.
@@ -221,13 +221,13 @@ Og det betyder måske, at vi generelt, når vi bare spørger folk generelt, som 
 Og lige forholde sig til.
 
 00:14:51
-Ja, så så går vi videre til registerdata undersøgelsen, og der bruger vi så en metode der hedder en difference diffance og Det er den Det er state of the art i forhold til at prøve og identificere kausale sammenhæng på, og det man egentlig grundlæggende gør Det er at man sammenligner at man man man man kigger på et samplet eller en population, og så siger man så Der er nogen der bliver ramt af en hændelse og i den her tilfælde, så er det de her nogle. Det er jo så dem der har været.
+Ja, så så går vi videre til registerdata undersøgelsen, og der bruger vi så en metode der hedder en difference-in-differences og Det er den Det er state of the art i forhold til at prøve og identificere kausale sammenhæng på, og det man egentlig grundlæggende gør Det er at man sammenligner at man man man man kigger på et samplet eller en population, og så siger man så Der er nogen der bliver ramt af en hændelse og i den her tilfælde, så er det de her nogle. Det er jo så dem der har været.
 
 00:15:18
-Udsat for en oversvømmelser, og så sammenligner man så samplet med dem, der ikke har været oversvømmet og så siger om Der er 1 1 1 eftervirkning af det gør man Sådan rent statistisk og vi kigger så på en masse forskellige registre. Flytteregistre og lønstatistikker fraværistre og uddannelsesregistre og alle mulige lægemidler og og så videre.
+Udsat for en oversvømmelser, og så sammenligner man så samplet med dem, der ikke har været oversvømmet og så siger om Der er 1 1 1 eftervirkning af det gør man Sådan rent statistisk og vi kigger så på en masse forskellige registre. Flytteregistre og lønstatistikker fraværsregistre og uddannelsesregistre og alle mulige lægemidler og og så videre.
 
 00:15:39
-Og og ved brugt meget tid på at at at jongler i de hersens registre altså Sådan noget som arbejdsstyrke-egistret kan jo fortælle os lidt om, hvor hvor stærkt tilknytning folk har til arbejdsmarkedet.
+Og og ved brugt meget tid på at at at jongler i de hersens registre altså Sådan noget som arbejdsstyrkeregistret kan jo fortælle os lidt om, hvor hvor stærkt tilknytning folk har til arbejdsmarkedet.
 
 00:15:50
 Og så kobler vi det simpelthen med identificeret oversvømmelse, som vi så har taget udgangspunkt i blandt andet forsikringer og pensionsdata, som Vi har fået til at identificere specifikke oversvømmelser, så at husholdninger, der har oplevet en oversvømelse.
@@ -242,7 +242,7 @@ Ganske små effekter om overhovedet nogen og måske er effekterne i virkelighede
 Grundlæggende bare støj og ikke egentlig udtryk for en effekt, så vi sætter både færre og flere lægebesøg afhængig af, hvor hvordan vi lige skærer kagen og faldende fravær i forhold til skybrud, men og færre arbejdstimer, men lidt højere løn og Sådan noget Sådan virkelig marginale effekter, som måske i virkeligheden ikke rigtig.
 
 00:16:39
-Hvis overhovedet noget vil kunne rykke en crossfene analyse.
+Hvis overhovedet noget vil kunne rykke en cost-benefit-analyse.
 
 00:16:44
 I forhold til at prøve at vurdere forskellige klimatilpasningstiltag, så det grundlæggende svar er her er ingen helbredseffekt ingen effekt på folks, hvor meget folk arbejder og så videre.
@@ -263,7 +263,7 @@ Og det gør vi ved at lave et meget stort husprisdatasæt for hele Danmark og s�
 I samme grad kiggede på lejligheder, og det gør vi ikke fordi at Det er enormt det data vi havde for forsikringspunktion, synes vi ikke var godt nok til at identificere den enkelte lejlighed, så derfor så har vi simpelthen ikke kigget på lejligheder.
 
 00:17:44
-Og så det betyder, at vi konstruere nogle modeller med en masse variable, og igen bruger vi den her diffens metode i forhold til effekten af oversvømmelser.
+Og så det betyder, at vi konstruere nogle modeller med en masse variable, og igen bruger vi den her difference-in-differences-metode i forhold til effekten af oversvømmelser.
 
 00:17:56
 Og det vi ser Det er at i forhold til stormflod, så ser vi nogle ret væsentlige prisfald de første par år efter at der har været en oversvømmelse. Så mellem nu skriver jeg mellem 28-36% de første 3 år.
@@ -347,13 +347,13 @@ Kan beskyttes mod forskellige typer hændelser.
 Og dem man kan se Det er den røde kasse. Det er de materielle skader og den blå kasse. Det er så de hersens midlertidige huspristab, som reflekterer den hersens kompensation folk vil have for at flytte ind i risikoområdet.
 
 00:23:03
-Så Det er egentlig noget, som kunne påvirke tallet, og hvis man prøver at sammenligne med de dersens betænkningsvlighedsudtryk, som vi havde fra spørgeskemaet, så passer det faktisk nogenlunde med Vores husprisab også når man Sådan skal prøve at kvantisere det i en kostblinde analyse.
+Så Det er egentlig noget, som kunne påvirke tallet, og hvis man prøver at sammenligne med de dersens betænkningsvlighedsudtryk, som vi havde fra spørgeskemaet, så passer det faktisk nogenlunde med Vores husprisab også når man Sådan skal prøve at kvantisere det i en cost-benefit-analyse.
 
 00:23:19
 Så så det understøtter lidt lidt den samme konklusion.
 
 00:23:25
-Av så i og her kommer konklusionen, så prøver jeg ligesom at ridse op hvad Det er vi ligesom har fundet frem til, så ideen var at vi skulle lidt tættere på klimatilpasnings samlede effekter, så man kunne lave nogle lidt bedre. Costa finder analyser og det vi så finder og Det er måske meget godt egentlig, når man rent praktisk skal kaste sig ud II at lave samfundsøkonomisk kostpinde analyser, som man jo har fået at vide man skal når man skal lave klimatilpasning blandt andet i forhold til til stormflodsendelse som forsyningsselskaberne nu skal til at kaste sig ud i.
+Av så i og her kommer konklusionen, så prøver jeg ligesom at ridse op hvad Det er vi ligesom har fundet frem til, så ideen var at vi skulle lidt tættere på klimatilpasnings samlede effekter, så man kunne lave nogle lidt bedre. cost-benefit-analyser og det vi så finder og Det er måske meget godt egentlig, når man rent praktisk skal kaste sig ud II at lave samfundsøkonomisk cost-benefit-analyser, som man jo har fået at vide man skal når man skal lave klimatilpasning blandt andet i forhold til til stormflodsendelse som forsyningsselskaberne nu skal til at kaste sig ud i.
 
 00:23:55
 Så så gør det måske noget nemmere at at at de ting vi prøver at kaste os ud i for at finde de de findes måske ikke i det omfang, som man kunne tro.

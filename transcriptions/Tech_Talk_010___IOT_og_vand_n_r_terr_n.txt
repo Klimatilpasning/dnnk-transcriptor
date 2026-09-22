@@ -1,5 +1,5 @@
 00:00:08
-Hej alle og velkommen til det her. Rigtig, rigtig spændende den her rigtig, rigtig spændende tik talk hvad hedder det? Mit navn Det er tyishøjst Andersen fra vi University College på vegne af DNK, så vil jeg byde jer alle sammen.
+Hej alle og velkommen til det her. Rigtig, rigtig spændende den her rigtig, rigtig spændende tik talk hvad hedder det? Mit navn Det er tyishøjst Andersen fra VIA University College på vegne af DNK, så vil jeg byde jer alle sammen.
 
 00:00:22
 Velkommen til den her tekst.
@@ -53,7 +53,7 @@ Vi er 4 snart 5 personer her i virksomheden og jeg en af ejerne.
 Ja.
 
 00:02:57
-Det jeg ved ikke om i allesammen er med på at være IUC står for, men Det er internettet things så Det er Det er dimser Der er knyttet til internettet på en eller 2 en eller 2 avis og og Der er en eksplosiv udvikling II Sådan nogle dimser det her. Det er en godt nok en lidt lidt gammel prognose for hvordan det kommer til at se ud hvordan det går med med de her IOT enheder. Hvordan siger så at at de i 20 sidste år der skulle vi ramme 50.
+Det jeg ved ikke om i allesammen er med på at være IOT står for, men Det er internettet things så Det er Det er dimser Der er knyttet til internettet på en eller 2 en eller 2 avis og og Der er en eksplosiv udvikling II Sådan nogle dimser det her. Det er en godt nok en lidt lidt gammel prognose for hvordan det kommer til at se ud hvordan det går med med de her IOT enheder. Hvordan siger så at at de i 20 sidste år der skulle vi ramme 50.
 
 00:03:23
 50 mia.
@@ -128,7 +128,7 @@ Hvis hvis det nu er vandstand som vi vi vi ser på her ikke jamen så kan vi bru
 På billedet er nødt til til at sige Venstre hjørne.
 
 00:07:20
-Og man kan bruge arter, og Det er jo så den senser der så på en eller 2 måde måler måler et elektronisk signal, som kan blive omsat til en vandstand. Og det skal så sendes afsted. Jo det skal jo forbindes til internettet, og Der er forskellige transmitter, og der der vi bruger meget deres sifsnetværk og vi bruger GSM netværket og Der er noget der hedder lore og Der er noget der hedder arrow band og og Der er Der er flere end dem og der kommer hele tiden noget til og Der er en rivende udvikling indenfor det her område, så man kan sige et.
+Og man kan bruge arter, og Det er jo så den senser der så på en eller 2 måde måler måler et elektronisk signal, som kan blive omsat til en vandstand. Og det skal så sendes afsted. Jo det skal jo forbindes til internettet, og Der er forskellige transmitter, og der der vi bruger meget deres Sigfox-netværk og vi bruger GSM netværket og Der er noget der hedder LoRa og Der er noget der hedder NB-IoT og og Der er Der er flere end dem og der kommer hele tiden noget til og Der er en rivende udvikling indenfor det her område, så man kan sige et.
 
 00:07:46
 Der skal vi bare sikre, så Vi har noget, der virker, og vi får et signal i hus.
@@ -224,7 +224,7 @@ Måske lidt mere dynamisk ud. Ikke vildt meget, men der kommer nogle nogle pix o
 En 2 kurve, hvor man kan sige at det ser ud til at Der er noget mere støj i starten af kurven, end Der er på i slutningen af kurven.
 
 00:13:54
-Og og hvis man zoomer ind jamen så kan man faktisk se at Der er Sådan nogle døgnvariationer på den på det her signal som er at Det er jo ikke mange centimeter, men Det er nogle centimeter og det det skyldes simpelthen temperaturforskelle i luftsøjlen, der hvor at den her censor den sidder som den ikke kan finde ud af at kompensere for.
+Og og hvis man zoomer ind jamen så kan man faktisk se at Der er Sådan nogle døgnvariationer på den på det her signal som er at Det er jo ikke mange centimeter, men Det er nogle centimeter og det det skyldes simpelthen temperaturforskelle i luftsøjlen, der hvor at den her sensor den sidder som den ikke kan finde ud af at kompensere for.
 
 00:14:12
 Så Der er noget igen i installationen. Man skal sørge for ikke lige at få den sat Sådan et sted.
@@ -299,7 +299,7 @@ Og så fremdeles, og så kan det køre derhen af.
 Og Det er jo egentlig Sådan, vi vi tænker, at at vi bliver nødt til at tænke, og vi bliver nødt til at have noget overvågning på det her og og Der er mange IOT platforme, der har overværet over. Men Det har alle måske men men i virkeligheden så er så er pointen lidt her, at i så alle de forskellige fejl der kunne komme.
 
 00:17:51
-Og der skal i virkeligheden noget hytologisk indsigt til at finde ud af om om det om Det er en fejl, eller om Det er, om Det er naturligt.
+Og der skal i virkeligheden noget hydrologisk indsigt til at finde ud af om om det om Det er en fejl, eller om Det er, om Det er naturligt.
 
 00:18:01
 Og.
@@ -413,13 +413,13 @@ Det er måske bare lige en postgang for sent at finde ud af hvor meget vand Der 
 Hvad er inputtet til systemet?
 
 00:24:23
-Og når det regner jamen så er det første respons som vi kan måle på. Det er jo faktisk jordens fugtighed og og og og purevandstrykke.
+Og når det regner jamen så er det første respons som vi kan måle på. Det er jo faktisk jordens fugtighed og og og og porevandstryk.
 
 00:24:34
 Så det siger lidt om, hvornår hvornår har vi vantet det jord? Og hvis Vi har vandtet i jord, så kan vi få noget hurtig afstrømning, som kan give et eller andet respons.
 
 00:24:42
-Og når vi får en eller 2 vandmætning jamen så begynder vi faktisk også at få noget nedadrettet strømning noget grundvandsdannelse, så det vil de her data kunne sige noget om, og hvis vi så hopper en takke længere ned til det til at ringe her rundt om spejlet, jamen så kan vi jo sige lidt om hvad er magasinalen skapaciteten så II det hele terræn Der er grundvand. Hvornår begynder vi at at få?
+Og når vi får en eller 2 vandmætning jamen så begynder vi faktisk også at få noget nedadrettet strømning noget grundvandsdannelse, så det vil de her data kunne sige noget om, og hvis vi så hopper en takke længere ned til det til at ringe her rundt om spejlet, jamen så kan vi jo sige lidt om hvad er magasineringskapaciteten så II det hele terræn Der er grundvand. Hvornår begynder vi at at få?
 
 00:25:02
 Få få stuvning på terræn, og det vil sige lidt om, hvad er hvornår begynder der at komme noget hurtig afstrømning til vandløbet?
@@ -428,7 +428,7 @@ Få få stuvning på terræn, og det vil sige lidt om, hvad er hvornår begynder
 I kan måle i lidt dybere grundvand og sige jamen hvad er makineret magasineringskapaciteten dernede?
 
 00:25:18
-Og også lidt om hvad. Hvad kan vi regne med af af basel bidrag til vandløbene?
+Og også lidt om hvad. Hvad kan vi regne med af af baseflow bidrag til vandløbene?
 
 00:25:24
 Og.
@@ -458,7 +458,7 @@ Så Det er noget af det, vi går og roder lidt med og noget vi ikke er særlig l
 Ja Det er så eksempler på nogle data det her. Det er. Det er Sådan en jordfugtighed.
 
 00:26:55
-Censor Der er en Der er 1 m og 20 dyb og den Der er 6 forskellige sensorer på den der måder fugtighed er nu lidt svært lige at overskue ikke, men i kan måske vurdere den her eller den her den orange her Det er Det er den Det er den mest drengende her og den den der responderer så lynhurtigt på nedbørshællen så ikke og så kommer der ellers en bølge ned igennem systemet ned til den nederste sted.
+Sensor Der er en Der er 1 m og 20 dyb og den Der er 6 forskellige sensorer på den der måder fugtighed er nu lidt svært lige at overskue ikke, men i kan måske vurdere den her eller den her den orange her Det er Det er den Det er den mest drengende her og den den der responderer så lynhurtigt på nedbørshællen så ikke og så kommer der ellers en bølge ned igennem systemet ned til den nederste sted.
 
 00:27:19
 Ja 1 m 20 under under strengen.
@@ -581,7 +581,7 @@ Men hvis man hvis man gerne vil have hyppedata på minutsbasis, jamen så begynd
 Så så det vil sige Sådan, hvis man hvis man tager data lad os sige en gang i timen eller en gang i døgnet eller Sådan noget, så holder de så holder de rigtig rigtig lang tid. Så er det mere køerne der skal være bange for.
 
 00:33:11
-End det andet er lidt forskelligt på systemerne. Altså sick fox sender og data som de kommer ind.
+End det andet er lidt forskelligt på systemerne. Altså Sigfox sender og data som de kommer ind.
 
 00:33:18
 Og og giver SM løsninger kan kan sample i en periode og sende, og Der er i virkeligheden sending der koster strøm, så så kan man man kan godt sampjit men bare sende lidt sende lidt sjældnere så så det. Det er også positivt for for batterilevetident.
@@ -734,7 +734,7 @@ Så hvordan?
 Der nu Det er bare for at forstå kalypto den den den kobler ind i juputorer og og arbejder sammen med den eller altså ligger i af stadie ind i juputøj og så trækker i det igennem kollyco eller ligger det igennem kalipso og så ind i juputo.
 
 00:41:28
-Vi trækker det alt alt der ind igennem kalipso alle dem der kommer fra Vores censor. Det er Vores, så der har vi hele hele Vores back-end der der håndterer data, så så de kommer derind, og når vi så har det, vi kalder kvalitetssikre data. Jamen som vi så har løbende så, så så smider vi direkte over.
+Vi trækker det alt alt der ind igennem kalipso alle dem der kommer fra Vores sensor. Det er Vores, så der har vi hele hele Vores back-end der der håndterer data, så så de kommer derind, og når vi så har det, vi kalder kvalitetssikre data. Jamen som vi så har løbende så, så så smider vi direkte over.
 
 00:41:44
 Ja, og og hvis vi så finder en fejl jamen så, så overskriver vi det der data og og og jupiter der der gemmer de de gamle værdier men men Det er jo Sådan set op til.
@@ -752,7 +752,7 @@ Det er jeg rigtig glad for at høre.
 Nu er der et par minutter tilbage, så sidste chance, så hvis i har nogle spørgsmål, så må i meget gerne skrive dem i chatten.
 
 00:42:35
-Og ellers så vil jeg selvfølgelig bare lige opsummere, så vil jeg først og fremmest sige tak Jacob for din præsentation. Det var rigtig, rigtig spændende at høre og super super interessant og se hvordan EOT også er kommet ind i. Kan man sige klimatilpasninger og og hydrologien.
+Og ellers så vil jeg selvfølgelig bare lige opsummere, så vil jeg først og fremmest sige tak Jacob for din præsentation. Det var rigtig, rigtig spændende at høre og super super interessant og se hvordan IOT også er kommet ind i. Kan man sige klimatilpasninger og og hydrologien.
 
 00:42:52
 Og redigere muligheder det det Jeg tror, som du siger, Vi har kun set toppen af isbjerget. Vi er slet ikke startet endnu, så Jeg tror det det bliver en fantastisk rejse. Vi som kan man sige som branche kommer på.

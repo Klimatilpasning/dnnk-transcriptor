@@ -4158,14 +4158,82 @@
   "transcriptions\\Tech_Talk_006_-_Digitale_V_rkt_jer_til_Klimatilpasning.txt": {
     "anvendt": [
       {
-        "forkert": "tiktok",
-        "rettet": "Tech Talk",
-        "antal": 2
+        "forkert": "DKII",
+        "rettet": "DHI",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "tekst talk",
-        "rettet": "Tech Talk",
-        "antal": 1
+        "forkert": "klientilpasning",
+        "rettet": "klimatilpasning",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "EU detektiv",
+        "rettet": "EU-direktiv",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "klia tilpasningsindsatser",
+        "rettet": "klimatilpasningsindsatser",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "klimakilpassens",
+        "rettet": "klimatilpasnings",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "klippe tilpasse",
+        "rettet": "klimatilpasse",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "gis tomat",
+        "rettet": "GIS-format",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "gift format",
+        "rettet": "GIS-format",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "hykologisk tilpasset",
+        "rettet": "hydrologisk tilpasset",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "skælskurv",
+        "rettet": "skadeskurve",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "EAP",
+        "rettet": "EAD",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "IAP",
+        "rettet": "EAD",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "IAD",
+        "rettet": "EAD",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -4368,9 +4436,76 @@
   "transcriptions\\Tech_Talk_016_-_Sammenh_ngen_mellem_oversv_mmelse__folks_hel.txt": {
     "anvendt": [
       {
-        "forkert": "tiktok",
-        "rettet": "Tech Talk",
-        "antal": 2
+        "forkert": "forsikringer pension",
+        "rettet": "Forsikring & Pension",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "forsikring og pression",
+        "rettet": "Forsikring & Pension",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "cos benefitanal analyser",
+        "rettet": "cost-benefit-analyser",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kostblinde analyse",
+        "rettet": "cost-benefit-analyse",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kostpinde analyser",
+        "rettet": "cost-benefit-analyser",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Costa finder analyser",
+        "rettet": "cost-benefit-analyser",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "crossfene analyse",
+        "rettet": "cost-benefit-analyse",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "difference diffance",
+        "rettet": "difference-in-differences",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "diffens metode",
+        "rettet": "difference-in-differences-metode",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "arbejdsstyrke-egistret",
+        "rettet": "arbejdsstyrkeregistret",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "fraværistre",
+        "rettet": "fraværsregistre",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "bluesbot korts",
+        "rettet": "blue spot-kort",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -4721,14 +4856,184 @@
   "transcriptions\\Tech_Talk___Prognoser_for_afstr_mning_og_oversv_mmelse_gjort.txt": {
     "anvendt": [
       {
-        "forkert": "tiktok",
-        "rettet": "Tech Talk",
-        "antal": 2
+        "forkert": "vi University College",
+        "rettet": "VIA University College",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "tik tok",
-        "rettet": "Tech Talk",
-        "antal": 1
+        "forkert": "klimetal pasning",
+        "rettet": "klimatilpasning",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "cos spænding analyse",
+        "rettet": "cost-benefit-analyse",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "drikvandsreservage",
+        "rettet": "drikkevandsreservoirer",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "link med dusino",
+        "rettet": "Lake Mendocino",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "swots",
+        "rettet": "SWAT",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "hyologiske",
+        "rettet": "hydrologiske",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "swot plus",
+        "rettet": "SWAT+",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "skaldo",
+        "rettet": "Scalgo",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "skaldummet",
+        "rettet": "Scalgo",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "skalpo",
+        "rettet": "Scalgo",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Vi skadelige",
+        "rettet": "videnskabelige",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "verdensmester citerede",
+        "rettet": "verdens mest citerede",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "nordmeka",
+        "rettet": "Nordamerika",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "sago rådgivende firma",
+        "rettet": "Sagro rådgivende firma",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "IDK modellen",
+        "rettet": "DK-modellen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "vanviditetsmulering",
+        "rettet": "vandkvalitetsmodellering",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "unbrotten",
+        "rettet": "onboarding",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "onfordring",
+        "rettet": "onboarding",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "omboardning",
+        "rettet": "onboarding",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "obersmelle prognoser",
+        "rettet": "oversvømmelsesprognoser",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "aversions",
+        "rettet": "oversvømmelse",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "svimming afløbsmodellen",
+        "rettet": "SWMM-afløbsmodellen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "swimming modellen",
+        "rettet": "SWMM-modellen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "swimmodellen",
+        "rettet": "SWMM-modellen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Michael urban",
+        "rettet": "MIKE URBAN",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ford work",
+        "rettet": "Fort Worth",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "terrorentreen waterydistrict",
+        "rettet": "Tarrant Regional Water District",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "webshols dot com",
+        "rettet": "waterwebtools.com",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Walls itech dot com",
+        "rettet": "waterwebtools.com",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -20516,6 +20821,291 @@
       {
         "forkert": "SEP 8,5",
         "rettet": "RCP 8,5",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Byerne_og_det_stigende_havvand___Kystbeskyttelsesprojekter_i.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "hauvan",
+        "rettet": "havvand",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kystgødslovens",
+        "rettet": "kystbeskyttelseslovens",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kystgass loven",
+        "rettet": "kystbeskyttelsesloven",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kystslektoratet",
+        "rettet": "kystdirektoratet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kystskødslovens",
+        "rettet": "kystbeskyttelseslovens",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "forbundsbestemmelsen",
+        "rettet": "formålsbestemmelsen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kystskudsloven",
+        "rettet": "kystbeskyttelsesloven",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Kystkust loven",
+        "rettet": "Kystbeskyttelsesloven",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kystskudsårens",
+        "rettet": "kystbeskyttelseslovens",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "køs skydelsloven",
+        "rettet": "kystbeskyttelsesloven",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Kys kystlovens",
+        "rettet": "Kystbeskyttelseslovens",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kystdiktorratiet",
+        "rettet": "kystdirektoratet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Kystskudslormens",
+        "rettet": "Kystbeskyttelseslovens",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kystskudslovens",
+        "rettet": "kystbeskyttelseslovens",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Kystkystlovs",
+        "rettet": "Kystbeskyttelseslovens",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kystgjekter",
+        "rettet": "kystprojekter",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kyst skylds projekt",
+        "rettet": "kystbeskyttelsesprojekt",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Tech_Talk_010___IOT_og_vand_n_r_terr_n.txt": {
+    "anvendt": [
+      {
+        "forkert": "vi University College",
+        "rettet": "VIA University College",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "IUC",
+        "rettet": "IOT",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "EOT",
+        "rettet": "IOT",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "sifsnetværk",
+        "rettet": "Sigfox-netværk",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "lore",
+        "rettet": "LoRa",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "arrow band",
+        "rettet": "NB-IoT",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "sick fox",
+        "rettet": "Sigfox",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "hytologisk",
+        "rettet": "hydrologisk",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "purevandstrykke",
+        "rettet": "porevandstryk",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "magasinalen skapaciteten",
+        "rettet": "magasineringskapaciteten",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "basel bidrag",
+        "rettet": "baseflow bidrag",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "censor",
+        "rettet": "sensor",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Censor",
+        "rettet": "Sensor",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\DNNK_Masterclass__Planl_gning__drift_og__konomi_i_LAR-anl_g_.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "alar",
+        "rettet": "LAR",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "alarm",
+        "rettet": "LAR",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "legeanlæg",
+        "rettet": "LAR-anlæg",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Leganlæg",
+        "rettet": "LAR-anlæg",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "planeter grænser",
+        "rettet": "planetens grænser",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "planteter og grænser",
+        "rettet": "planetens grænser",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "planeter og grænser",
+        "rettet": "planetens grænser",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "å k nygård",
+        "rettet": "OK Nygaard",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "åun nygårds",
+        "rettet": "OK Nygaards",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "vandet syd",
+        "rettet": "VandCenter Syd",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "verdens Center syd",
+        "rettet": "VandCenter Syd",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "vandstente syd",
+        "rettet": "VandCenter Syd",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "mona kor",
+        "rettet": "Mona Bjørn",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "mona snart",
+        "rettet": "Mona Bjørn",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "bikubs certificeret",
+        "rettet": "B Corp-certificeret",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
       }

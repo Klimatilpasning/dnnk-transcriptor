@@ -47,7 +47,7 @@ Ja.
 Men lad os lige meget kort ridse op hvem Vi er altså på. Han kan lige fortælle om det selv, så kan jeg lige supplere lidt på min egen tid.
 
 00:03:42
-Jamen Jeg har været hos DKII rigtig mange år og blandt andet været chef for software butikken med mikeprodukterne i igennem 7 år der og givet stafetten videre til erland.
+Jamen Jeg har været hos DHI rigtig mange år og blandt andet været chef for software butikken med mikeprodukterne i igennem 7 år der og givet stafetten videre til erland.
 
 00:03:53
 Ja og jeg tog så og efter bo og har så også valgt det jo i rigtig rigtig mange år.
@@ -89,7 +89,7 @@ Jeg tror Det var nogenlunde det om dagens program, og hvis i har spørgsmål, s�
 Hvorfor skal vi egentlig kasse os over det her i hørte ole omtale?
 
 00:06:16
-At klientilpasning er jo vigtigt på mange områder her. Vi har valgt her at se på det her, at at også skal komme fra mange forskellige kilder her. Det kan komme fra oven af som regnvand.
+At klimatilpasning er jo vigtigt på mange områder her. Vi har valgt her at se på det her, at at også skal komme fra mange forskellige kilder her. Det kan komme fra oven af som regnvand.
 
 00:06:28
 Det kan komme fra siden af som vandløb. Det kan også komme fra den 2 større vandressource som er havvandet, og så kan det også komme nede fra som grundvand. Det er som er centralt i det her.
@@ -107,13 +107,13 @@ Jeg kan komme forskellige spillere, Der er mange aktører indenfor det her alts�
 Men hvis man ser på på på ansvarsområdet, så er det jo Sådan, at fordi man har en ejendom. Jamen så er det ens egen problem der står vand på det også hvis det kommer ind i huset, med mindre det kommer fra vejen af eller det kommer fra kloaksystemet, så er det henholdsvis kommunen eller forsyningen.
 
 00:07:10
-Ansvar det formelle ansvar for en Kommune ligger mere på på det planmæssige område, hvor Der er et EU detektiv, der siger, at man skal lave nogle klimatilpasningsplaner. Og man skal jo så også som et led i den udpege nogle specielle indsatsområder.
+Ansvar det formelle ansvar for en Kommune ligger mere på på det planmæssige område, hvor Der er et EU-direktiv, der siger, at man skal lave nogle klimatilpasningsplaner. Og man skal jo så også som et led i den udpege nogle specielle indsatsområder.
 
 00:07:27
 I praksis er det jo Sådan, at kommuner og syninger er dem, der bærer byrden indenfor klimaet tilpasning.
 
 00:07:33
-Men de står så over for den udfordring der, hvordan skal de vælge de her klia tilpasningsindsatser Sådan.
+Men de står så over for den udfordring der, hvordan skal de vælge de her klimatilpasningsindsatser Sådan.
 
 00:07:39
 Hvad er det skal ligge til grund for at det skal give havvand højre end regnvand eller vandløb eller grundvand? Eller hvordan skal de gøre? Fordi Det er jo Sådan at vand at vandet ikke kender nogen geografi eller administrative grænser for den sags skyld, og det gør det bare i løbet af der, hvor det nu en gang tilsiger at det skal løbe så det med at gå ind og sige jamen, hvad er det vi gør?
@@ -167,7 +167,7 @@ Og og efter vi ligesom fik bekræftet, at det gjorde det, så snakkede vi med Vo
 Interessenterne og som de kan bruge ikke mindst i deres egen prioritering.
 
 00:11:17
-Og planlægning af klimakilpassens tiltag.
+Og planlægning af klimatilpasnings tiltag.
 
 00:11:21
 Projektet det kører vi sammen med 3 partnere, som i kan se her på den her slide. Det er agnes Danmark, Det er hydroinform, og Det er så DNNK udvikling, så ole har et par kasketter her i dag både som deltager i projektet og som den, der lægger platform til for at vi kan give den her præsentation.
@@ -233,7 +233,7 @@ Brugeren vælger nogle oversvømmelserstyper en eller flere af de 3, som er omfa
 Og brugeren vælger et klimascenarie. Altså er det nutidsanalyse? Er det en analyse for, hvordan tingene ser ud i 750 eller 2080 årstallene er eksempler, de kan godt må ændre sig.
 
 00:15:36
-Og så kommer så outputtet, og Det er så i form af risikort, som brugeren kan downloade og gemme i en eller 2 PDF format eller i et gift format og arbejde videre med efterfølgende.
+Og så kommer så outputtet, og Det er så i form af risikort, som brugeren kan downloade og gemme i en eller 2 PDF format eller i et GIS-format og arbejde videre med efterfølgende.
 
 00:15:49
 Og det bliver i form af en samlet risiko og risikoopdelt på, hvad oversvømmelserstyper brugeren nu har valgt at kigge på.
@@ -263,7 +263,7 @@ Så har man en risiko en total risiko i området, som selvfølgelig falder afhæ
 Men man får lov at vælge en oplandsbeskrivelse. Man kan så for eksempel læse sine kloberblanding eller i en hvilken som helst 2 måde man har valgt at opdele sin Kommune i oplanding på.
 
 00:17:33
-Og man vælger stadigvæk et kilascenarie, og så får man så sin risiko kort ud på en lidt 2 måde, nemlig i form af risikoen i kroner per opland eller i kroner og eller i kroner per kvadratmeter for hvert opland, og man får stadigvæk både PDF og gis tomat og nogle tabeller ud af det her, og man får en samlet risiko for, at de oversvømmelserstyper man nu er valgt, og man får også en Der er opdelt på hvert overstype.
+Og man vælger stadigvæk et kilascenarie, og så får man så sin risiko kort ud på en lidt 2 måde, nemlig i form af risikoen i kroner per opland eller i kroner og eller i kroner per kvadratmeter for hvert opland, og man får stadigvæk både PDF og GIS-format og nogle tabeller ud af det her, og man får en samlet risiko for, at de oversvømmelserstyper man nu er valgt, og man får også en Der er opdelt på hvert overstype.
 
 00:18:02
 Så man kan gå ind og sige OK er alle mine 100 op lande eller 500 oplande. Der er altså de her 3 som er hårdest producent, hårdest ramt hvor risikoen er højst. Og ja måske først skal fokusere på, hvad vil jeg gøre ved dem?
@@ -320,7 +320,7 @@ I kan selv studere formlen, hvis i har lyst til det, og den prøver vi så at es
 Det er i bund og grund de 2 aspekter Vi har med i værktøjet. Vi har risikokortdelen, og så har vi den økonomiske omkostning.
 
 00:21:50
-Det man har behov for, når når man laver den her slags analyser der Det er at programmet taler, eller skal man sige værktøj, skal selvfølgelig have nogle nogle input dataer og en af de ting Vi skal have ind II programmet. Det er en digital terræn model, som allerhelst skal være digital. Eller hvad hedder det hykologisk tilpasset?
+Det man har behov for, når når man laver den her slags analyser der Det er at programmet taler, eller skal man sige værktøj, skal selvfølgelig have nogle nogle input dataer og en af de ting Vi skal have ind II programmet. Det er en digital terræn model, som allerhelst skal være digital. Eller hvad hedder det hydrologisk tilpasset?
 
 00:22:12
 Det vil sige vandet skal kunne løbe der, hvor vandet nu vil løbe frit i naturen.
@@ -344,7 +344,7 @@ Her er det ikke nogen bindinger på, at det kun kan være det ene eller det ande
 Til en selv, hvad man ønsker.
 
 00:23:11
-Men for hver værdi man man angiver der skal man så også tilknytte en en skadeskurve på de her værdier og var som eksempel, der kan man så sige. Jamen man kan jo vælge at have en konstant skælskurv, det vil sige hvis der kommer vand ind i en bygning, jamen så koster det x kroner per kvadratmeter, der bliver oversvømmet, men Det kan jo også være Sådan, at lidt afhængigt hvad vanddybden er eller hvor meget vand det kommer ind i ind i bygningen. Jamen så kan den så stige op til en eller 2 værdi.
+Men for hver værdi man man angiver der skal man så også tilknytte en en skadeskurve på de her værdier og var som eksempel, der kan man så sige. Jamen man kan jo vælge at have en konstant skadeskurve, det vil sige hvis der kommer vand ind i en bygning, jamen så koster det x kroner per kvadratmeter, der bliver oversvømmet, men Det kan jo også være Sådan, at lidt afhængigt hvad vanddybden er eller hvor meget vand det kommer ind i ind i bygningen. Jamen så kan den så stige op til en eller 2 værdi.
 
 00:23:38
 Det bestemmer man helt selv eller hvad man har.
@@ -407,7 +407,7 @@ Hvad er de forventede skadede i de her områder?
 Fordelen ved ved ved at integrere op er selvfølgelig at at man kan få en lettere analyse af resultaterne på det her kan gøre det på den måde man får bedre adgang til. Hvad er det for et potentiale der ligger i?
 
 00:27:04
-IAP beregningerne her og ikke mindst også. Hvordan skal vi prioritere indbyttet imellem de forskellige områder? Ikke.
+EAD beregningerne her og ikke mindst også. Hvordan skal vi prioritere indbyttet imellem de forskellige områder? Ikke.
 
 00:27:12
 Hvad er det, Der er vigtigt? Er det område bykvarterområde ABC eller d den skal først på Vores prioritetsliste.
@@ -422,7 +422,7 @@ Inden vi kom lidt tilbage til på en efterfølgende slide her.
 En af den måde, vi vi tilgår det på her. Det er at se på risikoen ved optimering. Det er selvfølgelig ved at vise på på den her slide II serie her, at hvis man ikke gør noget.
 
 00:27:42
-Et forholdsvis simpelt princip. Vi prøver at anvende, hvis man ikke gør gør noget. Jamen så har man på et givet område en EAP her og en forventet årlig omkostning på grund af de her oversvømmelser.
+Et forholdsvis simpelt princip. Vi prøver at anvende, hvis man ikke gør gør noget. Jamen så har man på et givet område en EAD her og en forventet årlig omkostning på grund af de her oversvømmelser.
 
 00:27:55
 Og Det er klart, at hvis man så begynder at fjerne noget vand gradvist fjernet vand, så vil alt vand lige så vil i er det ikke faldet. Og til sidst når man fjerner det hele jamen så har man så ikke nogen sted.
@@ -434,7 +434,7 @@ Det er er ligesom filosofien bag det her, og på samme måde kan man på investe
 Jeg vil starte den ned i nul, men efterhånden som man fjerner vandet, jamen så vil man også betale en pris dels i form af anlægsomkostninger, men også i form af af drift og fornyelse og så videre.
 
 00:28:34
-Og det gør jo så at den den kvote den den går op af, og den har jo en tendens til at stige kraftigt jo længere og jo mere vand man skal fjerne hele optimeringsdelen. Her ligger så i at tage de 2 kurver dels IND kurven og så omkostningskurven og prøve at lægge den sammen til en kurve, som man ser på digitale omkostninger vedrørende. Dels var IAD en, men også fra fra investeringssiden.
+Og det gør jo så at den den kvote den den går op af, og den har jo en tendens til at stige kraftigt jo længere og jo mere vand man skal fjerne hele optimeringsdelen. Her ligger så i at tage de 2 kurver dels IND kurven og så omkostningskurven og prøve at lægge den sammen til en kurve, som man ser på digitale omkostninger vedrørende. Dels var EAD en, men også fra fra investeringssiden.
 
 00:29:02
 Og så kommer øvelsen ud og kogt vand ud på simpelthen at.
@@ -578,7 +578,7 @@ Og hvor er det Vi skal sætte ind henne en 2 takeaway fra det her Det er. Det er
 Det vil sige, Det er gennemskueligt, hvilke værdier man tager med, og hvilke man udleder og hvad betydningen af den er og så videre og så videre. Så Det er meget nemt at gå ind og og lave de her analyser i sin prioriterings.
 
 00:37:14
-Planer og og så og så videre. Ja, og samtidig med så kan det også bruges til at lave det her økonomiske samfundsøkonomisk gevinst til om om Det er Sådan. Det er jo Sådan, at man fremadrettet det skal man nok blive den man skal kunne dokumentere, at Der er en samfundsøkonomisk gevinst ved at klippe tilpasse i kommunerne her, så Det er meget vigtigt, at man også kan gå ind og og bruge det her skridt værktøj til at prioritere indsatsområderne og ikke mindst også løsningerne her.
+Planer og og så og så videre. Ja, og samtidig med så kan det også bruges til at lave det her økonomiske samfundsøkonomisk gevinst til om om Det er Sådan. Det er jo Sådan, at man fremadrettet det skal man nok blive den man skal kunne dokumentere, at Der er en samfundsøkonomisk gevinst ved at klimatilpasse i kommunerne her, så Det er meget vigtigt, at man også kan gå ind og og bruge det her skridt værktøj til at prioritere indsatsområderne og ikke mindst også løsningerne her.
 
 00:37:43
 Som vi nævnte indledningsvis jamen så har vi jo så planer om at afholde nogle workshops II det her projekt her, og Vi har indlagt 3 workshops alt i alt som formidling af hvor langt Vi er, men også for at få noget feedback fra Vores brugere eller kommende brugere. Forhåbentlig.
