@@ -9016,76 +9016,16 @@
   "transcriptions\\Workshop_om_oversv_mmelser__skader_og__konomi__opl_g_1.mp3.txt": {
     "anvendt": [
       {
-        "forkert": "krystoversvømmelse",
-        "rettet": "kystoversvømmelse",
+        "forkert": "toke pandro",
+        "rettet": "Toke Panduro",
         "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "kampmodellen",
-        "rettet": "KAMP-modellen",
+        "forkert": "toke dage",
+        "rettet": "Toke Panduro",
         "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "skaldensøkonomi",
-        "rettet": "Skadesøkonomi",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "klimatilpasning DK",
-        "rettet": "klimatilpasning.dk",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "naturs gaderådet",
-        "rettet": "Naturskaderådet",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "vanddyde",
-        "rettet": "vanddybde",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "skadehedsfunktion",
-        "rettet": "skadesfunktion",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "jo BP er",
-        "rettet": "jo BBR",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "dansegundlag",
-        "rettet": "datagrundlag",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "dering af data",
-        "rettet": "deling af data",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "fælles kurderne",
-        "rettet": "fællesgoderne",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "krimi forandring",
-        "rettet": "klimaforandring",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -9150,10 +9090,10 @@
   "transcriptions\\Workshop_om_oversv_mmelser__skader_og__konomi__opl_g_6.mp3.txt": {
     "anvendt": [
       {
-        "forkert": "dygtige gif",
-        "rettet": "dygtige GIS",
+        "forkert": "nordbank kaj",
+        "rettet": "Nordre Kaj",
         "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -24736,6 +24676,158 @@
         "rettet": "",
         "antal": 0,
         "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Konferencer_lChWhMS4SMQ_20260826_063020.txt": {
+    "anvendt": [
+      {
+        "forkert": "Nova for os",
+        "rettet": "Novafos",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Nordfost",
+        "rettet": "Novafos",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Karl Mild",
+        "rettet": "Karl Emil",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Kirsten Halsn",
+        "rettet": "Kirsten Halsnæs",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Konferencer_EA1HAzpsXB4_20260826_063002.txt": {
+    "anvendt": [
+      {
+        "forkert": "Ole Fryder",
+        "rettet": "Ole Fryd",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Timendor fra Strand",
+        "rettet": "Timmendorfer Strand",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Hunsbos Dunes",
+        "rettet": "Hondsbossche Dunes",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Rogaway Beach",
+        "rettet": "Rockaway Beach",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Stadden Island",
+        "rettet": "Staten Island",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "lands krona",
+        "rettet": "Landskrona",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Katrine Viberg",
+        "rettet": "Katrina Wiberg",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Konferencer_NAtpQXRymvY_20260826_062809.txt": {
+    "anvendt": [
+      {
+        "forkert": "nios",
+        "rettet": "NIRAS",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "VSP",
+        "rettet": "WSP",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "SK 27",
+        "rettet": "skrift 27",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kft 27",
+        "rettet": "skrift 27",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "hosholm",
+        "rettet": "Hørsholm",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "covis",
+        "rettet": "COWI's",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "grevet",
+        "rettet": "Greve",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "budinge",
+        "rettet": "Buddinge",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Konferencer_ykv9nRrgu8s_20260826_062959.txt": {
+    "anvendt": [
+      {
+        "forkert": "nordr Kaj",
+        "rettet": "Nordre Kaj",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kyp",
+        "rettet": "kystpuljen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kystpolitiet",
+        "rettet": "kystpuljen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
