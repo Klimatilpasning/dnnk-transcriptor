@@ -2,31 +2,31 @@
 Her er alle.
 
 00:00:06
-Velkommen til årets sidste ting top på DNK mit navn Det er teis roskov Andersen og for vi University College sammen med Morten halling fra DNNK og Christoffer sindvig Larsen. Foged Nygaard vil jeg gerne på vegne af DNNK by jer alle sammen velkommen til dagens tik talk i dag vil Nanna og lina for LNHW water præsenterer deres erfaringer med hensyn til, hvordan man bygger en god svømmodel i samspil med anaga i overensstemmelse med dansk praktisk.
+Velkommen til årets sidste ting top på DNNK mit navn Det er teis roskov Andersen og for vi University College sammen med Morten halling fra DNNK og Christoffer sindvig Larsen. Foged Nygaard vil jeg gerne på vegne af DNNK by jer alle sammen velkommen til dagens Tech Talk i dag vil Nanna og lina for LNHW water præsenterer deres erfaringer med hensyn til, hvordan man bygger en god svømmodel i samspil med ANUGA i overensstemmelse med dansk praktisk.
 
 00:00:30
-Og lidt praktisk information inden vi starter selve tiktokken. Præstationen vil cirka vare 30-40 minutter, hvorefter der vil være tid til spørgsmål.
+Og lidt praktisk information inden vi starter selve Tech Talken. Præstationen vil cirka vare 30-40 minutter, hvorefter der vil være tid til spørgsmål.
 
 00:00:38
-Og i kan stille et spørgsmål igennem chatten og så ved Christoffer og jeg løbende publicere dem og Nanna og lina vil svare dem i slutningen af tektuppen.
+Og i kan stille et spørgsmål igennem chatten og så ved Christoffer og jeg løbende publicere dem og Nanna og lina vil svare dem i slutningen af Tech Talken.
 
 00:00:45
-Og for en god ordens skyld, så skal jeg informere om at tiktokken bliver optaget og i kan finde den senere. Øh på Danmark hjemmeside.
+Og for en god ordens skyld, så skal jeg informere om at Tech Talken bliver optaget og i kan finde den senere. Øh på Danmark hjemmeside.
 
 00:00:52
 Og Det var alt fra min side nu, og så vil jeg give ordet til hinanden og lina.
 
 00:00:56
-Ja hej Jeg vil gerne sige tak til alle dem Der er kommet og sidder bag skærmen og lytter med. Og vi vil også gerne sige tak til dan NK som har ydet støtte til det her projekt. Det har vi været meget taknemmelige for.
+Ja hej Jeg vil gerne sige tak til alle dem Der er kommet og sidder bag skærmen og lytter med. Og vi vil også gerne sige tak til DNNK som har ydet støtte til det her projekt. Det har vi været meget taknemmelige for.
 
 00:01:08
-Projektet, det hedder udvikling af swimming som beslutningsstøtteværktøj til klimatilpasning efter danske forhold samt kobling med overfladen gennem anaga. Det har været et bobleprojekt, som vi startede op i slutningen af 22, og det løb så ind til slutningen af april 2023.
+Projektet, det hedder udvikling af swimming som beslutningsstøtteværktøj til klimatilpasning efter danske forhold samt kobling med overfladen gennem ANUGA. Det har været et bobleprojekt, som vi startede op i slutningen af 22, og det løb så ind til slutningen af april 2023.
 
 00:01:25
 Projektet Det har været et samarbejde mellem LNHW warder fra mig og lina kommer fra. Vi har stået for kodning af selve koblingen. Vi har stået for test og implementering.
 
 00:01:35
-Så har klareforsyningen deltaget klarforsyningen. De har en meget stor praktisk erfaring i anvendelse af svøm i en dansk kontekst, og så har DTU comput deltaget Institut for matematik og computer science. De har deltaget med faglig sparring, og Vi har haft ansatte Anton, da han blev færdig ude på DTU comput og Anton.
+Så har klareforsyningen deltaget klarforsyningen. De har en meget stor praktisk erfaring i anvendelse af svøm i en dansk kontekst, og så har DTU Compute deltaget Institut for matematik og computer science. De har deltaget med faglig sparring, og Vi har haft ansatte Anton, da han blev færdig ude på DTU Compute og Anton.
 
 00:01:57
 Han har speciale i numeriske algoritmer.
@@ -38,7 +38,7 @@ Og har stået for noget af selve kodningen af de algoritmer, vi bruger, når vi 
 I Vores præsentation i dag, så vil vi fortælle lidt om de erfaringer, Vi har gjort os med at få svim implementeret til danske forhold.
 
 00:02:18
-Og så også nogle af de erfaringer Vi har og problemer Vi har haft med og kunne få koblet af nouga sammen med swimming.
+Og så også nogle af de erfaringer Vi har og problemer Vi har haft med og kunne få koblet af ANUGA sammen med swimming.
 
 00:02:34
 Sådan der formålet med projektet jamen Det har været at udvikle en koblet model til at lave oversvømmelseskort.
@@ -62,7 +62,7 @@ Det er udviklet af EPA.
 Som er valgt den amerikanske miljøstyrelse, som som vedligeholder programmet programmet. Det er gratis. Det er meget veldokumenteret udbredt i store dele af verden.
 
 00:03:41
-Især IUSA, og Det var et stort plus, at vi kunne tilgå koden gennem en noget der hedder piceweem, som er Sådan en rapper der ligger omkring python koden og vi derved kunne bygge Vores egne applikationer oven på swimming, og Det var også et noget positivt, at vi kunne køre mange beregninger på en gang. Som regel så er man begrænset af et vist antal beregninger man kan køre når man kører med de kommercielle værktøjer.
+Især IUSA, og Det var et stort plus, at vi kunne tilgå koden gennem en noget der hedder pyswmm, som er Sådan en rapper der ligger omkring python koden og vi derved kunne bygge Vores egne applikationer oven på swimming, og Det var også et noget positivt, at vi kunne køre mange beregninger på en gang. Som regel så er man begrænset af et vist antal beregninger man kan køre når man kører med de kommercielle værktøjer.
 
 00:04:06
 Der er selvfølgelig også nogle ulemper ved at bruge swimming.
@@ -71,7 +71,7 @@ Der er selvfølgelig også nogle ulemper ved at bruge swimming.
 Dels at vi i Danmark har været vant til at bruge noget andet software, som Vi har brugt i meget lang tid.
 
 00:04:15
-Det er mike aben Det er et program, alle ingeniører afløbsingeniører i Danmark kender rigtig godt. Vi ved, hvilke håndtag Der er i myben. Vi ved, hvad Vi skal skrue på for at lave nogle gode afløbsmodeller.
+Det er mike urban Det er et program, alle ingeniører afløbsingeniører i Danmark kender rigtig godt. Vi ved, hvilke håndtag Der er i mike urban. Vi ved, hvad Vi skal skrue på for at lave nogle gode afløbsmodeller.
 
 00:04:26
 Svøm har også en meget gammeldags brugerflade. Den er ikke opdateret til at kunne indgå i Vores normale arbejde med gis, og Det har vi også kunne se, at Der er mange kommercielle.
@@ -89,7 +89,7 @@ Det er en metode, som hurtigt kan give os et overblik over, hvor meget vand der 
 Så har vi også tabene nede i lednings, i ledninger og og grønne beskrives på en helt 2 måde i sweim.
 
 00:05:11
-Det kommer vi nærmere ind på lidt senere, da vi så skulle vælge Vores oversvømmelsesmodel. Jamen så faldt vandet vandet på et program der hedder anaguga. Det er et program der udviklede i Australien.
+Det kommer vi nærmere ind på lidt senere, da vi så skulle vælge Vores oversvømmelsesmodel. Jamen så faldt vandet vandet på et program der hedder ANUGA. Det er et program der udviklede i Australien.
 
 00:05:24
 Det er meget stabilt. Det bruger samme metode som man bruger. Hvis i kender CFD modellering af bygværker noget der kaldes pint volume.
@@ -107,10 +107,10 @@ Som også var den kode vi skulle bruge til at tilgå swimming.
 Øh programmet. Det er meget veltastet og veldokumenteret.
 
 00:05:52
-Hvis vi kigger lidt ind på svømdelen, så er Vores projektplan der Det var at starte med at undersøge forskellene mellem swimming og mike oden.
+Hvis vi kigger lidt ind på svømdelen, så er Vores projektplan der Det var at starte med at undersøge forskellene mellem swimming og mike urban.
 
 00:06:00
-Og igennem det skulle vi så skabe nogle sammenlignelige resultater, så vi havde en form for overgangsperiode, hvor når vi foretog en beregning i swimming eller foretog den i mike ørkenen, så kunne vi være trygge ved at vi fik nogenlunde det samme resultat ud i den 2 ende og for at kunne gøre det, så havde vi fokus på nogle forskellige forskelle indenfor dels afstrømningen af regn på overfladen, enkelt tabene overløb og brugervenlighed.
+Og igennem det skulle vi så skabe nogle sammenlignelige resultater, så vi havde en form for overgangsperiode, hvor når vi foretog en beregning i swimming eller foretog den i mike urban, så kunne vi være trygge ved at vi fik nogenlunde det samme resultat ud i den 2 ende og for at kunne gøre det, så havde vi fokus på nogle forskellige forskelle indenfor dels afstrømningen af regn på overfladen, enkelt tabene overløb og brugervenlighed.
 
 00:06:26
 Hvis vi lige kort kigger på svøm. Jeg vil ikke gå så meget ind i detaljer om hvad svøm kan og hvordan man bruger det. Men som sagt er det EPA der har udviklet og vedligeholder det, og den seneste version hedder 5 2.
@@ -176,7 +176,7 @@ Så når den laver sin run off.
 Der laver vi runoffen, og så påførte vi den som tidsserier.
 
 00:09:41
-Og det går. Det går ganske udmærket i swimming. Vi kan få præcis de samme resultater, som vi kender fra Vores my godan run off i model a.
+Og det går. Det går ganske udmærket i swimming. Vi kan få præcis de samme resultater, som vi kender fra Vores mike urban run off i model a.
 
 00:09:52
 Og Det var Sådan ligesom det første skridt for at kunne sammenligne. Jamen kan vi få nøjagtig de samme resultater eller næsten de samme resultater, så vi kan følge dansk praksis med swimming.
@@ -209,7 +209,7 @@ Til gengæld så er der med.
 Ja det som vi kender det til gengæld, så er der med øjphistil fungerer lidt anderledes i wem, men vi kan næsten få det samme og Det er ikke et spørgsmål om at swimming.
 
 00:11:18
-Regner mere forkert end my godan. Det er simpelthen bare et spørgsmål om den regner en lille smule anderledes.
+Regner mere forkert end mike urban. Det er simpelthen bare et spørgsmål om den regner en lille smule anderledes.
 
 00:11:26
 Vi er nået frem til at Det kan vi godt acceptere.
@@ -230,13 +230,13 @@ Funktioner i et større område.
 Og det prøvede vi så at implementere under projektforløbet havde vi et parallelt projekt nede i Flensborg et nettunprojekt.
 
 00:12:08
-Og der prøvede vi så i den nordlige del her, at Flensborg at implementere både en my gourmet model og en svømmodel.
+Og der prøvede vi så i den nordlige del her, at Flensborg at implementere både en mike urban model og en svømmodel.
 
 00:12:15
 Her er området vist. Det er et separat blokeret område, og med sort der viste et vandløb, der dræner området ud til Flensborg Fjord.
 
 00:12:25
-Vi konverterede os som modellen, så vi havde den i svøm og tilsvarende i mike arven, så kørte vi så forskellige regn på for at se jamen hvad er responsen så nede i systemet giver?
+Vi konverterede os som modellen, så vi havde den i svøm og tilsvarende i mike urban, så kørte vi så forskellige regn på for at se jamen hvad er responsen så nede i systemet giver?
 
 00:12:36
 Modellerne så det samme, når vi prøver at at teste et mere komplekst miljø, og vi startede med først at køre nogle lidt mindre regn på. Her har vi en regn, der hedder l lig mod 2. Det vil sige, Det er en regn Der er statistisk set over, 2 gange om året.
@@ -479,7 +479,7 @@ Er udviklet til at regne på tsunamier er inde på kysten, og så begyndte man b
 Ja.
 
 00:25:59
-Historien bag andoga er i virkeligheden lidt sjovt. Det udviklede i Australien, og faktisk er en dansk matematiker, som er fra DTU.
+Historien bag ANUGA er i virkeligheden lidt sjovt. Det udviklede i Australien, og faktisk er en dansk matematiker, som er fra DTU.
 
 00:26:09
 Men som jo så er immigreret derned og Vi har ja Vi har haft noget kontakt med udviklerne, så så Det er også positivt.
@@ -527,10 +527,10 @@ Og få det hele installeret. De har så forsøgt at lave fordi Der er en hvad he
 Udvikling udviklingsbaseret software så er den ikke blevet opdateret i forhold til den nyeste python, men de har fået opdateret endnu. Kan koden til den nyeste pyton, så det første vi skulle gøre Det var lige at få de her brugere.
 
 00:28:43
-Plader eller at Det var ikke en bordflade det her excel regneark opgraderede sit nyeste picon, så det brugte vi lige lidt tid på i starten, så vi overhovedet kunne komme til at bruge anaga og derefter så skulle vi så have overblik over anagoden.
+Plader eller at Det var ikke en bordflade det her excel regneark opgraderede sit nyeste picon, så det brugte vi lige lidt tid på i starten, så vi overhovedet kunne komme til at bruge ANUGA og derefter så skulle vi så have overblik over anagoden.
 
 00:28:57
-Vi skulle finde ud af, hvilken håndtag vi havde i unoga til at skrue på, og hvilken håndtag vi havde II pejm. Altså hvordan kunne vi få de 2 programmer til at at tale sammen? Hvordan får vi 2 programmer, hvor det ene program det kører i finder differenceskemaer og det andet kører i finaledskema?
+Vi skulle finde ud af, hvilken håndtag vi havde i ANUGA til at skrue på, og hvilken håndtag vi havde II pyswmm. Altså hvordan kunne vi få de 2 programmer til at at tale sammen? Hvordan får vi 2 programmer, hvor det ene program det kører i finder differenceskemaer og det andet kører i finaledskema?
 
 00:29:14
 Og hvordan får vi de her 2 programmer til at snakke sammen? De kører også med forskellige tidsskridt, hvor vi i anuga har oftest har noget med millisekunder.
@@ -548,13 +548,13 @@ Der var dels noget med.
 Nogle begrænsninger på, når vi skulle?
 
 00:29:47
-Større nede i pices wimb når vi skulle spørge for eksempel vi fik, vi kunne beregne, at jamen, der kunne komme der Google der var plads til 1 m3 vand, og så skulle vi så sige til svømmende blev der fjernet 1 m3 og så sagde piger Sådan fint da jeg fjernede 1 m3 men der blev bare ikke lige tjekket på om det rent faktisk var 1 m3 der kunne blive fjernet.
+Større nede i pyswmm når vi skulle spørge for eksempel vi fik, vi kunne beregne, at jamen, der kunne komme der Google der var plads til 1 m3 vand, og så skulle vi så sige til svømmende blev der fjernet 1 m3 og så sagde piger Sådan fint da jeg fjernede 1 m3 men der blev bare ikke lige tjekket på om det rent faktisk var 1 m3 der kunne blive fjernet.
 
 00:30:06
 Der blev så godt og kun fjernet det der fysisk var, men Det var den her tjekker på volumenbevarelse eller når vi skulle lave massebalance der var lidt kludder i.
 
 00:30:14
-Så Det er det snakkede vi lige lidt med med svømmeudvikleren om vi kan få nogle flere håndtag ind til og spørge ind på massebalance der. Men det vi fandt ud af Det var at overløbsform altså wear orific udvekslinger. Det gav de bedste resultater, og Det er også den metode man bruger for eksempel i my flot.
+Så Det er det snakkede vi lige lidt med med svømmeudvikleren om vi kan få nogle flere håndtag ind til og spørge ind på massebalance der. Men det vi fandt ud af Det var at overløbsform altså wear orific udvekslinger. Det gav de bedste resultater, og Det er også den metode man bruger for eksempel i MIKE FLOOD.
 
 00:30:31
 Der har man også overløbs udveksling.
@@ -563,7 +563,7 @@ Der har man også overløbs udveksling.
 Overløbsligninger til at beskrive udveksling mellem 2 forskellige modelsystemer.
 
 00:30:40
-Det hvis du skulle efter vi havde fundet ud af de her ting, Det var, at vi så skulle også ind og bygge noget mere kode til anuga fordi at nouga som sagt er ikke møntet på på afløb. Den ligger på overfladen, så vi skulle ind og have nogle nogle håndtag der skulle kodes, så vi kunne begynde at snakke sammen med med med swimming og dels så fik vi lavet noget der hedder et endside ellet. Det var en supportfunktion som indeholder.
+Det hvis du skulle efter vi havde fundet ud af de her ting, Det var, at vi så skulle også ind og bygge noget mere kode til anuga fordi at ANUGA som sagt er ikke møntet på på afløb. Den ligger på overfladen, så vi skulle ind og have nogle nogle håndtag der skulle kodes, så vi kunne begynde at snakke sammen med med med swimming og dels så fik vi lavet noget der hedder et endside ellet. Det var en supportfunktion som indeholder.
 
 00:31:05
 Versus af en polygon med n sider og et geo areal.
@@ -575,13 +575,13 @@ Og det vil sige, når Vi er først initialiserer Vores modeller, så kan vi gå 
 Og ikke har nogle fysisk udbredelse, så der skulle vi lige lave et lille fif med at få det konverteret til noget fysisk, som man nu kan kunne forstå. Og så har vi også lavet en funktion der hedder spift swimming som bruges når når swimming er inde og styre udvekslingen med overfladen gennem de her orleps formler.
 
 00:31:54
-Det man så skal gøre for at kunne køre det her. Det er dels at man skal installere anaga som er som er det her 2 dis shall watery quation packages der ligger på git hub, så skal man have installeret picemand som er den her pytern wraber til EPA svømmemaskinen og man skal installere noget der hedder humo, som er et program til at udtrække koordinater fra Rønne i swimming.
+Det man så skal gøre for at kunne køre det her. Det er dels at man skal installere ANUGA som er som er det her 2 dis shall watery quation packages der ligger på git hub, så skal man have installeret pyswmm som er den her pytern wraber til EPA svømmemaskinen og man skal installere noget der hedder humo, som er et program til at udtrække koordinater fra Rønne i swimming.
 
 00:32:17
 Det er nemlig PT ikke mulige pres 5 og gøre det, men Der er altså et andet program man kan installere via git hub og så ind i python koden få sine koordinater på hvor brøndene er.
 
 00:32:27
-Da vi så havde fundet ud af alt det her, så puttede vi det hele ind i en kode, og jeg prøvede at lave et flow til at komme her. Der viser lidt hvordan tingene forløber. Man starter her med at installere sin swimming nouga humo billins gennem github, så er der nogle parametre man skal have sat, dels hvor tingene ligger.
+Da vi så havde fundet ud af alt det her, så puttede vi det hele ind i en kode, og jeg prøvede at lave et flow til at komme her. Der viser lidt hvordan tingene forløber. Man starter her med at installere sin swimming ANUGA humo billins gennem github, så er der nogle parametre man skal have sat, dels hvor tingene ligger.
 
 00:32:44
 En størrelse, min størrelse på sine celler og.
@@ -590,7 +590,7 @@ En størrelse, min størrelse på sine celler og.
 Det styrende tidsskrift, der skal bruges til udveksling, så går man ind, og så bliver anagomænet bygget og så loader man så loades swimming modellen ind, og så går man så ind via de her funktioner Vi har bygget og intalisere selve koblingsdelen af programmet, og det vil sige man får sat DT. Man får sat arealet på udvekslingspunkterne, og hvor på terrænet det ligger.
 
 00:33:11
-Derefter så går koden ind, og så kører selve beregningerne og det Vi har fundet ud af, skal være den styrende her. Det er nougat, så Det er nougat, der simpelthen styrer hele beregningen.
+Derefter så går koden ind, og så kører selve beregningerne og det Vi har fundet ud af, skal være den styrende her. Det er ANUGA, så Det er ANUGA, der simpelthen styrer hele beregningen.
 
 00:33:21
 Den har et finere tidskridt end svm så til hver, men nu kan tidsskridt gå den ned og spørg på swimming og siger, jamen hvad er staten er eller hvad hedder det? Hvad hedder det? Ja hvad er staten er swimming modellen er Der er de er hvad hedder det betingelserne opfyldt for at der kan udveksle jamen så hvis Det er det.
@@ -608,7 +608,7 @@ Og det vi så har gjort, da vi testede de her ting af Det var, at vi havde. Vi h
 Vi har lidt problemer med tovejs udvekslingen og vi.
 
 00:34:35
-Mistænker, at Det er pejsem i forhold til, når vi spørger på på massebevarelse, at Der er nogle nogle ting, hvor den rapporterer forkert tilbage, så det skal vi lige have have kigget lidt nærmere på.
+Mistænker, at Det er pyswmm i forhold til, når vi spørger på på massebevarelse, at Der er nogle nogle ting, hvor den rapporterer forkert tilbage, så det skal vi lige have have kigget lidt nærmere på.
 
 00:34:47
 Så det Vi har gjort, Det er at Vi har taget det her setup, og så har vi prøvet at teste det på et større område.
@@ -617,7 +617,7 @@ Så det Vi har gjort, Det er at Vi har taget det her setup, og så har vi prøve
 Hvor vi så har kørt en envejs udveksling.
 
 00:34:57
-Det vil sige, vi kører fra. Vi putter regn ned i svøm er der ikke plads i svym, så bliver vandet ledt op på overfladen og så overtager en nougat strømningerne oppe på overfladen det her testområde. Det er det samme som det jeg viste lidt tidligere i Flensborg.
+Det vil sige, vi kører fra. Vi putter regn ned i svøm er der ikke plads i svym, så bliver vandet ledt op på overfladen og så overtager en ANUGA strømningerne oppe på overfladen det her testområde. Det er det samme som det jeg viste lidt tidligere i Flensborg.
 
 00:35:12
 Vi har kørt med et område på cirka 2,5 gange.
@@ -692,7 +692,7 @@ Det ligger jo på den her linuxmaskine, men det lever som sagt i det her forskni
 Vinduesversion og i en linux-sion, men Det er jo noget, Vi er i dialog med de australske udviklere om.
 
 00:39:17
-Og Vi har så været så heldige, at Vi har fået bevilget 2 EU projekter, hvor vi vil teste anaga af videre, så forhåbentlig kan kan nogle af de her ting blive implementeret også. Og hvis Der er nogen der vil vide mere, så har jeg sat en referencer ind her både på nogle artikler. Og så er der også links til koden nougat koden inklusiv swimming koden på på gitup pim og så den her humor man skal bruge for at kunne køre det her.
+Og Vi har så været så heldige, at Vi har fået bevilget 2 EU projekter, hvor vi vil teste ANUGA af videre, så forhåbentlig kan kan nogle af de her ting blive implementeret også. Og hvis Der er nogen der vil vide mere, så har jeg sat en referencer ind her både på nogle artikler. Og så er der også links til koden ANUGA koden inklusiv swimming koden på på gitup pim og så den her humor man skal bruge for at kunne køre det her.
 
 00:39:44
 Det var alt, vi havde at sige.
@@ -713,10 +713,10 @@ Jeg tænker også Jeg kan se der kommer rigtig mange klapsalver, så så folk ha
 Hvad hedder det så? Jeg tror egentlig ikke Jeg vil sige så meget andet end nu end 1000. Tak for en rigtig spændende Tech Talk.
 
 00:40:41
-Og hvad hedder det på vegne af d. n. k.?
+Og hvad hedder det på vegne af DNNK?
 
 00:40:43
-Så vil jeg gerne så vil jeg ønske jer alle sammen en en glædelig jul og et godt nytår og vi ses i det nye år. Der er allerede de første par Tech Talk i det nye år. De første arrangementer i gern k.-regi er allerede lagt ind på klimakalen, så Der er i meget velkommen til og joine der.
+Så vil jeg gerne så vil jeg ønske jer alle sammen en en glædelig jul og et godt nytår og vi ses i det nye år. Der er allerede de første par Tech Talk i det nye år. De første arrangementer i DNNK.-regi er allerede lagt ind på klimakalen, så Der er i meget velkommen til og joine der.
 
 00:40:56
 Og igen Nanna og lina 1000 tak for en rigtig spændende Tech Talk.

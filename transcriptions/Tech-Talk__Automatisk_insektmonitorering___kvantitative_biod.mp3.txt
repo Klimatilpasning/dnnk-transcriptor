@@ -17,7 +17,7 @@ Lidt omkring det praktiske, så skal I huske, at I kan stille spørgsmål løben
 Og dagens Tech Talk er med Frederik Elbæk og Poul Kjerbo, og det må du heller selv lige forklare navnet helt bagefter.
 
 00:00:48
-De kommer fra Fagner Photonic, og de vil fortælle om automatisk insektmonitering for initiativ biodiversitetsdata i praksis.
+De kommer fra FAUNA Photonics, og de vil fortælle om automatisk insektmonitering for initiativ biodiversitetsdata i praksis.
 
 00:00:58
 Og det er det tredje oplæg i DNNK's følgetong om biodiversitet.
@@ -32,7 +32,7 @@ Værsgo.
 Tak.
 
 00:01:09
-Jeg hedder Frederik Elbe, og jeg sidder som produkter i FAUNA.
+Jeg hedder Frederik Elbæk, og jeg sidder som produkter i FAUNA.
 
 00:01:12
 Det vil sige, at jeg er ansvarlig for vores sensorer og for vores portal.
@@ -41,13 +41,13 @@ Det vil sige, at jeg er ansvarlig for vores sensorer og for vores portal.
 Og vi har lavet den her produktløsning, som kan bruges til at måle biodiversitetudfyldning.
 
 00:01:21
-Og med mig så har jeg Pot.
+Og med mig så har jeg Poul.
 
 00:01:23
 Ja, hej.
 
 00:01:24
-Min navn er Pot, og jeg er biolog.
+Min navn er Poul, og jeg er biolog.
 
 00:01:28
 Jeg har arbejdet på FAUNA Photonics i først to år som studentermiddelhjælper, og så siden januar har jeg arbejdet på politiet.
@@ -875,7 +875,7 @@ Og sidste nødde, det er integrationen.
 Den her beskrivelse tilgår, fordi vi gerne vil være knivskarpe mellem, hvad kan vi i dag, og hvad kan vi snart.
 
 00:27:53
-Så vi kan håndbære for eksempel den her SG af finansiel rapportering, men det som vi ønsker at gøre er at blive fuldt udkompetibelt med de mest gængse værktøjer med anvendelse af det i dag, så vi kan hjælpe med at automatisere delelementer til den rapportering også.
+Så vi kan håndbære for eksempel den her ESG af finansiel rapportering, men det som vi ønsker at gøre er at blive fuldt udkompetibelt med de mest gængse værktøjer med anvendelse af det i dag, så vi kan hjælpe med at automatisere delelementer til den rapportering også.
 
 00:28:08
 Ja, det tror jeg var det for nu.

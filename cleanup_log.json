@@ -3661,14 +3661,166 @@
   "transcriptions\\Tech_Talk-_Test_implementering_og_anvendelsesmuligheder_af_g.txt": {
     "anvendt": [
       {
-        "forkert": "tiktok",
-        "rettet": "Tech Talk",
-        "antal": 4
+        "forkert": "DNK",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "tik tok",
+        "forkert": "dan NK",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "gern k",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "d. n. k.",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tik talk",
         "rettet": "Tech Talk",
-        "antal": 1
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tiktokken",
+        "rettet": "Tech Talken",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tektuppen",
+        "rettet": "Tech Talken",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DTU comput",
+        "rettet": "DTU Compute",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "anaguga",
+        "rettet": "ANUGA",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "nougat",
+        "rettet": "ANUGA",
+        "antal": 4,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "nouga",
+        "rettet": "ANUGA",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "andoga",
+        "rettet": "ANUGA",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "unoga",
+        "rettet": "ANUGA",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "anaga",
+        "rettet": "ANUGA",
+        "antal": 5,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "mike aben",
+        "rettet": "mike urban",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "myben",
+        "rettet": "mike urban",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "my godan",
+        "rettet": "mike urban",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "mike oden",
+        "rettet": "mike urban",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "mike ørkenen",
+        "rettet": "mike urban",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "my gourmet",
+        "rettet": "mike urban",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "mike arven",
+        "rettet": "mike urban",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "my flot",
+        "rettet": "MIKE FLOOD",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "piceweem",
+        "rettet": "pyswmm",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "pices wimb",
+        "rettet": "pyswmm",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "picemand",
+        "rettet": "pyswmm",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "pejm",
+        "rettet": "pyswmm",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "pejsem",
+        "rettet": "pyswmm",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -4433,9 +4585,52 @@
   "transcriptions\\Tech_Talk_-_Kortvarige_havniveaustigningers_indflydelse_p__d.txt": {
     "anvendt": [
       {
-        "forkert": "tiktok",
+        "forkert": "danni k",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "dian nin k",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DN ks",
+        "rettet": "DNNK's",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Thomas",
+        "rettet": "Theis",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ole sminde",
+        "rettet": "Juelsminde",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ultusminde",
+        "rettet": "Juelsminde",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tik talk",
         "rettet": "Tech Talk",
-        "antal": 3
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tik toppen",
+        "rettet": "Tech Talken",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -5379,14 +5574,58 @@
   "transcriptions\\Tech_Talk_018_-_Konstruerede_v_domr_der_i_Danmark___nyeste_e.txt": {
     "anvendt": [
       {
-        "forkert": "DNAK",
-        "rettet": "DNNK",
-        "antal": 1
+        "forkert": "WSTVSP",
+        "rettet": "WSP",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "tiktok",
-        "rettet": "Tech Talk",
-        "antal": 2
+        "forkert": "VSP",
+        "rettet": "WSP",
+        "antal": 4,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Nicolai",
+        "rettet": "Nikolaj",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Kristoffer",
+        "rettet": "Christoffer",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "å Nygaard",
+        "rettet": "OK Nygaard",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "faurskov Forsyning",
+        "rettet": "Favrskov Forsyning",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "faauskov",
+        "rettet": "Favrskov",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "danhva",
+        "rettet": "DANVA",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "danvas",
+        "rettet": "DANVA's",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -6810,9 +7049,34 @@
   "transcriptions\\Tech_Talk_Regnvand___udfordringer_og_muligheder_ (1).txt": {
     "anvendt": [
       {
-        "forkert": "DNAK",
+        "forkert": "DNNDNNKS",
+        "rettet": "DNNK's",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "å k nygård",
+        "rettet": "OK Nygaard",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tekttalks",
+        "rettet": "Tech Talks",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tekttalk",
+        "rettet": "Tech Talk",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DNK",
         "rettet": "DNNK",
-        "antal": 2
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -22876,6 +23140,70 @@
         "rettet": "",
         "antal": 0,
         "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Tech-Talk__Automatisk_insektmonitorering___kvantitative_biod.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "Fagner Photonic",
+        "rettet": "FAUNA Photonics",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Frederik Elbe",
+        "rettet": "Frederik Elbæk",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Pot",
+        "rettet": "Poul",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "den her SG af finansiel rapportering",
+        "rettet": "den her ESG af finansiel rapportering",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Godmorgen_med_DNNK__Opdaterede_h_jvandsstatistikker_2024.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "bastan",
+        "rettet": "Sebastian",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "bastian",
+        "rettet": "Sebastian",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kystoratet",
+        "rettet": "Kystdirektoratet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "IIPC",
+        "rettet": "IPCC",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Fischer information",
+        "rettet": "Fisher information",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []

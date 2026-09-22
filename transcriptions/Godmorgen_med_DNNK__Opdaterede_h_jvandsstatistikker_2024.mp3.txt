@@ -1,11 +1,11 @@
 00:00:04
-Godmorgen tal til allesammen, og så Der er bastan Poulsen. Du er en af mine gode kollegaer i kystoratet, hvor du er projektleder på opdatere højrestatistikker på 2024, og Det er dem, som du vil præsentere for os i dag som en kort introduktionsevne kan jeg fortælle, at statistikkerne har til formål at kortlægge risikoen for ekstandstande og en vigtig del af at understøtte klimatilpasning og planlægning af kystbeskyttelse mod fremtidige stormhalser.
+Godmorgen tal til allesammen, og så Der er Sebastian Poulsen. Du er en af mine gode kollegaer i Kystdirektoratet, hvor du er projektleder på opdatere højrestatistikker på 2024, og Det er dem, som du vil præsentere for os i dag som en kort introduktionsevne kan jeg fortælle, at statistikkerne har til formål at kortlægge risikoen for ekstandstande og en vigtig del af at understøtte klimatilpasning og planlægning af kystbeskyttelse mod fremtidige stormhalser.
 
 00:00:34
 Storm blodsendelser.
 
 00:00:37
-Og nu vil jeg give dig ordet bastan, som gør os klogere på selve dataindsamlingen analysemetoder og hvordan statistikkerne kan bruges i praksis og i der lytter med i er meget velkommen til at stille spørgsmål i chatten. Og så vil jeg følge op på dem efter præsentation.
+Og nu vil jeg give dig ordet Sebastian, som gør os klogere på selve dataindsamlingen analysemetoder og hvordan statistikkerne kan bruges i praksis og i der lytter med i er meget velkommen til at stille spørgsmål i chatten. Og så vil jeg følge op på dem efter præsentation.
 
 00:00:55
 Tak for det.
@@ -578,7 +578,7 @@ Jeg er nok tilbøjelig til at sige, at Det er de ikke.
 Og Det er igen noget jeg gerne vil lave flere analyser på.
 
 00:37:03
-Men på nuværende tidspunkt. Der kan jeg ikke se de tendenser, som man ser IIPC med et accelererende havvand.
+Men på nuværende tidspunkt. Der kan jeg ikke se de tendenser, som man ser IPCC med et accelererende havvand.
 
 00:37:13
 Havniveau Vi har en lineær tendens i stigningen af havniveauet.
@@ -713,7 +713,7 @@ Nå på den måde? Ja OK ja.
 Jamen kondens intervallet det altså. Der er mange forskellige metoder til at udregne et konfidens interval. Det som vi gør det altså.
 
 00:43:37
-Det er 95% procent kontigens intervalse vidt jeg husker 90 eller 95% konfidens interval. Og det som vi gør Det er Det er ved hjælp af Fischer information.
+Det er 95% procent kontigens intervalse vidt jeg husker 90 eller 95% konfidens interval. Og det som vi gør Det er Det er ved hjælp af Fisher information.
 
 00:43:52
 Jeg tror ikke i den version Der er offentlig lige nu, så tror jeg ikke Der er et link til Fischer informationen, men vi opdaterer højvandsstatistikkerne nu her indenfor meget kort tid.
@@ -860,7 +860,7 @@ Så ville det også bare være tilbagevuldt. Altså at selvom det ikke er blæse
 Jamen, når det så oplever tilbage, jamen så vil vi opleve høje vandstand II Østersøen omvendt. Hvis du er ude mod vesterhavet, jamen så er det at vinde mod øst som som der giver anledning til ekstrem vandstanden her.
 
 00:52:09
-Tak for det bastian. Det var det sidste spørgsmål der var i chatten.
+Tak for det Sebastian. Det var det sidste spørgsmål der var i chatten.
 
 00:52:14
 Godt og.
