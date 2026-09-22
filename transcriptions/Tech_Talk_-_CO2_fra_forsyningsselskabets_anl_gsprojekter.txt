@@ -1,14 +1,14 @@
 00:00:06
-Kære alle velkommen til dagens Tech Talk på DNDK. Mit navn Det er theis roskov Andersen og fra video University College sammen med Morten fra danni k vil jeg meget gerne på vegne af danni k byde jer alle sammen velkommen.
+Kære alle velkommen til dagens Tech Talk på DNNK. Mit navn Det er theis roskov Andersen og fra VIA University College sammen med Morten fra DNNK vil jeg meget gerne på vegne af DNNK byde jer alle sammen velkommen.
 
 00:00:18
 I dagens Tech Talk relats og Peter fra solgtech præsenterer deres nyeste værktøj til beregning af forsyningsselskabernes coto udledning for anlægsprojekter.
 
 00:00:26
-Og lidt praktisk information, inden vi starter. Selve præstationen varer cirka 30-40 minutter, hvorefter der vil være 5-10 minutter til spørgsmål. I kan løbende stille jeres spørgsmål i chatten, og så vil jeg publicere dem, og launs og Peter vil besvare dem i slutningen af tektuppen.
+Og lidt praktisk information, inden vi starter. Selve præstationen varer cirka 30-40 minutter, hvorefter der vil være 5-10 minutter til spørgsmål. I kan løbende stille jeres spørgsmål i chatten, og så vil jeg publicere dem, og launs og Peter vil besvare dem i slutningen af Tech Talken.
 
 00:00:39
-Og for en god ordens skyld skal jeg informere jer om, at sektuppen bliver optaget, og det vil sige i løbet af et par dage, så kan i se den på dan n ks hjemmeside.
+Og for en god ordens skyld skal jeg informere jer om, at Tech Talken bliver optaget, og det vil sige i løbet af et par dage, så kan i se den på DNNKs hjemmeside.
 
 00:00:47
 Det var alt for nu fra min side, og så vil jeg ellers give ordet til laurence og Peter.
@@ -17,7 +17,7 @@ Det var alt for nu fra min side, og så vil jeg ellers give ordet til laurence o
 Ja tak skal du have. Jeg tænker noget af det vi vil prøve at komme igennem her i løbet af det næste Sådan 40 45 minutter. Det er Sådan selvfølgelig i introduktion til til hvem Vi er.
 
 00:01:03
-Jeg hedder Peter hartvig og konstrukt i solc dernæst lige kigge lidt på hvor er fokus i forhold til klima og klimapåvirkning, hvor meget fylder der skubber ind og 2 og og og og får vi i virkeligheden underbehandlet lidt skub 3.
+Jeg hedder Peter hartvig og konstrukt i solc dernæst lige kigge lidt på hvor er fokus i forhold til klima og klimapåvirkning, hvor meget fylder der skubber ind og 2 og og og og får vi i virkeligheden underbehandlet lidt Scope 3.
 
 00:01:17
 Før vi går lidt videre og kigger på, hvad er det for nogle principper Vi har brugt i forhold til at få udviklet et Sådan ret operativt konkret værktøj til den til den til den enkelte projektleder sammen med Skanderborg Forsyning. Og så kommer vi lidt ind på et et par eksempler også der som plejer faktisk at give rigtig, rigtig god mening i forhold til Sådan at få visualiseret lidt. Jamen, hvad er egentlig klimaaftrykket forskellige løsninger?
@@ -71,7 +71,7 @@ Og inden vi Sådan kommer endnu tættere på. Hvad er det for et værktøj Vi ha
 Og noget af det første, vi Sådan siger, når vi når vi snakker med dem, hvor de er henne. II forhold til CO 2 regnskaber og så videre. Jamen det Det er super svært at tage første skridt.
 
 00:04:41
-Og og det hører vi både gælder Kommune og forsyningsselskaber, altså skubbe et og 2 er som regel lidt nemmere at arbejde med. Men men hvor skal man starte så det her med klimaregnskabet blev taget første skridt, og hvor passer vi ind i forhold til regler og krav, og den udvikling, der sker på det område. Det kan godt være lidt svært at navigere II, hvert fald det vi hører.
+Og og det hører vi både gælder Kommune og forsyningsselskaber, altså Scope 1 og 2 er som regel lidt nemmere at arbejde med. Men men hvor skal man starte så det her med klimaregnskabet blev taget første skridt, og hvor passer vi ind i forhold til regler og krav, og den udvikling, der sker på det område. Det kan godt være lidt svært at navigere II, hvert fald det vi hører.
 
 00:05:04
 Og, Der er kommet nogle flere kasser og i må meget gerne overveje Sådan, når de kommer op her om Der er nogle af dem i kan genkende.
@@ -89,7 +89,7 @@ Forsyningsselskaberne, Sådan specifikt kan gå ind i mange typer udledninger. D
 Og så få overblik over kilderne og og så derfra få få lavet et road mab og en plan for jamen hvordan bliver vi så nu hørte vi at det Sådan klimaneutralitet II 2030 bedriften og Sådan fylder meget som som gennemgående målsætninger på tværs af selskaber, så Sådan road mappel fra i dag og så hen til 2030.
 
 00:05:53
-Og så hvordan får vi på en god måde at skubbe 3 med? Det er jo Sådan den sidste kasse her.
+Og så hvordan får vi på en god måde at Scope 3 med? Det er jo Sådan den sidste kasse her.
 
 00:06:00
 Ambitionerne lidt blødere men men altså kliminualitet i 2030 er også relative kvantitativt, og der der kan man sige der. Der er jo også en masse overlap høre ved internt II ledelsen, men også i bestyrelsen hvor der jo kommer denne her kobling fra selskabet og og og sammen med sammen med kommunerne.
@@ -122,7 +122,7 @@ Ja jeg tænker i må meget gerne notere chatten eller så dribler. Vi driver vi 
 Yes.
 
 00:07:14
-Og nu har vi allerede. Jeg har allerede nævnt nævnt det et par gange, men bare lige for at at at tydeliggøre. Altså man kan sige skubbe et og 2 fylder fylder meget i øjeblikket og er også lidt nemmere at arbejde med.
+Og nu har vi allerede. Jeg har allerede nævnt nævnt det et par gange, men bare lige for at at at tydeliggøre. Altså man kan sige Scope 1 og 2 fylder fylder meget i øjeblikket og er også lidt nemmere at arbejde med.
 
 00:07:26
 Det er typisk altså energi og varme fylder meget, og der har vi allerede set nogen der har energioptimeret som er langt de nu kan.
@@ -131,16 +131,16 @@ Det er typisk altså energi og varme fylder meget, og der har vi allerede set no
 Og kigger lidt på jamen hvad er det næste skridt vi kan tage for at for at arbejde med Vores CO 2 og og reducere det?
 
 00:07:42
-Så scoreb et eller 2. Det er primært driften og der renseanlæg vil det være lattergas med metanols lidt. Det kunne være noget intern transport.
+Så Scope 1 eller 2. Det er primært driften og der renseanlæg vil det være lattergas med metanols lidt. Det kunne være noget intern transport.
 
 00:07:49
-Jamen skubbe 2 Det er primært varme og og energi.
+Jamen Scope 2 Det er primært varme og og energi.
 
 00:07:53
 Og det her. Det er jo et udsnit, men man kan sige de 2 kasser til Venstre. Det er primært driften det omhandler.
 
 00:07:58
-Og hvad Vores bog 3 jamen så er det egentlig resten af værdikæden, og Det kan både være upstreaming på leverandører og Det kan være downstreaming på på kunder.
+Og hvad Vores Scope 3 jamen så er det egentlig resten af værdikæden, og Det kan både være upstreaming på leverandører og Det kan være downstreaming på på kunder.
 
 00:08:07
 Der, hvor Vi har prioriteret, og der hvor Der er størstedelen af CO 2 ligger. Det er så upstream, hvis man kigger på leverandøren.
@@ -155,10 +155,10 @@ Så spilder manstødning og vandledninger og og hele portefølende 2 eks projekt
 Og, der havde vi så en ambition sammen med Skanderborg om, hvordan kan vi få adresseret det her ud fra nogle designprincipper? Så det bliver nemt for projektlederne at at arbejde med det og få nogle tal på og også finde ud af jamen, hvad kan vi gøre i det her store wimbled?
 
 00:08:50
-Og sådi man kan sige score et og 2 er nok til at have med at gøre. Men hvis man vil have perspekt forskelligt og gøre det rigtige, så vil vi nok være optaget af.
+Og sådi man kan sige Scope 1 og 2 er nok til at have med at gøre. Men hvis man vil have perspekt forskelligt og gøre det rigtige, så vil vi nok være optaget af.
 
 00:08:58
-At man også får lys på skub 3, og Det er derfor værktøjet i den grad. Sådan bestiller skarpt på på skub 3, og så kan vi sige Det er der langt størstedelen af effekten der.
+At man også får lys på Scope 3, og Det er derfor værktøjet i den grad. Sådan bestiller skarpt på på Scope 3, og så kan vi sige Det er der langt størstedelen af effekten der.
 
 00:09:08
 Og vi kan komme lidt. Der kommer nogle spørgsmål og det kommer vi lidt tilbage til ned igennem. Men man kan sige noget af det der ligger lige nu.
@@ -176,7 +176,7 @@ Ja og vi ser spørgsmålene vi kommer tilbage til det, men lige den her omkring 
 Yes.
 
 00:09:38
-Ja og så man kan sige som Peter også var inde på i forhold til Vores trekant der i starten så har vi lavet nogle designprincipper sammen med scannerborg, som vi som skulle sætte rammerne for. Hvor langt går vi i jagten på på præcision?
+Ja og så man kan sige som Peter også var inde på i forhold til Vores trekant der i starten så har vi lavet nogle designprincipper sammen med Skanderborg, som vi som skulle sætte rammerne for. Hvor langt går vi i jagten på på præcision?
 
 00:09:54
 Fordi Det er også stiller nogle højere krav til projektlederen. Hvad ved han og hvad har man af input ret tidligt II designfasen.
@@ -224,7 +224,7 @@ Og det, det tror jeg det. Det er Vores bud på også at man skal have Vores Fors
 Bygge på med af vejen, og Det er Sådan set også det Der er tanken med med Skanderborg.
 
 00:12:54
-Og den bringer altså også lidt over til nogle af de læringer, Vi har taget med fra forløbet, fordi man kan sige først og fremmest. Altså når når vi snakker med selskaber om det her, er det. Det er nyt for mange og særligt små 3 er nyt og en svær størrelse og kompleks, som vi også har været inde på.
+Og den bringer altså også lidt over til nogle af de læringer, Vi har taget med fra forløbet, fordi man kan sige først og fremmest. Altså når når vi snakker med selskaber om det her, er det. Det er nyt for mange og særligt Scope 3 er nyt og en svær størrelse og kompleks, som vi også har været inde på.
 
 00:13:09
 Så det her med at Det er en lidt mere simpel løsning. Det hører vi egentlig at Der er mange.
@@ -278,7 +278,7 @@ Til også arbejdsplads og og den vej, det gik.
 Som bliver afstemt med med Skanderborg. Jamen Det er bare, at vi siger hvor lang tid varer projektet og så ud fra det, så har vi nogle beregninger der. Der er nogle standardsatser for for elforbrug og benzinforbrug og så videre ja.
 
 00:15:57
-Og de nøgletal vi så ellers har med i toppen. Det er jo udledt CO 2 og så har vi CO 2 i kroner som er ud fra grøn skattereform for 2022. Den afgift potentielle afgift der ligger IE us kvotehalsystem der.
+Og de nøgletal vi så ellers har med i toppen. Det er jo udledt CO 2 og så har vi CO 2 i kroner som er ud fra grøn skattereform for 2022. Den afgift potentielle afgift der ligger EU's kvotehandelssystem der.
 
 00:16:09
 Og til sidst jamen Det er jo et bud på hvordan man kunne evaluere projekter på tværs, og hvis man skulle gøre det lidt bredere end end ledningsprojektet, jamen så kunne det jo også være en CO 2 i kroner og plantebaseret million.
@@ -299,13 +299,13 @@ Så på den måde prøver vi et eller andet sted at prissætte eksternisering so
 Det er jo at tage offentligt tilgængelige såmænd også gratis data for at komme i gang med den her prototype. Sigurd spurgte til, hvad er det for noget data vi bruger? Jeg ved er Der er der flere Vi skal nævne.
 
 00:17:15
-Hvor meget hvad har vi fået fra scanner word i forbindelse med spørger?
+Hvor meget hvad har vi fået fra Skanderborg i forbindelse med spørger?
 
 00:17:18
 Han, Vi har fået. Vi har egentlig arbejdet med flere forskellige datakilder, altså der ligger en.
 
 00:17:24
-Let tilsvarende model lidt mere kompleks model II Norge som norsk vand har været med til at udvikle sammen med med med nogle interessenter. Der har vi da data fra Vi har en data fra den her indflydelse af fra Vejdirektoratet, som jeg nævnte. Og så har vi også suppleret med nogle APD er altså nogle miljødeklarationer fra Skanderborg målrettet de.
+Let tilsvarende model lidt mere kompleks model II Norge som norsk vand har været med til at udvikle sammen med med med nogle interessenter. Der har vi da data fra Vi har en data fra den her indflydelse af fra Vejdirektoratet, som jeg nævnte. Og så har vi også suppleret med nogle EPD'er altså nogle miljødeklarationer fra Skanderborg målrettet de.
 
 00:17:48
 Producenter de har og de de samarbejdspartnere de har.
@@ -566,7 +566,7 @@ Det være, man så transporterer man det, hvis Det er lokalt genanvendt, så tra
 Og dem Vi har snakket med og gennemgået det her med de er vi enige og dem altså med de tal de selv har fået ud af det. At de johanseng fylder overraskende meget i det samlede regnskab.
 
 00:31:24
-Men også en erkendelse af, at man kan sige Vores side af samme standborg har vi jo klippet en hæl og hak en tå i forhold til at få de finere nuancer med, og Der er vi jo også meget bevidste om også i forhold til statistik. Sigurd spørg, at Det er der også noget der skal udvikles over tid i forhold til hvad er det egentlig man gerne vil vil have med?
+Men også en erkendelse af, at man kan sige Vores side af samme Skanderborg har vi jo klippet en hæl og hak en tå i forhold til at få de finere nuancer med, og Der er vi jo også meget bevidste om også i forhold til statistik. Sigurd spørg, at Det er der også noget der skal udvikles over tid i forhold til hvad er det egentlig man gerne vil vil have med?
 
 00:31:39
 Kan jeg spørge lidt til i forhold til om Vi har andre miljøpåvirkninger slugtæ med end end CO 2 CO to-tvivalenter. Det kunne vel være tænker jeg eller.
@@ -617,7 +617,7 @@ Så man kan sige ja Det er gratis, men der hvor vi jo så tager hospital. Det er
 Vi vil meget gerne dele det, og vi vil meget gerne også ske en en demo af det, og Jeg vil næsten foreslå at man måske lige skriver i chatten, måske bare lidt ukendt. Vi kan jo få, Vi har jo kontakt info, så hvis man måske bare lige ser thumbs up eller Jeg vil gerne deltage.
 
 00:34:10
-Så kan vi jo lige hvis Det er upå med med thais og så videre, så kan vi lige få koordineret eller en lille opfølgende demo og ellers så kan de bare skrive til mig, så tager vi one.
+Så kan vi jo lige hvis Det er upå med med theis og så videre, så kan vi lige få koordineret eller en lille opfølgende demo og ellers så kan de bare skrive til mig, så tager vi one.
 
 00:34:21
 On det Det er helt i orden det der det det gør i selvfølgelig bare altså du har gjort min du har gjort mit arbejde. Det Der er den nemmeste Tech Talk jeg nogensinde har været vært for.
@@ -698,7 +698,7 @@ Og Jeg vil sige de projekter Vi har testet af de passer nogenlunde med nogle and
 Så Jeg vil tro det her 80 20 passer passer meget godt.
 
 00:38:08
-Og det vælter ind med spørgsmål. Det er jo fantastisk, hvis vi ikke når dem alle sammen, så som sagt, så skal vi nok få fulgt op på dem, således at de alle sammen nok skal forsvare. Men Susanne hun spørger, hvordan relaterer værktøjet sig til infral CA?
+Og det vælter ind med spørgsmål. Det er jo fantastisk, hvis vi ikke når dem alle sammen, så som sagt, så skal vi nok få fulgt op på dem, således at de alle sammen nok skal forsvare. Men Susanne hun spørger, hvordan relaterer værktøjet sig til InfraLCA?
 
 00:38:25
 Jamen indenfor er jeg jo Sådan helt generelt infrastruktur projekter, og der har vi jo taget nogle af de komponenter, som vi synes gav mening og være i dialog med Vejdirektoratet om også at forstå nogle af deres beregninger.
@@ -710,10 +710,10 @@ Indenfor altså indenfor er jo noget mere kompliceret og tager også højde for 
 Tilbage til Vores designprincipper, så Der er nogle overlap men, men de er nok lidt små men men Vi har været meget inspireret af den, fordi vi synes Det var et godt sted at starte.
 
 00:39:01
-I samme kølvand. Eller Det er sigurd. Han spørger til, hvordan det kobler til standard for EDP 15 8 0 4 og og a 2.
+I samme kølvand. Eller Det er sigurd. Han spørger til, hvordan det kobler til standard for EN 15804 og og a 2.
 
 00:39:12
-Altså Der er jo nogle af de standarder, som Vi har indarbejdet, så Der er jo flere PD er blandt andet på strømpeforingerne. De materialer, der ligger der som som kommer ud fra de her standarder og iso certificeringer.
+Altså Der er jo nogle af de standarder, som Vi har indarbejdet, så Der er jo flere EPD'er blandt andet på strømpeforingerne. De materialer, der ligger der som som kommer ud fra de her standarder og iso certificeringer.
 
 00:39:24
 Ja.
@@ -740,7 +740,7 @@ Det er den der lusk der skal trænes igen, som man også er gode erfaringer med 
 Ja.
 
 00:40:42
-Og så er der 1 1 1 åben invitation fra Emilie fra VSP som som siger at de bruger VSP indefra LCA med succes også til at lave overslagsberegninger i tidligere projektfaser og i er velkomne til at tage fat i dem for at høre mere om deres tilgang.
+Og så er der 1 1 1 åben invitation fra Emilie fra WSP som som siger at de bruger WSP InfraLCA med succes også til at lave overslagsberegninger i tidligere projektfaser og i er velkomne til at tage fat i dem for at høre mere om deres tilgang.
 
 00:40:57
 Så Det er jo en åben invitation til til samarbejde, som jeg hører det.
@@ -806,7 +806,7 @@ Jeg synes, Der er så mange eksempler på fejltagelse IIT projekter, fordi så r
 Som sender Vores du ja.
 
 00:43:54
-Og med disse vise ord, så tror jeg så lukker vi ned for nu, så på vegne af gerning k så vil jeg sige 1000 tak til Peter laurence for en rigtig god check. Jeg tror aldrig Vi har fået så mange spørgsmål, så Jeg tror det må være techtalkord og Det er jo fantastisk. Som sagt så er tiktokken optaget og i vil kunne se den i løbet af et par dage inde på NN ks hjemmeside, så på vegne af dianal k vil jeg sige 1000 tak Peter 1000 tak laurens.
+Og med disse vise ord, så tror jeg så lukker vi ned for nu, så på vegne af DNNK så vil jeg sige 1000 tak til Peter laurence for en rigtig god check. Jeg tror aldrig Vi har fået så mange spørgsmål, så Jeg tror det må være techtalkord og Det er jo fantastisk. Som sagt så er tiktokken optaget og i vil kunne se den i løbet af et par dage inde på DNNKs hjemmeside, så på vegne af DNNK vil jeg sige 1000 tak Peter 1000 tak laurens.
 
 00:44:17
 Tak for den.
@@ -815,7 +815,7 @@ Tak for den.
 Tak for god dag.
 
 00:44:20
-Og som der står derinde, hvis i har lyst til at afholde en tekt-tag, så er i altid velkommen til at skrive til mig, så finder vi en dato til det så 1000 tak.
+Og som der står derinde, hvis i har lyst til at afholde en Tech Talk, så er i altid velkommen til at skrive til mig, så finder vi en dato til det så 1000 tak.
 
 00:44:27
 Tak.

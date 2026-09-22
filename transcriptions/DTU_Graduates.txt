@@ -68,16 +68,16 @@ Og producere afsaltet havvand og det modellen ligesom kan bruge til at tune på 
 Så næste skridt er så Vores modelparameter og hvordan vi i princippet har sat dem op, så det første er, at den figur vi ser til højre kan vi se lidt mere.
 
 00:04:29
-Hvordan Vi har gjort det i forhold til med rock og der det starter med selve den konceptualisering af de her forskellige noder i så før de røde prikker. Det bliver konverteret til opland, og jeg ved ikke hvor færme i er i den vaukanske geografi, men Vi har atlas bjergene, der løber igennem landet.
+Hvordan Vi har gjort det i forhold til med rock og der det starter med selve den konceptualisering af de her forskellige noder i så før de røde prikker. Det bliver konverteret til opland, og jeg ved ikke hvor færme i er i den marokkanske geografi, men Vi har atlas bjergene, der løber igennem landet.
 
 00:04:45
 Herfra nord til syd, og så har vi ellers de forskellige opland er en delt, hvilket man gør ved hjælp af højdekort og hele den her proces er egentlig en grundsten for modellen, Der er ret essentiel, fordi den den beskriver ligesom de de fysiske veje, som vandet kan bevæge sig i systemet, og så er de også med til at afgøre, hvor stor rummelig opløsning Vi har af Vores resultater.
 
 00:05:08
-Ja og det næste vigtige input. Vi vil vise jer til Vores model. Det er Vores klimadata, som Vi har hentet fra DHIS global hydrologisk model, og den omfatter blandt andet afstrømning, nedbør og fordobling, som vi kan se på de tre kort her forneden.
+Ja og det næste vigtige input. Vi vil vise jer til Vores model. Det er Vores klimadata, som Vi har hentet fra DHI's global hydrologisk model, og den omfatter blandt andet afstrømning, nedbør og fordobling, som vi kan se på de tre kort her forneden.
 
 00:05:26
-Og her kan i igen se den fordeling som Lucas snakkede om før mellem nord og syd atlas bjergene. Hvis i kigger her, kan i se, Der er meget vand tilgængeligt, hvor nede sydpå er der også slet ikke lige så meget.
+Og her kan i igen se den fordeling som Lukas snakkede om før mellem nord og syd atlas bjergene. Hvis i kigger her, kan i se, Der er meget vand tilgængeligt, hvor nede sydpå er der også slet ikke lige så meget.
 
 00:05:41
 Og nogle andre inputs Vi har. Det er de her faste producenter af vand til Vores system, og Det er afsætningsanlæg og grundvandsmagasiner.
@@ -248,22 +248,22 @@ Så Vi har haft lidt lidt samarbejde på tværs for ligesom at validere Vores mo
 Men jeres arbejde er også relevant i en dansk kontekst, altså hvor en så prøver at gå ind og beskrive det her oplandssystem og sætter økonomi på så 1000 tak 1000 tak til til Thomas og Lukas vi springer videre og ja nu skal vi ned i jorden og til en 2 problemstilling som jo så er er er p fas altså som vi jo over det seneste tid har set igen og igen og igen er.
 
 00:15:22
-Det har altid været et problem, men nu har det ligesom fået en eller 2 form for opmærksomhed eller andet og og så så derfor foregår der rigtig mange arbejder og studier lige nu i en til at forstå problemstillinger omkring p fast altså og og den kompleksitet Der er ens dag der så sagde Jeg vil give ordet til til edith og Theresa i forhold til jeres arbejde omkring ting p fast altså transport i jorden og Vores grundvandsressourcen.
+Det har altid været et problem, men nu har det ligesom fået en eller 2 form for opmærksomhed eller andet og og så så derfor foregår der rigtig mange arbejder og studier lige nu i en til at forstå problemstillinger omkring PFAS altså og og den kompleksitet Der er ens dag der så sagde Jeg vil give ordet til til edith og Theresa i forhold til jeres arbejde omkring ting PFAS altså transport i jorden og Vores grundvandsressourcen.
 
 00:15:46
 Mange tak.
 
 00:15:48
-Ja og Vores speciale Det var modelbaseret undersøgelser er vertikalt transport og fordeling af pfast i danske jorde. Hvad hedder therese? Og Det er edith og Vores vejleder er Claus småt og Annika fjordbølgen, og vi modellerer i programmet.
+Ja og Vores speciale Det var modelbaseret undersøgelser er vertikalt transport og fordeling af PFAS i danske jorde. Hvad hedder therese? Og Det er edith og Vores vejleder er Claus småt og Annika fjordbølgen, og vi modellerer i programmet.
 
 00:16:03
 Kom så.
 
 00:16:06
-Og ja jeg studerer ny teknologi på DTU sustyam. Jeg er studentermedhjælper i covid i afdelingen med nye ressourcer.
+Og ja jeg studerer ny teknologi på DTU Sustain. Jeg er studentermedhjælper i covid i afdelingen med nye ressourcer.
 
 00:16:14
-Så har jeg været foran engang en projektansat på DTU system, og så har jeg været på udveksling på Hawaii på sidknik University, og jeg bliver færdig i maj 2024.
+Så har jeg været foran engang en projektansat på DTU Sustain, og så har jeg været på udveksling på Hawaii på sidknik University, og jeg bliver færdig i maj 2024.
 
 00:16:24
 Jeg hedder edith mensted og jeg læser også miljøteknologi på det tidspunktsystem og er specialiseret i vand ressourcer og miljøkemi.
@@ -272,13 +272,13 @@ Jeg hedder edith mensted og jeg læser også miljøteknologi på det tidspunktsy
 Og Jeg har været på udveksling i Schweiz og er studentermedhjælper i samme afdelingskredse i lai, og jeg bliver færdig her til januar, når vi egentlig afleverer Vores speciale.
 
 00:16:43
-Og kort formålet Vores projekt. Det er selvfølgelig at opstille en vertikalt transportmodel for p fac i morgeneler moren sand og så undersøge effekten af udvalgte parametre på transporten og fordelingen af pfas. Og Det har vi gjort ved.
+Og kort formålet Vores projekt. Det er selvfølgelig at opstille en vertikalt transportmodel for PFAS i moræneler og morænesand og så undersøge effekten af udvalgte parametre på transporten og fordelingen af pfas. Og Det har vi gjort ved.
 
 00:16:56
 Vi har undersøgt litteraturen for vigtige parametre for peterstrorden og hvilke processer vi kunne bruge modellen. Vi har dykket den ned i og forstå hvad for nogle peters karakteristika, Der er indflydelse på transporten.
 
 00:17:10
-Derudover vil Vi er vi i gang med at innovere indflydelsen af subktionsprocesserne, og hvordan størrelsen på den umattede zone påvirker transporten. Og Vi er også i gang med at undersøge fordelingen af PFI jordprofiler fra forurenet grunde i Danmark og så evaluere modellens fedt.
+Derudover vil Vi er vi i gang med at innovere indflydelsen af subktionsprocesserne, og hvordan størrelsen på den umattede zone påvirker transporten. Og Vi er også i gang med at undersøge fordelingen af PFAS jordprofiler fra forurenet grunde i Danmark og så evaluere modellens fedt.
 
 00:17:30
 Ja, så Vi har opstillet en model og Der er vi udvalgt 3 pige fra stoffer p først p foa og PFPA mange af jer der kender den nok måske lidt til p fos og perfekt. Det er de Sådan de mest velkendte p passtoffer. Det er langkædet og.
@@ -296,13 +296,13 @@ Er den samme grund har vi også medtaget både.
 P først dobbelt med carboxylsyre og sulofonsyre, som man kan se ned på strukturerne hernede, fordi Det kan også godt den funktionelle gruppe kan også godt afgøre noget for transporten.
 
 00:18:22
-Og inputtet af Vores p pas er sat op som Sådan afspejler det historiske forbrug af fifa, og hvornår Det er blevet udfaset.
+Og inputtet af Vores p pas er sat op som Sådan afspejler det historiske forbrug af PFAS, og hvornår Det er blevet udfaset.
 
 00:18:36
 Så Vi har opsat den her transportmodel. Det er en 2 d vertikalt transportmodel, så Vi har kun vertikal flow. P klasserne kommer Sådan ind oppe i toppen med indfløstrationen og bliver så transporteret ned igennem jorden.
 
 00:18:52
-Det Der er meget specielt når man modellerer p fast Det er at p fasker kan lide at lægge sig mellem interfasen mellem luft og vand, og Det er fordi at den her floreret kæde den er meget hydrofob.
+Det Der er meget specielt når man modellerer PFAS Det er at p fasker kan lide at lægge sig mellem interfasen mellem luft og vand, og Det er fordi at den her floreret kæde den er meget hydrofob.
 
 00:19:04
 Og den funktionelle gruppe er ofte hydrofil og. Derfor er det ret vigtigt at modtage den umættet zone, når man modellerer peters transport. Det gør man tit ikke i pesticider eller andre forureningskilder, fordi at det ikke helt har den samme betydning med den her interface option.
@@ -326,13 +326,13 @@ Den første meter er enten muld eller prus, og så er de resten af den resterend
 Og vandspejlet står i 10 m, så Der er 5 meters umættet zone og så 10 meters Mette zone.
 
 00:20:36
-Og resultaterne for de generiske simuleringer. Dem har vi taget et udsnit af fra consol her her. Der bliver koncentrationerne i vandet plottet ned over dybden, og Det er så for henholdsvis perfora og PPEA, og Det er for et enkelt år, at vi her, Vi har taget et udsnit, og her er det meget tydeligt at se, at Der er en inputkoncentration for funktionen for beboere.
+Og resultaterne for de generiske simuleringer. Dem har vi taget et udsnit af fra COMSOL her her. Der bliver koncentrationerne i vandet plottet ned over dybden, og Det er så for henholdsvis perfora og PPEA, og Det er for et enkelt år, at vi her, Vi har taget et udsnit, og her er det meget tydeligt at se, at Der er en inputkoncentration for funktionen for beboere.
 
 00:21:04
 Som, hvor der ikke længere er en input koncentration, og derfor så ser vi et fald i koncentrationen i det øverste meter, hvor med PFPA som lidt senere blev udspaset. Der ser vi stadig maks koncentration i vandet over hele dybden.
 
 00:21:19
-Og da vi kørte den her simulering fra 1960-2040, så kan vi også plotte flere forskellige år. Koncentrationen i vandet her er det fra årene 19 60, 19, 80, 2020, 20 og 2040 som står helt ude til højre. Her kan man tydeligt se at PFPEA, som er en kortkædel p fast den transporterer sig på det første hurtigere, og Der er jo en langt mindre subktion af.
+Og da vi kørte den her simulering fra 1960-2040, så kan vi også plotte flere forskellige år. Koncentrationen i vandet her er det fra årene 19 60, 19, 80, 2020, 20 og 2040 som står helt ude til højre. Her kan man tydeligt se at PFPEA, som er en kortkædel PFAS den transporterer sig på det første hurtigere, og Der er jo en langt mindre subktion af.
 
 00:21:45
 I luftvand fasen eller til jord da?
@@ -350,7 +350,7 @@ Og man kan også se, at for den umættede zone, der falder den langt mere drasti
 Og så er vi bare udtaget nogle enkelte ekstra resultater fra Vores generiske simulationer. Vi har en vist en subportion i morgene ler og i muld, og der ser vi os bare meget fint. Hvordan epocen har enormt stor indflydelse på, at Der er en højere subtion, for her er det pefoa.
 
 00:22:49
-Op i mulden end i moren, fordi Der er højere indhold af frition of organik carbon og hvis vi kigger på luftforvandlingser fasen der her igen har vi afbilledet deffora og den subktion der foregår henover de forskellige år, og Der er en meget højere subtion i sand i luftvand interfasen end forurenela, og Det er fordi at vandindholdet i morgenelær langt højere og det giver en langt lavere luft vand.
+Op i mulden end i moren, fordi Der er højere indhold af frition of organik carbon og hvis vi kigger på luftforvandlingser fasen der her igen har vi afbilledet deffora og den subktion der foregår henover de forskellige år, og Der er en meget højere subtion i sand i luftvand interfasen end forurenela, og Det er fordi at vandindholdet i moræneler langt højere og det giver en langt lavere luft vand.
 
 00:23:16
 Subtion, interface-ception.
@@ -419,7 +419,7 @@ Så ja Det er lidt nogle usikkerheder.
 Som, vi arbejder med lige nu.
 
 00:26:59
-Den her model Vi har opstillet den anvendes blandt andet til at præcisere, hvilke nøgleparameter, Der er vigtige, når man vil modellere p fast.
+Den her model Vi har opstillet den anvendes blandt andet til at præcisere, hvilke nøgleparameter, Der er vigtige, når man vil modellere PFAS.
 
 00:27:11
 Hvilke parametre Der er vigtige at måle, når man er ude i felten og skal have en ide om en forurenet grund.
@@ -443,7 +443,7 @@ Det var hvad vi havde. I er meget velkomne til at kontakte os, og ellers vil vi 
 Ja 1000 tak er i nogen derude der har et spørgsmål eller en kommentar til.
 
 00:28:24
-En af de mange store problemstillinger vi vi står i dag, altså p fast og og udfordring omkring.
+En af de mange store problemstillinger vi vi står i dag, altså PFAS og og udfordring omkring.
 
 00:28:35
 Og indtil Der er nogen der Sådan tør sig mod til det, så kan jeg da bare lige spørge Sådan fordi Jeg har jo siddet i en sag og modelleret og modelleret med en masse antagelser og det Det er jo svært og kompliceret, men men men Det er jo en helt 2 verden end når man så går ud II virkeligheden og den store kompleksitet altså altså hvad var jeres første Sådan observation eller andet der fordi man kan jo godt se Der er en del af de observationer der ligger langt væk når jeres model.
@@ -482,7 +482,7 @@ Ja og og Det er jo en af dem jeg var censor for dig her i sommer altså der der 
 Godt jamen sammen med Carsten sagde så forsvarede jeg i sommers.
 
 00:31:12
-Mit navn Det er Frederik. Jeg havde christara fra den ene dal som vejleder fra DTU jeg havde Kristine colin som vejleder fra svego og ja Carsten som censor.
+Mit navn Det er Frederik. Jeg havde christara fra den ene dal som vejleder fra DTU jeg havde Kristine colin som vejleder fra Sweco og ja Carsten som censor.
 
 00:31:24
 Jeg vil hurtigt give en lille introduktion til, hvad det handler om. Selvfølgelig. Det handler om den her europæiske taksonomi for bæredygtighed.
@@ -491,10 +491,10 @@ Jeg vil hurtigt give en lille introduktion til, hvad det handler om. Selvfølgel
 S ene miljømål, der handler om tilpasning til klimaforandringer, og Det er så i relation til det byggede miljø, hvor jeg så prøvede at lave en metode til, hvordan man skulle gøre det her i overensstemmelse med det taksonens foreskrev.
 
 00:31:46
-Så Jeg vil hurtigt lige lave Sådan en indflyvning til taksonien, så vil jeg fortolke lidt på det her miljømål 2 som det hedder og så komme med nogen af resultaterne.
+Så Jeg vil hurtigt lige lave Sådan en indflyvning til taksonomien, så vil jeg fortolke lidt på det her miljømål 2 som det hedder og så komme med nogen af resultaterne.
 
 00:31:55
-Så EU taksonien. Det er det det hele handler om EU, taksonien. Det er et certificeringssystem i forhold til investeringer, som er e us svar på modsvar på Green washing, hvor de prøver at sikre, at man laver investeringer, der rent faktisk er grønne.
+Så EU taksonomien. Det er det det hele handler om EU, taksonomien. Det er et certificeringssystem i forhold til investeringer, som er EU's svar på modsvar på Green washing, hvor de prøver at sikre, at man laver investeringer, der rent faktisk er grønne.
 
 00:32:14
 Det foregår på virksomhedsniveau og ikke på produktniveau, som man egentlig er vant til normalt altså man har grønne produkter.
@@ -509,10 +509,10 @@ Helt overordnet, så handler det om.
 Ens omsætning ens investeringer og ens udgifter. Det vil i så over til Venstre, der hedder capex opecs og omsætning. Det er nemlig noget man fremadrettet skal implementere i sine årsrapport.
 
 00:32:44
-EU taksonomien den er egentlig bygget op meget simpelt EU taksonien. Den stiller krav til at man skal yde et væsentligt bidrag til en ud af 6 miljømål. Derudover skal du gøre ingen væsentlig skade på de resterende 5 miljømål, og samtidig skal man overholde nogle minimumsgarantier for.
+EU taksonomien den er egentlig bygget op meget simpelt EU taksonomien. Den stiller krav til at man skal yde et væsentligt bidrag til en ud af 6 miljømål. Derudover skal du gøre ingen væsentlig skade på de resterende 5 miljømål, og samtidig skal man overholde nogle minimumsgarantier for.
 
 00:33:02
-Sociale minimumskrav i forhold til FN og OEC ds guidelines.
+Sociale minimumskrav i forhold til FN og OECD's guidelines.
 
 00:33:08
 De 6 miljømål som Jeg har omtalt Det er de her 6. Det er modvirkning af klimaforandringer.
@@ -545,7 +545,7 @@ Hvorfor er det relevant? Man kan sige Det er relevant, fordi lige nu Der er det 
 Derudover har det også noget at gøre med den her ESRS, hvis man har hørt om det. Der er 8 datapunkter i den som nævner noget om vurderingen af klimarisicii i forhold til ens aktiver man har i sin virksomhed.
 
 00:34:41
-Helt overordnet, så handler det om den her bæredygtighedsrapport, man gerne vil præsentere. Det er CSRDESAS, der handler om bæredygtig finans og rapportering som sammenspiller over med taksoniforordningen, der definerer hvornår noget er bæredygtigt.
+Helt overordnet, så handler det om den her bæredygtighedsrapport, man gerne vil præsentere. Det er CSRD, der handler om bæredygtig finans og rapportering som sammenspiller over med taksoniforordningen, der definerer hvornår noget er bæredygtigt.
 
 00:34:57
 Det kan vi. Det kan man læse op på selv. Det er ved at gå mere i dybden med.
@@ -611,7 +611,7 @@ Det er i virkeligheden for, at andre kan reproducere dem, og at man kan anvende 
 Og Det har noget at gøre med at.
 
 00:38:53
-EU taxonomen nok ikke vil blive anvendt, hvis det økonomisk set ikke giver mening for en investor at at gøre det her.
+EU taksonomien nok ikke vil blive anvendt, hvis det økonomisk set ikke giver mening for en investor at at gøre det her.
 
 00:39:01
 Så.
@@ -656,7 +656,7 @@ Når du så har den, så kan du så begynde at implementere ekstra tilpasningsl�
 Eksempel på hvordan man kan beregne skaden af en klimarisiko. Det er for eksempel kyst oversvømmelser.
 
 00:40:30
-Der bruger vi det gratis værktøj kamp, som man kan bruge til at visualisere oversvømmelser i Danmark, så bruger vi DM is gratis hverdag for fremskrivninger, og vi kan se, at en 100 års stormflodshændelse den var 181 cm i perioden 1980-2010 og i slutningen af det her århundrede. Der kommer den nok op omkring 230 cm.
+Der bruger vi det gratis værktøj kamp, som man kan bruge til at visualisere oversvømmelser i Danmark, så bruger vi DMI's gratis hverdag for fremskrivninger, og vi kan se, at en 100 års stormflodshændelse den var 181 cm i perioden 1980-2010 og i slutningen af det her århundrede. Der kommer den nok op omkring 230 cm.
 
 00:40:59
 Så Det er nogle væsentlige forandringer, vi ser ind i.
@@ -680,7 +680,7 @@ Og Vi har også også nogle generiske skadesfunktioner.
 Nå ja som sagt. Det gøres for alle de her klimarisi.
 
 00:41:43
-Det ender ud i en ejendomsrapport kan man sige. Nu står der svedgaard over det hele. Men Det er jo som sagt, fordi jeg arbejder hos svingo nu.
+Det ender ud i en ejendomsrapport kan man sige. Nu står der Sweco over det hele. Men Det er jo som sagt, fordi jeg arbejder hos Sweco nu.
 
 00:41:52
 Hvor vi laver en one pager fra ejendommen, laver fremskrivninger henover tid og laver en fordeling af, hvor stor hver risiko betyder for ejendommen.
@@ -716,7 +716,7 @@ I især i investeringsbranchen kan man sige.
 Og derudover så laver vi Sådan en, hvad kan vi gøre ved problemerne? En cast benefanal analyse.
 
 00:43:43
-De her svar på de her spørgsmål er rigtig vigtige for rigtig mange egne virksomheder, fordi som sagt det det spiller ind i det her CSRDESG rapportering. Det giver nogle kvantificerbare SG indikatorer, der siger noget om hvor godt man gør det og hvor man gerne vil hen i fremtiden. Og så kan du sammenligne dig med dig selv fra året før.
+De her svar på de her spørgsmål er rigtig vigtige for rigtig mange egne virksomheder, fordi som sagt det det spiller ind i det her CSRD rapportering. Det giver nogle kvantificerbare SG indikatorer, der siger noget om hvor godt man gør det og hvor man gerne vil hen i fremtiden. Og så kan du sammenligne dig med dig selv fra året før.
 
 00:44:03
 Det er vigtigt, fordi taksonomien her stiller krav til det og stiller krav til rigtig mange aktiviteter, at man skal lave den her klimatilpasning strategi.
@@ -746,7 +746,7 @@ Og det, der ligesom har været den helt store begrænsning for mig.
 Det sidste minut, du har nu.
 
 00:45:01
-Det er super den store begrænsning. Det er at taxonin stiller krav til økonomisk risiko.
+Det er super den store begrænsning. Det er at taksonomien stiller krav til økonomisk risiko.
 
 00:45:08
 E us tekniske guidens dens stiller krav til både eller siger, at man kan gøre det både økonomisk og socialt. Men Det er ligesom om, at der bliver glemt den her natur eller de økologiske processer i det her. Altså man kunne godt.
@@ -821,7 +821,7 @@ Og hvis du ikke har det altså, så er det noget rigtig rigtig rigtig rod at hav
 Uden at have lidt hjælp.
 
 00:48:52
-Tak Frederik tiden er gået, så Jeg vil bare hurtig rappe op altså det her. Det var 1-1 premieren på at det danske Universitet og vidensinstitutioner har en mulighed, en platform under DNK, altså for en til at præsentere nogle af de mange spændende arbejdere og projekter, der blev lavet. Altså Vi har været omkring klimarisiko og sårbarhed IEU taxamien.
+Tak Frederik tiden er gået, så Jeg vil bare hurtig rappe op altså det her. Det var 1-1 premieren på at det danske Universitet og vidensinstitutioner har en mulighed, en platform under DNK, altså for en til at præsentere nogle af de mange spændende arbejdere og projekter, der blev lavet. Altså Vi har været omkring klimarisiko og sårbarhed IEU taksonomien.
 
 00:49:14
 Vi har været nede i jorden i forhold til p facerne og deres transport i forhold til grundvandsressourcen. Vi har været omkring sne, som jo er en del af vandets.

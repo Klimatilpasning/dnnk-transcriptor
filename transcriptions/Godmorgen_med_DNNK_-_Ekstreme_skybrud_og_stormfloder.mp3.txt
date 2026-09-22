@@ -2,10 +2,10 @@
 Ja, godmorgen til alle derude.
 
 00:00:08
-Velkommen til DNRNK's godmorgen med DNRNK.
+Velkommen til DNNK's godmorgen med DNNK.
 
 00:00:12
-Vi har i dag inviteret Charlotte Sinkbæk-Skov fra Envik Dagen ind i vores virtuelle studie her, og Charlotte hun prøver at sætte fokus på de ekstreme skybruder, de ekstreme stormfloder, som forekommer sjældnere end hvert 100 år.
+Vi har i dag inviteret Charlotte Sinkbæk-Skov fra EnviDan ind i vores virtuelle studie her, og Charlotte hun prøver at sætte fokus på de ekstreme skybruder, de ekstreme stormfloder, som forekommer sjældnere end hvert 100 år.
 
 00:00:26
 Og det er jo fordi, at dem skal vi jo lære af i fremtiden, hvor vi får dem.
@@ -23,7 +23,7 @@ Så vil jeg egentlig bare igen sige godmorgen og give ord til Charlotte.
 Vær så god, Charlotte.
 
 00:00:54
-Tusind tak, Stasm.
+Tusind tak, Steffen.
 
 00:00:56
 Og til jer, der sidder derude og måske sidder og griner lidt af den her forside, så er det jo en rigtig ingeniørforside.
@@ -56,7 +56,7 @@ Så det er rigtig vigtigt at lære af det.
 Lige en meget kort præsentation af mig selv.
 
 00:01:49
-Så kommer jeg, som sagt, fra Invidan.
+Så kommer jeg, som sagt, fra EnviDan.
 
 00:01:52
 hvor jeg sidder som magtschef.
@@ -95,7 +95,7 @@ Jeg skulle gå ned til den her gangtunnel, og gå under der, og så gå hjem til
 Det var en meget fin og sikker skolevej ind til den dag, hvor der kom et kæmpe skybrud.
 
 00:04:20
-Jeg ved ikke, hvor meget det har regnet dengang i Fredensborg, men da jeg kom ned til den der gangtunnel, som lå under Benediktevej, I kan se den her i Skalbro.
+Jeg ved ikke, hvor meget det har regnet dengang i Fredensborg, men da jeg kom ned til den der gangtunnel, som lå under Benediktevej, I kan se den her i Scalgo.
 
 00:04:31
 Det er det her, der er markeret med blåt her.
@@ -134,7 +134,7 @@ Men det, vi skal gøre, er at sikre, at hvis der kommer en monsterregn over Fred
 Det kunne være en løsning.
 
 00:06:01
-Hvis vi lige kigger på den her gangtunnel, og nu er det bare sådan en helt standard skalgo med vandopland, og hvor meget vand står der, så hvis der løber 10 mm vand på terræn, som ikke kan løbe i kloakken, og som ikke kan nedsive, og som ikke kan fordampe, vi er altså over kloakkens service niveau, så kan der faktisk stå omkring 70 cm vand nede i den her gangtunnel.
+Hvis vi lige kigger på den her gangtunnel, og nu er det bare sådan en helt standard Scalgo med vandopland, og hvor meget vand står der, så hvis der løber 10 mm vand på terræn, som ikke kan løbe i kloakken, og som ikke kan nedsive, og som ikke kan fordampe, vi er altså over kloakkens service niveau, så kan der faktisk stå omkring 70 cm vand nede i den her gangtunnel.
 
 00:06:26
 Vi kan kun konkludere, at jeg ikke kan huske, hvor høj jeg var som sygeårig, men jeg tænker ikke, at jeg har været 1,33 m høj.
@@ -242,7 +242,7 @@ Og vi ved jo også alle sammen, at hvert nyt år, det giver os endnu flere.
 Så det her med nogle mere høre, der er faldet 100 millimeter, Det er sådan set ikke noget, vi bliver helt så overrasket over mere.
 
 00:10:37
-Hvis vi kigger på nogle af de større, der har været, så er der Halsø Skibrådet syd for Viborg tilbage i 1948, hvor man estimerede, at der faldt 200-225 mm på to tiber.
+Hvis vi kigger på nogle af de større, der har været, så er der Hald Sø Skibrådet syd for Viborg tilbage i 1948, hvor man estimerede, at der faldt 200-225 mm på to tiber.
 
 00:10:53
 Da Gråsten, der i august 2007 blev ramt af 156 mm på halvanden time, og 111 mm på 30 minutter.
@@ -251,7 +251,7 @@ Da Gråsten, der i august 2007 blev ramt af 156 mm på halvanden time, og 111 mm
 Det har godt nok været hæftigt.
 
 00:11:05
-Så er der Sønderfælling, Kibek, der også blev ramt af noget ret hæftig intensitet i løbet af 24 timer, og med de her 53 mm på 30 minutter.
+Så er der Sønderfælling, Kibæk, der også blev ramt af noget ret hæftig intensitet i løbet af 24 timer, og med de her 53 mm på 30 minutter.
 
 00:11:18
 Det er sådan et skybrud, man også kan finde mange andre eksempler på i den størrelsesorden efterhånden.
@@ -260,7 +260,7 @@ Det er sådan et skybrud, man også kan finde mange andre eksempler på i den st
 Kerteminde blev i 2021 ramt af 169 mm på mindre end 24 timer.
 
 00:11:33
-Vi har et historisk skybrud fra Åbenråd i 1931, der minder en del om det, med 189 mm på 36 timer.
+Vi har et historisk skybrud fra Åbenrå i 1931, der minder en del om det, med 189 mm på 36 timer.
 
 00:11:43
 Det gik også galt.
@@ -269,7 +269,7 @@ Det gik også galt.
 Og så kender vi vist alle sammen skybruddet i København i 2011, hvor især i blandt andet Ishøj og Botanisk Have, blev målt ret store nedbørsmængder.
 
 00:11:59
-Hvis vi lige kigger på det data, vi normalt kigger på, så har vi jo de her regneark fra Spillemandskomitéen, hvor man kan gå ind og indtaste en gentagelsesperiode af en regn, man kan indtaste en varighed, og så kan man indtaste en sikkerhedsfaktor, typisk en klimafaktor.
+Hvis vi lige kigger på det data, vi normalt kigger på, så har vi jo de her regneark fra Spildevandskomitéen, hvor man kan gå ind og indtaste en gentagelsesperiode af en regn, man kan indtaste en varighed, og så kan man indtaste en sikkerhedsfaktor, typisk en klimafaktor.
 
 00:12:21
 Og hvis vi nu bare kigger på det uden, klimafaktor, som sådan, man kan sige, præsenterer dens historiske situation, så er der her nogle nedbørshændelser med en varighed på 12 timer og forskellige gentagelsesperioder, der viser, hvis man taster ind i sådan et degængselsværktøj, hvor meget af det så det viser, det regner.
@@ -290,7 +290,7 @@ Det kan jo så være meget sjovt at holde de her historiske nedbørshændelser o
 Taster dem ind i de her normale værktøjer, altså spillevariantskvalitetsregner, og se om vi overhovedet kan ramme det, eller hvad det er for en gentagelsesperiode, vi skal op på, for at kunne finde sådan en hændelse her.
 
 00:13:27
-Og hvis vi kigger på Haldsø Skybruget i 1948, og prøver at sige en varighed på to timer, hvis vi tager en gentagelsesperiode på 100 år, så giver det 48 mm.
+Og hvis vi kigger på Hald Sø Skybruget i 1948, og prøver at sige en varighed på to timer, hvis vi tager en gentagelsesperiode på 100 år, så giver det 48 mm.
 
 00:13:42
 Det er ret langt fra en gentagelsesperiode på 250 år.
@@ -332,16 +332,16 @@ Hvis vi så kigger på områdeskybruddet som sådan en nedbørshændelse, der ha
 Så det er jo super interessant det her med, at uden klimafaktor, der er faktisk flere, rigtig mange af de hændelser, vi har oplevet i dag, som vi ikke rammer ved de høje hændelser.
 
 00:15:26
-Så har jeg prøvet samme øvelse, hvor jeg så har sat klimafaktor ind, og jeg har anvendt klimafaktoren fra skrift 30 Spilevandskomitéen, hvor jeg både har kørt med en klimafaktor på 1,4, som er den her standard klimafaktor, og så den høje klimafaktor på 2, som er den klimafaktor, der svarede det her udledningsscenarie RCP 8,5, som er det, vi kan se, vi nogenlunde følger i dag, og som er repræsentativ for de klimaforandringer, vi ser i dag.
+Så har jeg prøvet samme øvelse, hvor jeg så har sat klimafaktor ind, og jeg har anvendt klimafaktoren fra skrift 30 Spildevandskomitéen, hvor jeg både har kørt med en klimafaktor på 1,4, som er den her standard klimafaktor, og så den høje klimafaktor på 2, som er den klimafaktor, der svarede det her udledningsscenarie RCP 8,5, som er det, vi kan se, vi nogenlunde følger i dag, og som er repræsentativ for de klimaforandringer, vi ser i dag.
 
 00:16:06
-Hvis vi så kan se dem her, for eksempel, de står her, hvis vi tager halv sø, skybrudet, jamen så står der for en 100 årshens 48 mm, det er uden klimafaktor, 67 mm, det er så med den her standard klimafaktor på 1,4, og så er der de 96 mm, der er med klimafaktoren på 2.
+Hvis vi så kan se dem her, for eksempel, de står her, hvis vi tager Hald Sø, skybrudet, jamen så står der for en 100 årshens 48 mm, det er uden klimafaktor, 67 mm, det er så med den her standard klimafaktor på 1,4, og så er der de 96 mm, der er med klimafaktoren på 2.
 
 00:16:31
 Og der er det jo igen interessant at se, at selvom vi sætter den høje klimafaktor på, som skal repræsentere, hvordan sådan en hændelse vil se ud om 100 år med det klimascenarie, vi ser ud til at følge nogenlunde, at så kommer vi faktisk heller ikke op og rammer sådan en hændelse.
 
 00:16:55
-Så hvis man satte sig og sagde, nu vil jeg modellere noget helt vildt, nu tager jeg en tusindårs hændelse, over halvsø området om 100 år, så var den stadig lavere end det, der er hent.
+Så hvis man satte sig og sagde, nu vil jeg modellere noget helt vildt, nu tager jeg en tusindårs hændelse, over Hald Sø området om 100 år, så var den stadig lavere end det, der er hent.
 
 00:17:06
 Det samme er konklusionen.
@@ -401,10 +401,10 @@ fordi der ligger forskellige opgørelser over historiske stormfloder.
 Der ligger den her rapport tilbage fra 1991, som simpelthen har oplæstet alt, hvad man ved om historiske stormfloder.
 
 00:19:31
-Og Køstdirektoratet har også det, der hedder BILA, der også har en oversigt over historiske stormfloder.
+Og Kystdirektoratet har også det, der hedder BILA, der også har en oversigt over historiske stormfloder.
 
 00:19:37
-Og det er super relevant, når man skal planlægge køstsikring, simpelthen at gå ind i de her to rapporter og forholde sig til, hvis jeg skal planlægge køstsikring i Haderslev, hvad er der af viden her om, hvad der tidligere har ramt Haderslev eller Friksund eller hvor man nu er henne i verden.
+Og det er super relevant, når man skal planlægge kystsikring, simpelthen at gå ind i de her to rapporter og forholde sig til, hvis jeg skal planlægge kystsikring i Haderslev, hvad er der af viden her om, hvad der tidligere har ramt Haderslev eller Friksund eller hvor man nu er henne i verden.
 
 00:20:00
 Når man så kigger i de her rapporter, så kan man finde en god blanding af hændelser, Der er også nogle af dem, der står, at det er usikkert, om de har været der.
@@ -449,7 +449,7 @@ For eksempel kan man finde historien om Handelsbyen Brønnehøje på Møen, der 
 Hvis vi kigger på stormfloden i oktober 2023, en stormflod, der ligesom ramte de østlige kyster i det sydlige Danmark, skal det nok hedde, så er det meget interessant at se på, hvor slem er den egentlig?
 
 00:22:09
-Og nu er der lige kommet helt nye højvandsstatistikker fra Køstdirektoratet, og at dem, Hvis vi nu f.eks.
+Og nu er der lige kommet helt nye højvandsstatistikker fra Kystdirektoratet, og at dem, Hvis vi nu f.eks.
 
 00:22:18
 kigger på Åben Rå, så kan man se, at en 100-års hændelse skulle have en vandstand på 1,97, og en 200-års hændelse skulle have en vandstand på 2,08.
@@ -566,10 +566,10 @@ Man ved aldrig, hvad der 100 % rammer, men holder fokus på, at det, vi gerne vi
 Hvor er det, der er de helt store?
 
 00:27:25
-Lige for at komme med et eksempel på det, hvis vi kigger på den her store skybrud, der ramte ved Haldsø tilbage i 1948.
+Lige for at komme med et eksempel på det, hvis vi kigger på den her store skybrud, der ramte ved Hald Sø tilbage i 1948.
 
 00:27:39
-Osmid siger, at når vi tror, at der er der blev nedsivet og fordampet omkring 50 mm, der faldt 150 mm, og smider det ind i skalgo på en glasplademodel, så ser det ret fredeligt ud.
+Osmid siger, at når vi tror, at der er der blev nedsivet og fordampet omkring 50 mm, der faldt 150 mm, og smider det ind i Scalgo på en glasplademodel, så ser det ret fredeligt ud.
 
 00:27:57
 Her der lå en kro, der simpelthen blev skyllet væk, der var simpelthen en strømningsvej, der løb igennem den, så den endte nede i søen, halvdelen af kroen, og så stod der noget kro tilbage på hver side.
@@ -578,7 +578,7 @@ Her der lå en kro, der simpelthen blev skyllet væk, der var simpelthen en str�
 Det ser rigtig, rigtig fredeligt ud, og man tænker, det kan da bare ske igen.
 
 00:28:13
-Hvis man så går ind og bruger hydrodynamiske beregninger med 2FLOW i Skalbo, så ser det straks anderledes ud.
+Hvis man så går ind og bruger hydrodynamiske beregninger med 2FLOW i Scalgo, så ser det straks anderledes ud.
 
 00:28:23
 Så får man nogle større strømningsveje, og hvis man kigger nede ved groen her, så kan man også se, at der er mere vand omkring den.
@@ -590,7 +590,7 @@ Det samme gælder også, hvis vi kigger på de her områder, der bliver oversvø
 Så det er for at sige, det er let at trykke på en knap og beregne, men man skal lige gøre sådan nogle overvejelser omkring, hvad det er, man egentlig regner på, og om det matcher den virkelighed, der var.
 
 00:29:16
-Hvis vi prøver at tage det her Halt-Sø-Skybrode og lade det ramme lidt mere mod nord ind over Viborg, så er det jo meget interessant at se, hvad der sker der, og hvad der bliver oversvømmet.
+Hvis vi prøver at tage det her Hald Sø-skybruddet og lade det ramme lidt mere mod nord ind over Viborg, så er det jo meget interessant at se, hvad der sker der, og hvad der bliver oversvømmet.
 
 00:29:29
 De her orange-brunlige nuancer, det er fluxen.
@@ -728,7 +728,7 @@ Så i forhold til at arbejde med det her, der kan det være fornuftigt at lave e
 Man kan bruge fremadrettet i forhold til planlægning, så man ikke nødvendigvis skal gå ud og at redde hele verden nu og her, men at hver gang, man har et eller andet planlægningsprojekt i kommunen, det kan være, der er en vej, der skal omlægges, det kan være, der skal laves, give en ny byggetilladelse til et sted kystnært eller langs en strømningsvej, at man kan forholde sig til, selvom man ikke er ekspert i klimasætoplastning, man sidder i en helt anden afdeling, om der er noget, man skal være opmærksom på her.
 
 00:36:23
-Og der i Invedan, der har vi været med til at udvikle konceptet InnoVand, som jeg tænker, at af nogle af de her koncepter, der er i det, der var nok flere af jer, der hørte det oplæg i juni, som min kollega Thorbjørn havde omkring det.
+Og der i EnviDan, der har vi været med til at udvikle konceptet InnoVand, som jeg tænker, at af nogle af de her koncepter, der er i det, der var nok flere af jer, der hørte det oplæg i juni, som min kollega Thorbjørn havde omkring det.
 
 00:36:40
 Men det her med at få kortlagt byen, i problemområder.
@@ -797,7 +797,7 @@ Så når vi kigger på de her monsterhændelser, så skal vi selvfølgelig være
 At monsterhændelserne, hvis vi ligesom skal bruge dem, så ændrer de sig også.
 
 00:39:25
-Hvis vi for eksempel tager stormfloden i 1872 og fremskriver, så kan vi se, at de der 335, der for eksempel var i Åbenbro, dengang hedder jo meget snart lige pludselig 390 og 405, og så skal vi nok lade være med at kigge længere frem, men det samme gælder jo også i forhold til nedbørshandelserne, at det også ændrer sig helt vildt.
+Hvis vi for eksempel tager stormfloden i 1872 og fremskriver, så kan vi se, at de der 335, der for eksempel var i Åbenrå, dengang hedder jo meget snart lige pludselig 390 og 405, og så skal vi nok lade være med at kigge længere frem, men det samme gælder jo også i forhold til nedbørshandelserne, at det også ændrer sig helt vildt.
 
 00:39:57
 I forhold til vores tilgang til det, er det lidt forskelligt med skybrød og stormfloder, fordi stormfloderne kender vi som udgangspunkt til i god tid.
@@ -842,7 +842,7 @@ Jeg har sådan en lille ønskeseddel i forhold til at arbejde på det her, fordi
 Der er nogle opløsninger, nogle data, man mangler, hvor man kan sige, jamen der er jo rigtig mange data, vi har fået efterhånden, vi kan arbejde med, vi ikke kunne arbejde med for 10 år siden.
 
 00:41:56
-Det kunne være fedt med en opdateret oversigt over historiske stormfloder, med nyere stormfloder, også selvfølgelig i en digital form, så man ikke skal ned og sidde og lede i et eller andet dokument, men man kan trykke på, jeg vil gerne vide, hvad der er relevant for Frederik Sund eller et eller andet, Det samme med nedbørshændelser.
+Det kunne være fedt med en opdateret oversigt over historiske stormfloder, med nyere stormfloder, også selvfølgelig i en digital form, så man ikke skal ned og sidde og lede i et eller andet dokument, men man kan trykke på, jeg vil gerne vide, hvad der er relevant for Frederikssund eller et eller andet, Det samme med nedbørshændelser.
 
 00:42:18
 Jeg tror, man kunne lave en helt POD om at få fundet de her nedbørshændelser frem.
@@ -1181,7 +1181,7 @@ Ja, for mig at se, er det en forholdsvis overskuelig om opgave.
 Det jeg ville anbefale, det var, at man startede med at udvælge, hvad er det for nogle historiske hænde, som man vil se på, om det er stormflod eller skybrud.
 
 00:55:26
-Hvis det er stormflod, så kommer man ret langt med at sætte den her vandstand på Eskalgo, som jo ikke tager lang tid.
+Hvis det er stormflod, så kommer man ret langt med at sætte den her vandstand på Scalgo, som jo ikke tager lang tid.
 
 00:55:35
 Se på, hvad der bliver oversvømmet.
@@ -1193,7 +1193,7 @@ få lavet nogle GIS-øvelser i forhold til, hvad det er for nogle dybder, og så
 Så vil jeg anbefale, når man ligesom har fået lavet det her analysarbejde, at man får lavet en workshop, hvor man snakker om de her risici, og få kortlagt, hvad kan vi acceptere, og hvad kan vi ikke acceptere.
 
 00:56:07
-Og så har man ligesom første step, som er sin viden, som jeg tænker sådan, trods alt, altså hvis det er skybrud, så vil jeg lave de her 2FLOW-beregninger i Skalco, som jeg også vil sige er en forholdsvis overskuelig opgave.
+Og så har man ligesom første step, som er sin viden, som jeg tænker sådan, trods alt, altså hvis det er skybrud, så vil jeg lave de her 2FLOW-beregninger i Scalgo, som jeg også vil sige er en forholdsvis overskuelig opgave.
 
 00:56:23
 Og så vil jeg sige, at step 1 i sådan en pakke, det ville være at få lavet den her analyse, få fundet ud af, Hvad er det, der er særligt kritisk?
@@ -1262,7 +1262,7 @@ Det kommer der en TikTok om.
 Jeg mener, invitationen er sendt ud til jer, så det er bare at melde sig til.
 
 00:58:38
-Der er nævnt højgrænsstatistikker, og det kommer der også et godmorgen med DNNK om i september måned med akustiaktualet.
+Der er nævnt højvandsstatistikker, og det kommer der også et godmorgen med DNNK om i september måned med akustiaktualet.
 
 00:58:46
 Så ellers vil jeg bare sige tak for nu.

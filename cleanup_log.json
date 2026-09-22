@@ -3639,14 +3639,178 @@
   "transcriptions\\Tech_Talk_-_CO2_fra_forsyningsselskabets_anl_gsprojekter.txt": {
     "anvendt": [
       {
-        "forkert": "tiktok",
-        "rettet": "Tech Talk",
-        "antal": 2
+        "forkert": "DNDK",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "tik tok",
+        "forkert": "danni k",
+        "rettet": "DNNK",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "dan n ks",
+        "rettet": "DNNKs",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "NN ks",
+        "rettet": "DNNKs",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "dianal k",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "gerning k",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "video University College",
+        "rettet": "VIA University College",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "thais",
+        "rettet": "theis",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "scannerborg",
+        "rettet": "Skanderborg",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "scanner word",
+        "rettet": "Skanderborg",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "standborg",
+        "rettet": "Skanderborg",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "skub 3",
+        "rettet": "Scope 3",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "skubbe 3",
+        "rettet": "Scope 3",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "skubbe 2",
+        "rettet": "Scope 2",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "skubbe et og 2",
+        "rettet": "Scope 1 og 2",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "scoreb et eller 2",
+        "rettet": "Scope 1 eller 2",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "score et og 2",
+        "rettet": "Scope 1 og 2",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "bog 3",
+        "rettet": "Scope 3",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "små 3",
+        "rettet": "Scope 3",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "APD er",
+        "rettet": "EPD'er",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "PD er",
+        "rettet": "EPD'er",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "EDP 15 8 0 4",
+        "rettet": "EN 15804",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "infral CA",
+        "rettet": "InfraLCA",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "indefra LCA",
+        "rettet": "InfraLCA",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "VSP",
+        "rettet": "WSP",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "IE us kvotehalsystem",
+        "rettet": "EU's kvotehandelssystem",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tektuppen",
+        "rettet": "Tech Talken",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "sektuppen",
+        "rettet": "Tech Talken",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tekt-tag",
         "rettet": "Tech Talk",
-        "antal": 1
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -5287,208 +5451,112 @@
   "transcriptions\\Godmorgen_med_DNNK__Karens_Minde_Aksen.mp3.txt": {
     "anvendt": [
       {
-        "forkert": "Klimaselvfærdsning",
-        "rettet": "Klimatilpasning",
+        "forkert": "Cornelius Pahls",
+        "rettet": "Kornelius Pagels",
         "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "Carnets mindeaksel",
-        "rettet": "Karens Minde Aksen",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "Karns Minarksen",
-        "rettet": "Karens Minde Aksen",
+        "forkert": "HFO",
+        "rettet": "HOFOR",
         "antal": 2,
-        "grund": "Fable-fund + domæne-review (Opus)"
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "Karins Minderaksen",
-        "rettet": "Karens Minde Aksen",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "Karins Mineaksen",
-        "rettet": "Karens Minde Aksen",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "Kærns Minderaksen",
-        "rettet": "Karens Minde Aksen",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "Kærns Mineaksen",
-        "rettet": "Karens Minde Aksen",
-        "antal": 2,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "Kærns Mineaktie",
-        "rettet": "Karens Minde Aksen",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "Kærns Miljøaktie",
-        "rettet": "Karens Minde Aksen",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "Kærnsmindeaksen",
-        "rettet": "Karens Minde Aksen",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "karnsminneaksen",
-        "rettet": "Karens Minde Aksen",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "Kærns Minde",
-        "rettet": "Karens Minde",
-        "antal": 2,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "Karns Minde",
-        "rettet": "Karens Minde",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "Karns Minne",
-        "rettet": "Karens Minde",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "karnsminne",
-        "rettet": "Karens Minde",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "kantsminde",
-        "rettet": "Karens Minde",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "Kærnsminde",
-        "rettet": "Karens Minde",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "Karins Mænding Kulturhus",
-        "rettet": "Karens Minde Kulturhus",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "Karsminde Kulturhus",
-        "rettet": "Karens Minde Kulturhus",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "Hufvore",
+        "forkert": "HU4",
         "rettet": "HOFOR",
         "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "Hufvård",
-        "rettet": "HOFOR",
+        "forkert": "Sjøenærer",
+        "rettet": "SLA",
         "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "Håform",
-        "rettet": "HOFOR",
+        "forkert": "Sjøen",
+        "rettet": "SLA",
         "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "Rufor",
-        "rettet": "HOFOR",
+        "forkert": "VSP",
+        "rettet": "WSP",
         "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "ROFORS",
-        "rettet": "HOFORs",
+        "forkert": "Chaleur station",
+        "rettet": "Sjælør Station",
         "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "mange fra UFO",
-        "rettet": "mange fra HOFOR",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "tax-finansieret",
-        "rettet": "takstfinansieret",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "medfinitering",
-        "rettet": "medfinansiering",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "spillevandplanen",
-        "rettet": "spildevandsplanen",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "Spilvernsplanen",
-        "rettet": "Spildevandsplanen",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "Sjøløre Boulevard",
-        "rettet": "Sjælør Boulevard",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "Chaleur Boulevard",
-        "rettet": "Sjælør Boulevard",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "skybrugsplanen",
-        "rettet": "skybrudsplanen",
+        "forkert": "chaleurplanen",
+        "rettet": "Sjælørplanen",
         "antal": 2,
-        "grund": "Fable-fund + domæne-review (Opus)"
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "bybrugsplan",
-        "rettet": "skybrudsplan",
+        "forkert": "enerigslæng",
+        "rettet": "Rigslængen",
         "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "LTA-beregninger",
-        "rettet": "LCA-beregninger",
+        "forkert": "karnes minderaksen",
+        "rettet": "Karens Minde Aksen",
         "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Kærns Mindeaksen",
+        "rettet": "Karens Minde Aksen",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Hans Mineaksene",
+        "rettet": "Karens Minde Aksen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Kærnes Miniatur",
+        "rettet": "Karens Minde Aksen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "hans mindeakse",
+        "rettet": "Karens Minde Aksen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Karnesminde",
+        "rettet": "Karens Minde",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "hans mindre aksel",
+        "rettet": "Karens Minde Aksen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Kalvebroderne",
+        "rettet": "Kalveboderne",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Berlinske Tidene",
+        "rettet": "Berlingske Tidende",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -19894,6 +19962,435 @@
       {
         "forkert": "julekalender",
         "rettet": "lufthavnen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Godmorgen_med_DNNK_-_Ekstreme_skybrud_og_stormfloder.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "DNRNK",
+        "rettet": "DNNK",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Envik Dagen",
+        "rettet": "EnviDan",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Invidan",
+        "rettet": "EnviDan",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Invedan",
+        "rettet": "EnviDan",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Stasm",
+        "rettet": "Steffen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Køstdirektoratet",
+        "rettet": "Kystdirektoratet",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "køstsikring",
+        "rettet": "kystsikring",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "højgrænsstatistikker",
+        "rettet": "højvandsstatistikker",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Skalbro",
+        "rettet": "Scalgo",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "skalgo",
+        "rettet": "Scalgo",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Skalbo",
+        "rettet": "Scalgo",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Eskalgo",
+        "rettet": "Scalgo",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Skalco",
+        "rettet": "Scalgo",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Spillemandskomitéen",
+        "rettet": "Spildevandskomitéen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Spilevandskomitéen",
+        "rettet": "Spildevandskomitéen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Halsø",
+        "rettet": "Hald Sø",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Haldsø",
+        "rettet": "Hald Sø",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "halv sø",
+        "rettet": "Hald Sø",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "halvsø",
+        "rettet": "Hald Sø",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Halt-Sø-Skybrode",
+        "rettet": "Hald Sø-skybruddet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Kibek",
+        "rettet": "Kibæk",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Åbenråd",
+        "rettet": "Åbenrå",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Åbenbro",
+        "rettet": "Åbenrå",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Frederik Sund",
+        "rettet": "Frederikssund",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Oevrige_MCmHDnIc490_20260914_145038.txt": {
+    "anvendt": [
+      {
+        "forkert": "Cornelius Pals",
+        "rettet": "Kornelius Pagels",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Horfor",
+        "rettet": "HOFOR",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "HFOR",
+        "rettet": "HOFOR",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Majbr",
+        "rettet": "Majbrit",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Marbrit",
+        "rettet": "Majbrit",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Marvet",
+        "rettet": "Majbrit",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Damuzonens",
+        "rettet": "Damhusåens",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Damhusen",
+        "rettet": "Damhusåen",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Damosen",
+        "rettet": "Damhusåen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Damusonen",
+        "rettet": "Damhusåen",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Gossebæk",
+        "rettet": "Gåsebæk",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "gåsvæg",
+        "rettet": "Gåsebæk",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Svanmøllen",
+        "rettet": "Svanemøllen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Sydovstippen",
+        "rettet": "Sydhavnstippen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Kystæparken",
+        "rettet": "Kystagerparken",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Hvidov",
+        "rettet": "Hvidovre",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kalvebroderne",
+        "rettet": "kalveboderne",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kaldefoderne",
+        "rettet": "kalveboderne",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Inghav Kanal",
+        "rettet": "Enghave Kanal",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "prikkvalifikation",
+        "rettet": "prækvalifikation",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "randig",
+        "rettet": "Randi",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\DTU_Graduates.txt": {
+    "anvendt": [
+      {
+        "forkert": "Lucas",
+        "rettet": "Lukas",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "vaukanske",
+        "rettet": "marokkanske",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DHIS",
+        "rettet": "DHI's",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DTU sustyam",
+        "rettet": "DTU Sustain",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DTU system",
+        "rettet": "DTU Sustain",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "svego",
+        "rettet": "Sweco",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "svingo",
+        "rettet": "Sweco",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "svedgaard",
+        "rettet": "Sweco",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "e us",
+        "rettet": "EU's",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "OEC ds",
+        "rettet": "OECD's",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "CSRDESAS",
+        "rettet": "CSRD",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "CSRDESG",
+        "rettet": "CSRD",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "taksonien",
+        "rettet": "taksonomien",
+        "antal": 4,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "taxonomen",
+        "rettet": "taksonomien",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "taxamien",
+        "rettet": "taksonomien",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DM is",
+        "rettet": "DMI's",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "fifa",
+        "rettet": "PFAS",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "p fast",
+        "rettet": "PFAS",
+        "antal": 6,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "pfast",
+        "rettet": "PFAS",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "PFI",
+        "rettet": "PFAS",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "p fac",
+        "rettet": "PFAS",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "morgeneler moren sand",
+        "rettet": "moræneler og morænesand",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "morgenelær",
+        "rettet": "moræneler",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "consol",
+        "rettet": "COMSOL",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
       }
