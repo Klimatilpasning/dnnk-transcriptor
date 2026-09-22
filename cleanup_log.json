@@ -541,6 +541,12 @@
         "forkert": "pole due Jensen foundation",
         "rettet": "Poul Due Jensen Foundation",
         "antal": 1
+      },
+      {
+        "forkert": "",
+        "rettet": "",
+        "antal": 0,
+        "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
       }
     ],
     "afvist": []
@@ -25864,6 +25870,103 @@
         "rettet": "radarreflektorer",
         "antal": 2,
         "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Konferencer_ZxCzLZpJmrw_20260826_063923.txt": {
+    "anvendt": [
+      {
+        "forkert": "L. Leonis",
+        "rettet": "Lykke Leonardsen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "L. Lerson",
+        "rettet": "Lykke Leonardsen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "C4",
+        "rettet": "C40",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Paul du Yensen Fonden",
+        "rettet": "Poul Due Jensens Fond",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Konferencer_UBAR1IG7kQ4_20260826_063835.txt": {
+    "anvendt": [
+      {
+        "forkert": "Stafa Mberg",
+        "rettet": "Staffan Moberg",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Marco Rum",
+        "rettet": "Markku Rummukainen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Maru",
+        "rettet": "Markku",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Oevrige_rioeMRDhJAU_20260826_181111.txt": {
+    "anvendt": [
+      {
+        "forkert": "kødsbeskyldelseslogen",
+        "rettet": "kystbeskyttelsesloven",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "købsbeskyttelseslovne",
+        "rettet": "kystbeskyttelsesloven",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kødsbeskyttelsesloven",
+        "rettet": "kystbeskyttelsesloven",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Arrangementer_rw-2t2DL4aU_20260826_114426.txt": {
+    "anvendt": [
+      {
+        "forkert": "",
+        "rettet": "",
+        "antal": 0,
+        "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Climate_Adaptation_Summit_2024_-_Staffan_Moberg.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "",
+        "rettet": "",
+        "antal": 0,
+        "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
       }
     ],
     "afvist": []
