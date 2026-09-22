@@ -3687,83 +3687,13 @@
   "transcriptions\\T_rke_og_Hede_i_Danmark_5__Hede_i_Byen.mp3.txt": {
     "anvendt": [
       {
-        "forkert": "DNK",
-        "rettet": "DNNK",
-        "antal": 1
-      },
-      {
-        "forkert": "heit spots",
-        "rettet": "hot spots",
-        "antal": 1
-      },
-      {
-        "forkert": "mabel belægning",
-        "rettet": "permeabel belægning",
-        "antal": 1
-      },
-      {
-        "forkert": "perimabel belægning",
-        "rettet": "permeabel belægning",
-        "antal": 1
-      },
-      {
-        "forkert": "permale fuger",
-        "rettet": "permeable fuger",
-        "antal": 1
-      },
-      {
-        "forkert": "rampe",
-        "rettet": "Rambøll",
-        "antal": 2
-      },
-      {
-        "forkert": "rambøl",
-        "rettet": "Rambøll",
-        "antal": 1
-      },
-      {
-        "forkert": "CMAI",
-        "rettet": "CMA",
-        "antal": 1
-      },
-      {
-        "forkert": "i koli",
-        "rettet": "E. coli",
-        "antal": 1
+        "forkert": "Cornelius pals",
+        "rettet": "Kornelius Pagels",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
-    "afvist": [
-      {
-        "forkert": "3 DB model",
-        "rettet": "3D-model",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "face bule biler",
-        "rettet": "fejebiler",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "foothedssensor",
-        "rettet": "fugtighedssensor",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "dramakortene",
-        "rettet": "varmekortene",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "Langelands plads",
-        "rettet": "Lindevangs Plads",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "spellet",
-        "rettet": "spjældet",
-        "grund": "afvist"
-      }
-    ]
+    "afvist": []
   },
   "transcriptions\\Tech_Talk-_Test_implementering_og_anvendelsesmuligheder_af_g.txt": {
     "anvendt": [
@@ -4412,9 +4342,22 @@
   "transcriptions\\Tech_Talk_-_Fully_integral_hydrodynamic_simulations (1).txt": {
     "anvendt": [
       {
-        "forkert": "tik tok",
-        "rettet": "Tech Talk",
-        "antal": 2
+        "forkert": "Danny k",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DNSK",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tiktokken",
+        "rettet": "Tech Talk'en",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -5560,9 +5503,22 @@
   "transcriptions\\Tech_Talk_012___Geofysik_til_detaljerede_hydrogeologiske_und.txt": {
     "anvendt": [
       {
-        "forkert": "tiktok",
-        "rettet": "Tech Talk",
-        "antal": 2
+        "forkert": "det NNK",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tiktokken",
+        "rettet": "Tech Talk'en",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tilborg Kommune",
+        "rettet": "Silkeborg Kommune",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -5975,9 +5931,22 @@
   "transcriptions\\Tech_Talk_021___Status_p__dobbeltpor_s_filtrering__DPF_.txt": {
     "anvendt": [
       {
-        "forkert": "tiktok",
-        "rettet": "Tech Talk",
-        "antal": 2
+        "forkert": "Karina",
+        "rettet": "Marina",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Mette",
+        "rettet": "Marina",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DNA ko",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -23793,6 +23762,34 @@
     "afvist": []
   },
   "transcriptions\\Godmorgen med DNNK – Inspirationsoplæg om NBS og monitering.txt": {
+    "anvendt": [
+      {
+        "forkert": "",
+        "rettet": "",
+        "antal": 0,
+        "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\T_rke_og_Hede_i_Danmark_4__Vandforvaltning_i_praksis.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "Cornelius Pals",
+        "rettet": "Kornelius Pagels",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Geos",
+        "rettet": "GEUS",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Rockflow_03_opl_g.mp3.txt": {
     "anvendt": [
       {
         "forkert": "",
