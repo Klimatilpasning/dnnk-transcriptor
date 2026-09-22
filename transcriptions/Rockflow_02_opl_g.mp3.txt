@@ -314,7 +314,7 @@ Ja, men så andre så lige kobler mig på. Jeg hedder Mathias og Jeg har et firm
 Hvad er det for en en rensemetode der vil være passende til at kunne kunne håndtere den her type af vand?
 
 00:14:31
-Og Jeg har ikke været en del af det netværk, som Katrine lige har præsenteret her, som har udarbejdet vejledningen. Jeg blev bedt om af Anders avalus og gennemføre en målekampagne, som tog udgangspunkt i den vejledning og med noget støtte fra DNNKI øvrigt.
+Og Jeg har ikke været en del af det netværk, som Katrine lige har præsenteret her, som har udarbejdet vejledningen. Jeg blev bedt om af Anders avalus og gennemføre en målekampagne, som tog udgangspunkt i den vejledning og med noget støtte fra DNNK i øvrigt.
 
 00:14:47
 Så så det Jeg vil gøre nu de næste 20 minutter. Det er at præsentere. Hvad er det for et datasæt der kommer ud af at følge den vejledning, som lige er blevet præsenteret her og ligesom have det udgangspunkt Sådan set til Sådan mere generelt diskussion om jamen, hvordan skal vi arbejde med Sådan nogle datasæt fra rensemetoder, selvom det så er med udgangspunkt i et rockflow anlæg, Der er blevet målt på?
@@ -551,13 +551,13 @@ Så skulle vi måske prøve at at at også få en eller 2 form for bat ikke kun 
 Vi har løbende lige nu og et eksempel her fra en hvad hvad er det man kan få ud af det?
 
 00:31:33
-Jamen Der er nogle prøver her som er udtaget og så er der en subilitetsmåling med den sorte her.
+Jamen Der er nogle prøver her som er udtaget og så er der en turbiditetsmåling med den sorte her.
 
 00:31:39
 Som kører op, falder ned, kører op igen, og kigger man så på prøverne der jamen, så kan vi i virkeligheden se. Jamen det passer sørme også meget godt, men de prøver at de første. Det kan jeg ikke engang selv se farverne.
 
 00:31:49
-Det er de første 3 4 stykker de er taget her, så Det er Sådan set rimeligt mørkt, så bliver de klarere, så kommer der igen et spræk i tobilitet og så bliver de mørke igen.
+Det er de første 3 4 stykker de er taget her, så Det er Sådan set rimeligt mørkt, så bliver de klarere, så kommer der igen et spræk i turbiditet og så bliver de mørke igen.
 
 00:32:01
 Så så både i det her med en stikprøve kan virkelig betyde altså hvornår har du taget den i det her forløb? Og i virkeligheden kan vi med med den her simple turbiditet få et ret godt billede af det.
@@ -566,7 +566,7 @@ Så så både i det her med en stikprøve kan virkelig betyde altså hvornår ha
 Og eftersom partiklerne så korrelerer ret godt til alle.
 
 00:32:18
-Ja til til toabilitet jamen så kan vi regne suspenderet stof ud over en en lang periode lige pludselig som eksempel her fra rockflow, hvor vi også havde tobitetsmålinger og simpelthen se jamen OK, det fungerer faktisk.
+Ja til til turbiditet jamen så kan vi regne suspenderet stof ud over en en lang periode lige pludselig som eksempel her fra rockflow, hvor vi også havde tobitetsmålinger og simpelthen se jamen OK, det fungerer faktisk.
 
 00:32:32
 Som vi forventer og og vi får fjernet partikler, og så er der de her. Så får vi så også i virkeligheden fjernet for eksempel fosforkorationen mellem fosfor og totalt stof og zink og kobber.
@@ -707,7 +707,7 @@ Fordi de er ekstremt varierende også fra opland til opland. Simpelthen altså d
 Godt Vi har 2 hurtige spørgsmål og hurtige svar.
 
 00:37:58
-Ja, jeg hedder Britt fra nova-fos og jeg.
+Ja, jeg hedder Britt fra Novafos og jeg.
 
 00:38:01
 Vil spørge i forhold?
@@ -767,7 +767,7 @@ Acceptabel liste over tests, andre test.
 Nationale altså selvfølgelig add on er meget velkommen, men selvfølgelig skal man have det her med.
 
 00:39:00
-Undskyld spørgsmål, ja senere berling debat.
+Undskyld spørgsmål, ja senere paneldebat.
 
 00:39:04
 Godt. Vi har en paneldebat om det her senere på dagen, så der der tager vi nogle af de her ting op også. Det er et spørgsmål fra Dansk industri.

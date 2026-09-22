@@ -4164,19 +4164,70 @@
   "transcriptions\\Tech_Talk_-_Hvordan_renser_man_regnvand_for_mikroplast_.txt": {
     "anvendt": [
       {
-        "forkert": "DNAK",
-        "rettet": "DNNK",
-        "antal": 1
+        "forkert": "forbi University College",
+        "rettet": "VIA University College",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "tiktok",
-        "rettet": "Tech Talk",
-        "antal": 4
+        "forkert": "åben Nygaard",
+        "rettet": "OK Nygaard",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "tektop",
-        "rettet": "Tech Talk",
-        "antal": 1
+        "forkert": "mens c",
+        "rettet": "NCC",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "lås pby nord",
+        "rettet": "Låsby Nord",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kraft ommeværket",
+        "rettet": "kraftvarmeværket",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "widenmanns kvalitet",
+        "rettet": "vandmiljøets kvalitet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "pfast",
+        "rettet": "PFAS",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "p fast",
+        "rettet": "PFAS",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "yvandsbassin",
+        "rettet": "regnvandsbassin",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "compil Dynamics modellering",
+        "rettet": "Computational Fluid Dynamics modellering",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "IUSA",
+        "rettet": "i USA",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -4408,9 +4459,118 @@
   "transcriptions\\Tech_Talk_-_Sundhed_i_klimatilpasning_og_byplanl_gning (1).txt": {
     "anvendt": [
       {
-        "forkert": "tiktok",
-        "rettet": "Tech Talk",
-        "antal": 1
+        "forkert": "de faktum",
+        "rettet": "DEFACTUM",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "det faktum",
+        "rettet": "DEFACTUM",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "VSP publikation",
+        "rettet": "WSP publikation",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "otttager charter for helst promotion",
+        "rettet": "Ottawa Charter for Health Promotion",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "IWH anslår",
+        "rettet": "WHO anslår",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "en ITF ramme",
+        "rettet": "en ICF ramme",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "gøgstrup på positalen",
+        "rettet": "Gødstrup på hospitalet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "relateringslæge",
+        "rettet": "rehabiliteringslæge",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "relateringspark",
+        "rettet": "rehabiliteringspark",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "en lille mentor session",
+        "rettet": "en lille menti session",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "multimeter",
+        "rettet": "menti",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ventimeter",
+        "rettet": "menti",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "mændsiden",
+        "rettet": "mentisiden",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "landsbysarkitekt",
+        "rettet": "landskabsarkitekt",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "biversitet",
+        "rettet": "biodiversitet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ertroperende tidsalder",
+        "rettet": "antropocæne tidsalder",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "biovindingsprojekter",
+        "rettet": "biodiversitetsprojekter",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "compinsue overflows",
+        "rettet": "combined sewer overflows",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "marselensborg hospital",
+        "rettet": "Marselisborg hospital",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -5205,9 +5365,64 @@
   "transcriptions\\Tech_Talk_019___Erfaringer_med_nye_rensel_sninger_i_K_ge_Nor.txt": {
     "anvendt": [
       {
-        "forkert": "tiktok",
-        "rettet": "Tech Talk",
-        "antal": 4
+        "forkert": "forbliver University College",
+        "rettet": "VIA University College",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "di NNK",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "for eviden",
+        "rettet": "fra EnviDan",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "forklare Forsyning",
+        "rettet": "fra Køge Forsyning",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "sundsvæg",
+        "rettet": "spunsvæg",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "schön her",
+        "rettet": "Schønherr",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "IINNK regi",
+        "rettet": "DNNK regi",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "dynamo's hjemmeside",
+        "rettet": "DNNKs hjemmeside",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "danni k's hjemmeside",
+        "rettet": "DNNKs hjemmeside",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "klart ø Kommune",
+        "rettet": "Køge Kommune",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -5583,14 +5798,52 @@
   "transcriptions\\Tech_Talk_024___T_nk__hvis_skybrud_ikke_var_et_problem__men_.txt": {
     "anvendt": [
       {
-        "forkert": "DNAK",
-        "rettet": "DNNK",
-        "antal": 2
+        "forkert": "skimmelsventiler",
+        "rettet": "skybrudsventiler",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "teksttalk",
-        "rettet": "Tech Talk",
-        "antal": 1
+        "forkert": "skygeposeventil",
+        "rettet": "skybrudsventil",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "skygbers ventilen",
+        "rettet": "skybrudsventilen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "sky og sympati",
+        "rettet": "skybrudsventil",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "skydesventil",
+        "rettet": "skybrudsventil",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "cypriotil",
+        "rettet": "skybrudsventilen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "specosventet",
+        "rettet": "skybrudsventiler",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "2. juli 1011",
+        "rettet": "2. juli 2011",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -6482,244 +6735,10 @@
   "transcriptions\\Godmorgen_med_DNNK__Dynamisk_skybrudsplanl_gning___erfaringe.mp3.txt": {
     "anvendt": [
       {
-        "forkert": "Det er NNK",
-        "rettet": "DNNK",
+        "forkert": "cornelis panels",
+        "rettet": "Kornelius Pagels",
         "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "en vidan i Norge",
-        "rettet": "EnviDan i Norge",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "in the Daniel Norge",
-        "rettet": "EnviDan Norge",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "skybus plan",
-        "rettet": "skybrudsplan",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "skybruddsplan",
-        "rettet": "skybrudsplan",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "chibrødsplaner",
-        "rettet": "skybrudsplaner",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "sitbrødsplaner",
-        "rettet": "skybrudsplaner",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "syvbrødsplanlægninger",
-        "rettet": "skybrudsplanlægningen",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "fynbo's plan",
-        "rettet": "skybrudsplan",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "chibrøts planlæg",
-        "rettet": "skybrudsplanlægning",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "normiske",
-        "rettet": "dynamiske",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "normisk",
-        "rettet": "dynamisk",
-        "antal": 2,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "plommen",
-        "rettet": "planen",
-        "antal": 3,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "i skål god live",
-        "rettet": "i SCALGO Live",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "skill go live",
-        "rettet": "SCALGO Live",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "skell go live",
-        "rettet": "SCALGO Live",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "iskole live",
-        "rettet": "SCALGO Live",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "nicolo life",
-        "rettet": "SCALGO Live",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "skillegh",
-        "rettet": "SCALGO Live",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "i skole liv",
-        "rettet": "i SCALGO Live",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "hidrodynamisk",
-        "rettet": "hydrodynamisk",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "klimatopostning",
-        "rettet": "klimatilpasning",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "klimatopbastning",
-        "rettet": "klimatilpasning",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "klimatopstning",
-        "rettet": "klimatilpasning",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "klimaudsposten",
-        "rettet": "klimatilpasningen",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "klimaetpladsen",
-        "rettet": "klimatilpasningen",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "klimaspostning",
-        "rettet": "klimatilpasning",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "klimmer til postningsprojektet",
-        "rettet": "klimatilpasningsprojektet",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "reklamer til pastning",
-        "rettet": "klimatilpasning",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "reklamer til bosning",
-        "rettet": "klimatilpasning",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "reklamer til Bosnien",
-        "rettet": "klimatilpasning",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "limer delpostning",
-        "rettet": "klimatilpasning",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "Limodel pasning",
-        "rettet": "Klimatilpasning",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "klemmer tilpasning",
-        "rettet": "klimatilpasning",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "reklamepasning",
-        "rettet": "klimatilpasning",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "nogen economyx",
-        "rettet": "Menon Economics",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "nogen economics",
-        "rettet": "Menon Economics",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "cost not",
-        "rettet": "cost-nytte",
-        "antal": 2,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "drømmen Kommune",
-        "rettet": "Drammen Kommune",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "lille strøm kommende",
-        "rettet": "Lillestrøm Kommune",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -22410,6 +22429,47 @@
       {
         "forkert": "housspalt stigningerne",
         "rettet": "havspejlstigningerne",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Rockflow_02_opl_g.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "DNNKI øvrigt",
+        "rettet": "DNNK i øvrigt",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "nova-fos",
+        "rettet": "Novafos",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "senere berling debat",
+        "rettet": "senere paneldebat",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tobilitet",
+        "rettet": "turbiditet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "toabilitet",
+        "rettet": "turbiditet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "subilitetsmåling",
+        "rettet": "turbiditetsmåling",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
       }

@@ -1,5 +1,5 @@
 00:00:05
-Kære alle velkommen til dagens Tech Talk på DNNK mit navn Det er teis roskov Andersen og Jeg er forbi University College sammen med Kristoffer sindby Larsen fra åben Nygaard og Morten handling fra DNNK vil jeg gerne på vegne af DNK byde jer alle sammen. Velkommen til dagens Tech Talk idag vil Jes Vollertsen fra Aalborg Universitet fortælle om hans forskningsresultater i forbindelse med undersøgelserne af rensning af regnvand for mikroplast.
+Kære alle velkommen til dagens Tech Talk på DNNK mit navn Det er teis roskov Andersen og Jeg er VIA University College sammen med Kristoffer sindby Larsen fra OK Nygaard og Morten handling fra DNNK vil jeg gerne på vegne af DNK byde jer alle sammen. Velkommen til dagens Tech Talk idag vil Jes Vollertsen fra Aalborg Universitet fortælle om hans forskningsresultater i forbindelse med undersøgelserne af rensning af regnvand for mikroplast.
 
 00:00:28
 Og lidt praktisk information inden vi starter, og jeg giver ordet til Jes. Selve præsentationen vil bare cirka en 30-35 minutter, hvorefter du vil være cirka 10 minutter til spørgsmål. Og i kan stille jeres spørgsmål løbende igennem hele tiktokken ude i chatten.
@@ -137,7 +137,7 @@ Så har man et tilfældigt tal i stedet for 1 1 1 koncentration i Sådan et bass
 Men nå tilbage til hvorfor? Hvorfor vi egentlig finder partikler i cementet som flyder ovenpå som burde flyde ovenpå. Altså polypropylen burde flyde ovenpå.
 
 00:09:22
-Det er lidt lettere end vand, men hvis man går ind og kigger på hvordan det bevæger sig i vandet det her. Det er en CFD modellering compil Dynamics modellering, så kan man se at at.
+Det er lidt lettere end vand, men hvis man går ind og kigger på hvordan det bevæger sig i vandet det her. Det er en CFD modellering Computational Fluid Dynamics modellering, så kan man se at at.
 
 00:09:35
 Vandet jo på et tidspunkt rammer væggene i bassinet, altså bunden i bassinet, og så er der en vis sandsynlighed for, at når en partikel rammer en rammer bunden, at så klistrer den til til bunden og bliver hængende der og det. Det er derfor at at de her i gåseøjne lettere end vand partikler faktisk i gåseøjne synker til bunds eller blev hængende i setamentet.
@@ -308,7 +308,7 @@ Det vil sige for eksempel infiltrationsanlægs anlæg og Sådan nogle ting og sa
 Filtersystemer de er jo. Det er ligesom et kaffefilter generelt ret effektivt til at fjerne partikler, og det sker ved at ved at partiklerne sætter sig fast i jorden. Og typisk så sker der det, at hvis vi ser på fotografiet herovre for eksempel, at der ligger sig altid noget i toppen.
 
 00:20:10
-Det er jo fordi Det er de små fine partikler, der kommer med regnvand ned og de klistrer sig så oppe i toppen. Det her Det er et billede fra 1 1 1 regnbed IUSA.
+Det er jo fordi Det er de små fine partikler, der kommer med regnvand ned og de klistrer sig så oppe i toppen. Det her Det er et billede fra 1 1 1 regnbed i USA.
 
 00:20:19
 Men Det er jeg Sådan set lidt lige meget, men Det kan tydeligt se at at der sætter sig en hel masse snask op i toppen, og så kommer partiklerne i en lidt ret meget længere ned.
@@ -326,7 +326,7 @@ Som så kan bruges også til både rense og forsinke regnvandet, så kan man så
 Det gjorde vi ved at.
 
 00:21:20
-Samarbejde mens c.
+Samarbejde NCC.
 
 00:21:23
 Hvor de hvor de så var ude at støvsuge de her de her bemable belægninger, Sådan snit en gang om året. Og så fik vi så, så fik vi så en en spandfuld, havde jeg nær sagt, så kørte de så et læs af det her over til over til os, og så havde vi Sådan den her bitte bitte opsamlingsbeholder, så vi fik Sådan et lillebitte prøve ind her, som vi så skulle analysere på, da jeg lidt> vi normalt plejer at rende rundt med laboratoriet. Men Sådan er det jo når man arbejder med virkelige systemer.
@@ -374,7 +374,7 @@ Så så hvis Det er noget, så er de her, så er det her anlæg altså lidt over
 Der er sgu kapacitet nok til de næste 50 eller 100 år i det her system.
 
 00:24:46
-Filtersystemet lås pby nord som sagt indløb, hvor drimas bassin filter udløb.
+Filtersystemet Låsby Nord som sagt indløb, hvor drimas bassin filter udløb.
 
 00:24:54
 Der tog vi så prøver i cementet. Vi tog prøver i det, forrensede vand. Vi tog prøver II filtersystemet og vi tog prøver i udløbet for at se hvor effektivt de her de her de her de her bassiner nu var og II det her vejvansbassin der fandt vi II set.
@@ -401,7 +401,7 @@ Nå nej, 1,5 hektar sidder der reelt.
 Og og ja, Det er Sådan set lidt det samme. Det er bare med med antal partikler i stedet for.
 
 00:26:28
-Blandt andet, hvis vi kigger på bildæk, så også igen, så så så har vi så har vi så har vi 1 1 1 ganske høj tilbageholdelse også her og Det er primært bildækspartikler og Det kan jo vel ikke komme bag på nogen fordi Det er yvandsbassin. Det er primært bildæk partikler man finder i ganske, ganske ganske høj kostationer set i forhold til mange andre systemer.
+Blandt andet, hvis vi kigger på bildæk, så også igen, så så så har vi så har vi så har vi 1 1 1 ganske høj tilbageholdelse også her og Det er primært bildækspartikler og Det kan jo vel ikke komme bag på nogen fordi Det er regnvandsbassin. Det er primært bildæk partikler man finder i ganske, ganske ganske høj kostationer set i forhold til mange andre systemer.
 
 00:26:52
 Men som sagt udløbsstruationerne er ganske lave.
@@ -623,7 +623,7 @@ Altså hvis man har et filtre, specielt et filtrer, så så vil jeg anbefale. S�
 Ellers så er der større risiko, eller ellers så vil vil filteroverfladen klokke hurtigere til.
 
 00:39:24
-Et drømmes bassin, Der er der mange, der anbefaler at lave specielt IUSA anbefaler at lave et foresting altså ligesom Lemvig systemet og og Det har den den ide at så kan man nøjes med at rense det lille bassin op.
+Et drømmes bassin, Der er der mange, der anbefaler at lave specielt i USA anbefaler at lave et foresting altså ligesom Lemvig systemet og og Det har den den ide at så kan man nøjes med at rense det lille bassin op.
 
 00:39:39
 Relativt hyppigt, og det store bassinet skal renses relativt sjældent, så så generelt altså. Så hvis Jeg kan vælge frit på begge hylder, så ville jeg lave et forudsigt.
@@ -638,7 +638,7 @@ Ja ved i hvor fjernvarmeværket er.
 Øst for fjernvarmeværket, der ligger der, ligger det altså Jeg kan sagtens oplyse det. Det det.
 
 00:40:15
-Jeg kan ikke lige huske mig navnet lige nu her i hovedet, men men det det ligger der i den i den i den nordlige del af Viborg lige ved siden af kraft ommeværket.
+Jeg kan ikke lige huske mig navnet lige nu her i hovedet, men men det det ligger der i den i den i den nordlige del af Viborg lige ved siden af kraftvarmeværket.
 
 00:40:23
 Eller som så Henrik så skriv en mail til til jens ja.
@@ -656,7 +656,7 @@ Nogle områder, hvor man siger det her. Det er ubeløst eller ja hvad hvad hvad?
 Altså hvis vi kigger på de traditionelle løsninger, for eksempel hvor effektivt Det er, hvor dramas bassin jamen, så er vi rimelig. Vi er rimelig godt styr på det.
 
 00:41:04
-Men, men Der er noget andet Der er ved. Der er jo III bevægelse lige nu her. Det er de krav, der stilles til widenmanns kvalitet, når der bliver udledt som vi vil alle sammen være bevidste om, så har den egentlig lige fået en skrue her i Danmark, og og et hvor dramas bassin kan ikke nå.
+Men, men Der er noget andet Der er ved. Der er jo III bevægelse lige nu her. Det er de krav, der stilles til vandmiljøets kvalitet, når der bliver udledt som vi vil alle sammen være bevidste om, så har den egentlig lige fået en skrue her i Danmark, og og et hvor dramas bassin kan ikke nå.
 
 00:41:24
 De de krav som der stilles i dag, som for år tilbage var fint. Det er ikke længere fint, så så så det bassin der var der var godt for for 5 år siden. Det er ikke godt nok i år, så så så så den del her.
@@ -692,13 +692,13 @@ Jeg kender ganske udmærket Peter, så så nå.
 Jo, jeg ville måske snarere sige det på den måde, at Vi skal forstå hvordan Vores bassiner fungerer overfor alle mulige slags forureninger.
 
 00:42:41
-Og og partikelbunden og ikke partikelbundeforurening. Og når vi nu ved noget bedre om, hvordan mikroplast bliver tilbageholdt, som er en forurening eller der der Der er partikulerer og med relativt lav i densitet, så ved vi måske også bedre, hvor effektivt Vores regnvandsbassin ville være overfor ukendte stoffer, for eksempel pfast og sige et eller andet, som er i vælten elite dage, fordi vi ved, hvordan de her stoffer opfører sig rent kemisk, om de kan lide at være på partikleder, om de ikke kan lide være på partikler.
+Og og partikelbunden og ikke partikelbundeforurening. Og når vi nu ved noget bedre om, hvordan mikroplast bliver tilbageholdt, som er en forurening eller der der Der er partikulerer og med relativt lav i densitet, så ved vi måske også bedre, hvor effektivt Vores regnvandsbassin ville være overfor ukendte stoffer, for eksempel PFAS og sige et eller andet, som er i vælten elite dage, fordi vi ved, hvordan de her stoffer opfører sig rent kemisk, om de kan lide at være på partikleder, om de ikke kan lide være på partikler.
 
 00:43:10
 Så når vi forstår den generelle de generelle kemisk fysiske mekanismer bagved de her rensemetoner, så kan vi ekstra polere med Vores viden til ukendte stoffer.
 
 00:43:23
-Så så Det er rigtigt p mikroplast Det var det helt store hit for nogle år tilbage og nu er p fast det helt store hits og om 3 4 år så kommer der et andet helt stort hit, så alle glemte plads.
+Så så Det er rigtigt p mikroplast Det var det helt store hit for nogle år tilbage og nu er PFAS det helt store hits og om 3 4 år så kommer der et andet helt stort hit, så alle glemte plads.
 
 00:43:38
 Men de her systemer de skal kunne håndtere alle også de ukendte stoffer og for at kunne gøre det, så skal vi forstå de grundlæggende mekanismer bag hvordan de virker.

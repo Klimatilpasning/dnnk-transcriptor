@@ -353,7 +353,7 @@ Så for mig der der kan den nogle ting og den er jo ikke universelle løsning p�
 Er dem, som vi kan koble af til skibhus ventilen.
 
 00:21:16
-Og så har vi regnet på historisk regn med et minuts opløsning her fra tilbage omkring 2005 eller Sådan noget og så frem til 2020, og der har vi lavet Sådan en boks model, hvor vi kan smide det her vand igennem både et et system, hvor det bare løber fra de befæstede arealer og i kloakken, og så har vi en kapacitet på kloak svarer til den Der er i dubobrydervej, men vi kan også gøre det, at vi vælger altså at tage tagfladerne ud og så montere en skygeposeventil på dem.
+Og så har vi regnet på historisk regn med et minuts opløsning her fra tilbage omkring 2005 eller Sådan noget og så frem til 2020, og der har vi lavet Sådan en boks model, hvor vi kan smide det her vand igennem både et et system, hvor det bare løber fra de befæstede arealer og i kloakken, og så har vi en kapacitet på kloak svarer til den Der er i dubobrydervej, men vi kan også gøre det, at vi vælger altså at tage tagfladerne ud og så montere en skybrudsventil på dem.
 
 00:21:44
 Og hvis et minus intensiteten overskrider de her 75 l paskundt per hektar, så lukker skibussen, og det betyder, at hvis man kigger på det her, at hvis Vi har de blå toppe, så svarer det til nedbøren og det Der er de grønne top. Det er så det der løber II kloakken, så alt det blå. Det er det der løber ud på terræn og vi kan se vi klipper en helt masse toppe af, og vi kan også godt se at vi klipper toppe af som ligger under de der 75 l per sekund per hektar.
@@ -371,7 +371,7 @@ Vi vil prøve at zoome lidt ind på en hændelse, så kan vi tage Sådan en en m
 Og så kan i se, at når toppene kommer jamen, så skærer den simpelhen af, så det der ligger mellem den blå og den grønne kurve. Det er det, der løber på terræn.
 
 00:23:06
-Og det betyder, at hvis vi havde etableret skimmelsventiler på alle tagflader, så ville vi have belastet kloakken til svarende til en iltforudsendelse i stedet for denne her fireårsendelse, som den middel ville være belastet med til 1-1 10 minutters intensitet.
+Og det betyder, at hvis vi havde etableret skybrudsventiler på alle tagflader, så ville vi have belastet kloakken til svarende til en iltforudsendelse i stedet for denne her fireårsendelse, som den middel ville være belastet med til 1-1 10 minutters intensitet.
 
 00:23:22
 Så den har altså en en effekt II det der interval som er interessant i forhold til at klimatilpasse kloakken, og Det er jo en af de udfordringer som som forsyningen står i.
@@ -380,13 +380,13 @@ Så den har altså en en effekt II det der interval som er interessant i forhold
 Hvis vi kigger på det Sådan og og og ser på hvad man ellers kunne, så kan man sige noget af det, man kunne gøre i et fællesklokeret opland, som som det vi kiggede på i duerådet og vej. Det var jo udover selvfølgelig at lave kloakken større hele vejen ned eller lave et komplet separat projekt. Så kunne det jo være at lave grønne veje, hvor vi altså tog fat i vejvandet.
 
 00:23:53
-Og forsinket det eller måske nedsive det, men i det her tilfælde forsinket det før afledningen til kloak. Vi kunne også give os til at lægge nogle rørbassiner under vejen, hvis vi ikke ville påvirke vejen, og så har vi så skygbers ventilen som som mulighed, og der har vi før 1 2 Forsyning prøvet at regne på nogle oplande her. Det er opland 3, 16 og 19 som jeg ikke vil gå i dybden med andet end at Jeg har taget 3 med fordi Der er ret for stor forskel på hvordan de opfører sig og det vi kan se Det er Vi har 3 situationer en t 2-5 og til 10.
+Og forsinket det eller måske nedsive det, men i det her tilfælde forsinket det før afledningen til kloak. Vi kunne også give os til at lægge nogle rørbassiner under vejen, hvis vi ikke ville påvirke vejen, og så har vi så skybrudsventilen som som mulighed, og der har vi før 1 2 Forsyning prøvet at regne på nogle oplande her. Det er opland 3, 16 og 19 som jeg ikke vil gå i dybden med andet end at Jeg har taget 3 med fordi Der er ret for stor forskel på hvordan de opfører sig og det vi kan se Det er Vi har 3 situationer en t 2-5 og til 10.
 
 00:24:23
 Og hvis vi nu går ind på tetiren, altså den nederste tredjedel af tabellen, så har vi mulighed for at lave grøn vej og den grønne vej kan vi også sammenligne med rørbassinet. Og så siger vi, Vi har et volumen på enten 0,2 eller 0,5 m3 per løbende meter vej her, og så ser vi ude under opland 16 her at med 0,5 m3 per løbende undervejs, så kan vi reducere antallet af brønde med overløb med omkring 14%.
 
 00:24:49
-Så det vil sige, at grøn vej løser ikke problemet med overløb fra brønde II det her opland, men den reducerer noget, hvis vi sammenligner med skybusventilen i samme opland. Så hvis vi etablerer specosventet på 70% af af tarmfladerne, så kan vi reducere antallet af brønde med overløb med næsten 30%. Og det viser, at vi kan sagtens have nogle oplande, hvor skyld de er fuldt ud lige så god som lokalforsinkelsesløsninger.
+Så det vil sige, at grøn vej løser ikke problemet med overløb fra brønde II det her opland, men den reducerer noget, hvis vi sammenligner med skybusventilen i samme opland. Så hvis vi etablerer skybrudsventiler på 70% af af tarmfladerne, så kan vi reducere antallet af brønde med overløb med næsten 30%. Og det viser, at vi kan sagtens have nogle oplande, hvor skyld de er fuldt ud lige så god som lokalforsinkelsesløsninger.
 
 00:25:14
 Hvis vi går ind med Sådan en pragmatisk tilgang til forsinkelse og siger, hvad kan lade sig gøre på 1 1 1 praktisk måde.
@@ -395,7 +395,7 @@ Hvis vi går ind med Sådan en pragmatisk tilgang til forsinkelse og siger, hvad
 Andre oplande der kan ske på 5 10 link konkurrere, men Der er altså et potentiale i det her også når vi putter det ind i en en marked.
 
 00:25:28
-Så i forhold til klimatilpasning, så er pointen, at de lokale forhold, Der er afgørende for skivejsk potentiale, hvor store er kapacitetsproblemerne i kloakken, hvor stor en del af oplandet kan aflede sig til cypriotil? Hvor store er tagfladerne og hvor løber overløbet hen?
+Så i forhold til klimatilpasning, så er pointen, at de lokale forhold, Der er afgørende for skivejsk potentiale, hvor store er kapacitetsproblemerne i kloakken, hvor stor en del af oplandet kan aflede sig til skybrudsventilen? Hvor store er tagfladerne og hvor løber overløbet hen?
 
 00:25:46
 Udfordringen er, at det kræver, at vitalitet anderledes at se borgerne som en del af løsningen i det her, og spørgsmålet er så, hvor udfordringen ligger i det her? Det tænker jeg, vi måske kunne komme tilbage til i spørgedelen, men den kunne ligge dels hos borgerne. Tænk, hvis de nu ikke vil være med.
@@ -407,7 +407,7 @@ Men det kunne også godt lige huske kommunen eller forsyningen som er dem der si
 Nå skiver sendt tiden hedder skyghus satin, så lige for at rende den hurtigt igennem som skybus løsning så aflaster den kloakken og rykker grænsen for hvornår hovedkloranten bliver overbelastet. Det er den funktion den har som klimatilpasning indsats også, og derudover så aflaster den som Katrine sagde i stikledningerne, og Det kan potentielt beskytte mod kælderoversvømser, og Det er Sådan lidt en diskussion, fordi hvis man i øvrigt har dimensioneret sin stikledning korrekt, så burde den have kapacitet til at aflede vand fra fra tagfladerne.
 
 00:26:36
-Men et er den ideelle verden, og det andet er den virkelige verden, og Jeg vil i hvert fald sige, Jeg har sat en sky og sympati på mit nedløbsrør herhjemme.
+Men et er den ideelle verden, og det andet er den virkelige verden, og Jeg vil i hvert fald sige, Jeg har sat en skybrudsventil på mit nedløbsrør herhjemme.
 
 00:26:44
 Fordi jeg Jeg synes de der stikledninger er ikke specielt tryg ved.
@@ -431,10 +431,10 @@ Det kan være med til at at.
 At at beskytte kælderen måske, men Vi skal bare huske, at før vi får den der situation. København.
 
 00:27:35
-2. juli 1011 så ligger der altså rigtig mange skybus som er mindre, så vi behøver ikke sige at skybusventilen dur ikke fordi vandet ender alligevel ude på terræn. Skyghus ventilen vil faktisk være med til at skabe lokale oversvømmelser nogle steder, hvor man kan leve med det i stedet for at bidrage til store samlede oversvømmelser i hvert fald meget, meget langt hen ad vejen.
+2. juli 2011 så ligger der altså rigtig mange skybus som er mindre, så vi behøver ikke sige at skybusventilen dur ikke fordi vandet ender alligevel ude på terræn. Skyghus ventilen vil faktisk være med til at skabe lokale oversvømmelser nogle steder, hvor man kan leve med det i stedet for at bidrage til store samlede oversvømmelser i hvert fald meget, meget langt hen ad vejen.
 
 00:27:54
-Vi har også linet i det her beregning, som vi så på før og så se på. Hvad kan denne her skydesventil, hvis Vi har en rigtig stor hændelse, og der nåede vi lige inden for den der historiske regnerække i august 2000 1020 at have en stor hændelse en t 73 baseret på 60 millioners varighed eller til 25, hvis vi kigger på den på 10 minutters varighed og den har i kloaksystemet, har vi beregnet den til at svare til 21 årsændelse, og hvis vi havde smidt skybusiler på alle tagflader.
+Vi har også linet i det her beregning, som vi så på før og så se på. Hvad kan denne her skybrudsventil, hvis Vi har en rigtig stor hændelse, og der nåede vi lige inden for den der historiske regnerække i august 2000 1020 at have en stor hændelse en t 73 baseret på 60 millioners varighed eller til 25, hvis vi kigger på den på 10 minutters varighed og den har i kloaksystemet, har vi beregnet den til at svare til 21 årsændelse, og hvis vi havde smidt skybusiler på alle tagflader.
 
 00:28:22
 Så havde vi reduceret effekten af den team firsendelse i kloaksystemet i opbandet, så Det er altså et billede på, at selvom kun 1/3 er befæstet areal i det her opland, faktisk fra tagflader, så har skybus ventilen en rigtig stor effekt, hvis Det er en for stor udbredelse. Her regner vi altså med 100% kobling af askeprocentiler, så Der er et væsentligt potentiale også i forhold til de meget store hændelser.
