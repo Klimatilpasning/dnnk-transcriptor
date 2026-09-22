@@ -23,7 +23,7 @@ Hvorfor sker det ikke? Seis her, det vil jeg sådan set også godt se her. Ja, e
 Jeg kan ikke se stå her og kigge på det. Når man går til sådan noget der, så skal man have en idé om, hvordan man vil gribe sanen. Det gjorde vi ved at tænke på, hvordan kan vi lave en forsøg befaskelse. Der fortæller også noget om, hvordan tingene oppfører sig.
 
 00:02:30
-Til det brug, der snakkede vi med Orslæff, der havde et lille testfældt ude på Avedøra, hvor vi tænkte, at vi kunne opbygge en befaskelse. Det, man ser, er i schematisk form den testopbygning, vi skulle have, hvor vi så lavede det, der hedder trygceller, på oversiden, overtryk over rockflowen, som er det mørke.
+Til det brug, der snakkede vi med Aarsleff, der havde et lille testfældt ude på Avedøre, hvor vi tænkte, at vi kunne opbygge en befaskelse. Det, man ser, er i schematisk form den testopbygning, vi skulle have, hvor vi så lavede det, der hedder trygceller, på oversiden, overtryk over rockflowen, som er det mørke.
 
 00:03:00
 Og så i undersiden, lige under der, hvor vi vil lave belastningscentrum, og så ude til sidderne. I må forestille jer, at disse stiplige linjer angiver rockflow-elementer, altså bats, der står ved siden af anden. Og det, vi havde en formodning om, det var, at der ikke ville være ret meget overførsel, kraftoverførsel.
@@ -53,7 +53,7 @@ Og hvad skal vi på det sted, hvor de ligger, have af spændingsnivå? Og så ku
 Fefaskelserne blev som sagt opbygget i en lille 2x2 eller 1,8x1,8 meter grav ude på helseholden hos A, som var stærkt ved hjælpelige med alt det praktiske, også med at stille registreringsudstyr til rådighed,
 
 00:07:30
-fordi et er at have en trygsel og at stikke i den ene end noget helt andet er, faktisk at få noget fornuftigt ud af det. Men det havde årslæft, fordi de er ret forskningsmæssigt op på mærkerne, har fået sig en kæmpet triakselsel på halvandet midt og højt eller sådan noget, hvor de virkelig kan teste store kvårnede materialer. Her har de altså en forsøgsgrave med en rik, hvor man kan spænde et pladebelastningsudstyr op på,
+fordi et er at have en trygsel og at stikke i den ene end noget helt andet er, faktisk at få noget fornuftigt ud af det. Men det havde Aarsleff, fordi de er ret forskningsmæssigt op på mærkerne, har fået sig en kæmpet triakselsel på halvandet midt og højt eller sådan noget, hvor de virkelig kan teste store kvårnede materialer. Her har de altså en forsøgsgrave med en rik, hvor man kan spænde et pladebelastningsudstyr op på,
 
 00:08:00
 så man kan lave sine belastningsforsøg. Hvad er der at sige om det? Man opbygger først lagerne af rockflow. Under det hele ligger der et sandlag til 2-3 meter stybtel eller sådan noget lignende,
@@ -119,7 +119,7 @@ hvad er i det hele tag, hvad er niveauet for, hvad rockflow kan tåle af belastn
 Det er den del, som vi siger, men den er kun til sammenligning, den er kun til orientering. Det er at bygge retten, det er den matematiske, deterministiske dimensionærende befestelse, men klimasimulationstil er netop til at sammenligne, hvordan opfører forskellige belæggende befestelser sig relativt til hinanden. Det er godt, at det ikke er den præcise levetid, man får, men relativt, når vi har to befestelser,
 
 00:18:30
-der er udsat for den samme klima- og belastingspåvirkning, så vil disse simulationer fortælle os, hvordan at opføre den ene sig, i forhold til hinanden. Som sagt, det, vi havde at gå ud fra i starten, det var forsøg, der var udført, at Daltares med forskellige belastings, spændingsnivåer, hvor vi kan se,
+der er udsat for den samme klima- og belastingspåvirkning, så vil disse simulationer fortælle os, hvordan at opføre den ene sig, i forhold til hinanden. Som sagt, det, vi havde at gå ud fra i starten, det var forsøg, der var udført, at Deltares med forskellige belastings, spændingsnivåer, hvor vi kan se,
 
 00:19:00
 at spændingsnivåer op til 30 kPa, der opfører befestelserne sig pænt, der er den fuldt optrukende og prækstræg, præklinjen, de, de, de går ikke, bananas, men så snart, vi kommer op på den prækkede, som er udført ved 90 kPa, så vil jeg huske, så går det galt

@@ -24831,5 +24831,149 @@
       }
     ],
     "afvist": []
+  },
+  "transcriptions\\Oevrige_9Mtbmb4TUAQ_20260826_163642.txt": {
+    "anvendt": [
+      {
+        "forkert": "Orslæff",
+        "rettet": "Aarsleff",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Avedøra",
+        "rettet": "Avedøre",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "årslæft",
+        "rettet": "Aarsleff",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Daltares",
+        "rettet": "Deltares",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Oevrige_HQRq2cgHreE_20260826_182952.txt": {
+    "anvendt": [
+      {
+        "forkert": "Holbe Kommune",
+        "rettet": "Holbæk Kommune",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Hållby kommun",
+        "rettet": "Holbæk Kommune",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DQ20",
+        "rettet": "DK2020",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DECO 2020",
+        "rettet": "DK2020",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Yucat",
+        "rettet": "U-Kat",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "jukehat",
+        "rettet": "U-Kat",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Skalco",
+        "rettet": "Scalgo",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Skalgo",
+        "rettet": "Scalgo",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Mike Flott",
+        "rettet": "MIKE FLOOD",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "mark flot",
+        "rettet": "MIKE FLOOD",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "micflotberegning",
+        "rettet": "MIKE FLOOD-beregning",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Konferencer_PTYjtdkMxO8_20260826_062832.txt": {
+    "anvendt": [
+      {
+        "forkert": "",
+        "rettet": "",
+        "antal": 0,
+        "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Climate_Adaptation_Summit_2024_-_Karina_Barquet.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "",
+        "rettet": "",
+        "antal": 0,
+        "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Oevrige_g2fNV0LyDxQ_20260826_160524.txt": {
+    "anvendt": [
+      {
+        "forkert": "",
+        "rettet": "",
+        "antal": 0,
+        "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Climate_Adaptation_Summit_2024_-_Alan_Cohn.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "",
+        "rettet": "",
+        "antal": 0,
+        "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
+      }
+    ],
+    "afvist": []
   }
 }
