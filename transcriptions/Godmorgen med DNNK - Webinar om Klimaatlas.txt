@@ -2,7 +2,7 @@
 Jamen godmorgen og velkommen til den her godmorgen med DNNK.
 
 00:00:06
-Som i dag handler om DMI klimaatlas, og Vi har fået besøg af ole og allah fra DMI, og Jeg vil simpelthen give dem lov til at præsentere sig selv. Det bliver Sådan, at oplægget består af 2 dele i dag, og så tager vi jeres spørgsmål til sidst, så er i velkommen til at skrive spørgsmål ude i chatten løbende og så.
+Som i dag handler om DMI klimaatlas, og Vi har fået besøg af ole og Allan fra DMI, og Jeg vil simpelthen give dem lov til at præsentere sig selv. Det bliver Sådan, at oplægget består af 2 dele i dag, og så tager vi jeres spørgsmål til sidst, så er i velkommen til at skrive spørgsmål ude i chatten løbende og så.
 
 00:00:31
 Så skal vi nok gå dem igennem til allersidst.
@@ -155,13 +155,13 @@ Halsnæs Kommune. De har brugt det til noget orienteringsmøde, hvor de havde et
 En dialog med et dalav omkring risikoen for noget oversvømmelse, så har de også brugt data derfra.
 
 00:09:19
-Så snakkede jeg med rådgiver, altså blandt andet svego. De har brugt det til noget teknisk vurdering og noget kyst sikringsprojekt fra nogle grundejere spildevandskomite komiteen SVK. Vi bruger også data på klima, når de skal opdatere de her anbefalinger om om fremtidens egen kloakdimensioneringer som de.
+Så snakkede jeg med rådgiver, altså blandt andet Sweco. De har brugt det til noget teknisk vurdering og noget kyst sikringsprojekt fra nogle grundejere spildevandskomite komiteen SVK. Vi bruger også data på klima, når de skal opdatere de her anbefalinger om om fremtidens egen kloakdimensioneringer som de.
 
 00:09:37
 Gør gør så i.
 
 00:09:39
-Og så har vi et statslige myndigheder, altså kystsoratet, som har snakket om lige før kystplanlæggeren og miljøstyrelsens kamp. De 2 bruger også data fra klimaetlas, og så har vi også snakket om nogle andre, som er Sådan ud over dem jeg lige har nævnt, altså for eksempel finans Danmark. Dem havde vi en en snak med et møde med, og de fortalte, at de brugte data og debat til at kigge på Sådan noget som finansiel stabilitet.
+Og så har vi et statslige myndigheder, altså Kystdirektoratet, som har snakket om lige før kystplanlæggeren og miljøstyrelsens kamp. De 2 bruger også data fra klimaetlas, og så har vi også snakket om nogle andre, som er Sådan ud over dem jeg lige har nævnt, altså for eksempel finans Danmark. Dem havde vi en en snak med et møde med, og de fortalte, at de brugte data og debat til at kigge på Sådan noget som finansiel stabilitet.
 
 00:10:01
 Det kort i kan se ud til højre an illustration af det.
@@ -215,7 +215,7 @@ Har i valgt kommuner jamen så skal jeg vælge området. Er det hele Danmark med
 På årstid der kan det være hele året eller en af de 4 årstider og ud til sidst Der er den der hedder visning af værdier. Der kan man enten vælge at se dine dine værdier som ændringen eller som det absolutte.
 
 00:13:37
-Nyde selve kortet er der så også nogle valg. I er ikke øverst oppe at der står mellem CO 2 niveau. Det er det der hedder ACP 4,5 eller det høje CO 2 niveau som er RCP 8,5.
+Nyde selve kortet er der så også nogle valg. I er ikke øverst oppe at der står mellem CO 2 niveau. Det er det der hedder RCP 4,5 eller det høje CO 2 niveau som er RCP 8,5.
 
 00:13:47
 Så kan du så træffe valget om du vil bruge mellem CO 2 scenariet eller det høje CO 2 scenarie.
@@ -236,7 +236,7 @@ Det ser Sådan her ud.
 Af den vil se Sådan her ud i grafen til højre igen. Der ser jeg.
 
 00:14:48
-Starten midten og slutningen af 100 de 2 barer og den blå. Det er det lille eller det mellem CO 2 scenarie altså 4,5 og den røde. Det er SEP 8,5 og igen kører musen ind over, så får jeg mouse over tekst der kan fortælle mig hvad er det den her bar viser og når jeg ser på den her bar jamen så er der Sådan en en meget en hårdt optrukkende linje i midten og Det er median værdien, den Vores bedste bud og den der så er over under den det usikkerhedsintervallet man kan se 90 og 10 persentil på.
+Starten midten og slutningen af 100 de 2 barer og den blå. Det er det lille eller det mellem CO 2 scenarie altså 4,5 og den røde. Det er RCP 8,5 og igen kører musen ind over, så får jeg mouse over tekst der kan fortælle mig hvad er det den her bar viser og når jeg ser på den her bar jamen så er der Sådan en en meget en hårdt optrukkende linje i midten og Det er median værdien, den Vores bedste bud og den der så er over under den det usikkerhedsintervallet man kan se 90 og 10 persentil på.
 
 00:15:17
 På den.
@@ -713,7 +713,7 @@ Det er vel næsten Allan.
 Jo, jeg skal komme med et forsøg på at svar der.
 
 00:43:30
-Vi har hørt det før det der i forhold til når man hvad skal vi anbefale? Skal man bruge ACP 4,5 eller ACP 8,5 og der har vi sammen med Miljøstyrelsen.
+Vi har hørt det før det der i forhold til når man hvad skal vi anbefale? Skal man bruge RCP 4,5 eller RCP 8,5 og der har vi sammen med Miljøstyrelsen.
 
 00:43:40
 Lavet en en vejledning i hvilket udslipsscenarie man skal bruge i hvilken den til den planlægning man nu laver.
@@ -722,7 +722,7 @@ Lavet en en vejledning i hvilket udslipsscenarie man skal bruge i hvilken den ti
 Og vejledningen fortæller i virkeligheden bare Sådan en meget kort kontant.
 
 00:43:52
-At planlægger man med noget ind til midten af de her 100 jamen, så kan man godt nøjes med at kigge på 4,5 altså ACP 4,5 hvorimod går man ud og kigger på noget der skal holde frem til slutningen af det her 100 og er der en større usikkerhed og er det ikke noget man bare kan bygge ovenpå eller gøre mere Sådan robust hen ad vejen? Jamen så anbefaler vi at man bruger 8,5, men Der er faktisk lavet en vejledning som som kommunerne kan tage kan tage brug af i forhold til.
+At planlægger man med noget ind til midten af de her 100 jamen, så kan man godt nøjes med at kigge på 4,5 altså RCP 4,5 hvorimod går man ud og kigger på noget der skal holde frem til slutningen af det her 100 og er der en større usikkerhed og er det ikke noget man bare kan bygge ovenpå eller gøre mere Sådan robust hen ad vejen? Jamen så anbefaler vi at man bruger 8,5, men Der er faktisk lavet en vejledning som som kommunerne kan tage kan tage brug af i forhold til.
 
 00:44:18
 Hvilket udslipsscenarie man man bør.

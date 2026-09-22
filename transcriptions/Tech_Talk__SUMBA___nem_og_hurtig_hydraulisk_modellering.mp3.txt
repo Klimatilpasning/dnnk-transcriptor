@@ -158,10 +158,10 @@ Brug også Sumba, når det er vigtigere med en højtidsmæssig opløsning end me
 Eller hvis vi skal integrere flere forskellige datakilder og foretage joint probability-analyser, så kan vi også bruge Sumba til det.
 
 00:04:53
-Inden vi skal bruge sumper til at regne på stofkoncentration og rensegrader, og til sidst så bruger vi sumper i nogle rigtig store systemer også, som en form for scenarioberegninger, hvor vi for eksempel kigger på interne styring af bassiner, og det kan vi så efterfølgende verificere med Mike Urban modeller.
+Inden vi skal bruge Sumba til at regne på stofkoncentration og rensegrader, og til sidst så bruger vi Sumba i nogle rigtig store systemer også, som en form for scenarioberegninger, hvor vi for eksempel kigger på interne styring af bassiner, og det kan vi så efterfølgende verificere med Mike Urban modeller.
 
 00:05:11
-Så vi har brugt sumper til rigtig, rigtig mange ting, og det er ikke bare en eller anden skør idé, vi har fået her i WSP.
+Så vi har brugt Sumba til rigtig, rigtig mange ting, og det er ikke bare en eller anden skør idé, vi har fået her i WSP.
 
 00:05:17
 Det har faktisk givet værdi for vores kunder igennem rigtig mange år.
@@ -188,7 +188,7 @@ Hvis I har lyst til at bruge Sumba, så lyt med, for så kommer der en beskrivel
 Sumba er opbygget efter sådan et Lego-klods-princip, og det står af sum af vand i bassiner, Og som sagt er det en boksmodel, der routerer vand mellem forskellige magasiner.
 
 00:06:14
-Input til sumper er rigtig ofte SVK-nedbøger, altså nedbøger, der er målt ved Spildevandskomitéens regnmålerstationer.
+Input til Sumba er rigtig ofte SVK-nedbøger, altså nedbøger, der er målt ved Spildevandskomitéens regnmålerstationer.
 
 00:06:22
 De ligger jo tilbage fra 1979 på dem, der er ældst.
@@ -590,7 +590,7 @@ Vi kan se, at det er den lillage streg, vi ser her.
 Hvis vi putter fordampning ind i vores model og tager hensyn til det, så vil de lave afløbstal, så kan det have en ret stor betydning for, hvor stor lidt volume vi skal bruge, forsikkelsesvolumen vi skal bruge, hvis vi skal dimensionere til en femårshændelse.
 
 00:18:14
-En anden ting vi kan bruge somper til, ud over det her dimensionering med lave afløbstal, Det er at kigge på, hvad der sker, hvis vi har flere bassiner i række af hinanden, hvor det ene bassin løber ind i det andet bassin.
+En anden ting vi kan bruge Sumba til, ud over det her dimensionering med lave afløbstal, Det er at kigge på, hvad der sker, hvis vi har flere bassiner i række af hinanden, hvor det ene bassin løber ind i det andet bassin.
 
 00:18:25
 Det er noget, der kan være lidt svært at holde styr på, når man bruger Spildevandskomitéens regneark, fordi den forskellige bassiner med forskellige afløbstal, kan have forskellige dimensionsgivende vejeheder for, hvad det er for en regn, der rent faktisk giver det største volume i bassinerne.
@@ -752,7 +752,7 @@ Vi kunne også bruge det her til at variere den hydrologiske reduktionsfaktor, h
 Der ved vi jo her fra afløbsteknik for eksempel, at hvis vi har en lav gentagelsesperiode på vores nødbør, så har vi formentlig også en lav hydrologisk reduktionsfaktor, måske i størrelse over 0,7-0,8, mens hvis det regner rigtig meget, så er den hydrologiske reduktionsfaktor nok snarere i nærheden af én.
 
 00:24:56
-Og det kan vi eskalere med sumper, så vi regner gentagelsesperioden ud på hver enkelt nedbørsserie i vores tidsserie, og så kan vi gange en hydrologisk reduktionsfaktor på afhængig af gentagelsesperioden.
+Og det kan vi eskalere med Sumba, så vi regner gentagelsesperioden ud på hver enkelt nedbørsserie i vores tidsserie, og så kan vi gange en hydrologisk reduktionsfaktor på afhængig af gentagelsesperioden.
 
 00:25:06
 Og endelig kan vi bruge det her til at regne en klimafremskrevet historisk nedbørsserie ud, hvor vi putter klimafaktorer på hver enkelt regnhed til igennem sådan en lang regnserie her.
@@ -833,7 +833,7 @@ Det kan vi kigge på i dag, og det kan vi gøre med Joint Properability, altså 
 Vi har vandføring i vandløbene, vi har noget nedbør over byen, og endelig har vi en vandstand ude i haven, som alle sammen er målt.
 
 00:27:46
-Det kan bygge ind i vores forholdsvis simpele sømbøm-model.
+Det kan bygge ind i vores forholdsvis simpele Sumba-model.
 
 00:27:49
 Vi har vores vandføring, vores nedbør og vores vandstand, og så bygger vi sådan en model og kigger på, hvad bliver vandstanden så inde i de her to laguner, der hedder Lille Vejlesø og Jægersø, som er markeret med sådan en grøn bassin, der hedder Laguner, i vores modelopbygning her.
@@ -860,7 +860,7 @@ Det er også det, der er vist nederst til højre, hvor vi har taget døgnmidlern
 vandstanden og plottet dem op mod hinanden, altså den målte vandstand mod den simulerede vandstand.
 
 00:28:41
-Vi kan se, at de ligger på en 1-1-linje, det vil sige, at vi ikke har nogen bajers i vores model, og vores AERIANMA er 0,85, så det er en rigtig god model til at simulere, hvilken vandstand der vil være i de her laguner.
+Vi kan se, at de ligger på en 1-1-linje, det vil sige, at vi ikke har nogen bias i vores model, og vores AERIANMA er 0,85, så det er en rigtig god model til at simulere, hvilken vandstand der vil være i de her laguner.
 
 00:28:56
 Når vi så har gjort det, så er der i Sumba også en statistikmodul, hvor vi kan tage f.eks.
@@ -869,7 +869,7 @@ Når vi så har gjort det, så er der i Sumba også en statistikmodul, hvor vi k
 de her vandstanden, der er målt i lagunerne og lave ekstremværdifordelingsanalyse på det.
 
 00:29:07
-Her har jeg brugt en Lock Pearson type 2 modell til at beskrive de højeste vandstanden i lagunerne her.
+Her har jeg brugt en Log Pearson type 2 modell til at beskrive de højeste vandstanden i lagunerne her.
 
 00:29:14
 Og så kan jeg komme med et bud på, hvad er den statistiske vandstand i lagunerne ved en 1 års indsætning, ved en 2 års indsætning, ved en 5 års indsætning, 10, 20, 50 og 100 års indsætning.
@@ -932,7 +932,7 @@ Men det kan være to forskellige ting, der skal afrapporteres.
 Om det er det absolute stofmængde, der kommer ud, eller om det er et spørgsmål om, om vi har overskrevet de her miljøkvalitetskrav i forhold til koncentrationen ude i vandløbet.
 
 00:31:22
-Det kan vi også bruge sumper til at regne på.
+Det kan vi også bruge Sumba til at regne på.
 
 00:31:24
 Med hensyn til stoffjernelse, der kan vi gøre det på to forskellige måder.
@@ -1001,7 +1001,7 @@ De data skal vi manipulere i et regneark, og for eksempel fortælle, hvis det ik
 Når vi så har gjort det, så kan vi trykke Import til Sumba, og så får vi en Sumba-model ud, som vi ser her til højre.
 
 00:34:22
-Og endelig, som jeg nævnte, så kan vi også lave nogle rigtig komplicerede zumba-modeller.
+Og endelig, som jeg nævnte, så kan vi også lave nogle rigtig komplicerede Sumba-modeller.
 
 00:34:27
 Nu lyder det jo lidt som om, at sådan nogle boksmodeller er meget, meget simple.
@@ -1040,7 +1040,7 @@ I kunne bruge jeres brocheter.
 Jamen så som sagt, så gør vi Sumba helt frit tilgængeligt nu.
 
 00:35:30
-Og hvis I kunne tænke jer en kopi af Sumba, så er det bare at skrive enten til Jens Toke, som er markedsansvarlig her i WSP Høje Torstrup, eller direkte til mig.
+Og hvis I kunne tænke jer en kopi af Sumba, så er det bare at skrive enten til Jens Toke, som er markedsansvarlig her i WSP Høje Taastrup, eller direkte til mig.
 
 00:35:39
 Så sørger vi for, at vi får sendt et link ud til jer, lige så snart vi har det hele klar.
@@ -1136,16 +1136,16 @@ Grundvand modulerer vi ikke direkte i Sumba.
 Det kunne man godt gøre.
 
 00:38:30
-Vi har også haft nogle modeller, hvor vi har kigget lidt på det og sat en form for en navnmodel op.
+Vi har også haft nogle modeller, hvor vi har kigget lidt på det og sat en form for en NAM-model op.
 
 00:38:38
 Ellers kan man på tidsserie få målt grundvand ind, som man kan bruge til at styre sit bassin efter eller lave en form for indløb til sine bassiner på baggrund af en målt grundvand.
 
 00:38:50
-Vi har ikke et specifikt grundvandsmodul i Sumba, men med de her Lego-klods-elementer har vi også lavet nogle modeller, hvor vi rent faktisk også forsøger at modellere på grundvand, som man ville gøre i en navnmodel, hvor vi har nedbøgerne og jordvandsmagasiner, der kan fyldes op.
+Vi har ikke et specifikt grundvandsmodul i Sumba, men med de her Lego-klods-elementer har vi også lavet nogle modeller, hvor vi rent faktisk også forsøger at modellere på grundvand, som man ville gøre i en NAM-model, hvor vi har nedbøgerne og jordvandsmagasiner, der kan fyldes op.
 
 00:39:12
-og tømmes med fordampning, og på den måde igennem få et bud på, hvordan varierer grønlandsstanden henover året.
+og tømmes med fordampning, og på den måde igennem få et bud på, hvordan varierer grundvandsstanden henover året.
 
 00:39:21
 Det håber jeg.
@@ -1175,7 +1175,7 @@ Er lagt ind på den måde, at du skal definere en tidsserie, der fortæller, hvo
 Den tidsserie står du selv på mål for, men det kan typisk være en tidsserie, som du har downloadet fra DMI.
 
 00:40:02
-Tidsserie over forskellige typer potentiel fordamning, jeg tror både det er Pennmans formel og McKin formel, DMI har til rådighed og som de lægger ud som åbent data.
+Tidsserie over forskellige typer potentiel fordamning, jeg tror både det er Pennmans formel og Makkink formel, DMI har til rådighed og som de lægger ud som åbent data.
 
 00:40:13
 Eller også så kan man lægge det ind som denne her standard tidsserie for enten Jylland eller Fyn over potentiel evapotranspiration.

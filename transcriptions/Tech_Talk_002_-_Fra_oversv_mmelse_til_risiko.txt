@@ -1,5 +1,5 @@
 00:00:56
-Jamen så vil jeg have lov til at sige goddag til det andet Tech Talk i rækken hos DNMK. Jeg er rigtig glad for, at jeg faktisk får lov til at være vært ved det her møde. Så sidste gang fik jeg jo kun lov til at introducere rækken, men Vi er nu i en situation, at Vi er inde på et af de felter, som er helt centrale for det vi arbejder med IDNK som netværk imellem kommuner og forsyninger, borgere, videninstitutioner og andre, så skal vi jo arbejde for at lave bæredygtige byer og Vi skal arbejde på.
+Jamen så vil jeg have lov til at sige goddag til det andet Tech Talk i rækken hos DNNK. Jeg er rigtig glad for, at jeg faktisk får lov til at være vært ved det her møde. Så sidste gang fik jeg jo kun lov til at introducere rækken, men Vi er nu i en situation, at Vi er inde på et af de felter, som er helt centrale for det vi arbejder med IDNK som netværk imellem kommuner og forsyninger, borgere, videninstitutioner og andre, så skal vi jo arbejde for at lave bæredygtige byer og Vi skal arbejde på.
 
 00:01:25
 At få lavet noget god infrastruktur og få lavet en rigtig god udvikling fremadrettet og i det arbejde vi, vi går og gør her, så må vi jo huske på den infrastruktur, vi kigger på, og den meget, den infrastruktur vi laver, når vi laver den. Det er noget som som skal have en levetid på 50, måske 75 år. Med andre ord dem der skal betale det ikke engang nødvendigvis født endnu, så vi laver jo noget, der virkelig rækker langt ud i fremtiden, så Vi skal jo være i stand til at kigge ud i fremtiden og forstå, hvad er det egentlig der sker.
@@ -20,10 +20,10 @@ Nylig var der Jeg tror Det var i forgårs tv 2 Lorry blev rettet om et studie, s
 Det skal vi selvfølgelig ikke stoppe her. Vi skal jo videre. Vi skal jo forstå, hvordan Sådan en risiko udvikles, og Vi skal som mennesker være med til at udvikle, for vi bestemmer jo selv, hvor vi bygger, hvordan vi bygger, og vi bestemmer også i virkeligheden meget af de ting, som gør det muligt for os at leve i en samfund, hvor måske verden og klimaet forandrer sig, så Det er en stor glæde, at hr.
 
 00:03:40
-Karsten linebjerg Nielsen, som er professor og doktor fra DTU til at holde det egentlige indlæg om om risiko og oversvømmelsesmodellering.
+Karsten Arnbjerg-Nielsen, som er professor og doktor fra DTU til at holde det egentlige indlæg om om risiko og oversvømmelsesmodellering.
 
 00:03:48
-Og det, der jo netop her er centralt. Det er at forstå hvordan oversvømmelsen og hvordan oversvømmelsesrisiko forandrer sig både i tid og sted. Så Jeg vil nu give ordet videre til Carsten arnbjerg Nielsen fra DTU velkommen til Karsten.
+Og det, der jo netop her er centralt. Det er at forstå hvordan oversvømmelsen og hvordan oversvømmelsesrisiko forandrer sig både i tid og sted. Så Jeg vil nu give ordet videre til Karsten Arnbjerg-Nielsen fra DTU velkommen til Karsten.
 
 00:04:00
 Tak skal du have ole?
@@ -197,7 +197,7 @@ Fordi han havde det mest fantastiske haveanlæg jeg nogensinde har set, og han v
 Huset Det kan forsikres, men men hans haveanlæg hans karper er nok ikke så nemme at få ind igen, så det giver også en ide om at sige Det kan være svært. Hvad er det for en risiko vi sikrer os i mod? Hvad er det vi kan gardere os imod sker?
 
 00:12:15
-Og hvad er det der bare er tab som ikke skal kan kan forhindres og som ikke kan være svære at fordække, så er der eksponering et billede fra Bodil stormklubben i 2013.
+Og hvad er det der bare er tab som ikke skal kan kan forhindres og som ikke kan være svære at fordække, så er der eksponering et billede fra Bodil stormfloden i 2013.
 
 00:12:28
 Hvor vi kan se Der er bygget et nyt hus, og vi står inde i huset.
@@ -404,7 +404,7 @@ At man siger, at hvis man kan stoppe den heroppe og sige en developer kan klare 
 Et eller andet sted er vi nødt til at stoppe den her bølge af, at vi tør risikoen af på nogen, der enten ikke ved det eller ikke har mulighed for at agere udenfor.
 
 00:23:27
-Mere generelt, så må vi sige, Vi er vant til i Vores sektor, og DNK kommer ud af den her sektor, hvor vi arbejder med vandinosstruktur.
+Mere generelt, så må vi sige, Vi er vant til i Vores sektor, og DNNK kommer ud af den her sektor, hvor vi arbejder med vandinfrastruktur.
 
 00:23:35
 Der Der er det.
@@ -605,7 +605,7 @@ Så så der ligger noget i den her afvejning af glæden ved hverdagen i forhold 
 Og Det kan jeg jo sagtens forstå. Det var gudskelov Sådan set flere solskinstande end regnvejrsdage. Selv selv når man arbejder med oversvømmelse, men at få mennesker væk fra vand, som du selv siger.
 
 00:34:05
-Det kan man jo også ved at bygge i højden, så Der er vel ikke nogen grund til ikke at bygge nede ved solrød, hvis man byggede på stylter, så kunne vi ikke rent faktisk have lært en lille bitte smule af af af folk som thaier, der har igennem nogle millioner eck millioner dog, men mange årtusinder år har boet på en på en flot plan, hvor de blev oversvømmet.
+Det kan man jo også ved at bygge i højden, så Der er vel ikke nogen grund til ikke at bygge nede ved solrød, hvis man byggede på stylter, så kunne vi ikke rent faktisk have lært en lille bitte smule af af af folk som thaier, der har igennem nogle millioner eck millioner dog, men mange årtusinder år har boet på en på en flodplan, hvor de blev oversvømmet.
 
 00:34:25
 En gang om året, og derfor lærte at bygge et ækvalt. Så er vi måske dygtige nok til at overtage teknologi fra andre lande, og kunne vi faktisk overtage noget teknologi og metoder for den slags steder at indbygge dem i Vores egen planlægning og Vores egen bygningsstyringer, der ligger fordi Der er jo nogen, der søger byggetilladelse til at bygge på terrænniveau på solrød Strand. Men de kunne måske have fået byggetilladelse til at bygge på stylter i stedet.
@@ -614,7 +614,7 @@ En gang om året, og derfor lærte at bygge et ækvalt. Så er vi måske dygtige
 Jamen Det er jeg helt enig med dig i altså teknologierne er jo kendt og og når man går rundt i Australien.
 
 00:34:56
-Specielt II brismen som Jeg er fantastisk by, men der kan man jo se der ligger der mange huse II området der simpelthen ligger hvor huset egentlig starter i 4 meters højde.
+Specielt II Brisbane som Jeg er fantastisk by, men der kan man jo se der ligger der mange huse II området der simpelthen ligger hvor huset egentlig starter i 4 meters højde.
 
 00:35:06
 Og Det er fordi Det er dertil floden deroppe så så Der er klart et potentiale for at Vi skal gøre det. Vi skal bare også finde ud af, hvornår er det så man skal gøre det.
@@ -725,13 +725,13 @@ Og og Det var egentlig lidt det jeg så som det individuelle.
 Så så jeg tænker lidt måske for at at også kigge lidt på de her aktører fordi Jeg synes Det var en 2 del af det som er din præsentation som Jeg synes har været fantastisk spændende. Det er jo netop hvor hvor netværksbaseret Det er og hvor fantastisk vigtigt Det er at man får forskellige aktører bragt ind og og Det er jo faktisk noget af det vi prøver på at gøre i det andet på fordi vi mener at de her store udfordringer.
 
 00:41:11
-Kan man ikke løse som Forsyning eller Forsyning eller Kommune eller Universitet? Vi er nødt til at arbejde sammen og trække på samme hammel, og derfor er vi jo enormt glade for for for DTU og for for din indsats, som som jo er er er inden for en meget, meget dyb inden for et fagområde. Men hvordan er det for dig, som som forsker og medlem af Sådan et DNMK at få den her viden ud, hvor hvor meget af den viden har du?
+Kan man ikke løse som Forsyning eller Forsyning eller Kommune eller Universitet? Vi er nødt til at arbejde sammen og trække på samme hammel, og derfor er vi jo enormt glade for for for DTU og for for din indsats, som som jo er er er inden for en meget, meget dyb inden for et fagområde. Men hvordan er det for dig, som som forsker og medlem af Sådan et DNNK at få den her viden ud, hvor hvor meget af den viden har du?
 
 00:41:36
 En fornemmelse af, at noget du får lov at sidde med selv?
 
 00:41:39
-Og hvor meget af den viden er noget du føler, bliver i virkeligheden optaget i af alle de forskellige aktører, der udenom og måske efterspurgt på en 2 måde, hvad kunne vi gøre IDANNK for at hjælpe dig med at få den viden ud?
+Og hvor meget af den viden er noget du føler, bliver i virkeligheden optaget i af alle de forskellige aktører, der udenom og måske efterspurgt på en 2 måde, hvad kunne vi gøre IDNNK for at hjælpe dig med at få den viden ud?
 
 00:41:53
 Jeg synes Det er 2 ting altså det ene er jeg Jeg har. Jeg har lige siddet og brugt tid på at slutte høringssvar til klimatilpasningslån, så dens bekendtgørelse Jeg har skrevet et notat som som lige som behandling på Københavns Kommune og Hvidovre Kommunes.
@@ -743,7 +743,7 @@ Teknik og miljøforvaltningen her her om om 1,5 uge. Det tror jeg Det er en del 
 Det det tror jeg kommer.
 
 00:42:16
-Når vi snakker om DNK og den rolle Der er der, så tror jeg det vigtigste, Vi har brug for. Det er i virkeligheden, at Der er nogen, der har lyst til at lege med os, fordi Der er rigtig mange, der kommer til det her er svært for mig.
+Når vi snakker om DNNK og den rolle Der er der, så tror jeg det vigtigste, Vi har brug for. Det er i virkeligheden, at Der er nogen, der har lyst til at lege med os, fordi Der er rigtig mange, der kommer til det her er svært for mig.
 
 00:42:27
 Så løs lige det her problem Universitet i stedet for at sige OK Vi har nogle forskningsspørgsmål i har nogle løse spørgsmål der skal løses, hvordan kan vi sammen finde en formulering og så gå ud i verden og finde penge til det?
@@ -809,7 +809,7 @@ December eller i tech talk i december, som om han er nedbørsmålinger.
 Som kommer på og så er der igen tex talks i januar.
 
 00:45:51
-Så alle mulige gode grunde til at Stage un på DNNK kanalen være med på flere Tech Talk hver onsdag.
+Så alle mulige gode grunde til at stay tuned på DNNK kanalen være med på flere Tech Talk hver onsdag.
 
 00:45:59
 Fra cirka 12-1 så 1000. Tak for i dag.

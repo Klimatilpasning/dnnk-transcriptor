@@ -2717,98 +2717,85 @@
   "transcriptions\\Godmorgen_med_DNNK_om_Naturbaserede_l_sninger.mp3.txt": {
     "anvendt": [
       {
-        "forkert": "tiktok",
-        "rettet": "Tech Talk",
-        "antal": 1
-      },
-      {
-        "forkert": "DNDK",
-        "rettet": "DNNK",
-        "antal": 1
-      },
-      {
-        "forkert": "IIDNIK",
-        "rettet": "DNNK",
-        "antal": 1
-      },
-      {
-        "forkert": "nias",
-        "rettet": "NIRAS",
-        "antal": 1
-      },
-      {
-        "forkert": "ystræde Kommune",
-        "rettet": "Ystad Kommune",
-        "antal": 1
-      },
-      {
-        "forkert": "lommer Kommune",
-        "rettet": "Lomma Kommune",
-        "antal": 1
-      },
-      {
-        "forkert": "quorning",
-        "rettet": "Kvorning",
-        "antal": 3
-      },
-      {
-        "forkert": "klovning",
-        "rettet": "Kvorning",
-        "antal": 1
-      },
-      {
-        "forkert": "tekttalk",
-        "rettet": "Tech Talk",
-        "antal": 1
-      },
-      {
-        "forkert": "Dnk.dk",
-        "rettet": "DNNK.dk",
-        "antal": 1
-      }
-    ],
-    "afvist": [
-      {
-        "forkert": "butrup Pedersen",
-        "rettet": "Baattrup Pedersen",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "Livecost adaptapt",
-        "rettet": "LIFE CoastAdapt",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "skoleregionen",
-        "rettet": "Skåne-regionen",
-        "grund": "afvist"
-      },
-      {
         "forkert": "corny",
         "rettet": "Kvorning",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "cogning",
-        "rettet": "Kvorning",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "clovning",
-        "rettet": "Kvorning",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "quoning",
-        "rettet": "Kvorning",
-        "grund": "afvist"
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
         "forkert": "quaning",
         "rettet": "Kvorning",
-        "grund": "afvist"
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "cogning",
+        "rettet": "Kvorning",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "selfacesment tool",
+        "rettet": "self-assessment tool",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "world been",
+        "rettet": "wellbeing",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "human world being",
+        "rettet": "human wellbeing",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "deliverles",
+        "rettet": "deliverables",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "deliberable",
+        "rettet": "deliverable",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "blomsterpræmmer",
+        "rettet": "blomsterbræmmer",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "læringsstofomsætning",
+        "rettet": "næringsstofomsætning",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "torturbaseret løsninger",
+        "rettet": "naturbaserede løsninger",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Livecost adaptapt",
+        "rettet": "LIFE CoastAdapt",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "skoleregionen",
+        "rettet": "Skåneregionen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
-    ]
+    ],
+    "afvist": []
   },
   "transcriptions\\Interessentinddragelse_v.txt": {
     "anvendt": [
@@ -3463,78 +3450,103 @@
   "transcriptions\\T_rke_og_Hede_i_Danmark_2__T_rke_og_Klimatilpasning_i_Dansk_.mp3.txt": {
     "anvendt": [
       {
-        "forkert": "DNAK",
-        "rettet": "DNNK",
-        "antal": 1
-      },
-      {
-        "forkert": "Jørgen i Olesen",
-        "rettet": "Jørgen E. Olesen",
-        "antal": 1
-      },
-      {
-        "forkert": "Jørgen Olsen",
-        "rettet": "Jørgen Olesen",
-        "antal": 1
-      },
-      {
-        "forkert": "noah",
-        "rettet": "NOAA",
-        "antal": 1
-      },
-      {
-        "forkert": "II science",
-        "rettet": "i Science",
-        "antal": 1
-      },
-      {
-        "forkert": "Povs Universitet",
-        "rettet": "Aarhus Universitet",
-        "antal": 1
-      }
-    ],
-    "afvist": [
-      {
-        "forkert": "Annette bottrup Petersen",
-        "rettet": "Annette Rosenbom Petersen",
-        "grund": "afvist"
+        "forkert": "Cornelius pans",
+        "rettet": "Kornelius Pagels",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
         "forkert": "epcrapporterne",
         "rettet": "IPCC-rapporterne",
-        "grund": "afvist"
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "FPS miljøagentur",
-        "rettet": "EU's miljøagentur",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "i yeah science",
-        "rettet": "i Science",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "sikke",
-        "rettet": "SEGES",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "agro voltotek",
-        "rettet": "agrovoltaic",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "r krig voldtight",
-        "rettet": "agrovoltaic",
-        "grund": "afvist"
+        "forkert": "beuniversitet",
+        "rettet": "biodiversitet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
         "forkert": "kina tilpasningsmæssigt",
         "rettet": "klimatilpasningsmæssigt",
-        "grund": "afvist"
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "agro voltotek",
+        "rettet": "agrivoltaic",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "r krig voldtight",
+        "rettet": "agrivoltaic",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kernemejs",
+        "rettet": "kernemajs",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kernevejs",
+        "rettet": "kernemajs",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "mejsen",
+        "rettet": "majsen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kvæststof",
+        "rettet": "kvælstof",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kvæster",
+        "rettet": "kvælstof",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "nærændstof",
+        "rettet": "kvælstof",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "krundpriser",
+        "rettet": "kornpriser",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "korndpriser",
+        "rettet": "kornpriser",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kortpriser",
+        "rettet": "kornpriser",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "I yeah science",
+        "rettet": "i Science",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
-    ]
+    ],
+    "afvist": []
   },
   "transcriptions\\T_rke_og_Hede_i_Danmark_3__Data_og_Vandindvinding.mp3.txt": {
     "anvendt": [
@@ -3964,9 +3976,106 @@
   "transcriptions\\Tech_Talk_001_-_Sygdomssporing_i_Spildevand.txt": {
     "anvendt": [
       {
-        "forkert": "tiktok",
-        "rettet": "Tech Talk",
-        "antal": 2
+        "forkert": "metanilom",
+        "rettet": "metagenomik",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "metakognisk segmentering",
+        "rettet": "metagenomisk sekventering",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "metaine segmentering",
+        "rettet": "metagenomisk sekventering",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "meticonvejen",
+        "rettet": "metagenomvejen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "meteorinum analyse",
+        "rettet": "metagenomanalyse",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "min egen segmentering",
+        "rettet": "metagenomsekventering",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kommuniseret",
+        "rettet": "koloniseret",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kuliseret",
+        "rettet": "koloniseret",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kokoniseret",
+        "rettet": "koloniseret",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "davidy",
+        "rettet": "DALY",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "phantom crob assistents",
+        "rettet": "antimikrobiel resistens",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "mindeejeren",
+        "rettet": "MinION",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "glukode tidresistens",
+        "rettet": "glykopeptidresistens",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "global sider",
+        "rettet": "glykopeptider",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "spilørslanlæg",
+        "rettet": "spildevandsanlæg",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "salighed storm p",
+        "rettet": "salig Storm P",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "dobbelt o",
+        "rettet": "WHO",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -3974,9 +4083,64 @@
   "transcriptions\\Tech_Talk_002_-_Fra_oversv_mmelse_til_risiko.txt": {
     "anvendt": [
       {
-        "forkert": "tiktok",
-        "rettet": "Tech Talk",
-        "antal": 2
+        "forkert": "Karsten linebjerg Nielsen",
+        "rettet": "Karsten Arnbjerg-Nielsen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Carsten arnbjerg Nielsen",
+        "rettet": "Karsten Arnbjerg-Nielsen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DNMK",
+        "rettet": "DNNK",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DNK",
+        "rettet": "DNNK",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "IDANNK",
+        "rettet": "IDNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "vandinosstruktur",
+        "rettet": "vandinfrastruktur",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "stormklubben",
+        "rettet": "stormfloden",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "brismen",
+        "rettet": "Brisbane",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "flot plan",
+        "rettet": "flodplan",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Stage un",
+        "rettet": "stay tuned",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -4787,153 +4951,67 @@
   "transcriptions\\Tech_Talk__SUMBA___nem_og_hurtig_hydraulisk_modellering.mp3.txt": {
     "anvendt": [
       {
-        "forkert": "Jørgen Pedersen",
-        "rettet": "Jørgen Torp Pedersen",
-        "antal": 1
+        "forkert": "Høje Torstrup",
+        "rettet": "Høje Taastrup",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "Zumba",
+        "forkert": "bajers",
+        "rettet": "bias",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "navnmodel",
+        "rettet": "NAM-model",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "grønlandsstanden",
+        "rettet": "grundvandsstanden",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "McKin formel",
+        "rettet": "Makkink formel",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Lock Pearson",
+        "rettet": "Log Pearson",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "sømbøm-model",
+        "rettet": "Sumba-model",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "zumba-modeller",
+        "rettet": "Sumba-modeller",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "sumper",
         "rettet": "Sumba",
-        "antal": 43
+        "antal": 6,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "VSP",
-        "rettet": "WSP",
-        "antal": 5
-      },
-      {
-        "forkert": "lardimensionering",
-        "rettet": "LAR-dimensionering",
-        "antal": 1
-      },
-      {
-        "forkert": "foregås",
-        "rettet": "WSP",
-        "antal": 1
-      },
-      {
-        "forkert": "Moen",
-        "rettet": "Morten",
-        "antal": 1
-      },
-      {
-        "forkert": "hunes",
-        "rettet": "en hel",
-        "antal": 1
-      },
-      {
-        "forkert": "Spillevandskomitéens",
-        "rettet": "Spildevandskomitéens",
-        "antal": 3
-      },
-      {
-        "forkert": "Spillemandskomitéens",
-        "rettet": "Spildevandskomitéens",
-        "antal": 1
-      },
-      {
-        "forkert": "øremodeller",
-        "rettet": "hydrauliske modeller",
-        "antal": 1
-      },
-      {
-        "forkert": "Reinaark",
-        "rettet": "regneark",
-        "antal": 1
-      },
-      {
-        "forkert": "mandingtal",
-        "rettet": "manningstal",
-        "antal": 2
-      },
-      {
-        "forkert": "mydelintensitet",
-        "rettet": "middelintensitet",
-        "antal": 1
-      },
-      {
-        "forkert": "mydelintensiteter",
-        "rettet": "middelintensiteter",
-        "antal": 1
-      },
-      {
-        "forkert": "Jess Follersen",
-        "rettet": "Jes Vollertsen",
-        "antal": 1
-      },
-      {
-        "forkert": "VDP-software",
-        "rettet": "WDP-software",
-        "antal": 1
-      },
-      {
-        "forkert": "tybe-tal",
-        "rettet": "typetal",
-        "antal": 1
-      },
-      {
-        "forkert": "tybetalt",
-        "rettet": "typetal",
-        "antal": 1
-      },
-      {
-        "forkert": "Skovsbo",
-        "rettet": "Skovbo",
-        "antal": 1
-      },
-      {
-        "forkert": "forårs",
-        "rettet": "Forsyning",
-        "antal": 1
+        "forkert": "somper",
+        "rettet": "Sumba",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
-    "afvist": [
-      {
-        "forkert": "Stoffels Indby",
-        "rettet": "Christoffer Vindby",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "lardimensioneringsregnerakket",
-        "rettet": "LAR-dimensioneringsregnearket",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "basængdimensioneringsregneark",
-        "rettet": "bassindimensioneringsregneark",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "basængvolumet",
-        "rettet": "bassinvolumet",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "mikrometer",
-        "rettet": "liter",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "notche",
-        "rettet": "justere",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "AERIANMA",
-        "rettet": "R-kvadreret",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "Orbus",
-        "rettet": "Orbicon",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "Forsbo",
-        "rettet": "Skovbo Forsyning",
-        "grund": "afvist"
-      }
-    ]
+    "afvist": []
   },
   "transcriptions\\Tech_Talk__SUMBA___nem_og_hurtig_hydraulisk_modellering.txt": {
     "anvendt": [
@@ -20397,6 +20475,47 @@
       {
         "forkert": "consol",
         "rettet": "COMSOL",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Godmorgen med DNNK - Webinar om Klimaatlas.txt": {
+    "anvendt": [
+      {
+        "forkert": "allah",
+        "rettet": "Allan",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kystsoratet",
+        "rettet": "Kystdirektoratet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "svego",
+        "rettet": "Sweco",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ACP 4,5",
+        "rettet": "RCP 4,5",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ACP 8,5",
+        "rettet": "RCP 8,5",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "SEP 8,5",
+        "rettet": "RCP 8,5",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
       }
