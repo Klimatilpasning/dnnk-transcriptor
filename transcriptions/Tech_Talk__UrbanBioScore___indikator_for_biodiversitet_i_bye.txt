@@ -98,7 +98,7 @@ Og så er der de her modeller til beregning af urban 4 score.
 Der er udgivet de vejledninger til, hvordan dataindsamlingen foregår, og Der er udviklet den her app.
 
 00:07:20
-Og, Der er udgivet de forskellige rapporter, som i kan se her til højre, der beskriver beregningen af sporen, men også hvordan man indsamler alt data, og Det kan altsammen hentes på linket, der står her, som i også eller på Institut for e designs hjemmeside. Hvis i søger på på ørben bangsgaard.
+Og, Der er udgivet de forskellige rapporter, som i kan se her til højre, der beskriver beregningen af sporen, men også hvordan man indsamler alt data, og Det kan altsammen hentes på linket, der står her, som i også eller på Institut for e designs hjemmeside. Hvis i søger på på Urban BioScore.
 
 00:07:40
 Der er noget baggrundsdata til at lave Sådan en score. Det er en lineær model som er baseret på data fra 789 habitater. Det er indsamlet.
@@ -224,7 +224,7 @@ Af økonomier skov, og Det kan jo så bruges i.
 Til til efterregistrering, og man kan kan pointere flere forskellige arter efterfølgende, men det indgår ikke i skoren endnu.
 
 00:14:48
-Når man så har indtastet sin data, så kan man downloade en CSV fil, som man så kan importere direkte i sin i beregningsmodulet for for bernskum. Og så får man sine resultater ud. Og her er der et eksempel på en lokalitet, som består af af nogle forskellige habitaltyper, og der kan i se også at belægning giver nul point og bygning giver nul point for det.
+Når man så har indtastet sin data, så kan man downloade en CSV fil, som man så kan importere direkte i sin i beregningsmodulet for for Urban BioScore. Og så får man sine resultater ud. Og her er der et eksempel på en lokalitet, som består af af nogle forskellige habitaltyper, og der kan i se også at belægning giver nul point og bygning giver nul point for det.
 
 00:15:13
 Det regner vi ind på den måde.
@@ -293,7 +293,7 @@ Og og de her hække foran, og der kunne man forestille sig, at anbefalingerne s�
 Så der vil her på Rådhuspladsen vil hele det her store areal sandsynligvis give meget lav bio square. Det er jo ikke Det er jo Det er jo grus, og der kan godt være livsteder her. Men hvis det nu var asfalt for eksempel, ville det helt sikkert give nulopbygninger ikke ville give nul.
 
 00:20:04
-Men hvis vi begynder at erstatte når noget af det her areal med med nogle habitater med ressourcer og struktur og vegetationsstruktur, så får vi bagsgaard på hele.
+Men hvis vi begynder at erstatte når noget af det her areal med med nogle habitater med ressourcer og struktur og vegetationsstruktur, så får vi Urban BioScore på hele.
 
 00:20:16
 Arealet.

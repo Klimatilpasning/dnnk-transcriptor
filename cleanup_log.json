@@ -3551,9 +3551,28 @@
   "transcriptions\\T_rke_og_Hede_i_Danmark_3__Data_og_Vandindvinding.mp3.txt": {
     "anvendt": [
       {
-        "forkert": "DNAK",
-        "rettet": "DNNK",
-        "antal": 1
+        "forkert": "Cornelius pals",
+        "rettet": "Kornelius Pagels",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "se's",
+        "rettet": "SEGES",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "sikker innovation",
+        "rettet": "SEGES Innovation",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Sikkers innovation",
+        "rettet": "SEGES Innovation",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -4424,19 +4443,10 @@
   "transcriptions\\Tech_Talk_-_Oversv_mmelsesberegninger_med_integrerede_modell.txt": {
     "anvendt": [
       {
-        "forkert": "tiktok",
+        "forkert": "tik token",
         "rettet": "Tech Talk",
-        "antal": 1
-      },
-      {
-        "forkert": "tik tok",
-        "rettet": "Tech Talk",
-        "antal": 1
-      },
-      {
-        "forkert": "tektop",
-        "rettet": "Tech Talk",
-        "antal": 1
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -6777,14 +6787,22 @@
   "transcriptions\\Tech_Talk__UrbanBioScore___indikator_for_biodiversitet_i_bye.txt": {
     "anvendt": [
       {
-        "forkert": "DNAK",
-        "rettet": "DNNK",
-        "antal": 1
+        "forkert": "ørben bangsgaard",
+        "rettet": "Urban BioScore",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "tiktok",
-        "rettet": "Tech Talk",
-        "antal": 3
+        "forkert": "bernskum",
+        "rettet": "Urban BioScore",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "bagsgaard",
+        "rettet": "Urban BioScore",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -22789,6 +22807,75 @@
         "rettet": "VeVa",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Godmorgen_med_DNNK__Klimatilpasning_og_kystbeskyttelse_i_K_g.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "Cornelius Pahls",
+        "rettet": "Kornelius Pagels",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "COVID",
+        "rettet": "COWI",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Køstdektoratets",
+        "rettet": "Kystdirektoratets",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kystsektoratets",
+        "rettet": "Kystdirektoratets",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Rødvi",
+        "rettet": "Rødvig",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Sikertalet",
+        "rettet": "sekretariatet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Mars-dierne",
+        "rettet": "marskdigerne",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Oevrige_0jnsC5JPHvA_20260826_063219.txt": {
+    "anvendt": [
+      {
+        "forkert": "hedsted Kommune",
+        "rettet": "Hedensted Kommune",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\DNNK_Masterclass__Planl_gning__drift_og__konomi_i_LAR-anl_g_.mp3 (2).txt": {
+    "anvendt": [
+      {
+        "forkert": "",
+        "rettet": "",
+        "antal": 0,
+        "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
       }
     ],
     "afvist": []
