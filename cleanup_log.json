@@ -593,6 +593,12 @@
         "forkert": "city's for life",
         "rettet": "Cities for Life",
         "antal": 1
+      },
+      {
+        "forkert": "",
+        "rettet": "",
+        "antal": 0,
+        "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
       }
     ],
     "afvist": [
@@ -3442,33 +3448,19 @@
   "transcriptions\\Optagelse_af_Pitch_3_Remoni.mp3.txt": {
     "anvendt": [
       {
-        "forkert": "joine Technology",
-        "rettet": "Joint Technology",
-        "antal": 1
+        "forkert": "dæmoni",
+        "rettet": "Remoni",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "vermoni",
+        "rettet": "Remoni",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
-    "afvist": [
-      {
-        "forkert": "clay one",
-        "rettet": "clamp-on",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "non reven water",
-        "rettet": "non-revenue water",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "skattesystem",
-        "rettet": "SCADA-system",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "hepware",
-        "rettet": "hardware",
-        "grund": "afvist"
-      }
-    ]
+    "afvist": []
   },
   "transcriptions\\Optagelse_af_Pitch_4_GeopartnerInspections.mp3.txt": {
     "anvendt": [
@@ -7733,6 +7725,12 @@
         "forkert": "for os folk",
         "rettet": "fosfor",
         "antal": 1
+      },
+      {
+        "forkert": "",
+        "rettet": "",
+        "antal": 0,
+        "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
       }
     ],
     "afvist": [
@@ -25961,6 +25959,115 @@
     "afvist": []
   },
   "transcriptions\\Climate_Adaptation_Summit_2024_-_Staffan_Moberg.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "",
+        "rettet": "",
+        "antal": 0,
+        "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Oevrige_0TMF_z4f6Cc_20260911_103657.txt": {
+    "anvendt": [
+      {
+        "forkert": "Y. Gil",
+        "rettet": "Jan Gehl",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ikke Nordisks",
+        "rettet": "Novo Nordisks",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Arrangementer_mWG_TwwiPkw_20260826_122559.txt": {
+    "anvendt": [
+      {
+        "forkert": "Ramoni",
+        "rettet": "Remoni",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Arrangementer_DaKuQ9hKYF0_20260826_121829.txt": {
+    "anvendt": [
+      {
+        "forkert": "Rockpool",
+        "rettet": "ROCKWOOL",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Stingmulden",
+        "rettet": "stenuld",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "blockflow",
+        "rettet": "RockFlow",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Blockflow",
+        "rettet": "RockFlow",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Miløstyrrelsen",
+        "rettet": "Miljøstyrelsen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "fydraulisk",
+        "rettet": "hydraulisk",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\V.I.P.__RobSub.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "Janne bird Robert",
+        "rettet": "Universal Robots",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "oddex",
+        "rettet": "Odense Robotics",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Odense barnx",
+        "rettet": "Odense Robotics",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "rapshop",
+        "rettet": "RobSub",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Climate_Adaptation_Summit_2024_-_Jennifer_Cherrier.mp3.txt": {
     "anvendt": [
       {
         "forkert": "",

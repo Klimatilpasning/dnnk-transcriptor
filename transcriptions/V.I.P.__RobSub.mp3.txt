@@ -14,16 +14,16 @@ Så derfor besluttede vi os for, at der måtte simpelthen være en nemmere måde
 Og deres deres første tanke var simpelthen. Lad os bytte nogle godt der kan gøre det i stedet for de mennesker, der gør det nu. Det eneste problem var, at de havde ingen ide om hvordan man byggede en robot, så der skulle de ud og have have fat i nogle mennesker der kunne der kunne finde ud af det.
 
 00:01:06
-Så det ringede over til til Odense på oddex Vi har Sådan en god robotkloster i Odense, hvor der sidder nogle meget kompetente mennesker inde på robotter, og jeg fik de fat på blandt andet Esben Østergaard, som er founder af det, der hedder Janne bird Robert, som er i dag er Danmarks største robot virksomhed.
+Så det ringede over til til Odense på Odense Robotics Vi har Sådan en god robotkloster i Odense, hvor der sidder nogle meget kompetente mennesker inde på robotter, og jeg fik de fat på blandt andet Esben Østergaard, som er founder af det, der hedder Universal Robots, som er i dag er Danmarks største robot virksomhed.
 
 00:01:25
-Derudover fik de også fat i Peter smedegaard, som sidder hos Odense barnx som business level-ment manager.
+Derudover fik de også fat i Peter smedegaard, som sidder hos Odense Robotics som business level-ment manager.
 
 00:01:31
 Og fik overbevist de her 2 robotfolk om at det her var var en god ide.
 
 00:01:37
-Og Sådan gik de os sammen for at stifte rapshop med en mission om at forene robotteknologi og vandforsyning. Så Det er simpelthen det, der ligger til baggrunden for, at det startede Vores virksomhed.
+Og Sådan gik de os sammen for at stifte RobSub med en mission om at forene robotteknologi og vandforsyning. Så Det er simpelthen det, der ligger til baggrunden for, at det startede Vores virksomhed.
 
 00:01:51
 Så det vi gerne vil med Vores robot. Det er at automatisere processen i at udskifte og reparere vandrør.
