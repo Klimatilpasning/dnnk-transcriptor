@@ -5890,14 +5890,34 @@
   "transcriptions\\Tech_Talk_022_-_Funktionelle_regnbede_der_virker_fra_dag_1__.txt": {
     "anvendt": [
       {
-        "forkert": "tiktok",
-        "rettet": "Tech Talk",
-        "antal": 1
+        "forkert": "FLN",
+        "rettet": "FLL",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "tik tok",
-        "rettet": "Tech Talk",
-        "antal": 1
+        "forkert": "FNL",
+        "rettet": "FLL",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "makedon",
+        "rettet": "makadam",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tiktokken",
+        "rettet": "Tech Talken",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "NN ks",
+        "rettet": "DNNK's",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -6954,9 +6974,40 @@
   "transcriptions\\Tech_Talk__Kunstig_og_menneskelig_viden_i_den_digitale_vandf.mp3.txt": {
     "anvendt": [
       {
-        "forkert": "DNAK",
-        "rettet": "DNNK",
-        "antal": 1
+        "forkert": "COVID",
+        "rettet": "COWI",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Covi",
+        "rettet": "COWI",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Kone",
+        "rettet": "COWI",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "PVD",
+        "rettet": "ph.d.",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "P.O.D.",
+        "rettet": "ph.d.",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "PUD",
+        "rettet": "ph.d.",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -23972,6 +24023,134 @@
     "afvist": []
   },
   "transcriptions\\Tech_Talk_017_-_Biologiske_vandbehandlingsprincipper_fra_sv_.txt": {
+    "anvendt": [
+      {
+        "forkert": "",
+        "rettet": "",
+        "antal": 0,
+        "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Oevrige_hAU-rCQOZkA_20260826_151404.txt": {
+    "anvendt": [
+      {
+        "forkert": "Friksberg",
+        "rettet": "Frederiksberg",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Fred Reksberg",
+        "rettet": "Frederiksberg",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Friksbergstenen",
+        "rettet": "Frederiksbergstenen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Byudvikling_i_forbindelse_med_stormflods-_og_kystsikring_af_ (1).txt": {
+    "anvendt": [
+      {
+        "forkert": "tårnbæk Kommune",
+        "rettet": "Tårnby Kommune",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "høstdirektoratet",
+        "rettet": "Kystdirektoratet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "krydstdirektoratet",
+        "rettet": "Kystdirektoratet",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kunstdirektoratet",
+        "rettet": "Kystdirektoratet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Konferencer_elScwJQmftw_20260826_063047.txt": {
+    "anvendt": [
+      {
+        "forkert": "Septem",
+        "rettet": "SCALGO",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Lyngbykevejen",
+        "rettet": "Lyngbyvejen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Gensof",
+        "rettet": "Gentofte",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "vejrbrug",
+        "rettet": "Værebro Å",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "værbå",
+        "rettet": "Værebro Å",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Værbro Å",
+        "rettet": "Værebro Å",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ryparkestationen",
+        "rettet": "Ryparken Station",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "EDAL kommune",
+        "rettet": "Egedal Kommune",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Givinformatik",
+        "rettet": "Geoinformatik",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Givvenskab",
+        "rettet": "Geovidenskab",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Tech_Talk_003_-_Sustainable_Climate_Adaptation.txt": {
     "anvendt": [
       {
         "forkert": "",

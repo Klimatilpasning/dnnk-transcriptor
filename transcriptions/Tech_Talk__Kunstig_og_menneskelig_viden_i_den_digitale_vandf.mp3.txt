@@ -14,7 +14,7 @@ Lidt om det praktiske, så kan I stille spørgsmål under Tech Talken i chatten,
 Så husk endelig at byde ind under rejse i chatten, Dagens Tech Talk er i dag med Jonas Falzerano Jensen, Ph.D.
 
 00:00:45
-i teknoanthropologi og specialist ved COVID.
+i teknoanthropologi og specialist ved COWI.
 
 00:00:49
 Han vil fortælle om, hvordan en menneskelig og kunstig intelligent kan bidrage til en bedre og sikre vandforsyning.
@@ -32,10 +32,10 @@ Tusind tak for ordet, Christoffer.
 Mit navn er Jonas Jessen.
 
 00:01:11
-Jeg er her for et par måneder siden startet i Covi, hvor jeg beskæftigede mig med digitalisering i vandbranchen, og mere specifikt med struktureret vedligehold af værdier, eller det vi kalder asset management.
+Jeg er her for et par måneder siden startet i COWI, hvor jeg beskæftigede mig med digitalisering i vandbranchen, og mere specifikt med struktureret vedligehold af værdier, eller det vi kalder asset management.
 
 00:01:26
-Inden da har jeg skrevet en PUD ved Aalborg Universitet, også omkring digitalisering i vandbranchen.
+Inden da har jeg skrevet en ph.d. ved Aalborg Universitet, også omkring digitalisering i vandbranchen.
 
 00:01:35
 Og på baggrund af det skal jeg i dag fortælle jer lidt om, som sagt, om det, som jeg har valgt at kalde kunstig og menneskelig viden og intelligens i den digitale vandforsyning.
@@ -50,7 +50,7 @@ Ja, faktisk så vil jeg fokuserer på relationen mellem det tekniske og det menn
 Og det kommer sig af, at jeg har en baggrund inden for antropologien.
 
 00:02:18
-Og det er også inden for antropologien, at jeg har skrevet min PVD, som jeg afsluttede her i oktober 2024.
+Og det er også inden for antropologien, at jeg har skrevet min ph.d., som jeg afsluttede her i oktober 2024.
 
 00:02:24
 Så jeg vil gerne starte med at kaste os ud i et indblik i vand fra et antropologisk Og det skal ikke forstås kun på den måde, at mennesker historisk set har valgt at bosætte sig og interagere med vandløb og vandsystemer på mange forskellige måder.
@@ -173,7 +173,7 @@ Altså på samarbejde, kultur og arbejdsgange som værende væsentlige elementer
 Men det er altså her, det begyndte at blive rigtig interessant for mig som antropolog.
 
 00:10:24
-Det var faktisk så spændende, at jeg brugte de 3-4 år af min tid som P.O.D.
+Det var faktisk så spændende, at jeg brugte de 3-4 år af min tid som ph.d.
 
 00:10:28
 på at blive klogere på netop den her relation, altså relationen mellem teknologi og mennesker.
@@ -200,7 +200,7 @@ Men jeg vil skylde mig at påpege, at tankerne bag gør sig også gældende inde
 Det, jeg vil specificere her, det er, at som entropolog, der bestod min rolle i projektet i at bringe informationer fra den virkelige verden ved forsyningerne, og deres brug af digitale løsninger, og muligvis også barrierene, der blev oplevet for implementering af digitale løsninger, og bringe alle de her informationer tilbage ind til laboratoriet, sådan at vi som team kunne udvikle nogle løsninger, der svarer til de udfordringer og til de behov af barriere, der reelt er derude.
 
 00:12:12
-Så helt konkret, Der lavede jeg i løbet af min PUD cirka 12 måneders antropologisk feltarbejde i den danske vandbranche.
+Så helt konkret, Der lavede jeg i løbet af min ph.d. cirka 12 måneders antropologisk feltarbejde i den danske vandbranche.
 
 00:12:23
 Blandt forsyningerne både ude i marken og på kontoret, hos leverandører, interesseorganisationer, i laboratorier.
@@ -566,13 +566,13 @@ Konkrete redskaber til denne dialog?
 Jeg går ud fra, at du henviser til den sidste del af præsentationen.
 
 00:34:48
-Det er noget, som jeg har en lille smule erfaring med fra min PUD, men det er faktisk noget af det, som jeg på nuværende tidspunkt er ved at udvikle i COVID.
+Det er noget, som jeg har en lille smule erfaring med fra min ph.d., men det er faktisk noget af det, som jeg på nuværende tidspunkt er ved at udvikle i COWI.
 
 00:35:04
 Så erfaringsgrundlaget er ikke enormt stort, men det har været i form af workshop-baserede aktiviteter, hvor at vi har samlet på tværs af branchen, altså forskellige organisationer, men også på tværs af forskellige funktioner inden for forsyningerne, så vi i virkeligheden har faciliteret en erfaringsudveksling på tværs af branchen, men også i dybden inden for organisationen.
 
 00:35:40
-Det er noget, som vi stadigvæk tænker ind i, og som vi udvikler på i Kone.
+Det er noget, som vi stadigvæk tænker ind i, og som vi udvikler på i COWI.
 
 00:35:46
 Super.
