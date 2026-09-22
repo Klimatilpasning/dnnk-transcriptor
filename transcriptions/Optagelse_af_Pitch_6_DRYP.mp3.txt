@@ -1,11 +1,11 @@
 00:00:00
-Jeg hedder Peter rash jeg kommer fra firmaet dryp og dryp er Inter lige kommer op og køre her, så kan jeg jo sige en af de 3 virksomheder som Claus nævnte det i starten, som altså er delvist eget Aarhus Vand og Det har ikke så meget med om nu, men det vil jeg meget gerne fortælle om bagefter, fordi det synes jeg faktisk er en fantastisk måde at få viden ud af Sådan nogle organisationer som offentlige organisationer som Aarhus vand, hvor der sidder folk som virkelig ved hvad de snakker om, men hvor den viden nogle gange.
+Jeg hedder Peter rash jeg kommer fra firmaet DRYP og DRYP er Inter lige kommer op og køre her, så kan jeg jo sige en af de 3 virksomheder som Claus nævnte det i starten, som altså er delvist eget Aarhus Vand og Det har ikke så meget med om nu, men det vil jeg meget gerne fortælle om bagefter, fordi det synes jeg faktisk er en fantastisk måde at få viden ud af Sådan nogle organisationer som offentlige organisationer som Aarhus vand, hvor der sidder folk som virkelig ved hvad de snakker om, men hvor den viden nogle gange.
 
 00:00:29
 Kun panasak kommer til udtryk i nogle projekter og ikke så meget bliver delt på tværs af forsyninger rundt i Danmark. Så det Det er en model Jeg kan anbefale til til alle.
 
 00:00:39
-Det jeg skal snakke om nu. Det er så om drøm og og og vi handler om data vi kommer fra data og vi vil gerne gøre data til løsninger, så hvor remoy sagde Vi skal skabe datastrømmen, så prøver vi ligesom at sige Vi skal tage de datastrømme og gøre det til noget brugbart løsning.
+Det jeg skal snakke om nu. Det er så om DRYP og og og vi handler om data vi kommer fra data og vi vil gerne gøre data til løsninger, så hvor Remoni sagde Vi skal skabe datastrømmen, så prøver vi ligesom at sige Vi skal tage de datastrømme og gøre det til noget brugbart løsning.
 
 00:00:56
 Og hvorfor sagde vi det? Jamen i bund og grund.
@@ -50,7 +50,7 @@ Men Vores fokus er faktisk på det inde i midten. Altså det med at få data vas
 Og så op på de helt store. Det er selvfølgelig, hvis vi kan begynde at lave klimatilpasning, hvor vi gør det smart i stedet for bare at hælde beton og og CO 2 ned og gøre det stort.
 
 00:03:25
-På målersiden Der er det en IT måler, som Vi har brugt rigtig mange penge på. Ikke også at sige Det er for dyrt at lave hardware. Til gengæld er den nu blevet så fleksibel.
+På målersiden Der er det en IoT-måler, som Vi har brugt rigtig mange penge på. Ikke også at sige Det er for dyrt at lave hardware. Til gengæld er den nu blevet så fleksibel.
 
 00:03:34
 Den er egentlig bygget til kloakker, men har været brugt af alle mulige andre steder, der har været sat vejrstationer op sammen med dem.
@@ -62,7 +62,7 @@ Som som vil køre ind igennem boksen og også vandkvalitet er som vi vi tester I
 Øhm for det Der er kernen i det. Det er at få kvalitet og kvalitet er ikke nødvendigvis den absolut størrelse. Det er kvalitet.
 
 00:03:57
-Må godt være relativt, men det skal være kendt Sådan. Så når vi bruger data i forskellige sammenhænge, så skal vi vide hvad for en kvalitet Det har, og Det kan man skabe på rigtig mange niveauer helt ude på sensoren, hvor den laver Sådan et sanattitjek det jeg måler nu passer det med det jeg målte for lidt siden, og hvis Det er helt anderledes, så prøver jeg lige at måle igen.
+Må godt være relativt, men det skal være kendt Sådan. Så når vi bruger data i forskellige sammenhænge, så skal vi vide hvad for en kvalitet Det har, og Det kan man skabe på rigtig mange niveauer helt ude på sensoren, hvor den laver Sådan et sanity-tjek det jeg måler nu passer det med det jeg målte for lidt siden, og hvis Det er helt anderledes, så prøver jeg lige at måle igen.
 
 00:04:14
 Sådan ville de selv gøre, og hvis i stoler ud med en tommestok, og Det er Sådan set det samme. Vi prøver at putte ind i Vores sensorer.
@@ -74,7 +74,7 @@ Og når man så kommer op igennem, så skal man selvfølgelig vide hvor man er, 
 Men hver eneste gang de registrerer det, jamen så kan vi jo lære det kort tid. Måske blive lige så dygtige.
 
 00:04:54
-Musiklagning delen her er er kritisk, fordi Vi skal kigge på rigtig mange data på en gang, og det vi gør, Det er at bygge Sådan et neuralt netværk, som man har derovre til til Venstre for hvert enkelt sensor.
+Maskinlæring delen her er er kritisk, fordi Vi skal kigge på rigtig mange data på en gang, og det vi gør, Det er at bygge Sådan et neuralt netværk, som man har derovre til til Venstre for hvert enkelt sensor.
 
 00:05:05
 Det man så bruger som input. Det er alle de sensorer Der er omkring det.
@@ -92,7 +92,7 @@ Et et par få eksempler, fordi man kan egentlig bruge det her over det hele, og 
 Eksempel herfra i Roskilde, hvor de kiggede på regnvandsbassiner, og Det var, at de havde Sådan en fornemmelse af, at deres regnvandsbassiner måske ikke stort set altid var tørre. Regnvandsbassiner burde jo blive vrede engang imellem. Det var ligesom det de er bygget til, og derfor har vi haft de her billige sensorer siddende.
 
 00:06:00
-Over et år, og vi kan se at over det år, hvor der faktisk har været op til flere skybrud hændelser. Jamen Der er har den maksimale fyldningskart hjælpepassinerne har været 50%. Nogle af de andre har været helt nede på 10%, og det vil sige, de har simpelthen ikke bidraget til løsningen, i hvert fald ikke i særlig høj grad og slet ikke i den grad de kunne gøre.
+Over et år, og vi kan se at over det år, hvor der faktisk har været op til flere skybrud hændelser. Jamen Der er har den maksimale fyldningsgrad hjælpepassinerne har været 50%. Nogle af de andre har været helt nede på 10%, og det vil sige, de har simpelthen ikke bidraget til løsningen, i hvert fald ikke i særlig høj grad og slet ikke i den grad de kunne gøre.
 
 00:06:18
 Så der kigger vi på og og og og bruge den her viden aktivt selvfølgelig videre.

@@ -25451,5 +25451,239 @@
       }
     ],
     "afvist": []
+  },
+  "transcriptions\\Oevrige_fifdWf02UK4_20260911_103642.txt": {
+    "anvendt": [
+      {
+        "forkert": "Ramble",
+        "rettet": "Rambøll",
+        "antal": 5,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Rambles",
+        "rettet": "Rambølls",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Caston",
+        "rettet": "Capstone",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Optagelse_af_Pitch_6_DRYP.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "dryp",
+        "rettet": "DRYP",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "drøm",
+        "rettet": "DRYP",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "remoy",
+        "rettet": "Remoni",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "sanattitjek",
+        "rettet": "sanity-tjek",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Musiklagning",
+        "rettet": "Maskinlæring",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "IT måler",
+        "rettet": "IoT-måler",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "fyldningskart",
+        "rettet": "fyldningsgrad",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\V.I.P.__NCC.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "NTC Permavej",
+        "rettet": "NCC Permavej",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "immunskravene",
+        "rettet": "miljøkravene",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Arrangementer_e5n-rkdCyLI_20260826_124331.txt": {
+    "anvendt": [
+      {
+        "forkert": "larprojektor",
+        "rettet": "LAR-projekter",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Lare 2,0",
+        "rettet": "LAR 2.0",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "larbløsninger",
+        "rettet": "LAR-løsninger",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "endobuster",
+        "rettet": "InnoBooster",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "forsøgningsmedarbejder",
+        "rettet": "forsyningsmedarbejder",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "forsøgninger",
+        "rettet": "forsyninger",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Kanomborgforsyning",
+        "rettet": "Kalundborg Forsyning",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Arrangementer_zQ7nBjYq6Mk_20260826_115054.txt": {
+    "anvendt": [
+      {
+        "forkert": "Drøp",
+        "rettet": "DRYP",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Rimonis",
+        "rettet": "Remoni",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "IWT-måler",
+        "rettet": "IoT-måler",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "spillemands",
+        "rettet": "spildevands",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "landløsninger",
+        "rettet": "LAR-løsninger",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "lærløsninger",
+        "rettet": "LAR-løsninger",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Nordicroup",
+        "rettet": "Nordic Group",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "prædelskabet",
+        "rettet": "beredskabet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "en år",
+        "rettet": "Norge",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Aarhusværmelser",
+        "rettet": "oversvømmelser",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "nedebøger",
+        "rettet": "nedbør",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "regnmødsbesænger",
+        "rettet": "regnvandsbassiner",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Regnmødsbesænger",
+        "rettet": "Regnvandsbassiner",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "følgensgrad",
+        "rettet": "fyldningsgrad",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Oevrige_SuR8zU8kFoE_20260914_145044.txt": {
+    "anvendt": [
+      {
+        "forkert": "",
+        "rettet": "",
+        "antal": 0,
+        "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
+      }
+    ],
+    "afvist": []
   }
 }
