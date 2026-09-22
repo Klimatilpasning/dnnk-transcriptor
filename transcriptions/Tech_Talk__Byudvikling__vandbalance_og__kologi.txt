@@ -1,14 +1,14 @@
 00:00:08
-Det er det velkommen til dagens Tech Talk IDNK, hvor vi i dag skal høre mere om, hvad en byudvikling betyder for vandbalancen og derved økologien i de nedstrøms liggende vandløb. Mit navn er theis rask Andersen og forvirrer University College, og sammen med Morten handling fra Danny k der vil jeg rigtig gerne byde jer allesammen velkommen til til dagens Tech Talk.
+Det er det velkommen til dagens Tech Talk i DNNK, hvor vi i dag skal høre mere om, hvad en byudvikling betyder for vandbalancen og derved økologien i de nedstrøms liggende vandløb. Mit navn er theis rask Andersen og VIA University College, og sammen med Morten handling fra DNNK der vil jeg rigtig gerne byde jer allesammen velkommen til til dagens Tech Talk.
 
 00:00:27
-Og lidt praktisk information, inden vi starter selve præsentationen varer cirka 30-35 minutter, hvorefter der vil være 10 minutter til spørgsmål og i kan løbende stille jeres spørgsmål i chatten. Og så vil Nikolaj og Peter fra VSP og tour fra Aarhus Kommune vil besvare dem i slutningen af check toppen. Og for god ordens skyld skal jeg informere om, at den chektorken bliver optaget, og i vil i vil kunne finde den i løbet af en uges tid inde på DNKS hjemmeside, og Det var Det var alt for mig.
+Og lidt praktisk information, inden vi starter selve præsentationen varer cirka 30-35 minutter, hvorefter der vil være 10 minutter til spørgsmål og i kan løbende stille jeres spørgsmål i chatten. Og så vil Nikolaj og Peter fra WSP og Thorup fra Aarhus Kommune vil besvare dem i slutningen af Tech Talken. Og for god ordens skyld skal jeg informere om, at den Tech Talken bliver optaget, og i vil i vil kunne finde den i løbet af en uges tid inde på DNNKs hjemmeside, og Det var Det var alt for mig.
 
 00:00:52
-Og så vil jeg ellers give ordet til Nicolai, Peter og thor velkommen til.
+Og så vil jeg ellers give ordet til Nicolai, Peter og Thorup velkommen til.
 
 00:00:58
-Mit navn er Peter hvad synes dus og som theis lige har sagt, så holder jeg præsentationen sammen med med Nikolaj, men Vi har også thor med fra Aarhus Kommune. Aarhus Kommune var jo opdragsholderen til den opgave her, hvor man begynder at se på et helt meget stort vandopland med massiv byudvikling i nemlig oplandet til euroen og EU indsø, som vi ser her.
+Mit navn er Peter hvad synes dus og som theis lige har sagt, så holder jeg præsentationen sammen med med Nikolaj, men Vi har også Thorup med fra Aarhus Kommune. Aarhus Kommune var jo opdragsholderen til den opgave her, hvor man begynder at se på et helt meget stort vandopland med massiv byudvikling i nemlig oplandet til Egåen og Egå Engsø, som vi ser her.
 
 00:01:20
 Egentlig med 2 formål. Det ene formål var at se vurdere en oversvømmelsesproblematik som er meget nærværende i Aarhus IEU systemet. Hvor man hvordan kan man lave vandparkering, eller hvordan kan vi forsinke vand og så videre?
@@ -20,10 +20,10 @@ Og det andet aspekt af undersøgelsen? Det var, hvordan kan vi lave en byudvikli
 Bedre, og Det er noget af det, som vi gerne vil præsentere for jer i dag.
 
 00:01:52
-Jeg skulle meget gerne se om jeg ikke kunne få en slide frem med Nikolaj og jeg og så og thor.
+Jeg skulle meget gerne se om jeg ikke kunne få en slide frem med Nikolaj og jeg og så og Thorup.
 
 00:01:59
-Og jeg præstationen foregår Sådan, at jeg taler den første cirka første halvdel, og Nikolaj taler den cirka den sidste halvdel. Sådeles vi lidt om afslutningen, og Vi er utroligt glade for, at thor ville være med til at den her session, fordi at Det er også interessant at se et perspektiverne i det her arbejde ud fra en kommunal synsvinkel. Fra hvordan vil man så arbejde fremadrettet med byudvikling og og vandhåndtering i det kommende byområder og måske også de eksisterende?
+Og jeg præstationen foregår Sådan, at jeg taler den første cirka første halvdel, og Nikolaj taler den cirka den sidste halvdel. Sådeles vi lidt om afslutningen, og Vi er utroligt glade for, at Thorup ville være med til at den her session, fordi at Det er også interessant at se et perspektiverne i det her arbejde ud fra en kommunal synsvinkel. Fra hvordan vil man så arbejde fremadrettet med byudvikling og og vandhåndtering i det kommende byområder og måske også de eksisterende?
 
 00:02:27
 Det kommer vi tilbage til. Forhåbentlig.
@@ -44,7 +44,7 @@ Og så har vi også set på den her af samme grund effekten i det her vandløb a
 Egon spander bland er på 72,5 km2 i ser det her.
 
 00:03:34
-Og vi kigger på kortet til en start, så vil i kunne se at Der er at i kan se æren der også står vandløb. Nu står vi zumba. Det er så fordi Vi har brugt zumba til det her men men Det er jo egon der løber der og vi kan se EU engsø som den store blå klat, og så kan vi se nogle befæstede områder i oplandet og nogle ubestede og de befæstede.
+Og vi kigger på kortet til en start, så vil i kunne se at Der er at i kan se æren der også står vandløb. Nu står vi SUMBA. Det er så fordi Vi har brugt SUMBA til det her men men Det er jo Egå der løber der og vi kan se Egå Engsø som den store blå klat, og så kan vi se nogle befæstede områder i oplandet og nogle ubestede og de befæstede.
 
 00:03:55
 Det er dem Der er markerede med lysekro og de.
@@ -86,7 +86,7 @@ Her på engelsk økologic volley ratual EQR, som Vi har lavet nogle beregninger 
 Og hvordan gør man så det, når man står med Sådan en 665 hektar ny by i fremtiden, som ikke er der i dag? Og Vi har nogle målinger af, hvordan Det er, at afstrømning af vandløbene i dag og så videre.
 
 00:05:55
-Og der har vi så brugt den model der hedder sumba, som Vi har udviklet som nogle af jer måske kender, men som er en boks transportmodel som kan flytte rundt på vand, afhængig af hvordan vi fortæller hvordan den skal flytte rundt på den, og det betyder, at det kræver en vis viden omkring, hvordan vand bevæger sig, fordi den er dum i den forstand. Den kan bare flytte rundt på noget, og den kan også have noget temperatur og noget andet i sig, og den kan styrken af det her regnet på meget lang tid serie og så kan man se på og en lang årrække.
+Og der har vi så brugt den model der hedder SUMBA, som Vi har udviklet som nogle af jer måske kender, men som er en boks transportmodel som kan flytte rundt på vand, afhængig af hvordan vi fortæller hvordan den skal flytte rundt på den, og det betyder, at det kræver en vis viden omkring, hvordan vand bevæger sig, fordi den er dum i den forstand. Den kan bare flytte rundt på noget, og den kan også have noget temperatur og noget andet i sig, og den kan styrken af det her regnet på meget lang tid serie og så kan man se på og en lang årrække.
 
 00:06:25
 Dynamikken og hvordan du ser ud over lang tid.
@@ -380,7 +380,7 @@ Så vil vi få mere køligt grundvand ud i vandløbene.
 Og så vil vi modvirke i effekten af klimaforandringer, og så hvis du klikker igen.
 
 00:24:14
-Her kunne man så samtidig arbejde på, at vandløbene også blev mere robust i form af en bedre generning. Og Det er måske noget, vi kan komme tilbage til efter den her seance af hvad Det var, fordi der har thor faktisk også været i aktion II år.
+Her kunne man så samtidig arbejde på, at vandløbene også blev mere robust i form af en bedre generning. Og Det er måske noget, vi kan komme tilbage til efter den her seance af hvad Det var, fordi der har Thorup faktisk også været i aktion II år.
 
 00:24:31
 Så det det perspektiv i har haft på på at se på de her temperatureffekter.
@@ -590,7 +590,7 @@ Så jeg tænker Det er Vores Vores hovedpunkter.
 Så er det tid til spørgsmål.
 
 00:36:29
-Ja 1000 tak, Peter, Nikolaj og og thor for en spændende Tech Talk, Der er kommet spørgsmål løbende ind i chatten og og i kan selvfølgelig alle tilhørere kan selvfølgelig stadig kan stille spørgsmål i chatten, og hvis vi ikke når alle spørgsmål nu her inden kl. 13:00, så har jeg aftalt med med Peter, thor og og Nikolaj, at de vil svare på alle spørgsmål, så det det skal nok komme med II den video vi lægger ind på DNNKS hjemmeside.
+Ja 1000 tak, Peter, Nikolaj og og Thorup for en spændende Tech Talk, Der er kommet spørgsmål løbende ind i chatten og og i kan selvfølgelig alle tilhørere kan selvfølgelig stadig kan stille spørgsmål i chatten, og hvis vi ikke når alle spørgsmål nu her inden kl. 13:00, så har jeg aftalt med med Peter, Thorup og og Nikolaj, at de vil svare på alle spørgsmål, så det det skal nok komme med II den video vi lægger ind på DNNKS hjemmeside.
 
 00:36:53
 Det første spørgsmål, Der er kommet, Det er fra Søren, og Jeg tror det, det relaterer sig til din del Peter, for han spørger, Der er vel ikke fordampning af betydning i vinterhalvåret?
@@ -623,7 +623,7 @@ Ny by med lejer ny by med traditionel kloak.
 Og så sige, hvilken forskel er der egentlig på på outputtet både af ernæringsstoffer og miljøfarlige stoffer? Og Jeg vil sige den her summer model. Vi har faktisk brugt den netop til til det i andre sammenhænge.
 
 00:38:59
-Det der skylder vi måske også sige, at Vi er lige i gang med en udviklingsarbejde, hvor vi hvor zumba bliver suppleret med rensninger til alle typer for vandhåndtering, altså regnbeder og bassiner og så videre. Det er vi ved at implementere i zumba nu, så man kan få den del bedre belyst.
+Det der skylder vi måske også sige, at Vi er lige i gang med en udviklingsarbejde, hvor vi hvor SUMBA bliver suppleret med rensninger til alle typer for vandhåndtering, altså regnbeder og bassiner og så videre. Det er vi ved at implementere i SUMBA nu, så man kan få den del bedre belyst.
 
 00:39:15
 Og mere dynamisk.
@@ -692,7 +692,7 @@ Må i skrive Det er.
 Måske?
 
 00:42:21
-Slutteligt slutteligt her. Hvad hedder det thor? Jeg kunne godt tænke mig lige måske slutteligt høre om du kan kort lige sige hvordan i har hvordan i bruger modellen i jeres arbejde i Aarhus Kommune.
+Slutteligt slutteligt her. Hvad hedder det Thorup? Jeg kunne godt tænke mig lige måske slutteligt høre om du kan kort lige sige hvordan i har hvordan i bruger modellen i jeres arbejde i Aarhus Kommune.
 
 00:42:32
 Jamen altså Det har jo givet os noget ro i maven i forhold til hvordan Vi skal håndtere byudvikling og regnemardshåndtering i forhold til de her små sårbare vandløb, som Vi har mange af i Aarhus Kommune. Vi har jo ikke så mange store vandløb, men Vi har mange rigtig små, og Vi har også eksempler på vandløb rundt omkring i kommunen, hvor vi kan se, at en stor del af oplandet er er befæstet, og hvor Det er vandløb med rigtig fine fysiske forhold. Men hvor miljøtilstanden halter efter.
@@ -710,11 +710,11 @@ Men, der viste modellen jo netop at nede i hovedløbet af ego. Der skulle der ri
 Så Vi skal Vi skal lægge Vores lægge Vores krafter i den her respirent.
 
 00:43:38
-1000 tak for det thor så er der ikke flere spørgsmål man kan sige. I får stadigvæk ros og Jeg har aldrig oplevet at oplægsholderen i også simpelthen har fået at vide i er kloge, så Jeg synes jo det det. Det er jo en rigtig rigtig god godt sted at at at runde af på, så Jeg vil egentlig på vegne af dvel k sige 1000 tak for en for en rigtig, rigtig spændende Tech Talk og hvad hedder det som altid så kan i finde denne og ældre tik toks på DNKS hjemmeside.
+1000 tak for det Thorup så er der ikke flere spørgsmål man kan sige. I får stadigvæk ros og Jeg har aldrig oplevet at oplægsholderen i også simpelthen har fået at vide i er kloge, så Jeg synes jo det det. Det er jo en rigtig rigtig god godt sted at at at runde af på, så Jeg vil egentlig på vegne af DNNK sige 1000 tak for en for en rigtig, rigtig spændende Tech Talk og hvad hedder det som altid så kan i finde denne og ældre Tech Talks på DNNKs hjemmeside.
 
 00:44:03
 Og i kan også finde de kommende arrangementer i Vores klimakalender.
 
 00:44:06
-Og sluttelig vil jeg også sige, at hvis nogen af jer kunne selv tænke jer at holde en Tech Talk fordi hvis i har noget spændende i gerne vil formidle til til netværket her i Danmark. K jamen så tag endelig fat i mig eller en 2 fra Danny k så igen så vil jeg sige 1000 tak Peter Nikolaj og Thorup for en rigtig spændende Tech Talk og ellers til alle jer andre, så vil jeg sige vi ses derude i en eller 2 sammenhæng enten online eller fysisk, så kan i have en rigtig rigtig god dag.
+Og sluttelig vil jeg også sige, at hvis nogen af jer kunne selv tænke jer at holde en Tech Talk fordi hvis i har noget spændende i gerne vil formidle til til netværket her i Danmark. K jamen så tag endelig fat i mig eller en 2 fra DNNK så igen så vil jeg sige 1000 tak Peter Nikolaj og Thorup for en rigtig spændende Tech Talk og ellers til alle jer andre, så vil jeg sige vi ses derude i en eller 2 sammenhæng enten online eller fysisk, så kan i have en rigtig rigtig god dag.
 

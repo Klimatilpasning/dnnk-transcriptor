@@ -1,5 +1,5 @@
 00:00:00
-Jamen mit navn Det er teis fraskov Andersen og på vegne er DNNK, så vil jeg gerne byde jer allesammen velkommen til det her. Rigtig, rigtig, rigtig spændende check hvori Vi skal høre om satellitdata til brug i klimatilpasning til at præsentere emnet der har vi inviteret Carsten moresen for for geopartner, som er en af landets førende eksperter inden for satellitdata, og hvorledes Det kan bruges i forskellige sammenhænge.
+Jamen mit navn Det er teis fraskov Andersen og på vegne er DNNK, så vil jeg gerne byde jer allesammen velkommen til det her. Rigtig, rigtig, rigtig spændende check hvori Vi skal høre om satellitdata til brug i klimatilpasning til at præsentere emnet der har vi inviteret Carsten Olsen for for geopartner, som er en af landets førende eksperter inden for satellitdata, og hvorledes Det kan bruges i forskellige sammenhænge.
 
 00:00:25
 Og som som Carsten lige nævnte, inden vi gik på at at satellitdata er måske en af de største revolutioner, Der er sket indenfor.
@@ -11,7 +11,7 @@ Indenfor hvad kan man sige kort og opmålings industrien igennem de sidste mange
 Som altid så er der nogle nogle regler som skal følges man kan sige, i har ikke så mange muligheder der der ser med, så så Der er ikke så mange regler for jer andet end at hvis i har spørgsmål med videre jamen så skriver i dem ovre i chatten og så hvad hedder det så? Samler Søren og og mig op på dem og så i slutningen af af tiktokken, så så gennemgår vi dem sammen med med Carsten så i får svar på på alle jeres spørgsmål, så i kan bare løbende skrive dem efterhånden som som de dukker op i løbet af af checkstoppen.
 
 00:01:11
-Derudover skal jeg selvfølgelig sige for god ordens skyld, at den optages til Torben her og i vil efterfølgende kunne finde den inde på det NN ks hjemmeside.
+Derudover skal jeg selvfølgelig sige for god ordens skyld, at den optages til Torben her og i vil efterfølgende kunne finde den inde på DNNKs hjemmeside.
 
 00:01:21
 Og ellers så vil jeg egentlig ikke lige så meget andet end at velkommen til til jer alle sammen. Og så vil jeg give ordet til til dig. Carsten scenen er din.
@@ -359,7 +359,7 @@ Data eller resultaterne er valide konsumeret, eller hvad skal man sige? Kvalitet
 Til højre der ser i.
 
 00:20:33
-Opløftsmodellen fra fra fra DU space.
+Opløftsmodellen fra fra fra DTU Space.
 
 00:20:37
 Og Det er jeg Sådan set. Hvad kan man sige? Det er det der sker inde på land og.
@@ -428,7 +428,7 @@ Så altså ingen tvivl om at interdata. Jeg vil faktisk sige man man burde ikke 
 Det der med at holde styr på det relative og det absolut jamen der.
 
 00:24:03
-Var vi så heldig, at der blev lavet noget test tilbage i, som jeg husker det. Det må være i 16 15 16 stykker hvor at SDFEI samarbejde med med Lemvig vand og og DUS space opsat 6 rotter refrektorer.
+Var vi så heldig, at der blev lavet noget test tilbage i, som jeg husker det. Det må være i 16 15 16 stykker hvor at SDFEI samarbejde med med Lemvig vand og og DTU Space opsat 6 rotter refrektorer.
 
 00:24:23
 Skærmen, som i ser her, den ligner dem stort set altså. Der er ikke den helt store forskel, men faktisk med rigtig god resultater. Der er rigtig godt radosignal.

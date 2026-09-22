@@ -11,7 +11,7 @@ Transskriberet: 2026-08-26T00:03:07.300255
 Godmorgen derude og velkommen til webinar om det der hedder vi kalder terrænkt grundvand i byer. Hvad er det og hvordan håndteres det? Ø, vi har fået oplægsholderen Philip Binding med i dag. Han er senior
 
 00:00:30
-principal hydrogeology engineer hos VSP. Og ø webinaret vil omhandle den her introduktion til de grundlæggende fysiske principper bag terrænene og et grundvand i byer. Fokuserer altså webinaret fokuserer sådan særligt på at øge forståelsen for det terrænende af grundvand i byerne. Så hvad er det egentlig? Hvorfor opstår det? Øh, hvad kan man, hvordan kan man arbejde med det i praksis? Og det bygger på et notat, som VSP med med Philip i
+principal hydrogeology engineer hos WSP. Og ø webinaret vil omhandle den her introduktion til de grundlæggende fysiske principper bag terrænene og et grundvand i byer. Fokuserer altså webinaret fokuserer sådan særligt på at øge forståelsen for det terrænende af grundvand i byerne. Så hvad er det egentlig? Hvorfor opstår det? Øh, hvad kan man, hvordan kan man arbejde med det i praksis? Og det bygger på et notat, som WSP med med Philip i
 
 00:01:00
 spidsen har udarbejdet til KL for nyligt med netop fokus på at øge den her forståelse for terrævand, særligt til de nye folk i feltet. Og om oplægholderen der vil jeg sige at Philip han er ekspert i grundvandsourcer og vand i byer, drikkevand, grundvandsforurening og grundvandsmodellering. Og han har blandt andet arbejdet med rådgivning om drikkevandsressourcer for miljø og fødevareklagenævnet og
@@ -53,7 +53,7 @@ som gjorde at man kunne afvande det her lavt liggende jord og dyrke det til land
 det er at der er fokus på det i et bymæssig sammenhæng og i et ejendomsmæssig sammenhæng. Og det er meget aktuelt på grund af klimaforandringer, men det kommer jeg ind på lidt senere. Så det er lidt om, hvad er terrænmær Grønland? Øh, og øh, hvordan ser det ud? Øh, her har vi en billede af det her fra fra et forlystelsespark i Jylland. Og
 
 00:07:30
-her kan man se, at der er vand dukket op på overfladen. Og det er terrævand, som er op til overfladen. Og jeg vil fortælle lidt mere om den her øh senere hen. Ja. Så øh nu ved vi, hvad terrængene af grundvand er. Øh hvordan opstår det? Øhm vi kunne tage en lille tur til Risgov
+her kan man se, at der er vand dukket op på overfladen. Og det er terrævand, som er op til overfladen. Og jeg vil fortælle lidt mere om den her øh senere hen. Ja. Så øh nu ved vi, hvad terrængene af grundvand er. Øh hvordan opstår det? Øhm vi kunne tage en lille tur til Risskov
 
 00:08:00
 lige nord for Aarhus, hvor der er et problem med terrænær grundvand. Og jeg tal en lille billede med her, som kan vise øh lidt om den her sag. Så den nederste her, så har vi terræn. Det er den sorte linje. Og ø og så har vi noget geologi øh under neden. Og så har vi den blå linje her. Øh, den viser vandspejlet
@@ -68,7 +68,7 @@ her har jeg tegnet konturer af øhm grundvands standet standen i den øverste sa
 hvis vi kigger på det i snit, øhm øh når vi tegner den her blå linje, så refererer vi til den her sandlag her. Det er den gule. Øh, og det viser øh grundvandspotentialet i den gule lag her. Så der falder nødbøger heroppe på bakken. Det siver stille og roligt ned i ø i jorden. Og så kommer der ned i den her sandlæ og flyder ned ad bakken hernede til et
 
 00:10:00
-lavtliggende område hernede i Risgov. Og det man kan se er, at hernede i bunden så er vandspejlet helt oppe ved terræn. Så hvis man bor hernede, så vil man opleve, som jeg viste før, at ø der er højt stående vand. Øhm og det vil være til stor for dem, som bor i det her område. Ja. Så det det viser lidt om, hvordan
+lavtliggende område hernede i Risskov. Og det man kan se er, at hernede i bunden så er vandspejlet helt oppe ved terræn. Så hvis man bor hernede, så vil man opleve, som jeg viste før, at ø der er højt stående vand. Øhm og det vil være til stor for dem, som bor i det her område. Ja. Så det det viser lidt om, hvordan
 
 00:10:30
 det opstår. Øhm, og bare det var så simpelt, det er det ikke. Jeg har taget et andet område også i Aarhus her. Nu er vi nede ved Aarhus havn. Øh, og vi har en højtstående område her syd for havnområdet og ned ad bakken her ned til imod havnen. Og i snit øh jeg har tegnet en snit, som er lidt krøllet, og det er fordi jeg vil gerne følge øh
@@ -110,7 +110,7 @@ altså helt oppe ved terrænen. Øh, og det skyldes at øh øhm vi så en rekord
 Øhm, den her tidsserie viser to ting. Den viser at øh regnær grundvand, det er ikke noget som er statisk. Altså den bevæger sig med tid og er typisk sæson betegnet, altså med højstående grundvand om vinteren og lavt om sommeren. Men så viser den også at der er en klimaelement i det her. Når bor en supervåd vinter, så får den øh en ø en markant effekt på
 
 00:17:00
-terræn grundvand. Og det som er lidt sørgeligt, det er med klimaforandringer, så forventer vi at vi bruger flere af den her slags vå. Og det er derfor at der er så stor opmærksomhed omkring terrengær grundvand her i landet. Hos VSP. Der havde vi en tanke om at vi ville installere nogle lokalafledninger af regnvand på det her sted. Øh og det gjorde vi det undersøgte vi i 2122. Øh,
+terræn grundvand. Og det som er lidt sørgeligt, det er med klimaforandringer, så forventer vi at vi bruger flere af den her slags vå. Og det er derfor at der er så stor opmærksomhed omkring terrengær grundvand her i landet. Hos WSP. Der havde vi en tanke om at vi ville installere nogle lokalafledninger af regnvand på det her sted. Øh og det gjorde vi det undersøgte vi i 2122. Øh,
 
 00:17:30
 men da vi ramte 24, så kunne vi erkende, at det var måske ikke så smart en ide lige her. &gt;&gt; Ja. Og det ø leder meget naturligt videre til næste del af min lille oplæg her. Øh, og der kunne man spørge, hvordan påvirker vi dejlige mennesker øh vores drengenær grundvand? Øh, og der har jeg lavet nogle kradodyyler her, og jeg beklager mine
@@ -164,10 +164,10 @@ mellem 24 og 65% af det vand, som flyder i kloakkerne, det er vand øh som komme
 med ny regn og spillevandsledninger på en vej. Og det betyder betød, at den drænende effekt forsvandt og grundvandet begyndte at stige. Øh, og det betød at flere af de omkring brunlig grundøjer i området ville begyndt at få vand i kælderen. Duk. Så vi tænkte, at vi gjorde en samfund samfundet lidt en tjeneste ved at håndtere det her de her kaker og spildevand. Øhm, men det havde en
 
 00:26:00
-konsekvens, som man måske ikke helt havde forudset. Og endnu et eksempel på menneskelig påvirkning af grundvand. Øh, der kan vi tage et tur til Herrv. Øhm, det var en gang en meget en bærende del af Københavns vandsyning lå i Herløb, kilde 13. Øh, der blev gang
+konsekvens, som man måske ikke helt havde forudset. Og endnu et eksempel på menneskelig påvirkning af grundvand. Øh, der kan vi tage et tur til Herlev. Øhm, det var en gang en meget en bærende del af Københavns vandsyning lå i Herlev, kilde 13. Øh, der blev gang
 
 00:26:30
-pumpet op til to kubikmeter øh per år fra den her ilde plads, som ligger i et byområde. Øh, og man kan se det historisk her øh 2 million kubikmeter her tilbage i 50'erne. Øhm, og det er ført helt op til øhm omkring år 2000 øh hvor det blev besluttet at kunne de stoppe med at indvinde grundvand i Hærløb. Og ø hvad
+pumpet op til to kubikmeter øh per år fra den her ilde plads, som ligger i et byområde. Øh, og man kan se det historisk her øh 2 million kubikmeter her tilbage i 50'erne. Øhm, og det er ført helt op til øhm omkring år 2000 øh hvor det blev besluttet at kunne de stoppe med at indvinde grundvand i Herlev. Og ø hvad
 
 00:27:00
 skete der så? Øh, her har vi en lille tidsserie fra en pegleboring ikke så langt væk fra kildepladsen. Her i 70'erne, så så stod grundvandsstanden i kode 8,5. Øh, og her efter det er slukket øh, så kan vi se, at den stille og roligt stiger, og det gør den over en overrække. Øh, så det vil sige, at ved at lukke for den her vandindvinding, så ser vi en
@@ -200,10 +200,10 @@ Og det kunne man undre sig lidt over. Øhm, især når man kigger på det næste
 Så øhm, hvad så? Øh, der skal man lige få at vide, at langt hovedparten af de her boringer var lagt ind for at øh forstå vores drikkevandsinteresser, og de ligger i den dybere grundvand. Øh, så vi måler dernede, og det har vi en rigtig rigtig god forståelse for. Øh, men når vi når heroppe n terræn øh, så er vores dette grundlag øh ikke vanvittig godt.
 
 00:32:00
-Yes. Så det er lidt om hvordan man måler grundvand. Og Gus er helt klart og Jupiter DSBSen er helt klart det sted man skal kigge hvis man vil få viden om grundvandsstand. Ja. Hvordan kortlægger man terrænene grundvand og risikoen for grundvandsofvømmelse? Der kan man skæne til campværktøjet, som
+Yes. Så det er lidt om hvordan man måler grundvand. Og Gus er helt klart og Jupiter DSBSen er helt klart det sted man skal kigge hvis man vil få viden om grundvandsstand. Ja. Hvordan kortlægger man terrænene grundvand og risikoen for grundvandsofvømmelse? Der kan man skæne til KAMP-værktøjet, som
 
 00:32:30
-er myndighedernes visning af terræn grundvand. Og her er vi i Risgov. Og man kan se blå farver, der er grundvand op terræ, og så har man tegnet lidt rødt. Øh, det viser, at her har vi et problem til for grundejerne. Pusene får risiko for oversvømmelse i det område. Så det er en rigtig god værktøj den her, hvis man skal finde ud af, hvor man har et problem med terræn grundvalg.
+er myndighedernes visning af terræn grundvand. Og her er vi i Risskov. Og man kan se blå farver, der er grundvand op terræ, og så har man tegnet lidt rødt. Øh, det viser, at her har vi et problem til for grundejerne. Pusene får risiko for oversvømmelse i det område. Så det er en rigtig god værktøj den her, hvis man skal finde ud af, hvor man har et problem med terræn grundvalg.
 
 00:33:00
 Ja. Øh, der skal man vide, at det er en værktøj med sine begrænsninger. Den er bygget på HIP modellen, øh, som er en stor skala grundvandsmodel. Øhm, den er har bygget på en oplysning på 100 meter, så den kan ikke oplyse øh øh ting på en mindre skala, og det er også en stor skala tidsmodel. Øh, det vil sige, at den er ikke beregnet til at
@@ -218,7 +218,7 @@ er en fantastisk værktøj og nok bedste bud, hvis man vil starte med at kortlæ
 forandringer i grundvandsindvindinger. Kig på det underjordiske infrastruktur. Kig på gamle kort. De viser at tidligere måseområder de er pushigt nok steder hvor man ser til terræner nær grundvand. Og så snak med kommunens afdeling for park vej og anlæg. Øh, de er vant til at lave bygninger, og ø når der er terrængene grundvand, så skal det afvandes, så de har masser af erfaring med terræn grundvand i i de afdelinger.
 
 00:35:00
-Hvordan kan vi forebygge og håndtere problemer med terræn og grundvand i byer? Øhm, jeg har taget med en lille rapport, som vi VSP var med til at lave, og en det er en inspirationskatalog til håndtering af terrænende og grundvand i byer. Og det er lavet sammen med Teknologisk Institut, Shan, Dan kommunalernes landsforening.
+Hvordan kan vi forebygge og håndtere problemer med terræn og grundvand i byer? Øhm, jeg har taget med en lille rapport, som vi WSP var med til at lave, og en det er en inspirationskatalog til håndtering af terrænende og grundvand i byer. Og det er lavet sammen med Teknologisk Institut, Shan, Dan kommunalernes landsforening.
 
 00:35:30
 Og øh jeg har ikke tid til at gå i dybden med det her, men øh i den der rapport det er en inspirationskatalog ø der vil vi meget gerne inspirere folk til at se det her som ikke at være et problem snarere en værdi som man kan bruge til noget fornuftigt og det kan man bruge til at skabe rekreativt løsninger i blå grønne byer forbedre vandkvalitet i syer og vandløb eller man kan kigge på huse som står i området med
@@ -230,10 +230,10 @@ terrængning af grundvand og man kan arbejde med bevaring af de der byggerier og
 øh i offentlige pakker. Og hvis det nu er at det der med mere værdi, det er ikke der hvor I er, og I vil bare af med det. Det er der også løsninger til, og de er også omtalt i i den her inspirationskatalog. Man kan pumpe det væk, man kan dræne det medal regnvand, lave dræ jordlæg, og man kan arbejde med hævet terræn. Og den her intealog, det er ikke bare
 
 00:37:00
-ideer, det er også eksempler. For eksempel er der vist i Kaste Brande, hvor ny boligområde blev etableret med et nyt vandløb, som en bærende element af dræstemet. Så der er masser af gode eksempler at hente i den der katalog. Jeg er nået til vejs ende med min lille intro til terrænene af grundvand. Hvis vide mere om det her
+ideer, det er også eksempler. For eksempel er der vist i Ikast-Brande, hvor ny boligområde blev etableret med et nyt vandløb, som en bærende element af dræstemet. Så der er masser af gode eksempler at hente i den der katalog. Jeg er nået til vejs ende med min lille intro til terrænene af grundvand. Hvis vide mere om det her
 
 00:37:30
-kigge i den der inspirationskatalog, men ø KL har også udgivet nogle andre glimrende rapporter. En procesbeskrivelse øh som beskriver hvordan man håndterer det her. Og ø der er også en ø en ø hvid papir omkring terræn grundvand og en opfordring til en national indsats. Og hvis man vil inde på det faglige så kan jeg virkelig anbefale den her The Groundwer Project.
+kigge i den der inspirationskatalog, men ø KL har også udgivet nogle andre glimrende rapporter. En procesbeskrivelse øh som beskriver hvordan man håndterer det her. Og ø der er også en ø en ø hvid papir omkring terræn grundvand og en opfordring til en national indsats. Og hvis man vil inde på det faglige så kan jeg virkelig anbefale den her The Groundwater Project.
 
 00:38:00
 Det er hvor en hel masse akademikere har lagt deres viden til rådighed. Altså lærebøger som er tilgængelig gratis. Ø nogle bedste lærebøger jeg kender i Grundland. Der kan man bare downloade dem direkte fra den her øh glimrende site. Så hvis I vil vide mere grundvand det er super stal at starte. Det var min oplæg. Øh, jeg hedder

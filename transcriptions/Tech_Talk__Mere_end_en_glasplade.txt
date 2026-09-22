@@ -2,7 +2,7 @@
 Det er alle.
 
 00:00:12
-Velkommen til dagens spændende Tech Talk i regi af DNK. Mit navn Det er teis trods Andersen og forvirring University College sammen med Kristoffer sindhyl Larsen fra OK Nygaard vil jeg gerne på vegne af DNNK byde jer velkommen til dagens tektok.
+Velkommen til dagens spændende Tech Talk i regi af DNK. Mit navn Det er teis trods Andersen og VIA University College sammen med Kristoffer sindhyl Larsen fra OK Nygaard vil jeg gerne på vegne af DNNK byde jer velkommen til dagens tektok.
 
 00:00:25
 I dag vil sara fra skal kunne fortælle og vise nogle af de spændende og nye muligheder, som skal kunne lege tilbyder i forhold til klimatilpasningsløsninger og klimatilpasningsplaner.
@@ -20,7 +20,7 @@ Tak og velkommen til.
 Nå tak fordi at jeg måtte komme med på Sådan en Tech Talk her. Vi holder jo også Vores egne webinarer som de fleste sikkert kender til, og hvis i ikke gør så skynd jer at tilmeld jer. Men Det er rigtig fint at kunne få lov at at gæste jeres webinarrække her også.
 
 00:01:18
-Og Jeg har Sådan et kort program her for min præstation i dag. Jeg vil først og fremmest og det meste af tiden snakke om det nye skybrud, som er en kæmpe stor udvikling af scandbio, som vi frigav her lige inden sommerferien.
+Og Jeg har Sådan et kort program her for min præstation i dag. Jeg vil først og fremmest og det meste af tiden snakke om det nye skybrud, som er en kæmpe stor udvikling af SCALGO, som vi frigav her lige inden sommerferien.
 
 00:01:32
 Jeg vil forklare modellen bag altså hvad vi laver bag scenen for at få det til at fungere. Og så vil jeg demonstrere hvordan det fungerer live. Og så tænkte jeg lige vi kunne have tid til lidt spørgsmål allerede der.
@@ -35,7 +35,7 @@ Men altså den nye større blodskort.
 Det helt nye er, at vi nu tager højde for infiltration og afledning til kloaksystemet i Vores skybrudskort.
 
 00:02:05
-Og jeg skulle skynde mig at sige tak til MUDP for en meget stor del af den her udvikling har været lavet i regi, at projekt som MUDP finansieret og som var et samarbejde mellem skaldo og DTU miljø nu d 2 state og en lang række såkaldte slutbrugerrepræsentanter, herunder tegnestuen vandkunsten, mobilenberg, Skanderborg Forsyning og lidt flere.
+Og jeg skulle skynde mig at sige tak til MUDP for en meget stor del af den her udvikling har været lavet i regi, at projekt som MUDP finansieret og som var et samarbejde mellem SCALGO og DTU miljø nu d 2 state og en lang række såkaldte slutbrugerrepræsentanter, herunder tegnestuen vandkunsten, mobilenberg, Skanderborg Forsyning og lidt flere.
 
 00:02:29
 Så tak til alle der har været med undervejs.
@@ -53,7 +53,7 @@ Det gør vi Sådan her. I skal gå live. Vi starter med at tage udgangspunkt i a
 Altså hvad er jordens overflade dækket af?
 
 00:03:19
-Og Det var en af grundene til, at vi lancerede det, vi kalder for scaldus befæstelseskort, som de fleste af jer sikkert har opdaget. Det har været på banen et stykke tid nu. Det ser Sådan her ud.
+Og Det var en af grundene til, at vi lancerede det, vi kalder for SCALGO befæstelseskort, som de fleste af jer sikkert har opdaget. Det har været på banen et stykke tid nu. Det ser Sådan her ud.
 
 00:03:32
 Hvis man kigger på det langt væk fra og hvis man zoomer ind med et autofoto nedenunder, så ser det Sådan her ud. Altså Vi har overordnet 3 klasser.
@@ -260,7 +260,7 @@ Og så et lillebitte tip til dem, der ikke har opdaget det endnu. Hvis i også l
 Og så udnytter vi skærmen lidt bedre frem for at at spilde plads på de der bjælker for oven og få noget.
 
 00:15:36
-Jeg hoverer over København, for Det er her jeg bor, og Det er det, jeg kender bedst. Så derfor eksemplificerer jeg det her i København. Jeg vil gerne opfordre jer alle til enten mens vi snakker eller bagefter åbent skal du live og vælge et område i kender og se, hvordan i synes at det nye scoopbuskort performer.
+Jeg hoverer over København, for Det er her jeg bor, og Det er det, jeg kender bedst. Så derfor eksemplificerer jeg det her i København. Jeg vil gerne opfordre jer alle til enten mens vi snakker eller bagefter åbent skal du live og vælge et område i kender og se, hvordan i synes at det nye skybrudskort performer.
 
 00:15:58
 Men hvis vi nu zoomer ind på Vesterbro her, som det jo var et af de områder, der stod fuldstændig under vand under skybruddet hjælpe.
@@ -353,7 +353,7 @@ Jeg sætter den lige til nul igen, for Jeg synes Det er forvirrende, når noget 
 Så snakkede jeg. Jeg skal lige tjekke hvad klokken er blevet.
 
 00:20:20
-35 godt vi kan godt snakke lidt mere slutposkort.
+35 godt vi kan godt snakke lidt mere skybrudskort.
 
 00:20:26
 Jeg vil bare lige vise det her med at man selvfølgelig også kan ændre de her ting i sit arbejdsområde. Hvis Det er det man vil. Så hvis vi nu igen tager vandoplandet til den her reppit her.
@@ -458,7 +458,7 @@ Andet befæstede og bygninger skal begge 2 være denne her nye kloakerde form.
 Alle dem udenom var allerede kloakeret. Det er kun herinde, vi havde problemer med, at de var uklokerede.
 
 00:23:49
-Godt, så har vi fået ændret typen, så går vi ind i slutbryortet her.
+Godt, så har vi fået ændret typen, så går vi ind i skybrudskortet her.
 
 00:24:00
 Og tjekker afstramningsfunktionerne.
@@ -539,7 +539,7 @@ Så er der meget mindre vand hernede, hvor der står vand på gaderne før Det k
 Og det der youtube-korps som dækker det hele og kloakpulikken og Thomas, der kan det hele Sådan nu er vi tilbage.
 
 00:26:51
-Og hvis vi så tager scyguskortet fra før.
+Og hvis vi så tager skybrudskortet fra før.
 
 00:26:55
 Og laver det lilla som i kan se forskellen.
@@ -551,7 +551,7 @@ Jamen, så kan vi se, at førhen havde vi altså en hel del vand hernede, og eft
 Selvfølgelig, hvis jeg skruer op på den her, så begynder der også at komme vand på terræn igen. Vi skal nok forbi de 40 mm. Yes, jeg havde jo sat klokken, så jeg kunne klare 40 mm og lige præcis når vi kommer forbi de 40 mm, så kommer der også masser af mad ligger andet præcis som forventet både i virkeligheden og i modellen kan man sige.
 
 00:27:37
-Det var det jeg ville sige, eller det jeg ville vise jer det Jeg har tid til at vise jer i det nye slutuskort lige i denne her omgang.
+Det var det jeg ville sige, eller det jeg ville vise jer det Jeg har tid til at vise jer i det nye skybrudskort lige i denne her omgang.
 
 00:27:44
 Og så så tror jeg vi vi lige tager de andre pointer meget hurtigt igennem, og så tager vi spørgsmål til sidst.
@@ -653,7 +653,7 @@ Hvordan?
 Ja i får lige den her slide bistor i ved det, når i får mine slides tilsendt efter arrangementet, så er der links her til.
 
 00:31:30
-Den meget grundige dokumentation, Vi har lavet omkring det her med superskortet.
+Den meget grundige dokumentation, Vi har lavet omkring det her med skybrudskortet.
 
 00:31:35
 Og så vil jeg gerne nævne nogle vigtige ting. Altså Det er vigtigt at vide, at alle de her funktioner selvfølgelig kan tilpasses i ens arbejdsområder, så hvis man synes at vi gætter lidt forkert på afstrømningsfunktionen, så er det bare om at tilpasse den til den lokale viden, man har.
@@ -743,7 +743,7 @@ Det er en ekstrem situation, som Vores nedsøgningsmodel ikke tager højde for. 
 Så så, så hvis man har Sådan en ekstrem ekstrem situation hvor at at at at jorden simpelthen afviser alt vand nærmest enten fordi den er helt helt tør eller fordi den er helt helt våd, så vil afstrømnings mønsteret se anderledes ud. Og så vil du måske nærmest sig glaspladen.
 
 00:36:50
-Så jazzblademodellen er stadigvæk Vores absolut worst case scenario. Så meget sjældent vil indstartende, mens den nye scobidskort er det, Der er det mest sandsynlige risikoscenarie at arbejde med.
+Så glasplademodellen er stadigvæk Vores absolut worst case scenario. Så meget sjældent vil indstartende, mens den nye skybrudskort er det, Der er det mest sandsynlige risikoscenarie at arbejde med.
 
 00:37:06
 1000 tak for svar sara så er der et nyt spørgsmål som går har i planer om metoder til at håndtere vand som bipasses på tværs af vandoplanding via kloakken?
@@ -815,7 +815,7 @@ Ja vi vi vi legede med tanken om at præsentere det i dag, og Vi er bare nødt t
 Jamen Det er altid godt så har så kan så har vi til 1 1 tekt nummer 2 så det Det er dejligt.
 
 00:40:45
-Så har vi et spørgsmål her, som som går i geo Danmark teknik i skalco findes nedbørsfrist kunne den ikke bruges som proxy for strømning til kloak for veje.
+Så har vi et spørgsmål her, som som går i geo Danmark teknik i SCALGO findes nedbørsfrist kunne den ikke bruges som proxy for strømning til kloak for veje.
 
 00:40:57
 Ja, Det er jeg opmærksom på. Vi har så mulighed. Det kan også godt være, at det bliver indarbejdet på et tidspunkt.

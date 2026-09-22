@@ -1,5 +1,5 @@
 00:00:05
-Goddag og velkommen til dagens techdok. Jeg er Kristoffer sindby er dagens vært og Morten halling. Han sidder som ofte i teknikken bagved tektorpen i dag bliver optaget og lagt på DRN ks hjemmeside indenfor en uges tid, og i skal huske på, at imens tektorpen kører, så har i mulighed for at stille spørgsmål i chatten.
+Goddag og velkommen til dagens techdok. Jeg er Kristoffer sindby er dagens vært og Morten halling. Han sidder som ofte i teknikken bagved tektorpen i dag bliver optaget og lagt på DNNK's hjemmeside indenfor en uges tid, og i skal huske på, at imens tektorpen kører, så har i mulighed for at stille spørgsmål i chatten.
 
 00:00:28
 Dagens Tech Talk er omkring integrering, smart integrering i klimatilpasning, fordampning og tilbageholdelse af regnvand, og Vi har Mikkel pris fra smartphone med der stopper udbragt fra teknologisk Institut og Morten rask fra bugspectum til at præsentere.
@@ -17,7 +17,7 @@ De tanker, der har været omkring fordampningen og Mikkel vil til sidst.
 Fortælle om de hvad hedder det monitteringen og og den sensor styring Vi har etableret II et boligselskab i pil-parken 6 afdeling 21 hvad hedder det 1 1 1 del af arbejdernes boligselskab i Gladsaxe.
 
 00:01:43
-Men lad mig starte lige med Sådan grundlaget for projektet. Faktisk startede det med en real dania. Hvad hedder det bevilling helt tilbage i 2017, hvor teknologisk Institut Kristoffer her ved siden af mig og og og faktisk også dig siden by var med til at starte det her projekt op, hvor vi havde en vision om at at prøve at håndtere.
+Men lad mig starte lige med Sådan grundlaget for projektet. Faktisk startede det med en Realdania. Hvad hedder det bevilling helt tilbage i 2017, hvor teknologisk Institut Kristoffer her ved siden af mig og og og faktisk også dig siden by var med til at starte det her projekt op, hvor vi havde en vision om at at prøve at håndtere.
 
 00:02:09
 En en hvad hedder det regnvandet?
@@ -29,7 +29,7 @@ På denne her matrikel i Gladsaxe udelukkende ved fordampning.
 Der er så sket meget undervejs. Senere i 2020 kommer der så et horizon 2020 projekt på EU. Bolig hedder projektet, og Det er et samarbejde med 4 byer, hvor vi kigger på, hvad hedder det samme sammenhold eller sammenhæng mellem naturbaserede løsninger og sociale inklusion, sundhed og velvære.
 
 00:02:41
-Så har vi nova-fos med indover projektet. Hvad hedder det? De de understøtter Gladsaxe Kommunes ambitioner om at separere kloakering og et ønske om at forsøge at få mest mulig håndtering af vandet på overfladen, altså en terræn nær løsninger.
+Så har vi Novafos med indover projektet. Hvad hedder det? De de understøtter Gladsaxe Kommunes ambitioner om at separere kloakering og et ønske om at forsøge at få mest mulig håndtering af vandet på overfladen, altså en terræn nær løsninger.
 
 00:03:01
 Og endelig har vi nok de mest modige projektet. Det er pil pakke 6 Det er.
@@ -50,7 +50,7 @@ Og alle de her. Hvad hedder det?
 Logoer der kan i jo se at Der er mange inde over på Venstre side har vi så dem der står bag?
 
 00:03:49
-Dampprojektet som foruden Realdania og og og boligselskabet og nova foss hvad hedder det? Har en Gladsaxe Kommune, teknologisk Institut og Københavns Universitet. Så har jeg været projektleder lige fra starten og prøvet at holde snor i alle de her interessenter og Vores biolog, altså amikonsult, som også har været med fra starten.
+Dampprojektet som foruden Realdania og og og boligselskabet og Novafos hvad hedder det? Har en Gladsaxe Kommune, teknologisk Institut og Københavns Universitet. Så har jeg været projektleder lige fra starten og prøvet at holde snor i alle de her interessenter og Vores biolog, altså amikonsult, som også har været med fra starten.
 
 00:04:13
 Og senere kommer horizon 2020 projektet, så på det hedder EU. Polis kan anbefale, at i går ind på hjemmesiden der står der eop polis.
@@ -287,7 +287,7 @@ Nu tror jeg Vi har hoppe videre til.
 Næste levende billede.
 
 00:16:45
-Sådan der. Det er christoffen.
+Sådan der. Det er Christoffer.
 
 00:16:47
 Ja Det er mig. Ja jeg skal så fortælle lidt. Kan man sige om baggrunden for kan man sige fordampningselementerne og hvad Vi har lavet af forarbejde for ligesom at kunne kunne sætte de her fordammelseselementer op i hvad dagenes have eller hvad rentes have.
@@ -737,7 +737,7 @@ En mindre nedsyning.
 Så vil jeg på vegne af DMK sige 1000 tak for et meget inspirerende tech talk til jer der sidder derude ved at sige hvis i har noget viden eller perspektiver i gerne vil dele, så tag fat i mig eller en af de andre netværksmedarbejdere fra DNNK om Det er tektor godmorgen eller temadage, så er vi meget behjælpelige med at få det bredt ud. Og så kan i jo se at denne optagelse om en uges tid.
 
 00:43:47
-På DNA ks hjemmeside så 1000 tak for deltagelse og 1000 tak til jer 3 for at præsentere jeres projekt.
+På DNNK's hjemmeside så 1000 tak for deltagelse og 1000 tak til jer 3 for at præsentere jeres projekt.
 
 00:43:55
 Tak for i dag. Vi ses til maj måned.

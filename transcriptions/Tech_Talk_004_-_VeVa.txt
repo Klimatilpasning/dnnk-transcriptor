@@ -14,10 +14,10 @@ En en øvelse, hvor vi virkelig kan springe så mange størrelsesordener.
 I det vi måler, og det vi så bagefter ønsker at arbejde med, og det giver selvfølgelig en masse udfordringer også i en klimatilpasning, hvor Det er fuldstændig nødvendigt for os at vide, hvad Det er, vi forbereder os på og forstår det klima og de forhold, som Vi skal. Vi skal designe Vores byer efter, så Det er selvfølgelig en stor glæde at præsentere malte skovbyan, som er.
 
 00:01:32
-I foreningen viva, som betyder vejrrater i vandsektoren, men som samtidig med også er II Aarhus vand, som netop har drevet.
+I foreningen VeVa, som betyder vejrrater i vandsektoren, men som samtidig med også er II Aarhus vand, som netop har drevet.
 
 00:01:40
-Den her udvikling af veva og netop det, det handler om at få lavet en sammenslutning, at vi alle sammen kan blive klogere på det værd, som vi i virkeligheden går og designer Vores byer til at håndtere, men uden at sige meget mere, så vil jeg gerne give ordet til dig malthe og glæde mig til at høre, hvad du kan fortælle om om vejrarter og hvad vejen er fremad for os nu og her.
+Den her udvikling af VeVa og netop det, det handler om at få lavet en sammenslutning, at vi alle sammen kan blive klogere på det værd, som vi i virkeligheden går og designer Vores byer til at håndtere, men uden at sige meget mere, så vil jeg gerne give ordet til dig malthe og glæde mig til at høre, hvad du kan fortælle om om vejrarter og hvad vejen er fremad for os nu og her.
 
 00:02:00
 Yes jamen tak for det og tak for den gode introduktion ole.
@@ -29,7 +29,7 @@ Det var meningen vi skulle have holdt det her Sådan halvt fysisk og halvt onlin
 Og nu har ole åbnet mødet, og så var det egentlig tanken, at Vores bestyrelsesformand for venner foreningen skulle skulle sætte scenen. Det tillader jeg mig så at gøre for ham her.
 
 00:02:29
-Eller på vegne af ole neum for Aalborg Forsyning, så vil jeg præsentere vibe. Det vil jeg gøre ud fra Sådan 3 overordnede ting. Det er altså hvad er hvad er vega og og historie omkring veva og det der så er blevet til foreningen vega nu.
+Eller på vegne af ole neum for Aalborg Forsyning, så vil jeg præsentere vibe. Det vil jeg gøre ud fra Sådan 3 overordnede ting. Det er altså hvad er hvad er VeVa og og historie omkring VeVa og det der så er blevet til foreningen VeVa nu.
 
 00:02:46
 Og, hvordan vi ligesom åbner op for resten af af af vandsektoren, så vil jeg fokusere lidt på på nogle resultater fra et udviklingsprojekt Vi har kørt indtil nu og på et nyt udviklingsprojekt, som vi starter op nu. Og hvordan det så bidrager egentlig vil være.
@@ -41,7 +41,7 @@ Så er der selvfølgelig mulighed for at stille spørgsmål, og det må i gerne 
 Nogle detaljer i det her og i og med der kun lige er en halv time til det her, så er det ikke fordi jeg kommer så meget i dybden, men Det er mere overordnet indflytning.
 
 00:03:31
-Baggrunden for veda Det er at sige jamen koder pålidelige nedbørste estimater. De er essentielle for en lang række af Vores arbejdsopgaver her i vandsektoren og dermed også direkte påvirkelig på Vores investeringer.
+Baggrunden for VeVa Det er at sige jamen koder pålidelige nedbørste estimater. De er essentielle for en lang række af Vores arbejdsopgaver her i vandsektoren og dermed også direkte påvirkelig på Vores investeringer.
 
 00:03:47
 Traditionelt bruger vi jo data fra regnemåler til de her hydrologiske og hydrauliske analyser.
@@ -104,10 +104,10 @@ Parallelt med det film, vi ligesom lavede det her neva framework for at sige jam
 Som kræver en del bearbejdning efterfølgende.
 
 00:07:34
-Så er der 2 kolonne som hedder datainjustering kvalitet. Det er der hvor maila arbejder rigtig meget og i forhold til dataproducering så ligger der en fuld anerkendelse af at sige jamen vedva skal ikke være være være den der bestemmer alle alle anvendelser af de her data levas formål er at gå og bringe dataene fra de rå polære formater til et karaktetisk kvalitetssikret data format.
+Så er der 2 kolonne som hedder datainjustering kvalitet. Det er der hvor maila arbejder rigtig meget og i forhold til dataproducering så ligger der en fuld anerkendelse af at sige jamen VeVa skal ikke være være være den der bestemmer alle alle anvendelser af de her data levas formål er at gå og bringe dataene fra de rå polære formater til et karaktetisk kvalitetssikret data format.
 
 00:08:03
-Så kan man sige jamen så er her i 2020 der blev levende samarbejde. Det blev etableret som forening ved ilva, så det nu er den juridisk og organisation, hvor Der er etableret en bestyrelse, og hvor at rettighederne til alt det Der er udviklet, er ført over og Der er ved at blive etableret en governance struktur for hvordan Vi skal skalere vedva, så det bliver så tilgængelig som overhovedet muligt.
+Så kan man sige jamen så er her i 2020 der blev levende samarbejde. Det blev etableret som forening ved VeVa, så det nu er den juridisk og organisation, hvor Der er etableret en bestyrelse, og hvor at rettighederne til alt det Der er udviklet, er ført over og Der er ved at blive etableret en governance struktur for hvordan Vi skal skalere VeVa, så det bliver så tilgængelig som overhovedet muligt.
 
 00:08:28
 Det her med at være vidensbank og erfaringsbank. Jamen det fungerer egentlig rigtig godt på et uformelt niveau nu, og det vil vi gerne formuisere mere gennem dele for at kunne bringe det her mere bredt ud i vandsektoren. Så kan man sige, jamen så er det 5 mål Det var.
@@ -128,7 +128,7 @@ For ligesom at flyve giver en indflyvning til det her med foreningen meta. Jamen
 Det her, Det er direkte fra vedtægterne i eva.
 
 00:09:14
-Punkt 2 her Det er at det skal videre vedligeholde og videreudvikle den her infrastruktur som som som som veva har.
+Punkt 2 her Det er at det skal videre vedligeholde og videreudvikle den her infrastruktur som som som som VeVa har.
 
 00:09:26
 Foreningens økonomi skal være hvile i sig selv.
@@ -284,7 +284,7 @@ End det man kan gøre i realtid, så det vi arbejder rigtig meget med. Det er at
 Det vi så mangler at arbejde med. Det er jo så egentligt at se fremad i tid og egentlig operationalisere det. Så der har vi startet et nyt projekt op, som hedder radiat.
 
 00:19:35
-Og Det er jo det næste logiske skidt skridt for udviklingen her her III vena og det handler omkring forkast altså nedbørspro prognoser. Det er en kombination af et VHP projekt og et PHD. Forløb på Aalborg.
+Og Det er jo det næste logiske skidt skridt for udviklingen her her III VeVa og det handler omkring forkast altså nedbørspro prognoser. Det er en kombination af et VHP projekt og et PHD. Forløb på Aalborg.
 
 00:19:51
 Universitet Det er overordnet delt ind i 3 forsknings og udviklingsdele, hvor det ene Det er at forbedre vejrret og datsen gennem crowdsourcet nedbørste data. Det næste Det er at udvikle og operationalisere de her nedbluss.
@@ -362,7 +362,7 @@ II samme forening.
 Jamen jeg ved, at der ude i det i det danske land er flere forsyninger. Der er sagt at de er interesseret og også er klar til at melde sig ind, og Det har faktisk egentlig egentlig været mest på grund af konsolideringen.
 
 00:24:10
-Af af af vilva bestyrelsen, at Det er trukket lidt ud.
+Af af af VeVa bestyrelsen, at Det er trukket lidt ud.
 
 00:24:14
 Og så også at vi lige skulle have have leverandør aftalerne på plads bagved Sådan, så vi var sikker på, at vi var foreningen kunne levere det, som vi var. Foreningen gerne vil levere, og det kører så billigt Sådan. Så Jeg har egentlig aftalt med ole neerup, som er bestyrelsesformand, at Jeg kan sige i dag, at Vi er Sådan set klar til at til, at man kan melde sig ind, og Der er ved at være udarbejdet indmeldelsesplan, blank, blanketter og og ligesom specifikationer på hvad man hvad man får ud af.
@@ -428,7 +428,7 @@ Og.
 Fordi Det er baseret på SVK, regnmåler og putte DMI data og og Der er også Det er også det Det er. Det er klargjort til nu når DMI gør deres data mere og mere åben og det vil jo så sige at.
 
 00:28:28
-Jo mere åbne, og jo mere fri Det er mest datablere, jo billigere bliver det jo så også at være medlem af bva kan man sige.
+Jo mere åbne, og jo mere fri Det er mest datablere, jo billigere bliver det jo så også at være medlem af VeVa kan man sige.
 
 00:28:37
 Og der arbejdes også på at sige, hvordan er det vi egentlig kan integrere på tværs af nationale grænser altså der Der er nogle data III nordtyskland, som specielt er interessant for det sydlige af Danmark, og Der er også nogle, Der er også nogle datakilder i det sydlige Sverige, som specielt er interessant for det østlige af Danmark.
@@ -602,7 +602,7 @@ Er en kombination af datadrevne løsninger og modelbaserede løsninger, og hvord
 Ja Det er Det er godt at blive appelleret til at være lidt ydmyg overfor de ting man går og laver, når man både når man måler og når man modellerer at at man ikke bare fordi man tror man er klog og nødvendigvis har den endegyldige sandhed og. Og hvad er det man siger det med at spå om fremtiden er svært og Det er at stå om vejret er også svært så så så Det er Der er ikke nogen tvivl om at Det er et udfordrende felt.
 
 00:39:49
-Jeg har siddet og stillet en masse spørgsmål og og Det har jeg gjort lidt på vegne af folk også III chatten. Men jeg tænker vi kan lige lynhurtigt på falderebet høre om Der er nogen der har en enkelt lille lille slut kommentar skrevet og hvis ikke Der er det, så vil jeg i hvert fald sige at Jeg er blevet fantastisk meget klogere i dag. Det har været rigtig rart at få en præsentation af viva, og Jeg kan jo i hvert fald fra fra hvor jeg sidder IDNNK.
+Jeg har siddet og stillet en masse spørgsmål og og Det har jeg gjort lidt på vegne af folk også III chatten. Men jeg tænker vi kan lige lynhurtigt på falderebet høre om Der er nogen der har en enkelt lille lille slut kommentar skrevet og hvis ikke Der er det, så vil jeg i hvert fald sige at Jeg er blevet fantastisk meget klogere i dag. Det har været rigtig rart at få en præsentation af VeVa, og Jeg kan jo i hvert fald fra fra hvor jeg sidder IDNNK.
 
 00:40:16
 Kun kun.
