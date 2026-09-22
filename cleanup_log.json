@@ -555,6 +555,12 @@
         "forkert": "IBCY",
         "rettet": "IPCC",
         "antal": 1
+      },
+      {
+        "forkert": "",
+        "rettet": "",
+        "antal": 0,
+        "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
       }
     ],
     "afvist": []
@@ -9087,124 +9093,10 @@
   "transcriptions\\Workshop_om_oversv_mmelser__skader_og__konomi__opl_g_2.mp3.txt": {
     "anvendt": [
       {
-        "forkert": "kyst til trådte",
-        "rettet": "Kystdirektoratet",
+        "forkert": "åbenrå",
+        "rettet": "Aabenraa",
         "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "kystdiktorratet",
-        "rettet": "Kystdirektoratet",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "kystdirektrs",
-        "rettet": "Kystdirektoratets",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "kystdirekts",
-        "rettet": "Kystdirektoratets",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "det kystneutrale har lagt",
-        "rettet": "det Kystdirektoratet har lagt",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "sårpas Index",
-        "rettet": "sårbarhedsindeks",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "sopas indeks",
-        "rettet": "sårbarhedsindeks",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "sovepasindeks",
-        "rettet": "sårbarhedsindeks",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "sorthedsmodel",
-        "rettet": "sårbarhedsmodel",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "menneskelige soppede",
-        "rettet": "menneskelige sårbarhed",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "world being loss",
-        "rettet": "well-being loss",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "world being os",
-        "rettet": "well-being loss",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "flotte people, en kvinde land",
-        "rettet": "flooded people equivalent",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "flotte people i krevent",
-        "rettet": "flooded people equivalent",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "flotte pible kriminallinjen",
-        "rettet": "flooded people equivalent",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "monac Carlo",
-        "rettet": "Monte Carlo",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "kridtceller",
-        "rettet": "gridceller",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "marja Fjord",
-        "rettet": "Mariagerfjord",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "Facebook value",
-        "rettet": "face value",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "eksponeringsindext",
-        "rettet": "eksponeringsindeks",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -24728,6 +24620,116 @@
     "afvist": []
   },
   "transcriptions\\Rockflow_01_opl_g.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "",
+        "rettet": "",
+        "antal": 0,
+        "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Rockflow_05_opl_g.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "mike urben",
+        "rettet": "mike urban",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "mycurben",
+        "rettet": "mike urban",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "my goben",
+        "rettet": "mike urban",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "my good",
+        "rettet": "mike urban",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "walkflow",
+        "rettet": "rockflow",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Konferencer_Fy_kfUxaYXk_20260826_063117.txt": {
+    "anvendt": [
+      {
+        "forkert": "Cararsten",
+        "rettet": "Carsten",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Redania",
+        "rettet": "Realdania",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Ranias",
+        "rettet": "Realdania",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "arkitekturbalen",
+        "rettet": "arkitekturbiennalen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Venedi",
+        "rettet": "Venedig",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Cites in an Arrow of Sea Level Rise",
+        "rettet": "Cities in an Era of Sea Level Rise",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Stadden Island",
+        "rettet": "Staten Island",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Dordrik",
+        "rettet": "Dordrecht",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Konferencer_FDhI9jFfQ4A_20260826_065646.txt": {
+    "anvendt": [
+      {
+        "forkert": "",
+        "rettet": "",
+        "antal": 0,
+        "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Konferencer_eqIRZXAQplk_20260826_062814.txt": {
     "anvendt": [
       {
         "forkert": "",

@@ -5,7 +5,7 @@ Jeg hedder Louise, og Det er min kollega Thomas, og vi arbejder i en vagen, og.
 For cirka.
 
 00:00:14
-Det er vel næsten snart 2 år siden Anders at du hyrede os ind til ligesom at finde ud af, hvordan kan man egentlig modellere Sådan et rockflowmagasin? Altså hvor der rent faktisk er forsinkelse i selve magasinet? Hvordan kan vi modellere det II hydrauliske programmer som for eksempel mike urben?
+Det er vel næsten snart 2 år siden Anders at du hyrede os ind til ligesom at finde ud af, hvordan kan man egentlig modellere Sådan et rockflowmagasin? Altså hvor der rent faktisk er forsinkelse i selve magasinet? Hvordan kan vi modellere det II hydrauliske programmer som for eksempel mike urban?
 
 00:00:32
 Og nu er mike plus som som bliver anvendt rigtig meget af hydrauliker.
@@ -56,7 +56,7 @@ Og hvordan kan vi oversætte det her til et meget plus sprog eller en mike urban
 Fordi en ting er, hvad sker der i virkeligheden? Men hvordan kan vi simulere det?
 
 00:02:33
-Og hvad skal ende produktet egentlig være? Og endeproduktet var vi egentlig også lidt enige om i starten? Jamen, det skulle være en eller 2 form for et manual og et værktøj til, så at Det er nemt for mike open og mike plus brugere til ligesom at indsætte det her rockflowmagasin i mycurben og my plus.
+Og hvad skal ende produktet egentlig være? Og endeproduktet var vi egentlig også lidt enige om i starten? Jamen, det skulle være en eller 2 form for et manual og et værktøj til, så at Det er nemt for mike open og mike plus brugere til ligesom at indsætte det her rockflowmagasin i mike urban og my plus.
 
 00:02:54
 Så Det var ligesom det vi fik snakket om i starten.
@@ -77,7 +77,7 @@ Men Vores ønske. Det er jo faktisk at prøve at beskrive noget komplekst.
 Men simpelt fordi når man skal hen og så lige pludselig at modellere noget, jamen det den værste fjende for en mulør. Det er når noget Det er komplekst, fordi Det er der man laver fejl.
 
 00:03:59
-Hvis Der er alt for mange parametre, og Det er alt for meget du skal med i en model. Jamen så begynder det faktisk og og du faktisk laver fejl og og og laver får nogle forkerte resultater. Så i sidste ende så vil vi gerne over og prøve at lave 1 1 1 simpelt setup altså beskrive noget komplekst i et simpelt setup som mange my good og mike plus brugere faktisk kender til.
+Hvis Der er alt for mange parametre, og Det er alt for meget du skal med i en model. Jamen så begynder det faktisk og og du faktisk laver fejl og og og laver får nogle forkerte resultater. Så i sidste ende så vil vi gerne over og prøve at lave 1 1 1 simpelt setup altså beskrive noget komplekst i et simpelt setup som mange mike urban og mike plus brugere faktisk kender til.
 
 00:04:21
 Så det model setup som vi i første omgang tænkte det her. Det er noget alle kender til og noget alle kan bruge. Og Det er et simpelt koncept.
@@ -191,7 +191,7 @@ Modellere elementerne således, at man kan sætte dem ind i de hydrauliske model
 Ja, du kan sige et par ord omkring det.
 
 00:09:27
-Jamen med kalibrering af det her model setup jamen så kunne vi faktisk ligesom komme lidt videre og se jamen egentlig. Så kan vi godt sætte et simpelt setup som som andre my goben og mike plus brugere egentlig også kan sætte sig ind i. Så vi prøver lidt at fjerne den her kompleksitet.
+Jamen med kalibrering af det her model setup jamen så kunne vi faktisk ligesom komme lidt videre og se jamen egentlig. Så kan vi godt sætte et simpelt setup som som andre mike urban og mike plus brugere egentlig også kan sætte sig ind i. Så vi prøver lidt at fjerne den her kompleksitet.
 
 00:09:45
 Eller og ligesom simplificere den, så at det bliver nemmere at få hydraulikere og egentlig at at beskrive et et rockflowmagasin II et hydraulisk program.
@@ -239,7 +239,7 @@ Simpelt rockflowmagasin sat op inde i mig plus og det det. Det er godt at se meg
 Ledning Det er der hvor at udløbsflowet beskrives.
 
 00:12:24
-Og så kan man jo så sige jamen jamen er det egentlig ikke et setup som man bruger i alle mulige andre volumer derude, men men men og så sætter en eller 2 drosling på en ledning, men men forskellen er at her hvis man bruger walkflow Det er at selve rockflowmagasinet Det er det der forsinker vandet. Det er ikke en eller 2 drosling, men bud på Det kan man også og sige, men der må jo maks komme det her vand ud, men III langt II mange.
+Og så kan man jo så sige jamen jamen er det egentlig ikke et setup som man bruger i alle mulige andre volumer derude, men men men og så sætter en eller 2 drosling på en ledning, men men forskellen er at her hvis man bruger rockflow Det er at selve rockflowmagasinet Det er det der forsinker vandet. Det er ikke en eller 2 drosling, men bud på Det kan man også og sige, men der må jo maks komme det her vand ud, men III langt II mange.
 
 00:12:49
 Hvad kan man sige mest af tiden?
