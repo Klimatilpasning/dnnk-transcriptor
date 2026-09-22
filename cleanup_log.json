@@ -24310,5 +24310,107 @@
       }
     ],
     "afvist": []
+  },
+  "transcriptions\\Oevrige_gMnODGapiRI_20260826_170455.txt": {
+    "anvendt": [
+      {
+        "forkert": "Abort",
+        "rettet": "rapport",
+        "antal": 4,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Aborten",
+        "rettet": "rapporten",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "BG2",
+        "rettet": "WG2",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Fremtidens_forsikringsmarked_og_deling_af_skybrudsdata_v._St.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "BBBR",
+        "rettet": "BBR",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "postpenge",
+        "rettet": "pose penge",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Strategisk_planl_gning_af_fremtidens_klimatilpasning_af_byer.mp3 (1).txt": {
+    "anvendt": [
+      {
+        "forkert": "hasterbogsystemet",
+        "rettet": "Harrestrup Å-systemet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "hasterbog",
+        "rettet": "Harrestrup Å",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ty 12",
+        "rettet": "2012",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Oevrige_rnL8O4Stv70_20260826_172756.txt": {
+    "anvendt": [
+      {
+        "forkert": "Randersk Kommune",
+        "rettet": "Randers Kommune",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "guden åren",
+        "rettet": "Gudenåen",
+        "antal": 7,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\DNNKs_virtuelle_studietur_til_Skibhuskvarteret_i_Odense.txt": {
+    "anvendt": [
+      {
+        "forkert": "VHDP",
+        "rettet": "VUDP",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Konferencer_Qug2NCWX4Aw_20260826_062922.txt": {
+    "anvendt": [
+      {
+        "forkert": "",
+        "rettet": "",
+        "antal": 0,
+        "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
+      }
+    ],
+    "afvist": []
   }
 }
