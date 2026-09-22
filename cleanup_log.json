@@ -9247,22 +9247,10 @@
   "transcriptions\\Workshop_om_oversv_mmelser__skader_og__konomi__opl_g_4.mp3.txt": {
     "anvendt": [
       {
-        "forkert": "spytternes komitéen",
-        "rettet": "spildevandskomitéen",
+        "forkert": "kim lokalplaner",
+        "rettet": "klimalokalplaner",
         "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "aflivssystemer",
-        "rettet": "afløbssystemer",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "covis",
-        "rettet": "COWIs",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -24577,6 +24565,175 @@
         "rettet": "Risikostyringsplaner",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Konferencer_ZB7K39iiVOs_20260826_062857.txt": {
+    "anvendt": [
+      {
+        "forkert": "Konito",
+        "rettet": "Concito",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Magnus Holnike",
+        "rettet": "Magnus Heunicke",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Abenrå",
+        "rettet": "Aabenraa",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "åbenbrå",
+        "rettet": "Aabenraa",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Konferencer_WoJEDJKye-0_20260826_063023.txt": {
+    "anvendt": [
+      {
+        "forkert": "Carsten Aren Bjer Nielsen",
+        "rettet": "Karsten Arnbjerg-Nielsen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DMK",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Jerone Erz",
+        "rettet": "Jeroen Aerts",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Oevrige_Be8WiDJYFsg_20260826_164736.txt": {
+    "anvendt": [
+      {
+        "forkert": "Raldangia",
+        "rettet": "Realdania",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Valdania",
+        "rettet": "Realdania",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kvistbeskøjelser",
+        "rettet": "kystbeskyttelse",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kvistbeskyttelse",
+        "rettet": "kystbeskyttelse",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "krisbeskyttelse",
+        "rettet": "kystbeskyttelse",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "købsbeskyttelsen",
+        "rettet": "kystbeskyttelsen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "købsbeskyttelseteknologier",
+        "rettet": "kystbeskyttelsesteknologier",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Græno",
+        "rettet": "Grenå",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Karsten Amberg",
+        "rettet": "Karsten Arnbjerg-Nielsen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Skalgo",
+        "rettet": "SCALGO",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "KUK",
+        "rettet": "COWI",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Fogborg",
+        "rettet": "Faaborg",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Nykomin",
+        "rettet": "Nykøbing",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Frederik's værk",
+        "rettet": "Frederiksværk",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Ian McCrack",
+        "rettet": "Ian McHarg",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Konferencer_WblCkHvBaeg_20260826_063057.txt": {
+    "anvendt": [
+      {
+        "forkert": "",
+        "rettet": "",
+        "antal": 0,
+        "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Rockflow_01_opl_g.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "",
+        "rettet": "",
+        "antal": 0,
+        "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
       }
     ],
     "afvist": []
