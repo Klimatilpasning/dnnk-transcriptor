@@ -11,7 +11,7 @@ På god ordens skyld skal jeg sige, at Tech Talken bliver optaget og lagt på DN
 I forhold til det praktiske, så er det sådan, at undervejs i denne Tech Talk, så kan I stille spørgsmål i chatten hele vejen, og så vil vi runde det op med til sidst at stille spørgsmålet til dagens værter, Dagens Tech Talk i dag vil blive en præsentation af et inspirationskatalog omkring terrænet af grundvand og noget baggrund dertil.
 
 00:00:43
-I dag har vi Peter Bastus fra WSP, Sanne Schlott Hansen fra Søndherr og Ulrik Hilsbjerger fra Teknologisk Institut til at gå det igennem.
+I dag har vi Peter Bastus fra WSP, Sanne Schlott Hansen fra Schønherr og Ulrik Hilsbjerger fra Teknologisk Institut til at gå det igennem.
 
 00:00:52
 Her til at starte med vil jeg give ordet videre til dig, Peter.
@@ -38,7 +38,7 @@ Sanne, vil du?
 Ja, jeg hedder Sanne Slott Hansen.
 
 00:01:10
-Jeg er landskabsarkitekt hos Sjøen her, og har arbejdet en del med klimatilpasning med særlig fokus på at skabe gode helhedsorienterede løsninger og masser af mere værdi.
+Jeg er landskabsarkitekt hos Schønherr her, og har arbejdet en del med klimatilpasning med særlig fokus på at skabe gode helhedsorienterede løsninger og masser af mere værdi.
 
 00:01:20
 Ja, og jeg hedder Ulrik Hensbøger fra Teknologisk Institut, og arbejder med afløbssystemer og klimatilpasninger, både i forhold til teknikker og mere værdier.
@@ -59,7 +59,7 @@ Og det har vi lavet en lille agenda omkring, som meget gerne skulle komme her.
 Vi kunne godt tænke os at lige starte med lidt baggrund, og så kunne vi godt tænke os at starte lidt og snakke lidt om den her nye lovgivning, der er på vej.
 
 00:02:04
-Og så det her inspirationskaloud, som vi har lavet til Danmark og KL, og ud fra det kaloud også nævne nogle af de eksempler og cases, vi har med deri, hvad det er, de kan.
+Og så det her inspirationskaloud, som vi har lavet til DANVA og KL, og ud fra det kaloud også nævne nogle af de eksempler og cases, vi har med deri, hvad det er, de kan.
 
 00:02:14
 For det er jo altid interessant at se på, hvad der bliver lavet rundt omkring, og nogle gange også, hvad der ikke bliver lavet.
@@ -80,7 +80,7 @@ Noget af det, jeg ville tage udgangspunkt i, og det er sikkert en del af dig, ha
 I hvert fald i de boringer her.
 
 00:02:54
-Det er ikke alle steder, det ser sådan ud, men det blev i hvert fald brugt af Trevand, som jo var Hofor, Aarhus Vand, Vandsætter Syde og Biofos, der producerede det her notat og sagde, at vi er nødt til at gøre et eller andet projekt, fordi som det er i dag, er det jo sådan, at man må godt håndtere terræne og grundvand ved sit eget hus og lave et omfangsdren eller lignende, men forsyningerne må ikke drene.
+Det er ikke alle steder, det ser sådan ud, men det blev i hvert fald brugt af Trevand, som jo var Hofor, Aarhus Vand, VandCenter Syd og Biofos, der producerede det her notat og sagde, at vi er nødt til at gøre et eller andet projekt, fordi som det er i dag, er det jo sådan, at man må godt håndtere terræne og grundvand ved sit eget hus og lave et omfangsdren eller lignende, men forsyningerne må ikke drene.
 
 00:03:23
 Derfor kan man ikke lave de her kollektive løsninger, hvor man drener i større områder, hvor det måske Det giver så meget mening længere, at folk laver omfattning, hvad jeg ser, og bruger en masse penge på det, for at vælge at mærke og hælde vandet ud i den korrekt, hvor forsyningerne nok heller ikke gerne vil have det.
@@ -389,7 +389,7 @@ Det er stadig sådan, at der er et skæld mellem det offentlige og det private, 
 Vi etablerer ikke nogen ServiceNord, der garanterer noget som helst inde på private grund, men vi gør noget i de offentlige arealer, der kan være medvirkende til at afhjælpe problemet på private grund.
 
 00:13:45
-Vi har lavet det her inspirationskalog, og det ligger på Danmarks hjemmeside.
+Vi har lavet det her inspirationskalog, og det ligger på DANVA's hjemmeside.
 
 00:13:53
 Det kan I se på den allerførste slide.
@@ -404,13 +404,13 @@ Og vi har snakket med en hel del kommuner og forsyninger, og 10 af dem er der er
 Vi har noget vand, som vi kan se på som en ressource eller som et problem.
 
 00:14:21
-Og det er en af grundene til at Rildania, blandt andet at støtte det her inspektionspilot, det er at se, kan vi ikke udnytte det her vand til noget rekreativt eller noget godt eller teknisk vand eller et eller andet.
+Og det er en af grundene til at Realdania, blandt andet at støtte det her inspektionspilot, det er at se, kan vi ikke udnytte det her vand til noget rekreativt eller noget godt eller teknisk vand eller et eller andet.
 
 00:14:32
 Det handler om mere ved det, jeg kan love, men det handler også rigtig meget om de tekniske løsninger, altså de her cases.
 
 00:14:37
-Og de cases, der er med dem, dem ser I her i midten, og så er der lige nogle bobler omkring, at alle de interviews, vi har haft, hvor der er sagt rigtig mange ting, og der er også været nogle workshops i Danmark og KL-regime, og det har fyldt rigtig meget ud af danske kommunalforsyninger, og jeg ved også, der har været givet rigtig mange højhedssvar fra kommunalforsyninger til lovforslaget, Og Danmark KL har også modtaget mange af de her inputs.
+Og de cases, der er med dem, dem ser I her i midten, og så er der lige nogle bobler omkring, at alle de interviews, vi har haft, hvor der er sagt rigtig mange ting, og der er også været nogle workshops i DANVA og KL-regime, og det har fyldt rigtig meget ud af danske kommunalforsyninger, og jeg ved også, der har været givet rigtig mange højhedssvar fra kommunalforsyninger til lovforslaget, Og Danmark KL har også modtaget mange af de her inputs.
 
 00:15:05
 Men nu vil vi prøve at fokusere lidt på katalogets indhold omkring de tekniske løsninger.
@@ -692,7 +692,7 @@ Bare skift.
 Så har vi nogle eksempler, som vi kommer til at gå hurtigt igennem.
 
 00:28:45
-Det første eksempel er fra Icas Brande, og der har man tænkt terrænet af grundvand ind i selve disponeringen af det nye byområde, som jo ligger oppe af et eksisterende byområde.
+Det første eksempel er fra Ikast Brande, og der har man tænkt terrænet af grundvand ind i selve disponeringen af det nye byområde, som jo ligger oppe af et eksisterende byområde.
 
 00:28:57
 I kan se med den blå streg, der er der etableret et urbant vandløb, og man kan se, at farven på vandet er nok ikke så blå som det er her.
@@ -872,7 +872,7 @@ Så det er jo også et greb, der ligger i skuffen.
 Der ligger også en lille skræb i skuffen i forhold til at håndtere træning af grundvand i sommerhusområder.
 
 00:36:06
-Det er der ikke så meget tid til at gøre ud af lige nu, men Harborøa Land, som også er med i eksempel sammenlignet, er eksempel på, hvordan man med en eksisterende lovgivning faktisk kan gå ind og dræne et sommerhusområde samtidig med, at man spilderens kloakerer med et ejerskab af grundeejreforeningerne, men måske udført af forsyningerne og overdraget og betalt af grundeejreforeningerne.
+Det er der ikke så meget tid til at gøre ud af lige nu, men Harboøre Land, som også er med i eksempel sammenlignet, er eksempel på, hvordan man med en eksisterende lovgivning faktisk kan gå ind og dræne et sommerhusområde samtidig med, at man spilderens kloakerer med et ejerskab af grundeejreforeningerne, men måske udført af forsyningerne og overdraget og betalt af grundeejreforeningerne.
 
 00:36:32
 Vi har til sidst nogle pointe omkring det her med, at husk nu, at det ikke kun handler om meget vand om vinteren.
@@ -935,7 +935,7 @@ Hvor har kommunens forsyning tænkt sig at tætte med sine ledninger?
 Der er mange faser, man kan arbejde med i fremtiden omkring det, men det her er vores afslutende slide, så vi vil gerne stoppe vores præstation her.
 
 00:38:55
-Tusind tak for jeres indlæg, og jeg ved godt, at I kunne have snakket om det i dagvis udover det her, og det har vi ikke tid til, men jeg synes, det var en rigtig, rigtig fin gennemgang over et godt kassalog, som I jo også har præsenteret, ligger på Danvers hjemmeside.
+Tusind tak for jeres indlæg, og jeg ved godt, at I kunne have snakket om det i dagvis udover det her, og det har vi ikke tid til, men jeg synes, det var en rigtig, rigtig fin gennemgang over et godt kassalog, som I jo også har præsenteret, ligger på DANVA's hjemmeside.
 
 00:39:10
 Der er kommet nogle spørgsmål og nogle kommentarer i chatten, og til jer andre derude, I kan fortsat stille spørgsmål i chatten, så vil jeg stille dem her.
@@ -1088,7 +1088,7 @@ Jeg ved faktisk ikke, hvor højt det ligger, det område der.
 Jeg tænker ikke, det lå specielt vandlidende.
 
 00:43:37
-Så det kan jeg så ikke svare på, men det kan Jan fra Ikast Brænde Kommune eller Ken fra Forsyningshedskabet nok bedre svare på, end jeg kan.
+Så det kan jeg så ikke svare på, men det kan Jan fra Ikast-Brande Kommune eller Ken fra Forsyningshedskabet nok bedre svare på, end jeg kan.
 
 00:43:46
 Så kommer der et lidt bredere spørgsmål her.

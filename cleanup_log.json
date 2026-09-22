@@ -3836,9 +3836,142 @@
   "transcriptions\\Tech_Talk_-_Den_gode_vej_til_planl_gning_af_klimatilpasning_.txt": {
     "anvendt": [
       {
-        "forkert": "tiktok",
+        "forkert": "DNDK",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "nias",
+        "rettet": "NIRAS",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tik-dok",
         "rettet": "Tech Talk",
-        "antal": 3
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tiktokken",
+        "rettet": "Tech Talken",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tik toppen",
+        "rettet": "Tech Talken",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tik talk",
+        "rettet": "Tech Talk",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tiktokks",
+        "rettet": "Tech Talks",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "danning k",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DN ks hjemmeside",
+        "rettet": "DNNK's hjemmeside",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DNAMK",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Georg Danmark bygninger",
+        "rettet": "GeoDanmark bygninger",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "BPR",
+        "rettet": "BBR",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "masees tunnel",
+        "rettet": "Marselistunnelen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "cosbinf-analyse",
+        "rettet": "cost-benefit-analyse",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "que gears",
+        "rettet": "QGIS",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "webkys program",
+        "rettet": "web-GIS-program",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "corona",
+        "rettet": "krone",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "andex maksimum",
+        "rettet": "anlægsmaksimum",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "service nu bekendtgørelsen",
+        "rettet": "serviceniveau bekendtgørelsen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "service du bekendtgørelsen",
+        "rettet": "serviceniveau bekendtgørelsen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "servicenive bekendtgørelsen",
+        "rettet": "serviceniveau bekendtgørelsen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "servicenobe bekendtgørelsen",
+        "rettet": "serviceniveau bekendtgørelsen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "hydrogruamiske oversvømmelseskort",
+        "rettet": "hydrodynamiske oversvømmelseskort",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -5750,9 +5883,64 @@
   "transcriptions\\Tech_Talk__Inspirationskatalog_for_h_ndtering_af_terr_nn_rt_.mp3.txt": {
     "anvendt": [
       {
-        "forkert": "tekst talk",
-        "rettet": "Tech Talk",
-        "antal": 1
+        "forkert": "Rildania",
+        "rettet": "Realdania",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Vandsætter Syde",
+        "rettet": "VandCenter Syd",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Danmark og KL",
+        "rettet": "DANVA og KL",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Danmarks hjemmeside",
+        "rettet": "DANVA's hjemmeside",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Danvers hjemmeside",
+        "rettet": "DANVA's hjemmeside",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Icas Brande",
+        "rettet": "Ikast Brande",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Ikast Brænde Kommune",
+        "rettet": "Ikast-Brande Kommune",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Harborøa Land",
+        "rettet": "Harboøre Land",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Søndherr",
+        "rettet": "Schønherr",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Sjøen",
+        "rettet": "Schønherr",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -5825,9 +6013,112 @@
   "transcriptions\\Tech_Talk__Multifunktionelt_vandh_ndteringsprojekt_i_Odense.txt": {
     "anvendt": [
       {
-        "forkert": "tiktok",
-        "rettet": "Tech Talk",
-        "antal": 4
+        "forkert": "Tech Talk INK",
+        "rettet": "Tech Talk DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "danning k",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "dagens tik-top",
+        "rettet": "dagens Tech Talk",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "checkstoppen",
+        "rettet": "Tech Talken",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tik toppen",
+        "rettet": "Tech Talken",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DNA ks hjemmeside",
+        "rettet": "DNNK's hjemmeside",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DNIKS hjemmeside",
+        "rettet": "DNNK's hjemmeside",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "NNKS hjemmeside",
+        "rettet": "DNNK's hjemmeside",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "dhanne k",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DNK",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "vandan og syd",
+        "rettet": "VandCenter Syd",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "vandson og syd",
+        "rettet": "VandCenter Syd",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "vandet Center syd",
+        "rettet": "VandCenter Syd",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "vandcentre syd",
+        "rettet": "VandCenter Syd",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "VSP",
+        "rettet": "WSP",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "BSP",
+        "rettet": "WSP",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "iskosemblere",
+        "rettet": "ISCO-samplere",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "isposembler",
+        "rettet": "ISCO-samplere",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -5835,14 +6126,82 @@
   "transcriptions\\Tech_Talk__Overfladeafstr_mning___The_missing_link_.txt": {
     "anvendt": [
       {
-        "forkert": "tiktok",
-        "rettet": "Tech Talk",
-        "antal": 1
+        "forkert": "DNDK",
+        "rettet": "DNNK",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "tik tok",
+        "forkert": "dian NK",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Kristoffer sindby Larsen",
+        "rettet": "Kristoffer Sindby",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ackins",
+        "rettet": "Atkins",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tik-op",
         "rettet": "Tech Talk",
-        "antal": 2
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tektuppen",
+        "rettet": "Tech Talken",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tiktokken",
+        "rettet": "Tech Talken",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ANNKS hjemmeside",
+        "rettet": "DNNK's hjemmeside",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "diaginajog",
+        "rettet": "dialog",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "receptionen",
+        "rettet": "recipienten",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "recipanen",
+        "rettet": "recipienten",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "reciplanten",
+        "rettet": "recipienten",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "robustridsanalysen",
+        "rettet": "robusthedsanalysen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -21855,6 +22214,202 @@
       {
         "forkert": "tørke hedde her",
         "rettet": "tørke og hede",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Tech_Talk__MAPIT.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "DNSK's hjemmeside",
+        "rettet": "DNNK's hjemmeside",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kysbeskyttelsesbidrag",
+        "rettet": "kystbeskyttelsesbidrag",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kødsbeskyttelsesprojekter",
+        "rettet": "kystbeskyttelsesprojekter",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kysbeskyttelsesanlæg",
+        "rettet": "kystbeskyttelsesanlæg",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kødspulje",
+        "rettet": "kystpulje",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kødsbeskyttelsesloven",
+        "rettet": "kystbeskyttelsesloven",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "sabbatutteteksten",
+        "rettet": "servitutteksten",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "sabbatutterne",
+        "rettet": "servitutterne",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "sabbatutten",
+        "rettet": "servitutten",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "servicetutten",
+        "rettet": "servitutten",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "sabbatutteksten",
+        "rettet": "servitutteksten",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "parvtræsøer",
+        "rettet": "§3-søer",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "parf3-søer",
+        "rettet": "§3-søer",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "skorbyggelinjer",
+        "rettet": "skovbyggelinjer",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ledningsejreregistret",
+        "rettet": "Ledningsejerregistret",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ledningsejreregistreret",
+        "rettet": "Ledningsejerregistret",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Gidsafdelingen",
+        "rettet": "GIS-afdelingen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "gidssystem",
+        "rettet": "GIS-system",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "gidskort",
+        "rettet": "GIS-kort",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Mavit",
+        "rettet": "MAPIT",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Stavns Kommune",
+        "rettet": "Stevns Kommune",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Geodesian",
+        "rettet": "GeoJSON",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Godmorgen med DNNK - Dynamisk Adaptiv Pathway Planning DAPP.txt": {
+    "anvendt": [
+      {
+        "forkert": "banden k",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "nice",
+        "rettet": "NIRAS",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "deb",
+        "rettet": "DAPP",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Fysioteroratet",
+        "rettet": "Kystdirektoratet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kystdirektorhardet",
+        "rettet": "Kystdirektoratet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "hospitalstigning",
+        "rettet": "havspejlstigning",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "houspejlstigning",
+        "rettet": "havspejlstigning",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "hospicestigningerne",
+        "rettet": "havspejlstigningerne",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "housspalt stigningerne",
+        "rettet": "havspejlstigningerne",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
       }

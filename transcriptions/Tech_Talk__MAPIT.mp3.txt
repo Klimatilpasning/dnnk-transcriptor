@@ -8,7 +8,7 @@ Velkommen til dagens Tech Talk.
 I teknikken sidder Morten Halling, og jeg, Kristoffer Sindby, er dagens vært.
 
 00:00:23
-For god ordens sky skal det siges, at Tech Talk bliver optaget og lagt på DNSK's hjemmeside i løbet af en uge.
+For god ordens sky skal det siges, at Tech Talk bliver optaget og lagt på DNNK's hjemmeside i løbet af en uge.
 
 00:00:31
 Lidt i forhold til det praktiske, så kan I stille spørgsmål løbende under Tech Talken, og I skal være meget velkommen til at gøre det undervejs.
@@ -41,7 +41,7 @@ Som sagt, er det dagsundet i dag, at jeg kommer med en kort introduktion om, hva
 Så vil jeg vise jer ganske kort, hvordan vi laver vores ejerhjælp.
 
 00:01:24
-Efterfølgende vil jeg vise tre forskellige måder, vi kan hjælpe kommunerne med at simulere forskellige bidrag, og hvordan man kan vise de her kysbeskyttelsesbidrag på et kort, og så slutte af med nogle spørgsmål.
+Efterfølgende vil jeg vise tre forskellige måder, vi kan hjælpe kommunerne med at simulere forskellige bidrag, og hvordan man kan vise de her kystbeskyttelsesbidrag på et kort, og så slutte af med nogle spørgsmål.
 
 00:01:41
 Jeg hedder Kasper Thybo, og jeg er områdeschef for det, vi kalder arealer og rettigheder i Møllebakke Landinspektør.
@@ -74,10 +74,10 @@ Det er det, jeg vil komme nærmere ind på i dag.
 Vi bruger også vores mappe til andre ting, men det må blive på en anden TikTok, jeg fortæller om det.
 
 00:02:56
-Hvis vi starter med arealbindingskortet til kødsbeskyttelsesprojekter, så er et arealbindingskort dybest set, at vi på et kort visualiserer en CVT-redegørelse, som så også indeholder oplysning om ledninger, som ikke er tinglys, som vi får fra ledningsejreregistret, som er lær, og vi kan også vise naturbindinger, dvs.
+Hvis vi starter med arealbindingskortet til kystbeskyttelsesprojekter, så er et arealbindingskort dybest set, at vi på et kort visualiserer en CVT-redegørelse, som så også indeholder oplysning om ledninger, som ikke er tinglys, som vi får fra Ledningsejerregistret, som er lær, og vi kan også vise naturbindinger, dvs.
 
 00:03:21
-parvtræsøer eller kirkebyggelinjer eller skorbyggelinjer eller andet, der kan være tilhinder, eller i hvert fald være noget, man skal have forhold til, når man skal bygge et anlæg, som en kysbeskyttelsesanlæg er.
+§3-søer eller kirkebyggelinjer eller skovbyggelinjer eller andet, der kan være tilhinder, eller i hvert fald være noget, man skal have forhold til, når man skal bygge et anlæg, som en kystbeskyttelsesanlæg er.
 
 00:03:36
 Og det, som er udfordringen, det er, at normalt, når man kontakter en landsbygttør for en servitutredegørelse, så får man typisk et Excel-ark, hvor man får listet alle servitutterne op, og hvor det er beskrevet, hvad det er for ting, de her servitutter regulerer.
@@ -86,13 +86,13 @@ Og det, som er udfordringen, det er, at normalt, når man kontakter en landsbygt
 Og så ved siden af det, et andet dokument, får man så en PDF-dokument, hvor man så har vist, hvor de her servitutter ligger henne.
 
 00:04:05
-Og så vil det typisk være sådan, at man i Excel-arket måske kan linke til selve sabbatutteteksten, det man også kalder akten, for at se hvad der står der egentlig i de her sabbatutter.
+Og så vil det typisk være sådan, at man i Excel-arket måske kan linke til selve servitutteksten, det man også kalder akten, for at se hvad der står der egentlig i de her sabbatutter.
 
 00:04:18
 Men det synes vi var lidt bøvlet, at det ligger to forskellige steder, så derfor har vi med det her MAPIT-system vi har samlet det hele et sted.
 
 00:04:27
-Så det vil sige, at sabbatutterne bliver vist på kortet, og når man klikker på sabbatutten, så kommer der altså en pop-up-vindue, der viser hvad servicetutten regulerer, hvem er påtalet på rettighed, og så er der også et link, så man kan komme direkte hen til akten.
+Så det vil sige, at servitutterne bliver vist på kortet, og når man klikker på servitutten, så kommer der altså en pop-up-vindue, der viser hvad servitutten regulerer, hvem er påtalet på rettighed, og så er der også et link, så man kan komme direkte hen til akten.
 
 00:04:42
 Og det vil jeg gerne lige vise en case på her, så hvis jeg lige følger mit link, så...
@@ -128,7 +128,7 @@ Og hvis man vil se nærmere ind i akten, så kan man følge linket, og så kan m
 Det plejer nok at gå hurtigere, når man ikke lige er på et time, så skal vise det samtidig her, men så skulle den gerne åbne pdf-filen, som at den så vil blot komme her.
 
 00:06:32
-Så kan I jo se her, så kan man så sættes ind og læse, hvad står der så rent faktisk i sabbatutteksten, og læse hele akten igennem her.
+Så kan I jo se her, så kan man så sættes ind og læse, hvad står der så rent faktisk i servitutteksten, og læse hele akten igennem her.
 
 00:06:41
 Og I kan se, at nederst der er eller kortbilader, som viser de samme firkanter, hvor man kan parkere, ligesom dem, som også var vist her på vores MAPIT-kort.
@@ -197,7 +197,7 @@ Og der kan man se, at det er faktisk en skovbyggelinje, som man så også skal h
 Måske skal man have dispensation for at bygge anlægget inden for skovbyggelinjen.
 
 00:08:58
-Der kan også være naturbeskyttede søer, typisk kalde parf3-søer, som kunne være tilhinder for byggeriet.
+Der kan også være naturbeskyttede søer, typisk kalde §3-søer, som kunne være tilhinder for byggeriet.
 
 00:09:08
 Alt det kan vi vise inde i mappet her.
@@ -227,13 +227,13 @@ Vi har nemlig også lavet det, vi kalder en bidragsfordelingssimulator.
 Og det er jo fordi, at når vi har at gøre med kommunale kysbeskyttelsesprojekter, Så er det typisk sådan, at noget af anlægget bliver måske finansieret ud af kommunekassen.
 
 00:10:10
-Noget af anlægget bliver finansieret ved, at man får penge fra statens kødspulje.
+Noget af anlægget bliver finansieret ved, at man får penge fra statens kystpulje.
 
 00:10:14
 Og så er der altså også en stor del af anlægget, der skal finansieres gennem, at dem, der får glæde af anlægget, er med til at betale for det.
 
 00:10:22
-Og så står der i kødsbeskyttelsesloven, at dem, der får mere glæde af anlægget, skal også betale forholdsvis mere end dem, der får mindre glæde af anlægget.
+Og så står der i kystbeskyttelsesloven, at dem, der får mere glæde af anlægget, skal også betale forholdsvis mere end dem, der får mindre glæde af anlægget.
 
 00:10:32
 Og det giver jo så anledning til, at kommunerne, som har de her projekter, skal lægge sig fast på det, man kalder en bidragsfordelingsmodel.
@@ -308,7 +308,7 @@ På den måde kan man spare kommunen for en masse ressourcer, hvor de skal bruge
 Men igen kan jeg lige trykke på nogle links her, jeg har taget med, så I kan se i virkeligheden, hvordan det tager sig ud.
 
 00:14:59
-Jeg har et eksempel her fra Stavns Kommune.
+Jeg har et eksempel her fra Stevns Kommune.
 
 00:15:01
 Og det, I kommer til at se, det er work in progress.
@@ -344,7 +344,7 @@ Så det er det, denne her visning kan vise.
 Man kan også slå det fra herinde, og så kan man vise, hvis man nu har et scenarie her, de kalder for erosion 80-20, hvis man slår det til.
 
 00:16:16
-Så kan Mavit så vise, hvor mange...
+Så kan MAPIT så vise, hvor mange...
 
 00:16:20
 Man kan se her, der ligger 16 ejendomme inden for det her område, og de er alle sammen grønne.
@@ -572,10 +572,10 @@ Jeg kan måske bedre lige vise det, hvis jeg fjerner alle prikkerne og de andre 
 Kommunen siger til os, at alle de ejendomme, de har sagt, er 150 meter fra kysten, de skal betale.
 
 00:27:53
-Gidsafdelingen i kommunen laver en bufferzone rundt om kystlinjen på 250 meter, og det er så den, de sender til os.
+GIS-afdelingen i kommunen laver en bufferzone rundt om kystlinjen på 250 meter, og det er så den, de sender til os.
 
 00:27:59
-Når vi får den streg her, så kan vi indlæse den i MAPIT, som er vores gidssystem, og så kan vi sige til MAPIT, udpege alle de ejendomme, der ligger inden for den streg her.
+Når vi får den streg her, så kan vi indlæse den i MAPIT, som er vores GIS-system, og så kan vi sige til MAPIT, udpege alle de ejendomme, der ligger inden for den streg her.
 
 00:28:10
 Og så er det jo, at man får alle de her ejendomme, og så kan vores system også gøre det, den siger, at man trækker alle BBR-oplysninger, trækker alle tænklysningsoplysninger, træk alle oplysninger fra datafordeleren osv.
@@ -641,7 +641,7 @@ Martin, så må du lige skrive igen, men Martin har også et opfyldt spørgsmål
 I ligger lidt i tråd med det.
 
 00:30:31
-Kan kommunen selv gå ind og ændre i bidragsfordelingssimulatorens input for at opdatere resultaterne, eller er det kun jer, der kan ændre, hvorefter kommunen kun har adgang til et gidskort med resultaterne?
+Kan kommunen selv gå ind og ændre i bidragsfordelingssimulatorens input for at opdatere resultaterne, eller er det kun jer, der kan ændre, hvorefter kommunen kun har adgang til et GIS-kort med resultaterne?
 
 00:30:46
 Indtil videre har det vist sig mest hensigtsmæssigt, at det er os, der...
@@ -830,7 +830,7 @@ Fald?
 Altså vi er faktisk lidt tilbageholdt med at anbefale det, fordi det ser vi helst kommunens advokater om, Der er en masse afgørelser på det område, som vi ikke er 100 meter mestre i.
 
 00:36:59
-Altså hvis man tager for stort et område med, så er der nogen længere tilbage i landet, der vil klage over, hvorfor jeg får slet ikke glæde af det der kysbeskyttelsesanlæg, så hvorfor skal jeg være med til at betale bidrag?
+Altså hvis man tager for stort et område med, så er der nogen længere tilbage i landet, der vil klage over, hvorfor jeg får slet ikke glæde af det der kystbeskyttelsesanlæg, så hvorfor skal jeg være med til at betale bidrag?
 
 00:37:11
 Og den vurdering af, hvornår er man inden for eller uden for loven der, det plejer at være kommunens advokat, Det er ikke noget, vi har dyrket nærmere.
@@ -1046,7 +1046,7 @@ Hendrik spørger, i hvilket format tegner man, som kommunen den blå streg og se
 Er det i cookies eller et hvert kort format?
 
 00:43:04
-Altså, vi vil jo blive rigtig glade af at klappe i hænderne, hvis vi får det i Geodesian, fordi det er det format, vi ender med at skulle have det i.
+Altså, vi vil jo blive rigtig glade af at klappe i hænderne, hvis vi får det i GeoJSON, fordi det er det format, vi ender med at skulle have det i.
 
 00:43:12
 Men selvom vi måtte få det i et andet, så kan vi godt finde ud af at konvertere det.
@@ -1100,7 +1100,7 @@ I den model, vi har på skærmen nu, er de ikke.
 Det tror jeg faktisk gerne, kommunen vil have, fordi de har fundet ud af, at det skal vi simpelthen også have med på en eller anden måde.
 
 00:44:28
-Der skal man så tænke sig om, hvordan man kan finde ud af, et eller andet parameter for, hvordan man kan regne dem ned, og måske kan man gå i lær, altså ledningsejreregistreret, og så få afdækket, hvor mange meter af en eller anden ledning, det har, er nede i en vej, og så bruge det som faktor for, hvordan, altså så give dem et fordeltestal, som bliver beregnet ud for, hvor mange meter ledning, de har inden for et eller andet område.
+Der skal man så tænke sig om, hvordan man kan finde ud af, et eller andet parameter for, hvordan man kan regne dem ned, og måske kan man gå i lær, altså Ledningsejerregistret, og så få afdækket, hvor mange meter af en eller anden ledning, det har, er nede i en vej, og så bruge det som faktor for, hvordan, altså så give dem et fordeltestal, som bliver beregnet ud for, hvor mange meter ledning, de har inden for et eller andet område.
 
 00:44:58
 Så det er klart muligt, men det komplicerer også sagerne selvfølgelig.

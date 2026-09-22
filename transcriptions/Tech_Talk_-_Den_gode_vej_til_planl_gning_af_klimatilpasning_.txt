@@ -1,11 +1,11 @@
 00:00:05
-Det er alle velkommen til dagens Tech Talk på DNDK. Mit navn Det er teis roskov Andersen og jeg forbi University College sammen med Morten halling for danning k. Vi er på vej ned ad danni k by i alle sammen velkommen i denne tik-dok vil Mathias fristed fra Aarhus Kommune og jan Jepsen fra nias præsenterer bedst værktøjet, klimatilpasning og give eksempler på dens brug og muligheder i relation til den nye til den nye introduktion af servicebekendtgørelsen og de dertil hørende øgede kompleksiteter i planlægningen og finansieringen.
+Det er alle velkommen til dagens Tech Talk på DNNK. Mit navn Det er teis roskov Andersen og jeg forbi University College sammen med Morten halling for DNNK. Vi er på vej ned ad danni k by i alle sammen velkommen i denne Tech Talk vil Mathias fristed fra Aarhus Kommune og jan Jepsen fra NIRAS præsenterer bedst værktøjet, klimatilpasning og give eksempler på dens brug og muligheder i relation til den nye til den nye introduktion af servicebekendtgørelsen og de dertil hørende øgede kompleksiteter i planlægningen og finansieringen.
 
 00:00:33
 Den har medførende.
 
 00:00:35
-Lidt praktisk information, inden vi starter selve præsentationen varer 30-35 minutter, hvorefter der vil være cirka 10 minutter til spørgsmål og i kan løbende stille jeres spørgsmål i chatten. Og så vil jeg sammen med Mathias og Jan besvare dem i slutningen af tiktokken. For god ordens skyld skal jeg informere om, at tik toppen bliver optaget.
+Lidt praktisk information, inden vi starter selve præsentationen varer 30-35 minutter, hvorefter der vil være cirka 10 minutter til spørgsmål og i kan løbende stille jeres spørgsmål i chatten. Og så vil jeg sammen med Mathias og Jan besvare dem i slutningen af Tech Talken. For god ordens skyld skal jeg informere om, at Tech Talken bliver optaget.
 
 00:00:53
 Det var alt for nu, og så vil jeg give ordet til Mathias og Jan velkommen til.
@@ -38,7 +38,7 @@ De nye bekendtgørelser.
 Og.
 
 00:02:32
-Sådan i hovedtræk er, er det service nu bekendtgørelsen og omkostningsbekendtgørelsen. Der er jo indført de her begreber om, om samfundsøkonomisk hensigtsmæssighed, hævet serviceniveau og hydrodynamiske kortlægninger sammen med det herlige udtryk selskabsøkonomisk omkostningseffektivitet, der ligger i forsyningernes.
+Sådan i hovedtræk er, er det serviceniveau bekendtgørelsen og omkostningsbekendtgørelsen. Der er jo indført de her begreber om, om samfundsøkonomisk hensigtsmæssighed, hævet serviceniveau og hydrodynamiske kortlægninger sammen med det herlige udtryk selskabsøkonomisk omkostningseffektivitet, der ligger i forsyningernes.
 
 00:02:56
 Tilgang til service nogle bekendtgørelsen, at de skal ind og sikre, at de vælger de billigste løsninger, når de klimatilpasser.
@@ -80,7 +80,7 @@ Så har vi den eksisterende by og til den der har vi jo allerede i forvejen brug
 Afværge flere skader end altså for en mindre omkostning, end Der er ved selve tiltaget.
 
 00:05:38
-Det er så også det Der er blevet skrevet ind i omkostningsbekendtgørelsens paragraf 3 stykke 4 det der hedder supplerende tiltag, og her har vi så fået en et andex maksimum på 5% af hovedprojektet, så så når vi går ud og adskiller må.
+Det er så også det Der er blevet skrevet ind i omkostningsbekendtgørelsens paragraf 3 stykke 4 det der hedder supplerende tiltag, og her har vi så fået en et anlægsmaksimum på 5% af hovedprojektet, så så når vi går ud og adskiller må.
 
 00:05:55
 Anlægsomkostningerne maksimalt være 5% fremadrettet, hvor at de i Vores tidligere planlægning egentlig har været ubegrænset op til at.
@@ -104,7 +104,7 @@ Et tillæg til spildevandsplan for Vesterbro torv og Det er også det, Der er me
 Vores intention med hele servicen og bekendtgørelsen. Det er Sådan set, at vi vil anvende den i synergi med byens omdannelse, og Det kan være forskellige bygherrer. Det kan være selv og sammen med Vores vand.
 
 00:06:50
-Og helt overordnet, så er service du bekendtgørelsen. Det går ud på det her med med hydrodynamisk og samfundsøkonomiske beregninger i.
+Og helt overordnet, så er serviceniveau bekendtgørelsen. Det går ud på det her med med hydrodynamisk og samfundsøkonomiske beregninger i.
 
 00:06:58
 I flere forskellige trappemodeller og for tiltag og så videre, og Det er ekstremt komplekst. Men er noget vi vi forsøger at indarbejde der, hvor vi i forvejen har aktiviteter, der skal ændre på byen.
@@ -146,7 +146,7 @@ Og og på den måde effektivisere den her planlægnings proces.
 Selve værktøjet er bygget op, Sådan at man som som bruger for en Kommune og Forsyning får adgang via en webadresse, og så er man egentligt inde II opsætningen for for ens område, og her er der ikke så et eksempel fra fra Aarhus Kommune med nogle testdata, så har vi et kort vindue her til til højre, og så har vi så en et panel herovre til Venstre.
 
 00:09:23
-Med forskellige resultat hørende til de her trin, der nu indgår II den her samfundsøkonomiske metode i servicenive bekendtgørelsen trin 1-6. Og så har vi også resultater i forhold til at kunne.
+Med forskellige resultat hørende til de her trin, der nu indgår II den her samfundsøkonomiske metode i serviceniveau bekendtgørelsen trin 1-6. Og så har vi også resultater i forhold til at kunne.
 
 00:09:38
 Analyserer i forhold til 5 procentreglen i omkostningsbekendtgørelsen.
@@ -275,7 +275,7 @@ Man kan afgrænse vandopland i forhold til forløb af topografi, så der egentli
 Og justere på II værktøjet ganske enkelt, og så på den måde får en en fornyet analyse af af serviceniveau. Det må gerne gå videre.
 
 00:18:28
-Så understøtter vi selvfølgelig der her med indarbejdelse af oversvømelseskort for status. Det er der vist et eksempel på her, hvor vi bruger Aarhus Kommunes hydrogruamiske oversvømmelseskort.
+Så understøtter vi selvfølgelig der her med indarbejdelse af oversvømelseskort for status. Det er der vist et eksempel på her, hvor vi bruger Aarhus Kommunes hydrodynamiske oversvømmelseskort.
 
 00:18:40
 Hvor man kan gå ind og og inspicere oversvømmelserne og filtrere på, hvor meget vand man vil se i forhold til afskærmningsstygter. Du må gerne gå videre, Mathias.
@@ -284,7 +284,7 @@ Hvor man kan gå ind og og inspicere oversvømmelserne og filtrere på, hvor meg
 Det jeg lige vil bruge lidt tid på nu. Det er noget af det nye vi får med II bedst hvor vi egentlig har taget et et stort skridt i forhold til at indarbejde mere detaljerede og retvisende værdikort.
 
 00:19:07
-I forhold til de her såkaldte direkte skadesværdigtyper og indirekte skadesværdigtyper. Det Der er vist i tabellen her. Det er saxo og direkte fra fra servicenobe bekendtgørelsen.
+I forhold til de her såkaldte direkte skadesværdigtyper og indirekte skadesværdigtyper. Det Der er vist i tabellen her. Det er saxo og direkte fra fra serviceniveau bekendtgørelsen.
 
 00:19:17
 Det er de ting, du kan regne på i den her cos benefit analyse, når det handler om om skaderne og bedst kan faktisk gå ind og understøtte beregningen af alle de her typer nu.
@@ -293,7 +293,7 @@ Det er de ting, du kan regne på i den her cos benefit analyse, når det handler
 Og det Vi har brugt meget krudt på nu. Jamen Det er at at lave 1 1 1 betydeligt arbejde i præproducering hvor vi kombinerer.
 
 00:19:35
-Georg Danmark bygninger med BPR. Data både på bygningsniveau og enhedsniveau. Vi sammenkørte med CPR data og forskellige giskort over infrastruktur forløb af veje og så videre, og så vi i stand til at kunne lave nogle værdikort, Der er opdelt på på stueetagen og og kælder.
+GeoDanmark bygninger med BBR. Data både på bygningsniveau og enhedsniveau. Vi sammenkørte med CPR data og forskellige giskort over infrastruktur forløb af veje og så videre, og så vi i stand til at kunne lave nogle værdikort, Der er opdelt på på stueetagen og og kælder.
 
 00:19:55
 Prøv at tage den næste Mathias.
@@ -461,7 +461,7 @@ Og så selvfølgelig se på hovedresultatet for beregninger det mest hensigtsmæ
 Og Der er også nogle afledte temaer, der bare går videre hvor man går ind og ser på det mest hensigtsmæssige serviceniveau. Hvor meget skadesreduktion får vi til det niveau og hvad med BCR altså gevinst omkostningsforholdet hvad? Hvordan ser det ud?
 
 00:29:38
-Altså hvor meget skadesreduktion får vi ud af det per investeret corona og der skal man så gerne have nogle nogle tal der er> en, altså at man får mere ud af det end det man man investerer.
+Altså hvor meget skadesreduktion får vi ud af det per investeret krone og der skal man så gerne have nogle nogle tal der er> en, altså at man får mere ud af det end det man man investerer.
 
 00:29:50
 Du går bare videre.
@@ -479,7 +479,7 @@ Når vi kender anlægsoverslaget for for hovedprojektet, så kan vi gå ind og s
 Så afleverede vi det, og du går bare videre.
 
 00:30:19
-Det er det Der er kravet om. Man må ikke investere med en 5%. Det andet krav er, at der skal være en positiv business case forbundet med med med de her supplerende klimatilpasningstiltag, og Der er det, at vi går ind og bruger den her typekurve for investeringsomkostninger, Der er tilknyttet løsningen b, hvor vi kunne gå ind og se på den her investering, Der er afledes af hovedprojektet, hvilken skadesreduktion den peger på, så på den måde kan vi få en cosbinf-analyse ud.
+Det er det Der er kravet om. Man må ikke investere med en 5%. Det andet krav er, at der skal være en positiv business case forbundet med med med de her supplerende klimatilpasningstiltag, og Der er det, at vi går ind og bruger den her typekurve for investeringsomkostninger, Der er tilknyttet løsningen b, hvor vi kunne gå ind og se på den her investering, Der er afledes af hovedprojektet, hvilken skadesreduktion den peger på, så på den måde kan vi få en cost-benefit-analyse ud.
 
 00:30:46
 Og dermed se på, hvor ligger vi henne i forhold til at opfylde kravet om positiv Netto gevinst?
@@ -554,7 +554,7 @@ Det kan være lokalplaner og helhedsplaner eller større infrastruktur projekter
 Og netop et af de projekter har jeg så valgt at fokusere på her, hvis vi lige hopper tilbage til forrige, så bemærker vi måske at at Vi har Sådan 1 1 1 større kloster af af skader her, og specielt hvis i lægger mærke til dem hernede. Nu kan man se, Der er i hvert fald en skadeskonstruktion og.
 
 00:35:35
-Og den er jo også der, hvor Vi har et projekt fra Vejdirektoratet, der skal lave det, der hedder masees tunnel under marselis boulevard. Så altså forløbet herfra og hele vejen til havnen.
+Og den er jo også der, hvor Vi har et projekt fra Vejdirektoratet, der skal lave det, der hedder Marselistunnelen under marselis boulevard. Så altså forløbet herfra og hele vejen til havnen.
 
 00:35:47
 Derfor har vi valgt at sige, at vi vil gerne se på, om vi kan klimatilpasse samtidig med at, at den her tunnel bliver etableret og helt overordnet set, så så er det der sker. Det er, at man ændrer det nuværende vejprofil fra fra de 4 spor og ned til 2 på overfladen.
@@ -677,7 +677,7 @@ Det er også lidt svært i sig selv, men altså man kan sige bedst er Sådan lid
 Men skadesøkonomi jo var mere målrettet og og regne ja skadesøkonomi.
 
 00:42:59
-Så og bedst af en webkys program og skadesøkonomi kører vist i noget que gears of så videre så.
+Så og bedst af en web-GIS-program og skadesøkonomi kører vist i noget QGIS of så videre så.
 
 00:43:07
 Ja, Det var lige ganske kort, fortalte.
@@ -710,7 +710,7 @@ Så Jeg tror Det er næsten Jeg vil vende den om.
 På den måde.
 
 00:44:26
-1000 tak jan hvad hedder det? Vi når desværre ikke flere spørgsmål nu, men som sagt så vil de så vil alle spørgsmålene blive besvaret senere og så om et par dage så vil i kunne finde den her optagelse inde på den ks hjemmeside med hvor der også er svaret på spørgsmålene. Ellers vil jeg sige 1000 tak til Janne Mathias på en spændende tik talk.
+1000 tak jan hvad hedder det? Vi når desværre ikke flere spørgsmål nu, men som sagt så vil de så vil alle spørgsmålene blive besvaret senere og så om et par dage så vil i kunne finde den her optagelse inde på den ks hjemmeside med hvor der også er svaret på spørgsmålene. Ellers vil jeg sige 1000 tak til Janne Mathias på en spændende Tech Talk.
 
 00:44:44
 Selv tak.
@@ -719,5 +719,5 @@ Selv tak.
 Tak tak for opmærksomheden.
 
 00:44:48
-Og som altid, så kan i finde den der ældre tiktokks på DN ks hjemmeside, og her kan i også finde det kommende arrangementer i klimakalenderen. Og hvis nogen af jer kunne tænke jer at afholde en Tech Talk, kan i endelig tage fat i mig eller en 2 for DNAMK så endnu engang 1000 tak Janne Mathias for den her spændende Tech Talk og vi ses senere derude.
+Og som altid, så kan i finde den der ældre Tech Talks på DNNK's hjemmeside, og her kan i også finde det kommende arrangementer i klimakalenderen. Og hvis nogen af jer kunne tænke jer at afholde en Tech Talk, kan i endelig tage fat i mig eller en 2 for DNNK så endnu engang 1000 tak Janne Mathias for den her spændende Tech Talk og vi ses senere derude.
 

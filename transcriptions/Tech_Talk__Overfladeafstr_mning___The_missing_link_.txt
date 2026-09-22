@@ -1,11 +1,11 @@
 00:00:07
-Her er det velkommen til dagens spændende Tech Talk på DNDK mit navn Det er teis fra Andersen og fra vi University College sammen med Kristoffer sindby Larsen fra ove Nygaard vil jeg gerne på vegne af dian NK by jer alle sammen velkommen på dagens tik-op ved Camilla og Henrik fra atkins gør os klogere på overfladen afstrømning fra ubefestende arealer.
+Her er det velkommen til dagens spændende Tech Talk på DNNK mit navn Det er teis fra Andersen og fra vi University College sammen med Kristoffer Sindby fra ove Nygaard vil jeg gerne på vegne af DNNK by jer alle sammen velkommen på dagens Tech Talk ved Camilla og Henrik fra atkins gør os klogere på overfladen afstrømning fra ubefestende arealer.
 
 00:00:26
-Før selve tiktokken så lidt praktisk information, selve tektuppen eller præsentationen varer cirka de her 30-35 minutter, hvorefter der vil være 10 minutter til spørgsmål og i kan løbende stille jeres spørgsmål over i chatten. Og så vil jeg publicere dem, og Camilla og Henrik vil besvare dem i slutningen af tektuppen.
+Før selve Tech Talken så lidt praktisk information, selve Tech Talken eller præsentationen varer cirka de her 30-35 minutter, hvorefter der vil være 10 minutter til spørgsmål og i kan løbende stille jeres spørgsmål over i chatten. Og så vil jeg publicere dem, og Camilla og Henrik vil besvare dem i slutningen af Tech Talken.
 
 00:00:42
-Og for god ordens skyld, så skal jeg informere jer om at tiktokken bliver optaget, og Det var vist alt for nu. Og så vil jeg give ordet til dig Henrik.
+Og for god ordens skyld, så skal jeg informere jer om at Tech Talken bliver optaget, og Det var vist alt for nu. Og så vil jeg give ordet til dig Henrik.
 
 00:00:48
 Ja tak jamen for jer lige at repetere i selve mødeindkaldelsen altså vi. Vi har fokus på et behov for en mere nuanceret tilgang i forhold til gængs praktisk indenfor det område her, og Vi har ligesom delt op i 3 hovedområder. Det er noget omkring problematikker ved den gængse fremgangsmåde vil jeg sige mere overfladeafstrømning.
@@ -35,7 +35,7 @@ Det Camilla han hun vil komme ind på i dag. Jamen Det er hun har et kandidatpro
 Så vi forsøger at perspektiv at lave en perspektivering af det her, som Vi har tænkt det som et oplæg til den sigende dialog.
 
 00:02:37
-Og gerne en diaginajog også med hensyn til at bidrage til at udvikle på området.
+Og gerne en dialog også med hensyn til at bidrage til at udvikle på området.
 
 00:02:42
 Så har vi også forsøgt at ramme Sådan 1 1 1 niveau alle forstår fordi Det kan jo gøres meget nørdet det her. Det håber vi så er lykkedes og så vil jeg Sådan set overlade ordet til Camilla som så stille og roligt vil gå de her ting igennem. Som jeg tænker præsenterer.
@@ -98,10 +98,10 @@ Udover at at den kan bruges som et plugin i Vores afstemningsmodeller eller afl�
 Kan den også benyttes i forhold til hele den her.
 
 00:06:24
-Diskussion omkring udledningstilladelser der kigger man i dag tit på de her robusthedsanalyser, som tager udgangspunkt i kapaciteten nede i eller ikke nede i afløbet nede i receptionen.
+Diskussion omkring udledningstilladelser der kigger man i dag tit på de her robusthedsanalyser, som tager udgangspunkt i kapaciteten nede i eller ikke nede i afløbet nede i recipienten.
 
 00:06:37
-Men denne her model kan ligesom kigge på den naturlige afstrømning ned til recipanen, for vi ved jo godt, at det nogle gange sker naturligt at en recipent den vil blive oversvømmet, men det tager robustridsanalysen ikke højde for, og der kan vi ligesom med Vores analyse af det her naturlige afstrømning gå ned og kigge på det. Og er det OK, at man i nogle situationer egentlig oversvømmer de her recipter? Så Det er egentlig det, som som Vi har kigget på.
+Men denne her model kan ligesom kigge på den naturlige afstrømning ned til recipienten, for vi ved jo godt, at det nogle gange sker naturligt at en recipent den vil blive oversvømmet, men det tager robusthedsanalysen ikke højde for, og der kan vi ligesom med Vores analyse af det her naturlige afstrømning gå ned og kigge på det. Og er det OK, at man i nogle situationer egentlig oversvømmer de her recipter? Så Det er egentlig det, som som Vi har kigget på.
 
 00:07:02
 Det er at lave en afstrømningsmodel, som kan.
@@ -377,7 +377,7 @@ Ja.
 Ja.
 
 00:23:11
-Vi har også brugt det her i nogle cases her hos ackins og en af de cases. Det var en byggemodning.
+Vi har også brugt det her i nogle cases her hos Atkins og en af de cases. Det var en byggemodning.
 
 00:23:20
 Hvor at vi havde en helt grøn mark, som jo skulle bygges mod, så noget af det vil jo blive befæstet areal, og vi havde fået stillet krav fra kommunen om, at det her område, Det kan naturligt håndtere sig selv. Der har aldrig været bebygget der før, så i må ikke rigtig afstrømme noget herfra.
@@ -431,7 +431,7 @@ Hvad hedder det i sin afløbsmodeller? Ligesom bruge det som et plugin, så vi f
 Vurdering af de her eller eller hvad hedder det? Hvad vil man sige? Et dynamisk input fra de her ubefestede arealer i Vores modeller?
 
 00:26:47
-Det kan som sagt også bruges i sig selv, hvor at Det kan gå indgå i hele den her diskussion omkring udlændingstilladelser. Hvad skal vi egentlig sætte udledningstilladelser til og være et supplement til den her robusthedsanalyse? Fordi som sagt så robust analysen, den tager udgangspunkt i jamen hvad er kapaciteten nede i reciplanten, hvor at Vores ligesom mere vil tage udgangspunkt i jamen hvad løber naturligt hen til reciten og i de situationer, hvor at recipienten rent faktisk naturligt at oversvømmet?
+Det kan som sagt også bruges i sig selv, hvor at Det kan gå indgå i hele den her diskussion omkring udlændingstilladelser. Hvad skal vi egentlig sætte udledningstilladelser til og være et supplement til den her robusthedsanalyse? Fordi som sagt så robust analysen, den tager udgangspunkt i jamen hvad er kapaciteten nede i recipienten, hvor at Vores ligesom mere vil tage udgangspunkt i jamen hvad løber naturligt hen til reciten og i de situationer, hvor at recipienten rent faktisk naturligt at oversvømmet?
 
 00:27:15
 Hvad kan vi egentlig tillade os at sætte udlændingstilladelser til der og er det OK, at vi stadigvæk også oversvømmer dem? Der kan det her ligesom indgå som et input i hele den her diskussion.
@@ -461,7 +461,7 @@ Det gav det her jo klogere bliver vi alle sammen og som kilder Camilla var inde 
 Hvor modellen er måske ikke viser det det virkelige liv, der kan noget af det her måske også kunne indgå, fordi man kan beskrive den frekvens, når man tager 42 års historisk regn fra en eller 2 regnvejr man bruger og så videre. Så Der er rigtig mange, kan man sige segmenter i det her man man kunne gå ind og bruge den her tilgang?
 
 00:29:19
-Men Vi har Sådan set ikke mere lige nu, ud over at vi selvfølgelig nu vil forsøge at besvare de spørgsmål, det hun selv skulle komme. Så nu lader vi ordet gå tilbage til DNDK.
+Men Vi har Sådan set ikke mere lige nu, ud over at vi selvfølgelig nu vil forsøge at besvare de spørgsmål, det hun selv skulle komme. Så nu lader vi ordet gå tilbage til DNNK.
 
 00:29:32
 Jamen 1000 tak for en rigtig spændende Tech Talk Camilla Henrik og Der er heldigvis kommet en masse spørgsmål, og hvis i stadigvæk sidder derude og har nogle spørgsmål, så skriv dem endelig i chatten. Så skal vi nok få dem besvaret. Men hvis i starter med det første spørgsmål eller Det er mere en kommentar på Esben, Der er en liter sekund hektar, kommer fra design af dræn i landbruget.
@@ -668,7 +668,7 @@ Så hvis man har et område, Der er meget differentieret i jordtyper, jamen så 
 01:00 så på vegne af DNNK, så vil jeg meget gerne sige tak til til Camilla og Henrik for en rigtig spændende Tech Talk.
 
 00:41:30
-Og hvad hedder det som sagt, så er tiktokken optaget, og i løbet af de næste par par dage, så vil den ligge inde på et ANNKS hjemmeside så 1000 tak for opmærksomheden.
+Og hvad hedder det som sagt, så er Tech Talken optaget, og i løbet af de næste par par dage, så vil den ligge inde på et DNNK's hjemmeside så 1000 tak for opmærksomheden.
 
 00:41:40
 Og tak for at i lyttede med.
