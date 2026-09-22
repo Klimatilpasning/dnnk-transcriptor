@@ -8,13 +8,13 @@ Vi vi venter lige hej kære alle. Vi venter lige et minut 2 minutter med at vi g
 Så så der går lige et minuts tid, så så er vi klar til dagens spændende Tech Talk.
 
 00:00:41
-Sådan så blev den kl. 12:15, og så tænker jeg så starter vi op. Kære alle velkommen til den her spændende check tok mit navn Det er theis krosgaard Andersen og jeg forvirrer University College sammen med Christopher simby Larsen fra OK Nygaard vil jeg gerne på vegne af dianalyn k byde jer velkommen til dagens Tech Talk.
+Sådan så blev den kl. 12:15, og så tænker jeg så starter vi op. Kære alle velkommen til den her spændende Tech Talk mit navn Det er theis krosgaard Andersen og jeg fra VIA University College sammen med Christopher simby Larsen fra OK Nygaard vil jeg gerne på vegne af DNNK byde jer velkommen til dagens Tech Talk.
 
 00:00:58
-I dag, der skal vi høre professor jess wollesen fra Aalborg Universitet, som vil fortælle om emnet rensning af vejvand med undertitlen. Hvad kan vi og hvad skal vi? Og Jeg kan godt love at at det bliver spændende, og Det er noget af en cliffhanger, vi Vi har fået her i titlen, så det glæder vi os til.
+I dag, der skal vi høre professor Jes Vollertsen fra Aalborg Universitet, som vil fortælle om emnet rensning af vejvand med undertitlen. Hvad kan vi og hvad skal vi? Og Jeg kan godt love at at det bliver spændende, og Det er noget af en cliffhanger, vi Vi har fået her i titlen, så det glæder vi os til.
 
 00:01:15
-Lidt praktisk information, inden vi starter selve jesus præstationen. Den er bare de her 30-35 minutter, hvorefter du vil være cirka 10 minutter til spørgsmål og i kan løbende igennem jesus præstation. Stille spørgsmålene i chatten.
+Lidt praktisk information, inden vi starter selve Jes' præstation. Den er bare de her 30-35 minutter, hvorefter du vil være cirka 10 minutter til spørgsmål og i kan løbende igennem Jes' præstation. Stille spørgsmålene i chatten.
 
 00:01:28
 Og så vil Christoffer og jeg løbende publicere dem og ellers så tænker jeg bare, Jeg vil give ordet til dig jes velkommen til.
@@ -44,13 +44,13 @@ Lidt snak have lidt polemik omkring hvad man egentlig skal være med det her reg
 Man kunne have et argument eller en holdning om i vil.
 
 00:02:35
-Der siger, at man skal rense regnene, fordi Vi har påvist en uacceptabel miljø påvirkning eller sandsynliggjort en uacceptabel miljøpåvirkning. Det vil sige, Vi skal her med det her argument have, at der findes en sandsynlig årsagsvirkningssammenhæng mellem den forurening eller den hydroik, eller hvad det nu måtte være af den vandmængde, der kommer, og så den pågældende situation ude i Vores.
+Der siger, at man skal rense regnene, fordi Vi har påvist en uacceptabel miljø påvirkning eller sandsynliggjort en uacceptabel miljøpåvirkning. Det vil sige, Vi skal her med det her argument have, at der findes en sandsynlig årsagsvirkningssammenhæng mellem den forurening eller den hydraulik, eller hvad det nu måtte være af den vandmængde, der kommer, og så den pågældende situation ude i Vores.
 
 00:03:00
-Vandmiljø ud i Vores recipenter.
+Vandmiljø ud i Vores recipienter.
 
 00:03:03
-Du kunne også have en 2 holdning, nemlig at regnvandet skal renses fordi der godt kunne være et eller andet, som vi ikke ved hvad er der måske kunne give en uacceptabel møllepåvirkning.
+Du kunne også have en 2 holdning, nemlig at regnvandet skal renses fordi der godt kunne være et eller andet, som vi ikke ved hvad er der måske kunne give en uacceptabel miljøpåvirkning.
 
 00:03:15
 Men vi ved ikke hvad der kan være i vandet. Vi ved ikke hvad Det er. Man ved aldrig, hvad der kan være i det her vand, og det kunne måske også være nogle ting og sager, vi slet ikke har tænkt over endnu.
@@ -62,10 +62,10 @@ Det er ligesom de 2 eksempler man man ligesom kunne kunne have i forhold til. Hv
 Hvis vi holder os til til argument a det vil sige, Vi skal have en lille årsagsvirkningssammenhæng. Det vil sige, at der skal det vand, vi løber ud eller den forurening, vi leder ud, skal have en effekt, før vi vil gøre noget ved en given forurening.
 
 00:03:53
-Så styrer omfanget af rensningen, Vi skal lave i forhold til den sandsynlige recip påvirkning. Det kan så være med livrem og seler og så videre. Det er alt sammen fint.
+Så styrer omfanget af rensningen, Vi skal lave i forhold til den sandsynlige recipientpåvirkning. Det kan så være med livrem og seler og så videre. Det er alt sammen fint.
 
 00:04:03
-Men det styres grundlæggende set ud fra den sandsynlige recipentpåvirkning.
+Men det styres grundlæggende set ud fra den sandsynlige recipientpåvirkning.
 
 00:04:08
 Hælder man til argument b.
@@ -83,7 +83,7 @@ Jeg ved ikke om i kan genkende det argument som som den ene part her som ganske 
 Hvis vi nu tror på?
 
 00:05:07
-At omfanget af rensning skal styres af en sandsynlig påvirkning. Så er der på en eller 2 måde en logisk deduktiv vej til at fastlægge, hvor meget man skal rense, fordi Vi har noget viden om, hvad Der er i regnvandet på et eller andet facon med en eller 2 sikkerhed eller en eller 2 usikkerhed. Vi har en eller 2 viden om en sandsynlig recipind påvirkning.
+At omfanget af rensning skal styres af en sandsynlig påvirkning. Så er der på en eller 2 måde en logisk deduktiv vej til at fastlægge, hvor meget man skal rense, fordi Vi har noget viden om, hvad Der er i regnvandet på et eller andet facon med en eller 2 sikkerhed eller en eller 2 usikkerhed. Vi har en eller 2 viden om en sandsynlig recipientpåvirkning.
 
 00:05:27
 Det kan være overflade være en grundvand som som som igen Vi har med en eller 2 sikkerhed med en eller 2 sandsynlighed.
@@ -95,7 +95,7 @@ Og så skal vi tage med, at Vi skal have proportionalitet, men den den indsats v
 Hvis Vi skal rense regnvandet, fordi vi tror, at der måske er noget, man ikke kan sætte en finger på, hvad det mon kunne være.
 
 00:06:03
-Ja så har vi ligesom ikke rigtig noget at tage et fag afsæt i det vil sige, vi vælger Vores rensemetode uden hensyn til rent betingelserne. Det vil sige uden hensyn til, hvad der egentlig er i regnvandet og uden hensyntagen til, hvad det egentlig er for en recipant vi udleder til. Det vil sige, Der er ikke noget også svigtende sammenhæng bag Vores valg.
+Ja så har vi ligesom ikke rigtig noget at tage et fag afsæt i det vil sige, vi vælger Vores rensemetode uden hensyn til rent betingelserne. Det vil sige uden hensyn til, hvad der egentlig er i regnvandet og uden hensyntagen til, hvad det egentlig er for en recipient vi udleder til. Det vil sige, Der er ikke noget også svigtende sammenhæng bag Vores valg.
 
 00:06:23
 Og vi ender jo så med at være nødt til at træffe en beslutning på basis af en mavefornemmelse. Jeg synes, at Vi skal gøre Sådan og Sådan, fordi vi ikke har nogen teknisk rationel grundlag for at finde den rigtige grænse metode, fordi Vi har løstkoblet det fra Vores esffektsamling.
@@ -110,10 +110,10 @@ I.
 Ej Jeg kan ikke huske hvor lang tid er det siden 10 år siden måske?
 
 00:07:14
-Der er lavet Vejdirektoratet ny motorvej her nede ved Esbjerg nede i værdighedsområdet, dernede der i hele det der område der. Jeg kan ikke lige huske hvilken Kommune Det var.
+Der er lavet Vejdirektoratet ny motorvej her nede ved Esbjerg nede i Vadehavsområdet, dernede der i hele det der område der. Jeg kan ikke lige huske hvilken Kommune Det var.
 
 00:07:24
-Og man ledte ud til et natur 2000 området, og der blev så planlagt et vådt regnvandsbassin med dykket udløb på 350 m3 per hektar og dem, der kender noget til dimensionering af rammersbassiner, vil sige nå, men Det er et relativt stort bassin, og Der er dykket udløb OK.
+Og man ledte ud til et Natura 2000 området, og der blev så planlagt et vådt regnvandsbassin med dykket udløb på 350 m3 per hektar og dem, der kender noget til dimensionering af regnvandsbassiner, vil sige nå, men Det er et relativt stort bassin, og Der er dykket udløb OK.
 
 00:07:41
 Det er jo ikke så dumt endda.
@@ -134,7 +134,7 @@ Nå tænker man så hvis man kender lidt til teknikken og processerne i Sådan n
 Vejlistreret klagede til miljøklinjenævnet, men tabte det vil sige, at Vejdirektoratet sagde, at jamen, hvorfor skal vi sætte en olieudskiller efter drømmes bassin, der i forvejen er en olieuskilder, fordi det her store regnvandsbassin på de her 350 m3 produceret lektar er jo bare en gigantisk udløbsdækket udskiller? Det har jo også dykket udløb i øvrigt, så selvom der skulle komme uheld og flyde.
 
 00:08:23
-Flyet flydeolie på såvel kunne komme ud og denne her olieuge skiller på et par kubikmeter den den den gør ikke en stor forskel, men man tabte i miljøklagenævnet fordi man fik at vide at man skulle gøre alt hvad man overhovedet kan for at rense det her regnvand fordi man udleder til natur 2000 områder. Problemet er at der ikke er nogen logik i det, fordi Sådan en olieskilder ikke har nogen effekt.
+Flyet flydeolie på såvel kunne komme ud og denne her olieuge skiller på et par kubikmeter den den den gør ikke en stor forskel, men man tabte i miljøklagenævnet fordi man fik at vide at man skulle gøre alt hvad man overhovedet kan for at rense det her regnvand fordi man udleder til Natura 2000 områder. Problemet er at der ikke er nogen logik i det, fordi Sådan en olieskilder ikke har nogen effekt.
 
 00:08:50
 Det vil sige, man har her stillet krav om en given rensning.
@@ -149,7 +149,7 @@ Der er en masse andre eksempler mere eller mindre tykke men men men men det hæn
 Så kan man så spørge og sig selv. Jamen kan afstrømmet regnvand overhovedet have negativ effekt på miljøet? Ja ja, Det kan det sagtens.
 
 00:09:31
-Det kan det sagtens. Der er en en lang række situationer, hvor der faktisk godt kan være en effekt på på miljøet. Vi kan have hydraulisk roation af vandløbet.
+Det kan det sagtens. Der er en en lang række situationer, hvor der faktisk godt kan være en effekt på på miljøet. Vi kan have hydraulisk erosion af vandløbet.
 
 00:09:41
 Det er nok den mest almindelige og dominerende problemstilling, Det er når man udleder for meget vand til vandløb. Det vil sige at.
@@ -158,10 +158,10 @@ Det er nok den mest almindelige og dominerende problemstilling, Det er når man 
 Hvis vi, hvis vi udleder mere mere end et mere end vandløb Sådan rent rent kan bære, og vi får erosion ude i vandløbet.
 
 00:09:56
-Vi har ortofering, hvis vi udvikler til sygaflukkede fjorde. Vi kan have opvarmning af små kolde vandløb, hvis de kildefødte, og vi kan også godt have toksiske centimeteraflejringer, hvis vi leder ud til stillestående vand, så der kan godt være effekter.
+Vi har eutrofiering, hvis vi udvikler til sygaflukkede fjorde. Vi kan have opvarmning af små kolde vandløb, hvis de kildefødte, og vi kan også godt have toksiske sedimentaflejringer, hvis vi leder ud til stillestående vand, så der kan godt være effekter.
 
 00:10:10
-Og specielt kan der være effekter, hvis Vi har særlig forurenet vand, for eksempel vand fra tunnelvask. Nu ved jeg godt, at vi ikke har så mange tunneller i Danmark men, men Det har de jo så mange andre steder, for eksempel i Norge, hvor der sagtens kan være taktiske effekter på nær-recipan, så man kan godt forestille sig den situation. Det er dog yderst sjældent, at man ser en direkte årsags virkningssammenhæng mellem vejvand.
+Og specielt kan der være effekter, hvis Vi har særlig forurenet vand, for eksempel vand fra tunnelvask. Nu ved jeg godt, at vi ikke har så mange tunneller i Danmark men, men Det har de jo så mange andre steder, for eksempel i Norge, hvor der sagtens kan være toksiske effekter på nær-recipient, så man kan godt forestille sig den situation. Det er dog yderst sjældent, at man ser en direkte årsags virkningssammenhæng mellem vejvand.
 
 00:10:32
 Nu står der vejvand, men mellem regnvand og negativ effekt på miljøet.
@@ -254,10 +254,10 @@ Så i det her vil jeg vise jer et par tal fra. Vi har sammenlignet både regnvan
 Ja altså ideen er lidt det at at man må formode at.
 
 00:15:58
-Hvis vi tager rent regnvand. De dyr der lige var i rent regnvand. Der må være en større effekt på dem end de dyr der lever ude i en reciant, der modtager regnvand, fordi Der er en fortynding, så derfor kigger vi lidt på på på den forskel, hvis vi går ind og kigger på tungmetaller i citamenterne, for de tungmetallerne har jo traditionelt været noget, som vi som vi som Vi har kigget meget på.
+Hvis vi tager rent regnvand. De dyr der lige var i rent regnvand. Der må være en større effekt på dem end de dyr der lever ude i en recipient, der modtager regnvand, fordi Der er en fortynding, så derfor kigger vi lidt på på på den forskel, hvis vi går ind og kigger på tungmetaller i sedimenterne, for de tungmetallerne har jo traditionelt været noget, som vi som vi som Vi har kigget meget på.
 
 00:16:23
-Så var det altså lidt svært at finde en systematisk forskel på tungmetalindholdet i silmenterne og tunge mellem naturlige søer eller naturlige småsøer og og og bassiner. Der er nogle nogle outlieres for eksempel her. Der er en her kan jeg ikke lige huske hvad Det var for et bassin.
+Så var det altså lidt svært at finde en systematisk forskel på tungmetalindholdet i sedimenterne og tunge mellem naturlige søer eller naturlige småsøer og og og bassiner. Der er nogle nogle outlieres for eksempel her. Der er en her kan jeg ikke lige huske hvad Det var for et bassin.
 
 00:16:43
 Jo undskyld Det var den der slog fiskene ihjel. Den der var kobber Det var den der i så fiskedøden af i Odense ikke også, men hov der var sgu også en almindelig naturlig sø her.
@@ -275,7 +275,7 @@ Hvad så med 2 metalsindeholdet II dyr der lever i de her bassiner? Ja, Der er l
 Men ikke igen noget Der er statistisk signifikant, men Der er en tendens til, at Der er lidt højere koncentrationer af forskellige metaller. III dyr II arbejdsbassinet i forhold til søen.
 
 00:17:35
-Men så er spørgsmålet påvirker det så diversiteten har det så en effekt? Der har vi jo så været inde og kigge på, hvad der har været af forskellige kræ i de her i de her systemer, og i kan ikke garanteret ikke læse alle teksten på på på bagerste række. Havde jeg nær sagt det gør Sådan set heller ikke noget, fordi hvis man kigger på den diversitet vi finder mellem de forskellige systemer, det vil sige rammersbassiner under naturlige søer.
+Men så er spørgsmålet påvirker det så diversiteten har det så en effekt? Der har vi jo så været inde og kigge på, hvad der har været af forskellige kræ i de her i de her systemer, og i kan ikke garanteret ikke læse alle teksten på på på bagerste række. Havde jeg nær sagt det gør Sådan set heller ikke noget, fordi hvis man kigger på den diversitet vi finder mellem de forskellige systemer, det vil sige regnvandsbassiner under naturlige søer.
 
 00:18:02
 Så finder vi den samme diversitet. Vi finder også.
@@ -287,7 +287,7 @@ Faktisk at at bassinertrensning af vejvand fra motorveje typisk er de reneste ba
 Og vi finder især den type systemer.
 
 00:18:21
-Bilags 4 arter altså det vil sige sjældent dyr, så så så de fungerer faktisk som som ganske fornuftige biotyper for de her dyr.
+Bilag IV-arter altså det vil sige sjældent dyr, så så så de fungerer faktisk som som ganske fornuftige biotyper for de her dyr.
 
 00:18:30
 Uden at der nødvendigvis akkumulerer os metaller i vildskab i dyrene. P og h kiggede vi også på, og Det er også sammenbillede.
@@ -317,7 +317,7 @@ Hverken ud fra hvor mange Der er eller ud fra hvad Det er for en slags arter, De
 Så så Der er ikke umiddelbart noget, der tyder på, at biodiversiteten i regnvandsbassiner er anderledes end biodiversiteten II.
 
 00:19:58
-I hvad hedder det II naturli smosøer Der er lige en aborterbai her at Jeg har kun har kigget eller Vi har kun kigget på vandfasen hvis vi går ind og kigger på city mint fasen af regnskabsbassiner.
+I hvad hedder det II naturli smosøer Der er lige en aborterbai her at Jeg har kun har kigget eller Vi har kun kigget på vandfasen hvis vi går ind og kigger på sedimentfasen af regnvandsbassiner.
 
 00:20:09
 Så er den typisk toksisk, men set fasen af naturlige småsøer ikke er toxisk på nær samme vis.
@@ -332,13 +332,13 @@ Ja hvad ved vi så om effekter af afstrømmende regneland på miljøet? Hvad har
 Nogle gange er der affekter, og nogle gange er det der effekter, men dyrene, der lever i det, de har det som en meget godt.
 
 00:20:36
-Den mest almindelige effekt af af af regnvand, overfladevand, afstrømme, overfladevand. Det er hydraulisk irritation af vandløb, hvis der kommer for store vandmængder ud.
+Den mest almindelige effekt af af af regnvand, overfladevand, afstrømme, overfladevand. Det er hydraulisk erosion af vandløb, hvis der kommer for store vandmængder ud.
 
 00:20:48
 Der kan i nogle enkelte tilfælde være effekter?
 
 00:20:51
-Kemiske stoffer og som sagt silmenterne som som typisk er toksisk. Men Det er meget, meget vanskeligt for ikke at søge umulige at forudsige, hvornår vi får effekter af kemiske stoffer i et givent system, eller om vi får effekter.
+Kemiske stoffer og som sagt sedimenterne som som typisk er toksisk. Men Det er meget, meget vanskeligt for ikke at søge umulige at forudsige, hvornår vi får effekter af kemiske stoffer i et givent system, eller om vi får effekter.
 
 00:21:08
 Nå men hvad skal ups nu kan jeg ikke stave til hundekvalitet uha.
@@ -365,10 +365,10 @@ Men men, men der kunne godt være noget i det.
 Og hvad har vi så for nogle teknologier?
 
 00:21:52
-Jamen hudparten af stof, Der er i regnvand hudpakten er det problematiske stof, Der er i regnvand. Det er knyttet til partikler, og det vil sige, at hvis man kan fjerne partikler, så har man også fjernet hovedparten af forureningen. Man kan så diskutere, at man også har fjernet hovedparten af den toksiske effekt, men Det er der nok en del, der tyder på, når vi nu ved at.
+Jamen hovedparten af stof, Der er i regnvand hovedparten er det problematiske stof, Der er i regnvand. Det er knyttet til partikler, og det vil sige, at hvis man kan fjerne partikler, så har man også fjernet hovedparten af forureningen. Man kan så diskutere, at man også har fjernet hovedparten af den toksiske effekt, men Det er der nok en del, der tyder på, når vi nu ved at.
 
 00:22:17
-Sættementerne er toksiske.
+Sedimenterne er toksiske.
 
 00:22:19
 Mens vandfasen sjældent at toxisk.
@@ -395,7 +395,7 @@ Grundlæggende set.
 Så falder de her renselinsløsninger i nogle forskellige kategorier. Den ene kategori. Det er den løsningsgruppe, der kan fjerne stof ved bundfældning, for eksempel et vort regnvandsbassin.
 
 00:23:21
-Der findes andre metoder eller andre systemer, der baserer sig på samme grundlæggende metode. Kunstig våde områder, Der er et produkt, der hedder settipype, for eksempel som er et rør med med negative fald.
+Der findes andre metoder eller andre systemer, der baserer sig på samme grundlæggende metode. Kunstig våde områder, Der er et produkt, der hedder SediPipe, for eksempel som er et rør med med negative fald.
 
 00:23:34
 Hvor hvor der kan samle sig, så Det er mænd lige i bunden som.
@@ -413,7 +413,7 @@ Mest almindelige er nok illustrationsanlægget, altså nedslående anlægget af 
 Og så har vi en sidste kategori, som er ret sjældent anvendt. Det vil sige løsninger, der fungerer ved kemisk fældning eller subportion.
 
 00:24:16
-Der findes nogle kommercielle produkter på markedet? Violia har lavet instrumet har lavet en.
+Der findes nogle kommercielle produkter på markedet? Veolia har lavet instrumet har lavet en.
 
 00:24:23
 Motsekær har lavet en eller man har sagt Det er Københavns Universitet, der har lavet den, så har de solgt den til watercare.
@@ -467,7 +467,7 @@ Men man kan også godt. Jeg kan jo ikke lade være med at prale lidt køre den h
 Det er Vores anlæg som bliver bygget sammen med Vejdirektoratet.
 
 00:27:29
-Mellem Aarhus og Silkeborg mellem luxby, og det består af et rammassebassin. Jeg er 2 anlæg. Tager vi lige bare det her, for eksempel Der er en ramasbassin, så løber vandet ind gennem rammsbassinet, løber ud af udløbet, så løber det ind i filtanlægget, hvor det siver ned gennem filtanlæg.
+Mellem Aarhus og Silkeborg mellem Låsby, og det består af et regnvandsbassin. Jeg er 2 anlæg. Tager vi lige bare det her, for eksempel Der er en regnvandsbassin, så løber vandet ind gennem rammsbassinet, løber ud af udløbet, så løber det ind i filtanlægget, hvor det siver ned gennem filtanlæg.
 
 00:27:46
 Blev trukket ud med dræn i bunden og sendt ud til til til bækken. Det var noget vi byggede dengang motorvejen blev anlagt i. Kan nok huske der var rigtig meget snak omkring miljøpåvirkning fra fra fra motorvejen dengang og og man var meget, meget interesseret i fra Vejdirektoratet side af at beskytte de de følsomme marcipanter og så også prøve nogle nye ting og sager af så det her vandløb Vi har herude er et meget følsomt.
@@ -596,7 +596,7 @@ Sådan umiddelbart om ikke andet, så fordi at at forsyningens ansvarsområde og
 II det naturlige systemer.
 
 00:34:35
-Ja så har vi 2 spørgsmål. Vi starter lige med det første her for en Der er anonym. Er der nogen undersøgelser der påviser toktiske stoffers påvirkning på arters reproduktion?
+Ja så har vi 2 spørgsmål. Vi starter lige med det første her for en Der er anonym. Er der nogen undersøgelser der påviser toksiske stoffers påvirkning på arters reproduktion?
 
 00:34:48
 Evne og misdannelser. Der er for eksempel enkelte studier, der påviser sprøjtemidlers påvirkning af cellers udvikling spædbørn.
@@ -773,7 +773,7 @@ Så kniber det lidt, fordi grundlæggende set naturbaseret. Det er lavteknologi,
 Fordi vi ikke har den samme plads at gå godt med.
 
 00:44:19
-Og så har vi sidste spørgsmål her for en anonym, som går den ret begrænsede kallækning af kvaliteten af de danske recipenter peger på, at den kemiske kvalitet er i orden for< 20%. Kan du citationstegn frikende regn, regnbetingede udledninger for at bidrage her.
+Og så har vi sidste spørgsmål her for en anonym, som går den ret begrænsede kortlægning af kvaliteten af de danske recipienter peger på, at den kemiske kvalitet er i orden for< 20%. Kan du citationstegn frikende regn, regnbetingede udledninger for at bidrage her.
 
 00:44:37
 Nej, men Jeg kan gå ind i den konkrete situation, og så kan jeg vurdere, om Der er et reelt mulighed for en Sådan sammenhæng.
@@ -791,7 +791,7 @@ Super jamen, så nåede vi det til tiden. Det er jo rigtig godt i Sådan en inge
 Yet Jeg vil sige 1000 tak for et rigtig, rigtig spændende oplæg. Jeg kan se Der er flere der siger at Det er Det har været et rigtig godt oplæg og meget inspirerende, så på vegne af DNNK så vil jeg gerne sige tak, og Jeg vil sige til alle folk der lytter med. Jeg vil sige i har nogle kollegaer som ikke har hørt og gerne ville høre det, så som sagt så bliver det her optaget eller Det er optaget.
 
 00:45:26
-Og det kommer ind at ligge på DNANNKS hjemmeside her i løbet af en lille uges tid, og hvis i har nogle ting i gerne vil bidrage med, altså i gerne vil lave en Tech Talk eller andet, så er i velkommen til at tage fat i Christopher, mig eller nogle af de andre fra jenn k, så skal vi nok få få sørget for at II også får taletid. Ellers så vil jeg ønske jer alle sammen en en rigtig god dag og vi snakkes ved.
+Og det kommer ind at ligge på DNNK's hjemmeside her i løbet af en lille uges tid, og hvis i har nogle ting i gerne vil bidrage med, altså i gerne vil lave en Tech Talk eller andet, så er i velkommen til at tage fat i Christopher, mig eller nogle af de andre fra DNNK, så skal vi nok få få sørget for at II også får taletid. Ellers så vil jeg ønske jer alle sammen en en rigtig god dag og vi snakkes ved.
 
 00:45:50
 Tak skal i have.

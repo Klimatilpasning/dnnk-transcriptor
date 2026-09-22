@@ -1,5 +1,5 @@
 00:00:06
-Her velkommen til dagens Tech Talk under dn mk de nationale netværk for klimatilpasning, hvor Vi skal høre noget om dynamisk beredskabsplanlægning mod stormfloden, og Det er brug kæmpe fra invian og Bjarne Laursen fra Kolding Kommune, der vil tage os igennem, og det de vil tale om. Det er, at under stormfloden nede ved Kolding havn, Der er der. Der var der nogle meget specielle situationer ved den.
+Her velkommen til dagens Tech Talk under DNNK de nationale netværk for klimatilpasning, hvor Vi skal høre noget om dynamisk beredskabsplanlægning mod stormfloden, og Det er brug kæmpe fra invian og Bjarne Laursen fra Kolding Kommune, der vil tage os igennem, og det de vil tale om. Det er, at under stormfloden nede ved Kolding havn, Der er der. Der var der nogle meget specielle situationer ved den.
 
 00:00:33
 Stormflod vi havde der tilbage i oktober.
@@ -35,7 +35,7 @@ Nettet så er det for sent.
 Så men husk at slukke jeres kamera og mikrofoner og værsgo bo og Bjarne så er ordet jeres.
 
 00:02:31
-Jo tak og jamen jeg hedder som sagt Bjarne laustsen og Jeg har fået lov at starte eller det ville være at sige jeg gør bos du lige kan skifte engang.
+Jo tak og jamen jeg hedder som sagt Bjarne Laursen og Jeg har fået lov at starte eller det ville være at sige jeg gør bos du lige kan skifte engang.
 
 00:02:42
 Jamen det det vi egentlig stod med der i oktober. Det var at at jeg blev hevet ind II Vores beredskabsdag, og i Kolding har man haft rigtig meget fokus på at at beskytte byen imod vandet fra åen. Det er fra fjorden af, hvor havde man ikke Sådan tænkt så meget ind i det?
@@ -101,7 +101,7 @@ Om det her sammenstød mellem den her forhøjede vandstand og og afstrømning fr
 Kolding å og ind gennem byen.
 
 00:06:01
-Nu tog jeg bare lige et par avisudklip og Sådan noget som Kolding forbereder sig, og Jeg har sløret så der ikke er nogen omkring ophavsretten. Det er derfor billedet Det er sløret, men Kolding og her i blandt Bjarne forsøgte på bedste vis og og sikre sig mod det, der ligesom skulle skulle foregå henover weekenden og herfra et klip, så kom vi altså op i næsten kvote 2 m henover weekenden. Det var ikke det vi vidste på det tidspunkt, da vi lavede prognosen eller forekast beregningen det om onsdagen.
+Nu tog jeg bare lige et par avisudklip og Sådan noget som Kolding forbereder sig, og Jeg har sløret så der ikke er nogen omkring ophavsretten. Det er derfor billedet Det er sløret, men Kolding og her i blandt Bjarne forsøgte på bedste vis og og sikre sig mod det, der ligesom skulle skulle foregå henover weekenden og herfra et klip, så kom vi altså op i næsten kote 2 m henover weekenden. Det var ikke det vi vidste på det tidspunkt, da vi lavede prognosen eller forekast beregningen det om onsdagen.
 
 00:06:29
 Men Det er altså Sådan der hvor referencen får det maksimale ligesom lå. Og det selvom vi var forberedt, så så var det altså ikke fuldstændig muligt at holde vandet ude. Men det vil Bjarne snakke lidt mere om til sidst.
@@ -131,7 +131,7 @@ Hvad sker der på det her stræk i forhold til oversvømmelsesrisikoen?
 Og Det er altså en et sammensurium af, hvad der kommer af vandføring fra oplandet, og hvad Det er for en nedre rand som bandt møder, når det kommer ud i fjorden.
 
 00:07:59
-Det der så er gennem Kolding. Det er at Der er en del broer og til dem af jer der har arbejdet lidt med vandløbsidræt eller aidik generelt så er Sådan nogle broer. De kan altså også udgøre en hydraulisk begrænsning eller modstand, og Det er ikke nogen undtagelse her i Kolding, så så derfor er Det har der forud for det her.
+Det der så er gennem Kolding. Det er at Der er en del broer og til dem af jer der har arbejdet lidt med vandløbshydraulik eller hydraulik generelt så er Sådan nogle broer. De kan altså også udgøre en hydraulisk begrænsning eller modstand, og Det er ikke nogen undtagelse her i Kolding, så så derfor er Det har der forud for det her.
 
 00:08:18
 Hvad er det et større udredningsarbejde omkring kan hvad kan man sige kapaciteten af de her broer her, men når man så kommer i den her lidt særlige situation, så giver det anledning til at genberegne.
@@ -149,7 +149,7 @@ De har altså også en dato i kan se der står 1 8 0 8 her så de er altså lidt
 Nogle de her broer her, de er fredet og så videre, så dem kan man altså ikke bare Sådan lige ændre på i forhold til vandføringskapaciteten, så derfor igen giver det rigtig god mening at at prøve at lave de her konsekvensvurderinger, når når Sådan et en situation opstår.
 
 00:09:17
-Danskspejls beregninger vil jeg prøve at trække jer igennem, og det at have det i baghovedet, at når vi nu kører de her beregninger, vandspejber, beregninger igennem jamen, så skal det også være et udtryk for, at Det er Sådan set uafhængigt hvad Det er for en platform, man laver sine beregninger på. Jamen så slut produktet hvad kan man sige, leveres og visualiseres via skal kolbe, men altså til en vandspejs beregning skal vi bruge en vandføring og en nedre rammebetingelse i det her tilfælde fjorden, og så tager vi lige Kolding å ind gennem byen og strækker den ud i Sådan en etdimensionelt længdeprofil, så vi.
+Danskspejls beregninger vil jeg prøve at trække jer igennem, og det at have det i baghovedet, at når vi nu kører de her beregninger, vandspejber, beregninger igennem jamen, så skal det også være et udtryk for, at Det er Sådan set uafhængigt hvad Det er for en platform, man laver sine beregninger på. Jamen så slut produktet hvad kan man sige, leveres og visualiseres via Scalgo Live, men altså til en vandspejs beregning skal vi bruge en vandføring og en nedre rammebetingelse i det her tilfælde fjorden, og så tager vi lige Kolding å ind gennem byen og strækker den ud i Sådan en etdimensionelt længdeprofil, så vi.
 
 00:09:47
 Her, Vi har den øvre bro her og alle broerne, som vi så på figuren før ind gennem byen og så randbetingelsen ned i bunden. Og for Sådan lige at geare en lidt en ide om hvad hvad Det var for en situation, vi kiggede ind i. Jamen så en vintermiddel, den læste jeg nogenlunde Sådan her ud beregnet vandspejl en medianmaks ligger nogenlunde i det her niveau, men den der forecast, som vi lavede i henhold til til rentef eks den nedrebetingelse.
@@ -164,7 +164,7 @@ Og så kan man sige, så var opgaven, eller hvad kan man sige den? Den bekymring
 Så lige for at opsummere, så så benyttede vi jo det her i den her beregning, der var det hensigtsmæssigt at benytte en lave en vandspejs beregning i det program der hedder vask. Vi har også været igennem andre øvelser og det her. Det er mere for at nu.
 
 00:11:05
-Hvad kan man sige perspektivere det en lille smule også i forhold til Kolding å Vi har også lavet, hvad kan man sige beregninger af excel beregninger i mike suiten, og Vi har faktisk også været inde og lave noget noget terrænbearbejdning via scalgegulft.
+Hvad kan man sige perspektivere det en lille smule også i forhold til Kolding å Vi har også lavet, hvad kan man sige beregninger af excel beregninger i MIKE-suiten, og Vi har faktisk også været inde og lave noget noget terrænbearbejdning via Scalgo.
 
 00:11:20
 Og så har jeg forsøgt mig Sådan, at traktor illustrerer det her med at uagtet af hvad man vælger af platform for at lave sine beregninger, så kan man jo benytte skal kolve for eksempel til visualisering. Nu har jeg også sat akties online ind her som et symbol, men Det er mere for at fortælle det her med at at når man laver sine beregninger jamen så er det måske en rigtig god ide at have i baghovedet eller i kikkerten. Jamen, hvad er det egentlig for en visualiseringsplatform man vil arbejde med for at kunne gøre sine resultater forståelig?
@@ -185,19 +185,19 @@ Hvad kan man sige? Gravet profil profilet frit i forhold til de opmålingsdata d
 Jamen Det er jo allerede en information i sig selv at få få det visualiseret.
 
 00:12:29
-Da vi så ligesom havde fået gravet vandløbet frit af den her højdemodel, hvor det ikke var repræsenteret i jamen, så havde vi et udgangspunkt for visualisering. Husk stadigvæk. Har stadigvæk i baghovedet, at Vi har ikke brugt nogle af de beregningsværktøjer, som der ligger i skal kolbe det kunne man selvfølgelig også have gjort.
+Da vi så ligesom havde fået gravet vandløbet frit af den her højdemodel, hvor det ikke var repræsenteret i jamen, så havde vi et udgangspunkt for visualisering. Husk stadigvæk. Har stadigvæk i baghovedet, at Vi har ikke brugt nogle af de beregningsværktøjer, som der ligger i Scalgo Live det kunne man selvfølgelig også have gjort.
 
 00:12:44
-Det havde sat nogle andre krav, og i forhold til det niveau som vi regner på her, så så har. Hvad kan man sige? Skal jeg gole live ikke kunne imødekomme det, så Vi har valgt et andet beregningsværktøj.
+Det havde sat nogle andre krav, og i forhold til det niveau som vi regner på her, så så har. Hvad kan man sige? Scalgo Live ikke kunne imødekomme det, så Vi har valgt et andet beregningsværktøj.
 
 00:12:56
-Men man kan jo sagtens have andre faser eller arbejde på et andet niveau, hvor at de værktøjer Der er tilgængelige ved at skal live kan benyttes.
+Men man kan jo sagtens have andre faser eller arbejde på et andet niveau, hvor at de værktøjer Der er tilgængelige ved at Scalgo Live kan benyttes.
 
 00:13:05
 Det her Det er så, for Det er så spadestikket dybere hvor vi så i denne her det her med at bruge skal på live som visualiserings og udstillingsplatform er resultater, hvor vi så oprettede 3 forskellige modelspaces og modelspaces er jo en mulighed for at udstille resultater fra forskellige kilder. Det kan være hydrodynamisk beregninger eller de her i det her tilfælde, der var det så stationære beregninger fra vask vi gerne ville udstille.
 
 00:13:31
-Så det ligger i denne her kategori, så hvis man folder den ud, så har vi oprettet en hel stribe af forskellige hændelser. Vi har lavet noget andet arbejde i forbindelse med Kolding å, og i stedet for at man forestiller sig, at man leverer en stribevis af forskellige gisfiler og så videre. Rapporter ting og sager.
+Så det ligger i denne her kategori, så hvis man folder den ud, så har vi oprettet en hel stribe af forskellige hændelser. Vi har lavet noget andet arbejde i forbindelse med Kolding å, og i stedet for at man forestiller sig, at man leverer en stribevis af forskellige GIS-filer og så videre. Rapporter ting og sager.
 
 00:13:51
 Jamen, så kunne det her jo være et sted, hvor man kunne samle sin historik af forskellige oversvømmelseskort, som man har udarbejdet.
@@ -212,10 +212,10 @@ Og så har man selvfølgelig mulighed for at visualisere det II sidste ende.
 Ja og Sådan ser det ud for for hele hele byområdet.
 
 00:14:13
-Det man jo så havde muligheden for, som jeg også lige viste dig på længdeprofilet, at man faktisk så som Bjarne han nævnte at den her 8 m3/s der kom fra oplandet med samt i sammenfald med den her vandstand nede i fjorden. Jamen det gav faktisk ikke den store Sådan en en stor gradient eller et vandspejlsfald hen over henover byen, og det betød at man kunne med rimelig ro i maven tage fat i de her almindelige arbejdsværktøjer, redskaber og analyser som ligger i niskalg.
+Det man jo så havde muligheden for, som jeg også lige viste dig på længdeprofilet, at man faktisk så som Bjarne han nævnte at den her 8 m3/s der kom fra oplandet med samt i sammenfald med den her vandstand nede i fjorden. Jamen det gav faktisk ikke den store Sådan en en stor gradient eller et vandspejlsfald hen over henover byen, og det betød at man kunne med rimelig ro i maven tage fat i de her almindelige arbejdsværktøjer, redskaber og analyser som ligger i Scalgo Live.
 
 00:14:42
-Og i det her tilfælde, der har jeg tændt for den forecastberegning, som Vi har lavet via was og så med med hvad hedder det standard analyserne som ligger i skagolype og gede en lilla farve, og det betyder, at man lige pludselig kan sidde og og lave for eksempel nogle tværsnit og sammenligne med jamen den beregning, som vi fik lavet i forhold til Sådan mere simpel analyse metode. Hvor meget afviger de for hinanden eller hvor tæt er?
+Og i det her tilfælde, der har jeg tændt for den forecastberegning, som Vi har lavet via was og så med med hvad hedder det standard analyserne som ligger i Scalgo Live og gede en lilla farve, og det betyder, at man lige pludselig kan sidde og og lave for eksempel nogle tværsnit og sammenligne med jamen den beregning, som vi fik lavet i forhold til Sådan mere simpel analyse metode. Hvor meget afviger de for hinanden eller hvor tæt er?
 
 00:15:07
 Hvor meget mere overberømmelsesudbredelse opstår der?
@@ -239,7 +239,7 @@ Et udtryk for, at en lille vandspejl stigning kan påvirke et stort område, hvo
 Så forhåbentlig kan det her også være med til at Sådan at at give inspirationen til det her med at eller at at at det at få det udstillet i en platform, som man kan interagere med og arbejde med på denne her form. Det kan også være med til at at at gøre det nemt og arbejde med den her usikkerhed.
 
 00:16:41
-Og lige til allersidst de her simple visualiseringer, de her oversvømmelseskort, som man så ligger i skalulve. De kan jo stadigvæk hentes ned som en geo. Jason uploades til den her 3 d model, som som tidligere i andre webinarer er blevet omtalt fra Alexandra instituttet.
+Og lige til allersidst de her simple visualiseringer, de her oversvømmelseskort, som man så ligger i Scalgo Live. De kan jo stadigvæk hentes ned som en geo. Jason uploades til den her 3 d model, som som tidligere i andre webinarer er blevet omtalt fra Alexandra instituttet.
 
 00:16:57
 Og og så tænker jeg egentlig, at Jeg vil kaste bolden over til dig, Bjarne igen.
@@ -248,7 +248,7 @@ Og og så tænker jeg egentlig, at Jeg vil kaste bolden over til dig, Bjarne ige
 Jo tak.
 
 00:17:08
-Det jeg jo så gjorde, da jeg fik tallene ind fra fra bo. Det var jo selvfølgelig at få få hentet den ind Sådan at jeg kunne jo hentet den ind det her. Det skulle gerne være vise mit mit arbejdsområde i skalco.
+Det jeg jo så gjorde, da jeg fik tallene ind fra fra bo. Det var jo selvfølgelig at få få hentet den ind Sådan at jeg kunne jo hentet den ind det her. Det skulle gerne være vise mit mit arbejdsområde i Scalgo Live.
 
 00:17:20
 Og og som bo. Han sagde jamen så ligger de bare III det her workspaces hvor hvor Vi har tilgang til efterhånden en hel del på grund af de her projekter Vi har haft kørende. Men men som sagt forcasten her, jamen hvor vi kan lægge den ind, og så kan jeg jo med det samme gå ned og sige jamen hvor meget betyder det i forhold til til den den oversvømmelse som som havet bare vil give og og som bo han så fint viste lige før jamen.
@@ -293,7 +293,7 @@ Så ret hurtigt faldt vi frem til at jamen, vi arbejder med en.
 Med en højde, der siger Vi skal sikre til 2 m.
 
 00:19:49
-Og hvis man kigger på det her, så er det jo bare almindelig skalco.
+Og hvis man kigger på det her, så er det jo bare almindelig Scalgo Live.
 
 00:19:54
 Arbejde, hvor vi går ind og ændrer på på terrænet II nogle nogle strækninger?
@@ -350,19 +350,19 @@ Og når jeg siger langt hen ad vejen, så så er det fordi at at vi nåede aldri
 Den skal ligge med over.
 
 00:22:21
-Det vil endte med, at kvoter var faktisk heroppe. Ved Vester ringgade var en 87.
+Det vil endte med, at koter var faktisk heroppe. Ved Vester ringgade var en 87.
 
 00:22:28
-Nede midt i byen en 93 og og ude på havnen cirka en 96. Det skal siges de her kvoter vi jeg siger nu her. Det er nogen vi selv har målt.
+Nede midt i byen en 93 og og ude på havnen cirka en 96. Det skal siges de her koter vi jeg siger nu her. Det er nogen vi selv har målt.
 
 00:22:37
-Vi var så heldige eller uheldige, eller hvad man nu skulle sige at at Det er mies højvandsmåler ude i havnen den væltede kl. 9 fredag aften.
+Vi var så heldige eller uheldige, eller hvad man nu skulle sige at at Det er DMI's højvandsmåler ude i havnen den væltede kl. 9 fredag aften.
 
 00:22:47
 Og dermed mistede vi den og Vores egen logger, der sidder hernede på på kongebrogade hernede. Jamen, den druknede også midt på eftermiddagen. Den havde vi simpelthen fået sat for lavt.
 
 00:22:58
-Så Det er simpelthen, hvad Vi har været rundt og måle på bygninger og broer og og hvor vi nu kan finde for at få nogle. Nogle kvoter loggeren heroppe ved vesterringgade. Jamen den den overlevede faktisk.
+Så Det er simpelthen, hvad Vi har været rundt og måle på bygninger og broer og og hvor vi nu kan finde for at få nogle. Nogle koter loggeren heroppe ved vesterringgade. Jamen den den overlevede faktisk.
 
 00:23:07
 Det er en Det er en rimelig valid tal Vi har der.
@@ -398,7 +398,7 @@ Så Det var jo, hvad skal man sige en en læring vi måtte tage med herfra. Det 
 Det gjorde de så også indtil klokken ja. Jeg tror Det var kl. 02:30 eller Sådan noget der der strømmen gik og og så gik det stærkt.
 
 00:24:49
-Det er i hvert fald. Hvad skal man sige det, man kan sige om om midtbyen, men generelt har vi jo brugt skalco til til alle de andre områder også og hi hele. Hvad kan man kalde det?
+Det er i hvert fald. Hvad skal man sige det, man kan sige om om midtbyen, men generelt har vi jo brugt Scalgo Live til til alle de andre områder også og hi hele. Hvad kan man kalde det?
 
 00:24:59
 Indsat den omkring kommunikation udadtil borgerne store parkeringspladser i midtbyen, som vi vest ville blive oversvømmet, som vi ligesom havde sagt. Jamen de var de var ofte eller hvis II hvert fald eller i er selv skyldige hvis i parkere der.
@@ -479,10 +479,10 @@ Så så hvad hvad? Hvad tror vi på? Det betyder og så kom vi jo ret hurtigt fr
 Jamen det drejede sig måske om 10 maks 15 cm i stuvning henover byen.
 
 00:28:57
-Og så så så havde Bjarne jo ro til at sige jamen så kan jeg godt opdatere og bruge de standardværktøjer som der findes II skal kunne live til til den beredskabsforberedelse jeg sidder med, men Det er klart at havde situationen været anderledes.
+Og så så så havde Bjarne jo ro til at sige jamen så kan jeg godt opdatere og bruge de standardværktøjer som der findes II Scalgo Live til til den beredskabsforberedelse jeg sidder med, men Det er klart at havde situationen været anderledes.
 
 00:29:11
-Så kunne det være at at man skulle have puttet et endnu større sikkerhed på for at at Bjarne og og og kollegaer ligesom kunne agere operationelt agil i det her. Men hele fidusen er netop at at man selv kan kan opdatere løbende, når når man går ind til et møde og koten er en og går ud af mødet og koden er en ny så.
+Så kunne det være at at man skulle have puttet et endnu større sikkerhed på for at at Bjarne og og og kollegaer ligesom kunne agere operationelt agil i det her. Men hele fidusen er netop at at man selv kan kan opdatere løbende, når når man går ind til et møde og koten er en og går ud af mødet og koten er en ny så.
 
 00:29:30
 Så duer det ikke at man skal skal hvad hedder det først fat i 3 mand for at få få lavet beregning.
@@ -554,7 +554,7 @@ Et lokalt kendskab og ekspertviden på måske modellerne for det pågældende om
 Og ligesom snakker ud. Jamen Vi har. Hvad er det for nogle?
 
 00:33:00
-Hvor er det risikoområderne de er af dem, tænker jeg langt de fleste dem de efterhånden har fået udpeget, men så handler det måske om at få de resultater frem i lyset i stedet for. De ligger rundt omkring forskelligt på forskellige platforme, og det det vi gerne også vil vise med det her, Det var at at skal gå live er måske et bud på stedet, hvor man kan prøve at samle de her forskellige oversvømmelsesegilder i en stor pærevælling.
+Hvor er det risikoområderne de er af dem, tænker jeg langt de fleste dem de efterhånden har fået udpeget, men så handler det måske om at få de resultater frem i lyset i stedet for. De ligger rundt omkring forskelligt på forskellige platforme, og det det vi gerne også vil vise med det her, Det var at at Scalgo Live er måske et bud på stedet, hvor man kan prøve at samle de her forskellige oversvømmelsesegilder i en stor pærevælling.
 
 00:33:23
 Og man så vælger at lave nogle analyser hvor man.
@@ -566,7 +566,7 @@ Kombinere alle de her meget høj vandstand, meget højerestrømning, og så komm
 Det tænker Jeg er er det helt centrale, så vi kan få kortene på bordet og gjort det operationelt?
 
 00:33:56
-I de her situationer om man så ligesom Bjarne her kunne bruge nogle af de simple værktøjer via skal gå live og så ligesom arbejde med prognoserne på den måde.
+I de her situationer om man så ligesom Bjarne her kunne bruge nogle af de simple værktøjer via Scalgo Live og så ligesom arbejde med prognoserne på den måde.
 
 00:34:07
 Det det ikke sikkert det fungerer i alle situationer, men men men i det her den her lille historie her der der var det en mulighed at gøre det på den måde.
@@ -614,7 +614,7 @@ Det er jo rart hvis man kunne sige jamen OKI skal kun arbejde.
 12 timer i behøver ikke at arbejde så meget det Det er jo gave, siger målet med med det vi vi forsøger at lave så, så Jeg vil håbe da på, at vi kan få pengene til at lave projektet nu her.
 
 00:36:25
-Og Michael bots han skriver i en kommentar, og Det er nok lige så meget en kommentar. Det er at DMI samarbejde med skalk de sender nu dynamiske kort ud i forhold til til stormflod til alle beredskaber.
+Og Michael bots han skriver i en kommentar, og Det er nok lige så meget en kommentar. Det er at DMI samarbejde med Scalgo de sender nu dynamiske kort ud i forhold til til stormflod til alle beredskaber.
 
 00:36:39
 Og Det var selvfølgelig også sine begrænsninger, og det dem er i jo også inde på. Altså man er nødt til på en eller 2 måde at operere med. Hvad skal man sige et elastik og så lang tid det gør i metermål, så er det vel OK eller hvordan tænker i som tekniker?
@@ -644,7 +644,7 @@ Sig igennem helt sikkert. Det er jo noget som altså de der kræfter i bølger o
 Fordi jamen altså vi vi var selv uheldige. Der røg en motor-tub som vi havde, for Der er områder. Jamen det havde vi været sikker på, ikke jamen den røg lige omkring toppen ikke så der var 1 m og 20 vand der kom væltende ind.
 
 00:38:21
-I et boligområde andre byer bliver ramt af det samme nede ved Vester ringgade. Noget af det sikring, Vi har lavet ovenpå en en støttemur. Jamen de blev skubbet af det reddet Vores beredskab hurtigt, fordi Der er de tænkte hurtigt der kom i nogle bigbacks som de ja heldigvis tilfældigvis lige havde i området havde de ikke haft dem og skulle køre dem ud for materialegården havde vi ikke kunnet nå det, altså det det altså.
+I et boligområde andre byer bliver ramt af det samme nede ved Vester ringgade. Noget af det sikring, Vi har lavet ovenpå en en støttemur. Jamen de blev skubbet af det reddet Vores beredskab hurtigt, fordi Der er de tænkte hurtigt der kom i nogle bigbags som de ja heldigvis tilfældigvis lige havde i området havde de ikke haft dem og skulle køre dem ud for materialegården havde vi ikke kunnet nå det, altså det det altså.
 
 00:38:44
 Det var lidt tilfældighederne.
@@ -653,7 +653,7 @@ Det var lidt tilfældighederne.
 At vi så mistede strømmen bagefter, så kunne det jo kan man sige næsten være ligemeget, men det kunne det jo selvfølgelig ikke alligevel.
 
 00:38:55
-Morten b herre Petersen. Han kommer også med en kommentar og siger, at de fasterrup der løber ud II kalveboderne mellem København og Hvidovre har vi på baggrund af vandstandsmålinger og nedbørsmålere konstateret, at vandstanden nedstrøms stiger 4 cm for hver 1 mm døgnnedbør i oplandsområdet, og Det var Sådan ret konkret, skal man sige.
+Morten Bjerre Petersen. Han kommer også med en kommentar og siger, at de Harrestrup Å der løber ud II kalveboderne mellem København og Hvidovre har vi på baggrund af vandstandsmålinger og nedbørsmålere konstateret, at vandstanden nedstrøms stiger 4 cm for hver 1 mm døgnnedbør i oplandsområdet, og Det var Sådan ret konkret, skal man sige.
 
 00:39:18
 Værktøjer have og han siger skriver også at Det er ret centralt værktøj for dem.
@@ -734,7 +734,7 @@ Har i ellers nogle points, som i har glemt at fyre af Sådan tænker i.
 Ikke rigtigt, så tænker Vi har været hele vejen rundt med det jeg gerne vil have med.
 
 00:42:41
-I hvert fald super, så vil jeg på DNN ks vegne tak jer begge 2 får et super godt oplæg og roser for at i modsætning hvad jeg sagde III start der får i godt nok travlt men på en rolig og og stille måde har ført os igennem også indenfor tiden, men vi faktisk slutter til tiden.
+I hvert fald super, så vil jeg på DNNK's vegne tak jer begge 2 får et super godt oplæg og roser for at i modsætning hvad jeg sagde III start der får i godt nok travlt men på en rolig og og stille måde har ført os igennem også indenfor tiden, men vi faktisk slutter til tiden.
 
 00:43:02
 Også i fred og ro, så Det er rigtig, rigtig godt og 1000 tak for i.

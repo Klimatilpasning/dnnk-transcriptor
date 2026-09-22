@@ -1,5 +1,5 @@
 00:00:05
-Godmorgen og velkommen til godmorgen DNDK mit navn Det er connejuice pels.
+Godmorgen og velkommen til godmorgen DNNK mit navn Det er Kornelius Pagels.
 
 00:00:11
 Og jeg, jeg arbejder i sekretariatet for det nationale netværk for klimatilpasning.
@@ -8,7 +8,7 @@ Og jeg, jeg arbejder i sekretariatet for det nationale netværk for klimatilpasn
 Og det glæder mig at byde velkommen til det her spændende webinar i Vores serie om tørke og hede i Danmark, hvor dagens fokus det vil være på tørke og grundvandstand.
 
 00:00:31
-Og Vi har fornøjelsen af at præsentere, eller Jeg har fornøjelsen af at præsentere Torben sundborg og ida Carlsen. Seidenfaden fra georgs, der vil dele jeres dele jeres.
+Og Vi har fornøjelsen af at præsentere, eller Jeg har fornøjelsen af at præsentere Torben sundborg og ida Carlsen. Seidenfaden fra GEUS, der vil dele jeres dele jeres.
 
 00:00:42
 Viden om, hvordan klimaforandringer påvirker tørke og grundvandstanden i Danmark og resultater på den her rapport om klimaforandringens effekt på vandmiljøet og så de hydrologiske modeller og scenarier, der giver indblik i fremtidens vandforvaltning frem mod 2050 og 2100.
@@ -29,10 +29,10 @@ Og få lov til at vise det vi arbejder med, skal jeg vise Vores slides Joachim, 
 Er det på Det er super.
 
 00:01:53
-Ja som sagt, så kommer vi jo fra geos og mit navn er ida seember og jeg arbejder i hidologisk afdeling som seniorforsker og sammen med Torben så vil vi prøve at tage igennem den lidt omkring den her sammenhæng mellem tørke og og kulmandsstand, særligt II fremtid og i forbindelse med klimaforandringer.
+Ja som sagt, så kommer vi jo fra GEUS og mit navn er Ida Seidenfaden og jeg arbejder i hydrologisk afdeling som seniorforsker og sammen med Torben så vil vi prøve at tage igennem den lidt omkring den her sammenhæng mellem tørke og og grundvandsstand, særligt II fremtid og i forbindelse med klimaforandringer.
 
 00:02:16
-Og Vi har lige startet med at liste nogle af de formål, som Vores præsentation har oppe her, som også er noget af det som convenience nævnede før.
+Og Vi har lige startet med at liste nogle af de formål, som Vores præsentation har oppe her, som også er noget af det som Kornelius nævnede før.
 
 00:02:27
 Og og det vi gerne vil tage jer igennem. Det er selvfølgelig både den den klimaforandring, vi forudser fremtiden, og hvordan den påvirker grundvandsstanden. Man får at forstå.
@@ -68,7 +68,7 @@ På for eksempel en tørke og hvordan den måde, som som samfundet reagerer, ogs
 Så først og fremmest tørke, hvad er tørke egentlig og selve tørke Sådan. Litteraturen er enorm omfattende og meget forvirrende. Der er ekstremt mange definitioner på tørke, og det gør det også svært at have et fælles sprog om.
 
 00:04:29
-Hvad tørke er, hvad ikke tørke ikke er. Og her har vi et lige for tiden stort tørkeprojekt på geo sammen med DMI og KDS.
+Hvad tørke er, hvad ikke tørke ikke er. Og her har vi et lige for tiden stort tørkeprojekt på GEUS sammen med DMI og KDS.
 
 00:04:40
 Hvor vi arbejder blandt andet med at lave en definition af tørke i en dansk kontekst, og den definition har jeg lige sat ind her, og at tørke bliver defineret her som et fald i den gennemsnitlige vandtilgængelighed, altså et naturligt fald. Det vil sige tørke. Det er en naturfænomen, og Det kan også forekomme i steder, hvor der ellers normalt er vådt som for eksempel Danmark.
@@ -86,7 +86,7 @@ Det er tørke, ikke tørke. Det er det her naturfænomen, men selvfølgelig har 
 Så kan tørke forværre det, eller så kan det blive gøre at man er mindre robust over for tørken.
 
 00:05:41
-Den hydrologiske tørke, som vi kalder det, dækker de tørketilstande, som vi finder i heleogiske kredsløb, så Det er det, de tørketilstande, Der er i ordet. Det kan også være i overfladevand, at søer og så videre. Og så er det selvfølgelig også i dybere i dybere og det øvre grundvand.
+Den hydrologiske tørke, som vi kalder det, dækker de tørketilstande, som vi finder i hydrologiske kredsløb, så Det er det, de tørketilstande, Der er i ordet. Det kan også være i overfladevand, at søer og så videre. Og så er det selvfølgelig også i dybere i dybere og det øvre grundvand.
 
 00:05:56
 Og her kalder vi det typisk for dem grundvandsstørke, og så er et tørke lidt anderledes end mange andre.
@@ -98,10 +98,10 @@ Eventbaserede fænomener naturfænomener, fordi Det er en langsom proces. Det er
 Giver den kan Sådan lidt populært og Det er fordi tørken den jo ikke opstår fra dag til dag, men den opstår over flere dage uger, eventuelt år i nogle nogle lande og jo længere tid den tørke vare, jo længere tid vil den typisk dække, eller jo mere vil den typisk dække flere og flere komponenter i vandelskredsen, så den tidslige faktor er altså rigtig vigtigt, når man arbejder tør.
 
 00:06:38
-Overordnet set så plejer man at kategorisere tørke i de her forskellige kategorier. Jeg har allerede nævnt psykologisk tørke.
+Overordnet set så plejer man at kategorisere tørke i de her forskellige kategorier. Jeg har allerede nævnt hydrologisk tørke.
 
 00:06:46
-Der er jo også meteorisk tørke, som egentlig er der, hvor de typisk starter, altså et deficit eller et mangel på nedbør eller eventuelt kombineret med meget høj temperatur og høj fordampning.
+Der er jo også meteorologisk tørke, som egentlig er der, hvor de typisk starter, altså et deficit eller et mangel på nedbør eller eventuelt kombineret med meget høj temperatur og høj fordampning.
 
 00:06:56
 Og typisk så er det Sådan at at tørken, som jeg sagde, udvikler sig henover tiden og starter op i den klimatiske del. Og det første, Der er ofte responderer Det er det Der er øverst i jordlagene, altså det vi kalder en jordværkstørkelse. I nogle steder kalder man det også en landbrugstørkke, og Det er her, hvor jordlagene er særlige hovedzonen.
@@ -146,7 +146,7 @@ Der var også konsekvenser for de små å løb. Der var for eksempel turbåde, d
 Problemer for faunaen og floraen II årene. For selvom at ørrederne døde, da man løbende tørre ud.
 
 00:09:04
-Der var også rapporterede konsekvenser for skovene. Altså den her lave grundanstalt gjorde, at nogle af tæerne havde havde ret svært ved at klare sig i. Det var os fra fra alle.
+Der var også rapporterede konsekvenser for skovene. Altså den her lave grundvandsstand gjorde, at nogle af tæerne havde havde ret svært ved at klare sig i. Det var os fra fra alle.
 
 00:09:15
 Og og udeamer var 18 også det år hvor at der blev snakket rigtig meget om sætningsskader. Den her udtørring af det øvre jordlag kan i nogle områder, hvis man har den rigtige eller den forkerte geologi, gi sætninger II jordstrukturen, som gør at der kan opstå ravner eller andre skader på huse, og Det var faktisk også om sommeren 2018 som startede hele den her snak omkring.
@@ -344,7 +344,7 @@ I faldet i trykniveau i et normalår og i et tørke år.
 Hverken i indtag 5 som var helt terrænnært eller i indtag et som er placeret hernede II stor dybde.
 
 00:19:47
-Det er også det Vi har skrevet her, at Der er lille effekt på grundanstalden, og så har vi prøvet at kigge på 53 udvalgte boringer.
+Det er også det Vi har skrevet her, at Der er lille effekt på grundvandsstanden, og så har vi prøvet at kigge på 53 udvalgte boringer.
 
 00:19:57
 Der.
@@ -380,7 +380,7 @@ Og Vi har den potentielle fordampning her om sommeren maksimalt på 3 3,5 mm per
 Hvis vi trækker de 2 fra hinanden, så får vi noget vi kan kalde Netto nedbør.
 
 00:21:35
-Og vi kan se, at Der er en positiv nettelse nedbør her i vinterhalvåret, altså der der, der giver anledning til noget grundunstandelse, og her i sommerhalvåret eller i juni juli, august Der er Der er national bånd negativ, og det vil sige, der bliver indikerer der, at der ikke er noget på bornholmsdannelse. Det er der ligesom ikke noget.
+Og vi kan se, at Der er en positiv nettelse nedbør her i vinterhalvåret, altså der der, der giver anledning til noget grundvandsdannelse, og her i sommerhalvåret eller i juni juli, august Der er Der er nettonedbøren negativ, og det vil sige, der bliver indikerer der, at der ikke er noget på grundvandsdannelse. Det er der ligesom ikke noget.
 
 00:21:56
 Vand til at at løbe nedad.
@@ -395,10 +395,10 @@ Tørkeperiode, som Vi har præsenteret for, og de for lidt siden, altså det kun
 Og Sådan når der betyder det ikke så meget om Vi har tørke eller vi ikke har har tørke for hvis tørken eller hvis tørken den ligger i en periode, hvor der alligevel ikke dansk grundvand under normale omstændigheder, ja så hjælper det eller gør det jo ingen forskel om vi så får endnu mindre regn fordi.
 
 00:22:40
-Der i forvejen ikke er noget grundlovsdannelse, så i begge situationer et normalt år og 1 1 1 1 tørkeår som.
+Der i forvejen ikke er noget grundvandsdannelse, så i begge situationer et normalt år og 1 1 1 1 tørkeår som.
 
 00:22:48
-Som ligger midt på på sommeren, giver ikke den store forskel i grundlovsdannelse og dermed påvirkning af det økologiske system.
+Som ligger midt på på sommeren, giver ikke den store forskel i grundvandsdannelse og dermed påvirkning af det økologiske system.
 
 00:22:58
 Og Det er vist også det, der står på den her.
@@ -413,7 +413,7 @@ Og der der der sker selvfølgelig en udtørring i den situation at at af modzone
 At behovet for markvanding stiger.
 
 00:23:20
-Vi får mere oppumning af af af grundvand, og det vil så resultere i et fald i grundlovsdag.
+Vi får mere oppumning af af af grundvand, og det vil så resultere i et fald i grundvandsdannelse.
 
 00:23:28
 Og da.
@@ -464,7 +464,7 @@ En ændring.
 I grundvandsstandelsen, som vi ikke havde før, og det skyldes, at.
 
 00:25:23
-At II situationen i 1997. Der havde vi en vintertørke, altså mindre fromandsdannelse om vinteren kombineret med en sommertørke.
+At II situationen i 1997. Der havde vi en vintertørke, altså mindre grundvandsdannelse om vinteren kombineret med en sommertørke.
 
 00:25:36
 Og så er det man pludselig får et et respons, som er lidt uheldigt.
@@ -491,7 +491,7 @@ Men hvis vi gerne vil kigge mere landsdækkende, så er vi nødt til at tage fat
 Ups modeller og fordelene ved at bruge en model er også, at vi kan undersøge de forskellige dele af kredsløbet samtidig.
 
 00:26:59
-Altså. Vi kan både kigge i vandholdet i jorden. Vi kan kigge på vandføringen og grundvandet i en samlet en samlet pakke, og her bruger vi den national politologisk model DK modellen, som beskriver hele det her kredsløb og også kan tage de her menneskelige påvirkninger af e og der bruger vi det der hedder hydroliske indekser og indekserne.
+Altså. Vi kan både kigge i vandholdet i jorden. Vi kan kigge på vandføringen og grundvandet i en samlet en samlet pakke, og her bruger vi den national hydrologisk model DK modellen, som beskriver hele det her kredsløb og også kan tage de her menneskelige påvirkninger af e og der bruger vi det der hedder hydrologiske indekser og indekserne.
 
 00:27:19
 Det er egentlig hvis man skal sige det meget simpelt end en beskrivelse af hvordan.
@@ -605,7 +605,7 @@ Ikke knap så våde eller decideret, måske endda tørre sommer, men højt forda
 Og hvordan manifesterer det som som i grundvandsstanden og det her? Det er et plot af terræn og et grundvand. Vi har den samme sortering som før, og farverne indikerer stigende eller fanden grundvandsspejl.
 
 00:33:39
-Og det her, Det er så midler, så Det er ikke ekstremt. Det er kun Vores middel kundeanstalt, og der kan man også sige selv for de fordi dem vi normalt ville kalde våde heroppe på øverste række, så er der altså områder, hvor Vi har en dybere eller et fald i grundvandsvejken til II fremtiden, men Der er også mange steder, hvor vi ser en en kraftig.
+Og det her, Det er så midler, så Det er ikke ekstremt. Det er kun Vores middel grundvandsstand, og der kan man også sige selv for de fordi dem vi normalt ville kalde våde heroppe på øverste række, så er der altså områder, hvor Vi har en dybere eller et fald i grundvandsspejlet til II fremtiden, men Der er også mange steder, hvor vi ser en en kraftig.
 
 00:33:58
 Øgning altså en.
@@ -725,10 +725,10 @@ Så vi. Det ville jo selvfølgelig også være muligt at være lidt mere.
 Hvad skal man sige?
 
 00:39:30
-Lidt mere dynamisk i sin i sin i sin, når man giver tilladelser til til vantevending.
+Lidt mere dynamisk i sin i sin i sin, når man giver tilladelser til til vandindvinding.
 
 00:39:38
-Fordi så havde man et overblik over om ressourcen kunne bære det, eller om den ikke kunne bære det, og det kunne være nogle selvladelser til for eksempel power 2 x eller eller tilsvarende som som man kunne.
+Fordi så havde man et overblik over om ressourcen kunne bære det, eller om den ikke kunne bære det, og det kunne være nogle selvladelser til for eksempel Power-to-X eller eller tilsvarende som som man kunne.
 
 00:39:51
 Man kunne få et et, hvad skal man sige et grundlag for at at give en en tilladelse som som man ikke har i dag?
@@ -749,16 +749,16 @@ Vi finder det Vi har lavet, viser at.
 At.
 
 00:40:46
-Man får faktisk ikke den store. Typisk får man ikke den store påvirkning af grundlovnstanden grundlovsdannelse, når Vi har en en sommertørke, fordi udgangspunktet Det er at det, der bliver sjældent et dannet særlig meget grundvand om sommeren alligevel, og hvis der så kommer 1 1 1 tørke som.
+Man får faktisk ikke den store. Typisk får man ikke den store påvirkning af grundlovnstanden grundvandsdannelse, når Vi har en en sommertørke, fordi udgangspunktet Det er at det, der bliver sjældent et dannet særlig meget grundvand om sommeren alligevel, og hvis der så kommer 1 1 1 tørke som.
 
 00:41:06
-Som giver mindre prøveanstalt, så ja< nul. Det er jo stadigvæk nul så så så derfor er der ikke den store effekt af det.
+Som giver mindre grundvandsdannelse, så ja< nul. Det er jo stadigvæk nul så så så derfor er der ikke den store effekt af det.
 
 00:41:17
 Hvis det virkelig skal slå igennem, så skal vi have en en vintertørke efterfulgt af en sommertørke. Så har vi noget eller et et problem, fordi så er grundvandstanden lav og det vil sige når vi pumper vand op til.
 
 00:41:32
-Til til til mark berling for eksempel, så så har vi et ressourceproblem.
+Til til til markvanding for eksempel, så så har vi et ressourceproblem.
 
 00:41:43
 Og de eksempler som ida nævnte helt i starten af af foredraget.
@@ -782,13 +782,13 @@ Ja det bliver specielt de terræn er grundvandet der der.
 Hvor Det er kritisk for.
 
 00:42:44
-Minimumsvans afstramning i vandløbene, som du er født af brandmand og selvfølgelig også sårbart i tandlægeforbindelse.
+Minimumsvans afstramning i vandløbene, som du er født af grundvand og selvfølgelig også sårbart i tandlægeforbindelse.
 
 00:42:54
 Vi tror tæt på, at overvågninger og modelprognoser.
 
 00:43:01
-Vil give en mulighed for at afhjælpe de de de mest kritiske situationer eller også de mindre kritiske situationer. Og Det er i hvert fald give et et grundlag for at tage en beslutning om. Må vi vente vand II det her år eller eller skal Vi skal vi udsætte de store valgprojekter til senere.
+Vil give en mulighed for at afhjælpe de de de mest kritiske situationer eller også de mindre kritiske situationer. Og Det er i hvert fald give et et grundlag for at tage en beslutning om. Må vi vente vand II det her år eller eller skal Vi skal vi udsætte de store vandprojekter til senere.
 
 00:43:25
 Stavs jamen Det var vist det vil lige sige. Tak for opmærksomheden.
@@ -893,10 +893,10 @@ Og.
 Så har jeg et spørgsmål fra Niels, kan i sige lidt om formål og få ventet output af tørkeprojektet, som i gennemfører sammen med DMI og KDS.
 
 00:48:18
-Ja altså man kan sige det det tolkeprojekt som kører lige nu, som er en del af forskningsreserven. Det har været det man kalder vidensopbyggende projekt, så det handler rigtig meget om at samle erfaringer fra andre lande og forsøge at netop blive enige om, hvordan vi definerer og arbejder med tørke i en dansk kontekst.
+Ja altså man kan sige det det tørkeprojekt som kører lige nu, som er en del af forskningsreserven. Det har været det man kalder vidensopbyggende projekt, så det handler rigtig meget om at samle erfaringer fra andre lande og forsøge at netop blive enige om, hvordan vi definerer og arbejder med tørke i en dansk kontekst.
 
 00:48:41
-Og i forbindelse med Det har vi her på kemios arbejdet mest med den nye hydrolatiske tørke og kiggede tilbage i tiden, så Det var noget af det resultater, jeg viste med de her hydrologiske indeksser vi undersøger også forskellige datamuligheder for overvågning, altså forskellige satellitprodukter og også forskellige sensornetværk. Hvordan man de kan underbygge overvågningen, og tanken er så, at når vi bevæger os over i tørke 2% af den næste.
+Og i forbindelse med Det har vi her på GEUS arbejdet mest med den nye hydrologiske tørke og kiggede tilbage i tiden, så Det var noget af det resultater, jeg viste med de her hydrologiske indeksser vi undersøger også forskellige datamuligheder for overvågning, altså forskellige satellitprodukter og også forskellige sensornetværk. Hvordan man de kan underbygge overvågningen, og tanken er så, at når vi bevæger os over i tørke 2% af den næste.
 
 00:49:09
 At nogle af de her erfaringer de skal så måske forhåbentlig udmøntes i.
@@ -911,7 +911,7 @@ Og Sådan.
 Jeg ved på, DMI har de arbejdet rigtig meget med den her nedbørs diskontinuitet, som er opstået, da man skiftede.
 
 00:49:45
-Ålerudstyr, og den har man også arbejdet rigtig meget med i tørke regi. For Det er super vigtigt at have fat i den der.
+målerudstyr, og den har man også arbejdet rigtig meget med i tørke regi. For Det er super vigtigt at have fat i den der.
 
 00:49:52
 Generelle troværdige lange tidsser, når man kigger på de her ekstremer, så det Det har de virkelig arbejdet hårdt på og og prøve at lyse. Og IKDS er man undersøger man den meget den økonomiske side af af tingene, så man er interesseret i. Hvad har det egentlig kostet os i Danmark med de her tørker historiske tørker?
@@ -950,7 +950,7 @@ Spørgsmål.
 Jeg nu er der ikke lige umiddelbart flere spørgsmål, så jeg tænker egentlig bare at at at vi runder af og. Og så kan jeg lige sige, at vi optager webinaret og det bliver lagt ud på i Vores vidensbank.
 
 00:51:20
-Som man kan se den her føljetomme af de her 6 tørke hedde her og gå igennem det hvis man har lyst til det i bagkataloget og ellers så vil jeg bare ja igen 1000 tak til jer 2 for at stille op og Det var Jeg synes Det var virkelig interessant.
+Som man kan se den her føljeton af de her 6 tørke og hede og gå igennem det hvis man har lyst til det i bagkataloget og ellers så vil jeg bare ja igen 1000 tak til jer 2 for at stille op og Det var Jeg synes Det var virkelig interessant.
 
 00:51:36
 Og ja.

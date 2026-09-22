@@ -1,5 +1,5 @@
 00:00:00
-Kære alle velkommen til dagens spændende Tech Talk og Det er en DNN ks grundvandsdag mit navn Det er theis krost Andersen og jeg for virkelig University College sammen med Kristoffer sindby Larsen fra ove Nygaard vil jeg gerne på vegne af jane koe byde jer alle sammen velkommen.
+Kære alle velkommen til dagens spændende Tech Talk og Det er en DNNK's grundvandsdag mit navn Det er theis krost Andersen og jeg for virkelig University College sammen med Kristoffer sindby Larsen fra ove Nygaard vil jeg gerne på vegne af jane koe byde jer alle sammen velkommen.
 
 00:00:14
 På dagens Tech Talk vil Victoria for Smith indvation, Søren fra lundgren og Peter fra VSP fortælle om deres projekt omkring det terræn, Der er grundvand.
@@ -8,19 +8,19 @@ På dagens Tech Talk vil Victoria for Smith indvation, Søren fra lundgren og Pe
 Vi skal have problemer, men Vi har løst efter bedste evne, så så vi håber, det går.
 
 00:00:27
-Lidt praktisk information inden vi starter. Vi kan som altid skrive jeres spørgsmål ude i chatten, og så vil vi løbende i slutningen af tiktokken. Vil i blive besvaret?
+Lidt praktisk information inden vi starter. Vi kan som altid skrive jeres spørgsmål ude i chatten, og så vil vi løbende i slutningen af Tech Talken. Vil i blive besvaret?
 
 00:00:36
-Selve tiktokken varer de her 30-35 minutter, så Der er 10 minutter til til spørgsmål i slutningen.
+Selve Tech Talken varer de her 30-35 minutter, så Der er 10 minutter til til spørgsmål i slutningen.
 
 00:00:43
-Og for god ordens skyld, så skal selvfølgelig også informere om at tiktokken bliver optaget, så i kan følgende inde på DN k's hjemmeside, så herfra vil jeg give ordet til til dig, Peter.
+Og for god ordens skyld, så skal selvfølgelig også informere om at Tech Talken bliver optaget, så i kan følgende inde på DNNK's hjemmeside, så herfra vil jeg give ordet til til dig, Peter.
 
 00:00:53
 Jo tak Jeg vil gerne give jer ordet videre til Victoria som vil byde velkommen.
 
 00:01:00
-Ja hej og velkommen til jeg hedder viktøj kunstner jeg kommer fra Smith innovation og vi kan godt synde næste slide Peter.
+Ja hej og velkommen til jeg hedder Victoria kunstner jeg kommer fra Smith innovation og vi kan godt synde næste slide Peter.
 
 00:01:11
 Så prøver jeg lige.
@@ -80,7 +80,7 @@ Hvad det kommer, og vi løber rundt omkring II landet og dele af erfaringer og u
 Jo tak og jeg skylder nok også lige at sige, at hvis i oplever en lidt dårlig lydkvalitet fra Victoria og måske også Søren som også siger noget, så er det fordi vi prøver faktisk at køre det over nogle telefoner, fordi Vi har nogle tekniske problemer, men.
 
 00:03:22
-Jeg vil, og så skulle Carsten Christiansen jo egentlig også have været med her i dag. Han har siddet IWSP jo tidligere og tidligere KL med grundvandsområdet. Han er jo i Køge Kommune nu, men Carsten har fået corona, og det troede han godt.
+Jeg vil, og så skulle Carsten Christiansen jo egentlig også have været med her i dag. Han har siddet i WSP jo tidligere og tidligere KL med grundvandsområdet. Han er jo i Køge Kommune nu, men Carsten har fået corona, og det troede han godt.
 
 00:03:36
 Han kunne klare til i dag, men han hoster så meget, så han er måske med på en lytter idag. Det ved jeg ikke, men så jeg prøver at at tage noget af det, som Carsten gerne har snakket om og inge feltager. Hun er til EMI veteranham hammerkast for at genvinde sit EM, så vidt jeg husker.
@@ -170,7 +170,7 @@ Og og Det er jo derfor vi pludselig kan se få nogle problemer, når vi begynder
 Ja hvor stort et problem har vi egentlig? Det er der ikke Sådan lige et præcist overblik over, men et momentum undersøgelse fra 2019 viste, at cirka 32% altså af de adspurgte kommuner, de havde hyppigt problemer med terrænet og grundvand eller og og 50% havde oplevet enkelte tilfælde af det her.
 
 00:09:11
-Og der var også en 2 undersøgelse i fasttrack projektet igangsat eller werminist, så på baggrund af hit data, altså den hyologiske informationsportal screenet for hvor mange bygninger og ejendomme og infrastruktur ligger der faktisk tæt på grundvand.
+Og der var også en 2 undersøgelse i fasttrack projektet igangsat eller werminist, så på baggrund af HIP-data, altså den hydrologiske informationsportal screenet for hvor mange bygninger og ejendomme og infrastruktur ligger der faktisk tæt på grundvand.
 
 00:09:28
 Og den redegjorde for, at der var cirka 450.000 boliger på landsplan, der lå i med< 1 m til grundvandspejlet mere end 80% af tiden på året.
@@ -239,7 +239,7 @@ For eksempel sammenligningen. Den viser altså også. Den har også et par par g
 Der jo altså som sagt dels kan det indgå II det som det det nye lovgrundlag skal kunne, og det så kan det altså også noget der der kan den grundlag for at at gennemføre nogle projekter.
 
 00:13:44
-Med den ukendte lovgrundlag det så det Det er de 2 ben ligesom går på. Jeg har lige taget et par tegninger med eller et par billeder med ude ude til højre på sliden hvor vi får oven kan se angreb løbet med og og så lige nedenunder de 2 kedelige eksempler fra fra fra juulsminde og fra fra Billund, hvor der står en masse vand på dreng, hvor der ikke rigtig er nogen. Hvad for nogle permanent løsning så ned for de 3 nederste.
+Med den ukendte lovgrundlag det så det Det er de 2 ben ligesom går på. Jeg har lige taget et par tegninger med eller et par billeder med ude ude til højre på sliden hvor vi får oven kan se angreb løbet med og og så lige nedenunder de 2 kedelige eksempler fra fra fra Juelsminde og fra fra Billund, hvor der står en masse vand på dreng, hvor der ikke rigtig er nogen. Hvad for nogle permanent løsning så ned for de 3 nederste.
 
 00:14:09
 Det er nogen vi kommer tilbage til når vi gennemgår.
@@ -305,7 +305,7 @@ Og så kan i se Der er 2 kolonner herovre en kolonne med hvor Vi har sagt løsni
 Og som i kan se, så er der de fleste af casesne Vi har kigget på og fundet. Det er steder hvor man ikke har en permanent løsning endnu og ikke ved man man på sigt endnu hvad man skal gøre. Men Der er dog også nogle af dem der allerede har fundet nogle løsninger og og nogle af dem vil vi også kigge lidt på om lidt.
 
 00:18:24
-En af dem, som Jeg synes kunne være interessant at at eller vi ham synes var interessant at kigge på. Det er for eksempel den her caseon handler om wout park, som er ligger i Billund, altså en oplevelsespark til ja primært børn.
+En af dem, som Jeg synes kunne være interessant at at eller vi ham synes var interessant at kigge på. Det er for eksempel den her caseon handler om WOW Park, som er ligger i Billund, altså en oplevelsespark til ja primært børn.
 
 00:18:40
 Som er åbnet blev åbnet i 2000 og og og 20.
@@ -341,7 +341,7 @@ Så man har fået tørholdt områder med åbne parken, men man har ikke fundet e
 Brobygget Sådan nogle situationer her. Det er jo at få nogle længere tids få det hele tiden og grundværk.
 
 00:20:20
-Og Det er godt nok. Bravo Park i Billund det her, men i Billund Kommune ligger der. Er der faktisk flere steder, hvor det her er en gen problemstilling.
+Og Det er godt nok. WOW Park i Billund det her, men i Billund Kommune ligger der. Er der faktisk flere steder, hvor det her er en gen problemstilling.
 
 00:20:29
 Det begynder også for lufthavnen. Det er det og andre steder hvor hvor man har.
@@ -518,13 +518,13 @@ Tak, Søren.
 Vi har taget det et eksempel med, som handler mere om de her eksisterende byg og med ældre kloakker og det.
 
 00:30:21
-Den by der hedder uldum, der ligger nedsted Kommune, som jo har den her typiske nedslidte fælles kloak II bymidten.
+Den by der hedder uldum, der ligger Hedensted Kommune, som jo har den her typiske nedslidte fælles kloak II bymidten.
 
 00:30:30
 Og i det her tilfælde også med høj indsivning og desværre også med begrænset kapacitet, så Der er.
 
 00:30:35
-Uacceptabel overlev til recipleterne.
+Uacceptabel overlev til recipienterne.
 
 00:30:38
 Og på trods af at Vi har 1 1 1 høj indstilling, så har vi grundvandet 1-2 m under tegnene. Altså Det er faktisk hovedkloakken Der er.
@@ -698,7 +698,7 @@ Hitgand om sommeren rindende vand.
 Som det jeg viste på billedet her lige før fra Holland er oplagt. Det er jo noget vi sukker lidt efter. Det regner jo kun 5% af tiden, så Vi skal bruge regnvand og rekreativt, så har vi det jo ikke hele tiden, men det regner en grundmand.
 
 00:39:44
-Det har vi jo rigtig lang tid af gangen, måske endda hele året rundt, så regreativt, men til vanding og en hel række andre processer som i kan se her og nogle gange kan man bruge det flere gange, som vi også havde eksempler på fra Høje Taastrup, altså både varmegenvindinger og brug det til receptionter.
+Det har vi jo rigtig lang tid af gangen, måske endda hele året rundt, så rekreativt, men til vanding og en hel række andre processer som i kan se her og nogle gange kan man bruge det flere gange, som vi også havde eksempler på fra Høje Taastrup, altså både varmegenvindinger og brug det til recipienter.
 
 00:40:01
 Kan form forbedring så.
@@ -767,7 +767,7 @@ Vi har jo interviewet en del i forbindelse med det her, og vi møder jo egentlig
 Det kan man også tænke på ind i vandsektoren jo.
 
 00:44:31
-Ja tak Der er 2 spørgsmål til det, men det vil jeg lægge op til at man kan se videoen når den er færdig og Peter og Søren og Victoria så kan i få lov at svare på dem bagefter så lægger jeg dem ind i videoen fordi nu er klokken slået 13 og Jeg vil på vegne af mig selv Kristoffer sindby fra Nygaard og theis fra Andersen fra via College DNAKC 1000 tak for jeres fantastiske indlæg.
+Ja tak Der er 2 spørgsmål til det, men det vil jeg lægge op til at man kan se videoen når den er færdig og Peter og Søren og Victoria så kan i få lov at svare på dem bagefter så lægger jeg dem ind i videoen fordi nu er klokken slået 13 og Jeg vil på vegne af mig selv Kristoffer sindby fra Nygaard og theis fra Andersen fra via College DNNK 1000 tak for jeres fantastiske indlæg.
 
 00:44:54
 Og Det er helt sikkert noget der skal følges og skal skal bruges derude. Så vi vil sige tak for det.
