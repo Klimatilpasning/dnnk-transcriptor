@@ -65,7 +65,7 @@ Okay, and in the end we have the handheld Q-keys in which the user can download 
 Thank you for watching. I'm sure there will be time for a few questions, but before that Erland, would you like to add some things? No, I think it's fine with the demo and thank you very much Maria. The last column has a question, I'll raise this hand.
 
 00:09:30
-Thank you. Could you show an example of floods from the river? Yes. And mainly my question is what kind of model do you use to simulate the flood from rivers? Vi bruger bare de data, der er tilgængelig nationals for vandløbestata. Og det vil sige det er, så vi de husker, at det geustærd har lavet den, men...
+Thank you. Could you show an example of floods from the river? Yes. And mainly my question is what kind of model do you use to simulate the flood from rivers? Vi bruger bare de data, der er tilgængelig nationals for vandløbestata. Og det vil sige det er, så vi de husker, at det GEUS-data har lavet den, men...
 
 00:10:00
 Utstiller på kyst, jeg tror. Ja, okay. Så det er kun de største vandløb. Og vores erfaring er, at det er generelt ikke at de store udfordringer på vandløb. Indi. Så man har heldigvis historisk set lærerpladsveksien, kan man sige, og fundet ud af hvor man skal bygge her. Men lad mig lige tage over again så fra Maria.
@@ -80,7 +80,7 @@ Så det hele designet af det her system her, det minder mig om, om det er i vand
 Man skal være opmærksom på et andet med, at selvfølgelig de her oversumtysk kort, som er baseret på brugsportkort fra SDFI. Og da det er en statisk modell, så viser det egentlig blotts, hvor vand det hænder hen i forskellige lavninger. Og det vi så har gjort, det har vi omsættet de her brugsportkort til nogle i vanddybter. Jeg skal bare være opmærksom på, at det er ikke nogen tidslige faktor, inden det som også Lars og Andreas og Kjartan alle, som har været ind på.
 
 00:12:00
-Men man kan jo sige, at det gør det jo sammenlignet med det, man allerede kender fra Skalco i dag, og også fra klimatilbasningen i Kampbos. Andet ting, jeg er nødt til at målge også have været ind på, er det her, hvad de har, man tager med her. Vi har valgt, at kun fokusere på bygningen, man kunne også tage vej med, og man kunne tage alle mulige andre ting med her.
+Men man kan jo sige, at det gør det jo sammenlignet med det, man allerede kender fra Scalgo i dag, og også fra klimatilbasningen i Kampbos. Andet ting, jeg er nødt til at målge også have været ind på, er det her, hvad de har, man tager med her. Vi har valgt, at kun fokusere på bygningen, man kunne også tage vej med, og man kunne tage alle mulige andre ting med her.
 
 00:12:30
 Men for at gøre det enkelt og sammenlignet på krydsetværs, og også af hensyn til vejningen, vil jeg sige, så har vi så været kun at tage bygningen med her. Og det er en ganske simpel implementering, vi har lavet en skadesfunktion her, hvor vi simpelthen igen læner os op af, hvad man kan finde på i plask, om informationerne, hvad sådan nogle skader vi koster. Og bygningsdata, det er her, når vi henter fra SDFI igen, som læner sig op af Inspire databaseen som en EU database.
@@ -92,16 +92,16 @@ Og er det det her med bekendtgørelsen, som mange af jer også har været ind p�
 Hvis det er sådan, at loven handler om at få spil af en telskabel til at financiere en større del af regningen til klimatilplasting i fremadrettet i forhold til, hvad de har modtelt hiddetil. Og hvis man skal have det på plads, så skal man opfylle nogle krævne, og et af krævene er, at der skal anvendes dynamiske modeller til etabliering af oversvarmelseskortene. Så da det er, at det her det er, der ser på et statiske kort, så kan man så ikke benytte de kort, der findes i grævsvisionen her til at få godkendt sine ansøgninger.
 
 00:14:00
-Så det er ingen tvivl om, at risikokortene, som sådan, hejner sig primært til screening, og man skal gå ind og se, hvad det egentlig er, vi kan forvente deres skader rundt omkring, hvor den ser det ud i forhold til de forskellige oversvarmelsestyper. Men når det er sagt, så, som bruger også nemlig denne vis, så er det sådan, at beregningsværktøjet bag den her service her igen, det er et værktøj, som er blevet udviklet, og som læner, som har et op, og at de vil kendt gøre det så, da den ligger ind for området, og især skrift 31 fra Spilvandskomiteet i nogen år i dag.
+Så det er ingen tvivl om, at risikokortene, som sådan, hejner sig primært til screening, og man skal gå ind og se, hvad det egentlig er, vi kan forvente deres skader rundt omkring, hvor den ser det ud i forhold til de forskellige oversvarmelsestyper. Men når det er sagt, så, som bruger også nemlig denne vis, så er det sådan, at beregningsværktøjet bag den her service her igen, det er et værktøj, som er blevet udviklet, og som læner, som har et op, og at de vil kendt gøre det så, da den ligger ind for området, og især skrift 31 fra Spildevandskomiteen i nogen år i dag.
 
 00:14:30
-Som man kan sige, det er de metoder, vi anvender til at beregne risisi. En anden ting, jeg vil nævne her, det er, at vi bare så heldig i projektet i Roskilde Kommune, og også er i gang til nogle forsikringsskader, som er begriveret fra forsikringspension, hvor man har fået analyseret de her forsikringsskader i Norge,
+Som man kan sige, det er de metoder, vi anvender til at beregne risisi. En anden ting, jeg vil nævne her, det er, at vi bare så heldig i projektet i Roskilde Kommune, og også er i gang til nogle forsikringsskader, som er begriveret fra Forsikring & Pension, hvor man har fået analyseret de her forsikringsskader i Norge,
 
 00:15:00
 og at inklusiv den nedebørn, det skylde brugsenset som en intraf for at ramte København tilbage i 2011, det gik også at delevisinde over Roskilde Kommune og forsikringsskader der.
 
 00:15:30
-Alt i alt tror jeg nok, vi lavede en validering for 6 eller 7 delområder i Roskilde Kommune, og kom til den konfliktion, der faktisk var en ganske meget fin overindstandelse med beregningsværktøj, der ikke er skader, og det man havde fået indbrettet. Og som en del af øvelsen, så lavede vi den her analysiebåde baseret på skalgodase, altså statiske kort, men også på dynamiske kort fra Mike Flott.
+Alt i alt tror jeg nok, vi lavede en validering for 6 eller 7 delområder i Roskilde Kommune, og kom til den konfliktion, der faktisk var en ganske meget fin overindstandelse med beregningsværktøj, der ikke er skader, og det man havde fået indbrettet. Og som en del af øvelsen, så lavede vi den her analysiebåde baseret på skalgodase, altså statiske kort, men også på dynamiske kort fra MIKE FLOOD.
 
 00:16:00
 Og uanset, om man brugte en eller anden, så endte vi den samme størrelssorten med hensyn til skaderne. Så vi har sådan en eller anden forventning om at værktøje drejner rimelig okay, når man ser på større geografiske områder. Det er klart, som Lars også gjorde klart i sin presentation hjemme, så er det vildt at være forskel i de enkele skader, hvis man vil ikke dykke ned i detaljerne.

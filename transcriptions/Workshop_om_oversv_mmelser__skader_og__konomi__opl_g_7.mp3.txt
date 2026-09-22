@@ -209,7 +209,7 @@ Det er ikke hedebølger. Det er ikke tørke. Hvis vi kigger Sådan generelt set 
 Det kan godt være, det ændrer sig i fremtiden.
 
 00:11:07
-En 2 vigtig pointe til det her med oversvømmelseskortene, fordi skadesberegningen er udelukkende eller i hvert fald i rigtig mange tilfælde baseret på at Der er lavet et oversvømmelseskort. Og her har jeg prøvet at sammenligne 3 forskellige metoder bluespot fra kamp skal jeg gå live, hvor Der er noget mere eller mindre komplekst infiltration? Det er den nye skal gå live med de nye infiltrations retter, og så Det er det som mit gamle firma lades, hvor man har en en arbejdssystem model med.
+En 2 vigtig pointe til det her med oversvømmelseskortene, fordi skadesberegningen er udelukkende eller i hvert fald i rigtig mange tilfælde baseret på at Der er lavet et oversvømmelseskort. Og her har jeg prøvet at sammenligne 3 forskellige metoder bluespot fra kamp Scalgo Live, hvor Der er noget mere eller mindre komplekst infiltration? Det er den nye Scalgo Live med de nye infiltrations retter, og så Det er det som mit gamle firma lades, hvor man har en en arbejdssystem model med.
 
 00:11:33
 Og bare lige ved at kigge på det her, så ser de jo meget forskellige ud. Der er noget med at vand herovre og lidt mindre her og så den mindste herovre hvis man nu laver en skadesberegning på de her 3 og sammenligner og Det er samme nedbørsinput, så det skulle gerne være samme hændelse vi kigger på her, så får man 1250 bygninger kamp. Jeg håber ikke Der er nogen der bruger kamp på den her måde her, men men og man får cirka halvdelen det skal gå og så får man 1/3 af Scalgo hvis man bruger en mere kompleks.
@@ -251,7 +251,7 @@ Jamen altså.
 Noget af det, vi ikke ved noget om, og som måske godt kunne ligge højt herovre til højre. Det er noget omkring virksomhedernes produktionstab.
 
 00:13:55
-Og Det har vi simpelthen ikke med nu på fornuftig vis kystdirektoratet og nogle andre har nogle metoder til det, som og bedst fra nios har også en metode, men der kunne man godt arbejde mere med det, for det kunne være vigtigt og Det er helt oplagt at gøre det nu, fordi Vi har et kæmpe område Danmark, hvor Der er en masse virksomheder Der er blevet berørt.
+Og Det har vi simpelthen ikke med nu på fornuftig vis kystdirektoratet og nogle andre har nogle metoder til det, som og bedst fra NIRAS har også en metode, men der kunne man godt arbejde mere med det, for det kunne være vigtigt og Det er helt oplagt at gøre det nu, fordi Vi har et kæmpe område Danmark, hvor Der er en masse virksomheder Der er blevet berørt.
 
 00:14:16
 Opdatering af skadespunktsfunktioner. Vi har allesammen nævnt forsikringer om pension og sagt, vi vil gerne have data, men det vil være oplagt at gøre en gang imellem, når Der er sket noget lige får opdateret, at er vi nu også på rette vej eller ser det helt anderledes ud.

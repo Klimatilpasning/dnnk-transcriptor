@@ -9101,52 +9101,22 @@
   "transcriptions\\Workshop_om_oversv_mmelser__skader_og__konomi__opl_g_7.mp3.txt": {
     "anvendt": [
       {
-        "forkert": "bluesbot",
-        "rettet": "bluespot",
+        "forkert": "nios",
+        "rettet": "NIRAS",
         "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "blusespot",
-        "rettet": "bluespot",
+        "forkert": "skal jeg gå live",
+        "rettet": "Scalgo Live",
         "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "skalgus",
-        "rettet": "Scalgo",
+        "forkert": "skal gå live",
+        "rettet": "Scalgo Live",
         "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "mike modeller",
-        "rettet": "MIKE modeller",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "wandløbsmedarbejder",
-        "rettet": "vandløbsmedarbejder",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "storflad",
-        "rettet": "stormflod",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "storflåde",
-        "rettet": "stormflod",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
-      },
-      {
-        "forkert": "stormfed",
-        "rettet": "stormflod",
-        "antal": 1,
-        "grund": "Fable-fund + domæne-review (Opus)"
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -24972,6 +24942,139 @@
         "rettet": "",
         "antal": 0,
         "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Konferencer_chdOFCcLuMs_20260826_062938.txt": {
+    "anvendt": [
+      {
+        "forkert": "krid celler",
+        "rettet": "gridceller",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "åen rå",
+        "rettet": "Aabenraa",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Maria er Fjord",
+        "rettet": "Mariager Fjord",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Kyss retts vejne",
+        "rettet": "Kystdirektoratets vegne",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Konferencer_k4B06Zx_4Ek_20260826_063039.txt": {
+    "anvendt": [
+      {
+        "forkert": "Svego",
+        "rettet": "Sweco",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "råd for Bøybyggeri",
+        "rettet": "Rådet for Bæredygtigt Byggeri",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Skalborg",
+        "rettet": "Scalgo",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ASP 8,5",
+        "rettet": "RCP 8,5",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "byghagerforeningen",
+        "rettet": "Bygherreforeningen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Konferencer_pnWkZcjLm9A_20260826_063017.txt": {
+    "anvendt": [
+      {
+        "forkert": "togeografer",
+        "rettet": "havgeografer",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Drageø",
+        "rettet": "Dragør",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Valensbæk",
+        "rettet": "Vallensbæk",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Konferencer_Mc98AuVmaM8_20260826_063100.txt": {
+    "anvendt": [
+      {
+        "forkert": "DTHUSanalyse",
+        "rettet": "DTU-analysen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Oevrige_DHL6mwwN6c4_20260826_181942.txt": {
+    "anvendt": [
+      {
+        "forkert": "Skalco",
+        "rettet": "Scalgo",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Mike Flott",
+        "rettet": "MIKE FLOOD",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Spilvandskomiteet",
+        "rettet": "Spildevandskomiteen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "forsikringspension",
+        "rettet": "Forsikring & Pension",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "geustærd",
+        "rettet": "GEUS-data",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []

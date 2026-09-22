@@ -37,7 +37,7 @@ erhvervs information Det er på individuel plan og så har vi den her der hedder
 udfordringer vi har haft det har været datamængde data men det er det vi har fundet som proxi for ens generelle helbredstilstand og ø Vi har en anden
 
 00:05:00
-udfordring den der hedder immigranter fra ikke vestlige lande Vi har jo opdelt vores Danmark i krid celler på 100 gange 100 meter og der er måske 90 pr af de celler er der ingen indvandre for ikke vestlig baggrund Så dataen er meget meget underlig så der er 90 pr hvor der er et nul og så er der måe 10% hvor der er rigtig høj værdi og så den metod Vi har brugt til at lave det om til en normalfordeling er ikke helt tilfredsstillende sig på den måde alt
+udfordring den der hedder immigranter fra ikke vestlige lande Vi har jo opdelt vores Danmark i gridceller på 100 gange 100 meter og der er måske 90 pr af de celler er der ingen indvandre for ikke vestlig baggrund Så dataen er meget meget underlig så der er 90 pr hvor der er et nul og så er der måe 10% hvor der er rigtig høj værdi og så den metod Vi har brugt til at lave det om til en normalfordeling er ikke helt tilfredsstillende sig på den måde alt
 
 00:05:30
 det arbejde Vi har lavet til at rende det her om I et indeks Det kræver nok hvis nogen der er interesse i går videre med det måske nogle dygtige statistiker til at løbe hele det vi har lavet igennem hvad mi eller mig er som sådan statistiker Men vi har antaget at vi har regnet det helt om til en en en standard normalfordeling og ø og alle de her faktorer og det giver os det vi kaldt ssi et socialt sårbarhed indeks det går fra minus tre til plus tre plus tre er mest sårbar minus tre er mindst sårbar
@@ -91,7 +91,7 @@ har bare lige sat det op man får sig flotte people equivalent inde i den her h�
 sårbarhedsmodellen så får vi en indeks værdi så for hver celle i Danmark kan vi regne en indeks værdi ud på de sociale konsekvenser af
 
 00:14:00
-oversvømmelse Jeps så springer jeg over det her og går til ø Det her det er jo sådan at ø nu taler igen på Kyss retts vejne Vi vil jo gerne bruge den sociale sårbarhedsmodellen [Musik] model her øh Vi deler op et område Lad sige Esbjerg for eksempel hvad er andel af den samlede økonomiske risiko i Esbjerg hvad andel af den samlede
+oversvømmelse Jeps så springer jeg over det her og går til ø Det her det er jo sådan at ø nu taler igen på Kystdirektoratets vegne Vi vil jo gerne bruge den sociale sårbarhedsmodellen [Musik] model her øh Vi deler op et område Lad sige Esbjerg for eksempel hvad er andel af den samlede økonomiske risiko i Esbjerg hvad andel af den samlede
 
 00:14:30
 sociale risiko i Esbjerg og hvad andel af den sociale samlede naturris Iko i Esbjerg ø så har vi lavet nogle vægte hernede Så har jeg sagt Øh vi ved at de erfaringer Vi har at økonomi og socialt vægtes mere i natur vi har en ide om at økonomi og social økonomi og social nogenlunde vægtes ens Det er i hvert fald det kystdirektoratet har lagt til grund for men vi er ikke sikkre på vægtningen så derfor har jeg sagt lad os
@@ -112,7 +112,7 @@ en hotspot analyse på sådan en model her derfor kom niik op med ideen om vi ka
 Al risikoen tilbage til årsagen hvor der er en kæmpe Høj forsag forsagelse af alt den her konsekvens og det er både en styrke og en svaghed Det er en styrke Nu kan vi identificere de her områder her det er et område der har der forårsager en stor del af risikoen Øh det er også en sværhed fordi at det er den samme bare et modsatte Argument Det hænger virkelig op på nogle enkelte områder som måske eller måske ikke egentlig er
 
 00:17:30
-beskyttet at vi skaber en stor sårbarhed så jeg sagde jo Er du en liste Jeg har ikke den fulde liste jeg må godt tage den her liste med tror jeg nok Jeg har ikke spurgt ad Men jeg regner med jeg må det er og det her det er det officielle man kører den nye svings model med den nye seds model så det er Listen af social risiko fordelt på områder og vi kan se at åen rå Fredericia Kolding Maria er Fjord øh områder som som ikke før udpeget for
+beskyttet at vi skaber en stor sårbarhed så jeg sagde jo Er du en liste Jeg har ikke den fulde liste jeg må godt tage den her liste med tror jeg nok Jeg har ikke spurgt ad Men jeg regner med jeg må det er og det her det er det officielle man kører den nye svings model med den nye seds model så det er Listen af social risiko fordelt på områder og vi kan se at Aabenraa Fredericia Kolding Mariager Fjord øh områder som som ikke før udpeget for
 
 00:18:00
 eksempel Maria Fjord får en kæmpestor Score på det sociale og i og med at Den Sociale del kommer til at spille en stor rolle så forskyder det her fuldstændig billede af hvilke områder der har den højeste samlede risiko i Danmark Øh vi kan se nogle man kan måske også se på der er nogen der SL ikke er her mere øh men hvis man inkluderer Den Sociale model som vi har gjort her så får man et helt andet billede af hvilke områder der har den højeste saml risiko Hvilket man også har fået det bliver nok Det skal nok blive
