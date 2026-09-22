@@ -25211,5 +25211,179 @@
       }
     ],
     "afvist": []
+  },
+  "transcriptions\\Oevrige_u1kaQlQjbeQ_20260826_183735.txt": {
+    "anvendt": [
+      {
+        "forkert": "komplutterkraft",
+        "rettet": "computerkraft",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Søren Dornalds",
+        "rettet": "Søren Thorndahl",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Ring on Grid",
+        "rettet": "Rain on Grid",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "vejheder",
+        "rettet": "varigheder",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "vejhederne",
+        "rettet": "varighederne",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Rata-dater",
+        "rettet": "radardata",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Rata-vejen",
+        "rettet": "radardata",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Konferencer_sDTrEDA8a4w_20260826_062940.txt": {
+    "anvendt": [
+      {
+        "forkert": "Ølsagler Revel",
+        "rettet": "Ølsemagle Revle",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Konferencer__AqcZEgrSo0_20260826_062914.txt": {
+    "anvendt": [
+      {
+        "forkert": "stfs ordningen",
+        "rettet": "stormflodsordningen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Egsmark medet",
+        "rettet": "ejendomsmarkedet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Egsmark",
+        "rettet": "ejendomsmarkedet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Konferencer_FstuVt6efp4_20260826_063748.txt": {
+    "anvendt": [
+      {
+        "forkert": "DCU",
+        "rettet": "DTU",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DNK",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Danver",
+        "rettet": "DANVA",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "sil bullet",
+        "rettet": "silver bullet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\DNNKs_virtuelle_studietur_til_Klimabyen_Middelfart.txt": {
+    "anvendt": [
+      {
+        "forkert": "troformet vejprofil",
+        "rettet": "trugformet vejprofil",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "lejrløsninger",
+        "rettet": "LAR-løsninger",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "lejr løsningerne",
+        "rettet": "LAR-løsningerne",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "lære løsning",
+        "rettet": "LAR-løsning",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "lejrenget",
+        "rettet": "LAR-anlægget",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "dkserne",
+        "rettet": "dækslerne",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "konkaus",
+        "rettet": "konkav",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "cave",
+        "rettet": "konkav",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Konferencer_cVflXmGwchI_20260826_063114.txt": {
+    "anvendt": [
+      {
+        "forkert": "",
+        "rettet": "",
+        "antal": 0,
+        "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
+      }
+    ],
+    "afvist": []
   }
 }

@@ -23,7 +23,7 @@ Så kan man måske gå lidt på opdales i de længste, der ligger i presentation
 Det er godt startpunkt for at kigge på, hvordan kan man gribe det her an. Selvom den er lidt, altså det er gået over 10 år siden, men så synes jeg, at den giver sådan en god indføring i, hvordan kan man gribe det andet. Så har det alligevel sket noget senere i 2011. Vi har fået skalgog, som har gjort livet noget nærmere i forhold til at skulle kigge egentlig på terrænget, og hvordan strømmer det på overfladen.
 
 00:02:30
-Altså det er jo egentlig en fantastisk værktur. Så har vi egentlig fået lidt mere komplutterkraft, som gør, at den her analyser som Lars og Andreas Rente på med, at regne ud. Hvis vi nu laver regnenfald på terræng, det bliver så lidt nærmere, fordi vi simpelthen kan komme igen med de beregninger. Det er jo ingen fattig mange beregningspunkter, der skal til, hvor jeg er gennemfør, sådan beregning.
+Altså det er jo egentlig en fantastisk værktur. Så har vi egentlig fået lidt mere computerkraft, som gør, at den her analyser som Lars og Andreas Rente på med, at regne ud. Hvis vi nu laver regnenfald på terræng, det bliver så lidt nærmere, fordi vi simpelthen kan komme igen med de beregninger. Det er jo ingen fattig mange beregningspunkter, der skal til, hvor jeg er gennemfør, sådan beregning.
 
 00:03:00
 Men der er undet, at vi jo beregningskraften i tak med, bliver tilgængeligt. Så synes jeg også, vi har begyndt at få lidt større fokus på hydrologi og afstrømning fra grunden og området. Der er en del initiativere i forhold til at få kort lag, det er lidt bedre. Jeg tror, nu kom der en rapport, som Kogi havde lavet i forhold til Danerejn som faldt i Tyskland her i sidste sommer.
@@ -65,19 +65,19 @@ det var omkring 50 år senere, hvor man ud i rummet. På 50 år igen, så har vi
 Det koster rigtig meget de ekstra sikkerhedsfaktorer, og det anlægter du bygger, hvis det skal leve op til et 100-års planlægningshorisont, så er der altså noget dyre end, hvis du planlægger efter en 50-årshorisont, og det er ikke, hvor de anlægter går i stykker med 50 år, men så har du måske bruget nogle nye teknologier og nogle nye muligheder. Her blev vej, et godt eksempel, mobile demninger,
 
 00:09:30
-som måske gør, at du kan supplere det projekt, som du har bygget, med nogle relativt billige midler til danstid. Det synes jeg er en overvej til at være. Det næste, det var egentlig, hvilken regnummer skal bruge, og her vil jeg egentlig henvisere direkte til Søren Dornalds præstation, for det var møde for nogle år siden, det har jeg lagt en længde ind til, men pointen er egentlig, at CDS det er egentlig en slags superregn,
+som måske gør, at du kan supplere det projekt, som du har bygget, med nogle relativt billige midler til danstid. Det synes jeg er en overvej til at være. Det næste, det var egentlig, hvilken regnummer skal bruge, og her vil jeg egentlig henvisere direkte til Søren Thorndahl præstation, for det var møde for nogle år siden, det har jeg lagt en længde ind til, men pointen er egentlig, at CDS det er egentlig en slags superregn,
 
 00:10:00
-fordi den rammer den høj gentagsperiodet på særlig 100 år, på alle vejheder, det er sig ugercentrum, det er 5-10 minutter eller 6 timer, så er den 100-årsregn, mens det er virkeligheden, og det er så den orange søgle her i virkeligheden, det er 100 på alle vejheder. Hvis du så tager en historisk regn som egentlig er målt, så er den typisk toppe på en af vejhederne, mens den er lavere på de andre, så det er det, jeg mener med, og den kan gå ind i godt, det er traktis lidt som en superregn.
+fordi den rammer den høj gentagsperiodet på særlig 100 år, på alle varigheder, det er sig ugercentrum, det er 5-10 minutter eller 6 timer, så er den 100-årsregn, mens det er virkeligheden, og det er så den orange søgle her i virkeligheden, det er 100 på alle varigheder. Hvis du så tager en historisk regn som egentlig er målt, så er den typisk toppe på en af varighederne, mens den er lavere på de andre, så det er det, jeg mener med, og den kan gå ind i godt, det er traktis lidt som en superregn.
 
 00:10:30
 Så der er et stort forskel på resultaterne, når man bruger den en eller anden, og det vil sige, man risikerer ikke noget skjul sikkerhed ind, hvis man bruger CDS. Hvis alle de her ting, som jeg har snakket om, er at spare på det en eller andet, det er egentlig fordi, så har du penge til at lave flere projekter, så er det ikke sådan, at man ikke bruger penge, men du har simpelthen mulighed for at bruge penge på flere projekter på samme tid.
 
 00:11:00
-En ting jeg også vil fremhæve på til vejen, det er, at adgang til Rata-dater, den ser lidt bedre ud efterhånden, det er mere frikede af noget Rata-dater for foreningende hverdage, der er i valgsektoren, som er nogle af de store forsøgninger i Danmark, de er ved at kigge på at få gjort det lidt mere tilgængeligt til alle forsøgningerne, på en nem og kvalitetssikker måde, hvor det er et utroligt spændende initiativt synes jeg,
+En ting jeg også vil fremhæve på til vejen, det er, at adgang til radardata, den ser lidt bedre ud efterhånden, det er mere frikede af noget radardata for foreningende hverdage, der er i valgsektoren, som er nogle af de store forsøgninger i Danmark, de er ved at kigge på at få gjort det lidt mere tilgængeligt til alle forsøgningerne, på en nem og kvalitetssikker måde, hvor det er et utroligt spændende initiativt synes jeg,
 
 00:11:30
-hvor vi måske får mulighed for at lave Rata-dater indover, Rata-vejen indover vores beregninger, i stedet for at bruge en enkelt eller et par stykker regnmåler. Det har i set betydning, hvis du begynder at kigge på lidt større områder, og der har vi faring fra, at regnene ikke nødvendigvis falder jevnlig oplandet, så det er et rigtig spændende udvikling. Så har jeg lidt et forhold til validering,
+hvor vi måske får mulighed for at lave radardata indover, radardata indover vores beregninger, i stedet for at bruge en enkelt eller et par stykker regnmåler. Det har i set betydning, hvis du begynder at kigge på lidt større områder, og der har vi faring fra, at regnene ikke nødvendigvis falder jevnlig oplandet, så det er et rigtig spændende udvikling. Så har jeg lidt et forhold til validering,
 
 00:12:00
 og det har jeg prøvet at kigge på, men regner vi egentlig rigtig, altså passer modellerne egentlig, de er de samme resultater, som er målet eller observeret, når de her regn de falder. Der findes ikke ret mange studier, men i fælde på, hvor den her fra Australien, hvor man egentlig havde taget et område, som har udsat for oversømmelse, så havde man simpelthen lavet en bygget, en fysisk modell, den er den hele område, med huse og terrenge og det hele,
@@ -98,7 +98,7 @@ Så vi er helt på den anden side af verden. Men der ligger en interessant rappo
 er en teamsvejhed, hvor de diskuterer de her emner, som måske er ret specifikke, men så er livet utroligt interessante. Kommer om en masse teori, men også, hvordan bruger man de forskellige modeller? Jeg tror, at der er en del de gratis værktøjer, der ikke har os fra USA, som også kan bruges til togelig modellering på overfladen. Discuterer det her med,
 
 00:15:00
-Ring on Grid eller Direct Rainfall, det hvor vi snakker om før, men hvor regnen falder direkte på overfladen. Så der er egentlig en rigtig mange spændende videoer, der, som jeg synes, man kan gå på opdager til. Yes, det tror jeg, det var det. Tusind tak, Kjartan. Der var nogle meget konkrete og gode idéer til, hvordan vi kan komme videre med at blive klogere på det i hvert fald.
+Rain on Grid eller Direct Rainfall, det hvor vi snakker om før, men hvor regnen falder direkte på overfladen. Så der er egentlig en rigtig mange spændende videoer, der, som jeg synes, man kan gå på opdager til. Yes, det tror jeg, det var det. Tusind tak, Kjartan. Der var nogle meget konkrete og gode idéer til, hvordan vi kan komme videre med at blive klogere på det i hvert fald.
 
 00:15:30
 Og så er egentlig en masse spørgsmål oplendende, som jeg er sikker på, der er rigtig mange mening om i kredsen her. Vi har allerede fået par utrygt i kommentarerne, men vi har fem minutter til spørgsmål, og jeg synes, at det er okay, hvis man også rækker tilbage og stiller spørgsmål til Lars eller Andreas i de fem minutter, hvis man har nogen. Så ved vi, at vi skal sige noget.
