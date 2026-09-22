@@ -77,7 +77,7 @@ Så.
 Det er meget kompenseret, og Der er rigelig mulighed ved andre lejligheder for at få mere information. Men jeg giver ordet over til Dennis, så værsågod Dennis.
 
 00:05:33
-Tak for det sted en og tak Carsten for den her spændende mulighed. Mit navn Det er Dennis wanninger og Jeg har siden 2015 været involveret i at udvikle future sit flow til dets værktøj. Det er i dag, og jeg kommer også fremadrettet til at drive videreudviklingen og sørge for at de ønskemål der måtte komme fra for eksempel de danske forsyninger, de blev implementeret.
+Tak for det sted en og tak Carsten for den her spændende mulighed. Mit navn Det er Dennis wanninger og Jeg har siden 2015 været involveret i at udvikle Future City Flow til dets værktøj. Det er i dag, og jeg kommer også fremadrettet til at drive videreudviklingen og sørge for at de ønskemål der måtte komme fra for eksempel de danske forsyninger, de blev implementeret.
 
 00:05:53
 Jeg skal måske lige nævne, at hvis jeg lyder dansk, så er det fordi Jeg er dansk, men Jeg har de sidste 20 år boet i Sverige, så hvis Der er udtryk der ikke lige rammer plet.
@@ -89,7 +89,7 @@ Så kan vi tage det efter præsentationen.
 Næste slide. Tak.
 
 00:06:06
-Sådan kort fortalt, så begyndte vi jo som sagt at udvikle future sit flow i 2015, og det gjorde vi sammen med 4 forsyninger og i dag så står vi med et system der benyttes på forskellige områder hos cirka 20 forsyninger i Skandinavien, og Vi har også nogle installationer i Australien og New Zealand, og vi fokuserer på den del af det uvedkommende vand, som er relateret til det vand, som er den ene eller den 2 årsag fejlagtig findervejs ind i spildevandsledningerne eller.
+Sådan kort fortalt, så begyndte vi jo som sagt at udvikle Future City Flow i 2015, og det gjorde vi sammen med 4 forsyninger og i dag så står vi med et system der benyttes på forskellige områder hos cirka 20 forsyninger i Skandinavien, og Vi har også nogle installationer i Australien og New Zealand, og vi fokuserer på den del af det uvedkommende vand, som er relateret til det vand, som er den ene eller den 2 årsag fejlagtig findervejs ind i spildevandsledningerne eller.
 
 00:06:33
 Kloakkerne som det vist nok hedder på dansk.
@@ -107,7 +107,7 @@ Den skal håndtere en vis belastning, og nu bliver den udsat for hårdere prøve
 De er simpelthen for dårlige, hvad vi dog har oplevet, når vi etableret future city flow Det er, at de 2 udfordringer, som står længst til højre.
 
 00:07:06
-Som er metodik og indsigt. Det er der hvor future sett i flow har hjulpet mest mange forsyninger ved hvilke problemer som uvedkommende vand årsager og mange forsyninger ved også hvilke tiltag man kan benytte for afhjælp af situationen. Men oftest så savner man en indsigt og en metode for at kunne give en kvalificeret bedømning af hvilke tiltag som vil have den største effekt på det problem man vil løse både her og nu og også strategisk fremadrettet.
+Som er metodik og indsigt. Det er der hvor Future City Flow har hjulpet mest mange forsyninger ved hvilke problemer som uvedkommende vand årsager og mange forsyninger ved også hvilke tiltag man kan benytte for afhjælp af situationen. Men oftest så savner man en indsigt og en metode for at kunne give en kvalificeret bedømning af hvilke tiltag som vil have den største effekt på det problem man vil løse både her og nu og også strategisk fremadrettet.
 
 00:07:29
 Ja næste slide tak.
@@ -119,7 +119,7 @@ Den her den er lidt mere langhåret, men jeg skal bare kort forklare i future ci
 I forbindelse med et regn, så har vi den indirekte og Det er den del som kommer i løbet af nogle timer eller dage efter at regn og den kommer så primært fra indsivninger, og så har vi den langvarige, som består i indsivning for for eksempel grundvandet. Systemet består af de her 3 flowkomponenter, og det gør den for at vi beregner et nøgletal, som vi kalder for medvirkende overflade.
 
 00:08:01
-Ud fra et oplandsoverfladesammensætning, så kan vi beregne konsekvenserne af både udførte, men også fremtidige tiltag uden at tage hensyn til, om man de kommende år har tørre eller regnfulde år, og lige når det gælder den medvirkende overflade, så er det den del af øvelsen for at etablere future sett i flow, når man beregner hvor mange kubikmeter uvedkommende vand per hektar som henholdsvis befæstet overflader og bløde overflader medvirker til.
+Ud fra et oplandsoverfladesammensætning, så kan vi beregne konsekvenserne af både udførte, men også fremtidige tiltag uden at tage hensyn til, om man de kommende år har tørre eller regnfulde år, og lige når det gælder den medvirkende overflade, så er det den del af øvelsen for at etablere Future City Flow, når man beregner hvor mange kubikmeter uvedkommende vand per hektar som henholdsvis befæstet overflader og bløde overflader medvirker til.
 
 00:08:26
 Fjerner man for eksempel et antal fejlkoblet ejendomme i et opland eller reliner?
@@ -140,10 +140,10 @@ Det er min mus er ikke verdens hurtigste, men Jeg tror at den kommer nu med lyd 
 Det håber jeg i hvert fald.
 
 00:09:18
-Velkommen til en kort guidet tur igennem future sett flow systemet, som hvad enten dit fokusområde er ledninger eller renseanlæg skaber en indsigt i hvilke problemer du har. Hvad så medvirker mest af dine problemer og hvordan du på den mest effektive og billigste måde kan begrænse konsekvenserne af uvedkommende valg.
+Velkommen til en kort guidet tur igennem Future City Flow systemet, som hvad enten dit fokusområde er ledninger eller renseanlæg skaber en indsigt i hvilke problemer du har. Hvad så medvirker mest af dine problemer og hvordan du på den mest effektive og billigste måde kan begrænse konsekvenserne af uvedkommende valg.
 
 00:09:34
-Som i kan se er der 3 ikoner eller applikationer og Det er fordi at futour set er et flow består af 3 dele. Dem består af en datadel som kigger bagud, hvor du har mulighed for at med hjælp af historiske måle det.
+Som i kan se er der 3 ikoner eller applikationer og Det er fordi at Future City Flow består af 3 dele. Dem består af en datadel som kigger bagud, hvor du har mulighed for at med hjælp af historiske måle det.
 
 00:09:48
 Data udfører avancerede tidsser analyser, du har adgang til.
@@ -158,7 +158,7 @@ Alle registrerede regnende hændelser. Du har mulighed for at dykke ned i hver e
 Så har vi en realtidsdel, som giver dig en status på din infrastruktur her og nu, og den forventede belastning, når vi kigger nogle timer eller dage fremad modellen, der ligger i baggrunden, fødes med vejrudsigter hver time og med indsigtet fra et forventet flow kan future city flow foreslå den mest optimale styrestrategi. Sidst men ikke mindst har vi en planlægningsdel, hvor du som Forsyning kan sammenligne forskellige oplande, hvordan det medvirker til uvedkommende vand, og hvilke tiltag som et givet område vil give den største effekt til den laveste omkostning.
 
 00:10:48
-Til dagens korte gennemgang har vi valgt at fokusere på 2 workflows i det første workflows, så ser vi, hvordan systemet hjælper dig, når Der er regn i vejrudsigten og i det andet workflow, så ser vi, hvordan futter set i flow hjælper dig med at finde den mest effektive tiltagspakke ud fra et givet problem og et budget.
+Til dagens korte gennemgang har vi valgt at fokusere på 2 workflows i det første workflows, så ser vi, hvordan systemet hjælper dig, når Der er regn i vejrudsigten og i det andet workflow, så ser vi, hvordan Future City Flow hjælper dig med at finde den mest effektive tiltagspakke ud fra et givet problem og et budget.
 
 00:11:04
 Lad os først hoppe ind i realshedsdelen og se på det første workshop.
@@ -263,16 +263,16 @@ Som vi ser, så får vi et væsentligt lavere indflow til renseanlægget og styr
 Og i den her del af future sett et flow fokuserer på her og nu, og nogle timer eller dage fremad, så tænkte jeg også, at vi skulle kigge på et andet workflow, hvor vi fokuserer på den langvarige horisont, og som giver mulighed for, at samtlige forskellige tiltagspakker og den påvirkning hver pakke vil have på den totale anskuelse af uvedkommende vand, men også for hvert område og opland, som man har et problem med.
 
 00:16:15
-Den her del af future sett et flow den byder også på et kort. Jeg har nu forflyttet os til trollhättan og trollhättan er en mindre svensk Kommune med cirka 60.000 indbyggere. De etablerede future sett i flow i 2018.
+Den her del af future sett et flow den byder også på et kort. Jeg har nu forflyttet os til trollhättan og trollhättan er en mindre svensk Kommune med cirka 60.000 indbyggere. De etablerede Future City Flow i 2018.
 
 00:16:27
-Bevæggrunden for trollhättan at etablere netop planlægningsdelen var, at man ville skabe et beslutningsgrundlag som både Forsyning, Kommune og tilsynsråd kunne samles omkring. For at skabe dette grundlag så etablerede trollehæfteren future CD flow planlægning og valgte at lægge samtlige tiltag, som man havde udført de sidste 10 år ind i systemet.
+Bevæggrunden for trollhättan at etablere netop planlægningsdelen var, at man ville skabe et beslutningsgrundlag som både Forsyning, Kommune og tilsynsråd kunne samles omkring. For at skabe dette grundlag så etablerede trollehæfteren Future City Flow planlægning og valgte at lægge samtlige tiltag, som man havde udført de sidste 10 år ind i systemet.
 
 00:16:46
 Det gjorde man for at kunne illustrere, hvor mange penge man havde nede investeret, og hvilken effekt eller afsavn og effekt som disse tiltag havde haft.
 
 00:16:54
-Når jeg brugte derefter futto sætte flow for at skabe fremtidige tiltagspakker for at have en kvalificeret vurdering af hvilke tiltag i hvilke områder og til hvilken pris som er realistiske.
+Når jeg brugte derefter Future City Flow for at skabe fremtidige tiltagspakker for at have en kvalificeret vurdering af hvilke tiltag i hvilke områder og til hvilken pris som er realistiske.
 
 00:17:05
 Kortet især er delt op i de 3 kategoriske farver grøn, som betyder at området ligger under de opsatte mål ud fra det nøglesand man har valgt. De orange betyder, at området medvirker moderat, og de røde er problemområderne. Igen skelner man på, om vi taler om den direkte regnmedvirken, den indirekte eller den langvarige i denne del af future city flow, så har de forskellige flow komponenter betydelser for, hvor effektivt et tiltag er.
@@ -293,7 +293,7 @@ Det workflow Jeg har valgt til dagens Tech Talk, viser et enklere eksempel på, 
 Vi vælger derfor at gå fra status og indtage skabe en tilsatspakke.
 
 00:18:20
-Her ser i de tiltag som troldehstanen har valgt at inkludere i deres version. Disse tiltag kan tilpasses til hver Forsyning. Vi arbejder dog videre med eksemplet omkring ejendomme, som er fejlkoblet, hvis man ikke havde indsigtene fra feu til set i flow, så havde troldheden historisk sammenlignet 2 forskellige situationer.
+Her ser i de tiltag som troldehstanen har valgt at inkludere i deres version. Disse tiltag kan tilpasses til hver Forsyning. Vi arbejder dog videre med eksemplet omkring ejendomme, som er fejlkoblet, hvis man ikke havde indsigtene fra Future City Flow, så havde troldheden historisk sammenlignet 2 forskellige situationer.
 
 00:18:38
 Den første er at fjerne det antal fejlkoble ejendomme i hele kommunen for deres budget på 5 mio. Kroner. Derfor vælger her at fjerne 10% af alle fejlkoblet ejendomme i hele kommunen.
@@ -320,7 +320,7 @@ I det sidste eksempel, så går troldheden ind i future city flow og vælger de 
 Der kan være mange ejendomme på et stort areal, eller der kan være færre ejendomme på et mindre område, som deraf medvirker mere.
 
 00:20:02
-Jeg vælger derfor at skabe en tilsagspagtning for fue til CD flow anbefaler de 3 områder, som medvirker mest i forhold til mit tiltag. Jeg vælger derfor områderne stallbakke innovation centraler, står der og tingvejleder Øster. Jeg vælger at fjerne alle fejlkoble ejendomme i områderne og døberen til FCF fokus, 100% 27.
+Jeg vælger derfor at skabe en tilsagspagtning for Future City Flow anbefaler de 3 områder, som medvirker mest i forhold til mit tiltag. Jeg vælger derfor områderne stallbakke innovation centraler, står der og tingvejleder Øster. Jeg vælger at fjerne alle fejlkoble ejendomme i områderne og døberen til FCF fokus, 100% 27.
 
 00:20:22
 Januar 2021 inden jeg eksekverer den.
@@ -338,7 +338,7 @@ Kroner. Det andet eksempel, som vi kiggede på uden data fra 4 til CD flow, var 
 Det man kan se er at Jeg har en cirka 4 gange større effekt på reduktionen af det medvirkende område, hvilket svarer til en reduktion på 11,3% af den direkte regnkomponent. Men vi ligger også cirka 10 mio. Kroner over budget.
 
 00:21:20
-Den sidste pakke er den var ved at benyttet indsigten fra future CD flow og har valgt de 3 områder ud som vil have den største effekt inden for budgetrammerne. Her ser vi at for en pris der ligger inden for Vores budgetramme eller faktisk 800.000 kr. under, så opnår vi en reduktion på 16 hektar, hvilket svarer til 9,4% vedkommende vand fra den direkte regnkomponent.
+Den sidste pakke er den var ved at benyttet indsigten fra Future City Flow og har valgt de 3 områder ud som vil have den største effekt inden for budgetrammerne. Her ser vi at for en pris der ligger inden for Vores budgetramme eller faktisk 800.000 kr. under, så opnår vi en reduktion på 16 hektar, hvilket svarer til 9,4% vedkommende vand fra den direkte regnkomponent.
 
 00:21:41
 Det er altså en 3 gange større effekt end i det første eksempel.
@@ -347,10 +347,10 @@ Det er altså en 3 gange større effekt end i det første eksempel.
 Og en marginal mindre effekt end den pakke som koster 4 gange så meget.
 
 00:21:50
-Man kan derfor konstatere, at den tiltagspakke, som er fremtaget af future CD flow, har en væsentlig højere effekt til en betydelig mindre pris.
+Man kan derfor konstatere, at den tiltagspakke, som er fremtaget af Future City Flow, har en væsentlig højere effekt til en betydelig mindre pris.
 
 00:21:59
-Med det sagt så vil jeg gerne sige tak for jeres opmærksomhed i denne korte gennemgang af future city flow. Jeg håber, at den her appetites har skabt interesse for at vide og dialog, og vi ser frem imod at kunne fordybe os i, hvordan jeres Forsyning kan drage nytte af 4 sutte flow hvad enten Det er i driften eller i den strategiske planlægning. Tak.
+Med det sagt så vil jeg gerne sige tak for jeres opmærksomhed i denne korte gennemgang af future city flow. Jeg håber, at den her appetites har skabt interesse for at vide og dialog, og vi ser frem imod at kunne fordybe os i, hvordan jeres Forsyning kan drage nytte af Future City Flow hvad enten Det er i driften eller i den strategiske planlægning. Tak.
 
 00:22:17
 Ja.
@@ -605,7 +605,7 @@ Kuldioxid i køberlanter per renset kubikmeter rensede spildevand.
 Den bruger grænseflade, som Vi har lavet for den digitale spilling.
 
 00:35:01
-Prøver jeg at vise her for curon status, hvor at Vi har.
+Prøver jeg at vise her for current status, hvor at Vi har.
 
 00:35:06
 Kostfunktionerne implementeret heroppe i den øverste del og så diagram af ransanlægget hernede og de har.
@@ -749,7 +749,7 @@ Der vil få glæde af.
 Og og se det på på videoen bag bagefter og så lige en opfordring til til alle deltagere også om selvfølgelig lige at holde øje inde på DNDKDK/ tiktalks, hvor vi løbende kommer med nye emner og har et spændende emne i pipeline, som også handler om et digitalt værktøj til planlægning og klimatilpasningsløsninger, som jeg umiddelbart tænker.
 
 00:41:44
-Går meget god hånd i hanken med med med fucy city flow på bare i den i den 2 ende af af af værdistrømmen.
+Går meget god hånd i hanken med med med Future City Flow på bare i den i den 2 ende af af af værdistrømmen.
 
 00:41:56
 Men men tak tak herfra fra en en god præsentation, og hvis Der er andre afsluttende bemærkninger. Hvad med dig Carsten?

@@ -4435,6 +4435,12 @@
         "forkert": "tik tok",
         "rettet": "Tech Talk",
         "antal": 2
+      },
+      {
+        "forkert": "",
+        "rettet": "",
+        "antal": 0,
+        "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
       }
     ],
     "afvist": []
@@ -4756,14 +4762,16 @@
   "transcriptions\\Tech_Talk_-_Regnvandsh_ndtering_i_byerne_kan_l_ses_med_tr_er.txt": {
     "anvendt": [
       {
-        "forkert": "tiktok",
-        "rettet": "Tech Talk",
-        "antal": 9
+        "forkert": "teatree",
+        "rettet": "i-Tree",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "tik tok",
-        "rettet": "Tech Talk",
-        "antal": 1
+        "forkert": "itrye",
+        "rettet": "i-Tree",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -5062,9 +5070,76 @@
   "transcriptions\\Tech_Talk_005_-_Digitale_tvillinger_for_afl_bssystem_og_rens.txt": {
     "anvendt": [
       {
-        "forkert": "tiktok",
-        "rettet": "Tech Talk",
-        "antal": 1
+        "forkert": "future sit flow",
+        "rettet": "Future City Flow",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "future sett i flow",
+        "rettet": "Future City Flow",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "future sett flow",
+        "rettet": "Future City Flow",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "futour set er et flow",
+        "rettet": "Future City Flow",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "futter set i flow",
+        "rettet": "Future City Flow",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "future CD flow",
+        "rettet": "Future City Flow",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "futto sætte flow",
+        "rettet": "Future City Flow",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "feu til set i flow",
+        "rettet": "Future City Flow",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "fue til CD flow",
+        "rettet": "Future City Flow",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "4 sutte flow",
+        "rettet": "Future City Flow",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "fucy city flow",
+        "rettet": "Future City Flow",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "curon status",
+        "rettet": "current status",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -6885,6 +6960,12 @@
         "forkert": "tik tok",
         "rettet": "Tech Talk",
         "antal": 1
+      },
+      {
+        "forkert": "",
+        "rettet": "",
+        "antal": 0,
+        "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
       }
     ],
     "afvist": []
@@ -23678,6 +23759,46 @@
         "rettet": "for Rockflow, er det BAT",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Tech_Talk__Fra_problem_til_potentiale___klimatilpasning_der_.txt": {
+    "anvendt": [
+      {
+        "forkert": "arkemisk lov",
+        "rettet": "Arkimedes' lov",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "heindesgade",
+        "rettet": "Heimdalsgade",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "riftshaløen",
+        "rettet": "Refshaleøen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "herman hatten",
+        "rettet": "Manhattan",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Godmorgen med DNNK – Inspirationsoplæg om NBS og monitering.txt": {
+    "anvendt": [
+      {
+        "forkert": "",
+        "rettet": "",
+        "antal": 0,
+        "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
       }
     ],
     "afvist": []
