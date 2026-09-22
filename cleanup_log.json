@@ -24412,5 +24412,173 @@
       }
     ],
     "afvist": []
+  },
+  "transcriptions\\Konferencer_wQChNkUzVGA_20260826_063010.txt": {
+    "anvendt": [
+      {
+        "forkert": "Rens damus",
+        "rettet": "Renseanlæg Damhusåen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Rens ad øer",
+        "rettet": "Renseanlæg Avedøre",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "h4",
+        "rettet": "HOFOR",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "harst vås systemet",
+        "rettet": "Harrestrup Å-systemet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "biofoss",
+        "rettet": "BIOFOS",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Byudvikling_i_forbindelse_med_stormflods-_og_kystsikring_af_ (3).txt": {
+    "anvendt": [
+      {
+        "forkert": "duck et",
+        "rettet": "Dokk1",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kønsbeskyttelsesteknologier",
+        "rettet": "kystbeskyttelsesteknologier",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Diagon",
+        "rettet": "Diger",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "krigsbeskyttelse",
+        "rettet": "kystbeskyttelse",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "BMI",
+        "rettet": "DMI",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "gudbeskyttelseslovens",
+        "rettet": "kystbeskyttelseslovens",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Google covid",
+        "rettet": "COWI",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Konferencer_51hamTlsPoI_20260826_063007.txt": {
+    "anvendt": [
+      {
+        "forkert": "SDU Climat Closter",
+        "rettet": "SDU Climate Cluster",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "SDU klimaklostet",
+        "rettet": "SDU Climate Cluster",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "hulosen",
+        "rettet": "Holocæn",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Konferencer_kRnH_RnI7kY_20260826_062906.txt": {
+    "anvendt": [
+      {
+        "forkert": "DTO",
+        "rettet": "DTU",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Konferencer_KT8Sg9ro60E_20260826_062951.txt": {
+    "anvendt": [
+      {
+        "forkert": "Hylkedalpjektet",
+        "rettet": "Hylkedalprojektet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Envidan",
+        "rettet": "EnviDan",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Boko",
+        "rettet": "BOKU",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "værsystemet",
+        "rettet": "Værebro Å-systemet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Novaos",
+        "rettet": "Novafos",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Strategisk_planl_gning_af_fremtidens_klimatilpasning_af_byer.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "Rigsforstyringsplanen",
+        "rettet": "Risikostyringsplanen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Budsstyringsplaner",
+        "rettet": "Risikostyringsplaner",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
   }
 }
