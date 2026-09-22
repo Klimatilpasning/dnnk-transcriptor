@@ -24160,5 +24160,155 @@
       }
     ],
     "afvist": []
+  },
+  "transcriptions\\Oevrige_TF8C8Udk1tA_20260826_180400.txt": {
+    "anvendt": [
+      {
+        "forkert": "Torbenby Kommune",
+        "rettet": "Tårnby Kommune",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Køstik-toperatet",
+        "rettet": "Kystdirektoratet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "køstdektoraretet",
+        "rettet": "Kystdirektoratet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Sunderbælt",
+        "rettet": "Sund & Bælt",
+        "antal": 5,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Tech_Talk_008_-__Dannozzle_Klimasikringsanl_g.txt": {
+    "anvendt": [
+      {
+        "forkert": "dannostello",
+        "rettet": "DanNozzle",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "dando's lærer",
+        "rettet": "DanNozzle",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "dandossel",
+        "rettet": "DanNozzle",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "vejrratersystemet",
+        "rettet": "vejrradarsystemet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Vejrrate systemet",
+        "rettet": "Vejrradarsystemet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Konferencer_Td70paA1PkE_20260826_062811.txt": {
+    "anvendt": [
+      {
+        "forkert": "Johan Rygstrøm",
+        "rettet": "Johan Rockström",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "mestland kering",
+        "rettet": "Maeslantkering",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tegnestuen Schø her",
+        "rettet": "tegnestuen Schønherr",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Tech_Talk_-_A_wastewater_platform_built_on_big_data.txt": {
+    "anvendt": [
+      {
+        "forkert": "USIPA",
+        "rettet": "US EPA",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "omvendt bundte",
+        "rettet": "Umweltbundesamt",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "webtek",
+        "rettet": "WEFTEC",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "wft tech",
+        "rettet": "WEFTEC",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "aquapotech",
+        "rettet": "Aquatech",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "i fart i München",
+        "rettet": "IFAT i München",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Byudvikling_i_forbindelse_med_stormflods-_og_kystsikring_af_.txt": {
+    "anvendt": [
+      {
+        "forkert": "",
+        "rettet": "",
+        "antal": 0,
+        "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Konferencer_9hADLyjXnSo_20260826_062929.txt": {
+    "anvendt": [
+      {
+        "forkert": "",
+        "rettet": "",
+        "antal": 0,
+        "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
+      }
+    ],
+    "afvist": []
   }
 }
