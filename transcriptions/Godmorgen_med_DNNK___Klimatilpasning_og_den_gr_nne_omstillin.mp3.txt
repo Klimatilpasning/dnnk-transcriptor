@@ -41,16 +41,16 @@ Jeg håber det fungerer.
 Ja.
 
 00:01:35
-Som allerede er blevet sagt. Skal vi snakke om klima og tilpasning og den grønne omstilling eller give mig reduktion?
+Som allerede er blevet sagt. Skal vi snakke om klima og tilpasning og den grønne omstilling eller klimareduktion?
 
 00:01:45
 Og Jeg vil starte med Sådan meget kort begrebs definition. Hvad betyder egentlig klima reduktioner? Betyder klimaet tilpasning, fordi begge begreber går under det, vi stort set kalder klimahandling.
 
 00:02:00
-Giv migreduktion er der hvor vi prøver at reducere Vores drivhusgasudledninger. Det er ikke kun CO 2, Det er også lattergas og metan og så videre.
+Klimareduktion er der hvor vi prøver at reducere Vores drivhusgasudledninger. Det er ikke kun CO 2, Det er også lattergas og metan og så videre.
 
 00:02:11
-Og Det er med målet at blive klimaneutral. Der er rigtig meget fokus på for eksempel på, at implementering af vedvarende energier, elektrificering af biler og maskiner og så videre. Og Det er alle sammen indsatser, der går under klimarereduktion.
+Og Det er med målet at blive klimaneutral. Der er rigtig meget fokus på for eksempel på, at implementering af vedvarende energier, elektrificering af biler og maskiner og så videre. Og Det er alle sammen indsatser, der går under klimareduktion.
 
 00:02:28
 På den 2 side har vi så klimaet tilpasning, og det betyder, at vi prøver at tilpasse os altså Vores samfund, Vores byer og Vores infrastruktur til de forventede klima og ændringer, der kommer, fordi vi i rigtig lang tid har udvidet alt for mange drivhusgasser. Vi forventer mere af regn, større ekstremanser, længere tørkeperioder. Vi ved alle sammen, at det kommer, og Det er allerede sker i dag.
@@ -176,19 +176,19 @@ At Det er især investeringer i distributionsanlæg og i procesanlæg, der udgø
 Og de knapt 3000 tons CO 2 de dukker ikke op i kommunens samlede regnskab. De er ikke synligt der, og derfor er der heller ikke nogen reduktionsindsatser, Der er målrettet at reducere de her emissioner.
 
 00:10:16
-Den eneste printe vi lave er at man godt kan regne på klimatilpasningsaftryk, og Det kan man med med livcykels vurdering. Det er også det metode Vi har brugt i forsyningen i helsingørs.
+Den eneste printe vi lave er at man godt kan regne på klimatilpasningsaftryk, og Det kan man med med livscyklusvurdering. Det er også det metode Vi har brugt i forsyningen i helsingørs.
 
 00:10:30
 Klimaregnskab. Der har vi anlægsaktiviteter. Investeringer i anlæg har vi estimeret med livscyklusvurdering på stor CO 2 aftryk de har, og den ide er ikke ny.
 
 00:10:44
-Jeg har arbejdet med det i min PHD, som jeg startede i 2015 som Carsten albaniensen og Martin rygaard, som oprindeligt havde den ide, at man kunne kigge på klimatilpasning med livscyklusvurderingsbriller og livscyklusvurdering er en metode, der oprindeligt er udviklet til produkter, men som bliver bredt anvendt i for eksempel byggeri i dag, hvor Det er lovkrav også i større vejprojekter og så videre og også mere og mere af de her vandsystemer.
+Jeg har arbejdet med det i min ph.d., som jeg startede i 2015 som Carsten albaniensen og Martin rygaard, som oprindeligt havde den ide, at man kunne kigge på klimatilpasning med livscyklusvurderingsbriller og livscyklusvurdering er en metode, der oprindeligt er udviklet til produkter, men som bliver bredt anvendt i for eksempel byggeri i dag, hvor Det er lovkrav også i større vejprojekter og så videre og også mere og mere af de her vandsystemer.
 
 00:11:10
 Men Jeg vil egentlig ikke gå mig i dybden med det, fordi Jeg har holdt en Tech Talk DNNK regi, som man kan gå ind og se, hvis man vil være ved med om det.
 
 00:11:22
-Der er det vist sket en hel masse siden 2005 og Vi har lavet en altså en lang række livsfrurdering af klimatilpasningsløsninger, som jeg ikke vil vise at have. Men Jeg vil vise et eksempel og dette eksempel, hvor Vi har kigget på etablering af noget forsinkelses volumen for at klimatilpasset er et boligområde, og Der er 2 muligheder. Det ene muligheder var, at man etablerer volumen.
+Der er det vist sket en hel masse siden 2005 og Vi har lavet en altså en lang række livscyklusvurdering af klimatilpasningsløsninger, som jeg ikke vil vise at have. Men Jeg vil vise et eksempel og dette eksempel, hvor Vi har kigget på etablering af noget forsinkelses volumen for at klimatilpasset er et boligområde, og Der er 2 muligheder. Det ene muligheder var, at man etablerer volumen.
 
 00:11:46
 Under en ubefastet areal i eksisterende gårdum.
@@ -218,7 +218,7 @@ Men også, at Der er meget af, i hvert fald når man arbejder II belægninger so
 Enormt stor andel af aftrykket, som kommer fra fra noget som.
 
 00:13:16
-I virkeligheden er noget andet, altså i det her tilfælde en vej. Så hvis vi vil prøve at gøre noget ved det her og prøver at reducere klimagas udledningen, som er forbundet med den her klimatilpasning, som jo i virkeligheden er en tilpasning, Der er nødvendig på grund af Vores klimakasse udledning, så så vi vil gerne bryde den her negative spiral, Der er forbundet med det her. Så kan vi bruge en mere dynamisk planlægning, hvor vi hvor vi får koblet.
+I virkeligheden er noget andet, altså i det her tilfælde en vej. Så hvis vi vil prøve at gøre noget ved det her og prøver at reducere klimagas udledningen, som er forbundet med den her klimatilpasning, som jo i virkeligheden er en tilpasning, Der er nødvendig på grund af Vores klimagasudledning, så så vi vil gerne bryde den her negative spiral, Der er forbundet med det her. Så kan vi bruge en mere dynamisk planlægning, hvor vi hvor vi får koblet.
 
 00:13:45
 Hvad hedder det klimatilpasning sammen med andre aktiviteter i byen? Og Det er det, Jeg vil prøve at at argumentere for her i den næste det næste slot her. Hvis du lige skifter sara.
@@ -389,7 +389,7 @@ Hvis vi kigger på, hvordan vi forventer at klimegasudledningen fra.
 Fra de europæiske lande kommer til at udvikle sig frem til 2050, hvor vi jo har målsætning om at være.
 
 00:24:23
-Klimaeutral jamen så er der forskellige måder eller veje til det som den her graf viser forskellige variationer af afhængig af om man kigger på landenes planer, eller om man kigger på det der Der er EUS ønske til forløbet. Men faktum er at at vi kommer til at se, at Vores aktiviteter i årene der kommer, kommer til at medføre.
+klimaneutral jamen så er der forskellige måder eller veje til det som den her graf viser forskellige variationer af afhængig af om man kigger på landenes planer, eller om man kigger på det der Der er EUS ønske til forløbet. Men faktum er at at vi kommer til at se, at Vores aktiviteter i årene der kommer, kommer til at medføre.
 
 00:24:52
 Lavere og laver drivhusgasudledning, og det gælder også på Vores på Vores område. Vi har kigget specifikt på strømpefor udlændinge, strømpeforing og lavet en prognose for, hvordan udvikler klimagas udledningen sig fra fra den aktivitet.
@@ -500,10 +500,10 @@ Og de Jeg har kigget på en af de her kilder, og Det er så energistyrelsens glo
 Forbrugsbaseret, og her kan man se, at byggeri og anlæg udgør en stor udledningspost, som man også headline på den her figur.
 
 00:31:21
-Og Det er, hvis vi kigger på kommunerne her nederst i figuren, så er det den her første lidt mørkeblå Bjarke, der står for byggeri anlæg.
+Og Det er, hvis vi kigger på kommunerne her nederst i figuren, så er det den her første lidt mørkeblå bjælke, der står for byggeri anlæg.
 
 00:31:30
-Og byggerier og anlæg er selvfølgelig ikke kun klimatappasning. Det er også alt muligt andet, vejarbejde og bygninger og så videre. Men så kommer vi lidt tilbage til massespørgende, at vi, hvis vi kan blive bedre til at tænke forskellige formål sammen i Vores byggerier og anlægsaktiviteter, så er der en kæmpe potentiale for at gøre den her blå jake meget meget, meget mindre, hvis vi ikke skal åbne vej op af 3 gange i træk, men en gang.
+Og byggerier og anlæg er selvfølgelig ikke kun klimatilpasning. Det er også alt muligt andet, vejarbejde og bygninger og så videre. Men så kommer vi lidt tilbage til massespørgende, at vi, hvis vi kan blive bedre til at tænke forskellige formål sammen i Vores byggerier og anlægsaktiviteter, så er der en kæmpe potentiale for at gøre den her blå bjælke meget meget, meget mindre, hvis vi ikke skal åbne vej op af 3 gange i træk, men en gang.
 
 00:31:57
 Og så har vi en vej, der fungerer, og hvor der ligger fjernvarme og så med klimatilpasset, så har vi en en betydelig mindre klimaaftryk, end det Vi har i dag, og Der er muligheder for at arbejde med det her mere strategisk III klimahandlingsplaner fremadrettet, hvis vi følger den her assisterf.
@@ -650,19 +650,19 @@ Godt spørgsmål.
 Ja.
 
 00:40:38
-Vi, vi arbejder med en række værktøjer for at lave LCA for for klimadelsesprojekter afhængig af detaljeringsniveau. Og også nogle gange er der nogen kun altså forsyninger, der har et meget specifikt ønsker, men vi oplever at for at vi kan bruge SA bredere i alle Vores projekter, så er der behov for et værktøj. Det er Sådan lidt mere.
+Vi, vi arbejder med en række værktøjer for at lave LCA for for klimatilpasningsprojekter afhængig af detaljeringsniveau. Og også nogle gange er der nogen kun altså forsyninger, der har et meget specifikt ønsker, men vi oplever at for at vi kan bruge SA bredere i alle Vores projekter, så er der behov for et værktøj. Det er Sådan lidt mere.
 
 00:41:03
-Lavpraktisk, som ikke kræver en flerårig uddannelse inden for, og derfor har vi sammen med COWI udviklet et værksted, der hedder ASA warder, hvor vi ligesom prøver at Sådan.
+Lavpraktisk, som ikke kræver en flerårig uddannelse inden for, og derfor har vi sammen med COWI udviklet et værksted, der hedder LCA Wizard, hvor vi ligesom prøver at Sådan.
 
 00:41:16
 Demokratiseret ACA glemmer tilpasningsprojekter.
 
 00:41:20
-Og Det er har vi lavet Sådan nogle metodiske altså beslutninger med Vores baggrundsviden og til dels baseret på min PHD er det jo forskningen Jeg har lavet der?
+Og Det er har vi lavet Sådan nogle metodiske altså beslutninger med Vores baggrundsviden og til dels baseret på min ph.d. er det jo forskningen Jeg har lavet der?
 
 00:41:31
-Hvordan man afgrænser af klimailpasningssystemer, hvordan man man regner på det.
+Hvordan man afgrænser af klimatilpasningssystemer, hvordan man man regner på det.
 
 00:41:36
 Og laver nogle antagelser, for eksempel i forhold til, hvor meget jord der kan genindbygges. Hvor tyk jeg sidder altså Sådan meget lavpraktisk andre altså som gør det meget nemt og meget hurtigt at regne på klimatilpasningsprojekter. Og hvis man vil gerne høre mere om det, som må man meget gerne række ud til til os.
@@ -761,7 +761,7 @@ Og ellers så tænker jeg, at så kan vi runde af i god tid.
 Hvis i har.
 
 00:47:05
-Brug for at se eller høre nogle af de her kloge kommentarer igen og og fine slides, så vil den komme til at ligge på DNN ks hjemmeside.
+Brug for at se eller høre nogle af de her kloge kommentarer igen og og fine slides, så vil den komme til at ligge på DNNK's hjemmeside.
 
 00:47:12
 Den her.

@@ -1,11 +1,11 @@
 00:00:10
-Det er alle velkommen til dagens spændende tik talk på DNDK mit navn Det er teis rosker Andersen, og jeg forvirrer University College sammen med Morten fra DNNK Christopher sind Larsen fra OK Nygaard og per nørremark fra Hedensted Kommune. Vi er på vegne af DNNK by jer velkommen til dagens Tech Talk.
+Det er alle velkommen til dagens spændende Tech Talk på DNNK mit navn Det er teis rosker Andersen, og jeg forvirrer University College sammen med Morten fra DNNK Kristoffer Sindby fra OK Nygaard og per nørremark fra Hedensted Kommune. Vi er på vegne af DNNK by jer velkommen til dagens Tech Talk.
 
 00:00:25
-I dag, der vil økonom Brian gartner Mogensen for realiz Danmark fortælle om erfaringerne med finansiering af kystprocent, kysbeskyttelsesprojekter i Danmark. Hvad er gået godt? Hvad er gået skidt og hvorfor?
+I dag, der vil økonom Brian Gardner Mogensen for Realdania fortælle om erfaringerne med finansiering af kystprocent, kystbeskyttelsesprojekter i Danmark. Hvad er gået godt? Hvad er gået skidt og hvorfor?
 
 00:00:39
-Lidt praktisk information, inden vi starter. Selve præstationen varer cirka 30-35 minutter, hvorefter der vil være cirka 10 minutter til spørgsmål, og i kan løbende under brians præsentation stille spørgsmål i chatten, og så vil de publiceres, og Brian vil besvare dem i slutningen af tiktokken og for en god ordens skyld så skal informere om, at sektuppen bliver optaget.
+Lidt praktisk information, inden vi starter. Selve præstationen varer cirka 30-35 minutter, hvorefter der vil være cirka 10 minutter til spørgsmål, og i kan løbende under brians præsentation stille spørgsmål i chatten, og så vil de publiceres, og Brian vil besvare dem i slutningen af Tech Talk'en og for en god ordens skyld så skal informere om, at Tech Talk'en bliver optaget.
 
 00:00:58
 Det var alt for nu, og så vil jeg give ordet til Brian.
@@ -14,7 +14,7 @@ Det var alt for nu, og så vil jeg give ordet til Brian.
 Jamen tak for ordet og tak fordi at jeg må deltage med en lille præsentation omkring udfordringer med videre omkring finansiering af kystbeskyttelsesprojekter i Danmark.
 
 00:01:17
-Hvis jeg lige skal starte med 2 omkring mig selv, så så hedder jeg som sagt Brian gardner Mogensen og er partner II reallice Danmark, hvilket Jeg har været siden 2015.
+Hvis jeg lige skal starte med 2 omkring mig selv, så så hedder jeg som sagt Brian gardner Mogensen og er partner II Realdania, hvilket Jeg har været siden 2015.
 
 00:01:28
 Jeg er oprindeligt uddannet skilt ad i offentlig økonomi, offentlig administration og det jeg arbejder med i forhold til klimatilpasning. Det er jo samfundsøkonomi og finansiering i forhold til løsninger til beskyttelse mod stormflod og højbane. Deto i forhold til skybrud og deto i forhold til stigende overflade af grundvand.
@@ -35,7 +35,7 @@ Det Jeg vil tale om i dag. Det er som sagt lidt om hvad er det for nogle erfarin
 Af kystbeskyttelsesprojekter i Danmark.
 
 00:02:32
-Det er Det er den korte disposition i forhold til til dagens tent cup indlæg.
+Det er Det er den korte disposition i forhold til til dagens Tech Talk-indlæg.
 
 00:02:40
 Men hvis vi lige starter i for.
@@ -71,7 +71,7 @@ Det kunne være vejanlæg. Det kunne også være jernbanen, hvis hvis der ligger
 Kystbeskyttelsesprojekter i Danmark.
 
 00:04:23
-Så har jeg taget lidt eksempler med på forskellige kystbeskyttelsesprojekter og eller erotionsbeskyttelsesprojekter, altså der hvor Der er noget grund Der er i fare for at smide til vands som følge af af den måde kysten bliver eroderet på som følge af de klimaforandringer Der er til til House.
+Så har jeg taget lidt eksempler med på forskellige kystbeskyttelsesprojekter og eller erosionsbeskyttelsesprojekter, altså der hvor Der er noget grund Der er i fare for at smide til vands som følge af af den måde kysten bliver eroderet på som følge af de klimaforandringer Der er til til House.
 
 00:04:48
 Det første eksempel, Det er stormflodssikring med køge dige, der omfatter et dige, der vil strække sig over 11 km fra skensved å i nord via køenhavn til området omkring comwell i syd.
@@ -98,7 +98,7 @@ Der kan jo i virkeligheden være sket noget, så det tager jeg lige forbehold fo
 Det er at det ikke er realiseret, men det forventes realiseret i 2024.
 
 00:05:59
-Så har vi en stormforsikring af Kerteminde, kulstrup og Munkebo. Det omfatter en sluse ved havneindløbet et hæde lige langs Kerteminde, sydstran og dige højvandsmur omkring jollehavnen omkring ferieboligerne pax højvandsmugere plankummer med adgangsveje låger på havnearealerne og forstærkning af nordlige dige mellem Kerteminde, nordstrand og havnearealerne.
+Så har vi en stormforsikring af Kerteminde, Kølstrup og Munkebo. Det omfatter en sluse ved havneindløbet et hæde lige langs Kerteminde, sydstran og dige højvandsmur omkring jollehavnen omkring ferieboligerne pax højvandsmugere plankummer med adgangsveje låger på havnearealerne og forstærkning af nordlige dige mellem Kerteminde, nordstrand og havnearealerne.
 
 00:06:26
 Det er en investering, der løber op i 43 mio. Kroner.
@@ -119,7 +119,7 @@ Kerteminde Kommune skrinlagt i 2018.
 Så har vi et erosionsbeskyttelsesprojekt.
 
 00:07:01
-Som i virkeligheden drejer sig om hele nordkysten. Det, der hedder nordkystens fremtid, som går fra halsnæs over ribsborg til Helsingør Kommune og dækker i virkeligheden hele nordkysten. Det omfatter en strandfodring med sand grus og ral for at hindre yderligere erosion langs de her cirka 35 km.
+Som i virkeligheden drejer sig om hele nordkysten. Det, der hedder nordkystens fremtid, som går fra halsnæs over Gribskov til Helsingør Kommune og dækker i virkeligheden hele nordkysten. Det omfatter en strandfodring med sand grus og ral for at hindre yderligere erosion langs de her cirka 35 km.
 
 00:07:24
 Af den cirka i alt 60 km lange sjællandske nordkyst. Det er et anlæg til 170 mio. Kroner 7 mio.
@@ -128,10 +128,10 @@ Af den cirka i alt 60 km lange sjællandske nordkyst. Det er et anlæg til 170 m
 I årlig drift af virus omkostninger og Det er ikke realiseret, men der forventes en en start af projektet i 24.
 
 00:07:44
-Så har vi et kystbeskyttelsesprojekt i jyllinge nordpark på tangbjerg.
+Så har vi et kystbeskyttelsesprojekt i Jyllinge Nordmark på tangbjerg.
 
 00:07:49
-Det omfatter et dige langs fjorden, en snuser og en pumpestation ved bagerbro å, samt et dige langs sværbågen. Det er et projekt til 87 mio. Og løbende årlig drift på 1,2 projektet.
+Det omfatter et dige langs fjorden, en snuser og en pumpestation ved Værebro Å, samt et dige langs sværbågen. Det er et projekt til 87 mio. Og løbende årlig drift på 1,2 projektet.
 
 00:08:03
 Det er igangsat II 2018.
@@ -149,7 +149,7 @@ Og det består af sandkodering, bølgebrydere og skråtingsbeskyttelse. Det er p
 Årlig drift og vedligehold på 3,7 mio. Og Det er realiseret i perioden for 95-2009.
 
 00:08:38
-Så har vi et andet projekt. Der er vi nede i kappelsminde omkring Næstved egen øumshav, som omfatter en kombination af dige og højvandsmure, skråningsbeskyttelse, strandfodring i sommerhusområdet omkring karpens mellem. Det er et projekt til 34,2 mio.
+Så har vi et andet projekt. Der er vi nede i Karrebæksminde omkring Næstved egen øumshav, som omfatter en kombination af dige og højvandsmure, skråningsbeskyttelse, strandfodring i sommerhusområdet omkring karpens mellem. Det er et projekt til 34,2 mio.
 
 00:08:57
 Det skal. Jeg skal lige notere her at alle priser med mindre jeg siger Det er x moms her, der tæller vi inklusiv moms.
@@ -224,10 +224,10 @@ Det var et projekt, hvor at Kerteminde Kommune besluttede.
 At det finansielle bidrag til anlæg og drift ville blive pålagt pagthavende, hvor betaling skulle foregå efter en partsfordelingsmodel som byrådet, altså kommunalbestyrelsen II Kerteminde Kommune besluttede.
 
 00:12:53
-Der var rejst medfinansiering til snusen via tilsagn.
+Der var rejst medfinansiering til slusen via tilsagn.
 
 00:12:56
-Om en fondsnovation for Real dania på 14,5 million kroner ud af en samlet anlægsomkostning for snusen på på 43 mio.
+Om en fondsnovation for Real dania på 14,5 million kroner ud af en samlet anlægsomkostning for slusen på på 43 mio.
 
 00:13:06
 Det resterende beløb skulle deles mellem cirka 1600 ejendomme/ bygninger og grunde.
@@ -272,7 +272,7 @@ I alle 3 kommuner er det besluttet, at udgifterne til vedligeholdelsesfodringer 
 Så her kan man jo sige, at Der er lidt forskellighed i forhold til de 3 kommuner, som udgør nordkysten i forhold til hvor meget eller om man vil, hvor lidt kommunerne bidrager til finansieringen af projekterne og dermed også hvor meget eller hvor lidt de direkte berørte grundejere betaler.
 
 00:15:41
-Så har vi jyllinge normark, som jo dybest set er et projekt, der har været undervejs.
+Så har vi Jyllinge Nordmark, som jo dybest set er et projekt, der har været undervejs.
 
 00:15:47
 Længe. Det var faktisk et af de første projekter, jeg var involveret i som rådgiver, men her det samlede anlæg forventes at koste cirka 87 mio. Kroner, hvoraf Roskilde Kommune og eval Kommune har finansieret 50% af anlægget, og staten har givet tilskud på 6,8 mio.
@@ -422,7 +422,7 @@ At kommunernes afsatte økonomi til kystbeskyttelse.
 Er stærkt begrænset.
 
 00:23:54
-Så lige et par internationale erfaringer i den forbindelse. Altså i kender jo parken city projektet nede i Hamburg. Det er jo et af de de helt store projekter, hvor at man har formået at skabe en en kystbeskyttelse ved at at hæve standen.
+Så lige et par internationale erfaringer i den forbindelse. Altså i kender jo HafenCity-projektet nede i Hamburg. Det er jo et af de de helt store projekter, hvor at man har formået at skabe en en kystbeskyttelse ved at at hæve standen.
 
 00:24:13
 I forhold til hadets overflade med med 8 m. Det er et et meget stort areal, et meget stort kystbeskyttelsesprojekt på.
@@ -440,7 +440,7 @@ Og skabt nogle indtægter til kystbeskyttelsen.
 Til boliger, bakterier valg.
 
 00:24:53
-I Danmark kan man sige, der har man jo ikke den form for erfaringer på nuværende tidspunkt. Altså man kan jo sige at loette hånden er jo.
+I Danmark kan man sige, der har man jo ikke den form for erfaringer på nuværende tidspunkt. Altså man kan jo sige at Lynetteholm er jo.
 
 00:25:02
 Et kystbeskyttelsesprojekt.
@@ -479,22 +479,22 @@ Hov vi.
 For lidt siden den 8. Marts 2023.
 
 00:26:37
-Der inviterede plan landdistrixsstyrelsen, landets kyst kommuner til at søge om tilladelse til innovative og og miljømæssigt bæredygtigt turismeprojekter og udviklingsmuligheder i kystnationen.
+Der inviterede Plan- og Landdistriktsstyrelsen, landets kyst kommuner til at søge om tilladelse til innovative og og miljømæssigt bæredygtigt turismeprojekter og udviklingsmuligheder i kystnærhedszonen.
 
 00:26:51
 Forsøgsordningen for kyst og naturisme blev indføjet i planloven tilbage i 2015 for at skabe vækst og udvikling i dansk turisme.
 
 00:26:59
-Denne her er ret interessant i forhold til i virkeligheden at kombinere de muligheder som denne her forsøgsordning eller fortsættelse af denne her forsøgsordning for 2015 giver med klimatilpasning, fordi at for det første, så kan man sige, at det gør, at man kan fravige nogle af planlovens regler for kystladesolen og få dispensation.
+Denne her er ret interessant i forhold til i virkeligheden at kombinere de muligheder som denne her forsøgsordning eller fortsættelse af denne her forsøgsordning for 2015 giver med klimatilpasning, fordi at for det første, så kan man sige, at det gør, at man kan fravige nogle af planlovens regler for kystnærhedszonen og få dispensation.
 
 00:27:25
-Fra klitfreden ind på strandbeskyttelseslinjen, og det gør jo at at, at Der er mulighed i den eksisterende lovgivning med den her forsøgsordning for at skabe noget, som man alt andet lige ikke ville have haft mulighed for at skabe tidligere.
+Fra klitfredningslinjen ind på strandbeskyttelseslinjen, og det gør jo at at, at Der er mulighed i den eksisterende lovgivning med den her forsøgsordning for at skabe noget, som man alt andet lige ikke ville have haft mulighed for at skabe tidligere.
 
 00:27:44
-Kommunerne opfordres desuden til at søge om udlæg og omplacering af sommerhusgrunden i kystnadersolen.
+Kommunerne opfordres desuden til at søge om udlæg og omplacering af sommerhusgrunden i kystnærhedszonen.
 
 00:27:51
-Udpegning af udviklingsområder i kystnadstolen og og ikke mindst overførslen af eksisterende kystnære sommerhusområder til byzonen. Det har jo en planlægningsmæssig betydning i forhold til.
+Udpegning af udviklingsområder i kystnærhedszonen og og ikke mindst overførslen af eksisterende kystnære sommerhusområder til byzonen. Det har jo en planlægningsmæssig betydning i forhold til.
 
 00:28:06
 At at skabe noget udvikling som ikke var tid, ikke før var muligt.
@@ -668,13 +668,13 @@ Hvis nu Det har et rent promosens, så så vil for eksempel lokale og anlægsfon
 Men Det kan jo sagtens være nogle kombinationsprojekter hvor at.
 
 00:36:41
-At at man kan se at at for eksempel noget kommunalt medfinansiering noget grundejerfinansiering, noget finansiering fra eksempelvis reindania.
+At at man kan se at at for eksempel noget kommunalt medfinansiering noget grundejerfinansiering, noget finansiering fra eksempelvis Realdania.
 
 00:36:53
 2 form for fondsfinansiering kunne indgå. Det var i virkeligheden det, man så i det eksempel, jeg gav fra Kerteminde, hvor man jo dybest set havde i kommunalbestyrelsen besluttet sig for en model, hvor at der var grundejer med finansiering.
 
 00:37:09
-Der var opnået støtte fra real dania.
+Der var opnået støtte fra Realdania.
 
 00:37:13
 Men Det var så ikke tilstrækkeligt i forhold til hvad den enkelte grundejer ligesom skulle betale. Hvorfor det i hvert fald min hypotese. Hvorfor at at at det blev stemt ned?
@@ -689,10 +689,10 @@ Til en samlet finansiering, og og hvis det så er, hvad skal man sige? Et sted d
 Jamen så er den kommercielle medfinansiering jo også oplagt.
 
 00:38:01
-1000 tak svaret og Jeg kan se Der er en der har skriver kønsdirektoratet også har en pulje på 150 mio. i 2023 så så der.
+1000 tak svaret og Jeg kan se Der er en der har skriver Kystdirektoratet også har en pulje på 150 mio. i 2023 så så der.
 
 00:38:09
-Og og det hører jo med til historien, at Det er jo også lige. Det er jo ikke for ganske nylig har har staten jo II via kystdirektio givet tilskud til forskellige projekter i kongeriget.
+Og og det hører jo med til historien, at Det er jo også lige. Det er jo ikke for ganske nylig har har staten jo II via Kystdirektoratet givet tilskud til forskellige projekter i kongeriget.
 
 00:38:21
 Kyspalition.
@@ -758,7 +758,7 @@ Men hvor at at hver enkelt grundejer i det pågældende område betaler det samm
 Og så har jeg lige et opfølgningsspørgsmål på det, fordi nu nævner de forskellige modeller og og jeg. Det lyder jo som om at Det er det det vil være. Hvad skal man sige?
 
 00:41:53
-Der er ikke onsites fit sol, men hvad er dine erfaringer med det her? Kunne man tænker du man kunne standardisere det mere eller vil det altid være de pågældende projekter hvor hvor ved man skal lave en en hvad skal man sige? En specialiseret bidrags model, finansieringsmodel for hvert enkelt område, fordi de er så forskellige?
+Der er ikke one size fits all, men hvad er dine erfaringer med det her? Kunne man tænker du man kunne standardisere det mere eller vil det altid være de pågældende projekter hvor hvor ved man skal lave en en hvad skal man sige? En specialiseret bidrags model, finansieringsmodel for hvert enkelt område, fordi de er så forskellige?
 
 00:42:11
 Jeg tror ikke at man skal standardisere.
@@ -806,7 +806,7 @@ Føler, at de har været med til at beslutte, hvordan finansieringsmodellen i si
 1000 tak for 1 1 1 svaret og Jeg er jo helt enig i Sådan. Sådan er det jo.
 
 00:44:47
-Nu er klokken ved at være et, så Jeg vil sige 1000 tak Brian for en rigtig spændende checktalk og hvis i har flere spørgsmål og vil vide mere, så er i jo altid velkommen til at tage fat i Brian. I kan se hans kontaktoplysninger på skærmen nu her og som sagt så er tiktokken optaget og den vil ligge på DNNKS hjemmeside i løbet af nogle dage. Så 1000 tak Brian.
+Nu er klokken ved at være et, så Jeg vil sige 1000 tak Brian for en rigtig spændende Tech Talk og hvis i har flere spørgsmål og vil vide mere, så er i jo altid velkommen til at tage fat i Brian. I kan se hans kontaktoplysninger på skærmen nu her og som sagt så er Tech Talk'en optaget og den vil ligge på DNNK's hjemmeside i løbet af nogle dage. Så 1000 tak Brian.
 
 00:45:10
 Ja Det var alt for nu, og vi ses til næste Tech Talk. Hej hej.

@@ -2,7 +2,7 @@
 Ære alle på vegne af DNNK vil jeg byde jer velkommen til dagens Tech Talk. Mit navn er Christoffer sindby med mig har jeg Morten halling fra DNNK til at styre os alle godt igennem inden vi går i gang, så vil jeg minde jer om at undervejs i denne Tech Talk kan i stille spørgsmål løbende i chatten og så vil mig og Morten tage dem op i den sidste del af dagens Tech Talk som slutter kl. 13:00.
 
 00:00:32
-Vi er så heldige, at Vi har fornøjelsen af tor Danielsen fra DHI afdelingsleder i den urbane afdeling, som vil fortælle om futhus city flow, som er en digital svilling til klimatilpasning afløbssystemet og effektivisering af de processer, som med det så vil jeg til dig thur give en stor velkomst og give ordet til dig.
+Vi er så heldige, at Vi har fornøjelsen af Thor Danielsen fra DHI afdelingsleder i den urbane afdeling, som vil fortælle om Future City Flow, som er en digital svilling til klimatilpasning afløbssystemet og effektivisering af de processer, som med det så vil jeg til dig thur give en stor velkomst og give ordet til dig.
 
 00:00:57
 Til denne Tech Talk.
@@ -26,7 +26,7 @@ Med svar til jer.
 Fordi Der er et et ret omfattende system.
 
 00:02:03
-Og Vi har for haft den første. Hvad kan man sige driftsættelse i 2017 og nu er der over 20 forsyninger der bruger det og 12 forsyninger der bruger til at styre deres deres afløbssystemer. Og så er det blevet den officielle del af DHES produktportefølje siden 2021, så Der er simpelthen.
+Og Vi har for haft den første. Hvad kan man sige driftsættelse i 2017 og nu er der over 20 forsyninger der bruger det og 12 forsyninger der bruger til at styre deres deres afløbssystemer. Og så er det blevet den officielle del af DHI's produktportefølje siden 2021, så Der er simpelthen.
 
 00:02:20
 Det er et system en løsning som har. Hvad kan man sige en?
@@ -107,7 +107,7 @@ For også at vurdere usikkerheden, så kigger vi også her, hvis Vi har den stip
 Så kører vi også ensembledmodeller altså vi kører 1 1 1 lang række modeller med forskellige input og hvad Det er vi forventer at Der er usikkerhed på regnhændelserne og i systemet, og så kan vi se ligesom hvad er det for et spænd vi forventer af at vi kan få af af flowerniveau i Vores systemer ud fra det også at lave nogle lave nogle styre strategier eller vælge nogle sæt punkter til Vores styring, som som tager højde for den her usikkerhed, så man ikke bare kører blind på.
 
 00:08:27
-Og hvad er det så bygget op af Sådan et system? Jo kernen i meget af Det er det Vi har. Vi kalder mike uperations, som er Vores.
+Og hvad er det så bygget op af Sådan et system? Jo kernen i meget af Det er det Vi har. Vi kalder MIKE Operations, som er Vores.
 
 00:08:35
 Hvad kan man sige driftssystem til at køre ting i reeltid, og der tager vi nogle dataimportere fra forsyningen. Vi tager web oforecastes, og så har vi Sådan et kvalitetstjek af modeller og data som kører her, som også har en AI komponent.
@@ -287,7 +287,7 @@ Det bliver lige pludselig ikke kun specialisterne, der kan sidde med det.
 Så har vi det her data til styring og så videre og optimere driften, og der har vi også nogle forskellige moduler, og Jeg vil ikke gå få. Jeg vil ikke gå for meget i detaljer med det.
 
 00:21:48
-Så hvis jeg går ind på nettet her, så tænker jeg, Jeg vil vise det i virkeligheden lidt i stedet for bare ganske hurtigt. Så kan vi måske stille nogle spørgsmål, men hvis man går ind på rapportering for eksempel, så er jeg inde her på på gynteborg, og Der er jo ikke.
+Så hvis jeg går ind på nettet her, så tænker jeg, Jeg vil vise det i virkeligheden lidt i stedet for bare ganske hurtigt. Så kan vi måske stille nogle spørgsmål, men hvis man går ind på rapportering for eksempel, så er jeg inde her på på Göteborg, og Der er jo ikke.
 
 00:22:05
 Så meget lige nu, og så går jeg ind og siger jamen Jeg vil faktisk gerne se hvordan ser det ud i juli og så går den tilbage og så kører den 1 1 1 beregning på det eller ikke en beregning. Den samler alle dataene og udstiller dem og Det kan godt tage en lille smule tid Sådan så har vi det og så kan man faktisk gå ind og se hvor har vi haft nogle overløbne henne? Nu skal jeg se om Jeg har fundet et spændende æh, jeg kender ikke lige.
@@ -530,7 +530,7 @@ Ikke så i stedet for at man måske sætter sig, og så skriver man en en udbud,
 En rådgiver opgave, og så får man en rapport, og så finder man ud af det ikke lige passet og så.
 
 00:34:07
-Kan man måske lige, hvad kan man sige tage fat her og finde ud af hvad? Hvor er det egentlig jeg bør gribe ind? Jeg behøves måske ikke bede nogen om at sidde og regne min mkemodeller igennem og komme med en med nogle kort og nogle rapporter til mig.
+Kan man måske lige, hvad kan man sige tage fat her og finde ud af hvad? Hvor er det egentlig jeg bør gribe ind? Jeg behøves måske ikke bede nogen om at sidde og regne min MIKE-modeller igennem og komme med en med nogle kort og nogle rapporter til mig.
 
 00:34:21
 Jeg kan måske selv lige starte med at finde ud af hvor er det Jeg har lyst til at fokusere og så så anvende ens penge lidt mere. Hvad kan man sige præcist på på nogle områder, hvor man ved det vil have en effekt, hvor man måske hurtigere kan komme til nogle konklusioner?

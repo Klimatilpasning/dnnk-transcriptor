@@ -1675,63 +1675,97 @@
   "transcriptions\\Godmorgen_med_DNNK___Klimatilpasning_og_den_gr_nne_omstillin.mp3.txt": {
     "anvendt": [
       {
-        "forkert": "danning k",
-        "rettet": "DNNK",
-        "antal": 1
+        "forkert": "DNN ks hjemmeside",
+        "rettet": "DNNK's hjemmeside",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "envi dagen",
-        "rettet": "Envidan",
-        "antal": 1
+        "forkert": "livcykels vurdering",
+        "rettet": "livscyklusvurdering",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "invaderen",
-        "rettet": "Envidan",
-        "antal": 1
+        "forkert": "livsfrurdering",
+        "rettet": "livscyklusvurdering",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "inviteret",
-        "rettet": "Envidan",
-        "antal": 1
+        "forkert": "klimailpasningssystemer",
+        "rettet": "klimatilpasningssystemer",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "tektfuld",
-        "rettet": "Tech Talk",
-        "antal": 1
+        "forkert": "klimadelsesprojekter",
+        "rettet": "klimatilpasningsprojekter",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "consido",
-        "rettet": "Concito",
-        "antal": 1
+        "forkert": "klimatappasning",
+        "rettet": "klimatilpasning",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "covi",
-        "rettet": "COWI",
-        "antal": 1
+        "forkert": "Klimaeutral",
+        "rettet": "klimaneutral",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "klimarereduktion",
+        "rettet": "klimareduktion",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Giv migreduktion",
+        "rettet": "Klimareduktion",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "give mig reduktion",
+        "rettet": "klimareduktion",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "klimakasse udledning",
+        "rettet": "klimagasudledning",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Bjarke",
+        "rettet": "bjælke",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "blå jake",
+        "rettet": "blå bjælke",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "PHD",
+        "rettet": "ph.d.",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ASA warder",
+        "rettet": "LCA Wizard",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
-    "afvist": [
-      {
-        "forkert": "Citys climent transition famacton mess",
-        "rettet": "Cities Climate Transition Framework",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "Citys climent transition framework",
-        "rettet": "Cities Climate Transition Framework",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "skårup 3",
-        "rettet": "scope 3",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "skrup 1 2 3",
-        "rettet": "scope 1, 2, 3",
-        "grund": "afvist"
-      }
-    ]
+    "afvist": []
   },
   "transcriptions\\Godmorgen_med_DNNK__Gr_nningen_NV___Klimatilpasning__Kunst_o.txt": {
     "anvendt": [
@@ -2330,9 +2364,82 @@
   "transcriptions\\Godmorgen_med_DNNK__Overl_b_og_oversv_mmelser_fra_vandl_b.txt": {
     "anvendt": [
       {
-        "forkert": "DNAK",
-        "rettet": "DNNK",
-        "antal": 3
+        "forkert": "KDE pans",
+        "rettet": "Kornelius Pagels",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "borgerløb og oversvømmelser",
+        "rettet": "overløb og oversvømmelser",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kility klima-datastyrelsen",
+        "rettet": "Klimadatastyrelsen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Danmarks meteologiske Institut",
+        "rettet": "Danmarks Meteorologiske Institut",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DN ks vidensbank",
+        "rettet": "DNNK's vidensbank",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DN ks hjemmeside",
+        "rettet": "DNNK's hjemmeside",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "cam tilpasning",
+        "rettet": "klimatilpasning",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "wanda",
+        "rettet": "VanDa",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "gears",
+        "rettet": "GEUS",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "SMI",
+        "rettet": "SMHI",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "blus bluesbot kort",
+        "rettet": "Blue Spot-kort",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "det man kender som blusebot",
+        "rettet": "det man kender som Blue Spot",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Skyderod",
+        "rettet": "Skybrud",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -6441,14 +6548,202 @@
   "transcriptions\\Tech_Talk__Finansiering_af_kystbeskyttelsesprojekter_i_Danma.txt": {
     "anvendt": [
       {
-        "forkert": "DNAK",
+        "forkert": "DNDK",
         "rettet": "DNNK",
-        "antal": 1
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "tiktok",
+        "forkert": "tik talk",
         "rettet": "Tech Talk",
-        "antal": 2
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tiktokken",
+        "rettet": "Tech Talk'en",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "sektuppen",
+        "rettet": "Tech Talk'en",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tent cup indlæg",
+        "rettet": "Tech Talk-indlæg",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "checktalk",
+        "rettet": "Tech Talk",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DNNKS hjemmeside",
+        "rettet": "DNNK's hjemmeside",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Christopher sind Larsen",
+        "rettet": "Kristoffer Sindby",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "realiz Danmark",
+        "rettet": "Realdania",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "reallice Danmark",
+        "rettet": "Realdania",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "reindania",
+        "rettet": "Realdania",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "real dania",
+        "rettet": "Realdania",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Brian gartner Mogensen",
+        "rettet": "Brian Gardner Mogensen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kysbeskyttelsesprojekter",
+        "rettet": "kystbeskyttelsesprojekter",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "erotionsbeskyttelsesprojekter",
+        "rettet": "erosionsbeskyttelsesprojekter",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kulstrup",
+        "rettet": "Kølstrup",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ribsborg",
+        "rettet": "Gribskov",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "jyllinge nordpark",
+        "rettet": "Jyllinge Nordmark",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "jyllinge normark",
+        "rettet": "Jyllinge Nordmark",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "bagerbro å",
+        "rettet": "Værebro Å",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "snusen",
+        "rettet": "slusen",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kappelsminde",
+        "rettet": "Karrebæksminde",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "loette hånden",
+        "rettet": "Lynetteholm",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "parken city projektet",
+        "rettet": "HafenCity-projektet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kønsdirektoratet",
+        "rettet": "Kystdirektoratet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kystdirektio",
+        "rettet": "Kystdirektoratet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "plan landdistrixsstyrelsen",
+        "rettet": "Plan- og Landdistriktsstyrelsen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kystnationen",
+        "rettet": "kystnærhedszonen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kystnadersolen",
+        "rettet": "kystnærhedszonen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kystnadstolen",
+        "rettet": "kystnærhedszonen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kystladesolen",
+        "rettet": "kystnærhedszonen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "klitfreden",
+        "rettet": "klitfredningslinjen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "onsites fit sol",
+        "rettet": "one size fits all",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -6471,24 +6766,40 @@
   "transcriptions\\Tech_Talk__Future_City_Flow.txt": {
     "anvendt": [
       {
-        "forkert": "DNAK",
-        "rettet": "DNNK",
-        "antal": 3
+        "forkert": "tor Danielsen",
+        "rettet": "Thor Danielsen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "tiktok",
-        "rettet": "Tech Talk",
-        "antal": 2
+        "forkert": "futhus city flow",
+        "rettet": "Future City Flow",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "tektop",
-        "rettet": "Tech Talk",
-        "antal": 1
+        "forkert": "DHES produktportefølje",
+        "rettet": "DHI's produktportefølje",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "teksttalk",
-        "rettet": "Tech Talk",
-        "antal": 1
+        "forkert": "mkemodeller",
+        "rettet": "MIKE-modeller",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "mike uperations",
+        "rettet": "MIKE Operations",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "gynteborg",
+        "rettet": "Göteborg",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -6936,14 +7247,118 @@
   "transcriptions\\Tech_Talk__Storkeengen_i_Randers.txt": {
     "anvendt": [
       {
-        "forkert": "tiktok",
-        "rettet": "Tech Talk",
-        "antal": 2
+        "forkert": "DNDK",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "tik tok",
+        "forkert": "DNK",
+        "rettet": "DNNK",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DNKS",
+        "rettet": "DNNK's",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DN ks hjemmeside",
+        "rettet": "DNNK's hjemmeside",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "nann k",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "storking",
+        "rettet": "Storkeengen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "güge",
+        "rettet": "gytje",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "güden",
+        "rettet": "gytjen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "CBT køretøj",
+        "rettet": "CPT-køretøj",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tik talk",
         "rettet": "Tech Talk",
-        "antal": 1
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tik toppen",
+        "rettet": "Tech Talk'en",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tektuppen",
+        "rettet": "Tech Talk'en",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tekktor",
+        "rettet": "Tech Talks",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "technok",
+        "rettet": "Tech Talk",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "checkbox",
+        "rettet": "Tech Talk",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "skybus veje",
+        "rettet": "skybrudsveje",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "boardvoks",
+        "rettet": "boardwalk",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "boreduck",
+        "rettet": "boardwalk",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "boardwork",
+        "rettet": "boardwalk",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -23202,6 +23617,65 @@
       {
         "forkert": "Fischer information",
         "rettet": "Fisher information",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Oevrige__69RcnA53YY_20260826_162640.txt": {
+    "anvendt": [
+      {
+        "forkert": "Rejnmand",
+        "rettet": "Regnvand",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Rejnvand",
+        "rettet": "Regnvand",
+        "antal": 15,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Rejnvandsbesænger",
+        "rettet": "regnvandsbassiner",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DLNK",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "mann-kvalitet og batter",
+        "rettet": "vandkvalitet og BAT",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "vandkvalitet og bedt",
+        "rettet": "vandkvalitet og BAT",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "batbegre",
+        "rettet": "BAT-begrebet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "batbegrep",
+        "rettet": "BAT-begrebet",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "for workflow, er det BAT",
+        "rettet": "for Rockflow, er det BAT",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
       }

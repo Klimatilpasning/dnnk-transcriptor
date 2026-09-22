@@ -2,10 +2,10 @@
 Yes nu vælter jeg ind kan jeg se.
 
 00:00:10
-Godmorgen allesammen og velkommen til DNNK eller godmorgen til hvad hedder det godmorgen med DNNK ja mit navn Det er KDE pans og Jeg er ansat i sekretariatet for den nationale netværk for cam tilpasning og i dag så er jeg glad for at kunne byde velkommen til det her webinar som har fokus på borgerløb og oversvømmelser fra vandløb.
+Godmorgen allesammen og velkommen til DNNK eller godmorgen til hvad hedder det godmorgen med DNNK ja mit navn Det er Kornelius Pagels og Jeg er ansat i sekretariatet for den nationale netværk for klimatilpasning og i dag så er jeg glad for at kunne byde velkommen til det her webinar som har fokus på overløb og oversvømmelser fra vandløb.
 
 00:00:34
-I dag, så skal vi så dykke ned i det her håndtering af overløb og oversvømmelser på vandløb med versioner fra Georg barneton Larsen og fra kility klima-datastyrelsen og reaf real variant blorin fra Danmarks meteologiske Institut.
+I dag, så skal vi så dykke ned i det her håndtering af overløb og oversvømmelser på vandløb med versioner fra Georg barneton Larsen og fra Klimadatastyrelsen og reaf real variant blorin fra Danmarks Meteorologiske Institut.
 
 00:00:48
 Georg han vil præsentere et screeningsværktøjet overløb fra vandløb og rafel. Han vil dele viden fra DM is arbejde med at udvikle det mall baseret varslingssystem for oversvømmelser for vandløb.
@@ -20,7 +20,7 @@ I er selvfølgelig også velkommen til at tænde mikrofonen og eller adgonen og 
 Hvis der ikke kommer nogen spørgsmål eller kommentarer, så antager jeg som regel at oplæggene har været fyldestgørende, og så runder vi af.
 
 00:01:38
-Oplægget, det bliver optaget, og så efterfølgende bliver det lagt ud på DN ks vidensbank, som i finder på DN ks hjemmeside.
+Oplægget, det bliver optaget, og så efterfølgende bliver det lagt ud på DNNK's vidensbank, som i finder på DNNK's hjemmeside.
 
 00:01:47
 Ellers så vil jeg bare give ordet videre til geo.
@@ -356,7 +356,7 @@ Association man kan sige hvor vi moterer, varsler fra den europæiske level.
 Der er en stormflods produkt. Det bliver udviklet, og den bliver sendt til beredskab. Når Der er 1 1 1 varsel Der er en lignende produkt med.
 
 00:20:56
-Skyderod og den ligner lidt den her blus bluesbot kort.
+Skybrud og den ligner lidt den her Blue Spot-kort.
 
 00:21:01
 Og sin sidste sommer eller 2 sommer nu har vi sender vi risikomendelig for oversvømmelser fra vandel, og den fortæller i lidt om, og jeg fortæller også, hvad det kommer sket fra sommer, hvor det hvor vi skifter fra en mere Sådan statistisk model til en hydrolokisk model.
@@ -449,7 +449,7 @@ Og så.
 Og den her har jeg Sådan lidt højre ja resolution. Det er resolutionen over Danmark.
 
 00:27:05
-Og den bliver også som sagt udviklet med SMI, men også med nogle support fra gears.
+Og den bliver også som sagt udviklet med SMHI, men også med nogle support fra GEUS.
 
 00:27:15
 Især omkring grundvandet.
@@ -488,7 +488,7 @@ Der er sikker mange, altså mest Kommune er er tilmed eller er forsynet, men hvi
 Den 2 ting vi kan gøre. Der er faktisk 2 ting så Vores model så vi lægger prognoser med ja vandføring og vandstand, men Vores model er kun så godt som vi kan kalibrere og eller validere model så og til den og til det så bruger vi vandløbs datter.
 
 00:29:26
-Og fra Danmarks miljøportalform, der hedder wanda og Vi har nogle flere gange spørgsmål fra Kommune eller forsyninger, der spørger uh, men i Vores i jeres system. Jeg har ikke den her målestation, Det er fordi vi læser kun vi kan kun læse målestation. Det er i den her portal så.
+Og fra Danmarks miljøportalform, der hedder VanDa og Vi har nogle flere gange spørgsmål fra Kommune eller forsyninger, der spørger uh, men i Vores i jeres system. Jeg har ikke den her målestation, Det er fordi vi læser kun vi kan kun læse målestation. Det er i den her portal så.
 
 00:29:48
 Ja det alt det der det kommer derind kan blive brugt i Vores system et og de kommer rigtig hurtigt ind i Vores system, så så så Det er ja en god ting at gøre hvis i vil have bedre værelser. III jeres Kommune.
@@ -539,7 +539,7 @@ Prognose og Det er noget vi også planer at.
 Få sat i gang for den her sommer eller hurtigst muligt at at bruge dem operationel, men Vi har set et forbedret relativt meget Vores prognose.
 
 00:33:06
-En 2 produkt Vi er med at udvikle det Vores skybrud kort, så lige nu har vi som en stats skybrudskost. Det er meget Jeg tror mange kender, Det er mere og mindre det samme produkt som det man kender som blusebot.
+En 2 produkt Vi er med at udvikle det Vores skybrud kort, så lige nu har vi som en stats skybrudskost. Det er meget Jeg tror mange kender, Det er mere og mindre det samme produkt som det man kender som Blue Spot.
 
 00:33:23
 Men det bliver sendt til beredskab, når Der er en skyrsevasel.
