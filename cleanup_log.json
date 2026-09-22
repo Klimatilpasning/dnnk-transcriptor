@@ -2,19 +2,46 @@
   "transcriptions\\1755864134064.aac.txt": {
     "anvendt": [
       {
-        "forkert": "dyrene k",
-        "rettet": "DNNK",
-        "antal": 1
+        "forkert": "Hej Cornelius",
+        "rettet": "Hej Kornelius",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "DNK",
-        "rettet": "DNNK",
-        "antal": 2
+        "forkert": "hørlev hospital",
+        "rettet": "Herlev hospital",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "min k",
-        "rettet": "DNNK",
-        "antal": 1
+        "forkert": "herlevital",
+        "rettet": "Herlev hospital",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "syerens klimaalliance",
+        "rettet": "Sjællands Klimaalliance",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "klimarksci",
+        "rettet": "klimarisici",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "peanut tilpasning",
+        "rettet": "klimatilpasning",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Særdirektivet",
+        "rettet": "CER-direktivet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -3344,103 +3371,55 @@
   "transcriptions\\Klimatilpasning_i_det__bne_land_-_Strategier_og_eksempler_fr.mp3.txt": {
     "anvendt": [
       {
-        "forkert": "DNK",
-        "rettet": "DNNK",
-        "antal": 2
+        "forkert": "connectes pales",
+        "rettet": "Kornelius Pagels",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "Thomas tramp Pedersen",
-        "rettet": "Thomas Trampe Pedersen",
-        "antal": 1
+        "forkert": "regression",
+        "rettet": "rekreation",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "asnæs",
-        "rettet": "Assens",
-        "antal": 5
+        "forkert": "JAJ fordelingsprojekter",
+        "rettet": "jordfordelingsprojekter",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "Dansk byplanloratorium",
-        "rettet": "Dansk Byplanlaboratorium",
-        "antal": 1
+        "forkert": "jordforlægningsprojekterne",
+        "rettet": "jordfordelingsprojekterne",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "brændeå",
-        "rettet": "Brendeå",
-        "antal": 1
+        "forkert": "VI anlæg",
+        "rettet": "VE-anlæg",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "madonkredsløb",
-        "rettet": "vandkredsløb",
-        "antal": 1
-      }
-    ],
-    "afvist": [
-      {
-        "forkert": "plan 22 plus",
-        "rettet": "Plan22+",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "plante 22 plus",
-        "rettet": "Plan22+",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "planstyrelsen",
-        "rettet": "Plan- og Landdistriktsstyrelsen",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "hold med haveområdet",
-        "rettet": "Holmehave-området",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "holmer have",
-        "rettet": "Holmehave",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "branholt bjerg",
-        "rettet": "Barløse Bjerg",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "en touin",
-        "rettet": "en to-in-one",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "tomrum stationsby",
-        "rettet": "Tommerup Stationsby",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "møllemose bækken",
-        "rettet": "Møllemosebækken",
-        "grund": "afvist"
+        "forkert": "WE anlægs",
+        "rettet": "VE-anlægs",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
         "forkert": "mellembrugsebækken",
         "rettet": "Møllemosebækken",
-        "grund": "afvist"
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "brølevandskov",
-        "rettet": "Brylle Skov",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "borte frøby",
-        "rettet": "Frøbjerg",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "connectes pales",
-        "rettet": "Kontakt Pallesen",
-        "grund": "afvist"
+        "forkert": "mellemmosebækken",
+        "rettet": "Møllemosebækken",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
-    ]
+    ],
+    "afvist": []
   },
   "transcriptions\\Optagelse_af_Pitch_3_Remoni.mp3.txt": {
     "anvendt": [
@@ -6270,9 +6249,34 @@
   "transcriptions\\Tech_Talk_025___B_redygtighed___dilemmaernes_holdeplads.txt": {
     "anvendt": [
       {
-        "forkert": "tiktok",
-        "rettet": "Tech Talk",
-        "antal": 3
+        "forkert": "OK Nyborg",
+        "rettet": "OK Nygaard",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "bikorp",
+        "rettet": "B Corp",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "bil cup certificeret",
+        "rettet": "B Corp-certificeret",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "bikor certificerede",
+        "rettet": "B Corp-certificerede",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "bigup certificeret",
+        "rettet": "B Corp-certificeret",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -6582,9 +6586,34 @@
   "transcriptions\\Tech_Talk__DMI_s_Klimaatlas_udvides_med_RCP2.txt": {
     "anvendt": [
       {
-        "forkert": "tiktok",
-        "rettet": "Tech Talk",
-        "antal": 1
+        "forkert": "RP 2,6",
+        "rettet": "RCP 2,6",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ACP",
+        "rettet": "RCP",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "codex",
+        "rettet": "CORDEX",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Dorthe dahl",
+        "rettet": "Dorthe Dahl-Jensen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Frederiksborg",
+        "rettet": "Frederiksberg",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -23796,6 +23825,148 @@
         "rettet": "",
         "antal": 0,
         "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Rockflow_04_opl_g.mp3.txt": {
+    "anvendt": [
+      {
+        "forkert": "Dorthe Winther nielserne",
+        "rettet": "Dorthe Winther Nielsen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Langedampsplads",
+        "rettet": "Langelandsplads",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "slangelads plads",
+        "rettet": "Langelandsplads",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Langelands pasio",
+        "rettet": "Langelandsplads",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "granits gaver",
+        "rettet": "granitskærver",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "granisk gaver",
+        "rettet": "granitskærver",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "nonox",
+        "rettet": "NOx",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "bromanddrengbrand",
+        "rettet": "bromembran",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "rockble",
+        "rettet": "rockflow",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "rock flowy",
+        "rettet": "rockflow",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "rockflowers",
+        "rettet": "rockflow",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "researanlægget",
+        "rettet": "renseanlægget",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\DNNK_Masterclass__Planl_gning__drift_og__konomi_i_LAR-anl_g_.mp3 (1).txt": {
+    "anvendt": [
+      {
+        "forkert": "harestrup ås",
+        "rettet": "Harrestrup Å's",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "haustrup oplandet",
+        "rettet": "Harrestrup Å-oplandet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Katrine wiberg",
+        "rettet": "Katrina Wiberg",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "faktisk skolen i Aarhus",
+        "rettet": "Arkitektskolen Aarhus",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "the misting link",
+        "rettet": "The Missing Link",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Lyngby torbæk",
+        "rettet": "Lyngby-Taarbæk",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "scandicgade",
+        "rettet": "Skandiagade",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "skandia gade",
+        "rettet": "Skandiagade",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "karantsminde aksen",
+        "rettet": "Karens Minde-aksen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "hjalte søup",
+        "rettet": "Hjalte Sørup",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
