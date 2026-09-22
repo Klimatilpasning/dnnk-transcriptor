@@ -17,7 +17,7 @@ Med lige en kort introduktion til indholdet i dag, så er det, at med de her kli
 Det skaber de her udfordringer for naturetskyber, som heder, enge og skoveområder, som samtidig medfører stigende temperaturer i et vandløb, og det gør så, at vandløbene opvarmes, og det ændrer vandkvaliteten og skaber ugunstige forhold for mange arter.
 
 00:01:18
-Som nævnt er Annette Bortrup-Pedersen fra NIAS og Aarhus Universitet, og hun vil give sine perspektiver på klimatilpasning af de her naturtyper og vandløb.
+Som nævnt er Annette Bortrup-Pedersen fra NIRAS og Aarhus Universitet, og hun vil give sine perspektiver på klimatilpasning af de her naturtyper og vandløb.
 
 00:01:32
 Webinaren ud over i dag har vi den 11. oktober.
@@ -179,10 +179,10 @@ Temperaturforholdet er afgørende for, hvornår den gyder, og den her forudsigel
 Og så er der også noget omkring den kemiske sammensætning, der så også spiller.
 
 00:09:32
-Og så har vi denne gode jævne ildtilførsel, som sikrer, at de her æg overlever og kan blive til ørede ømel.
+Og så har vi denne gode jævne ildtilførsel, som sikrer, at de her æg overlever og kan blive til ørredyngel.
 
 00:09:39
-Så I kan godt se, at der er mange ting, der på en eller anden måde skal spille sammen og falde sammen tidsmæssigt, for at denne her bliver 100% succesfuld med sin gødning.
+Så I kan godt se, at der er mange ting, der på en eller anden måde skal spille sammen og falde sammen tidsmæssigt, for at denne her bliver 100% succesfuld med sin gydning.
 
 00:09:48
 Og som jeg siger, det her princip gælder også.
@@ -227,7 +227,7 @@ Begyndt siger jeg, at jeg ikke ved meget om det.
 Jeg tror ikke, at nogen har forsøgt at spore sig ind på det her i Danmark, og hvor stort er det her problem.
 
 00:11:16
-Vi har haft muligheden for et større projekt i Astens Kommune, hvor vi har kigget på 65 vandløb, og har haft kontinuerligt lukning af vandstanden i en del af de vandløb.
+Vi har haft muligheden for et større projekt i Assens Kommune, hvor vi har kigget på 65 vandløb, og har haft kontinuerligt lukning af vandstanden i en del af de vandløb.
 
 00:11:25
 Vi har lavet noget oplandskorrektion, så vi har vandføringsdata fra fire år, enormt desalveret data i bittesmå vandløb.
@@ -485,10 +485,10 @@ Og så så vi også, at temperaturen steg.
 Hvis I tænker lige tilbage på min lille fortælling om øret, så kan I godt se, at begge af de her forhold har selvfølgelig betydning for øret.
 
 00:20:51
-Fordi dels får vi aflæring af sediment på bydeområderne, Hvis vi forestiller os, at der var det, når vi får polaring af fint organisk stof.
+Fordi dels får vi aflejring af sediment på gydeområderne, Hvis vi forestiller os, at der var det, når vi får polaring af fint organisk stof.
 
 00:21:02
-Temperaturen spiller en rolle både for bydning, men også for egnes og fiskenes overlev til efterfølgende.
+Temperaturen spiller en rolle både for gydning, men også for egnes og fiskenes overlev til efterfølgende.
 
 00:21:10
 Det er dels fordi, vi har et stigende temperatur som funktion af klimaet, men også fordi ildens opløslighed i vand ændres med temperaturen.
@@ -539,7 +539,7 @@ Så tog vi jævnligt prøver af samfundet, for at se, om vi kunne se effekterne.
 Og der kan I se, at vi ser noget, og vi har også lavet nogle række statistiske tests på det her, og dem vil jeg ikke gå i detaljer med.
 
 00:23:00
-Det, der er vigtigt for mig at vise, det er, at der er nogle effekter, og det vi ser, det er, at vi får flere af de her organismer, det er blandt andet kironamider, myggelavre, og vi får færre af de her baeitis, som er døgnflue.
+Det, der er vigtigt for mig at vise, det er, at der er nogle effekter, og det vi ser, det er, at vi får flere af de her organismer, det er blandt andet chironomider, myggelavre, og vi får færre af de her baetis, som er døgnflue.
 
 00:23:16
 Så vi får nogle relativt forudsigelige ændringer i de her samfund, Svaren til også, hvad vores hypoteser var.
@@ -575,7 +575,7 @@ De her ændringer, som vi ser i de her smådyrs samfund, det spiller faktisk ogs
 Det vil jeg gerne bringe lidt i spil nu, for det kommer jeg til at samle mere op på lige om lidt.
 
 00:24:26
-Det er jo sådan, at alle vores vandløb, eller ikke alle vores vandløb, vi har omkring 18.000 km vandløb, der er miljømålt for, i henhold til vandremdirektivet, hvor vi har sat egentlig miljømål, og hvor rigtig mange steder, der har vi faktisk et miljømålet af god økologisk tilstand.
+Det er jo sådan, at alle vores vandløb, eller ikke alle vores vandløb, vi har omkring 18.000 km vandløb, der er miljømålt for, i henhold til Vandrammedirektivet, hvor vi har sat egentlig miljømål, og hvor rigtig mange steder, der har vi faktisk et miljømålet af god økologisk tilstand.
 
 00:24:47
 Hvor vi gerne skal nå den oekologiske tilstand, der ikke er påvirket af menneskelig aktivitet.
@@ -743,10 +743,10 @@ Altså, hvornår er det, vi rammer der? Fordi det er ligesom der, hvor tingene b
 Når vi først er nede ved 5, 6, som I kan huske, så er tingene ligesom gået galt.
 
 00:31:09
-Det er et koncept, vi sidder og arbejder med nu på NIA, og så prøver på at se, om vi ikke kan bruge det til noget.
+Det er et koncept, vi sidder og arbejder med nu på NIRAS, og så prøver på at se, om vi ikke kan bruge det til noget.
 
 00:31:17
-Og der er også noget med at gå ind og kigge på en robusthedsindikator, som vi kigger lidt på sammen med et forsøgningsselskab.
+Og der er også noget med at gå ind og kigge på en robusthedsindikator, som vi kigger lidt på sammen med et forsyningsselskab.
 
 00:31:23
 De her to ting tror jeg i langt højere grad kan gå ind og give os noget godt.
@@ -953,7 +953,7 @@ Jeg håber, vi kan koble Den konceptuelle forståelse over i den graf, jeg viste
 Jeg håber, I kan huske grafen.
 
 00:38:52
-Så vi får en konceptuel forståelse af, hvordan kan den her påvirkingsgrad være, så vi ikke kommer ned under 2-3 stykker, fordi så er vi både i overensstemmelse med vores lovkrav i forhold til vandremmedirektiv og vurdering af påvirkning, Og også i forhold til, at vi kan give et godt svar, når man siger, hvor meget vand vi kan tage.
+Så vi får en konceptuel forståelse af, hvordan kan den her påvirkingsgrad være, så vi ikke kommer ned under 2-3 stykker, fordi så er vi både i overensstemmelse med vores lovkrav i forhold til vandrammedirektiv og vurdering af påvirkning, Og også i forhold til, at vi kan give et godt svar, når man siger, hvor meget vand vi kan tage.
 
 00:39:14
 Hvis vi kigger på robusthedsindikator, går det lidt mere på, om vi i højere grad kan bruge planterne.

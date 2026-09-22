@@ -23,19 +23,19 @@ Ja tak.
 Skal lige have den op og køre.
 
 00:01:23
-Der var den Jeg vil fortælle om. Hvordan påvirkes ankredsløbet af klimaforandringerne?
+Der var den Jeg vil fortælle om. Hvordan påvirkes vandkredsløbet af klimaforandringerne?
 
 00:01:31
 Jeg vil komme ind på.
 
 00:01:33
-En lille forklaring omkring de nye skemofromskrivninger RCP 4 5 8 5 nær at fjern fremtid, så vil jeg sige lidt om.
+En lille forklaring omkring de nye klimafremskrivninger RCP 4 5 8 5 nær at fjern fremtid, så vil jeg sige lidt om.
 
 00:01:42
 At det at Vi har fået det her meget mere detaljerede modelgrundlag og datagrundlag.
 
 00:01:48
-Jeg vil så komme lidt ind på nogle resultater i forhold til vandkredsløbet i forhold til grundvandet, vandføring, eurozonen og.
+Jeg vil så komme lidt ind på nogle resultater i forhold til vandkredsløbet i forhold til grundvandet, vandføring, rodzonen og.
 
 00:01:56
 Dybere grundvand.
@@ -59,16 +59,16 @@ Nu har vi 100 m.
 Ja, Det er fra Nordfyn.
 
 00:02:41
-Og den nederst kan i se et eksempel på ændringer i grundvandsbejlet til Venstre, 500 m, som det vi havde tidligere. Til højre har vi 100 m. Det er det, Vi har i dag, og Vi har også fået en bedre opløsning.
+Og den nederst kan i se et eksempel på ændringer i grundvandsspejlet til Venstre, 500 m, som det vi havde tidligere. Til højre har vi 100 m. Det er det, Vi har i dag, og Vi har også fået en bedre opløsning.
 
 00:02:56
-Tidssnit i det, vi i dag har daglig værdier, og vi sidst havde 5 døgns værdier på for eksempel grundvandsbejlet.
+Tidssnit i det, vi i dag har daglig værdier, og vi sidst havde 5 døgns værdier på for eksempel grundvandsspejlet.
 
 00:03:06
 Lidt om klimaframskrivningerne.
 
 00:03:13
-Vi har II dag bruger vi jo de her fra 5 rapport assistent rapport fra IPC de her RCP scenarier og der arbejder vi med RCP 4 5 og og RCP 8 5 og her ser i en figur hvor man har sammenlignet scenarierne med de tidligere scenarier vi brugte af et b.
+Vi har II dag bruger vi jo de her fra 5 rapport assistent rapport fra IPC de her RCP scenarier og der arbejder vi med RCP 4 5 og og RCP 8 5 og her ser i en figur hvor man har sammenlignet scenarierne med de tidligere scenarier vi brugte af A1B.
 
 00:03:36
 Som er det her grønne scenarie, hvor i ser, at temperatur udviklingen frem til 2100 lander på Sådan knap 3 grader.
@@ -110,7 +110,7 @@ Hvor vi så kigger frem til fjern fremtid, som er 2071-2100 og nær fremtid som 
 Så lidt om modellen. Modellen er jo med hensyn til antal beregningslag og Sådan noget nogenlunde det samme som det vi havde sidste gang.
 
 00:06:00
-Altså Vi har 7-11 modelldage. Øverst er 2 m tykt og så følger landet ellers efter den hydrogeni som Vi har II form-modellen.
+Altså Vi har 7-11 modelldage. Øverst er 2 m tykt og så følger landet ellers efter den hydrogeologi som Vi har II form-modellen.
 
 00:06:11
 Vi har toogtyvetusindfemhundrede kilometer vandløb. Det er en udvidelse fra tidligere, hvor vi havde 18.000 cirka. Vi har en model, som er gået fra en 500 m model til en hundredemeter model, og det vil sige den er.
@@ -200,13 +200,13 @@ Det er stadigvæk fjern fremtid.
 Slutningen af århundredet sammenlignet med 91 til til 2019, og i kan se at at vi får Sådan set.
 
 00:11:38
-De samme ændringer i grundvandsbejlet, Sådan på årsbasis. De bliver bare kraftigere IRCP 8 5 samlet med 4 5.
+De samme ændringer i grundvandsspejlet, Sådan på årsbasis. De bliver bare kraftigere IRCP 8 5 samlet med 4 5.
 
 00:11:49
 Men vi kan se at at i begge tilfælde har vi.
 
 00:11:53
-Store områder, hvor vi slet ikke får nogen ændringer i det trængte rundvand, altså de gule områder her. Og Der er også områder, hvor vi vi vil se et lille fald i årsmiddel dybden til grundarspejlet.
+Store områder, hvor vi slet ikke får nogen ændringer i det trængte rundvand, altså de gule områder her. Og Der er også områder, hvor vi vi vil se et lille fald i årsmiddel dybden til grundvandsspejlet.
 
 00:12:06
 Den her figur oppe til højre har taget med for lige at vise, hvordan ser det ud Sådan når det står højt om vinteren. Hvad er så ændringerne? Altså det der sker Sådan 3 4 dage om året Sådan typisk og der kan i se at at stigningen er lidt den samme med hensyn til de store ændringer.
@@ -230,7 +230,7 @@ Og det, Der er karakteristisk for de her vinterændringer er, at her ser vi jo s
 Går vi tilbage til det med vandkredsløbet og og ligesom kigger på maksimum og minimumsvandføringen. Jamen så kan i se her at.
 
 00:13:11
-At når Vi skal kigge på på minimumsvanføring det her figuren til Venstre og Det er så igen RCP 8 5 fjern fremtid Det er en minimumsvandføring som underskrives cirka 15 dage om året. Altså den vi kalder q 95 og og det det billede man kan se her. Det er at at at i fremtidige klima, så vil vi forvente en lavere minimumsvalgføring i store dele af vest.
+At når Vi skal kigge på på minimumsvanføring det her figuren til Venstre og Det er så igen RCP 8 5 fjern fremtid Det er en minimumsvandføring som underskrives cirka 15 dage om året. Altså den vi kalder q 95 og og det det billede man kan se her. Det er at at at i fremtidige klima, så vil vi forvente en lavere minimumsvandføring i store dele af vest.
 
 00:13:39
 Og Sydjylland.
@@ -242,7 +242,7 @@ Dele af fyn øerne Sjælland.
 Og i visse andre. Det er de orange prikker eller rødprikker. Der har vi altså en et fald i minimumsvanføring.
 
 00:13:51
-Omvendt har vi en en stigning II nord i Nordjylland og og Midtjylland, Østjylland, også dele af Fyn og dele af Sjælland. Så igen, Det er et komplekst billede vi ser både med hensyn til stigninger i grundvandsalden, men så sandelig også med hensyn til afstrømningerne, og hvordan maksimums afstrømningerne.
+Omvendt har vi en en stigning II nord i Nordjylland og og Midtjylland, Østjylland, også dele af Fyn og dele af Sjælland. Så igen, Det er et komplekst billede vi ser både med hensyn til stigninger i grundvandstanden, men så sandelig også med hensyn til afstrømningerne, og hvordan maksimums afstrømningerne.
 
 00:14:11
 Vil udvikle sig.
@@ -305,7 +305,7 @@ Vi har også i den her undersøgelse kigget lidt på hele kredsløbet, og hvorda
 Blev påvirket de forskellige elementer, og der viste sig så, at hvis vi tager en klimafaktor på nedbøren, så kan i se her. Den ligger så her på 1,07 til 1,27 og Det er lidt det samme i de 2 oplande og Det er jo det man har når man kigger på afløbssystemer, så er det Sådan nogle klimafaktorer. Hvis vi hvis vi nu forestiller os at det ikke var intensitet, men men hvordan nedbøren ændrer sig?
 
 00:18:34
-Ser vi på grundmards dannelsen, så kan i se, hvem bliver væsentligt større klima faktor, og det skal man lige have med i hukommelsen her at.
+Ser vi på grundvandsdannelsen, så kan i se, hvem bliver væsentligt større klima faktor, og det skal man lige have med i hukommelsen her at.
 
 00:18:40
 At når vi ser på nogle af de andre komponenter af valgkredsløbet, så får vi nogle meget markante klimafaktorer, drænafstrømning, urland flow, meget store klima faktura sammenlignet med bas flow. Og så er det jo så fordelingen af de her 3 komponenter og hvor meget Der er det, der betyder hvordan den samlede afstrømning vil vil ændre sig, for Der er altså en sammenhæng i, hvordan brugermandslanden står, og hvordan afstrømningerne kommer til at se ud i fremtidige klima.
@@ -317,7 +317,7 @@ Hvordan ser det ud i forhold til tidligere undersøgelser? Jo, men Det kan jeg j
 Det er lidt svært at vurdere vil jeg sige, fordi dels er det forskellige klimamodeller og forskellige fremskrivning af forskellige scenarier, men her har jeg lige prøvet at vise i forhold til maksimums afstrømning, og Det er altså 100 årsendelse. Hvordan stod det ud i de gamle opgørelser eller undskyld de nye opgørelser viste til Venstre?
 
 00:19:31
-For 4 5 og for 8. 5 og hvordan så det ud IA et b scenariet og Sådan i meget grove træk vil jeg sige at det ser lidt ud som om at a et b scenariet ligner mest RCP 4 5 med hensyn til fremskrivningerne. Det er Sådan nogenlunde samme niveau vi ser på Sjælland og og store dele af af resten af landet og Det er jo så, og Det er jo så i betragtning af at Det er jo Det er altså en 2 referenceperiode.
+For 4 5 og for 8. 5 og hvordan så det ud i A1B-scenariet og Sådan i meget grove træk vil jeg sige at det ser lidt ud som om at a et b scenariet ligner mest RCP 4 5 med hensyn til fremskrivningerne. Det er Sådan nogenlunde samme niveau vi ser på Sjælland og og store dele af af resten af landet og Det er jo så, og Det er jo så i betragtning af at Det er jo Det er altså en 2 referenceperiode.
 
 00:19:58
 Det er en 2 fremtidsperiode Vi har her.
@@ -332,7 +332,7 @@ Så vil jeg sige, at det man bliver mere vådt mere ekstremt havde stier.
 Det giver udfordringer oveni dem, vi selvfølgelig har med med skybruddene. Det har jeg slet ikke fortoldet om her. Der er store geografiske forskelle i ændringer i middelvands middelgrundamspejl, men jo også II alle de andre ændringer vi ser i hydrogen.
 
 00:20:43
-Det maksimale grundarspejl. Det vil så sige mest om vinteren.
+Det maksimale grundvandsspejl. Det vil så sige mest om vinteren.
 
 00:20:47
 Vi har stigninger på landsgennemsnit på 25 30 cm.
@@ -425,7 +425,7 @@ Mens inde i byen, der har vi jo Sådan set det samme, fordi der har vi jo også 
 Og så en afstrømning fra overfladen, der i stor grad løber ned i forskellige netværk.
 
 00:25:20
-Ydermere så er vi jo i forbindelse med klimaforandringer også begyndt at lave nedsivning, som også er noget af det, der kan påvirke grundlovsprejlet, og der kan man sige. Det er jo selvfølgelig klart nok, at Det kan påvirke grundvandspejlet i den retning, at at Vi har en forøget grundvandsdannelse. Generelt set kan man sige, at.
+Ydermere så er vi jo i forbindelse med klimaforandringer også begyndt at lave nedsivning, som også er noget af det, der kan påvirke grundvandsspejlet, og der kan man sige. Det er jo selvfølgelig klart nok, at Det kan påvirke grundvandspejlet i den retning, at at Vi har en forøget grundvandsdannelse. Generelt set kan man sige, at.
 
 00:25:43
 Under urbane områder, og Vi har en rimelig høj befæstelse, som Der er under mange urbane områder.
@@ -434,7 +434,7 @@ Under urbane områder, og Vi har en rimelig høj befæstelse, som Der er under m
 Jamen, så har vi faktisk en reduceret grundvandsdannelse, men Jeg vil så bringe det her aspekt ind med.
 
 00:25:57
-Nedsivning af overfladevand til grundvandet, så er det lige pludselig ikke så simpelt mere, og så kan vi rent faktisk have en en større grundopdannelse, og Det er også det, Der er illustreret her i den her stiplede blå linje.
+Nedsivning af overfladevand til grundvandet, så er det lige pludselig ikke så simpelt mere, og så kan vi rent faktisk have en en større grundvandsdannelse, og Det er også det, Der er illustreret her i den her stiplede blå linje.
 
 00:26:14
 Så Der er forskellige elementer og.
@@ -494,7 +494,7 @@ Og så videre.
 Forskellige ledninger, men Det er jo så også fyldt ud af typisk noget sand og noget krus som kan være anderledes end den oprindelige geologi.
 
 00:29:58
-Så man kan sige, at geologien i det urbane område er yderligere kompliceret. Også hydrologien og hydrogenien altså med for grundvandet. Der bliver det kompliceret af, at Vi har den her urbane geologi og.
+Så man kan sige, at geologien i det urbane område er yderligere kompliceret. Også hydrologien og hydrogeologien altså med for grundvandet. Der bliver det kompliceret af, at Vi har den her urbane geologi og.
 
 00:30:14
 Og og vi snakker om det her antropogene lag, altså det menneskeskabte lag. Og det tilføjer selvfølgelig nogle usikkerhed eller nogle usikkerhed.
@@ -563,7 +563,7 @@ Vi simulerede i Vores psykologiske model, og der kan vi så se jamen, hvad er eg
 At de her forskellige nedsivningsscenarier, og der kan vi jo så se, at nede i den sydvestlige del, der har vi Sådan en meget jævn påvirkning. Og Det er simpelthen, fordi Der er vi nede i terrasse magasinet, som er et sandet magasin med gode hydrauliske ledningstævner og god trykforplantning, horisontalt. Og går vi så op mod nord og øst, så kan vi se Sådan mere pletvis.
 
 00:34:44
-Fordeling af den her stigning af grundvandsbejlet, som vi ser de fleste steder.
+Fordeling af den her stigning af grundvandsspejlet, som vi ser de fleste steder.
 
 00:34:52
 Og Det er simpelthen, fordi der har vi den lagrede morene. Det lagrede morene landskab, og det skaber så en helt 2 dynamik i forhold til de ændringer eller den påvirkning, vi ser det her. Eksempel.
@@ -680,7 +680,7 @@ Så man kan sige, Det er jo ikke noget man gør som direkte klimatilpasning, men
 Op til 20 30 cm.
 
 00:41:19
-For det trængende grundlovsspejl.
+For det trængende grundvandsspejl.
 
 00:41:22
 Og hvad så hvis vi hvad skal man sige piller ved Vores indvending i det her tilfælde med Sunds der har det en begrænset effekt, at kun en en spredt effekt, at vi skruer på Vores indvending til drikkevand.
@@ -737,13 +737,13 @@ Og i den 2 ende kan vi rent faktisk ved at lave et et grundvandstræn, og i det 
 Der er vi rent faktisk i stand til at sænke.
 
 00:44:11
-Grundvandsbejlet.
+Grundvandsspejlet.
 
 00:44:14
 Så man kan sige.
 
 00:44:16
-Når vi laver de her tilpasninger, så er det vigtigt at at kan man sige få det hele med, fordi Der er nogle ting, der vil arbejde for en stigning, og Der er nogle ting, der vil arbejde for et fald i grundvandsbejlet, og Det kan vi rent faktisk.
+Når vi laver de her tilpasninger, så er det vigtigt at at kan man sige få det hele med, fordi Der er nogle ting, der vil arbejde for en stigning, og Der er nogle ting, der vil arbejde for et fald i grundvandsspejlet, og Det kan vi rent faktisk.
 
 00:44:33
 Simulere i Vores modeller og Vi har et et ganske godt rådgiverkorps, som som kan gøre de her den her slags ting, hvis man er i tvivl om, hvad er det man skal gøre. Men Vi skal være klar over at.
@@ -791,13 +791,13 @@ Som både kan skabe værdi, men faktisk også kan håndtere den ekstreme hydrolo
 Uden, der skulle stå uden flere rør og grå løsninger og det her. Det er selvfølgelig et lille det her provokerende billede fra.
 
 00:46:58
-Frit vækkelsen af ladegårds sogn.
+Frilægningen af Ladegårdsåen.
 
 00:47:01
-Hvor man nu står overfor en bispengebue, som skal renoveres, og hvor der har været mange kreative tanker omkring.
+Hvor man nu står overfor en Bispeengbuen, som skal renoveres, og hvor der har været mange kreative tanker omkring.
 
 00:47:10
-At kunne fritægge den og kunne frit lægge den gamle ladegaard, så som lige nu løber II et lille rør ned under å boulevarden.
+At kunne fritægge den og kunne frit lægge den gamle ladegaard, så som lige nu løber II et lille rør ned under Åboulevarden.
 
 00:47:19
 Og det jeg gerne vil sige med det. Det er jamen.
@@ -818,7 +818,7 @@ På den her fritlagte å, og Det er klart, at der skal være nogle lokale rensni
 Til noget ildelugtende om sommeren.
 
 00:48:25
-Men rent faktisk, så da vi og Vores rådgivere regnede på Sådan nogle løsninger, og vi kan se jamen, hvad betyder det for eksempel for grundvanstalden, og vi kan designe de her løsninger, således at vi kan ramme det niveau, vi gerne vil have for den fremtidige grundvanstand. Den fremtidige afstrømning fra det overfladiske vand og så videre, så så Jeg synes egentlig at.
+Men rent faktisk, så da vi og Vores rådgivere regnede på Sådan nogle løsninger, og vi kan se jamen, hvad betyder det for eksempel for grundvandstanden, og vi kan designe de her løsninger, således at vi kan ramme det niveau, vi gerne vil have for den fremtidige grundvanstand. Den fremtidige afstrømning fra det overfladiske vand og så videre, så så Jeg synes egentlig at.
 
 00:48:50
 Anbefalingen er her at.
