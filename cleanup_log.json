@@ -5152,58 +5152,13 @@
   "transcriptions\\Tech_Talk_007_-_New_requirements_for_water_managements_deman.txt": {
     "anvendt": [
       {
-        "forkert": "tiktok",
-        "rettet": "Tech Talk",
-        "antal": 1
-      },
-      {
-        "forkert": "tektop",
-        "rettet": "Tech Talk",
-        "antal": 1
-      },
-      {
-        "forkert": "dialen NK",
-        "rettet": "DNNK",
-        "antal": 1
-      },
-      {
-        "forkert": "dirin kohs",
-        "rettet": "DNNK",
-        "antal": 1
-      },
-      {
-        "forkert": "ANNK",
-        "rettet": "DNNK",
-        "antal": 1
-      },
-      {
-        "forkert": "den nink",
-        "rettet": "DNNK",
-        "antal": 1
-      },
-      {
-        "forkert": "DNK",
-        "rettet": "DNNK",
-        "antal": 3
-      }
-    ],
-    "afvist": [
-      {
-        "forkert": "den ncots hjemmeside",
-        "rettet": "DNNK's hjemmeside",
-        "grund": "afvist"
-      },
-      {
-        "forkert": "teddos",
-        "rettet": "Tech Talks",
-        "grund": "afvist"
-      },
-      {
         "forkert": "goddag",
         "rettet": "Grodan",
-        "grund": "afvist"
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
-    ]
+    ],
+    "afvist": []
   },
   "transcriptions\\Tech_Talk_009___Fra_Satellitdata_til_klimatilpasning.txt": {
     "anvendt": [
@@ -5505,14 +5460,16 @@
   "transcriptions\\Tech_Talk_014_-_HOFORs_erfaringer_med_overv_gning_af_spildev.txt": {
     "anvendt": [
       {
-        "forkert": "tiktok",
-        "rettet": "Tech Talk",
-        "antal": 1
+        "forkert": "DNADKS",
+        "rettet": "DNNKS",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "tik tok",
-        "rettet": "Tech Talk",
-        "antal": 1
+        "forkert": "sisse Marie melding",
+        "rettet": "Sisse Marie Welling",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -6287,6 +6244,12 @@
         "forkert": "tiktok",
         "rettet": "Tech Talk",
         "antal": 1
+      },
+      {
+        "forkert": "",
+        "rettet": "",
+        "antal": 0,
+        "grund": "AI-rensning (rutine) - kun usikkert par fundet, frasorteret"
       }
     ],
     "afvist": []
@@ -6824,14 +6787,34 @@
   "transcriptions\\Tech_Talk__Fra_Nordens_st_rste_renseanl_g_via_milj_problem_t.txt": {
     "anvendt": [
       {
-        "forkert": "DNAK",
-        "rettet": "DNNK",
-        "antal": 1
+        "forkert": "norrko",
+        "rettet": "Norrecco",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       },
       {
-        "forkert": "tiktok",
-        "rettet": "Tech Talk",
-        "antal": 1
+        "forkert": "noreco",
+        "rettet": "Norrecco",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "NC cs",
+        "rettet": "NCC",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "svego",
+        "rettet": "Sveco",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "året Nyborg",
+        "rettet": "VIA Nyborg",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
       }
     ],
     "afvist": []
@@ -23967,6 +23950,34 @@
         "rettet": "Hjalte Sørup",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Oevrige_Dimz8qW_8io_20260826_155019.txt": {
+    "anvendt": [
+      {
+        "forkert": "Reimsbasinger",
+        "rettet": "regnvandsbassiner",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Rejmæspersensanvisning",
+        "rettet": "regnvandsbassinanvisningen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Tech_Talk_017_-_Biologiske_vandbehandlingsprincipper_fra_sv_.txt": {
+    "anvendt": [
+      {
+        "forkert": "",
+        "rettet": "",
+        "antal": 0,
+        "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
       }
     ],
     "afvist": []
