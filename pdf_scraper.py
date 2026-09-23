@@ -38,6 +38,32 @@ PDF_PAGES = {
     "Godmorgen":        "https://www.dnnk.dk/god-morgen-med-dnnk/",
 }
 
+# Foreningsinterne dokumenter (bestyrelsesreferater, generalforsamling,
+# årsberetninger, kontingent) linkes fra alle sider, men hører ikke hjemme i
+# vidensbanken.
+INTERNE_PDF = re.compile(
+    r"referat[-_](?:fra[-_]|af[-_])?(?:dnnk[-_])?(?:ordinaer[-_])?(?:bestyrelse|generalforsamling)"
+    r"|referat-dnnk-generalforsamling|aarsberetning|kontingent",
+    re.IGNORECASE,
+)
+
+# Linktekster der ikke siger noget om dokumentet ("her >", "Se slides her").
+GENERISK_TITEL = re.compile(
+    r"^(?:(?:se|læs|download|link til)\b.*|.*\bher\b\s*[>.]?|https?://.*|[\w-]+\.pdf)$",
+    re.IGNORECASE,
+)
+
+def titel_fra_url(url):
+    navn = requests.utils.unquote(url.rsplit('/', 1)[-1])
+    navn = re.sub(r'\.pdf$', '', navn, flags=re.IGNORECASE)
+    return re.sub(r'[-_]+', ' ', navn).strip()
+
+def ren_titel(title, url):
+    title = re.sub(r'\s*>\s*$', '', (title or '').strip())
+    if not title or GENERISK_TITEL.match(title):
+        return titel_fra_url(url)
+    return title
+
 def load_processed_pdfs():
     if os.path.exists(PROCESSED_PDFS_FILE):
         with open(PROCESSED_PDFS_FILE, 'r', encoding='utf-8') as f:
@@ -188,7 +214,9 @@ def main():
     print(f"📄 DNNK PDF-scraper - {datetime.now()}")
     print(f"{'='*60}\n")
     
-    processed_pdfs = load_processed_pdfs()
+    # Sæt, der opdateres undervejs: samme PDF linkes fra mange sider i samme
+    # kørsel og blev tidligere gemt én gang pr. side (dubletter 21/9-2026).
+    processed_pdfs = set(load_processed_pdfs())
     new_pdfs = 0
     
     for category, page_url in PDF_PAGES.items():
@@ -199,6 +227,11 @@ def main():
         for pdf_url, title in pdf_links:
             if pdf_url in processed_pdfs:
                 continue
+            if INTERNE_PDF.search(pdf_url):
+                processed_pdfs.add(pdf_url)
+                save_processed_pdf(pdf_url)
+                continue
+            title = ren_titel(title, pdf_url)
             
             print(f"\n   📄 Ny PDF: {title[:60]}")
             print(f"      URL: {pdf_url}")
@@ -207,10 +240,12 @@ def main():
 
             if text:
                 save_pdf_text(title, pdf_url, text, category)
+                processed_pdfs.add(pdf_url)
                 save_processed_pdf(pdf_url)
                 new_pdfs += 1
             elif permanent_fejl:
                 print(f"   ⚠️ Springer over permanent — ingen tekst at hente")
+                processed_pdfs.add(pdf_url)
                 save_processed_pdf(pdf_url)
             else:
                 print(f"   ⚠️ Forbigående fejl — prøves igen næste kørsel")
