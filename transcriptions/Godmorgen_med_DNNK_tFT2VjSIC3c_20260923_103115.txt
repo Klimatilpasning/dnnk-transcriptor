@@ -1,0 +1,1081 @@
+=== DNNK Webinar Transskription ===
+Kategori: Godmorgen_med_DNNK
+Video ID: tFT2VjSIC3c
+URL: https://youtube.com/watch?v=tFT2VjSIC3c
+Kilde: lokal transskription (uploadet af KP, Godmorgen_med_DNNK__Forst__de_sociale_konsekvenser_af_oversv.pdf)
+Transkriberet: 2026-09-23T10:31:15.751287
+
+==================================================
+
+00:00:05
+Ja, så vil jeg starte med at sige godmorgen og byde jer alle sammen velkommen til webinaret
+for at forstå de sociale konsekvenser af oversvømmelser i Danmark.
+00:00:16
+Mit navn er Anna Elka og jeg sidder til dagligt i Køstdirektoratet.
+00:00:21
+Jeg vil kort på dansk introducere Mia Prowell og hendes oplæg, men som nævnt i invitation,
+så vil Mias oplæg være på engelsk.
+00:00:31
+Og Mia, du er oprindelig fra USA, men har boet i Danmark i efterhånden nogle år og både
+snakker og forstår dansk udmærket men dit første sprog er engelsk og derfor i naturlige
+årsager er du mest komfortabel på at holde dit oplæg på engelsk I er meget velkomne til at
+stille spørgsmål i chatten også gerne på engelsk men ellers så skal jeg forsøge at oversætte
+spørgsmålene og jeg ved når oplægget slutter så vil jeg stille så mange spørgsmæl som jeg
+kan nå inden vi runder af kl.
+00:01:02
+9 Mia læser en erhvervspøredag på Aalborg Universitet og er tilknyttet Køstseksuaratet,
+hvor hun undersøger social retfærdighed i klimatilpasning.
+00:01:14
+På det her webinar vil Mia præsentere et nyt studie, som hedder En ny og omfattende
+tilgang til at forstå sociale konsekvenser af oversvømmelse, vurdering af social sorgerhed
+over for oversvømmelser og social oversvømmelsesrisiko i Danmark.
+00:01:31
+Studiet introducerer en nationalt socialt sårbarhedsindeks og et socialt
+oversvømmelsesrisikoindeks fra Danmark.
+00:01:40
+Mærk så, at det kan hjælpe med at identificere, hvordan forskellige samfund og individer
+påvirkes forskelligt af oversvømmelse, og hvordan vi kan tilpasse vores strategier for
+klimatilpasning for at sikre, at ingen bliver undladt.
+00:01:53
+Og med de ord, så vil jeg bare sige værsgo til dig, Mir.
+00:01:57
+Ja, tak Anna.
+00:02:00
+Good morning.
+00:02:02
+Som Anna nævnte, vil jeg gøre det på engelsk.
+00:02:05
+Mit navn er Mia, og jeg er industriel Ph.D.-student, som arbejder på Danish Coastal
+Authority og Aalborg Universitet.
+00:02:13
+Jeg vil præsentere to forskellige modeller, som vi har udviklet på Danish Coastal Authority.
+00:02:19
+En for at forstå den sociale forvandling i relation til fløjt, og en for at forstå den sociale
+fløjtsrisiko i dansk kontekst.
+00:02:28
+Planen for denne morgen er at starte med at give lidt bakgrund til hvorfor vi har besluttet at
+studere sociale forvandringer og sociale risikoer.
+00:02:38
+Så vil jeg vise hvordan vi har udviklet denne Social Flood Vulnerability Index og denne
+Social Flood Risk Index.
+00:02:46
+Så vil jeg slutte med at snakke lidt om nogle fremtidige forskningsdirektioner og praktiske
+applikationer af modellen.
+00:02:55
+Før vi går ind i modellerne, vil jeg bare sige, at arbejdet, jeg præsenterer i dag, har været et
+samarbejde mellem flere kollegaer på Danmarks København.
+00:03:05
+Jeg vil bare sige, at de konceptuelle udviklinger af modellerne har været ledt sammen med
+mig og Urs Steiner Brandt, som var tidligere kollega på Danmarks København, men som nu
+arbejder på MST.
+00:03:21
+Jeg vil også gerne nævne, at vi nylig har skrevet en artikel om modellerne, som jeg skal
+beskrive i dag.
+00:03:30
+Denne artikel er tilfældig i Internationale Journal for Disaster Risk Reduktion.
+00:03:35
+Den er åben tilfældigt.
+00:03:37
+Hvis du vil lære mere om det, jeg taler om i dag, kan du gøre det på denne link eller på QR-
+koden på skjermen.
+00:03:49
+Vi taler om to hovedkoncepter i dag.
+00:03:53
+Socialvulnerabilitet og social risiko.
+00:03:56
+Socialvulnerabilitet betyder, at individer eller grupper er forvurderet af forskellige risikoer.
+00:04:05
+I vores fald er det fløjende.
+00:04:08
+Socialvulnerabilitet handler om at forstå, at forskellige mennesker og grupper har
+forskellige niveauer af forvurdering.
+00:04:17
+Og en forskellig mulighed for at forhandle med færdigheder.
+00:04:21
+Det kan være afgørende af individuelle faktorer, som f.eks.
+00:04:24
+Sygdomme, men det kan også være afgørende af strukturelle forhold, som f.eks.
+00:04:29
+Krig.
+00:04:31
+Når vi snakker om sociale risikoer, så mener vi den probabilistiske og spatiale interaktion af
+færdigheder, sociale udstyr og sociale forvandlinger.
+00:04:42
+Social risk handler om at forstå, hvordan vulnerabilitet interagerer med geografisk
+udstrækning til skader.
+00:04:52
+Jeg vil gå lidt mere ind i de mere præcise definitioner af disse koncepter senere, og hvad
+disse modeller faktisk betyder.
+00:04:59
+Men for nu vil jeg bare sige, at den sociale vulnerabilitetsindeks og den sociale riskindeks,
+som vi har arbejdet på at skabe, er specifikt i relation til flyvning.
+00:05:10
+Du kan også modelle sociale forvandlinger og risikoer i relation til andre miljøpåvirkninger,
+som for eksempel varmer eller drøft.
+00:05:18
+Men vores modeller tænker kun på forvandlingspåvirkningen.
+00:05:23
+Hvorfor besluttede vi at udvikle disse modeller for at forstå sociale forvandlingsmuligheder
+og risikoer?
+00:05:31
+Vi kan se, at i konteksten for forvandlingsrisikoassessment Social vulnerabilitet har virkelig
+fået trækning og opmærksomhed, som en respons mod en masse overvejende tekniske eller
+økonomisk fokuserede flødriske tjeninger.
+00:05:48
+Traditionelt har flødriske tjeninger mest fokuseret på risiko for økonomiske aktier, i stedet
+for sociale konsekvenser eller velfærdsbedenninger.
+00:06:00
+Da vi begyndte at tænke på dette arbejde, var det virkelig noget, Det havde ikke været talt
+om i dansk kontekst før, og vi vidste, at det ville være en vigtig skridt for at skabe en mere
+holistisk og inklusiv opkald til at forstå de effekter af fløjt i dansk kontekst.
+00:06:20
+At samarbejde mere detaljerede sociale data og risikoansøgninger, kan også hjælpe til at
+lave mere effektive og færdige beslutninger, når det kommer til fløjtrisikomanagement og
+klimaforandring og adaptationplanning.
+00:06:35
+Det her er en overgave af de nødvendige koncepter, der gik ind i at udvikle disse modeller.
+00:06:45
+Jeg vil bare gå over nogle af de nødtvendige termer i relation til risiko.
+00:06:50
+Når vi taler om risiko, taler vi virkelig om denne intersektion mellem risiko, udstyr og
+vulnerabilitet.
+00:06:59
+I vores fald begyndte vi med at bygge en social vulnerabilitetsmodel.
+00:07:03
+Det var om at skabe en model for at forstå, hvilke faktorer påvirker individuelle
+forholdsværdighed i en flodsituation, og samtidig også samfundsforståelse i en
+flodsituation.
+00:07:17
+Men vi forstod snart, at det også er meget vigtigt at kombinere denne sociale
+forvandlingsmodel med en socialt relevant information om flodsindførelse.
+00:07:28
+Så hvem er faktisk direkte oplevelse af en flods?
+00:07:31
+Hvem har indirekte effekter fra en flod, for eksempel ved at forlade tilfældighed til en vigtig
+serviceinfrastruktur.
+00:07:42
+Så længe har de fleste studier kun fokuseret på at skabe en socialvulnerabilitetindeks, og
+den kombination af socialt relevant vulnerabilitet og eksposureinformation er mindre
+almindelig.
+00:07:55
+Det var noget, vi troede var vigtigt at se ind i, For vulnerabilitet er, hvad man kan kalde,
+flødeindependent.
+00:08:04
+Det er en potentiel vulnerabilitet, men uanset om geografisk område, vil en person, som for
+eksempel er i dårlig hælp, stadig være vulnerabelt.
+00:08:14
+Men den vulnerabilitet er kun triggeret, når de møder en fløde.
+00:08:19
+Derfor var interaktionen mellem de to koncepter så vigtig for os at se på.
+00:08:29
+Med det i mindre, vil jeg begynde med at diskutere den sociale forvandlingsindekse, som vi
+skrev.
+00:08:36
+Det første skridt med at konstruere denne forvandlingsindekse var at forstå, hvilke faktorer
+faktisk bestemmer den sociale forvandling til fløjtning i dansk kontekst.
+00:08:47
+Det første skridt var at identifere de fire hovedindikatorer for individuelt forvandling.
+00:08:54
+Literaturen forklarer, at forvandring kan blive indført både af de individuelle faktorer, som
+negativt indfører forvandring, men også af faktorer, som positivt indfører
+samfundsforvandring.
+00:09:12
+I relation til individuelt forvandring kom vi op med fire hovedindikatorer.
+00:09:18
+Ægthjælp, socioøkonomisk situation, og en mulighed for at få og forstå information.
+00:09:26
+I relation til æg, kan ældre mennesker fx have sygdomme og mobilitetsudfordringer, som
+kan blive eksacerberet af en flod, eller gøre det sværere at forberede sig for eller blive
+tilbage fra en flod.
+00:09:40
+Unge børn kan også være særligt susceptible i relation til både fysiske og mentale
+udfordringer.
+00:09:48
+I relation til sygdom, Selvfølgelig kan mennesker med langtidige sygdommer finde det
+udfordrende at forberede sig for en flod, eller at lade sig af hjælp fra hjælpmænd.
+00:10:01
+Og menneskelige sygdommene kan også være udfordrende i en flodsituation, når det
+handler om at reagere effektivt til disasterinformation.
+00:10:11
+Selvfølvelig er også socioøkonomisk situation en vigtig afgørelse.
+00:10:15
+Mennesker med finansielle bevægelser finder det sværere at for at forberede sig for
+flødeeventer og til at overveje efter en fløde på grund af en mærkelse af økonomiske
+ressourcer.
+00:10:26
+Først og fremmest er denne mulighed for at opnå og forstå informationen også virkelig
+kritisk.
+00:10:33
+Så mennesker, der ikke er familier med en specifik lokal kontekst, eller der ikke taler den
+lokale språk, kan være mere forventede for negative effekter, fordi de ikke kan for eksempel
+forstå information om tilfældesforberedelse.
+00:10:50
+I stedet for at forstå de individuelle forholdsfaktorer, så tænkte vi også på faktorer, der kan
+påvirke samfundsforståelse.
+00:11:04
+Studier viser, at stærkere samfundsforhold er bedre opmærksomme til at lade sig af
+tilfældene.
+00:11:11
+Så den styrke af en samfundsforhold kan partielt afslutte de individuelle forholdsforhold.
+00:11:17
+For eksempel, selvom man har et nævnt område med virkelig dårlig hælsomhed.
+00:11:23
+En stærk syn på samfundsforståelse kunne reducere vulnerabiliteten i det område.
+00:11:29
+Samfundsforståelse er selvfølgelig et udfordrende koncept at mærke.
+00:11:36
+Men samfundskapital er forstået som en god indikator for at mærke samfundsforstolelse.
+00:11:43
+Så vi besluttede at mærke samfundsforstolelse med tre forskellige typer af samfundskapital.
+00:11:50
+Vi har bonding social capital, bridging social capital og linking social capital.
+00:11:57
+Bonding betyder næste tilfælde med familie og venner, din næste sociale nætværk.
+00:12:04
+Højere niveauer af bonding social capital kan tilføje bedringskapacitet i tilfældige tilfælder.
+00:12:10
+Bridging social capital betyder næste tilfælde med mennesker, vi spender mindre tid med
+og generelt deler mindre sammenhænger med, men kan stadig være instrumental to
+providing aid in a disaster situation.
+00:12:25
+And then linking social capital is about vertical relations to people in authority or decision-
+making positions.
+00:12:34
+So this is important for connecting affected communities to those that actually have
+decision-making power and ability to provide aid in a disaster situation.
+00:12:47
+Når vi havde identiferet disse hovedindikatorer, måtte vi identifere specifikke
+subindikatorer for at kunne mærke denne socialvulnerabilitetindeks.
+00:13:00
+Her kan man se en overgave af alle indikatorer og subindikatorerne, der går ind i at definere
+denne SVI.
+00:13:07
+Den specifikke selektion af de forskellige subindikatore var baseret på, hvilke data der var
+tilgængelige i dansk kontekst.
+00:13:16
+Og relevans til det lokale kontekst.
+00:13:21
+Her har vi for eksempel unge og ældre, som jeg nævnte, i relation til år.
+00:13:26
+Hjælpdata var ganske svært at tjene, for det er selvfølgelig ganske sensitivt.
+00:13:33
+Vi kunne komme op med to proxyindikatorer her.
+00:13:36
+Folk, der får lukning eller tjeneste i deres hjem, og folk, der får en tidlig pension.
+00:13:43
+Men de indikatorer får ikke nødvendigtvis den hele rang af mulige hjælpemuligheder, der
+kan påvirke vulnerabiliteten.
+00:13:52
+I socioøkonomisk situation besluttede vi også at tilføje flere subindikatorer.
+00:13:58
+Selvfølgelig kan lågindkomsten være et udfordring, men også lågsociale klasse, som også
+tænker på ting som uddannelsesniveau.
+00:14:06
+Og så er nogle hushold, som single parent hushold, måske mere finansielt stresset.
+00:14:12
+I relation til information, Vi så på nye tilkommelser til Danmark som en proxy af folk, der
+ikke kan tale dansk, og som kan tjene information i dansk.
+00:14:23
+Og så nødvendige immigranter, som kan have haft mere kulturelle forskelligheder og
+sværdigheder ved at adjustere sig til de lokale områder.
+00:14:34
+Og så i relation til de tre typer af socialt kapital, som jeg nævnte før.
+00:14:38
+Så for at bonde med socialt kapital Vi kan se, at homogeniske områder generelt har højere
+niveauer af samarbejdskapital.
+00:14:47
+Her på områdens niveau tænkte vi på mængder af tilgængelighed, uddannelses- tilgængelse
+og nationalitetssammenhæng.
+00:14:55
+Som proxy til samarbejdskapital.
+00:14:58
+I samarbejde med samarbejdet prøvede vi at finde en mængde af samfundslænge.
+00:15:03
+Vi endte med at tage med den procent af familier, der har mindst én skoleægget børn, fordi
+studier viser, at skoler og uddannelsessystemet er et fantastisk miljø for at formere svære
+kæmpe og for at bygge op den brændende sociale kapital.
+00:15:21
+Og så for at bære sammen socialt kapital, så ser vi på procenten af vokalskab i byggevalgene
+som en proxy for politisk bæring.
+00:15:31
+Så her forventede vi, at Folk, der har mere af en politisk forbindelse i det lokale samfund,
+kan have højere niveauer for at længe socialt kapital.
+00:15:43
+Her er det vigtigt at nævne et par ting.
+00:15:47
+Først og fremmest, når vi kalkulerer SVI, forventer vi, at alle de fem hovedindikatorer har
+samme indflydelse på vulnerabilitet.
+00:15:58
+Derfor vejer vi dem sammen, når vi konstruerer dette index.
+00:16:04
+Det skal også være noteret, at de indikatorer for områdesværdighed har en positiv
+indflydelse, i stedet for en negativ indflydelse.
+00:16:12
+Så vi mærker den inverse, eller mindre, af værdighed i dette tilfælde, for at sikre, at vi er
+konsistente over alle indikatorer.
+00:16:23
+Når vi valgte indikatorerne, måtte vi aggregere dem til en overhåndsvisning af SVI.
+00:16:31
+Jeg vil ikke gå for meget i detaljen om den specifikke kalkulationprocedur, men jeg vil bare
+nævne et par ting.
+00:16:40
+Først og fremmest er SVI kalkuleret som en relativ index af sociale forvandringer.
+00:16:47
+Så det er ikke en absolut måde, som man kan konstruere, når man ser på økonomiske
+konsekvenser, fx.
+00:16:56
+På grund af den relative natur af sociale forvandring, Vi valgte også at kalkulere SVI med z-
+score.
+00:17:05
+En z-score mærker den mængde standarddeviationer, at en givet datapunkt falder fra en
+givet mængde.
+00:17:16
+Det betyder, at hvad vi gjorde, var at se på hver subindikator og fandt z-scorer for de
+subindikatorer på en gridscellens skala.
+00:17:28
+Vi var nødt til at aggregere alle indikatorerne til en sidste SVI, som er en Z-skor, der mærker
+relativt sociale forhjælpelse på en 100x100 meter skala for hele Danmark.
+00:17:44
+Det er vigtigt at nævne, at den sidste SVI ranger fra negativ 3 til positiv 3.
+00:17:53
+En skor på positiv 3 indikerer den højeste mulighed social vulnerabilitet, og det betyder
+bare, at vulnerabiliteten i denne celle falder tre standarddeviationer over den nationale
+vulnerabilitet.
+00:18:08
+Så det er lidt om, hvordan denne indeks kan blive interpreteret.
+00:18:14
+Så vil jeg give en overgreb om, hvordan udsendelsen ser ud.
+00:18:20
+Her kan du se den sociale vulnerabilitesindeks på national skala, men også i en lokal case-
+studie.
+00:18:27
+Når vi ser på den nationale mappe, kan man se, at den sociale forvandling i generelt er
+koncentreret rundt i byer.
+00:18:35
+Men når vi ser på en lokal case-studie, kan vi se mere detaljer om, hvordan den sociale
+forvandling afhænger fra forskellige områder.
+00:18:45
+Her vil jeg også nævne, at SVI kan bruges både på national- og lokalskala, uden at
+rekalkulere.
+00:18:57
+Men hvordan det skal interpreteres, er, at den nationale mappe mærker den relative
+vulnerabilitet, som jeg nævnte før.
+00:19:06
+Og når vi ser på den lokale case-studie, som er Baila for eksempel, når man ser de områder
+med meget høj vulnerabilitet, så skal det forstås som meget høj vulnerabilitet i relation til
+den nationale vulnerabilitet.
+00:19:21
+Det gør det muligt for os at zoome ind i en lokal case-studie og mappe den sociale
+vulnerabilité, og at det stadig kan blive sammenlignet mellem forskellige lokale casestudier.
+00:19:33
+Når vi zoomer ind til cellen, kan man få en bedre idé her om, hvilken information det faktisk
+er muligt at få ud af denne vulnerabilitetindeks.
+00:19:44
+For hver cell har vi denne overhovedske SVI-grad.
+00:19:50
+Men vi kan også se på specifikke grader for hver af de fem indikatorer.
+00:19:57
+Det betyder, at vi kan få en mere detaljerede forståelse af, hvorfor en område er forvandlet.
+00:20:03
+Det kan også informere beslutningsmængden.
+00:20:07
+I dette eksempel kommer den højeste forvandling fra socioøkonomisk situation og den
+mulighed for at få og forstå informationen.
+00:20:22
+Du kan selvfølgelig forstå, at dette niveau af information er meget hjælpfuldt.
+00:20:26
+For hvis du tænker på flødrisikomanagement eller adaptationsbeslutning i denne specifikke
+område, så kan det være hjælpefuldt for eksempel at tilføje forberedelsesinformationer i
+flere språk eller investere i en form for oprækning af kampagner.
+00:20:44
+Så det var lidt om Social-Vulnerabilitet-indeks.
+00:20:48
+Nu vil jeg tænke på, hvordan vi tog det og gik foran for at skabe en social-flødrisikindeks.
+00:20:56
+Så når vi havde denne socialvulnerabilitetindeks, var det vigtigt at se på udstyr, og forstå,
+hvad det faktisk er, med udstyr til fløjt.
+00:21:10
+Udstyr er defineret af IPCC som, at der er mennesker, lejligheder, miljøservice og
+ressourcer, infrastruktur, økonomisk, social eller kulturelle tilfælde i steder, der kan blive
+adverselig affærdiget af en risiko.
+00:21:31
+I vores fald fokuserer vi på mennesker og på mennesker, der kan potentielt blive påvirket af
+fløjt.
+00:21:39
+I konteksten af dette artikel eller papir, som vi lavede, fokuserer vi specifikt på
+køleskabsløft.
+00:21:46
+Vores udstyrsmodel distinguerer direkte og indirekte udståelse.
+00:21:53
+Direkte udståelse er ganske tydeligt.
+00:21:57
+Det betyder flødte mennesker eller mennesker, deres hjem er flødtet med mindst 20 cm
+vand.
+00:22:04
+Men vi ville også tilføje mennesker, som ikke direkte oplever fløden, men som stadig kan
+blive påvirket af en flød eller oplever nogen form for forholdsløse, på grund af løsning af
+tilgængelse til vigtige servicer.
+00:22:21
+Vores indrekt eksposure-model ser specifikt på mennesker, der har oplevet fløde-relaterede
+kritiske service- og infrastrukturdisruptioner.
+00:22:30
+Hvad er kritisk service-infrastruktur?
+00:22:33
+Vi begyndte med at se på en definition af kritisk infrastruktur, som inkluderer en mange
+forskellige faktorer, som helse, sikkerhed, sikkerhed, økonomisk forhold,
+teknologifaciliteter, Men vi ville gøre denne definition mere specifik til den kritiske
+infrastruktur, der er relevant til de daglige liver af individuer.
+00:22:58
+Det gik til det, vi kalder kritisk serviceinfrastruktur, og vi kom med 10 forskellige
+kategorier.
+00:23:05
+Det handler om kraft, varme og vandbrug, sygehjælpsinfrastruktur, emergency services,
+lærerinstitutioner og så videre.
+00:23:15
+Og så smitten, eller mere sikkerhedsvis smitten af smitten eller tilfældet til et rart område.
+00:23:22
+Så for at mærke sociale udstyr, for at mærke både direkte og indirekte sociale udstyr bruger
+vi en mærke, som vi kalder fløjede mennesker equivalence, eller FPEQ.
+00:23:39
+FPEQ er en mærke som ranger fra 0 til 1.
+00:23:44
+På et individuelt niveau.
+00:23:46
+Når en person er fløjtet, når deres hjem er inunderet med mindst 20 cm vand, får de en
+FPEQ-skore af 1.
+00:23:57
+Samtidig er en person, der ikke er fløjtet, men har omsætning af alle de 10 kritiske
+serviceinfrastrukturkategorier, vil også få en FPEQ score af 1.
+00:24:08
+Det kørende her er, at vi forventer, at blive fløjtet eller forlade akses til alle kritiske
+infrastrukturkategorier, selvom man ikke er fløjt, vil det resultere i den samme maksimum
+mulighed for at blive fløjtet.
+00:24:27
+Hver kritisk infrastrukturkategori, som du kan se i denne tabel, er sammenlignet.
+00:24:37
+Hvis du forlader akses til én service, får du et score på 0,1.
+00:24:44
+Og for at mærke løsning af tilgængelse til disse servicer bruger vi et nærmest ved-principe.
+00:24:50
+Hvis dit nærmeste hospital er fløjtet, bliver du tænkt til at forlade tilgængelse til kategorien
+hospital.
+00:24:58
+Så får du et score af 0,1 for udstyr.
+00:25:04
+Det fungerer samme måde for kategorier 1-9 i dette tabel.
+00:25:09
+Kategorien 10, der handler om smitten, er lidt forskellige.
+00:25:15
+I dette tilfælde, fordi vi møder en mærke på smitten, så skaber vi i stedet for at bruge det
+nærmeste biologiske princippet 500 meter bufferzoner omkring potentielt smittende
+fabriker eller firmaer.
+00:25:30
+Hvis du bor i den bufferzon, og den fabrik eller firma er fløjtet, så vil du være forstået som
+eksposed.
+00:25:39
+Du kan se, Her er et eksempel.
+00:25:44
+For at være klart om, hvordan det fungerer.
+00:25:48
+Person 1 er fløjtet og får et score af 1.
+00:25:53
+Person 2 forlader 3 kategorier af kritisk service, men er ikke selv fløjt og får et score af 0,3.
+00:26:06
+Når vi kalkulerer direkte og indirekte udstyr på nationalt skala, så er det den
+overhovedtrend, vi ser.
+00:26:15
+Overhovedet er indirekte udstyr betalt for 55-71 procent af den totale sociale flodudstyr i
+en flodsætning.
+00:26:25
+Det viser, at flod har sociale konsekvenser udenfor de flodte områder gennem løsning af
+tilgængeligheden.
+00:26:36
+Her kan vi også se i denne tabel, hvilken del af populationen, der er eksposeret.
+00:26:42
+Her ser vi fx, at i en 10.000-års-flod-event, vil 33 af populationen være eksposeret indirekte,
+mens kun omkring 5 er direkte flødte.
+00:26:56
+Det er ikke den mest pludselige situation.
+00:27:01
+Samtidig inundation af alle køer i Danmark, men det er stadig interessant at se, hvor stor en
+forskel der er mellem direkte og indirekte udstyr i alle flere flødeeventer, som vi har set her.
+00:27:16
+Til at gå fra udstyr, nu at vi har skabt SVI og udstyrsmodellen, må vi basere på det, vi kalder
+den flødeevent-specifikke sociale smerter.
+00:27:30
+For en enkelt flod, før vi kan gå til den sidste skridt om at kalkulere den sociale flods risiko.
+00:27:38
+Det er, fordi den sociale flods risiko ser på en probabilistisk set af eventer.
+00:27:42
+For eksempel en set, der inkluderer en 10-årig event, en 100-årig event en 500-årig event.
+00:27:47
+Og så videre.
+00:27:49
+Fordi risiko er baseret på den probabilitet, før vi kan kalkulere det, må vi bare kalkulere det
+vi kalder for den sociale damage for alle de flods-eventer, vi vil se på.
+00:28:01
+Selskabsskade for en enkelt flådudvikling er bestemt både af SBI-indekten og udstyr.
+00:28:10
+Her har vi re-kategoriseret udstyr og SBI-niveauerne i en skala fra 1 til 10.
+00:28:22
+Det gør det muligt for os at forholde os mellem udstyr og vulnerabilitet.
+00:28:29
+Og at skabe en mærke af socialdamage, der er sammenlignet, eller så sammenlignende som
+muligt, sammenlignede både ved udstyr og mulighed.
+00:28:40
+Logikken her var, at vi ville skabe en socialdamagemærke, der ikke favoriterede udstyr eller
+mulighed over den anden, men anerkendte, at både udstyr og mulighed er vigtige faktorer
+for at bestemme socialdamagen.
+00:28:58
+I mere praktiske termer kan man se et eksempel på, hvad det ser ud her.
+00:29:03
+I hver celle får man et socialt dramatisk skor for en givet flodforhold.
+00:29:10
+Dette kan fx være en 100-årig flodeforhold.
+00:29:14
+I dette eksempel kan vi se, at cellen har et score af 54 ud af de mulige 100.
+00:29:21
+Det er fordi der er et højt vulnerabilitetsscore i cellen og en relativt moderat til højt
+udstyrsskor.
+00:29:31
+Når vi har den mærke for den sociale floddamage, kan vi endelig skabe den sociale flodriske
+model.
+00:29:44
+Her har vi brugt en sætning af ni returndtidsflodforhandlinger til at kalkulere den sociale
+flodriskindeks på nationalt skala for Danmark.
+00:29:55
+Det er fra en 10-årig til en 10.000-årig.
+00:29:58
+Her kan man se, hvad det ser ud.
+00:30:04
+Den sociale flodriskeindeksen er tilgængelig nationalt på cell-niveau.
+00:30:09
+Her viser jeg de største hotspots af den sociale flodrisk.
+00:30:14
+Her er det interessant at se, at de største hotspots af den sociale flodrisk ikke er anmeldt
+som risikoområder i Danmark.
+00:30:25
+Jeg kommer tilbage til risikoområderne under EU-flødsdirektivet, og hvordan det nu
+forandrer sig.
+00:30:33
+Men disse risikoområdere var anmeldt i forrige flødsdirektives cykel.
+00:30:39
+Her er det interessant at se, at hvis vi tænker på den sociale risiko fra flød, så er vores
+forståelse af flødsrisikoen på nationale skala ganske anderledes, end den økonomisk
+fokuserede model, vi arbejder med.
+00:30:56
+Ja, så forlængende til nogle implikationer.
+00:31:02
+Så nu at vi har en overgås af den sociale vulnerabilitetindeks og den sociale risikoindeks, så
+vil jeg bare nævne nogle implikationerne af resultatet af dette studie.
+00:31:15
+Først og fremmest er det virkelig vigtigt, at vi inkluderer sociale data i risikoudvalget.
+00:31:21
+Og det vi virkelig fandt ud af i dette studie er, at det er virkelig vigtigt, at vi gør det både
+gennem vulnerabilitet og modeling af udstyr.
+00:31:29
+Hvis vi kun ser på vulnerabilitet eller udstyr, så misser vi en vigtig del af den sociale risiko
+og konsekvenser.
+00:31:38
+Vi mentede også før, at vi fandt ud af, at udstyr har en indflydelse på mennesker farligere
+end udstyr.
+00:31:49
+Det var interessant at finde ud af, at indirekte udstyr Det er en stor del, som skaber, hvad
+den nationale risiko for fløde ser ud.
+00:32:00
+Jeg vil også nævne, at mens denne forhold til modelling af vulnerabilitet og risiko for fløde
+giver os meget vigtigt information om de sociale konsekvenser af fløde, er det kun et første
+skridt.
+00:32:16
+Det var en ekspert-defineret index, baseret på litteratur, Men der var ingen participatoriske
+forsøg gjort.
+00:32:24
+Det har ikke været testet på grunden for at se, om det sammenhænger med lokale
+forståelser af forvandling og risiko.
+00:32:31
+Så det ville være vigtigt at se mere participatoriske forskninger.
+00:32:35
+Så vil jeg bare nævne et par bevægelser af dette studie.
+00:32:42
+Jeg nævnte tidligere, at dataanvendelse og sensitivitet kunne være en stor udfordring.
+00:32:49
+Demografisk data er naturligvis højt sensitivt.
+00:32:54
+Særligt for eksempel hjælpe-data var det svært for os at tilføje, fordi afhængighed og
+sensitivitet var en sværdighed.
+00:33:03
+For eksempel mapper vi her kun SVI-indeksen for celler med at mindst tre mennesker i
+dem.
+00:33:14
+Det kan for eksempel blive en ganske sensitiv ting at mappe, når man er i meget rørlige
+områder, hvor populationen ikke er så kondenseret.
+00:33:23
+For man kunne, hvis man gjorde det på fejl måde, ende opmærke individer.
+00:33:30
+Selvfølgelig ville man ikke ville gøre det.
+00:33:34
+Jeg vil også nævne dette problem med at mappe fremtidige scenarier.
+00:33:40
+Resultatene, som jeg lige præsenterede, var baseret på til den næste hazarddata, men når vi
+taler om social forvandling og risiko, vil vi også se på fremtidige tilfælde for at planleve for
+klimaforandring og demografisk forandring.
+00:33:58
+Men problemet er, at mange mennesker vil gøre det ved at superimponere fremtidige
+hazarddata, fremtidige klimaforandringer, på fremtidig social forvandring eller fremtidige
+demografiske forhold.
+00:34:10
+Det er selvfølgelig ikke meget vigtigt, for demografierne ændrer sig også.
+00:34:16
+Det er noget, vi ikke har talt om i dette arbejde, men det er vigtigt at tænke om, når vi bruger
+dette model.
+00:34:24
+Jeg har nævnt limiterne for en ekspert-defineret SVI og modelleringsbaserede forhold.
+00:34:31
+Det er vigtigt at være kritisk om, om det er vigtig for lokale områder, om vores mapping af
+sociale forhjælpelse aligner med forståelsen af vulnerabilitet på grunden.
+00:34:44
+På den måde vil jeg bare tage et par sidste minutter til at snakke om nogle fremtidige
+arbejde og praktiske applikationer af dette model.
+00:34:56
+Der er nogle direktioner, som fremtidige forskning kan tage i relation til dette arbejde.
+00:35:07
+Jeg tror, at en af de vigtigste forskningsdirektioner er mere participatorisk forskning for at
+integrere samfundsvalgene i dette arbejde.
+00:35:15
+For eksempel i vores nuværende indrekt social exposure-model har vi kun set på kritisk
+service-infrastruktur, hvilket vi har defineret som vigtigt for mennesker at holde
+tilgængelse til i en flodsituation.
+00:35:28
+Men det kunne også være interessant at tænke over, hvilke samfundsvalge man holder
+tilgængelse til.
+00:35:35
+Og hvad de vil se til i modellen.
+00:35:38
+Og så modeller vi fremtidige scenarier.
+00:35:43
+Det ville være interessant at se på, hvordan vi kunne tænke på fremtidige socioekonomiske
+scenarier.
+00:35:48
+Ikke kun fremtidige klimaer, men også, hvordan demografer og faktorer, der påvirker
+sociale forvandling, er forventet at forvandles, eller hvordan de kunne forvandles i Danmark
+i fremtiden, og om det hjælper os til at skabe mere detaljerede modeller, der kan informere
+klimaforandring, adaptation, planning Det kan også være brugt til at forstå mere
+systematiske spørgsmål i relation til retning.
+00:36:12
+For eksempel, er vanskelige grupper disproportionelt udfordret til fløjtning?
+00:36:17
+Det vil jeg bare tænke lidt mere på, for det arbejder vi nu for at udvikle.
+00:36:24
+Vi ser nu på denne spørgsmål om distributiv retning.
+00:36:30
+Distributiv retning betyder den tilgængelige forhandling af risikoer og tilfælde, der er
+sammenlignet med fløjt og forhandlinger.
+00:36:39
+I dette fald taler vi specifikt om den tilgængelige forhandling af fløjtudstyr.
+00:36:46
+Eller mere specifikt spørger vi spørgsmålet om, hvem der er udstyrt af fløjt i Danmark.
+00:36:52
+Hvilke grupper er mest udstyrt?
+00:36:54
+Her kan man se et hypothetisk eksempel.
+00:36:58
+Vi er stadig i processen for at kalkulere de virkelige værdier for det.
+00:37:03
+Det er helt hypothetisk, men i dette tilfælde viser det, at de 20 mest forvandlede har 60
+udstyr fra flødeforhandlinger.
+00:37:18
+Hvis dette hypothetiske eksempel var et virkeligt tilfældes, så ville vi se et klart
+tilfældestilfælde, fordi de mest forvandlede har den største bæredygtighed fra udstyr til
+fløjtning.
+00:37:34
+Selvfølgelig er det debatabelt, hvilket punkt man har.
+00:37:38
+Udstyr mod udstyr i dette fald.
+00:37:41
+Vi kunne definere udstyr som en sammenlignelse af udstyr gennem muligheder, for
+eksempel.
+00:37:48
+Det demonstreres ved den orange linje på grafen.
+00:37:52
+Det kan diskuteres, og der er ingen eneste rette ansvar, men det er informativt at vide,
+hvordan flødeudførelsen er distribueret i Danmark, og hvilke grupper har den største
+bevægelse.
+00:38:05
+Vi arbejder nu på at analysere det på nationale skala.
+00:38:09
+Vi vil også ønske at udforske, om der kan være forskelligheder, f.eks.
+00:38:13
+Gennem regioner i Danmark, eller forskelligheder mellem urbane og rurale områder, eller
+andre måder, som vi kan finde, som kan gælde til potentiale justitionsudfordringer, som
+måske skal blive taget videre i vandværdsmanagement eller klimatforvandling og
+planlægning.
+00:38:32
+Det var en reaktion, at vi tager modellen i relation til forskningsaspekter.
+00:38:39
+Men jeg vil også snakke om en praktisk applikation.
+00:38:43
+Modellerne er faktisk allerede brugt i virkeligheden gennem EU-vandværdsprocessen.
+00:38:50
+Jeg vil slutte med at give lidt information om det.
+00:38:55
+Først vil jeg give en lille udsendelse.
+00:38:58
+Jeg var ikke involveret i arbejdet med at integrere modellen i Fløds Direktivprocessen.
+00:39:05
+Hvis du har specifikke spørgsmål om processen, så er jeg ikke den rigtige, men jeg vil bare
+give en lille overvej og direkte dig til flere ressourcer om processen.
+00:39:18
+Jeg forventer, at de fleste af jer er familier med Fløds Direktivprocessen.
+00:39:25
+For at give a very small background.
+00:39:28
+It's a process that determines a lot of how we work with risk assessment and risk
+management in Denmark.
+00:39:35
+Right now we're in the third cycle of the EU Floods Directive implementation in Denmark.
+00:39:40
+There's already been two processes that this has gone through.
+00:39:46
+Now we're in the beginning of the third cycle.
+00:39:50
+The first phase of that cycle is to conduct a national risk assessment.
+00:39:55
+Vi er ansvarsfulde for at gøre det på Danish Coastal Authority.
+00:39:59
+Baseret på den nationale risikoansøgning er potentielle flodriske eller risikoområder
+anmeldt.
+00:40:07
+De områder skal så arbejde med at udvikle risikomanageringsplaner.
+00:40:13
+Her kan I se, at dette er meget nyt, men dette er de nye anmeldte områder for 2024.
+00:40:24
+Det er nu i offentlig høring.
+00:40:28
+Jeg vil bare sige, at de sociale forvandlinger og risikomodeller, jeg har præsenteret i dag, har
+brugt samtidig med ekonomisk forvandling og økonomisk risiko, til at anbefale disse
+risikoområder.
+00:40:43
+Hvis du er spændende, kan du læse mere om det i denne metodologiske rapport.
+00:40:49
+Det er også et sted, hvor man kan få mere information om social vulnerabilitet og
+risikomodeller i Danmark.
+00:40:56
+Det er et vigtigt skridt, for det er første gang, at social vulnerabilitet, og at dette niveau af
+detaljeret socialt data, har været inkluderet i risikoanlæggelsen på en national skala i
+Danmark.
+00:41:10
+Det betyder, at de områder, vi anmelder som risikoområder, og områder, der får
+opmærksomhed for flodrisikomanagement og klimaforandringplaner i Danmark, er
+anmeldt for at tage i konsideration både økonomisk og socialdamage.
+00:41:23
+Det er en forlovlig sign, at vi forbedrer vores forståelse af risiko i Danmark.
+00:41:31
+Det betyder også, at nu det her process er offentligt, så er den sociale forvandling og
+risikodata, som jeg har diskuteret, nu tilfældig online i en webkisteformat.
+00:41:45
+Hvis du har lyst til at lære mere, eller bare se rundt om, hvad det geografiske lave af
+vulnerabilitet og risiko virkelig ser ud, kan du se det her på denne linke.
+00:41:58
+På den måde vil jeg slutte der.
+00:42:03
+Tak, og jeg tager spørgsmål nu, men hvis du har flere spørgsmål om dette arbejde, er du
+velkommen til at kontakte mig.
+00:42:15
+Tak.
+00:42:17
+Tak så meget, Mia, for at undskylde os for Socialvulnerabilitetindekset og Fløjtrisikindekset.
+00:42:27
+Vi har nogle spørgsmål i chatten, og jeg vil bare begynde fra begyndelsen.
+00:42:34
+Er du klar til at adresse direkte og langtidige færdigheder i relation til en massiv
+stormsøgelse?
+00:42:44
+Direkte og langtidsfataliteter i relation til.
+00:42:51
+En massiv stormødelse?
+00:42:54
+Jeg er ikke sikker.
+00:42:56
+På, at jeg forstår kontexten til spørgsmålet.
+00:42:59
+Jeg tror, at jeg kan sige, at modellerne, vi har udviklet, måske ikke fokuserer så meget på
+langtidsimpakter.
+00:43:11
+For eksempel er det mere at se på de direkte effekter af fløjtning.
+00:43:16
+Men hvis du har et område, der for eksempel møder fløjtningen, så må du se på forskellige
+mængder af, hvad det gør til en samfundsforskning langtidigt.
+00:43:28
+Og jeg vil også sige, at de sociale konsekvenser i relation til menneskehjælp eller angst, for
+eksempelet, kan være noget, der har en langtidig effekt.
+00:43:37
+Jeg er ikke sikker på, Det udtaler spørgsmålet.
+00:43:42
+Okay, vi tager.
+00:43:44
+Den næste.
+00:43:45
+Der er et par etablerede socialvulnerabilitetsindekser, mest fra USA.
+00:43:52
+Hvordan lavede du beslutningen om at bygge dit eget indeks?
+00:43:56
+Kunne ikke en af de etablerede indekser blive appliceret eller udviklet i dansk kontekst?
+00:44:01
+Jeg.
+00:44:03
+Vil sige, at vores udvikling af Socialvulnerabilitetindekset i dansk kontekst var meget
+inspireret af alle indikatorer, der brugtes i disse socialvulnerabilitetsindekser fra USA, for
+eksempel.
+00:44:16
+Men vi besluttede, at bare udvikle indekset, som du siger, for at gøre det mere relevant i
+dansk kontekst.
+00:44:26
+Så der er en lidt anden kontekst i mange af de vulnerabilitetindekser, der er udviklet, fx i
+USA, der har måske mere af en emphasis, fx på krig, eller på økonomisk uenighed, og det er
+noget, vi har tilføjet i Danmarks socialvulnerabilitetindeks, selvfølgelig, gennem
+socioøkonomiske situationer, men den exakte måde, vi mærker nogle demografiske trender,
+kan være lidt anderledes i Danmarks kontekst, og selvfølgelig baseret på tilfældige data.
+00:44:58
+Okay, og så har vi en kommentar og en spørgsmål her, hej Mia, flot præsentation, Kodi har
+tænkt på socialvulnerabilitetindekser og dokumenteret arbejde i et papir og bruger det til
+tredje runde af løsning.
+00:45:12
+Socialvulnerabilitet er internationalt brugt til at korrigere biases og økonomisk tjening, men
+mængden, du kalkulerer, er tydeligt korreleret med økonomisk vulnerabilitet.
+00:45:24
+Har du studeret det udfærdigt, eller vil du gøre det?
+00:45:28
+Ja,.
+00:45:30
+Så forholdet mellem social- og økonomiske vulnerabiliteter, Det er ikke noget, vi har tænkt
+på.
+00:45:38
+Men det ville være interessant at forstå, til hvilken grad de er korreleret.
+00:45:47
+Men det er også, som du siger, at den sociale forvandling er brugt til at korrigere den
+økonomiske bias.
+00:45:54
+Men det kan også være, at det afhænger af, hvordan du tæller de forskellige faktorer i
+relation til hinanden.
+00:46:03
+En anden interessant dimension for fremtidige forskning, som jeg ikke nævnte, er, at når
+man ser på risiko og forstår risiko, hvordan balancerer man mellem sociale risiko,
+økonomiske risiko og måske også andre aspekter af risiko, f.eks.
+00:46:18
+Økologiske risiko eller forhold til naturen.
+00:46:23
+Jeg vil sige, at mere arbejde skal gøres for at se, hvordan de er korreleret, men også,
+hvordan vi prioriterer forskellige aspekter, når vi tænker om total.
+00:46:33
+Risk.
+00:46:35
+Hi Mia, awesome work.
+00:46:40
+I noticed that your published paper mentions that the data used will become available later
+in 2024.
+00:46:48
+Is there any idea.
+00:46:49
+Around when that will be?
+00:46:52
+Yes, so as I mentioned on the last slide there, the data is now available.
+00:46:59
+Du kan se det på WebGIS på Kirsten Løfter Aaders website.
+00:47:07
+Den sociale forvandlingsindeks er tilgængelig på national skala.
+00:47:11
+Der er også nogle sociale risikodata.
+00:47:15
+Selvfølgelig er ikke alle indikatorer og subindikatorer.
+00:47:21
+Tilgænglig,.
+00:47:24
+Men du kan se en overvej for den sociale forvandling og risiko.
+00:47:32
+Og så har vi en anden.
+00:47:33
+Tak for en spændende præsentation.
+00:47:36
+Kan du vise, hvor der er forskelligheder mellem din nationaldesignation via de to sociale
+indsatser og de områder, der er designeret som risikområder via EU og.
+00:47:50
+KURI?
+00:47:51
+Jeg tror, at jeg nævnte, at i denne sociale risikomapping på en national skala, Hvad vi så, var,
+at når vi kondukterede denne risikomapping, og så kiggede vi på hotspots af
+risikomappinger, og så komparerede det til risikomæssighederne under den anden cykel af
+fløjtsdirektivet, så så vi nogle forskelligheder.
+00:48:17
+For eksempel området rundt Aarhus og Limfjorden.
+00:48:22
+Det var områder, hvor man så høje koncentrationer af risikomæssigheder.
+00:48:29
+Men de var områder, der ikke blev anmeldt som risikoområder.
+00:48:34
+Men nu, som jeg nævnte, har den sociale data blevet tilføjt i forslaget anmeldelse for den
+tredje runde af flødsdirektivet, der er pågående nu.
+00:48:46
+Så de skal blive mere reflekseret i anmeldte risikoområder, men vi har udviklet mange nye
+modeller, både risikoområde, social vulnerabilitet og økonomisk, modeller for den nye cykel
+af flødsregler, så jeg kan ikke sige, hvilke områder der har været anmeldt, og hvordan det
+faktisk er lagt til samfundsvulnerabiliteten.
+00:49:09
+Det er baseret på et antal forskellige faktorer, hvis det har lov til.
+00:49:13
+At gøre.
+00:49:14
+Tak.
+00:49:15
+Har du nogle indsatser på de mest vulnerable grupper i Danmark?
+00:49:21
+Hvad kan det betyde at tænke, at der ikke er ufrikelige samfund, fordi leverstandarden i
+Danmark er høj?
+00:49:28
+Er der store forsvarsmæssigheder.
+00:49:30
+I resultatet?
+00:49:32
+Det er en vigtig punkt, tror jeg, og noget, vi også tænkte om meget, når vi udviklede dette
+arbejde.
+00:49:41
+Det er virkelig, at niveauerne af ufrikelse i Danmark må ikke være så som i nogle områder af
+verden, men vi ser stadig en klar forskel.
+00:49:56
+Jeg tror også, at det er vigtigt, at vi ikke kan sige, hvem er den mest forvandlede gruppe,
+men at vi kan sige, at vi ser på de intersekterende forvandlinger og tager en interseksuel
+perspektiv.
+00:50:08
+Det er meget vigtigt.
+00:50:09
+Hvis vi ser på områder, hvor vi har f.eks.
+00:50:12
+Mennesker, der har økonomisk nedsvare, men også er i dårlig hælse, og ikke kan for
+eksempel forstå dansk.
+00:50:20
+De grupper, som vi forventer, vil være højt forvandlede til fløjtning.
+00:50:27
+Men det er også vigtigt, at vi fortsætter med at lave mere samarbejdsforskning på grunden,
+og forstå i specifikke lokale områder, hvordan folk faktisk oplever forvandling, og hvordan
+folk oplever effekterne af en fløjt.
+00:50:44
+Det kan give os mere information om, kontekstualiseringen af forskellen, eller den absolute
+forskel, man kan sige, i vulnerabilitetsniveau.
+00:50:55
+Tak.
+00:50:58
+Vi har en.
+00:51:01
+Her.
+00:51:02
+Der er mange måder at skære og kombinere valg.
+00:51:05
+Kan du fortælle lidt om forskellen i at skære et type af udstyr, 0-10 og social vulnerabilitet?
+00:51:13
+Social vulnerabilitet index er negativt 3 til.
+00:51:17
+3.
+00:51:19
+Ja, som jeg nævnte, er Social vulnerabilitet index baseret på en relativ mærke, og vi bruger
+den her koncept af z-skorer.
+00:51:29
+Så baseret på at mærke fra negativt 3 til positivt 3, var baseret på den beslutning.
+00:51:36
+Men vi kan ikke direkte forholde den negativt 3 til positivt 3 range med den fra 1 til de 10
+rænge, som jeg nævnte i udstyr, og derfor rekategoriserede vi de værdier.
+00:51:49
+Da vi tænkte på at lave denne sociale risikoindeks, ville vi have sammenlignende kategorier
+for både den sociale vulnerabilitetindeks og udstyrsmålet.
+00:52:01
+Derfor besluttede vi at lave de rekategoriserede indekser, og så havde vi de kategorier, som
+repræsenterede relativt samme niveauer udstyr og forvandling, så vi kunne sammenligne.
+00:52:16
+Dem.
+00:52:17
+Tak for at tilbyde det.
+00:52:22
+Kan disse indelser bruges til at modelle fremtidige risikoscenarier i relation til
+klimaforandring?
+00:52:30
+Ja,.
+00:52:31
+Så de kan være, selvfølgelig, men jeg tror, som jeg også nævnte, at der er nogle risikoer til
+det eller udfordringer, så de Den nemmeste måde at forvandle for fremtidige scenarier er at
+tage fremtidige klimascenarier, altså risikoscenarier, som selvfølgelig er tilgængelige, og så
+kombineres det med den sociale data.
+00:52:57
+Men selvfølgelig er det lidt problematisk, for hvis vi skulle se fremtidige scenarioer i 100 år,
+hvor klimaet har forandret, men vi forventer, at den sociale forvandling bliver den samme,
+Det er ikke en mærkefuld projektion af, hvad fremtiden kan se ud som.
+00:53:15
+Hvis vi gør det, må vi være meget opmærksomme og opmærke, at vi modellerer fremtidens
+klimascenarier til fremtidige demografiske forhold.
+00:53:25
+Det kunne også være muligt at udvikle fremtidige socioekonomiske scenarier, og modelle
+fremtidige potentiale socialvulnerabiliteter baseret på det.
+00:53:36
+Det kan for eksempel gøres ved at nedskalere den globale, samfundsøkonomiske,
+samfundsøkonomiske forvejen, som er samfundsøkonomiske scenarier, der er udviklet af
+IPCC.
+00:53:47
+Det er en afgørelse, som nogle mennesker tager.
+00:53:50
+Man kan også lave en bottom-up, samfunds-økonomisk scenariomodelling, hvor man gør
+participatoriske processer med forskellige eksperter, for eksempelet, hvor man kan
+samarbejde og skabe mulige potentielle demografiske fremtider, og så bruge det til at skabe
+potentiale forfærdelige forvandlingsscenarier.
+00:54:10
+Det ville selvfølgelig være en meget mere involveret process, men jeg tror, at det ville være
+en interessant rejse at tage denne forskning i, for den at være mere betydelig, når vi faktisk
+bruger den til at modelle forfærdige scenarier.
+00:54:24
+Okay, tak.
+00:54:26
+Hvordan ville du gøre NDIS.
+00:54:29
+Mere participativt?
+00:54:31
+Ja, så Jeg synes, at der er mange forskellige måder at gøre det.
+00:54:38
+Men jeg synes, at det er vigtigt at gøre det både i relation til vulnerabilitet og udstyr.
+00:54:46
+Når vi taler om udstyr, som jeg nævnte, så arbejder vi kun med de kritiske service- og
+infrastrukturkategorier.
+00:54:56
+De kan ikke nødvendigvis reflektere, hvilke lokale i en enkelt samfund eller en enkelt
+gruppe mest værdi i deres samfund, og mest værdi med at holde tilgængelse til.
+00:55:09
+Det kan være et første skridt, og vi har arbejdet med det lidt.
+00:55:14
+Men det kan være et første skridt i at forstå, hvordan folk vælger forskellige tjenester i
+relation til hinanden.
+00:55:23
+Så det kan være fem gange mere vigtigt for folk at holde tilgang til et hospital end til et
+skole.
+00:55:29
+Vi har ikke spurgt, vi har bare forstået den samme vigtighed.
+00:55:34
+Så det kunne være en aspekt.
+00:55:36
+Også i relation til vulnerabilitet, så kunne der være participatorligt arbejde gjort, fx i en
+lokal tilfældeområde, for at validere de vulnerabilitetsniveauer med menneskets egne
+forståelser.
+00:55:49
+Så det kunne være at involvere sig i intervjuer eller workshops med forskellige grupper,
+som vi har labelet som vulnerable, som måske har oplevet en flod, og se om vi kan validere
+det eller forstå, om nogle mennesker har haft en hårdere tid ved at købe end andre.
+00:56:11
+Tak Mia.
+00:56:15
+Vi har ikke.
+00:56:15
+Flere spørgsmål i chatten.
+00:56:28
+Tak for præsentationen.
+00:56:47
+Jeg tænker vi runder af.
+00:56:49
+Og tak for nogle gode spørgsmål.
+00:56:52
+Og fordi I tager tid af til at se med.
+00:56:57
+Jeg tænker vi runder den af og så god dag til alle derude.
