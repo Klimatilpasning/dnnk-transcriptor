@@ -36,7 +36,15 @@ PDF_PAGES = {
     "DNNK_Masterclass": "https://www.dnnk.dk/dnnk-masterclass/",
     "Tech_Talks":       "https://www.dnnk.dk/tech-talks/",
     "Godmorgen":        "https://www.dnnk.dk/god-morgen-med-dnnk/",
+    # Kategorier fra dnnk.dk/vidensbank/ der manglede (fundet 23/9-2026)
+    "Fremtidsvaerksted": "https://www.dnnk.dk/fremtidsvaerksted/",
+    "DNNK_arrangementer": "https://www.dnnk.dk/dnnk-arrangementer/",
+    "Vandkanten":       "https://www.dnnk.dk/vandkanten/",
 }
+
+# Højst så mange undersider pr. kategoriside. Tidligere 20, men Tech Talks
+# alene har ~80 undersider, så PDF'er længere nede blev aldrig set.
+MAX_UNDERSIDER = 150
 
 # Foreningsinterne dokumenter (bestyrelsesreferater, generalforsamling,
 # årsberetninger, kontingent) linkes fra alle sider, men hører ikke hjemme i
@@ -49,7 +57,7 @@ INTERNE_PDF = re.compile(
 
 # Linktekster der ikke siger noget om dokumentet ("her >", "Se slides her").
 GENERISK_TITEL = re.compile(
-    r"^(?:(?:se|læs|download|link til)\b.*|.*\bher\b\s*[>.]?|https?://.*|[\w-]+\.pdf)$",
+    r"^(?:(?:se|læs|download|link til)\b.*|link|one-pager|.*\bher\b\s*[>.]?|https?://.*|[\w-]+\.pdf)$",
     re.IGNORECASE,
 )
 
@@ -100,12 +108,12 @@ def scrape_page_for_pdfs(page_url):
         post_links = []
         for link in soup.find_all('a', href=True):
             href = link['href']
-            if 'dnnk.dk' in href and not href.endswith('.pdf') and not '#' in href:
+            if 'dnnk.dk' in href and href.startswith('http') and not href.endswith('.pdf') and not '#' in href:
                 if href not in [page_url]:
                     post_links.append(href)
         
-        # Scan de første 20 undersider (sorteret så udvalget er deterministisk)
-        for post_url in sorted(set(post_links))[:20]:
+        # Scan undersiderne (sorteret så udvalget er deterministisk)
+        for post_url in sorted(set(post_links))[:MAX_UNDERSIDER]:
             try:
                 sub_resp = requests.get(post_url, timeout=15, headers=headers)
                 sub_soup = BeautifulSoup(sub_resp.content, 'html.parser')

@@ -1,0 +1,2932 @@
+=== DNNK PDF Dokument ===
+Titel: almen klimakortlaegning
+Kategori: Rapporter
+Kilde: https://usercontent.one/wp/www.dnnk.dk/wp-content/uploads/2025/11/almen-klimakortlaegning.pdf
+Indekseret: 2026-09-23T10:11:55.933133
+
+==================================================
+
+KLIMAUDFORDRINGER I DEN ALMENE BOLIGSEKTOR   
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Almen Klimakortlægning  
+Klimaudfordringer  
+i den almene boligsektor  
+
+KLIMAUDFORDRINGER I DEN ALMENE BOLIGSEKTOR   
+ 
+ 
+ 
+ 
+ 
+Almen Klimakortlægning  
+Klimaudfordringer i den almene boligsektor  
+Udgivet af Landsbyggefonden. November 2025.  
+Udarbejdet af Landsbyggefonden og Sweco.  
+For- og bagsidefoto: Lars Græsborg Mathiasen, BL 
+ 
+ 
+Landsbyggefonden 
+Studiestræde 50  
+1554 København V 
+ 
+Tlf. 33 76 20 00 
+www.lbf.dk 
+lbf@lbf.dk 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+
+KLIMAUDFORDRINGER I DEN ALMENE BOLIGSEKTOR   
+ 
+ 
+Indhold 
+INDLEDNING 1 
+SAMMENFATNING 3 
+1. FORUDSÆTNINGER 5 
+2. SÆRLIGT SÅRBARE BYGNINGER 8 
+3. RISIKOVURDERING AF STILLESTÅENDE VAND VED EKSTREMREGN 10 
+4. RISIKOVURDERING AF STRØMMENDE VAND VED EKSTREMREGN 17 
+5. SAMLET RISIKOVURDERING FOR EKSTREMREGN – STILLE OG STRØMMENDE VAND 19 
+6. RISIKOVURDERING AF HØJTLIGGENDE GRUNDVAND 25 
+7. RISIKOVURDERING AF STORMFLODER 31 
+8. RISIKOVURDERING AF OVERSVØMMELSE FRA VANDLØB OG ÅER 34 
+9. BYGNINGER I RISIKO FOR OVERSVØMMELSE FRA FLERE KILDER 36 
+10. KLIMASIKRING OG ØKONOMI 43 
+REFERENCER 55 
+APPENDIKS 1: TABELLER 56 
+APPENDIKS 2: KLIMADATA 64 
+APPENDIKS 3: MODELLERING AF DEN ALMENE SEKTOR OG KLIMADATA 66 
+APPENDIKS 4: KOBLING AF KYSTSTRÆKNINGER MED BYGNINGER 68 
+APPENDIKS 5: KLOAKERINGSFORHOLD 71 
+APPENDIKS 6: ØKONOMI 72 
+
+ 
+ 
+1 
+ 
+Klimaforandringerne medfører varmere, vådere og vildere vejr. Dette øger risiko for oversvømmelser både fra 
+oven, fra neden og fra siderne. Oversvømmelser og påvirkning af vand er en tiltagende udfordring, også i den al-
+mene boligsektor. For at imødekomme dette har Landsbyggefonden udarbejdet Almen Klimakortlægning – Lands-
+byggefondens analysemodel til screening af de almene bygninger og boliger for oversvømmelsesrisici. Denne rap-
+port beskriver metode og resultater fra Almen Klimakortlægning. 
+Formålet med Almen Klimakortlægning er to-foldigt:   
+1. Information og vidensdeling: Landsbyggefonden udstiller og visualiserer risikoscreeningen, hvilket giver 
+de almene boligorganisationer et enkelt og tilgængeligt overblik over deres bygningers risiko for over-
+svømmelser. Data bliver tilgængeligt i Landsbyggefondens selvbetjeningsløsninger AlmenGIS og Det Al-
+mene Datavarehus. 
+2. Opgørelse af udgifter til klimasikring af den almene boligsektor: Screeningen estimerer udgifter til 
+lokale klimatiltag i de almene boligafdelinger. Det samlede beløb for klimasikring af sektoren estimeres til 
+ca. 34 mia. kr.   
+ 
+Rapporten er udarbejdet af Landsbyggefonden og Sweco. Derudover er relevante fagpersoner inddraget for at 
+kvalificere metode og beregninger. Det inkluderer bl.a. DTU, DMI, Scalgo, CONCITO m.fl. 
+Den almene boligsektor består af knap 150.000 bygninger, hvoraf ca. 92.000 bygninger indeholder boliger eller 
+sårbare anlæg1. Da bygningsmassen er så stor, er det ikke muligt at foretage en visuel og kvalitativ screening af alle 
+bygninger. Screeningen bygger således på en kvantitativ og datadreven metode baseret på data fra Scalgo samt 
+det data fra statslige institutioner, der var repræsenteret i Miljøstyrelsens screeningsværktøj KAMP på tidspunktet 
+for analysen (efterår 2024 – efterår 2025).  
+Almen Klimakortlægning er baseret på modeldata, og er en screening, der skal tillægges en usikkerhedsmargin. 
+Landsbyggefonden lægger derfor op til, at almene boligorganisationer supplerer resultaterne med lokal viden fra 
+bl.a. boligorganisationernes driftspersonale. Dette vil bidrage til et mere retvisende billede af bygningernes reelle 
+skadesrisiko ifm. oversvømmelser.  
+Almen Klimakortlægning screener for fem oversvømmelseskilder: 
+• Stillestående vand ifm. ekstremregn  
+• Strømningsveje ifm. ekstremregn 
+• Stormflod 
+• Overløb af vandløb og åer 
+• Højtliggende grundvand 
+ 
+For alle fem kilder bygger risikovurderingen på en række hændelsesniveauer, som oftest 5-, 10-, 20-, 50- og 100-års 
+hændelserne for oversvømmelser, som omregnes til en risikokategori. Som udgangspunkt vil en oftere forekom-
+mende hændelse give anledning til en højere risikokategori end en sjældnere forekommende hændelse. Fx vil en 
+ 
+1 De resterende ca. 55.000 bygninger er bl.a. fælleshuse, cykelskure, institutioner, erhverv mm.  
+Indledning 
+
+ 
+ 
+2 
+ 
+bygning, der oversvømmes ved en 5-års hændelse, som udgangspunkt være vurderet i højere risiko end hvis 
+samme bygning først blev oversvømmet ved en 50-års hændelse.  
+I Almen Klimakortlægning, anvendes en skala med fem risikokategorier, fra grøn (umiddelbart ikke i risiko) over gul 
+(lille risiko), orange (mellem risiko) og rød (stor risiko) til dyb rød (meget stor risiko). Kriterierne for farveinddelin-
+gerne står beskrevet i de respektive kapitler (kapitel 3-8).  
+Tabel 1: Definition af risikokategorierne 
+Risikokategori Fortolkning 
+Grøn Bygningen er som udgangspunkt ikke i risiko for oversvømmelse. Dog kan en mere end 
+ekstrem hændelse eller klimaforandringer i fremtiden føre til, at bygningen påvirkes. 
+Gul Bygningen har en lille risiko for oversvømmelse.  
+Orange Bygningen har en medium risiko for oversvømmelse.  
+Rød Bygningen har stor risiko for oversvømmelser, eller blot en risiko for oversvømmelse fra 
+vandløb og åer, idet denne kun inddeles i to risikokategorier.   
+Dyb rød Bygningen har meget stor risiko for oversvømmelser.  
+Kilde: Landsbyggefondens definitioner 
+I de tilfælde, hvor data kan baseres på forskellige klimascenarier (lavt til meget højt udledningsscenarie), er der ta-
+get udgangspunkt i et relativt højt klimascenarie. Dette er valgt, for hellere at risikere at overvurdere en bygnings 
+risiko frem for at undervurdere den, og i værste fald risikere at undlade at markere en bygning i risiko som risiko-
+truet. Dvs. modelleringen sigter mod at undgå falsk-negative klimaudsatte bygninger. 
+Derudover opgør denne rapport også andre sårbarhedsfaktorer for bygningerne såsom kloakeringsforhold, bebo-
+ersammensætning og tekniske anlæg. Der findes ikke data for andre relevante forhold, fx sokkelhøjde, kælder-
+skakte og bygningsskader. 
+I rapporten opgøres klimaudfordringerne både ift. antallet af bygninger og boliger, som påvirkes heraf. Opgørelsen 
+på boligniveau omfatter alle almene boliger i de enkelte bygninger og ikke blot de boliger, som er direkte påvirket 
+af oversvømmelserne. Dette er relevant, da eventuelle klimasikringstiltag har en huslejepåvirkning for samtlige 
+boliger i boligafdelingen grundet den økonomiske balanceleje på tværs af alle boliger i en boligafdeling. Det vil sige, 
+at laves ét tiltag i stueetageniveau, påvirker det også de øvrige boligers husleje. Desuden påvirkes samtlige bebo-
+ere, hvis kælderrum eller adgangsforholdene til bygningen oversvømmes.  
+Rapporten indleder med en sammenfatning af resultater, efterfulgt af forudsætninger for analysen. Derefter følger 
+en beskrivelse af udpegning af særlig sårbare bygninger efterfulgt af seks kapitler, der fokuserer på metode og re-
+sultater indenfor de fem forskellige oversvømmelseskilder, herunder et sammenfattende kapitel om kombinatio-
+nen af strømmende og stillestående vand ved ekstremregn. Kapitel 9 beskriver bygninger med risiko for flere typer 
+oversvømmelser, og i kapitel 10 præsenteres økonomien bag de estimerede klimatilpasningsløsninger.  
+Oversvømmelser er blot en ud af flere klimapåvirkninger, som bygningerne udsættes for. På sigt kan mulighederne 
+for at screene sektoren for andre klimaforhold, herunder vind, hedebølger og tørke undersøges.  
+God læselyst. 
+ 
+  
+
+
+ 
+ 
+3 
+ 
+Almen Klimakortlægning viser, at 75 % af alle bygninger i den almene boligsektor er udsatte ift. vand. Andelen sti-
+ger til 89 %, hvis udsatheden opgøres på antal boliger i bygningerne i stedet for blot på bygninger.  
+Den største risikokilde i sektoren er højtliggende grundvand. Her er i alt 67 % af bygningerne i sektoren i mere eller 
+mindre grad påvirket (gul og rød bjælke i figur A), hvoraf 26 % af sektoren er i høj risiko (rød bjælke), dvs. grund-
+vandsspejlet ligger i samme niveau som fundamentet, eller ikke langt fra. 
+Figur A: Bygninger i risiko for oversvømmelser fordelt på oversvømmelseskilder 
+ 
+Note: ”Ekstremregn samlet” er en kombination af risici fra stillestående (”Ekstremregn”) og strømmende vand (”Strømningsveje”) ved ned-
+børshændelser.  
+Kilde: Landsbyggefonden pba. Scalgo, KAMP og DMI Klimaatlas 
+Omkring en tredjedel af sektoren har potentielt udfordringer med ekstremregn, enten i form af stillestående eller 
+strømmende vand. Heraf har et overvejende flertal af bygninger store udfordringer, dvs. bygningerne ligger steder, 
+hvor man allerede i dag må forvente oversvømmelser forholdsvis ofte. Med tanke på, at de fleste klimascenarier 
+medfører øgede regnmængder i fremtiden, må det påtænkes, at disse risici fremadrettet øges.  
+Derimod er udfordringerne med oversvømmelser fra stormflod og vandløb forholdsvis begrænsede. I få lokale 
+områder vil begge forhold dog udgøre en væsentlig risiko. 
+Omkostningerne til at klimasikre den almene boligsektor estimeres til at udgøre mellem 30,5 og 38,1 mia. kr. over 
+de næste 20 år, med en gennemsnitspris på kr. 34,3 mia. kr. Heraf udgør udgifterne til klimasikring ift. ekstremregn 
+langt størstedelen med 87 %, jf. figur B. Sikring imod oversvømmelse fra grundvand er næststørste post på 12 %, 
+og udgifterne til sikring mod stormflod og oversvømmelse fra vandløb og åer er begrænsede.  
+  
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+Ekstremregn Strømningsveje Ekstremregn
+samlet
+Grundvand Vandløb Stormflod
+Berørt Hårdt berørt
+Sammenfatning  
+
+ 
+ 
+4 
+ 
+ 
+Figur B: Udgifter til klimasikring fordelt på oversvømmelseskilder (gennemsnitspris, mio. kr.) 
+ 
+Kilde: Sweco og Landsbyggefonden pba. Scalgo, KAMP og DMI Klimaatlas.  
+Rapportens opgørelse af udgifterne til klimasikring af den almene boligsektor er konsistent med andre rapporters 
+estimater for hele landet. Se DTU (2024), som er den mest sammenlignelige rapport, da denne også omfatter ud-
+gifter til klimasikring ift. ekstremregn.  
+Det skal dog bemærkes, at det kan være vanskeligt at sammenligne de eksakte udgiftsniveauer på tværs af rappor-
+ter. Det skyldes forskellige metodevalg, herunder prissætningen og detaljeringsgraden af klimasikringen. Desuden 
+er alle estimater forbundet med usikkerhed.   
+   
+Ekstremregn
+29.809 mio. kr.
+87%
+Vandløb og åer
+170 mio. kr.
+0%
+Stormflod 
+394 mio. kr.
+1%
+Grundvand
+3.958 mio. kr.
+12%
+
+ 
+ 
+5 
+ 
+I dette kapitel beskrives metoden bag Almen Klimakortlægning. Det omfatter valg af data, herunder klimascenarier 
+og tidshorisont, valg af hændelsesniveauer, hvad disse hændelser betyder, samt hvor ofte Almen Klimakortlægning 
+forventes at blive opdateret. 
+1.1 Hændelser og vandmængder 
+Almen Klimakortlægning bygger på hændelsestabeller2 for de en-
+kelte oversvømmelseskilder. I tabellerne fremgår lokale hyppigheder 
+for, og omfanget af, de enkelte hændelser. Til analyser af risiko for 
+udsathed ved ekstremregn anvendes data fra Scalgo, mens analyser 
+for oversvømmelsesrisiko fra grundvand samt vandløb og åer er 
+hentet fra Miljøstyrelsens online tilgængelige screeningsværktøj, 
+KAMP, i efteråret 2024. KAMP udstiller de nationale tilgængelige 
+vanddata. Til analyse af oversvømmelsesrisiko for stormflod er an-
+vendt data fra DMI’s klimaatlas samt KAMP3. 
+Som udgangspunkt anvender denne rapport data for alle tilgængelige hændelser for den enkelte oversvømmelses-
+kilde. For ekstremregn er det fx 5-, 10-, 20-, 50- og 100-års hændelserne, mens DMI’s Klimaatlas kun opgør 20-, 50- 
+og 100-års hændelserne for stormflod. I tabel 1.1 vises eksempler på hændelsestabeller for tre kommuner i hhv. 
+den vestlige, nordlige og østlige del af landet. 
+Tabel 1.1: Eksempler på hændelsestabel for tre kystnære kommuner 
+ Hændelse 
+Nedbør i mm  5-års 10-års 20-års 50-års 100-års 
+Esbjerg Kommune  32 37 44 53 62 
+Dragør Kommune 30 36 43 53 62 
+Frederikshavn Kommune 32 38 44 54 63 
+Stormflod i cm 5-års 10-års 20-års 50-års 100-års 
+Esbjerg Kommune  
+Vadehavskyst nordlig Kyststrækning - - 375,3 399,3 413,3 
+Dragør Kommune  
+Køge Bugt Kyststrækning - - 174,7 181,7 185,7 
+Frederikshavn Kommune  
+Kattegatkyst nordlige Kyststrækning - - 146,9 153,9 157,9 
+Note: Stormflod er opgjort for perioden 2011-2040 med udgangspunkt i et højt udledningsscenarie (SSP3-7) 
+Kilde: Nedbør: Scalgo, jf. appendiks 2.1. Stormflod: DMI Klimaatlas (v. 2024b, hentet 20/6 2025)  
+ 
+2 Begrebet ”Hændelsestabeller” bliver i denne rapport anvendt som en fællesbetegnelse for data på de forskellige hændelsesniveauer ved forskellige typer 
+oversvømmelser og ved forskellige lokationer. Læs mere om data i Appendiks 2.  
+3 Se Appendiks 2 
+1. Forudsætninger 
+Forklaring af hændelser 
+En X -års hændelse , fx 20 -års hændelse 
+kan fortolkes som sandsynligheden for at 
+hændelsen indtræffer i et givent år. Fx vil 
+en 20 -års hændelse i gennemsnit fore-
+kommet hvert 20. år, svarende til 5 % 
+sandsynlighed for at den indtræffer i et gi-
+vent år.  
+
+ 
+ 
+6 
+ 
+For hver hændelse fremgår den vandmængde, som hændelsen giver anledning til. For ekstremregn angives mæng-
+den af nedbør i mm i hver kommune. For stormflod er der tale om en angivelse af højden på stormfloden i cm for 
+hver kyststrækning.  
+I de fleste tilfælde er der kun begrænset geografisk variation i omfanget af samme hændelse. Fx varierer en 20-års 
+hændelse for ekstremregn blot ca. 7 mm fra laveste til højeste værdi mellem landets kommuner, fra 40,2 mm til 
+47,2 mm, se figur 1.1.1.  
+Tilsvarende er stormflodshændelserne også forholdsvis ens på tværs af de fleste kyststrækninger med undtagelse 
+af den jyske vestkyst, som rammes kraftigere, jf. figur 1.1.2, der viser medianen for en 20-årshændelse i perioden 
+2011-2040 ved udledningsscenarie SSP3. 
+Figur 1.1.1: Nedbør ved en 20-års hændelse fordelt 
+på kommuner  
+Figur 1.1.2: Stormfloder ved en 100-års hændelse i 
+2011-2040, SSP3-7 fordelt på kystområder 
+ 
+ 
+Kilde: Landsbyggefonden pba. Scalgo, jf. appendiks 2.1 Kilde: Landsbyggefonden pba. DMI 
+1.2 Tidshorisont og klimascenarier 
+1.2.1 Tidshorisont i beregningerne 
+Almen Klimakortlægning tager udgangspunkt i beregninger om det nutidige klima, dvs. modelberegninger for den 
+periode vi er i nu (2025). Det varierer mellem datasæt, om der er en specifik årrække eller ej, og i så fald hvilken 
+årrække data dækker over. Læs mere om det anvendte data i appendiks 2.  
+1.2.2 Klimascenarier  
+Et klimascenarie er forskellige beregninger for hvordan klimaet udvikler sig. I DMIs klimaatlas findes stormflods-
+data for forskellige klimascenarier. Her anvendes scenarie SSP3-7,0, i Almen Klimakortlægning i overensstemmelse 
+med DMI’s anbefalinger til valg af klimascenarie (DMI, 2025b). 
+
+
+ 
+ 
+7 
+ 
+Denne analyse indeholder ikke data for forskellige hændelsesniveauer i fremtiden, men ud fra en betragtning om, 
+at klimaet bliver voldsommere, kan man med rette antage, at hvad der i dag er en sjælden hændelse, fremover 
+bliver en stadig hyppigere hændelse, se fx DTU (2024).   
+Figur 1.2 Overordnet struktur i ændringer af hyppigheder for skybrud og stormfloder i perioden år 2024 
+til år 2124 
+ 
+ 
+Kilde: DTU (2024)  
+1.3 Opdatering og revidering 
+Almen Klimakortlægning opdateres efter behov, så screeningen så vidt muligt baseres på de seneste tilgængelige 
+klimadata.  
+
+
+ 
+ 
+8 
+ 
+I Almen Klimakortlægning identificeres en række risikofaktorer for de almene bygninger, som bevirker, at de er 
+særligt sårbare overfor oversvømmelser, og derfor har større behov for klimasikring. Det omfatter: kloakeringsfor-
+holdene i området, tilstedeværelsen af elevatorer eller andre tekniske anlæg i bygningerne, beboersammensæt-
+ningen samt særlige bygningsmæssige forhold.  
+Der er knap 35.000 almene bygninger som har mindst én af disse sårbarhedsfaktorer. I disse bygninger er der 
+knap 317.000 almene boliger. Dermed kan 38 % af bygningerne og 53 % af de almene boliger karakteriseres som 
+værende særligt sårbare.  
+2.1 Kloakeringsforhold 
+I områder med fælleskloakering, dvs. hvor samme kloakrør både anvendes til regnvand og spildevand, er der risiko 
+for, at oversvømmelser skaber et øget pres på kloakkerne, som medfører, at spildevand ledes tilbage ind i bygnin-
+gerne via afløbene. Det udgør en potentiel sundhedsfare for beboerne, hvorfor bygninger beliggende i områder 
+med fælleskloakering vurderes at være særligt sårbare. 
+I Almen Klimakortlægning baseres oplysningerne om kloakeringen på spildevandsplaner indberettet til Plandata. 
+Opgørelsen heraf baseres på de aktuelle kloakforhold4.  
+Der er ca. 29.200 almene bygninger med ca. 251.000 boliger, som ligger i områder med fælleskloakering. Det sva-
+rer til knap 32 % af bygningerne og 42 % af de almene boliger.  
+2.2 Tekniske anlæg og elevatorer 
+Bygninger med ”tekniske anlæg” og elevatorer udgør en særlig risikogruppe, da oversvømmelse både kan medføre 
+direkte skader på installationerne samt medføre risiko for kortslutning med dertil hørende følgeskader på bygnin-
+gen. Derudover kan beboere i en bygning med elevator være afhængig af elevatoren og lider derfor større last, 
+hvis elevatoren sættes ud af drift pga. oversvømmelse.  
+Tekniske anlæg defineres i denne sammenhæng, som bygninger der i BBR er klassificeret som ”bygninger med 
+energiproduktion”5 eller som i KAMP er klassificeret som ”sårbare bygninger”. Der er ca. 3.100 bygninger med tek-
+niske anlæg eller elevatorer i sektoren og disse huser ca. 82.200 boliger. 
+2.3 Beboersammensætningen: Ældreboliger 
+Bygninger med almene ældreboliger er potentielt mere sårbare end bygninger med andre boligtyper. Det skyldes, 
+at ældreboliger i højere grad ligger i bygninger med tilgængelighedstiltag, herunder indgange med niveaufri ad-
+gang. Dette øger risikoen for påvirkning og indtrængning af vand selv ved mindre oversvømmelseshændelser, og 
+altså formentlig også ved mindre vand end de 10 cm, der anvendes som minimumskriteriet ift. ekstremregn i 
+denne rapport.  
+ 
+ 
+4 For fremtidige kloakplaner se Appendiks 5 
+5 Det omfatter BBR-anvendelseskoderne 230, 231, 232, 233, 234 og 239  
+2. Særligt sårbare bygninger 
+
+ 
+ 
+9 
+ 
+Derudover kan det ikke udelukkes, at beboerne i ældreboliger også er mere udsatte ifm. oversvømmelser, da der 
+må forventes en større andel af beboere med mobilitetsbesvær.  
+Der er ca. 6.400 bygninger med mindst én ældrebolig i bygningen. I disse bygninger er der knap 52.000 almene 
+boliger, hvoraf ældreboligerne udgør størstedelen.  
+2.4 Særlige bygningsmæssige forhold: Sokkel-, dør- og vindueshøjder 
+Nogle byggetekniske valg gør bygningen særligt udsat for oversvømmelser, fx lav sokkelhøjde eller døre og vinduer 
+i niveau med terræn. Der findes dog ikke et komplet datasæt, som indeholder oplysninger om dette. Det er derfor 
+ikke aktuelt muligt at tage højde herfor i risikovurderingen. 
+
+ 
+ 
+10 
+ 
+De følgende kapitler (3-8) fokuserer på hver af de fem oversvømmelseskilder: ekstremregn – både samlet og indivi-
+duelt for stillestående og strømmende vand, grundvand, stormflod, oversvømmelse fra vandløb og åer. I hvert ka-
+pitel bliver metoden og resultaterne af risikoinddelingerne præsenteret. Dertil bliver andelen af bygninger med 
+andre sårbarhedsfaktorer opgjort samt klimasikringstiltag og omkostningerne hertil beskrevet.  
+Dette kapitel omhandler det stillestående vand ved ekstremregn. Påvirkningerne fra strømningsvejene behandles i 
+kapitel 4 og endeligt behandles de to problemstillinger samlet i kapitel 5. Klimasikringstiltag og omkostningerne 
+hertil behandles først i kapitel 4, da disse er uafhængige af om vandet lægger sig ved eller strømmer langs bygnin-
+gen.  
+3.1 Metode  
+Til risikovurdering af oversvømmelse i forbindelse med stillestående vand ved ekstremregn er anvendt oversvøm-
+melsesdata fra Scalgo. Inddelingen af risikokategorier bygger på en model, der kombinerer: 
+• Sandsynlighed for oversvømmelse (kategorier: A–F, hvor A er lavest risiko) 
+• Oversvømmelsesomfang (skala: 1–5, hvor 5 er mest omfattende) 
+ 
+Disse to parametre kombineres til en samlet risikovurdering, som placerer bygningen i en af de fem farvekodede 
+risikokategorier, jf. tabel 1. Se nedenstående figur. 
+Figur 3.1: Model for ekstremregn 
+ 
+ 
+Kilde: Landsbyggefonden 
+3. Risikovurdering af stillestående 
+vand ved ekstremregn 
+
+ 
+ 
+11 
+ 
+3.1.1 Evaluering af sandsynligheden for oversvømmelse ved stillestående regnvand 
+Første skridt i modellen er at vurdere sandsynligheden for, at bygningen vil blive oversvømmet. Vurderingen af 
+dette, foretages pba. data for ekstremregn ved forskellige hændelser på kommunalt niveau. Data på nedbørshæn-
+delser og oversvømmelsesdata for samtlige almene bygninger er fra Scalgo, beregnet på baggrund af deres sky-
+brudskort6.  
+Almen Klimakortlægning lægger sig op ad branchestandarden for hvornår vand ved bygningerne anses som en 
+risiko, dvs. hvor dybden er mere end 10 cm7. Det evalueres altså, om en bygning oversvømmes med minimum 10 
+cm regnvand ved hhv. en 5-, 10-, 20-, 50- og 100-års hændelse for ekstremregn i den pågældende kommune. 
+I screeningsmodellen konverteres hændelserne til en sandsynlighedskategori rangerende fra A (mindst sandsynlig-
+hed for oversvømmelse) til F (størst sandsynlighed for oversvømmelse). Det defineres ud fra hvilken hændelse, der 
+skal til, før bygningen oversvømmes. Et ”F” indikerer således, at bygningen oversvømmes allerede ved en 5-års 
+hændelse, ”E” indikerer en oversvømmelse ved en 10-års hændelse osv. ned til ”A”, som indikerer, at bygningen 
+ikke oversvømmes selv ved en 100-års hændelse.  
+Tabel 3.1.1: Definitioner på sandsynlighedskategorier 
+Kategori                                                                                                     Definition 
+A Maksimum oversvømmelsesdybde v. 100-års hændelse mindre end 10 cm 
+B Maksimum oversvømmelsesdybde v. 100-års hændelse >=10 cm 
+C Maksimum oversvømmelsesdybde v. 50-års hændelse >=10 cm 
+D Maksimum oversvømmelsesdybde v. 20-års hændelse >=10 cm 
+E Maksimum oversvømmelsesdybde v. 10-års hændelse >=10 cm 
+F Maksimum oversvømmelsesdybde v. 5-års hændelse >=10 cm 
+Kilde: Landsbyggefonden 
+En bygning, der rammes før eller ved en 100-års hændelse, får således en sandsynlighedskategori fra den mindste 
+hændelse, den bliver ramt af og opefter. For at give blot én risikovurdering pr. bygning, tildeles bygningen den hø-
+jeste sandsynlighedskategori, som den indgår i. Dvs. ”F”, som udgangspunkt har forrang for ”E”, som til gengæld 
+har forrang for ”D” osv.  
+Hvis oversvømmelsens omfang (dybden og længden af oversvømmelsen som er i kontakt med bygningen) er hø-
+jere ved en lavere sandsynlighedskategori, flyttes bygningen til den lavere sandsynlighedskategori, dog ikke hvis 
+den lavere sandsynlighedskategori medfører en lavere risikovurdering, se afsnit 3.1.4. 
+3.1.2 Evaluering af oversvømmelsesomfanget8 
+Næste skridt i modellen er at vurdere omfanget af de oversvømmelser, som sker ved de enkelte hændelser/sand-
+synlighedskategorier (dvs. i kategorierne B til F). Det sker pba. to parametre, hhv. den maksimale dybde af 
+ 
+6 Se appendiks 2.1. 
+7 Kravet om en dybde på 10 cm ved oversvømmelser er standard ifm. opgørelser af klimaudfordringer. Fx anvendes det i de fleste bluespot-modeller, fx 
+KAMP, ligesom det er minimumskravet for den hollandske ”Bluelabel” model, se fodnote 9.  
+8 I Holland anvender den nationale ”Bluelabel” screeningsmodel, 4 intervaller for oversvømmelsesdybder hhv., 10 -15, 15-20, 20-30 og 30+ cm. Inddeling i 
+Almen Klimakortlægning er dermed mere nuanceret end den hollandske, mens de overordnede kriterieværdier er tilsvarende.   
+
+ 
+ 
+12 
+ 
+oversvømmelsen og størrelsen af oversvømmelsen. Sidstnævnte opgøres ud fra, hvor stor en del af bygningens 
+perimeter, som oversvømmes. Dette opgøres nominelt i meter.  
+Bemærk, at modellen opgør den oversvømmede perimeter nominelt og ikke relativt, dvs. pba. den totale længde af 
+den oversvømmede perimeter fremfor som en procentdel af bygningens totale perimeter. 
+For begge parametre er de fastsatte kriterieværdier og funktioner fremkommet ved at undersøge fordelingerne i 
+datasættet.  
+Som udgangspunkt udgør oversvømmelser med en maksimaldybde på under 10 cm ingen risiko for bygninger (jf. 
+afsnit 3.1.1). Derfor scores oversvømmelser med en dybde på under 10 cm ikke. Dybere oversvømmelser scores 
+efter tabel 3.1.2. 
+Længden af bygningens oversvømmede perimeter scores på samme måde som oversvømmelsesdybden. Dog an-
+vendes den oversvømmede perimeter uden korrektioner og opgjort i meter.  
+Tabel 3.1.2: Scoring af maksimal oversvømmelsesdybde og oversvømmet perimeter for bygninger 
+Værdi Maksimal oversvømmelsesdybde Oversvømmet perimeter 
+1 10 cm – 14 cm Under 4 m 
+2 14 cm – 19 cm 4 m - 9 m 
+3 19 cm – 26 cm 9 m - 16 m 
+4 26 cm – 35 cm 16 m - 25 m 
+5 Over 35 cm Over 25 m 
+Kilde: Landsbyggefonden 
+Intervallerne er dannet på baggrund af en kvadratrodstransformation for hhv. oversvømmelsesdybderne og den 
+oversvømmede perimeter. Se appendiks 2.1.2 og 2.1.3 for de præcise definitioner. 
+Samlet score for stillestående vand  
+For at finde den samlede score for oversvømmelser fra stillestående vand anvendes et vægtet gennemsnit af de to 
+scorer (afrundet til nærmeste hele tal), hvor maksimaldybden af oversvømmelsen tæller 2/3 og perimeteren af 
+oversvømmelsen tæller 1/3.  
+Denne vægtning afspejler, at dybe oversvømmelser alt-andet-lige giver en større sandsynlighed for at vandet træn-
+ger ind i bygningen, fx ved vinduesåbninger eller døre, end en længere oversvømmet perimeter gør.  
+3.1.3 Korrektion for kælderskakter  
+Bygninger med kælderskakter kan udgøre fejlvurdering i data, da modellen beregner en stor oversvømmelse i 
+skakterne, mens disse bygninger i virkeligheden oftest vil have nogen klimasikring ved kælderskakten. Risikoen for 
+disse bygninger bliver dermed let overvurderet i modelberegningerne.  
+Idet der ikke findes registerdata om tilstedeværelsen af kælderskakte og adgangsveje til kældre, er der i Almen Kli-
+makortlægning opstillet en algoritme, som forsøger at identificere bygninger med potentielle kælderskakte:  
+1) Der er kælder i bygningen jf. BBR 2.0. Desuden giver en 5-års hændelse anledning til en oversvømmelse 
+med en maksimal dybde på mere end 30 cm. 
+ 
+
+ 
+ 
+13 
+ 
+2) Oversvømmelsens perimeter ved en 5-års hændelse udgør mindre end 15 % af bygningens samlede peri-
+meter, og oversvømmelsens perimeter er mindre end 20 m. 
+ 
+For kriterium 1 gælder, at kriterieværdien for en 5-års hændelse på 30 cm er fundet ved at sammenholde over-
+svømmelseskort med Google Streetview. Herved har det kunnet konstateres, at en maksimal dybde på 30 cm i tæt 
+på alle/langt de fleste tilfælde opnås i kælderskakter. Grænseværdien på 30 cm er desuden konsistent med AI angi-
+velser af en passende grænseværdi for maksimaldybden af oversvømmelser for en ”normal” bygning9.  
+Kriterium 2 indsnævrer antallet af bygninger fundet i kriterium 1, ved at ekskludere bygninger med store over-
+svømmelsesområder (enten relative eller nominelle), hvor det ud fra en sandsynlighedsvurdering må antages, at 
+en evt. kælderskakt ikke er eneste oversvømmelsesudfordring. Tærskelværdierne for kriterium 2, er bl.a. fundet 
+med sparring fra Sweco sammenholdt med fotos af de berørte bygninger.  
+De bygninger, som opfylder begge kriterier, tildeles sandsynlighedskategorien ”KS” for Kælderskakt. Denne kate-
+gori erstatter bygningens øvrige sandsynlighedskategorisering.  
+Det skal bemærkes, at bygninger i KS-kategorien sagtens kan rammes af oversvømmelser andre steder nær byg-
+ningen ligesom, at disse øvrige oversvømmelser sagtens kan have en sådan karakter, at bygningen burde kategori-
+seres med en ”almindelig” farvekode.  
+Bygninger i KS-kategorien har derfor i endnu højere grad behov end øvrige bygninger for validering af screeningen. 
+Bygningerne i KS-kategorien kategoriseres ligeledes med et oversvømmelsesomfang, dvs. et tal mellem 1 og 5, 
+som angiver den oversvømmede perimeter, jf. afsnit 3.1.2. Idet definitionen på kategorien er, at den oversvøm-
+mede perimeter udgør mindre end 20 m, kan omfanget dog ikke antage værdien 5.  
+I de økonomiske beregninger inddrages bygninger med kælderskakter ligeledes, da der må formodes at være 
+øgede omkostninger til sikring af disse. Herunder også sikring af den øvrige del af bygningsperimeteren. 
+3.1.4 Samlet risikokategorisering af oversvømmelse fra stillestående regnvand 
+Efterfølgende samles sandsynligheds- og omfangskategorierne til en samlet risikovurdering, der består af både et 
+bogstav og et tal, fx ”D3”. Disse risikovurderinger inddeles yderligere i fem farve-kategorier fra grøn over gul til dyb 
+rød – disse udgør den endelige risikokategorisering, jf. tabel 3.1.4.  
+  
+ 
+9 ChatGPT: ”Ved at sammenholde modelberegnet oversvømmelsesdybde med visuel inspektion af bygningers facader og terrænforhold i  Google Street View 
+kan det konstateres, at de største dybder (typisk >30 cm) oftest forekommer i forbindelse med kælderskakter el ler lavtliggende adgangsveje til kældre. Dette 
+underbygges af tilfælde, hvor modellen angiver betydelige vanddybder tæt ved bygninger, som i Street View fremstår højtliggen de med lav eller ingen ter-
+rænkote omkring hovedindgangen”. 
+
+ 
+ 
+14 
+ 
+Tabel 3.1.4: Omregning fra screeningskategorier til screeningsmodel 
+ Oversvømmelsesomfang 
+Sandsynlighedskategori  - 1 2 3 4 5 
+A Grøn - - - - - 
+B - Gul Gul Gul Orange Orange 
+C - Gul Gul Orange Orange Rød 
+D - Gul Orange Orange Rød Rød 
+E - Orange Orange Rød Rød Dyb rød 
+F - Orange Rød Rød Dyb rød Dyb rød 
+KS - - - - - - 
+Note: Sandsynlighedskategorierne svarer til: A: Maks. oversvømmelsesdybde v. 100-års hændelse mindre end 10 cm. B: Maks. oversvøm-
+melsesdybde v. 100-års hændelse >=10 cm. C: Maks. oversvømmelsesdybde v. 50-års hændelse >=10 cm. D: Maks. oversvømmelsesdybde 
+v. 20-års hændelse >=10 cm. E: Maks. oversvømmelsesdybde v. 10-års hændelse >=10 cm. F: Maks. oversvømmelsesdybde v. 5-års hæn-
+delse >=10 cm. 
+Kilde: Landsbyggefonden 
+Da en bygning, der rammes ved en mindre hændelse (fx 5-års hændelse) for det meste også rammes af større 
+hændelser, har bygningen ikke blot én risikovurdering, men en risikoprofil, bestående af flere koblinger mellem 
+sandsynlighedskategori og oversvømmelsesomfang.  
+Fx: En bygning rammes således 
+- 5-års hændelse, ingen oversvømmelse  → Ingen risikovurdering i kategori F 
+- 10-års hændelse, lille oversvømmelse   →  E2 . 
+- 20-års hændelse, større oversvømmelse  →  D4 . 
+- 50-års hændelse, større oversvømmelse  →  C4 . 
+- 100-års hændelse, større oversvømmelse →  B4 . 
+ 
+Bygningen får tildelt en risikovurdering for hver hændelse, den bliver ramt af. Men den endelige risikovurdering, 
+der vises i Landsbyggefondens selvbetjeningsløsninger (Det Almene Datavarehus og AlmenGIS) baseres på den 
+strengeste risikokategori. I eksemplet ovenfor får bygningen fire risikovurderinger, hvor ”rød” er den strengeste. 
+Dermed bliver den overordnede risikokategori ”rød”.  
+3.2 Resultater 
+I det følgende antages det, at de knap 92.000 almene bygninger, der indgår i Almen Klimakortlægning, ikke har no-
+gen klimasikring ift. ekstremregn. Dvs. der er tale om et worst-case scenarie, hvor allerede en 5-års hændelse po-
+tentielt giver anledning til oversvømmelse. Dette giver anledning til, at de almene bygninger inddeles i to grupper, 
+hhv. bygninger i risiko for ekstremregn og bygninger, som ikke er.  
+Der er ca. 25.500 bygninger med 343.000 boliger, som i varierende grader er i risiko for oversvømmelse ved eks-
+tremregn. Det svarer til 27 % af bygningerne og 58 % af boligerne.  
+
+ 
+ 
+15 
+ 
+Blandt de klimaudsatte bygninger indgår 5.600 bygninger med 85.000 boliger, hvor det i denne analyse vurderes, 
+at den primære oversvømmelse sandsynligvis er i en kælderskakt. For disse bygninger er der derfor behov for en 
+nærmere afdækning af klimaudfordringernes omfang. 
+Det efterlader knap 67.000 bygninger, eller knap 3/4 af bygningsmassen, hvor der umiddelbart ikke vurderes at 
+være en risiko for oversvømmelse. Disse bygninger huser dog kun knap 248.000 boliger, dvs. under halvdelen af 
+alle almene boliger. Det indikerer, at det især er mindre bygninger, fx tæt/lavt byggeri eller små etageboliger.  
+Figur 3.2a: Antal bygninger fordelt på risikovurde-
+ring for stillestående vand ved ekstremregn 
+Figur 3.2b: Antal boliger fordelt på risikovurdering 
+for stillestående vand ved ekstremregn 
+  
+Dyb rød                Rød                        Orange                 Gul                         Grøn                      Kælderskakt 
+Note: 271 bygninger med 1.644 boliger har ikke en risikovurdering, og indgår ikke i grafen. 
+Kilde: Landsbyggefonden pba. Scalgo.  
+Knap 4.700 eller ca. 5 % af bygningerne kategoriseres som ”dyb røde”, dvs. hvor en ofte forekommende (som over-
+vejende en 5-års) hændelse giver anledning til store oversvømmelser. Der er ca. 118.000 boliger i disse bygninger. 
+Det svarer til 20 % af alle almene boliger. Det indikerer, at de berørte bygninger oftest er etagebyggeri, som inde-
+holder mange boliger, og som derudover er beliggende i en række af de større byer. 
+Ca. 8.200 bygninger og 91.000 boliger er i den røde kategori, hvor der enten er tale om mellemstore oversvømmel-
+ser ved ofte forekommende hændelser eller store oversvømmelser ved sjældnere hændelser. Det udgør hhv. 9 % 
+af almene bygninger og 15 % af almene boliger. Dvs. der er ligeledes en overrepræsentation af etagebyggeri. 
+Yderligere 4.200 bygninger med ca. 34.000 boliger er ”orange”. Begge tal udgør ca. 5-6 % af de respektive masser. 
+Den orange kategori dækker over alt fra mindre oversvømmelser ved ofte forekommende hændelser til store over-
+svømmelser ved 100-års hændelser. 
+Endeligt er der ca. 2.300 bygninger med 14.400 boliger, begge svarende til 2 %, som vurderes som ”gule”. Dvs. i den 
+mildeste risikokategori, hvor der især er tale om mindre oversvømmelser ved de sjældnere hændelser. 
+66.537
+73%
+2.287
+2%
+4.218
+5%
+8.234
+9%
+4.670
+5%
+5.647
+6%
+247.762
+42%
+14.360
+2%
+34.169
+6%
+91.465
+16%
+117.730
+20%
+85.063
+14%
+
+ 
+ 
+16 
+ 
+Tabellerne i appendiks 1.1 viser fordelingen af bygninger og boliger på sandsynlighedskategorier og oversvømmel-
+sesomfanget, som ligger til grund for figur 3.2.  
+
+ 
+ 
+17 
+ 
+En strømningsvej er den bane, som overfladevand følger, når det bevæger sig fra et nedbørspunkt til det endelige 
+opsamlingspunkt. Strømningsveje opstår som følge af terrænets hældning, belægningstyper (fx asfalt, græs eller 
+jord), afvandingsforhold og eventuelle forhindringer. Strømningsvejene kan både lede til og fra bygningerne, lige-
+som de kan løbe parallelt herved. Strømningsvejene omfatter også egentlige lavninger i terrænet, som opsamler 
+mængder af nedbør, før det evt. strømmer videre.  
+Risikovurderingen for strømningsveje opgøres pba. data fra Scalgo. Det antages, at tilstedeværelsen af en tilstræk-
+kelig stor strømningsvej udgør en potentiel risiko for en bygning, hvorefter den flages som risikotruet.  
+4.1 Metode  
+I Almen Klimakortlægning baseres opgørelsen af kritiske strømningsveje på Scalgo’s generelle definition, som siger, 
+at en strømningsvej er kritisk, hvis arealet af dens opland er større end 1 Ha, dvs. 10.000 m2. Derudover tager risi-
+kovurderingen hensyn til hvilken hændelse, der skal til for at generere denne strømningsvej. Jo oftere forekom-
+mende hændelse, desto højere risikovurdering. 
+Der er valgt at justere på Scalgo’s generelle definition i to tilfælde:  
+1. Strømningsvejene udgør mere end 2 Ha, dvs. mere end det dobbelte af grænseværdien. I tilfælde heraf 
+opgraderes risikovurderingen én kategori. 
+2. For 100-års hændelser sænkes grænseværdien til 0,9 Ha. Det har betydning for hhv. den gule og grønne 
+risikovurdering. Det skyldes det forsigtighedsprincip, der er anlagt i rapporten, hvor der sigtes efter at 
+undgå falsk-negative frem for falsk-positive.  
+ 
+Tabel 4.1: Risikovurdering af strømningsveje 
+Risikovurdering Strømningsvej med  
+1-2 Ha (0,9-2 for gul) ved: 
+Strømningsvej med  
+2+ Ha ved: 
+Grøn Ikke engang 100-års hændelse Ikke engang 100-års hændelse 
+Gul 100-års hændelse  - 
+Orange 50-års hændelse  100-års hændelse 
+Rød 10- eller 20-års hændelse 50-års hændelse 
+Dyb rød 5-års hændelse 10- eller 20-års hændelse 
+Note: En gul risikovurdering opnås allerede ved et strømningsvejsopland på 0,9 Ha. Det betyder, at grønne risikovurderinger kræver un-
+der 0,9 Ha strømningsvejsopland.  
+Kilde: Landsbyggefonden pba. Scalgo 
+4.2 Resultater 
+Der er ca. 10.800 almene bygninger med ca. 121.000 boliger, som potentielt er i risiko for at være påvirket af 
+strømningsveje, dvs. befinder sig i kategorierne fra gul til dyb rød. Langt størstedelen af de berørte bygninger, 
+8.500 og ca. 98.000 boliger, er i de to røde kategorier, jf. figur 4.2. 
+4. Risikovurdering af strømmende 
+vand ved ekstremregn 
+
+ 
+ 
+18 
+ 
+For alle de ikke-grønne risikokategorier er der i gennemsnit ca. 11 boliger i gennemsnit pr. bygning, dvs. at strøm-
+ningsvejene i overvejende grad rammer etagebyggeri. 
+ 
+Figur 4.2a: Antal bygninger fordelt på risikovurde-
+ring for strømningsveje 
+Figur 4.2b: Antal boliger fordelt på risikovurdering 
+for strømningsveje 
+  
+Dyb rød                Rød                        Orange                 Gul                         Grøn 
+Note: 271 bygninger med 1.644 boliger har ikke en risikovurdering, og indgår ikke i grafen. 
+Kilde: Landsbyggefonden pba. Scalgo.  
+80.798
+88%
+1.040
+1%
+1.260
+2%
+2.739
+3%
+5.756
+6%
+469.053
+79%
+11.301
+2%
+12.359
+2%
+30.060
+5%
+67.776
+12%
+
+ 
+ 
+19 
+ 
+I dette kapitel samles resultaterne fra de to forrige kapitler om hhv. oversvømmelser fra stillestående og strøm-
+mende vand ved ekstremregnshændelser.   
+5.1 Bygningernes samlede udsathed for ekstremregn  
+For en række bygninger, som umiddelbart kun er i begrænset risiko for oversvømmelse af stillestående vand ved 
+ekstremregn, ændres billedet, når der tages højde for det vand, der strømmer forbi bygningen.  
+Der er knap. 3.800 bygninger, hvor ekstremregn udgør en begrænset risiko (grøn), men hvor strømningsveje udgør 
+en større risiko (rød eller dyb rød). Disse bygninger er særligt interessante da en traditionel bluespot-analyse for 
+stillestående vand ikke afdækker disse bygningers risiko.  
+Tabel 5.1: Antal bygninger fordelt på udsathed ift. ekstremregn og strømningsveje 
+ Stillestående vand 
+Grøn Gul Orange Rød Dyb rød Kælder I alt 
+Strømningsvej Grøn 61.396 1.519 3.052 6.492 3.157 5.182 80.798 
+Gul 612 43 79 125 121 60 1.040 
+Orange 743 134 82 133 106 62 1.260 
+Rød 1.247 373 376 323 275 145 2.739 
+Dyb rød 2.539 218 629 1.161 1.011 198 5.756 
+I alt 66.537 2.287 4.218 8.234 4.670 5.647 91.593 
+Note: Der ses bort for bygninger med ”ukendt” status i tabellen.  
+Kilde: Landsbyggefonden pba. Scalgo 
+5.2 Samlet risikovurdering for ekstremregn 
+Den samlede risikovurdering for ekstremregn baseres på den højeste kategori af hhv. det stillestående og det 
+strømmende vand. I denne opgørelse antages det, at en gul eller højere strømningsvejskategori har forrang for 
+kælderskakt-kategorierne for det stillestående vand.   
+  
+5. Samlet risikovurdering for 
+ekstremregn – stille og 
+strømmende vand  
+
+ 
+ 
+20 
+ 
+220.065
+37%
+14.487
+3%33.513
+6%
+95.667
+16%
+153.806
+26%
+73.011
+12%
+Figur 5.2.1a: Antal bygninger fordelt på samlet risi-
+kovurdering for ekstremregn 
+Figur 5.2.1b: Antal boliger fordelt på samlet risiko-
+vurdering for ekstremregn 
+ 
+ 
+Dyb rød                Rød                        Orange                 Gul                         Grøn                      Kælderskakt 
+Note: 271 bygninger med 1.644 boliger har ikke en risikovurdering, og indgår ikke i figuren. 
+Kilde: Landsbyggefonden pba. Scalgo. 
+Der er ca. 30.200 bygninger med ca. 370.000 boliger, som vurderes i risiko for ekstremregn (inkl. bygninger, med 
+kælderskakter), når der både tages højde for strømmende og stillestående vand. Det er ca. 5.100 flere bygninger 
+og knap 28.000 boliger end ved opgørelse n på stillestående vand. 
+Der er flest bygninger, som er udsatte for ekstremregn i Aarhus, Odense, København og Aalborg kommuner, jf. 
+figur 5.2.2. Dvs. de fire største kommuner. Derudover skal det bemærkes, at der er forholdsvis mange bygninger 
+som er klimaudsatte for ekstremregn i Esbjerg og Sønderborg kommuner, ca. 800-850.  
+  
+61.396
+67%
+2.234
+2%
+4.152
+5%
+9.214
+10%
+9.415
+10%
+5.182
+6%
+
+ 
+ 
+21 
+ 
+Figur 5.2.2: Antal bygninger pr. kommune berørt af ekstremregn enten ved stillestående eller strøm-
+mende vand, eller begge 
+ 
+ 
+Kilde: Landsbyggefonden pba. Scalgo  
+Hvis der i stedet ses på andelen af bygninger, som er klimaudsatte for ekstremregn ændres konklusionerne jf. figur 
+5.2.3. Her er det i stedet Storkøbenhavn, som især fremstår som klimaudsat, idet mere end hver anden bygning er 
+udsat i de fleste af kommunerne. Heraf størst i Vallensbæk, Frederiksberg og Tårnby kommuner med ca. 3/4 af 
+bygningerne. Mens det samme er tilfældet for lidt mere end 2/3 af bygningerne i Københavns Kommune.     
+  
+
+
+ 
+ 
+22 
+ 
+Figur 5.2.3: Andel bygninger pr. kommune berørt af ekstremregn enten ved stillestående eller strøm-
+mende vand, eller begge 
+ 
+ 
+Kilde: Landsbyggefonden pba. Scalgo  
+5.3 Sårbare bygninger og ekstremregn 
+I den almene boligsektor er der ca. 14.600 bygninger som er klimaudsatte ift. ekstremregn, og hvor det i denne 
+analyse vurderes, at bygningerne har andre sårbarheder, dvs. indeholder ældreboliger, tekniske anlæg eller eleva-
+torer eller ligger i område med fælleskloakker. I disse bygninger er der 227.000 boliger. Dermed ligger knap halv-
+delen af de bygninger, der er i risiko for oversvømmelse fra ekstremregn og 61 % af boligerne i sårbare bygninger. 
+Se tabellerne A1.1.6 og A1.1.7 i appendiks A1. 
+Udbredelsen af sårbare bygninger er stigende med risikovurderingen ift. ekstremregn. Det er tilfældet, uanset om 
+der ses på antallet af sårbare bygninger og boliger i disse eller som andelen af bygningerne i de respektive risiko-
+kategorier som er udsatte. Dvs. der er både flere sårbare bygninger og boliger i den dybt røde kategori end i fx den 
+orange, ligesom andelen af bygninger og boliger, som ligger i sårbare bygninger, er højere i førstnævnte kategori.      
+Endeligt skal det bemærkes, at ca. 2/3 af bygningerne og boligerne i kælderskakt-kategorien regnes som sårbare. 
+  
+
+
+ 
+ 
+23 
+ 
+Figur 5.3: Andel sårbare bygninger og boliger fordelt på risikokategori for ekstremregn (samlet) 
+ 
+Note: I figuren viser en fuld farve andelen af bygninger, mens andelen af boliger vises med en skraveret farve.  
+Kilde: Landsbyggefonden pba. Scalgo, KAMP, BBR og Plandata. 
+5.4 Modellering af den eksisterende klimasikring 
+Nogle steder i den almene boligsektor er der allerede etableret klimasikring, der er med til at afbøde nogle af disse 
+oversvømmelser. Det er dog ikke muligt at inddrage i risikovurderingen, medmindre klimasikringen har medført 
+ændringer i topologien, som højdemodellen opfanger.  
+Det er dog interessant at komme med et modelleret bud på, hvordan risikobilledet ændrer sig, hvis man antager, 
+at bygningerne er klimasikret til et vist niveau.  
+Hvis det antages, at en bygning er sikret til en 5-års hændelse, ses der således bort fra denne hændelse i risikovur-
+deringen, dvs. der ses bort fra ”F-kategorien”. I stedet vurderes bygningen ud fra ”E-kategorien” og lavere katego-
+rier, jf. tabel 5.4.1. 
+Tabel 5.4.1: Eksempel på bygning med korrektion for hypotetiske klimatiltag 
+Bygning 
+Hændelse, der er sikret mod 
+Ingen 5-års 10-års 20-års 50-års 
+Etagebyggeri i København F3 E4 D4 C5 B5 
+Kilde: Landsbyggefonden 
+Som det fremgår af tabellen, vurderes bygningen som udgangspunkt til at være dyb rød i initialscenariet uden kli-
+masikring. I takt med at der antages en stigende klimasikring, ændres bygningens risikovurdering til rød (ved sik-
+ring mod en 10-års hændelse) og til orange (ved sikring mod en 50-års hændelse). 
+For at vurdere den potentielle betydning af eksisterende klimasikring, er der udført en konsekvensberegning, hvor 
+det antages, at alle almene bygninger er klimasikret mod en 10-års hændelse.  
+41% 43%
+46% 46%
+66%
+55%
+58% 58%
+62%
+67%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+Gul Orange Rød Dyb rød Kælder
+
+ 
+ 
+24 
+ 
+Tabel 5.4.2: Antal bygninger og boliger fordelt på risikovurdering med antaget klimasikring mod en 10-års 
+hændelse for ekstremregn (kun stillestående vand) 
+Risikovurdering 
+Bygninger Boliger 
+Antal Ændring Antal Ændring 
+Grøn 66.537 0  247.762 0    
+Gul 2.765 478  16.026  1.666  
+Orange 8.715 4.497  76.198  42.029  
+Rød 7.929 -305  165.500  74.035  
+Dyb rød  0 -4.670  0 -117.730  
+I alt 91.864 0  592.193  0    
+Note: Ændringen opgøres ift. udgangsscenariet, hvor der blev antaget ingen klimasikring af bygningerne i figur 3.2. 
+Kilde: Landsbyggefonden pba. Scalgo.  
+Hvis det antages, at alle almene bygninger er klimasikret til en 10-års hændelse, sker der en generel nedjustering 
+af risikovurderingerne. Det indebærer, at antallet af bygninger i den dybt røde kategori elimineres af definitoriske 
+årsager. Derudover kan der observeres et lille fald i antallet af bygninger i den røde kategori. Til gengæld indehol-
+der kategorien knap dobbelt så mange boliger som i udgangsscenariet. Det indikerer, at det især er de store etage-
+byggerier i byerne, som påvirkes af ændringerne i risikovurderingerne i de mest udsatte kategorier. 
+Den orange kategori er den store nettomodtager af bygninger, idet der ses en stigning på knap 4.500 bygninger i 
+dette scenarie. Det medfører en stigning på 42.000 boliger i kategorien.  
+Endeligt er den gule kategori stort set uændret, mens den grønne kategori pr. definition er uændret. 
+På sigt er det muligt, at de almene boligorganisationer vil kunne registrere deres eksisterende klimasikringsniveau 
+for de enkelte bygninger i screeningsværktøjet i AlmenGIS eller i Landsbyggefondens Datavarehus hvorefter risiko-
+vurderingen genberegnes. 
+
+ 
+ 
+25 
+ 
+Almen Klimakortlægning opgør de almene bygningers udsathed ift. højtliggende grundvand med udgangspunkt i 
+to oplysninger fra BBR:  
+1. Hvorvidt der er en kælder eller ej. 
+2. Hvorvidt bygningen er opført før eller efter 1973. 
+ 
+Bygninger med kælder er som udgangspunkt mere udsatte for højtliggende grundvand end bygninger uden kæl-
+der. Derudover er det nødvendigt at sondre mellem bygninger opført før og efter 1973, da risikovurderingen for 
+grundvand i disse er forskellig (NIRAS for Miljøministeriet (2021)). Det skyldes, at bygninger opført fra 1973 er om-
+fattet af BR72, hvor det blev stillet som krav, at bygherre tog højde for bl.a. grundvandsforhold ifm. opførelsen af 
+bygningen. Før BR72 var det lokale/kommunale reglementer, som regulerede byggeriet. Dermed er der større usik-
+kerhed om fundamentets evne til at håndtere opstigende grundvand. 
+6.1 Metode 
+Risikovurderingen af højtliggende grundvand foretages med udgangspunkt i den mest terrænnære værdi af hhv. 
+sommer- og vintergrundvandsdybderne i KAMP10. For de fleste bygninger vil det være vintergrundvandet, men for 
+et fåtal af bygninger ligger grundvandet mere terrænnært om sommeren.  
+Grænseværdien for hvornår højtliggende grundvand ikke udgør en risiko for bygningerne defineres på baggrund af 
+NIRAS’ angivelse herfor (NIRAS, 2021). Det er dybere end hhv. 2 m fra terræn i bygninger uden kælder og 3 m i byg-
+ninger med kælder. Disse værdier anvendes som grænseværdier for den grønne kategori.  
+Den dybt røde kategori defineres ud fra, om grundvandet ligger nærmere terræn end bygningernes fundament. 
+Det defineres som grundvandsdybder ift. terræn på hhv. 0,5 eller 1,5 m afhængigt af om der er kælder eller ej. For 
+bygninger opført før 1973 (dvs. før BR72) øges grænseværdierne med 0,25 m for at forskyde risikokategorierne, så 
+bygningerne opført før 1973 vurderes til at være i lidt højere risiko ud fra et forsigtighedsprincip. Dvs. grænsevær-
+dierne for den dybt røde kategori for bygninger før 1973 er dybder på hhv. 0,75 m eller 1,75 m fra terræn.  
+De resterende kategorier fordeles ligeligt mellem grænseværdierne for de dybt røde og grønne kategorier, dvs. 
+grænseværdierne øges med 0,5 m fra terræn pr. kategori. For bygninger bygget før 1973, hvor intervallerne er for-
+skudt yderligere 0,25 m, udgøres den gule kategori af grundvandsdybder på 1,75 – 2,0 m fra terræn eller 2,75-3,0 
+m fra terræn i bygninger med kælder. Se tabel 6.1a og 6.1b for alle grænseværdier og intervaller. 
+  
+ 
+10 Læs mere om data i appendiks 2.5 
+6. Risikovurdering af højtliggende 
+grundvand 
+
+ 
+ 
+26 
+ 
+Tabel 6.1a Risikovurdering af højtliggende grundvand bygninger efter 1973 
+Risikovurdering Bygning med kælder Bygning uden kælder 
+Grøn Grundvand under  
+3 m fra terræn 
+Grundvand under  
+2 m fra terræn 
+Gul Grundvand i 2,50-3,00 m Grundvand i 1,50-2,00 m 
+Orange Grundvand i 2,00-2,50 m Grundvand i 1,00-1,50 m 
+Rød Grundvand i 1,5-2,00 m Grundvand i 0,5-1,00 m 
+Dyb rød Grundvand højere  
+end 1,5 m fra terræn  
+Grundvand højere  
+end 0,5 m fra terræn 
+Kilde: Landsbyggefonden pba. KAMP 
+Tabel 6.1b Risikovurdering af højtliggende grundvand bygninger før 1973 
+Risikovurdering Bygning med kælder Bygning uden kælder 
+Grøn Grundvand under  
+3 m fra terræn 
+Grundvand under  
+2 m fra terræn 
+Gul Grundvand i 2,75-3,00 m Grundvand i 1,75-2,00 m 
+Orange Grundvand i 2,25-2,75 m Grundvand i 1,25-1,75 m 
+Rød Grundvand i 1,75-2,25 m Grundvand i 0,75-1,25 m 
+Dyb rød Grundvand højere  
+end 1,75 m fra terræn  
+Grundvand højere  
+end 0,75 m fra terræn 
+Kilde: Landsbyggefonden pba. KAMP 
+6.2 Resultater 
+Ca. 1/3 af de almene bygninger vurderes ikke at være i risiko for højtliggende grundvand, mens det blot er tilfældet 
+for 1/5 af boligerne. Det betyder, at ca. 2/3 af bygningerne og 4/5 af boligerne i varierende grad er udsatte for højt 
+grundvand.  
+Her vurderes 15 % af bygningerne og 41% af boligerne at være maksimalt udsatte, dvs. i den dybt røde kategori. 
+Det indikerer, at det især er bygninger beliggende i byerne som er maksimalt udsatte for grundvand. 
+Den orange kategori udgøres af 30 % af bygningerne men kun 20 % af boligerne. Begge er dog næstmest blandt de 
+udsatte bygninger og boliger. Endeligt er der mellem 7 % og 12 % bygninger / boliger i de gule og røde kategorier.  
+
+ 
+ 
+27 
+ 
+Figur 6.2.1a: Antal bygninger fordelt på risikovurde-
+ring for højt grundvand 
+Figur 6.2.1b: Antal boliger fordelt på risikovurdering 
+for højt grundvand 
+  
+Dyb rød                Rød                        Orange                 Gul                         Grøn 
+Note: 1.655 bygninger med ukendt status indgår ikke. 
+Kilde: Landsbyggefonden pba. KAMP, Septima og BBR 
+Bygningerne i den dybt røde kategori er som overvejende opført før 1973. Det er tilfældet for knap 11.000 ud af de 
+knap 14.000 dybt røde bygninger. Det svarer til, at 1/3 af alle bygninger opført før 1973 er dybt røde, mens det er 
+tilfældet for 59 % af boligerne. Se figur 6.2.2.  
+  
+29.498
+33%
+10.602
+12%26.688
+30%
+9.517
+10%
+13.904
+15% 117.035
+20%
+41.990
+7%
+116.551
+20%
+68.205
+12%
+237.321
+41%
+
+ 
+ 
+28 
+ 
+Figur 6.2.2: Antal bygninger og boliger fordelt på risikovurdering for højt grundvand og opførelsesår 
+ 
+Note: 1.655 bygninger med ukendt status indgår ikke. 
+Kilde: Landsbyggefonden pba. KAMP, Septima og BBR 
+Bygningerne i den dybt røde kategori har som overvejende kælder. Det er tilfældet for knap 12.500 ud af de 14.000 
+bygninger med denne markering. Det er endnu mere udtalt, når man ser på antallet af boliger. 229.000 ud af 
+237.000 boliger i den dybt røde kategori ligger i bygninger med kælder.  
+57 % af alle bygninger med kælder har en dyb rød markering, og disse huser 67 % af alle boliger i bygninger med 
+kældre. Mens det kun er 22 % af bygningerne uden kælder og 14 % af boligerne heri som vurderes at være uden 
+risiko for højtliggende grundvand. De resterende ca. 20 % af bygningerne og 18 % af boligerne har varierende risi-
+koprofiler. Det viser, at der som overvejende er en oversvømmelsesrisiko forbundet med at have en kælder. 
+I bygninger uden kælder er risikoprofilen noget mere gunstig. 35 % af bygningerne men kun 28 % af boligerne vur-
+deres, at være uden for risikogruppen. Den største risikokategori er ”orange” med 37 % af bygningerne og 41 % af 
+boligerne. Det skal bemærkes, at grundvandsdybden i den orange kategori for bygninger uden kælder er identisk 
+med grundvandsdybden i den dybt røde kategori for bygninger med kælder. Dvs. fraværet af en kælder i en byg-
+ning, reducerer risikokategorien fra dyb rød til orange.    
+ 
+ 
+  
+29%
+9.765
+34%
+19.733
+16%
+47.985
+23%
+69.050
+4% 1.480
+16%
+9.122
+3% 7.964
+12%
+34.026
+21%
+6.891
+34%
+19.797
+10% 31.005
+29%
+85.546
+13%
+4.246
+9% 5.271
+11% 32.291
+12%
+35.914
+33%
+10.929
+5% 2.975
+59%
+175.410
+21%
+61.911
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Opført før 1973 Opført efter 1973 Opført før 1973 Opført efter 1973
+Antal bygninger Antal boliger
+Grøn Gul Orange Rød Dyb rød
+
+ 
+ 
+29 
+ 
+Figur 6.2.3: Antal bygninger og boliger fordelt på risikovurdering for højt grundvand og kælder 
+ 
+Note: Bygninger med ukendt status indgår ikke. 
+Kilde: Landsbyggefonden pba. KAMP og Septima og BBR 
+6.3 Sårbare bygninger og højtstående grundvand  
+Knap 2/3 af alle bygninger og boliger med en dybt rød risikovurdering har andre sårbarhedsfaktorer. Størstedelen 
+af bygningerne (92 %) ligger i områder med fælleskloakering, 12 % har elevatorer og/eller tekniske anlæg11 mens 
+der er ældreboliger i 7 %. Se tabel A1.2.4 i appendiks.  
+Hvis der i stedet måles på antallet af boliger med disse sårbarheder, ses en stigende andel af boliger med sårbar-
+heder ift. elevator og tekniske anlæg (29 %). Det skyldes, at elevatorer især findes i højere bygninger (mindst 3 eta-
+ger), som indeholder flere boliger. Se tabel A1.2.5. 
+I de øvrige risikokategorier er andelen af sårbare bygninger og boliger lavere, varierende fra 28 % i den gule kate-
+gori til 41 % blandt røde bygninger, mens der er mellem 37 % af boligerne i den orange kategori og 54 % af boli-
+gerne i den røde som er sårbare. 
+ 
+  
+ 
+11 Idet bygningerne kan have flere sårbarhedsfaktorer, summer andelene ikke til 100 %. 
+22%
+4.934
+35%
+24.564
+14% 47.384
+28%
+69.651
+3% 682
+14%
+9.920
+3% 8.722
+13%
+33.268
+6% 1.211
+37%
+25.477
+4% 14.909
+41%
+101.642
+11% 2.509
+10% 7.008
+11% 38.005
+12% 30.200
+57%
+12.442
+2% 1.462
+67%
+229.385
+3% 7.936
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Kælder Ingen kælder Kælder Ingen kælder
+Bygninger Boliger
+Grøn Gul Orange Rød Dyb rød
+
+ 
+ 
+30 
+ 
+Figur 6.3: Andel sårbare bygninger og boliger fordelt på risikokategori for højtliggende grundvand 
+ 
+Note: I figuren viser en fuld farve andelen af bygninger, mens andelen af boliger vises med en skraveret farve.  
+Kilde: Landsbyggefonden pba. Scalgo, KAMP, BBR og Plandata. 
+28% 29%
+41%
+63%
+42%
+37%
+54%
+67%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+Gul Orange Rød Dyb rød
+
+ 
+ 
+31 
+ 
+I Almen Klimakortlægning anvendes DMI’s data på stormflodshændelser med udgangspunkt i det høje udlednings-
+scenarie (SSP3-7,0) og tidsperioden 2011-2024, der antages at være mest repræsentativ for det nuværende klima.  
+7.1 Metode 
+Risikovurderingen af stormflodshændelser tager udgangspunkt i den aktuelle referenceperiode for stormfloder 
+(1970-2010) samt det høje udledningsscenarie (SSP3-7) for perioden 2011-2040. For referencescenariet anvendes 
+20- og 100-års hændelserne, mens der for det høje klimascenarie anvendes 50- og 100-års hændelserne til at op-
+gøre havkoterne, dvs. medianvandstandshøjden ved en stormflod i det givne scenarie og hændelse. Disse data 
+stammer fra DMI’s 2024B opgørelse. Det giver fire grænseværdier, og dermed fem intervaller til risikovurderin-
+gen12.  
+Alle bygninger er analyseret for hvor højt havvandet skal stige før det når bygningen – i denne rapport kaldet for 
+bygningens havkote13. For hver bygning evalueres hvorvidt stormflodshøjden overstiger bygningens havkote, dvs. 
+om en stormflod vil påvirke bygningen, når der tages højde for afstanden til kysten og landskabets topologi.  
+Tabel 7.1: Risikovurdering af stormflod 
+Risikovurdering Havkote ved stormflod overstiger bygningens mindste havkote 
+Grøn Ikke engang 100-års hændelse i SSP3-7 
+Gul SSP3-7 100-års hændelse 
+Orange SSP3-7 50-års hændelse  
+Rød Reference 100-års hændelse 
+Dyb rød Reference 20-års hændelse 
+Kilde: Landsbyggefonden pba. DMI 
+De fem grænseværdier for havkoter ifm. stormfloder opgøres for alle danske kyststrækninger. Herefter matches 
+de almene bygninger til den kyststrækning, som de i højest grad påvirkes af ifm. stormflod. Det er beskrevet i ap-
+pendiks 3. 
+  
+ 
+12 Hvis koteværdien for ”SSP3-7,0 50-års hændelsen” er mindre end for ”reference 100-års hændelsen”, som det er tilfældet for 4 kyststrækninger, udgår den 
+orange kategori. 
+13 Beregnet af Klimadatastyrelsen pba. Danmarks Højdemodel. Beregningerne er hentet september 2024. 
+7. Risikovurdering af stormfloder 
+
+ 
+ 
+32 
+ 
+7.2 Resultater 
+Der er knap 900 almene bygninger og 7.300 boliger, som vurderes at være i risiko for stormflodshændelser. Det er 
+ca. 1 % af samtlige almene bygninger og boliger, jf. tabel 7.2.1.  
+Tabel 7.2.1: Antal bygninger og boliger fordelt på risikovurdering for stormflod 
+ 
+Bygninger Boliger 
+Antal Andel Antal Andel 
+Grøn 89.324 97 % 573.804 97 % 
+Gul 148 0 % 1.215 0 % 
+Orange 67 0 % 853 0 % 
+Rød 378 0 % 3.284 1 % 
+Dyb rød 294 0 % 1.988 0 % 
+Ukendt 1.653 2 % 11.049 2 % 
+I alt 91.864 100 % 592.193 100 % 
+Kilde: Landsbyggefonden pba. KAMP, DMI og Septima 
+Størstedelen af de stormflodstruede bygninger og boligerne indgår i de to røde kategorier, dvs. at risikovurderin-
+gen skyldes vandstande som allerede er observeret i referenceperioden. Der er således tale om udfordringer med 
+de aktuelle vandstands- og stormflodsniveauer og ikke udfordringer, der skyldes fremtidige klimaforandringer. 
+Udfordringerne med oversvømmelser fra stormfloder er især lokalt forankrede, se figur 7.2.  
+Der er blot 276 sårbare bygninger og ca. 3.700 boliger blandt de stormflodsudsatte bygninger. Heraf er de 230 byg-
+ninger og knap 3.000 boliger i de to røde kategorier. 
+  
+
+ 
+ 
+33 
+ 
+Figur 7.2: Risikovurdering for stormflod, områder med mindst én bygning i risikokategori gul til dyb rød 
+ 
+Kilde: Landsbyggefonden pba. DMI 
+ 
+  
+
+
+ 
+ 
+34 
+ 
+Idet vandløb og åer er forbundet med havet, kan kombinationen af ekstremregn og stormfloder fra kysterne 
+presse vandet ind i vandløb og åer, med dertilhørende større oversvømmelser til følge. Det taler for at anlægge et 
+yderligere forsigtighedsprincip ift. disse oversvømmelser. 
+8.1 Metode 
+Der er forholdsvis få almene bygninger, som er i risiko for oversvømmelse fra vandløb og åer. Det skyldes især, at 
+der er relativt få almene bygninger, som ligger nær disse vandkilder.   
+Derfor giver det kun i begrænset omfang mening at foretage en risikovurdering med flere kategorier for vandløb 
+og åer. I stedet anvendes en simpel ”ja” (grøn)/”nej” (rød) angivelse for om en bygning er i risiko for oversvømmelse 
+eller ej.  
+Tabel 8.1: Risikovurdering for oversvømmelse fra vandløb etc. 
+Risikovurdering Definition 
+Grøn Ingen oversvømmelsesrisiko for vandløb etc., selv ved en 1.000-års hændelse 
+Rød Oversvømmes ved en 1.000-års hændelse  
+Kilde: Landsbyggefondens definitioner pba. KAMP 
+Opgørelsen af hvorvidt en bygning er i risiko for oversvømmelse eller ej foretages på baggrund af en 1.000-års 
+hændelse. Der er således tale om en væsentligt større og sjældnere hændelse end der anvendes for de øvrige 
+oversvømmelseskilder. Det skyldes først og fremmeste, at data for 1.000-års hændelser for oversvømmelser af 
+vandløb og åer er tilgængelige, hvilket de ikke er for de øvrige oversvømmelseskilder.  
+8.2 Resultater 
+Der er 409 almene bygninger med ca. 4.100 boliger, som er i risiko for oversvømmelse fra vandløb og åer. Der er 
+således tale om et meget lille problem på sektorniveau, men som kan have meget store konsekvenser for de bolig-
+afdelinger, som påvirkes heraf. 
+  
+8. Risikovurdering af 
+oversvømmelse fra vandløb og åer 
+
+ 
+ 
+35 
+ 
+Tabel 8.2: Antal bygninger og boliger i risiko for oversvømmelse fra vandløb og åer 
+Risikovurdering 
+Bygninger Boliger 
+Antal Andel Antal Andel 
+Grøn 89.802 98 % 577.000 97 % 
+Rød 409 0 % 4.144 1 % 
+Ukendt 1.653 2 % 11.049 2 % 
+I alt 91.864 100 % 592.193 100 % 
+Kilde: Landbyggefonden pba. KAMP 
+Bygningerne i risiko for oversvømmelse ligger som overvejende relativt koncentreret i få områder i landet. Det er 
+især omkring Grejs Å ved Vejle, Grenaaen ved Grenå og Ribe og Tved Å ved Ribe. Se tabel A1.4.3. 
+Figur 8.2 Antal boliger berørt af oversvømmelse fra vandløb og åer  
+ 
+Kilde: Landsbyggefonden pba. KAMP 
+Knap halvdelen af bygningerne, som er udsatte ift. oversvømmelser for vandløb etc. har andre sårbarheder, pri-
+mært fælleskloak. Det er 62 % af boligerne i risiko for oversvømmelse, der også har en anden sårbarhed.  
+
+
+ 
+ 
+36 
+ 
+I dette kapitel opgøres antallet af almene bygninger og boliger, som er i risiko for oversvømmelse fra flere kilder. 
+Det opgøres både ud fra antallet af ikke-grønne markeringer (klimaudsatte) samt røde og dybt røde markeringer 
+(meget klimaudsatte). Endeligt ses der på bygningernes samlede klimaudsathed på tværs af de fire oversvømmel-
+seskilder, hvor opgørelsen foretages på kommunalt niveau. 
+9.1 Bygninger og boliger med flere udsatheder 
+En fjerdedel af de almene bygninger er ikke på den ene eller anden måde klimaudsatte. De indeholder dog kun  
+11 % af alle almene boliger, jf. figur 9.1.1. Modsat betyder det, at 3/4 af alle almene bygninger og knap 90 % af boli-
+gerne er klimaudsatte i varierende grad.  
+Der er flest almene bygninger med præcis én klimaudsathed. Det er tilfældet for halvdelen af alle bygninger. Det 
+dækker dog kun over lidt flere end 1/3 af alle boligerne (36 %). Der er flest boliger, som har to klimaudsatheder, 
+idet dette er tilfældet for lidt flere end halvdelen af alle almene boliger.  
+Der er 1 % af bygnings- og boligmassen, som har 3 klimaudsatheder. Det svarer til ca. 550 bygninger og 7.000 boli-
+ger, mens de sidste 40 bygninger med knap 600 boliger har alle fire udsatheder. 
+Figur 9.1.1a: Antal bygninger fordelt på antal klimaud-
+satheder 
+Figur 9.1.1b: Antal boliger fordelt på antal klimaudsat-
+heder 
+  
+0 udsatheder         1 udsatheder         2 udsatheder         3 udsatheder         4 udsatheder        
+Note: Kælderskakt-kategorien tæller i figuren, som en klimaudsathed  
+Kilde: Landsbyggefonden pba. Scalgo, KAMP og DMI Klimaatlas  
+25%
+23.144
+50%
+45.868
+24%
+22.260
+1%
+552
+0%
+40 11%
+65.685
+36%
+215.103
+51%
+303.856
+1%
+6.976
+0%
+573
+9. Bygninger i risiko for 
+oversvømmelse fra flere kilder  
+
+ 
+ 
+37 
+ 
+For bygningerne med to udsatheder, er det som overvejende ekstremregn og grundvand, der skaber udsathe-
+derne, jf. tabel 9.1.1. Det er tilfældet for ca. 21.700 ud af de ca. 22.300 bygninger og 301.000 boliger ud af de knap 
+304.000 boliger med to udsatheder. Derudover er det udfordringer med grundvand og hhv. stormflod og vandløb, 
+som generer de to udsatheder. 
+Tabel 9.1.1: Antal bygninger og boliger med to klimaudsatheder fordelt på oversvømmelseskilder 
+Oversvømmelseskilder Antal bygninger Antal boliger 
+Grundvand/ekstremregn 21.739 300.929 
+Grundvand/stormflod 368 1.863 
+Grundvand/vandløb 145 1.007 
+Ekstremregn/vandløb 6 35 
+Ekstremregn/stormflod 2 22 
+I alt 22.260 303.856 
+Kilde: Landsbyggefonden pba. Scalgo, KAMP og DMI Klimaatlas 
+For bygninger med tre udsatheder er det ligeledes højt grundvand og ekstremregn, der dominerer, jf. tabel 9.1.2. 
+Der er ca. 350 bygninger og 4.500 boliger, hvor den tredje udsathed er stormflod, mens der er ca. 100 bygninger 
+og 2.100 boliger, hvor det er oversvømmelser fra vandløb.   
+Tabel 9.1.2: Antal bygninger og boliger med tre klimaudsatheder fordelt på oversvømmelseskilder 
+Oversvømmelseskilder Antal bygninger Antal boliger 
+Grundvand/vandløb/stormflod 90 324 
+Grundvand/ekstremregn/stormflod 355 4.506 
+Grundvand/ekstremregn/vandløb 107 2.146 
+I alt 552 6.976 
+Kilde: Landsbyggefonden pba. Scalgo, KAMP og DMI Klimaatlas 
+Figur 9.1.2 viser hvor i landet bygningerne med tre eller fire udsatheder ligger.   
+
+ 
+ 
+38 
+ 
+Figur 9.1.2: Bygninger med tre eller fire udsatheder 
+ 
+ 
+Kilde: Landsbyggefonden pba. Scalgo, KAMP og DMI Klimaatlas 
+9.2 Bygninger og boliger med flere store udsatheder 
+I dette afsnit indsnævres klimaudsathedskriteriet, så kun bygninger med røde eller dybt røde kategoriseringer tæl-
+ler som klimaudsatte. 
+Det begrænser naturligvis antallet af klimaudsatte bygninger. Hele 62 % af de almene bygninger er således ikke 
+meget klimaudsatte, jf. figur 9.2.1. De indeholder dog kun lidt mere end 1/3 af alle boliger. 
+De resterende 38 % af bygningerne og 2/3 af boligerne, fordeler sig som følger. 29 % af bygningerne og 38 % af 
+boligerne har én klimaudsathed, mens 8 % af bygningerne og 27 % af boligerne har to. Endeligt er der 345 bygnin-
+ger med ca. 4.500 boliger med tre udsatheder, det svarer til op mod 1 %. Endeligt er der 23 bygninger med 324 
+boliger, som har alle fire udsatheder. 
+  
+
+
+ 
+ 
+39 
+ 
+Figur 9.2.1a: Antal bygninger fordelt på antal røde 
+og dyb røde klimaudsatheder 
+Figur 9.2.1b: Antal boliger fordelt på antal røde og 
+dyb røde klimaudsatheder 
+ 
+ 
+0 udsatheder         1 udsatheder         2 udsatheder         3 udsatheder         4 udsatheder        
+Kilde: Landsbyggefonden pba. Scalgo, KAMP og DMI Klimaatlas 
+De fleste af bygningerne med to store klimaudsatheder plages af højt grundvand og ekstremregn. Det er tilfældet 
+for 7.300 ud af de knap 7.700 bygninger med to store udsatheder eller knap 159.000 boliger ud af ca. 162.000, jf. 
+tabel 9.2.1. Derudover er der et pænt antal bygninger og boliger, som plages af både oversvømmelser fra vandløb 
+og højt grundvand (knap 100 bygninger og 1.200 boliger) samt stormflod og højt grundvand (200 bygninger og 
+1.400 boliger).  
+Endeligt skal det bemærkes, at der er 11 bygninger med 142 boliger, som er hårdt udsatte for både stormfloder og 
+oversvømmelser fra vandløb. Disse bygninger og boliger har tre eller flere udsatheder i opgørelsen i afsnit 9.1, som 
+fokuserede på den mere milde udsatheds definition. 
+Tabel 9.2.1: Antal bygninger og boliger med to røde klimaudsatheder fordelt på oversvømmelseskilder 
+Oversvømmelseskilder Antal bygninger Antal boliger 
+Grundvand/ekstremregn 7.318 158.633 
+Vandløb/ekstremregn 12 151 
+Stormflod/ekstremregn 19 97 
+Vandløb/grundvand 93 1.163 
+Stormflod/grundvand 206 1.432 
+Stormflod/vandløb 11 142 
+I alt 7.659 161.618 
+Kilde: Landsbyggefonden pba. Scalgo, KAMP og DMI Klimaatlas 
+62%
+57.151
+29%
+26.686
+8%
+7.659
+0%
+345
+0%
+23
+34%
+199.420
+38%
+226.305
+27%
+161.618
+1%
+4.526
+0%
+324
+
+ 
+ 
+40 
+ 
+For bygningerne med tre store udsatheder er kombinationen af udsathed for grundvand, ekstremregn og storm-
+flod den mest udbredte, med 190 bygninger og knap 2.700 boliger, jf. tabel 9.2.2. Derudover er der 66 bygninger 
+med 1.538 boliger, hvor der er store udfordringer med grundvand, ekstremregn og oversvømmelser fra vandløb. 
+Tabel 9.2.2: Antal bygninger og boliger med tre røde klimaudsatheder fordelt på oversvømmelseskilder 
+Oversvømmelseskilder Antal bygninger Antal boliger 
+Grundvand/vandløb/stormflod 87 327 
+Ekstremregn/vandløb/stormflod 2 2 
+Grundvand/ekstremregn/stormflod 190 2.659 
+Grundvand/ekstremregn/vandløb 66 1.538 
+I alt 345 4.526 
+Kilde: Landsbyggefonden pba. Scalgo, KAMP og DMI Klimaatlas 
+Figur 9.2.2 viser hvor i landet bygningerne med tre eller fire røde eller dyb røde udsatheder ligger.  
+Figur 9.2.2: Bygninger med tre eller fire røde eller dyb røde udsatheder 
+ 
+Kilde: Landsbyggefonden pba. Scalgo, KAMP og DMI Klimaatlas 
+
+
+ 
+ 
+41 
+ 
+9.3 Klimaudsathed fordelt på kommuner 
+I følgende afsnit opgøres det gennemsnitlige antal klimaudsatheder pr. almen bygning i kommunerne. Det omfat-
+ter både de generelle udsatheder, dvs. hvor bygningerne blot er ikke-grønne, se figur 9.3.1, samt de større udsat-
+heder, hvor kun røde og dyb røde kategorier indgår, se figur 9.3.2.  
+For hver bygning er antallet af udsatheder opgjort, og dette summeres og omregnes til et gennemsnit pr. kom-
+mune.  
+Figurerne viser, at der især er flere klimaudsatheder pr. bygning blandt kommunerne i Storkøbenhavn. Der er såle-
+des i gennemsnit næsten to klimaudsatheder pr. bygning i både Dragør og Vallensbæk kommuner. Mens der i de 
+fleste øvrige kommuner i Storkøbenhavn i gennemsnit ”kun” er ca. 1 udsathed. Derudover er det meste af Syd- og 
+Vestsjælland ligeledes relativt hårdt ramt. I resten af landet er udsathederne mere spredt.  
+ 
+Dette billede ændres ikke væsentligt når der i stedet ses på større udsatheder. Dog er niveauet noget lavere. I Fre-
+deriksberg Kommune er der flest store udsatheder, med i gennemsnit 1,23 pr. bygning, mens der er 1,21 i Dragør.  
+     
+Figur 9.3.1: Gennemsnitlig antal klimaudsatheder pr. bygning fordelt på kommuner 
+ 
+Kilde: Landsbyggefonden pba. Scalgo, KAMP og DMI Klimaatlas 
+  
+
+
+ 
+ 
+42 
+ 
+Figur 9.3.2: Gennemsnitlig antal røde og dyb røde klimaudsatheder pr. bygning fordelt på kommuner 
+ 
+Kilde: Landsbyggefonden pba. Scalgo, KAMP og DMI Klimaatlas 
+  
+
+
+ 
+ 
+43 
+ 
+Sweco har beregnet omkostningerne til klimasikring af den almene boligsektor. For at gøre dette har Sweco opstil-
+let en løsningsmatrice, som beskriver de klimatilpasningstiltag, der skal til for at løse de enkelte udfordringer. Disse 
+løsninger prissættes ift. graden af udfordring baseret på risikokategorierne i Almen Klimakortlægning samt størrel-
+sen på de arealer/volumener som skal klimasikres.  
+10.1 Løsningsmatrice  
+Løsningsmatricen er udviklet af Sweco til at kortlægge de forskellige klimatilpasningsløsninger for de forskellige 
+oversvømmelseskilder. Den skaber et overskueligt overblik over de tilgængelige løsninger og deres relevans i for-
+hold til de specifikke risikokategorier, som er fastlagt i risikovurderingen. Denne tilgang muliggør en samlet økono-
+misk beregning for den almene bygningsmasse portefølje og hjælper med at identificere de mest udsatte områder. 
+10.1.1 Klimatilpasningsløsninger  
+Baseret på de analyserede oversvømmelseskilder er der udvalgt 10 mulige løsningstyper. Nogle af disse minimerer 
+risikoen for oversvømmelse fra flere forskellige kilder. Til valg af løsningstype for hver af oversvømmelseskilderne 
+er følgende løsningsskema opstillet: 
+Tabel 10.1.1: Klimatilpasningsløsninger fordelt på oversvømmelseskilde 
+Løsning Ekstremregn Strømningsveje Stormflod Vandløb Højtliggende 
+grundvand 
+Regnbed X X    
+Grøft X X    
+Bassin X     
+Faskine X     
+Dræn     X 
+Dige   X X  
+Højvandslukke       X 
+Sluse   X X  
+Kilde: Sweco 
+De enkelte løsninger beskrives nærmere i appendiks 6.1. 
+  
+10. Klimasikring og økonomi 
+
+ 
+ 
+44 
+ 
+10.2 Valg af Klimarisikovurderinger og deres risikokategorier  
+De valgte løsningtyper kan efterfølgende inddeles under de fem risikokategorier. Tabellen nedenfor viser en indde-
+ling af forskellige løsningstyper baseret på erfaringstal fra HOFOR. Løsningstyperne er fordelt på fire risikokatego-
+rier, som afspejler de situationer, hvor den enkelte løsning typisk anvendes: 
+Tabel 10.2.1: Klimatilpasningsløsninger fordelt på oversvømmelseskilde og risikovurdering 
+Løsning Ekstremregn Strømningsveje Stormflod Vandløb Højtliggende 
+grundvand 
+Regnbed Alle Alle    
+Grøft Rød+ Rød+    
+Bassin Rød+     
+Faskine Alle     
+Dræn     Alle 
+Dige   Alle Alle  
+Højvandslukke     Rød+ 
+Sluse   Rød+ Rød+  
+Note: Markeringen ”Rød+” angiver, at tilpasningen kun er nødvendig for de mest udsatte bygninger, dvs. røde og dybt rød markerede 
+bygninger. 
+Kilde: Sweco 
+10.3 Metode til prisestimat for ekstremregn - stille og strømmende 
+vand  
+Analysedata fra Scalgo giver mulighed for at estimere et nødvendigt volumen, som skal håndteres på hver grund. 
+Der estimeres endvidere en kapacitet for de fire løsningstyper; regnbed, grøft, bassin, faskine, som en funktion af 
+deres volumen per areal, de fylder af grundarealet. For de fire løsninger er der også væsentlige lokationsmæssige 
+forskelle. I byområder benyttes oftest højkapacitetsløsninger, da pladsforholdene er mere trængte. Uden for byen 
+er der derimod bedre plads, hvilket tillader anvendelse af større, arealmæssige løsninger, som kan integreres med 
+de eksisterende omgivelser og terrænforhold. Dette medregnes dog ikke.  
+Til de fire løsningstyper er estimeret en pris pr. m3 løsning, baseret på standard dimensioner af de individuelle løs-
+ninger. Med udgangspunkt i de fire løsningstyper udregnes der et minimum, maksimum, median og gennemsnits-
+pris.  
+Tabel 10.3.1: Vægtning og kapacitet for løsninger, ekstremregn  
+Løsningstype Vægtning (%) Kapacitet 
+(m3/m2) 
+Pris pr. m3  
+Minimum 
+Pris pr. m3  
+maksimum 
+Pris pr. m3  
+Gennemsnit 
+Regnbed 5,2  0,16 4.375  7.500  5.938  
+Grøft 19,6 0,60 1.667 2.667  2.167  
+Bassin 32,7 1,00 1.200 2.100  1.650  
+Faskine 42,5 1,30 2.308 4.154  3.231  
+Vægtet gennemsnit 100,0 1,005 - - 2.647 
+Kilde: Sweco og HOFOR (priser) 
+
+ 
+ 
+45 
+ 
+De fire løsningstyper vægtes på baggrund af deres interne hydrauliske kapacitet (m3 /m2 løsning). En typisk kapaci-
+tet for de enkelte løsningstyper er baseret på normal dybde for de enkelte løsninger. Det giver en vægtet gennem-
+snitlige hydrauliske kapaciteter for de fire løsningstyper på 1.005 m3/m2.  
+Vægtene bruges desuden til at beregne gennemsnitsprisen for klimasikring for de fire løsninger pba. de dertilhø-
+rende gennemsnitlige priser. Det giver en vægtet gennemsnitlige pris for klimasikring ift. ekstremregn på 2.647 kr. 
+pr. m3 vand. 
+Det skal bemærkes, at dette estimat er en del lavere end de 10.000 kr. pr. m3 vand, som DTU anvender som gen-
+nemsnitspris for klimasikring af ekstremregn (DTU 2024). Forskellen skyldes bl.a. skalaforskelle. DTU tager ud-
+gangspunkt i prissætningen for kommunale planer, mens denne rapport ser på mere lokale tiltag på enkelte 
+grunde. DTU bemærker desuden, at prissætningen er baseret på en case fra Københavns Kommune, hvor prisni-
+veauet er ca. dobbelt så højt som i Vejle og Aarhus kommuner, som ligeledes inddrages i DTU’s rapport. Her mener 
+DTU, at det især er den høje bebyggelsesprocent i København, som gør forskellen. Derudover medberegner DTU 
+klimasikring af øvrige anlæg som fx veje og kritisk infrastruktur, hvilket ikke medregnes i Almen Klimakortlægning, 
+der kun fokuserer på almene bygninger.  
+I appendiks 6.2 fremgår derfor en følsomhedsanalyse af prisniveauet, hvor det antages, at hele klimasikringen for 
+ekstremregn løses via hhv. den billigste og dyreste løsning i tabel 10.3.1, dvs. via en enhedspris på hhv. 1.200 og 
+7.500 kr. pr. m3.     
+10.3.1 Grunde og areal 
+Hidtil har denne rapport opgjort klimaudfordringerne i den almene boligsektor ud fra antallet af bygninger og boli-
+ger, som påvirkes af de forskellige kilder til vand. Men når de økonomiske konsekvenser heraf skal beregnes, æn-
+dres den relevante enhed til ”grunde”14. Herved sikres, at der i nogen grad kan indregnes skalabesparelser i dimen-
+sioneringen af klimaløsningerne i det omfang, at der ligger flere bygninger på samme grund.  
+Det er dog ikke muligt at tage højde for tilfælde, hvor to eller flere bygninger ligger på flere tilstødende grunde. 
+disse tilfælde vil beregningerne potentielt overvurdere omkostningerne til klimasikring.  
+Sweco har identificeret 20.507 grunde, som huser 91.822 af de almene bygninger i data. Dvs. der er 42 bygninger, 
+som det ikke har været muligt, at identificere – og som derfor ikke indgår i beregningerne.  
+10.3.2 Oplande og volumener 
+Opgørelsen af udgifterne til ekstremregn tager udgangspunkt i mængden af vand på de enkelte grunde ud fra op-
+lande. Dvs. der tages højde for strømningsveje, og altså ikke kun den regn, som falder på grundene.  
+Først opgøres det samlede areal15 af unikke strømningsveje fra de bygninger, som er markeret som ikke-grønne i 
+Almen Klimakortlægning ift. ekstremregn. Det indebærer at strømningsveje, som påvirker to eller flere bygninger, 
+ikke inkluderes flere gange.  
+ 
+14 Det defineres, som de eller det areal(er)/matrikler, som huser almene bygninger med samme BFEnummer. Dermed kan en ”grund” indeholde flere matrik-
+ler. 
+15 Idet data for volumen af de enkelte strømningsveje  ikke har været tilgængeligt. 
+
+ 
+ 
+46 
+ 
+Efterfølgende konverteres arealet af strømningsvejene til en volumen ved at gange med vanddybden. Her anven-
+des nedbørsmængden ved en designregn ved den givne hændelse, som mål for den gennemsnitlige dybde af 
+strømningsvejene16.   
+Der tages således højde for både strømmende og stillestående vand. Til gengæld er der ikke mulighed for at ind-
+regne stordriftsfordele ifm. klimaløsninger, som går på tværs af de definerede grunde17.  
+Derudover antager volumenberegningen, at ”alt” vand på grunden er skadeligt og skal fjernes ved klimaløsningen. 
+Dette kan isoleret set medvirke til at overvurdere problemstillingen. Den gennemsnitlige vanddybde, som anven-
+des i volumenberegningen, er dog forholdsvis lav, fx ca. 50 mm ved en 50-års hændelse. Det taler for, at den sam-
+lede volumen ikke overvurderes i væsentlig grad. 
+10.3.3 Geografiske prisfaktorer 
+Den geografiske prisfaktor kan bruges til at justere omkostningerne ved klimatilpasningsforanstaltninger i forskel-
+lige regioner. Denne faktor tager højde for variationer i priser på materialer, arbejdskraft og andre relevante om-
+kostninger, hvilket giver mulighed for en mere realistisk økonomisk vurdering. Den geografiske prisfaktor er defi-
+neret ud fra DGNB 2023 manualens Økonomisk Kvalitet kriterie ECO1.1 – Totaløkonomi Bilag 4 (DGNB, 2023). Pris-
+faktoren ganges på prisen for klimasikringsløsningerne til de enkelte klimarisikoer. 
+10.3.4 Sikringsniveau 
+Sweco har anbefalet, at udgifterne til klimasikring for ekstremregn som minimum opgøres ift. at sikre mod en 20-
+års hændelse og evt. op til en 50-års hændelse. På den baggrund er det valgt at anvende gennemsnittet af de to 
+hændelser som det relevante sikringsniveau.  
+10.3.5 Begrænset areal til klimasikring 
+Beregningerne tager højde for, at klimatilpasningsløsningerne til regnvand kræver plads, dvs. ubebygget grund-
+areal på grundene, for at kunne opføres. Det antages derfor, at klimasikring af en grund ikke er mulig hvis: 
+• Bebyggelsesprocenten på grunden overstiger 82 %. 
+• Klimasikringen vil optage mere end 50 % af det ubebyggede grundareal. 
+  
+Disse begrænsninger har især betydning for etageejendomme i beliggende i byerne, hvor grundene generelt er 
+mindre. 
+10.3.6 Prisloft for regnvandshåndtering  
+For at sikre, at klimatilpasningsløsningerne ikke bliver uforholdsmæssigt dyre i forhold til den værdi, de beskytter, 
+anvendes i denne analyse et dynamisk prisloft i beregningerne. Det betyder, at prisen for en klimasikringsløsning 
+ikke kan overstige en økonomiske grænse, sat som en %-sats af ejendomsværdien. Beregningerne anvender en 
+grænse på 25 % af ejendomsværdien, hvor ejendomsværdierne for de enkelte bygninger er beregnet pba. gen-
+nemsnitlige salgspriser for private ejendomssalg i de fire seneste kvartaler fra FinansDanmark (2025). I dette til-
+fælde 2. kvartal 2024 til 1. kvartal 2025.  
+ 
+16 Hvorfra trækkes 1 mm, svarende til initialtabet (dvs. vand som ikke når videre til selve projektområdet, grundet befugtning og ophobning i fordybninger og 
+sprækker i jorden.  
+17 Denne opgørelsesmetode giver anledning til et økonomisk konservativt estimat for den samlede vandmængde, som påvirker de enke lte grunde og bygnin-
+ger. 
+
+ 
+ 
+47 
+ 
+Opgørelsen baseres på et vægtet gennemsnit af salgspriserne for lejligheder og parcel-/rækkehuse i de enkelte 
+kommuner samt den dertilhørende landsdel. Lejlighedspriserne vægter med 2/3, svarende til fordelingen i den 
+almene boligsektor18, mens der anvendes samme vægte for kommune og landsdel. I kommuner uden lejligheds-
+salg, anvendes dog udelukkende salgspriserne for parcel-/rækkehuse. Opgørelsesmetoden øger konsistensen af 
+resultaterne, og sikrer at ejendomsværdierne i enkelte udkantskommuner fastholdes på et niveau, som ikke ude-
+lukker fuld klimasikring. 
+Det skal bemærkes, at udgifterne til klimasikring stiger jo højere sikringsniveau der ønskes, jf. afsnit 10.4.4. Det har 
+også betydning ift. prisloftet for klimasikring, som alt-andet-lige medfører et andet antal grunde og bygninger, som 
+ikke kan sikres fuldt, hvis der vælges et højere sikringsniveau.      
+10.4 Metode til prisestimat for øvrige oversvømmelseskilder 
+Estimeringen af anlægspriser for klimasikringsløsninger baseres på tidligere erfaringstal fra LAR-projekter. Anlægs-
+summen afhænger i høj grad af løsningens størrelse. Det er ikke muligt at dimensionere individuelle løsninger for 
+alle knap 92.000 bygninger. Derfor anvendes følgende metode: Tre fiktive scenarier er opstillet ud fra eksisterende 
+data. Der er dimensioneret løsninger til tre forskellige bebyggede arealstørrelser:  
+• 500 m²   
+• 2.500 m²  
+• 10.000 m²  
+ 
+For de tre arealstørrelser beregnes den nødvendige løsningsdimension via SVK’s LAR-regneark. Anlægssummen 
+estimeres ud fra erfaringspriser fra HOFOR. Anlægssummen deles derefter op på de bebyggede arealstørrelser, så 
+der kan findes en pris baseret på det bebyggede areal. Dette er gjort for alle løsningstyper.  
+I HOFOR prisestimat er der medtaget anstillingsprisen for arbejdet, denne kan dog havde stor variation afhængigt 
+af arbejdets størrelse. For hver arealstørrelse dimensioneres én løsning af hver type, hvilket giver tre minimums- 
+og tre maksimumsanlægssummer. Gennemsnittet af minimums- og maksimumsværdierne danner det endelige 
+interval, som anvendes til at estimere anlægssummen for de forskellige løsningstyper. 
+Tabel 10.4.1: Priser for klimatilpasningsløsninger fordelt på løsninger (kr. pr. m2) 
+Løsning Kilde Minimumspris Maksimumpris 
+Dige Sweco erfaringspris 100 2.000 
+Højvandspumpe Bolius (2024) 130 370 
+Sluse Sweco erfaringspris 1.500 3.000 
+Dræn HOFOR 80 270 
+Kilde: Se tabel 
+Intervallet angives i kr./m² for det eksisterende bebygget areal, hvilket sikrer, at anlægssummen tager højde for 
+den individuelle bygningsstørrelse. Det endelige interval relateres til de fem risikokategorier.  
+For hver risikokategori udregnes en minimums-, maksimums- og gennemsnitspris baseret på intervallet af de an-
+befalet løsningstyper. For klimatilpasningsløsninger, der er klassificeret som rød eller dyb rød, har Sweco lagt en 
+ 
+18 Der anvendes den gennemsnitlige fordeling for hele sektoren, frem for i den enkelte kommune, da det giver mere stabilitet i beregningerne.  
+
+ 
+ 
+48 
+ 
+yderligere sikkerhedsfaktor på 20 %. Dette skyldes, at større løsninger kan være mere komplekse og medføre flere 
+omkostninger for projektet.  
+Fx ved et rødt stormflodscenarie anbefales det at benytte diger og sluser. Det giver et interval på 100-3.000 kr./m2 
+med en gennemsnitspris på 1.650 kr./m2. Hertil lægges et tillæg på 20 % for en ”rød markering”, jf. ovenstående 
+afsnit. Dermed bliver de samlede udgifter mellem 120 og 3.600 kr. pr. m2 med en gennemsnitspris på 1.980 kr. pr. 
+m2. 
+Tabel 10.4.2: Priser for klimasikringsløsninger fordelt på oversvømmelseskilde og kategorier (kr. pr. m2) 
+Kilde Kategori Minimumspris Gennemsnitspris Maksimumpris 
+Stormflod 
+Gul/Orange 100 1.050 2.000 
+Rød+ 120 1.980 3.600 
+Grundvand 
+Gul/Orange 80 175 270 
+Rød+ 156 300 444 
+Vandløb 110 1.515 2.800 
+Note: For vandløb er udgiften beregnet som gennemsnittet på tværs af kategorierne (gul/orange og rød+), da Landsbyggefonden ikke 
+inddeler vandløbsrisikoen i underkategorier. 
+Kilde: Sweco pba. HOFOR og Bolius 
+10.5 Klimasikring, behov og udfordringer  
+Ud af de 20.507 grunde, som de almene bygninger ligger på, er der knap 8.800, som ikke har behov for klimasik-
+ring ift. ekstremregn, jf. tabel 10.5. Det efterlader ca. 11.700, som har dette behov. Af disse er det dog kun muligt, 
+at fuldt klimasikre de knap 10.300. Resten fordeler sig med ca. 120 grunde, som ikke har tilstrækkeligt areal på 
+grunden til klimasikring og 1.200 bygninger, der overstiger grænseværdien på 25 % af ejendomsværdien19. 
+Tabel 10.5 Antal grunde og bygninger herpå fordelt på klimasikringskategori for ekstremregn på grunden   
+ Antal  
+grunde 
+Antal  
+bygninger 
+Ikke behov for klimasikring  8.795 23.647 
+Behov for klimasikring 11.712 68.175 
+Heraf:     
+Fuld klimasikring mulig  10.370 58.303 
+Ikke tilstrækkeligt areal til klimasikring  123 153 
+Fuld klimasikring overstiger 25 % af ejendomsværdi allerede v. 20-års hændelse  915 6.516 
+Fuld klimasikring overstiger 25 % af ejendomsværdi først v. 50-års hændelse 304 3.203 
+I alt 20.507 91.822 
+Note: Der er 1.219 (915 + 304) bygninger, hvor udgifterne til klimasikring overstiger 25 % af ejendomsværdien ved en 50-års hændelse.  
+Kilde: Sweco pba. Landsbyggefonden og Scalgo. 
+  
+ 
+19 Opgjort ift. klimasikring af en 50-års hændelse. Hvis der blot klimasikres til en 20-års hændelse, reduceres det til ca. 900 grunde, hvor udgifter til klimasik-
+ring overstiger 25% af ejendomsværdi. 
+
+ 
+ 
+49 
+ 
+ 
+Kilde: Sweco pba. Landsbyggefonden, Scalgo og BBR 
+Figur 10.5 Antal grunde pr. kommune, der ikke kan klimasikres 
+a) Udgifter overstiger 25 % af ejendoms-
+værdi v. 20-års hændelse 
+b) Udgifter overstiger 25 % af ejendoms-
+værdi v. 50-års hændelse 
+ 
+ 
+c) Ikke tilstrækkeligt areal på grunden 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+50 
+ 
+Idet klimasikringsbehovet ift. ekstremregn er særligt udbredt i byerne, hvor der oftest er flere bygninger pr. grund, 
+fremstår klimasikringsbehovet højere når det opgøres på bygningsniveau20. Knap 3/4 af bygningerne ligger på en 
+grund, hvor der er mindst én bygning, som er klimaudsat. Til sammenligning er der ca. 30.000 bygninger, som er 
+klimaudsatte i sig selv, jf. figur 5.2.1a. 
+Figur 10.5.1, viser antallet af grunde pr. kommune, der ikke kan klimasikres, enten som følge af for høje omkost-
+ninger ift. ejendomsværdi ved en 20- og 50-års hændelse eller som følge af mangel på areal til at etablere løsnin-
+gen. 
+10.6 Udgifter til klimasikring 
+Sweco opgør det samlede udgiftsniveau til klimasikring af den almene boligsektor til ca. kr. 34,3 mia. Heraf er langt 
+størstedelen, knap kr. 30 mia. udgifter til klimasikring ift. ekstremregn.   
+Tabel 10.6 Samlede udgifter til klimasikring fordelt på oversvømmelseskilder (mio. kr.) 
+Oversvømmelseskilde Udgifter 
+Ekstremregn 29.809 
+Vandløb og åer 170 
+Stormflod 394 
+Grundvand 3.958 
+I alt 34.331 
+Kilde: Sweco pba. Landsbyggefonden, Scalgo, Kamp og DMI Klimaatlas 
+I de to følgende afsnit beskrives beregningerne nærmere ligesom, at der i kapitel 10.7 ses på en række følsom-
+hedsberegninger ift. ekstremregn – og kun denne da det er driveren af det samlede resultat.   
+10.6.1 Udgifter forbundet med klimasikring mod ekstremregn  
+Opgørelsen af udgifterne til ekstremregn tager udgangspunkt i volumen af regnvand pr. grunde fra ikke-grønne 
+bygninger. Det betyder, at for en grund, som indeholder flere bygninger, nogle ikke-grønne og nogle grønne, er det 
+kun vandvolumen fra de ikke-grønne bygninger, som medregnes i opgørelsen af omkostningerne til klimasikrin-
+gen. 
+Tabel 10.6.1 Udgifter til klimasikring af ekstremregn fordelt på sikringsniveau (mio. kr.) 
+Sikringsniveau Udgifter 
+10-års hændelse 20.360 
+20-års hændelse 26.037 
+50-års hændelse 33.581 
+100-års hændelse 39.388 
+Kilde: Sweco pba. Landsbyggefonden og Scalgo 
+Vandmængderne opgøres både for 10-, 20-, 50- og 100-års hændelser, og udgifterne til klimasikring beregnes for 
+alle fire hændelser. Jf. kapitel 10.3.4. tillægges 20- og 50-års hændelserne mest værdi i denne rapport. For alle fire 
+ 
+20 Lidt over halvdelen (53 %) af alle grunde indeholder kun én bygning, mens ca. 1/4 indeholder 2 -5 bygninger.  
+
+ 
+ 
+51 
+ 
+hændelser anvendes gennemsnitsprisen for klimasikring på 2.647,2 kr. pr. m3, jf. afsnit 10.3, til at opgøre det sam-
+lede udgiftsniveau. 
+De fire hændelsesscenarier giver anledning til, at udgifterne til klimasikring varierer fra ca. 20 til 39 mia. kr.  
+Sweco vurderer dog et udgiftsniveau på mellem kr. 26,0 og 33,6 mia., svarende til et sikringsniveau ift. en 20- eller 
+50-års hændelse, som værende mest plausibelt.  
+I Almen Klimakortlægning er der derfor valgt at tage et middelret gennemsnit af disse to skøn, svarende til en gen-
+nemsnitlig udgift til klimasikring ift. ekstremregn på 29,8 mia. kr. 
+10.6.2 Udgifter forbundet med klimasikring mod stormflod, oversvømmelse fra vand-
+løb/åer og højtliggende grundvand 
+Udgifterne til klimasikring af de tre øvrige oversvømmelseskilder er baseret på gennemsnitspriserne i kapitel 10.4 
+og antallet af bygninger og deres areal i de ikke-grønne kategorier fra kapitlerne 6-8.  
+Det giver anledning til, at udgifterne til klimasikring ift. de tre faktorer i gennemsnit udgift ca. kr. 4,5 mia. Heraf er 
+de knap kr. 4 mia. udgifter til sikring ift. højtliggende grundvand, mens stormflodssikring og sikring ift. oversvøm-
+melser fra vandløb og åer udgør mellem ca. kr. 170 og ca. 400 mio. jf. tabel 10.6.2.  
+Tabel 10.6.2 Udgifter til klimasikring af vandløb og år, stormflod og grundvand (mio. kr.) 
+Oversvømmelseskilde Udgifter 
+Vandløb og åer 170  
+Stormflod 394  
+Grundvand 3.958  
+I alt  4.522  
+Kilde: Sweco pba. Landsbyggefonden, KAMP og DMI Klimaatlas 
+10.7 Udgifter til klimasikring fordelt på kommuner 
+De samlede udgifter til klimasikring afspejler i noget omfang den almene sektors størrelse i enkelte kommuner. 
+Det er derfor næppe overraskende, at udgifterne er højest i de fire største kommuner, København, Odense, Aar-
+hus og Aalborg med mellem kr. 1,4 og 2,2 mia., heraf højest i Aarhus Kommune, se figur 10.7.1a samt tabel A6.3.1 i 
+appendiks. 
+Derudover er der høje udgifter til klimasikring, fra ca. 0,5 til 1 mia. kr. i en række af kommunerne på den køben-
+havnske vestegn samt i bl.a. Sønderborg, Esbjerg og Vejle Kommune. 
+Alternativt kan udgifterne opgøres ift. antallet af bygninger eller boliger i kommunen, for at sige noget om hvor 
+klimaudfordringerne er relativt størst, jf. tabel 10.7b+c. Det giver sig udslag i, at det er kommuner som Vallensbæk, 
+Rødovre og Ishøj som fremstår med de relative største udgifter til klimasikring, når det opgøres ift. antallet af al-
+mene bygninger i kommunen, med mere end 1 mio. kr. pr. bygning. Derudover ligger kommuner som Hørsholm, 
+samt København og Frederiksberg med udgifter tæt på kr. 1 mio. pr. bygning. Se tabel A6.3.2. 
+Opgøres udgifterne ift. den almene boligmasse, er det i stedet en række af de mindre kommuner, som fremstår 
+med høje udgifter. Det inkluderer kommunerne, Samsø, Albertslund, Dragør, Halsnæs, Fanø, Lejre, Fredensborg og 
+Bornholm kommuner, som alle ligger med en gennemsnitsudgift på mere end kr. 100.000 pr. bolig.     
+
+ 
+ 
+52 
+ 
+Figur 10.7: Udgifter til klimasikring (i alt) fordelt på kommuner 
+a) Udgifter i alt  b) Udgifter pr. almen bygning i kommunen 
+  
+c) Udgifter pr. almen bolig i kommunen 
+ 
+ 
+ 
+Kilde: Sweco pba. Landsbyggefonden, Scalgo, Kamp og DMI Klimaatlas 
+10.8 Følsomhedsanalyse af beregningerne 
+Der er potentielt flere beregningsforudsætninger og antagelser i modellen, som kan påvirke resultaterne: 
+• Udgifterne til klimasikring for ekstremregn er potentielt overvurderede, da modellen til beregningerne 
+antager, at alt vand fjernes fra de enkelte grunde frem for alt vand over et minimumsniveau.  
+
+
+ 
+ 
+53 
+ 
+• Grænsen på at udgifterne til klimasikring ikke må overstige 25 % af ejendomsværdien, eller hvor det ikke 
+er muligt at klimasikre pga. arealmangel, kan potentielt påvirke resultaterne. 
+• Prismodelleringen af klimasikringen kan enten være for lav eller høj. 
+ 
+Følsomheden overfor disse forudsætninger beskrives nærmere i de følgende tre afsnit. 
+10.8.1 Delvis fjernelse af vand 
+Swecos model til beregning af udgifterne til klimasikring af ekstremregn er baseret på en antagelse om, at ”alt” 
+vand som påvirker de klimaudsatte bygninger, fjernes fra grundene. Det er potentielt mere vand end der er behov 
+for at fjerne for at sikre bygningerne. 
+Det har i denne rapport ikke været mulighed for at foretage beregninger, som tager udgangspunkt i et scenarie, 
+hvor der kun fjernes det vand, som potentielt er skadeligt. Det skyldes, at de underliggende beregninger i et sådant 
+scenarie, er relativt komplicerede, og kun i begrænset omfang muligt for alle knap 92.000 almene bygninger. 
+I stedet kan et scenarie med kun delvis fjernelse af vandet simuleres ved, at antages, at klimasikringen blot skal 
+fjerne fx 50 eller 75 % af den samlede volumen af vand på grundene. Dermed reduceres de samlede udgifter til 
+klimasikring ift. ekstremregn tilsvarende til fx ca. kr. 15 til 22 mia. ved fjernelse af hhv. 50 % og 75 % af den sam-
+lede volumen.  
+Det skal dog bemærkes, at volumenberegningerne for hhv. en 20- og 50-års hændelse bygger på gennemsnitsvær-
+dier på hhv. ca. 4 og 5 cm, som anvendes på hele arealet. I tilfælde af, at beregningen blev udført på kun skadeligt 
+vand, dvs. en reduktion af vanddybder på mere end 10 cm’s dybder, ville det potentielt medføre en større reduk-
+tion af dybden end de 4-5 cm, mens det berørte areal kan formodes at være mindre. Dvs. nettoeffekten af en så-
+dan beregning kan gå begge veje.  
+10.8.2 Grunde, som ikke kan fuldt klimasikres  
+Opgørelsen af klimasikringsbehovet for ekstremregn undlader udgifterne til klimasikring af grunde uden tilstræk-
+keligt areal til sikringen ligesom, udgifterne til klimasikring reduceres, hvis sikringen er over 25 % af bygningernes 
+værdi. 
+Disse to forhold reducerer udgifterne til klimaindsatsen med mellem ca. 1,8 og 2,9 mia. kr., hvor spændet afspejler 
+forskellen mellem klimasikring ift. 20 eller 50-års hændelser. I gennemsnit udgør det reducerede klimasikringsbe-
+hov dermed ca. 2,3 mia. kr. 
+Heraf udgør udgifterne til den reducerede klimasikring på grunde hvor klimasikringen er dyrere end 25 % af ejen-
+domsværdien den største andel med mellem 1,6 og 2,5 mia. kr. Mens de hypotetiske udgifter til klimasikring på 
+grunde, hvor det ikke er muligt pga. arealmangel, sandsynligvis ligger i spændet 0,3 til 0,4 mia. kr.21.  
+I andre rapporter, fx Klimaekspeditionen (2024) og lignende rapporter udarbejdet pba. DTU’s modeller, anvendes 
+et rentabilitetskrav som opgør omkostningerne til klimasikring mod skaderne ved manglende klimasikring. Dvs. et 
+andet kriterium end de 25 % af bygningernes værdi, som anvendes i denne rapport.  
+Det skal bemærkes, at ændringer i disse forudsætninger, så fx flere eller færre grunde klimasikres, vil påvirke det 
+samlede udgiftsniveau til klimasikringen yderligere. 
+ 
+21 Hvor beregningerne baserer sig på de gennemsnitlige udgifter matrikulære udgifter til klimasikring i de enkelte kommuner.  
+
+ 
+ 
+54 
+ 
+10.8.3 Prissætningen 
+Priserne for klimasikringen, som er anvendt, er indsamlet og bearbejdet af Sweco og har naturligvis indflydelse på 
+resultaterne af udgifterne.  
+For klimasikringen ift. ekstremregn blev der antaget en blandet løsningsmodel med fire forskellige tiltag. Det giver 
+et ekstra usikkerhedsmoment i beregningerne, da der udover en potentiel forkert prissætning kan være antaget en 
+anderledes fordeling af løsninger, end de som i praksis anvendes. Tilsvarende er der et usikkerhedsmoment ift. 
+prissætningen på grundvandssikringen.   
+Udgifterne til sikring mod oversvømmelser fra vandløb og åer samt stormflodssikring er relativt begrænsede set i 
+forhold til de samlede udgifter til klimasikring. Dermed vil en evt. forkert prissætning ikke påvirke de samlede kon-
+klusioner nævneværdigt. 
+I forbindelse med Almen Klimakortlægning er der derfor bl.a. drøftet prissætningen med en række af de parter, 
+som har givet sparring til denne rapport, uden det er ført til at prissætningen er blevet revideret.  
+  
+
+ 
+ 
+55 
+ 
+Bolius (2024) - Forhindr kloakvand i din kælder med et højvandslukke, url: Højvandslukke til gulvafløb i kælder, toilet og 
+udvendige brønde  
+Dataforsyningen (2025a) – Danmarks Hydrologiske Højdemodel – Flow ekstremregn, url: https://dataforsynin-
+gen.dk/data/2692  
+Dataforsyningen (2025b) – Hydrologisk Højdemodel – Havvand på Land, url: https://dataforsyningen.dk/data/2695 
+DGNB (2023) – Manual for nye bygninger og omfattende renoveringer 2023, Rådet for Bæredygtigt Byggeri, url: 
+https://rfbb.dk/publikation/dgnb-manual-for-nye-bygninger-og-omfattende-renoveringer-2023?srsltid=AfmBOoowf-
+dEb3jrZN8BcvqCR2ArqVEzow6TRSj5cQM017aAV1TzZJWdh  
+DMI (2025) – url: https://www.dmi.dk/index.php?id=3350, fil: Excel-fil som dækker alle kyststrækninger, hentet 26. juni 2025 
+DMI (2025b) – Vejledning i anvendelse af udledningsscenarier til klimatilpasning, url: https://www.dmi.dk/fileadmin/klima-
+atlas/rapporter/Vejledningsrapporter/Vejledning_i_anvendelse_af_udledningsscenarier_til_klimatilpasning.pdf 
+DTU (2024) – Økonomiske konsekvenser af oversvømmelser, National skadesberegninger og vurdering af behov for kli-
+masikring, Hovedrapport, url: https://www.dtu.dk/newsarchive/2024/11/prisen-for-oversvoemmelser-fra-skybrud-og-
+stormfloder-kan-loebe-op-i-406-milliarder  
+FinansDanmak (2025) – Boligmarkedsstatistikken, tilgået september 2025. url: https://finansdanmark.dk/tal-og-data/bolig-
+statistik/boligmarkedsstatistikken/  
+Geodata-info.dk, tilgået 2. juli 2025, url: https://geodata-info.dk/srv/dan/catalog.search#/metadata/f7a6ebb5-1378-4e80-
+9a8d-5eb45b94be69 
+GEUS (2013) – Klimaekstremvandføring, klimaeffekter på hydrologi og afstrømning, url: https://data.geus.dk/pure-
+pdf/29548_GEUS-R_2013_29_opt.pdf  
+HOFOR (2016) – Mulighedskatalog for grønne regnvandsløsninger, url: hofor_mulighedskatalog-for-groenne-regn-
+vandsloesningercompressed.pdf 
+KD (2018) – Metode til national risikovurdering af oversvømmelse fra hav og vandløb samt ajourføring af risikoområder. 
+Oversvømmelsesdirektivet Anden planperiode, link: https://oversvommelse.kyst.dk/planperioder/planperiode-2016-
+2021/plantrin-1/vandloebsoversvoemmelser  
+Klimaekspeditionen (2024) – Når Stormfloden Rammer, url: https://www.klimaekspeditionen.com/  
+NIRAS (2021) – Metode til beregning af bygningsskader fra højtstående grundvand, NIRAS for Miljøministeriet, url: 
+https://klimatilpasning.dk/media/bapirry5/notat-skadesvaerdier-ved-hoejtstaaende-grundvand.pdf 
+Scalgo.com (2025) – Analysis – Flash Flood Map, url: https://scalgo.com/en-US/scalgo-live-documentation/analysis/flash-
+flood-map 
+Scalgo/COWI (2018) – Notat: National screening af oversvømmelse fra vandløb, url: https://oversvommelse.kyst.dk/me-
+dia/0rolbhk0/scalgo-cowi-2018-_notat-national-screening-af-oversvoemmelse-fra-vandloeb.pdf  
+Referencer 
+
+ 
+ 
+56 
+ 
+Appendiks 1.1 Tabeller vedr. ekstremregn 
+ 
+Tabel A1.1.1: Antal bygninger fordelt på sandsynlighedskategori og oversvømmelsesomfang for stillestå-
+ende vand 
+ 
+ Oversvømmelsesomfang 
+- 1 2 3 4 5 
+Sandsynligheds 
+kategori 
+A 66.537 - - - - - 
+B  157 702 437 743 134 
+C  105 779 663 460 500 
+D  107 871 186 1.532 263 
+E  142 683 911 964 565 
+F  336 3.107 957 1.636 2.469 
+KS  2.451 1.896 1.030 270 - 
+Note: Der er pr. definition ingen bygninger i kælderskaktkategorien med oversvømmelsesomfang 5.  
+Kilde: Landsbyggefonden pba. Scalgo. 
+Tabel A1.1.2: Antal boliger beliggende i bygninger fordelt på sandsynlighedskategori og oversvømmelses-
+omfang for stillestående vand 
+ 
+ Oversvømmelsesomfang 
+- 1 2 3 4 5 
+Sandsynligheds 
+kategori 
+A 247.762 - - - - - 
+B  833 4.747 3.425 8.298 1.436 
+C  342 4.745 5.878 5.096 10.524 
+D  268 5.790 1.503 19.969 5.463 
+E  619 4.502 10.903 11.814 14.883 
+F  1.047 23.909 8.883 22.042 80.805 
+KS  17.709 30.060 28.192 9.102 - 
+Note: Der er pr. definition ingen bygninger og dermed boliger i kælderskaktkategorien med oversvømmelsesomfang 5.  
+Kilde: Landsbyggefonden pba. Scalgo  
+  
+Appendiks 1: Tabeller 
+
+ 
+ 
+57 
+ 
+Tabel A1.1.3: Antal bygninger og boliger fordelt på risikovurdering for stillestående vand 
+ 
+Bygninger Boliger 
+Antal Andel Antal Andel 
+Grøn 66.537 72 % 247.762 42 % 
+Gul 2.287 2 % 14.360 2 % 
+Orange 4.218 5 % 34.169 6 % 
+Rød 8.234 9 % 91.465 15 % 
+Dyb rød 4.670 5 % 117.730 20 % 
+Kælder 5.647 6 % 85.063 14 % 
+Uoplyst 271 0 % 1.644 0 % 
+I alt 91.864 100 % 592.193 100 % 
+Kilde: Landsbyggefonden pba. oversvømmelsesdata fra Scalgo  
+Tabel A1.1.4: Antal bygninger og boliger fordelt på risikovurdering for strømmende vand 
+ 
+Bygninger Boliger 
+Antal Andel Antal Andel 
+Grøn 80.798 88 % 469.053 79 % 
+Gul 1.040 1 % 11.301 2 % 
+Orange 1.260 1 % 12.359 2 % 
+Rød 2.739 3 % 30.060 5 % 
+Dyb rød 5.756 6 % 67.776 11 % 
+Uoplyst 271 0 % 1.644 0 % 
+I alt 91.864 100 % 592.193 100 % 
+Kilde: Landsbyggefonden pba. Scalgo  
+Tabel A1.1.5: Antal bygninger og boliger fordelt på samlet risikovurdering for ekstremregn 
+ 
+Bygninger Boliger 
+Antal Andel Antal Andel 
+Grøn 61.396 67 % 220.065 37 % 
+Gul 2.234 2 % 14.487 2 % 
+Orange 4.152 5 % 33.513 6 % 
+Rød 9.214 10 % 95.667 16 % 
+Dyb rød 9.415 10 % 153.806 26 % 
+Kælder 5.182 6 % 73.011 12 % 
+Uoplyst 271 0 % 1.644 0 % 
+I alt 91.864 100 % 592.193 100 % 
+Kilde: Landsbyggefonden pba. oversvømmelsesdata fra Scalgo  
+ 
+
+ 
+ 
+58 
+ 
+Tabel A1.1.6: Antal bygninger fordelt på risikovurdering for ekstremregn (samlet) og sårbarhedskategori 
+ Bygninger 
+i alt 
+Sårbare  
+bygninger 
+i alt 
+Årsag 
+Elevator /  
+teknisk Ældreboliger Fælleskloak 
+Grøn 61.396 20.270 1.181 4.450 16.587 
+Gul 2.234 907 106 182 731 
+Orange 4.152 1.793 204 268 1.535 
+Rød 9.214 4.237 521 674 3.565 
+Dyb rød 9.415 4.309 689 689 3.571 
+Kælder 5.182 3.396 316 161 3.231 
+Uoplyst 271 49 39 11 - 
+I alt 91.864 34.961 3.056 6.435 29.220 
+Note: Antallet af sårbare bygninger summer ikke, da en bygning kan have flere sårbarhedsfaktorer 
+Kilde: Landsbyggefonden pba. Scalgo, KAMP, BBR og Plandata. 
+Tabel A1.1.7: Antal boliger fordelt på risikovurdering for ekstremregn (samlet) og sårbarhedskategori 
+ Boliger 
+i alt 
+Boliger i sårbare  
+bygninger 
+i alt 
+Årsag 
+Elevator /  
+teknisk Ældreboliger Fælleskloak 
+Grøn 220.065 88.681 18.548 19.399 66.629 
+Gul 14.487 7.909 1.919 1.736 5.995 
+Orange 33.513 19.271 5.501 2.647 15.989 
+Rød 95.667 55.458 15.215 8.551 44.128 
+Dyb rød 153.806 95.692 29.519 15.173 74.042 
+Kælder 73.011 49.008 10.958 4.290 44.182 
+Uoplyst 1.644 648 573 105 - 
+I alt 592.193 316.667 82.233 51.901 250.965 
+Note: Antallet af sårbare boliger summer ikke, da en bygning kan have flere sårbarhedsfaktorer. I tabellen opgøres antallet af almene 
+boliger (uanset boligtype) beliggende i bygninger med mindst én ældrebolig. Dette tal er højere end antallet af ældreboliger i den almene 
+boligsektor.  
+Kilde: Landsbyggefonden pba. Scalgo, KAMP, BBR og Plandata. 
+  
+
+ 
+ 
+59 
+ 
+Appendiks 1.2 Tabeller vedr. forhøjet grundvand 
+ 
+Tabel A1.2.1: Antal bygninger og boliger fordelt på risikovurdering for højt grundvand, bygninger med 
+kælder 
+ 
+Antal bygninger Antal boliger 
+Før 1973 Efter 1973 I alt Før 1973 Efter 1973 I alt 
+Grøn 4.234 700 4.934 34.638 12.746 47.384 
+Gul 483 199 682 5.099 3.623 8.722 
+Orange 944 267 1.211 10.357 4.552 14.909 
+Rød 1.858 651 2.509 22.557 15.448 38.005 
+Dyb rød 10.481 1.961 12.442 173.453 55.932 229.385 
+Uoplyst 151 55 206 1.790 2.336 4.126 
+I alt 18.151 3.833 21.984 247.894 94.637 342.531 
+Kilde: Landsbyggefonden pba. KAMP og Septima 
+Tabel A1.2.2: Antal bygninger og boliger fordelt på risikovurdering for højt grundvand, bygninger med 
+kælder 
+ 
+Antal bygninger Antal boliger 
+Før 1973 Efter 1973 I alt Før 1973 Efter 1973 I alt 
+Grøn 5.531 19.033 24.564 13.347 56.304 69.651 
+Gul 997 8.923 9.920 2.865 30.403 33.268 
+Orange 5.947 19.530 25.477 20.648 80.994 101.642 
+Rød 2.388 4.620 7.008 9.734 20.466 30.200 
+Dyb rød 448 1.014 1.462 1.957 5.979 7.936 
+Uoplyst 151 1.298 1.449 334 6.631 6.965 
+I alt 15.462 54.418 69.880 48.885 200.777 249.662 
+Kilde: Landsbyggefonden pba. KAMP og Septima 
+Tabel A1.2.3: Antal bygninger og boliger fordelt på risikovurdering for højt grundvand, bygninger i alt 
+ 
+Antal bygninger Antal boliger 
+Før 1973 Efter 1973 I alt Før 1973 Efter 1973 I alt 
+Grøn 9.765 19.733 29.498 47.985 69.050 117.035 
+Gul 1.480 9.122 10.602 7.964 34.026 41.990 
+Orange 6.891 19.797 26.688 31.005 85.546 116.551 
+Rød 4.246 5.271 9.517 32.291 35.914 68.205 
+Dyb rød 10.929 2.975 13.904 175.410 61.911 237.321 
+Uoplyst 302 1.353 1.655 2.124 8.967 11.091 
+I alt 33.613 58.251 91.864 296.779 295.414 592.193 
+Kilde: Landsbyggefonden pba. KAMP og Septima 
+
+ 
+ 
+60 
+ 
+Tabel A1.2.4: Antal bygninger fordelt på risikovurdering for højtliggende grundvand og sårbarhedskate-
+gori 
+ Bygninger 
+i alt 
+Sårbare  
+bygninger 
+i alt 
+Årsag 
+Elevator /  
+teknisk Ældreboliger Fælleskloak 
+Grøn 29.498 10.945 661 2.149 9.272 
+Gul 10.602 2.918 287 884 2.151 
+Orange 26.688 7.847 588 2.051 5.986 
+Rød 9.517 3.919 396 636 3.336 
+Dyb rød 13.904 8.728 1.027 602 8.014 
+Uoplyst 1.655 604 97 113 461 
+I alt 91.864 34.961 3.056 6.435 29.220 
+Note: Antallet af sårbare bygninger summer ikke, da en bygning kan have flere sårbarhedsfaktorer 
+Kilde: Landsbyggefonden pba. Scalgo, KAMP, BBR og Plandata. 
+Tabel A1.2.5: Antal boliger fordelt på risikovurdering for højtliggende grundvand og sårbarhedskategori 
+ Boliger 
+i alt 
+Boliger i sårbare  
+bygninger 
+i alt 
+Årsag 
+Elevator /  
+teknisk Ældreboliger Fælleskloak 
+Grøn 117.035 54.085 11.368 11.053 41.428 
+Gul 41.990 17.842 3.965 4.357 13.322 
+Orange 116.551 43.208 8.180 11.629 30.988 
+Rød 68.205 36.759 9.913 5.484 29.279 
+Dyb rød 237.321 158.546 45.795 17.936 132.129 
+Uoplyst 11.091 6.227 3.012 1.442 3.819 
+I alt 592.193 316.667 82.233 51.901 250.965 
+Note: Antallet af sårbare boliger summer ikke, da en bygning kan have flere sårbarhedsfaktorer. I tabellen opgøres antallet af almene 
+boliger (uanset boligtype) beliggende i bygninger med mindst én ældrebolig. Dette tal er højere end antallet af ældreboliger i den almene 
+boligsektor.  
+Kilde: Landsbyggefonden pba. Scalgo, KAMP, BBR og Plandata. 
+  
+
+ 
+ 
+61 
+ 
+Appendiks 1.3 Tabeller vedr. stormflod 
+ 
+Tabel A1.3.1: Antal bygninger fordelt på risikovurdering for stormflod og sårbarhedskategori 
+ Bygninger 
+i alt 
+Sårbare  
+bygninger 
+i alt 
+Årsag 
+Elevator /  
+teknisk Ældreboliger Fælleskloak 
+Grøn 89.324 34.081 2.916 6.243 28.560 
+Gul 148 17 0 4 14 
+Orange 67 29 5 8 23 
+Rød 378 127 28 51 82 
+Dyb rød 294 103 10 16 80 
+Uoplyst 1.653 604 97 113 461 
+I alt 91.864 34.961 3.056 6.435 29.220 
+Note: Antallet af sårbare bygninger summer ikke, da en bygning kan have flere sårbarhedsfaktorer 
+Kilde: Landsbyggefonden pba. KAMP, BBR og Plandata. 
+Tabel A1.3.2: Antal boliger fordelt på risikovurdering for stormflod og sårbarhedskategori 
+ Boliger 
+i alt 
+Boliger i sårbare  
+bygninger 
+i alt 
+Årsag 
+Elevator /  
+teknisk Ældreboliger Fælleskloak 
+Grøn 220.065 306.708 77.707 49.441 245.051 
+Gul 14.487 290 0 81 264 
+Orange 33.513 446 155 173 289 
+Rød 95.667 1.992 1.104 548 948 
+Dyb rød 153.806 1.004 255 216 594 
+Uoplyst 1.644 6.227 3.012 1.442 3.819 
+I alt 592.193 316.667 82.233 51.901 250.965 
+Note: Antallet af sårbare boliger summer ikke, da en bygning kan have flere sårbarhedsfaktorer. I tabellen opgøres antallet af almene 
+boliger (uanset boligtype) beliggende i bygninger med mindst én ældrebolig. Dette tal er højere end antallet af ældreboliger i den almene 
+boligsektor.  
+Kilde: Landsbyggefonden pba. Scalgo, KAMP, BBR og Plandata. 
+  
+
+ 
+ 
+62 
+ 
+Appendiks 1.4 Tabeller vedr. oversvømmelse fra vandløb etc. 
+ 
+Tabel A1.4.1: Antal bygninger fordelt på risikovurdering for vandløb etc. og sårbarhedskategori 
+ Bygninger 
+i alt 
+Sårbare  
+bygninger 
+i alt 
+Årsag 
+Elevator /  
+teknisk Ældreboliger Fælleskloak 
+Grøn 89.802 34.173 2.937 6.294 28.608 
+Rød 409 184 22 28 151 
+Uoplyst 1.653 604 97 113 461 
+I alt 91.864 34.961 3.056 6.435 29.220 
+Note: Antallet af sårbare bygninger summer ikke, da en bygning kan have flere sårbarhedsfaktorer 
+Kilde: Landsbyggefonden pba. KAMP, BBR og Plandata. 
+Tabel A1.4.2: Antal boliger fordelt på risikovurdering for vandløb etc. og sårbarhedskategori 
+ Boliger 
+i alt 
+Boliger i sårbare  
+bygninger 
+i alt 
+Årsag 
+Elevator /  
+teknisk Ældreboliger Fælleskloak 
+Grøn 577.000 307.846 78.409 50.177 245.238 
+Rød 4.144 2.594 812 282 1.908 
+Uoplyst 11.049 6.227 3.012 1.442 3.819 
+I alt 592.193 316.667 82.233 51.901 250.965 
+Note: Antallet af sårbare boliger summer ikke, da en bygning kan have flere sårbarhedsfaktorer. I tabellen opgøres antallet af almene 
+boliger (uanset boligtype) beliggende i bygninger med mindst én ældrebolig. Dette tal er højere end antallet af ældreboliger i den almene 
+boligsektor.  
+Kilde: Landsbyggefonden pba. KAMP, BBR og Plandata. 
+  
+
+ 
+ 
+63 
+ 
+Tabel A1.4.3: Vandløb og åer, der oversvømmer mere end fem bygninger 
+Vandløb Kommune Antal bygninger i risiko 
+Grejs Å Vejle 53 
+Granaaen Norddjurs 47 
+Ribe Å og Tved Å Esbjerg 35 
+Skive Å Skive 31 
+Skjern Å Herning 28 
+Omme Å Billund 24 
+Bjerndrup Mølleå Aabenraa 20 
+Varde Å Varde 17 
+Ålebæk Nordfyns 15 
+Aarhus Å Aarhus 14 
+Bygholm Å Horsens 12 
+Sillebro Å Frederikssund 12 
+Alling Å Norddjurs 10 
+Storå Holstebro 7 
+Mårup Å Syddjurs 7 
+Sejersbæk Tønder 6 
+Sønderå Aabenraa 6 
+Hvirlå Aabenraa 6 
+Rødå Aabenraa 6 
+Odense Å Odense 6 
+Ellebæk Køge 6 
+Klitmøller Å Thisted 5 
+Kolding Å Kolding 5 
+Gudenå Silkeborg 5 
+Helsinge Å Kalundborg 5 
+Kilde: Landsbyggefonden pba. KAMP 
+
+ 
+ 
+64 
+ 
+I dette appendiks beskrives rapportens datagrundlag.  
+Appendiks 2.1 Oversvømmelse fra stille- og strømmende vand ved 
+ekstremregn  
+Appendiks 2.1.1 Databeskrivelse 
+Data dækker over polygoner og informationer på almene bygninger, nedbørsmængder ved forskellige hændelser 
+samt indikatorer på omfanget af oversvømmelse for hver enkelte bygning fra nedbør ved de forskellige returperio-
+der.  
+Data over almene bygninger, der indgår i analysen, er udtrukket fra BBR 2.0 af Landsbyggefonden d. 10. januar 
+2025.  
+Nedbørsmængder ved de forskellige hændelser på kommuneniveau er hentet af Scalgo og stammer fra spilde-
+vandskomiteens regnvandstabeller. Nedbørsmængden tager udgangspunkt i en designregn, hvilket er en syntetisk 
+regn konstrueret til at dimensionere tekniske anlæg, der skal kunne håndtere regn. Scalgo har anvendt Design-
+regn-generatoren i version 4.1, der er baseret på Spildevandskomiteens regnmålinger frem til 2014. Designregnen 
+har i varighed på 4 timer. 
+Data på, hvor meget hver enkelte bygning bliver påvirket af nedbør, er beregnet ud fra Scalgos skybrudskort 
+(Scalgo.com, 2025). Indikatorerne er max dybde (m), våd perimeter (m), vådt lodret areal (m2) samt koordinater for 
+max dybde (x, y). Derudover er det samlede oplandsareal på alle strømningsveje, der berører bygningen angivet 
+(m2). 
+I data indgår analyser af påvirkning ved 5, 10, 20, 50 og 100-års hændelser.  
+Scalgo har anvendt bygningsdata fra GeoDanmark, hentet den 24. oktober 2024. 
+Leverance med oversvømmelsesdata på bygningsniveau er leveret til Landsbyggefonden fra Scalgo den 11. februar 
+2025.  
+Appendiks 2.1.2 Scoringsfunktion for stillestående vand: Oversvømmelsens dybde 
+Scoringsfunktionen for oversvømmelsens dybde anvender maksimaldybden i cm som udgangspunkt for beregnin-
+gen. Herfra trækkes 10 cm, svarende til vanddybden fra en ikke-skadelig oversvømmelse, hvorefter der tages kva-
+dratroden af denne difference. Endeligt afrundes den fundne værdi til laveste hele tal eller maksimalt 522, dvs.: 
+𝑆𝑐𝑜𝑟𝑒 =  𝑀𝑖𝑛(𝐴𝑓𝑟𝑢𝑛𝑑 𝑔𝑢𝑙𝑣[√𝑀𝑎𝑥(𝑀𝑎𝑥 𝑑𝑦𝑏𝑑𝑒 − 10; 0)];5) 
+Fx: En bygning med en max oversvømmelsesdybde på 18,6 cm: 
+√18,6 − 10 = √8,6 = 2,93 ≈ 2 
+ 
+22 Scoringsfunktion er valgt ud fra to kriterier: 1) den skal være simpel og 2) den skal afspejle data for de almene bygninger. Dermed har det mindre betyd-
+ning at intervallerne har forskellige størrelser. 
+Appendiks 2: Klimadata 
+
+ 
+ 
+65 
+ 
+ 
+Appendiks 2.1.3 Scoringsfunktion for stillestående vand: Oversvømmelsens perimeter 
+Scoringsfunktionen anvender oversvømmelsens perimeter uændret og opgjort i meter, som der tages kvadratro-
+den af. Herefter afrundes til laveste hele tal eller maksimalt 5, dvs.: 
+𝑆𝑐𝑜𝑟𝑒 =  𝑀𝑖𝑛(𝐴𝑓𝑟𝑢𝑛𝑑 𝑔𝑢𝑙𝑣[√𝑂𝑣𝑒𝑟𝑠𝑣ø𝑚𝑚𝑒𝑡 𝑝𝑒𝑟𝑖𝑚𝑒𝑡𝑒𝑟]; 5) 
+Fx: En bygning med ”Oversvømmet perimeter” på 23,9 m: 
+ 
+√23,9 = 4,88 ≈ 4 
+Appendiks 2.2 Stormflodshændelser 
+Data dækker over størrelse på stormflodshændelser ved forskellige hændelser, i forskellige tidsperioder og ved 
+forskellige klimascenarier. Data er hentet fra DMI’s klimaatlas, v2024b den 26. juni 2025 (DMI, 2025). 
+Til denne analyse er anvendt perioden 2011-2040 og SSP3-RCP7 scenariet.  
+I appendiks 3.2 er beskrevet hvordan data fra kystpolygonerne føres ind på land.  
+Appendiks 2.3 Havvand på Land  
+Havvand på Land viser, hvor vandet lægger sig på land ved forskellige vandstandsstigninger og er i denne analyse 
+udelukkende brugt til visuelle vurderinger og indgår altså ikke direkte i risikoinddelingen.  
+Data er afledt af DHM/Terræn og tilpasset til hydrologisk brug med GeoDanmark temaet DHM/Tilpasningslag. Mo-
+dellen bliver beregnet årligt, på baggrund af ajourførte højdedata (Dataforsyningen, 2025b). 
+Appendiks 2.4 Mindste havkote  
+Mindste havkote bliver i denne rapport også kaldet ”bygningens havkote” og viser hvor højt havvandet skal stå før 
+det rammer en given bygning. Data er beregnet af Klimadatastyrelsen på baggrund af Danmarks Højdemode, og er 
+leveret af Septima i forbindelse med leverance af vanddata på bygninger fra KAMP, 27. september 2024. 
+Appendiks 2.5 Grundvand  
+I denne rapport er anvendt data på grundvandsdybde for en typisk sommer- og vintersituation i perioden 1990-
+2019 (Geodata-info.dk, 2. juli 2025). Data er koblet til de almene bygninger af Septima via KAMP og leveret til 
+Landsbyggefonden den 27. september 2024.  
+Appendiks 2.6 Vandløb og åer  
+I denne analyse er anvendt data for hvor meget vand, der ligger ved en given bygning fra oversvømmelser fra 
+vandløb og åer i en 20-, 100- og 1.000-års hændelse (KD, 2018). 
+Data er koblet til de almene bygninger af Septima via KAMPs visning af ”Vandløbsoversvømmelse – grov” og leveret 
+til Landsbyggefonden den 27. september 2024.  
+
+ 
+ 
+66 
+ 
+Udgangspunktet for Almen Klimakortlægning er et udtræk fra Landsbyggefondens Stamdata og Huslejeregister 
+samt BBR/DAR pr. 1. januar 2025. Udtrækket indeholder oplysninger om 92.666 almene bygninger. Heraf indehol-
+der langt størstedelen boliger, mens knap 470 bygninger er ”sårbare”, dvs. bygninger med energiproduktion og 
+forsyning (især energidistribution) i BBR. 
+Dette datasæt har Landsbyggefonden sendt til Scalgo med henblik på berigelse ift. udsathed for ekstremregn her-
+under stillestående vand og strømningsveje. Idet Scalgo opgør data pba. bygningspolygoner og ikke bygninger, er 
+der i 304 tilfælde et-til-mange match. Dvs. 304 bygninger består af mere end én polygon i Scalgos datasæt, jf. figur 
+A3.1. 
+Figur A3.1a: Flere bygningspolygoner (2) i en bygning Figur A3.1b: Én bygningspolygon i én bygning   
+  
+ 
+ 
+ 
+ 
+I disse tilfælde er det nødvendigt at konvertere de datasæt Scalgo har på bygningspolygonerne til ét datasæt gæl-
+dende for bygningen.  
+For at opgøre oversvømmelserne på bygningsniveau anvendes følgende værdier for hhv. oversvømmelsernes 
+dybde, omfang og strømningsveje: 
+Tabel A3.1: Anvendte værdier for bygninger med flere polygoner i Scalgo-data 
+Maksimal dybde af oversvømmelse Maks værdi blandt polygonerne 
+Oversvømmet perimeter  Sum af polygonerne 
+Strømningsvej Maks værdi blandt polygonerne 
+Maksimal dybde af oversvømmelse Maks værdi blandt polygonerne 
+Kilde: Landsbyggefonden 
+Efterfølgende sammenkobles Landsbyggefondens data med data fra KAMP om oversvømmelser fra vandløb og 
+åer og grundvandsdybde. Data fra KAMP opgøres ligeledes på bygningspolygoner, hvorfor der foretages samme 
+øvelse som ved Scalgos data: 
+  
+Appendiks 3: Modellering af den 
+almene sektor og klimadata 
+
+ 
+ 
+67 
+ 
+Tabel A3.2: Anvendte værdier for bygninger med flere polygoner i KAMP-data 
+Maksimal dybde af oversvømmelse Anvendt definition 
+Grundvandsdybde (sommer/vinter) Mindste værdi (mest terrænnære) blandt polygonerne 
+Vandløb  Maksimal værdi blandt polygonerne  
+Kilde: Landsbyggefonden 
+Det er kun muligt at matche 91.864 af Landsbyggefondens bygninger med data fra enten Scalgo eller KAMP. Dvs. 
+at der mangler oplysninger fra knap 800 bygninger. Blandt de matchede bygninger findes der data i både KAMP og 
+Scalgo for 89.940 bygninger, mens der er knap 2.000 bygninger, hvor der kun er data i det ene af de to datasæt 
+(primært Scalgo).  
+Tabel A3.3: Datagrundlag for Almen Klimakortlægning 
+Vandløb Antal bygninger Antal boliger 
+Bygninger i LBF-data 92.666  
+Bygninger med match i enten KAMP eller Scalgo (datagrundlag) 91.864 592.193 
+Heraf:   
+Bygninger med match i KAMP & Scalgo 89.940 579.500 
+Bygninger med kun match i KAMP 271 1.644 
+Bygninger med kun match i Scalgo 1.653 11.049 
+Kilde: Landsbyggefonden 
+Det medfører, at det endelige datasæt omfatter ca. 592.000 almene boliger. Til sammenligning er der ca. 600.000 
+almene boliger pr. 1. august 2025.  
+ 
+  
+
+ 
+ 
+68 
+ 
+DMI’s klimaatlas indeholder oplysninger om stormflodshændelser for 34 kyststrækninger i Danmark. Disse oplys-
+ninger skal tilknyttes de enkelte almene bygninger, for at det er muligt at opgøre bygningernes risiko for oversvøm-
+melser fra stormfloder. I første omgang sker det ved at interpolere kyststrækningerne (der ligger i havet) indlands.   
+Figur A4.1 viser de 34 kystområder samt de landområder, der knyttes til de forskellige kystområder. Forkortelserne 
+er kyst-id’er på kystområderne og farverne afspejler hvilke kyst- og landområder, der kobles. 
+Kilde: Landsbyggefonden 
+Appendiks 4: Kobling af 
+kyststrækninger med bygninger 
+Figur A4.1: Relation mellem landområder og kyststrækninger i Almen Klimakortlægning 
+ 
+
+
+ 
+ 
+69 
+ 
+Hver kystområder har et kyst-id. Alle almene bygninger er blevet tilknyttet det kyst-id for det kystområde de ud fra 
+denne model er tættest på og/eller bedst repræsenterer den kyststrækning, de med størst sandsynlighed bliver 
+oversvømmet fra, jf. havvandets adgangsveje. 
+Septima har annoteret Mindste Havkote for hver almen bygning, der repræsenterer, hvor højt havvandet skal stå, 
+før bygningen vil blive påvirket23.  
+Ved at sammenligne havkoterne i stormflodsscenarierne med Mindste Havkote kan det vurderes, om bygningen 
+bliver påvirket af stormflod i de valgte risikoscenarier. 
+Manuelle tilretninger af data 
+For langt størstedelen af landmassen, er det ret tydeligt, hvilken kyststrækning der vil påvirke området. Men i en-
+kelte zoner påvirkes landmassen potentielt af flere kyststrækninger. I disse zoner er der foretaget en manuel gen-
+nemgang af kyststrækningerne og landområderne. Her er værdierne fra kystpolygonerne ført ind på land ved så 
+vidt muligt at tage højde for, hvor der vil forekomme havvand på land, og hvor det vand vil komme fra, jf. figur 
+A4.2. Hertil er anvendt forskellige havniveauer fra Havvand på Land GIS-laget fra Dataforsyningen (Dataforsynin-
+gen, 2025b). 
+Figur A4.2a: Manuel gennemgang af kyst- og landpo-
+lygoner 
+Figur A4.2b: Direkte ekstrapolering af skel mellem 
+kystpolygoner 
+ 
+ 
+ 
+ 
+Kilde: Landsbyggefonden 
+Et andet sted, der er rettet til manuelt, er ved grænsen mellem to kystområder. Disse har ikke nødvendigvis 
+samme stormflodsdata.  
+For at mindske risikoen for, at der kobles en for lav stormflodsprognose på de landområder, der ligger i grænsezo-
+nen mellem to kystpolygoner, udvides det landområde, der refererer til det kystpolygon, hvor stormfloden er 
+størst.  
+På figur A4.3 ses et eksempel med to kystpolygoner, hvor prognosen for stormfloder ved den ene (kyst 2) er højere 
+end ved den anden (kyst 1). I dette tilfælde rykkes grænsen mellem land 1 og land 2 én km langs kysten mod det 
+ 
+23 Se appendiks 2.4 
+
+
+ 
+ 
+70 
+ 
+kystområde med den mindste stormflodsprognose. Til denne vurdering er anvendt DMI’s prognoser for perioden 
+2011-2040 SSP5.  
+Figur A4.3a: Manuel gennemgang af kyst- og landpo-
+lygoner 
+Figur A4.3b: Direkte ekstrapolering af skel mellem 
+kystpolygoner 
+ 
+ 
+ 
+ 
+Kilde: Landsbyggefonden 
+ 
+
+
+ 
+ 
+71 
+ 
+I Almen Klimakortlægning er anvendt de aktuelle kloakeringsforhold i opgørelsen af sårbare bygninger i de enkelte 
+kapitler. I de fleste kommuner foreligger der dog kommunalplaner, som udbygger og forbedrer kloaknettet i de 
+kommende år. For denne rapport har især planer om separatkloakering og kloakering af ukloakerede områder 
+betydning.  
+I de følgende tabeller tages der højde herfor, ved at opgøre antallet af bygninger og boliger i almene bygninger, 
+som forventes at blive omfattet af sådanne forbedringer hhv. inden for 5 og 10 år.  
+Tabel A5.1.1: Antal bygninger med fælleskloak fordelt på risikovurdering for ekstremregn (samlet) og 
+kloakeringsplaner 
+ Bygninger med fælles-
+kloak i alt 
+Bygninger uden 
+kloakeringsplan 
+Bygninger med kloa-
+keringsplan 0-5 år 
+Bygninger med kloa-
+keringsplan 5-10 år 
+Grøn 16.587 12.271 818 3.498 
+Gul 731 588 27 116 
+Orange 1.535 1.119 74 342 
+Rød 3.565 2.644 170 751 
+Dyb rød 3.571 2.617 158 796 
+Kælder 3.231 2.367 118 746 
+I alt 29.220 21.606 1.365 6.249 
+Kilde: Landsbyggefonden pba. Scalgo, KAMP, BBR og Plandata. 
+Tabel A5.1.2: Antal boliger med fælleskloak fordelt på risikovurdering for ekstremregn (samlet) og kloa-
+keringsplaner 
+ Boliger i bygninger med 
+fælleskloak i alt 
+Boliger i bygnin-
+ger uden kloake-
+ringsplan 
+Boliger i bygninger 
+med kloakerings-
+plan 0-5 år 
+Boliger i bygninger 
+med kloakeringsplan 
+5-10 år 
+Grøn 66.629 48.689 3.112 14.828 
+Gul 5.995 4.818 123 1.054 
+Orange 15.989 12.339 587 3.063 
+Rød 44.128 34.048 1.436 8.644 
+Dyb rød 74.042 57.585 2.362 14.095 
+Kælder 44.182 31.800 1.640 10.742 
+I alt 250.965 189.279 9.260 52.426 
+Kilde: Landsbyggefonden pba. Scalgo, KAMP, BBR og Plandata. 
+ 
+  
+Appendiks 5: Kloakeringsforhold 
+
+ 
+ 
+72 
+ 
+Appendiks 6.1: Beskrivelse af klimatilpasningsløsninger 
+Regnbed  
+Et regnbed er en grøn regnvandsløsning til forsinkelse og nedsivning af regnvand fra tagflader og befæstede area-
+ler. Regnbedet har en vis lighed med vejbedet, men ligger ikke i vejarealet, og kan kombineres med andre afløbs-
+elementer. Et regnbed etableres typisk i private haver eller på rekreative fællesarealer, hvor tage og terræn natur-
+ligt leder vand til regnbedet. Regnbede er velegnet til rekreative grønne områder med sæsonmæssig blomstring.  
+Grøft  
+Grøfter og grønne vejsider kan opmagasinere, nedsive og transportere regnvand på overfladen. Løsningerne er 
+relativ billige ift. traditionel kloakering og kan nemmere tilbageholde vandet på overfladen. Grønne vejsider kan 
+anlægges så fladt, at det næsten ikke ses i landskabet eller som en dybere grøft, der periodevist er vandfyldt. De 
+kan anlægges med filterjord, sand, sten eller dræn i bunden for rensning og/eller nedsivning. En membran i bun-
+den af grøften kan forhindre nedsivning og evt. kontakt med forurenet jord.  
+Vådbassin/Tørbassin  
+Et vådbassin kan tilbageholde og rense regnvand med stor rekreativ og naturmæssig værdi, da løsningen har per-
+manent vandspejl. Bassinet er opbygget med et sandfang/olieudskiller, evt. som et forbassin med dykket udløb. 
+Overfladevand fra vejbelægninger og tage kan forsinkes og renses her. Tørbassin fungerer i store træk på samme 
+måde som vådbassin bare uden et permanentet vandspejl.  
+Faskine  
+En faskine er et underjordisk hulrum til magasinering og nedsivning af regnvand fra tagflader og befæstede area-
+ler. Den kan kombineres med andre afløbselementer og er velegnet i tætbebyggede områder, da den ikke optager 
+plads på overfladen. Faskiner etableres ofte i private haver, rekreative områder, vejarealer eller under p-pladser.  
+Dræn  
+Et dræn er et regnvandshåndteringssystem, der etableres omkring bygninger for at opsamle og lede overflade- og 
+grundvand væk fra fundamentet. Systemet består typisk af drænrør, der placeres i en grus fyldt rende langs byg-
+ningens sokkel, og som tilsluttes enten et LAR-anlæg (Lokal Afledning af Regnvand) eller det eksisterende kloaksy-
+stem. Omfangsdræn bidrager til at beskytte bygninger mod fugtskader og reducere belastningen på kloaksystemet 
+ved at opsamle og forsinke regnvand. Under kraftige regnhændelser kan drænet dog blive mættet, hvilket gør det 
+nødvendigt at etablere overløb til andre afledningssystemer for at undgå oversvømmelse eller opstigende vand.  
+Dige  
+Et dige er en fysisk barriere, der anvendes til at beskytte lavtliggende områder mod oversvømmelse fra hav, søer, 
+åer eller kraftig regn. Diget kan være opbygget af jord, sten, beton eller andre materialer og fungerer som en for-
+sinkende eller afskærmende struktur, der holder vandet tilbage og leder det væk fra sårbare områder. Digeløsnin-
+ger indgår ofte som en del af klimatilpasning i byområder, hvor stigende vandstand og ekstreme regnhændelser 
+kan udgøre en risiko for bygninger og infrastruktur. Under kraftige regnhændelser kan vandet dog overstige digets 
+kapacitet, og derfor bør diger kombineres med andre LAR-anlæg eller afløbssystemer for at sikre overløb og aflast-
+ning.  
+Højvandspumpe  
+En højvandspumpe er et teknisk anlæg, der anvendes til at beskytte lavtliggende områder mod oversvømmelse 
+ved at pumpe vand væk, når naturlig afledning ikke er tilstrækkelig. Pumpen aktiveres typisk under kraftige 
+Appendiks 6: Økonomi  
+
+ 
+ 
+73 
+ 
+regnhændelser eller ved forhøjet vandstand i nærliggende vandløb, søer eller havet, hvor der er risiko for opstem-
+ning eller tilbagestrømning. Højvandspumper indgår ofte som en del af LAR-løsninger eller klimatilpasningsstrate-
+gier i byområder, hvor terrænet eller kloaksystemet ikke kan håndtere store vandmængder hurtigt nok. For at sikre 
+effektiv afledning bør højvandspumper kombineres med overløb til reservoirer, diger eller det traditionelle kloak-
+system.  
+Sluse  
+En sluse er en reguleringsstruktur, der anvendes til at kontrollere vandstrømmen mellem to områder med forskel-
+lig vandstand, typisk i forbindelse med kystbeskyttelse, åer eller kanaler. Slusen kan åbnes og lukkes manuelt eller 
+automatisk for at forhindre oversvømmelse ved højvande, samtidig med at den tillader passage af vand under nor-
+male forhold. Sluser indgår ofte som en del af klimatilpasningsstrategier i lavtliggende byområder, hvor stigende 
+havvand eller kraftige regnhændelser kan føre til opstemning og tilbagestrømning. For at sikre effektiv afledning og 
+beskyttelse bør sluser kombineres med højvandspumper, diger eller overløb til LAR-anlæg og kloaksystemer. 
+Appendiks 6.2 Klimasikring fordelt på udgiftsniveauer 
+ 
+Tabel A6.2.1 Udgifter til klimasikring af ekstremregn (mio. kr.) fordelt på sikrings- og prisniveau 
+Sikringsniveau Minimum udgift Maksimum udgift Gns. udgift 
+10-års hændelse 9.229 57.684 20.360 
+20-års hændelse 11.803 73.768 26.037 
+50-års hændelse 15.222 95.140 33.581 
+100-års hændelse 17.855 111.594 39.388 
+Note: Minimumsprisen svarer til at, hele sektoren kan klimasikres via den billigste klimaløsning, regnsvandsbassiner til 1.200 kr. pr. m3 
+vand. Ved maksimumsprisen vælges den dyreste løsning, regnbede til 7.500 kr. pr. m3 vand for alle berørte grunde. Gennemsnitsudgiften 
+er den kombinerede løsning, hvor hver af de fire løsninger anvendes med de i tabel 10.3.1 angivne procentsatser, svarende til en gen-
+nemsnitlig pris for klimasikring på knap 2.650 kr. pr. m3. 
+Kilde: Sweco pba. Landsbyggefonden og Scalgo 
+Tabel A6.2.2 Udgifter til klimasikring af vandløb og år, stormflod og grundvand i mio. kr. 
+Oversvømmelseskilde Minimum udgift Maksimum udgift Gns. udgift 
+Vandløb og åer 12  314  170  
+Stormflod 26  721  394  
+Grundvand 1.974  5.942  3.958  
+I alt 2.013  6.977   4.522  
+Kilde: Sweco  
+
+ 
+ 
+74 
+ 
+Appendiks 6.3: Udgifter til klimasikring fordelt på kommuner 
+ 
+Tabel A6.3.1: Udgifter til klimasikring fordelt på oversvømmelseskilder (mio. kr.) 
+Kommune Ekstremregn Vandløb og åer Stormflod Grundvand I alt 
+Albertslund 1.005 0 0 79 1.084 
+Allerød 114 0 0 14 128 
+Assens 93 0 0 19 112 
+Ballerup 838 0 0 112 950 
+Billund 152 6 0 10 167 
+Bornholm 252 0 0 27 279 
+Brøndby 273 0 0 79 353 
+Brønderslev 75 0 0 13 88 
+Dragør 98 0 12 10 119 
+Egedal 183 0 0 23 205 
+Esbjerg 734 9 1 36 779 
+Fanø 11 0 8 3 22 
+Favrskov 107 0 0 15 122 
+Faxe 185 0 0 30 215 
+Fredensborg 530 0 0 50 580 
+Fredericia 206 0 2 56 264 
+Frederiksberg 93 0 0 27 120 
+Frederikshavn 509 0 0 47 556 
+Frederikssund 274 8 11 24 318 
+Furesø 289 0 0 68 357 
+Faaborg-Midtfyn 179 0 0 32 211 
+Gentofte 33 0 0 11 43 
+Gladsaxe 825 0 0 86 911 
+Glostrup 240 0 0 39 279 
+Greve 502 0 0 54 556 
+Gribskov 132 0 0 7 140 
+Guldborgsund 283 0 6 41 330 
+Haderslev 292 0 2 30 324 
+Halsnæs 218 1 30 9 258 
+Hedensted 136 0 23 13 172 
+Helsingør 539 0 0 43 582 
+
+ 
+ 
+75 
+ 
+Kommune Ekstremregn Vandløb og åer Stormflod Grundvand I alt 
+Herlev 645 0 0 64 709 
+Herning 242 4 0 16 262 
+Hillerød 193 6 0 23 221 
+Hjørring 163 0 0 18 181 
+Holbæk 400 0 0 58 458 
+Holstebro 199 8 0 17 223 
+Horsens 316 9 22 54 402 
+Hvidovre 398 0 0 75 472 
+Høje-Taastrup 363 0 0 47 409 
+Hørsholm 138 0 0 21 159 
+Ikast-Brande 84 0 0 6 90 
+Ishøj 287 0 0 33 320 
+Jammerbugt 74 0 0 11 85 
+Kalundborg 240 2 13 37 292 
+Kerteminde 100 0 6 13 119 
+Kolding 493 3 5 67 568 
+København 1.523 0 5 380 1.908 
+Køge 461 3 5 69 538 
+Langeland 53 0 7 10 70 
+Lejre 94 0 0 8 102 
+Lemvig 27 0 15 5 46 
+Lolland 136 2 14 40 193 
+Lyngby-Taarbæk 360 0 0 32 393 
+Læsø 2 0 0 1 3 
+Mariagerfjord 85 2 9 7 103 
+Middelfart 174 0 0 24 198 
+Morsø 44 0 7 7 57 
+Norddjurs 91 17 15 17 139 
+Nordfyns 85 5 26 16 132 
+Nyborg 217 0 0 22 239 
+Næstved 457 0 0 60 516 
+Odder 123 0 2 16 141 
+Odense 1.519 5 6 208 1.738 
+Odsherred 127 0 0 17 144 
+Randers 361 0 6 43 410 
+
+ 
+ 
+76 
+ 
+Kommune Ekstremregn Vandløb og åer Stormflod Grundvand I alt 
+Rebild 48 0 0 4 52 
+Ringkøbing-Skjern 190 0 0 19 209 
+Ringsted 203 0 0 26 229 
+Roskilde 636 0 0 65 701 
+Rudersdal 370 0 0 33 403 
+Rødovre 723 0 0 70 793 
+Samsø 13 0 0 1 14 
+Silkeborg 390 2 0 33 425 
+Skanderborg 185 0 0 25 210 
+Skive 149 5 7 12 174 
+Slagelse 521 0 13 94 628 
+Solrød 36 4 0 10 50 
+Sorø 124 0 0 22 145 
+Stevns 66 0 0 10 76 
+Struer 68 0 0 12 79 
+Svendborg 278 0 1 40 319 
+Syddjurs 145 1 0 10 156 
+Sønderborg 634 0 9 104 747 
+Thisted 68 2 0 13 83 
+Tønder 128 2 5 24 158 
+Tårnby 240 0 0 54 294 
+Vallensbæk 41 0 0 5 46 
+Varde 132 5 9 7 154 
+Vejen 139 0 0 18 157 
+Vejle 451 31 49 67 599 
+Vesthimmerlands 68 0 7 4 80 
+Viborg 337 0 0 8 345 
+Vordingborg 219 0 5 38 263 
+Ærø 18 0 1 4 23 
+Aabenraa 337 7 4 47 395 
+Aalborg 1.287 1 27 109 1.425 
+Aarhus 1.893 17 0 326 2.236 
+I alt 29.809 170 394 3.958 34.331 
+Note: Alle værdier er opgjort som gennemsnittet udgifterne til klimasikring af en 20- og 50-års hændelse.  
+Kilde: Sweco pba. Scalgo, Kamp og DMI Klimaatlas 
+
+ 
+ 
+77 
+ 
+Tabel A6.3.2: Udgifter til klimasikring i alt pr. bygning og bolig (mio. kr.) 
+Kommune Gennemsnitlige udgifter  
+pr. bygning 
+Gennemsnitlige udgifter  
+pr. bolig 
+Albertslund 0,484 0,147 
+Allerød 0,410 0,065 
+Assens 0,141 0,056 
+Ballerup 0,685 0,072 
+Billund 0,228 0,063 
+Bornholm 0,243 0,111 
+Brøndby 0,645 0,035 
+Brønderslev 0,206 0,038 
+Dragør 0,503 0,126 
+Egedal 0,374 0,080 
+Esbjerg 0,283 0,051 
+Fanø 0,351 0,113 
+Favrskov 0,213 0,057 
+Faxe 0,398 0,089 
+Fredensborg 0,855 0,112 
+Fredericia 0,349 0,037 
+Frederiksberg 0,871 0,022 
+Frederikshavn 0,384 0,072 
+Frederikssund 0,291 0,096 
+Furesø 0,503 0,070 
+Faaborg-Midtfyn 0,177 0,073 
+Gentofte 0,362 0,027 
+Gladsaxe 0,561 0,077 
+Glostrup 0,749 0,062 
+Greve 0,853 0,091 
+Gribskov 0,475 0,096 
+Guldborgsund 0,461 0,066 
+Haderslev 0,187 0,057 
+Halsnæs 0,600 0,114 
+Hedensted 0,187 0,074 
+Helsingør 0,504 0,068 
+Herlev 0,645 0,093 
+Herning 0,186 0,033 
+
+ 
+ 
+78 
+ 
+Kommune 
+Gennemsnitlige udgifter  
+pr. bygning 
+Gennemsnitlige udgifter  
+pr. bolig 
+Hillerød 0,536 0,052 
+Hjørring 0,213 0,039 
+Holbæk 0,429 0,063 
+Holstebro 0,156 0,041 
+Horsens 0,452 0,050 
+Hvidovre 0,728 0,048 
+Høje-Taastrup 0,706 0,067 
+Hørsholm 0,953 0,065 
+Ikast-Brande 0,154 0,031 
+Ishøj 1,152 0,066 
+Jammerbugt 0,171 0,049 
+Kalundborg 0,403 0,072 
+Kerteminde 0,153 0,077 
+Kolding 0,304 0,056 
+København 0,948 0,029 
+Køge 0,593 0,069 
+Langeland 0,245 0,096 
+Lejre 0,346 0,113 
+Lemvig 0,212 0,064 
+Lolland 0,296 0,051 
+Lyngby-Taarbæk 0,408 0,063 
+Læsø 0,109 0,038 
+Mariagerfjord 0,205 0,051 
+Middelfart 0,203 0,078 
+Morsø 0,175 0,051 
+Norddjurs 0,268 0,058 
+Nordfyns 0,338 0,102 
+Nyborg 0,399 0,085 
+Næstved 0,411 0,079 
+Odder 0,461 0,073 
+Odense 0,439 0,067 
+Odsherred 0,284 0,083 
+Randers 0,287 0,047 
+Rebild 0,170 0,047 
+
+ 
+ 
+79 
+ 
+Kommune 
+Gennemsnitlige udgifter  
+pr. bygning 
+Gennemsnitlige udgifter  
+pr. bolig 
+Ringkøbing-Skjern 0,135 0,063 
+Ringsted 0,585 0,067 
+Roskilde 0,613 0,075 
+Rudersdal 0,399 0,093 
+Rødovre 1,196 0,093 
+Samsø 0,648 0,151 
+Silkeborg 0,256 0,050 
+Skanderborg 0,245 0,062 
+Skive 0,177 0,046 
+Slagelse 0,450 0,064 
+Solrød 0,403 0,033 
+Sorø 0,278 0,070 
+Stevns 0,346 0,108 
+Struer 0,134 0,047 
+Svendborg 0,377 0,064 
+Syddjurs 0,178 0,067 
+Sønderborg 0,270 0,079 
+Thisted 0,112 0,039 
+Tønder 0,137 0,066 
+Tårnby 0,826 0,039 
+Vallensbæk 1,601 0,088 
+Varde 0,164 0,046 
+Vejen 0,124 0,051 
+Vejle 0,356 0,055 
+Vesthimmerlands 0,120 0,041 
+Viborg 0,178 0,041 
+Vordingborg 0,428 0,071 
+Ærø 0,287 0,054 
+Aabenraa 0,241 0,068 
+Aalborg 0,393 0,045 
+Aarhus 0,408 0,046 
+I alt 0,374 0,058 
+Note: Alle værdier er opgjort som gennemsnittet udgifterne til klimasikring af en 20- og 50-års hændelse pr. bygning og bolig i data.  
+Kilde: Sweco pba. Scalgo, Kamp og DMI Klimaatlas og Landsbyggefonden  
+
+ 
+ 
+ 
+ 
+Landsbyggefonden 
+Studiestræde 50  
+1554 København V 
+Tlf. 33 76 20 00  
+www.lbf.dk 
+lbf@lbf.dk

@@ -1,0 +1,1452 @@
+=== DNNK PDF Dokument ===
+Titel: 2014 12 18 KLIKOVANDs JURIDISKE HOVEDSPORGSMAAL1
+Kategori: Rapporter_s4
+Kilde: https://usercontent.one/wp/www.dnnk.dk/wp-content/uploads/2020/11/2014_12_18__KLIKOVANDs_JURIDISKE_HOVEDSPORGSMAAL1.pdf
+Indekseret: 2026-09-23T10:12:43.649190
+
+==================================================
+
+KLIKOVANDs juridiske hovedspørgsmål 
+– 
+ret og vrang i klimatilpasningen 
+ 
+ 
+December 2014 
+§ 
+§ 
+§ 
+§ 
+§ 
+§ 
+§ 
+§ 
+
+
+KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL 
+ 
+  2 KLIKOVAND – december 2014  
+ 
+Indhold 
+1. Indledning og læsevejledning ................................................................................................ 4 
+2 Introduktion til klimatilpasning ............................................................................................. 6 
+2.1 Hvem har ansvaret for klimatilpasning? ....................................................................... 6 
+2.2 Hvad er klimatilpasning, når vi taler om vand og lovgivning?....................................... 6 
+2.3 Lovgivningen på området .............................................................................................. 7 
+3 (Miljø)krav ............................................................................................................................. 8 
+3.1 Hvad sker der, hvis badevandskvaliteten påvirkes negativt af klimatilpasningstiltag? 9 
+4 Administration ..................................................................................................................... 11 
+4.1 Hvornår og hvorfor skal Spildevandsplanen ændres? ................................................ 11 
+5 Serviceniveauer/ rammebetingelser ................................................................................... 12 
+5.1 Hvad er et servicemål? ................................................................................................ 12 
+6 Finansieringen af klimatilpasning – og forsyningernes mulighed for at medfinansiere 
+klimaprojekter ..................................................................................................................... 15 
+6.1 Overordnede betingelser for at forsyningerne kan deltage i finansiering af 
+projekterne .................................................................................................................. 15 
+6.2 Finansiering er afhængig af, hvor projektet udføres .................................................. 16 
+6.3 Sagsbehandling ........................................................................................................... 18 
+7 Regulering af forskellige typer indsatser ............................................................................. 19 
+7.1 Ændrede vejprofiler, kantsten eller andre barrierer på vejen til omdirigering af 
+regnvand ..................................................................................................................... 19 
+7.2 Afkobling af regnvand og evt. tilbagebetaling af tilslutningsbidrag ........................... 22 
+7.3 Rensning af regnvand .................................................................................................. 24 
+7.4 Nedsivning eller opmagasinering af regnvand på private grunde .............................. 26 
+7.5 Varslingssystemer for ekstremregn/skybrud .............................................................. 27 
+7.6 Anvendelse af vandløb til omdirigering af regnvand .................................................. 28 
+7.7 Krav til befæstelsesgrader ........................................................................................... 31 
+7.8 Kystsikring/ kystbeskyttelse ........................................................................................ 32 
+7.8.1 Hvem er ansvarlig for kystbeskyttelse? ............................................................... 32 
+7.8.2 Ansøgninger til Kystdirektoratet ......................................................................... 32 
+
+KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL 
+ 
+  3 KLIKOVAND – december 2014  
+ 
+7.8.3 De særlige regler efter kystbeskyttelseslovens kapitel 1 a ................................. 33 
+7.8.4 Hvem har ansvaret for finansiering af kystsikringen? ......................................... 35 
+7.8.5 Hvem har ansvaret for skader påført andre grundejere/andre konstruktioner af 
+kystbeskyttelsesanlægget? ................................................................................................. 36 
+7.8.6 Udfordringer ........................................................................................................ 36 
+Bilag 1: Omtalte love og bekendtgørelser ................................................................................... 38 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+KLIKOVAND 2014 
+Teksten må citeres med kildeangivelse.  
+Svarene er udarbejdet i samarbejde med miljøadvokat Pia Lisbeth Nielsen,   
+Advokatpartnerselskab, 
+www.mowe.dk . Dokumentet er gennemarbejdet med henblik på 
+formidling af kommunikationsrådgiver Mille Wilken Bengtsson, www.addendum.dk.  
+
+
+KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL 
+ 
+  4 KLIKOVAND – december 2014  
+ 
+1 Indledning og læsevejledning 
+ 
+Hermed præsenter Arbejdsgruppen Jura under KLIKOVAND en række juridiske 
+hovedspørgsmål, der er samlet i løbet at KLIKOVANDs projekttid 2012-2014. Formålet har 
+været at samle udfordringer på det juridiske område, som KLIKOVANDs medlemmer har 
+ønsket svar på. 
+Hovedspørgsmålene er blevet bearbejdet og så vidt muligt besvaret af Advokat Pia Lisbeth 
+Nielsen, Molt & Wengel Advokatpartnerselskab. Arbejdsgruppen Jura har kommenteret 
+udkastet, og et færdigt udkast blev gennemarbejdet ved en workshop den 5. november 2014 
+på Havarthigaarden i Holte. 
+Denne udgave kan ikke ses som et afsluttet værk – de aktuelle temaer er hele tiden i flow – og 
+der forventes ændringer både i lovgivningen og som følge af ændrede forvaltnings-
+bestemmelser. I KLIKOVAND2 vil vi etablere muligheden for umiddelbart at debattere juridiske 
+udfordringer i en netbaseret løsning. 
+Svarene er foreløbige på mange af de her stillede hovedspørgsmål. Der er behov for flere 
+praktiske erfaringer og juridiske overvejelser. 
+Håndbogen er tænkt som opslagsværk og inspiration for alle planlæggere, fagmedarbejdere, 
+landsskabsarkitekter, beslutningstagere og konsulenter, der beskæftiger sig med 
+klimatilpasningstiltag i kommuner, regioner og forsyninger. Vi ønsker, at I ser KLIKOVAND2 
+som et åbent netværk, hvor man kan søge erfaringsudveksling, når man planlægger 
+klimatilpasningstiltag, så den bedst mulige løsning kan blive implementeret. 
+Det er i udgangspunktet kommunerne, der har det miljømæssige eller fagmæssige ansvar for, 
+at kommunernes arealer og forsyningens kloakker bliver tilpasset til de ændrede 
+regnvandsmængder. Klimatilpasning er styret af en kompleks samling af love og 
+bekendtgørelser, der udstikker rammer for kommuner, forsyninger og andre aktørers roller og 
+ansvar. Dette emne er berørt i flere svar i dette dokument, og vi vil fortsat fokusere på det i 
+KLIKOVAND2. 
+Juridiske udfordringer kan som sagt i fremtiden blive behandlet på KLIKOVANDs hjemmeside 
+(
+www.klikovand.dk ). Nye spørgsmål, emner og udfordringer bedes sendt til Projektleder Jura i 
+KLIKOVAND Michael Øllgaard, Forstkandidat, Egedal Rådhus, Dronning Dagmars Vej 200, 3650 
+Ølstykke, Telefon: 72 59 73 40, Mobil: 24 89 33 62, E-mail: Michael.Ollgaard@egekom.dk. 
+ 
+Læsevejledning 
+Dokumentet er opdelt i syv hovedafsnit: 
+1.  Denne indledning og læsevejledning 
+2.  Introduktion til klimatilpasning 
+3.  (Miljø)krav 
+
+KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL 
+ 
+  5 KLIKOVAND – december 2014  
+ 
+4.  Administration 
+5.  Serviceniveauer/Rammebetingelser 
+6.  Finansieringen af Klimatilpasning  
+7.  Regulering af forskellige typer indsatser  
+Punkterne er så vidt muligt struktureret som følger:  
+→ Hvilken lov gælder, og hvad siger den? 
+→ Hvilken proces/ løsning kan gennemføres? 
+→ Er der særlige problemer eller udfordringer? 
+Vi har med vilje valgt at bruge samlebetegnelser for kommune og forsyning i stedet for at 
+skrive kommunalbestyrelse, spildevandsselskab, forsyningsselskab m.m. Det gør det lidt lettere 
+at læse stoffet. 
+I Bilag 1 lister vi den lovgivning og de bekendtgørelser, der er refereret til i denne 
+dokumentation. Vi har forsynet listen med kaldenavne, hvilket gør læsningen lettere.
+ 
+
+KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL 
+ 
+  6 KLIKOVAND – december 2014  
+ 
+2 Introduktion til klimatilpasning 
+2.1 Hvem har ansvaret for klimatilpasning? 
+Det er i udgangspunktet kommunerne, der har det miljømæssige eller fagmæssige ansvar for, 
+at kommunernes arealer og forsyningens kloakker bliver tilpasset til de ændrede 
+regnvandsmængder.  
+ 
+Kommunernes forpligtelser med hensyn til vand overordnet set og f.eks. oversvømmelser er 
+afledt af EU-lovgivning, der er implementeret i dansk ret ved en række love.  
+ 
+Det første niveau, som kommunerne skal have styr på, er de kommunale planer. I figuren 
+nedenfor vises, hvordan de forskellige planer eller den foretagne prioritering i den kommunale 
+handleplan reelt skal spille sammen:  
+ 
+ 
+Bearbejdet fra Klimatilpasning.dk  
+ 
+Når de kommunale klimatilpasningsplaner er udarbejdet som tillæg til kommuneplanen eller 
+som en direkte del af kommuneplanen, skal de indarbejdes i en handlingsplan for 
+klimatilpasning og derefter udmøntes konkret i bl.a. spildevandsplaner, naturplejeplaner og 
+temalokalplaner.  
+ 
+Når plangrundlaget i de forskellige sektorplaner er på plads, kan man igangsætte de projekter, 
+som er foreslået i klimatilpasningsplanen.  
+2.2 Hvad er klimatilpasning, når vi taler om vand og lovgivning? 
+Der er forskel på klimatilpasning og klimaforebyggelse. Da kommunerne skal varetage 
+klimatilpasningen , betyder det, at de fremover har mulighed for at tilpasse lokalområdet til 
+konsekvenserne af klimaforandringer.  
+Klimatilpasningsplan  
+
+KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL 
+ 
+  7 KLIKOVAND – december 2014  
+ 
+ 
+Det kan bl.a. være lokalplanlægning, der har til hensigt at tilpasse et givent område til større 
+mængder regnvand, oversvømmelser, mere blæst eller hedebølger og tørke. Det kan også 
+være at tilpasse spildevandsanlæg eller arealer til større mængder vand ved bygningstekniske 
+eller arealtekniske indgreb. Disse konsekvenser er lokale problemstillinger, som det er 
+naturligt, at kommunen tager hensyn til og indarbejder i sin planlægning og i sin fremtidige 
+udvikling af kommunen.   
+ 
+Klimaforebyggelse  handler ikke om at tilpasse vores samfund til konsekvenser af, at klimaet 
+forandrer sig, men mere om at forebygge, at dette sker – f.eks. ved at regulere eller forsøge at 
+regulere en reduktion af udledningen af drivhusgasser mv. fra virksomheder mv.   
+ 
+Klimaforebyggelse er ikke omhandlet i dette dokument.  
+2.3 Lovgivningen på området 
+Kommunernes ansvar for f.eks. planlægning og udstedelse af tilladelser og ændring af 
+vandløbsregulativer med hensyn til klimatilpasning fremgår af miljømålsloven, 
+miljøbeskyttelsesloven, vandløbsloven, planloven  og spildevandsbekendtgørelsen .  
+  
+
+KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL 
+ 
+  8 KLIKOVAND – december 2014  
+ 
+Kommunen skal som plan - og tilladelsesmyndighed sikre, at problemet med regnvand og 
+kloakvand ikke flyttes et andet sted hen i vandcyklusen, når de implementerer klimatiltag. 
+ 
+Formulere planer og indgå aftaler  
+ 
+Kommunen skal gennemgå miljømål 
+og risici for f.eks. 
+badevandskvaliteten i et 
+vandområde, inden planer 
+formuleres og aftaler om 
+klimatilpasning mv. indgås. 
+ 
+ 
+Konkrete tilladelser til alternativ 
+afledning  
+Kommunen skal ved meddelelse af 
+tilladelser iagttage reglerne i 
+• Miljømålsloven 
+• de konkrete miljømål i de 
+statslige vandplaner  
+• reguleringen efter 
+Badevandsbekendtgørelsen  
+ 
+3 (Miljø)krav 
+ 
+Klimatilpasning er ikke en isoleret disciplin, som kan foretages på bekostning af miljøkvaliteten 
+af omgivelserne.  
+Krævede klimatilpasningtiltag er også underlagt helt generelle krav om miljøbeskyttelse – 
+herunder særlig beskyttelse af de vandområder, der udledes til, og deres vandkvalitet.  
+Kommunerne kan derfor ikke sætte tiltag i gang, der i udgangspunktet påvirker et vandområde 
+så negativt, at vandområdets miljø- og kvalitetsmålsætninger ikke kan overholdes, sådan som 
+de pt. er fastlagt i landsplandirektiver og formodentligt snart i de statslige vandplaner.  
+Kommunen som plan- og tilladelsesmyndighed  
+ 
+I forbindelse med udformning af svarene til de juridiske hovedspørgsmål har vi også modtaget 
+et spørgsmål om forringelse af badevandskvalitet i forbindelse med klimatilpasningstiltag.  
+Dette er besvaret under 3.1 nedenfor.   
+  
+
+KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL 
+ 
+  9 KLIKOVAND – december 2014  
+ 
+3.1  Hvad sker der, hvis badevandskvaliteten påvirkes negativt af 
+klimatilpasningstiltag? 
+ 
+Hvilken lov gælder, og hvad siger den? 
+Miljømålsloven og vanddistrikterne 
+EUs vandrammedirektiv fastsætter en holistisk tilgang til planlægning, tilladelser og indsats for 
+forbedring af hele vandcyklus, og det er implementeret i dansk ret ved bl.a Miljømålsloven . 
+Denne lov fastsætter, at der for hvert vanddistrikt skal udformes en (statslig) vandplan, som 
+skal sikre, at distriktet opnår de nærmere mål i EUs Vandrammedirektiv  – hvor hovedmålet er 
+at opnå en god økologisk tilstand af alle vandområder.  
+Miljømålslovens  § 11 fastsætter herudover et helt overordnet miljøkrav om, at 
+vanddistrikterne skal forebygge, at tilstanden af alle overfladevandsområder ikke bliver 
+forringet. 
+De statslige vandplaner (der endnu ikke er endeligt vedtaget) skal indeholde miljømål for alle 
+vandforekomster i et vanddistrikt i henhold til miljømålsloven – herunder også kystnært 
+overfladevand.  
+Badevand, lovgivning og forurening 
+Badevand er kystnært overfladevand, og vil derfor også typisk være underlagt specifikke 
+miljømål i vandplanerne.  
+Badevand er herudover selvstændigt reguleret i EUs Badevandsdirektiv , som er implementeret 
+i Badevandsbekendtgørelsen 
+1. 
+Med hjemmel i denne bekendtgørelse kan kommunen efter Badevandsbekendtgørelsens  § 11 
+træffe foranstaltninger til at afhjælpe forurening af badevandet eller badeområdet.  
+Klimatilpasning og udledning af regnvand 
+Klimatilpasningstiltag kan betyde, at man ønsker at aflede regnvand til kystnære områder. I de 
+tilfælde skal en udledningstilladelse efter Miljøbeskyttelsesloven tage højde for de miljømål, 
+der foreligger for det vandområde, der ønskes udledt til.  
+Kommunen kan og skal iagttage reglerne både i Miljømålsloven  og Badevandsbekendtgørelsen  
+– også når de etablerer alternative tiltag til brug for klimatilpasning.  
+Hvilken proces/ løsning kan gennemføres? 
+Lokal afledning af regnvand til vandområder  
+Badevandskvaliteten kan forringes, hvis der sker en ændring i den måde, regnvandet afledes 
+                                                           
+1 Bekendtgørelse nr. 939 af 18. september 2012 
+
+KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL 
+ 
+  10  KLIKOVAND – december 2014  
+ 
+på gennem de fælles systemer. Det kan f.eks. være, at det bliver afledt lokalt til jorden eller til 
+et nærliggende vandområde i stedet for at blive transporteret til renseanlægget.  
+I dag aflastes de fælles systemer også ved at aflede til vandområder i tilfælde af ekstremregn. 
+Det kan reelt udgøre et større problem for vandmiljøet, idet der udledes opspædet spildevand 
+til vandområderne.  
+Kommunen skal påse, at ændring i regnvandsafledningen ikke medfører forringelse af 
+vandkvaliteten i det modtagne vandområde på en måde, hvor kvalitetskravene formuleret i 
+vandplanen ikke kan overholdes.  
+Kommunen skal derfor have tilstrækkelige data om stofindhold og vandmængder mv.  i det 
+regnvand, der påtænkes udledt til et vandområde, når den skal fastsætte evt. krav til 
+forsinkelse og/eller rensning forud for udledning til vandområde.  
+  
+
+KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL 
+ 
+  11  KLIKOVAND – december 2014  
+ 
+4 Administration 
+4.1  Hvornår og hvorfor skal Spildevandsplanen ændres? 
+ 
+Hvilken lov gælder, og hvad siger den? 
+Der er ikke krav til, hvornår en kommune skal opdatere sin spildevandsplan.  
+Det fremgår af Vejledningen til Spildevandsbekendtgørelsen , at kommunen skal ajourføre sin 
+plan, når planforudsætningerne 
+• ændres eller 
+• ikke længere er gældende. 
+Der er dog ingen bindende tidsfrister i lovgivningen. 
+Er der særlige problemer eller udfordringer? 
+Spildevandsplanen bør 
+• være det væsentligste redskab i klimatiltag, der handler om at bortlede/håndtere tag- 
+og overfladevand.  
+• udgøre den væsentligste del af dokumentation for forsyningernes investeringsplaner 
+og dokumentation for kommunernes krav til selskabernes håndtering af spildevandet 
+og dermed også tag- og overfladevandet.  
+Spildevandsplanen vil i øvrigt også være et vigtigt instrument i forhold til miljø og servicemål, 
+som forsyningen skal opfylde, og som der kan opnås tillæg for i prisloftet. 
+Derfor skal spildevandsplanen generelt være opdateret og ajourført. 
+  
+
+KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL 
+ 
+  12  KLIKOVAND – december 2014  
+ 
+5 Serviceniveauer/ Rammebetingelser 
+5.1  Hvad er et servicemål?  
+ 
+Lovgivningen 
+Hvad er servicemål?  
+Servicemål er et mål, som opnås ved at gennemføre særlige aktiviteter, der giver en udvidet 
+service overfor den enkelte forbruger eller en samfundsmæssig gevinst.  
+Ikke alle servicemål kan mærkes af den enkelte forbruger, men vil kunne gavne forbrugerne på 
+længere sigt eller være en besparelse i forhold til den omkostning, som vandselskabet ville 
+have, hvis det pågældende servicemål ikke var blevet formuleret. 
+Servicemål er ofte løsninger, der har en lang implementeringsfase.  
+Overordnede rammer i lovgivningen 
+Servicemål blev indført med Folketingets vedtagelse af Vandsektorloven  i 2010. I 2012 fik 
+Miljøministeren med en ændring af vandsektorloven mulighed for at fastsætte nærmere regler 
+om miljømål og servicemål i Miljø- og servicemålsbekendtgørelsen.  
+Tillæg i prisloftet 
+Denne bekendtgørelse skal gøre det lettere at overskue, hvordan man skal indregne 
+gennemførelse af miljø- og servicemål efter Vandsektorloven  som et tillæg i prisloftet. 
+Hvilken proces/ løsning kan gennemføres? 
+Forudsætninger for tillæg i prisloftet 
+Det kræver, at et nyt servicemål ligger ud over den service, som forsyningen allerede havde 
+som mål i basisperioden 2003-2005, for at det kan anvendes til at opnå et tillæg i forsyningens 
+prisloft. 
+For at opnå tillæg for et servicemål, skal de omkostninger, der anvendes til at opfylde 
+servicemålet, være omkostningseffektive og ske på markedsmæssige vilkår.  
+Eksempler på servicemål kan være:  
+• Klimatilpasning helt overordnet,  
+• mål for beredskab i forhold til klimaet,  
+• indsats mod oversvømmelse fra spildevandsanlæg.  
+Eksisterende service- eller miljømål 
+Service- eller miljømål, som forsyningen allerede havde sat igang eller varetog forud for 2003, 
+
+KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL 
+ 
+  13  KLIKOVAND – december 2014  
+ 
+kan derfor ikke medtages, medmindre der efterfølgende udføres nye tiltag for at opnå målet 
+(f.eks. nye bassiner til at hindre oversvømmelse), eller der sker en anden forbedring i servicen.  
+Ved et allerede eksisterende servicemål er det kun en senere afholdt eller planlagt 
+meromkostning, der kan opnås tillæg for.  
+Et eksempel kunne være at man allerede før basisperioden var gået i gang med at klimasikre 
+nogle prioriterede områder indenfor sit forsyningsområde, men at man efterfølgende 
+etablerer klimasikring i andre geografiske områder under forsyningen. 
+Fastsættelse af servicemål  
+Et servicemål skal fastsættes enten af kommunen – f.eks. i kommunens spildevandsplan – eller 
+af bestyrelsen eller generalforsamlingen i selskabet.  For en god ordens skyld bemærkes, at 
+miljømål skal være fastsat af enten staten eller kommunen for at få betydning for indregningen 
+i selskabets prisloft.  
+Et servicemål skal være konkretiseret for at have betydning. Det skal være entydigt, hvem der 
+skal udføre aktiviteten, og det skal også fremgå, hvilken tidshorisont der er for at gennemføre 
+målet.  
+Er det for uspecifik, kan det suppleres med en bindende aftale mellem forsyning og kommune i 
+sektorplanen. 
+Servicemål kan også: 
+• være skrevet ind i et statsligt plangrundlag, 
+• ifølge bekendtgørelsen fremgå af en myndighedsbeslutning i form af et påbud,  
+• fremgå af de kommunale ejeres ejerstrategi.  
+Ansøg om tillæg i prisloftet 
+Forsyningen skal redegøre særligt for, at de ønsker at opnå et nyt servicemål, når de søger om 
+tillæg i prisloftet for driftsomkostninger hos Forsyningssekretariatet.  
+I nogle tilfælde kan der være planlagte positive sideeffekter for natur og miljø mv., som ikke 
+kan finansieres over vandtaksterne. Det skal så fremgå tydeligt, hvordan driftsomkostningerne 
+fordeles mellem de myndigheder, der normalt ville skulle finansiere indsatser på området, 
+hvor der opnås en positiv sideeffekt (stat eller kommune) og vandselskabet.  
+Er der særlige problemer eller udfordringer? 
+Hvad er mål, og hvad er aktiviteter?  
+Det kan være en udfordring at fastlægge, hvad der er mål, og hvad der er aktiviteter (til at nå 
+målet gennem).  
+
+KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL 
+ 
+  14  KLIKOVAND – december 2014  
+ 
+Nye servicemål og prisloftet  
+Man skal også være opmærksom på, at lovgivningen ikke giver mulighed for at efterregulere 
+driftsomkostninger for nye mål, der opstår efter indberetning af prisloftet for det 
+efterfølgende år.  
+Hvis en forsyning afholder driftsomkostninger til et nyt servicemål mellem to 
+prisloftsfastsættelser, skal forsyningen enten finde tilsvarende besparelser i det eksisterende 
+budget eller vente med at afholde og søge tillæg til førstkommende indberetning til 
+fastsættelse af prisloftet. 
+ 
+  
+
+KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL 
+ 
+  15  KLIKOVAND – december 2014  
+ 
+6 Finansieringen af klimatilpasning – og forsyningernes 
+mulighed for at medfinansiere klimaprojekter 
+ 
+I udgangspunktet er det kommunerne, der efter lovgivningen  finansierer klimatilpasning, i det 
+omfang klimatilpasning ikke kan håndteres ved traditionel udbygning af forsyningens 
+kloakanlæg. Traditionel udbygning af kloakanlæg med kapacitetsproblemer skal adresseres af 
+kommunerne i spildevandsplanerne, men udbygningen skal finansieres af forsyningerne.    
+ 
+Dog har Folketinget med en lovændring af Betalingsloven  i december 2012 indført mulighed 
+for, at forsyningerne kan medfinansiere klimaprojekter, som handler om klimatilpasning af 
+andet end traditionelle kloakanlæg – herunder klimatilpasning, hvor veje, vandløb og 
+rekreative områder inddrages. Dette også selvom forsyningerne ikke kommer til at eje de 
+regnvandshåndterende anlæg. 
+ 
+Baggrunden for ændringen af betalingsloven  er, at traditionel udbygning af kloaknettet er en 
+omkostningstung opgave, og at der i visse tilfælde kan være samfundsøkonomiske fordele i at 
+anvende alternative løsninger fremfor de traditionelle kloakudbygninger.  
+ 
+Ændringen af betalingsloven  blev endvidere fulgt op af Medfinansieringsbekendtgørelsen .   
+ 
+Det er frivilligt for forsyningerne at deltage i at finansiere kommunalt planlagte klimaprojekter. 
+Forsyningerne kan ikke tvinges ind i projekterne via angivelser i spildevandsplanen eller 
+risikoplanlægningen.  
+ 
+Fra 1. januar 2015 kan forsyningerne kun deltage i projekter, hvor den kommunale 
+risikoplanlægning har vist, at der er behov for afhjælpning.  
+ 
+Forsyningerne kan efter 1. januar 2015 ikke finansiere projekter udenfor  udpegede 
+risikoområder, medmindre projekterne kan tjene til afhjælpning af kapacitetsproblemer 
+indenfor  risikoområderne.  
+ 
+Lovgivningen har endvidere fastsat en maksimal grænse for forsyningernes medfinansiering. 
+Forsyningerne kan kun yde finansiering for op til 1 pct. af den samlede længde af kommunens 
+kommunevej pr. år. Ved projekter i vandløb svarer 1 km. vandløb til 1 km vej. 
+6.1  Overordnede betingelser for at forsyningerne kan deltage i 
+finansiering af projekterne 
+• Ejerskabet til klimaprojekter ligger ikke hos forsyningsselskaberne, men derimod hos 
+kommunen eller private aktører, der ejer området. De er projektejerne. 
+ 
+Det er projektejer, der ejer, etablerer, driver og vedligeholder projektet. Forsyningens 
+rolle er kun finansieringsmæssig . Forsyningerne må derfor ikke deltage i projektering 
+og drift, og hvad dertil hører, medmindre, der er tale om opgaver, der 
+indholdsmæssigt og økonomisk kan rummes indenfor bekendtgørelsen om 
+forsyningers deltagelse i anden virksomhed ( Bekendtgørelsen om tilknyttede 
+aktiviteter ).  
+
+KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL 
+ 
+  16  KLIKOVAND – december 2014  
+ 
+ 
+• Det er et ultimativt krav, at de anlægs- og driftsudgifter, som forsyningen skal dække, 
+ikke overstiger, hvad det ville koste at lave traditionelle overfladevandsløsninger – 
+hverken på drift eller anlæg. Med andre ord skal projektet være omkostningseffektivt. 
+ 
+• Forsyningsselskaberne må ligeledes alene finansiere udgifter til de 
+projektkomponenter, der er nødvendige af hensyn til håndtering af tag- og 
+overfladevand, og som må forventes afholdt til sædvanlig klimatilpasning.   
+ 
+• Der skal opnås det samme serviceniveau ved klimaprojekterne, som der ville blive 
+opnået ved traditionelle, sædvanlige spildevandstekniske løsninger.  
+ 
+• Hvile-i-sig-selv -princippet finder også anvendelse på klimaprojekter, som 
+forsyningsselskabet deltager i – dvs. at forsyningsselskabet kun kan dække nødvendige 
+udgifter i projektet og i øvrigt kun til indkøbspris.  
+ 
+• Forsyningerne skal kunne dokumentere, at deres bidrag i henhold til betalingsloven , er 
+nødvendige af hensyn til håndteringen af tag og overfladevand.  
+6.2  Finansiering er afhængig af, hvor projektet udføres 
+Medfinansieringsbekendtgørelsen  fastsætter to forskellige finansieringsprincipper alt afhængig 
+af, om der er tale om byzone eller landzone, rekreative områder eller veje.  
+ 
+1. Omkostningsfordelingsregler for projekter for vandløb beliggende i landzone, projekter 
+beliggende i sommerhusområder eller for projekter i relation til rekreative områder – 
+bekendtgørelsens § 3  
+ 
+I projekter, der handler om vandløb i landzone, vandløb i sommerhusområder og/eller 
+projekter i rekreative områder, fastsættes forsyningens andel af omkostningerne efter et 
+meromkostningsprincip, når projektet også skal kunne håndtere regn- og overfladevand. 
+ 
+Det betyder, at forsyningen kan medfinansiere de nødvendige meromkostninger i projektet, 
+der har med håndtering af tag- og overfladevand at gøre. 
+ 
+Meromkostningsprincippet betyder også, at det skal fastlægges, hvor meget 
+anlægget/projektet ville have kostet uden  de tiltag, der alene tjener til klimaformål. De 
+nødvendige meromkostninger er herefter fordyrelsen af projektet/anlægget som følge af, at 
+projektet også skal håndtere tag- og overfladevand.   
+ 
+Det bemærkes, at projekter, der ønskes medfinansieret efter § 3 godt kan være projekter, der 
+alene har til formål at håndtere tag- og overfladevand f.eks. som følge af en separat 
+kloakering, hvor det er nødvendig at regulere et vandløb for at kunne håndtere det større 
+hydrauliske pres. Det kan også være at tilkøbe arealer ved siden af vandløbet for at kunne 
+håndtere oversvømmelser fra vandløbet i tilfælde af større regnhændelser. I disse tilfælde vil 
+størstedelen af omkostningerne kunne finansieres af forsyningen.  
+ 
+
+KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL 
+ 
+  17  KLIKOVAND – december 2014  
+ 
+Et eksempel: VandcenterSyd  
+VandcenterSyds ønske om at etablere bassinanlæg til  at 
+håndtere tag- og overfladevand fra cykel arena i et rekreativt 
+område. 
+ 
+Kloaksystemet i det område, hvor cykelarenaen skulle 
+anlægges, var overbelastet. Derfor ønskede Odense Kommune 
+og VandcenterSyd at etablere et åbent bassinanlæg i et 
+nærliggende parkområde. For at øge den rekreative værdi, 
+skulle bassinet udformes med siddepladser i den ene ende af 
+bassinområdet i form af trappetrin. Projektet pris var 
+3.590.000 kr. 
+ 
+Forsyningssekretariatet accepterede selskabets 
+omkostningsfordeling, der gik ud på, at kommunen alene 
+skulle finansiere 50.000 kr. til de nye siddepladser 
+(indretningsomkostninger) og en ændring af stiforløbet i 
+parken, da dette var den rekreative del af projektet. Den 
+øvrige del af projektet – dvs. de 3.540.000 kr. var reelt 
+meromkostninger til anlæg af bassinet, der var nødvendigt til 
+håndtering af tag- og overfladevand. 
+ 
+Til gengæld mente forsyningssekretariatet ikke, at de 
+fremtidige driftsomkostninger til vedligehold af den rekreative 
+park – herunder græsslåning – skulle finansieres, idet dette 
+ikke kunne anses som meromkostninger til håndtering af tag- 
+og overfladevand. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. Omkostningsfordelingsregler for projekter for vandløb i byzone og for projekter i relation 
+til veje – bekendtgørelsens § 4 
+ 
+Hvis der ønskes udformet klimatilpasningsprojekter i vandløb i byzoner eller på veje, kan 
+forsyningen medfinansiere alle omkostninger, der er nødvendige for at kunne håndtere tag- og 
+overfladevand – herunder omkostninger til investering, drift og vedligehold .  
+ 
+I ordet nødvendig  ligger der, at forsyningen kan finansiere alle omkostninger til tiltag, som 
+tjener til klimatilpasningsformål.  
+ 
+Bemærk at forsyningsselskabet efter 1. januar 2015 kun kan dække 75 % af de samlede 
+investeringsomkostninger for aftaler om projekter, der indgås senere end 1. januar 2015, når 
+det gælder for § 4-projekter. 
+ 
+Forskellen på § 3 og § 4-projekter 
+Forskellen mellem § 3 og § 4 er, at efter § 3, kan der alene dækkes meromkostninger, der er 
+nødvendige for at kunne varetage klimatilpasning, hvorimod forsyningen efter § 4 kan dække 
+
+KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL 
+ 
+  18  KLIKOVAND – december 2014  
+ 
+alle omkostninger, der er nødvendige for at lave klimatilpasning i vandløb i byzone eller på 
+veje.  
+ 
+Det bemærkes, at rekreative eller vejtekniske udgifter, altså ikke-klimarelaterede udgifter, altid 
+skal dækkes af projektejeren, da disse hensyn ikke har et klimamæssigt sigte.   
+6.3  Sagsbehandling  
+For projekter, der allerede er aftalt/planlagt mellem forsyning og projektejer, skal der foreligge 
+en kommunal beslutning senest den 1. januar 2015. Den kommunale beslutning kan f.eks. 
+være form af en klimatilpasningsplan, en risikoplan eller en kommunal afgørelse fra 
+kommunens byråd eller Teknik- og Miljøudvalg, der fastlægger, at projektet er 
+hensigtsmæssigt og omkostningseffektivt.  
+ 
+For projekter, der først aftales mellem forsyninger og kommuner  efter 1. januar 2015, er det 
+et krav, at projektet ligger i et udpeget risikoområde i kommunens risikoplanlægning – eller 
+tjene til at afhjælpe kapacitetsproblemer inden for et risikoområde.  
+ 
+Projektets vilkår skal aftales mellem forsyning og projektejer, når den politiske beslutning om 
+nytten af projektet foreligger.  
+ 
+Der ligger et format for en standardaftale på Klimatilpasning,dk. Den rummer de nødvendige 
+oplysninger, der skal foreligge i aftalen, og er samtidigt med til at sikre, at alle de nødvendige 
+oplysninger til ansøgningen til Forsyningssekretariatet bliver udarbejdet.  
+ 
+Dokumentation der skal medsendes til forsyningssekretariatet  
+ 
+• Beskrivelse af det ønskede projekt og beskrivelse af den ellers valgte sædvanlige 
+traditionelle afhjælpning af kapacitetsproblemet  
+• Budget for det alternative projekt  
+o På funktionsniveau 
+o Klar opdeling i anlægs- og driftsudgifter 
+o Begrundelse for fordeling af omkostningerne på projektejer og forsyning 
+• Budget for sædvanlig afhjælpningsløsning til samme serviceniveau 
+• Aftale mellem projektejer og forsyningsselskab 
+• Dokumentation for at der foreligger en kommunal beslutning  
+• Fra 1. januar 2015 dokumentation for at risikokortlægningen påviser behov for 
+afhjælpning  
+• Beskrivelse af, hvorvidt der er tale om et projekt i vandløb i byzone eller landzone 
+(betydning for hvilket finansieringsprincip der kan anvendes jvf. § 3 og § 4 ovenfor)  
+• Beskrivelse af evt. øvrige økonomiske forhold i projektet, der vil være nødvendige for 
+Forsyningssekretariatet til beregning af tillægget til selskabets prisloft – herunder om 
+der er tale om miljø- eller servicemål efter bekendtgørelsen om driftsomkostninger til 
+at gennemføre miljømål eller servicemål – herunder spørgsmål om projektejers evt. 
+lånefinansiering eller kontantfinansiering og rentetilskrivning mv. 
+
+KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL 
+ 
+  19  KLIKOVAND – december 2014  
+ 
+7 Regulering af forskellige typer indsatser  
+7.1  Ændrede vejprofiler, kantsten eller andre barrierer på vejen til 
+omdirigering af regnvand 
+ 
+Hvilken lov gælder, og hvad siger den? 
+Ændringer i vejenes profiler er reguleret af Vejloven , Privatvejsloven  – og herudover vil det 
+også skulle undersøges om, lokalplanen  for området skal ændres, hvis vejudlægget ændres 
+fysisk.  
+Vejmyndighed  
+I praksis er kommunen vejmyndighed, da klimaprojekter på veje typisk omhandler 
+kommuneveje eller private fælles veje. Ændring af vejprofilen for en vej er en opgave, som 
+vejmyndigheden varetager med hjemmel i Vejloven  (kommuneveje) eller i Privatvejsloven . 
+Lokalplaner 
+Hvis afsætningen af den ændrede vejprofil kræver, at arealanvendelsen bliver ændret, skal det 
+udmøntes og fastsættes i en lokalplan eller et tillæg til en eksisterende plan i henhold til 
+Planloven .  
+Evt. ekspropriation  
+Hvis ændringen af vejprofilen inddrager jord, som vejejeren ikke har rådighed over, skal der 
+foretages ekspropriation efter Vejlovgivningen  til brug for inddragelse af jorden i projektet.  
+Finansiering  
+Det er i udgangspunktet kommunen, der skal udforme de administrative nødvendige tiltag for 
+at kunne ændre vejprofilen – og kommunen skal afholde personaleomkostninger hertil.  
+Projektets karakter bestemmer, hvem der kan finansiere selve anlægget af det ændrede 
+vejforløb – herunder anlæg af det ændrede vejforløb og kantsten mv. 
+Hvis ændringen af vejprofilen i realiteten er et klimatiltag, vil vejejeren (kommunen eller de 
+private grundejere, der er vejberettigede) og den stedlige forsyning  kunne samfinansiere 
+projektet med hjemmel i medfinansieringsreglerne, som gennemgået ovenfor, hvis 
+betingelserne for dette er tilstede – herunder hvis forsyningen ønsker at deltage i 
+finansieringen.  
+ 
+ 
+ 
+
+KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL 
+ 
+  20  KLIKOVAND – december 2014  
+ 
+1. 
+Detailprojekt 
+• Der bør udformes et konkret 
+detailprojekt for 
+klimatilpasningen –hvorunder 
+det beskrives, hvordan vejens 
+profil skal ændres 
+• Vejmyndigheden skal sikre sig, 
+at den ændrede vejprofil kan 
+ligge på jord, som 
+vejmyndigheden kan råde over 
+2. 
+Ansøgning 
+• I tilfælde af 
+medfinansiering søges 
+Forsyningssekretariatet 
+3. 
+Lokalplan 
+• Hvis projektet kræver ændring i 
+vejudlægget skal dette  beskrives i en 
+lokalplan, der også kan ligge til grund 
+for evt. ekspropriation 
+4. 
+Udlæg til det 
+ændrede 
+vejforløb 
+• Når vejejeren har rådighed 
+over den nødvendige jord 
+(evt. gennem  
+ekspropriation) foretages 
+evt. udlæg til det ændrede 
+vejforløb af 
+vejmyndigheden 
+5. 
+Udbud/ 
+Kontrakt 
+6. 
+Anlæg 
+af vejen 
+Et eksempel: Frederiksberg Forsyning  
+Frederiksberg Forsyning fik i 2013 tilladelse til at medfinansiere 
+både en stor del af anlægsomkostningerne i forbindelse med 
+etablering af en permeabel belægning på et større 
+parkeringsareal på en vej uden vejafvanding 1. Begrundelsen var, 
+at omkostningerne kunne relateres til håndtering af tag- og 
+overfladevand. 
+Omkostninger, som vedrørte generel istandsættelse af vejen, 
+blev afholdt af beboerne på vejen, idet der var tale om en fælles 
+privat vej, der efter projektet overgik til at være kommunevej. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hvilken proces/ løsning kan gennemføres? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL 
+ 
+  21  KLIKOVAND – december 2014  
+ 
+Er der særlige problemer eller udfordringer? 
+Medfinansieringsbekendtgørelsen betyder, at forsyningerne kan tilbyde at medfinansiere 
+ændringer af/på veje, når det drejer sig om klimatilpasning.  
+Udfordringen i reguleringen er at fastsætte, hvilke omkostninger (både anlæg og drift), der 
+reelt relaterer sig til at håndtere tag- og overfladevand, og hvad der relaterer sig til vejens 
+anlæg mv. 
+ 
+ 
+
+KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL 
+ 
+  22  KLIKOVAND – december 2014  
+ 
+7.2  Afkobling af regnvand og evt. tilbagebetaling af tilslutningsbidrag  
+ 
+Hvilken lov gælder, og hvad siger den? 
+Lovgrundlaget findes i Miljøbeskyttelseslovens § 32  om spildevandsplanlægning og 
+Spildevandsbekendtgørelsens  regler om udtræden/ophævelse af tilslutningsretten.  
+Endvidere har Betalingslovens § 4 a  regler om tilbagebetaling af tilslutningsbidrag. Det er 
+forsyningen, der kan beslutte at skabe et incitament til at frakoble regnvandet. Forsyningen 
+kan tilbagebetale maximalt 40 % af tilslutningsbidraget på det tidspunkt, der udtrædes. 
+Hvilken proces/ løsning kan gennemføres? 
+1. Udforme spildevandsplan  
+Der skal udformes en spildevandsplan efter Miljøbeskyttelseslovens § 32 , hvor det angives for 
+hvilke kloakoplande, kommunen er indstillet på at ophæve tilslutningspligten for, når det 
+gælder regnvand. 
+ 
+2. Undersøge før spildevandsplanen offentliggøres  
+Kommunen skal forud for offentliggørelse af planen undersøge og sikre, at de grundejere, der 
+måtte ønske at udtræde, kan opnå en alternativ afledningstilladelse (nedsivning, opsamling 
+eller udledning til nærliggende vandløb). Kommunen skal også sikre sig, at 
+• regnvandet, der afkobles, ikke renses dårligere end før 
+• en udtræden ikke giver forsyningen økonomiske problemer – hvilket ikke burde være 
+tilfældet, når der alene udtrædes for regnvand, som der ikke betales 
+vandafledningsbidrag for i dag. 
+ 
+3. Indgå  konkrete frivillige aftaler  
+Når planen er vedtaget af kommune n, skal kommunen optage konkrete forhandlinger med 
+grundejerne i de berørte områder om at udtræde af kloakforsyningen for regnvand.  
+En kommune kan ikke tvinge grundejere ud af forsyningen. Der skal derfor indgås en aftale 
+med grundejerne om udtræden af forsyningen.  
+Det er et godt incitament, hvis kommunen på baggrund af aftale med forsyningen i 
+forhandlingerne kan give grundejeren et tilbud om at tilbagebetale de 40 % af 
+tilslutningsbidraget, som betalingsloven giver mulighed for. Det bemærkes, dog at de 40 % er 
+
+KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL 
+ 
+  23  KLIKOVAND – december 2014  
+ 
+et maksimum – Forsyningen kan godt tilbyde mindre end de 40  %.  
+ 
+4. Sikre aftaler (skriftligt og tinglyst)  
+Aftalerne skal være skriftlige og bør tinglyses på de ejendomme, der er udtrådt.  Lovgivningen 
+kræver ikke, at udtræden tinglyses på ejendommen. Problemet er, at der typisk først mange 
+år senere kan opstå problemer med den lokale afledning, – og erfaringsmæssigt viser sig det 
+sig ofte i disse situationer, at der ikke findes dokumenter, der beviser, hvorfor man 
+håndterede en given situation på denne måde. Derfor er tinglysning på ejendommene en god 
+ting. Det koster i nutidskroner 1.660 kr. at tinglyse en deklaration om dette – og tinglysningen 
+af deklarationerne på de ejendomme, der udtræder, kan foretages som en samlet tinglysning 
+til en samlet pris på 1.660 kr. i tinglysningsafgift.  
+ 
+Opdatere spildevandsplan  
+Spildevandsplanen skal efterfølgende opdateres for at holde styr på de aktuelle 
+afledningsforhold for de ejendomme, der er udtrådt af forsyningen for så vidt angår 
+regnvandet. 
+ 
+Er der særlige problemer eller udfordringer? 
+Tiltaget må betegnes som et af de mere usikre tiltag. Da der er tale om en aftale mellem 
+grundejerne og kommunen, kan effekten af udtræden reelt ikke beregnes på forhånd. Man 
+kan risikere at stå i en situation, hvor der ikke er særligt mange af grundejerne i et udpeget 
+område, der ønsker at udtræde.  
+ 
+Tiltaget er bedst egnet i fælles kloakerede oplande, hvor der er kapacitetsproblemer. Samtidig 
+er det dog nødvendigt, at kommunen og forsyningen kender til f.eks. nedsivningsforhold mv., 
+så der ikke opstår problemer for grundejerne efter udtræden, fordi jorden ikke er 
+nedsivningsegnet. Undersøgelser heraf kan finansieres efter Betalingslovens  § 7.  
+ 
+Det er forsyningens beslutning, om der skal ske tilbagebetaling af tilslutningsbidrag.  
+Forsyningen skal helst være enig med kommunen om at lade private grundejere udtræde og 
+støtte op om incitamentsstyring med tilbagebetaling af tilslutningsbidraget.  
+ 
+Det kan være drænende for forsyningen at skulle tilbagebetale tilslutningsbidrag til mange 
+grundejere eller store boligselskaber.  Derfor skal forsyningen helst kunne se en fremtidig 
+gevinst ved dette og være helt klar over, hvorfor kommunen og forsyningen bør prioritere 
+indsatsen. Hvis ikke alle grundejere ønsker at udtræde, kan selskabet stå i en situation, hvor 
+selskabet skal opretholde en uændret ledningsføring og derfor ikke opnår en gevinst.  
+ 
+
+KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL 
+ 
+  24  KLIKOVAND – december 2014  
+ 
+7.3  Rensning af regnvand 
+ 
+Hvilken lov gælder, og hvad siger den? 
+Udledningstilladelser/tilslutningstilladelser  
+Miljøbeskyttelseslovens og Spildevandsbekendtgørelsens  krav og regler om 
+udledningstilladelser anvendes i realiteten også, når der skal meddeles udledningstilladelser 
+for udledning af regnvand eller tilslutning af regnvand til forsyningens fælles eller separate 
+kloakker.  
+Erfaringsmæssigt stilles der sjældent krav til rensning af regnvand fra private matrikler, 
+hvorimod der typisk stilles krav til mekanisk rensning af regnvand fra forsyningernes 
+regnvandsudløb.   
+Finansiering  
+Forsyningens afledning af regnvand er brugerfinansieret i henhold til Betalingsloven  på linie 
+med alt anden rensning af spildevand.  
+Hvis der stilles krav til rensning af spildevand fra private ejendomme, er det de private 
+grundejere herunder særligt private erhvervsvirksomheder med større parkeringspladser, 
+vaske- eller oplagspladser, der skal finansiere foranstaltningerne. Kravene skal fremgå af 
+grundejernes udledningstilladelser eller tilslutningstilladelser.  
+Funktionskrav  
+Regnvand/overfladevand kan reguleres på samme måde som spildevand, og der kan f.eks. 
+fastsættes funktionskrav til, hvordan det afledes – herunder, at der skal etableres eksempelvis 
+olieudskiller eller sandfang på afledningen fra større parkeringsarealer mv.  
+Hvilken proces/ løsning kan gennemføres? 
+Rensning af regnvand  
+Udledningstilladelse /tilslutningstilladelse  • Kommunen er godkendelsesmyndighed og 
+fastsætter krav til rensning af regnvand i en 
+udledningstilladelse/tilslutningstilladelse 
+• For godkendelsespligtige virksomheder er 
+miljøcentret godkendelsesmyndighed. 
+Foranstaltninger  • Typiske forureninger af regnvand  
+Separate regnvandsudledninger kan 
+udover kvælstof, fosfor og organiske 
+stoffer (N, P og O) indeholde tungmetaller 
+og visse miljøfremmede stoffer. De mest 
+
+KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL 
+ 
+  25  KLIKOVAND – december 2014  
+ 
+Rensning af regnvand  
+betydende mi ljøfremmede stoffer i 
+overfladevand – herunder overfladevand 
+fra veje – er nonylphenol og en række PAH-
+forbindelser. 
+• Bundfældning som metode  
+Disse stoffer vil typisk være bundet til 
+partikler. Derfor vil en bundfældning 
+medføre en betydelig reduktion af 
+forureningsindholdet. Mekaniske 
+foranstaltninger vil derfor fungere bedst: 
+F.eks. bassiner med olie- og 
+benzinudskillere med mulighed for at 
+afspærre bassinet, så forureningen 
+magasineres i bassinet og kan fjernes lokalt 
+herfra. 
+Finansiering, etablering og drift  • Hvis  forsyningen får en udledningstilladelse 
+med krav om rensning forud for udledning, 
+er det selskabet, der i udgangspunktet skal 
+finansiere, etablere og drive 
+renseløsningen. Forsyningen overfører 
+herefter sine omkostninger til rensningen 
+af regnvandet på selskabets brugere via 
+vandafledningsbidraget.  
+• Hvis  det er private virksomheder, der bliver 
+mødt med krav til rensning af regnvand 
+forud for udledning, er det den private 
+virksomhed, der skal finansiere 
+renseløsningen. 
+ 
+Er der særlige problemer eller udfordringer? 
+Kommunen skal ved udformning af udledningstilladelser og tilslutningstilladelser sikre, at både 
+princippet om proportionalitet og ligebehandling tilgodeses. Dette betyder, at 
+afledere/grundejere i udgangspunktet skal behandles ens, og de krav, der stilles, skal være 
+både teknisk og økonomisk rimeligt i forhold til den effekt, der opnås.   
+ 
+
+KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL 
+ 
+  26  KLIKOVAND – december 2014  
+ 
+7.4  Nedsivning eller opmagasinering af regnvand på private grunde 
+ 
+Hvilken lov gælder, og hvad siger den? 
+Miljøbeskyttelsesloven  og spildevandsbekendtgørelsen  i relation til tilladelser til nedsivning mv.  
+Finansiering af tiltaget 
+Som nævnt ovenfor vil det i nogle situationer være muligt, at lade private grundejere udtræde 
+for regnvand mod at grundejerne nedsiver (opmagasinerer regnvandet på egen grund).  
+Grundejerne kan, hvis kommunen og forsyningen er med på ideen, få en form for tilskud til at 
+etablere faskiner eller andre løsninger for, forstået på den måde, at forsyningen tilbagebetaler 
+op til 40 % af tilslutningsbidraget – ved at lade grundejerne udtræde af kloakforsyningen. 
+I andre situationer, kan tiltaget finansieres efter medfinansieringsbekendtgørelsen  – under de 
+forudsætninger, der er beskrevet ovenfor.  
+Er der særlige problemer eller udfordringer? 
+Forsyningen må i udgangspunktet ikke  finansiere anlæg på privat grund, så i udgangspunktet 
+er der ikke mulighed for at få offentlig finansiering til at etablere nedsivning eller 
+opmagasinering af regnvand på private grunde. 
+Den eneste relevante undtagelse  fra denne hovedregel er reglerne om medfinansiering af 
+klimatilpasningsprojekter.  
+Kommunen har heller ikke hjemmel til at lave sådanne spildevandsanlæg for skattemidler, 
+medmindre at projektet etableres på kommunal grund, og medfinansieringsbekendtgørelsen 
+kan anvendelse. 
+Herudover er kommunikation til grundejere, der ønsker at etablere nedsivning på egen grund 
+en særlig opgave, når de skal kende til lovgivningens afstandskrav, korrekt etablering af 
+nedsivningsanlæg/faskiner og risici for opstuvning af vand. Det er imidlertid en opgave som 
+kommunerne bør medinddrage og håndtere, når der ansøges og meddeles tilladelse til lokal 
+afledning.  
+   
+
+KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL 
+ 
+  27  KLIKOVAND – december 2014  
+ 
+7.5  Varslingssystemer for ekstremregn/skybrud 
+ 
+Hvilken lov gælder, og hvad siger den? 
+Varslingssystemer og beredskab kan være en aktivitet i et potentielt servicemål om 
+klimasikring.  
+Der kræves dokumentation for, at kommunen stiller krav om at indføre klimasikring, og at det 
+bl.a. omkostningseffektivt opnås ved bedre overvågning/varsling/beredskab i forhold til større 
+regnvandshændelser. 
+Hvilken proces/ løsning kan gennemføres? 
+Der skal udarbejdes en spildevandsplan, hvori der fastsættes et klart og entydigt servicemål i 
+form af klimasikring med en beskrivelse af, hvilke aktiviteter, der anses som nødvendige for at 
+opnå målet.  
+Det skal også fremgå, hvem der er ansvarligt for at udføre aktiviteterne, og hvad den krævede 
+tidshorisont er for at gennemføre aktiviteten og opnå målet.  
+Er der særlige problemer eller udfordringer? 
+I mange spildevandsplaner vil der allerede være indsat krav og mål om klimasikring.  
+Alt afhængig af, hvornår og hvordan kravet er indført, vil et tillæg alene kunne opnås for 
+meromkostningen til det allerede eksisterende mål.  
+ 
+ 
+ 
+
+KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL 
+ 
+  28  KLIKOVAND – december 2014  
+ 
+7.6  Anvendelse af vandløb til omdirigering af regnvand  
+ 
+Lovgivning  
+Ændring af hydraulik i vandløb reguleres af Vandløbsloven . Derfor skal det først undersøges, 
+om vandløbets regulativ giver mulighed og rammer for at øge den hydrauliske og stofmæssige 
+belastning til vandløbet. 
+Hvis ikke dette er tilfældet, er det nødvendigt at ændre regulativet, og dette kan naturligvis 
+kun lade sig gøre, hvis vandløbets fysiske rammer og krav til miljømål tillader dette.  
+Hertil kommer, at der i følge Miljøbeskyttelseslovens § 28 skal gives en udledningstilladelse til 
+tilførelse af regnvand, der efter spildevandsbekendtgørelsens  regler reelt er anset som 
+spildevand. 
+I de tilfælde, hvor der allerede udledes regnvand til et vandløb, skal udledningstilladelsen 
+revideres, hvis beregninger viser, at en planlagt omdirigering vil medføre at vandløbet kommer 
+til at modtage mere regnvand, og det antages, at den hydrauliske og stofmæssige belastning i 
+tilførelsen stiger. Det skal naturligvis påses, hvorvidt målsætninger for vandområdet fastsat i 
+Miljømålsloven  i de formodentligt snart gældende vandplaner kan overholdes, når regnvandet 
+udledes i vandløbet. 
+Det er kommunen, der i begge tilfælde har ansvaret for både at håndtere spørgsmål efter 
+vandløbsloven og spørgsmål om udledningstilladelser til vandløb, søer eller havet.  
+Finansiering 
+Når vandløbets kapacitet bruges til at håndtere regnvand som led i klimatilpasning, kan 
+projektet finansieres i overensstemmelse med reglerne i medfinansieringsbekendtgørelsen. 
+Hvis vandløbet udelukkende omdirigeres med rekreative formål for øje bør medfinansiering 
+være udelukket. Her tænkes f.eks. på at tilføre vand til et sommertørt vandløb for at højne de 
+rekreative interesser i kommunen. 
+ 
+Hvilken proces/ løsning kan gennemføres? 
+Omdirigere regnvand gen nem åer og andre vandløb  
+1. Konkret 
+detailprojekt 
+Der bør udformes et konkret detailprojekt for klimatilpasningen. Heri beskrives, 
+hvordan vandløbet indgår i klimatilpasningen.  
+Heri skal det også vurderes, om det alternative projekt er mere 
+omkostningseffektivt end et traditionelt projekt, der skal optimere afledning af 
+
+KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL 
+ 
+  29  KLIKOVAND – december 2014  
+ 
+Omdirigere regnvand gen nem åer og andre vandløb  
+regnvand.  
+2. Beslutning 
+i kommunen  
+Kommunen skal træffe en beslutning om projektet , så der ligger en bindend e 
+kommunal afgørelse.  
+  
+3. Ændret 
+anvendelse 
+Derudover skal det sikres, at vandløbsregulativer mv. giver mulighed for den 
+ændrede anvendelse, som typisk indebærer en hydraulisk merbelastning eller 
+en ændring af vandløbets forløb. 
+  
+4. Bindende 
+aftale 
+En bindende aftale skal indgås med projektejer om at anvende vandløbet til 
+klimatilpasning: 
+• private vandløb: Den gruppe af borgere, der ejer vandløbet, f.eks. en 
+grundejerforening, er projektejer.  
+• offentligt vandløb: Kommunen er projektejer. 
+  
+5. 
+Ejerforhold, 
+etablering, 
+drift, 
+vedligehold 
+og 
+finansiering 
+Projektejer ejer, etablerer, driver og vedligeholder projektet. 
+Spildevandsforsyningsselskabet (herefter selskabet ) betaler projektejer for de 
+dele af projektet, der vedrører håndteringen af tag- og overfladevand, og som 
+er omfattet af bekendtgørelsens § 3 eller § 4. 
+Hvis der udover klimatilpasningstiltag ønskes andre rekreative tiltag, som ikke 
+er nødvendige for håndtering af tag- og overfladevand, skal disse finansieres af 
+projektejer eller den relevante myndighed herfor. 
+ By - eller 
+landzone 
+Man skal være opmærksom på, at medfinansieringen af 
+klimatilpasning i forhold til vandløb afhænger af om vandløbet 
+ligger i landzone eller byzone. 
+Landzone, 
+Bekendt-
+gørelsens 
+§ 3 
+• Selskabets andel udgør de meromkostninger, 
+som er nødvendige af hensyn til håndtering af 
+tag- og overfladevand. 
+• Meromkostningsprincippet forstås med 
+udgangspunkt i en sammenligning af, hvad det 
+pågældende anlæg ville have kostet uden de 
+tiltag, der kun tjener et klimatilpasningsformål. 
+
+KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL 
+ 
+  30  KLIKOVAND – december 2014  
+ 
+Omdirigere regnvand gen nem åer og andre vandløb  
+Byzone, 
+Bekendt-
+gørelsens 
+§ 4 
+• Alle omkostninger til projekter i vandløb i 
+byzone fordeles mellem selskabet og 
+projektejer. 
+• Selskabet betaler alle omkostninger, som er 
+nødvendige for at kunne håndtere tag- og 
+overfladevand, herunder omkostninger til 
+investering, drift og vedligeholdelse. 
+Formuleringen dækker over de nødvendige 
+tiltag, som alene tjener et 
+klimatilpasningsformål. 
+• Selskabet kan være med til at betale en 
+forholdsmæssig andel af de omkostninger, der 
+omfatter en blandet forsyningsmæssig og 
+kommunal/privat interesse.  
+• Selskabet kan betale for eventuelle ændringer i 
+det grundlæggende projekt, hvis disse 
+ændringer er nødvendige for at kunne 
+gennemføre klimatilpasningsformålet.  
+• Selskabet kan komme til at afholde 
+omkostninger til levetidsforbedringer, hvis et 
+eksisterende anlæg ombygges til også at kunne 
+håndtere tag- og overfladevand. 
+  
+6. 
+Indberetning 
+til 
+Forsynings-
+sekretariatet 
+Der skal herefter ansøges om et tillæg t il prisloftet for projektet. I den 
+forbindelse skal der indsendes dokumentation for projektets 
+omkostningseffektivitet tillige med den bindende juridiske aftale, hvori også en 
+evt. omkostningsfordeling skal være indsat, jf. ovenfor  
+  
+Er der særlige problemer eller udfordringer? 
+Emnet tages op, da der i nogle situationer er et ønske om at omdirigere regnvand for at tilføre 
+et sommertørlagt vandløb vand og dermed opnå en rekreativ forbedring. Dette skal ikke 
+forveksles med et klimatilpasningsformål.  
+ 
+
+KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL 
+ 
+  31  KLIKOVAND – december 2014  
+ 
+7.7  Krav til befæstelsesgrader 
+ 
+Hvilken lov gælder, og hvad siger den? 
+Reglerne findes i Planlovens  § 15.  
+Hvilken proces/ løsning kan gennemføres? 
+1.  Der skal udformes en lokalplan , der har klimatilpasning som tema . Den skal indeholde 
+tiltag, der kan tilpasse og indpasse byudviklingen til de fremtidige vejrforhold – 
+herunder ekstremregn. I en sådan plan kan der stilles krav til maksimal 
+befæstelsesgrader for nye bebyggelser.  
+ 
+2.  Planen skal som alle kommunale tiltag være proportional og nødvendig . 
+ 
+3.  Dette dokumenteres ved miljøvurderingen  af lokalplanen, der skal udformes som led i 
+planprocessen.  
+ 
+Inden planen udformes og sendes i høring, kan det anbefales at foretage en vurdering 
+af, hvordan kravet skal implementeres i byggesagsbehandlingen, og hvordan kravet 
+efterfølgende skal retshåndhæves.   
+ 
+4.  Planen sendes i høring  og vedtages efterfølgende af kommunen.  
+ 
+5.  Planen vedtages  efterfølgende af kommunen. 
+Er der særlige problemer eller udfordringer? 
+Mange kommuner har gennem en lang årrække stillet krav om befæstelsesgrader og 
+afløbskoefficienter i spildevandsplanen, uden at de ifølge spildevandsreguleringen har haft 
+hjemmel til at gøre det.  
+Fra 2012 er det blevet muligt at fastsætte krav til befæstelsesgrader for nye områder, der 
+udbygges nu, eller områder, der væsentligt ændres bebyggelsesmæssigt. Det er dog stadig ikke 
+lovligt at stille krav til eksisterende og uændret bebyggelse.  
+Dette kan indsættes i såkaldte temalokalplaner. NB: Det vil fremover være et stort problem at 
+håndhæve disse befæstelsesgrader, da det vil kræve en endog meget stor indsats fra 
+kommunens side, hvis den skal kontrollere, at belægning mv. ikke ændres på 
+enkeltejendomme i større byer, hvor et krav til befæstelsesgrader vil være aktuelt. 
+Man skal endvidere huske, at alle planer skal miljøvurderes i henhold til  Lov om miljøvurdering 
+af planer og programmer . 
+
+KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL 
+ 
+  32  KLIKOVAND – december 2014  
+ 
+7.8  Kystsikring/ kystbeskyttelse 
+Kystsikring er også et klimatilpasningstiltag, idet det ændrede klima også medfører stormflod – 
+som den vi oplevede i december 2013. Kystsikring har sin egen regulering og finansiering.  
+Med kystsikring forstås foranstaltninger til kystbeskyttelse er anlæg eller andre tiltag, som 
+beskytter flere ejendomme mod oversvømmelser fra havet, fjorde eller andre dele af 
+søterritoriet. 
+Typiske tiltag kan være diger, stenkastninger, høfder, bølgebryder, moler og kyststrandfodring.  
+7.8.1  Hvem er ansvarlig for kystbeskyttelse? 
+I udgangspunktet påhviler det enhver grundejer at beskytte sin ejendom mod havet. Reglerne 
+findes i Kystbeskyttelsesloven, der fastlægger  proceduren og forpligtelserne i forbindelse med 
+udførelse af foranstaltninger til sikring af mennesker og ejendomme mod oversvømmelse, 
+herunder også procedurer m.m. for involvering af uenige grundejere.  
+Grundejeren skal søge om tilladelse til at etablere kystbeskyttelse af sin ejendom. Dette skal 
+ske til Kystdirektoratet.  
+Flere grundejere, der enige om at etablere et fælles projekt om kystbeskyttelse, kan også søge 
+tilladelse hos Kystdirektoratet sammen. Dette kræver samtykke fra alle de grundejere, der er 
+involverede i projektet.  
+Kystbeskyttelseslovens kapitel 1 a 
+Hvis projektet, der ansøges om, både omfatter ejendomme med enige grundejere, der gerne 
+vil være med, og ejendomme, hvor grundejerne ikke vil være med, kan de interesserede 
+grundejere bede deres kommune om at rejse sag efter proceduren i Kystbeskyttelseslovens 
+kapitel 1 a . Hvis Kommunen kommer frem til, at kystbeskyttelsen skal gennemføres, skal 
+kommunen og/eller grundejerne søge tilladelse hos Kystdirektoratet.  
+Kommunen kan også af egen drift efter samme kapitel indlede en sag om kystbeskyttelse efter 
+reglerne i lovens kapitel 1 a. (se også nedenfor i afsnittet om De særlige regler efter 
+Kystbeskyttelseslovens kapitel 1 a ). 
+7.8.2  Ansøgninger til Kystdirektoratet 
+Der skal ikke søges om almindelig vedligeholdelse af lovlig (tilladt) kystbeskyttelse, idet ejere af 
+kystbeskyttelse har pligt til at holde anlæg og foranstaltninger i god og forsvarlig stand.  
+Derimod skal der søges om tilladelse ved:  
+• nyanlæg af kystbeskyttelse 
+• udvidelse af eksisterende kystbeskyttelse 
+• genopretning af eksisterende kystbeskyttelse, der ikke virker efter hensigten som følge 
+af manglende vedligehold  
+
+KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL 
+ 
+  33  KLIKOVAND – december 2014  
+ 
+• renovering af eksisterende kystbeskyttelse (dvs. ændringer i opbygning, materialevalg 
+eller dimension) 
+• vedligeholdelse af kystbeskyttelse, der anlagt før 1969 – og som derfor ikke har en 
+skriftlig tilladelse 
+Sagsbehandling 
+Kystdirektoratet foretager en indledende undersøgelse af den eksisterende kystbeskyttelse, 
+inden et ansøgt projekt sendes i høring til en række offentlige myndigheder herunder 
+kommunerne, som altid skal høres.  
+Herudover gennemgår Kystdirektoratet behovet for kystsikring med udgangspunkt i 
+Kystbeskyttelseslovens formålsparagraf , der bl.a. skal medvirke til at sikre både økonomiske 
+hensyn, den tekniske og miljømæssige kvalitet af de foreslåede projekter, kystlandets 
+bevarelse og naturens frie udfoldelse tillige med overholdelse af internationale konventioner  
+og EU-regler  mv.   
+Hvad skal man være særligt opmærksom på ved udformningen af projektansøgning?  
+• Der skal måske søges tilladelse/dispensation i henhold til andre regelsæt , der regulerer 
+kysten/kystlinjen/beskyttede naturtyper. Det er helt afhængigt af typen af 
+foranstaltninger , og hvor disse foranstaltninger skal etableres/er beliggende.  
+• Hvis der skal bruges råstoffer , skal projektejeren være opmærksom på, at der i nogle 
+situationer skal indhentes en nyttigørelsestilladelse  hos Naturstyrelsen.  
+• Et nyt kystbeskyttelsesanlæg kan også kræve, at der sker ændringer i kommune- og 
+lokalplaner , hvis anlægget ikke harmonerer med de gældende planer.  
+• Der kan typisk opstå spørgsmål mht. at etablere bygningsværker  mv. i forhold til klit- 
+og strandbeskyttelseslinier. Hér skal der søges dispensation fra disse beskyttelseslinier 
+i henhold til Naturbeskyttelsesloven .   
+• Hvis et projekt kræver ekspropriation : Regelsættets udgangspunkt er, at 
+ekspropriation af ejendom kun skal foretages, hvis det er nødvendigt af hensyn til 
+kystens pleje, eller kystbeskyttelsen må anses for at være af så væsentlig betydning, at 
+myndigheden ønsker ejendomsret til strandbredden, forlandet foran et dige eller en 
+kyststrækning, hvor der ikke er sammenhængende landvegetation. 
+• Et tiltag til kystbeskyttelse altid som minimum VVM-screenes . Det er kommunen, der 
+er myndighed i forhold til VVM-reglerne.  
+7.8.3  De særlige regler efter kystbeskyttelseslovens kapitel 1 a 
+Kystbeskyttelsesloven  giver hjemmel til, at kommunen kan bestemme, at der skal foretages 
+kystbeskyttelsesforanstaltninger – enten af egen drift, eller fordi en gruppe grundejere ikke 
+kan blive enige om et projekt. 
+Kommunen kan f.eks. iværksætte forundersøgelser eller skitseprojektering, hvis en allerede 
+etableret kystbeskyttelsesforanstaltning er uhensigtsmæssig eller skæmmende.  
+
+KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL 
+ 
+  34  KLIKOVAND – december 2014  
+ 
+Grundejere, der ikke kan blive enige med én eller flere naboer om fælles tiltag, kan anmode 
+kommunen om bistand til at rejse en sag. Kommunen bliver i høj grad faciliterende for den 
+senere ansøgning til Kystdirektoratet.  
+Der er en række formkrav  til, hvad en ansøgning skal indeholde. Kommunen foretager på 
+baggrund af de indledende undersøgelser en bedømmelse af, om de vil gå videre med sagen.  
+Kommunen kan herudover pålægge gruppen af grundejere, der har anmodet kommunen om 
+at rejse sag, om at lave disse forundersøgelser. 
+Kommunen kan selv vælge, om den vil afholde omkostningerne til forundersøgelser, eller om 
+kommune vil pålægge ansøgerne denne udgift.  
+Hvilke forpligtelser har kommunen, når den skal beslutte, om der skal rejses sag? 
+I nedenstående tabel skildres kommunens forpligtelser og vejen til en eventuel ansøgning om 
+kystsikring hos Kystdirektoratet. 
+1. Kommunens vurderinger forud for en evt. sag  
+• Har der inden for de sidste 50 år været en hændelse, der nødvendiggør kystsikring? 
+• Hvilke miljømæssige påvirkninger – herunder på dyre- og planteliv – kan projektet 
+forventes at afstedkomme? 
+• Hvilken Indvirkning har projektet på nabostrækninger? 
+• Hvordan ser det ud med den fortsatte adgang til kysten? 
+• Er omkostningerne ved kystbeskyttelse er proportionale med værdien af det som 
+søges beskyttet? 
+2. Interessenter høres forud for en afgørelse  
+Kystdirektoratet og andre interessenter – herunder nabokommuner og alle påvirkede 
+grundejere, der kan blive berørt af projektet.  
+3. Begrundelser  for afvisning  
+• Hvis Kystdirektoratet vurderer, at der ikke er brug for 
+kystbeskyttelsesforanstaltninger, eller hvis der ikke er nogen form for opbakning fra 
+grundejerne, så vil kommunen kunne afvise sagen med en skriftlig begrundelse til 
+ansøgeren. 
+• Hvis hverken Kystdirektoratet eller grundejerne er imod projektet, så vil sagen skulle 
+fremmes. 
+• Kommunen vil kun kunne afvise at medvirke til at fremme et projekt i denne 
+situation, hvis projektet er uforeneligt med hensynet til naturen eller den kommunale 
+planlægning for området.  
+
+KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL 
+ 
+  35  KLIKOVAND – december 2014  
+ 
+4. Møde med grundejerne  
+Hvis sagen fremmes, vil kommune n skulle afholde et møde med grundejerne, hvor disse 
+indkaldes med 4 ugers varsel. Indkaldelsen skal ligeledes trykkes i et stedligt blad.  
+5. Skitseprojekt med økonomisk overslag  
+Der skal udarbejdes et skitseprojekt med et tilhørende økonomisk overslag. Kommunen skal 
+komme med et forslag til, hvordan betalingen skal fordeles. Grundejerne kan pålægges 
+bidragspligt, så de skal betale for projektet, hvis de opnår beskyttelse ved foranstaltningen 
+eller en anden fordel. 
+Det enkelte bidrag fra grundejerne fastlægges af kommunen. Kommunen skal på et møde 
+nærmere redegøre for, hvilke foranstaltninger der påregnes gennemført, herunder projektets 
+anlægs- og driftsudgifter, forslag til bidragsfordeling og sagens gennemførelse. 
+6. Afgørelsen  
+Hvis nej:  
+Hvis kommunen efter mødet beslutter, at der ikke skal foretages 
+kystbeskyttelsesforanstaltninger, så skal grundejerne informeres skriftligt og begrundet samt 
+trykke det i det stedlige blad, hvor indkaldelsen blev trykt. I dette tilfælde vil kommunen 
+skulle afholde alle administrative omkostninger og omkostninger til evt. forundersøgelser og 
+skitseprojekt mv.  
+Hvis ja: 
+Hvis kommunen efter mødet beslutter, at der skal etableres en 
+kystbeskyttelsesforanstaltning, så skal grundejerne informeres skriftligt om, hvilke 
+foranstaltninger der skal gennemføres. 
+Denne redegørelse skal også indeholde oplysning om, hvordan, og af hvem, 
+kystbeskyttelsesforanstaltningerne skal udføres, og hvordan udgifterne til foranstaltningerne 
+skal finansieres og fordeles på kort- og på lang sigt. 
+Redegørelsen skal også indeholde oplysninger om evt. ekspropriationer. Hvis kommunen 
+finder, at der skal oprettes et kystbeskyttelseslag i forbindelse med projektet, skal dette også 
+indgå i redegørelsen. 
+7. Ansøgning til Kystdirektoratet  
+Efter endte undersøgelser mv. skal der indsendes ansøgning til Kystdirektoratet.   
+ 
+7.8.4  Hvem har ansvaret for finansiering af kystsikringen? 
+Grundejerne har som udgangspunkt ansvaret for finansiering af kystsikringen. 
+
+KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL 
+ 
+  36  KLIKOVAND – december 2014  
+ 
+I tilfælde af sager, der rejses efter lovens kapitel 1 a, kan kommunen bestemme, hvordan 
+udgifterne skal fordeles mellem gruppen af grundejere, der får gavn af kystsikringen – 
+herunder også de grundejere, der ikke har ønsket at medvirke til kystsikringen.  
+Kommunen skal herunder vurdere, om projektet skal lånefinansieres, og om kommunen 
+ønsker at stille garanti for lånet. Eller om kommunen midlertidigt skal afholde udgiften mod 
+opkrævning af fremtidige bidrag fra de bidragspligtige grundejere.  
+Miljøministeriet har oplyst, at der i Kystbeskyttelsesloven  er lovhjemmel til, at kommunerne 
+kan yde et bidrag til at etablere kystbeskyttelse, og at det er op til kommunerne, hvorvidt de 
+ønsker at yde et bidrag og i givet fald hvor stort et bidrag. Det er Miljøministeriets opfattelse, 
+at Kystbeskyttelsesloven  ikke rummer begrænsninger i kommunens adgang til at yde 
+finansering. Oplysningen blev givet i august 2014 i forbindelse med spørgsmål til Folketingets 
+Miljø- og Planlægningsudvalg. 
+Kommunerne har med Miljøministerens udtalelse vide muligheder for at finansiere tiltag, som 
+kommunen finder ønskelige eller nødvendige.  
+Det skal dog bemærkes, at kommunen i udgangspunktet bør foretage en vurdering af, hvorvidt 
+kommunen tilgodeser enkeltborgeres interesse ved finansieringen, og om kommunen 
+overholder lighedsprincippet  og proportionalitetsprincippet  ved ydelse af finansiering.  
+Kommunen kan herudover – hvis kommunen opnår beskyttelse eller gavn af tiltaget i lighed 
+med andre grundejere – pålægges bidragspligt. I den forbindelse skal det bemærkes, at der i 
+loven er hjemmel for miljøministeren til at pålægge andre kommuner, der bliver berørt af 
+kystbeskyttelsesforanstaltningerne at bidrage med indtil samme beløb – både i relation til 
+drift- og anlægsudgifter.  
+Udgifter, der skal fordeles på de berørte grundejere o.a. parter, er: 
+• udgifter til sagens forberedelse, forundersøgelser, projektering, udførelse og tilsyn.  
+• udgifter til drift, vedligeholdelse og andre løbende foranstaltninger. 
+• udgifter til ekspropriation af ejendom. 
+• finansieringsudgifter til etablering af kystbeskyttelsesforanstaltningen. 
+7.8.5  Hvem har ansvaret for skader påført andre grundejere/andre 
+konstruktioner af kystbeskyttelsesanlægget? 
+Anlæggets ejer/ejere er erstatningsansvarlig for skader, som bliver påført andre 
+grundejere/andre konstruktioner som følge af etablering af anlægget. 
+7.8.6  Udfordringer 
+Den helt overvejende udfordring ved etablering af kystsikring er fordeling af omkostningerne. 
+Det er et spørgsmål, der altid giver anledning til konflikter og drøftelser, hvorvidt grundejere i 
+
+KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL 
+ 
+  37  KLIKOVAND – december 2014  
+ 
+1. række til et farvand skal finansiere mere end grundejere der ligger i længere afstand fra 
+farvandet.  
+Disse konflikter er ikke løst lovgivningsmæssigt – og skal løses konkret i den givne situation. En 
+finansieringsformel afhænger nødvendigvis af erosionsfare og indvirkningen på de 
+bagvedliggende grundejeres ejendomme. 
+Det anbefales at søge rådgivning i de kommuner, der har stor erfaring med erosion af 
+kyststrækninger for at udvinde ideer til en proportional fordelingsnøgle. 
+  
+
+KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL 
+ 
+  38  KLIKOVAND – december 2014  
+ 
+Bilag 1: Omtalte love og bekendtgørelser 
+Nedenfor er opsummeret direktiver, love og bekendtgørelser, der omtales i håndbogen, og 
+deres eventuelle kaldenavne: 
+Badevandsbekendtgørelsen  Bekendtgørelse nr. 939 af 18. september 2012 
+om badevand og badeområder 
+Badevandsdirektivet  Europa -Parlamentets og Rådets direktiv 
+2006/7/EF af 15. februar 2006 om forvaltning 
+af badevandskvalitet og om ophævelse af 
+direktiv 76/160/EØF 
+Bekendtgørelse om tilknyttede aktiviteter  Bekendtgørelse nr. 1195  af 14. oktober 2010 
+om vandselskabers deltagelse i anden 
+virksomhed med senere ændringer 
+Betalingsloven  Lovbekendtgørelse nr. 633 af 7. juni 2010 om 
+betalingsregler for 
+spildevandsforsyningsselskaber mv. med 
+senere ændringer 
+Kystbeskyttelsesloven  Lovbekendtgørelse nr. 267 af 11. marts 2009 
+om kystbeskyttelse med senere ændringer 
+Medfinansieringsbekendtgørelsen  Bekendtgørelse nr. 89 af 30. januar 2013 om 
+spildevandsforsyningsselskabers 
+medfinansiering af kommunale og private 
+projekter vedrørende tag- og overfladevand 
+med senere ændringer 
+Miljø - og servicemålsbekendtgørelsen  Bekendtgørelse nr. 1048 af 29. oktober 2012 
+om driftsomkostninger til gennemførelse af 
+miljømål og servicemål 
+Miljøbeskyttelsesloven  Lovbekendtg ørelse nr. 879 af 26. ju ni 201 0 om 
+miljøbeskyttelse med senere ændringer 
+Miljømålsloven  Lovbekendtg ørelse nr. 932 af 24. september 
+2009 om miljømål m.v. for vandforekomster 
+og internationale naturbeskyttelsesområder 
+med senere ændringer 
+
+KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL 
+ 
+  39  KLIKOVAND – december 2014  
+ 
+Miljøvurderingsloven  Lovbekendtgørelse nr. 939 af 3. juli 2013 om 
+miljøvurdering af planer og programmer med 
+senere ændringer 
+Naturbeskyttelsesloven  Lovbekendtg ørelse nr. 951 af 3. juli 2013 om 
+naturbeskyttelse med senere ændringer 
+Planloven  Lovbekendtg ørelse nr. 587 af 27. ma j 2013  om 
+planlægning med senere ændringer 
+Privatvejsloven  Lov bekendtgørelse  nr. 1537 af 21. december 
+2010 om private fællesveje med senere 
+ændringer 
+Spildevandsbekendtgørelsen  Bekendtg ørelse nr. 1448 af 11. december 2007 
+om spildevandstilladelser m.v. efter 
+miljøbeskyttelseslovens kapitel 3 og 4 
+Vandløbsloven  Lovbekendtg ørelse nr. 1208  af 30. september 
+2013 om vandløb med senere ændringer 
+Vandrammedirektivet  Europa -Parlamentets og R ådets direktiv 
+2000/60/EF af 23. oktober 2000 om 
+fastlæggelse af en ramme for Fællesskabets 
+vandpolitiske foranstaltninger 
+ Vejloven  Lovbekendtgørelse nr. 1048 af 3. november 
+2011 om offentlige veje med senere 
+ændringer

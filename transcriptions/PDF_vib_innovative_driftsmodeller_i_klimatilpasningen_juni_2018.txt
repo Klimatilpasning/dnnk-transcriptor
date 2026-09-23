@@ -1,0 +1,1326 @@
+=== DNNK PDF Dokument ===
+Titel: vib innovative driftsmodeller i klimatilpasningen juni 2018
+Kategori: Rapporter_s5
+Kilde: https://usercontent.one/wp/www.dnnk.dk/wp-content/uploads/2020/07/vib-innovative-driftsmodeller-i-klimatilpasningen-juni-2018.pdf
+Indekseret: 2026-09-23T10:12:57.284386
+
+==================================================
+
+1 
+Innovative driftsmodeller 
+i klimatilpasningen
+Muligheder og udfordringer i driften af 
+grøn-blå infrastruktur /LAR 
+Bi
+rgitte Hoffmann og Niels Lützen 
+Juni 2018 
+
+
+2 
+ 
+Innovative driftsmodeller                                                                                                            
+i klimatilpasningen  
+ 
+- muligheder og udfordringer                                                                                                            
+i driften af grøn-blå infrastruktur /LAR 
+ 
+ 
+af Birgitte Hoffmann og Niels Lützen  
+Juni 2018  
+ 
+ 
+Projektet er gennemført af  
+Aalborg Universitet 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Og Niels Lützen Landskabsarkitekt  
+ 
+ 
+ 
+ 
+ 
+ 
+og støttet som et ’bobleprojekt’ i  
+Innovationsnetværket Vand i Byer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Forsidefoto Hothers Plads.  
+Foto: Niels Lützen. 
+  
+
+
+3 
+Indhold 
+Introduktion ............................................................................................................. 1  
+Grøn klimatilpasning skaber behov for nye driftsløsninger ....................................... 3 
+Vi skal tænke innovativt om driften 4 
+Vi skal åbne for nye grøn-blå fremtider og diskutere forventninger 5  
+Vi skal tænke driften ind i design-fasen og brugen 6 
+Vi skal finde nye ressourcer 7 
+Vi skal udvikle nye kompetencer til de nye anlæg 7 
+Eksempler ............................................................................................................... 9  
+Arbejdernes Boligselskab, Gladsaxe – ny natur 12 
+Li
+ndevang og Møllebakken, HOFOR, Flere års erfaringer 14 
+Lør
+enskogvej, HOFOR, Parcelhusvej med vildt grønt 16 
+P
+ortland, US, Storskala omlægning af veje og inddragelse af borgere 18 
+H
+F Tofteager, København, Klimavenlig villavej med ambitioner 20 
+Lås
+by Søpark, Skanderborg, Rekreative funktioner kræver samarbejde 22 
+S
+mag på Aarhus, Aarhus, Dialogværktøjer til at engagere borgerne 24 
+
+1 
+Introduktion 
+Vi har store ambitioner om at klimasikre byer og landdistrikter med grøn-blå løsninger. Klima-
+tilpasningen skal desuden bidrage til liveability, rekreative værdier, natur, sundhed samt inno-
+vation og grønne jobs. De fleste kommuner og forsyninger har etableret de første af mange 
+nye anlæg. Men udfordringer med drift kan stoppe visionerne, før vi rigtig kommer i gang.  
+De n
+ye typer af anlæg til håndtering af regnvand kan sjældent bare ’overtage’ de eksisterende 
+driftsmodeller, og der er manglende viden om nye driftsmetoder, manglende økonomiske res-
+sourcer i de eksisterende driftsbudgetter og utilstrækkelige teknologier i de eksisterende ma-
+skinparker. Allerede nu oplever professionelle i kommuner og forsyninger, der arbejder med 
+klimatilpasning, således at driften er en barriere for at udvikle disse nye grøn-blå anlæg til 
+håndtering af regnvand (LAR anlæg). Især fordi det ofte være dyrere set ud fra eksisterende 
+normer og metoder.  
+Med det
+te pilotprojekt vil vi derfor gerne sætte fokus på driften af de grønne anlæg. Vi har 
+undersøgt udfordringer og muligheder for nye driftsmodeller i klimatilpasningen. For  drift behø-
+ver ikke at være en barriere. Det er også et område, der skaber værdier og grøn vækst. Der er 
+meget at vinde for kommuner, forsyninger, rådgivere, entreprenører og borgere ved at arbejde 
+innovativt med drift.  
+P
+rojektet er udført i et samarbejde mellem Niels Lützen fra Niels Lützen Landskabsarkitekter 
+og Birgitte Hoffmann fra Aalborg Universitet fra foråret 2016-foråret 2018. Det er udført som et 
+bobleprojekt støttet af Vand i Byer.  
+Nye grønne rum i den tætte by. Hothers Plads (foto: Niels Lützen) 
+
+2 
+ 
+Vi har undersøgt en række eksempler og interviewet rådgivere, professionelle fra kommuner 
+og forsyninger, driftspersonale samt borgere. På den baggrund har vi trukket centrale udfor-
+dringer frem om driften af de nye grøn-blå infrastrukturer. Materialet peger imidlertid også på 
+mange perspektiver i at udvikle nye driftsformer, der kan styrke en grøn omstilling af byerne og 
+herunder forstæderne og skabe nye relationer og medejerskab til byen.  
+ 
+Dette korte idekatalog formidler således de centrale udfordringer og muligheder samt konkrete 
+eksempler med det formål at lægge op til faglig diskussion på tværs af designere, planlægge-
+re, ingeniører, driftsfolk og boligforeninger og borgere samt til udvikling af innovative projekter 
+og samarbejder om at udvikle nye driftsmodeller som en forudsætning for en grøn-blå klimatil-
+pasning.  
+ 
+Vi har desuden indsamlet viden og materiale, der kan bruges til at udvikle konkrete værktøjer, 
+vejledninger og kurser mv. Dette vil vi søge at formidle gennem kommende projekter.  
+ 
+Dette er således også en invitation til at samarbejde om innovative driftsmodeller, som Vand i 
+Byer vil følge op i det kommende år. Det er målet at initiere projekter, der i samarbejde mellem 
+private og offentlige parter samt vidensinstitutioner, udvikler konkrete danske eksempler  på 
+innovative driftsformer og værktøjer hertil. 
+ 
+Projektet er blevet præsenteret på Vand i Byers Stormøde den 23.3. De forskellige oplæg 
+herfra kan ses på www.vandibyer.dk. Endelig er projektet blevet formidlet gennem to artikler: 
+ 
+Hoffmann, B. & Lützen, N (2016): Hvordan skal vi drifte 10.000 nye grøn-blå klimatilpas-
+ningsanlæg? I Teknik og Miljø.  
+ 
+Lützen, N, & Hoffman, B. (2017): Regnanlæggene udfordrer driften. I Grønt Miljø.  
+ 
+Vi vil gerne sige tak til de mange, der har bidraget til pilotprojektet gennem interview og med 
+kommentarer og fotos – og ikke mindst gennem jeres arbejde med at udvikle de eksempler, vi 
+trækker på! TAK.  
+ 
+  
+
+3 
+ 
+ 
+Grøn klimatilpasning skaber behov for nye driftsløsninger  
+Klimatilpasning er på dagsorden blandt kommuner og forsyninger og mange borgere. I løbet af 
+de sidste frem har klimaforandringer skabt et akut behov for at finde nye løsninger til at hånd-
+tere regnvand.  
+ 
+Både danske og internationale erfaringer peger på at grøn-blå-grå anlæg og strukturer på 
+overflader af byer og landdistrikter ofte er både billigere og en mere robust måde at håndtere 
+klimaforandringerne på end at udvide kloaksystemet. Samtidig åbner denne tilgang mul igheder 
+for at skabe varierede og rekreative anlæg og natur – og har dermed potentialer til at bidrage 
+til værdier som byliv, biodiversitet og sundhed.  
+ 
+Lørenskogvej med brede grønne rabatter 
+ 
+De fleste kommuner har allerede etableret de første anlæg til at håndtere regnvand, både i 
+den tætte by, i forstaden og i det åbne land. Og hvis vi for alvor skal håndtere regnvand på 
+overfladen, så skal der etableres mange nye anlæg og sammenhængende strukturer i de 
+kommende årtier. Med et hurtigt overslag skal hver kommune måske etablere omkring 100 
+små og store anlæg som regnbede, grønne veje, render, bassiner og naturområ 
+ 
+der, der kan håndtere regnvandet. Men allerede nu oplever professionelle i kommuner og for-
+syninger, der arbejder med klimatilpasning, at driften er en barriere for at udvikle disse anlæg. 
+Især fordi det ofte vil være dyrere set ud fra eksisterende normer og metoder.  
+ 
+ 
+
+4 
+ 
+ 
+Der er således et akut behov for at udvikle nye og fleksible driftsmodeller, nye udbudsformer 
+og forretningsmodeller og ikke mindst nye samarbejder på tværs i forvaltninger og med bruge-
+re og borgere. Vi kan allerede nu se en tendens til at klimatilpasningsanlæg bliver, hvad en 
+yngre planlægger for nyligt kaldte ”Grønne rør på overfladen” – altså relativt kedelige grønne 
+græsbeklædte render og bassiner. De kan nemt slås med maskine og dermed håndteres med 
+de eksisterende driftsløsninger og normer. Men lever de op til vores visioner om at bruge de 
+mange investeringer i klimatilpasning til at skabe flere bedre byer og grøn innovation?   
+ 
+ 
+ 
+I Portland, Oregon, USA, har de erfaringer i stor skala med grønne veje til at håndtere regn-
+vand (foto: www.portlandoregon.gov)  
+ 
+De efterfølgende afsnit opsummere væsentlige udfordringer og muligheder i at udvikle innova-
+tive driftsformer. De skal læses på to niveauer – dels som input til at udvikle nye driftsformer 
+her og nu til konkrete nye anlæg., dels som input til at se de konkrete anlæg og de eksperi-
+menter med drift, som vi arbejder med i dag i et langsigtet perspektiv med at omstille vores 
+byer. Alle de anlæg og aftaler, vi laver nu, er således trædesten til fremtidige anlæg og drifts-
+former.  
+ 
+Vi skal tænke innovativt om driften  
+Den første pointe er, at der er tale om nye typer af anlæg, og derfor skal driften tænkes på nye 
+måder. Det er ikke nødvendigvis optimalt at prøve at overføre de eksisterende driftsmodeller 
+med eksisterende opgavebeskrivelser, budgetter og maskiner til de nye LAR-anlæg. Det kan 
+være, at de etablerede driftsmodeller slet ikke passer til de nye typer af anlæg. Det kan være, 
+at maskiner skal udskiftes og at driftsfolk skal have nye kompetencer.  
+
+
+5 
+Mange kommuner har fastlåste driftsmodeller, der sjældent giver plads til nytænkning. Ofte 
+nedprioriteres driften til fordel for nye projekter. Det er nødvendigt, at driften af LAR-anlæg skal 
+tænkes i et innovativt perspektiv, således at vi udnytter de muligheder for byudvikling, som 
+klimatilpasning rummer. Det kan måske også rejse nye ressourcer til drift at kigge på tværs af 
+forvaltninger eller i nye samarbejdsformer med borgerne.  
+D
+er skal derfor tænkes nyt på både kort og lang sigt. 
+V
+i må rejse og diskutere spørgsmål som:  
+- Hvordan skaber og håndterer vi i praksis en mere mangfoldig natur i byen?
+- H
+vordan styrker vi borgernes og brugeres ejerskab og frivillige ressourcer til drifte n?
+- H
+vordan kan driften af de grøn-blå anlæg blive en del af og bakke op om byens kvali-
+teter – fx sundhed, inklusion, medborgerskab, fællesskaber, rekreation, leg, sanselig-
+hed osv.
+- Hvilke andre forvaltninger kan have interesse i at medvirke til driften?
+- H
+vordan sikrer vi en effektiv drift på tværs af forskellige kommunale forvaltninger?
+- Hvordan inddrager vi driftsfolk og udvikler nye kompetencer og praksisser f.eks. i bo-
+ligselskaber
+?
+- H
+vilke muligheder og begrænsninger har vandsektorloven for forsyningerne i forhold at
+udvikle nye driftsmodeller for de grøn-blå klimatilpasningsanlæg?
+- Hvilke nye former for udbud og forretningsmodeller skal vi udvikle for at kommuner  og
+bol
+igselskaber kan udvikle nye grøn-blå anlæg?
+- Hvordan håndterer vi, at det som de professionelle systemer omtaler som ’drift’ i lokal e
+bor
+geres øjne kan være ’brugen’ af de blå-grønne områder?
+V
+i skal åbne for nye grøn-blå fremtider og diskutere forventninger  
+Det er vigtigt at være opmærksom på, at vi er i gang med at ændre byens udseende og brug. 
+Derfor kommer vi til at ændre de eksisterende forventninger og forestillinger om , hvordan byen 
+skal se ud og hvem, der tager sig af den.  
+D
+et vil ofte opleves som at den måde vi gør ting på nu, er den eneste rigtige. Men tænker vi 
+nogle årtier tilbage havde vi helt andre forståelse af byens natur. Da vi var børn og unge var 
+der fx skilte overalt i parkerne om ikke at betræde græsset. I bruges naturen på mange måder 
+og der er nye former for grønne områder. Det ses som en helt central kvalitet i byen, og driften 
+af de grønne områder har derfor også ændret sig radikalt. De mange nye LAR-anlæg vil også 
+fremover ændre byen, og det skal vi være opmærksomme på at arbejde strategisk med og 
+fremhæve. 
+V
+i skal blive bedre til at diskutere kreativt sammen med beboere/borgere/brugere og driftsfolk 
+om de potentialer, som LAR anlæg åbner for byen. De værdier som disse kan bidrage med til 
+byen eller landdistriktet kan være med til at rejse ressourcer til drift.  
+V
+i skal finde en måde at udvikle vores mange asfaltveje til at håndtere regnvand. Vi har i dag 
+mange kedelige og monofunktionelle veje i byen, ikke mindst ser mange villaveje og parcel-
+husveje ens ud fra Skagen til Gedser. Spørgsmålet er hvordan vi gerne vil have at de ser ud 
+20 år? Hvordan kan de få flere funktioner og dermed flere værdier for beboerne? Det er en 
+stor udfordring, der skal løftes at lave nogle gode processer, hvor borgere og brugere indgår i 
+at samskabe fremtiden grønne veje.  
+N
+år vi arbejder med konkrete anlæg skal vi blive bedre til sammen med de involverede aktø-
+rer, at udvikle realistiske forventninger til disse anlæg. Fordi LAR anlæg ser anderledes ud og 
+
+6 
+bruges anderledes end tidligere grønne anlæg. Fx at anlæggene skaber diversitet og følger 
+årstiderne på nye måder. Der kan være vand i nogle gange, mens de andre gange er tørre. At 
+’naturlige’ planteområder visner ned efter blomstring osv. De nye anlæg kan også bruges an-
+derledes – fx børn, der leger i vand og mudder.  
+H
+elt centralt skal vi finde ud, hvordan vi kan diskutere forventninger til hvordan de nye anlæg 
+driftes. Vi kan ikke fremover forvente, at alle de grønne anlæg driftes af professionelle, som 
+det oftest er i dag. De professionelle spiller en vigtig rolle med deres viden og organisering af 
+arbejdet, men der er store potentialer i at samarbejde med borgere og frivillige grupper.  
+Marielyst i Gladsaxe har fået en mangfoldig natur 
+Vi skal tænke driften ind i design-fasen og brugen  
+Der er mange professionelle, der fortæller at driftsudfordringerne kommer alt for sent ind i 
+planlægning og design af klimatilpasningsprojekter. Det betyder ofte, at der må skæres ned på 
+ambitionerne i projektet. Eller at det skaber problemer, når anlæggene ikke bliver driftet til-
+strækkeligt. De grønne områder ser måske slet ikke så pæne ud som på planerne - og i vær-
+ste fald håndterer de måske ikke vand som planlagt.  Det peger på, at driften ikke ’bare’ kan 
+overlades til de eksisterende driftsorganisationer, når anlægget er designet og opført.  
+D
+rift og brug skal tænkes ind i hele planlægningen og designet, der skal passe til lokale for-
+hold, herunder fx beboere der vil noget med deres grønne område eller deres vej. Design fa-
+sen og forventningsafstemning bliver vigtige elementer til at sikre, at der vælges de rigtige 
+naturformer og anlæg og funktioner.  
+
+
+7 
+ 
+Det betyder omvendt, at de eksisterende driftsorganisationer og fremtidige brugere skal inklu-
+deres tidligt i planlægning, så de kan være med til at samskabe de nye løsninger.  
+ 
+Ved borger/bruger deltagelse bliver det en særlig pointe, at brugsfasen/anvendelsen vil være 
+koblet tættere til driften. Vi skal måske derfor også tale om drift på en anden måde. Det som 
+professionelle taler om som drift – fx det at passe et bed eller holde fælles sociale arrange-
+menter, hvor man passer et område er et rekreativt/kulturelt element. Denne forståelse af ’drift’ 
+som ’brug’ kan være vigtig for at sikre ressourcer til LAR.  
+ 
+Vi skal finde nye ressourcer  
+Det kan være driften bliver dyrere i forhold til den eksisterende drift. Nogle nye anlæg kræver 
+flere timer / mere økonomi end der er afsat i traditionelle anlæg. Sådan vil de ofte være, når 
+man udvikle innovative anlæg i byen, der har nye funktioner. En af disse ressourcer kan kom-
+me fra forsyningen, der kan drifte de grøn-blå anlæg som de har tradition for at drifte de grå og 
+underjordiske anlæg.  
+ 
+Der er også andre måde at finde ressourcer. I eksemplerne bliver dette grebet an på mange 
+forskellige måder.   
+Det er vigtigt at være opmærksom på at de nye LAR anlæg skaber værdi på mange måder –  
+fx kan det være rekreative anlæg med nye muligheder for leg og ophold, biodiversitet, sund-
+hed som fx sanselighed, nydelse, afslapning og bevægelse. Derfor skal driftsmidler tænkes i 
+forhold til disse nye værdier.  
+Det kan være afsæt for at samarbejde med andre forvaltninger om udvikling af de ny byrum og 
+at det kan bruges til nye aftaler om drift. Det kan være at en skole kan bidrsge som led i ’den 
+åbne skole’ eller at naturpleje kan indgå i genoptræning. Borgerne kan også bidrage og der er 
+flere motiver til dette. Det vil styrke grundværdierne, at området er klimatilpasset og at vejen er 
+grøn. Og det kan udvikle nye fællesskaber og aktiviteter.  
+For at få flere ressourcer ind i driften kan det derfor være centralt at udvikle nye roller mellem 
+forsyningsselskaber/forvaltninger, driftspersonale og borgere/brugere. Flere eksempler peger 
+på, at borgerne kan bidrage til driften. Men også at det en udviklings- og læreproces over flere 
+år, at mobiliseres og opbygge nye organisationer. 
+ 
+Det kræver et opgør de op med den traditionelle arbejdsdeling, hvor kommuner og forsyning 
+leverer service for borgerne, der således har en rolle som modtagere af service. Denne ar-
+bejdsdeling, der er udviklet gennem over 100 år betyder, at mange professionelle mangler 
+erfaringer med at samarbejde med borgerne, ligesom de ofte er skeptiske overfor om de frivil-
+lige borgere nu har vilje og kapacitet med til at engagere sig i drift. Det kræver et innovativt og 
+langsigtet arbejde at udvikle nye samarbejder med borgerne. Se fx casen om Portland, hvor 
+partnerskabet med borgerne er udviklet gennem nogle år og fortsat udvikles. Og som nævnt i 
+indledningen, nye fremtider skabes ved små eller store skridt i de aktuelle projekter.  
+ 
+Vi skal udvikle nye kompetencer til de nye anlæg  
+Mange driftsfolk i kommuner og boligselskaber oplever, at de pludselig står over at skulle drifte 
+nye og forskellige grøn-blå anlæg med forskelige typer af planter uden at være blevet inddra-
+get i processen og uden at få tilstrækkelige redskaber eller uddannelse. Omvendt viser vores 
+indsamling af nye erfaringer også, at det også kan være spændende nye opgaver, som kan 
+bidrage til arbejdsglæde og innovation.  
+ 
+Der mangler ofte kompetencer blandt driftspersonale til de nye anlæg. For nogle boligselska-
+ber/etageboligområder er det en ny opgave at håndtere grønne anlæg, mens det i andre om-
+råder bliver en stor frustration, at eksisterende maskiner og praksisser ikke passer til de nye 
+anlæg.  
+
+8 
+Desuden skal der i forbindelse med anlæggets etablering laves aftaler, forklares og illustreres 
+gennem nye driftsmanualer. Dette kan med fordel skrives ind i udbuddet.  Kurser, rundvisnin-
+ger og erfa-dage er også vigtige elementer i at opbygge og dele viden om de nye anlæg.  
+I forlængelse af ovenstående kræver det også nye roller og kompetencer, hvis driftspersonale 
+ikke kun skal drifte anlæg – men også facilitere borger/bruger deltagelse. Det kan omvendt 
+være med til at udvikle nye jobområder.   
+Erfa-dag i Gladsaxe om drift af nye grønne områder (foto: Niels Lützen) 
+
+9 
+Eksempler 
+Gennem projektet har vi indsamlet en del eksempler og vi analysere og formidler otte af disse 
+som konkrete eksempler på hvordan driften kan håndteres og hvilke udfordringer og mulighe-
+der dette giver. Der er naturligvis flere eksempler, men disse er forskellige på en række para-
+metre:  
+- f
+orskellige skala fra et regnbed, over søer/bassiner og større strukturer til store områ-
+der;
+- forskellige typer af steder som tætbyen, forstadens boligområde, veje, idrætsanlæg;
+- forskellige naturtyper – fx fra det meget ’pæne’ til det vilde, fra det mere pasningskræ-
+vende til mindre driftskrævende;
+- forskellige måder at inddrage borgere på; samt
+- adresserer forskellige udfordringer.
+E
+ksemplerne er valgt fordi de viser forskellige udfordringer i driften, men også potentialer og 
+konkrete indsatser for at håndtere disse udfordringer og bidrage til innovativ klimatilpasning.  
+I
+kke alle eksempler er direkte regnvandsanlæg/spildevandsanlæg. Nogle er eksempler på nye 
+typer af bynatur, der imidlertid også kan håndtere regn og kan inspirere til nye driftsformer i 
+klimatilpasningen.  
+Låsby Søpark med mange rekreative elementer. (www.Skanderborg Forsyning.dk)  
+I
+ det følgende gives en kort beskrivelse af eksemplerne og de pointer, de peger på. Bagest er 
+alle eksemplerne uddybet.  
+
+10 
+Hothers Plads Karréen, København, LAR-løsninger i tætbyen 
+Da gården blev planlagt (2010-2012) var LAR ikke særligt kendt og man hæftede sig mest ved 
+de spændende perspektiver og knap så meget ved driften. Anlægget er således et af de første 
+større LAR anlæg i den tætte by, og det viser, at det nødvendigt at lære løbende og tilpasse til 
+de lokale vilkår. Der har været mange udfordringer undervejs, men de håndteres i samarbejdet 
+mellem en dygtig driftsleder og et aktivt gårdlaug.  
+Eksemplet viser, at det kan lade sig gøre at håndtere regnvand i tæt-byen. Der er konkurrence 
+om pladsen i gården, men anlægget giver anledning til nye naturoplevelser og legemuligheder. 
+Brugen udvikles således som anlægget vokser til.  
+Snerydningen skal også håndteres nye på nye måder, og der eksperimenteres med grus og 
+knuste lecanødder. Endelig viser at anlæggene udfordringerne i, at det tager nogle år, før de 
+vokser til. Et nyt anlæg syner ikke af meget, men med den rigtige drift bliver det hurtigt et vig-
+tigt arkitektonisk element i gården. 
+A
+rbejdernes Boligselskab, Marielyst, Kildevænget og Kildeparken, Gladsaxe – ny natur 
+De grønne områder i tre etageboligområder i Gladsaxe blev i 2015-16 omlagt med nye LAR-
+anlæg som større grøfter og regnbede. Bedene blev tilsået med forskellige frøblandinger som 
+skal plejes og udvikles på en helt anden måde end mere traditionelle grønne anlæg.  
+Eksemplet viser, at de nye LAR-anlæg med tiden bidrager til en langt mere mangfoldig natur, i 
+stedet for de monotone græsplæner og buskplantninger.  Der har været brug for en forvent-
+ningsafstemning med beboerne om hvordan disse anlæg ser ud, når de visner ned og når det 
+bedene mudrede. Eksempler viser også udfordringen med at inddrage driftspersonalet og 
+udvikle deres kompetencer og nye praksisser, og Kommunen har her spillet en meget vigtig 
+rolle som facilitator af erfaringsudvikling for at bidrage til en udvikling af driften samt understøt-
+te klimatilpasningen generelt i kommunen.  
+L
+indevang og Møllebakken, HOFOR, Flere års erfaringer  
+Brøndby Kommune og det daværende Brøndby Kloakforsyning (nu HOFOR) var nogle af de 
+første til at håndtere vejvand gennem vejbede og har dermed også vigtige erfaringer om drif-
+ten af disse over tid. Møllebakken i Københavns Kommune har også været i drift i nogle år. De 
+grønne anlæg på Lindevang og Møllebakken blev designet forskelligt og giver forskellige erfa-
+ringer i forhold til den nuværende drift.  
+Erfaringer herfra viser, at der er behov for at udvikle arbejdsdelingen mellem kommunale for-
+valtninger og forsyningerne. I dag er de formelle regler, organisering og finansieringer således 
+ikke opdateret til den grønne håndtering af regnvand. Der skal udvikles nogle nye ’nøgler’ for 
+driften, for at den kan blive effektiv og bakke op om en værdiskabende klimatilpasning.  
+L
+ørenskogvej, HOFOR, Parcelhusvej med vildt grønt  
+Rødovre Kommune ønskede et demo-projekt, der kunne vise borgerne, hvordan man kunne 
+gennemføre LAR på en typisk villavej ved at nedlægge fortovet i vejens ene side og lede van-
+det til en gennemgående grøft. Projektet skulle være til inspiration i og udenfor kommunen, og 
+bidrage med erfaringer til planlægning, anlæg og drift af veje og vejbede. 
+Eksemplet tager fat i udfordringer med at udvikle nye forventninger til villavejes udseende og 
+funktion, herunder begrænset parkeringsareal for at give plads til LAR.  
+I dag er den grønne vej populær, selv om udtrykket er meget anderledes end den før så tradi-
+tionelle vej.  
+
+11 
+Portland, US, Storskala Omlægning af veje og inddragelse af borgere 
+I den amerikanske by Portland har kommunen udviklet et effektivt webbaseret system, så loka-
+le borgere og frivillige kan melde sig til at passe et eller flere regnbede og få driftvejledninger 
+og påmindelser på mail. Kommunen har de sidste ti år opbygget dette system hvor flere og 
+flere frivillige deltager. Den fleksible model bygger på idéen om at jo flere frivillige der deltager, 
+jo flere midler frigives til at omlægge nye områder.  
+HF Tofteager, København, Klimavenlig villavej med ambitioner  
+En grundejerforening i Brønshøj vil gerne koble klimatilpasning sammen med en grøn udvik-
+ling af området. Skitsen blev udviklet i tæt samarbejde med vejlauget, og rummer mange 
+grønne løsninger. På de mindre veje nedlægges begge fortove, og køre- og parkeringsareal 
+begrænses til det mest nødvendige. De grønne rabatter ønskes tilplantet med frugttræer og 
+varieret grøftekantsblandinger. Det viser et ambitiøst eksempel på omstilling, men også hvor 
+svært det er at tematisere både udseende og drift i det komplekse samarbejde mellem borger-
+ne, rådgiverne og forsyning. Det er også et eksempel på, at borgerne udmærket kan være 
+drivkræfter i klimatilpasningen og omstillingen af byerne i deres eget lokalområde. Det rejser 
+spørgsmålet om, hvor gode kommuner og forsyninger i dag er til at modtage disse initiativer og 
+lave lokalt forankrede løsninger?  
+Låsby Søpark, Skanderborg, Rekreative funktioner kræver samarbejde 
+I Låsby ved Skanderborg samarbejder kommune, forsyning og borgere om en ny blå-grøn 
+park, der håndterer regnvand og samtidig fungerer som aktivitetsanlæg for både familier, unge 
+og ældre. Lokale borgere og foreninger skal bidrage til driften af anlægget, hvilket har været 
+afgørende for anlæggets rekreative elementer. Udfordringen var som mange andre steder, at 
+Forsyningen og Kommunen kun havde en vis portion midler til driften. Hvis borgernes ønsker 
+om flere aktiviteter skulle realiseres, så krævede det nye samarbejder med borgerne. 
+Eksemplet viser også, at borgerne kan styrke kommunikationen om et projekt i samarbejde 
+med kommune og forsyning.  
+Smag på Aarhus, Aarhus, Dialogværktøjer til at engagere borgerne   
+Det sidste eksempel peger på de mange potentialer ved at inddrage borgerne i udvikling og 
+pasning af byens natur. Det åbner fx for mere varieret natur og for at styrke medejerskabet for 
+byen. I Smag på Aarhus udvikler Kommunen værktøjer til at løfte de udfordringer, de møder 
+med at inddrage borgerne i konkrete projekter. De har fx lavet en model for at afklare og udvik-
+le forventninger samt meget simple driftsaftaler, der gør det nemmere at samarbejde om drif-
+ten af byens natur.  
+
+Sted: Kildeparken, Kildevænget og 
+Marielyst i Gladsaxe  
+K o m m u n e .
+Partnere:  Orbicon A/S
+G l a d s a x e  K o m m u n e ,
+N o r d v a n d  A / S
+Årstal: 2014 - 2016
+Baggrund:
+Boligforeningerne, som er afdelinger under Arbej-
+dernes Boligselskab, har som følge af de senere 
+års store regnskyl oplevet stigende problemer 
+med oversvømmelser og vand i kældrene. Der-
+for besluttede man at gennemføre et omfattende 
+LAR-projekt med tilskud fra Nordvand, hvor tag- og 
+overﬂ adevand på alle arealer blev afkoblet 100%. 
+Tilskuddet må anvendes til hydrauliske elementer, 
+mens øvrige tiltag som træer, nye affaldsøer mv. 
+ﬁ nansieres af de enkelte afdelinger selv. 
+Proces:
+Projektet er planlagt sammen med afdelingsbety-
+relserne i de tre afdelinger og især sammen med 
+driftsafdelingerne. 
+LAR-anlæggene i Marielyst blev færdige i 2014, 
+mens Kildeparken og Kildevænget blev færdige i 
+2016. 
+Design:
+De omfattende LAR-anlæg er anlagt som lavnin-
+ger, grøfter og regnbede i de tre bebyggelsers 
+store grønne friarealer. Bebyggelserne er fra 
+1960’erne og rummer derfor rigelige friarealer, der 
+før hovedsageligt var holdt som klippet græsplæne. 
+Det var en forudsætning, at det meste råjord skulle 
+forblive på stedet for at spare udgifterne til bortkør-
+sel. De ﬂ este haverum er derfor anlagt med større 
+regnbede i lavninger og grøfter. De er udgravet i et 
+meget skrånende terræn, og derved er opstået et 
+helt nyt landskab, der afviger markant meget fra de 
+oprindelige, traditionelle boligfriarealer. 
+Designet rummer mange løsninger på render, 
+permeable belægninger og regnbede i forskellige 
+udgaver. 
+Drift:
+LAR-anlæggene er for de ﬂ estes vedkommende 
+regnbede, der med mere eller mindre vand skal 
+drives ekstensivt, inkl. de tilstødende voldanlæg. 
+Det har efterfølgende været nødvendigt at erfa-
+ringsopsamle omkring grøn drift og vinterdrift, 
+Arbejdernes Boligselskab, Gladsaxe
+Omfattende LAR-løsninger i 3 afdelinger giver driftsproblemer
+Den ringformede bebyggelse i Marielyst er forsynet med et regn-
+bed, der holder en del vand og må plejes derefter. 
+Regnbedene i Kildeparken er anlagt på det skrånende terræn, og 
+skal driftes som eng. 
+Et større regnbed holder en del vand, og det overvejes derfor 
+at indplante en robust bundplantning, da mudderhuller ikke er 
+populære. 
+12
+
+foranlediget af en frustration hos driftspersonalet, 
+der efterlyser konkrete driftsmetoder. Før skulle 
+driftspersonalet slå græs, nu skal de drifte regn-
+bede med blandinger med frø og græs, noget er 
+for stejlt, noget står under vand. 
+Det er ikke så manualfast som græs der skal slås 
+på faste datoer:
+Skal det gøres manuelt? - Hvilke maskiner skal 
+bruges? - Skal man luge med hånden i bedene 
+fx tidsler, mens resten bliver stående? - Hvad er 
+tidsforbruget?
+Gladsaxe Kommune har her taget en bemærkel-
+sesværdig og central rolle, selv om det ikke er et 
+kommunalt projekt. Kommunens ansatte faciliterer 
+selskaberne og personalet og arrangerede bla. 
+nogle ERFA-dage omkring driften i august 2016, 
+hvor også Nordvand (nuværende Novafos) og en 
+række eksperter deltog. 
+Det var klart, at både beboere og driftspersonale 
+manglede en grundig indføring i, hvordan LAR-
+anlæg ser ud og udvikler sig. 
+Mødet fokuserede på konkrete driftsmetoder, bla. 
+slåning af græs, maskiner, glatførebekæmpelse, 
+eftersåning, såtidspunkter mv. 
+Mødet var en succes og understregede behovet for 
+både forventningsafstemning på et tidligt tids-
+punkt i processen, men også hvor vigtigt det er at 
+rådgiverne forklarer præcis hvilke driftmetoder der 
+er tiltænkt i anlægget, hvilke maskiner der er bedst 
+egnede i driften og i øvrigt hvilke ekstraomkostnin-
+ger, man kan forvente, indtil anlægget er modent. 
+Desuden er det vigtigt at lære både beboere og 
+driftspersonale, hvad de kan forvente sig anlæg 
+og beplantning over en 5 årig periode. Nysåede 
+bede ligner ikke meget, og der skal ﬂ ere gange 
+eftersåning til, lugning af rodukrudt og korrekt slå-
+ning med de rigtige maskiner til, før anlægget blot 
+begynder at svare til forventningerne. 
+Derfor skal rådgivere lade være med at illusterere 
+LAR-anlæg som noget der står der fra dag ét, men 
+i stedet beskrive det som noget, der udvikler sig 
+over en årrække. 
+Samtidigt er det vigtigt at fortælle både bygherre 
+og ansatte, at man skal lære af sine erfaringer. 
+Jordbund varierer fra anlæg til anlæg, og beplant-
+ning opfører sig forskelligt af mange årsager, så 
+der er ikke 2 anlæg der udvikler sig ens. 
+På ERFA-dagen blev driften af regnbede og voldanlæg et gennem-
+gående tema, da afdelingen ikke rådede over maskiner, der kunne 
+køre på det stejle terræn. Øverst ses den uslåede vold, og nederst  
+den nyslåede vold og ﬁ ngerklipperen, som blev introduceret af Per 
+Malmos til formålet.  
+Glatførebekæmpelse
+I forbindelse med ERFA-dagene blev der også dis-
+kuteret glatførebekæmpelse og alternativer til salt. 
+Driften var gået over til CMA, som krævede nye 
+maskiner og en anden teknik. Det er dyrere, men 
+der bruges også mindre, og der var fordele ved 
+at håndtere det, da man ikke længere skulle løfte 
+tunge sække, og hænderne blev ikke ødelagte af 
+salten. Desuden er der alle miljøfordelene. Så de 
+er nu blevet ambassadører for dette middel, også 
+overfor andre boligselskaber, der er i en proces 
+med at lære det. 
+13
+
+Sted:   Lindevang, Brøndby Kommune: 
+Etablering:  2011-13
+Bygherre: HOFOR (tidl. Brøndby Kloak- 
+  forsyning) og Brøndby Kommune
+Rådgiver: Orbicon, Byer I Vandbalance og  
+Haveselskabet
+Entreprenører:  Per Aarsleff og Lars Voss
+Areal: Afkoblet ca. 2200 m2 tag ﬂ ade 
+areal i haverne. Afkoblet 2500  
+m2 vejareal etageejendomme.
+Sted:  Møllebakken , Københavns 
+K o m m u n e
+Bygherre: HOFOR og Københavns 
+K o m m u n e
+Etablering:  2012-13
+Bygherre: HOFOR (tidl. Brøndby Kloak- 
+  forsyning) og Brøndby Kommune
+Rådgiver: Orbicon og Byer I Vandbalance
+Entreprenører:  Per Aarsleff
+Areal: Afkoblet 1300 m2
+Begge projekter var en del af projektet Byer i 
+Vandbalance, der ﬁ k støtte fra Uddannelses- og 
+Forskningsministeriet fra 2011-14.
+Parcelhusveje med lokal håndtering af regn-
+vand - drift af regnbede 
+Brøndby Kommune og det daværende Brøndby 
+Kloakforsyning (nu HOFOR) var nogle af de første 
+til at håndtere vejvand gennem vejbede.  
+Møllebakken i Københavns Kommune har også 
+været i drift i nogle år. 
+LAR anlæggene på Lindevang og Møllebakken 
+blev designet forskelligt og har forskellige erfarin-
+ger i forhold til den nuværende drift. 
+Udviklingen af design på Lindevang og 
+Møllebakken 
+I 2011 gennemførte Brøndby Kloakforsyning et 
+pilotprojekt med separering og lokal håndtering af 
+regnvand på Lindevang, so m er en lokal parcelhus-
+vej. Syv vejbede håndterer vejvand, mens anlæg 
+i 15 haver viser, hvordan regnvand kan håndteres 
+på meget forskellige måder i private haver. 
+Der var et stærkt fokus på at inddrage grundejerne 
+i at afkoble regnvandet og håndtere det på egen 
+Grønne veje i Hofor
+Workshop om udformning af vejbedene i Lindevang. Foto Søren 
+Hansen
+Besigtigelse af driften af vejbede i Møllebakken. Foto Søren 
+Hansen
+matrikel. Gennem en tæt dialog med Forsyningen 
+ﬁ k beboerne støtte til at designe og omlægge 
+deres have til at håndtere regnvand. Med afsæt i 
+beboernes forskellige ønsker til blev der udviklet 
+15 meget forskellige LAR-anlæg, f.eks. lavninger i 
+græsplænen, der også har funktion af bålplads el-
+ler staude-regnbede og befæstede render gennem 
+haven. Grundejere ﬁ k gennem processen viden 
+og ejerskab til LAR og er blevet ambassadører, 
+der viser haverne frem og deler viden med lokale 
+borgere, der vil håndtere regnvand i deres have. 
+De syv vejbede blev designet af Forsyningen og 
+etableret umiddelbart efter haverne, alle med 
+input fra vejens beboere, Brøndby Kommune og 
+samarbejdsparterne i Byer I Vandbalance. De 
+overordnede rammer for bedene lå fast pga. bin-
+dinger til eksisterende ledninger, tra ﬁ ksikkerhed og 
+jordbundsforhold. 
+Via en workhop kom beboerne med input til de 
+overordnede værdier til beplantning af vejbedene: 
+• Det overordnede indtryk - her valgte beboerne at
+bedene skulle have et ensartet udtryk gennem hele
+gaden fremfor fx forskellige farver .
+• Stedsgrønne eller ekstra vild blomstring om som-
+meren – her valgte beboerne det stedsegrønne.
+14 
+
+Besigtigelse af driften i Lin-
+devang. Foto Søren hansen.
+• Et havepræget udtryk eller vilde mere vild natur -
+her valgte beboerne det haveprægede.
+Der blev således etableret syv vejbede med for-
+skelige stedsegrønne og haveprægede stauder. 
+På Møllebakken har beboerne ikke på samme 
+måde været involveret og håndterer heller ikke 
+selv regnvand på egen grund. Forsyningen stod for 
+designet med mere ensartede beplantninger. 
+Drifterfaringer fra forskelige typer af vejbede 
+Afgrænsningen mellem Kommunens og Forsynin-
+gens forpligtigelser er ikke udviklet til denne type 
+grønne anlæg. Det kræver derfor et godt samar-
+bejde at få det plejet på en god og minimal måde. 
+På Lindevang og Møllebakken ejer HOFOR vej-
+bedene og står for driften, som i de 2 første - og 
+driftstunge - år blev overladt til de anlægsgartnere 
+der havde plantet bedene. 
+Derefter har Forsyningen selv gjort sig erfaringer 
+med at drifte, og har i Brøndby betalt Kommunen 
+for at holde øje med det grønne, når de alligevel er 
+ude at inspicere vejbrønde eller andre nærliggende 
+grønne arealer. Hofor drifter selv de mere ’grå’ 
+dele som fx forbassiner og brønde, og sørger for 
+rensning af faskinekassetter.
+Bedene på Lindevang har større plantevariation 
+kan synes mere spændende. I Forsyningens drifts-
+afdeling, som nu drifter begge veje, synes man at 
+driften af Møllebakken er nemmere. Hvor bedene 
+på Lindevang er baseret på en samplantning af 
+forskellige stauder, er der en klarere gruppering i 
+bedede på Møllebakken. Bedene kan beskæres 
+samlet på mere forudsigelige tidspunkter. 
+På grund af den engagerende proces på Lin-
+devang har beboerne fået en stor viden om LAR 
+og tager også et vist ansvar for at holde øje med 
+vejbedene. De samler fx affald op, luger lidt og 
+ringer desuden til forsyningen, når der ligger meget 
+vand, så man har fået nogle erfaringer fra anlæg-
+gene. Der er ikke den samme viden og ejerskab 
+blandt beboerne på Møllebakken. 
+Perspektiver
+Projektet fra Lindevang var et pilotprojekt, der 
+skulle udvikle demonstrationshaver og det er ikke 
+umiddelbart muligt fremover at afsætte så mange 
+ressourcer til borgerinddragelse. I dag tænker 
+HOFOR i skalering, og fremtiden for de næste 500 
+bede vil umiddelbart være mere simple beplantnin-
+ger, hvor planterne vokser hurtigere frem og kan 
+håndteres med mere strømlignede driftsformer fx 
+slået på givne tidspunkter. 
+Casene peger på en udfordring med at etablere 
+forskellige former for veje med design og vejbede, 
+der passer til lokale forhold og herunder beboere, 
+der vil noget særligt.
+Desuden peger casene på behovet for at udvikle 
+arbejdsdeling mellem kommune og forsyning – og 
+borgere: Vej, fortov og vejbed – det er jo ikke hen-
+sigtsmæssigt, at der er ﬂ ere instanser …. Hvem 
+skal samle pizzabakken op? I dag er de formelle 
+regler, organisering og ﬁ nansieringer således ikke 
+egnede til den grønne håndtering af regnvand. Der 
+skal udvikles nye nøgler for driften, så det kan blive 
+godt og effektivt. Samtidig skal driftenhederne i 
+kommunerne og forsyningerne have ﬂ ere erfarin-
+ger med at drifte vejbede på en effektiv måde.  
+Kontakt Søren Hansen, sorh@hofor.dk 
+15 
+
+Fortovet i den ene side er bibeholdt ,mens det er nedlagt i den 
+anden side for at give plads til grøften.
+Der er anlagt adgangfsstier til alle havelåger.
+Urtevegetationen består bla. af kællingetand, slangehoved, margurit-
+ter m.ﬂ ., der blomstrer på forskellige tidspunkter.
+Lørenskogvej, Rødovre
+Vild natur på vejen
+Sted:  Lørenskogvej, 
+R ø d o v r e  K o m m u n e
+Bygherre: Rødovre Kommune/Hofor A/S
+Partnere:  Orbicon FRI A/S  
+V i a  T r aﬁ k A/S
+Areal:  6.000 m2
+Alder:  A ﬂ everet 2014
+Baggrund:
+Rødovre Kommune ønskede et demo-projekt, der 
+kunne vise borgerne, hvordan man kunne gennem-
+føre LAR på en af kommunens typiske villaveje. 
+Denne første klimavenlig villavej skulle også være 
+til inspiration i og udenfor kommunens grænser, og 
+således bidrage med de erfaringer, der blev gjort 
+indenfor planlægning, anlæg og drift af vejen.
+Proces:
+Samtidigt med omlægningen til klimavnlig villavej 
+skulle vejen også gøres mere grøn og indbydende. 
+På de indledende møder med beboerne stod det 
+hurtigt klart, at en meget grøn vej ikke var skræm-
+mende for beboerne, der havde stor forståelse for 
+tanken om LAR. 
+Dermed var heller ikke tanken om at nedlægge det 
+ene fortov for at give plads til regnvandet noget 
+stort spørgsmål. 
+Det var dog fra starten et stort ønske fra beboerne, 
+at den meget lange og lige vej blev indrettet, så 
+hastigheden blev dæmpet markant.
+Design:
+Udgangspunktet var 100 % afkobling af vejvandet 
+og vejen blev udformet med ensartet fald og en 
+grøft/regnbed i vejens ene side. 
+Fortovet blev her nedlagt, og der blev indrettet et 
+antal p-pladser svarende til det reelle behov. Dette 
+blev opgjort ved optælling en søndag morgen, der 
+senere blev godkendt af beboerne. 
+P-pladserne blev indrettet som længdeparkering,
+befæstet med brosten med bred græsfuge og på
+permeabelt bærelag, så de afvandes direkte til
+grøften.
+Vejforløbet er udformet med forsætninger og ind-
+snævringer, der både begrænser hastigheden og
+den gennemkørende tra ﬁ k.
+Vejen gjort så grøn som mulig. Projektet omfat-
+ter en del træer, er bla. plantet eg, kirsebær og
+frugttræer. De grønne arealer med tilplantet med
+vegetationsmåtter for at skabe en umiddelbar grøn
+effekt og en over ﬂ ade, der straks kunne bruges.
+Vegetationsmåtterne hvde også den virkning at de
+Indkørsler til sideveje er belagt med brosten.
+16 
+
+sarte urter bedre kunne konkurrere med de agres-
+sive græsser.
+I dag fremtræder vejen meget grøn og grøften frem-
+står med et væld af forskellige græsser og urter, 
+mange steder med et noget ’vildt’ udtryk. 
+Drift:
+Driften af vejen påhviler grundejerforeningen, men 
+udføres af Rødovre Kommune mod betaling.
+Grøften slås som enggræs 2 gange årligt for at 
+tilgodese, at blomsterne når at kaste frøene. De 
+grønne rabatter har givet anledning til nogen dis-
+kussion blandt beboerne, da man er bange for at 
+uønskede arter kaster frø ind i haverne. Derfor er 
+man ﬂ ere steder på strækningen blevet enige om 
+at slå græsset som græsplæne i en bane på ca. 50 
+cm langs med hække og plankeværker. 
+Glatførebekæmpelse:
+Saltproblematik og glatførebekæmpelse har også 
+været et disskussionsemne. Der er udarbejdet en 
+særlig driftsmanual for vejen, hvori det kræves, 
+at Vej- og tra ﬁ kafdelingen højst må anvende 600 
+kg vejsalt (NaCl) på Lørenskogvej årligt til glatfø-
+rebekæmpelse. Vejafdelingen skal desuden føre 
+journal over den udbragte saltmængde på vejen og 
+fremsende denne til miljømyndigheden senest 1. 
+maj samme år.
+Hvis Vejafdelingen ønsker at anvende andre tømid-
+ler på Lørenskogvej end almindeligt vejsalt (NaCl), 
+skal dette godkendes af miljømyndigheden, før det 
+alternative tømiddel tages i brug. De 600 kg vejsalt 
+er i øvrigt kun 20 % af den mængde, der blev brugt 
+i den hårde vinter 2009 - 2010
+Beboerne deltager ikke direkte i driften.
+Konklusion:
+Lørenskogvej er et godt eksempel på, at et grundigt 
+forarbejde sammen med beboerne giver et godt og 
+brugbart resultat, hvor der også opstår pragmatiske 
+løsninger undervejs i processen, men hvor hoved-
+ideen er lykkedes, og hvor visionerne om mere 
+natur og grøn variation på bekostning af asfalt og 
+parkeringspladser ikke altid møder modstand, hvis 
+det formidles på den rigtige måde. 
+Det er netop et tema, der går igen i mange af de 
+klimavenlige villaveje, der planlægges og udføres 
+i disse år. Borgerne har generelt en forståelse for, 
+at LAR har en betydning, og de vil gerne være med 
+til at gøre en forskel. Det har naturligvis en stor 
+betydning at anlæggets hydraliske dele betales af 
+forsyningseslabet.
+Desuden er det interessant at se, at der også er en 
+forståelse for, at vejbede og grøfter ikke kan have et 
+højt og dyrt plejeniveau, men at naturen også gerne 
+må være mere synlig. 
+Grøften står i fuldt ﬂ or i juli måned.
+De brostenbelagte p-pladser er forynet med permeabel belægning 
+og græsfuge, og afvandesmod grøftekanten.
+Vejen har fået et markant præg i kraft af den vilde grøftekantsﬂ ora, 
+der kun slås 2 gange årligt. 
+17 
+
+I byen Portland i USA har de mere end 1200 
+grønne gader og villaveje (Green Streets), som er 
+en del af den grønne infrastruktur, der håndterer 
+regnvand uden om kloakkerne og begrønner byen. 
+For at få flere ressourcer til omlægningen har 
+forvaltningen udviklet et Green Street Steward-pro -
+gram, og mere end 200 anlæg er i dag adopteret af 
+frivillige, der varetager en del af driften.
+Adopter et grønt anlæg - Portlands Green 
+Street Steward Program 
+”Hvis du bor, arbejder eller har en virksomhed i 
+Portland kan du blive en del af holdet, der passer 
+og vedligeholder Portlands grønne gader.” (City of 
+Portland, vores oversættelse)
+Emily Hauth fra byens miljøforvaltning, der er 
+kontaktperson for Green Street Steward-program -
+met, fortæller, at ligesom med kloakrørene under 
+jorden, har forvaltningen ansvaret for at vedlige -
+holde de grønne infrastrukturer. De er typisk ude 
+og kigge til anlæggene 1-4 gange om året. Når 
+borgerne bidrager med simple aktiviteter som at 
+samle affald op, fjerner blade og sten fra indløbet 
+og fra tid til anden luger og vander kan forvaltnin -
+gen reducere deres antal af besøg. De ser derfor 
+borgernes arbejde som en slags partnerskab med 
+kommunen om den grønne løsning.
+Et systematiseret partnerskab med borgerne 
+Emily Haut fortæller: ”Vi startede dette program, 
+fordi borgerne spurgte, hvordan de kunne være 
+med. Vi samlede noget materiale og lavede en 
+præsentation for at invitere folk til at hjælpe med at 
+passe og vedligeholde Portlands Grønne Gader.” 
+Programmet blev startet som et forsøg i 2010, og 
+det bliver løbende evalueret og udviklet. I dag er 
+det i høj grad systematiseret og programmet har 
+sin egen side på forvaltningens hjemmeside: www.
+portlandoregon.gov/bes/52501. Her kan borgerne 
+finde små videoer med eksempler, kort over grøn -
+ne gader, guides til at passe anlæggene og til at 
+identificere ukrudt og endelig en online tilmelding. 
+Se fx www.portlandoregon.gov/bes/article/319879.
+Når man melder sig, vælger man samtidig det eller 
+de ledige grønne anlæg, man vil passe. Hver af 
+disse får deres egen side, som man får et log-in 
+til, hvor det fremgår hvilken pasning netop dette 
+anlæg har brug for. Det vil typisk være at rense 
+indløbet og fjerne ukrudt og affald. Man kan nemt 
+registrere ens drift med dato, et eller flere hak 
+Portland
+Storskala omlægning til grønne veje – et 
+partnerskab med borgere 
+(Foto: www.portlandoregon.gov)
+Guide til at identificere ukrudt. (download på http://www.portlando-
+regon.gov/bes/article/471991) 
+(Foto: www.portlandoregon.gov)
+(Foto: www.portlandoregon.gov)
+18 
+
+og tidsforbrug. Endelig kan man melde, hvis der 
+er problemer i anlægget som hvis fx et træ er 
+knækket. Så tager kommunen ansvar for at bygge 
+anlægget op igen. Ønsker man ikke længere at stå 
+for anlægget, tager kommunen over igen. 
+Kommunen skelner mellem anlæg i etableringsfa -
+sen og i driftsfasen. I begge faser skal man fjerne 
+affald og evt. sediment fra indløbet. 
+Opsøgende metoder
+Forvaltningen har arbejdet opsøgende gennem 
+nogle år for at skabe opmærksomhed om program -
+met. F. eks. stiller man sig op ved lokale cafeer 
+og events i de områder, hvor de gerne vil have 
+driftet anlæg. De samarbejder også med netværk 
+og virksomheder, og gennem train the trainers -
+programmer tilbydes kurser om grønne anlæg og 
+deres drift. 
+Virksomheder og foreninger er således vigtige 
+partnere, fx har grupper af forretningsdrivende 
+adopteret flere grønne gader. De mødes en gang 
+om måneden for at passe anlæggene og spise 
+frokost og snakke. 
+Hvis et af kommunens driftshold finder ud af, at der 
+er problemer med et anlæg, fx at folk har plantet 
+roser eller grøntsager i et regnbed, så tager de fat 
+i de lokale beboere med det samme. Hvis der ikke 
+er nogen hjemme, kontakter de forvaltningen, som 
+følger op. ”Så banker vi på folks døre, fordi det 
+hjælper virkelig at få sat et ansigt på det, vi laver, 
+og dialogen giver folk en meget bedre forståelse.” 
+(Emily Hault) Det handler om at formidle funktionen 
+af de grønne infrastrukturer, og hvad de betyder for 
+naturen i og omkring byen. 
+Disse henvendelser får også en del til at ville 
+passe de grønne anlæg. 
+Hvad kan man få ud af det? 
+De forventer ikke, at alle anlæg bliver adopteret, 
+men det frivillige arbejde er blevet en vigtig del af 
+driften af anlæggene. Og de penge, de sparer på 
+drift, giver mulighed for at bygge flere anlæg. 
+Den frivillige drift styrker desuden borgernes viden 
+om den grønne infrastruktur og miljøet. Således er 
+de frivillige, der i dag deltager i at passe de grønne 
+anlæg, vigtige ambassadører, der formidler og 
+skaber ejerskab til infrastrukturen. 
+Om borgernes motiver, fortæller Emily Hauth, at 
+mange af de første, der meldte sig, i forvejen var 
+aktive i lokale initiativer. De var typisk optaget af at 
+styrke lokalsamfundet eller miljøet. Andre gange er 
+det folk, der bor tæt ved et anlæg, og som gerne vil 
+have at det ser pænt ud. Kommunen kan desuden 
+se, at de grønne anlæg styrker naboskabet i de 
+grønne gader. Forvaltningen har flere eksempler 
+på, at naboer og nabo-virksomheder, der ikke 
+kendte hinanden tilfældigt har mødtes til en intro -
+ducerende kursus. Flere steder vælger naboer at 
+melde sig i fællesskab. 
+Artiklen er skrevet med afsæt i materiale fra City of 
+Portland og interviews med Emily Hauth og Swet -
+lana Pell, Ann Nielson, Tims Kurts og Kaitlin Lowell 
+fra City of Portland, gennemført i 2012 og 2013 af 
+Lene Alsbjørn og Birgitte Hoffmann. 
+Se mere på www.portlandoregon.gov/bes/52501 
+Guide til at passe regnbede (download 
+på http://www.portlandoregon.gov/bes/
+article/319879)
+19
+
+Sted:  Tofteager, Ærtebjergvej, Husum
+bygherre: Hofor A/S, HF Toftevang
+Rådgiver: Hofor A/S, Niels Lützen 
+landskabsarkitekter ApS
+Areal: 1.100  m2  
+Anlægssum: ca. 5 mill. ekskl. moms
+Status: Under projektering, forventes  
+færdiganlagt i 2017.
+Baggrund:
+Toftevang Vejlag er en lille grundejerforening i 
+Husum med 59 ejendomme, der er opført i 1918, 
+primært sammenbyggede 2 og 2 og med en gen-
+nemgående arkitektur. 
+Vejsystemet består - med undtagelse af Tofteager, 
+der er 10 m bred - af blinde veje, der kun er 8 m 
+brede. 
+Vejene er ikke i højrisikozonen, men der har været 
+tilfælde af oversvømmelser og vand i kældre på de 
+lavest liggende områder. 
+Proces:
+Toftevang Vejlag søgte i 2015 om midler til at 
+omdanne den private fællesvej til en klimavenlig 
+villavej. Projektet blev indsendt til Forsyningsekre-
+tariatet i 2015 og godkendt, men blev senere stop-
+pet pga. problemer med ﬁ nansieringsmodellen. 
+Sagen er nu genoptaget og er under projektering, 
+og forventes gennemført i 2020.. 
+Foreningen har sat sig grundigt ind i både egne 
+ønsker og behov, i det økonomiske og tekniske 
+grundlag for opgaven, men også i de forbundne 
+risici. Desuden er de meget bevidste om formålet 
+med LAR og klimavenlige villaveje. 
+I forbindelse med planlægn ingen indgår væsentli-
+ge diskussioner om retten til en indkørsel i fremti-
+den, om venderadier, træer, drift og fælles brug af 
+området i en mere rekreativ sammenhæng. 
+Også her er det en tydelig opfattelse, at p-pladser 
+og traﬁ k skal være på vejen, men ikke nødvendig-
+vis være enerådende. Der skal være plads til an-
+dre, fælles ting. Tidligt i processen overvejede man 
+om der kunne etableres fælles ’affaldsorteringsøer’ 
+på vejene samt lege- og opholdspladser. 
+Planlægningsprocesen er nu nået så langt, at man  
+skal til at detailplanlægge vejene og bla. drøfte 
+materialer, beplantning, drift mv. 
+Fotos fra området, der er præget af de smalle veje og fortove, men 
+også af husenes sammenhængende arkitektur.
+Toftevang Vejlag
+Klimavenlig villavej med ambitioner
+20 
+
+Design:
+Ved at nedlægge fortovene i begge sider på de tre 
+mindre veje og nedsætte hastigheden til max. 15 
+km/t bliver der plads til både grøfter og p-pladser. 
+Vejene håndterer ca. en 10 års hændelse og over-
+vejes suppleret med faskiner. Skybrud ledes til og 
+nedsives på et lille grønt areal, der ligger i bebyg-
+gelsens østlige del. 
+Drift:
+Driften af vejen er ikke afklaret, men vil forment-
+lig blive udført af Toftevang Vejlag selv. Da de 
+snævre, lukkede veje er meget lokale, kunne man 
+forestille sig en mere varieret drift, hvor der både 
+er plads til natur og til mere plejede områder, må-
+ske også med stauder og græsser. 
+Det vil være vigtigt at fortælle foreningen om de 
+forskellige driftsformer, om tidshorisonten for 
+udvikling af græs, stauder og træer. Desuden vil de 
+meget snævre og intime anlæg også stille krav til, 
+at de hydrauliske anlæg fungerer upåklageligt og 
+derfor skal overvåges grundigt. 
+Konklusion:
+Toftevang er et eksempel opå, at samarbejdet 
+mellem bygherre, rådgiver og beboere kan nå et 
+højt niveau, men at der endnu er mange usagte 
+ting omkring både anlæg og drift, der i det færdige 
+anlæg kan blive overraskende. Planen er derfor at 
+opstribe bede, indkørsler og vejbredder med spray 
+på markante steder for at give folk et realistisk bil-
+lede det færdige anlægs dimensioner. 
+Desuden skal driftsformer og tidsperspektiver 
+gennemgås for foreningen, der også skal orien-
+teres om evt,. køb af redskaber, særlig behov i 
+opstartsfasen med efterplantning og eftersåning, 
+og endelig undervises i hvordan der kan glatføre-
+bekæmpes uden salt. 
+Det videre arbejde vil derfor også omfatte et eller 
+ﬂ ere besøg til eksisterende LAR-anlæg for at de på
+   udvikling og drift. 
+
+Sted: Lå sby, Skanderborg Kommune 
+Areal: 2 ha
+ 
+Anlægssum: 14 m
+io.
+Indviet: no
+v. 2016 
+Låsby Søpark er blevet indviet efter mange års 
+planlægning i samarbejde mellem kommune, for -
+syning og lokale borgere. Området skal håndtere 
+regnvand og er samtidig et idræts- og aktivitets -
+anlæg med tilknytning til det nærliggende stadion. 
+Den store indvielse blev styret af borgere. 
+Aktivitetsområderne er udviklet med lokale cross-
+fit-eksperter, og der bliver også plads til 400 meter 
+asfalteret stiforløb til skateboards og løbehjul. 
+Området skal desuden være et udflugtsmål for det 
+lokale plejecenter og bruges af eleverne på Låsby 
+Skole til både undervisning og aktivitet. Læs mere 
+på http://www.loa-fonden.dk/presse/2015/3-5-mio-
+kr-til-aktivitetsomraade-i-laasby.
+Anlægget er finansieret af Skanderborg Forsyning 
+sammen med Skanderborg Kommune og har 
+desuden fået tilskud fra Lokale og Anlægsfonden, 
+Realdania, Friluftsrådet og Vanførefonden. 
+Relationerne til borgerne
+Borgerne har været involveret i planlægningen lige 
+fra de tidlige ideer blev udviklet gennem forskelige 
+typer af møder og workshops. Der er også etab -
+leret en følgegruppe med deltagere fra foreninger 
+og aktive borgere. Borgerne har etableret en 
+facebook side om Søparken for at styrke en bred 
+kommunikation. Kommunen og Forsyningen har 
+administratorrettigheder til siden, så de kan lægge 
+indhold op. Det langvarige samarbejde har udviklet 
+nogle stærke relationer til borgere og foreninger i 
+området, der gør kommunikation og samarbejde 
+lettere.
+Drift som udfordring for aktiviteter  
+Det har været afgørende for anlæggets kvalitet 
+at borgerne vil deltage i driften. Udfordringen 
+var som mange andre steder, at Forsyningen og 
+Kommunen kun havde en vis portion midler til 
+driften. Hvis borgernes ønsker om flere aktiviteter 
+skulle realiseres, så krævede det nye samarbejder 
+med borgerne. Og ”det tog de imod”, siger Vicky 
+Madsen fra Orbicon A/S, tidligere Skanderborg 
+Forsyning. ”Uden borgenes medvirken var det nok 
+blevet et mere traditionelt bassin uden de mange 
+aktiviteter og gode adgangsforhold.” 
+Da borgerne i følgegruppen var positive overfor 
+borgerdeltagelse i driften, blev der afholdt et stort 
+borgermøde den 27.4.2015, hvor opgaverne blev 
+Låsby Søpark 
+Borgere i Låsby har oprettet en facebook side - hvor de, kommu-
+nen og forsyningen kan kommunikere. 
+Følgegruppen mødes om Låsby Park. 
+(Foto: Skanderborg Forsyning) 
+Låsby Søpark
+22 
+
+lagt frem og forskelige grupper tog ansvar for drift 
+og vedligeholdelse. 
+Forskellige frivillige organisationer og borgergrup -
+per varetager således forskellige dele af driften: 
+• Bassiner, Kommunen og Forsyningen
+• Stier, rullesti, Kommunen og Skatergruppen
+• Bytorv, Kommunen
+• Græs og beplantning, Kommunen
+• Legeplads, Kommunen og Borgerforeningen
+• Bålplads, Borgerforeningen
+• Beachvolleybane, Boldklubben
+• Træningselementer, Kommunen og Boldklubben
+• Skaterområde, Skatergruppen
+• Shelter, Borgerforeningen
+Der bliver lavet en samarbejdsaftale for hele 
+Låsby, som danner grundaget for de forskellige 
+konkrete aftaler om drift og vedligehold. De bliver 
+ret specificerede med aftaler om græs, der skal 
+slås, og dele, der skal renses op.
+De vandtekniske elementer driftes af Forsyningen, 
+mens de rekreative elementer skal driftes af kom -
+munen og borgerne. ”Vi er ikke i gang endnu, og 
+der skal nok komme nogle udfordringer undervejs, 
+siger Vicky Madsen. Men vi har fået et rigtig gode 
+relationer til borgerne, så det finder vi ud af.”
+Figur: Skanderborg Forsyning 
+23
+
+
+’Smag på Aarhus’ er et natur- og madprojekt, hvor 
+byens rum skal gentænkes, så der bliver flere 
+spiselige og sanselige miljøer i Aarhus. Formålene 
+er mange – en sundere by, en samskabende by, en 
+smukkere by, større sammenhængskraft, en mere 
+divers natur og gode fortællinger. 
+Det er helt centralt, at Aarhusianerne selv skal 
+være med til at skabe og påvirke deres nære omgi-
+velser med smukke træer, buske og planter, der er 
+fulde af smag. Samtidig skal den spiselige natur 
+formidles, så flere af kommunens borgere opdager 
+det mangfoldige spisekammer, som naturen i og 
+omkring Aarhus byder på. 
+(www.smagpåaarhus.dk)
+Projektet er organiseret af Aarhus Kommune og 
+støttet af NordeaFonden. Det rykker ved de etab-
+lerede forståelser af grønne byrum og af, hvordan 
+disse skal etableres og drives. 
+Hvilke driftsudfordringer tager casen fat I?
+Det er et konkret mål, at der skal etableres 500 
+spiselige grønne områder, som er initieret og drif-
+tet af borgere. Så projektet arbejder direkte med at 
+engagere borgere til at initiere og bidrage til drift af 
+grønne anlæg i byen. 
+’Smag på Aarhus’ inspirerer borgerne, hjælper 
+med tilladelser og har midler til at støtte borgerne 
+med at etablere de grønne områder. Det er ikke 
+direkte anlæg til håndtering af regnvand, men ek -
+semplerne viser at borgerne kan bidrage til drift af 
+en række forskellige typer grønne områder som fx:
+• To unge har lavet en lille privat have i et krat på et
+offentligt areal. Se haven i krattet på
+www.smagpåaarhus.dk
+• En kvinde har i samarbejde med fællesrådet i
+Åbyhøj plantet en køkkenhave med flerårige nytte -
+planter i den lokale park. Hun drifter haven og tilby -
+der grønt til andre borgere. Se mere om permakul -
+turhaven i Åby Park på www.smagpåaarhus.dk
+• En gruppe lokale husejere har etableret en æble-
+lund, hvor der før var krat. Gruppen drifter haven
+og glæder sig til at bruge og dele ud af æblerne.
+Se Skovvejens æblelund på www.smagpåaarhus.
+dk.
+Smag på Arhus 
+dialogværktøjer til at engagere borgere 
+Åbyhøj Fællesråd og Annette, der har taget initiativet ved opstarten 
+af haven. 
+Kort over projekterne i Smag på Aarhus 
+(http://smagpaaaarhus.dk/kort/)
+Projektleder Pernille Villesen foran den Grønne Ambassade på 
+Bispetorv
+• Botanisk Haves Venner drifter en række bede
+i Botanisk Have i samarbejde med de professio -
+nelle. Da Aarhus Kommune i 2011 af sparehensyn
+ville nedlægge rosenhaven, temahaverne, sur -
+bundsbedene og staudehaven, gik 300 borgere i
+gang med at redde haven.
+I dag holder de frivillige bl.a. bedene mellem 
+væksthusene, temahaverne og surbundsbedene 
+og er med til at arbejde i Alpinbedene sammen 
+med Aarhus universitet. De mødes mindst en gang 
+om ugen og luger, sår og planter og hygger sig. 
+(www.smagpåaarhus.dk) 
+24 
+
+Edderkoppespindet – Dialogværktøj og for -
+ventningsafstemning 
+Aarhus Kommune har udviklet et værktøj, som 
+de bruger i den indledende dialog med de lokale 
+aktører. Edderkoppespindet lægger op til at man 
+i fællesskab kommer igennem en række væsent-
+lige spørgsmål om den grønne idé. Det hjælper 
+initiativtagerne til at blive klogere og styrker deres 
+organisering. Det hjælper også i afklaringen af, om 
+’Smag på Arhus’ kan støtte ideen. Den skal fx have 
+en vis grad af åbenhed overfor andre borgergrup -
+per og der skal være aftaler for driften. 
+Driftsaftale – en enkelt aftale 
+For at muliggøre borgernes drift har kommunen la -
+vet en forenklet udgave af tidligere driftsaftale, der 
+ikke var rettet mod frivillighed, og derfor var alt for 
+omfattende og besværlige. Aftalerne fylder 1-3 si -
+der i et enkelt sprog. Her er et let forkortet udgave 
+af driftsaftalen til haven i Åby Park til illustration. 
+Den oprindelige aftale fylder 2 sider plus billede.  
+§ 1 Omfang og formål.
+• Aftalen omfatter brugsretten til et areal i Åby
+Park, ejet af Teknik og Miljø, Aarhus Kommune.
+Området er skitseret på bilag A. Arealet må anven -
+des til et bed med spiselige planter.
+• Bedet skal være et aktiv for hele parken og dens
+brugere og medvirke til at højne oplevelsesværdien
+af arealet.
+• Brugeren har ansvaret for at etablere og vedlige -
+holde bedet, så det ser velplejet ud, herunder også
+vanding. Brugeren har desuden ansvaret for, at
+bedet afmærkes med en kant.
+• Formål: Beplantningen skal danne grobund for
+fællesskaber mellem parkens besøgende og for -
+midle viden om spiselige planter og permakultur.
+§ 2 Aftalens løbetid og opsigelse.
+• 2.1 Denne brugsaftale tages op til revision og
+yderligere forlængelse oktober 2016.
+• 2.2 Brugeren kan skriftligt opsige aftalen med en
+måneds varsel.
+• 2.3 Aarhus Kommune kan skriftligt opsige aftalen
+med en måneds varsel.
+• 2.4 Ved ophør overgår arealerne til Aarhus Kom -
+mune, som de er og forefindes og efter normalt
+brug idet det er aftalt, at rydningsarbejder gennem -
+føres af Aarhus Kommune.
+§3 Aftalegrundlaget
+• 3.1. Smag på Aarhus, Aarhus Kommune afholder
+udgiften til indkøb af planter, halm og sand (i alt
+max 3000 kr.).
+• 3.2 Brugeren står for at etablere bedet, inkl. at
+anskaffe planter, halm og sand. Brugeren sætter
+også kanten, mens materialet til kanten leveres af
+Aarhus Kommune.
+• 3.3 Afstand fra bedet til hække, bænke og andet
+skal være min. 1,80 m. af hensyn til at entreprenø -
+rer skal kunne komme til med maskiner m.m.
+• 3.4 Bruger står for renholdelse i og omkring
+bedet.
+• 3.5 Bruger må ikke anvende pesticider/plantebe -
+skyttelsesmidler.
+• 3.6 Smag på Aarhus opstiller skilt på arealet og
+bruger bidrager med informationer til skiltet.
+• 3.7 Bruger forpligter sig ligeledes til at indsende
+fotos fra projektet til smag@aarhus.dk. Billeder
+indsendes løbende og skal bruges til dokumen -
+tation til fonde og til formidling af projektet på
+hjemmeside, Facebook mv. Billederne må gerne
+afspejle processen med at etablere bedet, dyrk -
+ning, høst og fælles oplevelser i haven.
+§ 4 Ændringer
+4.1 Hvis bruger ønsker ændringer i arealets ud -
+formning eller andre ændringer ift. denne brugsaf-
+tale, skal der indgås ny brugeraftale.
+§ 5. Mislighold
+5.1 Ved væsentlig misligholdelse af bestemmelser -
+ne i nærværende brugeraftale er Center for Byens
+Anvendelse berettiget til at ophæve aftalen.
+§ 6 Sikkerhed, forsikring og ansvar
+6.1 Frivilligaktiviteterne henstår i enhver henseen -
+de på frivilliges egen risiko, og Aarhus Kommune
+er derfor ikke ansvarlig for hændelige skader samt
+for skader, der tilføjes tredjemand, eller som kan
+henføres til forsvarlige handlinger, foretaget som et
+led i plejen af området.
+25
+
+Bilag A: Kort over Åby Park med bedet markeret. 
+Bedet er ikke præcist aftegnet, hverken ift. stør -
+relse og placering. Placeringen er derfor cirka. 
+Bedets placering og størrelse (ca. 1 x 15 meter) er 
+d. 1. oktober 2015 blevet afmærket i parken.
+Både bruger, Aarhus Kommune og Åbyhøj Fælles -
+råd var repræsenteret, da bedet blev afmærket.
+Kontaktoplysninger
+Værktøjer og oplysninger er fra Smag på Aarhus, 
+Aarhus Kommune.  
+Projektleder Pernille Thormann Villesen, pv@
+aarhus.dk
+26

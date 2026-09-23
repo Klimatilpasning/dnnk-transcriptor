@@ -1,0 +1,77 @@
+=== DNNK PDF Dokument ===
+Titel: One-pager om klimatilpasningsløsning, juni 2022
+Kategori: Tech_Talks
+Kilde: https://usercontent.one/wp/www.dnnk.dk/wp-content/uploads/2022/08/One-Pager_Klimasikring_juni-2022.pdf
+Indekseret: 2026-09-23T10:15:46.404024
+
+==================================================
+
+I gennem dataopsamlig og litteraturstudier er der 
+i projeket blevet udviklet en model til estimering 
+af overfladeafstrømning, denne beregnings- 
+metode er blevet sammenholdt med den 
+nuværende dimensioneringspraksis.
+ 
+I et konkret projekt er der lavet en simpel analyse 
+af forskellen imellem brug af den empiriske 
+tilgang og så den mere validerede tilgang. 
+Projektet omhandler en byggemodning, hvor 
+der er fortaget analyser på afstrømningen fra 
+området før og efter udbygning for at vurdere 
+konsekvensen ved at ændre de eksisterende 
+forhold. Denne tilgang er accepteret af 
+kommunen og myndigheden, og den er anvendt i 
+den videre planlægning.
+Case område 
+ikke udbygget
+Max. Flow [m3/s]
+Case område 
+udbygget
+Max. Flow [m3/s]
+Standard 
+beregningspraksis 0,00 0,10
+Ny beregnings- 
+praksis 0,79 0,21
+Konklusionen i den aktuelle case viste blandt 
+andet, at når alle forhold blev taget i betragtning, 
+så blev netto afløbet fra byggemodningen mindre 
+end den naturlige afstrømning før modning, da 
+områder afkobles og håndteres lokalt, hvor netto 
+afløbet var blevet større med den emperiske 
+tilgang.
+ 
+Atkins tilbyder ydelser på området på forskellige 
+detaljeringsniveauer, der sikrer merværdi på et 
+tidligt stadie af planer og projekter.
+Grundlaget for klimasikring og 
+vandhåndtering kan forbedres 
+tidligt - allerede i planfasen
+I forbindelse med den løbende udbygning af vores samfund, herunder klimasikring, 
+er der gjort meget mht. datavalidering, målinger mv. til forbedring af hydrauliske 
+modeller. Et overset, eller nedprioriteret, område er dog her belysning af den naturlige 
+overfladeafstrømning, der meget ofte fejlestimeres grundet brug af en for ”empirisk” 
+tilgang.
+Det betyder, at der lige fra lokalplaner og 
+spildevandsplaner til konkrete udlednings-
+tilladelser for regnvandsbassiner arbejdes med en 
+for stor fejlmargen. Forhold der let kan forbedres, 
+som belyst i en afhandling fra AAU af Camilla 
+Skipper, Atkins. Camilla har udarbejdet afhand-
+lingen ifm. sit speciale på Aalborg Universitet.
+ 
+Projektet har belyst, at den nuværende 
+beregningspraksis, hvor afstrømningsbidrag 
+fra grønne områder stort set negligeres, er en 
+upræcis fortolkning af virkeligheden. Det kan 
+medføre risiko for fejldimensionering og fejl-
+vurdering af eksisterende forhold. 
+Simple screeninger af jordforholdene kan 
+forbedre vurderingen af den naturlige 
+afstrømning fra de grønne områder, og derved 
+belyse de eksisterende forhold og mere reelle 
+løsningsmuligheder.
+  Case område ikke udbygget         Case område udbygget
+Punkt: Afstrømningspunkt
+Grøn: Ubefæstet område
+Blå: Befæstet område
+Rød: Afkoblet område i færdig udbygget situation

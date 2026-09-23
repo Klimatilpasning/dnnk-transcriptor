@@ -1,0 +1,2030 @@
+=== DNNK PDF Dokument ===
+Titel: OReWise White Paper Signed
+Kategori: Rapporter_s3
+Kilde: https://usercontent.one/wp/www.dnnk.dk/wp-content/uploads/2022/08/OReWise-White-Paper-Signed.pdf
+Indekseret: 2026-09-23T10:12:30.788778
+
+==================================================
+
+1 / 32 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Projekt ÖReWise 
+ 
+Hvidbog / Vitbok / White Paper 
+ 
+Klimatilpasning omkring Øresund 
+Klimatanpassning kring Öresund 
+Climate Adaptation in the Cross-border Region of Oresund 
+ 
+Juni/June 2022  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 / 32 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Authors 
+Henrik Aspegren, Sweden Water Research 
+Frank Brodersen and Søren Kasper Heinecke, The Danish Climate Adaptation Network (DNNK) 
+Jens Prisum, PRISUM Water and Environment 
+ 
+Layout 
+Søren Kasper Heinecke, The Danish Climate Adaptation Network (DNNK) 
+ 
+Photos from Unsplash.com 
+Cover: Fabrice Villard 
+Page 5: Aliaksei Lepik 
+Page 15: Storiès 
+Page 18: Julian Hochgesang 
+Page 27: Marcus Woodbridge 
+Back: Karl Hörnfeldt 
+ 
+Copyright 
+Reproduction of this publication in whole or in part must include the customary bibliographic 
+citation, including author attribution, report title, etc. 
+ 
+This publication is based on the project ÖReWise co-funded by 
+ 
+ 
+ 
+ 
+Download from www.orewise.eu  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 / 32 
+ 
+Indhold 
+ 
+Forord................................ ................................ ................................ ................................ .........................  4 
+DA Resumé ................................ ................................ ................................ ................................ ................  6 
+SE Sammanfattning ................................ ................................ ................................ ................................ .. 8 
+EN Summary................................ ................................ ................................ ................................ ............ 10 
+Danmark, Sverige og Øresund ................................ ................................ ................................ ...............  12 
+Udvikling i klimaet ................................ ................................ ................................ ................................  12 
+Udviklingen i de samfundsmæssige risici ................................ ................................ ..........................  13 
+Kommuner og forsyninger skal foretage store investeringer ................................ ...........................  14 
+Viktiga miljöhänsyn ................................ ................................ ................................ ..............................  15 
+Samarbete kring Öresund ................................ ................................ ................................ ..................  16 
+Fra politiske visioner til fælles handling omkring Øresund................................ ...............................  18 
+Underlag för framtida samarbejdsområden ................................ ................................ ......................  19 
+De vigtigste fremtidige samarbejdsområder ................................ ................................ .........................  20 
+Analyse af det grønne vækstpotentiale ................................ ................................ .............................  20 
+Arbejdet med alle byens elementer ................................ ................................ ................................ ... 21 
+Living Lab for Klimatilpasning ................................ ................................ ................................ .............  22 
+Brug og deling af data ................................ ................................ ................................ .........................  24 
+Planering för en osäker framtid ................................ ................................ ................................ .......... 24 
+Model for grænseregionalt/transnationalt samarbejde ................................ ................................ ..... 25 
+Co-creation som arbejdsmetode................................ ................................ ................................ ............ 29 
+Referencer ................................ ................................ ................................ ................................ ...............  30 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 / 32 
+ 
+Forord 
+ 
+Det er med stor fornøjelse at  vi herved kan 
+præsentere e n hvidbog , der for første gang 
+viser en samlet analyse af de fælles 
+udfordringer og muligheder, som behovet for 
+klimatilpasning skaber på tværs af Øresund. 
+Greater Copenhagen samarbejder om vækst 
+og udvikling i Nordens største metropolregion 
+med 4,4 mio. indbyggere i Sydsverige og 
+Østdanmark – og med Øresund som en vigtig 
+fælles naturressource. D et har derfor været 
+spændende at følge arbejdet med de nne 
+hvidbog, der meget sigende bygger på 
+brobygningsprojektet ÖReWise. 
+Projektet har på forbilledlig vis skabt dialog  
+blandt aktører på begge sider af sundet – 
+regioner, kommuner, forsyninger, 
+virksomheder og vidensinstitutioner. 
+Det er et pilotprojekt, som vi håber at se 
+mange af i fremtiden.  For vi tror på, at vi  
+gennem denne type af projekter  og alliancer 
+kan lægge fundamentet for fremtidens vækst 
+og velfærd i vores fælles grænseregion. 
+Vi har en fælles ambition om, at vores region 
+skal være et globalt center for bæredyg tig 
+vækst og grøn innovation . D et understøtter 
+projektet, samtidig med at det peger ind i e n 
+verden med fokus på  internationalt 
+samarbejde, hvor de  erfaringer vi gør os i 
+Greater Copenhagen, kan være et forbillede 
+for udvikling af konstruktive samarbejder i 
+andre grænseregioner. 
+Brobygningsprojektet har grundlæggende til 
+formål at samle viden  om de vigtige, fælles 
+udfordringer, som kan ligge til grund for  et 
+målrettet hovedprojekt  med det formål at 
+styrke vores  grænseregionale samarbejde 
+inden for klimatilpasning. 
+Det har stor betydning, at et projekt som dette 
+opsamler viden fra det regionale niveau – 
+Greater Copenhagen – kobler det til det 
+nationale niveau i Danmark og Sverige , og 
+sigter mod at løfte det internationalt. For vi kan 
+se, at det frembringer mange interessante , 
+fælles betragtninger og løsningsperspektiver, 
+som vi glæder os til at se realiseret i 
+kommende, konkrete og faglige samarbejder 
+på tværs af Øresund.
+ 
+ 
+ 
+ 
+ 
+Sophie Hæstorp Andersen, 
+Overborgmester i København 
+og forperson i Greater 
+Copenhagen 
+ 
+ 
+ 
+Peter Danielsson,  
+Borgmester i Helsingborg 
+ 
+ 
+ 
+ 
+Heino Knudsen, 
+Regionsrådsformand i Region 
+Sjælland og næstforperson i 
+Greater Copenhagen 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 / 32 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 / 32 
+ 
+DA Resumé 
+ 
+Vand kender som bekendt ingen grænser, 
+heller ikke grænsen mellem Danmark og 
+Sverige. To lande som har mange ligheder og 
+fælles problemstillinger.  
+Særligt deler vi Øresund, der på samme tid er 
+et beskyttet, værdifuldt havmiljø og 
+endestation for vores rensede spildevand og 
+meget af det regnvand, vi skal håndtere under 
+mere ekstreme forhold i fremtiden. 
+Denne hvidbog præsenterer en a nalyse af 
+mulighederne for at arbejde sammen på tværs 
+af Øresund om fælles problemstillinger 
+relateret til klimatilpasning. Den udspringer af 
+Interregprojektet ÖReWise, og analysen er 
+gennemført i samarbejde med  de vigtigste 
+aktører indenfor klimatilpasning  omkring 
+Øresund, særligt kommuner og forsyninger, 
+som har ansvaret for at planlægge og 
+eksekvere de investeringer, der s kal sikre 
+vores byggede miljø mod oversvømmelser og 
+andre effekter af et forandret klima.  
+Alene i Greater Copenhagens område anslås, 
+på baggrund af forsyningernes egne tal  i det 
+danske område  og en national analyse i 
+Sverige, et investeringsbehov på omkring € 10 
+milliarder over de næste 30 år. Det kan i sidste 
+ende blive højere eller lavere , afhængigt af 
+mange forskellige faktorer. Men det er sikkert, 
+at der samlet set er tale om et meget stort 
+samfundsmæssigt investeringsbehov i forhold 
+til klimatilpasning – med risiko for et stort CO2-
+aftryk pga. af de store anlægsaktiviteter. 
+Analysen peger på en række tematiske 
+områder, hvor der er vilje og forudsætninger til 
+stede, og væsentlig værdi i, at opbygge 
+konkrete, tværgående samarbejder. 
+Analyse af det grønne vækstpotentiale 
+Det store investeringsbehov rejser i hvert fald 
+tre centrale problemstillinger, der skal 
+arbejdes videre med : Hvordan håndterer vi i 
+fællesskab en begrænset markedskapacitet; 
+hvordan får vi mest mulig samfundsmæssig 
+merværdi ud af de store investeringer gennem 
+helhedsorienterede løsninger; og hvordan kan 
+vi i praksis realisere potentialet for grøn vækst 
+og beskæftigelse gennem eksport af vores 
+løsninger? 
+De følgende temaer adresserer konkret disse 
+problemstillinger. Men samtidig kan der være 
+behov for en  samlet analyse af det 
+helhedsorienterede, grønne vækstpotentiale i 
+de store investeringer indenfor 
+klimatilpasning.   
+Arbejdet med alle byens elementer 
+Når vi ser på byens areal, er 20–25 % af arealet 
+tilgængeligt for offentlig klimatilpasning.  
+Resten er privat. Vi ved også, at prisen for at 
+håndtere vand og undgå oversvømmelser er 
+lavere, hvis det sker inden, det løber fra privat 
+grund ud på de offentlige veje og arealer og 
+ned i afløbssystemet. Samtidig skaber behovet 
+for byudvikling en hård konkurrence om , 
+hvordan arealerne skal anvendes. Derfor er en 
+vigtig vej frem at finde måder og tilgange til at 
+bruge alle byens elementer kreativt , samt  
+aktivere private investeringer og medejerskab. 
+Ydermere viser analysen , at der både i 
+Danmark og Sverige er behov for  at forholde 
+sig til , hvordan kvaliteten af vores 
+overfladevand bliver påvirket af fx  
+kombinationen af tæt by og ekstrem regn. 
+Living lab  for Klimatilpasning i Greater 
+Copenhagen  
+På begge sider af Øresund findes der 
+styrkepositioner og kapaciteter, som samlet 
+set skaber gode forudsætninger for et Greater 
+Copenhagen Living Lab for Klimatilpasning. 
+Der er samtidig fokus på, og interesse for, at 
+udnytte det potentiale, der kan være i et 
+systematisk samarbejde på flere områder.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7 / 32 
+ 
+Der bør derfor arbejdes videre med hvordan  
+disse styrker og kapaciteter kan  kobles 
+sammen i et systematisk living lab -
+samarbejde, samt hvordan et sådan t 
+samarbejde kan finansieres. 
+Brug og deling af data 
+Komplekse systemer som håndtering af 
+klimatilpasning kræver indsamling og brug af 
+mange data og dermed behov for 
+digitalisering. Der er generelt brug for 
+digitalisering og data til at planlægge, styre og 
+udnytte vores systemer og kapaciteter 
+effektivt. Og data skal samtidig bidrage til 
+udviklingen af nye løsninger. 
+Konkret tegner der sig i analysen tre 
+fokusområder indenfor digitalisering og 
+datasamarbejde. For det første en udvikling af 
+det allerede eksisterende s amarbejde om 
+radardata mellem Danmark og  Sverige, 
+herunder hvordan radardata kan bringe værdi 
+på andre områder og bidrage  til at løfte  grøn 
+vækst. For det andet at sikre udvikling af fælles 
+tilgange og løsninger til  monitorering og 
+styring af de potentielt mange  
+klimatilpasningsløsninger i byerne , herunder 
+samspillet mell em løsningerne i oplandet og 
+vores rensningsanlæg . For det tredje  
+implementering og opskalering af 
+sensorsystemer, som kan give os nye typer 
+værdifulde data – fx realtidsmåling af 
+badevandskvalitet. 
+Vi ser især et behov for  udvikling af de fælles 
+modeller og standarder for samarbejde og 
+drift, som er forudsætningen for at gode 
+tekniske løsninger kan implementeres og 
+opskaleres.  
+Planlægning for en usikker fremtid  
+Planlægning sker i dag med en lang 
+tidshorisont og op imod store usikkerheder, 
+men vi arbejder stadig ud fra dogmet om 
+’predict and adapt’. Det vil sige, at vi lægger os 
+fast på en bestemt  forudsigelse af fx  
+havvandsstigninger og tilpasser os derefter 
+med de midler, vi har til rådighed i dag , og 
+indenfor den tidshorisont vi kan overskue. 
+Men der er store usikkerheder, som den ne 
+tilgang ikke tager højde for. Både i forhold til 
+det enkelte risikoscenarier, men i særdeleshed 
+også når man ser på, hvordan risici på tværs 
+af områder kan spille sammen i scenarier, der 
+samlet set kan være meget komplekse.  
+Vi er derfor nødt til at udvikle en tilgang til 
+planlægning og udvikling af løsninger, der kan 
+håndtere en højere grad af kompleksitet  og 
+usikkerhed som en grundpræmis. 
+Model for  grænseregionalt/transnationalt 
+samarbejde 
+Greater Copenhagen vedtog i 2020 et Green 
+Charter, og som del af en konkret udmøntning 
+blev der i 2021 etableret et Memorandum of 
+Understanding (MoU) for Klimatilpasning. Det 
+skete på initiativ af  Sweden Water Research  
+(SWR) og Det Nationale Netværk for 
+Klimatilpasning (DNNK), sammen med Greater 
+Copenhagen. 
+Med afsæt i dette MoU for Klimatilpasning, og 
+partnerkredsen bag,  blev de tte forprojekt 
+efterfølgende etableret med støtte fra Interreg 
+ÖKS. 
+Der et stort potentiale i at kunne samarbejde 
+fagligt om fælles udfordringer på tværs af 
+landegrænser. I projektet har vi i praksis  
+afprøvet et transregionalt samarbejde , som 
+kan udfoldes i et selvstændig arbejdsspor om 
+udvikling af  en model for grænseregionalt 
+samarbejde, der kan placere  Greater 
+Copenhagen som et globalt forbillede. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8 / 32 
+ 
+SE Sammanfattning 
+ 
+Vatten känner som bekant inga gränser, och 
+inte heller gränsen mellan Danmark och 
+Sverige, som har många likheter och 
+gemensamma problem i denna del av 
+geografin. I synnerhet delar vi Öresund, som 
+samtidigt är en skyddad, värdefull havsmiljö 
+och recipient för vårt renade avloppsvatten 
+och stora delar av det regnvatten som kommer 
+att få en allt större påverkanseffekt under mer 
+extrema förhållanden i framtiden. 
+Denna vitbok presenterar en analys av 
+möjligheterna att samarbeta tillsammans över 
+Öresund i gemens amma frågor som rör 
+klimatanpassning och är baserad på 
+Interregprojektet Ö ReWise. Analysen har 
+genomförts i samarbete med de viktigaste 
+aktörerna inom klimatanpassning kring 
+Öresund, särskilt kommuner och va -
+huvudmän, som ansvarar för att planera och 
+driva på arbetet med investeringar som ska 
+säkra vår byggda miljö mot översvämningar 
+och andra effekter av ett förändrat klimat. 
+Baserat på va -bolagens egna siffror för 
+Danmark och en nationell analys i Sverige, 
+uppskattas ett investeringsbehov på cirka 10 
+miljarder euro under de kommande 30 åren 
+enbart inom Greater Copenhagen. Detta kan 
+så småningom bli högre eller lägre, beroende 
+på många olika faktorer. Men det är tydligt att 
+det överlag finns ett mycket stort 
+samhällsinvesteringsbehov när det gäller 
+klimatanpassning – med risk för ett stort CO 2-
+avtryck på grund av den stora 
+byggverksamheten.  
+Analysen pekar på ett antal tematiska 
+områden där det finns vilja och förutsättningar 
+och ett betydande värde i att bygga konkreta 
+tvärgående samarbeten. 
+Analys av den gröna tillväxtpotentialen 
+Det stora investeringsbehovet väcker 
+åtminstone tre nyckelfrågor som behöver 
+arbetas med: Hur hanterar vi gemensamt 
+begränsad marknadskapacitet; hur får vi ut det 
+mesta samhälleliga mervärdet av de stora 
+investeringarna; och hur kan vi i praktiken 
+realisera potentialen för grön tillväxt och 
+sysselsättning genom export av våra 
+lösningar? 
+Följande teman adresserar olika aspekter av 
+dessa frågor men det kan även  behövas en 
+övergripande sammanvägd analys av de n 
+gröna tillväxtpotentialen till följd av  de stora 
+investeringarna i klimatanpassning.  
+Arbete med alla delar av staden 
+När vi tittar på stadens yta är 20–25 procent av 
+ytan tillgänglig för offentlig klimatanpassning. 
+Resten är privat mark. Vi vet också a tt 
+kostnaden för att hantera regnvatten är lägre 
+om det kan tas om hand lokalt innan det rinner 
+ut på allmänna vägar och mark och in i 
+avloppssystemet. Samtidigt skapar behovet av 
+stadsutveckling hård konkurrens om hur 
+marken ska användas. Det är därför vi ktigt att 
+framgent att hitta ett sätt att använda alla delar 
+av staden kreativt och även aktivera privata 
+investeringar och samägande. 
+Analysen visar också att det också viktigt att 
+fokusera på kvaliteten på ytvattnet som når 
+recipienten till följd en kombination av en tät 
+stad och extrema regn. 
+Living lab för klimatanpassning i Greater 
+Copenhagen  
+På båda sidor om Öresund finns 
+styrkepositioner och enskilda unika exempel 
+som överlag skapar goda förutsättningar för ett 
+Greater Copenhagen Living Lab för 
+klimatanpassning. Samtidigt finns det en 
+gemensam ambition, och ett tydligt intresse 
+för, att utnyttja den potential som kan finnas i 
+ett systematiskt samarbete inom flera 
+områden.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9 / 32 
+ 
+Arbetet bör därför fortsätta med att realisera 
+hur dessa styrkor och förmågor kan 
+kompletteras och bindas samman i ett 
+systematiskt Living Lab samarbete och hur ett 
+sådant samarbete kan finansieras. 
+Användning och delning av data 
+Komplexa system som hanterar 
+klimatanpassning kräver insamling och 
+användning av data och därmed behovet  av 
+digitalisering uppenbart. Generellt behövs 
+digitalisering och data för att planera, hantera 
+och utnyttja våra system effektivt. Samtidigt 
+måste tillgången på data driva utvecklingen av 
+nya lösningar. 
+Specifikt beskriver analysen tre fokusområden 
+inom d igitalisering och datasamarbete, 
+nämligen utvecklingen av det redan befintliga 
+samarbetet kring radardata mellan Danmark 
+och Sverige, bland annat hur radardata kan ge 
+värde inom andra områden och bidra till att 
+öka den gröna tillväxten. För det andra, 
+säkerställa utvecklingen av gemensamma 
+tillvägagångssätt och lösningar för 
+övervakning och hantering av potentiellt 
+många klimatanpassningslösningar i städer, 
+inklusive samspelet mellan lösningarna i 
+avrinningsområdet och våra reningsverk och 
+slutligen impleme ntering och uppskalning av 
+sensorsystem, vilket kan ge oss nya typer av 
+värdefulla data - t.ex. realtidsmätning av 
+badvattenkvaliteten. Framför allt ser vi ett 
+behov av att utveckla gemensamma modeller 
+och standarder för samverkan och drift, vilket 
+är förutsättningen för att bra tekniska lösningar 
+ska kunna implementeras och skalas upp. 
+Planera för en osäker framtid 
+Vi planerar för en framtid som innehåller stora 
+osäkerheter, men arbetar fortfarande utifrån 
+dogmen "predict and adapt". Det innebär att vi 
+låser oss till en specifik framtida förutsägelse 
+rörarande till exempel havsnivåhöjning och 
+sedan anpassar vår infrastruktur med  de 
+medel vi har tillgängliga idag och inom den 
+tidshorisont vi kan hantera. Men det finns stora 
+osäkerheter som detta tillvägagån gssätt inte 
+tar hänsyn till. Både i förhållande till de 
+enskilda riskscenarierna, men i synnerhet 
+även när man tittar på hur risker över områden 
+kan spela ihop i scenarier som totalt sett kan 
+vara mycket komplexa. 
+Vi behöver därför utveckla ett förhållning ssätt 
+för att planera och utveckla lösningar som kan 
+hantera en högre grad av komplexitet och 
+osäkerhet som en grundpremiss. 
+Modell för gränsregionalt/transnationellt 
+samarbete 
+År 2020 antog Greater Copenhagen en Green 
+Charter och som ett konkret exempel p å 
+regionens gemensamma ambitioner 
+upprättades ett Memorandum of 
+Understanding för klimatanpassning 2021. 
+Sweden Water Research och det Nationale 
+Netværk for Klimatilpasning var tillsammans 
+med Greater Copenhagen initiativtagare till 
+detta.  
+Med utgångspunkt i detta MoU för 
+klimatanpassning, och partnerkretsen bakom, 
+etablerades sedan detta pilotprojekt med stöd 
+från Interreg ÖKS. 
+Det finns en stor potential i att kunna 
+samarbeta professionellt kring gemensamma 
+utmaningar över nationsgränser. I projektet 
+har vi i praktiken testat e tt transregionalt 
+samarbete, som kan utforskas i ett 
+självständigt arbetsspår för utvecklingen av en 
+modell för gränsregionalt samarbete, som kan 
+positionera Greater Copenhagen som en 
+global förebild. 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10 / 32 
+ 
+EN Summary 
+ 
+Water knows no b oundaries. Nor the  border 
+between Denmark and Sweden, who have 
+many similarities and common issues in this 
+part of the Scandinavian geography. In 
+particular, we share the Sound, which is both 
+a protected, valuable marine environment and 
+the terminus of our treated wastewater and 
+much of the rainwater we will have to handle 
+under more extreme conditions in the future. 
+This white paper presents an analysis of the 
+possibilities of working together on common 
+issues related to climate adaptation across the 
+Sound. It is an output of  the Interreg project 
+ÖReWise and based on an analysis carried out 
+in collaboration with the most important actors 
+in climate adaptatio n around the Sound, 
+especially the municipalities and utilities  
+responsible for planning and executing the 
+large investments that will safeguard our built 
+environment against flooding and other effects 
+of a changing climate.  
+For Greater Copenhagen  alone, estimated 
+investments in climate adaptation of app. € 10 
+Bn in total over the next 30 years is needed. It 
+may end be higher or lower, depending on 
+various factors, but a very large societal 
+investment is needed for sure – with the risk of 
+a significant carbon footprint due to the large 
+construction activities. 
+The analysis points to a number of thematic 
+areas where the will and pre conditions are 
+present for building concrete, cross -cutting 
+collaborations of potentially high value. 
+Analysis of the green growth potential 
+The large investment need raises at least two 
+key questions that need to be addressed: How 
+do we g ain the most added value from the 
+large investments through holistic solutions , 
+and how can we realize the potential for green 
+growth and employment through the export of 
+our solutions? 
+The following themes address these questions 
+from different perspectives. However, there is 
+also the need for a comprehensive analysis of 
+the holistic, green growth potential of the large 
+investments in climate adaptation. A topic that 
+has not yet been addressed independently. 
+Working with all the elements of the city 
+Looking at the city, merely 20–25% of its total 
+area is accessible for public climate adaptation 
+investments. The rest is private. We also know 
+that the cost of flood prevention is much lower 
+if we deal with the excess water before it runs 
+from private  land onto the public roads and 
+land and down into the drainage system. At the 
+same time, the need for urban development 
+creates fierce competition over how the land 
+should be used. Therefore, an important way 
+forward is to find ways and approaches to use 
+all the elements of the city cre atively, as well 
+as activate private investment and co -
+ownership. 
+Furthermore, the analysis shows that both 
+Denmark and Sweden need to consider how 
+the quality of our surface water is affected by, 
+for example, the combination of dense city and 
+extreme rain. 
+Living lab for climate adaptation in Greater 
+Copenhagen  
+On both sides of the Sound there are many 
+strengths and capabilities, which is good basis 
+for a living lab for climate adaptation. At the 
+same time, there is  great interest in exploring 
+the potential value of systematic collaboration 
+in several areas.  
+Therefore, it should be investigated further 
+how these strengths and capa bilities can be 
+linked together in a systematic living lab 
+collaboration, as well as how such a 
+collaboration can be funded. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11 / 32 
+ 
+Data usage and sharing 
+Complex systems that handle climate 
+adaptation require the gathering and use of a 
+lot of data and thus the need for digitization. In 
+general, digitization and data are needed to 
+plan, manage  and utilize our systems and 
+capacities efficiently. And data is a necessary 
+driver for the development of new solutions. 
+Specifically, the analysis outlines three focus 
+areas within digitization and data cooperation. 
+Firstly, the development of the already existing 
+radar data cooperation between Denmark and 
+Sweden, including how radar data can bring 
+value in other areas and contribute to boosting 
+green growth. Secondly, to ensure the 
+development of common approaches and 
+solutions for monitoring and managin g the 
+potentially many climate adaptation solutions 
+in cities, including the interaction between the 
+solutions in the catchment area and our 
+treatment plants . And finally, the 
+implementation and scaling up of sensor 
+systems, which can provide us with new types 
+of valuable data – e.g. real-time measurement 
+of bathing water quality. 
+In particular, we see a need for the develop -
+ment of common coorporation models and 
+operational standards, which are prerequisites 
+for the implementation and scaling  of good 
+technical solutions.  
+Planning for an uncertain future  
+Planning today works with long time horizon s 
+and up against great uncertainties, but we still 
+work with a 'predict and adapt' approach. This 
+implies that we base our planning effort on a 
+chosen prediction of, for example, sea level 
+rise and then adapt with the means we have 
+available today and within the time horizon we 
+can manage. 
+We need to find more robust solutions based 
+on multiple scenarios – where we then choose 
+the one that meets the mos t scenarios. We 
+therefore need to develop an ongoing 
+planning method ology for climate adaptation 
+that can manage multiple scenarios for climate 
+change, urban development and future needs 
+and costs. 
+A m odel for interregional/transnational 
+cooperation 
+In 2020 Greater Copenhagen adopted a Green 
+Charter, and furthermore a Memorandum of 
+Understanding for Climate Adaptation was 
+established in 2021. An initiative taken by 
+Sweden Water Research and The Danish 
+Climate Adaptat ion Network together with 
+Greater Copenhagen. 
+Based on the Memorandum of Understanding 
+and the partners behind it, this project was 
+subsequently established with funding from 
+Interreg OKS program. 
+The ability to collaborate professionally on 
+common challenges across borders  holds a 
+great potential, and w ith this project a model 
+for interregional cooperation  is tested in 
+practice. This  could be further explored and 
+developed into a model for cross-border 
+cooperation that can position Greater 
+Copenhagen as a global role model.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12 / 32 
+ 
+Danmark, Sverige og Øresund 
+Når vi taler om Danmark og Sverige er vi ofte 
+optagede af vores forskelligheder, men vi har 
+mindst lige så meget til fælles, som skaber et 
+stærkt udgangspunkt for samarbejde. Det 
+gælder også inden for klimatilpasning, især 
+når vi ser på vores unikke grænseregion 
+omkring og på tværs af Øresund. 
+Effekterne af klimaændringerne rammer 
+begge lande med højere vandstand i havene, 
+mere ekstremt vejr med mere nedbør og 
+perioder med tørke , som nærmere beskrevet 
+nedenfor. 
+Samtidig er klimatilpasning i både Danmark og 
+Sverige et forholdsvis nyt fagområde, som 
+først har været betragtet som e t selvstændigt 
+felt de seneste 12 -15 år.  
+Klimatilpasning er karakteriseret ved , at 
+mange fagområder skal løse det sammen. Det 
+er et ’wicked problem’1 som ikke blot kan løses 
+i én sektor . E ndelig skal vi bruge  så mange 
+penge på at sikre os mod skader fra 
+klimaændringerne, at det  i sig selv udgør en 
+selvstændig udfordring og risiko. 
+Under de senaste två decennierna er 
+utveckling av klimatanpassningsåtgärder skett 
+runt om i världen. Dessa initiativ syftar till att 
+påverka mänskligt beteende och 
+beslutsfattande (innovera ny teknik och 
+infrastruktur g enomföra förvaltning, styrning 
+och institutionell politik förbättra  människors 
+tillgång till resurser. Det finns dock ingen 
+enighet om vad som räknas som effektiv 
+anpassning i praktiken. En anledning är att 
+initiativ ofta föreslås och planeras men sällan 
+genomförs. Hinder som rutinmässigt 
+motverkar anpassningsinsatser inkluderar 
+otillräckliga resurser, oöverkomlig politik, 
+konkurrerande eller motstridiga prioriteringar 
+för åtgärder och osäkerhet om framtida 
+förändringar.  
+ 
+Udvikling i klimaet 
+FN’s klimapanel udgav i 2019 en 
+specialrapport, der sandsynliggør, at havet 
+globalt vil stige op til 60 cm i år 2100 selv hvis 
+udledningen af drivhusgasser bringes til ophør 
+som Paris aftalen forudsætter.  
+FN’s klimapanel har desuden fastslået, at der 
+nu er enighed blandt verdens eksperter i at 
+klimaændringerne som vi oplever i dag er 
+menneskeskabte. Kun ca. 3 % af den globale 
+opvarmning vi oplever i dag  kan tilskrives 
+naturlige variationer. 
+Hvis udledningerne fortsætter, forventes en 
+dobbelt så stor havstigning, 61 – 110 cm. På 
+længere sigt forudser forskningen ifølge FN -
+ 
+1 Et wicked problem er et socialt eller kulturelt problem, 
+der er vanskeligt eller umuligt at løse – normalt på 
+grund af dets komplekse og indbyrdes forbundne natur. 
+Wicked problems mangler klarhed i både deres mål og 
+løsninger og er underlagt begrænsninger i den virkelige 
+rapporten, at havet vil stige mellem 1 og 5 
+meter i år 2300. Disse tal ventes forhøjet i 
+IPCC’s nye hovedrapport, fordi nyere 
+forskning viser,  at isen smelter hurtigere i 
+Arktis og Antarktis end hidtil antaget. Dette er 
+selvfølgelig i sig selv bekymrende for to lande 
+med lange kyststrækninger – og dobbelt 
+bekymrende omkring Øresund. 
+Klimaændringernes indflydelse vil generelt 
+betyde mere ekstremt vejr. Set over året vil vi 
+få mere nedbør, men om sommeren vil det 
+generelt blive mere tørt. Det betyder dog ikke 
+at vi ikke vil få færre skybrud, da nedbøren vil 
+komme mere ujævnt fordelt.  Vi har allerede 
+verden, som hindrer risikofrie forsøg på at finde en 
+løsning. Kilde: What are Wicked Problems? | Interaction 
+Design Foundation (IxDF) (interaction-design.org). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13 / 32 
+ 
+mærket effekterne af skybrud i København i 
+2011 og i Malmø i 2014. 
+Vi vil opleve kraftigere storme og dermed 
+voldsommere oversvømmelser fra havet. Fra 
+nogle forskeres side peges på at udgifterne til 
+skader fra havvandet langt vil komme til at 
+overstige skader fra store mængder regn – og 
+igen er Øresundsområdet udsat, da der her er 
+samlet del s store værdier, dels vigtig 
+infrastruktur, såsom bro, lufthavn, metroer og 
+renseanlæg. 
+Temperaturen vil fortsætte med at stige. Især i 
+vintermånederne vil vi mærke en forskel, hvor 
+sne og frost ofte vil blive erstatte t af grå og 
+våde dage. Somre kan derfor have perioder 
+med hedebølger over længere tid , hvilket i 
+byer kan være med til at opbygge en 
+overophedning i forhold til i dag - også kaldet 
+Urban Heat Island effekt. 
+Områder, der i dag er tørre og varme, vil få 
+tilbagevendende problemer som hedebølger 
+og tørke.  
+Klimaændringerne vil også påvirke 
+biodiversiteten og mulighederne for at drive 
+land- og skovbrug. 
+ 
+Udviklingen i de samfundsmæssige risici 
+Der er store geografiske forskelle på det 
+bjergrige, vidstrakte Sverige og det lille, flade 
+Danmark, hvilket  også betyder forskellige 
+risikoscenarier afhængig af hvor, man befinder 
+sig.  
+Sverige uppvisar stora skillnader mellan norr 
+och söder. I Sverige har tio nationella 
+riskområden identifierats och rangordnats 
+utifrån en sammanvägning av sannolikheten 
+för och konsekvensen av att ras, skred, 
+erosion och översvämning som är  
+klimatrelaterade inträffar (SGI och MSB 2021, 
+Riskområden för ras, skred, erosion och 
+översvämning, Redovisning av 
+regeringsuppdrag enligt regeringsbeslut 
+M2019/0124/Kl, Statens geotekniska institut, 
+SGI, Linköping och Myndigheten för 
+samhällsskydd och beredskap, MSB, Karlstad, 
+se figur 1. (Reference 1) 
+Sammanfattande får vi säga att effekter av 
+översvämningar till följd av regn i urbana 
+områden eller kombinationseffekter av regn 
+och hav är inte beaktade i ovanstående 
+nationella riskbedömningar. 
+Grundet Danmarks størrelse er der ikke så 
+store forskelle som i Sverige.  Det følgende er 
+hentet fra Beredskabsstyrelsens ”Nationalt 
+risikobillede 2022” (Reference 2): 
+I gennemsnit ligger Danmark kun 31 meter 
+over havets overflade og har ca. 8.750 km 
+kyststrækning. Mange store danske byer er 
+placeret tæt ved kysterne, hvilket gør dem 
+potentielt udsatte fo r oversvømmelser fra 
+havet.  
+Danmark rammes næsten årligt af 
+oversvømmelser fra havet og stormfloder. I 
+perioden fra 2000 til 2020 indtraf der fx 20 
+hændelser, som havde en størrelse, der 
+klassificerede dem som stormfloder ifølge 
+Stormrådet.  
+Områderne langs fjordene i de indre danske 
+farvande er dog ofte dårligere beskyttet med 
+naturlige barrierer eller beskyttelse mod 
+højvande og dermed mere udsatte for 
+oversvømmelser. Fjordområder på Fyn og 
+Sjælland samt østvendte fjorde i Jylland har fx 
+flere gange være t udsat for stormflod med 
+store oversvømmelser til følge.  
+De seneste år har der dog været øget fokus på 
+at forebygge disse oversvømmelser, bl.a. på 
+baggrund af implementeringen af EU’s 
+oversvømmelsesdirektiv. Som led heri blev 
+der i 2018 udpeget 14 områder i Danmark med 
+særlig risiko for oversvømmelse fra hav og 
+vandløb. 12 af disse risikoområder ligger ved 
+kyster eller fjorde i de indre danske farvande, 
+og et risikoområde ligger i vadehavsområdet . 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14 / 32 
+ 
+Udpegningen berører samlet 27 kommuner.  
+Se figur 2.  
+Ur ett ekonomiskt perspektiv (Reference 3) har 
+den danska nationalbanken uppskattat att upp 
+till 13 procent av bolånen i Danmark kan 
+utsättas för en klimatrisk till följd av 
+översvämning under det kommande 
+århundradet. I Sverige  är motsvarande siffra 
+cirka 5 procent. I båda exemplen framhålls att 
+regionala skillnader, både geografi och 
+befolkningstäthet, påverkar klimatrisken för 
+fastighetsöversvämningar vid extrema  
+väderförhållanden. Södra Sverige och Själland 
+är Nordens mest befolkningstäta område och i 
+Sverige är t.ex. de skadebelopp för 
+naturskador till fastighetsägare som 
+sammantaget har betalats ut under de fem 
+senaste åren högs i Skåne Län som har varit 
+värst drabbat av översvämningar till följd av 
+särskilda skyfallshändelser och specifika år. 
+ 
+Analysen har vist, at geografien og truslerne 
+fra klimaændringer er ens på begge sider af 
+Øresund, hvilket kalder på samarbejde mellem 
+de to lande. 
+                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Kommuner og forsyninger skal foretage store investeringer 
+Analysen, der ligger til grund  for de nne 
+hvidbog, viser at kommuner og forsyninger i 
+Danmark og Sverige skal bruge minimum € 10 
+milliarder på klimatilpasning i området omkring 
+Øresund over de næste 30 år. 
+Dette enorme investeringsbehov giver i sig 
+selv nogle praktiske udfordringer i forhold til 
+udnyttelse af den begrænsede kapacitet i 
+markedet. H vor er alle de rådgivere, 
+planlæggere og entreprenører, som skal 
+udføre arbejdet? Hvordan får vi kommunikeret 
+og koordineret effektivt mellem de enkelte 
+byer og forsyningers indsatser? 
+Figur 1 Kartan visar de tio 
+identifierade nationella 
+riskområdena för ras, skred, 
+erosion och översvämning 
+rangordnade enligt fyra klasser. 
+Reference 1 
+ 
+Figur 2. Områder med 
+oversvømmelsesrisiko 2020. Reference 2 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15 / 32 
+ 
+Samtidig er der en forventning om, at det skal 
+ske hurtigt, så hvordan undgår vi suboptimale 
+løsninger, eller parallel udvikling af løsninger, 
+der i sidste ikke bliver så gode, som de kunne, 
+fordi der ikke er en fælles udviklingsindsats ? 
+Kan vi sammen finde mere eller mindre 
+standardiserede løsninger, som kan gøre det 
+muligt at nå mere for de samme midler?  
+Endelig skal vi være parate til at kommunikere 
+og understøtte dialog om denne massive 
+indsats, som let kan give anledning til 
+bekymring og utilfredshed. Anlægsarbejder 
+for eksempel kan skabe markante gener i 
+byrummet og trafikale forvikli nger i lange 
+perioder; indsatsen kan synes langsommelig 
+og ønskede resultater virke skuffende langt 
+ude i fremtiden.  Indsatsen kan også skabe 
+bekymring om den mulige midlertidige eller 
+permanente miljømæssige påvirkning af især 
+sårbare vandområder og recipienter. 
+ 
+Viktiga miljöhänsyn 
+Øresund danner grænse imellem vores to 
+lande. Og områderne omkring Øresund udgør 
+samtidig en stærk metropol med 4 ,4 mio. 
+indbyggere. 
+Sundet har historisk udviklet sig  til et hav- og 
+naturområde med meget at tilbyde 
+indbyggerne i for m af rekreative områder , 
+habitater og dyreliv. Der er en betydelig fysisk 
+variation i form af bundtyper, strømforhold og 
+dybdeforskelle, som i kombination med , at 
+trawlfiskeri har været forbudt i over 80 år, har 
+givet Øresunds natur nogle ganske gunstige 
+betingelser. 
+I Øresund fra Køge Bugt /Falsterbo-området i 
+syd til udmundingen mellem Gilleleje og Kullen 
+i nord, kan der genfindes 18 forskellige 
+habitattyper, mens tallet for hele Kattegat 
+ligger på 15. Kattegat er det indre farvand der 
+har næstflest habitattyper. Grunden til 
+Øresunds store antal habitattyper, skyldes 
+primært brakvandspåvirkningen fra syd og 
+den høje saltpåvirkning fra nord. 
+Sammen med andre markante naturhold i 
+form af strandengsvidder, ålegræsenge og 
+blåmuslingetæpper, må Ø resund betegnes 
+som et unikt havområde i Østersø -Kattegat-
+regionen (Reference 4). 
+I december 2021 beslut tede den d anske 
+regering at Øresund skal være marin 
+nationalpark. Af aftalen fremgår det, at 
+aftaleparterne er enige om at styrke naturen 
+og biodiversiteten på havet. I den forbindelse 
+vil de gøre viden om havmiljø mere 
+tilgængelig. Der er på nuværende tidspunkt 
+ingen afgrænsning af parken eller oplysninger 
+om de regler, der vil gælde på området. 
+Dessutom finns på den svenska sida n förslag 
+på nya skyddsområden i Öresund. 
+Länsstyrelsen Skåne fick 2020 uppdrag av 
+svenska regeringen om att utreda 
+förutsättningarna för ett marint områdesskydd 
+i Öresund. I uppdraget ingick att analysera 
+olika skyddsformer som på bästa sätt bidrar till 
+sammanhängande och funktionella nätverk av 
+skyddade områden. Generellt gäller skyddet i 
+dessa områden på ålgräsängar, saltkärr och 
+som häcknings - och odlingsområde för fisk 
+och skaldjur.
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16 / 32 
+ 
+      
+ 
+Kartan ovan visar vilka skydd som finns i 
+Öresund idag och projektets förslag till 
+framtida marina områdesskydd/marina 
+naturreservat ( röda rastrerade områden 
+numrerade 1-11) (Länsstyrelsen Skåne, 2022.  
+De skraverede ”Skyddade områder juridiskt” 
+langs den svenske kyst  kommer fra den 
+svenske adgang til at udpege beskyttede 
+områder i havet ud for de kommunale kyster . 
+Länsstyrelsen er myndighed, men de siger 
+sjældent nej til kommunale forslag. 
+Tilsammen dækker Natura 2000 -områderne i 
+dag næsten 33 % af Øresunds areal.
+ 
+Samarbete kring Öresund 
+Ordet Øresund kendes fra en runesten fra ca. 
+år 950: Urasu[n]ti, af subst antivet -ør(e), 
+‘gruset strandbred' og subst antivet sund. 
+(Reference 6). 
+Det geografiske område Øresund sregionen 
+afgrænses mod nord af linjen fra Gilleleje på 
+den danske side til Kulaberg i Höganäs i 
+Sverige. Mod syd af linjen fra Stevns klint i 
+Danmark til svenske Falsterbo, se figur 4. 
+Øresund har gennem hele historien været den 
+vigtigste forbindelsesvej mellem Nordsøen og 
+Østersøen. Med handel og et udstrakt 
+sildefiskeri i det meste af middelalderen 
+opstod her en række betydelige byer, 
+Helsingborg, København og siden Malmø og 
+Helsingør, der alle var beskyttet af borge.  
+Øresund er et internationalt stræde  og den 
+dansk-svenske aftale fra 1979 om 
+Figur 3. Fördjupad åtgärdsplan för framtida möjliga marina skydd i Öresund med anledning av 
+Regeringsuppdrag (Reference 5) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17 / 32 
+ 
+territorialfarvande betyder, at der umiddelbart 
+nord og syd for sundet er åbent hav. 2 
+Hydraulisk set er Øresund en af forbindelserne 
+mellem Østersøen og Kattegat. Da der tilføres 
+vand til Østersøen fra de lande der grænser op 
+hertil, er der en nettoudveksling af vand, som 
+betyder at der er en nordgående strøm ca. 60 
+% af tiden i Øresund. 
+Strømmen følger tidevandet , og i Øresund 
+mødes det mere salte vand fra nord med det 
+lettere ferske vand fra syd. 
+Der findes en tæ rskel mellem København og 
+Malmø (Drogden -Limhamn tærsklen) , der 
+begrænser gennemstrømningen , som den 
+også begrænses af den smalle passage 
+mellem Helsingør og Helsingborg. 
+ 
+Figur 4. Afgrænsning af Øresund 
+I nyere tid er der etableret forskellige 
+samarbejder om Øresund , bl.a. i form af 
+Øresundskommissionen og Øresunds -
+komiteen. 
+ 
+2 Ifølge den såkaldte Adgangsordning fra 1999 skal en 
+formation af mere end tre orlogsfartøjer under samme 
+flag ad diplomatisk vej anmelde gennemsejling,  
+Øresundskommissionen og Øresundsvand-
+samarbejdet 
+Øresundskommissionen blev nedsat efter en 
+svensk-dansk regeringsaftale af 1974. Aftalen 
+stiller bl.a. krav om, at der mindst skal 
+foretages biologisk rensning i kommunale 
+spildevandsrenseanlæg, og Kommissionens 
+opgave var at følge de indgåede forpligtelser 
+og samordne forsknings - og 
+overvågningsaktiviteten om Øresunds 
+vandkvalitet. Kommissionen blev nedlagt i 
+1992 og fulgt op af Øresundsvand -
+samarbejdet, som er en samarbejdsaftale 
+mellem de danske og svenske kommuner, der 
+omgiver Øresund, samt Länsstyrelsen  for 
+Skåne. Aftalen blev indgået i 1995, og 
+samarbejdet skal virke for et godt vandmiljø i 
+Øresund. Samarbejdet er således på regionalt 
+plan en fortsættelse af det dansk -svenske 
+samarbejde, som har eksisteret i over 50 år.  
+Öresundskomiteen 
+Öresundskomiteen var en tværpolitisk 
+organisation for samarbejde mellem politikere 
+fra Sjælland og Skåne. Öresu ndskomiteen, 
+der blev etableret i 1993, arbejdede bl.a. for at 
+fjerne grænsehindringer og for at styrke 
+udviklingen i Øresundsregionen. Blandt 
+Öresundskomiteens fokusområder var 
+infrastruktur, kultur og folkelig forankring.  
+Komiteen blev pr. 1. januar 2016 omdannet til 
+Greater Copenhagen & Skåne Committee. 
+Greater Copenhagen & Skåne Committee 
+Den politiske samarbejdsplatform Greater 
+Copenhagen & Skåne Committee  blev 
+etableret af kommuner og regioner i Skåne, 
+Hovedstaden og Sjælland. På tværs af 
+kommuner og regioner arbejdes for et 
+forpligtende og handlingsorienteret 
+samarbejde, der skal sætte gang i væksten og 
+skabe nye job til gavn for virksomheder og 
+borgere. 
+undervandsbåde skal sejle i overfladen, og alle 
+orlogsskibe skal føre orlogs- eller nationsflag.   Kilde: 
+Øresund | lex.dk – Den Store Danske  
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+18 / 32 
+ 
+Samarbejde om Øresundsbron 
+Både opførelsen af både Storebæltsbroen og 
+broen over Øresund gav anledning til store 
+bekymringer på miljøets vegne. De r blev 
+miljømæssigt stillet krav om en såkaldt 
+nulløsning, hvilket lykkedes at opnå for begge 
+de store byggeprojekter.  
+Miljømyndighederne var især bekymrede for, 
+at det store gravearbejde og tab af 
+bundmateriale kunne føre til permanente 
+skader på havbunden. Derfor blev der ved 
+Øresundsbron stillet krav om, at max. fem 
+procent af det opgravede bundmateriale måtte 
+spildes i havet. Miljøkravet virkede. Kravet om 
+højst fem procent spild blev overholdt, og 
+skaderne på havbunden blev små og 
+kortvarige. De t blev løbende overvåget og 
+dokumenteret gennem en monitorering af bl.a. 
+ålegræs og blåmu slinger. Det var e n løsning 
+og metode , der blev udviklet til formålet og 
+med succes eksporteret til andre dele af 
+verden. 
+Overvågningen viste at alle bestande, efter en 
+mindre tilbagegang , overalt var kommet sig 
+ved broens åbning. Også udviklingen i 
+fuglelivet blev fulgt. I anlægsperioden var der 
+en mindre tilbagegang i eksempelvis 
+bestanden af ynglende edderfugle på 
+Saltholm, som vendte tilbage  til normalen , 
+efter at Øresundsbron er færdigbygget 
+(Reference 7).
+ 
+Fra politiske visioner til fælles handling omkring Øresund 
+Med etableringen af Greater Copenhagen & 
+Skåne Committee i 2016 blev der sat fokus på 
+et samarbejde over Øresund med fokus på 
+vækstmuligheder og jobskabelse.  
+Med Greater Copenhagens vedtagelse af 
+Green Charter i 2020 blev der også fokus på 
+det tekniske område . C harteret er basis for 
+lokal handling på de globale udfordringer. Det 
+udstikker den fælles politiske retning og gør 
+det muligt for Greater Copenhagens 85 
+kommuner og 4 regioner i Sydsverige og 
+Østdanmark at varetage fælles interesser, 
+bidrage lokalt til den grønne omstilling og 
+udnytte de kommende års grø nne 
+milliardinvesteringer til at øge vækst og 
+jobskabelse. Green Charter har fire 
+temaområder, herunder et klimarobust 
+Greater Copenhagen. 
+Som en konkret udmøntning  heraf blev der i 
+2021 etableret et Memorandum of 
+Understanding (MoU) for Klimatilpasning, som 
+i 2021 blev underskrevet af i alt tolv aktører på 
+begge sider af Øresund , og yderligere tre 
+parter i løbet af det følgende år.  
+Sweden Water Research og Det Nationale 
+Netværk for Klimatilpasning var – sammen 
+med Greater Copenhagen - initiativtagerne til 
+dette. En styregruppe med repræsentanter for 
+medunderskriverne har siden etableringen 
+mødtes jævnligt for at understøtte arbejdet. 
+Med afsæt i  ambitionerne i dette 
+Memorandum of Understanding for 
+Klimatilpasning, og kredsen af partnerne bag, 
+blev der etableret et forprojekt drevet af 
+Sweden Water Research og Det Nationale 
+Netværk for Klimatilpasning  med støtte fra 
+Interreg ØKS. 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+19 / 32 
+ 
+Underlag för framtida samarbejdsområden 
+Vores analyse peger på et solidt fundament for 
+samarbejde på tværs af Øresund. 
+Fundamentet bygger blandt andet på, 
+• at Danmark og Sverige har et fælles 
+havområde, som både er recipient og 
+vigtigt økosystem  med rige økosystem-
+tjenester, herunder rekreative funktioner 
+• at udfordringerne inden for klimatilpasning 
+er stort set de samme i Danmark og 
+Sverige 
+• at k ommuner og forsyninger omkring 
+Øresund skal bruge store summer på dels 
+klimatilpasning, dels beskyttelse af 
+vandmiljøet 
+• at der er stærke forskningsmiljøer omkring 
+Øresund 
+• at der omkring Øresund ligger store 
+kommuner og forsyninger, som dels kan 
+understøtte samarbejdet, dels er 
+potentielle kunder med stor indkøbskraft 
+• at der allerede findes institutioner, der er 
+faglige ’fyrtårne’ på deres felt  med 
+kapaciteter, som man kan bygge videre på 
+• at der mangler, og efterlyses, en tradition 
+for systematisk deling af teknisk viden og 
+data på tværs af Øresund.  
+ 
+Denne analyse har ført til udpegning af nogle 
+konkrete udfordringer og p otentialer for 
+arbejdet omkring Øresund , som beskrives i 
+næste kapitel. 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20 / 32 
+ 
+De vigtigste fremtidige samarbejdsområder  
+Denne h vidbog præsenterer  ikke en 
+udtømmende og fuldstændig afdækning af alle 
+relevante emner, men er i stedet en afsøgning 
+af de mest oplagte muligheder for at etablere 
+konkrete samarbejder på tværs af Øresund i 
+dag.  
+De er fremkommet i en fælles analyse sammen 
+med interessenterne, og har sit udgangspunkt 
+i forsyninger ne og kommuner nes behov og 
+planlægningsperspektiver, fordi det er her 
+ansvaret for de store samfundsmæssige 
+investeringer ligger.  
+Dette fokus er helt naturligt  af praktisk 
+karakter, men undervejs har processen også 
+givet anledning til at belyse nogle tematikker af 
+mere ’filosofisk karakter’, som er taget med, 
+fordi de bidrager til at forstå det store billede, 
+når vi taler om den meget væsentlige, 
+samfundsmæssige udfordring , som  klima-
+tilpasningen er. 
+Blandt de vigtigste udfordringer og potentialer 
+er der identificeret følgende.
+ 
+Analyse af det grønne vækstpotentiale 
+Kommuner og forsyninger i Danmark og 
+Sverige skal bruge minimum € 10 milliarder på 
+klimatilpasning alene i området omkring 
+Øresund i løbet af  de næste 30 år.  Det kan i 
+sidste ende blive højere eller lavere, afhængigt 
+af mange forskellige faktorer. Men det er 
+sikkert, at der samlet set er tale om et meget 
+stort samfundsmæssigt investeringsbehov i 
+forhold til klimatilpasning. 
+Tallet er fremkommet ved at se på , hvad der 
+afsættes i Danmark, hvor kommunerne skal 
+udarbejde spildevandsplaner, hvilket giver et 
+godt grundlag for at prioritere og planlægge, 
+hvad forsyningerne skal budgettere med. 
+Der er indhentet tal fra forsyninger langs med 
+Øresund, med et befolkningstal på godt 1 ,2 
+mio. Hvis tallet sættes i forhold til det samlede 
+indbyggertal i Greater Copenhagens  danske 
+del, der er på 2 ,7 mio. indbyggere (Region 
+Hovedstaden og Sjælland) vil 
+investeringsbeløbet være DKK 59 milliarder – 
+eller € 8 mi lliarder – for de næste 30 år i 
+Greater Copenhagens danske del.  Tallene er 
+defineret som opdimensionering af det 
+eksisterende afløbssystem til fremtidens klima 
+i en periode på 30 år, så miljøkrav og 
+servicemål kan overholdes. 
+Beskyttelse mod havvand er en kommunal 
+opgave, og en opgave, som endnu ikke  er 
+planlagt i en grad,  så der kan foretages et 
+rimeligt estimat af de for ventede 
+omkostninger. Prisen for beskyttelse mod 
+havvand er derfor ikke en del af overslaget. 
+Sverige saknar motsvarande analys och härvid 
+konstaterar Nationella expertrådet för 
+klimatanpassning 2022 (Reference 8) att det i 
+dagsläget inte finns förutsättningar för att göra 
+en traditionell kostnads -/nyttoanalys av 
+klimatanpassningsåtgärder på nationell nivå 
+och att övergripande analyser av kostnader 
+och nytta med klimatanpassning behöver 
+göras där det är möjligt ge nom att beräkna 
+samhällsekonomisk lönsamhet med åtgärder 
+inom olika sektorsområden Analyser bör ta 
+hänsyn hur synergier och målkonflikter 
+påverkar kostnader och nyttor, samt även 
+hantera förluster som är svåra att sätta 
+kostnader på. Vidare behöver   
+uppföljningsbara indikatorer för att bedöma 
+såväl utveckling av risker som effekter av 
+åtgärder tas fram. 
+En översiktlig uppskattning för Sverige 
+presenterades 2016 inom ramen 
+Klimatanpassningsutredningens betänkande 
+(Reference 9). Arbetet har bestått av en 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+21 / 32 
+ 
+kartläggning av Sveriges kommuner, dels hur 
+deras risknivå ser ut kopplat till 
+klimatförändringar, dels  om de har gjort 
+kostnadsskattningar för klimatanpassnings -
+åtgärder (översvämning, ras och skred samt 
+erosion).  
+Den totala kostnaden för att genomföra 
+klimatanpassningsåtgärder i Sverige till följd 
+av ett förändrat klimat har skattats till SEK 137–
+205 miljarder. Den största kostnadsposten 
+utgörs av adoptionskostnader för 
+översvämningar, primärt för översvämningar 
+från havet och skyfall.  
+Åtgärder för att skydda mot 100-årshändelser 
+har varit referenspunkten för kostnads -
+beräkningarna. Kostnaden för 
+klimatanpassningsåtgärder är störst i 
+Svealand ( SEK 88–131 m iljarder) följt av 
+Götaland ( SEK 47–71 m iljarder) och minst i 
+Norrland (SEK 2–3 miljarder).  
+Götaland har 4,8 miljoner invånare och Region 
+Skåne och Halland har 1,74 miljoner invånare, 
+vilket motsvarar 36% eller utgifter på SEK 17–
+26 miljarder fram till 2100.  
+I Euro motsvarar det  € 1,5 – 2,3 miljarder  – 
+under en 80-årsperiod. Sammanfattande får vi 
+säga att effekter av översvämningar till följd av 
+regn i urbana områden eller kombinations -
+effekter av regn och hav är inte beaktade i 
+ovanstående. 
+Siffrorna är sannolikt underskattade, eftersom 
+det är 2016 års priser och erfarenheten visar 
+att priserna har ökat avsevärt och dessa siffror 
+är endast för allmännyttiga företag, dvs. för 
+anpassning till regnvatten. 
+Overordnet set rejser det store 
+investeringsbehov i hvert fald tre 
+problemstillinger, der skal arbejdes videre 
+med. D els hvordan vi får samarbejdet om  
+brugen af et fælles presset arbejdsmarked ; 
+dels hvordan de store investeringer kan bidrag 
+til løsning af andre samfundsmæssige 
+problemstillinger som fx sundhed, og 
+ensomhed; og endelig hvilket vækstpotentiale, 
+der ligger for den grønne vækst i form af 
+eksport af vores løsninger. 
+ 
+Arbejdet med alle byens elementer 
+Gennem analysen er det blevet klart, at 
+Danmark og Sverige deler udfordringer i 
+deres byer. 
+Byerne vokser, og det samme gør omfanget 
+af de befæstede arealer og presset på byens 
+funktioner og infrastruktur - udfordringerne 
+med at finde plads til vandet bliver derfor kun 
+større. 
+En vigtig vej frem er at bruge alle byens 
+elementer kreativt og aktivere private 
+investeringer og privat medejerskab til 
+klimatilpasning. Det er kun ca. 20-25 % af 
+byens areal, der er tilgængeligt til offentlig 
+klimatilpasning – resten er privatejet – og 
+byudvikling skaber samtidig hård 
+konkurrence om, hvordan arealerne skal 
+anvendes. Vi ved samtidig, at prisen for 
+håndtering af vand er langt lavere, hvis 
+vandet bliver håndteret inden, det løber ud på 
+de offentlige veje og arealer og ned i 
+afløbssystemet. 
+Det har også vist sig, at begge lande har 
+fokus på blå-grønne løsninger og hvordan 
+deres effekt kan kvantificeres og integreres i 
+modellering og planlægning af det samlede 
+afløbssystem. Og begge lande har fine 
+eksempler på hvordan man udruster byen til 
+at kunne holde på vandet som en svamp, 
+Sponge City-tænkningen, der kan suppleres 
+med en Sponge House-tænkning. Nogle af 
+elementerne er vist i nedenstående skitse, 
+som er et tværsnit i den tætte by, altså byer 
+hvor der ikke er udenomsarealer af betydning 
+til de enkelte huse.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+22 / 32 
+ 
+ 
+Figur 5. Byens elementer, der kan tilbageholde/forsinke regnvand  
+ 
+Figur 5 viser, at der er mange elementer i den 
+tætte by, der kan bidrage til at forsinke 
+regnvandet, og derved skabe bedre 
+betingelser for renseanlæggene, så overløb 
+herfra mindskes . Det handler dels om 
+løsninger hos private grundejer e, dels 
+løsninger i det offentlige rum. 
+Arbejdet har også vist, at begge lande har 
+fokus på forureningen af det overfladevand 
+der løber på byens overflader og hvordan, det 
+kan håndteres. 
+Der er brug for en systematisk sammenstilling 
+af de hydrauliske effekter af brugen af byens 
+elementer. Hvad koster de at anlægge og drive 
+og hvilket niveau beskytter de til ? Udover 
+denne viden om de  tekniske løsninger er der 
+tillige behov for at se dem i s ystemisk 
+sammenhæng og fastlægge de 
+organisatoriske og økonomiske rammer for 
+deres implementering og drift. 
+Endelig skal vi bruge alle byens elementer  
+med fokus på at levetidsforlænge den 
+eksisterende infrastruktur  og minimere 
+behovet for nye eller udvidede anlæg med 
+store CO2-aftryk.
+ 
+Living Lab for Klimatilpasning 
+Klimatilpasning er en kompleks udfordring, 
+som undertiden endda kan have karakter af at 
+være et såkaldt ’wicked problem’. Det vil sige 
+et problem, der er vanskeligt eller næsten 
+umuligt at løse på grund af ufuldstændige, 
+modstridende og skiftende krav. 
+En tilgang til at håndtere sådan en udfordring 
+handler om at understøtte og udvikle  fælles 
+problemforståelser, tilgange  og samarbejder 
+blandt eksisterende kapaciteter inden for en 
+afgrænset geografi, der er dækkende for de 
+problematikker, der skal håndteres . Det er 
+netop det, der ligger i tanken om et ’Living Lab’ 
+– et koordineret og geografisk afgrænset 
+samarbejde mellem selvstændige aktører, der 
+i fællesskab ønsker at løse et problem, der er 
+for komplekst og ressourcekrævende til at de 
+kan håndtere det hver især. 
+Et living lab samler og skaber sammenhæng i 
+indsatsen på tværs af de styrker og 
+kapaciteter, der findes inden for det samlede 
+problemfelt, som er living labets fokus. Det kan 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+23 / 32 
+ 
+være særlige institutioner, som fx tilbyder 
+demonstration og test af løsninger  eller 
+undervisning og formidling på et eksemplarisk 
+højt niveau. 
+Det kan også være demonstrationssteder, som 
+er eksemplariske fuldskala løsning er, hvis 
+opbygning og funktion formidles til besøgende 
+borgere og/eller professionelle, og som evt. 
+anvendes til test af ny teknologi og løbende 
+monitorering, der kan levere data til støtte for 
+dokumentation af deres effekt eller til  
+forsknings- og udviklingsaktiviteter. 
+I Greater Copenhagen, og særligt omkring 
+Øresund, findes allerede væsentlige faglige 
+kapaciteter, eller ’fyrtårne’ , og mange 
+potentielle demonstrationssteder som et living 
+lab-fællesskab indenfor klimatilpasning  kan 
+bygge på og videreudvikle.
+ 
+ 
+Figur 6 Eksempler på eksisterende living lab-aktiviteter inden for klimatilpasning på begge sider af Øresund. 
+ 
+Figur 6 illustrerer eksempler på eksisterende 
+kapaciteter på begge sider af Øresund, der  
+blandt andet understøtter udvikling af børn og 
+unges grønne kompetencer, hvilket – sammen 
+med uddannelse  af fremtidens grønne 
+medarbejdere bredt set  – er en af flere 
+væsentlige dimensioner , som  et living lab -
+samarbejde inden for klimatilpasning bør have 
+fokus på.  
+”Young people understand the need for 
+change. What they need  is also to know how 
+to do the change. Education should provide 
+them with methods and solutions that work, 
+and with the drive and hope to be innov ative 
+for the future.”  
+-Sophie Hæstorp Andersen 
+ 
+Andre væsentlige dimensioner , som et living 
+lab-fællesskab kan have fokus på, er deling af 
+data, governan ce, nye forretnings-modeller, 
+samskabelse, showcasing etc. 
+Afsnittet her præsenterer ikke en 
+udtømmende og fuldstændig afdækning af alle 
+relevante emner og problemstillinger, der kan 
+arbejdes med inden for rammerne af et living 
+lab-fælleskab, men præsenterer nogle  af de 
+mest oplagte muligheder for at etablere 
+konkrete samarbejder på tværs af Øresund i 
+dag.  
+De to næste emner er eksempler på emner – 
+gående fra noget relativt praktisk til noget 
+mere systemteoretisk – der er fremkommet i 
+analysen. De er medtaget her for at vise 
+spændvidden i de typer af emner, der skal 
+kunne håndteres i et living lab.
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+24 / 32 
+ 
+Brug og deling af data  
+Aktørerne i det komplekse arbejde med 
+klimatilpasning har udtrykt behov for at kunne 
+dele og samarbejde om data, der giver fælles 
+billeder af de udfordringer, vi står overfor i 
+vores fælles grænseregion. Det er fx radar -
+baserede data til varsling, monitering og 
+håndtering af ekstrem nedbør.  
+Konkret tegner der sig tre spor, som 
+digitalisering oplagt kan understøtte i forhold til 
+klimatilpasningsindsatsen: 
+• Radardata 
+• Monitorering af løsninger i den tætte by  
+• Koblingen til og mellem sensorer, som 
+kan levere relevant data online 
+ 
+Men det er vigtig t at holde sig for øje, at 
+værdiskabelsen ikke i sig selv ligger i sensorer, 
+overførselsteknologi eller datahåndtering/ -
+analyse, men i det, som data anvendes til, som 
+illustreret i figur 7. 
+ 
+ 
+ 
+ 
+Figur 7. Digitalisering – det er øverst i trekanten, der skabes værdi 
+ 
+ 
+ 
+Planering för en osäker framtid 
+Klimatanpassningsplanering, innebär att vi 
+måste planera för faktiska eller förväntade 
+förändringar i klimatet och dess effekter och 
+även hantera osäkerhet. Planering har sin 
+grund i osäkerhet och detta är alltså något som 
+planerare regelbundet hanterar. De typer och 
+komplexitet av osäkerhet som är förknippade 
+med klimatförändringar kräver dock att  
+planerare omprövar sina tillvägagångssätt. 
+Scenarioplanering, adaptiv hantering, 
+övervakning och inkrementella och robusta 
+strategier är bara några av de verkt yg som 
+behövs för att hantera klimatanpassning. 
+Dessutom behöver planerare hjälp med att 
+presentera klimatförändringarnas problem på 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+25 / 32 
+ 
+ett sätt som minimerar de politiska 
+dimensionerna som omger klimatdebatten, 
+och hantera en potentiellt oändlig 
+diskussionen om osäkerhet genom tillämpning 
+av osäkerhetsreducerande tekniker och 
+övergå till en iterativ problemlösningsprocess 
+som stödjer  praktisk handling och förmåga till 
+klimatanpassning. 
+Vi behöver med detta synsätt  utveckla en 
+planeringsmetodik för löpande 
+klimatanpassning som inkluderar olika 
+scenarior för klimat, stadens utbyggnad och 
+möjliga konsekvenser/skadekostnader därav. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 8. Planering för en osäker framtid 
+ 
+ 
+ 
+ 
+ 
+Model for grænseregionalt/transnationalt samarbejde 
+Det er vigtigt at kunne samarbejde om fælles 
+udfordringer på tværs af regionale såvel som 
+nationale grænser, særligt i et geografisk 
+område, som deler et vandopland eller et 
+sårbart vandområde som Øresund.  
+Erfaringerne fra arbejdet med at skabe 
+grundlaget for , og siden gennemføre denne 
+analyse, tegner konturerne af en 
+generaliserbar model for et grænseregionalt 
+samarbejde. Projektet er udsprunget af en 
+samarbejdsmodel, hvor s amarbejdet 
+udbygges gennem tre konceptuelle værktøjer. 
+Olika scenarier  
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+26 / 32 
+ 
+De tre konceptuelle værktøjer er: 
+• et Green Charter som giver basis for lokal 
+handling på de globale udfordringer ved at 
+udstikke den fælles politiske retning for 
+området 
+• en konkret udmøntning i et Memorandum 
+of Understanding, som binder væsentlige 
+aktører tættere sammen i en 
+konkretisering af, hvad man vil samarbejde 
+om 
+• med afsæt i ambitionerne i  et 
+Memorandum of Understanding , og 
+aktørkredsen bag, etableres konkrete 
+samarbejdsprojekter, som skaber synergi 
+mellem aktørernes eksisterende eller 
+planlagte aktiviteter og udvikling af deres 
+strategier og løsninger 
+ 
+ 
+ 
+Figur 9. Konceptuelle værktøjer i et grænseregionalt samarbejde  
+ 
+ 
+ 
+En sådan model vil der potentielt også være 
+interesse for i resten af verden, hvor der 
+mange steder er brug for at kunne samarbejde 
+på tværs af et vandopland eller en fælles 
+recipient. 
+Ved at udvikle, beskrive og afprøve  
+erfaringerne i andre grænseregionale 
+samarbejder er der et potentiale for at udvikle 
+en model, som kan positionere Greater 
+Copenhagen som et globalt forbillede for 
+tværgående vandsamarbejde og deraf 
+følgende grønne vækstmuligheder. 
+Nedenfor er modellen, og hermed arbejdet i 
+dette projekt , sat i forhold til de fem trin for 
+grænseregional merværdi , som anvendes af 
+Interreg ÖKS.
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+27 / 32 
+ 
+ 
+Figur 10. De 5 trin i samarbejde med grænseregional merværdi fra Interreg ÖKS 
+ 
+Etableringen af et Green Charter bragte 
+parterne sammen – svarende til trin 1 – med 
+fokus på at bidrage til charteret – trin 2, (dette 
+arbejde strakte sig fra juni 2019 til januar 
+2020). 
+Der blev herefter inddraget flere aktører 
+gennem etablering af et Memorandum of 
+Understanding, som havde tolv interessenter 
+til en start og nu (medio 2022) er oppe på 
+femten, i et forløb fra foråret 2020 til årsskiftet 
+2020/2021. Se figur 11. Dette svarer til trin 3.  
+Sideløbende hermed arbejde de partnere 
+sammen om at etablere det første  
+(for)projektsamarbejde i foråret 2021, som er 
+dette brobygningsprojekt (trin 4). 
+Sidste skridt i processen er samlingen af en 
+egentlig projektkoalition blandt partnerne i Me-
+morandum of Understanding, der kan realisere 
+fælles og skalerbare løsninger (trin 5).
+  
+ 
+Figur 11. Partnerne i Memorandum of Understanding for Klimatilpasning. 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+28 / 32 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Efterskrift 
+For at komplettere samarbejdsmodellen, er 
+der brug for en mekanisme, der kan 
+understøtte effektivt samarbejde, koordinering 
+og kommunikation mellem de forskellige 
+aktører og faglige fyrtårne , som beskrevet  i 
+afsnit 2.3 
+Vi skal brug e samarbejdet til at få det til 
+fungere sammen på tværs af Øresund – i et 
+fælles living lab for klimatilpasning, der 
+understøtter alle de forskellige typer faglige 
+samarbejder omkring de komplekse 
+problemstillinger.
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+29 / 32 
+ 
+Co-creation som arbejdsmetode 
+Dette er vores metodeafsnit, hvor vi kort 
+redegør for, hvordan vi har gennemført 
+analysen og samtidig advokerer for vores 
+metode som en god tilgang til at samskabe en 
+fælles analyse på tværs af mange 
+interessenter i et komplekst problemfelt. 
+Analysen i denne hvidbog er en koncentreret 
+fremstilling af resultatet af en længere proces, 
+hvis formål har været at samle viden blandt de 
+centrale aktører om de vigtigste udfordringer 
+og potentialer, som kan sikre udviklingen af et 
+målrettet hovedprojekt, med potentielle 
+emner, der kan danne grundlag for et 
+grænseregionalt samarbejde. 
+Hvidbogen retter sig derfor mod 
+interesserede, der vil bruge det som afsæt til 
+opbygning af større (projekt)samarbejder om 
+løsning af komplekse klimat ilpasnings-
+problemer i og omkring Øresund. Endelig 
+retter det sig mod en bredere skare af 
+interesserede i klimatilpasning med et 
+perspektiv på Øresund. 
+Udgangspunktet for analysen er den fælles 
+forståelse på tværs af alle Greater 
+Copenhagens kommuner og re gioner, som  i 
+første omgang er etableret med Green Charter 
+og siden hen yderligere konkretiseret med et 
+Memorandum of Understanding  (MoU). 
+MoU’et samler den del af aktørkredsen  bag 
+Green Charter, som er særligt interesseret i at 
+opbygge, samarbejder på tværs, der kan løfte 
+den fælles indsats for at skabe et klima robust 
+Greater Copenhagen.  
+Selve frembringelsen af a nalysen er derfor 
+også en integreret del af, og næstsidste skridt, 
+i en arbejdsproces, hvis endemål er at etablere 
+de konkrete samarbejder, som omsætter de 
+fælles, politiske målsætninger til konkret e og 
+værdiskabende handlinger. 
+Samlet set tegner det en metodisk tilgang , 
+hvor man hele tiden retter fokus mod det, man 
+kan blive enige om og i et tempo , hvor alle er 
+med.  
+Fokus bevæger sig fra overordnede politiske 
+ambitioner (Green Charter) , der kan samles 
+opbakning til over en mere forpligtende  
+aktørkreds i et Memorandum of 
+Understanding – til etablering og gennem -
+førsel af konkrete samarbejdsprojekter. 
+Det er en dialogbaseret og iterativ 
+procesmetode, initieret af en samarbejdsvillig 
+aktørkreds, der støt og roligt arbejder med 
+udvikling af et  grænseregionalt/transnationalt 
+samarbejde, og selv har brugt metoden , 
+samtidig med, at den blev udviklet. 
+Undervejs i denne proces er hvidbogen, og 
+dens beskrivelse af både resultater og metode, 
+blevet kvalificeret gennem drøftelser på  
+konferencer, workshops og dialogmøder med 
+deltagere fra begge sider af sundet , der 
+inkluderer beslutningstagere, specialister og 
+eksperter blandt  kommuner, forsyninger, 
+vidensinstitutioner og virksomheder. 
+Samtidig har vi undervejs i processen søgt 
+indblik i – og haft dialog med – andre 
+eksisterende eller kommende projekter med 
+tilgrænsende fokus. 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+30 / 32 
+ 
+Tak 
+Der skal fra forfatterne lyde en stor tak til de mange, der har deltaget i denne proces og bidraget 
+værdifuldt til den fælles analyse. 
+ 
+Henrik Aspegren, Sweden Water Research 
+Frank Brodersen og Søren Kasper Heinecke, Det Nationale Netværk for Klimatilpasning 
+Jens Prisum, PRISUM Water and Environment 
+ 
+ 
+ 
+Referencer 
+1. SGI och MSB 2021, Riskområden för ras, skred, erosion och översvämning, Redovisning av 
+regeringsuppdrag enligt regeringsbeslut M2019/0124/Kl, Statens geotekniska institut, SGI, 
+Linköping och Myndigheten för samhällsskydd och beredskap, MSB, Karlstad 
+2. Beredskabsstyrelsen Nationalt risikobillede 2022 ISBN: 978-87-94293-01-3  
+3. Danielsson, M. 2020. Havsnivåhöjning till följd av global uppvärmning innebär ökade risker 
+för bostäder. Sveriges Riksbank Ekonomiska kommentarer nr 10. 
+4. Rambøll for Miljø – og Fødevareudvalget ” RAPPORT ØRESUNDS NATURVÆRDIER OG 
+RÅSTOFRESSOURCER”, 2018 
+5. Länsstyrelsen Skåne, 2022. Rapportering Regeringsuppdrag om att utreda 
+förutsättningarna för ett marint områdesskydd i Öresund (M2020/01182/Nm), . Dnr 500-
+28722-2020  
+6. Øresund, lex.dk Den store danske encyklopædi  
+7. Broer fra kyst til kyst, Miljøstyrelsen (mst.dk)Publikationer/2000/87-7909-574-7/ 
+8. Nationella expertrådet för klimatanpassning, 2022 . Första rapporten från Nationella 
+expertrådet för klimatanpassning, Stockholm den 9 februari 2022  
+9. Klimatanpassningsutredningen SOU 2017:42, 2017. Vem har ansvaret? Betänkande av 
+Klimatanpassningsutredningen, Stockholm 2017 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+31 / 32 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+32 / 32

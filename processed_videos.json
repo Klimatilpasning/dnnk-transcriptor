@@ -9,7 +9,12 @@
     "status": "done"
   },
   "1XD2LhdhZKo": {
-    "status": "done"
+    "status": "done",
+    "category": "Godmorgen_med_DNNK",
+    "note": "mangler i korpus trods tidligere status - genåbnet 2026-09-23",
+    "kilde": "youtube-subs",
+    "order_id": null,
+    "last_attempt": "2026-09-23T10:10:58"
   },
   "25a7BNv7clQ": {
     "status": "done"
@@ -162,10 +167,17 @@
     "status": "done"
   },
   "YEJyvfjXpZA": {
-    "status": "done"
+    "status": "pending",
+    "category": "Godmorgen_med_DNNK",
+    "note": "mangler i korpus trods tidligere status - genåbnet 2026-09-23"
   },
   "YFVZ3gg4sOI": {
-    "status": "done"
+    "status": "done",
+    "category": "Godmorgen_med_DNNK",
+    "note": "mangler i korpus trods tidligere status - genåbnet 2026-09-23",
+    "kilde": "youtube-subs",
+    "order_id": null,
+    "last_attempt": "2026-09-23T10:10:41"
   },
   "YQLbuKfPvzQ": {
     "status": "done"
@@ -174,7 +186,9 @@
     "status": "done"
   },
   "agCuRbhxX3k": {
-    "status": "done"
+    "status": "pending",
+    "category": "Godmorgen_med_DNNK",
+    "note": "mangler i korpus trods tidligere status - genåbnet 2026-09-23"
   },
   "aiF8z9PY8yc": {
     "status": "done"
@@ -189,7 +203,9 @@
     "status": "done"
   },
   "cQC0R4IQyOg": {
-    "status": "done"
+    "status": "pending",
+    "category": "Godmorgen_med_DNNK",
+    "note": "mangler i korpus trods tidligere status - genåbnet 2026-09-23"
   },
   "c_hJluY22do": {
     "status": "done"
@@ -204,7 +220,9 @@
     "status": "done"
   },
   "eC5v7aZJifY": {
-    "status": "done"
+    "status": "pending",
+    "category": "Godmorgen_med_DNNK",
+    "note": "mangler i korpus trods tidligere status - genåbnet 2026-09-23"
   },
   "eXe4PJT_hzo": {
     "status": "done"
@@ -249,7 +267,9 @@
     "status": "done"
   },
   "mvx1dZTtyX8": {
-    "status": "done"
+    "status": "pending",
+    "category": "Godmorgen_med_DNNK",
+    "note": "mangler i korpus trods tidligere status - genåbnet 2026-09-23"
   },
   "nZ0y68QWSrU": {
     "status": "done"
@@ -294,7 +314,9 @@
     "status": "done"
   },
   "rRMkpYpnkWk": {
-    "status": "done"
+    "status": "pending",
+    "category": "Godmorgen_med_DNNK",
+    "note": "mangler i korpus trods tidligere status - genåbnet 2026-09-23"
   },
   "rkUAgSODzwE": {
     "status": "done"
@@ -318,13 +340,20 @@
     "status": "done"
   },
   "tFT2VjSIC3c": {
-    "status": "done"
+    "status": "pending",
+    "category": "Godmorgen_med_DNNK",
+    "note": "mangler i korpus trods tidligere status - genåbnet 2026-09-23"
   },
   "wiA38PWQBGs": {
     "status": "done"
   },
   "wwwgM_3ONqw": {
-    "status": "done"
+    "status": "done",
+    "category": "Godmorgen_med_DNNK",
+    "note": "mangler i korpus trods tidligere status - genåbnet 2026-09-23",
+    "kilde": "youtube-subs",
+    "order_id": null,
+    "last_attempt": "2026-09-23T10:10:49"
   },
   "xEaF5OU65aM": {
     "status": "done"
@@ -778,7 +807,7 @@
     "order_id": null,
     "category": "Arrangementer",
     "attempts": 0,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription",
+    "note": "dublet af Optagelse_af_Pitch_7_WaterWebTools.mp3.txt - fil slettet 2026-09-23",
     "kilde": "whisper-small"
   },
   "zQ7nBjYq6Mk": {
@@ -787,7 +816,7 @@
     "order_id": null,
     "category": "Arrangementer",
     "attempts": 0,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription",
+    "note": "dublet af Optagelse_af_Pitch_6_DRYP.mp3.txt - fil slettet 2026-09-23",
     "kilde": "whisper-small"
   },
   "twkCUP0a5ug": {
@@ -810,7 +839,7 @@
     "order_id": null,
     "category": "Arrangementer",
     "attempts": 0,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription",
+    "note": "dublet af Optagelse_af_Pitch_4_GeopartnerInspections.mp3.txt - fil slettet 2026-09-23",
     "kilde": "whisper-small"
   },
   "KG8mkJJZivE": {
@@ -826,7 +855,7 @@
     "order_id": null,
     "category": "Arrangementer",
     "attempts": 0,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription",
+    "note": "dublet af V.I.P.__RobSub.mp3.txt - fil slettet 2026-09-23",
     "kilde": "whisper-small"
   },
   "RIUuChMy1hs": {
@@ -835,7 +864,7 @@
     "order_id": null,
     "category": "Arrangementer",
     "attempts": 0,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription",
+    "note": "dublet af V.I.P.__WaterZerv.mp3.txt - fil slettet 2026-09-23",
     "kilde": "whisper-small"
   },
   "DaKuQ9hKYF0": {
@@ -852,7 +881,8 @@
     "last_attempt": "2026-08-06T17:12:57",
     "order_id": null,
     "category": "Arrangementer",
-    "kilde": "youtube-subs"
+    "kilde": "youtube-subs",
+    "note": "dublet af V.I.P._AquaGreen.mp3.txt - fil slettet 2026-09-23"
   },
   "mWG_TwwiPkw": {
     "status": "done",
@@ -860,7 +890,7 @@
     "order_id": null,
     "category": "Arrangementer",
     "attempts": 0,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription",
+    "note": "dublet af Optagelse_af_Pitch_3_Remoni.mp3.txt - fil slettet 2026-09-23",
     "kilde": "whisper-small"
   },
   "TYAN6ZpLxEQ": {
@@ -869,7 +899,7 @@
     "order_id": null,
     "category": "Arrangementer",
     "attempts": 0,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription",
+    "note": "dublet af V.I.P.__NCC.mp3.txt - fil slettet 2026-09-23",
     "kilde": "whisper-small"
   },
   "e5n-rkdCyLI": {
@@ -886,7 +916,8 @@
     "last_attempt": "2026-08-06T17:13:09",
     "order_id": null,
     "category": "Oevrige",
-    "kilde": "youtube-subs"
+    "kilde": "youtube-subs",
+    "note": "dublet af Ny_viden_fra_Arkitektskolen_Aarhus__Landskabsarkitekter_i_fr.mp3.txt - fil slettet 2026-09-23"
   },
   "-IZEwCGIcME": {
     "status": "done",
@@ -900,7 +931,8 @@
     "last_attempt": "2026-08-06T17:13:15",
     "order_id": null,
     "category": "Oevrige",
-    "kilde": "youtube-subs"
+    "kilde": "youtube-subs",
+    "note": "dublet af DTU_Graduates.txt - fil slettet 2026-09-23"
   },
   "fr-a1sFdHBE": {
     "status": "done",
@@ -937,19 +969,22 @@
     "status": "done",
     "last_attempt": "2026-08-26T06:28:06",
     "order_id": null,
-    "kilde": "youtube-subs"
+    "kilde": "youtube-subs",
+    "note": "dublet af Terr_nn_rt_grundvand.mp3.txt - fil slettet 2026-09-23"
   },
   "NAtpQXRymvY": {
     "status": "done",
     "last_attempt": "2026-08-26T06:28:09",
     "order_id": null,
-    "kilde": "youtube-subs"
+    "kilde": "youtube-subs",
+    "note": "dublet af Workshop_om_oversv_mmelser__skader_og__konomi__opl_g_4.mp3.txt - fil slettet 2026-09-23"
   },
   "Td70paA1PkE": {
     "status": "done",
     "last_attempt": "2026-08-26T06:28:11",
     "order_id": null,
-    "kilde": "youtube-subs"
+    "kilde": "youtube-subs",
+    "note": "dublet af Gr_nsel_s_adf_rd_og_gr_nsel_se_potentialer.mp3.txt - fil slettet 2026-09-23"
   },
   "eqIRZXAQplk": {
     "status": "done",
@@ -961,7 +996,7 @@
     "status": "done",
     "last_attempt": "2026-08-26T15:14:04",
     "attempts": 0,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription",
+    "note": "dublet af Rockflow_04_opl_g.mp3.txt - fil slettet 2026-09-23",
     "order_id": null,
     "kilde": "whisper-small"
   },
@@ -969,7 +1004,7 @@
     "status": "done",
     "last_attempt": "2026-08-26T15:50:19",
     "attempts": 0,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription",
+    "note": "dublet af Rockflow_03_opl_g.mp3.txt - fil slettet 2026-09-23",
     "order_id": null,
     "kilde": "whisper-small"
   },
@@ -977,25 +1012,29 @@
     "status": "done",
     "last_attempt": "2026-08-26T06:28:32",
     "order_id": null,
-    "kilde": "youtube-subs"
+    "kilde": "youtube-subs",
+    "note": "dublet af Workshop_om_oversv_mmelser__skader_og__konomi__opl_g_1.mp3.txt - fil slettet 2026-09-23"
   },
   "xDdOgmmFbYA": {
     "status": "done",
     "last_attempt": "2026-08-26T06:28:38",
     "order_id": null,
-    "kilde": "youtube-subs"
+    "kilde": "youtube-subs",
+    "note": "dublet af Climate_Adaptation_Summit_2024_-_Blaz_Kurnik.mp3.txt - fil slettet 2026-09-23"
   },
   "_RMVkoF0fAM": {
     "status": "done",
     "last_attempt": "2026-08-26T06:28:41",
     "order_id": null,
-    "kilde": "youtube-subs"
+    "kilde": "youtube-subs",
+    "note": "dublet af Temadag_om_kystn_re_risici__lovgivning_og_social_s_rbarhed.mp3.txt - fil slettet 2026-09-23"
   },
   "rt_8ZVkLhms": {
     "status": "done",
     "last_attempt": "2026-08-26T06:28:44",
     "order_id": null,
-    "kilde": "youtube-subs"
+    "kilde": "youtube-subs",
+    "note": "dublet af Vejen_til_en_klimarobust_bl_-gr_n_planl_gning.mp3.txt - fil slettet 2026-09-23"
   },
   "ZB7K39iiVOs": {
     "status": "done",
@@ -1019,19 +1058,22 @@
     "status": "done",
     "last_attempt": "2026-08-26T06:29:06",
     "order_id": null,
-    "kilde": "youtube-subs"
+    "kilde": "youtube-subs",
+    "note": "dublet af Fremtidens_forsikringsmarked_og_deling_af_skybrudsdata_v._St.mp3.txt - fil slettet 2026-09-23"
   },
   "_AqcZEgrSo0": {
     "status": "done",
     "last_attempt": "2026-08-26T06:29:14",
     "order_id": null,
-    "kilde": "youtube-subs"
+    "kilde": "youtube-subs",
+    "note": "dublet af Workshop_om_oversv_mmelser__skader_og__konomi__opl_g_3.mp3.txt - fil slettet 2026-09-23"
   },
   "v_LR-r_EaEM": {
     "status": "done",
     "last_attempt": "2026-08-26T06:29:17",
     "order_id": null,
-    "kilde": "youtube-subs"
+    "kilde": "youtube-subs",
+    "note": "dublet af Gr_nne_v_gge___en_overset_klimatilpasningsl_sning_i_DK_.mp3.txt - fil slettet 2026-09-23"
   },
   "iEfRoyJ9-Cs": {
     "status": "done",
@@ -1043,13 +1085,14 @@
     "status": "done",
     "last_attempt": "2026-08-26T06:29:22",
     "order_id": null,
-    "kilde": "youtube-subs"
+    "kilde": "youtube-subs",
+    "note": "dublet af Hvad_skal_der_til_for_at_lykkes__Succesfulde_forandringsproc.mp3.txt - fil slettet 2026-09-23"
   },
   "g2fNV0LyDxQ": {
     "status": "done",
     "last_attempt": "2026-08-26T16:05:24",
     "attempts": 0,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription",
+    "note": "dublet af Rockflow_05_opl_g.mp3.txt - fil slettet 2026-09-23",
     "order_id": null,
     "kilde": "whisper-small"
   },
@@ -1057,19 +1100,22 @@
     "status": "done",
     "last_attempt": "2026-08-26T06:29:29",
     "order_id": null,
-    "kilde": "youtube-subs"
+    "kilde": "youtube-subs",
+    "note": "dublet af N_r_vand_l_ber_opad___Tryksat_LAR__bner_for_en_ny_kategori_a.mp3.txt - fil slettet 2026-09-23"
   },
   "chdOFCcLuMs": {
     "status": "done",
     "last_attempt": "2026-08-26T06:29:38",
     "order_id": null,
-    "kilde": "youtube-subs"
+    "kilde": "youtube-subs",
+    "note": "dublet af Workshop_om_oversv_mmelser__skader_og__konomi__opl_g_2.mp3.txt - fil slettet 2026-09-23"
   },
   "sDTrEDA8a4w": {
     "status": "done",
     "last_attempt": "2026-08-26T06:29:40",
     "order_id": null,
-    "kilde": "youtube-subs"
+    "kilde": "youtube-subs",
+    "note": "dublet af P_lidelighed_af_stormflodsberegninger_v._Per_S_rensen_fra_Ky.mp3.txt - fil slettet 2026-09-23"
   },
   "kd6EJ3cIjtk": {
     "status": "done",
@@ -1081,13 +1127,15 @@
     "status": "done",
     "last_attempt": "2026-08-26T06:29:51",
     "order_id": null,
-    "kilde": "youtube-subs"
+    "kilde": "youtube-subs",
+    "note": "dublet af Langsom_Hydrologi___et_alternativ_til_klassisk_vandparkering.mp3.txt - fil slettet 2026-09-23"
   },
   "ykv9nRrgu8s": {
     "status": "done",
     "last_attempt": "2026-08-26T06:29:59",
     "order_id": null,
-    "kilde": "youtube-subs"
+    "kilde": "youtube-subs",
+    "note": "dublet af Workshop_om_oversv_mmelser__skader_og__konomi__opl_g_6.mp3.txt - fil slettet 2026-09-23"
   },
   "EA1HAzpsXB4": {
     "status": "done",
@@ -1105,7 +1153,8 @@
     "status": "done",
     "last_attempt": "2026-08-26T06:30:07",
     "order_id": null,
-    "kilde": "youtube-subs"
+    "kilde": "youtube-subs",
+    "note": "dublet af Keynote_fra_DNNK_s__rsm_de_2025.mp3.txt - fil slettet 2026-09-23"
   },
   "wQChNkUzVGA": {
     "status": "done",
@@ -1117,7 +1166,7 @@
     "status": "done",
     "last_attempt": "2026-08-26T16:26:40",
     "attempts": 0,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription",
+    "note": "dublet af Rockflow_02_opl_g.mp3.txt - fil slettet 2026-09-23",
     "order_id": null,
     "kilde": "whisper-small"
   },
@@ -1125,7 +1174,8 @@
     "status": "done",
     "last_attempt": "2026-08-26T06:30:17",
     "order_id": null,
-    "kilde": "youtube-subs"
+    "kilde": "youtube-subs",
+    "note": "dublet af Havets_stemme___vandets_repr_sentation_i_risikostyringsplane.mp3.txt - fil slettet 2026-09-23"
   },
   "lChWhMS4SMQ": {
     "status": "done",
@@ -1143,7 +1193,7 @@
     "status": "done",
     "last_attempt": "2026-08-26T16:36:42",
     "attempts": 0,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription",
+    "note": "dublet af Rockflow_01_opl_g.mp3.txt - fil slettet 2026-09-23",
     "order_id": null,
     "kilde": "whisper-small"
   },
@@ -1151,13 +1201,15 @@
     "status": "done",
     "last_attempt": "2026-08-26T06:30:30",
     "order_id": null,
-    "kilde": "youtube-subs"
+    "kilde": "youtube-subs",
+    "note": "dublet af M_d_de_nye_elever_i_LAR-klassen__Regndiget__Regnbakken_og_de.mp3.txt - fil slettet 2026-09-23"
   },
   "k4B06Zx_4Ek": {
     "status": "done",
     "last_attempt": "2026-08-26T06:30:39",
     "order_id": null,
-    "kilde": "youtube-subs"
+    "kilde": "youtube-subs",
+    "note": "dublet af Risikovurdering_for_erhvervsejendomme_v._Frederik_Brauer__SW.mp3.txt - fil slettet 2026-09-23"
   },
   "elScwJQmftw": {
     "status": "done",
@@ -1169,7 +1221,8 @@
     "status": "done",
     "last_attempt": "2026-08-26T06:30:49",
     "order_id": null,
-    "kilde": "youtube-subs"
+    "kilde": "youtube-subs",
+    "note": "dublet af Eksisterende_oversv_mmelsesdata_for_ejendomme_v._Peter_Riisa.mp3.txt - fil slettet 2026-09-23"
   },
   "WblCkHvBaeg": {
     "status": "done",
@@ -1187,19 +1240,22 @@
     "status": "done",
     "last_attempt": "2026-08-26T06:31:03",
     "order_id": null,
-    "kilde": "youtube-subs"
+    "kilde": "youtube-subs",
+    "note": "dublet af Udfordringer_med_overl_b.mp3.txt - fil slettet 2026-09-23"
   },
   "YV7kyRcXJnk": {
     "status": "done",
     "last_attempt": "2026-08-26T06:31:06",
     "order_id": null,
-    "kilde": "youtube-subs"
+    "kilde": "youtube-subs",
+    "note": "dublet af Workshop_om_oversv_mmelser__skader_og__konomi__opl_g_7.mp3.txt - fil slettet 2026-09-23"
   },
   "cVflXmGwchI": {
     "status": "done",
     "last_attempt": "2026-08-26T06:31:14",
     "order_id": null,
-    "kilde": "youtube-subs"
+    "kilde": "youtube-subs",
+    "note": "dublet af P_lidelighed_af_grundvands-_og_vandl_bsberegninger_v._Raphae.mp3.txt - fil slettet 2026-09-23"
   },
   "Fy_kfUxaYXk": {
     "status": "done",
@@ -1211,7 +1267,8 @@
     "status": "done",
     "last_attempt": "2026-08-26T06:31:20",
     "order_id": null,
-    "kilde": "youtube-subs"
+    "kilde": "youtube-subs",
+    "note": "dublet af Styring_og_regulering_af_klimatilpasningsprojekter.mp3.txt - fil slettet 2026-09-23"
   },
   "07WqY0l2Gj8": {
     "status": "done",
@@ -1229,7 +1286,8 @@
     "status": "done",
     "last_attempt": "2026-08-26T06:32:19",
     "order_id": null,
-    "kilde": "youtube-subs"
+    "kilde": "youtube-subs",
+    "note": "dublet af Temadag_-_nye_metoder_til_akt_rkortl_gning_og_v_rdiskabende_.txt - fil slettet 2026-09-23"
   },
   "Be8WiDJYFsg": {
     "status": "done",
@@ -1275,7 +1333,7 @@
     "status": "done",
     "last_attempt": "2026-08-26T18:11:11",
     "attempts": 0,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription",
+    "note": "dublet af Bidragsmodeller_v.txt - fil slettet 2026-09-23",
     "order_id": null,
     "kilde": "whisper-small"
   },
@@ -1348,41 +1406,49 @@
     "last_attempt": "2026-08-26T06:37:48",
     "order_id": null,
     "kilde": "youtube-subs",
-    "category": "Konferencer"
+    "category": "Konferencer",
+    "note": "dublet af Climate_Adaptation_Summit_2024_-_Rasmus_Lauridsen.mp3.txt - fil slettet 2026-09-23"
   },
   "UBAR1IG7kQ4": {
     "status": "done",
     "last_attempt": "2026-08-26T06:38:35",
     "order_id": null,
     "kilde": "youtube-subs",
-    "category": "Konferencer"
+    "category": "Konferencer",
+    "note": "dublet af Climate_Adaptation_Summit_2024_-_Staffan_Moberg.mp3.txt - fil slettet 2026-09-23"
   },
   "ZxCzLZpJmrw": {
     "status": "done",
     "last_attempt": "2026-08-26T06:39:23",
     "order_id": null,
     "kilde": "youtube-subs",
-    "category": "Konferencer"
+    "category": "Konferencer",
+    "note": "dublet af Climate_Adaptation_Summit_2024_-_Lykke_Leonardsen.mp3.txt - fil slettet 2026-09-23"
   },
   "qIyqX6OD96Y": {
     "status": "done",
     "last_attempt": "2026-08-26T06:40:11",
     "order_id": null,
     "kilde": "youtube-subs",
-    "category": "Konferencer"
+    "category": "Konferencer",
+    "note": "dublet af Climate_Adaptation_Summit_2024_-_Alan_Cohn.mp3.txt - fil slettet 2026-09-23"
   },
   "FDhI9jFfQ4A": {
     "status": "done",
     "last_attempt": "2026-08-26T06:56:46",
     "order_id": null,
     "kilde": "youtube-subs",
-    "category": "Konferencer"
+    "category": "Konferencer",
+    "note": "dublet af Climate_Adaptation_Summit_2024_-_Karina_Barquet.mp3.txt - fil slettet 2026-09-23"
   },
   "N9jDYwakMaE": {
-    "status": "failed",
-    "last_attempt": "2026-09-01T13:54:46",
+    "status": "done",
+    "last_attempt": "2026-09-23T10:10:38",
     "attempts": 2,
-    "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+    "note": "mangler i korpus trods tidligere status - genåbnet 2026-09-23",
+    "category": "Godmorgen_med_DNNK",
+    "kilde": "youtube-subs",
+    "order_id": null
   },
   "wEl5KwXTgmQ": {
     "status": "done",
@@ -1400,25 +1466,29 @@
     "status": "done",
     "kilde": "youtube-subs",
     "order_id": null,
-    "last_attempt": "2026-09-11T10:36:42"
+    "last_attempt": "2026-09-11T10:36:42",
+    "note": "dublet af Climate_Adaptation_Summit_2024_-_Jennifer_Cherrier.mp3.txt - fil slettet 2026-09-23"
   },
   "0TMF_z4f6Cc": {
     "status": "done",
     "kilde": "youtube-subs",
     "order_id": null,
-    "last_attempt": "2026-09-11T10:36:57"
+    "last_attempt": "2026-09-11T10:36:57",
+    "note": "dublet af Climate_Adaptation_Summit_2024_-_Mike_Lippert.mp3.txt - fil slettet 2026-09-23"
   },
   "YVr1uH0XIAI": {
     "status": "done",
     "kilde": "youtube-subs",
     "order_id": null,
-    "last_attempt": "2026-09-11T10:37:15"
+    "last_attempt": "2026-09-11T10:37:15",
+    "note": "dublet af Climate_Adaptation_Summit_2024_-_Ulf_Thysell.mp3.txt - fil slettet 2026-09-23"
   },
   "CaCmwUL1syU": {
     "status": "done",
     "kilde": "youtube-subs",
     "order_id": null,
-    "last_attempt": "2026-09-14T14:50:29"
+    "last_attempt": "2026-09-14T14:50:29",
+    "note": "dublet af Climate_Adaptation_Summit_2024_-_Bertel_Ifversen.mp3.txt - fil slettet 2026-09-23"
   },
   "MCmHDnIc490": {
     "status": "done",
@@ -1431,5 +1501,10 @@
     "kilde": "youtube-subs",
     "order_id": null,
     "last_attempt": "2026-09-14T14:50:44"
+  },
+  "GhA-Ga8cMfw": {
+    "status": "pending",
+    "category": "Godmorgen_med_DNNK",
+    "note": "mangler i korpus trods tidligere status - genåbnet 2026-09-23"
   }
 }

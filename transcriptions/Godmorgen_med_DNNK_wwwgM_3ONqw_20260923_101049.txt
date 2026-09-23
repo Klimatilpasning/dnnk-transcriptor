@@ -1,0 +1,344 @@
+=== DNNK Webinar Transskription ===
+Kategori: Godmorgen_med_DNNK
+Video ID: wwwgM_3ONqw
+URL: https://youtube.com/watch?v=wwwgM_3ONqw
+Kilde: YouTube auto-undertekster (dansk)
+Transskriberet: 2026-09-23T10:10:49.896436
+
+==================================================
+
+00:00:00
+Godt. Godmorgen og velkommen til Godmorgen med DNNK Kolding A fra Opland til Fjord. Jeg hedder Cornelius Pals, og jeg vil være vært den næste times tid. Webinaret det starter jo nu her, og så slutter det det her omkring 9:30, og vi optager udsendelsen og deler optagelse
+
+00:00:30
+og eventuelt materiale bagefter. Stil meget gerne spørgsmål løbende i chatten, og så vil jeg samle op efter oplægget. Og i dag der skal vi zoome ind på Kolding Kommunes klimatilpasningsprojekt i oplandet til Kolding A. Og så projektet det skaber både plads til vand og beskytter byen mod højvande. Planen den opfatter en pumpe sluseanlæg ved udlå udløbet i Koldingfjord og oplandsløsninger der kan parkere cirka
+
+00:01:00
+2,3 millioner kubikmeter vand. dagens oplægsholder øhm han vil folde mere ud og det har vi fået miljøtekniker i Kolding Kommune Steen Bøgild Fransen til og Sten han vil give os et indblik i baggrunden de tekniske valg og samspillet mellem opland og Kyst egentlig bare give ordet videre til dig Sten og sige tusind tak fordi at du er med og scenen det er din. &gt;&gt; Jamen mange tak for det og tak for
+
+00:01:30
+invitationen til at holde det her indlæg i dag. Øhm ja, lige kort om mig selv. Jeg sidder som ø som vandløbsmedarbejder i Kolding Kommune og har gjort det i en i en længere årrække og og de senere år er jeg så også kommet til at arbejde ind i det her oplandsprojekt, som jo handler om klimatilpasning og ø og hvad skal man sige, mine aktier i det, det er jo sådan den den vandløbsmæssige del af sagen. Ø kender selvfølgelig også til mange af de andre
+
+00:02:00
+elementer i ø i hele projektet. Man kunne også formulere mit mit min præsentation til det her spørgsmål, nemlig hvordan tilbageholder man 2,3 millioner kubikmeter vand i en ådal for at forhindre oversvømmelse i en by? Fordi det er jo det der er vores udfordring, nemlig Kolding by ligger som den ligger. Øhm og øh bare lige for at sætte Kolding kommune på landkortet. Sådan en mellemstor kommune. Vi er i omegn 90.000 indbyggere. Og så har vi jo
+
+00:02:30
+Kolding by liggende dernede i bunden af af Koldingal helt ud mod fjorden. Øh, vores største vandsystem er øh Koldingå vandsystemet, som er ø 280 kvadratkilometer stort, og det er afvander faktisk en meget stor del af af Kolding Kommune. Her kan vi se de vandløb, der indgår. Øh, fra nord har vi det største tilløb, Vester Næbelå, som faktisk starter helt oppe i Vejle kommune.
+
+00:03:00
+Så har vi mod vest åkæå, og mod syd har vi den, der hedder Cest Mølleå. Og så har vi så hovedløbet, som løber øh ned igennem byen og og giver os jo en hel del udfordringer. Øh en 20 års hændelse, som jo nogle gange kommer med tre års mellemrum, synes vi jo øhm oplever vi, at der kommer i omegnen af af 20, måske 25 kubikmeter vand i sekundet. Så så det er ret store
+
+00:03:30
+vandmængder. Øh, og når vi har de der situationer, så ø så oplever vi jo oversvømmen til flere forskellige steder. Det her det er Ådalen lige lige vest for byen. Øh, er faktisk stadigvæk lidt by. Øh, og øh, og der og der ser vi at åen den går jo fra at være 10 meter bred til at være måske 200 meter bred. Øh, oversvømmer øh veje og så videre. Øh, så er vi kommet helt ind til byen. Her har vi et af vores helt store
+
+00:04:00
+hovedfærselser ovre Vester Ring øh Vester Ringgade. Øh, vi har åt løbende herovre imellem træerne, og øh, når det her vejkryds derovsvømmer, så er så så bryder stort set alt trafik sammen i hele Kolding by. Så så øh øh så kan det se sådan her ud. Øh, bare lige lidt stemningsbilleder. ø ned igennem byen. Øh men vi er jo også presset af havvandet ude fra fra fjorden
+
+00:04:30
+øh fra Lillebælt øh og øh senest ja nu er det jo faktisk lige præcis to år siden der i efterårsferien for to år siden, at vi havde den store stormflode som pressede vandet ind ø i den sydlige del af Lillebælt og så endte det jo så oppe faktisk i Koldingfjord. Øh, en vandstandslokker her, der står helt tæt. Ø, den står i åen, men den har hydraulisk kontakt med
+
+00:05:00
+med med med vandspejlet ude i fjorden. Og øh og I kan se de her svingninger. Det er jo sådan almindelige sidevandssvingninger. Og så er der måske kommet lidt regn og noget som har Men så kom jo så altså den helt store øh den helt store stormflod øh på grund af den her meget kraftige østenvind, som jo så pressede vandet ind ø faktisk langt ind i Koldingå. Ø og vi havde vi havde meget store oversvømmelser. Dels nede på havneområdet.
+
+00:05:30
+Øh, det her det er et billede der er taget ud på eftermiddagen, og det kulminerede jo ud omkring øh omkring midnat et totiden om natten, og der var vandstanden i forhold til det her i hvert fald en halv meter højere. Øh, også et af vores meget trafikerede ø områder. Øh, så så hele byen var jo fuldstændig lukket ned, kan man sige. Og udover det, så var der jo enormt store skader på bygninger og og alt muligt andet.
+
+00:06:00
+Ø, lige udenfor der hvor vi sidder ø vores miljøafdeling var der adskillige øh hjemmeplejebiler, der blev oversvømmet. Øh vores forsyningsselskab Trefor havde cirka 200 strømskabe, der blev oversvømmet med ø og det er så faktisk saltvand, der er kommet ind. Så så det var det var noget af en opgave i sig selv at at skaffe strømmen tilbage. Øh men hvordan kan vi så løse det? Øhm
+
+00:06:30
+vi vi er jo heldige med at vi har noget terræn som som gør at vi faktisk kan parkere noget vand. Ø, vi har nogle ø, vi har nogle snævre ådale og øh, og øh, og og det har vi så faktisk tænkt os at og anvende til at lave noget vandparkering. Og vi har udvalgt øh jo i stærkt samarbejde med vores rådgivere er der jo lavet en masse hydrauliske beregninger og og modeller og alt muligt andet øh i forhold til at at udpege nogle steder, hvor man øh med aktive
+
+00:07:00
+dæmninger faktisk kan tilbageholde noget vand. Øh, dels den det er den første vi så hernede, det er jo Kolding Ådal, lige lige vest for Motorvej E5. Så har vi nogle søer. Øh, og så har vi op mod nord et område, som hedder Bøllingbæk, hvor vi også har en meget fin åal, som vi øh, som vi kan oversvømme mere end den er øh hvad skal man sige, af sig selv.
+
+00:07:30
+Øh, det kan se sådan her ud. Og ø og vi kan faktisk parkere øh helt op til 2,3 millioner kubikmeter vand. Og det er faktisk også det, der er nødvendigt. Øh, ø de der småparkeringer, det det batter simpelthen ikke noget, hvis hvis det er noget, der skal kunne holde også ind i en fremtid. Øh, og den fremtid vi arbejder med, og det er det vi har lovet os selv og måske også vores politikere og omgivelserne, det er at at det her det er noget der skal holde til en 100 års hændelse øh i
+
+00:08:00
+de næstkommende 50 år. Længere tør vi simpelthen ikke garantere, og der er heller ikke rigtig nogen der ved, hvordan det ser ud om 50 år. Øh, så så så det er lidt med det lange lys, vi arbejder. Øhm, og så kan I så se over til højre de forskellige bassiner vi ø vi sætter i i funktion øh inklusiv pumpesluseanlægget hernede. Og så har vi jo så også det lille opmagasineringsanlæg
+
+00:08:30
+ved Hylkedalen, som jeg kommer til at slutte af med at vise, fordi det er nemlig lavet. Øhm, men ellers så består det jo af noget vandtilbageholdelse, og så er der pumpe med sluseanlægget helt nede ved ved fjorden, og så er der nogle tiltag igennem ø byen, hvor vi forhøjer nogle kanter. Øh, hele herligheden koster godt og vel 300 millioner. Øh, det er i hvert fald det, som vi er budgetterer med i øjeblikket.
+
+00:09:00
+Det det det er skrevet lidt undervejs, blandt andet fordi pumpesluanlægget blev meget dyrere på grund af af beton og stål steg lige pludselig meget. Øhm. Øh men lad os bringe ud til ø her. Her kan vi se øverst Kolding by, og så har vi jo så Kolding Å løbende i ø sådan meget markeret Ådal. Øhm og øh sådan her ser det ud sådan nærmest hver eneste
+
+00:09:30
+vinter. øh store oversvømmelser derude øh i nogle arealer som som faktisk i forvejen er udelagt til at være et vådeområde. Øh så så det er faktisk velegnet til at lave noget mere oversvømmelse. Og vi smækker simpelthen dæmning på tværs ø med noget sluseporte og noget i, så vi så vi kan styre vandmasserne. Og det er jo ikke meningen, vi skal parkere vandet sådan over længere tid. Det skal faktisk ud i havet så hurtigt som muligt. Så det er også derfor, vi kalder det korttidsparkering.
+
+00:10:00
+Jeg kommer til at vende tilbage til hyppighederne og også varighederne på på de her moversvømmelser. Øh, sådan her kommer det til at se ud, og vi lukker sluserne ned ovenfra, og vi lukker jo ikke sluserne helt i. Fordi så vil vi jo tørlægge vandløbet. Øh, og også som jeg sagde før, vi skal have så meget vand ud i havet som overhovedet muligt. Øh, men men ikke mere end at det ikke oversvømmer derude eller der dernede i byen. Øh, her kan man se, hvordan ø vi
+
+00:10:30
+har vandspejlet i åen her, og så har vi sluseporten, som kan køre op og ned. Øh, men der er der vil altid være en vandføring på på måske en 8 10 kubikmeter i sekundet ø eller måske mere. Så så så det man man skal mere opfatte det som en form for vandbremse øh vi vi etablerer øh samme sted hvor man så bare kigger i opstrømsretning altså i i vandet kommer ude fra ådalen og så og så svømmer det
+
+00:11:00
+jo så over her øh hvis man tager et snit i åen, så så placerer vi så placerer vi dæmningen her. Det er den grønne. Og så har vi åen løbende hen som den mørke streg. Og og den røde linje her, det er så faktisk det tværsnit, vi har på tværs af ådalen. Og I kan godt se, det er meget, meget markant Ådal med meget stejle skråninger. Øh, så har jeg markeret hernede i bunden sommervandspejlet nede i selve vandløbet, så har vi en toårshændelse, og det er jo
+
+00:11:30
+typisk i vinterperioden ø, at ø at atalen den oversvømmer. Øh, for vi en 10års hendelse, jamen så så kan der så kan der lægge sig måske en halv eller tre kvartmeter mere vand på. Øh, og og det man så faktisk kan se med de her lyserøde slud lyseblå ø markeringer, det er faktisk de arealer, som bliver oversvømmet ekstra. De er ikke oversvømmet i dag, men i det
+
+00:12:00
+øjeblik vi lukker slusen hernede, så vil de lyseblå arealer faktisk blive oversvømmet. Og det er det, vi kalder mere påvirkningszonen. Øh, det kan man så se her øh med med det lyse lyseblå vandspejl. Det er så det som som øh som fylder op på ottealskanten. Ø, så det det er relativ lille ekstra udbredelse. Til gengæld så stiger vandstanden jo her i i den vandmasse, der står ialen. Og det har vi jo selvfølgelig også været inde og kigge på. Hvad hvad betyder det for naturen?
+
+00:12:30
+Det det vender jeg tilbage til. Så har vi har donssøerne som som øh som ø som har nogle store søflader, som vi også ved at køre lidt op og ned med vandspejlet faktisk kan generere øh nogle ret store volumener. Vi kommer til at sætte en en sluse her imellem Nørresø, som vi har nederst i billedet, og så har vi Søndersø. Øh, og så kan man øverst i billedet faktisk se Kolding by dernede. Man kan også lige ane øh
+
+00:13:00
+Koldingfjord øh her øverst i baggrunden. Så det sidste magasin vi vi har opererer med, det er så oppe i det der hedder Bøllingbæk. Og det ligger faktisk helt oppe på kanten af Vejle Kommune. Så her vi er i tæt dialog med Vejle Kommune om ø det der skal laves herude. Øh og Åedalen ser i dag sådan her ud. Øh, det billede jeg lavede for nogle år siden, hvor vi havde nogle ret heftige ø
+
+00:13:30
+nedbørssituationer i i vinterperioden. Ellers så er vandløbet jo et lille bitte vandløb, måske to tre meter bredt. Øh, men en meget fin åal som ø og og det er faktisk i øvrigt også et ø et vådområde, som som er sådan set er designet til at skal være vådt. Nu gør vi det så bare mere vådt. Øh, og det gør vi ved hjælp af en dæmning. ø hernede ved øh øh ved den her vejdæmning. Vi havde troet, vi
+
+00:14:00
+kunne bruge vejdæmningen, men men øh men øh vi besluttede os faktisk for at bygge så det fremskudt øh og ø og så med sluse sluseanlæg i, sådan at vi på samme måde kan styre vandmængderne øh og og og også tilbageholde den mængde vand, der nu er nødvendigt. øh en animation set fra den anden side af. Og endelig så har vi jo så pumpesluanlægget allernederst i
+
+00:14:30
+systemet, som jo er ø beregnet til at skal holde havvandet ude. Øh, havde vi haft den for to år siden, så havde vi måske sparet øh ja, slag på tasken i hvert fald 50 måske 100 millioner kroner havde vi sparet ødelæggelser i i Kolding Midtby. Øh, så så ø der er ingen tvivl om, det er en god investering øh i at at sikre byen på den her måde. Øh,
+
+00:15:00
+det fungerer på den måde, at øh at for det første er det her område, det er ved at blive lukket til, sådan at alt vandet løber igennem ø igennem de her to sluseporte. Og øh så kommer vandet løbende fra åen. Øh når der så er højevande, så kan vi lukke sluserne. Øh og og de skal vel og mærket lukkes helt i. Øh, så bliver vandet tvunget ind i ø i ind i pumpestationen, øh, hvor vi jo så har ø de her fire
+
+00:15:30
+store snækkepumpe eller arkimed skruer, ø, som kan løfte vandet øh ud på den anden side af af slusebortene og og så kan det så løbe videre ud i fjorden. Og de er monteret de her kæmpestore skruer, de er 3,5 meter i diameter, omkring 10 meter lange. Og så vidt jeg husker, så vejer de 17 tons stykket. kæmpe kæmpe store skruer som øh som kan
+
+00:16:00
+løfte vandet de her halvanden to meter ø op, sådan at vi kan få det ud på den anden side af sluseportene. Øh skruerne er valgt øh fordi de er her kan I se der mangler kun lige at blive monteret den sidste skrue. Øh skruerne er valgt fordi de er meget fiskevenlige. Vi havde egentlig til en start regnet med at vi skulle bruge centrofugalpumper, men ø det ville ettebære vi skulle lave øh afgidringer
+
+00:16:30
+faktisk helt ned til 6 mm afgidringer ø og det vil kræve 40 meter langt indløbsbygværk som øh med ristenser og alt muligt andet. Og det er jo en voldsom drift der vil komme ud af det her. skuerne her meget dyre i anlæg, men til gengæld er de meget billige i drift og og og og først og fremmest er de meget fiskevenlige. Skulle en havørde komme ind i sådan en skrue her, så bliver den bare løftet stille og roligt ud på den anden side ø og med formentlig meget få eller ingen skader. Øh der
+
+00:17:00
+kommer sted mellem 10 og 15.000 havørder ind øh ind og ud af systemet hver hver efterår. Så lige nogle af tiltagen igennem Kolding by. Ø, vi har flere steder, hvor åen faktisk kan gå over sin bredere, og der ø der forsøger vi faktisk at optimere, hvad skal man sige, gennemstrømningen ved at hæve nogle nogle kanter. Og det kan vi gøre med nogle stiganlæg og noget forskelligt,
+
+00:17:30
+som ø som ø som gør, at vi ikke får oversvømmelse. Øh, og så har vi så pumpeanlægget der helt ude til højre. Øh, bare lige et eksempel på, hvordan vi i dag forsøger at holde holde holde vand væk. Øh, den sti, der er helt til venstre i billedet er et eksempel på et sted, hvor vi skal have hævet den måske med en halv eller tre kvartmeter. Øhm,
+
+00:18:00
+der er en lang række udfordringer, når man ø når man kaster sig ud i sådan noget som det her. Og øh alle de hydrauliske beregninger er er virkelig virkelig langhårdt, og og der gør vi jo god brug af af konsulentfirmaer. Det er, det er Nvidan og det er Kovi, som i sådan et tæt parløb kan man sige arbejder og har arbejdet meget intenst på alle de hydrauliske beregninger, som skal laves i forhold til altså det der det der gør det kompliceret, det er, at vi har flere
+
+00:18:30
+forskellige bassiner ø i funktionen øh og hvilken rækkefølge skal de arbejdes med og så videre og så videre. Øh, der er virkelig noget at at regne på, hvis man ø hvis man synes sådan noget hydrauliske beregninger er spændende. Øh, så er der hele delen omkring den beskyttede natur. Øh, vi oversvømmer jo noget øh og vi gør det med åbne øjne og kan det hænge sammen med den beskyttede natur der er derude? Øh, særligt omkring de her særlige
+
+00:19:00
+arter, bilagarter og habitater og så videre. Øh, så er der noget erstatningsnatur, vi skal ud i. Så er der noget myndighedssagsbehandling, øh, kompensation til de berørte lossejere. Vi har nede i Koldingdal har vi bane Danmark øh som en særlig kan man sige øh ø kunde. Øhm og så endelig vil jeg sige lidt om den måde vi har organiseret os på. Øh,
+
+00:19:30
+da vi for omkring 10 år siden sagde, ah, vi skal bare tilbage holde noget vand ude ude i Ådalen, og vi kan bare bruge alle de naturlige lagninger, så så så er det sikkert fint. Men det man bare skal huske, det er at at når vi har de her store vinter øh nedbørsituationer, så er alle de naturlige lavninger, de er simpelthen fyldt op. Der er ikke mere plads. Så ret hurtigt fandt vi jo ud af, at at øh der skal noget mere til. Vi vi er simpelthen nødt til fysisk øh at
+
+00:20:00
+blokere for at vandet det kan løbe videre. For ellers så kan vi ikke finde plads til så meget vand som som der rent faktisk er behov for. Øh og så ø så erkendte vi jo også at vi er jo simpelthen nødt til at generere nogle nye data. Vandstandslokkere og flowmålere er nødvendigt. øh skal nok også have målt vandløbene op, så så vi rent faktisk kan begynde at opstille nogle øh altså en en dynamisk vandmodel i i kombination med det med med
+
+00:20:30
+terrænmodellen. Øh så har vi også gjort meget brug af droneoptagelser, fordi en ting er terrænmodeller og noget, men men hvordan ser det rent faktisk ud i virkeligheden, når når vi har de her hændelser? Hvor meget breder vandet sig ud? Øh, og øh, og der kan man jo efterfølgende ud og gå ud og lave nogle GPSopmålinger øh ud fra ud fra droneoptagelserne og så se, hvor har vandet rent faktisk stået henne. Øh, og så skal man være opmærksom på, at den forsinkelse, der er i systemet,
+
+00:21:00
+måske nogle gange tager længere tid end modelberegningerne siger. Øh, så er det vigtigt, at man spørger folk der, det kunne være driftsfolk, det kunne være vejfolk, det kunne være beredskabsfolk, men også lossejerne derude, som ø som som kan hjælpe med med noget dokumentation for ø hvordan tingene rent faktisk ser ud øh i dag. Øh, og så bliver vi hele tiden udfordret af, at der kommer hele tiden nye hændelser, som som vi skal tage højde
+
+00:21:30
+for. Og vi havde en hændelse i 24, som faktisk var lige ved at lægge hele vores hydrauliske model ned, fordi øh fordi den tilførte altså lige en ny ekstrem hændelse, som vi simpelthen var nødt til at regne ind. Øh, så øh ja, vi vi satsede jo til en start på mange små bassiner. Øh, der var også snakker ah, kan vi ikke bare hæve vejbroerne igennem åen? Kan vi ikke uddøbe åen? øh forhøj brinkerne. Det
+
+00:22:00
+kommer vi jo så til at gøre. Øh øh mange siger jens åen op, så så er det her jo løst. Så så kan vi få så det jo det er jo bare det der skal til. Hvor svært kan det være? Øhm nogen sagde ah, men I skal bare have nogle større pumper i. Øh, skybrudstunnel ø regnede vi på til en kvart milliard kroner. Øhm, så det det måede alt sammen ud i sådan et løsningskatalog, som øh
+
+00:22:30
+som rummer nogle forskellige løsningsmuligheder, men vi har faktisk også beskrevet øh de ideer, som vi har forkastet, og også hvorfor vi har forkastet ideerne. Øh og kigget på alternative muligheder øh og også kigget på afvejning mellem mellem sikker drift. Øh, og også igen det her med naturhensynene er sindssygt vigtigt at få tænkt ind. Øhm, hvilken rækkefølge skal man bruge
+
+00:23:00
+de forskellige bassiner i er også beskrevet i det her notat. Øh, ja, og flere andre ting. Så lidt omkring hyppighederne øh i de tre systemer. Øh, donssøerne øh i den øverste her, det er sådan som det ser ud i dag. Og øh og her er vi ude i at i en 44-årig periode vil vi få det få donsøerne i i funktion to gange. E45 magasinet som er
+
+00:23:30
+det her langstragte bassin hernede tilsvarende to gange i løbet af 44. Og Bøllingbæk ville slet ikke komme i pension. Går vi så 50 år frem i tiden, så så hedder hyppighederne ø hver sjette år på Donssøerne tilsvarende E45 hver sjette år, og Bølling BCH kommer i funktion cirka en gang hver 15. år. Så det er jo noget der er relativt sjældent. Øh, vi ved ikke hvordan udviklingen bliver, men men øh
+
+00:24:00
+men øh men men vi vi føler i hvert fald, at det er sådan rimelig langtidssikret. Øh, så er der også nogen der spørger om, hvor lang tid, hvor lang tid står de her vandparkeringer så på? Og og der kan man jo så se, der er jo så regn på det hernede gående fra ø fire dage som det mindste og så helt op til helt op til 12 dage oppe i oppe i søsystemet. Øh, ville man kunne se den her, hvad skal man sige, mere øh mere øh opmagasinering,
+
+00:24:30
+altså mere end i dag. Der vil selvfølgelig også være nogle situationer ind imellem, hvor det er, at man begynder at stue vandet op, men så udvikler, hvad skal man sige, nedbørsmønster sig i retningen af, at at det bliver langt fra fyldt helt op. Det bliver måske halv fyldt op. Og det betyder jo så at at for eksempel E45, jamen der vil man kunne se en mere oversvømmelse for eksempel bare i tre dage. Så
+
+00:25:00
+så øhm ja, lige lidt om om de processer, vi arbejder med, hele den hydrauliske udredning og så den biologiske side af sagen har jo taget rigtig lang tid. Øh, og det er jo en proces, som har været sådan en ja, søge læreproces. Øh, og øh, og undervejs har der jo været en rigtig en en lang række af samarbejdspartnere. Øh, jeg skylder selvfølgelig lige at sige, at det her det sker jo i
+
+00:25:30
+samarbejde med vores forsyningsselskab, som jo faktisk skaffer pengene til det via, altså det er jo simpelthen spildevandspenge, som finansierer hele hele herligheden. Så derfor har vi jo en projektgruppe også bestående af vores forsyningsselskaber. Der er selvfølgelig også medarbejdere med fra forsyningsselskabet ind over det. Så har vi meget tæt dialog med med landbrugarorganisationerne. Øh, selvfølgelig dialog. Øh, og det er vi i gang med nu her at snakke med lossejere derude, de steder hvor der er
+
+00:26:00
+lossejer lav. Vi snakker med Vejle Kommune, fordi noget af det ligger faktisk inde i Vejle Kommune. Så har vi meget tæt dialog med de grønne interessenter, øh, sportsfiskerne og DN. Vi har holdt mange møder med dem for at fortælle dem, hvad det er, det her går ud på. Så er der helt særlige element omkring Bane Danmark, fordi de er jo selvfølgelig meget følsomme over for ikke at få vand på deres banedæmningsanlæg. Så er der Miljøstyrelsen eller Skav, som
+
+00:26:30
+jo også skal involveres i forbindelse med nogle af de tilladelser, vi skal have. Ogog Naturstyrelsen er også indeover. Øh, lige lidt om alle vores naturundersøgelser. Det har virkelig virkelig trukket tænder ud. Og øh og øh og det er simpelthen bare nødvendigt øh at man her er grundig. Jeg hører mine kollegaer sige, vi er i øjeblikket oppe omkring cirka 1500 sider dokumentation, altså ø natur og miljø
+
+00:27:00
+konsekvens vurderinger. Og øh nu er vi når nok ved at være nogenlunde i mål, men øh en af årsagerne er jo blandt andet, at vi har den her birkemus, som øh som man ikke på nogen måder skal grine af. Den skal man tage dybt alvorligt. Øhm, og ø jeg har selv været inde over vurderingerne omkring vandløb. Øh, og ø og her har vi jo selvfølgelig i stor stil betjent os af af eksterne
+
+00:27:30
+øister og konsulenter på på områderne, fordi noget af det er virkelig virkelig kompliceret øh og noget som vi slet slet ikke selv har kompetence til at at ville kunne udtale os kvalificeret omkring. Øhm, det vi er nået frem til, det er at ø at de mereoversvømmelser vi laver, de øh de de giver sådan set ikke de store udfordringer. Der er noget omkring noget
+
+00:28:00
+næringsstof afsætning. Det er klart, når man parkerer vand længere tid, så så det suspenderede materiale, der kommer med vandet, det får selvfølgelig længere tid til at at bundfælde sig, kan man sige, eller afsætte sig i ådalene. Og og hvad betyder det? Øh, og øhm og der er lavet forskellige mere eller mindre avancerede undersøgelser på det. Øh, så jeg vil ikke gå dybere ned i det. Øh, vi ender ud i at skal finde cirka 80
+
+00:28:30
+hektar erstatningsnatur. Øh, og det er blandt andet, fordi vi har den her birkemus, som vi skal tage hensyn til. Øhm, vi lav fire arter øh har vi også beskrevet meget minutiøst, ø vandflagermus, vandtalamanter, klokkeflø, løgfrø og så videre og så videre. Øh, alt tænkeligt. Her skal man ikke overse noget. Birkemusen, som øh
+
+00:29:00
+som er i området derude øh den er faktisk set nogle steder, men der er også nogle steder, hvor konsulenten, som har undersøgt det for os, har taget helt op til over 100.000 øh billeder med vildt kameraer og og og har faktisk ikke fundet den, men øh men hun siger, at den er der, og så derfor skal vi simpelthen tage højde for den. Øh, og det betyder så også, at vi øh, som det meget voldsomt står der på øverste
+
+00:29:30
+linje, at vi skal jo ud ø og lave et forsætligt drab på enkeltindivider. Vi kan ikke udelukke at at der er enkelt individer af birkemus øh der der dør, når vi en sjælden gang imellem laver den her mere oversvømmelse. Så derfor skal vi jo have en dispensation fra den her arts fredningsbekendtgørelse. Og ø det er vi i dialog med med Skav eller Miljøstyrelsen om.
+
+00:30:00
+Øh, der skal gives op mod 30 35 forskellige tilladelser eller afgørelser. Miljøvurderingsloven, vandløbsloven, naturbeskyttelsesloven, artsfredningsbekendtgørelsen, bane Danmark, planloven, fredsov, you name it. Øh, her bliver man virkelig dygtig ud i sagsbehandling. Øh, øh, også noget, som man ikke havde forestillet sig var noget, der skulle til. Men øh så så det der med at parkere vand, der skal man øh der skal man øh der skal man
+
+00:30:30
+vide, at det er det, vi kalder multidisciplinært. Øhm men men også meget spændende. Jeg sidder selv ø tæt omkring det der med vandløbsreguleringen. Øh nu bliver det jo ikke mig selv. Det bliver faktisk en af mine kollegaer, som kommer til at skrive under på selve tilladelsen. Jeg vil nok ikke være den rette til det, fordi jeg har arbejdet meget med det. Øh, der er det vigtigt, at man lige sørger for at ikke, hvad skal man sige, at være sovset for meget
+
+00:31:00
+ind i det. Og så og så og så sætter man lige sig over sig selv over på et andet skrivebord, så skriver man under på tilladelsen. Øh, men det er jo meget meget grundig undersøgt alle de her forskellige ting. Øh, øh, vi bruger jo som der står her jo vandbloven til at at hvad skal man sige, lave de fysiske ændringer, som der skal laves øh i forbindelse med vandtilbageholdelsen. Så er der jo nogle lossejere, som jo kommer til at opleve, at at deres arealer bliver oversvømmet mere end end
+
+00:31:30
+de gør i dag. Og og der har vi jo gennem meget lang tid været i dialog med med lossejerne. Og vi har også haft landbrugforeningerne med indover. Og ø vi har faktisk også haft Seges med ind over at lave sådan en kompensationsmodel øh hvor vi er lande på nogle forskellige satser som som ø skal gives i kompensationen for at de her arealer de bliver mere oversvømmet. Øh,
+
+00:32:00
+og så er der jo dilemma, at er det er det oversvømmelsesdirektivet, der bestemmer, eller er det habitatdirektivet, eller eller hvem hvem hvem er vigtigst? Og det og det er jo det der proportionalitetsbegreb, som som kan være vanskeligt. Og øh og ø og det er jo det krydsfelt, vi vi hele tiden arbejder i. Øh, meget spændende, men også meget udfordrende. Øh,
+
+00:32:30
+øh, lidt om organisering. Øhm, som jeg sagde før, det er vores forsyningsselskab, Blue Colling, øh, som som jo er vores samarbejdspartner og ø og så jo faktisk også dem, der kommer til at skaffe pengene til os eller til projektet. Øhm, så der sidder selvfølgelig en direktør og en områdeschef med, og så har vi en styregruppe med nogle nogle ledelsespersoner, og så har vi sådan en projektgruppe ø sådan meget fagligt bredt sammensat gruppe. Det er så der jeg sidder med. Og
+
+00:33:00
+endelig så har vi vores det vi kalder maskinrummet bestående af tre projektledere, som er ja nærmest fuldtids beskæftiget med det her projekt og har været det igennem de sidste ja seks syv år, hvis ikke længere. Og de besider altså en øh en særlig evne til at være enormt tålmodige. Det jeg jeg beundrer dem virkelig for deres tålmodighed, fordi hver gang de får løst et problem, så opstår der to nye. Øh så
+
+00:33:30
+så øhm så jeg tror også de synes det er spændende, men jeg tror også de synes det er udfordrende. Øh så øh yes. Så vil jeg lige slutte af med at fortælle lidt om noget, vi rent faktisk har lavet, nemlig et tilsvarende projekt ude i Hylkedalen. Øh, Hylkedalen har vi her i den sydlige del af af systemet. Et ikke så stort vandløbssystem. Øhm. Øhm. Sådan to tre meter bredt vandløb,
+
+00:34:00
+hvor vi har en vandføring mellem fem liter i sekundet, måske op til 3000 i sekundet. øh kan nogle gange være nærmest helt sommerudtørende. Øhm og øhm her kan man se en vandstandsmåler og se hvordan den ø varierer voldsomt. Øh og og pointen er jo, at vi skal skære toppene væk sådan at at det vand der ligger når der kommer meget nedbør at at
+
+00:34:30
+det er ikke suserne ø hurtigt ned i byen. Se øh hvad hedder det? Hylkedalen er meget stejlt, og det vil sige, det vand der falder, det ender meget hurtigt nede i byen. Så så det forsøger vi at parkere. Her kan man se, hvor hvor øh, hvad hedder det, hvor snæver Hylkedalen faktisk er. Øhm, og ud fra terrænmodeller fandt vi jo så ud af, at vi faktisk kunne ø vi
+
+00:35:00
+troede, at vi bare skulle parkere vandet et sted, men det endte faktisk med at være to forskellige lokaliteter. Øh, og øh, som ligger relativt tæt på hinanden. Øh, den ene har vi her, hvor vi ø hvor vi har dæmningsanlægget her. Øh, og så har vi så faktisk gensnået vandløbet ude i Ådalen. Førhen løb vandløbet helt inde i siden, simpelthen reguleret ind i ind i kanten af åalen. Det har været dyrket derude tilbage i tiden. Det er det jo så heldigvis ikke
+
+00:35:30
+længere. Øh, tilsvarende har vi en dæmning her øh helt ned mod motorvejen. Øh, og og tilsvarende har vi gensnodet vandløbet herude i i i ude midt i Ådalen. Øh, det er et projekt som ø som som delvis er finansieret fra fra den der statslige synergipulje, som som der var for for nogle år tilbage. Og ø det handlede om at at man udover at kunne lave
+
+00:36:00
+vandparkering øh faktisk også kunne lave nogle rekreative tiltag. Og øh og det har faktisk været ret spændende at arbejde med, hvordan man, hvad skal man sige, kan få noget mere værdi ind i et klimatilpasningsprojekt. Øhm, samtidig var det også en forudsætning, at vi lavede noget noget brogerinddragelse derude. Men her kan man se øh dæmning eller dianlæg her og så tilsvarende nede ved motorvejen. Og de lyseblå områder, det er dem som som
+
+00:36:30
+potentielt bliver oversvømmet, når det er, at vi parkerer noget vand derude. Og ellers så kan man se det er faktisk nemmere at se på det næste her øh alle stianlæggene derude ø som har gjort, at området er blevet meget meget mere attraktiv ø og færdes i. Det ligger meget bolignært herude, så der er færdes rigtig mange mennesker herude. Så så ø så det er rigtig fint. Og vi har kunnet bruge de heranlæg til at lave nogle stier på tværs afdalen, som har gjort, at den er meget mere
+
+00:37:00
+tilgængelig for for dem, der færdes derude i Ådalen. Meget spændende med med alle de rekreative faciliteter. Øh, meget stor værdi har der været i det. Det var en forudsætning for at få pengene fra Miljøstyrelsen til det her, at vi lavede en stor borgerinddragelsesproces. Og og det gjorde vi også. Og ø det tager meget lang tid, men til gengæld så ø så får man også en lang række mennesker, som faktisk bliver meget engageret i det og faktisk tager noget ejerskab til sådan
+
+00:37:30
+et projekt. Så så det har vi faktisk stor fornøjelse af. holdt blandt andet sådan sådan åbenal arrangement, hvor folk kunne komme ned og høre om, hvad det var, vi gik og syslede med af tanker. Øh øhm traditionelt borgermøder og så videre. I kort om projektet ø ja det skal tilbageholde noget vand. Vi kan tilbageholde 2 gange 30.000 øh kubikmeter. Det vil sige 60.000
+
+00:38:00
+kubikmeter i alt. Og er jo ikke særlig meget set i lyset af. Vi skal finde 2,3 millioner kubikmeter, men men lidt har også ret. Øh, så er vi gensnoget ses Mølleå øh og et lille sidetilløb, der hedder Tandholbæk. Så vi har gensnodet faktisk halvanden kilometer vandløb og fået noget rigtig fint vandløb ud af det. Øh, vi har ryddet noget opvækst derude, og vi har hegnet arealerne, og der er lavet mere græsning derude. Øh, noget af
+
+00:38:30
+rydningen af opvæksten knyttede faktisk også an til at vi jo faktisk også har birkemus ude i Hylkedalen. Så så den har vi også lavet nogle tiltag for at øh, hvad skal man sige, skabe nogle bedre levesteder for Birkemusen. stier øh rigtig mange stier. mountainbike spor derude øh øh opholdsbygværker og ø og forskellige andre faciliteter derude. Igen har det
+
+00:39:00
+været det samarbejde med Forsysselskabet og ø og Kolding Kommune. Øh og øh og så fik vi som sagt jo fra den her såkaldte synergipulje cirka 2,5 millioner kroner til at lave forskellige faciliteter derude. Øh, og øh, det blev så indvidt der for ja, snart fire år siden. Øh, og ø det er en passiv ø vandtilbageholdelse i modsætning til de andre jeg fortalte
+
+00:39:30
+om først, som jo er med aktive sluser. Her er det nogle gennemløbsåbninger, som som har et bestemt areal, som sikrer at ø at ø at der sker sker neddrosling af vandet. Øh her kan man se ø at øh at kapaciteten er ved at være brugt op. Øh cirka omkring 8900 liter i sekundet, så er der ikke plads til mere vand. så begynder det simpelthen at stue op foran
+
+00:40:00
+digerne. Og ø her kan I se der er en overløbskant, som er godt foret med stenen, sådan at at når vandet det begynder at løbe over, så øh så så er hvad skal man sige, de den er sikret. Øh og virker det? Ja, det gør det faktisk. øh billedet fra 22 øh og ø lige tre uger efter der så det sådan her ud. Øh ikke
+
+00:40:30
+fuld opstuningning, men ø men men trods alt nogen opstuningning. Og øh og i løbet af en to tre fire dage, så så er vandet væk. Øh, men men så er der jo så også typisk plads til vandet ned igennem byen. Så &gt;&gt; det var sådan set, hvad jeg havde planlagt at fortælle jer. &gt;&gt; Meget fornemt. Tusind tak. Det er øhm det er meget interessant og et meget komplekst ø projekt. Det kan jeg godt
+
+00:41:00
+se. Og hvis der er, I sidder derude og har nogle spørgsmål, som lige akkurat berører jeres faglighed eller område, så må I jo komme med dem nu. Og ellers så har jeg så har jeg nogen, og der er kommet nogle spørgsmål her, som jeg bare tænker, vi går i gang med. Øhm, der er et spørgsmål blandt andet på, hvad vurderer du de forventede udgifter til sikring af veje og jernbane på tværs af vandsystemet? Ja, &gt;&gt; altså alle de, hvad skal man sige, afværveforanstaltninger, der der skal
+
+00:41:30
+laves, de er regnet ind i de her godt og vel 300 millioner. Øh, og der er især nogle afværing omkring Bane Danmarks baneskråning, som som er ret komplicerede, og de de æder altså en del øh penge. Øhm, så men men det er regnet ind. Der er også nogle enkelte veje og noget, men men ellers så har vi jo udvalgt nogle områder, hvor der er meget lidt infrastruktur. Øh, og øhm der er
+
+00:42:00
+oppe omkring sød donssøerne, der skal der også laves nogle nogle afværvetiltage, men men relativt begrænset faktisk. Men det er noget, vi har taget højde for. &gt;&gt; Ja. Kan du sige en pris på ø pumpeanlægget alene? Ja, jeg tror man startede med at det v skulle koste 65 millioner, men men så kom der en krig i Ukraine som gjorde at stål og beton steg voldsomt. Ø de var
+
+00:42:30
+også udfordring udfordret af piloteringen. Øh, vores projektleder Lars på på beslugsanlægget, han han plejer at sige, at at undergrunden dernede har en konsistens ligesom yoghurt. Øh, så så der skulle der skulle altså sættes ø langt flere piloteringspæle i. Altså nogle gange der forsvandt det jo bare ned i undergrunden, så så så der har været en mereudgift altså som har gjort at at pumpesluseanlægget
+
+00:43:00
+det sidste jeg har hørt ligger vist op omkring 120 130 millioner kroner. Øh, men ø nu kommer der ikke flere udfor udgifter, fordi ø om to måneder så tror jeg vi sætter strøm på det. Ja, så er der kommet lidt længere et her. Øhm, du siger, at det ikke kan løses med eksisterende lagninger og småbassiner, men har I også undersøgt, om det kunne have været løst ved ø i stor stil at genoprette den tidligere naturlige tilbageholdningskapacitet i
+
+00:43:30
+området? I oplandet, der er, kommer det med her, der er jo nok en masse våråder i oplandet, som er blevet nedlagt gennem tidernes løb. Og på den måde kunne man have løst det ved øh naturgenopretning og dermed bidrage til løsningen af flere andre problemstillinger i stedet for at løse det med tekniske eller nye tekniske indgrebere skuser naturen. &gt;&gt; Ja. Ja. Og det er rigtigt. Og og det troede vi egentlig også at vi kunne men da vi begyndte at beregne på det altså
+
+00:44:00
+som som jeg også nævnte det der såkaldt initialvolumen, altså det volumen der er væk. Altså det her det er jo nogle anlæg som først og fremmest skal fungere i vinterperioden, hvor hvor man typisk har vandmættede jorder. Hvis man bare kigger de sidste to tre år til de sidste to tre vindre, der har der har der har jordene jo stort set været vandmættede alle steder. Og det vil sige den kapacitet man troede man måtte have, det man også kunne kalde den naturlige svamp. Jamen den er
+
+00:44:30
+simpelthen opbrugt, så så vi var simpelthen ude i at vi skulle gøre noget mere. Ellers kunne vi simpelthen slet ikke finde de mængder vand, som som er nødvendige. Så så det er en øvelse, vi har været ude i. Og vi blev også selv overrasket over, at vi faktisk var tvunget ud i at lave de her mere mekaniske løsninger. Vi har så været heldige, at vi har nogle ådale, som faktisk er egnede til at at lave den her mere øh mere oversvømmelse,
+
+00:45:00
+fordi de svømmer jo over, altså de billeder jeg har vist, det er jo sådan som det ser ud i dag uden øh uden oversvømmelse øh eller uden opstuning så øh og og det er noget man er blevet over man snakkede også om oppe i gudenåen, at ah vi skal bare bruge de naturlige, men men De har opgivet tanken om at tilbageholde vand ø i gudenåens opland. Det lader sig simpelthen ikke gøre.
+
+00:45:30
+Jeg har ikke flere spørgsmål i chatten, men hvis der lige skulle være et enkelt til, så må I bare lige skrive det. Ellers så kan jeg lige i mellemtiden her spørge lidt mere indtil øhm processen og ø hvad er den øh altså hvad kan man sige hvad er den vigtigste proceslæring fra projektet som øh som I måske kunne kopiere en til en i næste projekt? &gt;&gt; Mm. Det det er vigtigheden af at man får hvad skal man sige får tænkt meget bredt
+
+00:46:00
+altså på tværs af faggrupper. Det her det rummer simpelthen så mange forskellige fagligheder, at at hvis man tror man kan lave sådan en lille projektgruppe på en to tre mennesker og så og så tro at at det er så det det det lader sig simpelthen ikke gøre. Øh vi da da vi var flest, der var vi måske en seks syv otte mennesker involveret i det her. foruden vi har haft konsulentfirma eller har konsulentfirmaer indover, som hjælper os med med noget som, hvad skal
+
+00:46:30
+man sige, er så kompliceret, at at det kan man ikke forvente, at at almindelige kommunefolk ø har, hvad skal man sige, tilstrækkelige kompetencer til øh så så og og så handler det i høj grad om at være god til at arbejde på tværs af fagligheder, og at man også respekterer hinandens fagligheder. Jeg plejer gerne at sige, vi er for længst holdt op med at grine af den der lille birkemus, fordi det kan man godt have ah sådan ja ikke. Og der er også nogen der siger,
+
+00:47:00
+ah, så er der også nogle små planter, der går uha det er jo også synd for de små planter. Nej, alle fagligheder er lige vigtige. Og øhm og øh og det kan ikke hjælpe noget, at man man bare siger, ah, det kan jo ikke passe, at sådan en lille mus den skal være på tværs af det her. Fordi vi står jo i en situation, at hvis det her det bliver påklaget, jamen så ved vi, at at klagenævne er enormt restriktiv i forhold til øh hvad skal man sige, beskyttet natur. Så så så det handler
+
+00:47:30
+meget om, at man respekterer hinandens fagområder, men også at man er god til at arbejde på tværs. Og så skal man også huske, at at undervejs i sådan et forløb, så så skal der måske ske udskiftning i sådan en projektgruppe. Dem der er med til en start, skal måske ikke være med til Der skal måske nogle nye folk indover. Øh, og så skal man også være god til at samarbejde med med eksterne konsulenter øh ud fra de præmisser, de nu arbejder med. Øhm og øh og jeg synes det har været
+
+00:48:00
+vildt spændende, altså fagligt udfordrende og også sådan på det procesmæssige. Nu sidder jeg jo ikke helt tæt inde i det, men men jeg kan jo høre vores ø vores projektledere de øh de udvikler sig jo til at blive eksperter i at håndtere sådan noget som det her med alle de udfordringer, der nu er. &gt;&gt; Ja, der er kommet lige lidt flere spørgsmål her på ø på det sidste her. Der er et spørgsmål om, I har regnet på, hvor mange næringsstoffer der tilbageholdes på land og som dermed
+
+00:48:30
+sparer eller der man man og så man dermed sparer Kolding Fjordf. &gt;&gt; Jep. Jeps. Øh, det er rigtigt, og det har vi faktisk. Øh, vi vi har jo også kigget på den næringsstoffsætning, der sker typisk partikelbundet. Øh, og det har jo været i forhold til de naturhensyn, der er. Nu er det jo sådan, at at at både Bølling Bæk og Kolding Aal er jo nogle projekter, som i forvejen er
+
+00:49:00
+udlagt som vådområder. Skete faktisk helt tilbage. Ja, Bøllingbæk, det var faktisk tilbage i det gamle Vejle Amt øh udlagde det som som et vådområde. Så det fjerner jo allerede i dag kvælstof. Og og det samme gør sker faktisk også ude i Kolding Aal ude på ude vest for motorvejen. Men men det er klart, når man når man i perioder tilbageholder noget mere vand, så vil der selvfølgelig også kunne omsættes noget mere ø kvælstof. Men man
+
+00:49:30
+skal jo huske, det er jo det er jo ikke det er jo ikke kvælstofvådområder på den måde, fordi det er jo ikke permanente sødannelser. Det det er jo det er jo vandparkering, og det er jo noget, der sker om vinteren, hvor hvorsætningen måske er lav. Så så så det er ikke de store mængder kvælstof, vi faktisk fanger ekstra, men men selvfølgelig bliver der fanget noget. Man skal også tænke på hyppigheden. Altså det her det er jo noget der sker hver hver hver sjette eller hver ottende år. Øh og i nogle få dage. I modsætning til
+
+00:50:00
+traditionelle vådeområder, som jo er sådan nogle permanente sjapvandsområder, og hvor der hele tiden sker denitrifikation. Det det sker der jo ikke her. Men men jo, der er en en vis mængde kvælstofilbageholdsser. Selvfølgelig er der det, men men det er ikke det er ikke noget, der redder Koldingfjord langt fra. &gt;&gt; Så er der spørgsmål om den politiske opvakning til løsningen. Øhm, og om der har været noget af nogle ændring i forhold til valgkampen på det punkt.
+
+00:50:30
+Øh, da vi startede med det her for måske 10 år siden, der var der var der måske mindre forståelse politisk for, om det nu også var nødvendigt, men men ø og nogle sag ikke bare rense noget mere op i op i vandløbene, så så er det løst. Øh, men vi kan jo se med de hændelser, vi har haft her de senere år og senest for to år siden, med de enorme skader øh der er sket eller der skete i i nede i
+
+00:51:00
+Kolding Midtby, så er der jo rigtig meget politisk forståelse for at man ø altså de kan jo næsten ikke vente på vi er færdige. Jeg plejer også at sige at ø at hvis vi havde haft pumpesluseanlægget nede i havnen for to år siden, jamen så havde anlægget måske allerede tjent sig hjem. øh en halv gang. Øh og øh så så det er bare en god investering, og der er 100% politisk opbakning til det. Øh det der hvor der hvor der hvor det
+
+00:51:30
+mangler forståelse fra politikernes side, det er de kan ikke forstå at det tager så lang tid. M &gt;&gt; men så plejer vi at sige til dem, jamen når vi skal lave 1500 sider miljøkonsekvensrapport, så tager det altså tid. Så men men men vi har en meget fin dialog med vores politikere om omkring de her projekter. Så er der spørgsmål om øh konkret spørgsmål til Seges og hvem der har været med til øhm den her kompensationsmodel til Losej.
+
+00:52:00
+&gt;&gt; Og der er nogen der sidder og efterspørger en øh Ja. &gt;&gt; Ja. Jeg jeg har ikke været særlig tæt på det, så det er sådan lidt, hvad jeg sådan har hørt. Men men det startede jo det startede jo med, at man havde dialog med vores lokale landbrugforening øh i forhold til får de nu også nok, og er det rimelig kompensation og så videre og så videre. Og på et tidspunkt var der nogen, der sagde, jamen kunne vi ikke prøve at få SEGES med indover? Ø, fordi Siges har tidligere været i gang med at lave sådan nogle kompensationsmodeller.
+
+00:52:30
+Og øh sådan som jeg hørte, så har det været så har det været en fin proces. Øh og øh og man kan også sige, jamen al den stund man har sik med indover, jamen så så tror jeg også, at der er sådan meget bred forståelse for, at det man når frem til, det det er også det, man ville kunne kalde rimeligt. &gt;&gt; Men er der nu spørger jeg bare, fordi det kan være der er kunne også være der menes noget mere præcist med spørgsmålet, men jeg vil bare høre, er det kan man skrive til dig, eller?
+
+00:53:00
+Ja, jeg tænker det var nok, ja, man kan godt skrive til mig, men jeg vil kanalisere spørgsmål videre til vores projektledere. Det er jo Lotte Madsen og ogog Mari Janne Yde. Øh, og vi har også en fra fra vores forsyningsselskab. Det er Inger Viv Jørgensen. Øh, hun er, ja, hun er faktisk agronom og og har også været en del inde over det her med kompensationen og og og de sidder jo i øjeblikket eller ikke sidder de styrter rundt og ser om de kan lave aftaler med med losserne derude. Øh, så men I må
+
+00:53:30
+meget gerne skrive til mig, så så skal jeg gerne kanalisere konkrete spørgsmål videre i forhold til til kompensationen. Ellers så kan I skrive til til os i DNK, og så får vi i hvert fald sendt videre uanset. &gt;&gt; Ja. &gt;&gt; Øhm, så er der lige en opfølgning på det det længere spørgsmål fra før. Det bliver takket for, at du svarede på spørgsmålet, men øh så bliver der så spurgt videre indtil at ø de han er med på at øh at den naturlige svamp den blev opbrugt i vintermånederne.
+
+00:54:00
+&gt;&gt; Ja. &gt;&gt; Men han synes ikke rigtigt, at du svarede på, om den naturlige svamp den kunne udvides ved at genoprette tidligere vådområder. &gt;&gt; Det er rigtigt. Og og det det ser vi da meget ind i i forhold til grøn trepart. Altså hvis man kan få udtaget nogle ø, hvad skal man sige, nogle arealer i dag, som er dyrket og drænede, det er klart, der ville man jo kunne hente noget, der ville man jo kunne gøre svampen større. Øh, så så øhm,
+
+00:54:30
+men men hvis hvis ikke vi havde mulighed for at lave noget mere naturgenopretning, øh, så øhm men men altså det er jo bare enormt store mængder, man skal ud og finde, så men altså vi glæder os da meget til at at at altså jeg sidder jo som vandløbsmand og tænker, ah det kunne være fantastisk at få taget nogle af de her vandløbsnærealer ud, fordi de øh De virker jo som en svamp. Og det er klart, når man gør svampen større, så så øh så
+
+00:55:00
+alle svampe bliver jo vandmættet på et tidspunkt. Men det er klart, jo større svampen er, jo mere naturlig hydrologi genererer man jo. Og og det vil jo alt andet lige kunne virke dæmpende for for afstrømningen. Så så så jo. &gt;&gt; Ja. Ved du hvad? Der bliver takket øhm for for meget godt oplæg og øh og inspirerende. Og så vil jeg egentlig bare sige øhm
+
+00:55:30
+ja, der er ikke flere spørgsmål, det er derfor. Så vil jeg egentlig bare sige tusind tak for for dit oplæg, Sten. Og øh det her den her optagelse den blev jo lagt ude på i vores vidensbank, som man er meget velkommen til at gå ind ogog genbesøge eller besøge. Og øh ellers må I alle sammen have en rigtig god dag, og ja, tak til dig, Steen. &gt;&gt; Ja, tak selv og god weekend. &gt;&gt; Lige måde. Hej hej &gt;&gt; hej hej.

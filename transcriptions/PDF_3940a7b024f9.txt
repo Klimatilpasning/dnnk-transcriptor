@@ -1,0 +1,3981 @@
+=== DNNK PDF Dokument ===
+Titel: POSEIDON inspirationskatalog
+Kategori: Rapporter
+Kilde: https://usercontent.one/wp/www.dnnk.dk/wp-content/uploads/2026/07/POSEIDON_INSPIRATIONKATALOG_WEB_-_DK.pdf
+Indekseret: 2026-09-23T10:11:52.391344
+
+==================================================
+
+University of Southern Denmark
+Klimatilpasningsløsninger i Interreg-regionen Deutschland Danmark: Inspirationskatalog med
+eksisterende løsninger
+Ewertsen, Anne-Katrine Obel; Sachse, Agnes; Lybæk, Rikke; Clausen, Julie Skødt; Mernild,
+Sebastian; Egemose, Sara
+DOI:
+10.21996/4xvc-m298
+Publication date:
+2026
+Document version:
+Forlagets udgivne version
+Citation for pulished version (APA):
+Ewertsen, A.-K. O., Sachse, A., Lybæk, R., Clausen, J. S., Mernild, S., & Egemose, S. (2026).
+Klimatilpasningsløsninger i Interreg-regionen Deutschland Danmark: Inspirationskatalog med eksisterende
+løsninger. https://doi.org/10.21996/4xvc-m298
+Go to publication entry in University of Southern Denmark's Research Portal
+Terms of use
+This work is brought to you by the University of Southern Denmark.
+Unless otherwise specified it has been shared according to the terms for self-archiving.
+If no other license is stated, these terms apply:
+            • You may download this work for personal use only.
+            • You may not further distribute the material or use it for any profit-making activity or commercial gain
+            • You may freely distribute the URL identifying this open access version
+If you believe that this document breaches copyright please contact us providing details and we will investigate your claim.
+Please direct all enquiries to puresupport@bib.sdu.dk
+Download date: 27. jul.. 2026
+
+I   1   I
+Klimatilpasningsløsninger i Interreg-regionen Deutschland Danmark
+Inspirationskatalog med  
+eksisterende løsninger
+
+
+I   2   I
+Kolofon
+Inspirationskataloget er udarbejdet som en del af  
+Interreg-projektet POSEIDON, som har været  
+koordineret af SDU Climate Cluster.
+Se mere om POSEIDON her:
+https://poseidon-klimatilpasning.dk/da/
+1. udgave, 1. oplag, 2026 
+Grafisk tilrettelæggelse: Pernille Nord Skovgaard 
+Fotograf: Kristian Horn Brønsbæk 
+Tryk: Vester Kopi Odense C
+Inspirationskataloget bedes citeret:
+Ewertsen, A.O, Sachse, A., Lybæk, R., Clausen, J.S.,  
+Mernild, S., Egemose S. (2026):  Inspirationskatalog med eksisterende løsninger -  
+Klimatilpasningsløsninger i Interreg-regionen Deutschland-Danmark. POSEIDON,  
+SDU Climate Cluster, Syddansk Universitet.  
+ 
+DOI: 10.21996/4xvc-m298
+
+
+I   3   I
+Indholdsfortegnelse 
+Opsummering            4
+Formålet og baggrunden for dette katalog        5 
+ Hvad er udfordringerne?         6
+Klimatilpasningsstrategier          8
+Hvordan er dette katalog udarbejdet?        9
+ Databearbejdning          10
+Klimatilpasningscases          12
+ Danske           16
+ Tyske            65
+ Grænseoverskridende          82
+10 udvalgte eksempler           85
+Klimatilpasningsløsninger           86
+ Løsninger til en, flere eller mange matrikler       87
+ Løsninger til mange matrikler         88
+ Løsninger til mange eller flere matrikler        90
+ Løsninger til flere eller en matrikel         91
+ Løsninger til en matrikel          92
+Referencer             95
+ Kilder til cases og løsninger udover survey       96
+
+I   4   I
+Opsummering
+• De 10 udvalgte cases er repræsentanter  
+for vidt forskellige typer af løsninger,  
+samtidig med at de er eksempler på 
+løsninger, som man også ville kunne  
+anvende i andre sammenhænge. De er altså 
+skalerbare.  
+• Der er nogle overordnede forskelle imellem 
+katalogets cases i hhv. Tyskland og  
+Danmark. Det afspejler bl.a. at Danmark har 
+arbejdet med klimatilpasning i en længere 
+årrække, men også at tilgangen er forskellig. 
+I Tyskland dominerer cases omkring  
+digitale løsninger og samarbejdsløsninger i 
+den nordlige del, mens det i Danmark i langt 
+højere grad er naturbaserede/-inspirerede 
+og tekniske løsninger som dominerer. Mange 
+formidlede klimatilpasningscases i Tyskland 
+er lokaliseret i Sydvest- og Vesttyskland.  
+• Der er stort potentiale for erfarings- og  
+vidensudveksling imellem Tyskland og  
+Danmark på klimatilpasningsområdet  
+både mht. tilgange og løsninger. De tyske  
+eksempler viser bl.a. fokus på planlægning 
+og prioritering af klimatilpasning i hele  
+oplande/områder, mens de danske  
+eksempler viser en stor variation i mulige 
+løsninger og teknologier. Derudover har der i 
+Danmark indtil nu været et meget stort fokus 
+på vand og mere vand, mens der i Tyskland 
+er og har været et langt større fokus på tørke 
+og dermed mindre vand.
+Arbejdet med udarbejdelsen af dette  
+inspirationskatalog har ført til en række  
+erkendelser omkring klimatilpasning i den 
+dansk-tyske Interreg-region, som er beskrevet 
+nedenfor. 
+• One size does not fit all – eller sagt på  
+en anden måde: Den konkrete klimatil- 
+pasningsløsning skal tilpasses både de  
+lokale forhold, de lokale udfordringer og  
+de lokale ønsker og muligheder for at blive 
+en succes. 
+• Der er meldt rigtig mange naturbaserede og 
+naturinspirerede cases ind til kataloget –  
+det tyder på at det er den type klima- 
+tilpasningsløsninger vi husker, ser, ønsker 
+eller foretrækker.  
+• Der er meget få klimatilpasningscases, hvor 
+der findes viden om den faktiske kapacitet 
+eller effekt. Virker de efter hensigten eller 
+måske endda endnu bedre? For nogle er  
+der viden om, at de har afværget en 
+oversvømmelse, men der foregår ofte ikke  
+en systematisk opsamling af virkning. Der 
+findes utrolig meget information om  
+klimatilpasning på diverse hjemmesider mv. 
+både i Tyskland og Danmark, men oftest 
+kommunikeres der om projekter indtil kort  
+tid efter de er afsluttet, hvorefter der ikke 
+kommer ny og/eller opdateret viden om  
+projekterne. 
+• I mange af løsningerne er synergier eller  
+multifunktionalitet fremhævet som et plus. 
+Men da der er en generel mangel på  
+effektmålinger efter implementering af 
+løsningerne, så er det uklart om det betyder,  
+at løsningen virker bedst muligt, eller om der 
+også er indgået kompromisser for at opnå 
+multifunktionaliteten. 
+ 
+ 
+ 
+ 
+ 
+I      Opsummering      I
+
+I   5   I
+Formålet og baggrunden  
+for dette katalog
+Klimaet ændrer sig med en hastighed som nødvendiggør klimatilpasning som følge af vand- 
+relaterede udfordringer. Det gælder tilpasning både til stigende havvandsstand og stormfloder, 
+øgede nedbørsmængder samt skybrud, stigende grundvand og øget afstrømning (Figur 1).  
+Tilpasning til vandrelaterede udfordringer kan være vidt forskellige afhængigt af formål, udfordring, 
+placering og andre hensyn på lokationen såsom bygnings- og infrastrukturforhold samt natur- og 
+kulturhensyn.
+Dette inspirationskatalog stiller skarpt på nogle af de eksisterende klimatilpasningseksempler.  
+Altså både tekniske og naturbaserede eksempler som er implementeret og findes fysisk i 
+landskabet. Katalogets formål er at vise den store diversitet som findes indenfor klimatilpasning på 
+vandområdet og ud fra disse eksempler at give inspiration til kommende projekter. Kataloget er  
+udført i regi af Interreg-projektet POSEIDON, og derfor stilles der skarpt på projekter i Interreg- 
+region Deutschland-Danmark. Kataloget er udarbejdet på tysk og dansk. 
+Kataloget er udarbejdet så det forhåbentligt kan være til inspiration for både medarbejdere i  
+kommuner og forsyninger samt borgere og politikere – kort sagt alle som interesserer sig for eller 
+arbejder med klimatilpasning i forhold til vandrelaterede problemstillinger. 
+Regn
+Afstrømning
+Grundvand
+Havvand
+Figur 1: Klimatilpasning som følge af vandrelaterede problemer kan skyldes vand fra 
+fire sider - nedbør/skybrud, øget afstrømning/bagvand, ændret grundvandsstand 
+og havvand (ændret vandstand og stormflod).
+I      Formålet og baggrunden for dette katalog      I
+
+I   6   I
+Hvad er udfordringerne?
+Danmark står over for en række komplekse og 
+sammensatte udfordringer i takt med, at klima-
+forandringer intensiverer risikoen for oversvøm-
+melser. Klimaændringerne betyder, at det helt  
+generelt regner mere, men også at det regner  
+mindre i nogle perioder og mere i andre  
+perioder. Oveni det kommer intense ned- 
+børshændelser som skybrud. Dertil kommer, at 
+havet stiger, og at risikoen for stormflod ligeledes 
+stiger. Det betyder, at der nu og i fremtiden vil 
+være behov for klimatilpasningsløsninger som kan 
+håndtere og modvirke risikoen for oversvømmelser 
+på flere fronter. For indimellem sker det på samme 
+tid – de såkaldte koblede hændelser.  
+DMI har foreslået at arbejde med følgende 5 
+oversvømmelsestyper i Danmark (Pedersen et al. 
+2025):
+I      Formålet og baggrunden for dette katalog      I
+
+
+I   7   I
+• Havoversvømmelser, hvor årsagen primært 
+er forhøjet vandstand langs kyster som 
+følge af havniveaustigninger eller stormflod. 
+Havvandstigninger udgør en trussel mod 
+kystområder. I kombination med stormflod 
+kan selv moderate stigninger i havniveau føre 
+til betydelige oversvømmelser og erosion af 
+kystzoner. Kystbeskyttelse skal derfor til-
+passes fremtidige scenarier, hvor vandstan-
+den kan overstige tidligere historiske maksi-
+mumsniveauer. 
+• Vandløbsoversvømmelser opstår, når store 
+mængder nedbør får vandløbene til at gå 
+over deres bredder. Dette kan ske både som 
+følge af skybrud og længerevarende  
+regnperioder. Oversvømmelserne kan også 
+ske pga. flaskehalsproblemer ofte pga.  
+menneskeskabte indsnævringer eller ved 
+hurtig sneafsmeltning. I takt med at  
+nedbørsmønstrene ændrer sig, bliver det 
+nødvendigt at gentænke anvendelsen og/
+eller beskyttelsen af de vandløbsnære  
+arealer. Det kan også være oversvømmelse 
+omkring søer.  
+• Nedbørsoversvømmelser, hvor store  
+mængder nedbør ikke kan slippe væk fra 
+overfladen hurtigt nok. Oversvømmelserne 
+kan opstå både i lavninger og i flaskehalse 
+både hvor vandet strømmer på overfladen og 
+i dræn- og afløbssystemer. På landet opstår 
+oversvømmelserne typisk i lavninger, eller når 
+vandet strømmer over skråninger i terrænet. 
+Oversvømmelsen skyldes ofte langvarige, 
+kraftige nedbørshændelser, især når jorden i 
+forvejen er mættet, men kan også opstå ved 
+intense skybrud, hvor regnintensiteten  
+overstiger jordens nedsivningsevne.  
+• Grundvandsoversvømmelser, hvor  
+terrænnært grundvand stiger til et niveau, 
+hvor der er skader enten tæt på eller over 
+overfladen af terrænet. Det er en mere 
+skjult, men voksende udfordring. Når grund-
+vandsspejlet hæver sig, kan det føre til  
+fugtskader, nedsat funktion af kloak- 
+systemer og øget risiko for oversvømmelser 
+i lavtliggende områder – selv uden ekstreme 
+vejrhændelser. Oversvømmelser opstår ofte 
+i områder, som tidligere har været naturlige 
+vådområder og vandstanden kan være  
+påvirket af vandstanden i vandløb, søer og 
+havet. Dette også ved gentagne dage og 
+uger med nedbør – og ikke nødvendigvis  
+kun efter kraftige nedbørshændelser.  
+• T ekniske oversvømmelser, hvor infrastruktur 
+fejler, fordi det belastes på en måde, som 
+dimensioneringen og konstruktionen ikke 
+kan klare. Det kan f.eks. være pumpe- eller 
+slusesystemer som svigter eller dige- og 
+dæmningsbrud.
+Dertil kommer, at der også er lokale variationer, 
+både i forhold til f.eks. hvor meget det regner 
+(DMI 2024), og dermed også i forhold til hvor 
+stor risikoen er for de forskellige oversvøm-
+melsestyper. For Interreg-regionen Deutsch-
+land-Danmark, som dette inspirationskatalog 
+omfatter, har et andet Interreg-projekt  
+ClimatePol kortlagt, hvordan at både nedbør, 
+havvandsstigninger og stigninger i vandstanden 
+under stormflod udviser lokale forskelle selv 
+indenfor ret korte afstande bl.a. afhængig af 
+geografi og typografi (Mernild 2025). 
+Oversvømmelser er altså et komplekst samspil 
+mellem flere faktorer, der kan forstærke  
+hinanden. Det kræver en helhedsorienteret 
+tilgang til klimatilpasning, hvor både tekniske 
+løsninger, naturbaserede tiltag og sam- 
+fundsplanlægning spiller en helt central rolle.
+I      Formålet og baggrunden for dette katalog      I
+
+I   8   I
+Klimatilpasningsstrategier
+Der er forskellige strategier for hvordan klimatil-
+pasning kan håndteres på den enkelte lokation. 
+Helt overordnet kan man sige at man kan vælge 
+imellem fire forskellige strategier: 
+• At gøre ingenting – og håbe at der ikke sker 
+noget 
+• At tilpasse sig – det kan f.eks. være at sætte 
+huset på pæle 
+• At trække sig tilbage – det kan f.eks. være at 
+flytte bebyggelser eller landbrug ind i landet 
+• At beskytte sig – det kan ved at bygge en 
+naturbaseret eller teknisk løsning, som f.eks. 
+et dige 
+Ovenstående gælder særligt for eksisterende 
+byggeri, infrastruktur eller produktion, mens 
+det ved fremtidige byggerier eller etablering af 
+nye aktiviteter i udsatte områder i høj grad også 
+gælder om at prioriterer om det er det bedste 
+sted at bygge, og hvis det er så planlægge og 
+forberede byggeriet på fremtidige klima- 
+scenarier fra starten.  
+Derudover findes der forskellige metoder/ 
+værktøjer til at hjælpe med at udvikle strategier.  
+Et eksempel er DAPP-metoden (Dynamic  
+Adaptive Policy Pathways) som er udviklet i  
+Holland, men som også bruges i Danmark  
+(Kystdirektoratet 2020) til klimatilpasnings- 
+planlægning bl.a. af kommuner med komplekse 
+oversvømmelsesproblemstillinger. Metoden kan 
+bruges til at udvikle fleksible strategier også for 
+fremtidige udfordringer. Så i stedet for én fast 
+plan, laver man en tilpasningsdygtig strategi, der 
+kan justeres, når ny viden eller ændrede forhold 
+opstår.
+Klimatilpasningsløsninger til vandhåndtering  
+kan deles op i tekniske løsninger, natur- 
+baserede løsninger, digitale løsninger og 
+løsninger via samarbejde. Dertil kommer en 
+masse kombinationer og overgangsformer  
+imellem kategorierne. 
+ 
+ 
+ 
+ 
+Tekniske løsninger er ofte et fysisk element  
+som f.eks. diger, sluser, pumper, hævning af 
+bygninger, forstærkning af kloaksystemer,  
+regnvandsbassiner eller permeable 
+belægninger. Disse løsninger kan også være 
+stærkt inspireret af naturen som f.eks. grønne 
+tage eller regnbede langs vejene. 
+Naturbaserede løsninger udnytter naturens 
+egne processer og naturens egen evne til at 
+modstå forandringer. Naturbaserede løsninger 
+kan f.eks. være genskabelse af strandenge, 
+ådale, vådområder, moser og søer, genåbning af 
+rørlagte vandløb og fjernelse af spærringer som 
+kan skabe flaskehalse for vandet. 
+ 
+Digitale løsninger kan f.eks. være styrings- 
+systemer, varslingssystemer mv., mens løsninger 
+via samarbejde kan f.eks. være bedre håndtering 
+under hændelser, bedre beredskab, og bedre 
+planlægning via samarbejde.
+I      Klimatilpasningsstrategier      I
+
+
+I   9   I
+Hvordan er dette katalog  
+udarbejdet?
+I      Hvordan er dette katalog udarbejdet?      I
+Kataloget fokuserer på eksisterende klima- 
+tilpasningsløsninger i Interreg-regionen  
+Deutschland-Danmark, som på dansk side  
+omfatter Region Syddanmark og Region  
+Sjælland og på tysk side Kreis Nordfriesland, 
+Kreis Ostholstein, Kreis Plön, Kreis Rends-
+burg-Eckernförde og Kreis Schleswig-Flens-
+burg samt byerne Flensburg, Kiel, Lübeck og 
+Neumünster (Figur 2). 
+Eksemplerne på eksisterende klima- 
+tilpasningsløsninger er indsamlet på 2 måder:
+1. Via udsendelsen af et spørgeskema,  
+hvor respondenterne har kunnet indsende 
+eksempler på klimatilpasningscases.  
+Respondenterne blev bedt om hvis muligt at 
+angive navn på case, beliggenhed (adresse 
+eller koordinatsæt, klimatilpasningsformål, 
+metode(r), eventuelle links og eventuelle 
+bemærkninger. Som udgangspunkt var  
+besvarelserne anonyme med mindre, 
+at respondenterne selv valgte at angive 
+e-mailadresse. Spørgeskemaet blev udsendt 
+på dansk og på tysk til partnere og  
+netværkspartnere i POSEIDON, til  
+konsortiets kontakter i kommuner og 
+forsyninger i Region Sjælland og Region 
+Syddanmark i Danmark samt til en række 
+kontakter i Tyskland udsendt via Kiel  
+Universitet. Derudover blev det postet i en 
+række tyske forums for klimatilpasnings- 
+medarbejdere. Spørgeskemaet blev  
+udsendt primo maj 2025 i Danmark og  
+medio maj 2025 i Tyskland og var aktivt til og 
+med 30. september 2025. Derudover blev 
+der på dansk side indrykket en annonce med 
+opfordring til at besvare spørgeskemaet i  
+august-nummeret af magasinet Teknik og 
+Miljø. 
+ 
+ 
+ 
+ 
+ 
+ 
+2. Via indsamling af eksempler fra danske og 
+tyske kilder (webbaserede og skriftlige). 
+ 
+Der er en række usikkerheder og bias i det  
+indsamlede data via spørgeskema- 
+undersøgelserne. Dels er de indkomne cases 
+ujævnt fordelt geografisk. Dette kan betyde at 
+der ikke vises et repræsentativt billede for Inter-
+reg-regionen som helhed. Der er en  
+tendens til at aktører som allerede har kendskab 
+til POSEIDON i højere grad for indsendt cases. 
+Derudover er en del indsendte cases ikke mulige 
+at bruge pga. upræcis beskrivelse af lokation 
+eller grundet det faktum, at casen ikke er  
+etableret endnu. Dertil kommer det bias, at  
+antallet af cases per respondent er meget  
+varierende, så nogle løsninger/metoder får  
+uforholdsmæssig stor vægt. Endelig er der en  
+tendens til at naturbaserede løsninger er over-
+repræsenteret i besvarelserne – måske fordi 
+mange finder dem særligt gode pga. naturværdi, 
+rekreativ værdi mv.
+Figur 2: Det geografiske område i Tyskland og  
+Danmark som inspirationskataloget omfatter.
+
+I   10   I
+Databearbejdning
+I      Hvordan er dette katalog udarbejdet?      I
+De indkomne cases fra spørgeskema- 
+undersøgelsen på dansk og tysk er derefter 
+bearbejdet og medtaget i det videre arbejde, 
+hvis de opfylder følgende kriterier:
+• De er beliggende i Interreg-regionen    
+Deutschland-Danmark
+• Det er en eksisterende løsning,  
+som findes i fysisk eller digital form
+• Det er en klimatilpasningsløsning   
+(det kan være en løsning både til  
+hverdags- og ekstremsituationer)
+• Er løsningen fysisk, skal denne kun 
+besøges – løsningen skal altså være  
+ikke-flytbar
+For alle de cases som opfylder ovenstående 3 
+kriterier er der efterfølgende udarbejdet en  
+kort beskrivelse af lokation, formål, kategori  
+og løsning/metode, samt eventuelt andre  
+tilgængelige oplysninger om casen f.eks. effekt. 
+Da der via surveyen ikke blev indsamlet nok  
+cases, der opfyldte ovenstående kriterier, blev 
+det besluttet manuelt at indhente både danske 
+og tyske cases. Disse cases blev lokaliseret ved 
+at gennemgå hjemmesider leveret af Kiel  
+Universitet, virksomheder i POSEIDON- 
+netværket, samt en række danske organisa-
+tioners hjemmesider omkring klimatilpasning. 
+Hjemmesiderne blev gennemgået systematisk, 
+og cases, der lå inden for ovenstående kriterier, 
+blev valgt ud. For alle de selvfundne cases,  
+blev der ligeledes produceret en kort tekst om 
+lokation, formål, kategori og løsning/metode. 
+Cases i Danmark blev sorteret, og kun de mest 
+relevante blev udvalgt, da der var en stor  
+mængde cases at vælge fra. Dette var desværre 
+ikke tilfældet i Tyskland, hvor cases ikke blev 
+sorteret og udvalgt. 
+Derimod blev de fleste inkluderet.  
+Udvælgelsesprocessen for de danske cases 
+fokuserede på geografisk diversitet, samt at 
+udvalget af cases blev bredt. Dette blev gjort for 
+at få et så repræsentativt billede som muligt. 
+Da alle cases var indsamlet, blev alle cases 
+scoret fra 1-5 på replikerbarhed/effekt,  
+multifunktionalitet og partnerskab. Én person 
+har foretaget en subjektiv vurdering af samtlige 
+cases for at sikre en ensartet og sammen- 
+lignelig scoring af alle cases. Efterfølgende blev 
+vurderingen kvalificeret i samarbejde med  
+yderligere en person. 
+
+
+I   11   I
+Til sidst blev 10 cases udvalgt blandt de højest 
+scorede. De er udvalgt ud fra ønsket om at  
+fremhæve forskellige typer af eksempler. 
+Ligeledes er de udvalgt på baggrund af  
+følgende kriterier:
+• De 10 cases er fordelt på danske og tyske   
+cases, så de forholdsmæssigt afspejler det 
+antal cases som er kommet ind via survey  
+pr. land.  
+• De 10 cases skal afspejle forskellige    
+løsninger og have forskellige formål    
+(f.eks. LAR, dige osv.) 
+• De 10 cases skal afspejle både kyst-, by-, og 
+det åbne land-løsninger så vidt muligt. 
+• Der skal helst være en dokumenteret effekt 
+af løsningen enten via målinger, eller ved at 
+løsningen har modstået den udfordring, som 
+den er designet til. 
+• Hvis der er flere kandidater til samme   
+plads, så vægtes variation i beliggenhed   
+også. 
+De 10 udvalgte cases er ikke nødvendigvis de 
+ultimativt bedste i regionen, men derimod ud-
+valgte cases ud fra de valgte kriterier ovenfor. 
+De omtalte klimatilpasningscases i kataloget 
+spænder bredt i type og formål. Derfor kan de 
+ikke sammenlignes for at vurdere, hvilke der 
+objektivt er bedst. Ligeledes findes der ikke en 
+kvalificeret metode til at evaluere, hvor gode 
+løsningerne er og endelig mangler der ofte data 
+om effekt. Derudover spiller lokale forhold også 
+en stor rolle i hvilken løsning, der passer bedst 
+i præcis det område. Tages der højde for alle 
+disse perspektiver, kan ”de bedste” ikke  
+findes på tværs af løsningerne, og derfor blev 
+der i stedet opsat kriterier for at finde de 10 
+mest repræsentative cases. 
+Af de indsendte cases, der var inden for de 
+førstnævnte kriterier, var fordelingen i survey 
+6 tyske, 19 danske og 1 grænseoverskridende. 
+Og for de manuelt indsamlede: 14 tyske og 50 
+danske. Der blev derfor valgt 3 tyske cases, 1 
+grænseoverskridende og 6 danske cases ud. 
+De valgte cases var 50/50 fra survey og fra de 
+manuelt indsamlede.  
+Alle cases blev inddelt i fire kategorier: digitale 
+løsninger, naturbaserede og naturinspirerede 
+løsninger, tekniske løsninger og løsninger via 
+samarbejde. Flere cases består af mere end én 
+kategori. Kategorien med ”løsninger via  
+samarbejde” dækker også over formidling hvor  
+løsningen i sig selv er formidling, kunst,  
+vejledninger, alliancer og anden form for  
+samarbejde. Naturbaserede og naturinspirerede 
+løsninger dækker også over løsninger, der f.eks. 
+indeholder rør eller kapillærstrukturer så vel som 
+rene naturbaserede løsninger. 
+Der kan være produceret formidlingsmateriale 
+eller lign. om en specifik klimatilpasningsløsning 
+efter anlæg. Her er det vigtigt at bemærke, at 
+der er skildret mellem disse materialer og selve 
+løsningen. Det er kun selve løsningen, der er 
+blevet grupperet. 
+Da arbejdet med at indsamle klimatilpasnings-
+cases (udover survey) er foregået manuelt,  
+tages der forbehold for cases, der potentielt 
+ikke er blevet inkluderet. Ligeledes tages der 
+forbehold for nyetablerede cases indviet efter 
+dataindsamlingen fandt sted. 
+Bemærk, at vi i dette inspirationskatalog 
+har fokuseret på eksisterende ikke-flytbare 
+løsninger. Der eksisterer også gode mobile 
+løsninger, der kan anvendes til forskellige 
+formål. Begge typer kan være effektive  
+afhængig af formål.
+I      Hvordan er dette katalog udarbejdet?      I
+
+
+I   12   I
+Klimatilpasningscases 
+Region Syddanmark, Region Sjælland, Kreis Nordfriesland, Kreis Ostholstein, Kreis Plön, Kreis 
+Rendsburg-Eckernförde, Kreis Schleswig-Flensburg, Flensburg, Kiel, Lübeck og Neumünster
+
+I   13   I
+Der indgår i alt 90 cases. De 26 er indhentet via den udsendte survey, mens de resterende er tilføjet 
+manuelt via eksisterende kataloger og lister over klimatilpasningsløsninger. Se mere info i  
+metodeafsnittet. Der er i alt 69 danske, 20 tyske og 1 grænseoverskridende case.
+Figur 3: De 90 cases fordelt på cases fra survey (gule) samt cases tilføjet manuelt i projektet - tyske røde og danske blå.
+De 90 cases fordeler sig på de 4 kategorier digitale, naturbaserede/naturinspirerede, tekniske og 
+samarbejde som angivet i tabel 1. Den enkelte case kan godt tilhøre flere kategorier. Der er 72% af 
+de 90 cases som indeholder naturbaserede/naturinspirerede løsninger. 
+Tabel 1: Antal cases fordelt på kategorierne digitale (D), naturbaserede/ 
+naturinspirerede (N), tekniske (T) og samarbejde (S). De sidste seks kolonner  
+er sammensatte kategorier ud fra D, N, T og S. 
+I      Klimatilpasningscases      I
+
+I   14   I
+I      Klimatilpasningscases      I
+Figur 4: Alle 90 cases fordelt på kategorierne digitale (rød), naturbaserede/naturinspirerede (blå), tekniske (grøn) og/eller  
+samarbejde (lilla). Bemærk at nogle er flere kategorier. 
+Nedenfor er alle 90 cases beskrevet. De 10 udvalgte eksempler er fremhævet med billeder.  
+I det kommende afsnit fremgår sidst i formålet for den enkelte case forskellige koder, der er med  
+til at forklare, hvilken kategori de forskellige cases falder under, samt om de er indsendt via survey  
+(S fremgår) eller indsamlet manuelt (M fremgår). Cases kan indgå i flere kategorier, hvor  
+kode-bogstaver vil stå efter hinanden på venstre side af bindestregen, og om det er survey eller 
+manuelt på højre side af bindestregen. F .eks. vil NTS-S være en case, hvor der indgår i  
+naturbaserede og naturinspirerede- og tekniske løsninger samt løsninger via samarbejde,  
+og som er kommet ind via survey. 
+Kodeforklaring:
+N: naturbaserede og naturinspirerede løsninger
+T: tekniske løsninger
+D: digitale løsninger
+S: løsninger via samarbejde
+
+I   15   I
+Figur 5: Alle 90 cases tildelt et nummer fra 1 til 90. 
+I      Klimatilpasningscases      I
+
+I   16   I
+Danske klimatilpasningscases 
+
+I   17   I
+Lokation  
+Region Syddanmark,  
+Odense Kommune,  
+55.45711°, 10.40135°
+Beskrivelse  
+I det nordlige Odense er etableret et nyt naturområde ved 
+vandløbet Everenden. Projektet er et pionerprojekt, der 
+erstatter traditionelle regnvandsbassiner med en løsning 
+baseret på et vådområde og Everenden som vand- 
+korridor. Regnvand fra separatkloakerede områder i Stige og 
+Lumby ledes gennem vådområdet til Everenden og videre til 
+Odense Fjord, hvor op til 90 % af vandet renses undervejs. 
+Vådområdet er udformet med slyngede forløb og  
+sekventerede vanddybder, der sikrer sedimentation og 
+mikrobiel omsætning, mens næringsstoffer og partikler 
+opsamles. Projektet kombinerer klimatilpasning med 
+naturgenopretning, CO₂-tilbageholdelse via skovrejsning og 
+øget biodiversitet. Overskudsjord fra gravearbejdet bruges 
+til at skabe bakker, og Fjernvarme Fyn tester træarter i en 
+klimaskov som ”showroom” for CO₂-optag. Området bliver 
+samtidig et rekreativt udflugtsmål med stier, løberuter,  
+udsigtspunkter og shelters. 
+Formål 
+At udvikle en bæredygtig 
+vandhåndteringsløsning, der  
+kombinerer klimatilpasning,  
+rensning af regnvand og  
+naturforbedring med rekreative 
+muligheder og CO2-reduktion 
+(N-M).
+I      Danske klimatilpasningscases      I
+Lokation  
+Region Sjælland, 
+Roskilde Kommune, 
+55.62697°, 12.08767° 
+Beskrivelse  
+Rabalder Parken i Roskilde er både en skaterpark og et 
+teknisk anlæg til håndtering af regnvand. Parken ligger i 
+Musicon-bydelen mellem festivalpladsen og midtbyen og 
+blev indviet i 2012. Den er designet til at beskytte området 
+mod oversvømmelser ved regnskyl, som statistisk set kun 
+sker hvert 10. år. Anlægget består af en 445 meter lang kanal 
+og tre bassiner – Søen, Engen og Bowlen – der gradvist 
+fyldes med vand under nedbør. Til daglig fungerer området 
+som rekreativt samlingssted med hængekøjer, trampoliner, 
+grillpladser og en populær skaterbane. Projektet kom- 
+binerer klimatilpasning med byliv og har kostet ca. 35  
+millioner kroner, hvoraf merudgiften til de rekreative  
+elementer var 10 millioner. Ansvar for drift er delt mellem 
+Roskilde Forsyning og kommunen, og parken er tegnet af 
+GHB Landskabsarkitekter.
+Formål 
+At skabe et anlæg, der både 
+sikrer Musicon mod over- 
+svømmelser og giver borgerne 
+et attraktivt rekreativt område 
+(NT-M)
+Everenden01
+Rabalderparken02
+
+I   18   I
+Lokation  
+Region Syddanmark, 
+Kolding Kommune, 
+55.49548°, 9.47997°
+Beskrivelse  
+I Kolding bymidte har kommunen og forsyningen – i  
+samarbejde med lokale borgere – omdannet en tidligere 
+nedslidt bypark til et multifunktionelt naturområde, der både 
+forskønner byen og beskytter mod oversvømmelser.  
+Projektet integrerer et regnvandsbassin, som kan holde på 
+store mængder skybrudsvand og dermed aflaste kloak- 
+systemet, så kældre og veje ikke bliver ramt som tidligere. 
+Den nye park rummer stier, broer, blomsterbede, spiselige 
+planter, snoet vandløb, bænke og en klimapavillon, hvilket 
+gør området attraktivt for alle aldersgrupper. Byparken 
+består af tekniske installationer, der allerede før  
+indvielsen viste deres effekt under kraftig regn i marts  
+2019, hvor anlægget hindrede store oversvømmelser.  
+Projektet er det første af flere planlagte klimatilpasnings- 
+projekter i Kolding og kan håndtere en 20-års  
+regnhændelse, mens den samlede fremtidige klima- 
+tilpasning af bymidten skal kunne modstå en 100-års  
+hændelse. Kolding midtby har længe været udsat for 
+oversvømmelser pga. sin lave placering og stor  
+tilstrømning af regnvand fra oplandet. Parken udnytter  
+derfor den optimale geografi til både at håndtere og  
+udnytte regnvandet som en ressource.
+Formål 
+At skabe en grøn byoase, der 
+både håndterer skybrudsvand 
+og forebygger oversvømmede 
+kældre i Kolding midtby (NT-M)
+I      Danske klimatilpasningscases      I
+Kolding Bypark03
+
+
+I   19   I
+Lokation  
+Region Syddanmark, 
+Vejle Kommune, 
+55.714447°, 9.547474° 
+Beskrivelse  
+Klimaprojekt Østbyen er et omfattende klimatilpasnings- 
+projekt, der skal sikre, at regnvandet fra Nørremarken og 
+Store Grundet ledes ud i Vejle Fjord uden at risikere  
+at oversvømme kældre, veje og togskinner i Vejles  
+lavtliggende østlige bydele. Projektet omfatter en ny stor 
+klimaledning under Horsensvej, der hjælper med at dirigere 
+fremtidens nedbør forbi byområder og direkte mod fjorden. 
+Flere delprojekter indgår, bl.a. Moldevej, Abeburet og Roms 
+Hule, hvor regnvandsbassiner og ristesystemer er blevet  
+optimeret, så de kan håndtere markant større mængder 
+vand end tidligere. Tommy Troelsens Park fungerer som 
+både klimatilpasningsanlæg og aktivitetsområde med tre 
+store åbne bassiner, der opmagasinerer vand ved skybrud, 
+men bruges rekreativt i tørvejr. Derudover er Klimaparken 
+ved ØsterBO blevet etableret som en grøn kile med  
+vandkorridor og søer, der både styrer regnvandet og giver 
+beboerne nye muligheder for ophold, leg og natur. Hele 
+løsningen udnytter områdets topografi og forbinder  
+oplandene via et 3,5 km langt vandforløb, der er  
+dimensioneret til at klare en 80–100-års regnhændelse frem 
+mod år 2100. Projektet markerer afslutningen på et flerårigt 
+samarbejde mellem Vejle Kommune, Vejle Spildevand og 
+ØsterBO.
+Formål 
+At lede og håndtere  
+store mængder regnvand  
+kontrolleret, så oversvømmelser 
+i den lavtliggende østlige del af 
+Vejle forebygges, samtidig med 
+at området får nye rekreative 
+værdier (NT-M)
+I      Danske klimatilpasningscases      I
+Lokation  
+Region Syddanmark, 
+Vejle Kommune, 
+55.709137°, 9.551291°
+Beskrivelse  
+Dette projekt er en del af ”Klimaprojekt Østbyen” .  
+Klimaparken i Vejle er første delprojekt i et større klimatil-
+pasningsinitiativ, hvor Vejle Kommune, Vejle Spildevand og 
+ØsterBO samarbejder om at gøre østbyen robust over for 
+fremtidens mere ekstreme regnhændelser. Området er  
+udformet som en grøn kile på omkring 750 meter med en 
+åben vandkorridor, hvor regnvandet kan strømme  
+kontrolleret gennem flere hundrede meter kanalforløb. 
+Parken blev indviet i juni 2020 midt i et voldsomt regnvejr, 
+hvilket straks demonstrerede værdien af den nye  
+vandkorridor. Klimaparken er ét af fem delprojekter, som 
+tilsammen fører regnvandet fra de nordlige dele af Vejle 
+østby via en ca. 3,5 km lang vandvej ned mod Vejle Fjord 
+(se casen ”Klimaprojekt Østbyen). Baggrunden for projektet 
+er gentagne oversvømmelser i området, hvor både kældre, 
+udearealer og togdriften har været ramt, fordi regnvandet fra 
+oplandet naturligt samles i den lavtliggende østby.
+Formål 
+At lede regnvandet sikkert og 
+kontrolleret mod fjorden, så 
+oversvømmelser af kældre, veje 
+og boligområder i den østlige 
+del af byen undgås (N-M)
+Klimaprojekt Østbyen04
+Klimapark Vejle05
+
+I   20   I
+Lokation  
+Region Syddanmark, 
+Vejle Kommune, 
+55.71371°, 9.54656°
+Beskrivelse  
+Tommy Troelsens Park er et centralt delprojekt i Klimaprojekt 
+Østbyen og fungerer som et område, der både håndterer 
+store vandmængder og skaber nye muligheder for  
+aktiviteter og ophold. Parken rummer tre store åbne  
+bassiner, der træder i funktion, når kraftig regn rammer 
+byen, og opmagasinerer vandet, så det ikke strømmer videre 
+mod de lavtliggende bydele. I tørvejr bruges området som 
+et rekreativt byrum, hvor borgere kan opholde sig, spille 
+bold, lege og færdes i et grønt miljø – uden at kunne se, at 
+bassinerne fungerer som teknisk infrastruktur. Parken ligger 
+strategisk placeret ved Vejle Friskole og indgår i en større 
+vandvej, hvor vand fra nordlige oplande ledes mod fjorden 
+gennem rør, bassiner og vandkorridorer. Bassinerne i parken 
+udgør tilsammen en kapacitet på ca. 5.300 m³ og er en 
+vigtig buffer, når ledningen længere nede i systemet ikke kan 
+rumme mere vand. Tommy Troelsens Park er dermed både 
+en klimatilpasningsløsning og et nyt grønt byrum.
+Formål 
+At opmagasinere store mæng-
+der regnvand ved skybrud 
+og samtidig fungere som et 
+rekreativt område for lokalbe-
+folkningen (T-M)
+I      Danske klimatilpasningscases      I
+Lokation  
+Region Syddanmark, 
+Middelfart Kommune, 
+55.484143°, 9.932817°
+Beskrivelse  
+Projektet demonstrerer en danskudviklet  
+HydroSeparator-teknologi, der gør det muligt at rense  
+regnvand for partikler inden udledning til recipient.  
+Teknologien er fuldautomatisk og kræver minimal  
+vedligeholdelse, hvilket gør den egnet i tætte bymiljøer,  
+hvor plads til traditionelle bassiner er begrænset.  
+HydroSeparatoren har siden 2008 renset regnvand i nye 
+boligområder ved Københavns havn, hvor målinger  
+dokumenterer 50–80 % reduktion i suspenderet stof  
+samt en betydelig reduktion af miljøfarlige stoffer.  
+Udledningsværdierne ligger typisk mellem 20 og 30 mg/L 
+suspenderet stof. Teknologien er også afprøvet i Middelfart, 
+hvor den har renset overløbsvand før udledning til vandløb 
+og strand. Renseprocessen kombinerer flere mekanismer: 
+et bassin tilbageholder det mest urene vand, lameller fanger 
+større partikler, og et finmasket filter tilbageholder de  
+mindre. Efter hvert regnskyl spules tanken, og spulevandet 
+ledes til spildevandssystemet. Anlægget kan behandle 200 
+liter vand i sekundet under normale forhold, men kan skrues 
+op til 4.000 liter per sekund under ekstreme regnhændelser 
+– dog med lavere rensegrad for at undgå oversvømmelser.
+Formål 
+At rense forurenet  
+overfladevand så effektivt, 
+at det kan udledes direkte til 
+havne, søer og vandløb uden at 
+forringe vandkvaliteten (T-M)
+Tommy Troelsens Park06
+Effektiv rensning af regnvand07
+
+I   21   I
+I      Danske klimatilpasningscases      I
+Lokation  
+Region Syddanmark, 
+Odense Kommune, 
+55.39338°, 10.371751°
+Beskrivelse  
+VandCenter Syd har etableret en 430 m2 permeabel  
+parkeringsplads, der fungerer som et testanlæg for vand-
+gennemtrængelige belægninger, som kan reducere belast-
+ningen på kloaksystemet under kraftig regn. Den permeable 
+overflade lader regnvandet sive direkte gennem  
+belægningssten og fugegrus ned til underliggende lag,  
+hvor vandet ledes videre til en faskine uden om kloakken. 
+Pladsen blev anlagt i 2012 og har siden vist sig at fungere  
+effektivt, selv ved kunstigt tilførte store vandmængder, uden 
+at der skete overløb til kloaksystemet. Projektet er udviklet 
+som reaktion på de massive oversvømmelser, der har  
+udfordret større danske byer, hvor traditionelle tætte  
+overflader som asfalt og beton forværrer problemerne ved  
+at forhindre nedsivning. Løsningen demonstrerer,  
+hvordan permeable befæstelser kan fungere som en effektiv 
+skybrudssikring ved at lade vandet forsvinde dér, hvor det 
+falder, frem for at presse det videre ind i forsyningssystemet. 
+Projektet er stadig i brug. Tagvandet fra VandCenter Syds 
+nye kontorbygning ledes ligeledes ud på parkeringspladsen 
+for yderligere at teste kapacitet og effekt.
+Formål 
+At afprøve permeable 
+belægninger som en løsning, 
+der kan nedsive regnvand 
+direkte lokalt og derved aflaste 
+kloaksystemet og forebygge 
+oversvømmelser i byen (T-M)
+Lokation  
+Region Syddanmark, 
+Assens Kommune, 
+55.343257°, 10.189576°
+Beskrivelse  
+I Tommerup Stationsby har Assens Kommune og Assens 
+Forsyning etableret tre nye regnvandssøer, Tallerupsøerne, 
+som udgør Vestfyns største klimatilpasningsanlæg. Søerne 
+kan rumme op til 22.000 m³ vand og forbindes af åbne, 
+slyngede kanaler, der ved kraftig regn får dem til at fungere 
+som én samlet sø. Områdets naturlige kuperede landskab  
+er udnyttet og forstærket ved at grave lavninger dybere  
+og bruge overskudsjord til at skabe bakker. Kort efter  
+anlæggets færdiggørelse faldt der 110 mm regn på én 
+måned uden at forårsage de oversvømmelser, som tidligere 
+ramte byen. Søerne håndterer ikke kun regnvand, men også 
+store mængder drænvand fra skovarealer syd for byen, som 
+tidligere belastede området voldsomt. Vandet ledes videre 
+via et styret rørsystem til Brende Å, når søerne er fyldte.  
+Lokale borgere har aktivt bidraget til at udforme området 
+som et rekreativt landskab med stier og opholdsområder. 
+Den rekreative del stod færdig i 2022, mens det tekniske 
+anlæg har en forventet levetid på 50 år.
+Formål 
+At tilbageholde store mængder 
+regn- og drænvand i  
+Tommerup Stationsby gennem 
+etablering af tre forbundne  
+regnvandssøer, så byen  
+beskyttes mod oversvømmelser 
+(N-M)
+Permeabel parkeringsplads08
+Tallerupsøerne09
+
+I   22   I
+I      Danske klimatilpasningscases      I
+Lokation  
+Region Syddanmark, 
+Assens Kommune, 
+55.23149°, 10.122409°
+Beskrivelse  
+Projektet i Haarby indebærer, at ca. 1,2 kilometer af Haarby 
+Å er blevet genslynget og ført tilbage til et mere naturligt 
+forløb. Det nyetablerede vådområde på 32 hektar rummer 
+fire søer, som tilbageholder overskydende vand ved kraftig 
+regn og dermed reducerer risikoen for oversvømmelse 
+nedstrøms i Haarby. Vådområdet fungerer som en buffer, 
+hvor vandløbet kontrolleret kan løbe over sine bredder uden 
+at belaste byen. Projektet bidrager samtidig til at mindske 
+udledningen af kvælstof til Helnæs Bugt, da vådområdet 
+fremmer nedbrydning af kvælstof. Inden genslyngningen 
+oplevede Haarby jævnligt oversvømmede kældre ved regn 
+og vandmættet jord, men denne risiko er nu betydeligt  
+reduceret. Projektet, der udsprang af Vandmiljøplan II,  
+krævede omfattende aftaler med lodsejere og blev afsluttet 
+i 2014.  
+Formål 
+At genslynge Haarby Å og  
+etablere et vådområde, som  
+reducerer risikoen for 
+oversvømmelse i Haarby og 
+samtidig forbedrer vandmiljøet 
+(N-M)
+Genslyngning af Haarby Å10
+
+I   23   I
+11 
+Glisholm Sø
+Lokation: Region Syddanmark, Odense Kommune, 55.35194°, 10.42855°
+
+I   24   I
+Beskrivelse  
+Glisholm Sø er en regnvandssø, der blev etableret i 2015–
+2016 for at opsamle og tilbageholde regnvand inden udled-
+ning til Lindved Å.  Søen renser regnvandet fra et opland  
+svarende til ca. 70 fodboldbaner, hvilket reducerer  
+belastningen på vandløb og kloaksystemer.  Området er 
+udstyret med fugleøer og vådområder, der styrker  
+biodiversiteten og tiltrækker mange fuglearter.  Søen  
+fungerer samtidig som et stort klimatilpasningsanlæg, der 
+beskytter mod oversvømmelser ved at opmagasinere  
+regnvand.  Anlægget inkluderer også et sandfang, som 
+filtrerer sand, grus og olierester fra regnvandet.  Projektet 
+kombinerer klimatilpasning, naturbeskyttelse og rekreativ 
+værdi og blev i 2018 kåret som en af Danmarks 100 bedste 
+klimaløsninger.
+Formål 
+At forsinke og rense regnvand og samtidig skabe et 
+rekreativt og naturforbedrende område (N-M)
+I      Danske klimatilpasningscases      I
+
+
+I   25   I
+12 
+Bypark med merværdi
+Lokation: Region Sjælland, Ringsted Kommune, 55.44694°, 11.79753°
+
+I   26   I
+Beskrivelse  
+Ringsted Kommune og Ringsted Forsyning har etableret en 
+bypark, der både fungerer som rekreativt område og som 
+beskyttelse mod oversvømmelser. Parken håndterer  
+regnvand fra et nærliggende boligområde og er  
+dimensioneret til at kunne forsinke vandmængder fra en 
+100-årshændelse. Regnvandet forsinkes i otte bassiner og 
+ledes gennem parken via åbne render, mens et filteranlæg 
+sørger for rensning af vandet. Tre bassiner har dobbelt- 
+funktion og bruges både som fodboldbane i tørre perioder 
+og som biotop med insekthotel. De resterende fem bassiner 
+er udformet som blomstrende engområder, der gavner  
+insektlivet. Borgerinddragelse har været centralt, og  
+lokale ønsker er blevet indarbejdet i parkens design. Parken 
+bidrager samtidig til klimaresiliens for daginstitutioner,  
+boliger og et indkøbscenter, som nu beskyttes mod 
+oversvømmelser. 
+Formål 
+At klimasikre et oversvømmelsestruet boligområde ved at 
+forsinke, rense og lede regnvand gennem en rekreativ by-
+park (NT-M)
+I      Danske klimatilpasningscases      I
+
+
+I   27   I
+13 
+Grønnehave Bæk
+Lokation: Region Sjælland, Odsherred Kommune, 55.917434°, 11.657874°
+
+I   28   I
+Beskrivelse  
+Nykøbing Sjælland er stærkt udsat for skybrud og stormflod, 
+og Odsherred Kommune har derfor udarbejdet en klimatil-
+pasningsplan, der kombinerer kystsikring, byudvikling og 
+naturforbedring. Planen omfatter bl.a. en kystbeskyttelse 
+svarende til en 50-årshændelse i 2050, som beskytter 
+55.000 m2 stueareal, 3.000 m2 kældre og 29 virksomheder, 
+med et potentielt skadebesparelsesniveau på op til 500 mio. 
+kr.  Et centralt delprojekt er Grønnehave Bæk, hvor regnvand 
+fra et 120 ha opland og et villakvarter ledes uden om byen 
+via et nyt kystnært vandløb, hvilket reducerer risikoen for 
+oversvømmelser i lavtliggende områder.  Projektet bygger 
+på nye afvandingsløsninger, hvor regnvandet samles og 
+renses i vådområder og et genslynget vandløb i Grønnehave 
+Skov, samtidig med at naturkvalitet og rekreative muligheder 
+øges.  Initiativet er udviklet i tæt samarbejde mellem  
+kommune, forsyning, naturorganisationer og lokale borgere 
+og integrerer planer for havneområde, byudvikling og  
+turisme.
+Formål 
+At lede regnvand uden om byen 
+og samtidig sikre kystnære 
+og lavtliggende områder mod 
+oversvømmelser, mens natur, 
+byudvikling og rekreative  
+værdier styrkes (N-M)
+I      Danske klimatilpasningscases      I
+
+
+I   29   I
+Lokation  
+Region Syddanmark, 
+Fredericia Kommune, 
+55.559834°, 9.760737°
+Beskrivelse  
+Fredericia er i gang med en omfattende transformation, hvor 
+et tidligere industriområde omdannes til en kanalby, der skal 
+klimasikre både havnen og bymidten mod stigende  
+vandstande og stormflod.  Projektet bygger på  
+terrænhævninger og diger, som integreres i en promenade 
+langs kanalerne i op til 2,5 meters højde over dagligt vande, 
+hvilket forhindrer oversvømmelser og samtidig giver  
+offentlig adgang helt ned til vandet.  Kanalbyen udvikles på 
+ca. 20 ha og kommer til at rumme op mod 2.800  
+arbejdspladser og 1.200 boliger.  Området er formet som en 
+moderne kanalby med inspiration fra Fredericias historiske 
+byplan og fæstningsstruktur.  Klimasikringsløsningerne er 
+udformet, så de samtidig fungerer som byrum med  
+siddemøbler, træer og offentlig adgang til kanalerne.   
+Forurenet jord indkapsles ved hjælp af ren jord fra  
+kanaludgravningerne, hvilket både er bæredygtigt og  
+sikrer stabile terrænhævninger. 
+Formål 
+At omdanne et tidligere  
+industriområde til en  
+kystnær bydel, der beskytter 
+mod stormflod og  
+havvandsstigninger og skaber 
+attraktive rammer for boliger, 
+arbejdspladser og rekreativitet 
+(T-M)
+I      Danske klimatilpasningscases      I
+Lokation  
+Region Syddanmark, 
+Svendborg Kommune, 
+55.07061°, 10,618485°
+Beskrivelse  
+Svendborg Kommune har udviklet en innovativ og omkost-
+ningseffektiv løsning, der udnytter skovområdet Caroline 
+Amalielund til at tilbageholde regnvand fra skybrud og 
+kraftige regnhændelser. Vandporten kan opmagasinere op 
+til 23.000 m³ vand, hvilket forhindrer Trappebækken i at løbe 
+over sine bredder og oversvømme bymidten.  Løsningen kan 
+beskytte byen mod en 75-års regnhændelse svarende til ca. 
+100 mm nedbør over fire timer og reducerer den  
+maksimale vandføring fra 5–6 m³/s til omkring 1,2 m³/s.  
+Projektet erstatter dyre nedgravede betonløsninger og har 
+en etableringspris, der er 15 gange lavere end et tilsvarende 
+betonbassin.  Kommunen sparer årligt omkring 5,4 mio. kr. 
+i undgåede skader, hvilket betyder, at anlægget reelt tjente 
+sig selv hjem allerede ved første større skybrud. Derudover 
+skaber den midlertidige oversvømmelse et naturligt  
+vådområde, hvor der bl.a. er etableret fiskepassage til ørred.  
+Projektet demonstrerer en synergieffekt mellem natur, 
+klimatilpasning og økonomi og er et eksempel på, hvordan 
+bynær skov kan bruges aktivt til skybrudssikring.  
+Formål 
+At klimasikre Svendborgs indre 
+by ved at tilbageholde store 
+mængder regnvand i et  
+nærliggende skovområde som 
+et billigt alternativ til dyre  
+betonbassiner (T-M)
+Kanalbyen14
+Vandporten i skoven15
+
+I   30   I
+Lokation  
+Region Sjælland,  
+Guldborgsund  
+Kommune,  
+54.6518°, 11.92982°
+Beskrivelse  
+I 2015 gennemførte Guldborgsund Kommune et omfattende 
+naturgenopretningsprojekt, hvor Bøtø Nor blev omdannet til 
+et permanent vådområde på omkring 190 hektar.  
+Omlægningen omfattede tilstopning af grøfter og dræn 
+samt etablering af en tre kilometer lang plastmembran, der 
+gør det muligt for området at holde på vandet året rundt. 
+Projektet styrker levevilkårene for en lang række plante- og 
+dyrearter, som trives i det særlige tørre klima på Sydfalster. 
+Samtidig gør vådområdet det muligt at dræne vand væk fra 
+de nærliggende sommerhusområder under kraftige  
+regnhændelser. Ved udvidelsen af vådområdet er  
+området nu i stand til at håndtere en 100-års regnhændelse 
+og dermed forebygge omfattende oversvømmelser.  
+Projektet har desuden forbedret biodiversiteten markant 
+ved at udvide naturarealet fra ca. 85 til 190 hektar. Flere 
+lodsejere har frivilligt omlagt landbrugsjord til natur, hvilket 
+understreger det brede lokale samarbejde. Kommunen har 
+med projektet formået at styrke både klimaindsatsen og 
+naturværdierne i ét samlet tiltag.
+Formål 
+At kombinere naturgenopret-
+ning og klimasikring ved at 
+skabe et stort vådområde, som 
+både øger biodiversiteten og 
+beskytter omkringliggende 
+områder mod oversvømmelser 
+(N-M)
+I      Danske klimatilpasningscases      I
+Lokation  
+Region Syddanmark, 
+Assens Kommune, 
+55.317450°, 10.210339°
+Beskrivelse  
+I Tommerup står både det rørlagte vandløb  
+Rævedamsafløbet og byens kloaksystem over for stigende 
+pres fra øgede regnmængder. Assens Kommune og Assens 
+Forsyning har derfor indledt et tæt samarbejde om at føre 
+det ca. 1.3 km lange vandløb frem i lyset igen og samtidig 
+adskille det fra byens regnvand.  Regnvandet ledes 
+i stedet gennem den gamle rørføring til tre nye  
+forsinkelsesbassiner, der fungerer som små søer, hvor  
+vandet renses og tilbageholdes, inden det langsomt udledes 
+til vandløbet. Beregninger viser, at løsningen kan reducere 
+skadesomkostninger med 106 mio. kr. over 100 år,  
+samtidig med at CO₂-bindingen i jorden øges.  
+Genåbningen af vandløbet har også genskabt vigtige  
+kulturelle og landskabelige værdier og styrket  
+spredningsmuligheder for dyr og planter.  
+Formål 
+At genåbne  
+Rævedamsafløbet og skabe et 
+naturligt vandløbssystem, der 
+både reducerer  
+oversvømmelsesrisikoen og 
+skaber nye rekreative og  
+naturmæssige kvaliteter i byen 
+(N-M)
+Vådområde forhindrer oversvømmelser16
+Genåbning af vandløb17
+
+I   31   I
+Lokation  
+Region Syddanmark, 
+Tønder Kommune, 
+55.060309°, 8.830041°
+Beskrivelse  
+Med nedlæggelsen af Bredebro Renseanlæg i 2024 har 
+Tønder Kommune og Tønder Forsyning set muligheden for 
+at etablere en risleeng som alternativ til traditionelle dyre  
+bassinanlæg. Risleengen efterligner naturens egne  
+rensningsprocesser, hvor vand langsomt filtreres gennem 
+vådområder, søer og åløb, før det når videre ud i  
+vandkredsløbet. I Danmark har man ofte anvendt  
+betonbassinløsninger, men ved at vælge en risleeng skaber 
+kommunen et område, hvor både biodiversitet, natur- og 
+friluftsliv kan blomstre. Risleengen kan effektivt tilbageholde 
+og rense større mængder regnvand, hvilket bidrager til at 
+løse kapacitetsproblemer i de eksisterende  
+spildevandssystemer. Projektet er dermed både en  
+økonomisk fordelagtig og miljømæssig bæredygtig løsning. 
+Det styrker samtidig lokalområdets naturværdier og giver 
+borgerne et rekreativt landskab med høj oplevelsesværdi. 
+Formål 
+At håndtere regn- og 
+spildevandsmængder på en 
+naturbaseret måde ved at  
+etablere et vådområde, der 
+både renser og forsinker vandet 
+og samtidig skaber rekreativ og 
+biologisk merværdi (N-M)
+I      Danske klimatilpasningscases      I
+Lokation  
+Region Syddanmark, 
+Middelfart Kommune, 
+55.504541°, 9.718336°
+Beskrivelse  
+Middelfart Kommune arbejder strategisk med klimatilpas-
+ning gennem Klimalaboratoriet, hvor læring, erhvervsud-
+vikling og byudvikling kobles for at demonstrere klima- og 
+energiløsninger i fuld skala. KlimaByen er et af kommunens 
+centrale projekter under Klimalaboratoriet og omfatter fire 
+områder, der viser forskellige typer regnvandshåndtering 
+på overfladen fremfor i kloakken.  Vandet ledes gennem 
+regnbede, render og terrænformede løsninger, som aflaster 
+rørsystemerne og samtidig skaber smukke og grønne byrum. 
+KlimaByen udgør et område på ca. 450.000 m2 med stor 
+terrænforskel, hvor vandets naturlige løb bruges aktivt i 
+designet.  Borgerinddragelse har bidraget til løsninger, der 
+både skaber rekreation, fællesskab, læringsmiljøer og øget 
+biodiversitet. Projektet rummer elementer som regnhaver, 
+intelligent varmestyring og “Fremtidens Vandvej” og  
+fungerer som en levende showcase for andre kommuner. 
+Projektet er blevet fremhævet som et af Danmarks mest 
+ambitiøse klimatilpasningsprojekter.
+Formål 
+At udvikle en klimarobust bydel, 
+hvor regnvand håndteres på 
+overfladen gennem innovative 
+blå-grønne løsninger, der  
+samtidig skaber attraktive 
+byrum og inspirerer andre 
+ kommuner (DNT-M)
+Risleengen i Bredebro18
+Klimabyen19
+
+I   32   I
+20
+Lokation  
+Region Syddanmark, 
+Middelfart Kommune, 
+55.504354°, 9.722836°
+Beskrivelse  
+På Ældrecenter Skovgade er en tidligere parkeringsplads 
+blevet omdannet til KlimaHaven – et grønt frirum med  
+orangeri, pergolaer, musikinstrumenter, træningsredskaber 
+og planteliv, udviklet i tæt dialog med beboerne. Haven  
+fungerer som et mødested, hvor beboere, naboer,  
+børnehaver og dagplejere samles om aktiviteter og  
+fællesskab. LAR-løsningerne er centrale: regnvandet  
+afkobles fra ca. 4.000 m2 tagareal og 2.000 m2  
+parkerings- og indkørselsarealer og ledes til  
+nedsivningsgrøfter, græslavninger og regnbede, som kan 
+tilbageholde 5–20 cm vand ved skybrud.  Disse løsninger 
+sikrer, at ca. 6.000 m2 regnvand ikke længere belaster 
+fælleskloakken, men i stedet nedsiver på stedet.   
+KlimaHaven er en del af Klimalaboratoriet, hvor Middelfart 
+Kommune tester nye klimatilpasningsmetoder og inspirerer 
+grundejere til selv at håndtere regnvand lokalt.  
+Formål 
+At skabe et grønt og socialt 
+samlingssted ved Ældrecenter 
+Skovgade, der samtidig  
+håndterer regnvand lokalt 
+gennem LAR-løsninger og 
+aflaster fælleskloakken (N-M)
+I      Danske klimatilpasningscases      I
+Lokation  
+Region Syddanmark, 
+Middelfart Kommune, 
+55.50448°, 9.71306°
+Beskrivelse  
+Skovkvarteret er det højest beliggende område i KlimaByen 
+og udnytter terrænfaldet mod Aktivitetsskoven og 
+Langedam/Postens Rende til at aflede regnvand naturligt. 
+Regnvand håndteres på overfladen gennem vejbede, åbne 
+render og nedsivningsløsninger, hvor hverdagsregn  
+nedsives, og skybrud ledes kontrolleret videre til rekreative 
+vådområder. Regnbedene er udstyret med dræn og  
+erosionsbeskyttelse og er dimensioneret til en 20-års  
+regnhændelse. Områdets beplantning er naturpræget og 
+inspireret af skovmiljøet. Vejbedene reducerer antallet af 
+p-pladser og kræver borgerinddragelse, hvilket har skabt 
+diskussioner, men samtidig fremmet lokalt ejerskab. 
+Formål 
+At håndtere regnvand på  
+overfladen gennem regnbede, 
+terrænudnyttelse og naturlig 
+nedsivning, så kloaksystemet 
+aflastes samtidig med, at  
+området bliver grønnere og 
+mere rekreativt (NT-M)
+KlimaHaven
+Skovkvarteret21
+
+I   33   I
+I      Danske klimatilpasningscases      I
+Lokation  
+Region Syddanmark, 
+Middelfart Kommune, 
+55.50358°, 9.71427°
+Beskrivelse  
+Aktivitetsskoven udgør et af de fire hovedområder i 
+KlimaByen og fungerer som samlepunkt for regnvand fra 
+Skovkvarteret samt omkringliggende veje og boligområder. 
+Her ledes vandet gennem grøfter, lavninger og små søer, 
+som naturligt nedsiver og forsinker vandet, inden det sendes 
+videre til Langedam/Postens Rende. Landskabet er  
+udformet så flere vandveje mødes og skaber både  
+vådområder og rekreative zoner. Mellem bækkene er der 
+etableret tre lysninger: en legelysning, en atletiklysning og 
+en boldlysning, alle omgivet af træer og forbundet med 
+broer i naturmaterialer. Det sidste bassin har udviklet sig til 
+en permanent sø, hvilket ikke var planlagt, men nu bidrager 
+positivt til områdets udtryk. Driftserfaringer viser  
+udfordringer med brændenælder, slid på broer og  
+materialevalg, men områdets rekreative værdi og hyppige 
+brug understreger projektets succes.
+Formål 
+At fungere som et centralt  
+regnvandsanlæg, hvor  
+overfladevand fra de  
+omkringliggende områder ledes 
+til et grønt, rekreativt landskab, 
+der både forsinker, nedsiver og 
+renser regnvandet (N-M)
+22 Aktivitetsskoven
+
+I   34   I
+23 
+Allekvarteret 
+Lokation: Region Syddanmark, Middelfart Kommune, 55.504896°, 9.720005°
+
+I   35   I
+Beskrivelse  
+Projektet i Allekvarteret er en del af KlimaByen Middelfart og 
+omfatter klimatilpasning af et eksisterende villakvarter, hvor 
+store private haver og terrænfald udnyttes til lokal ned-
+sivning og overfladehåndtering af regnvand. I kvarteret er 
+vejene bredere end nødvendigt, hvilket har muliggjort  
+etableringen af vejbede, der opsamler og nedsiver hver- 
+dagsregn og håndterer større regnhændelser via dræn  
+og overløb. Regnvandet ledes i nogle tilfælde videre til  
+bassiner, vandtrapper og til sidst til Lillebælt gennem et 
+terrænbaseret afløbssystem. Projektet kombinerer tekni-
+ske løsninger med æstetiske forbedringer, bl.a. gennem 
+allétræer og grønne vejprofiler, som giver gadebilledet et 
+frodigt udtryk. Borgere har været inddraget i udformnin-
+gen, og hensyn til parkering, udsyn og adgangsforhold har 
+præget de endelige løsninger. Driftserfaringer viser, at kor-
+rekt placerede indløb til regnbede, passende dimen- 
+sionerede sandfang og god beplantning er vigtige for an-
+læggets funktion og æstetik. Overordnet fungerer anlægget 
+som planlagt og viser, at regnvandshåndtering på overfladen 
+både kan være funktionel, skalerbar og visuelt attraktiv.
+Formål 
+At skabe effektiv og synlig klimatilpasning gennem lokal 
+håndtering af regnvand, samtidig med at byområdet gøres 
+grønnere, mere attraktivt og robust over for fremtidens  
+nedbør (NT-M)
+I      Danske klimatilpasningscases      I
+
+
+I   36   I
+Lokation  
+Region Syddanmark, 
+Middelfart Kommune, 
+55.50539°, 9.720312°
+Beskrivelse  
+I et mindre projekt i Allekvarteret opsamles vejvand i  
+bassiner med permanent vådvolumen. Bassinet var plaget af 
+alger, hvilket gav et uæstetisk udtryk. For at løse problemet 
+har Green Solutions udviklet to flydende planteøer, der via 
+deres rodnet opsamler næringsstoffer og reducerer  
+algevækst. Øerne måler 1 x 2 meter og består af kokosfiber 
+og robuste danske stauder og græsser, som bidrager til 
+både visuel værdi og øget biodiversitet – også i  
+vinterhalvåret. Planteøerne er centralt placeret i bassinet og 
+forbedrer både vandkvalitet og naturindtryk i området.
+Formål 
+Rensning af vejvand i  
+opsamlingsbassiner som en 
+NbS (N-S)
+I      Danske klimatilpasningscases      I
+Lokation  
+Region Syddanmark, 
+Middelfart Kommune, 
+55.503775°, 9.722992°
+Beskrivelse  
+Projektet i bykvarteret er en del af KlimaByen Middelfart. 
+Bykvarteret omfatter historiske, smalle bygader samt  
+havneområdet, hvor regnvandet bevidst ledes på overfladen 
+i stedet for i traditionelle kloaksystemer. Hustage er afkoblet 
+fra kloakken, og tagvand føres via render direkte ud på  
+vejene, hvor det indgår i det samlede afløbssystem. I  
+kvarterets centrale gader er der etableret en trugformet 
+vejprofil, inspireret af sydeuropæiske bjergbyer, så vandet 
+naturligt kan strømme mod havnen og videre ud i Lillebælt. 
+Belægningen er udført i asfalt eller brosten afhængigt af 
+kulturhistoriske hensyn og borgerinddragelse, og løsningen 
+kan håndtere en 100-årshændelse. På Havnepladsen  
+formidles fortællingen om vandet gennem en klinkemur, der 
+samtidig fungerer som opholdssted med udsigt over bæltet. 
+Inden udløb renses regnvandet i sandfang og olieudskiller, 
+og målinger viser en 50 % reduktion i vandføring ved regn, 
+som forventet ud fra beregninger. Driftsmæssigt kræver 
+de smalle gader særlig opmærksomhed på sikring af huse, 
+håndtering af sandophobninger og borgerinformation, da 
+regnvandet bevæger sig synligt på overfladen.
+Formål 
+At håndtere regnvand synligt 
+på overfladen gennem  
+terrænbaserede løsninger,  
+der både beskytter mod 
+oversvømmelser og styrker 
+byens historiske og rekreative 
+kvaliteter (T-M)
+24 Planteøer til regnvandsbassiner
+25 Bykvarteret
+
+I   37   I
+Lokation  
+Region Sjælland,  
+Solrød Kommune, 
+55.53356°, 12.20972°
+Beskrivelse  
+Kilen er et klimatilpasningsprojekt, der håndterer regnvand 
+fra nærliggende oplande ved at opsamle og forsinke vandet, 
+før det ledes videre til Solrød Bæk. Anlægget består af to 
+bassiner: et mindre grønt bassin opbygget af gabioner og 
+beplantet med sump- og vandplanter samt et større  
+betonbassin med integrerede sportsaktiviteter som  
+basketball og crossfit. De to bassiner forbindes af en ca. 2 
+meter bred asfaltkanal, som kan rumme ca. 475 m³ vand og 
+kun fyldes i perioder med kraftig regn. Det mindre bassin 
+fungerer som et regnbed med periodisk  
+vandspejl, gennemskåret af en sti på en flydebro, mens det 
+store bassin kan bruges til både leg, ophold og træning 
+i tørvejr. I dagligdagen fungerer anlægget som et aktivt 
+byrum for både Solrød Gymnasium og områdets borgere, 
+mens det ved skybrud kan opmagasinere betydelige  
+vandmængder. Vandet ledes fra det store bassin gennem en 
+rist til en pumpestation, hvorfra det pumpes til Solrød Bæk, 
+indtil bassinerne igen er tørre. 
+Formål 
+At forsinke og magasinere 
+regnvand ved skybrud, samtidig 
+med at området fungerer som 
+et multifunktionelt og aktivt 
+byrum for borgere og elever 
+(NT-M)
+I      Danske klimatilpasningscases      I
+Lokation  
+Region Syddanmark, 
+Odense Kommune, 
+55.366218°, 10.352281°
+Beskrivelse  
+På Ejersmindevej i Odense har kraftige oversvømmelser i 
+2006 og 2007 gjort det nødvendigt at udvide kapaciteten af 
+et nærliggende regnvandsbassin, der modtager vand fra et 
+separatkloakeret opland. Syv berørte grundejere indgik  
+frivillige aftaler om salg af deres ejendomme til VandCenter 
+Syd, så bassinet kunne udvides til ca. 7.000 m³.  
+Opkøbsløsningen blev valgt efter en proces med  
+borgerinddragelse, hvor 10 løsningsmuligheder var i 
+spil. Priserne på husene blev fastlagt på baggrund af 
+gennemsnittet af tre lokale ejendomsmægleres vurderinger, 
+udpeget af grundejerne og godkendt af VandCenter Syd. 
+Projektet forbedrer områdets rekreative værdi gennem nye 
+regnvandsbassiner, beplantning og stier omkring  
+bassinerne. Der blev desuden etableret et ekstra regnvands-
+bassin på Mågebakken på ca. 3.000 m³, hvilket øger det 
+samlede bassinvolumen til 10.000 m³. 
+Formål 
+At forhindre gentagne 
+oversvømmelser ved at udvide 
+regnvandsbassinets kapacitet 
+gennem frivillige boligopkøb 
+og etablering af nye bassiner 
+(N-M)
+26 Magasinering af regnvand i Kilen
+27 Regnvandsbassin Ejersmindevej
+
+I   38   I
+Lokation  
+Region Sjælland,  
+Faxe Kommune, 
+55.315214°, 11.965358°
+Beskrivelse  
+Projektet anvender regnvand fra en 8 meter høj beholder, 
+hvor vandet tappes gennem en ventil, så elever kan arbejde 
+med vandtryk og drive små installationer såsom en vand-
+mølle, der genererer strøm. Regnvandet erstatter drikkevand 
+i undervisningsforsøg, hvilket både reducerer forbrug og 
+skaber en mere bæredygtig undervisningspraksis. Eleverne 
+får mulighed for at se konkrete sammenhænge mellem vand, 
+energi og mekanik, hvilket gør natur- og biologi- 
+undervisningen mere anvendelsesorienteret og  
+oplevelsesbaseret. Projektet er udviklet af Claus Mouritsen 
+og realiseret i samarbejde med Haslev Privatskole og Faxe 
+Forsyning. Skolen oplever stor begejstring blandt eleverne, 
+som beskriver undervisningen som sjovere og mere  
+motiverende gennem hands-on aktiviteter. Løsningen 
+kræver minimal drift, da tanken blot skal bundrenses cirka 
+hvert andet år. 
+Formål 
+At bruge opsamlet regnvand 
+som en aktiv del af natur- 
+fagsundervisningen, så  
+eleverne kan eksperimentere 
+med vandtryk, energi og miljø 
+uden at bruge drikkevand  
+(TS-M)
+I      Danske klimatilpasningscases      I
+Lokation  
+Region Syddanmark, 
+Odense Kommune, 
+55.35898°, 10.399511°
+Beskrivelse  
+Agerlandvej er en ca. 150 meter lang blind villavej, hvor den 
+eksisterende belægning er udskiftet til permeabel  
+drænasfalt med indbygget faskinefunktion i bærelaget, 
+så vejvandet kan opmagasineres og nedsives i jorden. 
+Belægningen består af flere lag, herunder ca. 5 cm  
+dræn-GAB og 3 cm dræn-slidlag, der gør overfladen  
+vandgennemtrængelig. For at styre strømningen i vejens 
+længderetning er drænstabilen opdelt med  
+bentonitmåtter på tværs, så vandet bremses og fordeles 
+uden at løbe uhensigtsmæssigt i vejbanen. Vejkassen er 
+desuden tæthedssikret ud mod fortovene for at forhindre 
+udsivning, og stikledningerne ind til husene er afproppet 
+for at sikre, at vand ikke kan trænge ind. Der er etableret 
+prøveudtagningsbrønde og særlige overløbsbrønde til 
+kontrol og drift af systemet. Projektet stiller høje krav til 
+udførelsen, herunder at undgå komprimeres eller forurenes 
+med partikler. 
+Formål 
+At nedsive vejvand direkte 
+gennem en permeabel  
+asfaltbelægning, så  
+regnvandet kan magasineres  
+og håndteres lokalt uden at 
+belaste afløbssystemet (T-M)
+28 Regnvand som led i undervisningen
+29 Permeabel asfalt på Agerlandsvej
+
+I   39   I
+Lokation  
+Region Syddanmark, 
+Middelfart Kommune, 
+55.455867°, 9.874570°
+Beskrivelse  
+Boligforeningen Bøgeparken består af 81 boligenheder,  
+der har valgt at afkoble alt regnvand fra kloakken og i  
+stedet håndtere det gennem terrænbaserede løsninger som 
+grøfter, tørre bassiner og regnbede. For at undgå gener for 
+beboerne ledes tagvandet via afløbsrender og rør frem til 
+opsamlingsområder, så de private haver langs  
+facaderne ikke belastes. Vandet fra vejarealer strømmer 
+i åbne render, hvilket gør afløbet synligt og giver et mere 
+robust og overskueligt regnvandssystem. Ti seriekoblede 
+grøfter og bassiner med et samlet volumen på 652 m³  
+håndterer vandmængderne, mens LAR-regulatorer styrer 
+et konstant og kontrolleret udløb på maks. 0,5 l/s til Viby Å. 
+Projektet er finansieret via tilbagebetaling af  
+tilslutningsbidraget fra Middelfart Forsyning, som har  
+dækket de nødvendige anlægsudgifter. Der er udarbejdet en 
+plejeplan, som skal sikre både drift, æstetik og  
+funktionsdygtighed i fremtiden. 
+Formål 
+At afkoble tag- og  
+overfladevand fra  
+kloaksystemet og håndtere 
+regnvandet synligt på terræn 
+gennem LAR-løsninger,  
+dimensioneret til en 20 års  
+regnhændelse (N-M)
+I      Danske klimatilpasningscases      I
+Lokation  
+Region Syddanmark, 
+Middelfart Kommune, 
+55.505397°, 9.719385°
+Beskrivelse  
+De syv demonstrationshaver i Middelfart er etableret i 
+samarbejde mellem Haveselskabet, haveejere, Middelfart 
+Kommune, Middelfart Spildevand og NIRAS for at vise  
+praktiske, æstetiske og driftssikre LAR-løsninger i  
+parcelhushaver. Haverne er designet til at nedsive ca. 95 % 
+af alt tag- og overfladevand, så kun den sidste rest ledes til 
+et nærliggende vandløb via kontrollerede overløb.  
+Løsningerne omfatter græsplæner med lavninger, regnbede, 
+dræn under render og varierede terrænformer, der  
+tilsammen skaber både opmagasinering og naturlig  
+nedsivning. I flere haver afledes tagvandet via rør under 
+terrasser eller gennem snoede stenrender, som leder vandet 
+mod regnbedene og giver synlighed til den hydrologiske 
+proces. Regnbedene er plantet med robuste arter, og flere 
+anlæg har overløb til et skovvandløb, hvortil der er givet  
+udledningstilladelse. Demonstrationshaverne viser  
+forskellige kombinationer af nedsivningsmetoder, så både 
+små og store haver kan finde inspiration til lokal afledning af 
+regnvand. 
+Formål 
+At vise, hvordan parcelhuse 
+effektivt kan håndtere næsten 
+alt tag- og overfladevand 
+lokalt gennem nedsivning i 
+græsplæner, regnbede og  
+terrænbaserede løsninger  
+(N-M)
+30 Afkobling af regnvand i  
+Boligforeningen Bøgeparken, Nr. Aaby
+31 Parcelhus med nedsivning i græsplæne  
+og regnbed (7 demo’er)
+
+
+I   40   I
+Lokation  
+Region Syddanmark, 
+Odense Kommune, 
+55.401246°, 10.347953°
+Beskrivelse  
+Odense Kommune og VandCenter Syd har etableret et 
+nedsivningsbassin i Højstrupparken/Bolbroparken for at 
+håndtere de store regnvandsmængder fra taget af den nye 
+cykel- og atletikarena. Det lokale kloaknet omkring  
+stadionområdet er allerede kraftigt belastet, og traditionel 
+afledning ville øge risikoen for oversvømmelser ved kraftige 
+regnhændelser. I stedet ledes tagvandet til et åbent bassin 
+uden afløb til kloak, hvor vandet kan nedsive naturligt og på 
+sigt også håndtere regnvand fra nærliggende villaområder. 
+Bassinets placering i parkens nordøstlige hjørne gør det 
+muligt at kombinere regnvandshåndtering med rekreative 
+kvaliteter. Der er etableret siddetrapper med beplantning, 
+som både fungerer som opholdselementer og bidrager til 
+områdets æstetik. I den dybere del af bassinet er der lagt 
+trædesten, der gør det muligt for børn og besøgende at lege 
+og bevæge sig gennem anlægget, når der står vand.  
+Projektet demonstrerer, hvordan klimatilpasning kan  
+integreres i byrum på en måde, der både løser et teknisk  
+behov og skaber nye oplevelsesmuligheder i offentlige  
+parker.
+Formål 
+At aflaste det i forvejen  
+belastede kloaknet ved Odense 
+Stadion ved at lede regnvandet 
+fra den nye cykel- og  
+atletikarena til et  
+nedsivningsbassin i den  
+nærliggende park (N-M)
+I      Danske klimatilpasningscases      I
+Lokation  
+Region Syddanmark, 
+Haderslev Kommune, 
+55.25056°, 9.46532°
+Beskrivelse  
+Haderslev Kommune har installeret et SediPipe-system som 
+en ny løsning til behandling af vejvand, der ellers ville løbe 
+urenset ud i Haderslev Dam, en sårbar recipient med behov 
+for forbedret vandkvalitet. SediPipe fungerer ved at tilbage-
+holde både suspenderede partikler og olie i to adskilte zoner 
+i røret, så forurenende stoffer udfældes og opsamles frem 
+for at ende i naturen. Systemet er særligt velegnet i tætte 
+byområder, hvor der ikke er plads til traditionelle våd- 
+bassiner, og hvor eksisterende kloaknet er presset. Det 
+nye rørsystem er installeret som led i en større indsats for 
+at forbedre miljøtilstanden i Haderslev Dam og reducere 
+belastningen fra overfladevand efter regnskyl. Regnvandet 
+renses, før det ledes videre til dammen, hvilket bidrager 
+til bedre vandmiljø, mindre risiko for algeopblomstring og 
+generel naturforbedring i området. Løsningen understøtter 
+kommunens langsigtede arbejde med klimatilpasning og 
+modernisering af forsyningsinfrastrukturen.  
+Formål 
+At rense forurenet vejvand  
+med et SediPipe-system, så 
+Haderslev Dam beskyttes mod 
+udledning af olie, partikler  
+og andre forureninger,  
+kombineret med  
+regnvandshåndtering (T-M)
+32 Nedsivning af regnvand ved Odenses nye 
+cykel- og atletikarena
+33 Rensning af vejvand i Haderslev med  
+SediPipe
+
+I   41   I
+Lokation  
+Region Syddanmark, 
+Svendborg Kommune, 
+55.06179°, 10.56477°
+Beskrivelse  
+Fase 1 af Tankefuld-projektet var Svendborg Kommunes 
+første større LAR-projekt og indgår som en central del af 
+udviklingen af den nye bydel. I boligområdet har Fyns  
+Almennyttige Boligselskab etableret permeable flader  
+mellem bygningerne med TTE-armering fyldt med  
+grus/stenmel, som gør det muligt for regnvand at nedsive  
+direkte gennem overfladen. Alt tagvand ledes via åbne 
+render til regnbede, hvor det nedsiver i stedet for at løbe 
+til kloak, og de samlede permeable arealer udgør omkring 
+1.600 m2. Kommunen har fastlagt krav om, at overfladevand i 
+fase 1 skal føres gennem åbne grøfter til terrænbassiner med 
+nedsivning og fordampning som primær afstrømningsform. 
+Løsningen bidrager til at reducere belastningen af  
+kloaksystemet i et område, hvor fremtidige regnmængder 
+forventes at stige, og hvor lokal, synlig regnvandshåndtering 
+kan integreres æstetisk i bymiljøet. Projektet fungerer  
+samtidig som demonstrationsområde for permeable 
+belægninger og regnbede som fremtidige  
+standardløsninger i Svendborgs byudvikling. 
+Formål 
+At håndtere regnvand  
+lokalt gennem permeable 
+belægninger, åbne render og 
+regnbede, så kloaksystemet 
+aflastes og boligområdet  
+udvikles med en bæredygtig 
+vandhåndtering (N-M)
+I      Danske klimatilpasningscases      I
+Lokation  
+Region Syddanmark, 
+Vejle Kommune, 
+55.711367°, 9.624141°
+Beskrivelse  
+Vejle Kommune og Vejle Spildevand har etableret et  
+kantstensregnbed, der kombinerer nedsivning og rensning 
+af vejvand direkte i vejsiden. Vejvandet ledes fra kørebanen 
+og gennem en specialudviklet filtermuld, som tilbage- 
+holder tungmetaller og miljøfremmede stoffer, samtidig med 
+at vandet nedsiver i undergrunden. Systemet fungerer som 
+et LAR-element i vejkanten og er dimensioneret, så både 
+hverdagsregn og større hændelser kan håndteres uden at 
+belaste kloakken. Pilotprojektet er et teknisk  
+udviklingsprojekt og ledsages af målinger, som skal  
+dokumentere renseeffektivitet, hydraulisk kapacitet og drift. 
+Projektet i Vejle sammenholder filterjords-regnbedet med 
+sådanne renseteknologier for at kunne udvikle en skalerbar 
+model til lokal vejvandsrensning, som kan bruges i tætte 
+bymiljøer. Ambitionen er, at løsningen kan udbredes til flere 
+bydele for at mindske belastningen af Vejles recipienter, 
+forbedre vandkvaliteten og fungere som en ny standard for 
+lokal vejvandsrensning i Danmark.
+Formål 
+At udvikle, teste og  
+dokumentere en effektiv 
+løsning til både nedsivning  
+og rensning af vejvand  
+gennem filtermuld og tekniske 
+rensekomponenter (N-M)
+34 Tankefuld fase 1
+35 Nedsivning og rensning af vejvand i vejbed
+
+
+I   42   I
+Lokation  
+Region Sjælland,  
+Sorø Kommune, 
+55.54031°, 11.59101°
+Beskrivelse  
+I et villakvarter nord for Stenlille har Sorø Kommune og Sorø 
+Forsyning et pilotprojekt, hvor alt vejvand fra tre mindre 
+villaveje afkobles fra kloakken og i stedet renses og nedsives 
+lokalt. Vandet ledes først gennem brønde med kombiner-
+et sandfang og rensefilter, som tilbageholder partikler og 
+tungmetaller, før det føres videre til aflange faskiner placeret 
+under vejbanen. Systemet er udviklet af Enregis Scandina-
+via og bygger på løsninger testet i både Tyskland og Hol-
+land, hvor lokale forsøg har vist gode resultater i forhold til 
+både drift og rensning. Sorø Forsyning vurderer, at risikoen 
+for forurening af grundvandet er minimal, da nærliggende 
+hovedvejstrafik (15.000 biler dagligt) ikke har givet målbare 
+påvirkninger af grundvandet – hvilket giver et solidt sam-
+menligningsgrundlag for villaveje med kun 50–100 biler 
+om ugen. Filterpatronerne i rensebrøndene kontrolleres 
+halvårligt og udskiftes efter behov for at sikre en stabil 
+renseeffekt over tid. På baggrund af erfaringerne fra forsøg-
+sområdet overvejer Sorø Kommune og Sorø Forsyning at 
+udbrede løsningen til flere villaveje i kommunen.
+Formål 
+At rense og nedsive vejvand 
+lokalt fra tre villaveje gennem 
+filterbrønde og underjordiske 
+faskiner, så både kloaksystemet 
+aflastes og grundvandet bes-
+kyttes mod forurening (T-M)
+I      Danske klimatilpasningscases      I
+Lokation  
+Region Sjælland, 
+Odsherred Kommune, 
+55.86023°, 11.68561°
+Beskrivelse  
+Projektet anvender 50 mm høje Ecoblock-græsarmerings-
+blokke, som enten fyldes med græs eller et løst skærve-
+materiale, afhængigt af om arealet skal fungere som 
+græsplæne eller indkørsel. Græsarmeringen gør det muligt 
+at bevare et grønt udtryk på områder, der udsættes for trafik, 
+samtidig med at overfladen forbliver permeabel og egnet 
+til nedsivning af regnvand. Løsningen er kendt fra sommer-
+husgrunde og parkeringsarealer, men her er den lagt ud 
+over størstedelen af græsplænen for at kombinere æstetik, 
+dræning og funktionalitet. Når Ecoblock fyldes med skærver, 
+skabes en robust og vandgennemtrængelig indkørsel, der 
+kan tåle større belastning end almindeligt græs. Samlet set 
+giver løsningen en kombination af grøn æstetik, høj ned-
+sivningsevne og praktisk brugbarhed på en måde, der gør 
+arealet både robust og miljøvenligt.
+Formål 
+At skabe en permeabel, grøn og 
+belastningstolerant overflade, 
+som både kan håndtere regn-
+vand lokalt og tillade trafik uden 
+at ødelægge græsset (N-M)
+36 Nedsivning og rensning af regnvand fra  
+villaveje i Sorø
+37 Have med græsarmering
+
+I   43   I
+Lokation  
+Region Sjælland, 
+Roskilde Kommune, 
+55.70634°, 12.1582°
+Beskrivelse  
+Projekt Klimaskole på Lindebjergskolen i Gundsølille 
+demonstrerer en bred vifte af LAR-tiltag, hvor regnvand  
+udnyttes aktivt frem for at blive ledt i kloak. Skolen og 
+Gundsølillehallen fungerer som demonstrationssted, hvor 
+vandrender, regnbede, faskiner med pumper, grøfter og  
+permeable belægninger er etableret for at håndtere  
+regnvand på terræn. Regnvandet indgår som en synlig del  
+af både undervisning og fysisk aktivitet: et soppebassin  
+udformet som Roskilde Fjord, vandkanaler, pumper, og 
+senere et multirum/pumptrack-bane til leg og bevægelse. 
+Projektet har en klar pædagogisk dimension, hvor elever 
+uddannes som klimaambassadører, laver klima-raps,  
+deltager i beplantning af regnbede og arbejder med  
+klimatemaer i undervisningen. Anlægget er støttet af flere 
+aktører, blandt andet Naturstyrelsen, Roskilde Kommune 
+og Lokale & Anlægsfonden, og fungerer som en model for 
+klimatilpasning, der kan overføres til andre skoler og  
+offentlige institutioner. En central del af projektets fortælling 
+er biodiversitet: Bedre forhold for frøer giver bedre forhold 
+for lokalområdets storkepar — et symbol, der engagerer 
+både elever og borgere. Klimaskolen kombinerer dermed 
+tekniske LAR-løsninger, rekreative faciliteter og  
+læringsaktiviteter i et samlet koncept for fremtidens 
+skolemiljø.
+Formål 
+At vise, hvordan regnvand 
+ved skoler og andre offentlige 
+bygninger kan bruges som en 
+lokal ressource til leg, læring, 
+biodiversitet og skybrudssikring 
+(NTS-M)
+I      Danske klimatilpasningscases      I
+Lokation  
+Region Syddanmark, 
+Middelfart Kommune, 
+55.488177°, 9.745426°
+Beskrivelse  
+Projektet i Middelfart viser, hvordan et eksisterende  
+infrastrukturelt element – en cykelsti – kan omdannes til et 
+forsinkelses- og magasineringselement for regnvand. Ved 
+kraftig regn fungerer cykelstien som et midlertidigt bassin, 
+der kan opsamle betydelige vandmængder, inden de l 
+angsomt ledes videre, hvilket reducerer risikoen for 
+oversvømmelser i de omkringliggende haver og veje. 
+Løsningen er udviklet som et klimatilpasningstiltag, hvor 
+lokal opmagasinering udnytter terrænet og eksisterende 
+arealer frem for etablering af nye, pladskrævende bassiner. 
+Projektet er et eksempel på integreret LAR, hvor tekniske og 
+rekreative funktioner kombineres, uden at det går ud over 
+områdets anvendelighed til daglig transport. Cykelstien  
+bevarer sin primære funktion til daglig brug, men fungerer 
+som regnvandsbassin i perioder med ekstrem nedbør og 
+skaber dermed dobbelt nytte af samme areal. 
+Formål 
+En cykelsti som et multi- 
+funktionelt regnvandsbassin, 
+der kan tilbageholde og  
+håndtere store mængder  
+regnvand og dermed forebygge 
+oversvømmelser i nærliggende 
+boligområder (T-M)
+38 Klimaskole, Gundsølille
+39 Cykelsti som regnvandsbassin
+
+
+I   44   I
+Lokation  
+Region Syddanmark, 
+Kolding Kommune, 
+55.487528°, 9.485328°
+Beskrivelse  
+Projektet i Kolding Åpark viser en simpel, men effektiv 
+LAR-løsning, hvor parkeringspladsens naturlige lavpunkter 
+udnyttes til opsamling af regnvand i regnbede.  
+Regnvandet ledes fra de befæstede arealer til regnbedene, 
+hvor det forsinkes og nedsives, frem for at løbe direkte i 
+kloaksystemet. Placeringen midt i et erhvervsområde gør 
+løsningen relevant som eksempel på, hvordan store  
+befæstede parkeringsarealer kan klimatilpasses uden  
+omfattende omlægning af infrastrukturen. Regnbedene 
+bidrager samtidig til at øge biodiversiteten ved at tilføre 
+grønne elementer i et ellers hårdt belagt område. Løsningen 
+kan skaleres og anvendes på andre parkeringsarealer i  
+kommunen, hvor overfladevand giver udfordringer ved 
+kraftig nedbør. 
+Formål 
+At håndtere regnvand fra  
+parkeringspladsen lokalt ved at 
+lede det til regnbede i pladsens 
+lavpunkter, så afledning til kloak 
+reduceres og kapaciteten i  
+området forbedres (N-M)
+I      Danske klimatilpasningscases      I
+Lokation  
+Region Sjælland,  
+Rødby Kommune, 
+55.66627°, 11.33306°
+Beskrivelse  
+Lalandia A/S opsamler regnvand, som samles i  
+nærliggende søer, hvorfra vandet enten renses og bruges til 
+toiletskyl eller anvendes til vanding af golfbanen. Projektet  
+er en del af LAR-indsatsen, der fokuserer på lokal  
+håndtering og bæredygtig anvendelse af regnvand.  
+Ved at erstatte drikkevand med regnvand til toiletskyl 
+mindskes belastningen på både vandressourcer og 
+kloaksystem. Løsningen bidrager samtidig til Lalandias  
+miljøcertificering og understøtter en grønnere drift.  
+Anlægget er placeret ved Lalandia Centret i Rødby og  
+drives med fokus på både funktionalitet og miljøhensyn. 
+Opsamlingen sker tæt på kilden, hvilket reducerer transport 
+og behandling af vand. Projektet viser, hvordan rekreative 
+områder og turismefaciliteter aktivt kan indgå i bæredygtig 
+vandforvaltning og initiativet fungerer som et eksempel på, 
+hvordan regnvand kan indgå i cirkulære løsninger. 
+Formål 
+At opsamle og udnytte  
+regnvand til toiletskyl og anden 
+ikke-drikkevandskrævende brug 
+for at reducere forbruget af rent 
+drikkevand (T-M)
+40 Regnbede på parkeringsplads
+41 Regnvand til toiletskyl i Lalandia
+
+
+I   45   I
+Lokation  
+Region Syddanmark, 
+Aabenraa Kommune, 
+55.073646°, 9.384424°
+Beskrivelse  
+Arwos Landsbyen er et LAR-projekt, hvor regnvand  
+håndteres direkte på genbrugspladsen, de befæstede  
+arealer og på og omkring bygningerne gennem synlige 
+løsninger, der både skaber funktion og formidling. Projektet 
+integrerer forsyningsselskabets aktiviteter i et samlet center, 
+hvor besøgende afleverer affald, mens børn kan lege med 
+vand i et torvemiljø og samtidig lære om forsyning,  
+ressourcer og bæredygtighed og medarbejderne i  
+forsyningen har deres daglige arbejdsplads. Regnvandet  
+indgår som et aktivt element i området og bruges til at skabe 
+forståelse for kredsløb og lokal vandhåndtering. Arwos 
+Landsbyen er desuden udformet med fokus på  
+naturintegration, bl.a. med grønne tage og tilpasning til 
+nærliggende naturbeskyttede områder. 
+Formål 
+At anvende og aflede regnvand 
+synligt på en genbrugsplads, 
+hvor vandet indgår i leg, læring 
+og formidling af bæredygtighed 
+(NT-M)
+I      Danske klimatilpasningscases      I
+Lokation  
+Region Sjælland,  
+Sorø Kommune, 
+55.530785°, 11.500212°
+Beskrivelse  
+Sorø Kommune kræver, at regnvand fra både eksisterende 
+og nye bygninger i Doktorhaven (3,18 ha) håndteres lokalt,  
+så der maksimalt udledes 1 l/s/ha til fælleskloakken.  
+Doktorhaven er et privat område, hvor 20 eksisterende  
+boliger ønskes udvidet med yderligere 50 boligenheder 
+på det tidligere institutionsareal. Kravet betyder, at ejeren 
+selv skal finansiere og etablere løsninger til lokal afledning, 
+såsom landskabsbaserede anlæg eller faskiner, afhængigt  
+af valg. En vandbremse styrer udledning til kloakken og 
+bidrager til at aflaste både fælleskloak og renseanlæg.  
+Det forventes, at løsningen udformes rekreativt og  
+terrænbaseret for at skabe merværdi i boligområdet. Der 
+foretages ingen rensning af regnvandet i projektet. 
+Formål 
+At sikre en nulløsning for  
+regnvand i Doktorhaven ved  
+at håndtere alt regnvand på 
+egen grund i forbindelse med 
+omdannelsen af området til et 
+nyt boligkvarter (NT-M)
+42 Arwos Landsbyen
+43 Doktorhaven
+
+
+I   46   I
+Lokation  
+Region Syddanmark, 
+Odense Kommune, 
+55.359761°, 10.335552°
+Beskrivelse  
+Anlægget i Odense er ét af tre demonstrationsanlæg som 
+var en del af LIFE TREASURE projektet og repræsenterer 
+den løsning, der håndterer den højeste forureningsgrad 
+blandt de tre lokaliteter. Regnvandet renses først i et  
+traditionelt vådt regnvandsbassin, hvor grovere  
+partikler bundfældes, hvorefter vandet ledes videre til et 
+fastmedie-sorptionsfilter, som fungerer som den  
+supplerende og mest avancerede renseteknologi i 
+Odense-anlægget. Sorptionsfilteret består af et fast medie, 
+som effektivt tilbageholder opløste og kolloide  
+forureningsstoffer – en teknologi, der i projektet viste  
+høj renseevne, især for tungmetaller. De tekniske  
+installationer er skjult under jorden, og anlægget fremstår 
+som et sølignende bassin, hvilket samtidig giver området 
+et naturskønt udtryk. Anlægget indgår i projektets samlede 
+vurdering, hvor sorptionsteknologien blev identificeret som 
+den mest effektive løsning blandt de testede teknikker. 
+Driften i demonstrationsfasen har dog vist, at sandfiltre 
+(i andre lokaliteter) kan stoppe til hurtigere end forventet, 
+hvilket giver værdifuld viden til design af fremtidige anlæg — 
+men dette påvirker ikke Odense-anlæggets funktion direkte.
+Formål 
+At demonstrere, hvordan  
+et vådt regnvandsbassin  
+kombineret med et  
+fastmedie-sorptionsfilter kan 
+sikre videregående rensning  
+af separat regnvand (NT-M)
+I      Danske klimatilpasningscases      I
+Lokation  
+Region Syddanmark, 
+Kolding Kommune, 
+55.47647°, 9.43551°
+Beskrivelse  
+Klimatilpasningsanlægget ved Seest Mølleå håndterer  
+store vandmængder, der under skybrud ellers løber  
+hurtigt gennem Hylkedalen og ned mod Kolding midtby, 
+hvor de kan forårsage alvorlige oversvømmelser. For at 
+bremse vandets hastighed er Seest Mølleå blevet  
+genslynget, løftet i terræn og lagt ud midt i engen, så vand 
+kan spredes over større arealer. To store jorddiger er  
+opført på tværs af ådalen; de er udstyret med droslingsrør, 
+der sikrer normal vandføring og passage for fisk og smådyr, 
+men som tilbageholder vand ved kraftig nedbør. Samlet kan 
+anlægget tilbageholde op mod 60.000 m³ vand, hvor det 
+østlige bassin fyldes først og det vestlige derefter ved  
+ekstreme regnhændelser. Vandet vil typisk være opstuvet i 
+et par dage, før det langsomt falder tilbage til normal  
+tilstand. Projektet skaber samtidig naturforbedringer 
+gennem nye søer, flere våde enge, og ekstensiv afgræsning, 
+som øger biodiversiteten, bl.a. for den sjældne birkemus. 
+Anlægget indgår som en central del af en større  
+udviklingsplan for Hylkedalen og skaber nye rekreative 
+muligheder såsom stier, opholdszoner og adgang til naturen.
+Formål 
+At klimatilpasse Kolding ved at 
+forsinke og tilbageholde store 
+vandmængder i Seest Mølleå 
+gennem genslyngning af åen, 
+jorddiger og naturbaserede 
+synergiløsninger (N-M)
+44 LIFE TREASURE
+45 Hylkedalen – genslyngning af Seest Mølleå
+
+
+I   47   I
+Lokation  
+Region Syddanmark, 
+Vejle Kommune, 
+55.763358°, 9.510242°
+Beskrivelse  
+Projektet i Grejs Ådal arbejder med at håndtere de store 
+vandmængder, som ved kraftig regn ellers ville løbe  
+hurtigt mod Vejle by og forårsage oversvømmelser. Vandet 
+tilbageholdes i flere vandtilbageholdelsesområder samt  
+tre nyetablerede vådområder, som både reducerer  
+afstrømningen og fjerner kvælstof til gavn for vandmiljøet i 
+Vejle Fjord. To af vådområderne ligger ved Fløjstrup Bæk og 
+Keglekær Bæk med et samlet areal på 80 ha, hvor der årligt 
+fjernes 5,8 tons kvælstof. Ved Fløjstrup er etableret to  
+vandtilbageholdelsesområder, der forventes at kunne  
+tilbageholde 20.000–25.000 m³ vand, mens et passivt  
+område rummer yderligere 4.500 m³. Vådområdet ved 
+Hørup Bæk udgør 20 ha fordelt på fire delområder og kan 
+tilbageholde ca. 800 m³ vand, samtidig med at det fjerner 
+2,1 tons kvælstof årligt. I Fløjstrup-området er der opsat en 
+sluse, der delvist lukkes under kraftig regn, så vandet stuves 
+opstrøms og fylder både sø og nærliggende engarealer. 
+Projektet skaber også naturforbedringer gennem  
+genslyngning af vandløb, genskabelse af naturlig  
+hydrologi i enge og moser, samt nye levesteder for  
+flora og fauna. Brandbjerg Højskole-området er udviklet 
+som rekreativ zone med P-plads, shelterplads, bålhytte, 
+MTB-spor, teknikbane og cykel-pitstop, hvilket styrker  
+friluftslivet i ådalen.
+Formål 
+At beskytte Vejle mod 
+oversvømmelser ved store 
+regnskyl ved at tilbageholde 
+overskydende vand i ådalen, 
+samtidig med at biodiversitet 
+og rekreative muligheder  
+forbedres (N-M)
+I      Danske klimatilpasningscases      I
+46 Grejs Ådal
+
+I   48   I
+Lokation  
+Region Sjælland, 
+Næstved Kommune, 
+55.21562°, 11.82401°
+Beskrivelse  
+Projektområdet ligger øst for Næstved ved Rønnebæk, hvor 
+klimaændringer medfører større risiko for tørre somre og 
+udtørring af Rønnebækken, hvilket truer dens økologiske 
+tilstand. Derfor er der etableret to store klimasøer, opbygget 
+via diger, som opsamler drænvand om vinteren og langsomt 
+frigiver køligt bundvand om sommeren gennem bunddrevne 
+dræn, så vandtemperaturen holdes lav og vandløbets  
+dyreliv beskyttes. Søerne tilbageholder samtidig vand  
+ved store regnhændelser og reducerer risikoen for 
+oversvømmelser længere nede i systemet. Efter søerne er 
+Rønnebækken blevet genslynget, og gydegrus samt større 
+sten er udlagt for at forbedre fysiske forhold og  
+gydepladser for fisk. Omkring søerne er der plantet 22,5  
+ha ny skov med hjemmehørende arter, et initiativ  
+Naturstyrelsen har stået for, sammen med etablering af 
+moser, vandhuller og ellesumpe, som øger den samlede  
+biodiversitet markant. Projektet giver desuden nye rekreative 
+muligheder gennem et stisystem og flere broer, der gør 
+området mere tilgængeligt for besøgende. Tiltagene sikrer 
+samlet set en mere stabil og klimatrodsig vandføring i  
+Rønnebækken og gør det muligt for vandløbet at fastholde 
+sin målsætning om god økologisk tilstand.
+Formål 
+At sikre stabil vandføring, 
+forhindre udtørring om  
+sommeren og reducere 
+oversvømmelser nedstrøms  
+ved at etablere klimasøer (søer 
+som magasinerer vand),  
+genslynge vandløbet og  
+forbedre naturforholdene  
+(N-M)
+I      Danske klimatilpasningscases      I
+47 Rønnebækken
+Lokation  
+Region Syddanmark, 
+Odense Kommune, 
+55.440371°, 10.457870°
+Beskrivelse  
+Seden Strandby er et oversvømmelsestruet område, og  
+projektet omfatter derfor etableringen af et nyt  
+tilbagetrukket dige på 1,4 km, placeret 400–900 m fra 
+kysten, som beskytter mod stormflod op til kote 2,40 m. 
+Det gamle kystnære dige er fjernet, så havvand igen kan 
+oversvømme forlandet og skabe en større, dynamisk  
+strandeng, som fungerer som naturlig buffer mod stormflod 
+og giver nye levesteder for fugle og padder. Omkring 34 ha 
+tidligere landbrugsjord er konverteret til strandeng og  
+strandoverdrev, og Seden Bæk er genslynget for at forbedre 
+vandudveksling og skabe naturlige oversvømmelseszoner. 
+Der er gravet lavninger og oprenset vandhuller for at  
+forbedre ynglesteder for strandtudsen. Beplantning er 
+ryddet, og der er etableret afgræsning og “natur-plugins” 
+som stenbunker for at styrke biodiversiteten, især for  
+padder, fugle og insekter. For borgerne er naturen  
+gjort mere tilgængelig gennem nye stier og informations- 
+tavler/-platforme.
+Formål 
+At klimasikre området mod 
+stormflod og stigende  
+vandstand gennem natur- 
+baseret kystbeskyttelse,  
+samtidig med at  
+strandenge, vandløb og  
+levesteder genskabes og  
+forbedres (NT-M)
+48 Seden Strandby
+
+I   49   I
+Lokation  
+Region Sjælland, 
+Næstved Kommune, 
+55.247045°, 11.795759°
+Beskrivelse  
+Projektområdet ligger øst for Næstved ved  
+Stenlængegårdsvej/Ring Øst, hvor Ellebækken er særligt 
+sårbar overfor både sommertørke og vinterover- 
+svømmelser. To store klimasøer er etableret og adskilt af 
+et dige, som samtidig fungerer som en del af områdets 
+stisystem. Indløbet sker fra den rørlagte del af vandløbet, 
+mens udløbet foregår via bunddræn for at sikre lav vand-
+temperatur i sommerperioder. Ved høj vandføring ledes 
+vand også ud via et overløb, så søerne kan fungere som 
+buffer ved kraftig nedbør og dermed mindske risikoen for 
+oversvømmelser langs Kalbyrisvej, som tidligere har været 
+udsat for høje vandstande. Ellebækken er blevet genslynget, 
+og fysiske forhold forbedret ved udlægning af gydegrus og 
+større sten, hvilket giver bedre leve- og gydeforhold for fisk 
+og smådyr. I den nordlige del er der etableret en mindre sø 
+uden forbindelse til de øvrige, så området kan fungere som 
+et roligt levested for arter som løvfrø og stor vand- 
+salamander, der ikke tolererer fisk. Flade skråninger,  
+platforme og broer giver sikker adgang for besøgende, mens 
+beplantning af hjemmehørende træer bidrager til skygge 
+og øger biodiversiteten langs vandløbet. Projektet blev 
+gennemført i vinteren 2016/2017 og viste sin  
+robusthed under sommerens ekstreme tørke i 2018, hvor 
+søerne formåede at opretholde vandføring gennem hele 
+perioden.
+Formål 
+At sikre stabil vandføring, 
+forhindre udtørring og reduc-
+ere risikoen for oversvømmelse 
+gennem etablering af klimasøer, 
+genslyngning og forbedring 
+af vandløbets fysiske forhold 
+(N-M)
+I      Danske klimatilpasningscases      I
+Lokation  
+Region Syddanmark, 
+Varde Kommune, 
+55.492538°, 8.274493°
+Beskrivelse  
+Skallingen er som halvø et forbillede for naturbaseret  
+klimatilpasning, hvor kystens egne processer bruges som 
+beskyttelse mod havspejlsstigning og erosion. Her griber 
+man ikke ind med diger eller sandfodring, men lader  
+klitter og sandtransport udvikle sig frit, så kysten kan  
+tilpasse sig naturligt over tid. Denne ikke-tekniske tilgang 
+skaber et robust og fleksibelt kystlandskab, der kan  
+absorbere stormpåvirkninger og forny sig selv efter  
+ekstreme hændelser. Skallingens dynamiske miljø fungerer 
+samtidig som værdifuldt levested for arter knyttet til  
+Vadehavets klitter og sandflader. Området demonstrerer, 
+hvordan klimatilpasning kan forenes med høj naturkvalitet 
+og minimal vedligeholdelse. Det gør Skallingen til en  
+inspirerende case for kommuner, der ønsker at arbejde med 
+pladskrævende, langsigtede og naturbaserede løsninger.
+Formål 
+At lade de naturlige  
+dynamiske processer i klit- og 
+kystsystemet udvikle sig frit 
+som en robust og natur- 
+baseret strategi mod erosion 
+og havspejlsstigning (N-M)
+50 Klitudvikling på Skallingen
+49 Anlæggelse af klimasøer og genslyngning  
+af Ellebækken
+
+
+I   50   I
+Lokation  
+Region Syddanmark,  
+Odense Kommune, 
+55.366652°, 10.353038°
+Beskrivelse  
+Energifyn har udnyttet tagarealet på deres hovedbygning  
+til multifunktionelle formål med et grønt tag kombineret med 
+plads til solceller og mulighed for at opholde sig på taget. 
+På den måde har EnergiFyn arbejdet aktivt med at udnytte 
+deres tagflader bæredygtigt. Solcellerne dækker hovedbyg-
+ningens energibehov. Det grønne tag er etableret i 2009 og 
+det er et sedumtag.Formål 
+At skabe et tag med en  
+kombination af grønt tag,  
+solceller og opholdsrum (N-M)
+I      Danske klimatilpasningscases      I
+51 Grønt tag, solceller og socialt område på et 
+tag hos Energi Fyn
+Lokation  
+Region Syddanmark,  
+Haderslev Kommune, 
+55.25389°, 9.49003°
+Beskrivelse  
+I Gammelting, Haderslev Kommune, er der etableret en 
+løsning til håndtering af regnvand omkring eksisterende 
+træer. Projektet håndterer op til 40 m³ regnvand ved  
+hjælp af Permavoid kapillær teknologi integreret i  
+ArborRaft-systemet. Denne metode kombinerer et  
+geocellulært lag med specialudviklet vækstmedie, som både 
+beskytter træernes rødder og sikrer effektiv opmagasinering 
+og langsom nedsivning af regnvand. Systemet forhindrer 
+jordkomprimering, fremmer iltning og vanding af rødderne 
+og bidrager til et sundt bymiljø med robuste træer.  
+Løsningen er et eksempel på, hvordan klimatilpasning og 
+grøn infrastruktur kan skabe merværdi for lokalsamfundet.
+Formål 
+At håndtere 40 m³ regnvand  
+lokalt omkring eksisterende 
+træer ved hjælp af kapillær 
+teknologi, der både beskytter 
+træernes vækstbetingelser og 
+bidrager til klimatilpasning i 
+bymiljøet (N-S))
+52 Regnvandshåndtering med Permavoid 
+ArborRaft i Gammelting
+
+
+I   51   I
+Lokation  
+Region Syddanmark,  
+Lunderskov Kommune, 
+55.47943°, 9.29841°
+Beskrivelse  
+I Storegade, Lunderskov, er der etableret en regnvand-
+sløsning, hvor træer indgår som en aktiv del af klimatilpas-
+ningen. Løsningen er dimensioneret til at håndtere en 10-års 
+regnhændelse og kan magasinere op til 280 m³ regnvand. 
+Ved hjælp af TreeParker og Permavoid kapillær  
+teknologi sikres både effektiv regnvandshåndtering og 
+optimale vækstbetingelser for bytræerne. Systemet gør det 
+muligt at opsamle og fordele regnvand direkte til træernes 
+rødder, hvilket styrker træernes sundhed og bidrager til at 
+afbøde effekterne af både skybrud og tørkeperioder. 
+Formål 
+At håndtere store mængder 
+regnvand lokalt gennem grøn 
+infrastruktur, hvor træer og  
+kapillær teknologi bidrager  
+til både klimatilpasning og 
+forbedrede vækstbetingelser i 
+bymiljøet (N-S)
+I      Danske klimatilpasningscases      I
+53 Regnvandshåndtering med træer i 
+Storegade
+Lokation  
+Region Syddanmark,  
+Lunderskov Kommune, 
+55.48004°, 9.30321°
+Beskrivelse  
+På Stationsforpladsen i Lunderskov er der etableret en  
+regnvandsløsning, hvor træer indgår som en aktiv del af  
+klimatilpasningen. Løsningen er dimensioneret til at  
+håndtere en 10-års regnhændelse og kan opmagasinere 
+op til 280 m³ regnvand. Ved hjælp af Permavoid kapillær 
+teknologi sikres både effektiv regnvandshåndtering og 
+optimale vækstbetingelser for bytræerne. Systemet gør det 
+muligt at opsamle og fordele regnvand direkte til træernes 
+rødder, hvilket styrker træernes sundhed og bidrager til at 
+afbøde effekterne af både skybrud og tørkeperioder. 
+Formål 
+At håndtere store mængder 
+regnvand lokalt gennem grøn 
+infrastruktur med træer og  
+kapillær teknologi (N-S)
+54 Regnvandshåndtering med træer på  
+Stationsforpladsen
+
+I   52   I
+Lokation  
+Region Syddanmark,  
+Haderslev Kommune, 
+55.25419°, 9.48625°
+Beskrivelse  
+På Laurits Skaus Gade i Haderslev er der etableret en 
+løsning, hvor regnvand fra repos opsamles og anvendes  
+til at sikre optimale vækstvilkår for træer i befæstede byrum. 
+Hvert træ får tilført ca. 16 m³ regnvand, som lagres og  
+fordeles via TreeParker-systemet med genanvendt råjord. 
+Denne metode beskytter træernes rødder, forhindrer  
+jordkomprimering og sikrer både vandforsyning og iltning, 
+hvilket styrker træernes sundhed og levetid. Projektet viser, 
+hvordan grøn infrastruktur og cirkulære materialer kan  
+integreres i bymiljøet for at håndtere regnvand lokalt.
+Formål 
+At opsamle regnvand fra 
+befæstede arealer og sikre 
+optimale vækstbetingelser 
+for bytræer gennem brug af 
+TreeParker-system og  
+genanvendt råjord (N-S)
+I      Danske klimatilpasningscases      I
+55 Regnvandshåndtering og trævækst i  
+befæstede arealer, Laurits Skaus Gade
+
+
+I   53   I
+56 
+Permeabel overflade og  
+regnvandshåndtering i Kirkegade
+Lokation: Region Syddanmark, Esbjerg Kommune, 55.46653°, 8.44900°
+
+I   54   I
+Beskrivelse  
+På Kirkegade i Esbjerg er der etableret en løsning, hvor  
+en permeabel belægning kombineres med Permavoid 
+ArborRaft-systemet for at sikre nedsivning af regnvand 
+direkte til træernes rodzone. Denne metode gør det muligt 
+at opsamle og fordele regnvand under befæstede arealer, 
+hvilket både beskytter træernes rødder og fremmer sunde 
+vækstvilkår. Løsningen bidrager til at afbøde effekterne af 
+kraftig regn og reducerer belastningen på det kommunale 
+afløbssystem. 
+Formål 
+At sikre nedsivning af regnvand 
+og optimale vækstbetingelser 
+for bytræer gennem  
+permeabel belægning og 
+Permavoid ArborRaft-systemet 
+(N-S)
+I      Danske klimatilpasningscases      I
+
+
+I   55   I
+Lokation  
+Region Syddanmark,  
+Odense Kommune,  
+55.38965°, 10.40394°
+Beskrivelse  
+På Kragsbjergvej i Odense er der etableret en løsning,  
+hvor eksisterende træer på en parkeringsplads beskyttes, 
+samtidig med at regnvand håndteres lokalt. Ved hjælp af 
+Permavoid ArborRaft-systemet sikres både effektiv  
+opmagasinering og fordeling af regnvand til træernes  
+rodzone, hvilket beskytter rødderne mod komprimering og 
+fremmer sunde vækstvilkår. Løsningen bidrager til at afbøde 
+effekterne af kraftig regn og reducerer belastningen på det 
+kommunale afløbssystem. 
+Formål 
+At beskytte eksisterende 
+trærødder på parkerings- 
+pladsen og håndtere regnvand 
+lokalt ved hjælp af Permavoid 
+ArborRaft-systemet (N-S)
+I      Danske klimatilpasningscases      I
+57 Beskyttelse af trærødder og  
+regnvandshåndtering på Kragsbjergvej
+Lokation  
+Region Syddanmark,  
+Kolding Kommune,  
+55.50085°, 9.49985°
+Beskrivelse  
+På NCG-huset i Kolding er der etableret en grøn taghave, 
+hvor Permavoid kapillær teknologi sikrer opsamling og 
+fordampning af regnvand direkte fra tagfladen. Løsningen 
+er designet til at reducere udledning af regnvand til kloak, 
+idet 80-90 % af årsnedbøren forventes fordampet via tagets 
+beplantning og underliggende system. Permavoid-systemet 
+opmagasinerer regnvand og leverer det kapillært til  
+planterne, hvilket både fremmer vækst og minimerer  
+behovet for vanding. Projektet illustrerer, hvordan grønne 
+tage og avanceret vandteknologi kan kombineres.
+Formål 
+At reducere udledning af  
+regnvand fra taget ved at 
+opsamle og fordampe  
+størstedelen af årsnedbøren 
+gennem en grøn taghave med 
+Permavoid kapillær teknologi 
+(N-S)
+58 Grønt tag med regnvandsfordampning ved 
+NCG-huset
+
+I   56   I
+Lokation  
+Region Sjælland,  
+Greve Kommune, 
+55.594837°, 12.339376°
+Beskrivelse  
+Klimatilpasningsanlægget ved Strandby Have viser,  
+hvordan tidlig planlægning kan håndtere regnvand, sikre  
+nye boligområder og øge rekreativ værdi. Anlægget  
+rummer bl.a. salamanderplatform, faunapassager, Tiny  
+Forest og et pilotprojekt med rensning af regnvand.  
+Området involverede mange aktører, da det var fordelt  
+mellem flere ejere og interessenter. Et brugerråd og  
+markvandring blev etableret i opstartsfasen. Greve  
+Kommune har via tværgående samarbejde med KLAR 
+Forsyning og udviklere skabt anlægget. Det klimatilpasser 
+både eksisterende og nye områder. Kommunen har samlet 
+klimatilpasningen i et sammenhængende blågrønt bånd. 
+Dette bånd skaber forbindelse til stranden og styrker  
+områdets naturværdi.
+Formål 
+Klimatilpasning af ny og  
+eksisterende bydel med fokus 
+på byplanlægning (NT-S)
+60 Klimatilpasningsanlæg ved Strandby Have
+Lokation  
+Region Syddanmark,  
+Vejen Kommune,  
+55.47451°, 9.13228°
+Beskrivelse  
+Ved Vejen Business College er der etableret en  
+parkeringsplads, hvor regnvand håndteres direkte i 
+bærelaget uden behov for kloakering. Løsningen bygger 
+på Permaweb bærelagsforstærkning, som muliggør lokal 
+opmagasinering og nedsivning af regnvand, samtidig med 
+at gravearbejdet minimeres. Systemet sikrer stabilitet og 
+bæreevne for parkeringsarealet, beskytter mod  
+oversvømmelser og reducerer belastningen på det  
+kommunale afløbssystem. 
+Formål 
+At etablere en parkeringsplads 
+med minimalt gravearbejde og 
+effektiv regnvandshåndtering 
+i bærelaget uden tilslutning til 
+kloak (NT-S)
+I      Danske klimatilpasningscases      I
+59 Parkeringsplads med regnvandshåndtering 
+ved Vejen Business College
+
+
+I   57   I
+Lokation  
+Region Sjælland, 
+Nakskov Kommune, 
+54.84027°, 11.15392°
+Beskrivelse  
+Lolland Forsyning skal hindre fremtidige oversvømmelser, 
+bl.a. ved at samle regnvand fra dele af Nakskov op,  
+indtil kloakkerne kan føre det bort. Det blev løst ved at  
+grave en 2600 m2 sø i Nakskovs gamle bypark,  
+Svingelen, der ikke blev brugt så flittigt mere. Ideen var at 
+udnytte nødvendigheden af en regnvandssø og samtidig 
+skabe nye, rekreative tilbud midt i byen og forbedret  
+naturindhold. Søen blev færdig i 2016, med legepladser, 
+hytter, bænke og en sti rundt om søen. Regnvandssøen  
+formindsker risiko for fremtidige oversvømmelser ved  
+skybrud og vedvarende regn.  
+Formål 
+Forsinkelse og rensning af 
+regnvand: Basinnet opsamler 
+regnvand fra dele af Nakskov, 
+indtil kloakkerne kan føre det 
+bort (N-S)
+I      Danske klimatilpasningscases      I
+Lokation  
+Region Sjælland, 
+Nakskov Kommune, 
+54.69303°, 11.28137°
+Beskrivelse  
+På Sydlolland arbejder Digelaget med at sikre kysten mod 
+fremtidens stormfloder ved at lægge over 2.000 bundter 
+økologiske piletræer. Hvert læs dækker ca. 100 meter kyst 
+og tager en dag at lægge. ”Muren” bliver i alt omkring  
+1000 m lang. Arbejdet foregår i samarbejde med  
+kommunen, som i sin Klima- og Energiplan 2020–2050 
+peger på Lolland som en af Danmarks mest sårbare  
+kommuner over for oversvømmelser. Projektet udnytter  
+naturens egne materialer og kræver ingen store  
+anlægsarbejder. Pilebundterne bliver gravet ned i sandet  
+og dækkes til. Når stormflod eller voldsomme bølger  
+rammer, møder stormfloden en barriere, der tager kraften  
+ud af den. Arbejderne kalder det verdens bedste  
+kontorplads – med udsigt og mening. 
+Formål 
+Kystsikring med naturlige  
+materialer (N-S)
+61 Regnvandsbassin i Svingelen 
+62 Kystsikring med pilebundter ved Dannemare
+
+I   58   I
+Lokation  
+Region Sjælland, 
+Kalundborg Kommune, 
+55.69262°, 11.15311°
+Beskrivelse  
+På Tømmerup Fri- og Efterskole er der etableret lokal  
+afledning af regnvand i samarbejde med Kalundborg 
+Forsyning. Regnvandet nedsives via plantebede og  
+faskiner, hvilket aflaster kloaksystemet og bidrager til  
+dannelsen af grundvand. Projektet har fjernet problemer 
+med vand i kælderen og skabt et rekreativt fællesområde 
+med bålplads og amfiteater. Planterne er udvalgt til at tåle 
+både oversvømmelse og periodevis tørke. I stedet for at  
+lade overfladevand ryge i kloaksystemet, sker nedsivningen 
+og fordampningen direkte, hvor regnen falder. Løsningen 
+fungerer som demoanlæg og inddrages i undervisningen. 
+Ifølge Kalundborg Forsyning er regnvand en vigtig  
+ressource, og borgere kan få afledningsafgift retur ved  
+alternative løsninger. 
+Formål 
+Regnvandshåndtering lokalt 
+(NT-S)
+I      Danske klimatilpasningscases      I
+63 Tømmerup Fri- og Efterskole
+
+
+I   59   I
+64 
+Klimatilpasning Brændkjær
+Lokation: Region Syddanmark, Kolding Kommune, 55.479083°, 9.483669°
+
+I   60   I
+I      Danske klimatilpasningscases      I
+Beskrivelse  
+Kolding Kommune, Boligforeningen AAB/Bovia og  
+BlueKolding har i Brændkjær gennemført et klima- 
+tilpasningsprojekt, der reducerer oversvømmelser i  
+midtbyen. Regn- og spildevand adskilles, og regnvandet  
+forsinkes og renses via render, grøfter og regnbede.  
+Projektet mindsker belastningen på kloakkerne og sparer 
+CO₂ på renseanlægget. Samtidig er biodiversiteten øget,  
+og området er blevet mere attraktivt med rekreative  
+opholdsrum. Beboerne har været aktivt involveret i designet, 
+og flere af deres idéer – som fx en løbebane – er blevet  
+realiseret. Projektet kombinerer klimatilpasning med  
+fællesskab og grønne løsninger.
+Formål 
+Forsinkelse af regnvand og afkobling af regnvand fra 
+spildevandsselskabets fælleskloaksystem (NT-S)
+
+
+I   61   I
+Lokation  
+Region Sjælland,  
+Faxe Kommune, 
+55.31045°, 12.07406°
+Beskrivelse  
+I Dalby har Faxe Forsyning etableret et regnvandsbassin 
+som del af separatkloakeringen. For at øge kapaciteten 
+blev den eksisterende boldbane sænket og drænet, så den 
+nu fungerer som reservebassin og samtidig er mere tør 
+og brugbar end før. Hovedbassinet fremstår som en sø og 
+bidrager til rensning og forsinkelse af regnvand. Brinkerne er 
+beplantet med stauder, som skaber levesteder for insekter. 
+Løsningen gør det muligt at håndtere langt større vand-
+mængder end krævet, og kombinerer klimatilpasning med 
+rekreativ anvendelse af området.
+Formål 
+Etableringen af et ekstra  
+bassinvolumen ved nedsænket 
+og drænet boldbane ved siden 
+af regnvandsbassin (NT-S)
+I      Danske klimatilpasningscases      I
+65 Kloakseparering af Dalby, Etape 3
+Lokation  
+Region Syddanmark, 
+Sønderborg Kommune, 
+54.918939°, 9.603895°
+Beskrivelse  
+Sønderborg Kommune har opført en 113 meter lang  
+højvandsmur langs Fiskenæsvej i Gråsten for at beskytte 
+området mod fremtidige oversvømmelser. Muren, som er 
+2,58 meter høj og støbt ned i skråningen, skal forhindre 
+adgangsproblemer ved stormflod, der kan ramme hvert  
+femte år fra 2050. Hvis Fiskenæsvej oversvømmes ved 
+stormflod, vil der ellers ingen adgangsforhold være til  
+Marina Fiskenæs Feriepark og sommerhusene i området,  
+da Fiskenæsvej forbinder sommerhusområdet med resten  
+af Gråsten. Projektet kostede ca. 950.000 kr. og inkluderer 
+siddepladser, så muren også fungerer som opholdssted. 
+Under en 100-årshændelse i 2017 stod vandet 1,7 meter  
+over normalen. Sønderborg Forsyning samarbejder med 
+kommunen om klimatilpasning og arbejder på flere  
+vandprojekter i lavtliggende områder. 
+Formål 
+Stormflodsbeskyttelse af  
+færdselsvej til boligområde 
+(T-S)
+66 Mur i Gråsten 
+
+I   62   I
+Lokation  
+Region Syddanmark, 
+Vejle Kommune, 
+55.705835°, 9.530856°
+Beskrivelse  
+Vejle Midtby er blandt Danmarks mest udsatte områder for 
+oversvømmelser, da byen ligger i en ådal omgivet af stejle 
+bakker og ved Vejle Fjord. I samarbejde har Vejle Kommune 
+og Vejle Spildevand etableret et sluse- og pumpeanlæg, 
+fordelerbygværk og faunapassage, som beskytter byen mod 
+vand fra både hav, himmel og bagland. Anlægget kan hånd-
+tere op til 7.500 liter vand i sekundet og styres automatisk 
+via SMART VAND-teknologi. Projektet har allerede vist sin 
+værdi under stormfloder og skybrud. Samtidig er der skabt 
+et nyt byrum, og fremtidige byggerier skal sikres til kote 2,5 
+meter. Vejle arbejder videre med lokale klimatilpasnings- 
+projekter og retentionsområder for at håndtere ekstreme 
+vandmængder.
+Formål 
+At sikre Vejle midtby fra 
+oversvømmelser ved større 
+regnskyl og pres fra havet (T-S)
+I      Danske klimatilpasningscases      I
+67 Sluse- og pumpeanlæg i Vejle Midtby
+Lokation  
+Region Syddanmark, 
+Aabenraa Kommune, 
+55.0394°, 9.42223°
+Beskrivelse  
+Aabenraa Kommune og Arwos har opført en pumpesluse 
+ved Slotsmølleåens udløb for at beskytte lavtliggende  
+områder mod oversvømmelser ved højvande. Slusen  
+holder fjordvandet ude, mens pumperne sikrer, at åvandet 
+kan ledes væk. Under stormfloden i oktober 2023 blev  
+anlægget taget i brug før planlagt og forhindrede store 
+skader i midtbyen. Pumpeslusen har også en formidlings-
+del med udsigt, mekaniske indblik og en hånddrevet snek-
+kepumpe til læring og leg. Anlægget kan flytte op til 120.000 
+liter vand i minuttet og har sluseporte på 3,75 meter.  
+Projektet kostede 56 mio. kr. og blev færdiggjort i 2024.
+Formål 
+At sikre Aabenraa by mod 
+oversvømmelse fra hav samt fra 
+bagfrakommende vand (T-S)
+68 Pumpeslusestation
+
+I   63   I
+Lokation  
+Region Syddanmark,  
+Aabenraa Kommune, 
+55.040979°, 9.399779°
+Beskrivelse  
+Aabenraa Kommune har etableret et omfattende natur-  
+og klimaprojekt i Bønderengene, vest for byens centrum. 
+Projektet omfattede naturpleje af ca. 45 hektar med  
+afgræsning. Den lille Hesselbæk, som tidligere er blevet  
+reguleret, blev genslynget over en strækning på ca. 1 km,  
+så den fik et mere naturligt forløb tættere på terrænet og  
+engarealerne. For at genskabe en naturlig hydrologi  
+tilkastedes gamle grøfter og render, så vandet frit kan finde 
+sin vej. Der blev etableret to nye søer på hver ca. 2.300 m2 
+for at styrke den vandlevende biodiversitet stor vand- 
+salamander. Projektet inkluderer også klimasikring af  
+lavtliggende kolonihaver ved Virkelyst, Hjelhaverne og 
+Vestvejen, hvor to diger skal beskytte mod oversvømmelser 
+ved ekstremregn og stormflod. Samlet set forbedres både 
+vandløbskvalitet, terrestrisk natur og områdets rekreative 
+værdi.
+Formål 
+Naturprojekt, som har  
+ekstra virkning i form af tilbage-
+holdelse af vand fra oplandet 
+(N-S)
+I      Danske klimatilpasningscases      I
+69 Biodiversitets- og klimatilpasningsprojekt i 
+Bønderengene
+
+I   64   I
+Tyske klimatilpasningscases 
+
+I   65   I
+Lokation  
+Kreis Rendsburg-Eckernförde, 
+Rendsburg,  
+54.300652°, 9.653155°
+Beskrivelse  
+I et boligområde i Rendsburg er der etableret regn- 
+vandshåndtering vha. grøfter som afleder regnvandet til 
+et tørt græsklædt regnvandsbassin. Bassinets formål er at 
+opsamle og forsinke regnvandet inden det ledes videre  
+imod recipient, som i dette tilfælde er floden Ejderen.  
+Bassinet ligger lige op til at stisystem og nærliggende bynær 
+skov så det indgår også som et rekreativt element i området. 
+I perioder at året vil bassinet være helt tørt, mens det i andre 
+perioder vil være vådt i kortere eller længere tid. Bassinet 
+blev færdigopført i 2024.
+Formål 
+At opsamle samt forsinke  
+afstrømmende regnvand fra 
+området (N-M)
+I      Tyske klimatilpasningscases      I
+70 Tørt regnvandsbassin  
+Lokation  
+Hansestadt Lübeck,  
+Lübeck,  
+53.86613°, 10.68631°
+Beskrivelse  
+RainAhead (“Regn i sigte”)-projektet har skabt  
+planlægnings- og advarselsværktøjer for kraftig regn i  
+byområder, som giver langsigtet støtte til kommunale  
+aktører i håndteringen af konsekvenserne af kraftig regn, 
+især inden for oversvømmelsesbeskyttelse. Vigtige  
+resultater er strømningsløb, synk- og risikokort, et  
+advarselssystem for brandvæsenet til tidlige varsler om, 
+hvornår og i hvilke distrikter oversvømmelse forventes  
+ved kraftig regn, en gennemgang af tidligere vandfølsomme 
+planlægninger og intensivering af kommunikationen mellem 
+de forskellige kommunale aktører og befolkningen.
+Formål 
+At reducere risikoen for skader 
+fra ekstremregn i byområder 
+gennem integreret planlægning 
+og tidlig varsling (D-M)
+71 RainAhead – Integreret planlægnings- og 
+advarselsværktøj til kraftig regn i byområder
+
+I   66   I
+Lokation  
+Landeshauptstadt Kiel,  
+Kiel,  
+54.34416°, 10.17542°
+Beskrivelse  
+Projektet fokuserer på at skabe en robust og bæredygtig 
+strand, der kan modstå klimaforandringer og samtidig  
+tilbyde høj rekreativ værdi. Metoden omfatter etablering af 
+erosionssikre konstruktioner som spunsvægge, natursten  
+og betonelementer, der understøtter både kystbeskyttelse 
+og marine økosystemer. Derudover indgår udvikling af  
+publikumsfaciliteter såsom badebro, aktivitetsområder,  
+barrierefri adgang, sanitære installationer og  
+mobilitetsløsninger. Projektet gennemføres i tæt dialog  
+med borgere via workshops, strandvandringer og digitale 
+formater for at sikre lokal forankring. Finansieringen sker 
+gennem statslige midler under programmet Anpassung 
+urbaner Räume an den Klimawandel suppleret med  
+kommunale bidrag. Den samlede strategi kombinerer  
+tekniske løsninger, naturhensyn og borgerinddragelse  
+for at skabe en fremtidssikret kystzone. 
+Formål 
+At omdanne Strand  
+Hasselfelde til en klimatilpasset 
+og naturnær rekreationsstrand, 
+der kombinerer kystbeskyttelse 
+med attraktive faciliteter for 
+offentligheden (TS-M)
+73 Landskabsstrand Hasselfelde - Østbredden
+Lokation  
+Hansestadt Lübeck,  
+Lübeck,  
+53.86613°, 10.68631°
+Beskrivelse  
+Projektet udviklede og afprøvede metoder til at håndtere 
+ekstremregn i Lübeck og partnerkommuner. Det omfattede 
+udarbejdelse af oversvømmelseskort, risikokort og klima-
+funktionskort for at identificere udsatte områder og kritiske 
+infrastrukturer. Der blev etableret et varslingssystem til 
+brandvæsenet og en brugervenlig webportal til at formidle 
+data og forslag til tiltag. Projektet sikrede juridiske rammer 
+for ejendomsspecifik information, sammenlignede  
+modelresultater med borgernes erfaringer og udviklede 
+handlingsforslag i samarbejde med forskellige interessenter.  
+Erfaringer blev delt mellem kommuner efter princippet “Byer 
+lærer af byer” for at fremme gode eksempler og strategier. 
+Målet var at gøre forebyggende planlægning til et  
+effektivt redskab for at minimere skader efter kraftig  
+regn. Resultaterne fra det tidligere projekt ”RainAHead”  
+blev inkluderet. 
+Formål 
+At styrke kommunernes 
+beredskab mod kraftige  
+regnhændelser gennem  
+bedre informationsstrømme, 
+risikokortlægning og praktiske 
+værktøjer til klimatilpasning 
+(D-M)
+I      Tyske klimatilpasningscases      I
+72 Bedre informationsdeling internt i  
+kommunen – praktiske værktøjer med 
+udgangspunkt i tilpasning til skybrud
+
+I   67   I
+Lokation  
+Kreis Nordfreisland, 
+Husum,  
+54.47963°, 9.00730°
+Beskrivelse  
+Projektet Zukunft Dockkoog blev igangsat af WWF i 2015 
+som en bredt forankret planlægningsproces med deltagelse 
+af kommune, myndigheder, erhvervsliv, turismeaktører og 
+det lokale borgerinitiativ. Formålet var at samle de ofte  
+modsatrettede interesser for Dockkoog-området, hvor 
+stigende havniveau, behov for forstærkning af diger samt 
+ønsker om naturforbedring og rekreative muligheder spiller 
+en central rolle. Projektgruppen arbejdede i 2015–2016 med 
+at formulere fælles målsætninger, analysere eksisterende 
+forhold og udvikle flere alternative fremtidsscenarier for  
+området. Disse scenarier varierede bl.a. i placering og  
+udformning af den nødvendige kystbeskyttelse samt i  
+graden af turistmæssig udvikling, herunder muligheder for 
+hotelbyggeri. Arbejdet mundede ud i tre anbefalede  
+fremtidsvarianter, som alle styrker stormflodsbeskyttelsen, 
+men vægter naturbevarelse, landskabsoplevelse, rekreation 
+og lokal udvikling forskelligt. Rapporten blev efterfølgende 
+brugt som grundlag for den videre politiske behandling af 
+Dockkoogs fremtid i Husum. 
+Formål 
+At udvikle fælles planlægnings-
+grundlag for en fremtidig ud-
+formning af Husums Dockkoog, 
+der balancerer kystbeskyttelse, 
+naturforbedring, rekreation og 
+lokale interesser (S-M)
+Klimatilpasning af bløde kyster
+Lokation  
+Hansestadt Lübeck,  
+Lübeck,  
+53.86613°, 10.68631°
+Beskrivelse  
+Initiativet “Ressourceneffiziente Stadtquartiere für die 
+Zukunft” (RES:Z) er et BMBF-støttet flerårigt program 
+(2019–2025), der udvikler og implementerer helheds- 
+orienterede koncepter for effektiv håndtering af vand,  
+energi, stofstrømme, areal og urbant grønt i byområder.  
+Projektet kombinerer forskning og praksistest i model- 
+kvarterer, koordinerer med en række kommunale og  
+videnskabelige aktører og faciliterer videnoverførsel gennem 
+en tværgående koordinationsenhed (ReQ+). En central 
+leverance er DIN SPEC 91468, som fastlægger vejledende 
+metoder og indikatorer til at vurdere ressourceeffektivitet i 
+tidlige planlægningsfaser. Erfaringer fra første fase  
+operationaliseres i anden fase og skal klargøre potentialer 
+for bredere kommunal implementering. 
+Formål 
+At fremme ressourceeffektiv 
+planlægning og bæredygtig 
+udvikling i bykvarterer gennem 
+forskning, eksemplarisk  
+implementering og  
+vidensdeling (S-M)
+I      Tyske klimatilpasningscases      I
+74 BlueGreenStreets 2.0 - Multifunktionelt 
+gaderumsdesign af bydistrikter –  
+implementering, evaluering og konsolidering
+75
+
+I   68   I
+Lokation  
+Kreis Rendsburg-Eckernförde,  
+Eckernförde,  
+54.47319°, 9.84136°
+Beskrivelse  
+Projektet kombinerer klimatilpasning med kunstneriske 
+udtryksformer for at formidle komplekse klimarelaterede 
+emner på en tilgængelig og inspirerende måde. Initiativet 
+omfatter installationer og kunstprojekter i kystområder, der 
+visualiserer konsekvenserne af stigende havniveauer og  
+erosion. Derudover indgår workshops, offentlige events  
+og dialogformater, hvor lokale aktører og besøgende kan 
+deltage aktivt. Målet er at skabe en følelsesmæssig  
+forbindelse til emnet og motivere til handling gennem 
+æstetiske oplevelser og interaktiv formidling. Projektet  
+fungerer som et eksempel på, hvordan kultur og  
+klimatilpasning kan integreres for at styrke lokal  
+modstandskraft og opmærksomhed.
+Formål 
+At øge bevidstheden om  
+klimaforandringer og deres 
+indvirkning på kystområder 
+gennem kunstneriske og 
+kreative tilgange, der engagerer 
+borgere og turister (S-M)
+I      Tyske klimatilpasningscases      I
+76 CLIMATIC kystklimakunst
+Lokation  
+Lübeck-bugten,  
+54.01234°, 10.76957°
+Beskrivelse  
+Projektet anvender en deltagelsesbaseret tilgang for at  
+sikre bred opbakning til klimatilpasning. Metoden omfatter 
+workshops, dialogmøder og digitale formater, hvor  
+interessenter bidrager med viden og idéer til konkrete tiltag. 
+Der gennemføres analyser af klimarisici og sårbarheder,  
+som danner grundlag for prioritering af indsatsområder. 
+Resultaterne samles i et handlingskatalog med forslag til 
+tekniske, organisatoriske og naturbaserede løsninger.  
+Processen understøttes af kommunikation og transparens 
+for at styrke lokal forankring og skabe ejerskab til strategien. 
+Målet er at integrere klimatilpasning i kommunal  
+planlægning og gøre byen mere modstandsdygtig over for 
+fremtidige klimaforandringer.
+Formål 
+At udvikle et lokalt klima- 
+tilpasningskoncept gennem en 
+struktureret og inkluderende 
+proces, der inddrager borgere, 
+politikere og faglige aktører 
+(DS-M)
+77 Deltagelsesprocedure for udviklingen af 
+et integreret beskyttelseskoncept mod 
+oversvømmelse
+
+I   69   I
+Lokation  
+Landeshauptstadt Kiel,  
+Kiel,  
+54.47459°, 10,277185°
+Beskrivelse  
+Projektet fokuserer på at udvikle og afprøve nye  
+samarbejdsformer mellem kommuner for at håndtere de 
+stigende klimarelaterede risici som havniveaustigning,  
+erosion og øget stormflodsbelastning. Gennem indsamling 
+og tilgængeliggørelse af relevante kystdata får lokale  
+aktører et fælles beslutningsgrundlag for planlægning af 
+kystbeskyttelsesindsatser. Projektet sammenligner  
+traditionelle kystbeskyttelsesmetoder med naturbaserede 
+løsninger som treibsel-duner, seegrasmatten og kunstige 
+rev for at identificere mere bæredygtige alternativer. Der 
+gennemføres modelprojekter, hvor sådanne tiltag testes i 
+praksis for at vurdere deres effektivitet og anvendelighed. 
+Samtidig arbejdes der aktivt med at øge forståelsen for  
+nødvendigheden af grænseoverskridende kommunalt  
+samarbejde om klimatilpasning. Projektet munder ud i en 
+handlingsvejledning, der skal understøtte kommunernes 
+fremtidige planlægning af kystbeskyttelse i et klima i  
+forandring.
+Formål 
+At styrke kommunernes  
+evne til i fællesskab at  
+planlægge og gennemføre 
+kystbeskyttelsesløsninger 
+som klimatilpasning langs 
+den Schleswig-Holsteinske 
+Østersøkyst (NTS-M)
+I      Tyske klimatilpasningscases      I
+78 KOMMRÜBER-projektet
+
+I   70   I
+79 
+Klimaalliance i Kiel bugt  
+Lokation: Kiel-bugt, 54.47459°, 10.277185°
+
+I   71   I
+Beskrivelse  
+Projektet har etableret et regionalt klimanetværk, hvor 
+kommuner, virksomheder og civilsamfund samarbejder 
+om at udvikle og implementere klimatilpasningsstrategier. 
+Metoden omfatter opbygning af en fælles vidensplatform, 
+afholdelse af workshops og erfaringsudveksling om gode 
+eksempler. Der udarbejdes handlingsplaner med fokus på 
+kystbeskyttelse, grøn infrastruktur og reduktion af klima- 
+risici. Klimaalliancen fremmer tværkommunal koordinering 
+og integrerer klimatilpasning i lokal planlægning. Målet er at 
+skabe en robust region, der kan håndtere konsekvenserne  
+af klimaforandringer gennem fælles løsninger og styrket 
+samarbejde.
+Formål 
+At styrke klimatilpasning og klimasamarbejde i regionen 
+Kieler Bucht gennem netværksdannelse, vidensdeling og 
+udvikling af fælles strategier for kommuner og aktører (S-M)
+I      Tyske klimatilpasningscases      I
+Billedet viser ikke medlemmerne 
+af Klimaalliancen i Kiel bugt, men  
+er fra POSEIDONs midtvejs- 
+konference, som blev afholdt den 
+29. og 30. september 2025. 
+ 
+Begge billeder af taget af  
+Flowerhaus ApS i forbindelse  
+med midtvejskonferencen. 
+
+I   72   I
+Lokation  
+Kreis Nordfriesland,  
+Amrum,  
+54.629980°, 8.351814°
+Beskrivelse  
+Projektet fokuserer på at restaurere naturlige klitdale,  
+som er fugtige lavninger mellem klitterne dannet af  
+vindudblæsninger. Disse områder fyldes med regnvand 
+om vinteren og tørrer ud om sommeren, hvilket gør dem 
+til ideelle ynglesteder for padder som den stærkt truede 
+strandtudse. På grund af naturlig succession forsvinder 
+åbne sandflader og lavninger gradvist, hvilket reducerer  
+levestederne. For at modvirke dette gennemføres  
+renoveringer af klitlandskabet med erstatningsmidler, hvor 
+vegetation fjernes og strukturen genskabes. Projektet har 
+været i gang siden 2016, og fra 2024 til 2026 planlægges 
+yderligere opgradering af 28 klitdale for at sikre langsigtet 
+beskyttelse af denne unikke biotop.
+Formål 
+At bevare og genoprette  
+vigtige klitdale som levesteder 
+for truede arter og sikre  
+biodiversitet i klitlandskabet på 
+Amrum (N-M)
+I      Tyske klimatilpasningscases      I
+80 Klitdale på Amrum
+Lokation  
+Hansestadt Lübeck,  
+Lübeck,  
+53.86551°, 10.68644°
+Beskrivelse  
+Lübeck har udarbejdet en omfattende strategi for højvands-
+beskyttelse, der kombinerer tekniske og organisatoriske 
+løsninger. Metoden omfatter etablering af faste og  
+mobile beskyttelsesanlæg langs Trave og Wakenitz, 
+overvågning af vandstande og tidlig varsling via digitale 
+systemer. Derudover informeres borgere om risikoområder, 
+sikring af ejendomme og adfærd under oversvømmelser 
+gennem vejledninger og online ressourcer. Kommunen  
+samarbejder med brandvæsenet og andre nøgleaktører for 
+at sikre hurtig indsats ved akutte hændelser. Målet er at 
+reducere skader og beskytte både infrastruktur og beboere 
+mod konsekvenserne af stigende vandstand og stormfloder.
+Formål 
+At informere borgere om  
+forebyggelse og håndtering af 
+oversvømmelser i Lübeck og 
+sikre effektiv beskyttelse mod 
+højvande gennem planlagte 
+tiltag og beredskabsstrategier 
+(DT-M)
+81 Oversvømmelse: information om  
+oversvømmelsesniveauer og tiltag
+
+I   73   I
+Lokation  
+Kreis Plön,  
+Gemeinde Selent,  
+54.2899°, 10.43105°
+Beskrivelse  
+Som reaktion på omfattende skader ved højvands- 
+hændelsen i 2002 udviklede Selent et bæredygtigt koncept 
+for regnvandsstyring. Indsatsen omfattede etablering af  
+en sekundær udledning til Selenter See, udvidelse af  
+retentionsområder og oversvømmelseszoner samt  
+opgradering af regnvandsledninger. Over en periode på  
+syv år blev der investeret ca. 12 millioner euro i projektet  
+for at øge modstandskraften mod kraftig nedbør. Lokale  
+myndigheder har løbende opdateret og forbedret systemet. 
+Formål 
+At gøre Selent modstands- 
+dygtig over for fremtidige  
+ekstremnedbørshændelser  
+ved at etablere en helheds- 
+orienteret styring af regnvand 
+gennem tekniske løsninger og 
+øget kapacitet (NT-M)
+I      Tyske klimatilpasningscases      I
+82 Bæredygtig regnvandshåndtering
+
+I   74   I
+83 
+Klimatilpasset skolegårdsdesign  
+Klixbüll 
+Lokation: Kreis Nordfriesland, Gemeinde Klixbüll, 54.802541°, 8.894331°
+
+I   75   I
+Beskrivelse  
+På Klixbülls folkeskole er skolegården under forvandling 
+fra en varm, grusfyldt flade til et klima-venligt, grønt og 
+læringsunderstøttende uderum. Projektet tager afsæt i  
+elevernes egne idéer og skal både skabe bedre opholdsfor-
+hold og styrke forståelsen for klimaforandringer og lokale 
+tilpasningsstrategier. Med et nyt cisternebaseret regn-
+vandssystem kan opsamlet tag- og overfladevand bruges til 
+nænsom vanding af grønne områder, mens overskudsvand 
+infiltrerer jorden og understøtter grundvandsdannelsen.  
+Klimaresistente træer, plantevægge og en pergola skaber 
+skygge, biodiversitet og et køligere mikroklima på varme 
+dage. Samtidig forbedres lege- og læringsmiljøet gennem 
+nye skyggeområder, herunder et stort solsejl ved sandkas-
+sen. Projektet styrker både naturforståelsen og skolens 
+modstandsdygtighed mod fremtidens klima, og fungerer 
+som et inspirerende eksempel på, hvordan lokalsamfund 
+og elever kan forme et bæredygtigt og attraktivt skolemiljø 
+sammen.
+Formål 
+At omdanne skolegården  
+i Klixbüll til et klimatilpasset, 
+grønt og læringsunder- 
+støttende uderum, der  
+reducerer varmebelastning,  
+fremmer biodiversitet og 
+styrker elevernes forståelse 
+for klimaforandringer og lokal 
+tilpasning (NT-M)
+I      Tyske klimatilpasningscases      I
+
+
+I   76   I
+84 
+Det fortsætter bag klimadæmningen -  
+Udvikling af en bæredygtig vandforvaltning af  
+afvandingsområdet Bongsieler Kanalen 
+Lokation: Kreis Nordfriesland, 54.678728°, 8.775225°
+
+I   77   I
+Beskrivelse  
+Bongsielerkanalens afvandingsområde i Nordtyskland  
+dækker ca. 72.000 ha og omfatter både højere geest- 
+områder (det højere liggende, tørre land bag marsken) og 
+lavtliggende marskområder. Siden 2002 har 38 foreninger 
+samarbejdet om bæredygtig vandforvaltning og klimatil- 
+pasning, især i lyset af klimaforandringer og øgede ekstreme 
+vejrhændelser. Projektet fokuserer på modernisering af 
+afvandingssystemer, økologisk forbedring og etablering af 
+tilbageholdelsesområder, samtidig med at landbrugsdriften 
+opretholdes. En central indsats er flytning og udvidelse af en 
+digesektion, hvilket øger kapaciteten og forbedrer vandaf-
+ledningen til Nordsøen. Der arbejdes med energirenovering, 
+teknisk opgradering og installation af moderne måle- og 
+styringsteknologi. Målet er at kombinere oversvømmelses-
+beskyttelse, klima- og naturhensyn samt sikre økonomisk 
+og landbrugsmæssig bæredygtighed. Projektet inddrager 
+mange interessenter og skal fungere som pilotområde  
+for lavlandsstrategien 2100, hvor erfaringer deles for at  
+fremme fremtidig klimatilpasning og værdiskabelse i  
+landdistrikterne.
+Formål 
+Forbedring af vandtilbageholdelsen i hele afvandings- 
+området for at bevare og aflaste diget og som bidrag til  
+beskyttelse af vand, natur og klima (NTS-S)
+I      Tyske klimatilpasningscases      I
+
+
+I   78   I
+Lokation  
+Kreis Nordfriesland, 
+Nordstrand,  
+54.50195°, 8.81246°
+Beskrivelse  
+På halvøen Nordstrand i det nordlige Tyskland blev der 
+mellem 2013 og 2016 opført et såkaldt klimadige, der skal 
+beskytte området mod fremtidens stigende havniveau og 
+hyppigere stormfloder. Diget er konstrueret med en ekstra 
+bred krone og flade skråninger, så det let kan forhøjes, hvis 
+klimaforandringerne kræver det. Projektet kombinerer  
+klassisk kystbeskyttelse med innovative løsninger og 
+rekreative elementer som cykelsti og udsigtspladser.  
+Klimadiget beskytter både beboere, landbrug og værdifuld 
+natur, og fungerer som et forbillede for klimatilpasning i 
+lavtliggende kystområder. Erfaringerne fra Nordstrand viser, 
+hvordan fremtidssikret infrastruktur kan tilpasses naturens 
+udvikling og samtidig skabe merværdi for lokalsamfundet.
+Formål 
+At beskytte Nordstrand  
+mod stigende havniveau og 
+stormfloder gennem et  
+fleksibelt og fremtidssikret  
+dige, der samtidig skabe 
+rekreativ værdi for  
+lokalsamfundet (T-S)
+86 Klimadige på Halbinsel Nordstrand
+Lokation  
+Kreis Nordfriesland,  
+Dansk/Tyske grænse, 
+54.901873°, 8.887663°
+Beskrivelse  
+I kommunerne Ellhöft, Süderlügum og Humptrup blev  
+der fra 2020 til 2024 gennemført et pilotprojekt for  
+klimatilpasning og natur- og oversvømmelsesbeskyttelse i 
+Süderau-området. Projektet omfattede flytning af et  
+indlandsdige og etablering af en ny digelinje bag den  
+eksisterende, hvilket skabte et vådområde på 34 ha.  
+Området fungerer som midlertidig vandopbevaring 
+ved oversvømmelser og reducerer belastningen på 
+dræningssystemet. Samtidig forbedres biodiversiteten 
+gennem vådområder, grøfter og udsåning af regionale frø. 
+Projektet kombinerer naturbeskyttelse med klimatilpasning 
+og skaber plads til stigende nedbør og højere vandstande. 
+Det blev finansieret med 314.000 euro og bidrager til både 
+økologisk og teknisk opgradering af landskabet.
+Formål 
+Beskyttelse mod klimafrem-
+kaldte stigende vandløbs- 
+soversvømmelser ved 
+grænseåen Süderau/Sønderå 
+(N-S)
+I      Tyske klimatilpasningscases      I
+85 Oprettelse af tilbageholdelsesområde ved 
+Süderau/Sønderå 
+
+I   79   I
+Lokation  
+Kreis Ostholstein,  
+Stockelsdorf,  
+53.88834°, 10.64974°
+Beskrivelse  
+Ved Stockelsdorfs rådhus er der etableret tre grønne 
+løsninger, der kombinerer æstetik, læring og klimahensyn 
+og skal formidle muligheder: et højbed, vilde blomster og 
+stauder. Højbedet er bygget op i lag med grene, kompost 
+og jord, og giver mulighed for dyrkning af egne grøntsager. 
+Elever har deltaget i opbygningen og tørvejord er fravalgt for 
+at beskytte klimavigtige tørvemoser.
+Det vilde blomsterbed er anlagt med regionale frø og sandet 
+jord, hvilket skaber et varieret og insektvenligt miljø. Et “vildt 
+hjørne” med brændenælder og træstammer giver levesteder 
+til sommerfugle og pindsvin. Staudebedet bidrager til  
+klimatilpasning ved at forbedre jordens evne til at absorbere 
+regnvand og mindske udtørring. 
+Formål 
+At vise og formidle, hvordan 
+grønne og naturbaserede 
+løsninger kan bidrage til  
+både klimatilpasning,  
+klimabeskyttelse og øget  
+biodiversitet i bynære områder 
+(N-S)
+88 Stockelsdorf tilpasser sig
+Lokation  
+Kreis Nordfriesland,  
+Halling Nordstrand, 
+54.550375°, 8.812825°
+Beskrivelse  
+På Halligen Nordstrandischmoor i Vadehavet truer klima-
+forandringer og stigende havniveau det unikke ø-samfund. 
+For at beskytte øen mod hyppigere oversvømmelser har 
+lokale udviklet en innovativ løsning: en “sedimentfælde” , 
+der ved stormflod leder sand og mudder op på øen. Denne 
+metode fremmer naturlig landhævning og kan potentielt få 
+øen til at vokse hurtigere end havstigningen. Projektet  
+kombinerer lokal viden med geologisk ekspertise og viser, 
+hvordan naturbaserede løsninger kan styrke kystbeskyt-
+telsen. Erfaringerne fra Nordstrandischmoor illustrerer, at 
+klimatilpasning kan ske i samspil med naturen – og inspirere 
+andre lavtliggende områder til at tænke nyt. 
+Formål 
+At demonstrere, hvordan 
+naturbaserede løsninger som 
+sedimentfælder kan beskytte 
+lavtliggende ø-samfund mod 
+klimaforandringer og stigende 
+havniveau (N-S)
+I      Tyske klimatilpasningscases      I
+87 Sedimentfælde på Nordstrandischmoor – 
+Naturlig klimatilpasning i Vadehavet
+
+I   80   I
+Lokation  
+Kreis Ostholstein,  
+Stockelsdorf,  
+53.88834°, 10.64974°
+Beskrivelse  
+På taget af Stockelsdorfs rådhus er anlagt et grønt tag,  
+der kombinerer funktionalitet med bæredygtighed. Flade 
+tage overses ofte i byplanlægningen, men rummer stort  
+potentiale for klimavenlige tiltag. Mens solceller er blevet  
+almindelige, er grønne tage stadig sjældne, selvom de 
+bidrager aktivt til et bedre bymiljø.
+Det grønne tag ved rådhuset er tilgængeligt for besøgende 
+fra anden sal og kan opleves i al slags vejr. Taget fungerer 
+som en levende overflade, der både forskønner bygningen 
+og understøtter klimatilpasning. Det reducerer varmeø- 
+effekten, tilbageholder regnvand og aflaster kloaksystemet. 
+Samtidig skaber det levesteder for insekter og styrker  
+biodiversiteten i det urbane rum.
+Formål 
+At demonstrere, hvordan 
+grønne tage kan bidrage  
+til klimatilpasning, klima- 
+beskyttelse og øget  
+livskvalitet i byområder (N-S)
+I      Tyske klimatilpasningscases      I
+89 Grønt tag på rådhuset i Stockelsdorf
+
+
+I   81   I
+Grænseoverskridende  
+klimatilpasningscase 
+
+I   82   I
+90 
+Grenzwasser/grænsevand 
+Lokation: Grænseoverskridende ved dansk-tysk landegrænse, 54.89725°, 8.86074°
+
+I   83   I
+Beskrivelse  
+Projektet Grenzwasser/Grænsevand 2015 har til formål at 
+tilpasse vandforvaltningen i det dansk-tyske grænseområde 
+til klimaforandringer og stigende havniveauer.  
+I Vidå-afvandingsområdet blev der udført hydrodynamisk 
+modellering og etableret retentionsområder ved at flytte 
+diger, hvilket både reducerer oversvømmelsesrisiko og  
+fremmer biodiversitet. Projektet bygger på samarbejde 
+mellem danske og tyske myndigheder og har skabt fælles 
+forståelse for klimatilpasning. Resultaterne er formidlet 
+gennem workshops, konferencer og publikationer, og  
+fungerer som vejledning for lokale og regionale aktører i 
+fremtidig vandforvaltning. 
+Formål 
+Sikkerhed mod  
+oversvømmelse fra åer i 
+grænseområdet (NTS-S)
+I      Grænseoverskridende klimatilpasningscase      I
+
+
+I   84   I
+10 udvalgte eksempler
+I      10 udvalgte eksempler      I
+De 10 udvalgte eksempler er nævnt  
+nedenfor med links til deres konkrete  
+beskrivelse. Se placering på Figur 6).  
+De er udvalgt som repræsentative eksempler  
+på, hvordan forskellige løsninger kan  
+imødekomme forskellige udfordringer i hhv. 
+Danmark og Tyskland.
+• Grenzwasser/grænsevand  
+– et grænseoverskridende projekt  
+Side 83 
+• Klimatilpasset skolegårdsdesign Klixbüll  
+Side 75 
+• Klimaalliance i Kiel bugt  
+Side 71 
+• Det fortsætter bag klimadæmningen  
+- Udvikling af en bæredygtig vandforvaltning 
+ af afvandingsområdet Bongsieler Kanalen  
+Side 77 
+ 
+• Glisholm Sø i Odense  
+Side 23 
+• Allekvarteret i Middelfart  
+Side 34 
+• Grønnehave Bæk i Odsherred  
+Side 27 
+• Bypark med merværdi i Ringsted   
+Side 25 
+• Klimatilpasning Brændkjær i Kolding  
+Side 61 
+• Permeabel overflade og regnvands- 
+håndtering i Kirkegade i Esbjerg  
+Side 53
+Figur 6: De 10 udvalgte cases angivet med sorte cirkler. 
+
+
+I   85   I
+Klimatilpasningsløsninger
+I      Klimatilpasningsløsninger     I
+Klimatilpasningsløsningerne er mange og vidt forskellige. Nogle er f.eks. målrettet stormfloder  
+eller stigende havniveau, mens andre er målrettet afstrømmende regnvand eller skybrud.  
+Nogle er tekniske, mens andre er naturbaserede. Nogle beskytter kun en enkelt husstand, mens  
+andre håndterer klimatilpasningen af et mindre eller større opland. Nogle er meget simple, mens 
+andre er meget avancerede. Også økonomisk er der stor forskel. Endelig anvendes rigtig mange af 
+løsninger i kombination med hinanden. 
+ 
+Nedenfor er en række af de nuværende løsninger beskrevet. Mange af løsningerne håndterer ikke 
+kun vandet, men har også mulighed for at designes til at rense det afstrømmende vand i større eller 
+mindre grad. Dette er dog ikke fokus i nedenstående beskrivelse. Løsningerne er inddelt efter om de 
+primært er anvendelige på en, flere eller mange matrikler eller om de kan bruges både på en, flere 
+og mange matrikler, på en og flere matrikler osv. Bemærk at en lang række af de nævnte løsninger 
+kræver tilladelse fra myndighederne.
+
+
+I   86   I
+Løsninger til en, flere  
+eller mange matrikler
+I      Klimatilpasningsløsninger      I
+Diger traditionelle, grønne og skjulte 
+Traditionelle diger er ofte permanente jord-, 
+beton- eller stenbarrierer, der typisk bygges 
+langs kystlinjer for at forhindre oversvømmelser. 
+Det grønne dige tilpasses, så det falder ind i den 
+eksisterende natur. Det tager udgangspunkt i et 
+traditionelt dige, hvor der tilføres beplantning, 
+der stabiliserer jorden og modvirker erosion.  
+Det er typisk denne form for dige som ses ved 
+vadehavet og generelt langs Vestkysten i  
+Danmark. Et skjult dige er typisk et dige, som 
+ikke er synligt før det skal bruges. Der findes 
+forskellige typer såsom skjulte faste diger eller 
+oppustelige diger som ligger skjult på eller  
+under jorden, og hvor der så pumpes vand eller 
+luft ind i systemet eller diget kan løftes, eller 
+vippes op, når en barriere skal bruges. 
+Mobile barrierer 
+En anden klassisk form for dige er mobile  
+barrierer, der oftest bruges i forbindelse med 
+stormfloder, når bygninger og andre  
+konstruktioner skal beskyttes. Det kan være 
+mobile barrierer som fyldes med vand eller luft, 
+samt mobile barrierer som samles eller stilles 
+op på stedet. Generelt er det barriere, der kan 
+rykkes frem og sættes frem, når der er behov for 
+højtvandsbeskyttelse ved stormflod. 
+Forsinkelsesbassiner/ 
+regnvandsbassiner 
+Et forsinkelsesbassin er en løsning, der  
+anvendes til midlertidig opbevaring af regnvand. 
+Det bruges typisk i forbindelse med afledning 
+fra større befæstede arealer og omfatter blandt 
+andet regnvandsbassiner. Formålet er at  
+tilbageholde regnvandet midlertidigt, så  
+afledningen til vandmiljøet forsinkes. Derudover 
+sker der en vis fordampning i tørre perioder og i 
+nogle bassiner tillades også nedsivning.  
+Forsinkelsesbassiner kan etableres som enten 
+åbne anlæg over jorden eller lukkede anlæg  
+under jorden. Lukkede bassiner udføres ofte i 
+beton eller med plastkassetter, mens åbne  
+bassiner typisk etableres som våde eller tørre  
+regnvandsbassiner. Valget af udformning  
+afhænger af de lokale forhold, herunder  
+pladsforhold, jordbundstype og ønsket æstetik. 
+De våde regnvandsbassiner indeholder altid 
+vand, mens de tørre regnvandsbassiner kun 
+indeholder vand under og efter regn. De våde 
+regnvandsbassiner designes så de efterligner 
+naturlige småsøer og kan være levested for dyr 
+og planter samtidig med, at de skaber rekreative 
+værdier. De tørre regnvandsbassiner kan i tørre 
+perioder skabe rekreativ værdi. 
+Permeable belægninger  
+Permeable (infiltrerbare) belægninger er en 
+løsning til afvanding af arealer som for  
+eksempel parkeringspladser og veje, hvorved 
+overfladeafstrømningen reduceres.  
+Belægningen sikrer en plan overflade til gang 
+eller kørsel, samtidig med at regnvand kan sive 
+igennem. Belægningen kan f.eks. være græs, 
+nedsivning mellem beton, græsbelægning i  
+beton eller belægningssten samt f.eks.  
+permeabel asfalt. Infiltrationskapaciteten  
+afhænger dels af belægningens design,  
+hydrauliske kapacitet af bærelaget samt jorden 
+nedenunder og omkring. 
+Permeable brønde og -rør 
+Permeable brønde og rør er en løsning til  
+håndtering af regnvand gennem nedsivning. 
+Systemet er fremstillet af permeabel beton  
+eller andre permeable rørsystemer og  
+-materialer, som tillader vand at passere  
+igennem. Denne løsning er velegnet til  
+afvanding af regnvand fra tætte belægninger. 
+Den permeable struktur muliggør lokal  
+nedsivning og reducerer belastningen på  
+det eksisterende afløbssystem. 
+
+I   87   I
+I      Klimatilpasningsløsninger      I
+Regnbed/vejbed 
+Et regnbed/vejbed er et beplantet anlæg,  
+der midlertidigt tilbageholder regnvand i bedet 
+og evt. i faskine under bedet. Derfra kan vandet 
+nedsive i jorden, udledes til recipient eller ledes 
+tilbage på kloaksystemet. Der anlægges alle 
+typer, og det kræver derfor forskellige typer af  
+design og grader af rensning. Bedet er ofte  
+opbygget med en særlig filterjord og et under- 
+liggende lag af sand eller grus. Opbygningen 
+skal sikre effektiv infiltration, rensning af det  
+afstrømmende vand og sikre vækst af be-
+plantningen i bedet. For at håndtere større 
+regnmængder kan regnbedet suppleres med 
+et nærliggende nedsivningsareal eller en ned-
+gravet faskine. Regnbede kan også anlægges i 
+private haver – f.eks. i hjørner, langs flisegange 
+eller som selvstændige bede i græsplæner. I 
+offentlige rum anvendes de ofte langs veje, i 
+midterrabatter, på parkeringspladser eller  
+mellem bygninger, hvor de både håndterer  
+regnvand og bidrager til grønne og rekreative 
+byrum. 
+Strandenge 
+Strandenge er lavtliggende naturområder langs 
+kysten, der fungerer som en naturlig buffer mod 
+havstigning og stormflod. De dæmper bølge- 
+energi, reducerer erosion og beskytter  
+baglandet mod oversvømmelser. Samtidig  
+lagrer de CO₂ og bidrager dermed til klima- 
+regulering. Beskyttelse, genetablering,  
+genopretning og/eller tilbagerykning af  
+strandenge ved at fjerne diger og genskabe 
+naturlige vandforhold er derfor en vigtig  
+naturbaseret løsning. Det skaber plads til både 
+naturkvalitet og vand samt beskyttelse af  
+områder i oplandet bagved.
+Løsninger til mange  
+matrikler
+Bølgebrydere 
+Bølgebrydere bruges til beskyttelse af kystlinjen. 
+De placeres i vandet ud for kysten og reducerer 
+bølgeenergien inden bølgerne når kysten.  
+Bølgebryderne kan være lavet af sten, beton 
+eller andre materialer. De bremser ligeledes den 
+naturlige erosion af kystlinjen. Bølgebrydere kan 
+kræve sandfodring af stranden nedstrøms for 
+bølgebryderne. Bølgebryderne skaber en  
+karakteristisk kyst, der ligner guirlander. 
+Høfder
+Høfder er typisk opbygget af sten og er place-
+ret vinkelret på kystlinjen. Høfdernes primære 
+formål er at bryde bølgerne og beskytte mod 
+den naturlige erosion og tilbagerykning af 
+kystlinjen. De fungerer på den måde, at de 
+opsamler sand og andet sediment, som ledes 
+med strømmen. Stranden bliver dermed bredere 
+opstrøms for anlæggene, da materialet samles 
+her, mens stranden bliver smallere nedstrøms 
+for anlæggene, da materialet forsvinder herfra. 
+På denne måde reducerer høfderne tilbage- 
+rykningen på dele af stranden. 
+ 
+Sandfodring 
+Helt naturligt sker erosion langs kysterne.  
+Erosionen skyldes bølger og/eller kraftig vind 
+mod kysterne. Stigende havvandstand og  
+kraftigere storme kan øge erosions- 
+problematikkerne. Nogle strækninger kan  
+være hårdere ramt end andre, hvis de ligger 
+nedstrøms for anlæg som bølgebrydere, høfder 
+
+
+I   88   I
+og havne. Sandfodringen udføres for at holde 
+strandens naturlige bredde samt opretholde 
+den nuværende kystprofil. Derudover har  
+sandfodringen også et klimatilpasnings- 
+perspektiv i form af beskyttelse af f.eks.  
+bebyggelse og landbrugsarealer i baglandet. 
+Intelligent styring af spildevand 
+Ved kraftig regn kan fælleskloakker blive over- 
+belastede, hvilket kan føre til udledning af  
+urenset spildevand. Intelligent styring af 
+spildevandssystemet anvender vejrradarer til at 
+forudsige regnhændelser og optimere  
+kapacitetsudnyttelsen i kloaknet og renseanlæg. 
+Systemet justerer automatisk sluser og pumper, 
+så vand ledes til de dele af systemet med mest 
+ledig kapacitet. Samtidig øges renseanlæggets 
+kapacitet midlertidigt, og udledninger styres til 
+de mindst sårbare områder. Resultatet er færre 
+oversvømmelser og mindre miljøpåvirkning. 
+Vejen som løsning 
+Veje kan udformes, så de aktivt bidrager til 
+håndteringen af regnvand og dermed under-
+støtter klimatilpasning. To almindelige løsninger 
+er veje med trug i midterrabatten og såkaldte 
+vandveje. I førstnævnte opdeles kørebanen med 
+en svag hældning mod midten, hvor vandet 
+opsamles i trug placeret med jævne mellemrum. 
+Disse fører vandet videre til enten nedsivning 
+eller midlertidig opbevaring. Vandveje benytter 
+en V-formet profil, hvor et centralt kanalmodul 
+opsamler og transporterer regnvandet. Denne 
+løsning mindsker presset på kloaksystemet ved  
+kraftige nedbørshændelser. En mere  
+specialiseret løsning er skybrudsveje, som er 
+designet til at aflede store vandmængder under 
+ekstreme vejrsituationer. De kan udformes med 
+forskellige elementer som render, hævede 
+kantsten eller hule fortove og er dimensioneret 
+til at forhindre oversvømmelser i bebyggede 
+områder. Disse veje placeres typisk i mindre 
+trafikerede områder, hvor de effektivt leder  
+vandet mod naturlige eller kunstige op- 
+samlingssteder som søer og bassiner. De kan 
+suppleres med vejbede, permeable belægninger 
+og overløbsrender, hvilket både forbedrer  
+I      Klimatilpasningsløsninger      I
+regnvandshåndteringen i hverdagen og øger 
+byens modstandsdygtighed over for klima- 
+forandringer.
+Multifunktionelle urbane  
+retentionsområder 
+Multifunktionelle urbane retentionsområder 
+(MUR) er offentlige frie områder eller trafik- 
+arealer, der ud over deres primære  
+anvendelse også midlertidigt kan overtage 
+vandforvaltningsfunktioner, f.eks. til oversvøm-
+melsesforebyggelse ved kraftig regn. De  
+fungerer normalt som trafikarealer eller  
+opholdssteder og omdannes efter behov til 
+retentionsområder. Efter hændelsen ledes det 
+opsamlede regnvand til kloaksystemet eller til 
+recipient. 
+
+
+I   89   I
+I      Klimatilpasningsløsninger      I
+Løsninger til mange eller 
+flere matrikler 
+Genetablering af vådområder 
+Genopretning af naturlige vådområder og ådale 
+kan reducere risikoen for oversvømmelser via 
+forsinkelse, magasinering, fordampning og 
+infiltration af vand. Derved holdes vandet tilbage 
+i oplandet og risikoen for oversvømmelser af 
+omkringliggende og/eller nedstrømsliggende 
+områder undgås. 
+Grønne korridorer
+Som et element i klimatilpasning kan der  
+etableres grønne korridorer, der både forbinder 
+eksisterende grønne områder og bidrager til 
+at håndtere klimarelaterede udfordringer som 
+oversvømmelser. Disse korridorer fungerer som 
+naturlige vandveje, der kan forsinke og  
+absorbere regnvand, hvilket reducerer risikoen 
+for oversvømmelser i byområder. Samtidig 
+skaber korridorerne sammenhæng mellem  
+isolerede naturområder i byen, så planter og dyr 
+frit kan bevæge sig mellem dem. Dette styrker  
+naturområdernes robusthed og naturkvalitet, 
+hvilket er afgørende i et klima i forandring. 
+Træer i byen og skovrejsning 
+Plantning af træer i byområder kan anvendes for 
+at reducere varmeøer, øge fordampningen, øge 
+de rekreative værdier og forbedre luftkvaliteten. 
+Ligeledes kan beplantning af træer tænkes ind i 
+vandhåndteringen i byen sammen med  
+håndteringen af regnvand i vejbede og på  
+parkeringspladser. Endelig kan det være en 
+fordel som klimatilpasningsløsning at etablere 
+urørt skov med naturlig hydrologi til forsinkelse, 
+fordampning og opbevaring af vand. 
+Tunnelfaskine
+En tunnelfaskine er en parabelformet plast- 
+konstruktion, der er designet til at håndtere 
+store mængder regnvand, herunder ved kraftig 
+regn. Den har en høj kapacitet i forhold til sit 
+pladsforbrug og kan både anvendes til  
+nedsivning i jorden eller til videreledning af vand 
+via rørsystemer. Tunnelfaskiner kan kombineres 
+med for eksempel regnbede, åbne grøfter og  
+eksisterende rørsystemer. Forsinkelsen i  
+tunnelfaskinen reducerer risikoen for over- 
+svømmelser ved at aflaste kloaksystemet.
+Vandløbsrestaurering 
+Vandløbsrestaurering og -genopretning kan 
+være genslyngning, genåbning af rørlagte 
+strækninger, fjernelse af fysiske spærringer,  
+og vandløbsrestaurering. Derved forsinkes og/
+eller sænkes hastigheden af vandet i vandløbet 
+og risikoen for oversvømmelser mindskes ned-
+strøms. 
+”Den tredje ledning”  
+– grundvandsdræn 
+Grundvandsdræn er som regel en effektiv 
+løsning til at håndtere terrænnært grundvand. 
+Løsningen kan bruges både i byen og land- 
+områder. I byerne kan grundvandsdrænet 
+fungerer som ”den tredje ledning” udover 
+spildevands- og regnvandsledninger. Drænet 
+kan nedgraves i jorden for at opsamle og  
+transportere overskydende vand væk fra  
+overfalden. Anvendes ofte i kombination med 
+andre løsninger som LAR og pumper.
+
+I   90   I
+I      Klimatilpasningsløsninger      I
+Løsninger til flere eller  
+en matrikel 
+ 
+Regnhave 
+En regnhave er en løsning, hvor flere regn- 
+vandsteknologier kombineres for at opsamle, 
+forsinke og nedsive regnvand lokalt. Typiske  
+elementer i en regnhave kan inkludere regn- 
+bede, faskiner, grønne tage, permeable
+belægninger og regnvandstanke. Ved at  
+integrere disse løsninger reduceres mæng-
+den af regnvand, der ledes til kloaksystemet, 
+hvilket mindsker risikoen for overbelastning og 
+oversvømmelser. Regnhaver er særligt effektive 
+til at håndtere hverdagsregn, men for at sikre 
+robusthed ved ekstreme vejrhændelser kan der 
+etableres et overløb til kloaknettet, som  
+aktiveres ved skybrud.
+Regnvandstank/tønde 
+Regnvandstanke eller -tønder er en effektiv 
+løsning til opsamling af regnvand fra tag- 
+flader og kan bidrage til både vandbesparelse 
+og bæredygtighed ved efterfølgende brug til 
+f.eks. vanding. Der findes flere typer tanke, 
+herunder fritstående regnvandstønder og  
+-søjler, nedgravede tanke samt modeller til 
+placering i kældre. Tankene fås i forskellige 
+størrelser og kan udstyres med filtre og pumper 
+for at sikre optimal funktionalitet. De er nemme 
+at installere og kan tilsluttes direkte til byg-
+ningens nedløbsrør. Det opsamlede regnvand 
+kan anvendes til ikke-drikkevandsformål som 
+havevanding, bilvask og toiletskyl, hvilket  
+reducerer forbruget af drikkevand.
+Vandreservoirer 
+Vandreservoirer anvendes til opmagasinering af 
+vand fra nedbørsrige perioder til senere anven-
+delse i tørkeperioder. Reservoiret kan være et 
+lavtliggende område eller et udgravet område. I 
+drænede områder udledes drænvandet ofte til 
+vandløbssystemer i vinterperioden, hvor det kan 
+skabe oversvømmelser og så mangler det efter-
+følgende i sommerperioden, hvor f.eks. dyrkede 
+områder kan opleve tørke. 
+
+I   91   I
+Løsninger til en matrikel
+I      Klimatilpasningsløsninger      I
+Faskine 
+En faskine er en løsning, som håndterer  
+regnvand ved, at det ledes ned i jorden og  
+opmagasineres i faskinen, hvorfra det kan ned-
+sive. Faskinen skaber hulrum i jorden, som kan 
+opbygges med bl.a. plastkassetter, leca eller 
+stenskærver. Før vandet ledes til faskinen, kan 
+det evt. passere et sandfang, der tilbageholder 
+blade, sand og andre partikler. For at sikre  
+optimal funktion er det vigtigt, at faskinen  
+dimensioneres korrekt i forhold til det areal, 
+der afleder vand til den. Derudover skal jordens 
+nedsivningsevne vurderes, idet ikke alle jorde er 
+egnet til nedsivning, og den skal designes efter, 
+om den kun skal håndtere almindelig regn eller 
+om den også skal kunne rumme større mængder 
+regn ved skybrud.
+Flytte bebyggelse 
+At flytte længere ind i landet eller højere op i 
+terrænet på grunden hvis muligt er en anden 
+klimatilpasningsløsning som strategi både mod 
+stigende havvand, øget nedbør og højere  
+grundvandsspejl. Kystnære og lavtliggende om-
+råder er særligt udsatte for oversvømmelser. Ved 
+at flytte længere ind i landet, kan man reducere 
+risikoen for skader og samtidig give plads til 
+naturlige kystlandskaber, som kan absorbere og 
+modstå havets kræfter. 
+Grønne tage  
+Grønne tage fordamper og forsinker regnvandet. 
+Derved aflastes kloaksystemet for dele af det 
+afstrømmende regnvand. De grønne tage øger 
+de antallet af grønne elementer i byerne,  
+samtidig med at bygningens tag beskyttes mod 
+UV-stråling, vind og vejr. Dette forlænger  
+tagets levetid betydeligt. Derudover nedsættes 
+behovet for opvarmning og nedkøling af 
+huset. Vegetationen kan bestå af blomstrende 
+stenurtsplanter, græs eller tørv. 
+Grønne vægge 
+Grønne vægge/facader er vegetationsdækkede  
+facader. Beplantningen kan enten være planter 
+som kravler op ad facaden eller moduler med 
+inkluderet vandingssystem. Grønne vægge  
+anvendes ofte i byerne, hvor der ellers kan være 
+begrænset mængde plads til grønne områder. 
+Væggene kan anvendes som et LAR-element i 
+byen. Dette fungerer ved, at væggene opsamler 
+regnvand i render og rør eller direkte i planernes 
+vækstmedie. Oftest indeholder facaderne også 
+et drænsystem, der over tid leder vandet til en 
+opsamlingstank i bunden af facaden.  
+Facaderne har æstetisk værdi og bidrager til 
+en forbedret luft-kvalitet og er med til at sænke 
+den gennemsnitlige temperatur i byen (heat-is-
+land-effekten). Dette sker gennem fordampning 
+af vand fra jord og overflader samt planterne 
+selv. 
+
+
+I   92   I
+I      Klimatilpasningsløsninger      I
+Hæve huset
+I takt med at klimaet ændrer sig, og Danmark 
+oplever flere skybrud, stormfloder og stigende 
+grundvand, bliver det nødvendigt for boligejere 
+at tænke i nye baner for at beskytte deres  
+ejendomme. En af de mere omfattende 
+løsninger er at hæve huset fysisk – enten ved  
+at løfte det op på søjler eller ved at bygge en ny, 
+højere sokkel. 
+Højvandslukke
+ 
+Et højvandslukke er en effektiv komponent til 
+beskyttelse mod oversvømmelser i kældre og 
+lavtliggende rum. Det forhindrer kloakvand i at 
+strømme baglæns op gennem afløbssystemet 
+under kraftige hændelser, hvor kloaknettet kan 
+blive overbelastet. Løsningen består af en enhed 
+med to klapper, der fungerer som en sluse:  
+Klapperne åbner, når spildevand ledes ud fra 
+bygningen, men lukker automatisk, hvis der  
+opstår tryk udefra. 
+Omfangsdræn
+Et omfangsdræn er et drænsystem, der  
+etableres langs fundament og ydermure for at 
+lede overskydende vand væk fra bygningen. 
+Det opsamler både nedsivende regnvand og 
+vand fra høj grundvandsstand, som kan skabe 
+vandtryk mod konstruktionen. Drænet fører  
+vandet til en regnvandsbrønd og videre til kloak 
+eller afløbssystem. Systemet består af drænrør 
+og rensebrønde. Drænrørene opsamler fugt fra 
+jorden, mens rensebrøndene – placeret ved  
+ledningens knækpunkter – muliggør vedlige-
+holdelse og rensning af systemet. Ved niveau-
+forskelle på grunden eller ved kælderbyggeri 
+kan det være nødvendigt at installere en pumpe-
+brønd, som løfter drænvandet op til kloak- 
+systemets niveau. 
+Regnvandsventil
+En regnvandsventil er en effektiv løsning til 
+at håndtere store regnmængder og aflaste 
+kloaksystemet under kraftige regnhændelser. 
+Ventilen installeres under tagnedløbet og  
+fungerer automatisk: Ved almindelig regn ledes 
+vandet som normalt til kloakken. Ved kraftig 
+regn aktiveres ventilen, så tilførslen til kloakken 
+lukkes, og regnvandet i stedet ledes ud på  
+terræn. Denne midlertidige omdirigering  
+reducerer belastningen på kloak- og afløbs- 
+systemet og mindsker risikoen for opstuvning og 
+oversvømmelser. Regnvandsventilen er særligt 
+velegnet i tæt bebyggede områder, hvor  
+kapaciteten i kloaksystemet kan være  
+begrænset.
+Sandsække
+Sandsække er en enkel og effektiv metode til  
+at beskytte boliger og infrastruktur mod 
+oversvømmelser, især i forbindelse med  
+skybrud og stormfloder. De anvendes typisk 
+som midlertidige barrierer, der placeres foran 
+bygninger, døre, kældernedgange og andre  
+lavtliggende åbninger, hvor vand ellers kan 
+trænge ind. Sandsække kan hurtigt etableres 
+og er derfor velegnede som en del af et akut 
+beredskab ved varsler om ekstremt vejr. De 
+er især relevante i områder med høj risiko for 
+oversvømmelse. Derudover er sandsække en 
+effektiv og budgetvenlig midlertidig klimasikring 
+af boliger ved ekstremt vejr.
+
+I   93   I
+Terrænregulering
+Terrænregulering handler om at forme  
+grunden, så vandet ledes væk fra bygninger.  
+Det kan ske ved at fjerne, tilføje eller flytte 
+jord, så der skabes fald væk fra huset. Dette 
+er særligt relevant, hvis grunden ligger lavere 
+end omgivelserne og modtager store mæng-
+der overfladevand ved regn. Hvis terrænæn-
+dringer ikke er nok, kan man supplere med 
+drænrender eller etablere volde og hegn,  
+der forhindrer vand i at strømme ind mod 
+bygningen. Det er dog vigtigt at tage højde 
+for, at ændringer i terrænet kan påvirke nabo-
+grunde negativt, f.eks. ved at lede vand over 
+skel. Derfor er der ofte regler i lokalplaner og 
+tinglysninger, som begrænser, hvor meget 
+man må ændre terrænet – typisk maksimalt 
++/- 0,5 meter og ikke tættere end 0,5 meter 
+på skel uden kommunens tilladelse. 
+Grundvandspumper
+Pumpning kan være en vigtig teknik i  
+kontrolleringen af grundvandsniveauer. Især 
+i områder, hvor faldet er lille. Pumpning kan 
+ske fra dræn eller boring. Ved dræn opsamles  
+overskydende vand i drænet og pumpes væk. 
+Dette er en effektiv måde at håndtere  
+terrænnært grundvand, da vandet kontinu-
+erligt kan fjernes fra det påvirkede område. 
+Pumpningen kan ligeledes ske fra boringer. 
+Her bores huller i jorden for at nå det vand-
+førende lag, hvorfra vandet kan pumpes og 
+ledes væk. Denne metode kan være særligt 
+effektiv i områder, hvor grundvandsstanden 
+er særligt høj, da det giver muligheden for at 
+sænke grundvandsstanden lokalt og undgå 
+oversvømmelser. 
+I      Klimatilpasningsløsninger      I
+
+
+I   94   I
+Referencer
+
+I   95   I
+I      Referencer      I
+Referencer
+DMI (2024): Klimaatlas-rapport. Danmark. v2024b: 
+ https://doi.org/10.5281/zenodo.13753022 
+Kystdirektoratet (2020): Undersøgelse af metoden ’Dynamisk Planlægning til risikostyring og  
+klimatilpasning’ i en dansk kommune:  
+https://kyst.dk/media/ta5p5rgf/metoderapport-dynamisk-planlaegning_april_2020.pdf  
+Mernild, S. (2025): Havvandsstigninger i regionen: Interreg Deutschland-Danmark. Teknik & Miljø s. 
+26-28.
+Pedersen, J.W:, Madsen, K.S., Sørup, H.J.D., Thrysøe, C., Jian, Su., Simonsen, K., Christensen, 
+O.B., Butts, M., Arnbjerg-Nielsen, K. (2025): Oversvømmelser – Årsager, koblinger og strategier for 
+klimatilpasning, DMI.  
+https://www.dmi.dk/fileadmin/Rapporter/2025/DMI_rapport_25-04_-_Oversv%C3%B8mmelser_i_Danmark.pdf 
+Kilder til cases og løsninger udover survey
+De følgende links dækker i store træk over, hvor cases og løsninger, der ikke er kommet ind via sur-
+vey, stammer fra. Der linkes til forsiden, hvorfra der er mulighed for at finde mere viden. Der fore-
+kommer både danske og tyske hjemmesider og informationsmateriale. Udover nedenstående links 
+er der i enkelte cases gjort brug af kommunens egen hjemmeside som supplement. 
+Klimatilpasning.dk
+ 
+LAR i Danmark: 
+https://www.laridanmark.dk/
+Realdania’s 100 bedste klimatilpasningsløsninger:  
+https://realdania.dk/projekter/klima100
+Synergiprojekter på:  
+Klimatilpasning.dk
+Kystdirektoratet:  
+https://kyst.dk/
+DANVA:  
+https://www.danva.dk/
+EKI – Energie- und Klimaschutzinitiative Schleswig-Holstein:  
+https://www.eki.sh/praxisbeispiele/#c13556
+I-quadrat project: https://www.projekt-i-quadrat.de/
+Umwelt Bundesamt: 
+https://www.umweltbundesamt.de/themen/klima-energie/klimafolgen-anpassung
+
+I   96   I

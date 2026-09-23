@@ -1,0 +1,2268 @@
+=== DNNK PDF Dokument ===
+Titel: DMI-rapport 25-04: Oversvømmelser i Danmark
+Kategori: Rapporter
+Kilde: https://usercontent.one/wp/www.dnnk.dk/wp-content/uploads/2025/08/DMI_rapport_25-04_-_Oversvoemmelser_i_Danmark.pdf
+Indekseret: 2026-09-23T10:11:59.149790
+
+==================================================
+
+Oversvømmelser i Danmark 
+Årsager, koblinger og strategier for klimatilpasning 
+  
+Danmarks Meteorologiske Institut 
+ 
+ 
+ 
+DMI Rapport 25-04  
+  
+ 
+
+
+ 
+www.dmi.dk   Side 2 af 60 
+Kolofon 
+ 
+ 
+ 
+  
+Serietitel DMI-rapport 25-04 
+Titel Oversvømmelser i Danmark 
+Undertitel Årsager, koblinger og strategier for 
+klimatilpasning 
+Forfatter(e) Jonas Wied Pedersen 
+Kristine Skovgaard Madsen 
+Hjalte Jomo Danielsen Sørup 
+Cecilie Thrysøe 
+Jian Su 
+Knud-Jacob Simonsen 
+Ole Bøssing Christensen 
+Michael Butts 
+Karsten Arnbjerg-Nielsen 
+ 
+ 
+Andre bidragsydere Grafik: Jagoba Malumbres-Olarte, Luna Zacho, 
+Kristine Skovgaard Madsen 
+Ansvarlig institution Danmarks Meteorologiske Institut 
+Sprog Dansk 
+Emneord Oversvømmelser, koblede hændelser, 
+klimatilpasning 
+URL https://www.dmi.dk/publikationer/ 
+ 
+ISSN 2445-9127 (Online) 
+Versionsdato April 2025 
+Link til hjemmeside www.dmi.dk 
+Copyright Danmarks Meteorologiske Institut 
+
+ 
+www.dmi.dk   Side 3 af 60 
+Indhold 
+Kolofon ........................................................................................................................... 2 
+Forord ............................................................................................................................. 5 
+Opsummering ................................................................................................................. 7 
+1. Indledning ................................................................................................................... 9 
+2. Hvorfor og hvor forekommer oversvømmelser? ......................................................... 10 
+2.1. Vandets kredsløb nu og i fremtiden.........................................................................10 
+2.2. Topografiske forhold, der giver mulighed for oversvømmelser ..................................16 
+3. En oversvømmelsestypologi for Danmark .................................................................. 17 
+3.1. Havoversvømmelse ................................................................................................20 
+3.2. Vandløbsoversvømmelse .......................................................................................21 
+3.3. Nedbørsoversvømmelser ........................................................................................21 
+3.4. Grundvand ............................................................................................................23 
+3.5. Teknisk .................................................................................................................24 
+4. Koblede hændelser .................................................................................................... 25 
+4.1. Hvad er “koblede hændelser”? ................................................................................25 
+4.2. Forskellige former for kobling .................................................................................25 
+4.3. Når oversvømmelser kobler med andre faretyper .....................................................29 
+4.4. Klimaændringers påvirkning på koblede hændelser .................................................29 
+5. Eksempler på konkrete oversvømmelseshændelser ................................................... 31 
+5.1. Skybruddet i København, 2. juli 2011 ......................................................................32 
+5.2. Tvillingestormene Dagmar og Egon, 9.-11. januar, 2015 ..........................................33 
+5.3. Sekventielle lavtryk over flere uger, 9.-26. februar 2020 ..........................................35 
+5.4. Brud på jernbanedæmning ved Kibæk, 26. august, 2022 ..........................................37 
+5.5. Største arealmæssige skybrud nogensinde målt, 3. oktober, 2023 ............................38 
+5.6. Stormflod ved den danske Østersøkyst, 19.-22. oktober 2023 ..................................39 
+5.7. Ekstrem nedbør og flersidige oversvømmelser i Syddanmark, 2.-7. januar 2024 ........40 
+5.8. Grundvandsoversvømmelser, vinteren 2023/2024 ....................................................42 
+5.9. Esbjerg og Vejle, 27. september 2024 .....................................................................43 
+6. Løsninger til håndtering af oversvømmelser ............................................................. 44 
+6.1. Valg af tilgange til håndtering af oversvømmelse .....................................................44 
+6.2. Strategier med hovedvægt på fysiske tiltag: ............................................................46 
+6.3. Betydningen af koblede hændelser i forhold til valg af strategi .................................48 
+7. Konklusion ................................................................................................................. 51 
+Referencer ..................................................................................................................... 53 
+
+ 
+www.dmi.dk   Side 4 af 60 
+Tidligere rapporter ......................................................................................................... 55 
+Bilag 1: Proces for opsætning af oversvømmelsestypologi ........................................... 57 
+1.1. Kortlægning af faretyper i FN-regi ..........................................................................57 
+1.2. Oversvømmelsestypologi for Danmark ....................................................................58 
+ 
+ 
+ 
+  
+
+ 
+www.dmi.dk   Side 5 af 60 
+Forord 
+Oversvømmelser forekommer naturligt, og der er flere årsager til, at de opstår. De seneste 
+årtier er der sket en kraftig stigning i såvel antallet af oversvømmelser, som de skader de 
+forvolder både i Danmark og i udlandet. Det udfordrer mange samfund at skulle håndtere 
+denne stigning i risikoen for oversvømmelse, som med sikkerhed vil stige yderligere i de 
+kommende årtier. Såvel nationale som internationale undersøgelser peger på, at stigningen i 
+risiko både skyldes, at klimaet ændrer sig, og at der fortsat sker en udbygning af aktiviteter i 
+områder, der udsættes for oversvømmelser. 
+ 
+Målet for denne rapport er at skabe en bedre forståelse af, hvorfor der opstår 
+oversvømmelser, og hvordan de forskellige dele af vandets kredsløb kan påvirke hinanden i 
+forbindelse med oversvømmelser. En forståelse af det samspil vil styrke erkendelsen af og 
+behovet for helhedsløsninger for klimatilpasning. En særlig problemstilling er, at man 
+allerede nu, men især i fremtiden, vil se, at flere typer af oversvømmelser kan optræde 
+samtidigt og dermed forstærke hinanden. De såkaldte ”koblede hændelser”.  
+ 
+Med udgangspunkt i en beskrivelse af de fysiske processer sigter vi efter at skabe en bedre 
+forståelse af vandets kredsløb og de mulige sammenhæng, som kan påvirke, hvilke slags 
+oversvømmelser vi kan forvente fremover, og hvad konsekvenserne kan være. 
+Beskrivelserne formuleres ved at brug en klar og overskuelig terminologi, som kan benyttes 
+på tværs af alle aktører i det danske samfund, der arbejder med oversvømmelser.  
+ 
+For at nå ud til en bred kreds af aktører er der valgt at benytte en kvalitativ beskrivelse af 
+oversvømmelsers udbredelse og hyppighed. Kvantificering af både udbredelse og hyppighed 
+af oversvømmelser er et omfattende forskningsfelt, som er under kraftig udvikling.   
+ 
+Terminologien suppleres af en række eksempler på relativt nylige hændelser, der har medført 
+oversvømmelser i Danmark, og det skitseres, hvordan forventede fremtidige klimaændringer 
+forventes at påvirke antallet af oversvømmelser, samt måden de opstår på. 
+ 
+Rapporten er et forskningsprodukt, der er blevet til med økonomisk støtte fra CIP Fonden 
+som led i projektet ”Klimatilpasning til oversvømmelser – hvordan organiseres og finansieres 
+det?” Rapporten præsenterer den tilgængelige viden på området. Det er dog erkendt, at der 
+er væsentlige usikkerheder i forhold til de fremskrivninger af klimaeffekter, der beskrives. 
+Det skyldes både manglende viden om, hvor store udledninger, der vil forekomme i fremtiden 
+og også sammenhængen mellem udledningerne og de effekter, de medfører i samfundet, 
+herunder oversvømmelser. 
+ 
+Vi håber, at rapporten vil bidrage til en øget forståelse af de udfordringer, Danmark står 
+overfor, og inspirere til fortsat samarbejde om at udvikle løsninger, der kan gøre vores 
+samfund mere robust og resilient overfor oversvømmelser i en tid med klimaforandringer. 
+ 
+God læselyst 
+Forfatterne   
+ 
+  
+
+ 
+www.dmi.dk   Side 6 af 60 
+ 
+  
+
+ 
+www.dmi.dk   Side 7 af 60 
+Opsummering 
+ 
+Oversvømmelser udgør en voksende trussel både i Danmark og i resten af verden. 
+Klimaændringer og byudvikling medfører ikke kun en stigning i hyppigheden og størrelsen af 
+oversvømmelser, men også større kompleksitet i de hændelser, der fører til oversvømmelser. 
+En særlig udfordring opstår ved koblede hændelser, hvor flere faktorer som kraftig regn, 
+forhøjet grundvandsniveau og stormfloder kan optræde samtidigt og forstærke hinanden. 
+Dette kan føre til alvorlige oversvømmelser, der er vanskelige at forudsige og håndtere. 
+ 
+En beskrivelse af oversvømmelser kræver en grundlæggende indsigt i vandets kredsløb, som 
+beskriver, hvordan vand opholder og bevæger sig mellem atmosfæren, jordens overflade, 
+vandløb, søer, i jordlag og havet. Desuden er det vigtigt at forstå, hvordan menneskelige 
+aktiviteter som urbanisering og landbrug kan ændre disse naturlige processer, hvilket kan 
+øge risikoen for oversvømmelser, især i forbindelse med koblede hændelser. På den 
+baggrund beskrives hvilke topografiske, meteorologiske, oceanografiske og hydrologiske 
+forhold, der har særlig betydning for forekomster af oversvømmelser.  
+ 
+For danske forhold anbefales det fremadrettet at anvende følgende betegnelser for 
+forskellige typer af oversvømmelser ud fra årsagen til, at oversvømmelsen forekommer: 
+ 
+1. Havoversvømmelser, hvor årsagen primært er forhøjet vandstand langs kyster. 
+2. Vandløbsoversvømmelser, hvor årsagen primært er overbelastning af vandløb og søer. 
+3. Nedbørsoversvømmelser, hvor nedbørshændelser medfører strømning på overflader eller 
+i rør, og som samles i lavninger.  
+4. Grundvandsoversvømmelser, hvor terrænnært grundvand stiger til et niveau, hvor der er 
+skader enten tæt på eller over overfladen af terrænet. 
+5. Tekniske oversvømmelser, hvor infrastruktur fejler, fordi det belastes på måder, som ikke 
+er taget i regning under dimensionering og konstruktion af det pågældende element. 
+ 
+Typerne af oversvømmelser er angivet på Figur 1. Kobling mellem betegnelse og årsag 
+indebærer, at koblede hændelser beskrives ved at nævne hver af årsagerne som type. Et 
+eksempel herpå er, at det i vintermånederne er muligt at have en kombineret Hav- og 
+Vandløbsoversvømmelse.   
+ 
+Indenfor blot de seneste 15 år har Danmark oplevet en række store oversvømmelser, som 
+omfatter alle ovennævnte typer af oversvømmelser. Hændelserne viser også, at koblinger 
+mellem forskellige typer af oversvømmelser ikke blot er teoretisk mulige, men også 
+forekommer i virkeligheden. Koblede hændelse er kendetegnet ved, at den samlede skade er 
+blevet større, fordi flere årsager bidrager til den samlede effekt. I fremtidens klima vil der 
+være væsentligt flere og større koblinger mellem de forskellige typer af oversvømmelser. 
+Hver type af oversvømmelser vil forekomme over større dele af året, og det giver en 
+mulighed for, at flere typer af hændelser optræder samtidigt. I nogle tilfælde vil det endog 
+være de samme meteorologiske forhold, der medfører en samlet større oversvømmelse, fordi 
+flere årsager spiller sammen. Det vil derfor for mange konkrete oversvømmelser være 
+vanskeligt at udpege en enkelt årsag til hændelsen, idet flere årsager bidrager til den 
+samlede effekt. 
+
+ 
+www.dmi.dk   Side 8 af 60 
+ 
+Figur 1. Illustration af de forskellige typer af oversvømmelser. 1: Havoversvømmelse, 2: Teknisk 
+Oversvømmelse, 3: Vandløbsoversvømmelse, 4: Nedbørsoversvømmelse fra dagsregn, 5: 
+Nedbørsoversvømmelse fra skybrud, og 6: Grundvandsoversvømmelse. Som skitsen er udformet kan 
+4, 5 og 6 både være Nedbørsoversvømmelser og Grundvandsoversvømmelser.  
+ 
+En gennemgang af udvalgte historiske hændelser viser, at der kan være tale om ganske 
+voldsomme effekter, herunder nogen man ikke har været forberedt på kunne ske i forbindelse 
+med oversvømmelser. For at skabe overblik af disse koblede hændelser kan man ud fra 
+fysiske overvejelser skelne mellem forskellige typer af koblinger: Multivariate, 
+Forudbetingede, Sekventielle og Geografisk spredte hændelser. Der er behov for øget viden 
+om effekter af hver type af oversvømmelser som følge af klimaændringer og især hvilke 
+koblinger, der vil dominere i fremtiden. Den manglende viden omkring koblingernes betydning 
+er dog ikke et argument for at forsinke eller mindske indsatsen for klimatilpasning. Der er 
+robust evidens for, at effekten af hver type af oversvømmelser vil stige, og at flere koblinger 
+medfører et behov for en helhedstænkning i den kommende klimatilpasning. I nogle tilfælde 
+vil den mest oplagte strategi for at håndtere en type af oversvømmelse gøre håndtering af en 
+anden type oversvømmelse mere vanskelig. 
+ 
+Havoversvømmelser er med stor sikkerhed den største udfordring i fremtiden. Tilpasning til 
+denne udfordring vanskeliggøres af, at flere typer af koblinger til flere andre typer af 
+oversvømmelser forventes at optræde samtidigt med Havoversvømmelser i fremtiden. 
+Klimatilpasning består netop i at balancere forskellige muligheder, udfordringer og risici på 
+forskellige tidsmæssige og geografiske skalaer. Vi håber, at nærværende rapport kan bidrage 
+til, at der i Danmark er etableret et sprog og en større fælles forståelse for udfordringerne, 
+der gør det lidt nemmere for relevante aktører sammen at have de dialoger, der er 
+nødvendige for at beslutninger kan træffes på et oplyst grundlag.  
+
+ 
+www.dmi.dk   Side 9 af 60 
+1. Indledning 
+ 
+Oversvømmelser udgør en voksende trussel både i Danmark og i hele verden. 
+Klimaændringer og byudvikling medfører ikke kun en stigning i hyppigheden og intensiteten 
+af oversvømmelser, men også et større kompleksitet i de begivenheder, der fører til 
+oversvømmelser. En særlig udfordring opstår i form af koblede hændelser, hvor flere faktorer 
+som kraftig regn, forhøjet grundvandsniveau og stormfloder kan optræde samtidigt og 
+forstærke hinanden. Dette kan føre til alvorlige oversvømmelser, der er vanskelige at 
+forudsige og håndtere. 
+ 
+En væsentlig forudsætning for at kunne håndtere oversvømmelserne er en effektiv 
+planlægning og respons før, under og efter en oversvømmelse. Forebyggelse og 
+genopretning kræver klare beskrivelser af oversvømmelsens indvirkning på f.eks. 
+infrastruktur, boliger og landbrug.  
+ 
+En god beskrivelse af oversvømmelser danner således grundlaget for en effektiv og 
+sammenhængende håndtering af denne store udfordring, som samlet set vil kunne øge 
+samfundets modstandsdygtighed over for fremtidige oversvømmelser. En beskrivelse af 
+oversvømmelser kræver en grundlæggende indsigt i vandets kredsløb, som beskriver, 
+hvordan vand bevæger sig mellem atmosfæren, jordens overflade, vandløb, søer, i jordlag og 
+havet. Desuden er det vigtigt at undersøge, hvordan menneskelige aktiviteter som 
+urbanisering og landbrug kan forstyrre disse naturlige processer, hvilket kan øge risikoen for 
+oversvømmelser, især i forbindelse med koblede hændelser. På den baggrund beskrives 
+hvilke topografiske, meteorologiske, oceanografiske og hydrologiske forhold, der har særlig 
+betydning for forekomster af oversvømmelser.  
+ 
+FNs kontor for katastrofehåndtering har udarbejdet en global liste over hvilke farer, et 
+samfund bør overveje at håndtere i form af at mindske risici. Ved at sammenligne den med 
+danske forhold, opstilles en samlet typologi for oversvømmelser, som giver en enkelt og 
+forståelig beskrivelse af hvilke hovedårsager, der er til den pågældende oversvømmelse, 
+samt hvilke koblinger til andre årsager, der har potentiale til at forøge den samlede 
+oversvømmelse. 
+ 
+Typologien for oversvømmelser giver mulighed for også at beskrive, hvordan enkelte 
+klimatilpasningstiltag bør forholde sig til potentielle tilsigtede og utilsigtede konsekvenser for 
+lokale oversvømmelser på tværs af oversvømmelseskilder. Denne viden er afgørende for at 
+udvikle effektive tilpasningsstrategier og beskyttelsestiltag, der kan mindske de alvorlige 
+konsekvenser for både samfund og miljø. Opgaven er især kompleks i forbindelse med 
+såkaldte koblede hændelser, hvor flere faktorer bidrager til den samlede oversvømmelser, og 
+hvor det dermed kan være vanskeligt at håndtere oversvømmelserne både organisatorisk og 
+praktisk. 
+ 
+  
+
+ 
+www.dmi.dk   Side 10 af 60 
+2. Hvorfor og hvor forekommer oversvømmelser? 
+ 
+EU's direktiv om oversvømmelser angiver følgende definition:  
+ 
+”En oversvømmelse er en midlertidig vanddækning af arealer, der normalt ikke er dækket af 
+vand.” (EU, 2007). 
+ 
+Andre definitioner knytter oversvømmelser tættere sammen med en skadevoldende effekt 
+(f.eks. Miljø og Ligestillingsministeriet, 2020). Det indebærer, at man for nogle 
+arealanvendelser kan have oversvømmelser under terræn (f.eks. i kældre i bygninger), og 
+ved andre arealanvendelser vil en oversvømmelse først optræde ved et bestemt niveau af 
+vand over terræn (f.eks. ved sokkelkoten på en bygning i et lavtliggende område).  
+ 
+EU-direktivet og de fleste andre definitioner konstaterer samtidigt, at oversvømmelser er et 
+naturfænomen, som ikke fuldstændigt kan forhindres, men at risikoen kan reduceres. Nogle 
+menneskelige aktiviteter bidrager til, at oversvømmelsesrisikoen øges. F.eks. i form af 
+menneskeskabte klimaændringer, et stigende antal bebyggelser og økonomiske aktiviteter i 
+oversvømmelsestruede områder og ændrede dræningsforhold.  
+ 
+Dette kapitel beskriver forudsætningerne for, at oversvømmelser kan forekomme. 
+Udgangspunktet er, at alt vand på Jorden bevæger sig i et kredsløb, og at det er nødvendigt 
+at forstå de primære mekanismer, der påvirker bevægelserne. Det giver mulighed for at 
+forstå hvor og hvornår, der er mulighed for ekstreme, men stadigt naturlige forekomster af 
+vand nogle steder. Ved samtidigt at beskrive jordens topografi og geologi giver det mulighed 
+for at beskrive hvilke arealer, der fysisk kan blive påvirket af oversvømmelser i kortere eller 
+længere tid. Beskrivelsen er kortfattet og tager udgangspunkt i de forhold, som gælder for 
+Danmark. 
+ 
+Det bemærkes, at mennesker både direkte (f.eks. via vandinfrastruktur) og indirekte (f.eks. 
+via klimaændringer) påvirker hvilke områder, der står permanent dækket af vand. Dermed 
+kan definitionen medføre, at de arealer, der kan blive oversvømmet, vil ændre sig, 
+efterhånden som områder enten bliver dækket af vand permanent, eller at oversvømmelser af 
+et område ikke længere er mulige. Det indebærer, at den præcise placering af en kystzone, 
+en vandløbsbrink og udbredelsen af et vådområde kan variere over tid. Sådanne ændringer 
+er ikke diskuteret i nærværende rapport. 
+ 
+2.1. Vandets kredsløb nu og i fremtiden 
+ 
+Vandets kredsløb er en naturlig proces, der påvirkes af menneskelig aktivitet. Kredsløbet er 
+fundamentalt for Jordens klima, og dermed hvor mennesker og andet liv kan udfolde sig. 
+Beskrivelsen nedenfor fokuserer først på hvilke naturlige processer, der forekommer, 
+dernæst på hvordan mennesker direkte påvirker kredsløbet via indgreb, og endeligt hvordan 
+mennesker indirekte påvirker kredsløbet via udledning af drivhusgasser og deraf følgende 
+klimaændringer. Kredsløbet er skitseret i Figur 2, hvor både processer og reservoirer er 
+angivet.  
+ 
+
+ 
+www.dmi.dk   Side 11 af 60 
+ 
+ 
+Figur 2: Illustration af vandets kredsløb, de reservoirer der holder vandet, samt de processer der 
+flytter vand rundt internt og på tværs af reservoirerne. Skitsen indeholder bl.a. havvand, grundvand 
+(herunder indtrængende saltvand fra havet), sne, søer og vandløb, samt vand i atmosfæren. 
+Endvidere vises menneskelige aktiviteter i form af f.eks. vandindvinding til byer og landbrug, 
+dæmninger og regulering af kyster, vandløb og dræning. Figuren anvendes som basis for den 
+efterfølgende opstilling af klimaændringer, typologi for oversvømmelser, og eksempler på 
+klimatilpasningstiltag. 
+ 
+Vandets naturlige kredsløb 
+Man kan opdele kredsløbet på flere måder, men beskrivelsen nedenfor følger traditionen 
+indenfor hydrologi. Vi beskriver vandets kredsløb ved at opdele det i reservoirer og 
+processer. Et reservoir er et sted, hvor store vandmængder i gennemsnit opholder sig i 
+længere tid, fra dage til mange år. En proces flytter vandet fra et reservoir til et andet.  
+ 
+De vigtigste reservoirer er havet, sne, gletchere og iskapper, grundvand, vandløb, søer og 
+atmosfæren. Langt det meste vand er i havet, mens kun en lille del er i atmosfæren. Nogle 
+opdeler grundvand i terrænnært og dybereliggende grundvand og ligeledes opdeles søer 
+også i naturlige og kunstige reservoirer. Nedenfor beskrives kort hvilke processer, der flytter 
+vandet rundt mellem disse reservoirer med fokus på forhold, der er vigtige for Danmark.  
+ 
+Transport mellem reservoirer 
+Fordampning og transpiration / evapotranspiration 
+Alle overflader med kontakt til atmosfæren bidrager via fordampning til atmosfærens 
+vandindhold i form af vanddamp. Den største fordampning sker fra havene. Transpiration er 
+
+
+ 
+www.dmi.dk   Side 12 af 60 
+en relateret proces, hvor vandet bliver trukket gennem planterødder og derefter frigøres fra 
+planter via porer (stomata). Denne proces er vigtig i landbaserede økosystemer og bidrager i 
+høj grad til vandets kredsløb på land. Sammen kaldes fordampning og transpiration for 
+evapotranspiration, da de begge involverer vand, der overgår fra flydende eller fast form til 
+gasform og føres op i atmosfæren. 
+ 
+Nedbør 
+Atmosfæren indeholder vand både i form af vanddamp, vanddråber og iskrystaller. En varm 
+atmosfære kan indeholde mere vanddamp end en kold atmosfære. Hvis atmosfæren bliver 
+afkølet, og derfor kan indeholde mindre vanddamp, dannes vanddråber eller snekrystaller. 
+Vanddråberne og snekrystaller i atmosfæren, vil enten fordampe eller vokse og efterfølgende 
+falde som nedbør. Nedbørens mængde og intensitet varierer afhængigt af faktorer som 
+geografisk beliggenhed, årstider og de specifikke forhold i et område. I Danmark vil kraftig 
+nedbør enten falde i form af kraftige regnbyger eller i forbindelse med kraftige frontsystemer. 
+Nedbørsprocessen flytter vand fra atmosfæren til jordens overflade. 
+ 
+Overfladeafstrømning og infiltration 
+Når vandet falder på jordens overflade som nedbør, kan det blive liggende, fordampe igen, 
+løbe på overfladen eller sive ned i jorden. Nedsivningen vil umiddelbart erstatte jordens 
+indhold af luft med vand. Mens vandet er på eller lige under jordens overflade, vil det kunne 
+fordampe under de rigtige forhold. Såfremt nedsivningen fortsætter, vil vandet nå ned til 
+grundvandsreservoiret. Vand, der løber på overfladen, benævnes overfladeafstrømning. I 
+naturen er denne proces sjælden, men kan forekomme, når jorden er mættet med vand. I 
+byer sker det hyppigt, når vandet falder på impermeable overflader som asfalt eller beton. 
+Afstrømning på og nær overfladen fører vandet mod vandløb, søer og havet. Nedsivet 
+grundvand kan også komme op nær overfladen igen og medføre øget tilstrømning til vandløb 
+og overfladeafstrømning. Alle midlertidige overfladeafstrømninger er principielt 
+oversvømmelser, men i praksis vil man skelne mellem strømmende vand, der giver skader og 
+det, der ikke medfører skader. 
+ 
+Interne processer i reservoirer 
+Der er en væsentlig intern dynamik i alle reservoirer. Samlet set indebærer det, at 
+reservoirer både påvirker og påvirkes af lokale forhold. Vind og opvarmning er særligt 
+væsentlige for de reservoirer med kontakt til atmosfæren, mens grundvandets dynamik mere 
+er præget af den lokale geologi og interaktioner med de øvrige vandreservoirer. Nedenfor er 
+en meget kort beskrivelse af nogle af de afgørende interne processer, men en fyldestgørende 
+beskrivelse ligger uden for rammerne af denne rapport. 
+ 
+Atmosfæren 
+Solindstrålingen og jordens rotation er vigtige årsager til, at vandindholdet i atmosfæren 
+flytter sig og dermed varierer meget både geografisk samt på sæsonbasis, månedsbasis og 
+døgnbasis. Nogle af atmosfærens strømningsmønstre er relativt konstante, og det medfører 
+f.eks. at Danmark, der ligger i vestenvindsbæltet, generelt har større årsnedbør i sydlige og 
+vestlige dele af Jylland end resten af Danmark.  
+   
+Jordens overflade 
+Tyngdekraften får vand på overfladen, samt i vandløb og søer til at søge nedad i terrænet og 
+ned i jorden. Topografi, biologisk liv og de øverste jordlags egenskaber medfører dog i 
+
+ 
+www.dmi.dk   Side 13 af 60 
+praksis en meget stor dynamik, hvor vandets strømning er påvirket af både vertikale og 
+horisontale kræfter. Danmarks relativt lille størrelse og begrænsede højdeforskelle i 
+landskabet er den primære årsag til, at vores vandløb, vådområder og søer ikke er store i 
+international sammenhæng. 
+ 
+Grundvandet  
+Grundvand er betegnelsen for vandet i den del af undergrunden, som er mættet med vand, 
+modsat den umættede zone, som ikke er fyldt med vand i porerne mellem jordpartiklerne. 
+Tyngdekraften får vandet under jordoverfladen til umiddelbart at infiltrere nedad i den 
+umættede zone, indtil det når den mættede zone (grundvandet). Herfra vil det, forårsaget af 
+landskabets topografi, undergrundens geologi og tilførslen af vand fra oven, bevæge sig mod 
+vandløb og endeligt mod havet. Undergrundens geologiske heterogenitet gør, at de præcise 
+strømningsveje er komplekse at beskrive. Generelt står grundvandet meget tæt på terræn i 
+Danmark, ofte 1-2 meter, pga. den lave topografiske gradient, stort nedbørsoverskud og 
+lerede jorde i store dele af landet.  
+ 
+Havet 
+Langt det største reservoir for vand er havet. Tilførsel af varme (og kulde) fra atmosfæren og 
+tilstrømmende ferskvand føder ind i globale havvandstrømme, hvoraf Golfstrømmen udgør en 
+lille del, men har stor betydning for Danmark. I forhold til oversvømmelser har kysternes 
+udformning stor indflydelse på havets strømninger i Danmark. De snævre strømningsveje 
+(bælterne, sundet, fjordene, etc.) og mange små øer giver en meget væsentlig dynamik f.eks. 
+i form af midlertidige opstuvninger af vandmasser, ligesom månens tyngdepåvirkning giver 
+tidevandseffekter, som specielt i Vadehavet er meget væsentlige. 
+ 
+ 
+Menneskers direkte påvirkning af vandets kredsløb 
+Tilstrækkelig adgang til vand er essentiel for menneskers overlevelse, sundhed og velfærd. 
+Derfor modificeres det naturlige kredsløb i høj grad for at sikre, at mennesker har en stabil 
+adgang til vand af en tilstrækkelig kvalitet.  
+ 
+I Danmark er den største påvirkning fra menneskelige aktiviteter på vandets kredsløb 
+relateret til 1) et stort forbrug af grundvand, hvorved grundvandsressourcen alt andet lige 
+mindskes, og grundvandsspejlet dels sænkes og dels fastholdes lokalt pga. dræn og utætte 
+afløbssystemer, 2) en væsentlig dræning fra såvel byer som landbrug til vandløb og søer, 
+især i vinterhalvåret, samt 3) en større variation i afstrømningsforhold om sommeren, hvor 
+dræn og afløbssystemer har tømt de øvre vandmagasiner, hvilket giver en lav 
+minimumsvandføring og samtidigt giver en meget høj maksimal afstrømning i mindre vandløb. 
+De tre nedenstående sektorer er særligt vigtige i en dansk kontekst. 
+ 
+Byer/Industri  
+Mennesker i byer bruger store mængder drikkevand, ligesom mange industrier benytter vand 
+under produktionen. Vandet tages fra grundvandsmagasinerne og efter anvendelsen 
+transporteres det via afløbssystemer til rensning og udledning til vandløb, søer og havet. 
+Samlet set indebærer det, at store mængder vand bringes fra grundvandsmagasinet op til 
+overfladen. Dette påvirker afstrømningen i vandløb, i nogle områder i betydeligt omfang. 
+ 
+
+ 
+www.dmi.dk   Side 14 af 60 
+Byer er karakteriseret ved at have langt tættere og glattere overflader end naturlige 
+landskaber. Nedbøren over byer har derfor begrænsede muligheder for at nedsive gennem 
+jorden til grundvandet, og en meget stor del af nedbøren afstrømmer derfor som hurtig 
+overfladeafstrømning på overflader eller via afløbssystemer. Dette bevirker, at den 
+maksimale vandføring i mindre vandløb kan være markant højere end under naturlige forhold, 
+og især, at variabiliteten over tid vil være langt mere følsom over for den nedbør, der 
+umiddelbart falder, og der dermed er en øget forekomst af oversvømmelser.  
+ 
+Landbrug  
+Fødevareproduktion er meget sårbar over for tilgængeligheden af vand. For at opnå ideelle 
+betingelser for afgrøderne, drænes markarealer for at undgå for våde forhold, hvilket dermed 
+bidrager til en øget hurtig overfladeafstrømning til vandløb m.v. på bekostning af naturlig 
+infiltration. Samtidigt oppumpes vand fra grundvandsreservoirer i nogle områder til 
+kunstvanding, med øget fordampning til følge og yderligere forstærkning af effekterne af 
+dræn, der dermed fastholder vandspejlet på et mere konstant niveau, end det vil være 
+naturligt. Historisk set har man også reguleret (f.eks. gennem udretning) en lang række 
+vandløb for at optimere vandføringskapaciteten og dræne nærliggende områder, som derved 
+kunne dyrkes eller bebygges. I de senere år er en række vandløb blevet genslynget som led i 
+naturgenopretningsprojekter. 
+ 
+Vand til energiproduktion  
+Vandkraft beror på, at man kan høste den energi, der er i, at vand bevæger sig nedad. Som 
+regel etableres en dæmning, hvorved der skabes et stort reservoir, så der både skabes 
+større forsyningssikkerhed og mere energi. Internationalt er vandkraft vigtigt, men i Danmark 
+er det i dag en ret ubetydelig del af energiproduktionen. Vand bruges også som køling i mere 
+traditionel energiproduktion, hvilket også påvirker vandføringer, og ofte er vandløbet også 
+ændret i den forbindelse. I Danmark er der i dag stadigt mange mindre kunstige søer, som 
+oprindeligt blev opdæmmet til industriel produktion i form af vandmøller og turbiner. 
+ 
+Klimaændringers påvirkning af vandets kredsløb 
+Udledningen af drivhusgasser til atmosfæren medfører en global opvarmning, som påvirker 
+klimaet og derigennem har indflydelse på alle reservoirer og transporten mellem dem. De 
+klimatiske ændringerne for Danmark er opsummeret i Klimaatlas (DMI, 2025), hvor det er 
+angivet, at der blandt andet må forventes højere havvandstand, mere vinternedbør og flere 
+skybrud. Tilsvarende er de hydrologiske konsekvenser af klimaændringer opsummeret i 
+Hydrologisk Informations- og Prognosesystem (HIP), hvor der blandt andet er angivet, at der 
+må forventes højere grundvandstand og langt højere vandføring i vandløb. 
+ 
+Nedenfor er meget kort angivet de fysiske mekanismer på samme niveau som i de andre 
+afsnit i dette kapitel. Beskrivelsen tager udgangspunkt i, hvordan reservoirer påvirkes af 
+menneskeskabte klimaændringer og dermed på transporten mellem reservoirerne. 
+Nettoændringerne af betydning for oversvømmelser er endvidere skitseret i Figur 3. 
+ 
+ 
+
+ 
+www.dmi.dk   Side 15 af 60 
+Figur 3. Illustration af hvor klimaændringerne vil påvirke vandets kredsløb i Danmark og give flere og 
+kraftigere oversvømmelser.1: Infrastruktur i form af f.eks. afløbssystemer vil blive overbelastet 
+hyppigere, 2: Havvandstanden vil stige, 3: Fordampning fra hav og land vil øges, 4: Øget afstrømning 
+på og nær overflader, 5: Øget afstrømning i lavtliggende områder og vandløb, 6: Øget forekomst af 
+skybrud, 7: Øget våde arealer (i vinterhalvåret), 8: Øget dagsregn, 9: Øget behov for vanding, og 10: 
+Øget maksimal vandføring i vandløb. 
+ 
+Atmosfæren  
+Klimaændringer med temperaturstigninger betyder, at vanddamp i atmosfæren øges kraftigt. 
+Det medfører flere vigtige ændringer i vandets kredsløb. Fordampningen vil generelt øges, 
+så der er mere vanddamp i atmosfæren. Det vil indebære, at det i nogle regioner regner 
+mindre, fordi overmætningen i atmosfæren med vand bliver mindre, mens det andre steder vil 
+regne mere, fordi der generelt er mere vand i atmosfæren. I Danmark vil det generelt regne 
+mere. For alle regioner gælder, at de ekstreme nedbørsmængder vil stige, fordi mere vand 
+giver større muligheder for store ubalancer i atmosfæren. For Danmark medfører det, at vi vil 
+få mere vinternedbør. Der forventes kun små ændringer i den totale sommernedbør, men den 
+vil blive koncentreret på færre dage. Der vil være en øget forekomst af ekstreme 
+regnhændelser både for kortvarige, intense skybrud og længerevarende frontnedbør. 
+ 
+Jordens overflade samt grundvand 
+I international sammenhæng er dette reservoir meget udfordret, idet mindre mængder vand 
+vil blive tilført og forbruget til menneskelige aktiviteter øges væsentligt til byer, 
+industriproduktion og landbruget. I en dansk sammenhæng vil man de fleste steder se en 
+stigning i de terrænnære grundvandsstande, fordi vinternedbøren vokser og fordampningen i 
+
+ 
+www.dmi.dk   Side 16 af 60 
+vinterhalvåret stadigt er lav. Samtidigt forventes de maksimale vandføringer i vandløbene 
+også at stige markant. Fra et vandressource-perspektiv kan klimaændringerne delvist ses 
+som positive, da Danmark kan forvente øget grundvandsdannelse. 
+ 
+Havet 
+Vandstanden i havet vil generelt stige i flere århundreder fremover. En væsentlig årsag er, at 
+havet opsuger en stor del af den globale opvarmning, hvilket i sig selv medfører, at havet 
+fylder mere. Endvidere vil den øgede afsmeltning af is fra landområder føre til, at havet 
+indeholder mere vand. Samlet set indebærer det, at lavtliggende områder, som i dag er truet 
+af oversvømmelse fra havet, kan risikere at blive permanent dækkede af vand i fremtiden. 
+Tilsvarende vil der være nye områder længere inde i landet, der i fremtiden kan blive ramt af 
+oversvømmelser. Danmarks lange kyststrækning med store lavtliggende områder og store 
+samfundsværdier indebærer, at havstigninger vil blive den væsentligste effekt af 
+klimaændringer, når det kommer til ændringer i oversvømmelsesforekomster. 
+ 
+2.2. Topografiske forhold, der giver mulighed for oversvømmelser 
+ 
+Definitionen af oversvømmelser indebærer, at terræn, der normalt ikke er dækket, bliver 
+dækket af vand. Det kræver at vandet kommer et sted fra. Ved at betragte Tabel 1 kan det 
+ses, at der kun er tre muligheder som beskrevet nedenfor: 
+ 
+1. Kystnære områder. Dynamikken i havet medfører variationer i havvandstanden ved 
+kysterne. Kystzonen betegner det område, hvor det er vanskeligt at sige, om der er 
+tale om områder, der er oversvømmede eller vanddækkede. Lavtliggende områder 
+nær kysten kan opleve oversvømmelser ved, at havet kan strømme ind til steder, der 
+normalt ikke er dækket af vand.  
+2. Områder nær vandløb og søer. Langs vandløb og søer findes der naturlige 
+engområder. De vil med jævne mellemrum blive oversvømmet, som oftest i forbindelse 
+med store nedbørhændelser, der får vandstanden i vandløb og søer til at gå over 
+deres bredder. 
+3. Lokale områder. Når nedbørsintensiteten i et område i en periode overstiger 
+nedsivningskapaciteten af jordens overflade, vil vandet samle sig i lavninger eller løbe 
+på jordens overflade, til det enten rammer en lokal lavning eller et større reservoir i 
+form af et vandløb, en sø eller havet. På samme måde kan grundvandsudstrømning og 
+grundvand på terræn også få vand til at samle sig i lokale lavninger. Når 
+menneskeskabte dræn- og afløbssystemers kapacitet overstiges, opstår 
+oversvømmelserne også her. 
+ 
+Opdelingen ovenfor er nyttig, fordi den gør det tydeligt, at der er områder, der kan blive 
+oversvømmet og områder, hvor oversvømmelser er meget usandsynlige. Den er dog 
+utilstrækkelig til at kunne lave en opdeling i hvilke områder, der har høj forekomst af 
+oversvømmelser. For at kunne lave en egentlig typologi for oversvømmelser kræver det, at 
+man kombinerer beskrivelsen af vandets kredsløb med de topografiske forhold som 
+beskrevet ovenfor. Derved opnår man en samlet beskrivelse af, hvilke dynamikker i vandets 
+kredsløb, der kan medføre, at ovennævnte områder faktisk oversvømmes. Det er formålet 
+med det efterfølgende kapitel. 
+
+ 
+www.dmi.dk   Side 17 af 60 
+3. En oversvømmelsestypologi for Danmark 
+ 
+I en nyligt publiceret videnskabelig artikel har forskere på DMI gennemgået en systematisk 
+proces for at definere en oversvømmelsestypologi for Danmark (Su et al., 2025). 
+Udgangspunktet for artiklen er en stor kortlægning af menneskeskabte og naturlige faretyper, 
+som er lavet i FN-regi under Sendai-rammen for katastrofe- og risikoforebyggelse. Den 
+følgende beskrivelse er baseret på denne artikel, men er yderligere bearbejdet her. 
+ 
+Ud fra Sendai-rammen er der 12 typer af oversvømmelser, hvoraf ikke alle er relevante for 
+Danmarks klima og topografi. DMI har derfor bearbejdet disse 12 typer i en dansk kontekst, 
+hvilket er beskrevet i Bilag 1. Resultatet er angivet i Tabel 1 i form af en 
+oversvømmelsestypologi for Danmark med fem overordnede typer, baseret på årsagen til 
+oversvømmelsen, samt hvor i landskabet denne type af oversvømmelse generelt forekommer: 
+ 
+(1) Havoversvømmelser  
+(2) Vandløbsoversvømmelser  
+(3) Nedbørsoversvømmelser 
+(4) Grundvandsoversvømmelser 
+(5) Tekniske oversvømmelser 
+ 
+Tabel 1: Oversigt over typologi, der kobler variationer i vandets kredsløb med den topografi, der giver 
+mulighed for oversvømmelser samt forslag til navngivning af hver type af oversvømmelse. Et (x) 
+indebærer, at oversvømmelse principielt kan ske i denne kombination af lokation og årsag. Det vil ske 
+når hhv, vindstuvning presser havet ind i vandløb, hvorved vandføringen i vandløbet bliver negativ, og 
+hvis vand løber på overfladen ned til vandløbsnære områder. Disse typer oversvømmelser er ikke 
+hyppige i Danmark og vil blive betegnet som hhv. Havoversvømmelse og Nedbørsoversvømmelse.  
+Lokation  \  
+Årsag 
+Hav 
+(fra siden) 
+Vandløb/Sø 
+(fra siden) 
+Nedbør 
+(skybrud og 
+dagsregn)  
+(fra oven) 
+Grundvand 
+(fra neden) Teknisk 
+Kystnær 
+Hav- 
+oversvøm-
+melse 
+      
+Teknisk 
+oversvøm-
+melse 
+Vandløbsnær (x) 
+Vandløbs- 
+oversvøm-
+melse 
+(x)   
+Lokal / 
+lavning     
+Nedbørs-
+oversvøm-
+melse 
+Grundvands-
+oversvøm-
+melse 
+ 
+I Figur 4 er angivet eksempler på, hvor oversvømmelserne forekommer. Navngivningen er 
+baseret på, hvilken årsag til oversvømmelsen, der er den primære. Der er flere fordele ved 
+denne simple typologi. Den primære fordel er, at det giver mulighed for at beskrive 
+egenskaber ved årsagen, herunder hvornår på året de forskellige typer af oversvømmelser vil 
+dominere såvel i det aktuelle som et fremtidigt klima. En sådan kvalitativ beskrivelse er 
+angivet i Tabel 2. Det er samtidigt en typologi, der ligger tæt op ad den aktuelle 
+organisatoriske og juridiske håndtering af oversvømmelser i Danmark. Endelig vil en 
+
+ 
+www.dmi.dk   Side 18 af 60 
+typologi, som er baseret på lokationer umiddelbart blive meget kvantitativ og samtidig følsom 
+overfor ændringer i, hvor oversvømmelser er mulige. Ulempen er, at nogle lokationer kan 
+blive udsat for forskellige typer af oversvømmelser, og for en given oversvømmelse er der 
+dermed ikke altid entydigt, hvilken type den tilhører. Det vil også gælde for en typologi, der 
+baserer sig på lokation, idet nogle områder både er lavtliggende i forhold til det 
+omkringliggende terræn og ligger kyst- og vandløbsnært.  
+ 
+ 
+ 
+Figur 4. Skitse til illustration af typer og lokationer af oversvømmelser. 1: Havoversvømmelser, 2: 
+Teknisk oversvømmelse, 3: Vandløbsoversvømmelse, 4: Grundvandsoversvømmelse, 5: 
+Nedbørsoversvømmelse (dagsregn) og 6: Nedbørsoversvømmelse (skybrud). Som skitsen er udformet 
+kan 4, 5, og 6 både være Nedbørsoversvømmelser og Grundvandsoversvømmelser, idet lokale 
+forhold, som ikke fremgår af skitsen, kan have betydning for, hvor oversvømmelser foregår.  
+ 
+I de følgende afsnit beskrives definitioner af hver oversvømmelsestype, samt figurer der 
+viser, hvornår på året, de forskellige oversvømmelsestyper er aktive. Der er ikke lavet 
+nationale opgørelser over oversvømmelsernes relative vigtighed for alle typer af 
+oversvømmelser. Den relative vigtighed kan dog give vigtige indikationer om, hvordan 
+oversvømmelserne skal håndteres, hvilket diskuteres i kapitel 6. Baseret på skøn, dels fra de 
+nationale data, der findes og dels de mest voldsomme hændelser, der er registreret i 
+Danmark, er der næppe tvivl om, at i det aktuelle klima i Danmark er 
+Nedbørsoversvømmelser og Havoversvømmelser de to typer, der medfører den største 
+økonomiske skade, mens Vandløbsoversvømmelser og Grundvandsoversvømmelser har 
+relativt mindre betydning.  
+
+ 
+www.dmi.dk   Side 19 af 60 
+Tabel 2. Timing af forekomster af årsager til oversvømmelsestyper over året. Der er tale om 
+generelle tendenser, og det kan ikke udelukkes, at der forekommer endog meget kraftige 
+hændelser udenfor de angivne perioder. Øverste tabel er for det aktuelle klima, og den 
+nederste er for et fremtidigt klima. I begge tilfælde er der angivet hovedsæson og 
+skuldersæson. Skuldersæsoner er karakteriseret ved en lavere, men dog væsentlig 
+forekomst af hændelser. For især Skybrud, men også flere af de andre årsager, er der tale 
+om meget kraftige stigninger i hovedsæsonen mellem aktuelt og fremtidigt klima, og dermed 
+vil ændringerne være større end blot udvidelsen af sæsonerne. Bearbejdningerne er for Hav, 
+Dagsregn og Skybrud baseret på kvantitative analyser af nutidens og fremtidens klima, mens 
+de øvrige årsager i højere grad er skøn ud fra tilgængelige data og bearbejdninger.  
+ 
+ 
+ 
+Vurderingen vanskeliggøres af, at omkostninger ved Grundvandsoversvømmelser moniteres 
+mindre end de andre typer af oversvømmelser. De er typisk heller ikke knyttet til en konkret, 
+kortvarig hændelse og kan have langtidseffekter på levetiden af infrastruktur såsom 
+jernbaner og rørledninger. Grundvandsoversvømmelserne i vinteren 2023-2024 formodes dog 
+at være i en størrelsesorden, som ses sjældent i det nuværende klima. Til sammenligning har 
+de langt fra haft de voldsomme effekter på samfundet, som havoversvømmelsen i 
+Østersøområdet i 1872 og nedbørsoversvømmelsen i København i 2011 havde.  
+ 
+Det forventes, at klimaændringer vil medføre, at Havoversvømmelser med tiden bliver langt 
+den alvorligste type af oversvømmelse. Tekniske oversvømmelser har historisk haft ringe 
+betydning i Danmark; det er vanskeligt at skønne, hvordan denne type af oversvømmelser vil 
+udvikle sig over tid.  
+ 
+  
+
+
+ 
+www.dmi.dk   Side 20 af 60 
+3.1. Havoversvømmelse 
+ 
+Andre betegnelser: Stormflod, højvande 
+ 
+Forhøjet havvandstand forårsages af vindens horisontale pres på havoverfladen, ofte 
+kombineret med bølger og tidevand, men kan også forekomme ved tilbageløb fra f.eks. 
+Østersøen efter en storm. Forhøjet havvandstand langs kysten presser vand op over 
+kystnære områder og ind i vandløbsudmundinger. Det sker enten ved direkte 
+oversvømmelser, eller at en naturlig og/eller menneskeskabt barriere (f.eks. et dige) 
+overtoppes eller i værste tilfælde brydes. Flaskehalse i havets strømningsveje forstærker 
+ofte opstuvningen og dermed oversvømmelserne (f.eks ved Bælterne og Øresund, 
+Limfjorden, Roskilde Fjord). Hændelserne er typisk relativt kortvarige (timer til få dage), men 
+kan ramme lange kyststrækninger på samme tid. Flaskehalsene medfører også, at 
+oversvømmelser generelt forekommer på længere kyststrækninger ad gangen, men at der er 
+ret skarpe opdelinger ved flaskehalsene. Således vil f.eks. store dele af kysterne mod 
+Østersøen være påvirket, mens der samtidigt kan være lavvande på Nordfyns kyster. 
+Kysterne omkring Danmark kan groft opdeles i tre hovedbassiner, som angivet på figur 5. 
+ 
+Figur 5. Skitse der indikerer tre hovedbassiner af havet omkring Danmark. Vindpåvirkningen vil 
+medføre, at nogle strækninger vil kunne have Havoversvømmelser samtidigt, mens andre ikke kan. I 
+grænsen mellem bassiner kan der være store forskelle, f.eks. vil en kraftig havoversvømmelse syd for 
+København generelt optræde samtidigt med en lav havvandstand nord for København.  
+ 
+
+
+ 
+www.dmi.dk   Side 21 af 60 
+ 
+3.2. Vandløbsoversvømmelse 
+ 
+Andre betegnelser: Fluvial, bagvand (ifbm. stormflodshændelse), tøbrud og vårflom (ifbm 
+sneafsmeltning) 
+ 
+Afstrømmende vand fra overfladen samt øvre og dybere jordlag samles i vandløb og søer, 
+som går over deres naturlige eller menneskabte bredder, hvis deres vandføringsevne eller 
+opbevaringskapacitet overskrides. Dette kan ske som følge af langvarige perioder med regn i 
+oplandet, hurtig sneafsmeltning i forbindelse ved vejrskift eller som kortvarige 
+flaskehalsproblemer (især ved menneskabte indsnævringer).  
+ 
+Internationalt er ”Flash flood”-fænomener meget farlige, idet disse oversvømmelser sker 
+meget hurtigt (inden for et par timer efter nedbøren falder) og karakteriseres ved høje 
+strømningshastigheder, der i værste tilfælde kan rive større objekter (f.eks. biler) og 
+mennesker med sig. I 2021 medførte en ”Flash flood” i Europa mere end 200 dødsfald, 
+hovedsageligt i Tyskland. Der er kun få steder i Danmark med signifikante topografiske 
+gradienter (f.eks. Grejs Å ved Vejle og Taps Å ved Christiansfeld). Årsagerne til den kraftige 
+afstrømning kan ud over topografien være på grund af større byområder eller særlige 
+jordbundsforhold, se figur 6.  
+ 
+Både langvarige og hurtige vandløbshændelser er stærkt påvirket af geografiske forhold som 
+lokale jordtyper, arealanvendelse, topografi, oplandsstørrelse og menneskelig regulering. I 
+Danmark er mange vandløb blevet udrettet, hvilket øger strømningshastigheden og risikoen 
+for flaskehalsproblemer. 
+ 
+3.3. Nedbørsoversvømmelser 
+ 
+Andre betegnelser: Pluvial, regnvandsoversvømmelse, skybrudsoversvømmelse, tøbrud 
+ 
+Lokale nedbørsdrevne oversvømmelser opstår, når store mængder nedbør ikke kan slippe 
+væk fra overfladen hurtigt nok. Oversvømmelserne opstår typisk i lokale lavninger eller langs 
+flaskehalse i både strømningsvejene på overfladen og i menneskabte dræn- og 
+afløbssystemer. I bebyggede områder forårsages de ofte af kortvarige skybrud, hvor de 
+kraftige intensiteter kan overvælde byernes overfladevandshåndtering og overskride 
+kloaksystemets kapacitet. Langvarige hændelser med store akkumulerede regnmængder kan 
+dog også forårsage disse oversvømmelser. Som beskrevet i kapitel 2 er processerne, der 
+genererer nedbør, ganske komplekse. Det kan derfor i praksis nogle gange være svært at 
+skelne egentlige skybrud fra andre ekstreme nedbørsfænomener udelukkende baseret på den 
+målte nedbør på en given lokalitet. Som det fremgår på figur 7, er der dog væsentlig forskel 
+på den geografiske udbredelse og også på variationerne i intensiteter.  
+ 
+ 
+
+ 
+www.dmi.dk   Side 22 af 60 
+ 
+Figur 6: Oversigt over nogle af de vigtigste forhold omkring vandløbsoversvømmelser: 
+Vandløbsnetværk, jordtyper, byområder. Dynamikken i vandløbenes tilstrømning er i høj grad påvirket 
+af forekomsten af byer samt jordbundstyperne, idet ler har mindre infiltrationskapacitet end sand, og 
+der derfor alt andet lige vil være større dynamik i vandløb, der ligger i områder med meget lerede 
+jorder. Således vil de små vandløb i lerede jorde omkring København have en væsentligt hurtigere 
+respons end de store vandløb i Vestjylland med sandjord og lav urbanisering. 
+ 
+ 
+ 
+På landet opstår oversvømmelserne typisk i lokale lavninger, eller når vandet strømmer over 
+skråninger i terrænet. De forårsages ofte af langvarige, kraftige nedbørshændelser, især når 
+jorden i forvejen er mættet, men kan også opstå ved intense skybrud, hvor regnintensiteten 
+overstiger jordens nedsivningsevne. Hvis landskabet er dækket i et tykt lag sne, kan en 
+forbipasserende varmfront skabe kraftig sneafsmeltning, tøbrud, på kort tid, hvilket også kan 
+skabe disse oversvømmelser. 
+ 
+
+
+ 
+www.dmi.dk   Side 23 af 60 
+       
+ 
+ 
+Figur 7: Nedbørmåler-justerede radarbilleder af to voldsomme nedbørhændelser (akkumuleret nedbør 
+over 24 timer). Lokale skybrudsceller over Midtjylland, d. 26. August, 2022 (venstre). Kraftigt 
+frontsystem over det meste af landet, d. 6. februar, 2024. 
+ 
+ 
+3.4. Grundvand 
+ 
+Andre betegnelser: Terrænnært grundvand, forsumpning 
+ 
+Terrænnært grundvand opstår naturligt efter store nedbørsmængder over flere uger og 
+måneder, men kan også være kraftigt påvirket af ændringer i menneskelig aktivitet såsom 
+mindsket vandindvinding og tætning af kloaksystemer. Disse oversvømmelser har en meget 
+langsommere tidslig dynamik end andre oversvømmelsestyper og skaber derfor ikke akutte 
+beredskabskrævende situationer på samme måde som de andre typer af oversvømmelser. Til 
+gengæld kan grundvandsoversvømmelser vare langt længere end de andre typer.  
+ 
+Grundvandet kan give problemer enten ved, at det trænger helt til overfladen og 
+oversvømmer lokale lavninger, eller ved at det forårsager indsivning til konstruktioner under 
+jorden såsom kældre og rørsystemer. Oversvømmelser opstår ofte i områder, som tidligere 
+har været naturlige vådområder og kan være påvirket af vandstanden i lokale vandløb, søer 
+og havet. De er derudover stærkt afhængige af den lokale geologi og jordbundsforhold. På 
+figur 8 er vist et eksempel på modellering af, hvor tæt grundvandet er på terræn for et 
+område på Sjælland. 
+ 
+ 
+
+
+ 
+www.dmi.dk   Side 24 af 60 
+ 
+Figur 8 – Et skærmbillede fra HIP (www.hip.dataforsyningen.dk), der viser dybden til grundvandet om 
+vinteren for et område i det østlige Sjælland, nær Køge Bugt i 10 meters opløsning. Som det ses, 
+varierer dybden grundvandet geografisk bl.a. som følge af topografi, jordbundsforhold, geologi, 
+menneskelige aktiviteter, samt afstand til vandløb, søer, havet, etc. 
+ 
+ 
+3.5. Teknisk 
+ 
+Andre betegnelser: Infrastruktursvigt 
+ 
+Mange steder i landet regulerer mennesker vandets naturlige bevægelser ved at flytte, 
+blokere for og opmagasinere vand. Når sådanne infrastrukturelementer svigter enten helt 
+eller delvist, kan det skabe oversvømmelser, som er voldsommere, end de naturligt ville have 
+været, samt opstå uventet og hurtigt. Eksempler på disse er dige- og dæmningsbrud ved hav, 
+vandløb og søer, regulering af kunstige søer, pumpe- og slusesystemer, regnvandsbassiner 
+samt underføringer af vandløb ved veje og jernbaner. På grund af de uventede og hurtige 
+konsekvenser kan tekniske oversvømmelser blive meget alvorlige. Fra et perspektiv om 
+menneskers sikkerhed er et af de værst tænkelige oversvømmelsesscenarier i Danmark et 
+digebrud under en stor stormflodshændelse nær beboede områder. 
+ 
+  
+
+
+ 
+www.dmi.dk   Side 25 af 60 
+4. Koblede hændelser 
+ 
+4.1. Hvad er “koblede hændelser”? 
+ 
+Typologien i kapitel 3 definerer de forskellige typer af enkeltstående årsager til 
+oversvømmelser i Danmark; 1) Hav, 2) Vandløb/Sø, 3) Nedbør, 4) Grundvand og 5) Teknisk. 
+I praksis er det dog ofte sådan, at oversvømmelseshændelser opstår ved, at flere faktorer 
+interagerer med hinanden og potentielt forstærker de samlede konsekvenser. Det betyder, at 
+man ikke nødvendigvis kan udpege et område og sige, at en oversvømmelse dér altid vil 
+være af en bestemt type.  
+ 
+Interaktionerne kan have en tydelig kausal sammenhæng, f.eks. at det samme underliggende 
+vejrfænomen forårsager flere årsager til oversvømmelse samtidigt (et stort lavtryk kan både 
+give kraftige vinde med tilhørende stormflod og kraftig nedbør). Interaktionerne kan dog også 
+opstå tilfældigt, f.eks. ved at en stormflod opstår samtidigt med et teknisk 
+infrastrukturnedbrud uden direkte forbindelse, eller en vandløbsoversvømmelse samtidigt 
+med et kraftigt tidevandsmaksimum i havet. 
+ 
+I praksis anvendes flere forskellige udtryk på dansk til at beskrive hændelser, der opstår som 
+følge af komplekse interaktioner mellem flere årsager, bl.a. ”kombinerede”, 
+”sammenfaldende” og ”koblede”. Udtrykkene kan lede til forskellige associationer, og der er 
+hverken i dansk eller international sammenhæng fasttømrede definitioner for disse 
+betegnelser. I denne rapport anvendes udtrykket ”koblede hændelser”.  
+ 
+Der findes mange definitioner af koblede hændelser, men nedenstående definition er anvendt 
+af IPCC på baggrund af en videnskabelig artikel fra Zscheischler et al.’s (2018): 
+“Kombinationen af flere processer og/eller faretyper, der tilsammen udgør 
+en risiko for samfund eller miljø.”  
+(Oprindelig engelsk formulering: “The combination of multiple drivers and/or 
+hazards that contributes to societal or environmental risk.”) 
+ 
+Definitionen gælder bredere, end vi anvender i nærværende rapport, bl.a. også til andre 
+former for naturfare og teknologiske fare, som mennesker og økosystemer kan blive udsat 
+for. Den fulde definition er medtaget her, fordi den vil være egnet i eventuelle fremtidige 
+studier af oversvømmelsesrisiko. 
+ 
+4.2. Forskellige former for kobling 
+ 
+Ovenstående definition er meget generel og ikke tilstrækkelig i sig selv til at opnå en god 
+beskrivelse af mulige koblingsfænomener i praksis. Flere internationale studier samt IPCC 
+peger på, at en opdeling i fire former for koblinger er hensigtsmæssig (bl.a. Leonard et al., 
+2014; Zscheischler et al., 2020). I følgende afsnit gennemgås en række vigtige eksempler på 
+koblede oversvømmelseshændelser under danske forhold. Eksemplerne er dog ikke 
+fuldstændigt udtømmende for, hvad der kan opstå af fænomener i Danmark. Det bør også 
+bemærkes, at en konkret oversvømmelseshændelse være flere af de fire koblingsformer på 
+samme tid. 
+
+ 
+www.dmi.dk   Side 26 af 60 
+ 
+ 
+Figur 9. Grafisk illustration af de forskellige typer af koblinger, der kan forekomme i Danmark. På 
+tegningerne viser den multivariate kobling et eksempel på samtidig forekomst af Hav, Vandløb og 
+Nedbør; den forudbetingede kobling er kraftig nedbør på våd jord; den sekventielle kobling er en 
+stormflod efterfulgt af endnu en stormflod og en nedbørshændelse; den geografisk spredte kobling er 
+Hav fra Østersøen og Nedbør i Midt- og Nordjylland.  
+
+
+ 
+www.dmi.dk   Side 27 af 60 
+4.2.1. Multivariate hændelser 
+ 
+Opstår når flere årsager til oversvømmelser sker samtidigt på samme sted, hvorved den 
+samlede effekt af oversvømmelserne øges. Her kan det være svært at skelne, hvor vandet 
+kommer fra. Tabel 3 giver vigtige eksempler på, hvor i landskabet to oversvømmelsestyper 
+kan koble på en ”multivariat” facon i Danmark. Eksemplerne er ikke udtømmende, og det er 
+også muligt, at flere end to oversvømmelsestyper indtræffer samtidigt på samme sted. 
+ 
+Tabel 3: Eksempler på multivariate koblede hændelser med to årsager  
+Årsag / 
+årsag 
+Vandløb Nedbør Grundvand Teknisk 
+Hav Afstrømning i 
+vandløbet er 
+blokeret eller 
+presset baglæns 
+pga. høj 
+vandstand i 
+havet både i og 
+udenfor byer 
+Når et stort 
+lavtryk giver 
+storm + kraftig 
+dagsregn kan 
+bl.a. byers 
+afløb 
+udfordres 
+Vandstanden i 
+havet påvirker 
+grundvandsstanden. 
+Risiko for digebrud 
+langs kysten 
+Digebrud; 
+Fejl på sluse-systemer 
+Vandløb   Byer kan 
+opleve 
+sammenfald i 
+belastning af 
+afløbssystemer 
+og vandløb 
+Risiko for dige- og 
+dæmningsbrud; 
+Forsumpning og 
+mindsket 
+bufferkapacitet i 
+ådale 
+Dige- og dæmningsbrud 
+Nedbør     Forøget 
+afstrømning fra 
+grønne områder 
+Blokerede vejriste eller kloakrør 
+Grundvand       Sammenstyrtede 
+landbrugsdræn;  
+Fejl på afværge-pumpning 
+ 
+ 
+4.2.2. Forudbetingede hændelser 
+ 
+Opstår når forudgående vejr-, vand- eller samfundsmæssige forhold ændrer en 
+systemtilstand, så effekten af en efterfølgende hændelse og dermed den samlede 
+oversvømmelse forstørres. Nedenfor er en liste på tre vigtige tilfælde, hvor disse betingelser 
+giver en væsentligt ændret oversvømmelse, end typiske forhold medfører: 
+ Mætningsgraden af vand i de øverste jordlag kan forudbetinge kraftigere Nedbørs- og 
+Vandløbsoversvømmelser, da en høj mætningsgrad af vand mindsker jordens evne til 
+at infiltrere nedbør, hvilket medfører øget overfladeafstrømning. 
+ Snedække kan forudbetinge Nedbørs- og Vandløbsoversvømmelser. Hvis regn falder 
+på et dække af sne, is eller frossen jord, kan det øge overfladeafstrømningen, da 
+adgangen til nedsivning i den underliggende jord generelt mindskes. Endvidere kan 
+regn på sne føre til, at sne og is smelter og dermed også strømmer af i tillæg til 
+regnens afstrømning.  
+ Vindstuvning kan forudbetinge kraftigere Havoversvømmelser. Denne proces er især 
+vigtig for Havoversvømmelser ved kyster i Østersøområdet. Mængden af vand i 
+
+ 
+www.dmi.dk   Side 28 af 60 
+havområder med begrænset ind- og udløbskapacitet, såsom Østersøen og Limfjorden, 
+kan bygges op over længere tid under de rigtige vindforhold. I Østersøen kan opstuvet 
+vand efterfølgende skvulpe tilbage mod de danske kyster.  
+ 
+Som nævnt er forudbetingede forhold ikke kun relateret til andre typer af oversvømmelser, 
+men kan også være relateret til helt andre forhold. Eksempler på forudbetingende 
+samfundsmæssige forhold kan være vedligeholdelse af infrastruktur eller organisatoriske 
+forhold, der medfører, at en oversvømmelse bliver større eller mere skadevoldende, end den 
+typisk ville være. De forudbetingede forholds indflydelse kan gøre det mere kompliceret at 
+konkludere, hvad den udløsende faktor for en oversvømmelseshændelse var. 
+ 
+4.2.3. Sekventielle hændelser 
+ 
+Opstår når gentagne hændelser indtræffer inden for et kort tidsinterval og forhindrer et 
+system i at komme sig, hvilket derfor forstærker de samlede oplevede konsekvenser. 
+Sekventielle og forudbetingede hændelser kan nogle gange være svære at skille ad, da de 
+begge relaterer til tidslige forbindelser mellem hændelser, der samlet har en akkumulerende 
+effekt på et system. Sekventielle hændelser sker inden for et kort tidsinterval, mens en 
+forudbetingelse har indflydelse på en systemtilstand, som ikke nødvendigvis behøver at være 
+indtruffet inden for kort tid før en hændelse. 
+ Sekventielle regnhændelser kan forårsage opfyldning af kapacitet i bl.a. kloak- og 
+afløbssystemer, især ved store regnvandsbassiner (over og under jorden) med lang 
+tømmetid. Til sidst kan systemernes kapacitet overvældes. 
+ Sekventielle stormflodshændelser kan øge de samlede oversvømmelseskonsekvenser 
+hvis f.eks. en vandstanden i havet ikke når at normaliseres efter den første hændelse, 
+før den næste hændelse rammer.  
+ 
+Som ved forudbetingede hændelser kan sekventielle hændelser gøre det mere kompliceret at 
+udrede, hvilken type af oversvømmelse man lokalt har været udsat for, selvom man måske er 
+bevidst om, hvad der udløste den sidste hændelse i rækken. 
+ 
+4.2.4. Geografisk spredte hændelser 
+ 
+Størrelsen og udbredelsen af oversvømmelser kan påvirkes af hændelser, der foregår i 
+geografisk adskilte områder. Hvis flere geografisk spredte områder er ramt af hændelser 
+samtidigt, kan det overvælde det samlede systems evne til at imødegå en lokal 
+oversvømmelse, som dermed bliver værre, end hvis den havde været den eneste. 
+ Et stormlavtryk kan tage en bane på tæt på Danmark, der gør, at meget lange 
+kyststrækninger på regional eller national skala kan være udsat for stormflod 
+samtidigt eller inden for få døgns tid af hinanden (f.eks. både langs Jyllands vestkyst, 
+Kattegat og Østersøen under samme hændelse).  
+ Hvis Danmark har været udsat for en længerevarende periode på mindst en til to 
+måneder med nedbør langt over normalen, kan meget store dele af landet opleve tæt 
+på fuldt mættet jord på samme tid. Hvis et stort frontsystem rammer landet under 
+disse forhold, kan der på national skala opleves både Nedbørs-, Vandløbs/Sø- og 
+Grundvandsoversvømmelser samtidigt mange steder. 
+
+ 
+www.dmi.dk   Side 29 af 60 
+ Hvis f.eks. en storm- eller vandskade rammer et knudepunkt på el-nettet eller et 
+kommunikationsnetværk, så der opstår et større regionalt svigt på disse, kan det have 
+følgevirkninger for muligheden for at håndtere en oversvømmelse et andet sted.  
+ 
+4.3. Når oversvømmelser kobler med andre faretyper 
+ 
+I beskrivelsen af typer af oversvømmelser er det implicit antaget, at oversvømmelser er den 
+eneste relevante type af fare, der optræder. I praksis vil oversvømmelser tit være koblede til 
+andre typer af farer. Et par vigtige eksempler er bl.a.: 
+ 
+ Kraftig vind (multivariat): Ved hændelser med høj vandstand i havet, kan kraftige 
+vinde og bølger f.eks. overtoppe diger samt besværliggøre beredskabsarbejde såsom 
+opsætning af mobile dæmninger m.v. 
+ Frost (forudbetinget): Oversvømmelser efterfulgt af kraftig, langvarig frost kan 
+vanskeliggøre arbejdet med at genindføre essentielle services, der har været afbrudt. 
+Et eksempel er dagene efter hændelsen 2.-4. januar (Hændelse #7 i Kapitel 5), hvor 
+bl.a. motorvejen på Lolland var spærret i mange dage på grund af dybtfrosne islag.  
+ Jordskred (forudbetinget og/eller multivariat): Jordskred og dæmningsskred sker 
+ofte i forbindelse med længerevarende perioder med regn, højtstående grundvand, 
+stormflod, etc. 
+ 
+4.4. Klimaændringers påvirkning på koblede hændelser 
+ 
+Der er allerede i det aktuelle klima mange eksempler på koblede hændelser, hvilket 
+eksempelhændelserne i Kapitel 5 vil illustrere. Klimaændringer må dog forventes at 
+forårsage en væsentlig forøgelse af mængden af koblede hændelser. Denne rapport vil ikke 
+redegøre for en detaljeret analyse af dette på tværs af alle oversvømmelsestyper og i 
+forbindelse med andre typer af naturfare. Det skyldes til en vis grad, at der er erkendt 
+manglende viden på området, men også, at der mangler en tilbundsgående og systematisk 
+kvantitativ undersøgelse. 
+ 
+For de multivariate hændelser har det stor betydning, at de enkeltstående typer af 
+oversvømmelser fra Kapitel 3 vil blive kraftigere, hyppigere og kunne ske indtræffe på en 
+større del af året. Det giver større risiko for kausale og tilfældige sammenfald af 
+oversvømmelsestyper på samme sted. For de forudbetingede hændelser er det især relevant, 
+at mængden af nedbør om vinteren forventes at stige. Det giver større risiko for mættede 
+jordforhold generelt i vinterhalvåret, hvilket som nævnt kan forudbetinge Nedbørs- og 
+Vandløbsoversvømmelser. Sekventielle hændelser påvirkes især af en øget hyppighed af 
+oversvømmelser. Her kan sekventielle havoversvømmelser fremhæves som særligt 
+problematisk pga. den generelt stigende havvandstand. Af samme årsager som for de andre 
+koblingstyper vil der følgeligt også være et stigende antal af geografisk spredte 
+oversvømmelser, hvor mange forskellige steder er ramt på samme tid. 
+ 
+De lokale geografiske forhold afgør hvilke typer af koblingsfænomener, der kan optræde et 
+givent sted. Men på nationalt plan er der især en række koblede situationer, som vil være 
+vigtige at forholde sig til, herunder: 
+
+ 
+www.dmi.dk   Side 30 af 60 
+ Havoversvømmelser vil i fremtiden blive den klart mest betydende type af 
+oversvømmelser for Danmark. Da en stor del af Danmarks befolkning og 
+samfundsværdier befinder sig ud til kysten, vil alle koblingsformer, hvor havet indgår 
+blive en stigende og alvorlig problematik. Se eksempler i hændelse #3, #6 og #7 i 
+Kapitel 5. 
+ Vinteren 2023/2024 var særdeles usædvanlig i det aktuelle klima, men vil blive mere 
+hyppig og viste, hvordan fremtidige langvarige perioder med regn i vinterhalvåret kan 
+give store oversvømmelsesproblemer i både by og land, når de parres med kraftige 
+frontnedbørhændelser. Det fører især til Vandløbs-, Nedbørs- og 
+Grundvandsoversvømmelser, som så ydermere kan falde sammen Hav- og Tekniske 
+oversvømmelser. Der vil være steder i Danmark, som har mulighed for en kobling af 
+alle oversvømmelsestyper på samme tid. Se eksempelbeskrivelserne af hændelse #7 
+og #8 i Kapitel 5. 
+ Større og kraftigere skybrud giver øget risiko for, at Nedbørs- og 
+Vandløbsoversvømmelser kobles i sommerhalvåret, hvilket vil blive en udfordring i de 
+nedstrøms dele af byernes afløbssystemer, som vil få sværere ved at aflede vandet. 
+Se eksemplerne i hændelse #4, #5 og #9 i Kapitel 5. 
+ 
+Der vil dog muligvis også være koblingsfænomener, som må forventes at blive mindre i 
+Danmarks fremtidige klima. Sandsynligheden for, at et skybrud om sommeren forudbetinges 
+af mættet jord vil mindskes, da den gennemsnitlige mætningsgrad af jorden forventes at blive 
+mindre, når sommerens nedbør koncentreres på færre dage. Koblingsfænomener, der 
+involverer sneafsmeltning og frost, forventes også at mindskes i et varmere klima. 
+ 
+  
+
+ 
+www.dmi.dk   Side 31 af 60 
+5. Eksempler på konkrete oversvømmelseshændelser 
+ 
+Dette kapitel indeholder en række eksempler på nylige oversvømmelseshændelser i 
+Danmark, hvoraf mange formentligt stadigt er i den kollektive bevidsthed hos den brede 
+befolkning. Selvom hver enkelt hændelse havde signifikante samfundsmæssige 
+konsekvenser, så er de er ikke udvalgt, fordi de nødvendigvis er de alvorligste eller mest 
+omfangsrige hændelser i nyere tid. Hensigten er i stedet, at de tilsammen skal illustrere og 
+være konkrete eksempler på alle de typer af oversvømmelser og forskellige koblingsformer, 
+som er defineret i denne rapport.  
+ 
+Tabel 4 angiver hvilke af de fem oversvømmelsestyper, der var i spil under de konkrete 
+hændelser, mens Tabel 5 viser hvilke former for koblingsfænomen, der foregik. Hændelserne 
+er gennemgået hver især nedenfor i separate afsnit i kronologisk rækkefølge. 
+  
+Tabel 4: Oversigt over hvilke oversvømmelsestyper, der er involveret i de udvalgte hændelser. 
+Tallene indikerer for hver hændelse, hvor vigtig hver type var for hændelsens konsekvenser med. 1 = 
+vigtigst, 5 = mindst vigtig.  
+Hændelse Hav Vandløb Nedbør Grundvand Teknisk 
+1. København, 2011   1   
+2. Dagmar+Egon, 2015 1     
+3. Jylland, 2020 2 1 3   
+4. Kibæk, 2022  2 3  1 
+5. Midtjylland, 2023  2 1   
+6. Østersø, 2023 1 2   3 
+7. Syddanmark, 2024 3? 2 1 4? 5? 
+8. Vinteren, 2023/2024    1  
+9. Esbjerg+Vejle, 2024  2 1   
+ 
+ 
+Tabel 5: Oversigt over hvilke koblingsformer, der var involveret i de udvalgte hændelser. Indikeret 
+med et “x”. 
+Hændelse Multivariat Forudbetinget Sekventiel Geografisk 
+spredt 
+1. København, 2011     
+2. Dagmar+Egon, 2015   x  
+3. Jylland, 2020 x x x x 
+4. Kibæk, 2022 x    
+5. Midtjylland, 2023 x    
+6. Østersø, 2023 x x  x 
+7. Syddanmark, 2024 x x x x 
+8. Vinteren, 2023/2024     
+9. Esbjerg+Vejle, 2024 x x   
+ 
+  
+
+ 
+www.dmi.dk   Side 32 af 60 
+5.1. Skybruddet i København, 2. juli 2011 
+Type: Nedbør 
+Koblingsform: - 
+Primær årsag: Skybrud 
+Udbredelse: Lokal 
+ 
+Den 2. juli 2011 blev København ramt af et ekstremt skybrud, der forårsagede en af de mest 
+alvorlige oversvømmelser i nyere dansk historie. I løbet af et par timer faldt der mellem 100 
+og 150 mm regn, hvilket er mere end en måneds normal nedbør for juli. Nedbøren var særligt 
+intens i tidsrummet mellem kl. 19 og 21, hvor de kraftigste byger resulterede i 
+nedbørsmængder på over 40 mm i løbet af en enkelt time. 
+ 
+Københavns afløbssystemer var ikke designet til at kunne håndtere så intens nedbør på så 
+kort tid. Det resulterede i, at kloakker blev overfyldte, hvilket førte til opstuvning af blandet 
+regnvand og spildevand med udbredte oversvømmelser af gader, tunneler og kældre til følge. 
+Store dele af byens infrastruktur blev lammet, idet veje og jernbaner var ufremkommelige. 
+Begivenheden medførte betydelige økonomiske tab og omfattende forsikringskrav. 
+ 
+Skybruddet i 2011 tydeliggjorde sårbarheder i Københavns infrastruktur og har siden medført 
+en omfattende revurdering af klimatilpasningsstrategier i byen. Dette skybrud er et afgørende 
+eksempel på, hvordan skybrudshændelser kan udfordre byers beredskab og infrastruktur. 
+Hændelsen er også et eksempel på, at en lokal hændelse potentielt kan få nationale 
+konsekvenser, da store dele af Danmarks jernbanestrækninger var tæt på at blive lagt ned af 
+oversvømmelse i en central teknikkælder i København. 
+ 
+ 
+Figur 10: Nedbørsmængder målt i Danmark den 2. juli 2011. Figuren viser de store mængder nedbør 
+over det centrale København, hvilket forårsagede de omfattende oversvømmelser. 
+ 
+  
+
+
+ 
+www.dmi.dk   Side 33 af 60 
+5.2. Tvillingestormene Dagmar og Egon, 9.-11. januar, 2015 
+Type: Hav 
+Koblingsform: Sekventiel 
+Primær årsag: To storme i en sekvens indenfor 2 døgn 
+Udbredelse: Regional 
+ 
+I januar 2015 blev Danmark passeret af to storme med navnene “Dagmar” og “Egon” inden 
+for et kort tidsinterval (henholdsvis d. 9. og d. 11. januar 2015). Begge storme bragte kraftige 
+vestenvinde med tilhørende forhøjet vandstand i havet og problemer med oversvømmelser 
+langs flere kyststrækninger, herunder den jyske vestkyst, Limfjorden, og det nordlige 
+Sjælland, inklusiv Roskilde Fjord og Isefjorden. Særligt i Limfjorden opstod der et klassisk 
+eksempel på en sekventiel koblingstype. Dagmar pressede først meget havvand ind gennem 
+Thyborøn Kanal, og vandstanden nåede herefter ikke at falde ned til normalt niveau, hvilket 
+forværrede konsekvenserne af oversvømmelserne forårsaget af Egon under to døgn senere. 
+Fjordbyer som Løgstør, Struer, Lemvig og Thyborøn oplevede alle kystnære 
+oversvømmelser. 
+ 
+Figurerne herunder viser de meteorologiske forhold under de to hændelser, samt 
+vandstandens forløb ved Thyborøn Kanal og Thisted Havn inde i fjorden. 
+ 
+Sådanne sekventielle hændelser forhindrer samfundet i at blive reetableret, og det betyder, 
+at det kan være svært at have nok mandskab til at håndtere situationen. To hændelser efter 
+hinanden vil ligeledes forværre skadebilledet. 
+ 
+ 
+Figur 11: Kort med lavtryk og fronter. Figuren viser til venstre situation midt på fredag d. 9, hvor 
+stormen “Dagmar” lå over Danmark syd for lavtrykket over Norge, mens Stormvejret “Egon ses 
+nordvest for Skotland. Til højre ses situationen 48 timer senere, hvor stormvejret “Egon” er ved at 
+passere Danmark. 
+ 
+
+
+ 
+www.dmi.dk   Side 34 af 60 
+ 
+Figur 12: Figur med vandstandsmodeller og vandstandsobservationer for Thorsminde Kyst ved 
+Thyborøn Kanal og Thisted Havn inde i fjorden. Figuren viser, hvordan der i det snævre farvand i 
+Limfjorden kan ses et toppunkt i forbindelse med Dagmar d. 9. januar og så generelt stigende 
+vandstand frem til Egon er passeret d. 11. januar. Linjerne er DMI’s vandstandsprognoser under 
+hændelser, og de røde cirkler er vandstandsobservationer. Bemærk at der ved vestkysten af Jylland 
+(Thorsminde) er tidevand, så der ud over det vinddrevne bidrag ses et tidevandsmønster med 
+toppunkt hver 12 time. 
+ 
+ 
+  
+
+
+ 
+www.dmi.dk   Side 35 af 60 
+5.3. Sekventielle lavtryk over flere uger, 9.-26. februar 2020 
+Type: Vandløb, Hav, Nedbør 
+Koblingsform: Multivariat, Forudbetinget, Sekventiel, Geografisk spredt 
+Primær årsag: En serie af kraftige lavtryk med tilhørende frontnedbør 
+Udbredelse: National 
+ 
+Efteråret 2019 havde været særdeles nedbørrig i store dele af landet, hvilket generelt 
+forudbetingede vandmættede jorde i store dele af vinteren 2019/2020 og øget afstrømning i 
+mange vandløb. I februar 2020 blev Danmark så ramt af en længere sekvens af 
+lavtrykssystemer fra Nordatlanten, som medførte kraftige vestenvinde, forhøjet vandstand 
+langs flere kyststrækninger og gentagne episoder med store mængder frontnedbør. Den 
+nationale gennemsnitlige nedbørsmængde i februar nåede 136 mm, hvilket gjorde det til den 
+vådeste februar måned, DMI nogensinde har registreret.  
+ 
+ 
+ 
+Figur 13: Landsgennemsnittet for nedbørmængderne pr. dag i februar 2020, som er den vådeste 
+februar måned, der nogensinde er målt. Figuren viser en særdeles lang periode med regn hver eneste 
+dag, og to store, landsdækkende frontnedbørhændelser d. 9. og d. 16., som faldt sammen med storm 
+og højvande i langs flere kyststrækninger. 
+ 
+ 
+De gentagne store nedbørsmængder førte til geografisk spredte og sekventielle 
+vandløbsoversvømmelser i mange jyske vandløb og søer, herunder langs store dele af 
+Gudenåen, Storåen, Kongeåen, Kolding Å og Ribe Å. I Ribe Å opstod der også en typisk 
+multivariat hav-vandløb hændelse, der samtidigt havde en sekventiel komponent også. De 
+gentagne lavtrykspassager med kraftige vinde tvang i længere perioder Ribe kammersluse 
+ved udmundingen af Ribe Å til at være lukket for at undgå, at havvand skulle trænge ind i 
+land og forårsage oversvømmelser.  
+ 
+Kammerslusen var ikke udstyret med et pumpesystem, der kan flytte vand fra vandløbet på 
+indersiden af slusen ud i havet, og derfor var Ribe Å’s udløb blokeret i lange perioder. 
+Konsekvensen var opstuvning indad i landet med udbredte oversvømmelser i lavtliggende 
+markområder til følge, og til sidst efter sekventiel opbygning også vandløbsoversvømmelser 
+inde i Ribe by.  
+ 
+
+
+ 
+www.dmi.dk   Side 36 af 60 
+Denne hændelse viser, at de tiltag, der er etableret for at forhindre en type af 
+oversvømmelse (havoversvømmelse) kan være med til potentielt at forværre situationen 
+under multivariate hændelser. De sekventielle hændelser betyder, at beredskabet har svært 
+ved at retablere skader og sekventielle hændelser er med til at udtrætte beredskabet. 
+ 
+ 
+ 
+Figur 14: Figuren viser forløbet omkring den multivariate og sekventielle oversvømmelse i Ribe. 
+Vandstanden i Vadehavet udvendigt ved Ribe Kammersluse (rød) viser store daglige 
+tidevandsudsving samt perioder med stormdrevet høj vandstand. Vandstanden i Ribe Å opstrøms for 
+Ribe by (blå) viser, hvordan vandføringen i åen opbygges gennem de nedbørrige uger midt i februar. 
+Vandstanden i Ribe Å inde i Ribe by (sort) stiger kraftigt under storm, når kammerslusen lukkes, og 
+opbygges samtidigt i løbet af perioden, hvor den ikke når ned på normalt niveau, inden den topper d. 
+23. 
+ 
+  
+
+
+ 
+www.dmi.dk   Side 37 af 60 
+5.4. Brud på jernbanedæmning ved Kibæk, 26. august, 2022 
+Type: Vandløb, Nedbør, Teknisk 
+Koblingsform: Multivariat 
+Primær årsag: Ekstremt kraftigt og lokalt skybrud 
+Udbredelse: Lokal 
+ 
+Fredag d. 26. august 2022 lå en koldfront fra Vestnorge langs vestkysten af Jylland til 
+Holland. På forsiden blev der dannet kraftige byger, som ramte flere steder i Jylland. Værst 
+gik det dog ud over et lille område omkring den jyske landsby Kibæk, som oplevede et 
+ekstremt skybrud. Hændelsen blev ikke registreret på DMI’s målenetværk, men private 
+målere viste henholdsvis 192 mm og 214 mm, mens DMI’s radaranalyser for samme steder 
+viser 170-183 mm nedbør og i en periode over tredobbelt skybrudsintensitet. Havde en 
+officiel DMI-regnmåler observeret så høje værdier, ville det have været klimatologisk 
+Danmarksrekord for største nedbørsmængde på et døgn nogensinde.  
+ 
+De ekstreme nedbørsmængder forårsagede kraftig overfladeafstrømning og lokale 
+nedbøroversvømmelser. Samtidigt steg vandstanden i et meget lille vandløb uden for Kibæk, 
+der gennem et rør er ført under en af Banedanmarks jernbanedæmninger. Vandføringen var 
+så ekstrem, at dæmningen på spektakulær vis sprang i stykker og medførte en multivariat 
+hændelse mellem typerne vandløb og teknisk. De opstuvede vandmængder langs dæmningen 
+producerede, hvad øjenvidner kalder en høj flodbølge ned gennem det lille vandløb, hvilket 
+blandt andet ramte et dambrug, og der blev efterfølgende fundet fisk oppe i træerne langs 
+vandløbet. Jernbanestrækningen mellem Herning og Skjern var ude af drift i fire uger 
+efterfølgende. En lignende hændelse fandt sted ved Gråsten i 2007. 
+ 
+ 
+Figur 15: Rardarberegnet akkumuleret nedbør over døgnet d. 26. August, 2026. Lokal ved Kibæk i 
+Midtjylland viser analysen mere end 150mm.  
+
+
+ 
+www.dmi.dk   Side 38 af 60 
+5.5. Største arealmæssige skybrud nogensinde målt, 3. oktober, 2023 
+Type: Vandløb, Nedbør 
+Koblingsform: Multivariat 
+Primær årsag: Lille, intenst lavtryk med kraftig konvektion 
+Udbredelse: Regional 
+ 
+I starten af oktober passerede et lille, men intenst lavtryk på tværs af landet med voldsom 
+konvektion indbygget i et frontsystem. Samlet set var 11% af Danmarks areal udsat for 
+skybrud under denne hændelse, hvilket arealmæssigt er det største skybrud, DMI 
+nogensinde har målt siden den højtopløselige skybrudsovervågning begyndte i 2011. Udenfor 
+Varde blev der registreret dobbelt skybrud, mens den højeste samlede nedbørssum blev målt 
+til 76mm uden for Ry. Hændelsen var også særlig ved, at den faldt i oktober uden for den 
+primære skybrudssæson i Danmarks nuværende klima.  
+ 
+Konsekvenserne var, at en stribe på tværs af Midtjylland fra Varde ind over Aarhus og ud på 
+Djursland var hårdt ramt af lokale nedbørsoversvømmelser samt vandløbshændelser i mindre 
+vandløb. 
+ 
+ 
+ 
+Figur 16: Nedbørmåler-justeret radardata for døgnnedbøren d. 3. oktober, 2023 viser udbredt kraftig 
+regn over Midtjylland med en meget intens stribe af skybrud fra Varde til Djursland. Hændelsen var 
+det arealmæssigt største skybrud registeret af DMI. 
+  
+
+
+ 
+www.dmi.dk   Side 39 af 60 
+5.6. Stormflod ved den danske Østersøkyst, 19.-22. oktober 2023 
+Type: Hav, Vandløb, Teknisk 
+Koblingsform: Multivariat, forudbetinget, geografisk spredt 
+Primær årsag: Lavtryk med kraftige østenvinde + tilhørende frontnedbør 
+Udbredelse: Regional 
+ 
+Fra den 19. til den 22. oktober 2023 blev hele den danske Østersøkyst ramt af en markant 
+stormflod. Indledningsvis førte flere dages kraftig vestenvind til en signifikant ophobning af 
+vand i Østersøen, hvilket hævede vandstanden med ca. 40 cm. Hændelsen var altså 
+forudbetinget, som det ofte ses ved stormfloder i Østersøen. Efterfølgende bevægede et 
+lavtrykssystem over det sydlige Storbritannien, mens et højtryk etablerede sig over det 
+nordlige Sverige. Det skabte en stor forskel i lufttrykket over Danmark og resulterede i 
+stormende kuling med vindstød af stærk storm, der sendte det ophobede vand i Østersøen 
+retur mod de danske og tyske kyster, sammen med høje bølger. Vejrsystemet medførte også 
+en del nedbør i det sydlige Danmark, med regnmængder på 15-35 mm inden for 24 timer. 
+ 
+Den høje vandstand i havet skabte stormflod og oversvømmelser langs hele den danske 
+Østersøkyst. Bølgerne og vinden gav skader i sig selv og besværliggjorde beredskabets 
+arbejde. Flere steder førte regnen til ”bagvand” fra vandløb og i terrænlavninger, altså 
+multivariat hændelse mellem hav-vandløb og hav-nedbør. Hændelsen skabte en 
+ekstraordinær belastning af beredskaberne, da alle berørte kommuner i det sydlige Danmark 
+måtte mobilisere beredskabet samtidig. Hændelsen var varslet af DMI i god tid og inden for 
+forventet præcision, og kombineret med en stor beredskabsindsats betød det, at der ikke var 
+nogen dødsfald. Efter stormfloden er der anmeldt skader for 1,2 milliard kroner til 
+Naturskaderådet. 
+ 
+  
+Figur 17: Venstre: Vindprognose fra DMI’s Harmonie vejrmodel for den 20/10 2023 kl 18, lavet 42 
+timer i forvejen. Bemærk det store område med kuling over Østersøen. Højre: Vandstandsprognose 
+fra DMI’s DKSS havmodel for samme tidspunkt. En god vandstandsprognose flere dage i forvejen er 
+afgørende for rettidig varsling af stormfloden.  
+ 
+Figur 18. Fotos fra stormfloden oktober 2023. Fra venstre: Folkemødepladsen in Allinge ødelagt af 
+bølger (Foto: Peter Aakjær). Høj vandstand i Køge Havn (Foto: Sebastian Pelt). København set fra 
+Mosede Havn (Foto: Martin Stendel). Søndre Havnegade i Sønderborg (Foto: Tine Knudsen). 
+
+
+ 
+www.dmi.dk   Side 40 af 60 
+5.7. Ekstrem nedbør og flersidige oversvømmelser i Syddanmark, 2.-7. januar 
+2024 
+Type: Hav, Vandløb, Nedbør, Grundvand, Teknisk 
+Koblingsform: Multivariat, Forudbetinget, Sekventiel, Geografisk spredt 
+Primær årsag: Lavtryk med kraftige østenvinde + tilhørende frontnedbør (sne + regn) 
+Udbredelse: National 
+ 
+I begyndelsen af januar 2024 blev Danmark ramt af en spektakulær koblet hændelse 
+forårsaget af et lavtrykssystem fra sydvest, der sammen med et højtryk over Finland skabte 
+stærke østenvinde og en markant temperaturkontrast på tværs af landet. En meget fugtig 
+atmosfære førte til store mængder regn i de sydlige dele af landet og voldsomt snefald i 
+Midt- og Nordjylland.  
+ 
+Regnen var usædvanligt kraftig for årstiden og flere regnmålere på Sydfyn, Lolland og 
+Falster slog med over 50mm Danmarksrekord for kraftigste døgnnedbør på en januardag. 
+Hændelsen var forudbetinget af, at 2023 havde været det mest nedbørrige år i historien, så 
+jorden var mange steder helt mættet, og der var problemer med højtstående grundvand. 
+Regnen forårsagede store lokale nedbørs- og vandløbsoversvømmelser i de sydlige dele af 
+landet. Umiddelbart efter hændelsen slog vejret om i langvarigt frostvejr, og flere steder 
+opstod der problemer med, at oversvømmelserne frøs til tykke islag, inden de kunne nå at 
+blive drænet væk. Dette forårsagede bl.a. store trafikale problemer på Lollands motorvej mod 
+færgelejet i Rødby, som ikke var farbar på grund af is i flere dage. 
+ 
+I Køge Bugt og Præstø Bugt var der forhøjet vandstand i havet, hvilket faldt sammen med 
+kraftig afstrømning i mindre vandløb, og førte til multivariate hav-vandløb oversvømmelser. I 
+Præstø opstod der også en sekventiel teknisk hændelse, da slusen i udmundingen i Tubæk Å 
+var blevet slået i stykker af oktober 2023-stormfloden et par måneder forinden, og den var 
+endnu ikke genetableret, da denne hændelse ramte. 
+ 
+Hændelsen huskes nok også især for de store mængder sne, som førte til, at mange bilister 
+sad fast i et døgn på E45 motorvejen ved Randers. I dagene op til hændelsen viste 
+vejrprognoserne dog, at frostgrænsen ville gå længere nordpå, og at Midtjylland stod til 
+meget store mængder regn. Nogle prognoser forudså endda over de mængder, der blev 
+senere skulle blive observeret i det sydlige Danmark. Var disse prognosescenarier blevet til 
+virkelighed, ville de sammen med kraftigt forudbetingede høje vandløbsvandstande 
+sandsynligvis have forårsaget vandløbsoversvømmelser, i bl.a. Gudenå-systemet, i en skala, 
+der ikke er set før.  
+ 
+De geografisk spredte konsekvenser af alle de forskellige typer af oversvømmelser samt 
+vintervejret gjorde både lokale og nationale beredskabsaktioner meget komplicerede, og 
+beredskabet var generelt presset. I Syd- og Sønderjylland blev havvandsoversvømmelser 
+efterfulgt af nedbørsoversvømmelser og vandløbsoversvømmelser, men da 
+havvandsoversvømmelserne varede ved længere end forventet, var der ikke mandskab og 
+udstyr til at sikre samfundet optimalt mod nedbørs- og vandløbsoversvømmelserne. 
+ 
+ 
+
+ 
+www.dmi.dk   Side 41 af 60 
+ 
+Figur 19: Summeret nedbør over Danmark. Figuren viser, at der faldt meget store mængder af regn 
+over Lolland, Falster, Sydfyn og Sydsjælland årstiden taget i betragtning. 
+ 
+ 
+Figur 20:Snedybder målt over Danmark. Figuren illustrerer op mod 50cm de hårdest ramte steder, og 
+der var sne ned til Trekantområdet.  
+  
+
+
+ 
+www.dmi.dk   Side 42 af 60 
+5.8. Grundvandsoversvømmelser, vinteren 2023/2024   
+Type: Grundvand 
+Koblingsform: - 
+Primær årsag: Mange måneder i streg med nedbør langt over normalen 
+Udbredelse: Lokal 
+ 
+Kalenderårene 2023 og 2024 skrev sig ind i dansk vejrhistorie på henholdsvis første- og 
+andenpladsen på listen over mest nedbørrige år siden begyndelsen på DMI’s opgørelse fra 
+1870'erne. 12-måneders perioden fra juli 2023 til og med juni 2024 var exceptionelt våd, som 
+vist på Figur 21. Sammenlagt faldt der i 12-månedersperioden 1127 mm nedbør 
+sammenlignet med en klimanormal på 759 mm. Vintermånederne december-februar 2023-
+2024 var i sig selv den næstvådeste vinter nogensinde, men de vedvarende regnmængder i 
+månederne op til vinteren førte mange steder til lokale problemer med terrænnært 
+grundvand. Dette gælder bl.a. langvarige oversvømmelser af landbrugsområder og veje samt 
+problemer med afledning af vand i byområder, hvor kloaksystemers funktion og fugtige 
+kældre blev en udbredt udfordring. Det høje grundvandsspejl gav yderligere udfordringer med 
+afledning af vand under flere af de store nedbørhændelser, som kendetegnede vinterhalvåret 
+2023/2024, hvilket var med til at forværre hændelser med nedbør- og 
+vandløbsoversvømmelser. 
+ 
+ 
+Figur 21: Den observeret nedbør på landsplan i perioden juli 2023 – juni 2024 (rød) sammenlignet 
+med klimanormalen for perioden 1990-2020 (sort) viser, at perioden var exceptionelt våd. Kun to 
+måneder i perioden var under klimanormalen, mens flere andre var langt over. 
+  
+
+
+ 
+www.dmi.dk   Side 43 af 60 
+5.9. Esbjerg og Vejle, 27. september 2024 
+Type: Vandløb, Nedbør 
+Koblingsform: Multivariat, Forudbetinget 
+Primær årsag: Stationært frontsystem 
+Udbredelse: Regional 
+ 
+Fredag d. 27. lå en bølgende frontzone fra et lavtryk nord for Holland via Sydvestjylland til 
+det sydlige Kattegat og videre til Stockholm samt Vestfinland. Fronten og de mange små 
+lavtryk trak på langs af sig selv, hvilket resulterede i, at det regnede kraftig i mange timer i et 
+bælte på tværs af Jylland. Den 27. september faldt der lokalt ved Esbjerg 145 mm nedbør, 
+hvilket er den største døgnnedbør nogensinde registeret i september i Danmark.  
+ 
+Det resulterede i store nedbørsoversvømmelser i Esbjerg, og vandløbshændelser i flere 
+vandløb i nærheden af byen, mens motorvejen uden for byen var lukket i flere døgn. I Vejle 
+faldt der 50-60mm samme dag, hvilket førte til store vandløbsoversvømmelser fra Grejs Å i 
+Vejle midtby. Denne hændelser var ydermere forudbetinget af 20-30mm nedbør, som havde 
+mættet oplandene til Vejle Å og Grejs Å dagen forinden. 
+ 
+ 
+Figur 22: Nedbørmåler-justerede radardata over nedbør d. 27. september 2024. Figuren viser, at der 
+meget store mængder regn i et bælte fra Esbjerg mod Vejle. 
+
+
+ 
+www.dmi.dk   Side 44 af 60 
+6. Løsninger til håndtering af oversvømmelser 
+ 
+Der er stor sikkerhed for, at den forventede stigning i hyppighed og alvorlighed af 
+oversvømmelser vil have omfattende økonomiske konsekvenser. Vousdoukas et al (2020) 
+beregner risikoen for havoversvømmelser i Europa nu og i fremtiden. De viser dels, at 
+Danmark er blandt de mest påvirkede lande i Europa og dels, at der er en stor økonomisk 
+gevinst ved at imødegå oversvømmelserne i form af strategiske tiltag, der mindsker risikoen 
+for oversvømmelse. Dette kapitel har til formål at beskrive mulige overordnede tilgange til 
+sådanne tiltag og at beskrive nogle af de overvejelser og konflikter, der opstår, når flere 
+typer af oversvømmelser skal kunne håndteres i samme geografiske område.  
+ 
+To af FNs organisationer har beskrevet tilgange, som kan bruges direkte til beskrivelse af 
+oversvømmelseshåndtering: Sendai-rammen for katastrofe- og risikoforebyggelse omhandler 
+håndtering af aktuelle risici, mens IPCC fokuserer på klimatilpasning og dermed især farer, 
+der stiger over tid. Derfor vil nedenstående beskrivelse være baseret på IPCCs beskrivelser 
+og terminologi. Samtidigt skal klimatilpasning også afpasses efter andre udviklingsmål for 
+samfundet på nationalt plan. Derfor har IPCC i sin seneste rapport defineret klimatilpasning 
+som en del af klimaresilient udvikling, hvor tilgangen til klimatilpasning er, at man ved alle 
+tiltag skal afveje behovet for at mindske risiko som følge af klimaændringer i forhold til 
+behovet for at reducere drivhusgasser samt understøtte implementering af FNs 
+bæredygtighedsmål (IPCC, 2022).  
+ 
+Der er i Danmark stort fokus på metoder, der fysisk beskytter eksisterende værdier, men 
+både herhjemme og internationalt er der også et stort behov for løbende læring og ikke-
+fysiske tiltag. Kapitlet er derfor opbygget, så der først er en generel oversigt over strategier 
+og metoder til håndtering af stigende risiko for oversvømmelser, der både indeholder fysiske 
+og ikke-fysiske tiltag. De to efterfølgende afsnit har et højt fokus på strategier for og tiltag til 
+fysisk beskyttelse. 
+ 
+6.1. Valg af tilgange til håndtering af oversvømmelse 
+ 
+IPCC beskriver risikoen som det (årlige) forventede tab som følge af en konkret fare, 
+herunder oversvømmelser. Ifølge modellen kan risiko i forbindelse med klimahændelser 
+beskrives ved fare, eksponering og sårbarhed. Farebeskrivelsen er her en kvantitativ 
+beskrivelse af faren for oversvømmelse, og hvordan den vil ændre sig over tid. Sårbarheden 
+er de ting, vi værdsætter, og som potentielt vil kunne beskadiges ved en oversvømmelse, 
+mens eksponeringen er den konkrete kobling mellem faren og sårbarheden, altså hvilke 
+sårbare effekter, der udsættes for den fare, der er beskrevet. Som nævnt er IPCCs seneste 
+rapport om klimatilpasning meget generisk i sin tilgang til at håndtere klimatilpasning. Derfor 
+tages i det følgende udgangspunkt i IPCCs rapport fra 2012 (IPCC, 2012), der specifikt 
+beskriver konkrete tilgange til klimatilpasning, herunder oversvømmelser. Der er tre 
+hovedtilgange, hvoraf de to er opdelt i flere principielt forskellige tilgange: 
+ 
+1. Mindske risikoen 
+a. Mindske sårbarheden 
+b. Mindske eksponeringen 
+2. Dele, samle eller overføre risikoen 
+
+ 
+www.dmi.dk   Side 45 af 60 
+3. Håndtere residualrisiko og usikkerheder 
+a. Forberede, varsling og beredskab, hurtigt at genvinde normale tilstande 
+b. Øge resiliens og robusthed  
+c. Transformation 
+ 
+Tilgangen er dermed, at man i en given situation tager udgangspunkt i et scenarie for 
+klimaændringer, og så tilpasser sig til det scenarie. Endvidere understreges det, at uanset 
+den valgte tilgang er læring og oplysning helt centralt for at komme i mål med 
+klimatilpasning. Nedenfor diskuteres de forskellige tilgange kort. 
+ 
+Mindske sårbarheden 
+På globalt plan nævnes især at mindske sårbarheden ved at gøre uligheden i samfundet 
+mindre, fordi udsatte befolkningsgrupper ofte lever på udsatte lokaliteter. Det gælder både i 
+forhold til fattigdom samt adgang til viden og beslutningstagning. Endvidere nævnes helt 
+konkret muligheden for at mindske skader ved at ændre på bygningsreglementer, 
+adgangsveje m.v. og give mulighed for at opbygge lokale netværk, der kan understøtte 
+hinanden i tilfælde af kriser. 
+ 
+Mindske eksponeringen 
+På større skala er det især relevant at overveje at ændre arealanvendelse og etablere 
+konkret infrastruktur til at beskytte områder samt etablere incitamenter til tiltag, der mindsker 
+eksponeringen. Bygningsreglementer kan også bruges til at sikre bygninger lokalt, altså at 
+vandet ikke kommer i kontakt med sårbare dele af bygninger. 
+ 
+Dele, samle eller overføre risikoen 
+Forsikring i form af private eller offentlige ordninger er den mest almindelige tilgang til at 
+dele og samle den økonomiske risiko. I Danmark håndterer Naturskaderådet og den private 
+forsikringsbranche i høj grad skader fra oversvømmelseshændelser, men ikke alle lande har 
+tilsvarende ordninger. IPCC lægger vægt på, at overførsel af risiko mellem forskellige aktører 
+er vigtige at forstå og gøre transparent, samt at det er vigtigt, at risikoen ikke bliver for stor, 
+fordi ordningerne derved trues. Styringen af risiko på nationalt plan indebærer mulighed for 
+både tilsigtede og utilsigtede incitamenter til at øge og mindske risikoen. 
+ 
+Forberede, varsling og beredskab, hurtigt at genvinde normale tilstande   
+IPCC fremhæver at opbygge varslingssystemer som en billig og effektiv tilgang til at 
+håndtere konkrete oversvømmelseshændelser og mindske deres effekter. Disse 
+varslingssystemer skal så suppleres både med et godt beredskab, der kan agere på 
+varslingen og med planer for genopbygning af såvel konkrete værdier som kritisk fysisk og 
+ikke-fysisk infrastruktur, der får samfundet til hurtigt at fungere igen. 
+ 
+Øge resiliens og robusthed 
+Et resilient system kommer sig hurtigere fra chok end andre systemer. Resiliens kan omfatte 
+såvel tekniske som organisatoriske forhold og kan f.eks. indebære opbygning af 
+polycentriske og redundante systemer. Det indebærer konkret, at tendenser til centralisering 
+og effektivisering skal ske ud fra et hensyn til ikke at samler for mange typer af kritiske 
+funktioner i et lille område, hverken fysisk eller organisatorisk. Fryd og Jørgensen (2020) har 
+en grundig introduktion til resiliens i forbindelse med oversvømmelser. Robuste systemer 
+påvirkes mindre af variationer i belastninger og pludselige chok. 
+
+ 
+www.dmi.dk   Side 46 af 60 
+ 
+Transformation  
+Transformation af samfundet er tæt knyttet til begrebet resiliens. Det har dog et længere 
+tidsmæssigt perspektiv og inddrager også de øvrige tilgange til håndtering af 
+oversvømmelser i en samlet strategi, der også forholder sig til usikkerheder på såvel 
+klimaeffekter og øvrige samfundsudviklinger. Et særligt aspekt ved transformationen er, at 
+det er forbundet med længere planlægningshorisonter. Det er nødvendigt for at sikre, at 
+transformationen sker med skyldig hensyntagen til, at alle de grundlæggende funktioner, der 
+fungerer i dag også fungerer både under og efter transformationen.  
+ 
+Diskussion af tilgange 
+IPCC (2022) diskuterer fremdriften i viden om tilgange til klimatilpasning. Det konstateres, at 
+viden om konkrete tiltag generelt er forøget, men også at behovet for klimatilpasning i mange 
+lande vokser hurtigere end de tiltag, der iværksættes. I Danmark har der været både 
+strukturelle og ikke-strukturelle tiltag i form af dels Klimatilpasningsplan 1, Puljen til 
+kystbeskyttelse, opbygning af nyt varslingssystem for vandløb og søer samt en række 
+initiativer på mere lokalt plan. En af udfordringerne med at anvende tiltag som f.eks. at øge 
+resiliens og robusthed er manglen på international litteratur, der understøtter den relative 
+effektivitet af sådanne tiltag i sammenligning med mere strukturelle tiltag. Således dominerer 
+studier såsom Vousdoukas et al (2020) i den internationale litteratur, hvor fysiske tiltag er de 
+eneste tiltag, der vurderes på nationalt niveau. 
+ 
+6.2. Strategier med hovedvægt på fysiske tiltag: 
+ 
+IPCC (2022) tager i sin beskrivelse af strategier for mulige fysiske tiltag udgangspunkt i den 
+metode, der på dansk er kendt som Dynamisk Adaptiv Planlægning, DAP (Kystdirektoratet, 
+2020). Figur 23 viser en forsimplet udgave af IPCCs illustration af DAP. Den anviser typiske 
+overvejelser omkring valg af strategier for områder, der endnu ikke er voldsomt påvirket af 
+fysiske tiltag, og hvor der derfor er mange muligheder. Udgangspunktet er, at man til enhver 
+tid har forskellige mulige strategier, man kan forfølge, men at ingen af dem nødvendigvis vil 
+være ideelle altid, og at det ikke nødvendigvis er muligt at skifte frit mellem de mulige 
+strategier, hvorfor langtidsovervejelser har stor værdi (f.eks. Radhakrishnan et al, 2019).  
+ 
+Figur 23 giver en visuel illustration af, at når man har forfulgt en strategi i nogen tid, er der 
+en fare for, at man ikke kan fortsætte strategien, og at der vil være forskellige andre 
+strategier, det ikke længere er realistisk at skifte til. Der vil altid være væsentlige 
+omkostninger ved at skifte den overordnede strategi for et givet område. En konkret strategi 
+for et større område vil naturligt indeholde elementer af alle tre typer af strategier og være 
+suppleret med væsentlige elementer af ikke-strukturelle tiltag. 
+ 
+Som angivet på figuren har Danmark stadig en lang række muligheder at vælge imellem for 
+klimatilpasning til stigende havvand målt i forhold til, hvad der er teknisk muligt. 
+Nederlandene har i mange år fulgt en strategi om konstruktion af diger, der låser 
+valgmulighederne betydeligt, herunder også hvilke typer af ikke-strukturelle tiltag, der er 
+realistiske at anvende. Som eksempel kan nævnes, at forsikringsordninger er og fortsat kan 
+være en væsentlig del af Danmarks klimatilpasningsstrategi. Dette virker ikke realistisk for 
+Nederlandene, fordi det er hele landets funktion, der vil blive lammet såfremt en ekstremt 
+voldsom og meget sjælden hændelse indtræffer.  
+
+ 
+www.dmi.dk   Side 47 af 60 
+ 
+I forhold til strukturelle tiltag har Danmark størst erfaring med beskyttelsesstrategier ved 
+hjælp af hårde løsninger for Havoversvømmelser, mens man for både 
+Nedbørsoversvømmelser og Vandløbsoversvømmelser også i vidt omfang har anvendt 
+naturbaserede løsninger. På linje med mange andre lande er der færre erfaringer med 
+strategier for tilpasning og tilbagetrækning. 
+ 
+ 
+Der er flere mulige tiltag, der kan vælges for reducere eksponeringen eller sårbarheden i 
+forbindelse med en oversvømmelse. Vand kan holdes væk fra sårbare områder ud fra tre 
+overordnede strategier (Figur 23).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figur 23. Eksempel på en visualisering af forskellige tilgange til fysiske tiltag til håndtering af 
+stigende fare for Havoversvømmelse. Forskellige tilgange indenfor hver strategi vil have forskellige 
+”slutpunkter”, hvor man er nødt til at skifte strategi. For Havoversvømmelser er den tekniske grænse 
+for Beskyt i praksis over 10 meter, for Tilpas formentlig under 5 meter. Det danske og nederlandske 
+flag viser den omtrentlige placering af de to lande på fare-skalaen, hvor Nederlandene i mere end 70 
+år primært har benyttet en Beskyt strategi, men nu må vælge flere tilgange. 
+ 
+ 
+1. Beskyt (hold vandet væk) (eng: protect) 
+Målet er at holde vandet ude fra udsatte områder og forhindre eksisterende 
+bebyggelse og infrastruktur i at komme i kontakt med oversvømmelsen. Denne 
+strategi vil typisk komme til udtryk i diger eller lignende strukturer, der muliggør at 
+eksisterende værdier kan bibeholdes, hvor de er. 
+ 
+
+
+ 
+www.dmi.dk   Side 48 af 60 
+2. Tilpas (tolerer oversvømmelsen) (eng: accommodate) 
+I stedet for at blokere vandet tilpasses værdier i de udsatte områder, så en 
+oversvømmelse ikke giver væsentlig skade. Tiltag i denne kategori kunne f.eks. være 
+forhøjede sokler på huse eller at anvende andre byggematerialer. 
+ 
+3. Tilbagetræk/undgå (flyt værdier) (eng: retreat/avoid) 
+Denne strategi indebærer en ændret arealanvendelse med det formål at give vandet 
+mere plads ved at fjerne eller begrænse byggeri i særligt udsatte områder eller aktivt 
+at fjerne eksisterende værdier fra områder. Den sidste tilgang stiller større krav til 
+planlægningsprocessen, og derfor er der i Figur 23 indsat en særlig 
+planlægningsperiode for denne strategi, inden der i praksis er resultater.  
+ 
+ 
+Disse tre strategier kan kombineres afhængigt af oversvømmelsestypen og de lokale forhold. 
+Endvidere kan de naturligvis kombineres med de ikke-strukturelle tiltag, som er diskuteret 
+kort i afsnit 6.1. Tabel 6 viser eksempler på, hvordan strategierne anvendes til forskellige 
+oversvømmelsestyper med eksempler på forskellige fysiske løsningtiltag.  
+ 
+ 
+6.3. Betydningen af koblede hændelser i forhold til valg af strategi 
+ 
+Koblede hændelser, hvor flere oversvømmelsestyper optræder samtidigt eller forstærker 
+hinanden, stiller ekstra krav til strategivalg. Når f.eks. skybrud, stormflod og terrænnært 
+grundvand optræder samtidigt, kan én strategi alene være utilstrækkelig, og løsninger kan 
+påvirke hinanden på uforudsete måder. 
+ 
+Generelt kan Beskyt-løsninger være utilstrækkelige ved koblede hændelser, hvis de 
+undervurderer de koblinger, som vil optræde fremadrettet. Et dige kan beskytte effektivt mod 
+stormflod, men er sårbart over for fejlskøn på belastningen fra koblede hændelser på den 
+side af diget, der skal være tør. I det tilfælde kan systemet miste sin funktion og potentielt 
+forværre oversvømmelsen. I disse tilfælde er der behov for at indbygge resiliente og robuste 
+tiltag, hvor systemer som sluser og pumper med fleksibel styring sikrer funktionaliteten på 
+tværs af løsninger sammen med andre tiltag. Tilbagetræk-strategier er ofte de mest robuste 
+mod koblede hændelser, da der skabes plads til vand, uanset hvor det kommer fra. Som 
+nævnt er de dog ekstra vanskelige at implementere, ikke mindst i tæt bebyggede områder. 
+ 
+Tabel 7 viser en oversigt over eksempler på koblede hændelser og deres udfordringer, som 
+man skal være opmærksom på i forbindelse med udvikling af konkrete strategier for Beskyt 
+tiltag. 
+ 
+  
+
+ 
+www.dmi.dk   Side 49 af 60 
+ 
+Tabel 6: Eksempler på fysiske løsningstiltag for hver oversvømmelsestype. Nedenstående er ikke en 
+udtømmende liste. Ligesom i Figur 23 er der taget udgangspunkt i Havoversvømmelser. 
+Årsag / 
+Strategi 
+Beskyt 
+Hold vandet væk 
+Tilpas  
+Lev med vandet/tolerer 
+vandet 
+Tilbagetræk 
+Giv plads tilbage til vandet 
+Hav Hårde barrierer  
+Dige  
+Kystsikringsmur/højvandsmur 
+Sluse  
+Lukket dæmning  
+Stormflodporte og klapper  
+Udnyttelse af eksisterende 
+infrastruktur 
+Pumpesystemer 
+Kunstige k analer  
+Regulerbare overløb  
+ 
+Bløde barrierer  
+Sandfordring og 
+klitforstærkning  
+Terrænregulering  
+Sandø  
+  
+Hybridløsninger  
+  
+Midlertidige 
+implementeringer  
+Mobile beredskabsløsninger 
+som vandbarrierer, 
+oppustelige dæm ninger  
+Bygningsmæssige tilpasninger  
+Byggeri tilpasset 
+oversvømmelser f.eks. på pæle 
+eller højere placering af 
+hvidevarer og elnet. 
+ 
+ 
+Strategisk tilbagetrækning  
+Planlagt opgivelse af 
+lavtliggende områder  
+Zoner  
+ 
+Naturlige løsninger  
+Kystnære vådområder og 
+naturlige bufferzoner 
+ 
+Vandløb/Sø Dige, sluse, pumper 
+Vandløbskapacitet 
+(grødeskæring og 
+udgravning) 
+Dobbeltprofiler 
+ 
+Bygningsmæssige tilpasninger  
+Byggeri tilpasset 
+oversvømmelser f.eks. på pæle 
+eller højere placering af 
+hvidevarer og elnet. 
+ 
+Afgrødevalg 
+Vådområder og naturlige 
+oversvømmelsesområder  
+  
+Genslyngning af vandløb  
+Kunstige søer 
+Nedbør Grønne tage, Permable 
+belægninger og andre mindre 
+LAR anlæg  
+Styring 
+Øge kloakkapacitet  
+(rør, underjordiske bassiner) 
+Forhøjede kantsten 
+Skybrudstuneller 
+Højvandslukke 
+Ingen afløb i kælderen  
+ 
+Forhøjede sokler 
+Ændrede byggem aterialer og 
+rumanvendelser 
+Planlagte forsinkelsesområder i 
+byrum  (Sænket b yrum og 
+multifunktionelle løsninger) 
+Regnbede 
+ 
+Større arealer 
+Nye vådområder 
+Grundvand Infiltration  
+Dræning  
+Pumpning 
+Ændret afledning 
+Styrk ede fundamenter 
+ 
+Arealudtag til 
+grundvandsfølsomme områder 
+Permanente eller midlertidige 
+vådområder 
+Øget afvanding på overfladen  
+Teknisk Forstærkning og 
+vedligeholdelse af 
+infrastruktur 
+Forbedret beredskab 
+Nødsystemer 
+Back-up infrastruktur  
+ 
+ 
+Mindske behovet for det tekniske 
+anlæg 
+ 
+ 
+
+ 
+www.dmi.dk   Side 50 af 60 
+ 
+Tabel 7: Eksempler på udfordringer og løsningsmuligheder for klimatilpasning ved forskellige koblede 
+hændelser med udgangspunkt i Beskyt tiltag. Der er taget udgangspunkt i disse tiltag, da de generelt 
+udgør den største udfordring i forbindelse med koblede hændelser. Rækkerne angiver den 
+oversvømmelsestype, som et tiltag implementeres mod, mens kolonnerne angiver påvirkninger af 
+disse tiltag på andre oversvømmelsestyper.  
+Tiltag \ 
+påvirkning Hav Vandløb Nedbør Grundvand 
+Hav 
+Marginal utilsigtet 
+virkning 
+Afstrømning 
+forhindres 
+Afstrømning 
+forhindres 
+Naturlig variation 
+mindskes 
+Grundvandsstand 
+øges 
+Vandløb 
+Marginal påvirkning Overbelastning 
+flyttes nedstrøms 
+Overbelastning 
+flyttes nedstrøms 
+Mindsker 
+grundvands-
+dannelse 
+Tilbagestuvning i 
+drænsystemerne 
+Nedbør Marginal påvirkning Overbelastning 
+flyttes nedstrøms 
+Overbelastning 
+flyttes nedstrøms 
+Ændret grundvands-
+dannelse 
+Grundvand 
+Saltvands-
+indtrængning 
+Forbedring ift 
+forudbetingede 
+hændelser 
+Overbelastning 
+flyttes nedstrøms 
+Forbedring ift 
+forudbetingede 
+hændelser 
+Overbelastning 
+flyttes nedstrøms 
+Marginal utilsigtet 
+virknig 
+ 
+ 
+ 
+ 
+  
+
+ 
+www.dmi.dk   Side 51 af 60 
+7. Konklusion 
+ 
+I løbet af blot de seneste 15 år er der i Danmark sket en række store oversvømmelser, som 
+har medført markante skader i det danske samfund. Det er sandsynliggjort, at denne 
+udvikling vil fortsætte som følge af bl.a. menneskeskabte klimaforandringer, men også 
+voksende byudvikling i attraktive, men oversvømmelsestruede områder. Det vil indebære, at 
+hver af de fire typer af naturligt forekommende oversvømmelser, Havoversvømmelser, 
+Vandløbsoversvømmelser, Nedbørsoversvømmelser og Grundvandsoversvømmelser, vil stige 
+i antal og/eller alvorlighed i fremtiden. Det forventes, at også de såkaldte Tekniske 
+oversvømmelser vil stige i fremtiden, hvor tekniske anlæg udsættes for situationer, de ikke i 
+sin tid blev bygget til at kunne modstå. 
+ 
+Der forventes at være en kraftig stigning i antallet af koblinger mellem forskellige typer af 
+oversvømmelser i fremtiden. Hver type af oversvømmelser vil forekomme over større dele af 
+året, og det alene vil sikre, at flere typer af hændelser optræder samtidigt. I nogle tilfælde vil 
+det endog være de samme meteorologiske forhold, der medfører en samlet større 
+oversvømmelse, fordi flere årsager spiller sammen. Det vil derfor for mange konkrete 
+oversvømmelser være vanskeligt at udpege en enkelt årsag til hændelsen, idet flere årsager 
+bidrager til den samlede effekt. Det vil påvirke, hvordan oversvømmelsen skal håndteres, 
+både helt konkret når oversvømmelsen forekommer og også mere generelt ved overvejelser 
+omkring planlægning og organisation. Det er vanskeligt at kvantificere præcist hvilke typer af 
+koblinger, der vil være dominerende, og hvor store konsekvenserne vil være af disse 
+fremtidige koblede hændelser.  
+ 
+Man kan ved at kigge på topografien for et område i grove træk forudsige både hvilke typer 
+af oversvømmelser, der kan ske, og omtrent hvor de sker. Det kan ske på forskellige 
+niveauer fra små områder til nationale overblik, som derefter kan sammenlignes med, hvilke 
+områder der er særligt sårbare over for oversvømmelser.  
+ 
+Der er allerede nu eksempler på meget store og skadevoldende koblede hændelser. For en 
+del af disse historiske hændelser er der tale om ganske voldsomme effekter, hvor retablering 
+af alle samfundsfunktioner har taget lang tid. Hændelserne har endvidere i nogle tilfælde 
+påpeget sårbarheder, hvor bl.a. kritisk infrastruktur har været meget tæt på at blive påvirket.  
+ 
+Den manglende viden omkring koblingernes betydning er ikke et argument for at forsinke 
+eller mindske indsatsen for klimatilpasning. Der er robust evidens for, at effekten af hver 
+type af oversvømmelser vil stige, og at flere og kraftigere koblinger medfører et behov for en 
+helhedstænkning i den kommende klimatilpasning. Det er relevant at undersøge flere 
+strategier og flere typer af tiltag i forbindelse med klimatilpasning, herunder også brugen af 
+ikke-strukturelle tiltag såsom varsling, uddannelse samt tiltag til at sikre mere resiliens og 
+robusthed i samfundet. 
+ 
+I nogle tilfælde vil den mest oplagte strategi for at håndtere en type af oversvømmelse gøre 
+håndtering af en anden type oversvømmelse mere vanskelig. Havoversvømmelser er med 
+stor sikkerhed den største udfordring i fremtiden. Tilpasning til denne udfordring 
+vanskeliggøres af, at flere typer af koblinger til flere andre typer af oversvømmelser 
+forventes at optræde samtidigt med Havoversvømmelser i fremtiden. Klimatilpasning består 
+
+ 
+www.dmi.dk   Side 52 af 60 
+netop i at balancere forskellige muligheder, udfordringer og risici på forskellige tidsmæssige 
+og geografiske skalaer. Vi håber, at nærværende rapport kan bidrage til, at der i Danmark er 
+etableret et sprog og en større fælles forståelse for udfordringerne, der gør det lidt nemmere 
+for relevante aktører sammen at have de dialoger, der er nødvendige for, at beslutninger kan 
+træffes på et oplyst grundlag.  
+
+ 
+www.dmi.dk   Side 53 af 60 
+Referencer 
+ 
+DMI, 2025. Klimaatlas. Hjemmeside. URL: https://www.dmi.dk/klimaatlas/ Downloaded marts 
+2025. 
+ 
+EU, 2007. Europa-parlamentets og rådets direktiv 2007/60/ef af 23. oktober 2007 om 
+vurdering og styring af risikoen for oversvømmelser. Downloaded marts 2025 fra https://eur-
+lex.europa.eu/legal-content/DA/TXT/PDF/?uri=CELEX:32007L0060  
+ 
+Fryd og Jørgensen (Ed.). 2020. Byerne og det stigende havvand – Statusrapport 2019. 
+Byerne og det stigende havvand - Statusrapport 2019. IGN Rapport. Downloaded marts 2025 
+fra https://realdania.dk/publikationer/faglige-publikationer/byerne-og-det-stigende-havvand-
+status  
+ 
+GEUS, 2025. Hydrologisk Informations- og Prognosesystem. Hjemmeside. URL: 
+https://hipdata.dk/ Downloaded marts 2025. 
+ 
+IPCC 2012. Managing the Risks of Extreme Events and Disasters to Advance Climate 
+Change Adaptation. Intergovernmental Panel on Climate Change. Downloaded marts 2025 
+fra https://www.ipcc.ch/site/assets/uploads/2018/03/SREX_Full_Report-1.pdf  
+ 
+IPCC. 2022. Climate Change 2022: Impacts, Adaptation and Vulnerability. Intergovernmental 
+Panel on Climate Change. Downloaded marts 2025 fra https://www.ipcc.ch/report/ar6/wg2/  
+ 
+Kystdirektoratet. 2020. Guide til dynamisk planlægning af klimatilpasning og styring af 
+risikoen for oversvømmelse i kommuner. Kystdirektoratet, Miljø- og Fødevareministeriet, 
+2020. Downloaded marts 2025 fra https://kyst.dk/media/wyydacyn/guide-til-
+dynamisk_planlaegning-af-klima-tilpasning-og-styring-af-risikoen.pdf  
+ 
+Leonard, Michael, Seth W estra, Aloke Phatak, Martin Lambert, Bart van den Hurk, Kathleen 
+McInnes, James Risbey, Sandra Schuster, Doerte Jakob, and Mark Stafford‐Smith. "A 
+compound event framework for understanding extreme impacts." Wiley Interdisciplinary 
+Reviews: Climate Change 5, no. 1 (2014): 113-128. 
+ 
+Miljø og Ligestillingsministeriet (2020). Bekendtgørelse om fastsættelse af serviceniveau 
+m.v. for håndtering af tag- og overfladevand. Bek nr 2276 af 29/12/2020. Downloaded fra 
+Retsinformation marts 2025.  
+ 
+Murray, V., Abrahams, J., Abdallah, C., Ahmed, K., Angeles, L., Benouar, D., Brenes Torres, 
+A., Choe, C.H., Cox, S., Douris, J., Fagan, L., Fra Paleo, U., Han, Q., Handmer, J., Hodson, 
+S., Khim, W., Mayner, L., Moody, N., Moraes, L.L.O., Nagy, M., Norris, J., Peduzzi, P., 
+Perwaiz, A., Peters, K., Radisch, J., Reichstein, M., Schneider, J., Smith, A., Souch, C., 
+Stevance, A.S., Triyanti, A., Weir, M., Wright, N. (2021). Hazard Information Profiles: 
+Supplement to UNDRR-ISC Hazard Definition & Classification Review – Technical Report. 
+Geneva, Switzerland: United Nations Office for Disaster Risk Reduction; Paris, France: 
+International Science Council. DOI: 10.24948/2021.05. Tilgængelig på: 
+https://www.undrr.org/publication/hazard-information-profiles-hips [Adgang: 16/01/2025]. 
+
+ 
+www.dmi.dk   Side 54 af 60 
+ 
+Pedersen, A., Mikkelsen, P. S., Arnbjerg-Nielsen, K. 2012. Climate change induced impacts 
+on urban flood risk influenced by concurrent hazards. Journal of Flood Risk Management, 5, 
+3, 203-214. DOI: 10.1111/j.1753-318X.2012.01139.x 
+ 
+Radhakrishnan, M., Löwe, R., Ashley, R.M., Gersonius, B., Arnbjerg-Nielsen, K., Pathirana, 
+A.,, Zevenberger, C. 2019. Flexible adaptation planning process for urban adaptation in 
+Melbourne, Australia. Proceedings of the Institution of Civil Engineers – Engineering 
+Sustainability 172(7): 393–403, https://doi.org/10.1680/jensu.17.00033 
+ 
+Seneviratne, S. I., X. Zhang, M. Adnan, W. Badi, C. Dereczynski, A. Di Luca, F. Doblas-
+Reyes, et al. 2021. “Weather and Climate Extreme Events in a Changing Climate.” In Climate 
+Change 2021: The Physical Science Basis. Contribution of W orking Group I to the Sixth 
+Assessment Report of the Intergovernmental Panel on Climate Change, edited by V. Masson-
+Delmotte, P. Zhai, A. Pirani, S. L. Connors, C. Péan, S. Berger, et al. Cambridge: Cambridge 
+University Press. https://doi.org/10.1017/9781009157896.011. 
+ 
+Su, J., Pedersen, J. W., Ringgaard, I. R., Larsen, M. A. D. (2025). Incorporating compound 
+flood events in the weather service value chain. npj Natural Hazards 2, 26 (2025). 
+https://doi.org/10.1038/s44304-025-00077-4 
+ 
+United Nations Office for Disaster Risk Reduction (UNDRR), 2020. Hazard definition and 
+classification review: Technical report. Tilgængelig på: 
+https://www.undrr.org/publication/hazard-definition-and-classification-review-technical-report 
+[Adgang: 16/01/2025]. 
+ 
+Vousdoukas, M.I., Mentaschi, L., Hinkel, J., Ward, P. J., Mongelli, I., Ciscar, J.-C., & Feyen, 
+L. (2020). Economic motivation for raising coastal flood defenses in Europe. Nat Commun 11, 
+2119. https://doi.org/10.1038/s41467-020-15665-3 
+ 
+Zscheischler, Jakob, Seth Westra, Bart JJM Van Den Hurk, Sonia I. Seneviratne, Philip J. 
+Ward, Andy Pitman, Amir AghaKouchak et al. "Future climate risk from compound events." 
+Nature climate change 8, no. 6 (2018): 469-477. 
+ 
+Zscheischler, Jakob, Olivia Martius, Seth W estra, Emanuele Bevacqua, Colin Raymond, 
+Radley M. Horton, Bart van den Hurk et al. "A typology of compound weather and climate 
+events." Nature reviews earth & environment 1, no. 7 (2020): 333-347. 
+ 
+ 
+ 
+  
+
+ 
+www.dmi.dk   Side 55 af 60 
+Tidligere rapporter 
+Tidligere rapporter fra Danmarks Meteorologiske Institut kan findes på adressen: 
+https://www.dmi.dk/publikationer/ 
+
+ 
+www.dmi.dk   Side 56 af 60 
+  
+
+ 
+www.dmi.dk   Side 57 af 60 
+ 
+Bilag 1: Proces for opsætning af oversvømmelsestypologi 
+ 
+Som beskrevet i hoveddelen af rapporten er vandets kredsløb et komplekst kontinuum af 
+fysiske processer i rum og tid tilsat en stor del menneskelig intervention. Dette kan 
+besværliggøre kommunikation om og forståelse af oversvømmelser blandt fagfolk med mange 
+forskellige baggrunde (naturvidenskabelig, ingeniørmæssig, juridisk, politisk, etc.) og ikke 
+mindst i den generelle offentlighed. Ved at definere en kort liste af generelle 
+oversvømmelsestyper håber det, at denne rapport kan være med til at: 
+1. forenkle kompleksiteten omkring oversvømmelser til et overskueligt sæt af 
+enkeltstående typer, 
+2. lette kommunikationen blandt samfundsaktører ved oversvømmelsesproblematikker, 
+og 
+3. levere praktisk anvendelige definitioner af de forskellige typer. 
+ 
+Når man forsøger at bygge en diskretiseret typologi over komplekse kontinuerte systemer, er 
+der en række risici involveret, som forfatterne af denne rapport har forsøgt at imødegås i 
+videst muligt omfang: 
+1. Det kan være svært at definere præcise og objektive grænser mellem typerne, og man 
+risikerer at miste information/præcision især i typernes grænseovergange. 
+2. Hvilke parametre og egenskaber, der indgår som grundlag for opdelingen, vil til en 
+hvis grad være subjektive. 
+3. Hvis systemet ændrer sig over tid, kan en typologi blive forældet.  
+ 
+I et nyligt publiceret studie har DMI anvendt en faretype-kortlægning fra UNDRR og tilpasset 
+den til danske forhold (Su et al., 2025). Samme tankegang anvendes her. 
+ 
+1.1. Kortlægning af faretyper i FN-regi 
+ 
+I FN-regi har United Nations Office for Disaster Risk Reduction (UNDRR) det primære ansvar 
+for at hjælpe med implementeringen af Sendai-rammen for katastroferisikoreduktion 2015-
+2030. Som led i dette arbejde nedsatte de sammen med International Science Council i 2019 
+en teknisk arbejdsgruppe, der fik til opgave at afhjælpe problemet med at forskellige 
+organisationer og lande havde inkonsistente definitioner og klassifikationer af farer, hvilket 
+vanskeliggjorde globalt samarbejde, dataindsamling og effektiv risikostyring. Gruppen bestod 
+af over 500 tekniske eksperter fra FN-organisationer, videnskabelige netværk, den private 
+sektor osv.   
+ 
+Resultatet af arbejdet har medført en standardiseret fareliste med over 302 forskellige farer 
+grupperet i otte kategorier: (1) Meteorologiske og hydrologiske farer, (2) Geologiske farer, 
+(3) Biologiske farer, (4) Kemiske farer, (5) Miljøfarer, (6) Teknologiske farer, (7) 
+Samfundsrelaterede farer, (8) Udenjordiske farer. Dette omfatter brugen af fælles skabeloner 
+til at beskrive fareprofiler (”Hazard Information Profiles, HIPs”). Hver af de 302 farer har fået 
+deres egen detaljerede profil-beskrivelse i en opfølgende udgivelse af Murray et al. (2021). 
+Af de 302 farer er følgende 12 af dem forskellige former for oversvømmelser: 
+
+ 
+www.dmi.dk   Side 58 af 60 
+ 
+ 
+ 
+Meteorological & Hydrological Technological 
+MH4: Coastal flood 
+MH5: Estuarine (Coastal) 
+flood 
+MH6: Flash flood 
+MH7: Fluvial (riverine) flood  
+MH8: Groundwater flood 
+MH9: Ice-jam flood including 
+debris 
+MH10: Ponding (drainage) flood 
+MH11: Snowmelt flood 
+MH12: Surface water flooding  
+MH13: Glacial lake outburst flood 
+TL46: Drain and sewer 
+flooding  
+TL47: Reservoir flooding 
+  
+ 
+Sammen kan de 12 typer betegnes som FN’s bedste bud på en global 
+oversvømmelsestypologi. 
+ 
+1.2. Oversvømmelsestypologi for Danmark 
+ 
+For at bygge en oversvømmelsestypologi for Danmark, tages der afsæt i FN’s globale 
+oversvømmelsestypologi, som bearbejdes i følgende trin: 
+1. Grundet Danmarks geografi og klima oplever vi hverken ”MH9: Ice-jam flood including 
+debris” eller ”MH13: Glacial lake outburst flood”, som dermed kan frasorteres.  
+2. ”MH5: Estuarine (Coastal) Flood” referer til kystfænomener, hvor vand fra havet 
+presses ind i floddeltaer og skaber oversvømmelser, hvor en flod løber ud i havet, 
+såsom ved Nilen og Mississippi-floden. I Danmark opleves der tit oversvømmelser i 
+vandløbsudmundingerne, men det er kun Skjern Å, som har en mini-udgave af et 
+floddelta, og derfor foretrækkes det at fjerne denne globale type. I stedet vil 
+oversvømmelser ved vandløbsudmundinger senere blive beskrevet som en koblet hav-
+vandløb hændelse.  
+3. Der er flere typer, hvis definitioner delvist overlapper hinanden. Det gælder især 
+”MH10: Ponding (drainage) flood” og ”MH12: Surface water flooding”, som begge 
+referer til oversvømmelser, der opstår, når kraftigt regnvejr skaber en oversvømmelse 
+lokalt, hvor regnen er faldet. Disse to slås derfor sammen til en ”Lokal nedbør”-type.  
+4. ”MH6: Flash flood” henviser til fænomener, hvor oversvømmelser indtræffer ”hurtigt” 
+efter, at det har regnet kraftigt (en ofte anvendt definition i internationalt regi er < 6 
+timer). ”Flash flood” er et udbredt udtryk i lande med voldsom topografi, hvor kraftig 
+regn kan strømme ned af en bjergskråning og skabe voldsomme og livsfarlig 
+strømningshastigheder på overfladen og i mindre floder. Den beskedne topografi og 
+de små vandløbssystemer i Danmark gør, at det herhjemme i praksis vil være meget 
+svært at skille denne type ad fra de andre ”Lokal nedbør”-typer samt ”MH7: Fluvial 
+(riverine) flood”. Derfor anses ”Flash flood” for at være undertyper af ”Lokal nedbør” 
+og ”MH7: Fluvial (riverine) flood” i Danmark.  
+5. ”MH11: Snowmelt floods” henviser i Murray et al.’s (2021) definition primært til 
+områder, hvor der kan opbygges store snedybder i løbet af vinteren, som pludseligt 
+kan opleve kraftig afsmeltning, når foråret ankommer. Sneafsmeltning kan spille en 
+rolle i oversvømmelseshændelser i Danmark i vinterhalvåret, men det ses dog langt 
+oftes, når det er en kraftig varmfront med tilhørende ekstra regn, der forårsager 
+afsmeltningen. Det er derfor ofte svært at skille denne type ad fra de lokale 
+nedbørhændelser og ”MH7: Fluvial (riverine) flood”. Derfor vælges det her, at 
+
+ 
+www.dmi.dk   Side 59 af 60 
+snafsmeltning på lige fod med ”MH6: Flash flood” bør anses som undertype af de to 
+andre typer. 
+6. ”TL46: Drain and sewer floods” hører under familien af ”Technological hazards” 
+(hvilket vedrørende vand og oversvømmelser i denne rapporten oversættes til 
+”tekniske farer” på dansk). Rapporten beskriver primært denne type hændelse, som 
+når der sker noget utilsigtet i et kloak- og afløbssystem. Det kan enten være en 
+tilstoppet nedløbsrist i vejen, en blokering i et rør, etc. Men det er ikke en 
+oversvømmelse, som er forårsaget af, at regnintensiteten i et skybrud overstiger 
+designkapaciteten af røret, da kloak- og afløbssystem her ikke har svigtet, men er 
+bevidst designet til ikke at kunne håndtere sådanne intensiteter. En sådan 
+overskridelse af designkapaciteten anses her i stedet for at være en lokal 
+nedbørhændelse. 
+7. ”TL47: Reservoir flooding” henviser til, når en dæmning med tilhørende kunstig sø bag 
+sig brister, hvilket kan føre til store mængder og kraftigt strømmende vand nedstrøms. 
+UNDRR definitionen er dog lidt tvetydig, da den også åbner op for, at denne type kan 
+dække over, når kraftig regnvand får vandstanden i søen til at stige over dæmningns 
+kapacitet, og vand spilder over kanten på kontrolleret eller ukontrolleret vis. I denne 
+rapport fastholdes dog samme definition som for kloak- og afløbssystemer: hvis en 
+oversvømmelser er forårsaget af en fejl i systemet, så er det en ”teknisk fare”. Hvis 
+systemets designkapacitet overskrides, så er det ikke en teknisk fare, men en af de 
+andre oversvømmelsestyper. Vi vil i Danmarks tilfælde også gøre opmærksom på, at 
+der er andre typer af teknisk vandinfrastruktur, som kan svigte og medvirke til eller 
+direkte forårsage en oversvømmelser, f.eks. hvis sluse- og pumpesystemer fejler, 
+eller hvis et dige langs kysten eller et vandløb bryder. Derfor slås de to global 
+tekniske fare sammen til en fælles ”teknisk” oversvømmelsestype og definitionen 
+udvides til at indeholde oversvømmelser fra alle former for vandinfrastruktur, der 
+svigter inden for rammen af dets designkapacitet. 
+ 
+Ovenstående trin reducerer antallet af forskellige oversvømmelsestyper i Danmark til fem 
+overordnede årsager, som i denne rapport navngives: 
+1. Hav 
+2. Vandløb/Sø 
+3. Nedbør 
+4. Grundvand 
+5. Teknisk 
+ 
+ 
+ 
+
+
+ 
+www.dmi.dk   Side 60 af 60 
+Figur i: Beskrivelse af processen fra UNDRR's globale oversvømmelsesrelaterede faretyper til en 
+reduceret version for Danmark.  
+  
+Figur ii sammenholder de fem danske oversvømmelsestyper med de ”lokationer” i 
+landskabet, hvor oversvømmelser indtræffer. I hver celle i figuren er det angivet, hvordan 
+UNDRR’s oprindelige oversvømmelses-faretyper fordeler sig. Som det ses, indeholder 
+næsten alle UNDRR typer kun en årsag og lokation, som angivet med røde firkanter. De 
+tekniske hændelser kan dog forsårsage oversvømmelser hændelse i alle tre lokationer 
+afhængigt af, hvilken type vandinfrastruktur, der svigter. 
+ 
+ 
+Figur ii: Hvordan FN faretyper fordeler sig blandt DMI's oversvømmelsestyper (vandret akse) og 
+lokationer i landskabet (lodret akse). Røde felter markerer, hvordan DMI oversvømmelsestyper skal 
+tolkes.
