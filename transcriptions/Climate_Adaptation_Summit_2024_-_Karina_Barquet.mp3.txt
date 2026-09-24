@@ -1,225 +1,134 @@
-00:00:05
-Nå.
+=== DNNK Webinar Transskription ===
+Kategori: Godmorgen_med_DNNK
+Video ID: FDhI9jFfQ4A
+URL: https://youtube.com/watch?v=FDhI9jFfQ4A
+Kilde: YouTube auto-undertekster (engelsk - oplægget er på engelsk, tidligere dansk auto-oversættelse var ulæselig)
+Transskriberet: 2026-09-24T07:21:14.300533
 
-00:00:09
-Ine akette, 10., work and oce øh 700 respons ved this and public finance.
+==================================================
 
-00:00:18
-Lige nett er atport tidligere så please det vil gerne.
-
-00:00:22
-Have.
+00:00:00
+to L expert from Stockholm environment Institute we have with us Kina baket team leader water coast and oceans and she want to talk about the risk analysis share responsibilities and Public Finance limits and opportunities so please give k a warm more hand
 
 00:00:30
-Kan i høre mig OK eller bare kast vogn?
+can you hear me okay in the back as well thank you so much for the invitation it's been a great um event so far and this morning's presentations are perfect entry for my presentation um for those of you who don't know what SEI is or maybe mixed us up with various other organizations that might begin with Sweden Swedish or stockolm uh SEI is a nonprofit research to policy organization we've been around
 
-00:00:34
-Thank you match spat invitation et spin grebs eventyrforening and this money ex presentation sir perfect and intra wal my præsentation.
+00:01:00
+since the 1980s established by the Swedish government uh to work with development climate environmental issues globally so our headquarters where I I'm based are in Stockholm but we have offices all over the world so working very closely with regional actors in Asia Latin America Africa and the US and the presentation today is a joint work with my colleagues in my team and it is also part of two ongoing projects financed by MSB not sure what name I
 
-00:00:46
-For doctor view with don't know what ASI is og med be mixed us with there is o the organisations that'm i big in with sweet and twit is whats percom SCISA nonprofit research 2 prøv lige at sige organisation webinarouncenter nineteen eights.
+00:01:30
+should use but maybe I use a new one the Swedish Agency for civil defense uh formas and the research Council of Sweden and a little bit about the structure of today's presentation uh following a bit the steps that we took on our research so first of all we investigated the places the probabilities and the intensities of both single and compound hydroclimatic hazards I'll get back to that definition then we looked into the cascading effects and the risk implications for
 
-00:01:02
-2 walk with thevel planet in that'mantal issues globaly sou a had warderswar umbbased or in speakomfrut we have that's isol of the world, so work king priclos the with real Madrid in asia love american african and the guat and the præsentations 2 the is lay joint 2 workith my proaction may teame and eitis also part 2 oring project.
+00:02:00
+critical infrastructures and vital societal functions so electricity waste water water uh roads Etc we also looked at the supply shocks on human systems including for example Food and Health and we are currently developing an impact assessment tool an early warning system towards the end of my presentation I will try to connect this with local level implementation what the implications of this assessment has for municipalities
 
-00:01:28
-Finance by MS bottomed speed med uden, who would this whit do you agency frost de fince formelt on the rece of account sweething.
+00:02:30
+work so a little bit you you've seen many maps and every time there's a climate conference there's a lot of maps with a lot of red stuff in in in the landscape uh what this map is essentially telling you is our investigation of single hydroclimatic uh hazard hotpots in in Sweden and for this we used uh climate indices based on long-term precipitation and temperature data and essentially what we see is that uh Heatwave intensification primarily in
 
-00:01:39
-Arndt har lidt af det der struktur todays presentation following beit the steps do it 2 go research så først thor we investoffer der hedder playces that propabilities and the intensity of fult single and compound high docnedy passhers are get back 2 that definition.
+00:03:00
+the south of Sweden we also see flop dangerous intensification both in the North and the South and just generally we Ser we see warmer and wetter Trends all over Sweden when we talk about compound hazards or multiple hazards or curring hazards there's different types of of uh different wordings there but it's important to understand there's different types of compound Hazard so you have those that are temporally compounding meaning it it they can take place at the same time for example you
 
-00:01:58
-Hvordan med lykken til The kaste din effets og The risk campations for credit infrastructure hele function sol that twistery wase what the waterron a row 2 teton willow the supplyce shcks on homan systemt incuting for eksempel thule under and we are cund ple un incak the seatment tool underly warnings systemt.
+00:03:30
+can have a drought and heat wave at the same time and that can exacerbate crop loss you can also have spatially compounding H hazards roughly within a relevant spatial area happening roughly at that around the same time doesn't need to be exactly at the same time for example you might have a storm surge on a river flooding in Sweden it might not be so common especially U except during the summer months particularly in the west coast we found out and that will
 
-00:02:21
-Thomas stiller præsentation out of party connect disfit lokal of a implantation what implications up this a sassementasfulde Politis work.
+00:04:00
+exacerbate damage you can also have something called precondition events so you have a an initial Hazard which is what we are seeing increasingly uh throughout the world uh especially southern Europe you have dry soil that cannot absorb a water Surplus and then you have heavy rainfall after that and that will lead to exacerbated flow so when you talk about compound events it might mean one of this what we have looked at is at the currence of heat wave and drought and
 
-00:02:32
-Sover og lille vidt jubilæum of primate conference lort maps with the lort of red in the lancy what is not this is the syntesaling euys universitation of single high vatic password hospboxing in sweatern and ford. This ver you's the comed in. This is base on long position and tam putter and essentially what we see is a hit w heavy intention primært in the South of-scene.
+00:04:30
+what we see is a pattern of intensification during the summer months particularly in the area of s and Stockholm and these events will exacerbate impacts such as crop losses it will reduce seasonally or temporarily a water supply and it could affect hydrop power energy production or increase energy energy prices electricity prices uh to improve essentially what the project is now doing is trying to
 
-00:03:02
-Weasley flot industries intensivclication hvobil norris and the sound anduus Johan allly very receive warmir and with your trans eller resving.
+00:05:00
+improve the prediction of both single and compound hazards and for this we're experimenting with machine learning approaches I should warn you I'm not an expert so if anyone is an expert here do do not ask any expert questions I will uh forward them to my expert team H but what you can see in this slide is some of the results for the drought component we have tested different methodologies there's a bunch of methodologies for ML and the more more methodologies you you test the more robust the results will be
 
-00:03:14
-Contout hassource of mode hashold 2 corporate. Do you different type of differentworkings that men Det er det punkt 2, do stand that's diffent times of compound hash så we have do sur tibered compounding mening day can take place of the same time, for eksempel can have trawt on heat privat of the same time and thought can it saturabate crop lous?
+00:05:30
+um here our methodologist uh build on spatial multifeatures and time series to try to predict drought uh a bit longer term than we are able to today and what our results show is essentially two the two particular methods again for those who are knowledgeable on ML uh ARA has the best accuracy performance and then there's another method called multifeature random force that can show you more details so essentially which
 
-00:03:38
-Vi kan ofte have specialic computering hak passirs roughly wit in a reality special happening roughly around the same time. Det var Sådan et virke sagt that the same time, for eksempel the mind have Stone search and a rivere floting and sweet and mind be so commen expectley exception the summoms partric learly indo westcols we found outsed and dowal- it's sass of beat damp.
+00:06:00
+method is best depends on what you're looking for and the type of data that you have what the maps show is just that our model prediction the the predicted and The observed model uh shows that the model actually works uh then we also tested machine learning in different time leads to predict heat waves today heat waves are we have very low predict prediction time a couple of weeks Max and that means that we cannot plan ahead of time uh for
 
-00:04:03
-Vi kan også have som det coak condition eller så you have anitual hassour coaches of warzone intressingy and 2 out the world special you have drive sour that can not of sour aware socplas and then you have have rainfald after that and though thaled sats obaterclow su want you talkabbod come potn dvents it my mean one of best.
+00:06:30
+those types of events so for this we also use two models model called XG boost and K&amp;N uh which show the strongest prediction interestingly for those who know about variables one variable that sticks out in our model is something called geopotential height as having the strongest predictive uh Power GE potential height is a way to measure altitude above sea level that takes into account the effect of gravity and usually when you when you look talk about heat waves temperature which is
 
-00:04:27
-Wat wing have blok talent is about the cool careens of the heat reven browse.
+00:07:00
+the the criteria or the variable that matters more but here we found also that geop potential height matters um now our stud is different from other studies in that heway has not been predicted for long and periods ahead uh the ability to predict month by month and ahead of time uh is that we can better adapt to Seasons seasons are going to change we already see now that what used to be summer is not really like summer uh now or it wasn't summer
 
-00:04:31
-We seeles of patrin of intensyclication leven the summermans partic or lean years, corona and stor rom and disyvance wellet it's hasube in peace, social problem loces and will with the with do's the asession you temprally Award supply and exo the pick hido par Energy produktion orincrease Energy energyprise Hillary Clinton princip.
+00:07:30
+back then so how are we going to put our crops how should we think about school hours how how should we build our infrastructure Etc so the longer the leap time and the better accuracy in the models the better we can predict these types of events uh this is very difficult and some of you were uh pinpointing at the lack of data and this is a a real issue we don't have a lot of data and unfortunately research funds Finance less and less this typ of this type of funding we need raw data to be
 
-00:04:58
-Twin professiony with the post is now doing is trend two improved the predaktion of boss single and comput hasswach out of this would experment 2 wing machine running a projens is with wonder northern experts with you wantis and experter out in ekspert pression i will point 2 my eksporty.
+00:08:00
+able to have better predictions we also need longer research projects to be able to test more models and have better predictive uh accuracy in our models but again there's no funding for that either so I'm calling for more funding for the type of data that we need uh we have also been investigating associations between hydroclimatic hazards and impacts on food water and electricity Supply and what this slides it's it's just a little experim
 
-00:05:18
-Likes some of the re soul of the drive component. We have tasted diffent the dubber jaes, do you in the dollars for anmel under moremed the dollys you u test the more re buster resource of be.
+00:08:30
+that we tested uh to try to see the relationship between crop production and heat waves and this is for Stockholm not because Stockholm is the most important food produ production region in in Sweden but just because we had a Stockholm stakeholder that wanted to know this so we did this as an experiment currently we're working for the whole country to do this what you can see on the left is that is the crop data per year in Stockholm and the anomalies and on the right you can see the association between these anomalies and heat and essentially we find an association between decrease propop uh reduction uh
 
-00:05:31
-Ar are, matthedole just a and a beil don't special motiv features and times Series totrid preddicted ground be lunger Trump nok we are able 2 today.
+00:09:00
+between prop reduction and hotter temperatures essentially so sometimes people say that oh climate changes can be good for our crops not necessarily stockolm is one of these regions that's going to experience most heat waves uh in Europe and so those F that experienced heat waves and drought may not necessarily be positively affected by climate change so beyond looking at the risk of the event which is what many researchers
 
-00:05:42
-2 partikler igen, that's whir and mole on and in know and arre. My hasselbach accrazy per fromments know version lovede metod kort malty feature ground of forest that canno show you mund that it just så Jeg synes secial wich metad ebaste pinter with your looking forund the type under date that that you have.
+00:09:30
+are looking at we wanted to look at uh understand uh the consequences beyond the initial impact H and start assessing what we call cascading effects upon the network of services and and infrastructures um and to do this we developed a framework to model what we call multi sectoral interdependencies so I'm assuming that most sectors uh the Water associations municipalities perhaps the electricity sector they have their own risk models but very few are modeling how uh my actions or impacts
 
-00:06:05
-Just a ammodel prediction the predict your model shows e the model actually works.
+00:10:00
+will impact another sector so this is the what we're focusing how uh different sectors impact each other we're using network analysis to do that and we're building on open- Source data due to uh security issues with real data so our data is not totally accurate in terms of geographic location and that's okay so our focus is on developing the method uh we use stakeholder feedback to prioritize the services so so we were able to map out which which services are
 
-00:06:15
-Them, you're så teste it machine learning in different time. Leeds for Det er ikke helt waves, så Det er heat wrates og we have very low predicted preticon time a cup pla we waic snacks and that's need start wick 2 know plan a haar time for dones type of thilance så for this spiller you're 2 models mole.
+00:10:30
+at most risk of floods uh together with hamsta municipality they told us this is the most important uh infrastructure so that's what you should be zooming into and based on that we identify resilience metrics related to what we call criticality vulnerability and redundancy so criticality is how important Services how many other services depend on that one vulnerability is how many services you receive and redundancy is the ability to to have
 
-00:06:38
-Without thunged produktion infra stemelig with the nobod vergi one diables stay South gamle is som den coul gear prutentual high as have that's tunge predictedip power jupedtensual hind is away massive artitu a buffalt fill wal that texting 2 account effector gravelige and musically wing you tok about heatbrets templer 2 witches that creative are with the very that that that's Matas mur.
+00:11:00
+uh additional uh services or infrastructures in case main one fails this figure shows areas of flooding for three different types of floods in h so it's Coastal River and heavy rain and the black dots is the critical infrastructure nodes that are currently under risk um and based on basically this maps and some models we Quantified uh we meure the cascading impacts that these
 
-00:07:04
-Og hive i found also that, andual, hight martz.
+00:11:30
+flots would have on the critical infrastructures what you see here essentially is uh we found we thought we were going to find a very scary picture but it was actually the other way around we found that only 1.3% of all the critical infrastructure nodes are considerably more destructive this means that as a municipality or as a as a utility planner you could focus on those instead of focusing on the whole municipal ality focus on those
 
-00:07:09
-Now are studing difficenti.
+00:12:00
+that matter the most um on the left you can see the number of cascading failures due to the disruption on a specific node or infrastructure and this can help planners prioritize infrastructures that may cause most disruptions in the case of Hamer it was the power plant the storage tank and the Wastewater Plant that would cause most destruction in the city and on the right you see that the more the failure spreads the more functions the the infrastructure will lose in with within a neighborhood or
 
-00:07:14
-Ed for long and pebers aed reality 2 predictmove finths and 2 headuptime is a we canberred that 2 seasonseas oring 2 change of we w abery see out that what do you uso the summor? It's not really like sono and now are you wosting som about thanksal.
+00:12:30
+within an area and when the propagation spreads then the network becomes uh more inefficient or totally inefficient based on this we did an impact assessment tool at the moment is a beta version offline and uh you cannot use it so we can barely call it a tool and this is because of security concerns um also lack of funding uh but uh the idea is to develop this further uh for people to use whether in capacity
 
-00:07:33
-Havryggerne putter out cross House be think cool thorice have House who would have build og engra so the alone with the lead time and the betro accrazy the model actore we can princit this is type of the verdens. This is very difficult and so mo be world ping point ting out eller and this is a it a really show weit don't have a luther day tang an a folk snotbly research folk finans last and last disse cyber distript of the funding.
+00:13:00
+building for capacity building purposes or for planning purposes we don't really know yet we are this is a dialogue with whomever is going to be using this Tool uh essentially what the tool can show you and I'm not showing you the tool because of this for the same reasons but you can show you can see the cascading disturbances at a quite granular level so if your water tank gets affected which schools which preschools which hospitals will be affected uh this is shown through a dashboard that that shows you the type
 
-00:08:01
-Predictions weason lead lower research projects 2 be awesome test moon moders and have bare politikere active sine unles redigan Det er Sådan noget found of that i den så i and kultury from yore frunding for the tabt of the day thated, that's it.
+00:13:30
+of infrastructure the location the type of risk it's under the criticality the redundancy Etc so I uh a little bit of a summing up for this for this uh for most of the presentation what we learned from this analysis that when we talk about adaptation we it sounds like we Clump it up in into one category but different places and different risks uh need different solutions so what you see in this first picture is the port of
 
-00:08:19
-When have wassobinvest the gameting aso seations Beach twin heavy clamady coffees and impact and food waterron eller Twitter suppli and what is this life? It is what just a little eksperiment that weastet it 2 prid of se the relationshit between crot production and heatways and this is what stock out mobille stupom missed mos import food product production and rede in sweet input just because we have stock on stay kroppen the one- 2 nothers thule with this is a us un experent curtly war working of the helt kontyt do it is.
+00:14:00
+hamstad this is the area that will get uh most effective or has shows highest exposure to all types of floods so floods will not stop and it doesn't matter how much you protect or you build or you redesign flots will not stop there so perhaps the type of um adaptation option here is to make room for the water uh and maybe work around with nature based Solutions I didn't go so much into the social vulnerability comp component of these studies but climate change will uh
 
-00:08:49
-Normalist, i don't under see your susation be twin disse normalise interessante befin and a sion day twenty place prooption problem, reduktion and hoppetent succes synual så som taster eller promate chanties and billy programprops nå this is a sorry stuck of it is on of that is vegan sluts. Mols helt race.
+00:14:30
+either exacerbate vulnerabilities or create new types of vulnerabilities and in some of the locations we see that the vulnerabilities are not the classic ones it might be that the better off part of the population only becomes vulnerable and how are you going to justify putting public spending on the better off in the city so uh it will also exacerbate existing vulnerabilities which is what this image is showing this is a part of the city which has a lot of temporary residents uh where spatial plan is not
 
-00:09:17
-In europe and soy that accounts heed wartes and drug.
+00:15:00
+topnotch and it's very close to the coast uh here what we suggest is that you need to work with classic spatial planning tools and information considering that the people that live there might live there for two weeks or two years and then you have the areas that might not be primarily exposed the flood if you do a flop map it might not show these areas but these are the areas that will have most cascading impact effects upon your network because you have
 
-00:09:26
-Så be your looking of the risk up eventu-tys what meny res retur that looking a we want 2 luke card on dost and the consekvens is be young ad nationalfact and stor accessibu re recolecause cadian effekt the network services and on and on and on and on and there indfly-struchs.
+00:15:30
+critical infrastructures and here you should think this is like a multi-dimensional approach to to how to address this issue um very sort of vaguely because I'm not a planner but our uh our recommendation would be to protect the critical notes that's the ones that have most connections whether it's a road or a plant or any type of infrastructure you should create redundancy for important that's the one provide most Services if
 
-00:09:45
-And 2 do this we de valut the familie moal publikum modty seksual intercampingp secret what resource sessions min supalities på hash thereat twist it secret Det er have do un risk models with very few are modeling how and my aktions all incatwal impact and know verd så ved sidst work focusing hou diffens actuallyce impactyther.
+00:16:00
+you have a critical electricity point that provides 70% of the electricity in the neighborhood that's a one you should go for protecting don't protect everything else and increased preparedness of the vulnerable nodes that's the ones that are receiving most Services because those are scattered and it might be many and you could have household level or neighborhood level solutions that are not as expensive as the central solution so this picture shows you a more Nuance approach to what adaptation could mean now we wanted I'm I'm I'm nearing my the
 
-00:10:10
-For yusing netop aldrig sidst til døden and we are building onen souls datter thut 2 a security is sjues with real data så are data is not holly actual intrans of geografic location and that's OK så fokusy sound evalu messe.
+00:16:30
+end of my presentation but we wanted to understand a little bit how how does that happen on site on on the municipalities that are dealing with climate change adaptation so we decided to focus on storm water management and nature-based solutions for it what nature-based Solutions are municipalities using for stor Water Management what a question and initially the idea was to use some sort of cost benefit assessment and then we realized there's no cost data or the cost data is just really complicated at so we started
 
-00:10:26
-We your stay kop the feedback 2 private hiza services so lewa ever 2 mapower wich with services a that malls pressed of floats 2 get Award hamsterment supality day tal wald thising the mos impon infrastructual daatford yourshof beat slutning in two and bay sund that we are notifikationse materiale spillet it 2 of what recedy hvor mobil ability and red onkels isho creditcality ishockey important services mountain other services the pen. And that's un.
+00:17:00
+them to F by first assessing which municipalities are working with storm water management and for this we scan two types of documents the water services plans and steering and supporting documents related to storm water management and these are called different those of you working with in municipalities might recognize could be called plan policy strategy guideline program I don't know there's a there's a wild um difference in what they're called we reviewed 48 documents from the top 38 municipalities presented by the
 
-00:10:59
-2 2 have additional services orke fuldstraed in case you're the may one faze.
+00:17:30
+report that Stefan spoke about yesterday uh uh SW Insurance Sweden ivl's ranking on climate change adaptation and uh came down to that 76% of all Municipal of these municipalities have some type of document related to storm water management this should be top two not top three uh the first challenge as I was mentioning is related to costs uh cost for nature based Solutions especially operation maintenance is very limited it's very scattered and it's not
 
-00:11:09
-Og Det er en skillegation er jo så flot different types of plus en hansters og it coast regering and have ring and that's blaat thats is the kritik infison note, thor printy on the rece.
+00:18:00
+comparable there's different people use different units of analysis municipalities that we know have implemented nature-based Solutions don't have it documented officially um and it seems that the price is often set by the developer or the consultancy now I know SEO is around us maybe some other consultancies are around um that's great for you but as a client I should have a baseline to compare your offer to and this is a very ugly table and the
 
-00:11:24
-Andbaser and basically det smukt som tom models we contifyed rema casted cating impact og disput with care on thecreatements for stracles.
+00:18:30
+purpose of it is just to show you how difficult it has been to compile the cost for naturebas Solutions it depends on so many things so if I had to put together a plan uh for suggesting to my municipality that instead of going for the gray infrastructure I want to go for the green I can imagine it's really difficult for the gray infrastructure you have standardized costs but you don't have that for nature based Solutions so the recommendation for to addressing this addressing this challenge is to standardize cost
 
-00:11:35
-Refund.
+00:19:00
+estimates and to create reference libraries for nature-based solutions that Target municipalities and include operation and maintainance which nobody seems to consider and the second and last uh challenge is regard to unclear responsibilities we've discussed it uh today yesterday and during the dinner table H especially when it comes to storm water management there's many different stakeholders involved both both within and outside the municipality and I want want to zoom into a particular problem that was also
 
-00:11:40
-Win from a with on a fin that is carey. Picture, warere runund weekend only want point receant alb the qued point of shootter note- are conceutally mode this rocted this menesalg af social Universitet pality wars altså youtity a cannabino kun fokus som dos instituttet fokusing the hownosepality folkecus om dos and meget the most.
+00:19:30
+brought up yesterday 70% of land in urban areas uh at least in Europe falls under private or commercial ownership and yet it is municipalities that hold the prime responsibility for climate adaptation there's something that doesn't match here and uh we need to find uh as our recommendation find new uh collaboration approaches and investment models that allow for different stakeholders to take part of now I don't work in any of these
 
-00:12:03
-On the loft you can see and number of task kage in play Lewis do it 2 there disruption under specifikke node-redour inflacure.
+00:20:00
+municipalities maybe some of you do but we've read that some of you have found some sort of model to to clarify responsibilities so that would be great to hear uh or for you to share your your experiences with other municipalities who are yet to to make that travel that trip uh and investment models that allow for example municipalities to repurchase or private sector to actually find in solutions that can uh benefit uh everybody I end with that thank you so much
 
-00:12:10
-Nej, men det skal have planer indenfor discription andices of phamster i this a park pund thorage time with the wase what a plant that would cools mose is propment and the city and on the right. You see that the mode it favorit your screat the Moore functional sted the infrastruct ored in with in nabo wid inar i wend the propagations spread then Apple conns.
-
-00:12:35
-More in official drupal in officient.
-
-00:12:40
-Men som disse med diæt and i partnerasmant 2 active verden offline and you cannork use it's all wic canber bearly cola 2 uden this is because of sucy consult.
-
-00:12:52
-Also life funding but it wal up this frode foa people 2 use whatever en capitalibil for capitay bill in proposis over for planing properties. We don't really noias we are or this is the d areal of with the homaby as with 2 be y using distribu.
-
-00:13:10
-Fantasy wat that too conso you anant show in you too because of this is a fore this indbrations but you canon show you can see the cast kart industri. This is a quicked binding real level i The operation tokets effected wich cool shit prels whit haust it tos will befact thission for dashbout that's cools, you're the tip thors fucked 2 location, the tuber recects under quidditch kality the reund. That's it attentat.
-
-00:13:38
-Så ej Jeg er lille blevet valgt som freddy formoster der præsentation what we lewand fromation Alice, it's that money adaptation we it's somlfed beklumped op endnu Inter one catic ay but different playces and defing rize need differentiions så what yousee and this first pixer is the kult of hamster.
-
-00:14:02
-Moustedfactor war has ha soles hights? It's positive too. Al times a flot.
-
-00:14:10
-Flukt ud og monster anne dosered og you billed og we are way design floated will muster there so haps the type of apertation option hirsed 2 Macron fritter walther amay work round with natur base situations.
-
-00:14:26
-Ej den går som optimalt på sig, hvor man reality computeren of the star is that planet chance well high do it cassrup Mobility of create new taksribut Mobility and aso my locations we sae that's the won't rebilities i not the classicens it my beat, that's the beather of private popction som værende because of and how are you a good 2 justifoting public spanding on the beather offentlig so.
-
-00:14:51
-Will also itsa beatisting unabities på et tidspunkt this image showing.
-
-00:14:56
-Hvis det så prutter TD wichers and love tempa restsidence and whors special this not top nugehue and network the coast.
-
-00:15:06
-Here wat research jazz især unitt 2 workith Classic speaced prining tools and information concert Inter people verden lidt an for 2 with 2 uges.
-
-00:15:18
-Jamen you have air altså mind know be primerly exasted the flow it you do it flowmab et meget know sjovt they serius the disse arety euse will have mose cast cing if that efats og porno network because we have credit infist and hear ushup think visual like a malt ty dan national pros 2 2 how 2 gratis issue.
-
-00:15:41
-Være i som bagel ikke kan samle op til planen og av recommendation without protect the critical note, that's the wants it havmols connections with the rowed or AI plant or anyt that first prot you seo edition for important that's it the want up provid and mos-service. Altså you have a quritically prestity point that provice sevened price of the a quized inden nabo that's the one yoush you are you go for protect in don't proted everying louse.
-
-00:16:10
-Arnik, chrisby Prince of the womouth'm septive one that i receive be muses services because dose of sca and it mind the many and you kod have House well love all @level sousin or know-t it spanske that is the central soldation så det spektries you awesome supported 2 what adaptation with me. We want univering my præsentation for we won't toando send a littbit how how do you have thanden onside on unther minister partit is a dealing with conner changedation.
-
-00:16:41
-Sorø de fighter til kokosund storm water management, natur base illusion spor it what need 2 basically mens impalities uusting forestille moderment Walter position.
-
-00:16:51
-Jeg synes Det er Det er was the your som solc con cross pend the satmant and now we are likes and Costa 2 the cust a it is us really complicate.
-
-00:17:01
-Første sating with messe paltisbrug moderate management and for this wish cann 2 time og docmented waters services sus and the staring of support and duptiments reality's some moder and management and this u call difference in does of we walking with interessant Alice my good nachos copy because plan call this is two dic alone program. I don't know, does a this awild?
-
-00:17:25
-Diffens film whatever.
-
-00:17:27
-Will reviewed porty, a doctument from the topasty eight manis a partitprissant that did the report. That's the fants Google blod justit.
-
-00:17:36
-Speed isranc and spillen eivals bank of timer, changuger lotation and kald navn 2, the seven this six pressand up orden auditions AP palletis have som type woctopment valid som abonnement management.
-
-00:17:50
-Det synes Vi er top tool top free the first chance og så wasmæssigt is billet 2 cost cost for natur base social specially operation main tines is very metal is theirs cardio univers more compare wal thous definition.
-
-00:18:04
-Know have implementet Netto base situation. Don't have a docy maddate officially?
-
-00:18:14
-And i themes. That's the prices ofren set. I thidat thevelubar all the consultants in know i knowledise awareness may this mode there consult hissed around.
-
-00:18:24
-That's greate food, altså a clean and istual have a base night 2 computer offer 2.
-
-00:18:29
-This is a barriot lidt table on the propitals of this is does 2 so your you have that good it has beam 2 computere coss the Netto base illusions it's pantom soul anythings so i'm i have 2 prod 2 get thor et plan fo Award su just in myernes impality that's that Google for the great for spect drop on and goal for the Green i can a myin it really difficult that the gay this brug 2 you have starter dice crush it you know and have of for Netto basically versioner.
-
-00:18:56
-Så det recommendation. Dressing that for a dressing and this challenge. This is the stunder lice cross estimer and togcreate reference statures front tobase situation that tonespality i include operation i am nine intuit mobile sim's 2 concter.
-
-00:19:12
-Second in lars chance isolativt onky responshabiliteres we diskause today ys today and doin thank you dinut tape special with computer storm water management this mann it difference dick wothers inbug boost i ideen and huse siden it's inality and avany zoom meeting 2 af butikkerne propland laow was also the into-center of land in urban ariz.
-
-00:19:37
-Ad listen europe folls on the private o commercial University.
-
-00:19:40
-Jamen jeg Det er simpelthen hove the promas posit of that is the proment adoptation. Det er Sådan fint dousting machine and a we need 2 find thors are condition find new collab protest and engagement models for diffens tech hold hvis du take poker nå i don't working and a plus mismiss a party smed beauty do that we're rapped that så må be have found som soro model 2 toclarifest konsabilities.
-
-00:20:08
-Så der var vi greate 2 gear of the youtube your experience splinter Palace is why yeah 2 makeup travel laut any basmen moder sata low prof for eksempel mindst palt this is 2 repoxes or privacrocly fine institutioner benefits.
-
+00:20:30
+[Applause]

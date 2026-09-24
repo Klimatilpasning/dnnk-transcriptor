@@ -1,735 +1,281 @@
-00:00:05
-Kære alle velkommen til dagens Tech Talk IDNK mit navn Det er theis rosko Andersen og fra vi University College sammen med per nørmark fra Hedensted Kommune, Christopher sindby Larsen fra OK Nygaard og Morten herling fra DNNK vil jeg gerne byde jer alle sammen. Velkommen til dagens takt.
+=== DNNK Webinar Transskription ===
+Kategori: Godmorgen_med_DNNK
+Video ID: I6wec8LiyLA
+URL: https://youtube.com/watch?v=I6wec8LiyLA
+Kilde: YouTube auto-undertekster (engelsk - oplægget er på engelsk, tidligere dansk auto-oversættelse var ulæselig)
+Transskriberet: 2026-09-24T07:21:14.300533
 
-00:00:19
-I dag vil Jonas fra det hollandske firma nelen og schumann præsentere deres erfaringer og resultater fra deres 3. DI program, som er et hydronamisk værktøj, der integrerer overfladevand, grundvand og spildevand i en og samme løsning for derved at kunne levere præcise og gode modelimuleringer af for eksempel oversvømmelser.
+==================================================
 
-00:00:36
-Lidt praktisk information, inden vi starter selve præsentationen varer cirka 35 minutter, hvorefter du vil være 5-10 minutter til spørgsmål.
+00:00:00
+okay welcome to Dan's Tik Tok colist
 
-00:00:44
-Præsentationen vil denne gang være på engelsk, men i kan løbende stille jeres spørgsmål på dansk i chatten. Og så vil jeg publicere dem, og Jeg vil sammen med Jonas besvare dem i slutningen af tik toppen. Så i kan bare skrive jeres spørgsmål på dansk i chatten.
+00:00:30
+for
 
-00:00:55
-Det er intet problem.
+00:01:00
+all right thank you for this introduction um hello uh my name is Jonas MCO lman and I'm going to um yeah have a talk about fully integral hydrodynamic simulation and as Ty I think also mentioned about 3di um so let me first start off by uh introducing ourselves for those of us
 
-00:00:57
-Og for god ordens skyld, så skal jeg informere om at Tech Talk'en den bliver optaget og i kan finde den på DNNK hjemmeside senere og Det var alt for nu. Og så vil jeg give ordet til dig. Jonas de flores iøvrigt Jonas.
+00:01:30
+those of you that don't know um don't know us I work for the company of Nan humans and we develop a software for the water domain and we do that uh with the aim to provide the best software solution for data driven Water Management we have two uh software Solutions uh 3di of which I will be uh discussing most of it in this Tech talk and lizard uh which is our other um applic ation cloud-based datadriven
 
-00:01:08
-Allright, thank you fortis introduction hallo my name is y unders of cointer love on and i'm ganging 2 yeah, have a talk about fully integral huddrende x emilation and ash thi a think all it so mansioned about tredjia.
+00:02:00
+Water Analysis um and we have of course a skilled support team and Consultants uh that uh use our software um in uh in their uh advice um and also we have of course other consultancy firms that do the same um as said my name is Jonas lman and I'm the product manager of NS humos Technologies and um yeah uh respons ible
 
-00:01:26
-So let mefost start of by introduing of self for Douglas of thost few that's the don't know do know's awork for the company of nailos humance.
+00:02:30
+for all product development uh regarding our software so um when we are looking at um uh the the climate uh change that is uh well we can already sure see it occurring now we can see uh worldwide but also in in Denmark I I found this this article that triggered me like also in Denmark you have now repeatedly uh vulner vulnerability either to Rising C Lev levels or also as we saw in the
 
-00:01:38
-At videifallup software for the wather domain an red dood that what's it? An too profites the best soft først solution for data driffen awardomagement we have 2 social slutions tria offich i will beskudsing mustifit indice of theck talk and this areod witches order.
+00:03:00
+Copenhagen event in 2011 or 2012 when there was like a heavy rainfall event that flooded the city this is of course a challenge that we uh need to cope with uh so um how do we actually prepare for those kind of flooding Events first of all uh to do so you need to have um as we call it a digital twin of the outside world you need to have a uh physical representation in a uh
 
-00:01:59
-Applikation, a cloud based editor dressing water analces.
+00:03:30
+so for example we see here a small water system with a weir and a culvert and a pump station so you need to have that all in your system and it is important that you uh compute hydrodynamically this means that you uh take into account the timing and the volume of the water you can of course do GS analysis and of course in Denmark you have several tools that that assist you with that uh but if you're going to uh do measurements and you're going to invest a lot of money you want to make sure that you invested uh at the right
 
-00:02:03
-And we have, of course is skills support, stream and consultance that.
+00:04:00
+uh location and uh when you do so you want to take all the important factors into account for example for a dyke breach if that is the case you want to know how the Overland flow goes how the friction goes how the channels are uh for urban areas you want to know how the Overland flows goes the sewage system and the friction Etc you want to take uh as much of it into account as you can um because if you look at the r rainfall
 
-00:02:10
-Use are software and in there atuice.
+00:04:30
+events we can see that there are several different type of rainfall events I just selected here two of them I'm generalizing a little bit you have the small rainfall events uh that the drainage system can cope with usually uh for example everything below 20 millimet in an hour uh your drainage system will be able to cope but you also have Peak events that are so high that uh the Water might not even go into the drainage system and it will just flow mostly over land but what is more normal
 
-00:02:16
-And also we have of course ordre consult sef rums that do it the same asset my name missiones for scores, a lump mon in on the product manager off a name is humus Technology and.
+00:05:00
+what will happen in most of the cases is it's not a peak or a small rainfall events it's a series of events which includes Peaks and also small events and uh for that to cope with that and to uh have a full understanding of what is happening and what measurements to take to prevent your houses or your roads or your cities from flooding uh you need to use integrated uh drainage and uh surface model at least and um well we started with with uh to do so uh we
 
-00:02:28
-Ja responsvall for all product that't recording software, so.
+00:05:30
+started developing uh 3di in 2010 uh together with Stelling Hydraulics delar t n humans and uh it's currently being distributed by n humans um um and uh we develop software built with expertise in the in the water domain so when we look at the history of development of course we have uh uh uh first started with a prototype in 2010 and we added the s system already in 2015 control
 
-00:02:36
-Wing way or looking at?
+00:06:00
+structures then we were like okay we need to be able to uh uh yeah work with the data so we made sure we can open and edit it in in qgs we addit the groundwater in 2018 that was also a reason uh to reach out to Denmark and we had several uh projects uh after that also together with uh Danish municipalities for uh um for 3di and uh
 
-00:02:41
-The climate change that s hvor vi kender redigos sheet the curing now we can see world wide but us won Danmark i founders this Oracle that's att like and also in Denmark you have know- rebeitly.
+00:06:30
+then um in 2019 2020 uh well there was a certain thing in the world that uh made sure that we were not going anywhere so we use that time to do a full refactor of our back end uh develop a new model data bank and also start with uh model interface editing tools and make 3di uh very easy to use and we also recently introduced a new version of the Liv side 3di live and we added drainage
 
-00:02:57
-Former rebility arto rizing cele of also aspres in the Copenhagen i fant in and 2 doser leven not and tael when Award slagter have weain followant. That's a flotte 2. The city this is of it challenge that we need 2 go'pe with so.
+00:07:00
+possibilities this is especially for the Danish context important because it will help you uh compute uh what is happening actually in your groundwater system add drainage and see what is uh happening uh recently we included vegetation and also we are currently developing a water quality module um we uh are currently operating worldwide in the red you see the on-site software solutions that are of course in the Netherlands Vietnam Taiwan and
 
-00:03:15
-Doy actually brober fordows kind of floting eventions.
+00:07:30
+Australia at the moment and uh we are currently expanding to other countries as as well uh we don't do this alone we have several partners that we work together with um we uh are always of course looking for uh Partners in other countries so for example in the uh Danish uh in Denmark we are of course also looking for a partner to uh to work with us together
 
-00:03:19
-Første forår er produceret unet 2 have.
+00:08:00
+um so when we started developing 3di we said that um there are three pillars that we need to address first of all the one that we focused on the beginning is we need to have a computational core that is fast and accurate and has really accurate computations and that is really good to have that's of course how all software development when it comes to the water domain starts but then you also want to make sure that it is easy to use for engine
 
-00:03:23
-Gigtstrup kvinden ofte outtrådt roal chaned 2 have ay pisical repræsentation and a model, så for eksempel populusi here a small water system with the wear un the golverd and a bump station so univer need 2 have that all in your system and adis imboarktion that you comput hidro din amy this mean steat you take it about 2 diaming and the wayme on of the water you can of goas 2 jazz and al a sess and off courtion Denmark you have soul tools that that AS 2 that.
+00:08:30
+and uh that is a development that starts later that is also what we saw in the development of 3di first we focused fully on the computational core and to have it all accurate and uh have the best computations possible but then of course Engineers are um yeah need to be able to to use it and uh to be able to apply it in a projects in in an efficient uh efficient way um and of course you want to make sure that it's visual you want to be able to uh communicate uh your results in in nice
 
-00:03:55
-If your going 2 do masser mance and your gang 2 and fastel of money beman exhuer that you's 2 universit at right location and wing you soo want take all the input on factoring 2 w account for eksempel foredit dight bridge herefter efter that is the gase you when it's how dit frow goals hurtigt frection go os how the channel s art for urban area when you know how it's flow ghost, the suarres system and the frition at cedray one attake.
+00:09:00
+uh in a nice way uh so uh I'm going to address these uh these three pillars one uh by one and I'm going to uh break it down how we buildt this up so when we look at the computational core uh the the core of it is the subit methodology and with the subcrit methodology we basically say uh we uh are aware that for example this is a where's my mous this is a 3D a representation of a uh 5x5 digital
 
-00:04:23
-As muncht of it into-count is huskan.
+00:09:30
+elevation model these uh blocks are the the pixels of them and uh if you look at a flooding or in a river then you see that the water level is usually sort of equal but water that is gradual and uh with sub crit we use that assumption so uh we say okay for these five of five pixels we only have to do one computation so uh Professor helling the the the the the guy behind this uh
 
-00:04:27
-Weekend, if you look at the rainfulse, we can see that's the there are safaral different diperference folkefans agus selected your 2 do of them and generalinysing a little bit. You have a small rain folly fants, that's it. The drain it system can go with it.
+00:10:00
+methodology that implemented it he says it's basically smart bookkeeping you don't need to force the computer to compute everything as long as you do smart bookkeeping and uh we store also the detailed information that is still available we use that in our computations this is different than uh other more traditional uh computational software that when they use for the uh comput Computing the water flows is that
 
-00:04:42
-Yoeste for eksempel averesting reload twenty millimeter sen and over your drandies system blod bear the gobe thats you also big infant that are so high.
+00:10:30
+they say here on the right hand side um I have a computational cell and I uh take an average of the uh elevation and I see how the water flows if you look at this this picture you see on the left hand side with subit you see actually the channels you see still the relief everything is still there and on the right hand side you see that the the wet area is actually different and um well the does it matter yes if you look at
 
-00:04:52
-Det er at the water my not ifing go and 2 the driny system and it will just flow mosely over land that what is more normal wat will happen in moster of the cation is not i beat or small rain folly fantaster is of te fantasy widget input beaks and also small i fants and for that 2 go with that and 2 have a fuld understanding of that's happing and what marshomand studie do provent yourhouses orours og your said is from floting a unit 2 use integrated.
+00:11:00
+this animation on the left hand side you see the animation with the sub crit the number of cells is the same the computational speed is the same but you can see that on the left hand side you have way more detailed computation and on the right hand side you do it without sub crit uh you have uh for example depth average Pell and the computational speed is the same but the result is different and more course so um when when we are um
 
-00:05:23
-Chris er er surface model, atlet and.
+00:11:30
+developing the computational core we find it important to use to include all the physical processes that are there so uh you want to be able to to run simulations where the water goes over land goes into the sewer system where it flows goes onto roofs and where it goes into the sewer system directly but also the interaction with the groundwater in Denmark you have sort of similar issues as we have in the west of the Netherlands in the west of the Netherlands we have high groundwater tables that are infiltrating our sewer
 
-00:05:28
-Wow vi står that's with it. 2 do so so vi starter the father bing treet i 2 doint 2 getter with stelling hydraulics doctor aqua statement name, it is humanse and it's gur andly bean just up beauted byen Anders re moment.
+00:12:00
+systems and uh or not it depends a bit on how the sewer system is uh is laid down and how old it is but uh they interact with each other and this interaction can have an effect on either the functioning of your sewer system of your drainage system but it can also have an effect on the potential water uh the flooding that you have uh in your area um so um if we look at the computational core we say we want to
 
-00:05:45
-And wevelrup software thalt with ex proces and in the water toman so wyn relooked the hesthree of the bellment of wores we had.
+00:12:30
+follow every drop uh through all the domains from the rainfall to the Overland flow through the sewer system through the groundwater and we want to uh do that strictly Mass conserving I'm going to show uh in the next slide what I mean by that we want to have it stable and we want to have integrated 1D 2D connections and uh that is a bit different than uh how traditional models it do they usually yeah they call it
 
-00:05:55
-Først starter vi the appr 2 dight and 2 dow's and we add the searits system alling totusinde toft than controls practures. Then we're wallah OK we need 2 be able 2.
+00:13:00
+Dynamic coupling they have Overland flow in a so-called 2D surface flow model and sub flow in a 1D pipe model and then there is interaction between these two domains and but these are two separate models that are running simultaneously uh usually and then they need to exchange water with each other so to be able to to to have a fast computation uh you have to choose to have a less accurate swap of water or you say I want to have it accurate and then you have to
 
-00:06:07
-Ja work with the dater soy made show we can open, addit and cut yeahess. We areid the ground thatern doug thousand eigh teen. That does also reason the ret out 2 Danmark and we hads server project after that also the together with.
+00:13:30
+iterate in time which means that you are going to have a very slow computation um so with 3di the difference is we have an integrated coupling we solve the equations all together it's the same model which means which results in quite an accurate result having a very uh small mass balance error and it's faster than traditional techniques that are used for example uh by I think Mike is is one of those software applications that does
 
-00:06:24
-Munici ballates for.
+00:14:00
+that um so we want to have it accurate there was a benchmark a few years ago in an adland where several software packages were compared sadly mic was not included but uh here we can see the uh the model error compared to an analytical result so you have like a uh simple test situation where you can compute with Excel or on your notebook how actually uh the water should flow and what the discharge should be and
 
-00:06:27
-3 yeah endce den.
+00:14:30
+then you compare that with how does the model behave and what is the accuracy and then you see that 3di was the most accurate of the models that were being tested we also included groundwater I think that is important for the Dage context so that's why I included this here um so this is basically the core of it the computational core is at its heart but you want to be able to use it and uh for that we have uh in invested the last couple of years heavily in the
 
-00:06:32
-And 2 do thousand nine ting doass and twenty well the world asing in world that machur that we warnold going anywar soat time 2 do i full re Factor of all or becond thelupe anywall databank and also styrt with movery interface editing tools and make tret y.
+00:15:00
+model interface the model interface is qgs for those of you that know qgs this looks very familiar and uh in qgs you can simply edit your models and you can also use all the qgs tools at your disposal so for example uh if you want to edit something uh I don't know if there's anyone in the room that has used 3di in the past but then it was quite difficult to addit to for example add a
 
-00:06:52
-Fairy easy 2 use and the also reasonly interviews a new forestille of the life side fordi i live and we add drinage boss abilities. This is a spørgsmål for the danish gomlaxt important because int will hell you comput what is happening actually englevers system aglage and ce wat is a happening?
+00:15:30
+seage pipe now you click edit you click click and you add the pipe and now you have uh added something uh you put in a diameter okay you press save and you're done it is uh very uh easy uh to use in uh that sense you can um use different stylings uh for example um if you uh look at the sewage system you can style them in directions or in
 
-00:07:15
-Wizinteresy included fuckedation and also we are curling de fatter bing water qualaty model.
+00:16:00
+cross-sectional uh width for example uh so you can really like get an Insight in how this um uh how this model actually looks like so um here is an example of when you use q qgs and Open Standards uh what that actually means for your models I I this movie is with a Dutch standard with a so-called wfs connection to buildings where you basically connect to
 
-00:07:22
-We are argumently operating Royal wide in the radio seed onside software solutions that out of version in adlons fiet navn, dy one and australly atty moment and we are cournly og spænding 2 ortries AS as well we don't doott is alone we have s avrow Partners that's week work 2 getther with it.
+00:16:30
+that service you copy paste them into your schematization you click save and uh you add a little uh a few things like uh what am I entering it's like a building and and that's it and then you have added them to your model um I have tested it also with uh data for uh probably pronounce it wrong but you hopefully know what I mean it's the Danish uh Geo uh service or something I think it's called uh where you can also
 
-00:07:44
-We are oways, of course, looking for bartners in o the countries, so for eksempel in the danish.
+00:17:00
+connect to and uh you can just simply import the data from there copy paste and actually start uh creating your own uh 3di model directly from there what I show you in the movie you can basically do also with the buildings that are in that data set so um another thing that uh just as an example that is usually a pain in these kind of uh simulations is to generate your computational grid so it's
 
-00:07:53
-End Danmark we are offentlig looking for a partner too. 2 work what is 2. Gertar.
+00:17:30
+usually a lot of uh hand workk and you have to lay it down on exactly the right spot uh we have uh created some tools that do it automatically and this is basically uh what is needed to generate a computational grid with refinement so um this is a completely valid grid uh based on user input it refines on different areas so here was like an area that wanted to refine and uh that is uh
 
-00:08:01
-So when restarter det falder pink freed y satted thurt-tapet belasted that we need 2 ad dress først of all the want that we folk Stone the be begyning is we need 2 have accountation a core that is fast in acord and as really actredit competitions.
+00:18:00
+and it is set how large the grid space should be Etc so this is automatically uh generated and uh well you can still manipulate it in uh every uh sense that you that you want so uh of course you might not have a 3di um model or schematization at you depos disposal so we have set up importing tools uh um where you can use to connect to um any uh uh software uh
 
-00:08:18
-And that's really good. 2 have not of wores how all software ofladment rundt comes with no the wather domæne star XA then you also wcure that it is easy 2 use for ingeniers and that is itvelent that starts laber. That is also what resource in the lovent of treet youtube first re folk fully on the comportation a gurant with have wat all acurd and have det bedste competition spørgsmål the then of course and Heine scenes.
+00:18:30
+sorry any data set that you have and uh you can just say okay for example I have pipes and I can connect uh this is invert level start Point endpoint and then you import it in your schematization of course then there's usually some polishing required and you need to uh polish it up so um how does that work you set it up locally on your
 
-00:08:45
-A need 2 be able 2 usered and a 2 be able 2 apply and a project in and anbefashioned.
+00:19:00
+laptop you upload it to the cloud you have different versions and then you can compute with it and you can also have live and interactive simulations uh I remember that in the past when we did the first projects in Denmark uh people were not too happy about uh the the the user friendliness uh so we are also conducting user surveys and see how happy they are we can see that this is the one for this year that people are increasingly more
 
-00:08:52
-Affusion way an of course you wonnem macs your that is officiel you want be able 2 community euros and en nice and a nice way.
+00:19:30
+happy with how it works so um this is for the model interface so if you look at the live site uh we have recently uh uh developed um something quite new where you can also see the water flow over land and um I hopefully have time to do a short live demo this is a pre-recording but I can show it live where you can see also the water flow
 
-00:09:03
-So am going 2 adressedys distribue bellers one by one any one not tood breakdown how we build this up. So when relook at goputation a cour the goar of it is the sucred metady.
+00:20:00
+into the river and over the land and you get like a full understanding of how your uh water system actually works um this life site is uh you can also do interactive modeling with it and you can interact with it and you can show what certain changes what kind of effect they have uh in your schematization uh setting it up is basically the same as setting up your normal schematization you uh um upload it to the cloud and then you have like
 
-00:09:19
-And with the subcret matador, i basically say al we arewere that for eksempel this is awes my this is a twete a repræsentation off a five by five digitaltion model thes blogs that pixels of the them and if y look er det floting og an refer than you see that of the waterlow le sort of egoles but wather that's dratoal.
+00:20:30
+your running version of your model um we have also included uh uh recording uh options so uh you might not want to do your computation every time again and again so there is here like okay I'm doing now something I want to show to my colleagues or I want to show it to other people so I'm recording what I'm doing right now and then it saves as a file uh the same uh is basically for for the long term storage and then you can also
 
-00:09:47
-And with sup credit weose that asian.
+00:21:00
+uh use this to uh to communicate your results to um uh to the outside world um so you can make it in that sense uh uh Visual and and show basically what you have been doing in your uh computation and uh what is also important what is nice is that you can since we have the model interface you can also make uh Maps like this where you can show visually okay red is a
 
-00:09:52
-W say OK for that's fifa five pics west be only have 2 do one comitation so professor fris stalling thed that the guy be hind there is matthedway that implement that is a it exspaceically smart woodkeeping you don't need 2 force the computer 2 computere everra thing asylum as ituos smart bookie ping.
+00:21:30
+water shed where the water is coming from here we see a um a sewer system uh the water has been flowing here into the sewer system and Overland and we want to know uh what is the catchment and in this case if you click here then this is the catchment but this area for some reason is not part of the catchment this can give you quite some nice insights in okay I have a problem on this area uh the water is going to come is is coming
 
-00:10:11
-And we store also the information that the still avedalif weat in a comportations. This is a difference than order more traditional compositional software that when there use for computer computing waterflows that thats a herun under right and site. I have a completion, a sill and i.
+00:22:00
+to high it's overflowing but okay where is it coming from exactly that you can show here and you can also uh compute how many cubic meters actually is entering that area so you know how many cubic meters you need to divert or how much how many cubic meters you need to uh store on a different location and of course you can uh postprocess uh to impact analysis so this is an example uh if you have the
 
-00:10:39
-Dick and apparch of the.
+00:22:30
+buildings ready you can uh use the postprocessing and you can say okay these buildings are vulnerable uh very vulnerable or potentially vulnerable depending on the setting uh that you that you have so um in short uh what we do is we solve the full syn equations this is not a GS trick we are doing the full thing it's uh the same in that sense as as M it's comparable software
 
-00:10:41
-Aleffean and i see houd a water flows ifilucatte is this pctory se on the left on sejt with subreed. You see actually the channals you see still the relie of averesting asyl there are and on right oned your said that the wat area is actually different bell los it natur yass if yucatudes and animation on the left on sight you see animation with the subcret there numm sjals sustem the computational Beatles succes.
-
-00:11:09
-Virtuos and see that on the left hans side you have away more dild computation and on'm a right on site. You do it without pred. You have for eksempel that every selv in the composition speed iscen, but the result s diffent and more kurs.
-
-00:11:27
-So when we are the falla pengene compundation, a cory fined andboalt 2 use 2 include all the pshical process that are there sound of be able 2 2 runsimulations there a water goals over land goce in 2 the super system there are it flows ghost on the roos and verat ghost in 2 the usocession directly, but the intraction with the grund water and Denmark you have sorte of Simon issues we have a west of the natalce.
-
-00:11:56
-And averth of the nattelce, we have high grund water tables that are info trading a super systems and all that. The bencebed on hout a super system s is lay down and how all it is that they intract with shater and this interaction ghen have intouing of your success offer verany system that's can also have and effect on the bot danskual whather.
-
-00:12:21
-Det flot eng that you have.
-
-00:12:23
-And your aria.
-
-00:12:27
-Softwill at the composition. A corey say we wonna follow every druk.
-
-00:12:34
-2 aalher dominans from the rainfulde 2, the over landflow, tribus 7 AS in 2, the ground titler and we wonna do that's drinkly mosk consurning. I'm going 2 show in the next light butter i mine by that that we want a have it stay wal and we butn a have integrat one the toody connections.
-
-00:12:54
-Hans, that is the difference than how traditional mutters e do day. That's justit. Yeah, thule dynamic gobling that have overland flow and a soul 2 do it surfers flow modul and superch flow and a wanty byte mod and den.
-
-00:13:08
-There is Inter action with reen theso tom mace and theis ark does sepport mobiles that running simult danuesly ushally and then than it 2 exchange watter with thor so be able 2 do 2 have a fast computeration.
-
-00:13:23
-You have tools 2 have ellers actra swap of the or say i want i have accret and then you have 2,5 in dine with meste that you are going 2 have i fairy slow computeration.
-
-00:13:37
-So with freet yout the differences we have in integrated copenh.
-
-00:13:41
-Ations all the gather. It's a same model with means with result and quite and accord resulting a favorit small most balance aroir and it fors of then traditional teknik.
-
-00:13:55
-That's are you for eksempel?
-
-00:13:58
-I think Michael swanse of the software applications thid do that.
-
-00:14:03
-Så we won a haft agraad the wasser banch mark og few yourse go and a nat where softwell software pacachues. We are compet satly Microsoft not inkludered, but here we can see the model ergot come betro 2 and inletico result so you have like it a symbol dessituation why you can compet with accel or un your notebook how actually the watershoot flow and what the.
-
-00:14:29
-Desktuge shoop be, and then you come bad that with how does the mod behag from wather accurity?
-
-00:14:35
-And n yourseede that freetia woss the most acurd of the moders that your being disted.
-
-00:14:42
-Yalto include the groundwater i ting that is important for danish contacks of. That's why i include it is year så. This is baseically the gour fit.
-
-00:14:51
-The computation of goar is adidas heart bird. You want be able 2 usered and for that we have infastet the lost Google yards happy in the moder interface the mountain interface ecuady years for dåse beautifuld no cuty years dlox ferry for mill your and.
-
-00:15:10
-Incury as you can simpli add your models, and you can also use all the cuty as wals agur dispose. So for eksempel if you want some thing i don't know, is any one in the room that's a hash you Street you in the boost? Burt 2 then it was quiz difficult 2 add 2 for eksempel at ay sur zurich vibe know click add you click click and you 18 the by do you your you have.
-
-00:15:38
-Add something you Putin og they amed OK you porsed and you don't s.
-
-00:15:46
-Ferry easy 2 use and that's you can.
-
-00:15:51
-Use differen styling, for eksempel.
-
-00:15:55
-If you, Lukas the suur it system you can styt than in directions all inclusional with for eksempel so yw cann really like kattain in insight in hoders.
-
-00:16:10
-Housemodel actually lookslike so hereon accent of when you usekey ason open standards wat that actually means fore your movels II this movie is with a dot standard with a social double you FS connection 2 buildings voicely connect 2 that surfe your go' be basem interviewation you kack safe and.
-
-00:16:37
-Jo at little feel things like what i'm my andre ring. It's like building and int and that's it and then you have artid that 2 you your model i haft Thisted that also whit do foceing.
-
-00:16:51
-Problemer blitzen butter hopebly knowt. I mean it's danish AGO surface og something i think it scorede why you can not su connected and you can your simply import of dater from the areoby based and actually start a creating your own adtret immortal the orckly from der what the show arin the movie you can bestically 2 do also whit.
-
-00:17:15
-Af The be oldings dead are in that dates at.
-
-00:17:19
-Så.
-
-00:17:22
-Thing that's just in eksempel that is usual banescind of simulations s du generation og compositional bred so ausye of love handwork and i aften lay down on un exactly the right sport we have created som through the dooded automatically and disse basically wat is needat 2 generad i computeration of red with refiment.
-
-00:17:47
-Så næste så completely fally grid beation user and boot et refesom different arios so her wars like and ariat. That's one though refined and that's and a dessert how large de gridspace food beat cetera soul this is auto nattically generat and well.
-
-00:18:08
-You can still med Nepal that's and everyssand that you're they one.
-
-00:18:14
-Så of course you mind not have eight fred og i.
-
-00:18:21
-Model også gimantisation and 2 the pose of dispose, so we have set up importing dose.
-
-00:18:28
-Websho can use 2 do connected.
-
-00:18:32
-Any.
-
-00:18:35
-Software sorry anytter sat that you have and you can your say OK og for eksempel bibes and i can connect. This is a influencle start want and point and ting.
-
-00:18:47
-You importt anywar skematisation of warstone as you som prøver ching af recuared and a unit 2 a ballis up.
-
-00:18:55
-Så out of that work, you sat it up lokally on your labed of uploaded 2 the cloud 2 you have differentiions and then you can comput with an you can asoo have life interactive simulations.
-
-00:19:11
-Irriter momentat in the boost when we are you, do you give the first proaction Denmark beblever not 2 happy about and the user frontiness so we are also comeding and users surface and see how happy day.
-
-00:19:24
-We can sige that's this is the one for dishare that a beble are inque me more happy with how with work so.
-
-00:19:35
-Am, this is for the molla interface, so if you look at the life site, we are restedly.
-
-00:19:42
-The fallup something quiz new with you cannot usæd the waterflow over land and i.
-
-00:19:51
-Up free have time 2 do it short life thamol this is a pre recording but icanshow it life we are you can see also the what of flow and 2 the refer and over the land and you get like aful understanding of your a wather system actually works.
-
-00:20:10
-This life site is you can also the intractive modeling with it and you can interrekord show what sortun change wat kind of Factor i have.
-
-00:20:21
-In your skematisation, settinget up is basically the same, a setting upir nomos gimatisation you up blooded 2 the cloud and then you have like your running firsion of your mol.
-
-00:20:35
-We have also incloudd recording options so mind not one and do your your competition everyt time agan again so direce share lick OK i'm doing loy something a one and show 2 make or lakes of a onas show 2 o do be ball so i recording what i'm doing wright now and.
-
-00:20:53
-Then it's safe, altså farve the same spacely for the lount jom stor, and then you can also.
-
-00:21:01
-Uste s du er communucatu resultts 2.
-
-00:21:07
-The outsite world.
-
-00:21:11
-So you can maked and that'sance official in and show basically what you have than doing in your competition and what is also important. What is nice that you can sele? We have a mollah interface recory and also make maps likes we are you can show firsually OK red is a waterhat where the watter res going from here we re CA.
-
-00:21:36
-Et super system, the water happing flow eng heere into the sour system over land i verden know a wather, the catch-mans and en disclays of like hereed and this is the gachment, but this are you air forson reason is not board of the gaturement thiscon have givet your quite som nice insights and OKI have a problem om this area the wather is going 2 gom is going 2 high it's overflowing that's OK.
-
-00:22:05
-Where is going from x actly thatch you can show here.
-
-00:22:08
-Angic and also comput how many que metos actually s andre that are so you know how many cute meetour United theover third og humic how many kopic meato unito store under different location.
-
-00:22:23
-Anders scores yourgan boost proces 2 impact in alices, så Det er især Sådan et eksempel if you have the buildings ready, you can use the postpro satsing and you can say OK doings i wom'm rabal fairy formable og prototy phoneibobal the bending on the sating that you that y 2 you have.
-
-00:22:46
-So insurt wat we do is resort the fulls and froin creations. This is not a yeah strake, we are doing the full thing, it is the same and that's as my. That's conberabib software as mike we do in the diffent way but resortif fulls infona nisse creations we are kan comput quite lage area on and high ressolation thanks 2 subgret.
-
-00:23:11
-You can fall every drop of war. The mover building is food, a aspace. There is no conversion from software backets.
-
-00:23:18
-Do you ANO thor edit in the cloud so you don't need a beck lab for compotation? Second, your start of the runds awalk way and.
+00:23:00
+as mic we do the stuff in a different way uh but we solve the full Syphon equations we uh can compute quite large areas on a high resolution thanks to subcrit you can follow every drop of water the model building is fully GIS based there is no conversion from one software package to another it is in the cloud uh so you don't need a big laptop uh for computations you can just start the runs and walk away and uh uh download the results when they're
 
 00:23:30
-Download the ressource want finish the bence bet hallo text the smarte compedations irri don't with United so e don't.
+finished depends a bit uh how long it takes the the smaller computations are done within minutes so you don't need to wait that long you can also interact with 3di simulation in your browser and we have something called an API uh I don't have time to go into detail for what is an API exactly but what it means is you can fully script and automate your whole workflow uh in the process so um well at the beginning of the presentation I said okay uh you want to
 
-00:23:39
-Need 2 waitloen you can not interakt fredie ej simulation and your browser and we have soed the gult and ABI and i don't have dant 2 going 2 did yle for what is and ABIX acly that with that means is you can fally scret and autoimmater hall workflow in the process.
+00:24:00
+have an integral look at your sim or at your area so I uh have here a case study where we are zooming in on a small part of a municipality where we have a combined sewer flow where the the the the orangey yellow is the combined sewer uh blue is the storm drain and red is the sanitary uh sewer system um so uh we want to uh see if we
 
-00:23:56
-Så wow er det mekaning of the presentation? I sat OK, you want a have and integraul look ager sim og agur area so i have your a gate startede where we are hooing in on a smallbard of a immunsympatie we are we have a goom point superflow where the that do it there orange yallah is the comin super blow is a storm drink and red is us sendery super-hustom.
+00:24:30
+add at a digital elevation model uh how the water is flowing and then we do several computations we do one where we exclude the use of the sewer system so we say okay we don't we don't want to use the sewer system we only only want to flow over land and then we see for example on this area we see quite the high accumulation of water on this area and uh if you uh add the sewer system you can see that this area is of course
 
-00:24:26
-So we wen a's cifre at ajour alle fashion model how the waters flowing and i'm be, do you seafrow computers we do one? Were we exclude the use of the super syg som servicy? OK, we won't.
+00:25:00
+drained um in this example I used not a heavy rainfall event I used a 20 mm rainfall event that I knew that the sewer system is capable of handling but if you have like for example a longer running simulation for uh for several hours with lower rainfall events then this is exactly what will happen What will be the difference between a uh Overland flow uh with sewer system and Overland flow without sewer system of course you can have many VAR an of this you can uh I already added the
 
-00:24:41
-We don't want 2 user succes som we univer would only on a flow over land and dhen we see for eksempel on this area we se quite the high acumation of whather on this area.
+00:25:30
+infiltration but you can also add the groundwater if that is an issue in the area um now um oh yeah and I was talking about accuracy so for this simulation I checked the the maximum volume error and uh well I hope I calculated correctly uh this is 0.28 milliliters of uh volume error so that is not not much um so if you look at the software if if you are look using software
 
-00:24:53
-Andce, if you at it, sure system you can see that thes are yeah, is of wost drænd in this eksempel i uust not a havey rain folt AUSA twenty millimeter rain follyfing that a new that it sure system of skateboard bull of handling. But if you have like for acbell a long go running simulation forour for servel Award shit low a ring forlyfans and disse exactly wat will happen. What the beat did difference between eye.
+00:26:00
+yourself uh you can look at the mass balance error and uh see what is the error there and uh yeah decide whether uh yeah I I I assume that this will be way way lower so uh of course we have done some uh simulations also in uh in Denmark here's an example of touring and uh here I added a 100 mm event and you can see here ALS so the accumulation of water very heavily on
 
-00:25:22
-Over landflow.
+00:26:30
+this side of the um uh Street I think so this is just as an as an example um I think I have time for really shortly maybe do a live live demo uh because of course I'm showing now uh movies and uh uh it is of course nice to to show that it uh that it actually works if all is well uh you uh see now my uh browser and um I for
 
-00:25:23
-Er wed super system and offenes flow with also asystem of gosh 2. You can have manifarrianes of the s you can i over radio add the influtation wagicon also at the ground that efter that is and isho n the area nå og ja and i hvor storking about a curre case so for det simulation og checked that the maksimum polym ever and what are og i håber i castellocy.
+00:27:00
+example uh start up a model that we built ourselves as a tutorial it's in the langa it's called it's either the area of or the river I'm not uh sure about that um I started up and um there were several presets that I could start up but I I start with the the clean pres setup and here we see the the the area uh we have here the the digital elevation model included uh that's
 
-00:25:49
-This is o point toenty eight milliliteres offim so that is not.
+00:27:30
+probably downloaded from data foring by my colleague and uh we have just clicked in a sewer system ourselves uh just to have an uh just to have an example here so um yeah what for example uh if I start the the simulation uh with no uh rain uh it already simulated uh uh 1 hour so I'm going to to pause it uh we can uh see
 
-00:25:55
-Not mach.
+00:28:00
+that uh the the water is Flowing very fast through the uh system it was actually so fast that it uh the the uh the visualization is is lacking here so I'm going to slow down the simulation uh just for visualization purposes and uh I'm going to uh show you what is happening um in this uh in the system so now I'm slowing down the simulation the
 
-00:25:57
-So if you looket software, if you all loing software yourself, you can locatomarts balance i who and a see what is the wood their and ja Det er side watery ja og i areom that's this wal be way way lå lover.
+00:28:30
+the the the computation itself is way faster than this uh and then you can uh see uh how the water is actually uh going through this uh through this area and the model that we uh that we created and you can for example uh live see the results of the the the computations and you can also say for example oh this Culvert is blocked uh let me close the Culvert uh for whatever
 
-00:26:14
-Så of goas we have tun som simulations-so in Denmark here. Sådan eksempel of turing.
+00:29:00
+reason it is blocked I don't know maybe some debris fell into it and uh it it cannot cope the water anymore and uh most likely uh now we will see uh the Water accumulating uh here on uh on this area and uh uh going up so I I pressed here on the point and you can see here the water level rising uh pretty quickly on this area so this is really like a very very uh short demon and we see here
 
-00:26:23
-And here i add-ty one hund male metroy fandt and you can see here also the acamlation of whather fairy have on thesight of the.
+00:29:30
+also the the the flooding starting to occur so it's really like like like a short uh demo uh of of what that works if you are using uh live uh computations so uh let me go back to the presentation so recently we started with a new development which is called water quality but what we do is we look at substances so if you for example have pollution on certain areas then uh you
 
-00:26:34
-Street, i think so. This is your session asian accent.
+00:30:00
+can use this to to track down where the pollution goes to and uh if you do a lot of Monte Carlo analysis you can also compute where it uh came from um and one uh development that we are looking into is also the age of water which is a very important uh input for water quality experts to be able to say something about the water quality so um yeah I'm I'm not sure about the status
 
-00:26:39
-I think i have time for really shortly med hvis do a life live themo because of course and showing now movies and.
+00:30:30
+of Denmark but the Netherland is not doing not too well uh in the European Union water framework directive uh the the water quality is lacking and with this kind of simulations we hope to add insights uh so we can do something about it the unique part about it is if you have a uh simulation in 3di with uh sewer system groundwater Etc you can track any substances through all the domain s but you can also label any inflow parameter
 
-00:26:50
-Er det så gores nice du du er sjov. That's it actually worksh.
+00:31:00
+for example dry weather flow and you say this is my label and you can track where it goes to in your sewer system but you can also then track down how much in a heavy rainfall event goes into the channels and that says something about the potential water quality in that channel so um yeah well uh we are uh at the stage that we are uh confident that we say okay just uh you you can try it out yourself uh we have a uh free uh
 
-00:26:56
-You se know my browser and i for eksempel stårup a modul that we build a shelters, altså the dooral is not. It is on the area of the orther refer, i'm not.
+00:31:30
+trial uh the link is uh is on the slide but you can also go to 3DW management.com and you can find it there uh so you can just try it out yourself and um I would like to invite all of you to uh the webinar that my colleague I will be hosting it but my colleague will be showing you how to build a fully integral model in 15 minutes and uh you can uh You Are all uh more than invited the webinar will be in English um so in
 
-00:27:13
-Sheraby that?
+00:32:00
+short to summarize uh to cope with the uh the the the climate challenges that are thrown at us uh we have decided with 3di that we uh need new uh software to be able to cope with that software that has a completely new computational core with fast and accurate uh computations uh it's easy to use for engineers so uh they're happy to use it and can efficiently use it in uh projects and
 
-00:27:16
-I startupd up.
+00:32:30
+you want to have it nice and visual so you can show what is actually happening and have uh uh good talks with your stakeholders to um yeah how you say that to fasten up the the decision making uh process so uh that concludes my uh my tech talk I think I sort of stayed with in time I guess um I see some activity or I heard some acity in the chat so maybe there were some
 
-00:27:17
-At, Det var surfer reprise sats that i good startup w that it start with that the clean presetup and here we sce it there the the air we have your that the dich thission model a include that's probley downloadet from da forsiningen by my god League and we have just AG mikt in aso sistem asels just 2 haveen just a have and eksempel.
+00:33:00
+questions um I have also a uh takeaway for the people in the in the audience so uh for anyone from a consultancy firm sorry apologies uh if you are interested in being a local partner in Denmark uh feel free to uh to reach out and uh well as I shown you setting up projects is not that difficult anymore there are of course already 3di models of areas so if you want to do a pilot project with one of those it's so it's
 
-00:27:45
-So ja wat for eksempel FI start the simulation with no rain thor radio simulatored one over so un 2 2 boss it weekend seedat do it the waters flowing ferry foster system ed Vores actually so fast that it.
-
-00:28:09
-That.
-
-00:28:12
-De flesteualistation s is lagking here so i'm going 2 slow down the simulation a just for visualisation purpose and i'm going 2 show you watter happening.
-
-00:28:27
-In this and thisystem, so know i'm slowing got simulation the computationed selfies way fast and this and then you can a secy how the water is actually.
-
-00:28:39
-Go wing trootids toodis area in the moderle. That's the that we created andce a you can for eksempel life see the results ofte there the computerations and a you can know so say of for eksempel og this golfrarod is a blocked lath me close the golf for watter reasonit's blok thi unow me be som 2 the briefil the with it.
-
-00:29:04
-Er han et etzanut goput the water only more and mos legy League now we will see it the water acoum lay thing a here on un this area endd and a going up so II positiv rundt the point and you can see yere the what alefering pretty Kvickly on this area.
-
-00:29:25
-So this is really like fairy short Danmark and we see heroes on that. The flot in storing 2 work so it really like and like a like a shorts.
-
-00:29:37
-Demo of o for that works if you are useing life copenhations so let me gobe 2 the presentation so receantly restart with a new the fall of Mount with you skole water quality but Award wat we dois beboere spscent sut so if you for eksempel have polusion.
-
-00:29:58
-Old schirchen area også than you can and ustyus 2 2 track down weappedusion ghost 2 and if you would love move the collow and allesy shicon of soed computer.
-
-00:30:09
-Game from.
-
-00:30:12
-And w one definent that we are looking intoys also the age of water witches i favorit important imbood for watercallety expots the be able 2 say something avant with the wat a quality so.
-
-00:30:28
-Jeg har andre i orden stats of Danmark.
-
-00:30:32
-Going not 2 war in the eurobean Union wather framework directive.
-
-00:30:38
-Det det waterqualaty is lagking and whit is guind of simulations wehot 2 at intites so we can at du something aboutd unick board about it is if you have a simulation and tweet youth super system ground that aatura you can trak any subsido el the domænes brit you can offo label any info brabutor for eksempel drivet of.
-
-00:31:04
-Disse smiley.
-
-00:31:05
-Labo and you trackwork ghostwo in your suseson wiccan alsid and track down how much and i hatthy wayne follyphence go's into the channels and that's sassuething about the wood danskual watch quality and that's a channel.
-
-00:31:20
-Så ja wow we are.
-
-00:31:24
-Conferenced y say OK just your confederat yourself. We have free trio. The linkes is on the slide.
-
-00:31:35
-Good 2 3 a watermanagement gold and you can find they there så you act just Pride on yourself and i with like 2 in fight all of you.
-
-00:31:45
-Du er dit webinar thats my god League i will be hosting ed my god be showing you how 2 build in fully integral morel and fifty manutes and you can your all moder and invitered the verden of will be in english.
-
-00:32:02
-Så en sort dues 2 go with the.
-
-00:32:07
-Clime it challenges that arew nets we have the side at with freet yout that we need 2 software 2 be yere with the goput that software that has a completly new composition corore with frosnegret compositions. It's easy ues engineers så there are happy 2 user it and ghanaffiy the use and.
-
-00:32:29
-Project and i want a have it nice and firsual so you can show what is actually happing and heft. Good talk rich just stake hold os 2.
-
-00:32:41
-Ja h shirt du er fast in of theision making process.
-
-00:32:46
-Så.
-
-00:32:49
-Dead concute my jack talk og jeg tænker ishot of stated Det er en drink. My god.
-
-00:32:55
-I see som active the ory hurt 2 magtive and the chat so- maybe doh som questions.
-
-00:33:01
-I have also i.
-
-00:33:04
-Dick way for the Beatles Inter in the audience. So for any one froma consult in from.
-
-00:33:12
-Sorry og hvad tisse if you wure end 80 sæt and being and a logo baltiment Danmark field fred 2 do ret child andce well asian you a setting up projects is not that difficult anyway the arthurse ready tready mallels of shurtrin area as so if you want that abillet project 2 one of dåse it so rece of is very default baby if you want a have a differened airts it's fairry easy and then also lass expansef than it a us ustabil.
-
-00:33:40
-Så ja if you introsset blad meo.
-
-00:33:46
-Attit.
-
-00:33:48
-Dark fordi i er kommet.
-
-00:33:53
-I think oy som chance for som processions mabey that diskan help me with thats.
+00:33:30
+very easy by default but if you want to have a different area it's it's very easy and then also less expensive than it used to be so um yeah if you're interested um let me know um that's it um Talk for de common and um I think there is some chance for some questions maybe that Ty can help me with that yes thank you yonas for a very
 
 00:34:00
-Drinky Jonas for very intersting præsentation and very good pron outhonation offer. Tak fordi i er kommet ja Det er lidt et web.
+interesting uh presentation and uh and very good pronouncing of T you did it very well uh yes there are some questions and I will start up and again you you can still just write them in Danish and I will translate them and and talk with Jonas about them the the first series of Christian is from Damian and he the question is can you run a longtime series simulation
 
-00:34:10
-Yes there som questions and able startup and again u Cannes still just right dem end danish and awald translate dem and tok with junice about them the there first sirius of Christian is from demon er en hel.
+00:34:30
+with 3di yes it's uh what we see it uh of course you need to set up your model in a way that it can do it uh i i i i before this meeting I was talking to you about a uh model of the whole M Kong River uh that is in a high resolution data set of course that is not suitable for that kind of thing but the models that I'm showing uh they are very fast you could see the longa example you can do uh for example I don't know year
 
-00:34:27
-The Christian is.
+00:35:00
+round uh computation uh I think it's especially important to have those kind of things so if you include groundwater because the the time scale is different obviously uh as well so yeah thank you and another question is can you add surface distributed rain to the model yes for sure we have uh connection with uh I my apologies I forgot to include it in the presentation I guess but the this is something that we have included so we
 
-00:34:28
-Kaniron og laron time zeri mulation with treet i.
+00:35:30
+have a connection with the rainfall radar uh we can set up uh I think the Danish uh meteorolog meteorological Institute has opened up their data set made it open source uh we have looked into it uh we have downloaded I think six months of data but we can also set up an operational uh connection and then you can just uh select that uh a certain event that they they offer and uh force it on your uh simulation uh I hope that that answers the the
 
-00:34:33
-Yes.
+00:36:00
+question this is this is a prerequirement if you do flood forecasting systems as we do for example in Australia thank you so much and then anas has a question it's somehow similar but just to be sure that we don't skip it h he asked is it possible to do long-term simulation using a a long range series yes you uh you have csvs and you can include the whole series that you have and just force it on your uh
 
-00:34:34
-At what we se at ofre Jeanette set up your mole and away, that's it with it.
+00:36:30
+model um Anna anas has an additional question uh who are you customers in Denmark and and so I guess he will he will ask where do you already have Pilots if you want to to see Danish models uh there are models of uh uh on the top of my head touring touring hidden stat lamb uh um H to hop it's called I think hop to
 
-00:34:42
-I vi får det meeting out docking the about ay model of the home bake rever that's in high re resolution dates of war that is notsin bull for that confed thingbod the moders that's tham showing that are you're favorirry fasts good see the long are accentbe you can do it for eksempel. I don't know, year rundt coopitation.
+00:37:00
+hop yeah H yes H to H yeah and there was there was one or two more that I don't know at the moment yeah okay I and I also know that Pier from henstead municipality is here and he's writing in the in the chat saying that some of the that they have done some models together with you and used them very successful in citizen engagement and and so on um and anas has an additional question
 
-00:35:03
-Og i tænker til spassion le imported 2 haft uscunt of things socialdemo ground thatter because the dansk skills different officely.
-
-00:35:11
-Og svare ja.
-
-00:35:14
-Thank you and under questionist kan your at surfe discurity rain 2 the model.
-
-00:35:19
-Yes, we are connection with the my buller jas i for got 2 inkludered presentation i kasbert that disse something that we have inkluderet so we have a connection with the rain four raido we can sat up i think 2 danish metro wallet med The original Institut has open up da thatizat midtd open source weird intent we have downloaded. I think 6 moments of that ahws we cannother sætte penge operational.
-
-00:35:48
-Connection, and then you can just select that asould event that i offer and fortsæt on your simulation.
-
-00:35:58
-That intrace the quashion this is this is a prer requriement if you wo flood forecasting systems as we do for eksempel interstralia.
-
-00:36:07
-Thank you very modchest.
-
-00:36:09
-Er den Anders hassa question et some houseum just 2 beshure that we don't skippit hirts is et possibal 2 do lawn trans imlation uusing og allah ran sirius.
-
-00:36:21
-Yes.
-
-00:36:22
-You are you have seas beef you can.
-
-00:36:26
-En klud der står hårde sirius it you have and yust fortsætte on your mellem.
-
-00:36:32
-Anders Hassan ad dissingal question, hua yousee customer russing Denmark and er en so i guesshyolajsky wared you alardie have a pileds if you want 2 2 see danish models.
-
-00:36:48
-Der er morders off.
-
-00:36:51
-Un, the double myte duing duing hidns that landvig.
-
-00:36:59
-Hyp 2 hyps skov dot zing, hip-t hopp.
-
-00:37:03
-Nå yes.
-
-00:37:05
-End of the was one auto more. That's i.
-
-00:37:09
-Don't know what the moment?
-
-00:37:11
-Ja OK nej til know that peer from Hedensted Music pulta siger and his radting in the in the chat. That's some ofte that day have done. Som models 2 get the with you and uustal in city sengegament and Inter one.
-
-00:37:29
-And Anders Hassan og Disney question what thess your licen structur look like.
-
-00:37:35
-Licenstrup ja.
-
-00:37:37
-It's squad. Rusland loves and structure is base og.
-
-00:37:44
-How mannis computerations you cando and the Saint time so you have if you have online you cando one computation at saint-tiden on license connes whit limed of user storhedslæke concurant license and.
+00:37:30
+what does your license structure look like license structure yeah that's a it's a good question uh the license structure is uh based on uh on how many computations you can do at the same time so you have if you have one license you can do one computation at the same time uh one license comes with uh a limited amount of users so it's like a concurrent license and uh you can um
 
 00:38:00
-Your can.
-
-00:38:02
-Ur have limited number of surfer owns.
-
-00:38:06
-Oh, you can say i want have limited nimber of surfer overs what we see is that the numm of surver o was that we fight in the basically clince is morders professions for aspresley heistar with the with 3 DA do start that andce then it is the banding on howman i moders stat you one a have active adis Saint done.
+either have a limited number of server hours or you can say I want to have unlimited number of server hours what we see is that the number of server hours that we uh provide in the basic license is more than sufficient uh for uh especially if you start with with 3di uh to to start with and uh then it is a bit depending on how many models that you want to have active at the same time
 
 00:38:30
-Roughly uatsay of sex, six seafondus and a yarere, it's the low kind of.
+roughly you could say for six thou six 7,000 a year is the lowest uh kind of um license and then you can expand it with certain modules the livite for example is a module that we have um connecting with the API directly is a model that we have connecting with rainfall is a model that we have so that's a bit how this builds up thank you and then Pier has a question can you use the system also
 
-00:38:39
-License andce then you ghan expand wisurton mojals da life side, for eksempel ligesom mojal that we have.
+00:39:00
+when you're starting to plan the project um but that you mean that you that is not in the in the developed yet yeah I think I think p means when when you're starting to plan a specific climate adaptation solution could you use the system there to to test various Solutions Yes actually it's uh it's used like that as well uh um so uh what you need is then uh make these Solutions uh
 
-00:38:47
-Connecting with the API directly is of that we have connecting wood rain fall is a mall that we have, so that's sebit. Howde is thels up?
+00:39:30
+available in G data uh usually the design is in autoc cut and then the challenge is always to get the cut to GS but that's more like a technical kind of thing has nothing to do with 3di once you have have done that then then it's then you can you can use those to to run several scenarios yeah thank you and Pier has an additional question all the the many calculations that you're doing is this
 
-00:38:57
-Thank you Jonas and den pere hassel question kan y you use system also on your starting supplement the project.
+00:40:00
+does that require demanding or Demands a big computer at the the the place or are the calculations done in at your in the cloud with your calculations uh the calculations are done in the in the cloud so you don't need a big computer um I have a very normal laptop and that's more than sufficient for working with uh with 3di uh to be added to the that the as I shown in the in the picture it was maybe
 
-00:39:08
-That is not.
-
-00:39:11
-Endda end det.
-
-00:39:12
-Falder om.
-
-00:39:15
-Jeg tænker menes star it of plan og specifikt plymouth aduptions solution. Cut your use 2 system there are 2 2 test veryes solutions. Actually it.
-
-00:39:25
-Yos, like that's well.
-
-00:39:28
-So what is stay than take the soutions of adble and jeres datter.
-
-00:39:35
-Musik Det er design i din outtocuut and, tand the challen-y sover is 2 get the cutt touch yeahse that that's mall like technic good of thinks not thank 2 do it trad yo one's you have have on that then than it then you can you can you dose 2 2 runsaral scenario.
-
-00:39:53
-Angiv and per Hassan og Disney question all that manical collassions that youring thats. That's that demokrati manyall the mans of big computer at the place of other coolation stun and in at euro in the cloud with euro corlations.
-
-00:40:12
-Det gav collssions og don't in the cloud, so you don't heed beck computer i have i fairy normal laptop and that's moder and seafioned for aworking with with treedy.
-
-00:40:26
-Du be add 2 that altså i show and in the picture. It was mavey Quick bots that over few of the mapped the world. We have sorgal composition Center implace.
-
-00:40:36
-Erant.
-
-00:40:39
-The cloud now is lookade det nærmest but it is also bossible 2 have a sort of flike logo installation and Denmark ver you have the cloud fully and Denmark if needd.
-
-00:40:50
-Thank you dan with yung 2 2 Lemvig Roskilde, Charlotte hasse, Kristian kanyes bedstafy hue en Lemvig og yosing your models.
-
-00:40:59
-Og.
+00:40:30
+quick but the overview of the map of the world we have several computation centers in place and um uh the cloud now is located in Amsterdam but it is also possible to have a sort of like local installation in Denmark where you have the cloud fully in Denmark if needed thank you then we jump to to lvi Ros shalot has a question can you can you specify who in L are using your models or I mean perhaps you just
 
 00:41:00
-I mine prutche just deliver the models and then you don't x ay know yosing them.
+delivered the models and then you don't exactly know who's using them uh that's a good question and um I we started together with um Peter MRE um but he is not working there anymore and um I'm I'm thinking um his successor uh uh who is there now is looking into going further with the uh
 
-00:41:07
-That's a good question and.
+00:41:30
+with the model but they are first doing a measurement campaign in the sewer system uh so um at the moment the project is not active but models are still there uh Lett bernet that's his name sorry I was I was thinking um yeah but it's not being it's not actively used but the model is there and uh we are sort of like waiting for uh yeah the moment that that we can uh uh
 
-00:41:10
-A we star it with 2 getar with.
+00:42:00
+continue yes um then I think we have time for two more questions and I I think I I will I will start with rafhael he will ask would it be possible to perform live lifetime calculation at the scale of Denmark and he says real uh near real time um the scale of whole Denmark um yeah it well okay me say it like this we have a model of the whole makong
 
-00:41:14
-Beacho mogen.
+00:42:30
+river um uh at a resolution admittedly of 5x5 meter so there the pixel size but um that we use for simulations so um uh I would have to calculate how large Denmark is compared to that uh but that is sort of like the limit right now but I think if you got Denmark in the islands and the mainlands then for sure you will
 
-00:41:18
-That is notwerking there are and anymore and i'm thinking and ha's success, so.
+00:43:00
+uh you will be able to do that okay thank you um at the end here we have one question from Sean who asked would it be possible to to get the presentation sent or have the links uh sent to us um and I can say that that this this Tik Tok has been recorded so you can you can always find the the the links and so on in in the recordings but also get you can always reach out to yonas uh I guess you have an email yonas
 
-00:41:27
-Hovedstaden, looking-two going photo what the that's the model. There are frode doing amazonent company and the suhr system.
+00:43:30
+that you can if you can hear that or uh and then people can reach out to you yeah uh yeah actually uh that's on the last slide sorry I I should have clicked but uh this is my email address um I can also uh export the presentation as a PDF with clickable links if you like and and and if you want to add it to the YouTube uh what's it called recording uh that's fine by me okay perfect thank
 
-00:41:38
-Southampton project is not active that the mother so still there.
+00:44:00
+you and yeah okay and I can say kristo has just been writing your email in the chat so people can can get it there so so time is running out so on on behalf of DNN K I would just say thank you so much Jonas for a very interesting presentation yeah thank you for having me nice yeah and in a couple of days you will find the recordings at the homepage and again if if you have other Tik toks
 
-00:41:44
-Lauritz becondit that's isnab sorry over thinking ja.
+00:44:30
+you want to hear about or yourself has a Tik Tok you want to present then you're more than welcome to reach out and then we can of course ARR arrange that uh andas I guess that when you have done the the whole 3di model from from for Denmark then then please let let me know then of course you will be more than welcome to to join again yeah of course well if uh if if someone here in the audience wants to set that up together with us uh let me know sounds good so again thank you so much
 
-00:41:50
-That's not being itts notifly use, but the mobil there are ands we are sorte fight way thing for youth, the moon and that's that we cannot.
-
-00:42:01
-Yes than nat thing. We have time for two more questions and IA thing all i will out star with raffy will hewl as wuty beossable ball 2 perform live livet time care collation at the skala of Danmark.
-
-00:42:15
-And hist osse real nier real time.
-
-00:42:22
-The skilt of will Danmark.
-
-00:42:26
-OK let mecedeligt. We have immortals of the hove makeong rapporter.
-
-00:42:33
-Er det resolutionen atmytterly og fight by five metor soot this is the pixels size bots.
-
-00:42:41
-That we use four simulations, so?
-
-00:42:46
-I want haft 2 gokart how light Danmark iscon parkour 2 that.
-
-00:42:51
-The that it's sort of like dilemma dight now that i tink if you good Denmark in the islans and amaince than for show you will you well be everythod that.
-
-00:43:03
-OK thank you.
-
-00:43:05
-At end hear we have one question from sebhan hursk mode beossable 2 2 get the presentation send allda links Center and i can say that that does this take talk as bing recordet så you can unic and overs finewad the links and sorø one in the recordings butteralt a get 2 conwase reach out 2 Jonas ages your have a niema Jonas that you cana if you canch yeah that og.
-
-00:43:34
-Den people kan rease out 2 you.
-
-00:43:37
-Ja actly asonal lost liht.
-
-00:43:42
-Sorry II shoot of clicked by this is my email adresse. I can also export presentation as beat jafit liquid lyngs of the 4 i can if you want 2 the youtube.
-
-00:43:56
-Was it kort recording? That's fine boomy.
-
-00:43:59
-OK perfekt. Thank you.
-
-00:44:02
-Ja OKI canze Kristoffer altså just ben radian you e mail in the chard. People can get it there so.
-
-00:44:09
-Soap time swaring out so un behower gear and KA wat just say thank you so much. Unas for very intristing presentation.
-
-00:44:19
-Ja thec you for happing.
-
-00:44:21
-Nice.
-
-00:44:22
-Ja.
-
-00:44:23
-Anina cublow da ishible find there recordings and the home page and agen if if you have on the tik toks you want 2 hearbout of yourself hassel Tech Talk you want 2% then you're more the welcome 2 ret out and then we can of course arrangement snart anne youngas i gest that when you have done that the hole 2 DI model from front for Denmark den den please lad meal vente of course will be moe and wellcome two 2 joine agent.
-
-00:44:49
-Ja og f gode svollers if if some here in audiens swanse you set adup 2 goet over let mino.
-
-00:44:59
-Så agen thank you's an again 2 æl the ordens have a very good east holiday and seo in the next cover weeks arranger thank you.
-
-00:45:13
-That's you bye.
-
+00:45:00
+junas and again to all the audience have a very good Easter holiday and see you uh in the next couple of weeks at other DNK K Arrangements thank you thank you bye-bye
