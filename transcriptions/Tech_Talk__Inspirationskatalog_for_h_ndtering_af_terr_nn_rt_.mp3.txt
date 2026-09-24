@@ -860,7 +860,7 @@ Vi har Vejleå i det sydlige del af billedet.
 Nordholmen, som er den nordligste del af bydelen, er den, der er under udførsel.
 
 00:35:25
-Hvis man kigger i Skalgo og kigger på terrænmodellen, kan man se, Hvis man laver et snit igennem den, så er terrænet helt op mod Kote 5, hvor de omkringliggende arealer til venstre i boligområdet, til højre i et kolonihavområde, ligger omkring Kote 0.
+Hvis man kigger i Scalgo og kigger på terrænmodellen, kan man se, Hvis man laver et snit igennem den, så er terrænet helt op mod Kote 5, hvor de omkringliggende arealer til venstre i boligområdet, til højre i et kolonihavområde, ligger omkring Kote 0.
 
 00:35:43
 Men der har man jo bevæget sig til basse afstand fra det tegnede af grundvand, og det kan jo godt gøres, måske på en ladedygtig måde også, hvis man har en god jordhåndteringsstrategi.

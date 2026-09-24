@@ -1795,6 +1795,12 @@
         "rettet": "LCA Wizard",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Envidan",
+        "rettet": "EnviDan",
+        "antal": 3,
+        "grund": "ordliste (udvidet)"
       }
     ],
     "afvist": []
@@ -2721,6 +2727,12 @@
         "rettet": "regnvandshåndteringen",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tik talk",
+        "rettet": "Tech Talk",
+        "antal": 1,
+        "grund": "ordliste (udvidet)"
       }
     ],
     "afvist": []
@@ -4031,6 +4043,12 @@
         "rettet": "Tech Talk",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tiktokken",
+        "rettet": "Tech Talk'en",
+        "antal": 1,
+        "grund": "ordliste (udvidet)"
       }
     ],
     "afvist": []
@@ -4174,6 +4192,12 @@
         "rettet": "hydrodynamiske oversvømmelseskort",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "danni k",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "ordliste (udvidet)"
       }
     ],
     "afvist": []
@@ -4378,6 +4402,12 @@
         "rettet": "",
         "antal": 0,
         "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
+      },
+      {
+        "forkert": "tiktokken",
+        "rettet": "Tech Talk'en",
+        "antal": 4,
+        "grund": "ordliste (udvidet)"
       }
     ],
     "afvist": []
@@ -4449,6 +4479,18 @@
         "rettet": "i USA",
         "antal": 2,
         "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tiktokken",
+        "rettet": "Tech Talk'en",
+        "antal": 2,
+        "grund": "ordliste (udvidet)"
+      },
+      {
+        "forkert": "tik toppen",
+        "rettet": "Tech Talk'en",
+        "antal": 1,
+        "grund": "ordliste (udvidet)"
       }
     ],
     "afvist": []
@@ -4692,6 +4734,12 @@
         "rettet": "Tech Talk",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tektuppen",
+        "rettet": "Tech Talk'en",
+        "antal": 1,
+        "grund": "ordliste (udvidet)"
       }
     ],
     "afvist": []
@@ -4709,6 +4757,12 @@
         "rettet": "i-Tree",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tiktokken",
+        "rettet": "Tech Talk'en",
+        "antal": 2,
+        "grund": "ordliste (udvidet)"
       }
     ],
     "afvist": []
@@ -5200,6 +5254,12 @@
         "rettet": "DTU Space",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tiktokken",
+        "rettet": "Tech Talk'en",
+        "antal": 1,
+        "grund": "ordliste (udvidet)"
       }
     ],
     "afvist": []
@@ -5780,6 +5840,12 @@
         "rettet": "Køge Kommune",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tiktokken",
+        "rettet": "Tech Talk'en",
+        "antal": 1,
+        "grund": "ordliste (udvidet)"
       }
     ],
     "afvist": []
@@ -5875,6 +5941,12 @@
         "rettet": "i WSP",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "VSP",
+        "rettet": "WSP",
+        "antal": 1,
+        "grund": "ordliste (udvidet)"
       }
     ],
     "afvist": []
@@ -5898,6 +5970,18 @@
         "rettet": "DNNK",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tektuppen",
+        "rettet": "Tech Talk'en",
+        "antal": 1,
+        "grund": "ordliste (udvidet)"
+      },
+      {
+        "forkert": "DNDK",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "ordliste (udvidet)"
       }
     ],
     "afvist": []
@@ -6470,6 +6554,18 @@
         "rettet": "waterwebtools.com",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tiktokken",
+        "rettet": "Tech Talk'en",
+        "antal": 1,
+        "grund": "ordliste (udvidet)"
+      },
+      {
+        "forkert": "tik toppen",
+        "rettet": "Tech Talk'en",
+        "antal": 1,
+        "grund": "ordliste (udvidet)"
       }
     ],
     "afvist": []
@@ -6815,6 +6911,12 @@
         "rettet": "one size fits all",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "forvirrer University College",
+        "rettet": "VIA University College",
+        "antal": 1,
+        "grund": "ordliste (udvidet)"
       }
     ],
     "afvist": []
@@ -6850,6 +6952,12 @@
         "rettet": "VIA Nyborg",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tik talk",
+        "rettet": "Tech Talk",
+        "antal": 1,
+        "grund": "ordliste (udvidet)"
       }
     ],
     "afvist": []
@@ -6956,6 +7064,12 @@
         "rettet": "Schønherr",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Skalgo",
+        "rettet": "Scalgo",
+        "antal": 1,
+        "grund": "ordliste (udvidet)"
       }
     ],
     "afvist": []
@@ -6982,6 +7096,12 @@
         "rettet": "",
         "antal": 0,
         "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
+      },
+      {
+        "forkert": "tiktokken",
+        "rettet": "Tech Talk'en",
+        "antal": 2,
+        "grund": "ordliste (udvidet)"
       }
     ],
     "afvist": []
@@ -7121,6 +7241,12 @@
         "rettet": "skybrudskortet",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tik toppen",
+        "rettet": "Tech Talk'en",
+        "antal": 1,
+        "grund": "ordliste (udvidet)"
       }
     ],
     "afvist": []
@@ -7234,6 +7360,12 @@
         "rettet": "ISCO-samplere",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tiktokken",
+        "rettet": "Tech Talk'en",
+        "antal": 1,
+        "grund": "ordliste (udvidet)"
       }
     ],
     "afvist": []
@@ -7487,6 +7619,18 @@
         "rettet": "boardwalk",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "VSP",
+        "rettet": "WSP",
+        "antal": 3,
+        "grund": "ordliste (udvidet)"
+      },
+      {
+        "forkert": "lars randersen",
+        "rettet": "Lars Daugaard",
+        "antal": 1,
+        "grund": "ordliste (udvidet)"
       }
     ],
     "afvist": []
@@ -10265,6 +10409,12 @@
         "rettet": "bassinet",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Envidan",
+        "rettet": "EnviDan",
+        "antal": 2,
+        "grund": "ordliste (udvidet)"
       }
     ],
     "afvist": []
@@ -11846,6 +11996,12 @@
         "rettet": "jyske vestkyst",
         "antal": 5,
         "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tiktokken",
+        "rettet": "Tech Talk'en",
+        "antal": 1,
+        "grund": "ordliste (udvidet)"
       }
     ],
     "afvist": []
@@ -13762,6 +13918,12 @@
         "rettet": "AMA",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Envidan",
+        "rettet": "EnviDan",
+        "antal": 1,
+        "grund": "ordliste (udvidet)"
       }
     ],
     "afvist": []
@@ -14137,6 +14299,12 @@
         "rettet": "in Malmö and other locations",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "skalgo",
+        "rettet": "Scalgo",
+        "antal": 1,
+        "grund": "ordliste (udvidet)"
       }
     ],
     "afvist": []
@@ -17070,6 +17238,12 @@
         "rettet": "sedimenttransporterne",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "VSP",
+        "rettet": "WSP",
+        "antal": 1,
+        "grund": "ordliste (udvidet)"
       }
     ],
     "afvist": []
@@ -18868,6 +19042,18 @@
         "rettet": "rensegraden",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Cornelius Pahls",
+        "rettet": "Kornelius Pagels",
+        "antal": 1,
+        "grund": "ordliste (udvidet)"
+      },
+      {
+        "forkert": "Envidan",
+        "rettet": "EnviDan",
+        "antal": 1,
+        "grund": "ordliste (udvidet)"
       }
     ],
     "afvist": []
@@ -19089,6 +19275,12 @@
         "rettet": "asfalt",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Danny k",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "ordliste (udvidet)"
       }
     ],
     "afvist": []
@@ -19283,6 +19475,12 @@
         "rettet": "permeable",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "VSP",
+        "rettet": "WSP",
+        "antal": 3,
+        "grund": "ordliste (udvidet)"
       }
     ],
     "afvist": [
@@ -19651,6 +19849,12 @@
         "rettet": "data",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "VSP",
+        "rettet": "WSP",
+        "antal": 2,
+        "grund": "ordliste (udvidet)"
       }
     ],
     "afvist": [
@@ -19822,6 +20026,12 @@
         "rettet": "Kystdirektoratet",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DNDK",
+        "rettet": "DNNK",
+        "antal": 1,
+        "grund": "ordliste (udvidet)"
       }
     ],
     "afvist": []
@@ -21719,6 +21929,12 @@
         "rettet": "ørredyngel",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Cornelius Pahls",
+        "rettet": "Kornelius Pagels",
+        "antal": 1,
+        "grund": "ordliste (udvidet)"
       }
     ],
     "afvist": []
@@ -22731,6 +22947,18 @@
         "rettet": "Sensor",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tik talk",
+        "rettet": "Tech Talk",
+        "antal": 1,
+        "grund": "ordliste (udvidet)"
+      },
+      {
+        "forkert": "tiktokken",
+        "rettet": "Tech Talk'en",
+        "antal": 1,
+        "grund": "ordliste (udvidet)"
       }
     ],
     "afvist": []
@@ -23396,6 +23624,12 @@
         "rettet": "VeVa",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "tik talk",
+        "rettet": "Tech Talk",
+        "antal": 1,
+        "grund": "ordliste (udvidet)"
       }
     ],
     "afvist": []
@@ -23443,6 +23677,12 @@
         "rettet": "marskdigerne",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kysbeskyttelse",
+        "rettet": "kystbeskyttelse",
+        "antal": 3,
+        "grund": "ordliste (udvidet)"
       }
     ],
     "afvist": []
@@ -23656,6 +23896,12 @@
         "rettet": "",
         "antal": 0,
         "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
+      },
+      {
+        "forkert": "VSP",
+        "rettet": "WSP",
+        "antal": 2,
+        "grund": "ordliste (udvidet)"
       }
     ],
     "afvist": []
@@ -23826,6 +24072,12 @@
         "rettet": "",
         "antal": 0,
         "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
+      },
+      {
+        "forkert": "VSP",
+        "rettet": "WSP",
+        "antal": 1,
+        "grund": "ordliste (udvidet)"
       }
     ],
     "afvist": []
@@ -26007,6 +26259,12 @@
         "rettet": "hydraulisk",
         "antal": 3,
         "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "VSP",
+        "rettet": "WSP",
+        "antal": 1,
+        "grund": "ordliste (udvidet)"
       }
     ],
     "afvist": []
@@ -26198,6 +26456,67 @@
         "rettet": "Gudenå",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Godmorgen_med_DNNK_cQC0R4IQyOg_20260923_103115.txt": {
+    "anvendt": [
+      {
+        "forkert": "kysbeskyttelse",
+        "rettet": "kystbeskyttelse",
+        "antal": 1,
+        "grund": "ordliste (udvidet)"
+      },
+      {
+        "forkert": "Køstdirektoratet",
+        "rettet": "Kystdirektoratet",
+        "antal": 1,
+        "grund": "ordliste (udvidet)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Godmorgen_med_DNNK_eC5v7aZJifY_20260923_103115.txt": {
+    "anvendt": [
+      {
+        "forkert": "kysbeskyttelse",
+        "rettet": "kystbeskyttelse",
+        "antal": 12,
+        "grund": "ordliste (udvidet)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Godmorgen_med_DNNK_mvx1dZTtyX8_20260923_103115.txt": {
+    "anvendt": [
+      {
+        "forkert": "kysbeskyttelse",
+        "rettet": "kystbeskyttelse",
+        "antal": 6,
+        "grund": "ordliste (udvidet)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Godmorgen_med_DNNK_tFT2VjSIC3c_20260923_103115.txt": {
+    "anvendt": [
+      {
+        "forkert": "Køstdirektoratet",
+        "rettet": "Kystdirektoratet",
+        "antal": 1,
+        "grund": "ordliste (udvidet)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Godmorgen_med_DNNK_wwwgM_3ONqw_20260923_101049.txt": {
+    "anvendt": [
+      {
+        "forkert": "Cornelius Pals",
+        "rettet": "Kornelius Pagels",
+        "antal": 1,
+        "grund": "ordliste (udvidet)"
       }
     ],
     "afvist": []

@@ -1,5 +1,5 @@
 00:00:13
-Men, så er vi ved at være klar til at begynde på på det her næst første tik talk i år, som vi starter nu med at høre en spændende præsentation om nedbør og nedbør, er jo grundlaget for det, vi arbejder med i klimatilpasning. Det er jo nok en af de største usikkerhedsfaktorer, Vi har. Jeg har personligt arbejdet med hytologiske og hydrauliske modeller i årevis, og dem kan man jo normalt kalibrere, og så tror man, at man har noget, der passer i modellen.
+Men, så er vi ved at være klar til at begynde på på det her næst første Tech Talk i år, som vi starter nu med at høre en spændende præsentation om nedbør og nedbør, er jo grundlaget for det, vi arbejder med i klimatilpasning. Det er jo nok en af de største usikkerhedsfaktorer, Vi har. Jeg har personligt arbejdet med hytologiske og hydrauliske modeller i årevis, og dem kan man jo normalt kalibrere, og så tror man, at man har noget, der passer i modellen.
 
 00:00:39
 Men meget ofte finder vi jo, at det faktisk er Vores rå indgangsdata. Vores nedbør, der egentlig er forkerte eller mangelagtige i deres præsentation. Jeg ved, at Vi har jo relativt få nedbørstationer, når man begynder at tælle dem sammen, og hvis man vil stille dem ved siden af hinanden, så måler vi jo i virkeligheden nedbør på en flade, der er< en halv håndboldbane og ekstra polerer.

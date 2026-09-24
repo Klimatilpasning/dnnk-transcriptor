@@ -689,10 +689,10 @@ Og jeg prøvede at at få et svar på, hvornår det kunne være, og jeg kunne ik
 At det skulle gerne være i den nærmeste fremtid, så lad os se, men Det er forhåbentligt på vej.
 
 00:47:01
-Så var der det her med at rette og data i virkeligheden. Nu skal jeg lige se her. Vi har lige fået et spørgsmål, hvor der står vil i fortælle hvordan i bruger og arbejder med vandportalen som drives af VSP og hvilke data i udstiller der altså vandportalerne er.
+Så var der det her med at rette og data i virkeligheden. Nu skal jeg lige se her. Vi har lige fået et spørgsmål, hvor der står vil i fortælle hvordan i bruger og arbejder med vandportalen som drives af WSP og hvilke data i udstiller der altså vandportalerne er.
 
 00:47:13
-Den er jo drevet af VSP, og vi udstiller ikke data der. Det er jo dem der står for det de hiver selvfølgelig i Vores frie data og viser det det data som nu ligger der ellers Sådan personligt, så vi bruger ikke vandportalen.
+Den er jo drevet af WSP, og vi udstiller ikke data der. Det er jo dem der står for det de hiver selvfølgelig i Vores frie data og viser det det data som nu ligger der ellers Sådan personligt, så vi bruger ikke vandportalen.
 
 00:47:29
 Som som privat produkt, i hvert fald ikke i Vores operationelle ting. Vi bruger Danmarks miljøportal, som er offentlig udbyder af mange af de samme data.
