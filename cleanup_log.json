@@ -26515,5 +26515,330 @@
       }
     ],
     "afvist": []
+  },
+  "transcriptions\\Godmorgen_med_DNNK_1XD2LhdhZKo_20260923_101058.txt": {
+    "anvendt": [
+      {
+        "forkert": "nias",
+        "rettet": "NIRAS",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "dnk",
+        "rettet": "DNNK",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "veser",
+        "rettet": "Weser",
+        "antal": 4,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "visdommen",
+        "rettet": "Weser-dommen",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "land nordr vestfalen",
+        "rettet": "Land Nordrhein-Westfalen",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Godmorgen_med_DNNK_agCuRbhxX3k_20260923_103115.txt": {
+    "anvendt": [
+      {
+        "forkert": "",
+        "rettet": "",
+        "antal": 0,
+        "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Godmorgen_med_DNNK_GhA-Ga8cMfw_20260923_103115.txt": {
+    "anvendt": [
+      {
+        "forkert": "Sebastian Bukhay-Ehrminger",
+        "rettet": "Sebastian Bokhari Irminger",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Cornelius Pagels",
+        "rettet": "Kornelius Pagels",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Falsterbro",
+        "rettet": "Falsterbo",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Thalsterbro",
+        "rettet": "Falsterbo",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Vallinge",
+        "rettet": "Vellinge",
+        "antal": 7,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Vællinge",
+        "rettet": "Vellinge",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Vallninga",
+        "rettet": "Vellinge",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Krikanstad",
+        "rettet": "Kristianstad",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Kirchhamster",
+        "rettet": "Kristianstad",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Klikausta",
+        "rettet": "Kristianstad",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "landskroner",
+        "rettet": "Landskrona",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "landskroners",
+        "rettet": "Landskronas",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Hørgaard-Nærs",
+        "rettet": "Höganäs",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Hørgaard Nærs",
+        "rettet": "Höganäs",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Vorberg",
+        "rettet": "Varberg",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Vortberg",
+        "rettet": "Varberg",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Harlemstad",
+        "rettet": "Halmstad",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Malte Holm",
+        "rettet": "Laholm",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "La Holm",
+        "rettet": "Laholm",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Lernstyret SM",
+        "rettet": "Länsstyrelserna",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Godmorgen_med_DNNK_N9jDYwakMaE_20260923_101038.txt": {
+    "anvendt": [
+      {
+        "forkert": "DNK webinaret",
+        "rettet": "DNNK webinaret",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DNKS vidensbank",
+        "rettet": "DNNK's vidensbank",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Andreas Pindstrup",
+        "rettet": "Andreas Petter Bjørnsen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Tyboronmøllen",
+        "rettet": "Thyborønmøllen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Typeron",
+        "rettet": "Thyborøn",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "typerøn",
+        "rettet": "Thyborøn",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Limvig kommune",
+        "rettet": "Lemvig Kommune",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Dansk ogologisk forening",
+        "rettet": "Dansk Ornitologisk Forening",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Danmarks Naturforeningsforening",
+        "rettet": "Danmarks Naturfredningsforening",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Vestda",
+        "rettet": "Vestas",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "korup",
+        "rettet": "Coop",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "lærstand brandforsikring",
+        "rettet": "Lærerstandens Brandforsikring",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "jtingmejeri",
+        "rettet": "Hjedding Andelsmejeri",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Danel Kors hjemmeside",
+        "rettet": "DNNK's hjemmeside",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Andelsgov",
+        "rettet": "Andelsgaarde",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Godmorgen_med_DNNK_YFVZ3gg4sOI_20260923_101041.txt": {
+    "anvendt": [
+      {
+        "forkert": "Martina Vti",
+        "rettet": "Martina Viti",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Rambøl",
+        "rettet": "Rambøll",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Rambøls",
+        "rettet": "Rambølls",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Rambel",
+        "rettet": "Rambøll",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Vesterbro Torn",
+        "rettet": "Vesterbro Torv",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Vesterbo Torv",
+        "rettet": "Vesterbro Torv",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Vesterbro Tårn",
+        "rettet": "Vesterbro Torv",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Stig",
+        "rettet": "Stine",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "vandtektortilsynet",
+        "rettet": "vandsektortilsynet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
   }
 }

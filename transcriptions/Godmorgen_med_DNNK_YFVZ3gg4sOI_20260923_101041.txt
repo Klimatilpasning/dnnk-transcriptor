@@ -8,10 +8,10 @@ Transskriberet: 2026-09-23T10:10:41.372077
 ==================================================
 
 00:00:00
-Mandag morgen. Godmorgen alle sammen og velkommen til det her DNNK webinar. Vi har inviteret Allan Mikkelsen fra Aarhus Vand og Stine Dybkær fra Rambøl ind i det her lidt virtuelle studie. De vil fortælle om blokgrønne overfladeløsninger til forsinkelse af rensning af regnvand i byrum. Og vi skal
+Mandag morgen. Godmorgen alle sammen og velkommen til det her DNNK webinar. Vi har inviteret Allan Mikkelsen fra Aarhus Vand og Stine Dybkær fra Rambøll ind i det her lidt virtuelle studie. De vil fortælle om blokgrønne overfladeløsninger til forsinkelse af rensning af regnvand i byrum. Og vi skal
 
 00:00:30
-høre om mereværdierne, der kan skabes i byerne. Det er attraktive opholdsrum, øge et habitat for biodiversitet, større trafiksikkerhed og bedre sundhed og så videre. Øhm, så vi skal høre, hvordan der bliver sat kroner på det. Hvordan man dyrker beslutningsgrundlaget, hvordan man styrker business casen, øh, når man sidder og samarbejder mellem en kommune og forsyning om at sætte værdi på på de her mere værdier. Vi har også Martina Vti med fra Rambøl. Hun vil ikke sige noget her i starten, men hun er klar til at svare på spørgsmål, når vi
+høre om mereværdierne, der kan skabes i byerne. Det er attraktive opholdsrum, øge et habitat for biodiversitet, større trafiksikkerhed og bedre sundhed og så videre. Øhm, så vi skal høre, hvordan der bliver sat kroner på det. Hvordan man dyrker beslutningsgrundlaget, hvordan man styrker business casen, øh, når man sidder og samarbejder mellem en kommune og forsyning om at sætte værdi på på de her mere værdier. Vi har også Martina Viti med fra Rambøll. Hun vil ikke sige noget her i starten, men hun er klar til at svare på spørgsmål, når vi
 
 00:01:00
 når dertil. Når vi har hørt præsentationerne, øhm så må I gerne begynde at stille spørgsmål, men afvent lige med at begynde at skrive alt for meget i chatten til vi sådan godt igennem. Og jeg ved også, der kommer et par spørgsmål i chatten fra oplægsholderne, de gerne vil have svar på. Men endnu engang velkommen, og så vil jeg give ordet til Stine og Allen. Scenen, skærmen er jeres. Værsgo. &gt;&gt; Ja, mange tak, Steffen. Jamen, øh, vi er
@@ -20,7 +20,7 @@ når dertil. Når vi har hørt præsentationerne, øhm så må I gerne begynde a
 rigtig glade for at have fået mulighed for at deltage i det her morgenmøde, hvor Stine og jeg ø vil fortælle om det spændende arbejde, vi har været igennem. Vedrørende værdisætninger, mere værdier på udvalgte projekter, vedrørende regnvandshåndtering på overfladen i Aarhus. Jeg hedder Allan Bo Mikkelsen og sidder her i Aarhus Vand. Arbejder som projektfær ø primært med regnvandshåndtering som hovedområde og det er både adskillelsesprojekter og
 
 00:02:00
-klimatilpasningsprojekter. Derudover så arbejder jeg en del med bæredygtighed ind i vores partnerskab vandpartner, som er seksårige rammeaftaler med rådgivere og entreprenører, som vi arbejder med her ved Aarhus Vand. Øh, jeg er i tidenes morgen uddannet civilingsnø fra Aalborg. &gt;&gt; Ja. Jamen, godmorgen. Jeg hedder Stine Dybkær, og jeg er en del af Rambøls globale vand og klimatilpasningsteam.
+klimatilpasningsprojekter. Derudover så arbejder jeg en del med bæredygtighed ind i vores partnerskab vandpartner, som er seksårige rammeaftaler med rådgivere og entreprenører, som vi arbejder med her ved Aarhus Vand. Øh, jeg er i tidenes morgen uddannet civilingsnø fra Aalborg. &gt;&gt; Ja. Jamen, godmorgen. Jeg hedder Stine Dybkær, og jeg er en del af Rambølls globale vand og klimatilpasningsteam.
 
 00:02:30
 Øhm, jeg arbejder med regnvandsorientering ø ligesom Allan øh og strategisk planlægning af klimatilpasning og er uddannet miljøingeniør fra DTU. Og så har jeg også Martina Viti med mig i dag. Ø, som har en baggrund i biologi kombineret med en phd fra DTU netop inden for naturbaserede overfladeløsninger. Øhm, og metoder til at at vurdere ø disse øh vi har begge to været en del af udviklingen af Rambølelsværktøj NBS
@@ -71,7 +71,7 @@ for eksempel i forbindelse med kloakadskillelse, og der er klimatilpasning af ny
 drifte målestationer. For eksempel metodeudvikling til støt til understøttelse af ny lovgivning. Her kan vi nævne serviceniveau beekendtgørelsen, omkostningspekendtgørelsen for eksempel og behandling og udstilling af GISdata. Derudover så er det jo alt det uformelle samarbejde, hvor vi har daglig kontakt med hinanden, og det er meget på personniveau, kan man sige. Så vi prøver at vedligeholde det her gode samarbejde øh så vi får de de gode løsninger øh i
 
 00:10:30
-sidste ende. Hvorfor er vi så interesseret i mereværdier som et værktøj som NBS value udviklet af af Rambøl? Jamen øh vi ved at blågrønne løsninger på overfladen har en mere værdi, men vi er også interesseret i hvilken øh kan vi sætte nogle kroner ører på. Og det er det vi prøver at gøre her med de med det værktøj som Rambel har udviklet. Og så i det at Rambel er med i vandpartner, så
+sidste ende. Hvorfor er vi så interesseret i mereværdier som et værktøj som NBS value udviklet af af Rambøll? Jamen øh vi ved at blågrønne løsninger på overfladen har en mere værdi, men vi er også interesseret i hvilken øh kan vi sætte nogle kroner ører på. Og det er det vi prøver at gøre her med de med det værktøj som Rambøll har udviklet. Og så i det at Rambøll er med i vandpartner, så
 
 00:11:00
 er det naturligt at afprøve det her værktøj på forskellige projekter til regntering på overfladen, som vi har her i Aarhus vand i samarbejde med Aarhus Kommune. Øhm, og så værktøjet som som vi ser det, så er værdierne i de velunderbyggede, som Stin også vil komme ind på ø senere og ikke ligesom at sige, kan man sige, taget ud af den af den blå luft. Så det det bliver vi klogere på øh nu tror jeg. Værsgo, Stin. &gt;&gt; Tak, Allan. Jamen, jeg vil sætte lidt
@@ -116,7 +116,7 @@ for nogle ø for nogle mereværdier øh som man kan inddrage og og prioritere i 
 planer øhm eller øhm i hvert fald kan kan estimeres øhm for for næsten alle typer af projekter. Øhm, når de er klar, så benytter vi ja, værktøjet til at estimere ø mere værdierne i kroner og ører. Øhm, og resultaterne kan så bruges som en del af ja, beslutningsgrundlaget for valg af løsning øhm eller sammenligning af forskellige løsninger med henblik på at ø at vælge den løsning, som skaber mest
 
 00:18:00
-værdi. Og med den indledning, så vil jeg give ordet tilbage til Allan, som kan introducere det første projekteksempel, vi har med til jer i dag. &gt;&gt; Ja, tak, Stine. Og jamen, det er Vesterbo Torv, som jeg nævnte i min indledning, og det er et projekt, der er under udførelse lige nu. Vi regner med, at øh vi er færdige med projektet her til sommer, eller i hvert fald måske næsten færdig. Og det er et
+værdi. Og med den indledning, så vil jeg give ordet tilbage til Allan, som kan introducere det første projekteksempel, vi har med til jer i dag. &gt;&gt; Ja, tak, Stine. Og jamen, det er Vesterbro Torv, som jeg nævnte i min indledning, og det er et projekt, der er under udførelse lige nu. Vi regner med, at øh vi er færdige med projektet her til sommer, eller i hvert fald måske næsten færdig. Og det er et
 
 00:18:30
 byomdannelsesprojekt i det centrale Aarhus. Man kan se øhm billedet til til højre eller animation til højre. Det er sådan, at vi forestiller os det kommer til at til at se ud på en del af torvet. Og billedet til eller nederst, det er der, hvor vi er lige nu, eller i hvert fald et billede taget her sidste uge. &gt;&gt; Øhm, det er et øhm planen med hele byomdannelsesprojektet, det er fredeliggørelse, trafikomlægninger øh og begrønning. Så
@@ -131,7 +131,7 @@ en række sidegader er med, som det fremgår af øh figuren til venstre, hvor vi
 serviceniveau beregningerne der. Øhm, vi har beregnet at vi kan kaste 7 millioner kroner i projektet og dertil kommer så Aarhus kommunes øh øh addon til projektet omkring øhm hele øh de andre visioner omkring fredeliggørelse og så videre. De bidrager ind i projektet med langt størsteparten omkring 80 millioner. Øhm, så det er det er sådan
 
 00:20:30
-beløbende til til Vesterbro Torn. Yes. &gt;&gt; Super. Øhm, og vi hopper direkte ind i analysen. Øh, og det vi ser her, det er et overblik over de mereværdier som det identificerede projektet bidrager til at løfte i området og som samtidig kan beregnes med en BS value. Ø, og for at identificere de herværdier, så har vi set på øh, hvad er det øh, der sker i i
+beløbende til til Vesterbro Torv. Yes. &gt;&gt; Super. Øhm, og vi hopper direkte ind i analysen. Øh, og det vi ser her, det er et overblik over de mereværdier som det identificerede projektet bidrager til at løfte i området og som samtidig kan beregnes med en BS value. Ø, og for at identificere de herværdier, så har vi set på øh, hvad er det øh, der sker i i
 
 00:21:00
 projektområdet, hvilke elementer løfter området, og hvordan ser de fremtidige forhold ud med sammenlignet med de eksisterende? Øhm, som Allan sagde, så er det ikke kun Vesterbro Torv, øh, hvor der sker en ændring. Det er også de omkringlæggende veje. Øhm, og de omkringlæggende veje øh som omdannes til sådan grønere veje, ø, det øger herlighedsværdien i projektområdet, som er øh værdien af ø
@@ -179,7 +179,7 @@ samlede netto nutidsværdi for projektet med de antagelser, der er gjort i den h
 mest med værdi til byen i form af af mere værdier ø og mindre i form af af reduceret oversømmelsesskader. Ja, men men kort sagt, så ø så viser analysen, at det er en god samfundsøkonomisk analyse. Ø, og det bliver især tydeligt, når man mere værdier. Øhm, og det er et eksempel på, at ø at når man har de her ja, multifunktionelle synergiprojekter, så kan man virkelig øge værdien af byrummet betydeligt.
 
 00:28:30
-&gt;&gt; Tilbage til til dig, Allan. &gt;&gt; Ja, tak. Ja, det bliver det bliver meget spændende at gå en tur i området nede omkring Vesterbro Tårn, og det bliver færdigt snart. Øhm, et andet projekteksempel vi har, det er et område vi kalder Fredensvang, som er beliggende i den syd sydvest for centrum af Aarhus. Det er stadigvæk øh ret tæt by, men øhm et område vi har med i vores
+&gt;&gt; Tilbage til til dig, Allan. &gt;&gt; Ja, tak. Ja, det bliver det bliver meget spændende at gå en tur i området nede omkring Vesterbro Torv, og det bliver færdigt snart. Øhm, et andet projekteksempel vi har, det er et område vi kalder Fredensvang, som er beliggende i den syd sydvest for centrum af Aarhus. Det er stadigvæk øh ret tæt by, men øhm et område vi har med i vores
 
 00:29:00
 adskillelsesstrategi. Og området det er ø godt 200 hektar ø stort. Og øh og det har en recipient som som hedder døde åbelastet. Ø og vi så vi skal have fundet så meget lokal forsinkelse i opladet som overhovedet muligt. Så det har vi ø det vil vi virkelig gerne prøve til. Øhm projektet eller hele baggrunden fra
@@ -188,7 +188,7 @@ adskillelsesstrategi. Og området det er ø godt 200 hektar ø stort. Og øh og 
 projektet det ligger i en vision der hedder bedre by i Vigby. Øhm og øh der tager løsningerne udgangspunkt i de planer og visioner der er for området øhm herunder Vandvision 2100. Øhm, du må gerne skifte, Stine. Øhm, for at øge robustheden af vandhåndteringen i Fredensvang og reduceret overløb, øh, så er der behov for at indtænke så mange
 
 00:30:00
-ø lokal forsinkende områder som overhovedet muligt i oplandet. Øh, Bedby Vigby, den er vist der til venstre øh forsiden på den. Øhm, og ligesom de visioner, der er indenfor vision bedre by, Vigby, det er at skabe identitet i forhold til grønne elementer og vand på pladser og torve, at fredeliggøre områder, som det faktisk også var tilfældet på Vesterbo Torv og herunder øhm at veje i forbindelse med
+ø lokal forsinkende områder som overhovedet muligt i oplandet. Øh, Bedby Vigby, den er vist der til venstre øh forsiden på den. Øhm, og ligesom de visioner, der er indenfor vision bedre by, Vigby, det er at skabe identitet i forhold til grønne elementer og vand på pladser og torve, at fredeliggøre områder, som det faktisk også var tilfældet på Vesterbro Torv og herunder øhm at veje i forbindelse med
 
 00:30:30
 klimatilpasningen, at de også øh måske bliver praktisk spil. Derudover så skal regnvand udnyttes som rekreativ ressource igen og udbygge de blågrønne forbindelser, som det ses på figuren til højre, hvor de grønne pile, det er det er grønne forbindelser, og de blå er er blå forbindelser. og øh øh angivelsen af Fredensvang oplandet, det er den blå øh figur der i i midten.
@@ -251,7 +251,7 @@ af mereværdierne for de her projekteksempler, så har vi prøvet at samle lidt 
 Så er der jamen de blågrønne løsninger ø som Aarhus kommune og Aarhus Vand har implementeret i fællesskab, at det giver værdi for borgerne øh og at det tætte samarbejde betaler sig. Og som vi også så i øh både Vesterbro Tor og Fredensvang her, at så er det øh vi skal begynde at tale sammen øh tidligt i planlægningsfasen for at få alle øh sådan designelementerne med, så vi som
 
 00:40:30
-øh forsyning ikke kommer øh for sent ind i processen. Og det er, det er i hvert fald en, en opfordring herfra, at vi skal tale sammen ø i de helt tidlige planlægningsfaser også. Øhm, og så det her med at vi øh, det er en fordel at medregne mereværdier for at få et mere korrekt billede af samfundsøkonomien i de blokrende ø løsninger, og vi kan vise det en god investering. Øh, og så som Stig også nævnte, så kan
+øh forsyning ikke kommer øh for sent ind i processen. Og det er, det er i hvert fald en, en opfordring herfra, at vi skal tale sammen ø i de helt tidlige planlægningsfaser også. Øhm, og så det her med at vi øh, det er en fordel at medregne mereværdier for at få et mere korrekt billede af samfundsøkonomien i de blokrende ø løsninger, og vi kan vise det en god investering. Øh, og så som Stine også nævnte, så kan
 
 00:41:00
 Merdi understøtte argumentationen for prioritering af robuste og bæredygtige overfladeløsninger øh for at ligesom opnå en mere blågrøn by fremadrettet. Men øhm hvis vi øhm hvis vi ligesom vi kunne godt tænke os at høre jeres mening i chatten øh omkring det her, fordi øhm vi har stillet to spørgsmål op at ø hvordan
@@ -263,7 +263,7 @@ tænker du mere værdierne de kan benyttes i beslutningsprocessen om løsningsva
 medtage og kunne medregne mereværdierne i de sådan konkrete øh øh ja konkret økonomi omkring det enkelte projekt, så er det jo faktisk ikke rigtig noget eller så er det ikke noget vi må nu. Så øh så spørgsmålet er jo at hvem er det her? Øh altså vi synes det er et rigtig godt over værktøj for at få overblik over hvad det de reelle mereværdi egentlig er af overfladeprojekter som jeg ø og vi her i Aarhus vand øh arbejder på at at øh
 
 00:42:30
-arbejde meget mere med i fremtiden, fordi det også er robust klimatilpasningsmæssigt. Øhm, men kommunerne er det måske et mere oplagt værktøj for for den kommunale beslutningsproces. Øhm, så det vil vi meget gerne høre jeres høre jeres mening om. Jeg ved ikke om du også har nogle nogle kommentarer, Stig du vil øhm supplere med. &gt;&gt; Ja. Nej, men altså ja, jeg synes jo mange af vores snakke igennem det her,
+arbejde meget mere med i fremtiden, fordi det også er robust klimatilpasningsmæssigt. Øhm, men kommunerne er det måske et mere oplagt værktøj for for den kommunale beslutningsproces. Øhm, så det vil vi meget gerne høre jeres høre jeres mening om. Jeg ved ikke om du også har nogle nogle kommentarer, Stine du vil øhm supplere med. &gt;&gt; Ja. Nej, men altså ja, jeg synes jo mange af vores snakke igennem det her,
 
 00:43:00
 som du også siger, Allan, det er lidt sådan, hvordan er det? Altså vi vil jo alle sammen de gerne eller de gode projekter, ikke? Altså ø både som rådgiver og og i som forsyning og kommunen, altså vi vil gerne bidrage til til de bæredygtige løsninger i byrummet. Øh så hvordan er det at man kan at man kan designe en beslutningsproces som som giver bedre mulighed for at træffe de gode valg omkring løsninger? Øhm, og det
@@ -284,7 +284,7 @@ løsningsvalg ser ud. &gt;&gt; Ja, &gt;&gt; det var måske lige lidt herfra. &gt
 samfundsøkonomisk beregning kontra det I skal lave øh det I forpligtet til i forhold til serviceniveau bekendtgørelsen? Har du nogle refleksioner omkring det? Jamen, og det er jo og det er jo lige præcis spot on det vi lige det vi lige har snakket om her, ikke også? at det er jo også altså vi vi kunne jo godt tænke os at kunne medregne øh måske ikke alle mere værdiend til en start, men måske plukke plukke nogen ud ø og have en udvikling omkring det for eksempel CO2 eller hvad man kunne synes var var oplagt. Øhm, så
 
 00:46:00
-øh som som Stig sagde, altså vi kan ikke vi kan ikke dem medregne dem lige nu, men vi ved jo de er der. Så i et og vi og vi og vi øh der var større og større del af forsyningerne, der også ligesom ser ind i at at prøve til omkring overfladeløsninger. Så ø så vi synes i hvert fald, at det giver en en værdi for os og et en måde at samtale på også omkring omkring de her overfladeløsninger, som
+øh som som Stine sagde, altså vi kan ikke vi kan ikke dem medregne dem lige nu, men vi ved jo de er der. Så i et og vi og vi og vi øh der var større og større del af forsyningerne, der også ligesom ser ind i at at prøve til omkring overfladeløsninger. Så ø så vi synes i hvert fald, at det giver en en værdi for os og et en måde at samtale på også omkring omkring de her overfladeløsninger, som
 
 00:46:30
 som øh som også måske øger processen mod øh gennemførelsen af overfladeløsninger både omkring robusthed, men også de her mere værdier. Men sådan ren kron og øremæssigt kan vi jo ikke få øh få øget finansiering til de her projekter som som det ser ud nu. Så er det jo så spørgsmålet, om der er nogle kommunale midler, der kan ø hvor man kan finde finde nogle penge til. Øhm, vi har blandt andet øh også et godt samarbejde
@@ -299,7 +299,7 @@ Og og når man kigger på på de her beregninger, som viser den her positive mer
 er jo nogle værdier vi godt vi vi ved at der at der bidrager til noget til noget positivt i byrummet kan man sige i stedet for at vi at vi pakker øh pakker det ned under jorden. Øhm, så øh, så vi har da vi har da haft det med i i de her i de her workshops, ikke, at vi øhm at i hvert fald indirekte øh prøver til i forhold til overfladeløsninger, fordi vi har den viden her omkring øh
 
 00:48:30
-mereværdierne. Og det kan man kan jo også sige, jamen ø når man så ved hvilken værdi de enkelte mere værdier så har omkring for eksempel øh rekreativitet på Vesterbo Torv, jamen så er det jo også noget man kan arbejde med i den tidlige planlægning. Hvad er det for nogle mere værdier vi måske vil opnå i et bestemt område for at løfte det? Øh det er også noget man kan man kan arbejde med tænker jeg. Ja, så har vi vi Søren, der spørger sådan lidt indtil, når når der er lavet de her beregninger, kan man så måle på
+mereværdierne. Og det kan man kan jo også sige, jamen ø når man så ved hvilken værdi de enkelte mere værdier så har omkring for eksempel øh rekreativitet på Vesterbro Torv, jamen så er det jo også noget man kan arbejde med i den tidlige planlægning. Hvad er det for nogle mere værdier vi måske vil opnå i et bestemt område for at løfte det? Øh det er også noget man kan man kan arbejde med tænker jeg. Ja, så har vi vi Søren, der spørger sådan lidt indtil, når når der er lavet de her beregninger, kan man så måle på
 
 00:49:00
 det bagefter, så man faktisk kan dokumentere, at mere værdien bliver bliver skabt? &gt;&gt; Det synes jeg er et rigtig godt spørgsmål. Øhm, altså det er noget vi ikke har erfaring med endnu specifikt øh sådan at at måle på ø ja på resultaterne fra øh fra NBS value sådan efterfølgende. Men øh men det er noget vi er vi er meget interesseret i at at afprøve. Øhm så det er noget vi vi
@@ -332,7 +332,7 @@ ikke særlig lang. Øhm så øh så det kan godt bruges på små projekter øhm 
 nogle beslutninger i de processer, der ligger der, har du nogle refleksioner omkring det? Jamen der er en masse udfordringer. Altså nu har vi været igennem Vesterbro Torv og den det kan man måske ikke stadigvæk kalde det nye lovkompleks omkring serviceniveau bekendtgørelse og omkostningsbekendtgørelsen. Og det har været meget meget tungt. Og det øh og det har vi også haft snak med andre forsyninger ø og også Miljøstyrelsen omkring at det at det er en meget meget tung proces for det første at få opnået
 
 00:54:00
-et servicenive som vi kan få mere finansiering til via vandtektortilsynet. Det har vi så fået igennem. Ø, og vores optimum det lå så på en 20 års 20 års hændelse eller serviceniveauer på på 20 år. Øhm, og så er det jo hele det her med altså så for at øhm der havde vi så en række tiltag for at opnå de her øh den her 20 års til også 20 års servicenive hvor det kan være hævning kandsten og så videre, hævet flade og så videre. Så når vi kommer hen i detail ø
+et servicenive som vi kan få mere finansiering til via vandsektortilsynet. Det har vi så fået igennem. Ø, og vores optimum det lå så på en 20 års 20 års hændelse eller serviceniveauer på på 20 år. Øhm, og så er det jo hele det her med altså så for at øhm der havde vi så en række tiltag for at opnå de her øh den her 20 års til også 20 års servicenive hvor det kan være hævning kandsten og så videre, hævet flade og så videre. Så når vi kommer hen i detail ø
 
 00:54:30
 detailfasen, hvor vi så skal reelt danne byrummet med arkitekter og så videre, så havde Aarhus kommune, de havde så øhm øh en arkitekt på, lyt arkitekter og en rådgiver på. Så det er jo så alle de her forskellige krav til både til altså øh brænd og redning til ø til til busser, der ikke måske vil altså eller må og skal køre over bomb for

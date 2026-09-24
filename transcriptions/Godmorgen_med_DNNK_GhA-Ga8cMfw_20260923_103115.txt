@@ -10,7 +10,7 @@ Transkriberet: 2026-09-23T10:31:15.751287
 00:00:07
 Godmorgen og velkommen til Godmorgen med DNNK.
 00:00:10
-Mit navn er Cornelius Pagels, og jeg er ansat i Sekretariatet for den nationale netværk for
+Mit navn er Kornelius Pagels, og jeg er ansat i Sekretariatet for den nationale netværk for
 klimatilpasning.
 00:00:17
 Jeg vil være vært her den næste times tid.
@@ -45,7 +45,7 @@ Hvor skaderne ikke længere vokser jævnt med vandstanden, men springer.
 00:01:11
 De har gjort det for 21 køstkommuner, og det er den analyse, vi skal høre om i dag.
 00:01:16
-Til at fortælle om det, har vi fået Sebastian Bukhay-Ehrminger fra Statens Geotekniske
+Til at fortælle om det, har vi fået Sebastian Bokhari Irminger fra Statens Geotekniske
 Institut, SGI, i Sverige.
 00:01:28
 Sebastian har arbejdet med tæerskelanalyserne for de skånske og hollandske
@@ -117,7 +117,7 @@ Det her arbejde med vores tærskelanalyser er sprunget fra det samarbejde, vi ha
 myndigheder og kommuner.
 00:04:13
 Det er os på SGI, der har gjort det, men vi har gjort det sammen med kommunerne og
-sammen med det, vi kalder Lernstyret SM, som er dem, der kommer til at primært bruge
+sammen med det, vi kalder Länsstyrelserna, som er dem, der kommer til at primært bruge
 det.
 00:04:24
 Vi har også gjort det sammen med SMHI, som er vores tilsvarende til DMI, og vores
@@ -135,7 +135,7 @@ Hvis vi så kigger på, hvad det her arbejde er, en tærskelig analyse for havsn
 et forsøg at identificere den niveau, eller den terskel, hvor Havøjet når land, og også kigge
 på, hvad der sker, når Havøjet når land.
 00:05:22
-Vi har et eksempel her fra Falsterbro.
+Vi har et eksempel her fra Falsterbo.
 00:05:24
 Der er måske en del af jer, der kender det.
 00:05:26
@@ -219,9 +219,9 @@ oversvømmelse.
 00:09:28
 I den blå er det aggregeret for hele Skåne, og herunder ligger kommunerne hver for sig.
 00:09:35
-De er sorteret på den måde, at den, der står som nummer to, Vallinge, det er den kommune,
+De er sorteret på den måde, at den, der står som nummer to, Vellinge, det er den kommune,
 der har risikerer at få flest bygninger oversvømmet ved fem meter, og så går den nedad, så
-næste er Krikanstad og Malmø og så videre ned gennem den her tavel.
+næste er Kristianstad og Malmø og så videre ned gennem den her tavel.
 00:09:51
 Og hvad kan man se her?
 00:09:53
@@ -381,14 +381,14 @@ største risiko?
 Og vil det forandres, når man går op og kigger på mere og mere ekstreme vandestande?
 00:16:57
 Og her for Skånes del, så kan man se, at det er tydeligt, at den region, der står for den største
-risiko set til antal boliger, der risikerer at blive oversvømmet, det er Vællinge Kommune.
+risiko set til antal boliger, der risikerer at blive oversvømmet, det er Vellinge Kommune.
 00:17:13
-På plads 2 og 3 kommer Kirchhamster og Malmø.
+På plads 2 og 3 kommer Kristianstad og Malmø.
 00:17:17
 De følger hinanden forholdsvis tæt i niveauer over cirka 2,5 meter.
 00:17:23
 Men hvis vi kigger tidligere end 2,5 meter, så ser vi, at der ikke er så store problemer i
-Kirchhamster.
+Kristianstad.
 00:17:28
 Hvorimod der er problemer i Malmø.
 00:17:33
@@ -425,11 +425,11 @@ Hvis vi kigger på værdi i kroner, så er det helt anderledes.
 Der er pludselig, selvom Hvis Malmø var på plads nummer tre i antal, så er de langt over de
 andre, når man ser til værdien.
 00:19:17
-I kan se, at Malmø og Vallinge følger hinanden forholdsvis godt frem til 2,6 meter ca.
+I kan se, at Malmø og Vellinge følger hinanden forholdsvis godt frem til 2,6 meter ca.
 00:19:23
 Og sidenhen er det, at Malmø det hele stikker af.
 00:19:26
-Og der er meget større værdier i Malmø, end der er i Vallinge eller Klikausta.
+Og der er meget større værdier i Malmø, end der er i Vellinge eller Kristianstad.
 00:19:32
 Og det er selvfølgelig ikke forbavsende.
 00:19:35
@@ -445,8 +445,8 @@ ramt, og vi kan sammenlignende se til den økonomiske værdi, der ligger der.
 Og.
 00:20:10
 Det bliver jo så interessant at sige, hvad gør man med den her information, hvis man siger,
-at malmødet værdien er mere end dobbelt så høj i Malmø, som den er i Vallninga, men der
-er flere bolighuse i Vallninga end i Malmø.
+at malmødet værdien er mere end dobbelt så høj i Malmø, som den er i Vellinge, men der
+er flere bolighuse i Vellinge end i Malmø.
 00:20:24
 Hvilken er så den mere prioriterede at arbejde med?
 00:20:29
@@ -504,12 +504,12 @@ Den udvikler sig principielt anderledes, end hvis jeg kigger på niveauer, der e
 00:23:07
 Men den er stadigvæk forholdsvis simpel.
 00:23:10
-Hvis vi i stedet for kigger på landskroner, så begynder vi at komme til de her virkelig sydlige
+Hvis vi i stedet for kigger på Landskrona, så begynder vi at komme til de her virkelig sydlige
 tærsler.
 00:23:16
 Den knækker igen to gange, men den knækker meget stejlt her.
 00:23:19
-Så for landskroners del kan man sige, at niveau 2,1 er meget vigtigt.
+Så for Landskronas del kan man sige, at niveau 2,1 er meget vigtigt.
 00:23:25
 Og hvis man så på en anden måde tæller og kommer til, at vi skal have niveau 2,6, 2,7, 2,8, så
 er det stadig sådan, at man bliver nødt til at forstå, at justillandskrona så er 2,1.
@@ -593,7 +593,7 @@ stor forskel.
 00:27:18
 Så hvordan vi definerer en 200-årshændelse i dagens klima kommer ikke til at påvirke
 særlig meget hvilken forståelse af risiko vi har ved den 200-årshændelse, fordi lokalt i
-Vorberg, så er der ikke særlig store konsekvenser ved nogen af de her, når man kigger i
+Varberg, så er der ikke særlig store konsekvenser ved nogen af de her, når man kigger i
 nutid.
 00:27:35
 Men hvis vi lægger på klimaforandring og kigger på i det her fald SSB 5 8,5, der ser vi, at der
@@ -677,13 +677,13 @@ beskytte, og hvordan svarer det til, hvad det koster at beskytte.
 00:32:13
 Noget andet man kan kigge på.
 00:32:14
-Nu har vi gået til Hørgaard-Nærs, en anden kommune.
+Nu har vi gået til Höganäs, en anden kommune.
 00:32:17
 Det er principielt det samme, vi kigger på.
 00:32:20
 Vi kigger på en 200-års hændelse i nutid 2100 og 2150.
 00:32:26
-Vi ser, at i Hørgaard Nærs, så har vi en sådan træskel, som er meget vigtig at forholde sig til.
+Vi ser, at i Höganäs, så har vi en sådan træskel, som er meget vigtig at forholde sig til.
 00:32:36
 Og vi ser, at den kan godt blive ramt allerede i 2100, Og hvis den ikke bliver det til 2100, så
 bliver den sandsynligvis til 2150.
@@ -807,7 +807,7 @@ Det er jo sjældent, man bruger det, men jeg vil vise, hvordan man skulle kunne 
 meget ekstreme niveauer også i kommunal danlægning, for eksempel.
 00:38:27
 Hvis man kigger på de her last likely scenarier fra IPCC 2150, SSB 5, 8,5 last likely, der får
-man for Vortberg her, meget store variationer i hvor afvandstand kan ligge, op mod 6,5
+man for Varberg her, meget store variationer i hvor afvandstand kan ligge, op mod 6,5
 meter.
 00:38:46
 I vores arbejde er det stadig sådan, at efter 6,5 meter er der stadig mange huse i kommunen.
@@ -816,18 +816,18 @@ Hvis alle huse er ikke ramt, så er der flere, der får nytte af, at vi beskytte
 00:39:04
 Der er flere og flere, der bliver beskyttet af et højere højedi.
 00:39:09
-Hvis vi sammenligner med for eksempel Vallinge, som fra 4-4,5 meter, de har næsten ikke
+Hvis vi sammenligner med for eksempel Vellinge, som fra 4-4,5 meter, de har næsten ikke
 nogen flere huse, der bliver beskyttet.
 00:39:18
-Så forskellen i mængden hus, der bliver ramt på 4,5 meter og 7,5 meter i Vallinge er ikke
+Så forskellen i mængden hus, der bliver ramt på 4,5 meter og 7,5 meter i Vellinge er ikke
 særlig stor.
 00:39:24
 Det er de samme huse, der bliver beskyttet ved 4,5 som ved 7,5.
 00:39:27
 Men det er selvfølgelig væsentligt sværere at beskytte mod 7,5 meter.
 00:39:31
-Så det her er en meget sværere situation for Vallinge, hvor det vil jo være meget svært for
-Vallinge at at beskytte Thalsterbro mod den her type af hændelser.
+Så det her er en meget sværere situation for Vellinge, hvor det vil jo være meget svært for
+Vellinge at at beskytte Falsterbo mod den her type af hændelser.
 00:39:45
 6,5-7 Meter.
 00:39:46
@@ -850,7 +850,7 @@ Den her er også opdelt, så man kan kigge enten på bolighuse eller på flerefa
 Og tanken her er, at det er noget, man kan bruge som en meget tidlig kvalitativ bedømning
 eller vurdering af, hvor alvorlig en oversvømmelse er.
 00:40:25
-Og der kan vi se for eksempel ved vandstand 2 meter i Vorberg, hvor mange af de cirka 100-
+Og der kan vi se for eksempel ved vandstand 2 meter i Varberg, hvor mange af de cirka 100-
 120 huse, der blev ramt, en vanddybde lavere end 25 cm.
 00:40:40
 Omkring halvdelen, omkring 60, har vanddybdet lavere end 25 cm.
@@ -906,7 +906,7 @@ Hvor tæt på kysten ligger de?
 00:42:45
 Ligger de meget tæt på, eller ligger de langt ind?
 00:42:48
-Og her kigger vi på landskroner for eksempel.
+Og her kigger vi på Landskrona for eksempel.
 00:42:50
 Vi kan se at Totalt cirka 2.300 bygninger, der risikerer at blive ramt næsten alle sammen,
 ligger inden for 1,5 km fra kysten.
@@ -937,13 +937,13 @@ sin kyst på helt forskellige måder.
 Yderligere eksempel på hvordan nabokommuner har meget forskellig
 bebyggelsesomsætning.
 00:44:21
-Harlemstad har forholdsvis meget, der er samlet tæt på kysten, men det er småhus, det er
+Halmstad har forholdsvis meget, der er samlet tæt på kysten, men det er småhus, det er
 enfamiliesbolige, og så kommer der en del længere ind, hvor der er flerefamilieshus.
 00:44:35
 Så her har vi en tydelig opdeling i, hvad det er for type af hus, der ligger på forskellige
 afstande fra kysten.
 00:44:41
-Og kigger på Malte Holm, så har de Næsten alting ligger inden for et par hundrede meter, og
+Og kigger på Laholm, så har de Næsten alting ligger inden for et par hundrede meter, og
 så har de nogle få, der ligger seks kilometer indad land.
 00:44:49
 Igen, forskel på nabokommuner, Trelleborg.
@@ -1028,7 +1028,7 @@ Men det er egentlig havvandstand, så det er en af de forskelle, eller en af de 
 den kommunespecifikke, at hvis du har vandstand, eller vand, undskyld, en å, der løber ud,
 der siger man specifikt, at her har du egentlig ikke en effekt af selve åen.
 00:48:06
-Men det du kan få frem, det er for eksempel La Holm, hvor man så de her seks kilometer
+Men det du kan få frem, det er for eksempel Laholm, hvor man så de her seks kilometer
 indad land.
 00:48:11
 Det er på grund af en å.
