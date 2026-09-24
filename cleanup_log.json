@@ -6357,22 +6357,6 @@
     ],
     "afvist": []
   },
-  "transcriptions\\Tech_Talk___Pathways_to_water_resilient_cities.txt": {
-    "anvendt": [
-      {
-        "forkert": "tiktok",
-        "rettet": "Tech Talk",
-        "antal": 1
-      },
-      {
-        "forkert": "",
-        "rettet": "",
-        "antal": 0,
-        "grund": "AI-rensning (rutine) - kun usikkert par fundet, frasorteret"
-      }
-    ],
-    "afvist": []
-  },
   "transcriptions\\Tech_Talk___Prognoser_for_afstr_mning_og_oversv_mmelse_gjort.txt": {
     "anvendt": [
       {
@@ -24195,17 +24179,6 @@
         "rettet": "Geovidenskab",
         "antal": 1,
         "grund": "AI-rensning (rutine)"
-      }
-    ],
-    "afvist": []
-  },
-  "transcriptions\\Tech_Talk_003_-_Sustainable_Climate_Adaptation.txt": {
-    "anvendt": [
-      {
-        "forkert": "",
-        "rettet": "",
-        "antal": 0,
-        "grund": "AI-rensning (rutine) - ingen nye hoerefejl fundet"
       }
     ],
     "afvist": []
