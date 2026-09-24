@@ -1,687 +1,227 @@
-00:00:14
-Jamen Jeg tror Sådan stille og roligt går i gang det. Det bliver en en eksklusiv lille lille flok.
+=== DNNK Webinar Transskription ===
+Kategori: Tech_Talks
+Video ID: 25a7BNv7clQ
+URL: https://youtube.com/watch?v=25a7BNv7clQ
+Kilde: YouTube auto-undertekster (engelsk - oplægget er på engelsk, tidligere dansk auto-oversættelse var ulæselig)
+Transskriberet: 2026-09-24T07:38:35.320128
 
-00:00:22
-Men det. Det er i hvert fald dejligt at at se alle jer Der er kommet eller ikke se jer, men i hvert fald i hører jer på vegne af DNNK. Så vil jeg rigtig gerne byde jer allesammen velkommen til til den her Tech Talk og Tech Talk.
+==================================================
 
-00:00:33
-Det er jo en af DNNK formidlings platforme.
+00:00:00
+and guess um
 
-00:00:37
-Fordi at procenter videnspartnere kan kan komme og og og præsentere deres produkt og og fortælle lidt om hvordan deres eller deres produkt eller den deres viden skal bidrage ind i ind i klimatilpasning.
+00:01:00
+foreign
 
-00:00:52
-Hvad hedder det i dag? Der skal vi høre.
+00:02:00
+thank you for joining this talk uh i do speak danish but to give a
 
-00:00:54
-Om.
+00:02:30
+tech talk in danish is a little bit of a challenge um my name is daniel kubov i'm within rockwool responsible for the innovation and development department that is running the urban climate adaptation program today i would like to show you why we are working on new products why we are working on urban climate adaptation and how it's connected to the new requirements in the market that are a result of a changing world
 
-00:00:55
-Der skal vi høre down og og Anders fra lapinus fortælle om deres produkt, der hedder rockflow og rockflow, adresserer en af de her rigtige, alt tilstedeværende problemstillinger i klimatilpasningsløsninger. Nemlig. Hvordan får vi plads til mest muligt vand og mest muligt mindst mulig plads?
-
-00:01:13
-Og Det er jeg helt sikker på, at der vil komme videre og nærmere ind på.
-
-00:01:18
-Programmet er og i dag. Det er, at der kommer først en kort intro fra DNNK. Det er mig theis, og Jeg er snart færdig derefter.
-
-00:01:26
-Så kommer darn på i cirka en lille halv time med hans oplæg. Oplægget vil være vil være på engelsk, men spørgsmål med videre både i chatten og hvis man har nogen dem dem kan man bare skrive på dansk. Det er ikke noget problem.
-
-00:01:40
-Og så slutter vi af med cirka 10 minutters tid til til spørgsmål og uddybning, så i endelig ikke holder jer tilbage.
-
-00:01:48
-Og i skriver bare jeres spørgsmål i chatten, så skal i nok løbe og få samlet sammen på dem sammen med Anders og så tager vi dem op her til slut.
-
-00:01:57
-Og ellers det. Det tror jeg egentlig Det var det for for mig. Jo, Jeg kan lige kort sige, at tik Torben bliver selvfølgelig også optaget, og det vil sige, at den kommer til også at ligge på DNNK hjemmeside.
-
-00:02:07
-Så hvis der lige er noget, man man misser i løbet af præsentationen, så kan man altid gå tilbage til til hjemmesiden og så se se den.
-
-00:02:16
-Ellers så tror jeg egentlig bare, Jeg vil overlade ordet til til dig, barn og og din præsentation.
-
-00:02:23
-Super tak.
-
-00:02:25
-Think youhning thistrack it dousting danisport 2 giver tagcit talk in danish and billy the chance.
-
-00:02:33
-My name is down the cuill i'm with in a Rockwool responsebove forly innovation and debat med departements that's runninge Warren planet adaptation and a program.
-
-00:02:46
-Today allte du show you wi wo are working on new product winew working on over will primært eftertation and howard's connected 2 the newy primance in the market that over resselt of the chain will.
-
-00:03:05
-Yes, så chanking world eller Sådan en mand i jeres spect of crowds i one time highlight tool them the first on be egentligt urban avenisation will rece of the last fifty years for vincent's. That's the twenty procent on the people more thopole i letting into in Citys in your.
-
-00:03:27
-Fra lox bestemt i Danmark, Danmark.
+00:03:00
+yes so changing world um it has many aspects of course i want to highlight two of them the first one being the urban urbanization where we see over the last 50 years for instance that the 23 of the people more people are living into in cities in europe if i look specifically at denmark then in 2019 already 88
 
 00:03:30
-Da den tidpause nineteing already atalay procent of the danish population was living and Citys and looking aha than reforce. That's right, twenty furty. The usual overly firty nine maker city in world with moder and then of in people and atrol that will happen Denmark forsurits.
+of the danish population was living in cities and looking ahead then we foresee that by 2030 there's already 39 mega cities in the world with more than 10 million people i'm not sure that will happen in denmark but for sure it's it's a very clear trend of of more people moving to the cities this has some important impacts for instance above ground we see more
 
-00:03:48
-It's a ferry Clara trend of of morebeable moving 2 the city.
+00:04:00
+and more hard surfaces and all the rain water falling on those surfaces are traditionally guided out of the city as quickly as possible below ground we see equally uh busy streets with a lot of pipes and cables uh some of them already there for 150 years um and i think that's you can see a very crowded space both below and above ground in these
 
-00:03:54
-This hash som man bruger på inbagt prinsesse bualt rundt we sige moder and more hearts euxes and all the ring waterd fall under services.
-
-00:04:06
-Todlishing, the guided out of the city as qickly og spørgsmål.
-
-00:04:12
-Billowant re. C ecoly basis Street will love of vibes in cables som of that's orrey, derfor Harald fifty huse.
-
-00:04:24
-A thing, that's it. You can see every crowd space balt belo and a balt crungns intelics.
-
-00:04:34
-Max side.
-
-00:04:35
-Vi er blevet deglæber chancen justit give dem lambles on that old last body years therese wean agey three procent inkres of extre milarrifans and what are you? Extreme battery fint and be drow liquid receeing and california meter trailin astridir bedolsual mojn Moore happy storms.
+00:04:30
+cities next to that we have the the climate change just to give some numbers on that over the last 40 years there has been an 83 percent increase of extreme weather events and whether we extreme weather events can be droughts like we see in california and the mediterranean australia but also uh more and more uh heavy storms than
 
 00:05:00
-Vil jeg sige like friendsence lee clockwatch there was theiro and Danmark tanguesclub.
+we have seen like for instance the cloud burst that was there in denmark ten years ago over the last over a period of of 10 years we've seen 3.4 million people in europe only affected by floods so it is it is a big and increasing problem um in denmark specifically over the last 150 years we've seen a 15 increase of precipitation so what does that mean for the changing
 
-00:05:08
-Og Lars over Berit of tanduirs of viewsene freebounds form med in people in europe only affected the by fluns so it is Anette beck and in incesten pallum en Danmarks specifik all last håndjern fifty years rececen ay fifty procent ind pris of presseation.
+00:05:30
+world in the urban setting with regards to urban climate adaptation for one there is too much water uh as i said uh 15 increase in uh absolute precipitation but definitely also an increase in the extreme weather events so the cloud burst in between those cloud brews we see there's too little water uh leading to drought periods in between the rain events but also uh another aspect of the too
 
-00:05:29
-Så hvor der Sådan er min ford changing world inde i urban setting with hebs 2 overvinchlimedaching.
+00:06:00
+little water is that all the rain that is falling is channeled out of the city meaning that the the let's say the precious resource that water is is not retained and you see uh for instance a lot of big cities that are subsiding and so the ground level is lowering in time and this goes actually faster for those cities than the sea water level is rising so that definitely is also a very
 
-00:05:37
-For one diverse too match water, altså fifthing procent inknes in absolut presentation what theffin your also in incase and the extreen wateryvans og that declouds.
+00:06:30
+important uh aspect and it's too hot you have the urban heat island effect it is caused by a lot of hard reflecting surfaces in the in the city so all the heat by the sun is is kept inside the city um another important aspect is that um through the years we did not think uh in the past that uh it is worthwhile to have a lot of
 
-00:05:51
-And breing the stlobers we see therese 2 little water leading 2 drubberyage in the twin it the ringments.
+00:07:00
+green and water inside the city but evapotranspiration from trees is actually a very effective means to to lower this temperature but as there is very limited green we see this heat island effects constraints um as well above as well as below ground we have very little space in the city we value the space very high so
 
-00:06:01
-Respekt of be toiletter warner is that all the rain that is falling? This is Champions out of the city.
+00:07:30
+we try to get the maximum out of every square meter inside cities for habitation for the streets cars so there's very little space left to to do anything about the urban climate then last point sustainability uh of course the solutions that we implement now we don't want them to be to have a negative effect and make the problem only worse in the future so we want to use as much
 
-00:06:08
-Meningen at tale pressed ressource that waters it is noth rets and yousee fronts a laut of a bigster that are subsiding and a and n soul that they ground lowess is lovering in time and thiscous actre faster for Douglas city-standly see water level his rizing så that definuse also bearing poultims.
+00:08:00
+as possible natural materials and also use them in a way that they don't disturb the environment too much all these uh aspects they are captured in a framework of legislation within europe um there's this this overview first of all we have the frame water the water framework directive sorry uh it has been there since 2000
 
-00:06:33
-Aspekt.
+00:08:30
+and it is set in place to improve the water quality of the groundwater and all the surface waters and also to mitigate the effects of floodings and droughts so it's a very basic directive that sets constraints to to what countries and cities can do with with regards to water um i think a very important aspect of this part of the legislation is the demands
 
-00:06:36
-Hans stut Johan lige overen le iron effect er det sports bare lort of hakty pleting services end det in the cell so og The heat why's it is escape in scienty and thor are import in the spected is it that that's that through the use we get noth think it in the post that that's it is world travel 2 happed love of the Green and water inside.
+00:09:00
+it is that it's set on the ecological and chemical health or quality as you want of the service waters then another very important one on the lower right corner is the urban wastewater treatment directive it has been alive since 1991 so it's a very old one but still very very active and it has to the objective to prevent an environmental pollution by
 
-00:07:03
-Fordi i var på transportiones acclya very affected mainested 2 2 layout islam på that's theres ferie limited Green we see this is heat Island fact.
+00:09:30
+sewage water run-ups so basically it says by insufficient treatment of wastewater but what happens a lot is that sewage water enters the uh the environment untreated and that gives a very big negative impact on the quality of the water last but not least there is a flutter it's the relatively newest directive it's from 2007
 
-00:07:16
-Space conference.
+00:10:00
+and that specifically looks at the adverse effects on the environment of floodings it does not specifically look at floods from stormwater from from cloudburst it is believed that probably this year there will be a renewal of these three legislative frameworks and it is believed that the flood directive will specifically say something about
 
-00:07:19
-Øhm altså. Well hvor øh.
-
-00:07:23
-We have ferryter we firl yoy the space fairy high, so.
-
-00:07:31
-Reto get the maxal out of avery square med inside Citys for appositation for the streets. Cass så this is very in little space. Lift 2 2 do anything indbage?
-
-00:07:48
-Hvad er det nu? Lastborgen sustainability of frokost involutions advioter mit navn we don't want then 2 be 2 have a naked effected in mected problemer hulty wars in of future soy one 2 use as mod bossovo nattual interviews and also the Houston and away that they don't disturbly the inryment 2 monch.
-
-00:08:12
-Og asfalt Det er acaciuet NA pointwork of land station and with the europe this this this on hue.
-
-00:08:22
-Første dreng Jeg vil frany water the wather framework direct sorry in hash vin there Austin it's 2 found and it is playstation in profes the watrpolity of the ground water and on all on thurtes waters.
-
-00:08:38
-And also med gay eat fact of flotington r wow så it is of ferryin basically direkte that sats constraints 2 2 wat.
-
-00:08:48
-Country and sidydsk and theo with the with that's the water.
-
-00:08:53
-I think in very imported asfalt of thest budget the slash as and the diamants it is that is sat only and exalogical incomical health orkualitet is you want of observative portugl.
-
-00:09:09
-Er der noget der hedder fery import of the one on the lover rightgoron især overen waste sparter tweet men direkte.
-
-00:09:17
-It's hasting lifestendes nineteen ninete one som fairy over one blitz still beat fury active and last 2 objekt of the protvant an a voying mentor prolution by South water runnumps.
-
-00:09:34
-2 bedst why interfition tweetment off the way sport but watt happens of not is that souteswater andterøst the environment om twittet.
-
-00:09:46
-Adam gips very weick naked in bact 2 prom on and the korte side om du bruger.
-
-00:09:51
-Nå den var den liste flot directive et sted reality forly news and intract this is from two thousoutmental and specifikt me lux and the ad rose facts andvirement of floings.
-
-00:10:07
-It's this and not's specifikke look at flots from stormal from from globaly's it is bellave that's problemer inde decier of the will bearnivel of thistree.
-
-00:10:22
-Lad os late 2 Frank woolf er en this re leaf that the Floyd dicted will specifikt League stay something about storm worter.
-
-00:10:33
-This for directive and forcess all thetes 2 have flop risk management plance.
-
-00:10:42
-Wich, though something about how how it is the city gong 2 preference flotics and there are tibit in mojesition. Denmark ingores with the interesse and you said at now moy mourin know and o don't you ping countries Beatles risk Floyd res management blance.
+00:10:30
+stormwater um this flood directive enforces all the member states to have flood risk management plans which tell something about how is the city going to prevent floodings and there are typically in what you see in denmark and also in the netherlands and you see that now more and more in all in other european countries these risk flood risk management plans do not only look at rivers but
 
 00:11:00
-Not orn ny look at at rippers blev definals of look at the store model.
+definitely also look at the stormwater so all in all this framework of european legislation aims to for one make sure that water gets cleaner and cleaner so especially specifically looking at the groundwater and the surface water secondly getting these waters cleaner requires preventing overruns from the sewer system towards the the the environment and thirdly
 
-00:11:06
-Så on and pointwork of your been that's station Amnesty for one mixtour that watergats clean and clean up social specifikt specifikt clean looking altså run water and the soul of water.
+00:11:30
+you can prevent these rainwater these [Music] overflows of the sewer system by preventing rainwater coming into the dirt water sewer so this these three legislations they give a very good framework of how we can handle this this problem so how big is the problem if i look at denmark then for sure there is a lot of
 
-00:11:22
-Secondy.
+00:12:00
+overflows of the sewer systems this map on the right is made by the data from the focal team it was published last year i believe it's data from 2019 and i know the map is very much disputed uh because it's uh it's based on calculations and not on actual measurements of overflows but it does indicate that the number of overflows is very substantial and it's throughout the whole country
 
-00:11:23
-Cannabis waters clean and reguines prefanting offer runds found the sour assistent 2 watts the inpriment andførtly and you can prant that's rain waters it.
+00:12:30
+maybe concentrated in copenhagen if i look at the colors but the problem basically is everywhere so what should we do one solution that has been traditionally used is to install pipes big pipes sewer pipes to to capture all the dirt water and rain water and then bring it to the wastewater treatment plant and get rid
 
-00:11:39
-Overfor flow og bestyrelsestiden by preventing ring water coming into the dot war result.
+00:13:00
+of it but we see with the bigger rings that you would need even bigger pipes than you already have and then if you install a big pipe in one street then the the water going to the next street will be even more so you need an even bigger pipe there and there's a it's a cascade of problems and you would need ever ever bigger pipes this is both very expensive almost prohibitively expensive but next to that you would also
 
-00:11:46
-Så list distre leach stations the get that fairy good framework of a howy can a hean and this disproble.
+00:13:30
+throw out all the the water that you very well need inside the cities for the urban heat island in fact but also for the too little water problem uh which which you can give in the end source of silence so we preach more to keep the water local the ring model local capture it into systems buffers creeks bodies all kinds of
 
-00:11:55
-Så how byt is problem i får looket Danmark der er fusure the wis and love and poin flows thor resources this matrone right is mate frid datter punkt folkeding. Det er Vores oplyst lost here of the levede 2 datter. Founders and nineteen.
+00:14:00
+such system systems but then also we need to clean that water before it's sent to a recipient to make sure that we fulfill these demands or start fulfilling the demands of chemical and ecological quality so what kind of solutions could be used first on the left we have the nature-based solutions which i would say should always be
 
-00:12:15
-Kalkulations and not your excel majments of oach with thors entade that the number overtlows is very substantal and it's through out of thor, country maybee punktcentre and in Copenhagen inde i folk locedy colorse watt the point bestille vis every.
+00:14:30
+preferred if possible um so having the water above ground has a has a lot of benefits um both in terms of of cost it's it's a it's a very cheap solution but also uh the water in the environment gives a lot of benefits for the people living there for the green uh but also for the aesthetical aspects um typically uh you would have these these kind of swells or bodies um and the the water can be cleaned by the
 
-00:12:44
-One solution that's being toudition meste esther stole vibes, big bites superbites 2 2 Capital Robert wall any thing water and a and a ring-s 2 the way store tricm-med blandt andet reducred receive, hvor de giver begge rings.
+00:15:00
+soil underneath you have precipitation of course and you have a send passage also in this category i would say i would say you have retention point pods that are used to clean rain water already i think these solutions are very effective and should be preferred but in the urban setting there's a lot of a lot of times you have space constraints and you just don't have the space to to use
 
-00:13:04
-Er det mit effean becker bies Danny overly have han then IQ instal the big private in one streat then the wasing Google 2 the next sted hvor beat in the mall Street eaton even big up and især it's cash cate of of programs and you know meated haway everon big up.
+00:15:30
+these natural based solutions then you have the buffer solutions which basically is a very large area where you can store water under the under the ground that can be typically parking lots industrial areas all kinds of areas you have these large bottle solutions from there the the water the rainwater that is collected in it can infiltrate in the ground if it's clean enough
 
-00:13:22
-This is bog fairy expl.
+00:16:00
+or typically you would also have a delayed discharge towards the sewer so then at least you take out the peak in the in the water uh from a from a clown girls for instance you take a peek off you don't overload sewer system and you will not have uh super overruns so it's a very effective solution for that but again you don't always have the space and you don't always make maximum use of the water i think the urban green solutions where
 
-00:13:26
-Vores poplemte Politi explinde på lection that's youot also the froughout, all the watch of the that you fir well meed insula celice four that og den helt art effekt what iso for the toiletl under publende washing måske and cannive editor.
+00:16:30
+we store the water very close to trees and urban green you actually do make very efficient use of the water that is collected it is transferred to the trees for instance from where evapo transfers which lowers the temperature albeit that effect typically is very local so you don't get a you don't solve the heat island effect of a complete city but if if you can already uh
 
-00:13:45
-Så vi preach more 2 key 2 water local ring war local Capital into systems, buffers creaks, vardies, orkans of shorts, system systems.
-
-00:14:04
-På den off sole of watter refor it's santo and the receibent 2 maxt your that we for phil this dvants australs of cannabon i colunch Google.
-
-00:14:20
-Så watgran situations kunne beusted.
-
-00:14:25
-First on lehed we have nature base situations witch. I will say what all beat preforord it psystem så have a water a buert Brown altså altså lort of benefits balting trumpes of cost.
-
-00:14:40
-Gaarot chips uslusion, ritu social.
-
-00:14:43
-The watering invirment gives love benefits for people limware.
-
-00:14:48
-Får du Green bay, så får de det estalt godt, Astrid.
-
-00:14:53
-Tæppedly you have this leas gang of twelles og og wartis.
-
-00:14:59
-And the waterclumpy clean hvad hedder det? Sorry under need you have prestation of calls and you have a it a yac send passage.
-
-00:15:09
-State i will tay your retantion bund point that do it are uusted 2 clean rain water or ready have think this solutions, overfary, affective and shoot beford.
-
-00:15:22
-What any urgen setting leves of what of loves times your have space constraints. And you do it just on have space too. 2 the us naturbase situations.
-
-00:15:33
-That's the buffer solutions. Richard bedically is very large arria we are. You can store water on the under leicard ground that kan vi tabe buckinglove industrial area årgange, arius i abe and lunge buckers lussings.
-
-00:15:53
-Form Det er at hedde det water the rain water that it is collacted kan info traditing the round infus Green anugh over tæpped click you og så have delay dist charge towalto så den atless you takeout peak in the water Formel formabers princice u tect peak off you don't overload a sure system and you want mood have.
-
-00:16:17
-Super overwatch.
-
-00:16:18
-Så fortæller vi faktisk nu sin produkt. Vil gerne starte space and you don't Alice make the max of all the watten.
-
-00:16:29
-Og den gjorde urban re insolutionsware restore the watery class 2 2 tweets and a and urin Green.
-
-00:16:37
-Actly du make therey effektion views all the water that's collected there is transfer touch trease printence forward i vattle transprase wuffyloest deammition albi et andet fact teknikes is very lokal 2 you don't get it a, we don't soul the heat. I don't effect of the completerly but.
-
-00:16:58
-It is you can know ready regives tambitues and the comfort indgrice, the conful and the Street as orre we are reading big wing. This is awardit of the systems that you can. You can not store lange sufort så than you haft 2 combinotions.
-
-00:17:15
-Belastisten lay there where we are wass rocklow work very mclon is the store motor zur assistent sorte basically is browla syst and 2 the there watersour.
+00:17:00
+reduce the temperatures and the comfort increase the comfort in a street is already a really big win disadvantage of these systems is that you cannot store large amounts of water so then you would have to combine it with one of the other systems the last system there where we as uh rockflow work very much on is the stormwater sewer system so it's basically it's a parallel system to the dirt water sewer all the water and the storm events they
 
 00:17:30
-Allé rainwater and the the stormy grise. Det er kæmpe stort fairy quickly and 2 this stormmotor super all incortation zoom and from the are info trade slowy intuity ground.
+can be stored very quickly into this stormwater zoo or infiltration zone and from there it can infiltrate slowly into the ground or again if necessary you could have a delayed discharge to the sewer system through the dirt water suit system so what is workflow we make elements of stonewall that you
 
-00:17:45
-Igen, sorry with the have disch 2 bey succe 2 do it dood quarter succes.
+00:18:00
+might know from the installation rockwell insulation visually it looks very similar in practice it's very different where rockwool insulation is made to repel water we have made a rock flow to absorb water and it can do that very efficiently we can absorb up to 95 percent of the volume of a stone block of water and keep that there until the surroundings is ready to take up water
 
-00:17:54
-Så bruger du the klump?
+00:18:30
+again we don't have any loss of or minimal loss of urban space i would say uh we can install the rock flow systems on the streets under parking lots so the the city above the system can just continue to to run it's a very flexible design the stonewall can be cut very easily with simple tools into all kinds of shapes and by that we can very easily work around all the pipes and cables
 
-00:17:56
-Øh wemake alonns ofst that you'm mind note from the intilation Rockwool installation fastually ad hoc, very timmer and practed ins favory diffent where logo intellation is mate 2 rebel water wee of mate rock flow 2 remsore broder and it canoot therey officiallykke we cannot look 2 nine fightprocent on the four yum of Stone will bloklock.
+00:19:00
+that are existing in the subsoil it's a sustainable material the stonehold is made of um volcanic rock uh typically basalt diabas so the earth can produce much more of this rock or is producing much more of this rock than we will ever be able to consume so in that way it's very sustainable raw material of course we still use a lot of energy
 
-00:18:24
-Og warter.
+00:19:30
+to to melt the stone and make it into stone wool traditionally this has always been done with carbon-based fuels but rockwell has now set a very ambitious goal to get away from the carbon-based fuels in the in the coming years and the first steps have already been made the the first oven coupler in denmark has been transferred last year to a biogas installation which now runs completely co2 neutral we have the first
 
-00:18:26
-Hilda dear and tailly surroling is verac 2 take Award.
+00:20:00
+large-scale electric melter in moss in norway where which will also run a neutral co2 neutral and that is two out of probably 30 or 40 factories that we have in the group so we have a long way to go yes but i think we are very well on the right track there and last but not least and that is also why i want to have this talk here now
 
-00:18:33
-We don't have anythof all mening loves of overenspace modtag weekend installat rock close systems understreed on your bucking-laed så the silic a buff er der system canust conten you too. 2 run.
+00:20:30
+today is the filtration what we saw very early and when we started with is that the pore size of the stonewool is very small which means that we take out a lot of the suspended solids out of the system out of the the water what we didn't know at that time is that we can also take a lot of dissolved pollutants out of the water so that is also a little bit the basis of the rest of this talk
 
-00:18:49
-Interfery fax pro design Stone will can beck cut fair play easy listen the tools.
+00:21:00
+rock phone where have we installed it we have installed over 160 projects over the last three years i would say we started in the netherlands where i'm from myself um so we we have a very dense network of projects there already um almost also present in stock has been active in denmark and doing a number uh number of projects there and we've
 
-00:18:54
-Altså årgangs ofes and why dad weekend early easy work around all that pibes and cagles that hings list thing and the subsocie.
+00:21:30
+also done some uh excursions to to sweden and norway so far um the projects they are really different in in size and application i think in the upper right upper right corner you see a vibe which is a smaller application inside city of copenhagen i believe in this case we have projects like large buffers in the middle where there's a
 
-00:19:04
-Jeg synes jeg stan wom motiver jo storm mod estimated off.
+00:22:00
+a couple of hundreds of cubic meters installed in in one area and in the lower right corner you see an example of this rainwater sewer where the ring of a complete neighborhood is collected under the street the system is running parallel to the dirt water sewer it's not visible anymore this picture is just a little bit lower below ground but this system like this rockflow is running
 
-00:19:10
-Cannabrock tilblivelse alfoen verybass.
+00:22:30
+over three kilometers now in this one city so very different kinds of projects that we have why is there a need for filtration i said in the legislation european legislation it's already indicated that we should look after our waters make sure that the quality is improving and i think this is a picture i believe it's it's uh kosher in uh in denmark where you see a lot of eutrophication
 
-00:19:16
-Så de øret skal produceres much more of this rock and is producering mox more this rock and we will everbe able 2 consum so en that way there it is very sustainable rummetywal of forourse weste use and love Energy 2 2 millt bestone and make interstone wool.
+00:23:00
+already of the of the lake here meaning there's too much too many nutrients in the water which leads to algae bloom um which gives a very poor biodiversity in the water to prevent this to to remediate this we need to make sure that all the water that is running from the city into this lake is cleaned of all the um all the uh copper zinc that's coming
 
-00:19:34
-Tourismede Det er altså overbevisende om with carbon bas fiel wat Rockwool hash nowns that every and vision gall 2 get away from the count and best fuels in the iny coming up and a first snaps alvorligt ama mained the first.
+00:23:30
+from the roots all the fertilizers that we've put on the lawn all the fertilizers that comes down with the rain uh due to evaporation uh somewhere else um so it's important to clean this water that is running into the lake to make sure that at any time the quality of the water in the lake itself is also improved so what did we do in the early stages
 
-00:19:49
-Ovenpå oven end Danmark havde spillet transfer last direktivet in biogast installation wish know runs complete CO 2 neutro.
+00:24:00
+when we realized filtration is very important we started testing here in the left side you see a test that we are doing with we haven't been doing with a ti in denmark where we specifically looked at the suspended solids what you see is a channel going into the stonewall that we typically use to bring the water to our system and what you see is that by far the most suspended solids they are captured
 
-00:20:01
-We are the first and last skill electric milter.
+00:24:30
+within this channel so we've done these tests to look at how much can we capture which particles would come through if they do where do they come through what is the impact on the hydraulics of the system if you have this this layer of uh suspended solids inside the channel et cetera et cetera then on the right hand side we took a a different approach uh we did this investigation with bargaining in university in the netherlands
 
-00:20:06
-Must in knowy.
+00:25:00
+and there we looked specifically at the dissolved pollutants so not so much the systemic particles but the dissolved ones these tests are aimed at measuring the metals so we added the zinc copper to the water brought into contact with stonewool and saw measured how much of the copper is absorbed in the stone we did the same with a polyaromatic
 
-00:20:09
-Which will asson run and CO 2 neutron.
+00:25:30
+carbohydrate ph and also they are measured how much of the dissolved organics can we take out so this is a table of results we have seen we've gathered so far in different investigations so in the lower right corner it says here ti and university of marketing some of these results are also captured in field test where we have installed actual systems in the field and measured the results there
 
-00:20:15
-That is two out of problem firty of forty factis that we have in awood so real lom with 2 go yes, what i thing we are there a will unrig track them.
+00:26:00
+suspended solids so in the first two columns you see the typical concentrations we see in run of water for suspended solids typically around 90 but they can vary very much from 30 milligrams per liter very clean water to 300 milligrams per liter which is a very turbulent order i would say we see in the performance that we take out over 94 of these suspended solids and the chemical
 
-00:20:27
-Lad os lige, dame list and that's it is alsoce one that is talk you navn today as it fossation wat we soe very early and thor we are start of the rockflow is that's the borce of the storm in the very small with reed that whit cheekout and love there is su spand hva solid oto Thisted.
+00:26:30
+biological oxygen demand so which is measured for the amount of organics that we take out there we also see a very large decrease of the cod vod in the effort total phosphor we're also quite efficient in taking it and that is because um phosphates and all the the structures that phosphate is part of they typically
 
-00:20:48
-Har du?
+00:27:00
+tend to absorb to the suspended solids so if you take out suspended solids you already take out a lot of the phosphates same holds for nitrogen where we can take out a lot of the nitrogen because they are absorbed to suspended solids the downside what we saw is that the dissolved phosphate absorbs very poorly to the to the stonewool as it is now in the lower table the table is split because you talk about a
 
-00:20:50
-I dette know and deadline og take and lut of the soft på lootings of the norter, så den speert sorg lidt rigtig basis of the rest of this talk.
+00:27:30
+different order of magnitude instead of milligrams we now talk about micrograms but i would say all the components the heavy metals copper zinc and also the pdhs they are absorbed quite efficiently not always to over 90 but still quite efficiently out of the water now one of those field tests this is the
 
-00:21:04
-Bochum weir have wean stoppet med at installed over 100 sixty project all last the free yourse overtal vi startede den the milliard world formassell.
+00:28:00
+project in august it was code named underground and it wasn't installed in 2016 with the help of the mudp program subsidizing program the idea here was to see if we can take these principles of filtration of stone and see if we can clean the water quality to a level equal to the present but
 
-00:21:16
-Så whey ferry dans natwork of Portugal, Det er oraven.
+00:28:30
+and the best available technology at this moment is the uh the retention ponds that are used they they take a lot long take up a lot of space which would not be possible in this area and always but they are very efficient in cleaning if i go through very simply through the design then here you have the entrance one that takes all the water that is coming from the the cross-section area with the uh the o2
 
-00:21:22
-Anders og surprosed instalk hashbime active end Danmark and doing and nummle nummer forskelst there and wefald stole dan som er explraitis and stu 2 sweet and a no way so from de project da jeg really different in 16 applikation ihing in the operated operat on austy inn fibe.
+00:29:00
+ring in in os so there's a lot of water and a polluted water i would say also from there it runs into a manifold where the water is disputed over different strings into the stone in this case we let the water run into in from the top and from there it slowly percolates to the bottom and in the bottom it's collected again into a new well
 
-00:21:47
-Asmall of application inside Saint of Copenhagen og The Beatles need case.
+00:29:30
+and from that well you would see here in the lower right picture in the end from that well it runs into a number of swells that slowly go down to the to the fjord if it's not infiltrated along the way um so i said we make sure the water runs in from the top here to get an optimal filtration in a lot of other systems that we built for for very speedy storm water or cloud versus uh applications we would do the other
 
-00:21:54
-Whatever projekter bufferles in the mellem.
+00:30:00
+way around we would fill from the bottom and push the air out from the top to get a faster filling speed and this filtration is not the the criterium efficient filtration so of course on the system as we had the intention to see if we are better than that or comparable to bot we did a lot of measurements and compared them to the performance the
 
-00:21:59
-Prøv at hør Det er jo så kommet Anders of q wit minutters installed end in one arin.
+00:30:30
+documented performance of a of the best available technology retention plans the bullets here on the right hand side the green bullets they indicate that we have a performance better than but the yellow ones where we are comparable to but and the red one is where we underperform compared to the butt as you can see along the line we have a good performance we just have a problem with the phosphate
 
-00:22:06
-Er en del af right governcy alexandro Office ring waters soul where the rain offic complet, maple wold s collacted under Street. This is one barloed toly dood quarterso it's not just a litt bits low up re low round.
+00:31:00
+then luckily we were able to talk to uh or loveson uh which you probably most of you will know also part of the dnmk network um and he brought us on the track of looking at iron oxides the very so the first questions that we uh try to answer together with with ole larsen is can we grow iron oxides on the wool
 
-00:22:26
-What disse assistent my this is rock cllo is a good and over twitclounders now and this one secy.
+00:31:30
+and by that have a huge increase in surface area and can this iron oxide in the wool also capture phosphates so that has been topic of investigation for the last half year i would say and here is some of the results just to tamper the expectations we don't have a product yet we are still developing but here the the result we have so far
 
-00:22:36
-Defent presse project.
+00:32:00
+so this is a left-hand side a let's say naked stonewall as it comes out of our production and then in the middle you see the product after it has been coated with iron oxide and the iron coating is through and through and that you can see on the on right right hand side the microscopic picture where all the glassy fibers are actually stonewall fibers and now the pink reddish dots is iron oxide grown on top of
 
-00:22:39
-Wine of ER need for flot traction.
+00:32:30
+the virus and this has increased the surface area of the samples enormously and we don't have results of our own laboratory yet which we are gathering as as we speak i believe our labyrinth is measuring phosphate concentrations today but these are the results of order where you see the absorption capacity of different ways of applying and after
 
-00:22:42
-I said and legy slash slashion is al reading enegade that why's look auto og waters mics wal that's the courity is and podcing and a this it is big 2 ad Lives it's corxy and end end Danmark.
+00:33:00
+different ways of applying the iron oxide coating on the on the wall the reference here has a absorption capacity of one it's all relative numbers of one and then you see in some of the uh treatments that that ole did we get a 480 times higher absorption capacity of phosphate on the wool than the the naked wall so of course this is a path we want to continue to
 
-00:22:58
-Hun er yousee of youtubecation ordentligt on the lake.
+00:33:30
+and continue to look at so what are the next steps for us first of all making a sample in the lab is very different than making it full-scale rockwool production lines they produce maybe 10 000 kilograms of stonewool per hour and having a iron oxide coating process in in that production process
 
-00:23:04
-Mealing there is two much, two, many.
+00:34:00
+will be a big challenge so of course that is one of the things that we look at very much at this moment how can we mimic or how can we copy this this production process in in real life then secondly what is the solution efficiency of those phosphates if we have those two answers we could come with a let's say preliminary product that we can start testing but before we really are able to to have a commercial product we
 
-00:23:07
-Nuts end the water with leeds 2 LG blom with cause of very polar by the firsty intervieward.
+00:34:30
+need to look more into details at the filter design how should we design it um for instance this example you see here on the picture a project we did in boeing where we managed to make it very efficient filter but we kind of made some mistakes with the hydraulics so it's working very well as a filter but not so much as a
 
-00:23:18
-Tuborg-fandis tuo tu two remedie this wine 2 mac what that all the watter there is running found the city intuity slag is cleaned of ally.
+00:35:00
+buffer so some work to be done on the filter design we will improve next to that we need documentation of course we need to show with with data from labs but also from from real life how we uh how we can capture this phosphates maybe there's also other components we will look at in the future and then last but not least uh experience we need to build up experience before to get to a real
 
-00:23:29
-Allly corporate zink this kommer fra the roos allé fortallise that read bull andom lawn all the food and now and come download the rein u 2 evaboration som will.
+00:35:30
+commercial product so taking back uh getting back to the the larger perspective um what we want to do as workflow is provide tools for for the people in the market to handle this urban climate adaptation we see there are ways to address the too much the too little and the too hot aspects of urban planet adaptation within the space constraints
 
-00:23:44
-Så et intimport 2 clean is water.
+00:36:00
+of the city and within the sustainability aspects that are that are set um and yeah we want to have a minimal negative impact that is also of course why within our production we are looking at carbon zero based production methods but we also want to maximize our positive impact on the environment i hope with the developments that we are doing at this moment have been doing in the past and are doing at this moment
 
-00:23:48
-2 macs your eller en-time of the wat in the soffice.
+00:36:30
+we can contribute to this the challenges that we see in the urban climate adaptation thank you very much for your attention and i'm really eager to see if there's any questions yeah thank you so much don it was a great talk and i think we'll switch to danis if it's okay with you
 
-00:23:58
-Så rundt om lidt mindue og hurtigt stadie-s wording rickyht fund traction isviron Porto work starter tusting hearin last site yousee tasted we are doing with baham vind do it with t iron Danmark would specifikt i lugt af this is spanatologed hvor justit is the channel going into the storm that we tippedy use 2 ring the water too autistion.
-
-00:24:23
-Han måtte jo se is. That's it most.
-
-00:24:29
-Sustand soluted they art caricht with in this channel so we don't is thats 2 lucad howard's goy capture rich partelles with concome through FD do we where doy count through? What's the inbact un the hill Galaxy of thistent if you haft this this a layour of off assistent souls insider champign.
-
-00:24:49
-Patchwork, terminton.
-
-00:24:51
-Land om widd-tiden definit with Thisted in firstegation with a vatining an University in the alanc and. There are reload specificly at the disoft polotens and that's mucy sustemand bodyle spil desough funch and that's the tast are-ted machering League matles og we are ad that sing co pokal 2 do there water.
-
-00:25:19
-Would intercom battles stormal and soul.
-
-00:25:23
-Of the corporate.
-
-00:25:25
-Den, der står ude i The same with their er bori matic carbo hydrigs page.
-
-00:25:32
-Han overståede Det er madsheden ah muach on the disse and organics-tav.
-
-00:25:39
-Så hvis tabuoffer results websey wieff Gabriel so far and diffent of station so and a and low right white corner it's satury TI and universe of wark ning sol of the 2 resiled all so Capital in fill test really have installed actual systems.
-
-00:25:57
-And iPhone and an mach 2 eller there the result them.
-
-00:26:02
-Så stand talent som hende der først du kommer, så vi kan sige Det er tempedico koncentrations recy and a runn up water føces banners solid teatery run nine what they can bery very much form a and furty medic polit of thir re clean water too the tree hånd with mail vers pladser with us it is it is with you very 2 with zwarder i overtay.
-
-00:26:23
-Hvis Det er performance at du tackout overflade night 2% og this så hvis man er solgt.
-
-00:26:31
-Men Det kan derfor være bayeux kopnes sourwich it's in michaler forty amerikan of organics the way takeout.
-
-00:26:40
-The we yos sige bary large integrat of the seo d beauty end in the.
-
-00:26:49
-Tortofa foreslog real quite officient antaling af thanks and that is recores fostfansed and all the that is the thatstruct that fostraed eksport of the tempically tent would of all 2 the susant swaled socket take out 2 spin and salat you allright the take out of the lut of the forsved.
-
-00:27:08
-Sale wolls for narington were we can takeout al la do of the night thuugy because arn tals 2 spantalic.
-
-00:27:17
-Your downs side, hvor re soul is that's the that is the soft fors face.
-
-00:27:21
-And 2 sehery pally too the 2 do it stormode altså deres navn.
-
-00:27:28
-In the logo tempo taulo's split becausey topmutter differen overdos manager sat uden maning runms without now 12 bull micro grams.
-
-00:27:36
-Var det apotek over compromis de de havdety matrix Copenhagen han also the beat the ages day ark.
-
-00:27:45
-Itef me a not all over wiz 2 over night procent with stil quarterfission beod.
-
-00:27:56
-The waters features this is d project in Aarhus.
-
-00:28:03
-And Vores goldmaning under ground.
-
-00:28:07
-Er der Washington storm 6 streaming with the helt of the an UDP program subscing program.
-
-00:28:15
-Ja Det er jo generelt Vores 2.
-
-00:28:19
-State dis princip og frutrations stormy and se can clean the water collaty 2, where level egole 2 repræsentant bot and the bestole accounty ad dismormorganisation and retten bons the roy eu-sed day Det er talt om nort take up and laust space wich would now bebu et vis aroyance end Aarhus.
-
-00:28:44
-Det var godt 2 the fury simple 2 design.
-
-00:28:53
-Hery haftly androns mad.
-
-00:28:56
-That takes all the watron that is command from the that cross aktion areal with the otto ring in int.
-
-00:29:05
-Så Det er så warder water and the water out of the og så folk layout of the one int 2 mytfuld wear and the waters desktcued over difficulty strings intuit the storm w and disclays weat the water run and 2 in from the top and from they slowly birlay studie button and in the bouton hits collacted again into we are a we and you well and a fromland well you would see liv in the loverright picturin end fromland well in run.
-
-00:29:35
-Anto and numbers well's that's lowly goed out 2 the toy shorts and in Århus if it's not innoboostred eller on the.
-
-00:29:46
-For eksempel the wature rundt information 2 get that and automat filtration interes systemt a Rebild for for fair is beauty, storm water og global byrst application we wedowally hjodway runund we with fill from the gothern and a and a pusty around fromt up 2 get the første film.
-
-00:30:10
-Sped al s contraation is not the decretium officials fortraditiones.
-
-00:30:19
-Så nazister as we happy intantion toy of with that all con baroult 2 but we dlow up masonments and comboard that intuity performance the doublon it's performance over dit bedste play through Technology livs input.
-
-00:30:36
-Bulledshiro med radioens side the Green Bulls Det er enicce that we have performance.
-
-00:30:44
-Conper wal 2 but in the red one is warry on the performan compil competit.
-
-00:30:52
-Altså kan man sige line we have a good performance with just have problem with the first it.
-
-00:31:03
-Land.
-
-00:31:05
-Nokli emil war helt 2 talk 2 the or of laksen with you company must of you will know and as up and a and en network.
-
-00:31:15
-Er en hel brothers under track off looking at iron slides.
-
-00:31:22
-Neden ferry så thut first questions that we trykson tog gather with with all lars canic ro i Real know sites on the wool and white got have ugen creat in inturce area and cannish ironoxy inno also capture fossrit.
-
-00:31:43
-Så den her så tomrum-plastation for the last haf yerho undtag and herese sound of resons and kustito sambready ekspeditions we don't have we puttet jat with wast thale we fatupen with the here is the resulty bee of soul from soul this is ay and lehs inside aiday latin knight storm wood altså comment out of the work luction.
-
-00:32:08
-And 2 and the mellem newsite dem product arthurid asing cool with irono site and the iron code acce twent and too and that's we can see on the on the right rick and side microstrup reelt lastifribers and exich stormal of 4 and i The bænk radist not is ironoffside roone untund of the firewes and this is impressedy services area og The samfunds.
-
-00:32:37
-Enorm smed.
-
-00:32:39
-We don't have ressource og around laberatorial with reality gatherin as wish beck april alright laborant this is mazary foss way constrations today red dåals of ofte.
-
-00:32:55
-We are you see the soution kapacitet of diffent waz of the buing and other defent was of obing i har du nok slides coaching on the on through the refunceret altså social capasty of all of one that is all relatered nummer one and you see and en sume be and trickments that that ol of that weekend for ham eller the anty times high subction capasty of fostweed only.
-
-00:33:23
-Fordi at Der er de nemt brug.
-
-00:33:27
-Så disse er ikke bare for we one 2 continue and continue 2 lukat.
-
-00:33:35
-So water on the next crush.
-
-00:33:38
-Thirstable making af stablen in the labic very diffent and making a fuldskill.
-
-00:33:45
-Rockwool production miles day, the products that ja men Vi er tand founcent kilograms of stol browser.
-
-00:33:54
-Haarving ay iron hoster coaching process.
-
-00:33:59
-End end af production procent, hvor vi bitchard soft wost that ted this one of the things that really vero much and this moment how Kevin mimic all cemy copy this disbluging process and in weal life.
-
-00:34:14
-Hvad så kan det blive waters essortion infusioncy out of club foss Wales i we are out of those too untos we goodcome with the latin problem andiphall product that we wicend start tasking with before we rely og able 2 2 have community produkt we'en in 2 look-mar it 2 Beatles at folk the design huse re design.
-
-00:34:37
-Full this is it is this eksempel på yousee here rundt og picture is a project widgets en en Odense.
-
-00:34:42
-Eller undskyld øhm we are with manic 2 manifary official pholo.
-
-00:34:51
-We cannot.
-
-00:34:54
-Mate som stax with the dollars so it is working very well. That's it is a philt of button much? Altså altså altså hvorfor?
-
-00:35:02
-So så work 2 be don't under food and design revolvering probe maxed that week progmentation og hurtig need 2 show with with data formulaps billso form for Real life and how we are you can capitalis fusta it.
-
-00:35:19
-Man kan social Odder computerens will the cat lidt mere end future and en mastercard nowle experiented of bill of experience and befrue and the tool 2 2 get 2 review commercial pop.
-
-00:35:34
-Så take and back game back 2 the logo perspektiv.
-
-00:35:41
-Want 2 do altså it's walk flow is provite tools for the people under marketing 2 heller is oping fanmen ofation we score aways 2 where dressed that too much 2 lelow and the tour hut aspekt off overen biomed adaptation with thannes space constraint of city and a will that's sustainability aspekter that det asiat.
-
-00:36:08
-Jeg er Weber 2 have minible negative fing play that is the war pross my will Det er en out production we are looking at.
-
-00:36:16
-Corbon zero vækst production, matthed but real so want you maximum processedit inpact on univers.
-
-00:36:25
-Jeg håber de det falder med doing ad. Det er som om et happy doging in the pass and in doing and the smomed we can. You too this the challenges that we a see inde i louven camping adoptager thank you verund much for your tanction han i'm welly eago så sige efter anic quashions.
-
-00:36:45
-Ja thank you soe much down. Anyways, rake talk and adrenal wall frit 2 danish if it's OK with you det.
-
-00:36:53
-Er fint.
-
-00:36:54
-Katrine har et et spørgsmål og i andre i skal bare stille jeres spørgsmål, så så bliver de håndteret løbende. Katrine har et spørgsmål som hedder, hvor længe regner? Hvor længe regner i med at rockflow bevarer sin renseffekt?
-
-00:37:07
-Hvor længe skal vandet stå i badsene?
-
-00:37:13
-Altså var jeg lavet til af en foto for den del af af for strit. Det ved jeg ikke endnu. Der er alt for meget Vi skal finde ud af, hvis jeg kigger på den almindelige fødselont, så er der.
-
-00:37:31
-Øh, som vi øh fanger inde i indløbskanaler som gennemrentes, så den den levetid den filtre type filter ville være altså det ved jeg heller ikke Vi har. Vi er programmet nu i tre-fire år, men vi forventer, at det ikke bliver nok problemer at at foran levetid på.
-
-00:37:53
-Hvad hedder det forty fifty s.
-
-00:37:57
-Ja ja.
-
-00:38:00
-Super så er der et andet spørgsmål for Karina har i testet levetiden på de her rock ulds paneler kræver de oprensning?
-
-00:38:11
-Altså det selvfølgelig. Der er en mængde en vedligeholdelse man skal have.
-
-00:38:17
-Og og så hvis man følger den vedligeholdelse og inspicerer systemet, når Det er nødvendigt og og rense når Det er nødvendigt, så gør man en 2 komme op tidligt til en meget langt levetid.
-
-00:38:30
-Måske Anders. Har du noget andet?
-
-00:38:34
-Jeg ved ikke går jeg igennem?
-
-00:38:37
-Jamen Det er fint altså igen som som som daren siger, så i forhold til livsende er det almindelige elementer, så i det der ikke kommer noget sitiment ud i matricen af stenulen, så så hvis man kan rense eller bygge sit anlæg Sådan man kan komme ind og rense de her indløbskanaler, så er levetiden den levetid, Der er for ulden og den er minimum 50 år og det samme gælder Sådan set også for Vores for Vores filter, som er som darren sagde altså suspenderet stof. Det handler om, at man kan rense den her indløbskanal.
-
-00:39:06
-Og så er der så altså hvis man også har indbygget kapacitet til at tage noget bedragisk opsamling, så så vil tilbageholdelse af opløste stoffer, hvor mange gange> det Der er brug for et i det pågældende opladning. Men Det er altså noget vi gerne hjælper med i forhold til 1 1 konkret projekt også estimeret levetid af.
-
-00:39:31
-1000 tak for for for eller forsvaret, mens i andre lige tænker over andre spørgsmål, så har jeg også lidt. Jeg kunne godt tænke mig at høre du nævnte kort der at næste skridt i udvikling var at få kombineret. Prøv at kigge om i kan komme af med fosfaten ved at lave forskellige løsninger og i andre udviklingstanker altså for eksempel har i overvejet om hvordan kan i kombinere?
-
-00:39:55
-Denne her løsning med andre løsninger og har i erfaringer fra det?
-
-00:40:00
-Vi har tanker.
-
-00:40:03
-Problemet, Det er, at vi ikke ved præcis at nu var klinikken er på den forsvandt rensning, så vi ved ikke om Vi skal have langt eller kort.
-
-00:40:15
-Ligerådelsestid ind i fødsel, og det vil være meget afgørende. Hvordan føler du skal se ud, og hvor Vi skal, hvor vi kan kombinere det med andre systemer?
-
-00:40:33
-Er det et svar?
-
-00:40:34
-Ja 1000 tak skal du have.
-
-00:40:37
-Jeg har endnu. Jeg har endnu et spørgsmål jeg skal høre med hensyn til til medier. Altså jeg tænker planter og dets videre har i har i nogen erfaringer med?
-
-00:40:48
-Om om jeres løsning rockflow kan kombineres med med med med plantevækst med videre.
-
-00:40:55
-Ja, selvfølgelig har vi en en datterselskab i Rockwool, som hedder Grodan, hvor vi vokser. Planter post ind.
-
-00:41:06
-Så Det kan godt lade sig gøre, men i et rimende hushold hvor hvor det bliver brugt Der er noget der har det meget stor kontrol og over den vand som kommer ind II stingen, så Der er alle næringsstoffer de er inde i landet og der findes ikke noget næringsstoffer inde i stævnet. Så hvis du gør hvis du gerne vil gøre det ud II byer.
-
-00:41:31
-Så plejer det at være en løsning, hvor Vores tingud sørger for en vandbalance.
-
-00:41:37
-Hvor vi capture alt muligt vand eller regnvand og frigiver det til et substrat, hvor planter vokser i, fordi fordi der kommer i noget nøstrianter ud af forestillingen.
-
-00:41:56
-1000 tak Jørgen.
-
-00:41:58
-Her til sidst, så vil jeg høre om Der er nogen der har et et spørgsmål her på falderebet til darna eller Anders.
-
-00:42:04
-Og.
-
-00:42:06
-Det tror jeg ikke ellers kan i altid tage fat i dem uafhængigt af DNNK ellers så vil jeg sige 1000 tak dart og 1000 tak Anders for jeres rigtig spændende præsentation. Det var rigtig spændende at høre om om jeres produkt, Der er helt sikkert et et kæmpe potentiale for det, og ellers så vil jeg på vegne af DNNK sige tak både til deltagerne og til og til danne Anders. Og som sagt så kan i finde en optagelse af af denne her tekttalk inde på DNNK hjemmeside og inde på DNNK kan i også orientere jer.
-
-00:42:37
-Om kommende teddos så så på vegne af DNNK, så vil jeg sige tak til oplægsholdere og til til jer der har lyttet med.
-
-00:42:47
-Men tak.
-
-00:42:52
-Farvel.
-
+00:42:30
+attack you
