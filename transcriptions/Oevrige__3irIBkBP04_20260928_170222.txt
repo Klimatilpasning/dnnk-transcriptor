@@ -1,0 +1,326 @@
+=== DNNK Webinar Transskription ===
+Kategori: Oevrige
+Video ID: _3irIBkBP04
+URL: https://youtube.com/watch?v=_3irIBkBP04
+Kilde: YouTube auto-undertekster (dansk)
+Transskriberet: 2026-09-28T17:02:22.927937
+
+==================================================
+
+00:00:00
+Godmorgen og velkommen til godmorgen med DNK. Mit navn det er Cornelius Pals, og jeg er ansat i DNK sekretariat, det nationale netværk for klimatilpasning. I dag så skal vi tale om biodiversitet som pladindlægningsredskab. Hvordan biodiversitetshensyn kan indarbejdes systematisk i den kommunale planlægning og hvordan man rent praktisk
+
+00:00:30
+griber det an. Københavns Kommune har lavet et potentialekort for biodiversitet samt et inspirationskatalog med eksempler på, hvordan potentialerne kan omsættes til handling, blandt andet på kommunens egne arealer. Med os så har vi Mathilde Thomasen Rasmussen, fuldmægtig i økonomiforvaltningen ved Københavnskommune og Hans Porop Thomsen, seniorbiolog fra Svego. Som altid så er I meget velkommen til at skrive spørgsmål i chatten undervejs, og
+
+00:01:00
+så samler vi op på dem efter oplægget. Jeg skal også sige, at oplægget det bliver optaget og lagt ind i DNKs vidensbank, og så kan I altid gå tilbage og genbesøge der. Men ø med de ord, så vil jeg egentlig bare give ordet videre til Mathilde, som er første oplagsholder i dag. Og tusind tak for at stille op. Tak for ordet og godmorgen. Jeg hedder som sagt Mathilde Thomasen Rasmussen, og jeg er fuldmægtig. Arbejder med byplanlægning til daglig i økonomiforvaltningen i Københavns
+
+00:01:30
+kommune. Øh, der sidder jeg i center for byudvikling i kontor for planlægning, hvor at vi arbejder med den overordnede strategiske ø udvikling af af København. Øh, og her sidder vi også med kommuneplanen, hvor vi lægger de ø overordnede rammer og retningslinjer for for byens udvikling. Øh, vi har i økonomiudvaltningen et meget tæt samarbejde med vores gode kollegaer i klima, miljø og teknikforvaltningen, som
+
+00:02:00
+øh sidder lidt mere på det lokale arbejde. Man kan se lokalplanerne og lidt mere nede i byrumsarbejdet. Og de sidder også rigtig meget med den her dagsorden på biodiversitet og bynatur. Øh, så dem samarbejder vi en del med. Men øh, i og med at den her screening, som I skal høre om i dag, potentialægningen, bor i økonomiforvaltningen, øh, så er det mig, der ligesom skal fortælle jer om det i dag. Øh, ja,
+
+00:02:30
+så prøver jeg lige at gå videre her på mit slide. Sådan der. Øhm, bare helt kort, hvad jeg vil komme ind på i dag. Øh, jeg vil kort starte lidt med at fortælle om vores biodiversitetsstrategi, som vi har fået vedtaget i Københavns Kommune. Og så lidt om formålet for den her screening af biodiversitetspotentialene. Øh, lidt om processen og lidt om anvendelse. Og så ø er der jo mulighed for at stille spørgsmål, som jeg vist forstod sådan, at Kornelius samler var
+
+00:03:00
+på til allersidst. Men øh inden vi lige kaster os ind i det, så vil jeg også lige nævne, at vi jo har haft et samarbejde med Svego, øh Hans, der kommer til at fortælle efter mig. Øh, og jeg kommer til at tale lidt mere på det strategiske niveau og hvordan vi har brugt den her screening og potentialekortlægning og inspirationskatalog som et ø strategisk værktøj i ø i planlægningen øh hvor at øh Hans vil komme lidt mere ind på det
+
+00:03:30
+metodiske og det at arbejde med datasæt. Så det kan I jo se frem til. Men ja, altså som sagt i Københavns Kommune, der har vi fået vedtaget en biodiversitetsstrategi, som i 2023, som har et langsigtet mål, gælder fra 2022 til 2050 ø med det formål at styrke biodiversiteten i hele København. Øhm, den er udarbejdet på tværs af flere forvaltninger. Vi er i Københavns Kommune samlet syv forvaltninger. Øhm,
+
+00:04:00
+og der har også været inddragelse eller input fra både borgere og organisationer i udarbejdelsen af den her strategi, blandt andet sammen med ø Danmarks Naturfredningsforening. Og som led i den her biodiversitetsstrategi, der bliver der udarbejdet handleplaner med et fireårigt sigte, øh, som ligesom skal indeholde nogle konkrete indsatser og nogle mål for at indfri de ø strategier og visioner, som ligger i i
+
+00:04:30
+den langsigtede biodiversitetsstrategi. Vi har vedtaget en ny, som gælder fra 2026 til 2029, men jeg har taget den her handleplan med fra 22 til 25 i dag, fordi at det er i den handleplan, at der indgår en indsats ø om at få udarbejdet den her screening af biodiversitetspotentialet. Øh fokus for både handleplaner og strategier er øh at skabe flere levsteder og sammenhængende naturområder. øge artsrigdom og
+
+00:05:00
+økologisk kvalitet, sikre adgang til natur for byens borgere og også inddrage og engagere københavnerne i hele det arbejde, der ligger i det. Ja, som sagt i den her første handleplan, som var en del af af strategien fra 2022 til 2025, der var det den her indsats screening af biodiversitet og udpegning af potentialeområdet i Københavns Kommune, som indgik. Øhm, og i forbindelse med
+
+00:05:30
+budgetbehandlingerne i 2024 ø valgte politikerne altså at sætte penge af til at gå i gang med den her screening. Så det var super positivt. Og så gik vi i gang med det arbejde i 2024 ø og blev færdig i 2025, hvor vi har haft Sveco på som rådgiver. Og man kan sige helt overordnet i forhold til formål med den her analyse, screeningsanalyse, der har det været for os som ø kommune,
+
+00:06:00
+Københavns kommune at kunne bruge de her potentialkort som en fælles reparceramme ø på tværs af hele kommunen og de syv forvaltninger. og at man øhm skulle bruge de her kort og det her øh inspirationskatalog til ligesom at kunne øh hv sige, hvis man går i gang med et nyt projekt, er det et lokalplan, er det et byråsprojekt, er det noget helt tredje, at man så ligesom kan skele til de her kort for at se, hvor hvor placerer det her projekt sig på de her potentialekort, og er der er der nogle
+
+00:06:30
+vigtige korridorer, vi ø kan fokusere på, eller er der er der noget, vi ligesom bør øh tage højde for, at det er sådan fælles fælles referenceramme, men også øh hele den her tanke med at man har mulighed for i stedet for at øh sprede indsatser ud over hele byen. Det er selvfølgelig også vigtigt, men det der med at kunne, når det handler om biodiversitet, at man kan rette nogle indsatser ret konkret på nogle specifikke områder, hvor det giver allerstørst effekt og har de største
+
+00:07:00
+potentiale for måske blandt andet at kunne skabe nogle ø nogle korridorer eller så altså helt overordnet. Øh, formålet har været at kunne identificere nogle areal med potentialet for biodiversitet, men også få skabt det her ø fundament for at vi som kommune kan arbejde målrettet og på et fagligt grundlag, når vi går ud og arbejder med biodiversitet på på de kommunale arealer især. Øhm, men i virkeligheden også at
+
+00:07:30
+få skabt et fælles grundlag, ikke kun internt i kommunen på tværs af forvaltningen, fordi vi er en stor kommune, men også i høj grad i dialogen med de øvrige grundejer i København. Ø, for eksempel ved at kunne udpege de her korridorer på tværs af matrikelskæ, ø fordi at vi jo ved, at biodiversitet ikke tænker øh i grænser, som vi mennesker gør. Yes. Så lidt i forhold til processen. Altså man kan sige der har været lidt ø
+
+00:08:00
+to spor. Vi har i forbindelse med at vi fik midler til den her øh til det her projekt eller den her analyse der skulle vi ligesom ø udarbejde nog udbudsmateriale og rammesætte den her opgave. Og der fik vi rådgivning fra OIKO, som nogle af jer måske kender. De er en rådgivningsvirksomhed, som også har enormt meget erfaring og viden øh på øh biodiversitet og bynatur. Så vi vi fik hjælp af dem til ligesom at rammesætte den her opgave med
+
+00:08:30
+udgangspunkt i deres øh faglighed. Ø og fordi de var så meget i projektet, gav det også mening, at de så hjalp med at lave en baggrundskortlægning øhm for ligesom at lave kortlægge kommunen, hele kommunens areal. øh for ligesom at se, hvordan ser det ud ø for den eksisterende biodiversitet. Øh og så inddelt de hele kommunens areal i nogle forskellige habitatyper eller habitatkategorier. Øhm og da vi så havde fået lavet hele det her udbudsmateriale og rammesat
+
+00:09:00
+opgaven, så fik vi Svego på. øhm som så har været inde og lave selve den her potentialekortlægning, hvor de jo identificerer områder med biodiversitetspotentiale øhm på baggrund af den baggrunds øh på baggrund af den screening som Rik har lavet. Øhm og man kan sige det er jo det tror jeg også at Hans vil komme lidt mere ind på, men det er jo en teknisk gisanalyse der er lavet med den her potentialekortlægning. Det vil sige ø
+
+00:09:30
+der er ikke nogen, der har været ude at øh kortlægge øh men at det er sådan en overordnet strategisk øvelse, hvor man har en lidt mere principiel tilgang til, hvad der er en god ø indikator på biodiversiteten. Og det var derfor vi så også har øh både del opgave to ind i det her projekt, fordi der var et ønske om at få at gå fra noget lidt mere strategisk eller noget lidt mere øhm overordnet, kan man sige, til at have noget lidt mere håndgribeligt og noget mere konkret og nogle faglige anbefalinger i det her inspirationskatalog, som jeg kommer lidt
+
+00:10:00
+tilbage til. Øhm. Ja, men det har været en super god øh god proces øhm med de her forskellige spor, der har været. Og så bare lige helt kort øh det tænker jeg også at ø Hans kommer til at gå lidt mere ind i, men bare sådan også fra vores perspektiv som kommune, at vi jo har fået udarbejdet de her tre potentialekort øhm som vind noget lidt forskelligt. Øh, men at formålet med den her har ligesom også
+
+00:10:30
+været at få et visuelt og et praktisk grundlag for ligesom at kunne øh fokusere, som jeg også var inde på tidligere i dag, fokusere de ressourcer, vi har, og arbejde med indsatser på de områder, hvor at det vil have absolut størst ø effekt for biodiversiteten i byen. Øhm, og igen det vi har ligesom med de her kort, det ligger jo også som nogle gislag øh været ude og dele med med øvrige øhm afdelinger indenfor kommunen, hvor at de kan få det her gislag og ligesom øh kigge på de lag,
+
+00:11:00
+hvor det giver mening i forhold til de øvrige fagområder, de sidder på, sådan så at man netop kan klikke laget på og så kigge, okay, jeg skal i gang med det her projekt, eller øh hvordan hænger det her sammen med nogle af de andre farveombråer, vi arbejder nu. Så det har været super positivt. Øhm. Ja, altså man kan sige øh det første kort det har fokus på områder hvor biodiversiteten allerede er høj, men hvor den kan styrkes yderligere, hvor at kort to har fokus på områder, hvor at
+
+00:11:30
+nye leder nye levesteder kan skabes for planter og dyr. Og kort tre, fokus på de områder, hvor biodiversiteten i dag er begrænset, men hvor der er et stort potentiale for at forbedre biodiversiteten gennem nogle målrettede tiltag. Øhm, det er vigtigt at sige med de her kort, at det jo er et øjebliksbillede, og at det selvfølgelig vil kræve en konkret væregistrering for at sige noget om det præcise potentiale på diverse områder. Og det er også vigtigt at nævne
+
+00:12:00
+i hvert fald øhm for os der arbejder med byplanlægning eller byudvikling, at de her kort ikke tager højde for øhm for anden planlægning. Det vil sige, den tager ikke højde for øh arealer, der allerede er ødelagt til øh byudvikling eller øh nye byudviklingsområder, der er besluttet. Så det er værd at have for øje, når man øh når man bruger de her øh bruger de her kort.
+
+00:12:30
+Ja. Og så vil jeg sige lidt om det her inspirationskatalog, øhm, som er del to af det her af den her analyse. Og det var som sagt et ønske for ligesom at gå fra noget mere strategisk overordnet planlægningsværktøj til noget, som øh har noget lidt mere håndgribeligt. øh nogle faglige anbefalinger, sådan så man kan slå op og sige, okay, jeg har øh jeg har det her projekt. Øhm
+
+00:13:00
+hvor kunne det give mening at sætte ind? Øh, og den måde det her intimationskatalog fungerer på er, at der er udvalgt ni cases. Ø, det har været et tværfagligt samarbejde med alle forvaltningerne. Det vil sige, at alle ø syv forvaltninger har meldt ind med en case for også ligesom at repræsentere ø kommunen bredt. Og det synes jeg egentlig vi lykkedes ret godt med, fordi at der øh ja man kan se der er et jobcenter, der er noget bruttilbud, der er en skole, der er et idrætsanlæg, et plejehjem ø enorbygning og så er der
+
+00:13:30
+case nummer syv, Helke Larsens Plads, som er øh en case med grønt tag. Øhm, og så ø den her med restarealer er også ret god at have med, fordi at det har været et forsøg på at tage nogle af de mindre områder, hvor der er noget udnyttet potentiale for at kunne skabe noget noget biodiversitet, hvor der egentlig bare er et lidt ø et restareal. Og case ni, det er med fokusarter. Det henviser til vores biodiversitetsstrategi, som jeg var inde
+
+00:14:00
+på helt i starten. Øh, hvor at vi som en del af den strategi har et tema der hedder fokusarter, hvor vi i Københavns kommune har udvalgt 10 ø fokusarter, som øh er særligt relevante i Københavns Kommune, og som er særligt relevant at at have øje for eller ø skabe nogle gode betingelser for. Øhm. Ja. Øhm. Skal lige se her om der var mere. Øhm, overordnet set så ja handler
+
+00:14:30
+det jo om at give nogle øh både nogle overordnede anbefalinger øh men også nogle stedspecifikke. Øhm. Ja. Og det her det ved jeg også at han skal komme lidt ind på, så det vil jeg bare lige helt kort. Der er øh den er ligesom casen er opbygget på samme måde med sådan en one pager. Øhm. hvor at øh der er ø noget indledning med noget beskrivelses stedet. Der er noget
+
+00:15:00
+i forhold til at feltkortlægge øh hvor Sve har været at registrere øh og noget om hvordan at den her ø de her cases også placerer sig på ø på potentialekorten sådan så at der er blevet skabt den sammenhæng mellem del et og del to hvilket også har været har været super positivt. Øhm og så vil jeg egentlig bare helt kort lige øh fremhæve den her case som øh genforeningspladsen som ligger i Grøndal i Nordvest. Øhm, og det var vores kultur- og
+
+00:15:30
+fritidsforvaltning, som meldte ind med den case, fordi at de havde et ønske om at ø prøve at se, hvordan man kunne udnytte de ydreområder, som der ligger op imod de her boldbaner eller det her idrætsanlæg for ligesom at tænke øh i, hvordan man kan arbejde med mere biodiversitet på de her arealer. Man kan sige, det er et super godt eksempel på, hvordan at man kan forbedre og udvide biodiversitet på på idrætsanlæg
+
+00:16:00
+generelt, hvor der jo ofte selvfølgelig er meget græsplæ med lav biodiversitet, men hvor der netop derfor også er rigtig gode muligheder for at arbejde med de arealer, der støder ø op til. Øhm, og så også bare helt kort her, hvordan at man kan se, at ø projektet placerer sig på ø potentialekortene her på potentialekort et og to, hvor man kan se, at den ikke bonger lige så meget ud på ø kortet med bevaring forbedring, men
+
+00:16:30
+mere i forhold til at man så kan udvide biodiversiteten. Og hernede fra Svego nogle ø nogle anbefalinger, nogle referencebilleder til, hvad man så kan arbejde med. øh på området her for eksempel græsland ø ved flerefarvet bryn og noget sten og noget dødt hvid. &gt;&gt; Ja. Og så bare her til allersidst i forhold til det her inspirationskatalog øhm så har det jo helt overordnet formål jo været at skulle være med til at skabe noget inspiration til handling. Øhm og
+
+00:17:00
+også være nogle eksempel på hvordan at man kan øh arbejde med biodiversitet fremadrettet på et ret konkret plan. Øhm, det har også været et ønske om at være med til at danne afsæt for at søge nogle af de midler, som vi i kommunen har. nogle nogle puljer, nogle biodiversitetspuljer. Øhm, og der er har vi faktisk allerede fået nogle positive tilbagemeldinger fra flere forvaltninger, som faktisk har brugt det her katalog til at søge øh nogle midler for ligesom at kunne stå på
+
+00:17:30
+et fagligt grundlag og sige, okay øhm vi har alle de her gode faglige argumenter for, hvorfor det giver mening at at ø arbejde med den her type biodiversitet. Og det ø det har de haft god erfaring med. Øhm, og igen som sagt, at hele det her tankegang med det her inspirationskatalog er netop, at man som øh projektleder eller lignende skal i gang med projekt, og så kan man lige slå op i det her og så tænke, okay, mit projekt det ligner case øh a eller et
+
+00:18:00
+eller case fire, så giver det måske mening at sætte ind med de her ø indsatser. Øhm. Ja. Og så til allersidst er tanken også at øh man kan arbejde med indsatser på tværs af matrikelskæld øhm som led i et partnerskab om biodiversitet, som vi har med en række af de større grundejer, hvor at øh vi sparer med hinanden om biodiversitet, og vi videndeler ø det er årbemesteren, der sidder for bordinden.
+
+00:18:30
+Øhm det vil sige vi har både et på sådan direktørniveau øh hvor der bliver sparet, men vi har også på et netværksniveau. Og der er tanken, at vi, det kræver selvfølgelig, at der bliver afsat nogle midler i et budget, men at man vil kunne sætte ind med nogle af de her øh projekter eller faglige anbefaling på tværs øh af af matrikkelskæld. Øhm. Ja. Og så har vi ø inden længe skal vi i gang med at lave en evaluering af hele det her arbejde og hvordan det bliver brugt ude i forvaltningerne. Øhm
+
+00:19:00
+så det bliver super spændende øh spændende at se på. Og der ligger jo selvfølgelig et stort formidlingsarbejde i at dele det her med resten af forvaltningen. Og vi har også været ude og holde en del oplæg omkring det og gøre opmærksom på det, men også som jeg nævnte få lagt de her øh gidlag ind med kortene øh i de fag fagkort, hvor det giver mening for de andre øh andre ø kontorer og forvaltninger. Øhm ja, tror
+
+00:19:30
+jeg faktisk at var det jeg havde. Nu har I den her slide med spørgsmål, men det må vi nok hellere tage til allersidst. Øhm. Ja, det var det, jeg havde. Så tror jeg, det må være dig, Hans, der skal dele din skærm. &gt;&gt; Ja, virker det? Kan I se min skærm nu? Prøv lige. Jeg kan se den. &gt;&gt; Det er fint. Det ser godt ud. &gt;&gt; Det er godt. Jamen, pæn goddag. Jeg
+
+00:20:00
+hedder Hans Thomsen, og jeg arbejder i verdensfirma Svecu. Vi er rådgivende ingeniør primært, og så er jeg så biolog og jeg har heldigvis en masse kollegaer her i Aarhus, hvor jeg sidder og arbejder med biodiversitets primært. Øhm og jeg er botaniker og arbejder med B fire arter. Øh, men vores hovedkontor ligger i ørstaden, og der har jeg også en masse gode kollegaer, og vi har i fællesskab arbejdet med Københavns Kommune ø omkring at få udarbejdet de her potentialekort og og også prøvet at
+
+00:20:30
+få det til at ø ø virke i praksis ved at lave de her øh kortlægninger på de her øh områder, som er blevet udpeget. Øhm. Ja, jeg går bare i gang med at fortælle om metodikken her. Øh, fordi det der var vores opgave, det var at prøve at få kigget på alt den datamængde, som som er i øh i en kommune omkring biodiversitet, og også der er noget, der er de biotiske
+
+00:21:00
+forhold, og der er nogle abiotiske forhold, og få det brudt ned i nogle ø i nogle på på en måde, sådan at man kan putte det ind i et kort ø som giver de her potentialekort. Ø, og det derfor har vi arbejdet i GIS øh, for at få så mange informationer ind i, kan man sige, et lag som overhovedet muligt. Det var den ene del. Og den anden del, det var så det her med at få lavet nogle faglige anbefalinger. Øh, og øh, herindover der skulle vi arbejde med feltkortlægning øh for at få de her ni udvalgte cases øh
+
+00:21:30
+belyst så meget som overhovedet muligt og kunne lave det her inspirationskatalog, hvor vi så arbejde med nogle overordnede og specifikke faglige anbefalinger i forhold til, hvad for nogle tiltag kan man lave i forhold til biodiversiteten. Men altså i forhold til metodikken, der var det de her gidsbaserede kortlægning. Øh, vi havde som øh opgave eller fandt hurtigt ud af, at det det der skulle laves, det var de her tre kort, som Mathil også var inde over, at vi skulle finde, vi skulle finde nogle parametre, der kunne belyse, hvad er det for nogle potentialer? Hvad
+
+00:22:00
+hvad er det for nogle områder, der har potentiale for, at man bevarer biodiversiteten? Det er brandmands lov det her. Vi starter med at at bevare det, som kan bevares. Øh, så har vi nogle andre områder, som kunne ø kunne have nogle andre ø parametre, der spiller ind. som kunne vise, at det er områder, hvor man kan udvide den eksisterende biodiversitet. Øh, og så det sidste kort, det er faktisk der, hvor der ikke er nogen særlig biodiversitet. Øh, men hvor der så er et eller andet, der i datamængden, der så
+
+00:22:30
+fortæller os, at der kunne man måske faktisk godt arbejde med med at skabe noget biodiversitet. Øhm, og så er det så sådan, at vi arvede jo en masse data fra Oiko, og en af de mange geniale ting, som ø som vi arvede, det var det her heksagon net, som hele kommunen er inddelt i. Så vi det er jo nogle ø det er faktisk det er nogle geografiske enheder som er omkring en øh lidt over en hektar store, men øh men som så på
+
+00:23:00
+grund af den reform de har en en fantastisk evne til at følge de her organiske linjer, der vil være i kommunerne også i forhold til øh ja for eksempel paragraf 3 områder eller andre naturregistreringer. Så ø det øh det det var ligesom vores øh inddeling i kommunen. Man kunne også have valgt en kvadratisk inddeling eller trekanter. Altså der er kun fantasien der sætter grænser. Øh og og vi valgte jo at køre videre med det her hexagon inddeling, fordi at ø at Olgo havde
+
+00:23:30
+havde indsamlet data på den måde. Og ø det fungerede rigtig godt. Ø det man kan sige det er jo mindre øh øh en øh en opløsning der er på sådan et øh et net her øh jo ø større bliver datamængden, jo mere øh tungt er der at arbejde med. Hver eneste gang vi skulle køre en ny beregning af sådan nogle biodiversitetskort, så tog det altså et par dage med med de stærkeste computere, vi havde til rådighed på det tidspunkt.
+
+00:24:00
+Øh, og det det tager sikkert bare en time nu her, men men stadigvæk er der noget, man skal man skal tænke over. Det der med øh mængden af data man putter ind i en model og hvor fmasket man man laver den, det giver altså nogle begrænsninger i forhold til hvor hurtigt kan man få opdateret øh de her øh de resultater man ø man gerne vil se på bagefter. Her blev lavet et ø et overlap med kommunegrænsen på de her heksagoner, sådan at man fik hele kommunen dækket også selvom at kommunegrænsen er er skæv
+
+00:24:30
+hele vejen rundt. De her parametre, som vi skulle finde til at så definere det tre forskellige kort, det bliver så udvalgt i forhold til, om de var nogle parametre der skulle kunne beskrive om det er den eksisterende biodiversitet eller om det er det de områder man gerne ville udvide eller eller nog hvor man skal skabe ny biodiversitet. Og øh vi putter dem så alt vi giver vores parameter nogle øh
+
+00:25:00
+nogle karakterer eller nogle værdier alt efter hvor vigtige vi vurderer de de er for den det givne kort. Så der er en ø en proces hvor det også handler meget om at få tilpasset værdisætningen af de forskellige parametre. Det lyder meget subjektivt, og det er det også. Men det er jo ø det er jo det er nogle ekspertvurderinger, kan man kalde det. Det er jo også som biologer og vores kollegaer i kommunen og og
+
+00:25:30
+hvad hedder det? Kollegaer i Svego med andre fagligheder, der går ind og laver de vurderinger i forhold til hvor vigtige er de i forhold til forskellige parametre. Øhm. Ja. Så det var sådan ligesom det der der gør at vi får mulighed for at lave scoring af de forskellige parametre og så putte det ind i et lag som så kan give en en samlet score som bliver udregnet og og danne de her potentialekort. Hvis man dykker lidt mere ned i metoden og parameterne og de data øh vi vi kigger på, så vi fik jo en
+
+00:26:00
+masse data fra Oiko, hvor de havde lavet en biodiversitetsscreening af hele kommunen, hvor hvor de har simpelthen trukket alt det artsdata ind, der ligger på de forskellige databaser rundt omkring, og fik det sorteret. Og de havde også lavet en øh af de her typologier i landskabet fik hele kommunen inddelt i forskellige typer af hvad kan man sige overflader øh med hvor der enten var var grønt eller ikke var grønt og hvad for en type øh hvad hedder det grønt der kunne være det kunne være
+
+00:26:30
+skov eller kræ eller græsplæne eller noget der minder om natur så alle de forskellige parametre øh og typologier skulle vi prøve at arbejde med at få ind i de samme lag Og der bliver vi nødt til at at arbejde med vigtigheden. Og det som I kan se her, så har vi vi har nogle biotiske parametre, vi har nogle abiotiske parametre. Øhm, som vi så prøver i midten kan jeg se sådan en vores en værdisætningsøh tabel, hvor man kan se i det ene kort, kort et, som
+
+00:27:00
+viser den eksisterende biodiversitet, der hvor man skal bevare. Jamen, der har vi nogle pointe alt efter hvor mange artsobservationer man har. Der har det været sådan helt koldt øh øh tal øh gymnastik var jeg lige ved at sige, hvor det er jo flere arter der er observeret inde på databaserne, jo højere point får man. Hvor i kort to der har vi haft en et behov for at det ikke talte alt for meget øh med altså de der arter der, fordi det har vi allerede kigget på i kort et. Og så er det det samme gælder
+
+00:27:30
+faktisk med de her rødlistede arter øh som som vi også har delt ind pointmæssigt i forhold til de her øh hvor truede de er øh og og hvor mange der er af dem i i området. Og der kunne man gå igennem alle de her forskellige parametre øh som som vi har arbejdet med. Øh så så når man kigger på den enkelte heksagon, så vil den så ramme ind i den datamængde øh de forskellige parametre. og så enten have nul point,
+
+00:28:00
+hvis det hvis parametrene ikke er til stede, eller have et sted mellem et og fem point, alt efter hvor meget øh der er den parameter i i den enkelte heksagon. Øhm, og så inde i vores kiss, så vil det se sådan her ud. Vi arbejder i QGIS. Øh, og så kan man så trykke på sådan en enkelt heksagon, og så ville man kunne identificere resultaterne, og så kan man på den måde, så kan vi lave sådan en få få sådan lidt en et et overblik over, okay, hvorfor er det det her heksagon øh
+
+00:28:30
+ser ud som om, at det har en masse biodiversitet, som vi gerne vil bevare? Og der er så øh observeret, vi har fået to point for artsobservationer. Der er ikke rundt nogle rødlistede arter. Der er beskyttende natur, så får man fem point. Det er også noget græsland, og der er noget vand til stede, og der er hvedplanter. Så alle de ting der, der både er nogle biotiske og abiotiske faktorer, de tæller så sammen hertil øh at det her område, som ligger langs med et vandløb ø der får vi en score på 20.
+
+00:29:00
+Og det vil det skal være sådan, at de områder, hvor der er natur og især god natur, de kommer til at score højt på de her potentialekort for eksisterende biodiversitet. Det det har været kan man sige den primære øvelse det er jo at få parameterne til at at give den værdi og og passe med den virkelighed vi ser derude. Når vi har fået de parametre til at arbejde øh rigtigt med værdisætning
+
+00:29:30
+sådan at at områder vi ved har høj biodiversitet det kan være kalvebudfældet det kan være armerfældet det kan være nogle af de andre store naturområder i i kommunen. Jamen der jamen så så begynder vi at tro på at de ø værdisætninger vi har givet vores parametre faktisk også stemmer øh altså giver vil give det rigtige resultat på et potentialekort. Øh, det er langt sværere, kan man sige, at arbejde med det her med hvad hvor er
+
+00:30:00
+der så de øh potentiale for at udvide biodiversiteten. Og der bliver man nødt til at arbejde måske lidt mere med nogle ø abiotiske faktorer, at så de får en højere ø pointsætning. Det kan være sådan noget med terræmmæssig øh pak, altså hvor der er hældning i terræn. Øh, det kan også være sådan noget med, at hvis man er i nærheden til eksisterende natur, det ved vi er noget af det vigtigste for at man kan øh udvide ø eksisterende biodiversitet, det er jo i nærheden til den eksisterende. Jamen så
+
+00:30:30
+så vi har lavet nogle buffer zoner omkring den eksisterende natur, som vil gå ind og tælle positiv i et potentialekort. Øhm. Ja. Og så endelig er der det her, det sidste kort, hvor man har øh kigget på øh kigget på de parametre, der der spiller mest ind her. Det er det her med om hvor meget øh græslandsareal er der inden for en enkelt heksagon. Så så man har sådan inddelt områden i nogle
+
+00:31:00
+procenter. Altså er der under 20% øh hvad hedder det ø hvad hedder det grønt til en heksagon. Jamen så får den øh får den ikke noget øh øh hvad hedder det nogen farve. Og så så kan det så blive mere og mere blå alt efter hvor meget øh der er fundet af i sådan en giss analyse øh af grønne arealer inden for det hekselbon. Så det er sådan øh det kan man sige det er det det er hovedpointen. Og hvis man så ser lidt på hvad er det så for nogle områder vi har vi har
+
+00:31:30
+identificeret med ø værende det gode biodiversitetsområde altså med den eksisterende biodiversitet på det. Det er vigtigt at bevare det. Så har vi prøvet at at sætte nogle nogle navne på de områder i Københavns Kommune for at se om det også er noget der der det ligesom giver genklang i ø i ø i de lokale øh bevidsthed omkring det er også her vi har biodiversiteten i kommunen. Og det ser super fint ud. Altså som sagt, at vi har hele området på armer arm og fældet og så videre, der er der
+
+00:32:00
+der giver en ø et ø et øh hvor vi har kan se, der er stort potentiale, og så også op ved Utmose som de to store øh øh biodiversitets hotspots kan man sige, ikke? Øhm så har vi også valgt at at give de forskellige kategorier af en en form for ø betydning, altså en tolkning. Altså, hvad betyder det, hvis man har en kategori et øh øh natur? Det betyder, vi har et stort potentiale for at bevare den eksisterende natur. Hvis den er
+
+00:32:30
+sådan mellemgrøn kategori to, jamen så har så er der noget potentiale ø for at bevare det eksisterende, men der er altså også potentiale for at forbedre. Og endelig så har man kategori tre, hvor der er der er der er noget at bevare, men her skal man måske kigge mere på øh hvad hvad kan vi gøre for at forbedre tilstanden i de områder? Øh, og det spiller jo rigtig godt ind i det her potentiale kort for at udvide den eksisterende biodiversitet. Altså hvad nøjagtig på samme måde øh har vi nogle
+
+00:33:00
+kategorier, hvor er der stor potentiale for at udvide og mellem og mindre potentiale for at udvide biodiversiteten udover de områder, hvor det i forvejen er. Så der vil være i det kort her, der kan man se, der hvor der er mest natur og tæthed, der er der også hvide pletter, fordi der er der ikke behov for man man ø man udvider biodiversiteten eller eller der kan man ikke, fordi det er der i forvejen en stor naturtæthed. Mens at der i andre områder typisk meget tæt på, der hvor der eksisterer en biodiversitet er stor potentiale for at
+
+00:33:30
+udvide. Ja. Og det sidste kort her igen, øh, der kommer navne på de områder som hvor det måske kan være lidt sjovt at se, at det er mange øh boligområder, hvor der typisk jo er de her store øh grønne arealer rundt omkring, som ø som faktisk b i i det her kort med potentiale for at øh at starte biodiversiteten helt fra fra bunden af. Og ø og det spiller rigtig godt ind i i øh i arbejdeet med
+
+00:34:00
+bynatur i i sådan en by kommune som Københavns kommune. Øh jeg nok må sige så være. Så skulle vi jo prøve at se og hvad sker der så når vi i real life øh kigger på vores ø vores biodiversitetskort og kan vi på en eller anden måde bruge den med de her øh ni cases som Københavns kommune øh har øh har har peget på ø og til det der
+
+00:34:30
+ja I har set listen her ø til det der lavede vi noget feltkortlægning og min kollega øh Mette og øh og Nikolaj var rundt sammen med nogle andre og og lave sådan nogle helt grundlæggende kortlægninger af botanik og dyr og alle mulige andre. Og vi brugte øh, hvad hedder det? altså den her bynatur øh og kortlægningsmetodik øh og ø og fik data indtastet og hæet resultater ud og sådan noget, så vi
+
+00:35:00
+kunne se ø øh ligesom de øh ja jeg bruge den metodik for for at se hvad hvad gør det ved vores øh ved vores indhentede data. Men der er jo når man kommer ud på sådan nogle bynaturområder, så er der utrolig mange forskellige typologier. Altså det er jo ikke sådan som når man kortlægger egentlig naturområder eller kan man sige parf 3 natur eller habitatnatur, hvor hvor det typisk ville være relativt klart om man er ude i en ø en hængesæk
+
+00:35:30
+eller en et kalkoverdrive. Altså når man er i i byområder, så er der jo et virvar af forskellige typer natur, og det er mega fedt, men også meget forvirrende. Så øh sådan en en sindssyg god botanik som Nikolaj, han finder jo han finder hundredvis af arter, og mange af dem de er jo ikke hjemmehørende og sådan noget, så det kan tage det kan tage lang tid det der med at faktisk at lave sådan en ø en øh en øh en grundkortlægning af sådan nogle områder der. Og der kan man jo vælge at fokusere sin indsats på en
+
+00:36:00
+eller anden anden måde. Men øh der blev kortlagt øh to eksempler her. Øh øh jo øh så inddeler man i de her forskellige typologier, som også svarer til nogle af dem, som vi så i Oko. Altså vi har en græsplæne, vi har nogle øh der er nogle kasser, der er noget hæk, og så er der noget parkiringsplads her i og nogle bytræer. Øh og så har man så så laver man så sådan en en grov inddeling på GIS, og så er det inden for de områder man finder, så laver man en artsliste.
+
+00:36:30
+Øh ja, og som sagt, vi brugte Bindu appen til ø til at taste ind den vej. Når vi så har data for områderne, så så øh laver vi jo de her faglige anbefalinger. Øh, hvad kan man så gøre i områderne? Men øh tricket og det som vi synes der virkede rigtig godt i den her øh hvad hedder det omgang det var det her one pager som du også var inde på Mathilde. Altså vi vi har et et område
+
+00:37:00
+hvor vi så hurtigt med et hurtigt overblik viser øh især den centrale del hvor der er sådan nogle ø øh kan man sige en ø en øh udpegning af hvad potentialerne er. Altså hvor meget kan man bevare i det her område ved Lundehusskolen? Øh, hvor meget hvor meget hvad er potential for at forbedre og udvide biodiversiteten. Og så er der alle mulige andre parametre, man kan putte ind under også i forhold til noget socialt og så videre. Øhm øh adgang til naturen, som også er blevet vurderet for
+
+00:37:30
+det enkelte område. Så vil der være nogle fokusarter for det enkelte område her. Der er et almindelig blåfugl. Øh og så kan man sige, at der er jo fokus på, at der skal være en interaktion med naturen her. der nogle børn der leger i øh i det her område, ikke? Så så det det bliver sådan en nogle udredninger. Her har vi to andre spørg sportsløjfen og genforeningspladsen. En har vi kigget på, men sportsløjfen var også lidt sjov, fordi øh egentlig et område, hvor det er nærmest bare et øh et øh hvad hedder det? øh et et lille en lille grøn
+
+00:38:00
+græsplæ med nogle bord bænkesæt og øh og en terrasse. Øhm og det er der er ikke der er ikke sådan super mange forskellige øh øh så så mange forskellige så meget biodiversitet og og til at finde ude i sådan et lille område der. Det er jo, det er, det er et klassisk græsbaner med noget kræ omkring, men alligevel så, så er der i området ø fundet øh både ildte og sørgekåbe øh og ø som er to ret sjove
+
+00:38:30
+arter, som kan er nogle af de arter, som er meget synlige, og som kan inspirere folk, når de ser det. Altså en lille tage er jo en lille billeagtig øh insekt som øh som har de vildeste røde farver. Og sørvegåb er jo en af vores største øh sommerhule øh som øh som også er meget spektakulær, når man ser den. Kan man gøre et eller andet for i sådan et område her, hvor arterne er set og forbedre øh og lave nogle steder for de arter, altså skabe nogle værtsplant,
+
+00:39:00
+udplante nogle verrtsplanter og sørge for at man får nogle bede og nogle øh altså en skovlysning ø til sommerfuglene og så videre. Så så ville man jo i et meget lille område faktisk kunne have øh gavnet den lokale biodiversitet rigtig meget. Det var faktisk det jeg havde. Øhm jeg vil sige noget af det som vi har øhm overvejet at tænkt meget på siden at vi øh vi vi afleverede det her som vi også snakked om under i processen, det er jo
+
+00:39:30
+det her med hvordan får man opdateret kortene? Altså det her med altså data skal jo som som du også sagde Mathilde, det det bliver jo et et et dyk kort på den måde at det at når man printer kort ud og man putter en rapport, så så er det jo ligesom sådan det er an 2024 eller meget det var. Øh så så der skal laves noget ø der skal laves et eller anden metodik hvor man kan få data ind i sådan en model her. Og aller øh allerbedst vil det jo også være i min verden, hvis det er, at det kan blive et interaktivt kort, som man har online,
+
+00:40:00
+hvor den enkelte borger kan gå ind og trykke på en heksagon, og så se for eksempel, hvad er det for nogle øh arter, man kan lave en særlig indsats på, og der kommer et katalog af muligheder for så at gøre det. Øh, det var det sidste, jeg vil sige herfra. &gt;&gt; Tusind tak for oplæg til jer begge to. Meget interessant. Og øh der er kommet et par spørgsmål som jeg egentlig bare tænker jeg tager tager simpelthen bare fra en af. Den første det er Fiona, som har en ved du hvad, jeg læser den
+
+00:40:30
+bare op. EU forordningen om invasive ikke hjemmehørende arter. Og den bekendtgørelse nummer 1285 har fokus på at forebygge, minimere og begrænse deres negative påvirkning af biodiversiteten. Med det store antal bygge og anlægsprojekter, hvor jord, maskiner og plantemateriale flyttes rundt, kan anlægsprojekter potentielt fungere som spredningsveje for invasive arter. Hvordan håndterer Københavns Kommune den risiko i praksis, og hvordan indtænker øh i det i arbejdet med
+
+00:41:00
+biodiversitet? &gt;&gt; Øhm. Ja, altså tak for spørgsmål. Øh, det tror jeg, det har jeg lidt svært ved at svare på. Det er nok mine kollegaer ovre i klima, miljø- og teknikforvaltning, som sidder ø mere specifikt med det. Jeg ved, at de har fokus på øh det her med invasive arter. Øhm, men men ja, der må jeg nok henvise til dem. Der bliver jeg svar skyldig desværre. &gt;&gt; Det er så fint. Øhm, så Laurit spørger:
+
+00:41:30
+"Danmark har mindst 38 ø 1000 arter, og der findes dygtige fagfolk inden for for delmængder, men hvordan definerer, kvantificere og mindst ikke mindst prioritere ved biodiversitet?" Og så et spørgsmål om, er der overhovedet enighed om, hvad biodiversitet er? &gt;&gt; Ja, det det kan jeg godt, tror jeg godt, jeg kan bryde ned. Altså det er rigtigt, vi har utrolig mange arter, og vi har også mange eksperter. Øhm. Og når man arbejder med biodiversitet,
+
+00:42:00
+så står man altid ude for den øh med den udfordring, at hvordan er det, hvad er det så for for nogle arter, man skal lægge vækt på? Der har vi jo nogle særligt beskyttede EU-arter. For eksempel i den ene ende, vi har en røde liste, der beskriver forskellige arter som i forhold til deres trued. Og så er der også bare en hel masse arter, som er super undersøgt, som er overrepræsenteret. Og det glemte jeg at nævne her. Vi har jo ingen fugle med i vores biodiversitetskort, fordi at ud af de millioner af observationer, der er
+
+00:42:30
+arter i Københavns kommune, der er næsten en million af fugle. Og fugle er rigtig dårlige til at sige noget om den enkelte ø altså hvad der sker på det enkelte område i en heksagon, medmindre det sådan er, du ved, et yngleområde for fuglene. Så derfor så så piller man jo ofte fuglene ud, når man laver sådan nogle kort her. Og så så kigger man jo alt efter, hvad er det hvad er det, vi skal bruge det til? De arter som er stedsspecifikke, som bruger et enkelt område ø til hele igennem hele
+
+00:43:00
+livyklussen. Det er dem som man vil anvende, og så vil man bruge nogle arsgrupper, som der er viden om. Så det er ikke kun øh, hvad hedder det, nøgensnegle og hvad hedder det? Ja. øh laver som som vi anvender. Øh vi skal have nogle artsgrupper som der er en generelt, hvad hedder det øh god og bred viden og en stor datamængde omkring, som man kan anvende den. Så det det er sådan både og. Altså vi vil jo rigtig gerne bruge de særlig sjældne arter, men mange gange så er det så er der jo ikke data
+
+00:43:30
+nok til at rigtig at anvende det i sådan nogle kort her. Og i forhold til hvad biodiversiteten er, jamen altså det det kun vi jo snakke om i timevis. Altså det men det det tror jeg ikke vi behøves her. Anne Sofie spørger i forhold til noget du sagde Mathilde, hvordan oplever I så potentialekortets anvendelse når det konflikter med byudvikling og andre interesser? Kan biodiversiteten bedre fremmes i konkrete projekter end før I havde kortlægning?
+
+00:44:00
+&gt;&gt; Ja, altså det det er jo helt klart en af de udfordringer, der er øh med det her kort. som Hans du også var inde på, det er jo altså når det er et et øh statisk kort eller et et øjebliksbillede og netop fordi den ikke tager højde for øh anden planlægning, så så er det jo øh så kan det jo være en udfordring øhm fordi at det jo også er med byplanlægning at der er sindssygt mange hensyn at tage og det kan også være dilemmafyldt og når der så kommer sådan et her kort som ligesom viser okay der er stort
+
+00:44:30
+potentiale i det her område hvor der potentielt også skal være noget byudvikling. Øh, hvordan altså så kan det jo godt konflikte, men jeg tror igen det er vigtigt at øhm ja at se det her kort sådan for hvad det er, at det siger noget om potentialet ø i nogle specifikke områder og at man så netop kan bruge det her øh inspirationskatalog eller som jeg var inde på og ligesom sige, okay, jeg har et projekt, hvor placerer det sig på det her kort? Øhm, og hvordan kan vi så arbejde med det bedst muligt?
+
+00:45:00
+Øhm, men det er det er da helt klart en en udfordring. Og i forhold til det her med om med anvendelsen af det øh altså som sagt så ved jeg jo at der er nogle forvaltninger der har brugt det her inspirationskatalog øh til at øh at bruge de her faglige anbefalinger anbefalinger. Og vi har også ligesom øh selv med nogle projekter ligesom brugt kortet til at sige, okay, hvordan bare lige for at få det også nogle gange et meget fint øh sådan udgangspunkt eller bare lige få et overblik over, hvordan
+
+00:45:30
+ser øh hvordan ser det ud med biodiversiteten på det her givende område. Øhm men ja, som sagt så skal vi jo også i gang med en evaluering, så øh så det kan være jeg kan sige noget endnu klogere efter den. Så spørger Toke om aller først siger han tak for to gode oplæg og og når I kortlægger et områdes biodiversitetspotentiale tidligt i planlægning, hvordan omsætter I det så til konkrete valg om hvad der skal bygges eller klimatilpasses? Og hvordan
+
+00:46:00
+vurderer I bagefter om naturen rent faktisk har fået bedre vilkår? &gt;&gt; Det er også et godt spørgsmål. Og det igen, jeg tror, at der må jeg også henvise til mine kollegaer i klima øh miljø og teknikforvaltning, fordi at vi som sagt sidder på det lidt mere strategiske overordnede niveau, og de sidder lidt mere i nede i sådan materien af det og nede i i lokalplanerne. Øhm, men det er jo helt klart øh det er jo helt klart noget der der fylder mere og mere, og som man også netop ønsker at
+
+00:46:30
+tænke ind øh tænke ind fra fra start af. &gt;&gt; Øhm. Ja, &gt;&gt; man kan jo sige, at det arbejde arbejde her kan jo bruges direkte i de forskellige certificeringsordninger, der er inden for byggeriet for eksempel. Altså der ville man jo sagtens kunne bruge de informationer, som ligger i sådan biodiversitets ø kort med de forskellige potentialer for at beskrive eksisterende biodiversiteter ud og og mulighed for at at ø binde binde grønne arealer inden for et øh et ø et nyt ø
+
+00:47:00
+boligområde for eksempel sammen med eksisterende værdier og nye værdier og så videre. Så på den måde så kan det jo spille direkte ind i ø i i forskellige certificeringsordninger. Så Ivan spørger, hvordan finder strategien anvendelse inden for de områder, der ikke er kortlagt med et potentiale, altså i de hvide heksagoner? Øh ja,
+
+00:47:30
+&gt;&gt; altså man kan sige i hvert fald sådan som jeg er også det det nu må du supplere Hans hvis du men det der jo er med de hvide områder det det er jo at det er jo ikke ens betydning fordi de på kortet ikke bonger ud er det ikke ens betydning med der ikke er biodiversitet eller der ikke er potentiale for ø forbedre eller udvide eller bevare men at ø det her med at mange af de hvide områder er villa kvarterer øh Og derfor kan det være lidt sværere ligesom at øh rent faktisk kunne sige noget om potentialet der. Øh men det men men som
+
+00:48:00
+sagt det er ikke ens betydende med der ikke er noget potentiale at finde eller noget eksisterende biodiversitet at finde. Tværtimod. Øhm. &gt;&gt; Nej nej det det det det er fuldstændig jeg er fuldstændig enig. Der er ikke, altså hvis man lægger de tre kort over hinanden, så er der ikke ret mange områder, der sådan er helt rigtigt, det er jo der, hvor man har øh rigtig meget øh vej eller asfalt eller du ved altså sådan noget, der slet ikke kommer ind i nogle af de kategorier, som vi ellers har eller parametre vi har kigget på, og
+
+00:48:30
+der er ikke ret meget øh rundt omkring, så men selvfølgelig øh der vil være nogle steder, hvor man det er jo et prioriteringsværktøj, så derfor så er der jo også nogle steder, man ikke skal prioritere. Øh ellers så vil det være dårligt prioriteringsværktøj. &gt;&gt; Så er spørgsmålet igen fra Ivan her. Hvordan kan byråsprojekter i de hvide områder øh skal lige se her? Ja. I de hvide områder bruges aktivt til at understøtte fremme af den er du måske lige spurgt om her øhm af biodiversitet i Københavns Kommune. Så skriver han så
+
+00:49:00
+ledende spørgsmål: Hvordan kan byghæer få hjælp til at indtænke ny biodiversitet ind i deres projekt uagtet potentialkortet? Vi skal lige have den sidste del igen. &gt;&gt; Jo, altså hvordan kan en bygger få hjælp til at indtænke ny biodiversitet inde i deres projekt? Uagtet potentialkortet her. &gt;&gt; Ej, der skulle jo være en dårlig rådgiver for ikke at sige, man skal ringe til os. Hvad hedder det? Der er jo altså det det det er jo et åbent og
+
+00:49:30
+bredt spørgsmål. Det er jo sådan et øh det arbejder vi med hver eneste dag det der med at fra få biodiversiteten ind i ø ind i ind i projekter. Og metodikken er jo lidt den samme som det som man kigger på i de her potentialekort. Altså det handler jo om øh bevare de eksisterende værdier og og så laver man sin øh så laver man sine prioriteringer og sin øh sine tiltag ud fra det og hvad har man i nærheden man kan binde sammen med. Så det er jo den måde vi ø vi vi heldigvis også arbejder med også uden et
+
+00:50:00
+potentialekort ø arbejder med biodiversitet i i byområder. Ja. &gt;&gt; Så spørger Andreas her eller han siger tak for oplægget og så står der så er der et sted hvor man kan se læse dokumentationen bag metoden og så tænker han særligt på dokumentationen af hvilke gislag der er anvendt og hvordan disse vægtes og pointgives for at omsætte direkte til et potentialkort. Ja. Øh, altså vi har jo udarbejdet nogle
+
+00:50:30
+notater med de her forskellige altså med metodikken, metodebeskrivelser, som vi i hvert fald afleverer til Københavns kommune, og jeg ved ikke, hvordan om de ligger offentlig til egentlig. &gt;&gt; Øh, det skal jeg lige tænke mig om. Jeg er ret sikker på, at øhm det hele egentlig ligger ø tilgængeligt, både redegørelse og metodebeskrivelse. Øhm jeg jeg jeg kan også eventuelt til dig Cornelius efter lige sende link, hvor man kan hvor man kan læse hele
+
+00:51:00
+materialet. &gt;&gt; Ja, det er en god id. Så så kan vi lægge det i ø hvad er det det hedder på nu dansk? Show show nototes på YouTube. &gt;&gt; Ja. Og jeg vil bare lige klynte en kommentar, fordi altså vi øh vi har jo lavet en metode til Københavns kommune, og der har jo været en masse, hvad hedder det, frem og tilbage i forhold til, hvad øh hvad for nogle prioriteringer der er vigtige. Det kan jo altså godt være anderledes i, øh, i Herning eller i Kladesaks eller hvor man er henne, altså det kommer an på øh der
+
+00:51:30
+kan jo også de her for eksempel de her øh arter, som man har fokus på i en kommune. Hvordan får man det ind i et sådan kort her? Vil man gerne have, at de har en fremtidagende rolle eller ej? Og det har faktisk, det har været en af de ting, der har været i spil flere gange i de her potentialekort for eksempel, hvor jeg mener, vi endte med til sidst faktisk at pille dem helt ud, fordi det kunne godt skævride lidt den der de værdisætninger, der kom derude. Men der er utrolig mange til fravalgte i sådan en proces, så øh så det er det, der er det spændende. Ikke så meget,
+
+00:52:00
+hvad vi endte med, men øh det mener jeg mener helt sikkert det godt kan være til inspiration, at man læser det der. Ja. Som jeg også starter ud med at sige, så så har vi jo så optager vi jo webinaret her, og vi lægger det ud online, så kan man gå ind og efters det. Jeg skal lige høre, hvis det nu er, at de der er nogen, der sidder med nogle spørgsmål. Er det så muligt, at der var ikke lige et øh et ark med kontaktinformation? Men hvis det nu er, så kan jeg jo lægge det ud. Eller hvordan må folk kontakte jer? Ja,
+
+00:52:30
+direkte. Super. Øhm, og ellers så er der ikke flere spørgsmål, og så vil jeg egentlig bare sige tusind tak for for jeres oplæg, og øh, ja, ønsker jer alle sammen en rigtig god dag. &gt;&gt; Lige måde. &gt;&gt; Ja, selv tak. &gt;&gt; Goddag.
