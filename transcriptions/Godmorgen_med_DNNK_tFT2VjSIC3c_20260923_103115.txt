@@ -23,11 +23,11 @@ stille spørgsmål i chatten også gerne på engelsk men ellers så skal jeg for
 spørgsmålene og jeg ved når oplægget slutter så vil jeg stille så mange spørgsmæl som jeg
 kan nå inden vi runder af kl.
 00:01:02
-9 Mia læser en erhvervspøredag på Aalborg Universitet og er tilknyttet Køstseksuaratet,
+9 Mia læser en erhvervs-ph.d. på Aalborg Universitet og er tilknyttet Kystdirektoratet,
 hvor hun undersøger social retfærdighed i klimatilpasning.
 00:01:14
 På det her webinar vil Mia præsentere et nyt studie, som hedder En ny og omfattende
-tilgang til at forstå sociale konsekvenser af oversvømmelse, vurdering af social sorgerhed
+tilgang til at forstå sociale konsekvenser af oversvømmelse, vurdering af social sårbarhed
 over for oversvømmelser og social oversvømmelsesrisiko i Danmark.
 00:01:31
 Studiet introducerer en nationalt socialt sårbarhedsindeks og et socialt
@@ -72,12 +72,12 @@ arbejder på MST.
 Jeg vil også gerne nævne, at vi nylig har skrevet en artikel om modellerne, som jeg skal
 beskrive i dag.
 00:03:30
-Denne artikel er tilfældig i Internationale Journal for Disaster Risk Reduktion.
+Denne artikel er tilfældig i International Journal of Disaster Risk Reduction.
 00:03:35
 Den er åben tilfældigt.
 00:03:37
 Hvis du vil lære mere om det, jeg taler om i dag, kan du gøre det på denne link eller på QR-
-koden på skjermen.
+koden på skærmen.
 00:03:49
 Vi taler om to hovedkoncepter i dag.
 00:03:53
@@ -771,7 +771,7 @@ anmeldt for at tage i konsideration både økonomisk og socialdamage.
 Det er en forlovlig sign, at vi forbedrer vores forståelse af risiko i Danmark.
 00:41:31
 Det betyder også, at nu det her process er offentligt, så er den sociale forvandling og
-risikodata, som jeg har diskuteret, nu tilfældig online i en webkisteformat.
+risikodata, som jeg har diskuteret, nu tilfældig online i en WebGIS-format.
 00:41:45
 Hvis du har lyst til at lære mere, eller bare se rundt om, hvad det geografiske lave af
 vulnerabilitet og risiko virkelig ser ud, kan du se det her på denne linke.

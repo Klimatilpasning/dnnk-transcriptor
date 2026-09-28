@@ -34,7 +34,7 @@ Men vi glæder os dog til, at det er færdigt snart.
 I dag har vi et spændende arrangement om stormflodssikring af København og videre. Den
 7.
 00:03:57
-Januar fortsætter vi med kysstemat, hvor kysdirektoratet kommer og fortæller om deres
+Januar fortsætter vi med kysstemat, hvor Kystdirektoratet kommer og fortæller om deres
 nye værktøj, kysplanlæggere, der skal hjælpe kommunerne.
 00:04:07
 Så det håber jeg også, I meget gerne vil deltage ved.
@@ -73,14 +73,14 @@ Det første slide viser en illustration af en situation, vi meget gerne vil undg
 København, og sikkert også mange andre steder.
 00:05:58
 Det viser, hvordan en udbredelse af en stor stormflod kan spredes over store dele,
-Hvidovre, København, Vestermark, Tornby.
+Hvidovre, København, Vestermark, Tårnby.
 00:06:08
 Det er vel at mærke i dag, at der kunne være så stor en udbredelse af en meget stor
 stormflod, en 2.000 års stormflod i 2020.
 00:06:18
 Du må gerne skifte til næste slide. Modenesprojektet. Her er lidt baggrund om det.
 00:06:26
-Det er et samarbejde mellem Hvidovre Kommune og Københavens Kommune.
+Det er et samarbejde mellem Hvidovre Kommune og Københavns Kommune.
 00:06:32
 Baggrunden for projektet er, at vi for nogle år tilbage fik nye højvandsstatistikker, både i
 Københavns Kommune og i forskelligt arbejde, der er indgået i risikostyringsplaner i begge
@@ -89,17 +89,17 @@ kommuner.
 Komplotionen på baggrund af den højvandstatistik, som Groovy har leveret, var, at vi skal
 sikre mod stormflodet fra syd nu.
 00:06:55
-Jeg kommer lidt tilbage til, hvordan de byggede op de højvansstatistikker.
+Jeg kommer lidt tilbage til, hvordan de byggede op de højvandsstatistikker.
 00:07:00
 For at komme i gang med projektet, skulle vi lave nogle analyser.
 00:07:04
 De er igangsat med et budget på 3 mio. Fra bl.a.
 00:07:09
-Partnerskabet Byerne Stine Havvand mellem Realdania og Miljøministeriet og med midler
+Partnerskabet Byerne og det stigende havvand mellem Realdania og Miljøministeriet og med midler
 fra begge kommuner.
 00:07:16
 Det fokus, der har været i modnedsprojektet, er at se nærmere på en stormflodsikring i syd
-for Kalveboderne, som ligger mellem Alvøre Holme og Vestermar.
+for Kalveboderne, som ligger mellem Avedøre Holme og Vestermar.
 00:07:27
 Og der har også været en stor fokus på at finde nogle principper for bidragsmodeller den
 dag vi skal ud og opkræve penge for en betaling af en sikring.
@@ -113,7 +113,7 @@ Det, som ligger til grund for anbefalingen om, at vi skal sikre mod stormfloder 
 det er en ny højvandsstatistik, som blev produceret af Koge for nogle år tilbage.
 00:08:01
 Først til metroselskabet og siden til Københavns Kommune, og så er det ellers indgået i
-forskellige projekter i Hvidovre Kommune og i Københaves Kommune.
+forskellige projekter i Hvidovre Kommune og i Københavns Kommune.
 00:08:11
 Udgangspunktet for mange højvandstatistikker i dag er, at man tager fat på de målte
 stormfloder, der har været igennem de sidste 50-100 år.
@@ -162,13 +162,13 @@ Og så har der også været i risikostyringsplanerne forskellige kort.
 Men et samlet kort, der også har de nyeste opdateringer af diger på land, for der er jo nogle
 diger rundt omkring, det er taget med.
 00:10:18
-Så Drømbøl har fået vist os, hvor udbredt en stormflod kan blive, og der er beregnet skader
+Så Rambøll har fået vist os, hvor udbredt en stormflod kan blive, og der er beregnet skader
 og lignende, som følger oversvømmelserne.
 00:10:30
 Så har Incentive regnet på de samfundsøkonomiske konsekvenser af stormflodsikringen, de
 gevinster, der er ved at sikre videre over København.
 00:10:40
-Og der er taget de skader, der er beregnet af Rampbøl.
+Og der er taget de skader, der er beregnet af Rambøll.
 00:10:42
 Og så har man også indregnet drifttag ved, at trafikselskaber går ned, hvis der kommer en
 stor stormflod, og så fører det f.eks.
@@ -177,8 +177,8 @@ Til forsikrelse for en masse trafikanter. Lundgrens har kigget på bidragsmodell
 00:10:55
 Der er lavet nogle eksempler på det.
 00:10:58
-Og så har KUVI peget på tre principløsninger for forslag til sikring nede syd for
-Kalvebroerne, inklusiv nogle prisoverslag.
+Og så har COWI peget på tre principløsninger for forslag til sikring nede syd for
+Kalveboderne, inklusiv nogle prisoverslag.
 00:11:07
 Og de har også relateret det i forhold til de Det har vi jo forventet, at vi mødte med, når man
 bygger i Natura 2000-området, som kalveboderne er, og dermed ligger sikringen også i
@@ -186,21 +186,21 @@ Natura 2000 området.
 00:11:20
 Du må gerne skifte.
 00:11:21
-Det, vi er blevet klogere på i vores modningsprojekt, det er, at et samlet køstsikringsprojekt,
+Det, vi er blevet klogere på i vores modningsprojekt, det er, at et samlet kystsikringsprojekt,
 ikke bare ved kalveboder, men også øvre sikring med diger og lignende, så vi er sikret hele
 vejen rundt mod en stormfod fra søden, Det er samfundsøkonomisk og sikkerhedsmæssigt
 en fordel.
 00:11:42
 De store infrastrukturselskaber har vi haft dialog med, det er bl.a.
 00:11:46
-Metro og Sunderbælt, og de har en 0-tolerance over for stormflod, og de ønsker en sikring
+Metro og Sund & Bælt, og de har en 0-tolerance over for stormflod, og de ønsker en sikring
 til et højt niveau.
 00:11:52
 Det vi har regnet på, det er også hvad der kan komme af skader bare ved en enkelt stor
 stormflod, 2.000 års stormfloden i dag, og den kan medføre tab på op til 28 milliarder.
 00:12:06
 Det, vi er blevet klogere på i projektet, er, at det ikke er nok at se på en sikring udelukkende
-syd for kalvebruderne.
+syd for Kalveboderne.
 00:12:13
 Vi skal også have inkluderet et fremtidigt projekt, en helt løsning, som sikrer hele vejen fra
 Brøndby videre til Amager Strandpark.
@@ -208,7 +208,7 @@ Brøndby videre til Amager Strandpark.
 Og vi synes også, det er relevant, at staten kommer ind, fordi vi kan se, at vi ikke kan løfte
 opgaven alene.
 00:12:28
-Vi skal også have Tornby ind. Vi skal tale med Brøndby og Dragør.
+Vi skal også have Tårnby ind. Vi skal tale med Brøndby og Dragør.
 00:12:31
 Det er vigtigt for at få alle hensyn med.
 00:12:34
@@ -281,14 +281,14 @@ transportere på, og det fører til tidstab for dem.
 00:15:26
 Bygningsejere ikke mindst vil opleve tab.
 00:15:29
-Og så har vi også fået beregnet, hvad der vil ske, hvis vores institutioner i form af vogtstuer,
+Og så har vi også fået beregnet, hvad der vil ske, hvis vores institutioner i form af vuggestuer,
 børnehaver, skoler og lignende rammes.
 00:15:38
 Og det vil føre til, at de institutioner formentlig vil blive så meget ramt, så 6.000 børn skal
 finde et andet sted at blive passet eller gå i skole.
 00:15:47
 De skader, der er opgjort, er også i andre kommuner, men de tab, vi har beregnet, de er kun
-fra København og videre, dog er Lufthavnen, som ligger i Tornby, taget med.
+fra København og videre, dog er Lufthavnen, som ligger i Tårnby, taget med.
 00:15:58
 Så er der også nogle skader, som slet ikke er taget med helt generelt.
 00:16:02
@@ -300,9 +300,9 @@ højere end normalt, og det kan føre til skader på fundamenter og lignende.
 00:16:20
 Der kan også være skader på natur og miljø.
 00:16:23
-Et rinsesanlæg kan komme ud af drift, fordi det simpelthen oversvømmes, og det fungerer
+Et rensningsanlæg kan komme ud af drift, fordi det simpelthen oversvømmes, og det fungerer
 så ikke som det skal, og det vil kunne være nede i meget lang tid, så vandet ikke rinses, og så
-kommer der urinset spildevand ud i kalveboderne og videre ud i køgebogt i meget lang tid.
+kommer der urinset spildevand ud i kalveboderne og videre ud i Køge Bugt i meget lang tid.
 00:16:40
 De skader, der følger af det, er heller ikke opgjort.
 00:16:44
@@ -318,7 +318,7 @@ Det er regnet fra perioden 2020 til 2021, og det vil altså sige, at De udgifter
 lave en sikring er mindre end de fordele, der er ved at man undgår alle de her skader.
 00:17:21
 Og der er regnet på en hel sikring fra Brøndby Hvidovre helt over til Amager Østkyst, så ikke
-kun lige syd for kalvebordene.
+kun lige syd for Kalveboderne.
 00:17:30
 Når man bruger den samfundsøkonomiske model, så ser vi, at vi undgår omkostninger på
 over 5 milliarder kroner i den periode.
@@ -498,20 +498,20 @@ Og vi skal have et område, som fungerer hele tiden, som hele tiden er beskyttet
 Alle de sammenhæng er også svære at adressere i modellerne.
 00:25:44
 Jeg tror, at det var lige gennemgangen af de første tre analyser, så vi hopper videre til
-KUVIS' principløsninger, hvor Lise Holm fra Hvidovre tager over.
+COWIs principløsninger, hvor Lise Holm fra Hvidovre tager over.
 00:25:59
 Godmorgen.
 00:26:00
-Det, vi ser på det næste slide, er de tre mulige placeringer, som Covi har udarbejdet for
+Det, vi ser på det næste slide, er de tre mulige placeringer, som COWI har udarbejdet for
 projektet.
 00:26:08
 Når vi siger placeringer, er det vigtigt, at der ikke er formgivning inde.
 00:26:13
 Det handler alene om, om man kan placere en stormflodsikring inde i det, vi kalder
-kalvebåderne, eller i umiddelbar forbindelse under selve motorvejsbroen, som er den lys-
+Kalveboderne, eller i umiddelbar forbindelse under selve motorvejsbroen, som er den lys-
 orange streg, I kan se.
 00:26:28
-Eller en løsning syd, som er uden for kalvebordene, altså en forbindelse fra Øreholme og
+Eller en løsning syd, som er uden for Kalveboderne, altså en forbindelse fra Øreholme og
 over til Vestdammer.
 00:26:37
 Her er den repræsenteret i form af orange klatter, som kunne være en form for øer.
@@ -536,7 +536,7 @@ Og det er, fordi den, der hedder A, som er nordende i kalveboderne, sandsynligvi
 komme til at lave så meget uorden i det vand gennem strømningen, der er derinde i dag, at
 vi ville forenge vandkvaliteten helt ekstremt dårligt.
 00:27:50
-Plus at det er et af de steder, hvor der er rigtig mange restefugle, som ligger og hviler sig om
+Plus at det er et af de steder, hvor der er rigtig mange rastefugle, som ligger og hviler sig om
 vinteren.
 00:27:58
 Så den løsning anbefaler rådgiveren ikke, at vi går videre med løsningen midt.
@@ -553,7 +553,7 @@ man kan etablere noget natur i forbindelse med de øer her.
 00:28:40
 Anders har også været inde på det, kommer til at skulle anlægge, uanset hvilken en vi
 vælger, kommer vi til at skulle anlægge den i Natura 2000-området, som gør, at vi er ude i
-en fravægelsesprocedure, som skal godkendes i EU-kommissionen.
+en fravigelsesprocedure, som skal godkendes i EU-kommissionen.
 00:28:57
 Du må gerne skifte, Anne. Her ser jeg et schema, som er Covid bud på anlægsoverslag.
 00:29:08
@@ -603,7 +603,7 @@ midt i.
 00:31:25
 Og over 80 år regner vi med en vandstandsstigning på ca. 1 Meter køgepunkt.
 00:31:35
-Så har vi et bølgetæglæg i toppen, som er lidt over 1,5 meter.
+Så har vi et bølgetillæg i toppen, som er lidt over 1,5 meter.
 00:31:41
 Det vil sige, at vi skulle bygge nogle porte, som kan klare en vandstand til 6,5 meter over
 daglig vandstand.
@@ -617,7 +617,7 @@ Det er ved at etablere en kæmpestor port ude midt i vandet, som er det dyre, og
 tager de helt forsigtige briller på.
 00:32:15
 Det kan man sige er kun en god idé i den her sammenhæng, Der er ikke specielt stor forskel
-i anlægsprisen, uanset om man vælger en, der kan klare den stormkludstrussel, vi har i dag,
+i anlægsprisen, uanset om man vælger en, der kan klare den stormflodstrussel, vi har i dag,
 eller den, vi ser om 100 år.
 00:32:31
 Så må du gerne skifte igen.
@@ -695,7 +695,7 @@ Vi ved faktisk ikke rigtig mere end det, vi har fået at vide i udmeldingerne, m
 selvfølgelig at forberede os så godt som vi kan på at indgå i det samarbejde, forhåbentlig
 kommer til at ske her i løbet af 2021.
 00:37:05
-Vi har kontaktet Tornby og Dragør. For at spørge, om vi ikke skulle slå pjælterne sammen.
+Vi har kontaktet Tårnby og Dragør. For at spørge, om vi ikke skulle slå pjælterne sammen.
 00:37:13
 I en eller anden forstand for at prøve at arbejde videre med nogle af de steder, hvor vi
 tænker, at vi ikke er helt i mål.
@@ -712,7 +712,7 @@ Når vi er i gang med det store helikopterblik, så skal vi også se, hvad der e
 00:37:55
 Kan vi gøre et helhedsgreb, som lugter af noget af det, som foregår i forvejen?
 00:38:02
-Det er derfor, vi har kaldt den her slide fra Køgeborg Strandpark til Amager Strandpark.
+Det er derfor, vi har kaldt den her slide fra Køge Bugt Strandpark til Amager Strandpark.
 00:38:08
 Hele den sydlige del som et stort helhedsgreb med naturbaserede løsninger frem for de
 hårde kanter, som vi kender i dag.
@@ -721,9 +721,9 @@ Det spiller ind i Hvidovre Kommunes vision om at etablere Holmene, som er ni erh
 ud for Hvidovre, men som har nogle bløde kanter for at at øge de naturmæssige og de
 rekreative værdier.
 00:38:43
-Næste. Når vi gør det, så kigger vi også på vores Natur 2000-problematik. Kortet til venstre.
+Næste. Når vi gør det, så kigger vi også på vores Natura 2000-problematik. Kortet til venstre.
 00:38:57
-Her kan man måske se en meget tynd streg, som er det Natur 2000-område, som vi ligger
+Her kan man måske se en meget tynd streg, som er det Natura 2000-område, som vi ligger
 indenfor.
 00:39:04
 Det går også ind på Vestammer, og det er ude i i vandet, så uanset hvor vi vælger at placere,
@@ -741,7 +741,7 @@ I hvert fald her ikke bidrager til naturmæssige kvaliteter.
 For at sætte det på spidsen, har vi sat et par billeder ind af Vestammerdiet, som er i midten
 her, hvor man kan se den hårde kant med stenet for foden.
 00:39:51
-Og så ved siden af kan man se Køge Boks Strandpark, som jo også, som de fleste af jer
+Og så ved siden af kan man se Køge Bugt Strandpark, som jo også, som de fleste af jer
 sikkert ved, jo faktisk er etableret som en kystsikring, men med en helt masse naturmæssige
 kvaliteter, Næste.
 00:40:09
@@ -795,7 +795,7 @@ Det er ligesom det, man kalder power to X, som er noget af det, der driver det d
 Men man kan sige, Når og hvis ørerne etableres, vil de kunne gøre det løb, vi skal, som de
 gør indløbet til kalveboderne, lidt mindre.
 00:43:04
-De er ikke etableret for at lave stormklodsækring.
+De er ikke etableret for at lave stormflodssikring.
 00:43:07
 Til gengæld vil de gøre, at problemet med den eksisterende højdepotid på Øreholm er lidt
 mindre, fordi de vil blive anlagt til de scenarier, vi kigger ind nu.
@@ -811,7 +811,7 @@ Så er der været et spørgsmål om, om Ullerup-diet er med i vurderingen af
 stormflodsudbredelsen på Amager.
 00:43:46
 Det kunne jeg næsten forstå, at det var, når man kiggede på det hele, men ikke når man
-kiggede på jeres kalvebåderne stormflodsprojekt.
+kiggede på jeres Kalveboderne stormflodsprojekt.
 00:43:54
 Er.
 00:43:54
@@ -878,9 +878,9 @@ Hvad er årsagen til, at man vælger sådan en enorm hændelse?
 00:46:38
 Vi har været i dialog med infrastrukturselskaberne.
 00:46:42
-Det er blandt andet Sund Bilt, Hufor, Biofos og Mitoselskabet.
+Det er blandt andet Sund & Bælt, HOFOR, Biofos og Metroselskabet.
 00:46:49
-Mitoselskabet og Sund Bilt har arbejdet længe med at se på, hvordan man sikrer deres
+Metroselskabet og Sund & Bælt har arbejdet længe med at se på, hvordan man sikrer deres
 aktiver.
 00:46:56
 De hælder også til, at vi skal lave en ydersikring af områderne, og vi skal sikre til et højt
@@ -1029,7 +1029,7 @@ dag.
 00:53:15
 Og det skal der tages hensyn til i det videre arbejde.
 00:53:17
-KUVI har også screenet nogle af de hensyn, der skal Vi ved ikke, som Lise var inde på, hvor
+COWI har også screenet nogle af de hensyn, der skal Vi ved ikke, som Lise var inde på, hvor
 mange porte der skal til.
 00:53:25
 Hvad er bredden af dem og hvor skal de placeres?
@@ -1115,11 +1115,11 @@ have en anden holdning til det.
 00:57:23
 Herunder også, når man kommer til at vurdere omkostninger til sikringer.
 00:57:27
-Så vi er ikke færdige med, at diskutere det i bund, og det er det, vi vil tage op med Tormby
+Så vi er ikke færdige med, at diskutere det i bund, og det er det, vi vil tage op med Tårnby
 og Dragør, så vi også får de særlige hensyn ind, der er de kommuner, fordi vi kan ikke tale
 udelukkende ud fra Hvidovre og Københavns erfaring lige nu.
 00:57:44
-Vi er nødt til at tage Tormby og Dragør med ind i den dialog. Så.
+Vi er nødt til at tage Tårnby og Dragør med ind i den dialog. Så.
 00:57:51
 Er der et spørgsmål, som kom i forbindelse med, tror jeg, Anders, at du fortalte det, og
 hvordan man har kigget på udgifterne ved en stormflod.
@@ -1155,8 +1155,8 @@ har en interesse i, at hovedparten af hovedstaden ikke bliver lagt ned af en sto
 00:59:12
 Ikke kun de, der ejer anlæg, ejendom eller noget andet. Jeg vil sige,.
 00:59:18
-Og der må Lise også gerne supplere, altså vi har jævnlig talt med Køstdiatorat også, da vi
-lavede Stormflodsplan, men Køstdiatorat er med i partnerskabet, som sammen med
+Og der må Lise også gerne supplere, altså vi har jævnlig talt med Kystdirektoratet også, da vi
+lavede Stormflodsplan, men Kystdirektoratet er med i partnerskabet, som sammen med
 Realdania har støttet projektet, men også følger det.
 00:59:31
 Vi har jævnig dialog med partnerskabet, og på den måde så får Miljøministeriet også
@@ -1210,7 +1210,7 @@ her.
 01:01:40
 Godmorgen med DNNK kl. 8 Om morgenen.
 01:01:43
-Og fortæller om deres nyeste lancerede udgave af Køstplanlæggeren.
+Og fortæller om deres nyeste lancerede udgave af Kystplanlæggeren.
 01:01:47
 Der skal hjælpe kommunerne med de forvaltningsmæssige opgaver.
 01:01:51

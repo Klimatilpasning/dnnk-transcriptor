@@ -11,7 +11,7 @@ Transkriberet: 2026-09-23T10:31:15.751287
 Godmorgen allesammen.
 00:00:09
 Så har klokken passeret otte, og på vegne af det nationale netværk for klimatilpasning vil jeg
-gerne byde allesammen rigtig hjertelig velkommen til det her Godmorgen med DNIK
+gerne byde allesammen rigtig hjertelig velkommen til det her Godmorgen med DNNK
 webinar.
 00:00:19
 Jeg skal lige starte med at sige, at I må allesammen gerne slå jeres kamera og jeres mikrofon
@@ -22,11 +22,11 @@ Så I må allesammen meget gerne slå jeres billede og mikrofon fra nu.
 Mit navn er Christian Dæhlbæk, og jeg har den fornøjelse af at skulle lave det her webinar
 sammen med to fantastiske personer.
 00:00:41
-Projektleder fra Dragøve Kommune, Lise Holm, og projektleder fra Dragøve Kommune,
+Projektleder fra Dragør Kommune, Lise Holm, og projektleder fra Dragør Kommune,
 Lotta Tiselius.
 00:00:47
 Grunden til, at vi har inviteret de to personer, er, at de er projektledere for de to
-demonstrationsprojekter fra Byerne og Destine Havvand.
+demonstrationsprojekter fra Byerne og det stigende havvand.
 00:00:57
 De har modtaget midler og støtte til realisering af de her projekter, der har været under
 udvikling i det her projekt.
@@ -69,20 +69,20 @@ Ja, det ser rigtig godt ud.
 00:02:14
 Sådan.
 00:02:16
-Jeg hedder Lise Holm og er projektleder for Dragøve Kommunes kysbeskyttelsesprojekt.
+Jeg hedder Lise Holm og er projektleder for Dragør Kommunes kystbeskyttelsesprojekt.
 00:02:22
-Dragøve Kommune har, som Christian nævnte, fået del i din lydlop fra Redaeltania til
+Dragør Kommune har, som Christian nævnte, fået del i din lydlop fra Realdania til
 realisering af kysbeskyttelsesprojektet.
 00:02:35
 Nu har jeg lavet sådan en warm-up slide til jer.
 00:02:39
-Vi har fået tilsavn om bevilling på 18 mio.
+Vi har fået tilsagn om bevilling på 18 mio.
 00:02:43
 Kr.
 00:02:44
-Fra Raldania.
+Fra Realdania.
 00:02:45
-Vi har også fået tilsavn om 37 mio.
+Vi har også fået tilsagn om 37 mio.
 00:02:48
 Kr.
 00:02:48
@@ -107,7 +107,7 @@ Hvad er det for nogle dilemmaer eller nogle benspind, vi står overfor?
 00:03:42
 Og så lidt om, hvordan vi har tænkt os at komme derhen.
 00:03:45
-Jeg kan desværre ikke vise jer et fikst og færdigt kysbeskyttelsesprojekt, som vi skal
+Jeg kan desværre ikke vise jer et fikst og færdigt kystbeskyttelsesprojekt, som vi skal
 anlægge lige om lidt.
 00:03:50
 Men det kan jeg forhåbentlig snakke om.
@@ -135,9 +135,9 @@ Og så lidt om, hvad er det, der er givet penge til.
 00:04:38
 Og næste skridt.
 00:04:40
-Hvis vi lige starter helt fra toppen, så ligger dragrør her udsat.
+Hvis vi lige starter helt fra toppen, så ligger Dragør her udsat.
 00:04:47
-Jeg satte en ring rundt om, og Drageø Kommune har 13 km kyst, og ligger flat på spidsen af
+Jeg satte en ring rundt om, og Dragør Kommune har 13 km kyst, og ligger flat på spidsen af
 Amager.
 00:04:56
 Så når der først bliver oversvømmet i Drageø, så breder oversvømmelsen sig langt ind, fordi
@@ -149,7 +149,7 @@ se på kortet til venstre, så er det de diger, der er.
 De er meget lave, og de er ikke sammenhængende.
 00:05:19
 Det vil sige, hvis vi kigger på de midterste diagrammer her, at en 100-års hændelse, som er
-det nederste diagram, den vil faktisk sprede sig ind over ret store dele af Dragøve
+det nederste diagram, den vil faktisk sprede sig ind over ret store dele af Dragør
 Kommune.
 00:05:34
 Fordi vandet har frit løb ind over landet.
@@ -163,7 +163,7 @@ Det er at prøve at nedbringe den risiko.
 00:05:59
 Så er der selvfølgelig også andre slags vand.
 00:06:04
-Skybrugsvand er ikke vores største problem, men vi ved, at opstigende grundvand kommer
+Skybrudsvand er ikke vores største problem, men vi ved, at opstigende grundvand kommer
 til at blive en endnu større udfordring i fremtiden.
 00:06:16
 Det, som udviklingsplanen, som blev lavet som et parallelopdrag i 2020 og 2021, på
@@ -204,7 +204,7 @@ Det er noget, vi ikke har i dag.
 00:08:40
 Derfor kan det lyde lidt fladpændet, men det er faktisk en væsentlig del.
 00:08:44
-Vi vil gerne sikre Dragøve Kommune mod det, der svarer til en 100-års hændelse hele vejen
+Vi vil gerne sikre Dragør Kommune mod det, der svarer til en 100-års hændelse hele vejen
 langs kysten.
 00:08:54
 Vi har også inddelt kysten i seks delstrækninger, som har nogle forskellige karakterer.
@@ -212,14 +212,14 @@ Vi har også inddelt kysten i seks delstrækninger, som har nogle forskellige ka
 Som jeg var inde på, så er udviklingsplanen besluttet som den overordnede ramme og
 retning for projektet her.
 00:09:14
-Ude til højre har jeg sat nogle billeder ind af nogle visualiseringer, som Covi og Akitima har
+Ude til højre har jeg sat nogle billeder ind af nogle visualiseringer, som COWI og Arkitema har
 lavet.
 00:09:21
-Det er dem, der har lavet udviklingsplan fra Dragøde Kommune.
+Det er dem, der har lavet udviklingsplan fra Dragør Kommune.
 00:09:24
 Af hvordan de forskellige løsninger kan se ud på forskellige steder.
 00:09:29
-Den øverste er fra Dragøren Nordstrand, hvor udviklingsplanen peger på et forland et
+Den øverste er fra Dragør Nordstrand, hvor udviklingsplanen peger på et forland et
 stykke fra kysten, så der er en lagune foran forlandet.
 00:09:43
 Det midterste er et billede fra havnen, hvor der er en løsning på kortere og længere sigt.
@@ -236,18 +236,18 @@ Som er de mest sårbare og det med den laveste beskyttelse nu.
 00:10:20
 Så er der kystbeskyttelse på kortere og på længere sigt.
 00:10:29
-Og det er en strategi for, hvordan Raghøv Kommune med dets 15.000 indbyggere kan få råd
+Og det er en strategi for, hvordan Dragør Kommune med dets 15.000 indbyggere kan få råd
 til at betale for kystbeskyttelsen.
 00:10:44
 Over til venstre kan man se helhedsplanen på kortere sigt.
 00:10:50
-Det vi kalder en 100-årshendelse frem til 2050.
+Det vi kalder en 100-årshændelse frem til 2050.
 00:10:53
 Det er for, at vi har taget klimatillæg med i.
 00:10:57
-Det skulle gerne være en 100-årshendelse frem.
+Det skulle gerne være en 100-årshændelse frem.
 00:11:01
-Der er ligesom også en 100-årshendelse frem mod 2050.
+Der er ligesom også en 100-årshændelse frem mod 2050.
 00:11:04
 Vi skal anlægge det hele inden 2030, og prisen for det her er nu år gammel, men det er en
 økonomi i omegnen af 200 mio.
@@ -294,7 +294,7 @@ Og lave en meget nænsom bearbejdning.
 Det, vi ser på den store visualisering, er en løsning, som delvist består af faste elementer, og
 delvist består af beredskabselementer, som man laver på havnen.
 00:13:13
-Blandt andet nogle forhøjelser af boldværker, og så de plinde, man kan se, er en del af et
+Blandt andet nogle forhøjelser af bolværker, og så de plinde, man kan se, er en del af et
 beredskab, hvor man ville kunne lægge beredskab ind imellem.
 00:13:25
 Det er en relativt afkommelig økonomi.
@@ -321,10 +321,10 @@ Kroners.
 00:14:09
 Og når jeg lige viser den, og dvæler lidt ved det der med på kort og på lang sigt, så er der
 også lidt at gøre med, at dragører er med i et samarbejde, som staten har initieret om en
-stormklodssikring hele vejen rundt om København.
+stormflodssikring hele vejen rundt om København.
 00:14:27
 Det kan man se som en hund i et spil kejler, men man kan også se det som en mulighed for
-at få realiseret måske nogle af de løsninger, som Dragøve Kommune ikke har vurderet selv
+at få realiseret måske nogle af de løsninger, som Dragør Kommune ikke har vurderet selv
 at kunne finansiere.
 00:14:41
 Inden for en kortere årrække.
@@ -349,10 +349,10 @@ Hvis vi kigger på kortet til venstre, kan I se, at der er en stiblet linje.
 Det er en natur 2.000 afgrænsning, som starter syd for havnen, og fortsætter hele vejen op i
 kalveboderne.
 00:15:31
-Der har Dragøve Kommune væsentlig del af Natura 2000, og vi kommer til at skulle anlægge
+Der har Dragør Kommune væsentlig del af Natura 2000, og vi kommer til at skulle anlægge
 del af vores kystbeskyttelse ude i Natura 2000.
 00:15:45
-Men frem for at prøve at gå direkte til en frabevirkningsprocedur, altså at man får lov til at
+Men frem for at prøve at gå direkte til en fravigelsesprocedure, altså at man får lov til at
 lave en påvirkning, så har vi prøvet at se på, kan vi på en eller anden måde understøtte de
 arter, vi har i udpegningsgrundlaget, og arbejde lidt med de kysttyper, som vi har hernede.
 00:16:06
@@ -373,7 +373,7 @@ Det viser diagrammet ude til højre, med pilene ude omkring sydvestpynten.
 00:17:02
 Der vil vi godt give plads til, at naturen kan vandre ind i landet.
 00:17:05
-Det er rigtig meget de strandinge, som er levesteder for de her arter.
+Det er rigtig meget de strandenge, som er levesteder for de her arter.
 00:17:11
 Og så er det det sted, hvor der er den hvide pil.
 00:17:16
@@ -383,7 +383,7 @@ Men hvor der faktisk ikke lige nu er et reelt forland.
 00:17:25
 Så der er ambitionen at sige, at hvis vi skal have mulighed for at forbinde de her værdifulde
 naturområder på begge dele, så kan vi argumentere for, at her vil vi gerne etablere den
-samme slags kyst, som der er på de andre steder, nemlig en frolandskyst, som kan forbinde
+samme slags kyst, som der er på de andre steder, nemlig en forlandskyst, som kan forbinde
 de her naturtyper.
 00:17:51
 Det kan så se sådan her ud, stadigvæk diagrammatisk, men lidt mere konkretiseret, at vores
@@ -427,7 +427,7 @@ Så det er det forslag, vi går med her.
 00:20:09
 En forlandsløsning foran Søvang.
 00:20:11
-Og det er her, hvor vi er ude i naturtusind.
+Og det er her, hvor vi er ude i Natura 2000.
 00:20:14
 Det kan se sådan her ud.
 00:20:19
@@ -526,7 +526,7 @@ andre, Så det er simpelthen en forsøg på at få de her forskellige parallelle
 hver især er fyldt med ubekendte, men også er fyldt med potentielle dilemmaer og
 stopklodser, kan man sige.
 00:25:14
-For ikke nok med, at vi har Natur2000 herude, vi har også Landskabsfredning og
+For ikke nok med, at vi har Natura 2000 herude, vi har også Landskabsfredning og
 Fortidsminder og en masse andre myndighedsmæssige benspænd.
 00:25:25
 Derfor har jeg sat kortet ind her, som viser lidt om, hvordan ejerstrukturen er herude.
@@ -537,7 +537,7 @@ Det vil sige, at vi skal bygge hen over nogle andres jord.
 00:25:39
 Der er lidt af det, som også er private, og så er der noget kommunalt.
 00:25:43
-Men der er simpelthen nogle grundejer, eller nogle lossejer, som også skal tages med
+Men der er simpelthen nogle grundejer, eller nogle lodsejer, som også skal tages med
 ombord i det her, fordi de skal jo sige god for, at vi lægger ikke bare de, men måske også et
 bredt landskabsstige henover deres jord.
 00:26:00
@@ -559,7 +559,7 @@ Det vil sige, at lige nu har vi tre spor for vores kystbeskyttelse i Draved.
 00:26:34
 Vi har vores eget projekt, det som vi har fået midler til.
 00:26:37
-Vi har et tilbud fra Sund Bælt, som gerne vil stå for at gennemføre og medfinansiere nordlig
+Vi har et tilbud fra Sund & Bælt, som gerne vil stå for at gennemføre og medfinansiere nordlig
 del af vores kystbeskyttelse.
 00:26:43
 Og så har vi et statsligt arbejde, som løber i løbet af 2023.
@@ -654,7 +654,7 @@ Ja, det ser rigtig godt ud.
 00:29:47
 Ja, men ligesom Lisa og Dragør har fået, eller Lisa og hendes team, så har vi jo i Vejle også
 modtaget en realiseringsbevilling fra Realdania om at realisere et af de projekter, vi har
-arbejdet med i processen omkring byernes dine havvand.
+arbejdet med i processen omkring Byerne og det stigende havvand.
 00:30:10
 Og det er et projekt, vi kalder For Membranen, som jeg vil fortælle nærmere om nu her.
 00:30:21
@@ -664,7 +664,7 @@ Det er en by i stor risiko.
 00:30:28
 Der er risiko for stormflod, og vi har et stigende grundvand.
 00:30:36
-Vi har også regnvand, der skyller ned fra bakkerne omkring Vejle Aardal.
+Vi har også regnvand, der skyller ned fra bakkerne omkring Vejle Ådal.
 00:30:41
 Vejle betyder faktisk vadested.
 00:30:44
@@ -673,13 +673,13 @@ ny bebyggelse, og især også nede omkring vores havn, der har bygget os ud i no
 hvor der er en høj risiko for oversvømmelse.
 00:31:03
 Og vi kan se i det her gamle landskabsmaleri, også fra William Kyn, at Vejle var tilbage i
-tiden, var de her fjordstrækninger faktisk fyldt af de her strandingsområder, var i høj grad
+tiden, var de her fjordstrækninger faktisk fyldt af de her strandengsområder, var i høj grad
 naturszoner.
 00:31:19
 Og der har vi jo bygget et andet slags møde med vandet, som vi mærker effekten af i Vejle i
 dag.
 00:31:27
-Vi blev af staten udpeget i 2011 som et særligt risikområde for oversvømmelser, og dermed
+Vi blev af staten udpeget i 2011 som et særligt risikoområde for oversvømmelser, og dermed
 pålagt at lave en risikostyringsplan for, hvordan vi ville håndtere de oversvømmelser.
 00:31:40
 Og så ud over dette, så besluttede Vejle Byråd at lave en stormflodstrategi også, for at
@@ -724,7 +724,7 @@ Og her i sidste år fik vi revideret vores risikostyringsplan.
 00:34:02
 Og man kan sige, at risikostyringsplanen tager de elementer fra stormflodstrategien ud.
 00:34:11
-Det her med sikringshøjder og koder og tidshøjsonder, og så risikostyringsplanen jo faktisk
+Det her med sikringshøjder og koder og tidshorisonter, og så risikostyringsplanen jo faktisk
 det bindende element, hvor at stormflodstrategien i højere grad er et strategisk værktøj,
 kan man sige.
 00:34:29
@@ -781,7 +781,7 @@ Den skal tænke sammen med den byudvikling, vi gerne vil skabe.
 Især den identitet, som Vejle har som en by ved fjorden og vandet.
 00:37:14
 I kølvandet, eller i høringsfasen af vores stormflodstrategi, det var der, hvor vi søgte ind om
-at være med i Realdanias projekt, byerne Destine og Havvand.
+at være med i Realdanias projekt, Byerne og det stigende havvand.
 00:37:26
 Vi søgte om at få mulighed for at lave en alternativ høringsfase af stormflodstrategien,
 sådan at vi kunne udforske nogle af de tematikker, der var i stormflodstrategien nærmere.
@@ -815,7 +815,7 @@ elementer, så skabte vi en proces, der havde nogle forskellige delspor.
 Man kan sige, at det som hele stormflodstrategien handler om, det der skal sikres, eller den
 måde byen skal sikres på, det er ved at få lavet hele den her sikringslinje nede langs med
 Vejlehavn ved bølgen og fra Skyttehushaven og ind gennem og ud langs den eksisterende
-erhvervshavn og så ud ved Ibek Strandvej og ud den vej.
+erhvervshavn og så ud ved Ibæk Strandvej og ud den vej.
 00:39:43
 Det som vi gjorde i det her stormflodsbeskyttelse, der går med byen, det var, at vi valgte to
 af de strækninger, der er på helhedsstrækningen her, og sagde, at to af de her
@@ -957,7 +957,7 @@ er et andet projekt, som ligger i vores natur- og udelivsafdeling med vores biol
 hedder Sund Vejle Fjord, som er et tiltag for at forbedre havmiljøet i fjorden.
 00:47:52
 Det er et samarbejde mellem SDU, Vejle Kommune og Veluxfonden, hvor man blandt andet
-planter muslinger og ålekrads ud i Vejle Fjord for at simpelthen forbedre...
+planter muslinger og ålegræs ud i Vejle Fjord for at simpelthen forbedre...
 00:48:05
 Der er meget monokultur ude i fjorden.
 00:48:08
@@ -1048,7 +1048,7 @@ op til den designstandard, der er i området, og det som folk gerne vil have i d
 Så skal anlægget selvfølgelig fungere i synergi med resten af sikringslinjen, og så er der den
 her adaptivitet, altså kan anlægget udvikles over tid.
 00:52:34
-Vi kigger frisk på, om der er referencer på naturbaseret oversvimmelsesbeskyttelse rundt
+Vi kigger frisk på, om der er referencer på naturbaseret oversvømmelsesbeskyttelse rundt
 omkring i verden.
 00:52:42
 Der er rigtig mange gode ideer, men knap så mange resultater.
@@ -1168,10 +1168,10 @@ Er der noget, du kan.
 00:57:35
 Tilføje her, Lise?
 00:57:40
-I Dravede Kommune.
+I Dragør Kommune.
 00:57:42
 Det er jo en lille kommune, og det er ret naturligt, at politikerne interesserer sig ret meget
-for det, fordi det er det største projekt, som Dravede Kommune har stået overfor.
+for det, fordi det er det største projekt, som Dragør Kommune har stået overfor.
 00:57:52
 De er faktisk ret nysgerrige, og de møder jo også folk alle mulige steder nede i brusen, og
 hvor de ellers er.
@@ -1245,14 +1245,14 @@ for mange.
 Lige på falderægget vil jeg lige gøre reklame for det næste arrangement i rækken her i vores
 klimakalender.
 01:00:32
-Det er endnu et godmorgen med DLNK på Torpsnet fra kl.
+Det er endnu et godmorgen med DNNK på Torpsnet fra kl.
 01:00:35
-8-9, Hvor vi igen tager fat i Køstbeskyttelse og klimatilpasning i de kystne områder.
+8-9, Hvor vi igen tager fat i Kystbeskyttelse og klimatilpasning i de kystne områder.
 01:00:42
 Med et juridisk aspekt i baggrunden her.
 01:00:46
 Hvor vi får Ilse Greb og Toxby fra Køsthjælpsrollerne til at fortælle omkring at nørde lidt i
-køstbeskyttelsesloven.
+kystbeskyttelsesloven.
 01:00:52
 Og specielt også hvordan man kan arbejde med de her kommunale fællesprojekter.
 01:00:56
