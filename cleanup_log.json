@@ -27860,5 +27860,485 @@
       }
     ],
     "afvist": []
+  },
+  "transcriptions\\Oevrige__3irIBkBP04_20260928_170222.txt": {
+    "anvendt": [
+      {
+        "forkert": "DNK",
+        "rettet": "DNNK",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Cornelius",
+        "rettet": "Kornelius",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "pladindlægningsredskab",
+        "rettet": "planlægningsredskab",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Svego",
+        "rettet": "Sweco",
+        "antal": 5,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Sveco",
+        "rettet": "Sweco",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Svecu",
+        "rettet": "Sweco",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "oplagsholder",
+        "rettet": "oplægsholder",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "økonomiudvaltningen",
+        "rettet": "økonomiforvaltningen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "potentialægningen",
+        "rettet": "potentialekortlægningen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "reparceramme",
+        "rettet": "referenceramme",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "byråsprojekt",
+        "rettet": "byrumsprojekt",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "matrikelskæld",
+        "rettet": "matrikelskel",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "matrikkelskæld",
+        "rettet": "matrikelskel",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "matrikelskæ,",
+        "rettet": "matrikelskel,",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "gisanalyse",
+        "rettet": "GIS-analyse",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "gislag",
+        "rettet": "GIS-lag",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "gidlag",
+        "rettet": "GIS-lag",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "gidsbaserede",
+        "rettet": "GIS-baserede",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "giss analyse",
+        "rettet": "GIS-analyse",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "intimationskatalog",
+        "rettet": "inspirationskatalog",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "habitatyper",
+        "rettet": "habitattyper",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "fmasket",
+        "rettet": "finmasket",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kalvebudfældet",
+        "rettet": "Kalvebod Fælled",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "armerfældet",
+        "rettet": "Amager Fælled",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "terræmmæssig",
+        "rettet": "terrænmæssig",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kalkoverdrive",
+        "rettet": "kalkoverdrev",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "sørvegåb",
+        "rettet": "sørgekåbe",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "sommerhule",
+        "rettet": "sommerfugle",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "verrtsplanter",
+        "rettet": "værtsplanter",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "livyklussen",
+        "rettet": "livscyklussen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "arsgrupper",
+        "rettet": "artsgrupper",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Kladesaks",
+        "rettet": "Gladsaxe",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "byghæer",
+        "rettet": "bygherrer",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Mathil også",
+        "rettet": "Mathilde også",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "dødt hvid",
+        "rettet": "dødt ved",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": [
+      {
+        "forkert": "Københavnskommune",
+        "rettet": "Københavns Kommune",
+        "grund": "AI-rensning (rutine): afvist som usikker"
+      },
+      {
+        "forkert": "B fire arter",
+        "rettet": "bilag IV-arter",
+        "grund": "AI-rensning (rutine): afvist som usikker"
+      },
+      {
+        "forkert": "Olgo",
+        "rettet": "OIKO",
+        "grund": "AI-rensning (rutine): afvist som usikker"
+      },
+      {
+        "forkert": "hekselbon",
+        "rettet": "heksagon",
+        "grund": "AI-rensning (rutine): afvist som usikker"
+      },
+      {
+        "forkert": "Utmose",
+        "rettet": "Utterslev Mose",
+        "grund": "AI-rensning (rutine): afvist som usikker"
+      }
+    ]
+  },
+  "transcriptions\\Oevrige_FZI27NBsJi4_20261005_100340.txt": {
+    "anvendt": [
+      {
+        "forkert": "grundvandtænkende",
+        "rettet": "grundvandssænkende",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "oplægholdere",
+        "rettet": "oplægsholdere",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "terrænene et grundvand",
+        "rettet": "terrænnært grundvand",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "terrænt grundvand",
+        "rettet": "terrænnært grundvand",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "terrænende grundvand",
+        "rettet": "terrænnært grundvand",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "terrænene af grundvand",
+        "rettet": "terrænnært grundvand",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "terrængene af grundvand",
+        "rettet": "terrænnært grundvand",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "terræene og et grundvand",
+        "rettet": "terrænnært grundvand",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "terræene af et grundvand",
+        "rettet": "terrænnært grundvand",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "terræn og et grundvand",
+        "rettet": "terrænnært grundvand",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "grundvandsæte foranstaltninger",
+        "rettet": "grundvandssænkende foranstaltninger",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "grundvandsængdeforanstaltninger",
+        "rettet": "grundvandssænkende foranstaltninger",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "grundvandstækende",
+        "rettet": "grundvandssænkende",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "grundvandsæende",
+        "rettet": "grundvandssænkende",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "grundvandsækende",
+        "rettet": "grundvandssænkende",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Geos",
+        "rettet": "GEUS",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "primusomotor",
+        "rettet": "primus motor",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kloreret",
+        "rettet": "kloakeret",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "overfladvand",
+        "rettet": "overfladevand",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "spildevandselskabernes",
+        "rettet": "spildevandsselskabernes",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "netisværdi",
+        "rettet": "nettonutidsværdi",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "netidsværdien",
+        "rettet": "nettonutidsværdien",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "nationalodsværdi",
+        "rettet": "nettonutidsværdi",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "netusidsværdi",
+        "rettet": "nettonutidsværdi",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "nettutidsværdi",
+        "rettet": "nettonutidsværdi",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "nation udsidsværdi",
+        "rettet": "nettonutidsværdi",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "afløst tekniske",
+        "rettet": "afløbstekniske",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "spildevandsforsynselskabet",
+        "rettet": "spildevandsforsyningsselskabet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "spilandsforsyningselskabet",
+        "rettet": "spildevandsforsyningsselskabet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "grundvendspejlinger",
+        "rettet": "grundvandspejlinger",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "markedsommensatte",
+        "rettet": "markedsomsatte",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "markedssomsatte",
+        "rettet": "markedsomsatte",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "beregningsbekendørelsen",
+        "rettet": "beregningsbekendtgørelsen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "varhedsbaserede",
+        "rettet": "varighedsbaserede",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "vejighedsbaserede",
+        "rettet": "varighedsbaserede",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "hæelsesbaserede",
+        "rettet": "hændelsesbaserede",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "afværveforanstaltninger",
+        "rettet": "afværgeforanstaltninger",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "påkældende",
+        "rettet": "pågældende",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "omfangsdren",
+        "rettet": "omfangsdræn",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
   }
 }
