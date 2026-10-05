@@ -1524,5 +1524,11 @@
     "kilde": "youtube-subs",
     "order_id": null,
     "last_attempt": "2026-09-28T17:02:22"
+  },
+  "FZI27NBsJi4": {
+    "status": "done",
+    "kilde": "youtube-subs",
+    "order_id": null,
+    "last_attempt": "2026-10-05T10:03:40"
   }
 }
