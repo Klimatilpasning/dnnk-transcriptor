@@ -1,0 +1,371 @@
+=== DNNK Webinar Transskription ===
+Kategori: Oevrige
+Video ID: opp2Kcbwupc
+URL: https://youtube.com/watch?v=opp2Kcbwupc
+Kilde: YouTube auto-undertekster (dansk)
+Transskriberet: 2026-10-12T18:10:36.587954
+
+==================================================
+
+00:00:00
+Godmorgen og velkommen til Godmorgen på en ko. Jeg hedder Cornelius Pal og jeg arbejder i sekretariatet for det nationale netværk for klimatilpasning og jeg vil være vært i dag. Dagens emne det er hvordan bruger borgerens viden eller hvordan bruger man borgerens egen viden til konkret klimatilpasning. Og vi skal til Rømmø, og her giver højstående grundvand og oversvømmelse og dræning problemer for både grundej og
+
+00:00:30
+for kommunen. Igjektet på har man bedt borgere om at fortælle om deres vandproblemer. Det gav 74 henvendelser med billeder og beskrivelser, og dem har man omsat til et handlekatalog for til grundejerne. Problemet har været eller projektet har også lavet et inspirationskatalog med klimatilpasningsløsninger fra hele den dansk-tyske interdet står SDU, Tønder kommune, Tønder
+
+00:01:00
+Forsyning og Nera sammen med Amtfører Amrum på tysk side. Oplægget i dag det holdes af Aon Jørgensen, afdelingsleder i Tønder kommune, Anne Katrine Opel Gærstof SDU Climat Kloster og Sar Egemose fra Climate SDU Climatkloster og biologisk institut ved SDU. De fortæller om metoden bag handlekatalog og om samarbejdet mellem forskning, kommune, forsyning, rådgiver.
+
+00:01:30
+Og de vil også fortælle, hvordan man kan lære at tage borgerdata med fra starten af. I er velkommen til at skrive spørgsmål og komme med kommentarer undervejs i chatten, og så samler vi op på dem efter oplægget. Oplægget det bliver optaget og lagt i DNKS vidensbank. Og med de ord så vil jeg egentlig bare give videre ordet videre til Anne Katrine. Og tusind tak for at stille op. &gt;&gt; Ja tak pannelius og tusind tak fordi vi må være her i dag. For lige at sætte
+
+00:02:00
+scenen og give jer en indflyvning til det hele, så vil jeg lige starte med at fortælle lidt omkring, hvadon projektet egentlig er. Øhm, til jer der måske ikke ved det, så på sidon projektet, som Cornelius sagde, det er et inter Deutschland Danmark projekt, som startede i marts 24 og slutter her i februar næste år. De sådan hovedemner som Posidon arbejder med, det er teknisk vandhåndtering og klimatilpasning inden for vand, tørke og
+
+00:02:30
+varmeøer. Så det spænder rimelig bredt. En af de meget store ting her i Posidon projektet, som vi arbejder med, det er fem innovationscases, som er samarbejdere på tværs af grænsen imellem Danmark og Tyskland. Og det er altså kun den Slesvig Holstreionen øhm Vinus Hamborg som er med. Og så er det Region Syddanmark og Region Sjælland der er med i den her interregion.
+
+00:03:00
+Og de her innovationscases de ø spænder alt fra vandstrategi på tværs af forsyning og kommune til borgerdata, som den her case handler meget om. til varslingssystemer øh i forhold til grundvand, der får saltvand ind i sig og AI modeller i også i brundvands øh brundvandsstand. Ja.
+
+00:03:30
+Mit navn det er Arne Jørgensen. Jeg er fra Tønderø kommune. Øh, og egentlig vil vi ikke underholde særlig lang tid, men udelukkende sige tak for det gode samarbejde, som borgerne også har følt, at det har været øh og den inddragelse, der har været fra deres side. Øh, de har allerede nu her et år eller to efter det startede oplevet store forbedringer i området derovre. Øh, og forsyningen melder det samme tilbage. Øh, så den her inddragelse har været utrolig givende øh for at kunne lykkes øh med at forbedre
+
+00:04:00
+de afvendingsforhold, der er lige præcis på Ramø. Så jeg giver ordet videl tilbage igen. Katrine. &gt;&gt; Ja, tak for det, Ron. Øhm, jeg vil også lige fortælle lidt omkring opstarten af innovationssamarbejdet, fordi det her innovationssamarbejde, det er ikke bare kommet ud af ingenting. Det startede med en meget våd vinter i 2023, hvor at Forsyningen efterfølgende oplevede, at der kom rigtig meget vand i deres rør.
+
+00:04:30
+Øhm, og de skulle pumpe rigtig meget vand fra Rømø og over til fastlandet. Og de tænkte, hvad foregår der her? Og de fandt så ud af i forsyningen, at det var fordi, at der var nogle borgere på Rømø, som åbnede kloakdækslerne i deres øh boligområder for at fjerne overfladevandet efter den her meget våde vinter. Og øh det er lettere problematisk, da det jo ikke er meningen overfladevandet skal komme ned i kloaksystemet. Så forsyningen de tog simpelthen fat i
+
+00:05:00
+så Tønderforsyning selvfølgelig taler vi om tog fat i Tønder kommune. Og sammen så indledte de et samarbejde sammen med Rømø lokalråd omkring at finde ud af årsagerne til hvorfor at borgerne de løfter kloakdækslerne og så videre. Så det var sådan opstartet på innovationssamarbejdet før Posidon. Opstarten i Posidonen, det var til et noget, vi kalder et collaboration
+
+00:05:30
+challenge eller collab challenge, hvor vi holdt sådan et hacketon, som det lyder måske lidt spacy, men det er det var to dage nede i Flensborg, hvor at der kom nogle forskellige kommuner og firmaer, og virksomheder som havde nogle forskellige cases med, som der så blev arbejdet på at finde nogle løsninger på. Og der var en af casesne, den her case på Rømø omkring de her borgerdata. Og på det her tidspunkt, hvor collab Challenge det var øh det var i februar 24, der var
+
+00:06:00
+der allerede startet en indsamling af de her borgerdataer, som Cornelius også nævnte helt i starten. Så det var sådan indflyvning til øh selve starten af den her case. Så selve formålet med det her samarbejde øhm i både Forsyning kommuneregi, men også i Poseidan Regi, det var for det første at få borgerne til at oprense deres grøfter privat, fordi at det var
+
+00:06:30
+sådan det første løsning, der kom frem til Collaboration Challenge og i kommunen, det var, at de private øh grundejere, de skulle oprense deres grøfter for at se, om det kunne afhjælpe nogle nogle af problemerne. Derudover var et af formålene også, at de her problemer med kloakdækslet, der blev løftet, det skulle fjernes. Så der skulle ligesom findes nogle løsninger på, hvordan kunne det her overflad blive håndteret på en anden måde end at klorakdekset det blev løftet,
+
+00:07:00
+da det jo giver problemer hos forsyningen, som jeg nævnte. Derudover så var et af formålene også med samarbejdet at få grundejerne til i højere grad at arbejde sammen på tværs. Altså at hjælpe hinanden med at håndtere det vand som der jo løber frit. Der er jo ikke nogen af os der kan styre vandets retning, så det kan ende for eksempel på din nabosgrund. Men du har måske ikke ret meget, hvis du ligger meget højere end din nabo. Så derfor var
+
+00:07:30
+det meget vigtigt også ø som et formål for samarbejdet, at grundegne skulle ligesom i højere grad lære at snakke sammen og arbejde sammen. Ja. Og det sidste formål med det her samarbejde, det var også at udvikle øhm en hjælpende hånd til grundejerne. Så altså det startede med at være det her oprensning af grøfter og så videre, som var formålet at lade være med at løfte kloakdestet til at samarbejdet egentlig
+
+00:08:00
+også blev en hjælpende hånd til grundejerne gennem det her handlekatalog, som vi også præsenterer senere. Øhm, det er jo et katalog, som der kan give nogle alternative løsninger til at netop afhjælpe de her vandproblemer, hvis nu oprensning af de her grøfter ikke er nok. &gt;&gt; Ja. Og hvordan gjorde vi så det hele? Øhm, Tønder Kommune gjorde en fantastisk indsats i forhold til at etablere hele det her samarbejde i forhold til grundejerforeningerne på Rømø, i forhold
+
+00:08:30
+til indsamling af data. øh etableret en en mailkanal, hvorfra borgerne blev bedt om at indsende ø registreringer omkring vand. Den var egentlig enormt bred. Der var ikke nogen begrænsninger på, hvad det var for nogle registreringer omkring vand, der kunne sendes ind. Der var heller ikke noget begrænsning på formatet, fordi ideen var at få øh så mange registreringer ind som muligt, men også så så ikke biased som muligt. Det var ikke meningen, at vi skulle påvirke, hvad der var, der kom ind. Og det var
+
+00:09:00
+ikke meningen, at vi skulle ligesom øh styre borgerne i forhold til, hvad det var, der var vigtigt eller ikke vigtigt. Der skulle komme de registreringer ind, som var vigtige for dem. Øh, og det førte, som AK sagde før til til 74 henvendelser. Nogen registrerede mere end end en ø case omkring vand, så i alt kom der 80 registreringer ind. De kom ind på vidt forskellig måde. De kom ind nogen i form af beskrivelser i en
+
+00:09:30
+mail. Nogle i form af beskrivelser koblet til vedhæftede billeder. Øh, nogle havde også tegnet på på et kort øh og vedhæftet. Øh, så nogle var meget detaljerede, og nogle var meget mere overordnede. Det gjorde også, at noget af den allerførste analytiske arbejde, der lå i de her data, det var, at vi ved hjælp af Tønder Forsyning og deres lokalkendskab lavede en, hvad skal vi sige, validering af, at alle registreringerne faktisk var
+
+00:10:00
+registreret der, hvor vi troede, de var, fordi nogen skrev på hjørnet af den der vej og den der vej står der altid vand. Men men hvor er det lige? Og det billede af vandet, var det i den ene eller den anden side af vejen. Alle den der type af af valideringer var det allerførste store arbejde øh i det i den analytiske analytiske proces. Og så var det alligevel heller ikke værre. Altså men det var det er en vigtig del af det at arbejde med med borgerdata, at at man
+
+00:10:30
+man laver det her kvalitetstjek af, at data faktisk er registreret der, hvor man tror data er registreret. Øhm, det er sådan, hvis I kigger på det der lille kort på sliden af Rømø, så det er til højre øh alle de ø alle de sorte streger, det er grøfter. Der er utrolig mange grøfter på Rømø, fordi at øen er afvandingen på øen er i høj grad styret via grøftsystemer. Så er der også nogle
+
+00:11:00
+gule ø streger. Det er vejgrøfter. Og så er der de røde, som er som er offentlige vandløb. Dem er der ikke ret mange af i forhold til til alle grøftsystemerne. Og derfor er Rømmø i høj grad ø vandafledning er i høj overfladsafledning er i høj grad styret af grøfter. Øhm Rømø er også en ø som er karakteriseret ved at højdeforskellene ikke er store og derfor er der enormt mange steder hvor vandet kan samle sig i lagninger. Større eller mindre
+
+00:11:30
+lagninger. Det illustrerer alt det lyseblå på det her kort. Øh, og tilsvarende er Rømø, som korte til venstre viser også en ø, som har udfordringer med højtstående grundvand i store dele af året. Og når man lægger de ting sammen øh og putter et klima, der ændrer sig oveni med mere og mere nedbør, mere og mere intens nedbør i perioder eller meget langvarig nedbør i perioder, som vi så i vinteren 23 24, som AK lige nævnte før, jamen så opstår de her udfordringer med overflad, som ø
+
+00:12:00
+som samler sig. Øhm, men hvorfor overhovedet bruge borata? Jamen, fordi vi har en masse eksisterende data. Vi har en masse nationale data. Vi har en masse viden allerede om vand på Rømø, men vi mangler noget lokalkendskab til, hvad er det, der gør, at vand lige nøjagtig samler sig der, hvor det gør? Hvad er det udfordringen er? Tror borgerne faktisk, at udfordringen er den samme, som den er i virkeligheden? Er det grøfterne, der er udfordringen? Det
+
+00:12:30
+var det tit i mange tilfælde på Rømø, men det kunne også være at det var andre udfordringer. Borgerne har et enormt lokalkendskab. De ved også, at den der vej, den blev gravet op i forbindelse med et eller andet arbejde for et par år siden. Og efter det opstod vandproblemet. Vi havde som et eksempel et af stederne, hvor der var en udfordring, hvor det viste sig, det var en spand. Det var en 20 liter spand, der sad i røret i rørgennemføringen under vejen. Da den spand blev fjernet, så var problemet,
+
+00:13:00
+som havde været kæmpestort løst. Du ved, nogle gange er det også bare de simple ting, som skaber udfordringerne, og andre gange er det det jo desværre ikke. Men det her lokalkendskab, som borgerne har, var enormt vigtig i den her sammenhæng. De har også historikken. Eksemplet med spanden er en god en en et godt eksempel, men det kunne også være andre. Og så har de ikke mindst et engagement i forhold til at følge med. Følge med i årets gang, følge med i, hvad der sker, hvordan tingene udvikler sig. at de går en tur med hunden, de går en tur øh jævnligt og ser, hvordan at
+
+00:13:30
+området udvikler sig. Det betyder rigtig meget i forhold til at arbejde med de her helt lokale vandproblemstillinger. Øhm, når vi så kobler det med den eksisterende viden og det eksisterende data, jamen så kan vi lige pludselig løfte det meget lokale vidensniveau et step højere op. Og det var det, vi gjorde i det her projekt. Ø, ikke kun i samarbejde med Tønder Forsyning og Tønder Kommune, men i høj grad også i samarbejde med Nios, øh, som har lavet
+
+00:14:00
+en stor del af af arbejdet også. og ø og og i samarbejde med Amfør Amrum ø en region i Tyskland, som ø som blev nævnt her til start, som i den her sammenhæng har virket som en sparringspartner, fordi at de allerede i høj meget højere grad end vi gør i Danmark arbejder på de lokale niveauer, og derfor har det været rigtig godt at ø at spare med dem om den her proces. Vil du skifte AK?
+
+00:14:30
+Der kom som sagt de her 80 registreringer ind. Og i de registreringer så prøvede vi at dele op, hvad er det egentlig folk de sender ind? Altså hvad er det de har registreret? Øh fordi de fleste medsendte en del tekst med hvad de troede problemet var. Og vi delte det ligesom op i tre kategorier. Øh de grønne pletter på kortet til venstre. Det er alle sammen nogle indsendte data, som borgerne på en eller anden måde angav handlede om grøfter.
+
+00:15:00
+Øh, det kunne være manglende grøfter. Grøfter der ikke var renset op. Øh, grøfter de ikke følte var store nok. Øh, grøfter de følte at de havde renset op i deres del, men naboerne nedstrøms havde ikke renset dem op. Alle mulige problematikker angående grøfter. Så er der de blå. Det er problematikker, som på en eller anden måde er afkoblet fra grøfter. Så vi har valgt at bare kalde dem oversvømmelser. Nogen siger, det handler nok om højtstående grundvand. Nogle siger, det er en lavning, vandet ikke kan komme væk. Øh, men men en oversvømmelse, som ikke sådan
+
+00:15:30
+direkte kan henføres til til en grøft. Og så er det de gule. Dem er der ikke ret mange af, men det er andre problemer. Det kan være en rørunderføring under en vej, der er faldet sammen. Øh, det kan også være, der ikke er nogen problemer. Der var faktisk tre, så vidt jeg husker, af registreringerne, der blev meldt ind, hvor borgeren sagde, vi har ikke nogen problemer. Det var faktisk lige så vigtig viden. For afhængig af, hvor den beliggenhed af de borgere var, så var det egentlig lige så vigtigt at vide, at her var der faktisk ingen problemer, som at vide, at der var problemer.
+
+00:16:00
+Det var også karakteristisk, at i alle de henvendelser, der kom, så var der kun en henvendelse, som handlede om havvand. Der var en henvendelse, som handlede om om højvande og og en en bekymring i forhold til nogle sluseforhold. Men men alle andre henvendelser handlede om ferskvand, om afstrømmende ø regnvand og eller grundvand. Øh, når vi delte dem op, så var langt de fleste registreringer, de var omkring
+
+00:16:30
+oversvømmelser ø omkring halvdelen. Øh, 26 omkring grøfter og 10 om noget andet. Og der var rigtig mange øh omkring 25% der nævnte, at grundvand havde nok en indflydelse. Der var nok noget med, at vandet ikke rigtig kunne øh enten sive ned i jorden eller at grundvandet også stod højt. Det var der en meget stor opmærksomhed for blandt borgerne omkring.
+
+00:17:00
+Øhm. Prøv at gå en videre. Ak. Og det vi så gjorde, nej, gå lige ind tilbage. Jeg skal lige, jeg skal lige sige noget til den sidste, fordi det der også er udfordringen på Rømø eller eller et vilkår i hvert fald på Rømø, det er at Rømø er jo også en enorm naturrig ø. Der er en meget stor andel beskytte natur på Rømmø. Det er natur 2000 område store dele af øen. Øh, og ø og der er en meget stor del af øen derudover, som er paragraf tre beskyttet. Og det betyder
+
+00:17:30
+også bare, at man kan ikke bare grave grøfter ø nye grøfter. øh på kryds og tværs som man lyster, og man kan heller ikke bare rense eksisterende grøfter op alle steder ø som man har lyst til. Øh og det giver nogle udfordringer i forhold til at man skal finde nogle løsninger på det her vand øh også på borgernes egne ø matrikler. Og det blev ret hurtigt åbenlyst for os i den dialog, som også var med borgerne undervejs, blandt andet ved et
+
+00:18:00
+borgermøde for halvandet år siden, at borgerne var enormt opmærksomme på, at det her var et en udfordring, de skulle løse selv. Og derfor kom ideen om at lave det her handicatlå, som vi vil præsentere noget mere om senere, hvor man faktisk guider borgerne igennem, hvad er det, I selv kan gøre, og hvad er det for nogle muligheder i handlemuligheder, I har i forhold til, hvad det er for en udfordring, I har. Så må du godt skifte AK.
+
+00:18:30
+Så det vi så efterfølgende gjorde med de data, det var at vi lavede en ny opdeling af det, hvor vi delte det op i, jamen hvad er så faktisk udfordringen, det konkrete sted, hvor registreringen er kommet ind? Øh, som I kan se, så er langt de fleste registreringer kommet ind enten i den østlige side af øen eller nord nordvestlige side af øen. Det er helt typisk der, at de største udfordringer med vand er. Og når vi sammenlignede borgernes data med det data, som vi i øvrigt har af
+
+00:19:00
+tilgængeligt data, så kunne vi ligesom dele registreringerne op i, er det grundvand, der er udfordringen, er det grøfterne, der er udfordringen, er det placeringer af huse i lavninger, der er udfordringen? Øh, eller er det nogle helt andre årsager? Det kunne for eksempel være rørunderføringer, der er faldet sammen, eller spanden i røret eller eller lignende udfordringer. Og så endelig nogle nogle få lysegrå, som angiver, at der ikke er nogen problemer. Og når man kigger på kortet, så er de lyseblå, det er grundvand. Det er typisk
+
+00:19:30
+i den nordlige del af øen og den nordvestlige ø del af øen, Lakolk ø området. Øh, de grønne, det er grøfter. Det er typisk i den østlige del af øen sådan på langs vertikalt nedover øen. Og så er der lagninger. De ligger mere spredt øh men også primært i den østlige ø del af af øen. Og så de gule selvfølgelig alle mulige andre årsager
+
+00:20:00
+spredt jævnt ud. Det er også vigtigt at sige, at når vi kiggede på det her data, så var vi nødt til at vælge en primær årsag i den her afbilding. Der der kan sagtens være flere årsager. Det kan sagtens være, at man både har udfordringer med højtstående grundvand øh og øh bor i en lavning for eksempel. Men på kortet er er det valgt at vise den den primære øh årsag til de udfordringer, der er. Så det var ligesom den dataanalyse, der
+
+00:20:30
+blev lavet af af de data, der kom ind, inden at det så blev omsat i nogle konkrete handlinger. &gt;&gt; Værsgo. AK. &gt;&gt; Ja. Og øh her kan I jo se det famøse handlekatalog, som vi har nævnt et par gange. Øhm og hvis I er interesseret i at kigge lidt i kantekataloget, mens at vi snakker videre, så kan I lige scanne den her QR-kode med jeres telefon, og så
+
+00:21:00
+kan I downloade handlekataloget. Øhm og hvis I ikke lige når at scanne den nu her, så kan I også scanne den til sidst i vores præsentation, fordi der har jeg også sat en QR-kode ind. Øhm, og så har jeg lige skrevet min mail på her også, så hvis I er mere interesseret i handlekataloget og godt kunne tænke jer at få det sendt og så videre, så kan I bare skrive til mig, og så øhm ja, så finder vi ud af det. Og øhm nu vil jeg så dykke lidt mere ned i de emner, som der ligesom er inkluderet
+
+00:21:30
+i handlekataloget. Ja, så i handlekataloget der har vi valgt at inddele det i nogle forskellige afsnit under vores Hvad kan du selv gøre kategori. Vi har valgt at inddele det i forebyg før og under. Og det er så specifikt i forhold til for eksempel skybrå og så videre eller andre regnhelser, nedbørshelser tænker jeg det hedder. I forebygkategorien, den handler øhm om
+
+00:22:00
+at forebygge problemer med vand i et stykke tid, før der overhovedet varsles et skybrud eller lignende. Så det kan for eksempel være tiltag ø man kan gøre for at sikre sin grund på lang basis. Og jeg kommer lidt ind på øh nogle forskellige tiltag senere. Det er bare lige for at fortælle hvad de forskellige kategorier betyder. Øhm, og så kan forebygge også inkludere øhm tiltag, der ligesom fungerer igen og igen øh ved gentagende hændelser over
+
+00:22:30
+tid. kategorien før den handler om tiltag man kan gøre når DMI og andre værtjenester de ligesom var de her skybrud eller andre vandrelaterede hændelser som kan påvirke øh den specifikke grundejer. Og øhm de her tiltag det er nogle der kan tilføjes yderligere udover de tiltag man allerede har etableret for at forebygge. Og så har vi den sidste kategori der hedder under. Den handler om tiltag, man kan gøre under selve
+
+00:23:00
+hændelsen. Øh, og det kan jo både være, hvis man er fysisk til stede, men også hvis man ikke er hjemme på matriklerne. Så lad os dykke ned i den første kategori, øhm, som er forebyg. Og her er den mest simple er også den, øhm, den man der først blev overvejet, hvis man er grunder på Rømø eller andre steder med grøftesystemer, det er at oprense grøfterne, som jeg også har nævnt tidligere. Øhm, det kan være med til at skabe
+
+00:23:30
+større volumen og over opsamle overfladevandet, så der forhåbentlig er meget færre oversvømmelser på på grunden. Den kan være øhm mindre vedvarende eller have mindre vedvarende effekt i områder med højstående grundvand, som Sar også har nævnt tidligere. Men ved at oprense grøfterne, så skabes der alligevel den her ø en væsentlig større volumen til at vandet kan samle sig, så man får mindre overfladvand, færre oversvømmelser på
+
+00:24:00
+trods af at det måske ikke siver væk så hurtigt. Hvis det er nødvendigt, så kan man ø søge hos kommunen over at få lavet nogle nye grøfter. For eksempel hvis man er grunde for enden af en vej øh der hælder mod ens grund. Altså vejen hælder mod ens grund, så man modtager alt vandet fra alle naboerne og vandet ikke har noget sted at løbe hen på den anden side af ens grund, så kan det eventuelt være en mulighed at at søge om at få lavet nye grøfter. Hvis man ikke kan få den
+
+00:24:30
+her tilladelse, eller hvis man ikke har lyst til at at skabe nogle nye grøfter, så kan et regnvandsbassin eller en maskine i haven, for eksempel hos den her grundejer, som jeg lige gav et eksempel på, det kan også være en løsning. Øhm, og de her to løsninger, de skaber øh udover de oprensede grøfter en større volume igen, så vandet det har et sted at lande, så det ikke ligger omkring husets sokkel, som det billede vi så i starten af præstationen.
+
+00:25:00
+Generelt hvis man har store problemer med oversvømmelser på en ens grund, så kan det være værd at overveje, om man skal genudjævne jordet jorden på sin grund. Og der kan I for eksempel kigge på det billede, vi har sat ind her. Det der er sket, det er, at man ø man har godt kunne tænke sig at have en meget flad græsplæne, da man anlagde huset eller eventuelt efter anlæggelse af huset, og så har man udjævnet jorden, og den alt den resterende jord, den har man så lagt som en vold hele vejen rundt om grunden.
+
+00:25:30
+Øhm, for ligesom at skærme for nysgerrige øjne for eksempel. Det tænker man er en winwin. Men ofte så ø formår folk at lægge deres indkørsel på det laveste sted på grunden, hvilket gør at vandet det bare fosser ind, hvis det regner rigtig meget, og så fylder det det her tro eller badekar, som der er blevet skabt på grunden. Og øh det er ikke super smart. Så hvis at man har det problem, så kan det være en rigtig god ide at overveje at genudjævne jorden. Altså
+
+00:26:00
+lægge den sådan, så det passer bedre med vandets hydrologi. Ja. Så ø en anden ting man kan overveje at gøre for at forebygge øhm det er at anlægge grønt tag på ens hus eller og eller hæve ens hus. Øhm, og det er simpelthen igen for at skabe volumen med det her grønne tag for at sørge for at vandet det ikke bare render ned og lægger sig på sin grund. Og hævehuset,
+
+00:26:30
+det tænker jeg giver meget god mening. Det er selvfølgelig for at sørge for, at vandet ikke kommer ind i huset, hvis ens grund for eksempel ligger meget lavt. Det kan også øhm at hæve vejen. Øhm og det hænger også lidt sammen med det her med at genudjævne jorden. Derfor at sørge for at man kan bestemme vandets retning i større grad øhm for at det ikke ligger sig for eksempel omkring huset. Det er så lige en vigtig ting at nævne her i forhold til at styre vandet,
+
+00:27:00
+hvor det løber hen. Det er lige at snakke med ens naboer og ø og kigge på digitale værktøjer for at se, ender mit vand så ovre hos min nabo i personens kælderskur øh og så videre. Ja, så det er ret vigtigt lige at have for øje. Så har vi kategorien før, og der har jeg en lille video, jeg lige spiller imens jeg tænder den lige, og så skruer jeg lidt ned.
+
+00:27:30
+Sådan. Hov, nu pauser jeg den. Sådan. Og øhm den her video den er lavet af vores søster interprojekt Climate Pol i samarbejde med Vej Kommune. Og ø jeg tænker jeg lad den bare lige spille mens jeg snakker lidt for den giver også nogle ret gode eksempler på hvad man kan gøre før øhm en hændelse en regnhelse. Så for eksempel udenfor ens hus der kan man anlægge nogle mobile barrierer øh og
+
+00:28:00
+lægge dem frem de steder der har mest brug for det. Det kan for eksempel være, hvis man har en meget lav indkørsel. Øhm, og der ved vil man gerne bve vandet et andet sted hen. Det er også meget brugbart ved stormfloder. Øh, det har vi jo så fundet ud af, at det ikke er det største problem på Rømø, men de kan stadig bruges der. Og så som der lige blev vist her i videoen, så kan man især anvende sandsække til at ligge rundt omkring de lave steder i ens hus.
+
+00:28:30
+Øhm, hvis man ikke er hud på at investere i de her store mobile barrierer, så kan man lægge sandsikke. Øhm. Ja. Og så øh noget der måske nogle gange bliver overset, det er at inde i huset der kan man også godt gøre noget, hvis man for eksempel skulle være så uheldig, at vandet det kommer ind. Så man skal sørge for at sætte sine møber og andre værdifulde genstande op i højden. For eksempel ved at sætte det på mursten eller andet. Øh, hvis vandet nu skulle
+
+00:29:00
+komme ind i ens hus. Og ø for eksempel hvis man har en meget værdifuld bogreol, som jeg har derhjemme, så ø lige sørg for at de vigtigste bøger eller bare bøgerne generelt ikke står på den allernederste hylde i bogreolen. Ja. Og så selve underhæelsen, der er jo også flere ting øh der er gode lige at overveje at tjekke. Øhm, det er for eksempel at tjekke, at ens løsninger
+
+00:29:30
+rent faktisk virker, fordi det giver jo god mening at anlægge et øh regnvandsbillede eller en faskine eller noget andet, men hvis det ikke virker, det kan for eksempel også være som videoen viste, og ens tagrender, hvis man har dem, men de ikke virker, så giver det ikke så god mening at have dem under en regnhæelse. Øh, så vil vandet bare ud alle steder alligevel. Så øh det er vigtigt at tjekke om ens løsninger rent faktisk virker.
+
+00:30:00
+Og en anden ting som I også så i videoen lige på mit forest slide, det er det inkluderer også at tjekke ens kloakriste, tømme tagranden, som jeg nævnte, tømme sandfangsbrønden, øhm og tjekke om vandet løber rigtig ned i regnbedet, holder ens mobile barrierer, sandsække og så videre, fordi så er man nemlig rigtig godt stillet, hvis de her løsninger de virker. Og hvis de så ikke virker, så kan man øhm
+
+00:30:30
+så må man implementere noget ekstra. For eksempel øh vandafledning, som kan inkludere øh ja, det har det har jeg nævnt, men ja, vandafledning, det som jeg har nævnt før, det er super vigtigt, fordi man kan styre vandet og så videre. Og så som jeg nævnte, det er at man skal simpelthen snakke med sine naboer. Og det var også et af formålene med det her projekt på Rømø. Det var vi godt ville have naboerne og grundejerforeningerne til at tale mere sammen. Så derfor har vi øh
+
+00:31:00
+fundet på eller udvigtet eller jeg tænker det findes i forvejen, men vi har kaldt det for vandnabohjælp. Ligesom nabohjælp findes, men så med vand. Fordi på Rømø der er der også mange sommerhuse. Og hvis du nu ikke er hjemme, mens der i dit sommerhus eller dit sommerhus er udlejet til nogen som måske ikke ved hvad de skal gøre. For eksempel hvis det er øhm nogen fra et andet land der kommer og har leget sommerhuset, så kan det være en rigtig
+
+00:31:30
+god ide at man ligesom har indgået en aftale med sine naboer om hvad gør vi i specifikke situationer, hvis at der nu er en oversvømmelse der er der er ved at forme sig på en af grundene eller man kan se der er et hus der har brug for hjælp gør vi øhm og så tale om det og det er ret vigtig vigtigt at tale om det her i fredstid, sådan så man ikke står i en nedbørshændelse og øh og i panik skal
+
+00:32:00
+øh finde på en eller anden løsning og finde ud af, hvad gør vi? Og i sådan nogle situationer kan der desværre også godt ske det, at bølgerne de går højt, og så kan man måske blive sure på hinanden. Så ja, god ide at tale sammen i fredstid og øhm lægge en plan for, hvad man gør, og udvikle numre og så videre, hvis folk ikke er hjemme, som som nævnt. Og i den her kollaboration imellem
+
+00:32:30
+naboskab, der kan man også undersøge digitalt, som jeg nævnte tidligere, gav en forsmag på de her værktøjer, der findes ret mange af, dem kan man bruge og se, hvor vandet løber, hvor ligger vandet sig, hvilke naboer har de største problemer med vand, og så kan man bruge det til at udvikle en mere detaljeret plan øh med sine naboer. Og øhm dem viser jeg lidt
+
+00:33:00
+senere, fordi vi har nemlig lavet et afsnit i handlekataloget, der handler omkring de her værktøjer og mere viden, så ja, man ligesom ved, hvor skal man gå hen, hvis man øh ja, hvis man har behov for det. Ja, man kan sige rigtig mange af de her løsninger, som AK har nævnt, og som den her video fra Poseidons søsterprojekt, Climate Pol og Vejen, vist, er jo løsninger, som os, der sidder her måske faktisk godt er klar over. Øh, og så er
+
+00:33:30
+vi måske alligevel ikke ø, hvis det brændte på for os selv derhjemme. Det der i hvert fald er ret tydeligt, det er borgerne er ikke altid helt klar på, hvad er det faktisk for nogle løsninger, der er i værktøjskassen, og hvornår er vigtig, hvilke løsninger vigtige. Og netop som som AK nævnte, så er Rømmø jo en ø, som er fuld af sommerhuse. Og rigtig mange af de sommerhuse er også udlejningshuse. Øh, så så det er ikke sikkert, at dem, der er der, når regnen kommer eller når vandet lige pludselig står højt, faktisk
+
+00:34:00
+også er dem, som som ejer huset eller som som kender huset ø i detaljer. Og derfor er det her handicatlå øh også blevet publiceret, så det er i sådan en fysisk form. Det er svært med min blurry i baggrund her, men det findes i en fysisk form, som vi faktisk også tilbyder at sende ud til ø grunderforeningerne. Øh, og vi tilbyder også, at de kan få det som en PDF, så man faktisk også selv vil have mulighed for at printe det og lægge i ø i sit hus. Øhm, og i
+
+00:34:30
+forbindelse med det her katlog, så har vi også haft en super god dialog med Tønd og Kommune omkring, jamen, hvor er det grænsefladen går imellem kommunen, hvad har kommunen ansvar for, og hvad er borgernes eget ansvar? Fordi det var noget af det andet, der blev rigtig tydeligt i den her borgerdialog. Det er, borgerne er lidt usikre på, hvornår er det faktisk mit ansvar, og hvornår skal jeg gøre noget, og hvad må jeg gøre? Øh, og hvad er egentlig kommunens ansvar, og ogog hvornår skal jeg spørge kommunen om
+
+00:35:00
+det, jeg gør, og hvornår kan jeg bare gøre det? Så i den forbindelse så lavede Tønder Kommune en lille folder som hedder vand på terræ i grøfter og vejgrøfter som ligger på kommunens hjemmeside men som der også er et afsnit om i handlekatelået og som der er et link til i handlekatlelovet som man nemt kan finde det som handler om hvad er det egentlig både for nogle rettigheder man har som borger men også hvad er det for nogle pligter man har som borger og hvad kan man få hjælp til hos kommunen så der er sådan nogle helt små afsnit som
+
+00:35:30
+beskriver de enkelte elementer Øh, der er for eksempel også, jeg har lige sat den her lille tegning ind, sådan en tegning af, hvornår er det egentlig, altså hvem er det, man skal blive enig med, hvis man skal vedligeholde en grøft og rense en grøft op? Hvorfor er det ikke nok, at man bare tager skyklapperne på og gør noget ø på sin egen grund? Men hvorfor skal man faktisk også snakke med naboerne både ovenfor og nedenfor øh og på den på den anden side? Øhm, det er, det er også en viden, som måske er med til at afmystificere nogle ø nogle
+
+00:36:00
+nogle potentielle tvister, som også kunne blive mellem naboer i forhold til at få renset de her grøfter op. For det vi hørte på det seneste borgermøde, som var her for en måneds tid eller halvanden siden, det var faktisk at grunderforeningerne følte også at de virkelig havde fået taget hul på at tale om nogle af de her ting og taget hul på at tage fat i i nogle af de her problematikker omkring de her grøfter. Bare det at vide, hvor løber de egentlig hen? Altså hvem er egentlig de
+
+00:36:30
+bredejere, jeg skal have fat i? Øh i forhold til at få dem få dem renset op. Ja. Over til dig igen, AK. Ja, og som Sara nævner her, så er øh borgerne meget ivrige efter os selv at gøre noget. Øhm hvilket er mega awesome. Og vi har talt med flere borgere, der som vi lige har nævnt givet udtryk for at de gerne selv vil undersøge de her forhold på deres grund, som jeg også
+
+00:37:00
+nævnte tidligere. De ved bare ikke, hvor at de skal finde data. Så som jeg nævnte, så har vi lavet det her afsnit i handlekataloget, som øh hvor vi har listet nogle forskellige værktøjer, som kan hjælpe borgerne på vej til at finde ud af, hvor løber vandet, og ø hvor er der potentielle oversvømmelser, der skabes. Og øh der har vi blandt andet Tønder Kommunes eget værktøj med. Vi har Danmarks arealinformation, klimatilpasning.dk dk øh som også giver
+
+00:37:30
+rigtig mange eksempler på hvad kan du gøre øh før under og efter i de her forskellige kategorier. Så det er ikke kun øhm et gidværktøj som nogle af de andre er det her værktøj til at finde ud af hvor vandet løber henne, men det er også øh et værktøj til information. Så har vi taget din Geo med kamp og klimaatlas. Og øhm det er tider der kan hjælpe med
+
+00:38:00
+at undersøge forholdene øh som jeg nævnte og øhm ja de har ligesom hver deres, hvad skal man sige mulighed for at hjælpe. Så hvis man er grundejer, så giver det rigtig god mening at tjekke, hvis ikke dem alle sammen ud, så i hvert fald et par stykker af dem. Og øh i handlekataloget der øh der har vi skrevet en lille bid tekst til hver øh side og et link ind til det. Så hvis man for eksempel er
+
+00:38:30
+lidt forvirret over, hvad skal man bruge de forskellige værktøjer til, så har vi netop skrevet sådan et lille stykke tekst. Øhm hjælpetekst kan man vel kalde det. &gt;&gt; Ja. Og øh nu har vi talt rigtig meget om Rømø, og vi har talt rigtig meget om det borgerdata, der blev indsamlet der. Men det er faktisk ikke det eneste, man kan sige øhm måske ikke sådan direkte borger, men men personrevende data, vi
+
+00:39:00
+har arbejdet med de seneste måneder i Posidon. Et andet ø en anden del, som er kommet ud af det her data, som er kommet ind, og nu var jeg lige lidt på forkant, det kan jeg godt se. Nu tager vi lige fremtidskatelåget først. Øhm, en anden del som det her data fra Rømmø blev brugt til, det er Neos, som har udarbejdet det her fremtidskatlå. Neos havde desværre ikke mulighed for selv at være her i dag og præsentere det, så derfor vil jeg gøre det. Men en ting er jo, hvad borgerne på Rømø kan gøre lige nu. Noget andet er, hvad de kan gøre. Hvad der ligesom er udfordringen på Rømø i fremtiden. Så det her fremtidskatalog
+
+00:39:30
+er ikke møntet på borgerne. Det er møntet på myndighederne, altså Tønder Kommune, ø, Tønder Forsyning. Øh, men de har simpelthen brugt det observerede data, som er kommet ind, som også er blevet brugt i handicatlå. Det har de brugt til at validere det modelarbejde, som de har lavet på Rømø i forhold til at modellere, hvordan ser det ud i dag og i fremtiden i forhold til vand på Rømø. Det er jo sådan, at rigtig tit er modellerne rigtig gode generelt, men går man helt ned lokalt, øh, så kan der være nogle nogle usikkerheder, som kan
+
+00:40:00
+skyldes alle mulige lokale faktorer. Og det har borgerdataerene kunnet være med til at validere eller afklare, hvad forskellen eventuelt måtte være. De har også undersøgt udfordringsbilledet ved det koblede hændelser, og så har de brugt DPoden til at se på, hvad løsningsmulighederne er øver tid. Øh, og jeg har bare taget et enkelt øh et enkelt, hvad hedder det, graf med fra katloget, som egentlig viser de forskellige ø store øh områder med sommerhuse på Rømø. Øhm, og så er de
+
+00:40:30
+vist i to scenarier. Et nutidsscenarie med meget vand, altså simulerende den her vinter 2324, og så et fremtidsscenarie i år 2100 igen under ø et en hæ eller en en tidspunkt med rigtig meget vand. Og øh og det man kan se, det er allerede nu er der altså rigtig mange bygninger på Rømø, som potentielt er udfordret øh med vand. Øh og det er og det er stigende ø også når vi ser frem mod
+
+00:41:00
+2100. Så så der er behov for både at at opfordre borgerne til egen handling, men der er også behov for at synliggøre, hvor er udfordringerne, og hvor er det, man måske skal planlægge øh i ret rette tid, hvad der skal ske fremover. Det må du godt skifte til, ikke? K. Og det ledte så til det jeg egentlig begyndte at snakke om lige før at en anden arbejde der har gået på i Posidon
+
+00:41:30
+de seneste måneder er det her inspirationskatalog som også er kommet til via indsamlede data, ikke fra borgerne på Rømø, men fra alle dem som har haft lyst til at bidrage med at komme med eksempler på gode cases. Gode cases på løsninger på eksisterende klimatilpasningsløsninger. En stor del af dem er af den type, som AK også har nævnt i forbindelse med med handicatlået. Det er løsninger, som fysisk eksisterer
+
+00:42:00
+i den region, som interctprojektet Posidon dækker. Så det vil sige, det er i den nordtyske region, og det er Region Syddanmark og Region Sjælland. Der er i alt 90 øh cases præsenteret i katloget, som beskriver øh hvad er udfordringen, hvorfor er de etableret? Øh, og øh, og de er jo medtaget alle sammen, fordi der er nogen, der har synes, at de virkelig har været værd at ø at tage med. Øhm, det
+
+00:42:30
+katlov findes også, så man kan hente det øh og og selv kigge kigge videre i det ø hvis man har lyst. Du må gerne skifte. Vi havde en en et webinar om det her i sommers i i juni måned. Øh fordi det der er lidt karakteristisk, når man kigger ind i det katlog og som er lidt lidt interessant, det er at ud af de 90 cases, som er meldt ind og som er taget med, øh, så er der faktisk 72% af dem,
+
+00:43:00
+som mere eller mindre inddrager naturbaserede løsninger eller naturinspirerede løsninger. Det er sådan, at katlovet dækker over selvfølgelig naturbaserede løsninger, men det dækker også over tekniske løsninger. Det dækker over løsninger, som er sådan samarbejdsø løsninger. Ø, det kan være netværk, øh, forskellige andre former for samarbejdsløsninger. Og så dækker det over digitale løsninger. Altså det kan være bedre modelværktøjer for eksempel. Øhm,
+
+00:43:30
+og mange af dem er igen en kombi. Altså ligesom vi snakked om, hvad hvad udfordringerne var på Rømø før, så kan der være flere udfordringer, og her kan der også være flere flere elementer af løsninger i den samme case. Øh, men men i i ø i 72% af dem indgår naturbaserede løsninger som som mere eller mindre den det bærende element. Det er lidt interessant, fordi er det et udtryk for, at naturaserede løsninger generelt udgør 72% af af klimatilpasningsløsningerne?
+
+00:44:00
+Nej, det er det nok ikke. Eller det det vil jeg nok påstå, det ikke er. Men det er i hvert fald et udtryk for, at når man beder øh borgere om at melde eksisterende løsninger ind og hvilke løsninger de de har lyst til at melde ind som gode løsninger, så er de de naturaserede løsninger, der bliver meldt ind. Øhm, og det er lidt interessant øh i forhold til, hvordan skal vi i fremtiden arbejde med det? Ø, vi er, der er mange, der arbejder imod flere naturbeserede løsninger. Øhm, men hvordan sikrer vi
+
+00:44:30
+også at vi gør det på den på den bedste måde, både for løsningen og for den natur man arbejder med? Det er et meget interessant øh emne. Så det var lige en teaser for også at kigge kigge ind i i inspirationskataloget. Ja. &gt;&gt; Ja. Aren, havde du har du lyst til at sige noget til det her slide, eller har du sagt noget tidligere? Nej, jeg synes egentlig du kom fint omkring det inde i starten. Men det er
+
+00:45:00
+jo de samarbejdspartnere det har været i forhold til at arbejde med det her Posidon projekt. Øhm, og det har været super givende hele vejen rundt. Ø, jeg skulle også hilse fra Tønder Forsyning og sige, at de oplever jo en en meget god forbedring derovre ø på Romø. Og øh, det gør borgerne også, som I også selv refererede til, så det borgermøde vi holdt for ikke særlig lang tid siden, der var der jo en rigtig positiv og konstruktiv dialog. Øh, og det blev taget rigtig godt imod.
+
+00:45:30
+Og der er allerede nye initiativer på vej på Romø, som netop i fællesskab skal løse de her klimatiske vandudfordringer, vi har. Øhm, så det det er godt hele vejen rundt. Så tak for det. &gt;&gt; V tak. Og øhm ja, så nåed vi til vejs ende. Øhm jeg vil gerne på vegne både Sar og Aron og resten af øh samarbejdet sige tusind tak fordi I lyttede med. Det det er vi meget glade for. Og øh hvis I har lyst
+
+00:46:00
+til at downloade handlekataloget eller inspirationskataloget som Sarsede tidligere, så kan I scanne QR-koden her. Og ja, så vil vi bare sige tusind tak og åben for spørgsmål. Tusind tak for for oplæg til alle sammen. Det det var meget interessant. Der er kommet et par spørgsmål og øh og dem tager jeg simpelthen bare fra en ende af. Det første er hvert fald Birgitte som ø som har to spørgsmål. Det første er øh fik I også henvendelser om
+
+00:46:30
+forurening eller vandkvalitet? &gt;&gt; Øh det kan jeg svare på. Nej. Øh overraskende nok ikke vil jeg sige. Altså det havde vi faktisk forventet. Så vi har faktisk forventet, at der i det data, der kom ind, også vil være nogle henvendelser omkring, jamen hvad er så kvaliteten af det her vand? Og og ø og er det er det sundhedsfarligt, når der lige pludselig står alt det her vand på overfladen og sådan noget. Det kom der ikke. Altså altså henvendelserne var virkelig straight på vandudfordringen øh
+
+00:47:00
+og ø og ikke på på alle mulige andre ting, man godt har kunne have forventet. Nej. Så andet spørgsmål, det er, hvordan blev I konkret klogere af borgdataerne? Øhm, altså hvad fortalte de jer, og som I ikke vidste for det tekniske data? &gt;&gt; Øhm, jamen hvis jeg skal svare, så kan man sige, det det der jo er fra alt det tilgængelige data, vi har jo masser af tilgængelige data i Danmark, og vi har masser af godt tilgængelige data i
+
+00:47:30
+Danmark. Det der er udfordringen, det er, der kan godt være nogle lokale forhold, som gør at virkeligheden helt lokalt omkring det enkelte hus eller omkring den enkelte matrikel ikke er helt som som vores nationale dataviser. Det kunne for eksempel være øh kort over bluepotområder, lagninger. Øhm de de tager jo ikke hensyn til rørføringer lokalt eller vandafledning lokalt eller infiltrations egenskaber helt lokalt. Så
+
+00:48:00
+derfor kan der godt være nogle forskelle øh helt lokalt imellem det nationale data og det borgerne oplever, som er helt altså helt oprigtige. Øh og det samme når vi når vi når vi taler om højtstående grundvand, jamen så kan der være noget noget lokal afledning ø som gør at udfordringen måske ikke er det som kortene viser ø eller eller omvendt. Øh og det er jo i høj grad det som ø som vi har brugt det her data til. Det er faktisk at blive klogere på hvad er hvad
+
+00:48:30
+er egentlig øh udfordringen der hvor vi nok oplevede altså det kan man sige det er sådan på vores halvdel af bordet hvor hvor blev vi klogere i forhold til data man kan sige der hvor hvor vi bliver klogere i forhold til også at arbejde sammen med borgerne omkring løsninger det er borgerne har faktisk tit en ret god forståelse for hvad udfordringen er og andre gange har de slet ikke. Altså det er enten eller du ved det enten har man en god forståelse eller også så har man som AK viste et eksempel på måske ikke helt forstået at det er en dårlig ide at
+
+00:49:00
+lave sit indkørsel det laveste sted og så i øvrigt lægge en jordvold hele vejen rundt om om grunden og vandet løber ned og bakke og altså så så der er sådan nogle øh det det er det har nok egentlig været det der var der var der var en øjenåbner for os også det der med hvor stor forskel der egentlig er på hvor hvor god forståelse man også som som helt almindelig dansker har for hvordan vandet løber i landskabet. &gt;&gt; Så spørger Hulle Pia eller hun konstaterer det interessant projekt I
+
+00:49:30
+har her og hoppede den lige her. Er det rigtigt forstået at ø at det er borgere der har meldt projekterne ind til inspirationskatalog? Det kan godt være, jeg lige skal uddybe den, fordi den fik jeg ikke forklaret ordentligt. Jeg beklager, jeg er sådan lidt halvsnottet og halvdårlig oven i det her i dag. Men inspirationskatlalåde kørte altså, og indhentning af borgerdata til handekatalåde og indhentning af data til inspirationskataloget kører de to forskellige spor. Til til borger eller
+
+00:50:00
+til handekataloget er det kun borgere eller husejere på på Rømø, som er blevet som er blevet spurgt til inspirationskataloget. har vi spurgt helt bredt ud ø i interregionen. Så det vil sige, det er borgere, det er medarbejdere, klimatilpasningsmedarbejdere både på den danske og på den og på den tyske side. Så der kan vi ikke vide, i hvilken grad henvendelserne er kommet via borgere, og i hvilken grad henvendelserne også er kommet via, hvad skal vi sige,
+
+00:50:30
+professionelle øh som arbejder med med det her emne. &gt;&gt; Ja. Så måske også en en vigtig ting at tilføje til øh inspirationskataloget og handlekataloget, det er en ting er data sket på ja forskellige tidspunkter af året, så de har ikke overlappet. Og en anden ting er også at inspirationskataloget der er det øh klimatilpasningsløsninger der er blevet indsendt ø eksempler på. Og i handlekataloget der er det
+
+00:51:00
+problemer med vand på Rømø der er blevet indsendt. Så det er også helt to forskellige spande vi har med at gøre i forhold til inspirationskatalog og handlekataloger. Øhm, og så er det også, det er fordi vi har en sektion til allersidst her i, hvad hedder det, inspirationskataloget, hvor vi har nogle eksempler på generelle løsninger på øh på klimatilpasninger og vandproblemer og så videre, som overlapper en lille smule behandle
+
+00:51:30
+kataloget, men ellers overlapper katalogerne ikke som sådan hinanden. Så det er sådan to forskellige kataloger, der kan bruges til forskellige ting. Og det er også to forskellige så geografiske afgrænsninger, ikke? Altså &gt;&gt; jo meget meget forskellige. &gt;&gt; Det ene er på Rømø, og det andet er hele &gt;&gt; hele regionen. Ja. &gt;&gt; Og så er der et spørgsmål her, som jeg tænker måske går på den første del der med handlekataloget her. Hvem hvem blev inddraget? Er det var det kun
+
+00:52:00
+fastboende? Og øh og det blev det sendt på både dansk og tysk. &gt;&gt; Øh skal jeg svare på den det? Eller måske kan du også svare på den egen. Øh, men men som jeg har forstået øh inddragelsen nu, det skal vi lige til her til siges, at det er faktisk en medarbejders i Tønder Kommune, som ikke er der mere, som startede den der aller allerførste inddragelse. Øh, men som jeg har forstået det, så foregik inddragelsen til via Grundejerforeningerne ø på Rømø. Så det
+
+00:52:30
+vil sige, det er via grundejerforeningerne, at inddragelsen er gået ud. Så den er gået til deres bestyrelse, som så har delt dem ud til øh ejerne af sommerhusene. Øh og den er gået ud på dansk. &gt;&gt; Det er rigtigt. Det har også været inddragelse af sommerhusgrundejerne. Det er godt nok også grundejere, men der er jo to spor, ikke også, hvor vi ligesom har dem der fastboende derovre, men så også de grundejerforeningen der sommerhusteknøet. Øh, og det var dem vi
+
+00:53:00
+havde møde med sidste gang. Øhm, og de har også rykket sammen i bussen og ligesom lavet en ny forening, der skal arbejde med de her ting på tværs og lave en øh en fælles læring og håndtering af de her vandudfordringer på Ramø. Øh, så ja, der er inddraget flere parametre derovre. Ja, &gt;&gt; så er der et opfølgende spørgsmål fra Birgitte, som havde to spørgsmål før. Det er vente i tilbage til lokalsamfundet og den enkelte med en
+
+00:53:30
+form for tilbagemelding. Altså udover det her katalog. &gt;&gt; Altså ja, det gjorde vi. Øhm, vi som at der er blevet nævnt et par gange før, så havde vi det her øh grundejerforeningsmøde i august, hvor at vi både præsenterede handlekataloget og ø kommunen var også til stede, og forsyningen var også til stede, så havde vi en rigtig god snak ud fra handlekataloget omkring, hvad er det for nogle problematikker de rent faktisk
+
+00:54:00
+oplever? Og der kom også problematikker omkring øh de her frede naturområder, Natur 2000 og paragraf 3 områder ind. Øhm. Ja. Og så har vi også, som Sar nævnte på et tidspunkt, sendt kataloger eller givet muligheden for at få printet katalogerne, så de kunne blive lagt ud til grundejerforeningerne. Så alle har muligheden for at læse de her kataloger igennem øh hvis de ikke har, øh,
+
+00:54:30
+modtaget det digitalt. Så vi har øh vi har forsøgt ihærdigt at få det bredt så meget ud som muligt også til den enkelte borger. Så så spurgte I eller så sagde I starten, at der blev spurgt ret åbent, og det er måske igen til den tidligere medarbejder, men men I fik de her 74 henvendelser med billeder og beskrivelser. Hvis I skulle gøre det igen, ville I så spørge mere præcist, hvis jeg tænker på, hvis der er nogle andre kommuner, der skulle ligesom bruge den viden, som man har jo allerede den
+
+00:55:00
+her funktion tipkunen eller hvad det hedder. Øhm, hvis man skulle bruge de data, der kommer ind der, eller skulle forbedre det redskab. &gt;&gt; Øh, nej, altså det det vil jeg ikke. Øhm, vi har vi har arbejdet ret meget med citizen science her øh på SDU i den her gruppe også. Og og det er enormt vigtigt, at vi ikke får påvirket borgerne til at sende det, de tror, de synes, vi gerne vil have. Og så undlader
+
+00:55:30
+de at sende noget, som faktisk er lige så vigtigt. Øh, så og rammen var egentlig ret klar, altså meld ind omkring udfordringer med vand på Rømø. Altså det det var det var rammen. Og ø og den og den holdt folk sig jo indenfor. Altså tilbage til spørgsmålet før omkring om vi også fik en masse om vandkvalitet og forurening og sådan noget. Nej, det fik vi ikke. Og det tror jeg egentlig var fordi rammen var meget simpelt og meget klar. Øhm. Så så nej, altså vi gør fuldstændig det samme en
+
+00:56:00
+gang til. Så er der opfølgende spørgsmål her på ø på det her fem vand der bliver inddraget hvor der bliver spurgt til grundejerforeningerne dækker vel ikke hele øen eller gør de? &gt;&gt; Vil du svare på det Aron? &gt;&gt; Ja de er faktisk vores grundjerforening er faktisk spredt ret godt ud på øen. Der er nogle områder som er primært natur som også blev nævnt tidligere. Der er der ikke så mange grunde faktisk. Øh,
+
+00:56:30
+men de er fokuseret, de er dels sådan tværs ned over øen. Øh, men de steder vi har størst vandudfordringer er også lidt centrerede omkring nogle enkelte ud områder. Så nogle grundejerforeninger oplever betydelig større problemer end andre grundejerforeninger. Øhm, men det meste af øen er jo også repræsenteret i den graf, der blev vist tidligere øh hvor man kunne se, at den nordlige del, som er ju øh er mindre udfordret end dele af den af den
+
+00:57:00
+resterende ø. Ja. &gt;&gt; Bed spurgt for længe sid det, hvad med de på øen? Ja, der er de øh bum bum. Det ved jeg faktisk ikke engang om de har været separat inkluderet. Jeg kan måske lige, jeg kan måske lige Jeg kan måske lige tilføje lidt øh her, fordi at øhm jeg ved ikke, om de oprindeligt har været inddrage, men jeg ved at det er
+
+00:57:30
+med DAV og grundejerforening ligesom med alle mulige andre foreninger, at det er Tordenskjoldsoldater. Så det vi har oplevet på de borgermøder der har været, det er faktisk at der er mange genganger. Altså folk der sidder i bestyrelse de samme steder. Så ø så der har været masser af input, i hvert fald fra det ene delav som ø som Aren lige nævner undervejs på de borgermøder, der har været der har været også. Så så min fornemmelse er at de har udmærket godt vidst, at det her foregå er foregået. Og der er også kommet ø henvendelser ind øh
+
+00:58:00
+som ø som relerer sig til dierne. Altså blandt andet at vand bliver fanget på indersiden af de. Altså som jeg sagde før, var der jo kun en henvendelse, som gik på højvande. Øh men der var flere henvendelser som gik på, at vand havde svært ved at komme ud, altså indefra og ud fra øen. Øhm som omhandlede dierne. &gt;&gt; Og måske lige et sidste spørgsmål, inden vi lukker ned her. Er der hvem hvem har ligesom altså er det et katalog eller er det sådan en viden med de her spørgsmål
+
+00:58:30
+og input der bliver holdt opdateret eller er det noget i bruger nu i forsyning og kommune eller er det sådan en statisk &gt;&gt; for nuværende er det et statisk redskab som ligger frit tilgængelig på både STU's hjemmeside men også på Tønd Kommunes hjemmeside øh men det har jo skabt noget fokus og noget samarbejde som jo er statisk, som bliver ved med at udvikle sig ø netop med baggrund i det
+
+00:59:00
+her projekt. Så man kan godt sige, der er nogle altså vandudfordringer ændrer sig er nok ikke nævneværdige over de næste år. Øh, men det samarbejde, der ligger omkring håndteringen af det her vand øh det udvikler sig, og det det går ret hurtigt. Vi kan også mærke, der har været en god øh det her skæ mellem forvaltning og mellem borgere eller grundejerforening er også blevet mindre øh fordi der er skabt en fælles forståelse om, hvordan vi skal løse de her udfordringer. Og det gør at det er nemmere for borgerne eller grundjeforeningerne at ret henvendes og
+
+00:59:30
+finde en konstruktiv løsning på hvordan man lige præcis i deres enkeltfælde øh kan arbejde med at få det her vandlåndteret på grøn. Ja. Tusind tak for oplæg og for svar på spørgsmål og tak for spørgsmål og kommentar. Og øh jeg vil egentlig bare ønske jer alle sammen en rigtig god dag og på gensyn eller hvad det hedder.
+
+01:00:00
+Hej hej i mål. Hej

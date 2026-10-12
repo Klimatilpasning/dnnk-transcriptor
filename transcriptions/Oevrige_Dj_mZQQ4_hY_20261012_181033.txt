@@ -1,0 +1,254 @@
+=== DNNK Webinar Transskription ===
+Kategori: Oevrige
+Video ID: Dj_mZQQ4_hY
+URL: https://youtube.com/watch?v=Dj_mZQQ4_hY
+Kilde: YouTube auto-undertekster (dansk)
+Transskriberet: 2026-10-12T18:10:33.022499
+
+==================================================
+
+00:00:00
+På vegne af DNK vil jeg gerne byde velkommen til dagens techk. I teknikken sidder Morten Halling og jeg Christoffer Sindby fra Scandpipe af dagens vært. For god ordens skyld skal jeg sige at tektalken optages og bliver lagt på DNNK's hjemmeside i løbet af en uge. I forhold til det praktiske. Jer der har været med før kender at vi stiller spørgsmål i chatten. Og til så vil
+
+00:00:30
+jeg tage dem op. Dagens tech talk den er med Anne Larsen og Søren Schøt fra Offside som vil fortælle om hvordan klimarisiko kan flyttes fra rapporter og analyser. og ind i den daglige drift. Og med det vil jeg byde velkommen til jer to, Anne og Søren, og give ordet over til dig, Søren, som vil tage os igennem det næste stykke tid. Velkommen til. &gt;&gt; Tak for det, Christoffer. For klimarisiko til handling i ejendomsdriften, det er vi kommet med et
+
+00:01:00
+bud på vores offside, og det vil vi tage jer igennem her den næste halvanden times tid. Øh, som vi ser det, så er det ikke så nemt at være ejendomsejer nu til dag. Der er mange påvirkninger, mange ting, man skal tage hensyn til. Der er også nogle ting, der er under forandring. Øh, klimarisiko, det er noget af det, der bliver talt rigtig meget om. Øh, men det kan være svært, når man taler om klimarisiko, fordi vi kan godt håndtere og forstå, hvad det er for nogle påvirkninger, vi står foran os, øh, og og kigger ind i. Men når vi
+
+00:01:30
+skal omsætte det til handling, så kan det nogle gange være lidt sværere. Jeg hedder Sunshirt. Jeg er founder i Upside. Og ved siden af det der har jeg også en rådgivervirksomhed, hvor jeg har arbejdet med drift og vedligehold og renovering igennem 25 år. Og jeg hedder Anne. Jeg er leder i Appside, og jeg kommer fra lidt mere fra software og datasiden.
+
+00:02:00
+Det vi vil komme ind på den næste halv times tid, det er omkring udfordringen. Udfordringen som ejendomsejer eller rådgiver, som skal håndtere ejendomsporteføljer. Øh, og det er særligt i forhold til klimarisiko. Så vil vi fortælle lidt omkring ø vores løsning ø hvad det er for nogle ting vi kan håndtere i offside via data, og hvordan vi tager ambitionen og gør den ø til realitet og handlingsorienteret.
+
+00:02:30
+Og slutlig så vil vi prøve at vise, hvordan det virker i praksis. Selve udfordringen den er passerende lige nu. Der er rigtig mange øh ting, der sker, blandt andet i EU og med EU-taksøkonomien, men der er også CSRD, og der er certificeringsordninger, som omhandler og berører det her område omkring klimarisiko. Og de er her, klimaforandringerne. Øh,
+
+00:03:00
+jeg forstår, at jer som deltagere, mange af jer, kender godt til emnet. Øh, men har man en ejendom og ikke har arbejdet så meget med klimaudfordringer, jamen så ø så kan man jo kigge en gang imellem og se, hvor store skybrudene er. Øh, og vandpåvirkninger, det er det er noget, der rammer vores ejendomme her. Og vi har ikke vi har ikke råd til at vente, fordi det kan give store skader. Vi skal helt tilbage til 2011, hvor nogle af politikerne i hvert fald kan huske, at der var nogle oversvømmelser. Øh, men
+
+00:03:30
+siden der har der jo været masser af tegn på, at klimaforandringerne de er på vej, og de er her. Og det er jo ikke kun vand, det taler vi rigtig meget om, men det er jo lige så meget vind og temperatur, som påvirker ø vores eksisterende bygningsmasse. Der er lavet en øh en meget fin rapport op fra DTU i 2024, og øh den beskriver dybdegående de her klimaforandringer og udfordringer, som vi står overfor. Og en
+
+00:04:00
+af de konklusioner, som der er i rapporten, det er blandt andet, at med en krone investeret i dag, så kan vi spare syv kroners udgifter over en 100 års periode, fordi vi kan modstå de klimaforandringer, som vi kigger ind i. Og ø og når vi taler om klimaforandringer, så taler man jo også om eksempelvis 100årshændelser, som jo sagtens kan være 50 års og 20 årshelser. Øh, og ø at den er der hver 100 år, det betyder jo ikke, at vi skal vente 100 år. Det kan jo lige så godt være i morgen, som det kan være om 10 år. Og
+
+00:04:30
+det er der jo også nogle ejendomsejere som øh som har set og ø og begynder at værne sig imod. Forebyggelsen den betaler sig, og det har vi prøvet sådan at illustrere ved den her øh trekant, hvor den økonomiske del, [rømmer sig] det er måske i virkeligheden den, der sådan er nemmest at lave en business case på. For som nævnt, så den her DTU rapport, den beskriver fint, hvordan en krone investeret, den kan forebygge syv danske
+
+00:05:00
+kroner i skader over sigt. Øh, lidt sværere kan det være, når vi begynder at snakke om ø om selve den miljømæssige del og den sociale del, men der vil man også kunne lave en business case. Øhm, fordi vi skal hellere bevare det, vi har i stedet for at bygge en masse nyt. Det vil jo sige, at vi skal prøve at spare eller nedtone vores CO2 belastning og lave nogle energioptimerende løsninger på vores ejendom. Og så er der hele den sociale del. Øh,
+
+00:05:30
+det er jo det som man taler om, men det kan være lidt svært at redegøre for det i form af en business case. Blandt andet fordi nogle af de tiltag man laver ude på på ejendommene, de kommer lejerne til gode. Men det er jo ejendommens ejere som skal afholde udgiften. Men det er sådan, at vi bruger omkring 90% af vores ø vores tid på jorden i en bygning. Og der er rigtig mange ting, der kan påvirke vores øh vores tilstand, når vi er i en ejendom. blandt andet i forhold
+
+00:06:00
+til til skimskader og så videre. Så alle tre emner er rigtig vigtige. Det er nok vigtigt, at man også prøver at omregne emnerne ø til nogle investeringer, så man kan se, at man over tid vil kunne få pengene hjem i forhold til de her tiltag. Så kommer presse forskellige steder fra. Øh, og der kan være forskellige ejerformer af ejendommen, og derfor så kan det også være øh forskellige
+
+00:06:30
+barrierer, som man møder. Øh, vi har sat det op i de her tre grupperinger, og den første, det er regulering. Øh, er man omfattet af EU-taksonomien, jamen så er der allerede en regulering der, hvor man skal lave nogle øh nogle klimaanalyser øh og man skal lave nogle screeninger. Øh, det samme vil jo gøre sig gældende inden for CSRD. Så er der hele den fysiske risiko. Det er den, som jeg lige har fortalt lidt om. Altså ejendommens eksponering mod eksempelvis varme og oversvømmelse
+
+00:07:00
+storm. Jamen det er en reel risiko, og det prøver man typisk kun en eller to gange før, og så begynder man at etablere et værn mod det i form af nogle byggetekniske løsninger uden på stedet. Den sidste del, og det er måske i virkeligheden den, som kan accelerere øh noget omkring klima og ejendomme. Det er den finansielle del. Bankerne og den finansielle industri, de er jo blevet underlagt en ny lov i sommeren 2025, hvor de skal lave ESG omstillingsplaner
+
+00:07:30
+for deres ø for deres udlån og deres ejendomsejere. Og øh det sætter lidt pres på på bankerne, fordi de skal ind og hjælpe hver enkelt låntager omkring nogle af de her ting. Og øh de ejendomsejere, som ikke måtte have hørt om det her, jamen de de skal jo lige pludselig forholde sig for at enten at kunne refinansiere eller nyfinansiere en en ejendom eller en portefølje. Og det er noget bankerne er forholdsvis langt fremme med. Og det er i hvert fald noget de taler om. Og de taler også med deres
+
+00:08:00
+kunder om det her emne. Så er der lidt omkring vores løsning, og ø den vil jeg Anne fortælle videre om. &gt;&gt; Ja. Jamen det ene det ene er alle de der påvirkninger, og så har vi de forskellige pres, så der er en masse data bagved det. Øhm og forbinde det de datasser det viden ikke laver i siloer, er latter sagt gjort. Øhm, og det vi også hører meget fra branchen, at klimarisici nogen kender
+
+00:08:30
+dem, nogen har oplevet dem, men de er svær at forholde sig til. Øh, fordi der er så mange forskellige interesser, det skal gå op i. Så det det hele skal gå op i en højere enhed. Øhm, og danne kompleksitet er ofte med at ø at man vandter. Øhm, og det bliver hurtigt uoverskuelig, men ø man ved ikke øh hvor hvor eller hvordan man skal starte hen, så man udskyder handling. Og det er præcis der Upside, og vi gerne vil hjælpe at gå fra risiko til handling.
+
+00:09:00
+Øhm, hvis vi starter med det mest konkrete problemer, øhm, som ejendomsejer sidder med, ø, er det, at dataen ligger i flere systemer, og de ejes flere forskellige steder henne i organisationen, og alle de forskellige teams har forskellige mål. Øh, så realitet kan det hele kun anden i en rapport eller på et dashboard, hvis man er heldig. Øhm, og det meste det meste klimaarbejde vi hører om, det aner
+
+00:09:30
+præcist, det er rapporten kigger bagud og bliver lavet en gang om året, hvis vi er heldige, eller hver femte eller hver tiende år ligesom vedholdelsesplaner. Og den er koblet helt den er koblet helt ø fra investeringsplanen. Øhm, så der er nogle siloer, vi vi oplever og øhm og det det er det, I ser her på sliden. Rapporten af den flade linje frosset den dag den bliver afleveret, men den faktiske risiko stiger jo hele året med
+
+00:10:00
+nye reguleringer. Øhm, stormsæsonen rammer eller porteføljen ændrer sig. Så ved efteråret kan man risikere at kløft mellem rapporten og virkeligheden er allerede så stor at den er uddateret og og ingen holder øje med den. Så så den rapport stopper jo heller ikke vandet i at trænge ind i ejendommen. Den den beskytter ikke en eneste af de kroner, som som Søren lige har snakket om. Så for os var det egentlig spørgsmål, da vi gik i gang med en løsning, forstår vi overhovedet vores
+
+00:10:30
+risiko, og hvad gør vi ved den i dette kvartal? Øhm, så derfor hos ABSAT har vi længe arbejdet på at få klimadata ud af rapporten og inde i driften. Vi startede med den operationelle kerne for tre år siden, hvor vi arbejder med drift og værdigehold ø som er et brugervenligt værktøj til vedholdelsesplan og opgavestyring samt budgetstyring. siden der har vi tilføjet energimærket til energivervågning og CO2 tracking, hvor vi indlæser energi mærker og de
+
+00:11:00
+opgaver, som ligger bagved det, så de kan blive prioriteret med det samme inde i driften. Og så har vi senest tilføjet klimasikring som en integreret del af hele platformen. På den måde lander vedholdelse, energi og klimasikring i det samme to. Og de kan sagtens stå hver for sig i deres egen rapport, men de har en ting til faldes, og det er, at de handler om de samme ejendomme og den samme økonomi. Og som reel er det er de
+
+00:11:30
+samme mennesker, der også sætter på tværs, sidder sidder på på tværs af opgaverne. Så derfor skal vi sørge for, at opgaverne rent faktisk bliver udført øh og overført fra det ene fra det ene område til det andet. Så derfor kan man samle det. Og konkret betyder det, at veddligeholdelsesplæer, energimærker og nu også klimarisikoanalyser kommer ud og laver i den daglige drift. Øhm, via opgavestyring bliver de opdateret løbende fra driftspersonalet, og i
+
+00:12:00
+stedet for at andet som et dokument, der siger den per brugt, har man det direkte lavende i organisation. Men for os dokumentet, fordi der skal jo være dokumentation på det hele. Øhm, men vi ender, vi stopper ikke der. Og det er faktisk det, der er vigtigt at understrege. På tværs af alle moduler kan man både dokumentæ og prioritær budgetter. Øhm. Ja. Og det giver en hurtig overblik over altså hele ejendommen og den stand og økonomi, både bagudrettet lige nu og fremmedrettet.
+
+00:12:30
+Øhm, det man kan se her, det er noget der sker automatisk på platformen, så det det kan vi gøre igennem AI og alt det data vi har. Men den faglige vurdering, den ligger fortsat hos jer, og den ligger fortsat hos driftspersonalet. Det er ikke, altså der kommer vi med anbefalinger, men man har stadigvæk brug for den faglige vurdering. Så hvis vi nu zoomer lidt ind på klimasikring, fordi der det er derfor vi er her i dag, hvordan den virker i praksis. Øhm, hos os, hvis man skal
+
+00:13:00
+screene en hel portfølje for klimaris i dag, kræver det typisk en masse manuelle trin ogog research. Øhm, det kræver at en konsulant tager ud eller nogle interne en ESG-konsulant kigger på på en ejendom, går ud på en markvandring og så indtaster en masse data og besøger flere forskellige datakilder for at samle det ind en rapport. tager lang tid, og det er svært at holde opdatere og gøre det ensartet på større porteføljer. Øhm, og det er derfor vores løsning er
+
+00:13:30
+bygget direkte ovenpå den offentlige grunddatainfrastruktur med mere end otte nationale datakilder, for eksempel BBR og DMI. Og så der handler vi og sammenstiller data automatisk og kortlægger klimarisiciisi på hver enkelt ejendom og også på tværs af hele porteføljen. Det har vi oplevet, at det kan reducere screeningstiden med altså op til 99% efter hvordan man kører processen i dag fra måneder til sekunder.
+
+00:14:00
+Øhm, så er spørgsmålet, hvordan det ser ud i en hverdag, i jeres hverdag for eksempel, fordi her handler det ikke om at lære et nyt stort system, øh, men om at få den her viden inde i de arbejdsgange, man allerede har. Så hvis vi zoomer ind i de tre skridt, som vi bruger, øhm, så er det første skridt er screening. Må lige se.
+
+00:14:30
+Okay, det første skridt er screening. Her får I et samlet overblik over hele porteføljen på en gang. Øhm, der kan man se, hvilke ejendomme der er udsat og for og for hvad, om det er skybrod, stormflod eller stigende grundvand. Øhm, så man går fra, vi tror måske det er et problem til et faktuelt overblik over hvilke bygninger der er i farzonen. Og så ved man, hvor man skal starte henne i portføljen. Så nu ved man, hvor risikoen er størst. Så er næste skridt at forstå, hvad den
+
+00:15:00
+betyder for den enkelte ejendom. Så man bliver guidet trin for trin. Øh, og dataindsamling og beregninger klares for jer, så I står med et fuldt dokumentær beslutningsgrundlag til sidst. Men konklusion er jeres. Igen, vi kom med en anbefaling. Øh, vi præsenterer data, og det, men det er jeres faglighed, der afgør, hvad det betyder. Og så det tredje og vigtigste skridt er handling.
+
+00:15:30
+For som vi sagde før, en rapport stopper ikke vandet i at trænge ind. Det gør tiltag. Så her bliver jeres analyse til konkrete opgaver, som I kan prioritere i jeres eksisterende budget. Og opgaverne lander på den samme måde og på den samme opgaveliste, I allerede arbejder med hver dag. Og så ikke i et klimasystem ved siden af drift, men midt i deres proces og hverdag. Og det her billede samler så det hele, I
+
+00:16:00
+lige har set. Der er tre skridt øhm som som gør i en gang. Øhm der gemmer sig et fjerde, og det er egentlig ikke et skridt, men det er en måde at arbejde på, og det er kern i appside, fordi når en opgave udført, for eksempel en ny højvandslukker eller en opgraderet ta bliver det registreret på ejendom, og ambition er at risikobilledet opdaterer sig selv. Både når I udfører opgaver og når der kommer ny viden ind. Så på den måde skal
+
+00:16:30
+I aldrig starte forfra. Men I har altid altså det den første gang er nok den tungeste, men derefter har man har man faktisk en udgangspunkt til næste gang. Og det er det der gør forskellen. I stedet for at slukke brænden når skaden er sket. Kan I planlægge værdigeholdet før den skærer og har klimasikring som en del ø med inde i det. Og vi gør altså det UPS gør er egentlig at holde den loop kørende, men det er jer der træffer beslutninger og sikrer at de der opgaver bliver prioritær øh og
+
+00:17:00
+kommer videre. Så sådan hænger det hele sammen. Øhm jeg går ikke ind i hele detaljen af hvordan sofaen er bygget op, men men bare sådan groft sagt det offentlige data og jeres egne driftsdata går ind. at de samles i et faldes datagrundlag for værdihold energi og klimasikring. Og det der kommer ud svarer på de tre pres, Søren talte om i starten. Regulering. Her får I dokumentation til compliance, den
+
+00:17:30
+fysiske risiko. Her får I konkrete opgaver i den daglige drift. Og så det sidste, kapital eller finansielle institutioner. Her får I et stærkere grundlag i dialogen med banker eller forsikringer, som også begynder at spørge ind i det. Øhm, og det hele kan kobles til de systemer, I allerede bruger. Så hvis man hvis man ikke hvis man ikke har et faldesplatform til det hele, så kan man faktisk også bruge sin altså sit tekniske setup som udgangspunkt og koble klimaløsninger på.
+
+00:18:00
+Øhm. Ja. Og alt det I lige har set er klar til bruge. Så det er ikke kun en ide vi har. Vi har faktisk kunder på den. Øh, vi har nogle nogle pilotprojekter og nogle kunderkørende på den. Så I kan komme i gang med det samme. Den videre udvikling er støttet af Innovationsfonden og Real Dania. Øh, og vi bygger løsningen løbende sammen med vores kunder og branchen. Ja. Og inden vi runder af med spørgsmål, giver jeg over til Søren, fordi han vil
+
+00:18:30
+gerne vise, hvordan ABSAT bliver brugt i praksis i dag. Øhm, med noget helt konkrete cases. &gt;&gt; Ja, tak for det. M &gt;&gt; og det var jo egentlig det som som jeg også selv lagde ud med i starten, at vi vil gerne gå fra ambition til handling, fordi det det gør ikke den helt store forskel, hvis tingene ligger i en rapport eller i dashboard. Det giver os viden, det giver os indsigt, men der skal jo handling til ude på stedet derude, hvor hvor murstenen står stavlet. Og det det er der den virkelige
+
+00:19:00
+forskel kan gøres og som så kan rapporteres tilbage i systemerne. Det fundament som øh som vi bygger på, det er udover vores egne antagelser og det vi har har bygget op i offside igennem tre år. Jamen så er det øh de her 40 plus kunder som vi har. Dem har vi været i tæt dialog med, både for så vidt angår udviklingen af vores drift og vedligeholdelsesmodul og det vi har omkring hele energimærke og energioptimeringsdelen, men også særlig omkring øh klimadelen, som vi taler om
+
+00:19:30
+her. Og kunderne de er det er store som små, men der er nogle rigtig rigtig store øh kunder, som har været søde at give feedback, som har hele afdelinger, der sidder og håndterer den her del. Og det har været en en god øvelse for at få best practice til, hvordan vi kan løse tingene, både når vi snakker op mod mod taksonomi, men det kan jo også være en en kommune, som ikke omfatter taksonomien ø og hvordan man håndterer det i hverdagen. Og særligt det her med, hvordan vi går fra ambition til
+
+00:20:00
+handling. Øhm, så kunderne det har været en vigtig del og er en vigtig del af vores udvikling. En kundekase, som vi kan fremhæve, som bruger vores platform Offside i sin sådan fulde version, det er Nels Brok skoler. Og ø det er en ø en langvarig samarbejdsrelation, vi har med Niels Brock. Og de er særlig interessante, fordi ganske vist har de kun fire
+
+00:20:30
+ejendomme, men det er nogle meget store ejendomme, og det er nogle meget historiske ejendomme i København. Og Niels Brock var allerede i gang omkring tiltag til til klimasikring inden at Offside fik udvikle sig. Men de er samtidig også på vores drift og vedligeholdelsesmodul. Så de ved det at de er kommet over på vores klimasikringsmodul, så kan de se den fulde effekt af at gå fra en analysedel omkring klima til en
+
+00:21:00
+handlingsorienteret del ovre i opgavestyringen eller drifter og vedligehold, om man vil. Øh, og det er de godt i gang med derude, og de er allerede ved at klimasikre deres ejendomme øh mod de de ting, som de bliver analyseret for. Og et godt råd herfra ø i hvert fald hvis man bruger offside, jamen det vil jo være at øh at starte med driften. Øh
+
+00:21:30
+altså få styr på de opgaver, der relaterer sig til ejendommens vedligehold. Og vi har sådan et et mantra om, at man skal ud og sparke mursten. Man skal kende sine ejendomme godt. Også selvom man er mange af dem, så er det vigtigt at vide, hvad det er for et et aktiv, man har at stå ø derude. Det samme gælder rent faktisk for i forhold til klimasikring, at at man skal også kende sine ejendomme rigtig godt. En kælder er ikke bare en kælder. Øh, den kan være særlig sårbar, hvis hvis der er ø større installationer
+
+00:22:00
+dernede frem for hvis det blok var en cykelkælder. Så det her med at starte med med driften og ø og kende sin ejendom rigtig godt og så også bygge på det samme datagrundlag. Derefter så kan man tilkoble klimasikringsdelen og ø det vil sige man kan både lave screening og man kan lave analyse men i sidste ende så kommer det til at ende ud med nogle tiltag på nogle udvalgte ejendomme som er sårbare og de skal integreres ovre i driften og det kunne
+
+00:22:30
+passende være i drift og vedligholdelsesplanen. Det er i hvert fald det vi gør i offside. Og så er der jo også rådgivere ogog konsulenter, som på lidt mere kommercielle vilkår arbejder med de her ting, og de er også hjertens velkommen på Offside. Der har vi et partnerprogram. Det har vi længe gjort i forhold til drift og vedligehold. Altså de rådgivere, som laver vedligeholdelsesplaner, de kan bruge øh Upsides som øh et teknisk fællesje, om
+
+00:23:00
+man vil. Og det er det samme, vi også går imod i forhold til til klimarisiko, at rådgivere ø på kommercielle vilkår vil over mod deres kundegruppe kunne bruge det til både at screen for klimarisiko, men også at lave analyser og taktoniom compliance. Og så er vi jo tilbage til noget, som jeg særligt har en passion for, fordi jeg jeg er uddannet inden for rådgivning
+
+00:23:30
+og byggeri. Og det her det er jo nogle løsninger, som langt hen ad vejen er noget, vi kender til, men det det er jo også det, som en ø klimarisikoanalyse kan resultere i. Øh, fordi nu snakker vi meget om om vand, og det er måske også sådan den største umiddelbare påvirkning, men men det kommer end of the day til at handle om noget med tagrander og og opkanter og og dræning. Og jeg vil mene, at langt hen ad vejen, så kender vi godt de løsninger, der skal til for at modstå
+
+00:24:00
+klimapåvirkningerne, når vi taler om den enkelte ejendomme. Øh, og jeg tror også, hvis man gik ind og analyserede på det, at vi er nede på på sådan en god håndfuld af løsninger, der kunne løse en meget meget stor del af klimaudfordringerne, så kan der altid være nogle særlige tilfælde, hvor man skal lave øh noget særligt på ejendommen eller i større skala, når man man snakker i et område eller en kommune og dier og så videre. Det det er en helt anden snak. Men ude på ejendomsniveauet, der føler jeg mig
+
+00:24:30
+ret overbevist om, at vi langt hen ad vejen vil lande i nogle bygtekniske løsninger, vi kender til, og som når de bliver involveret og overdraget til driften, jamen så vil det være kendt stof. Så de mennesker der i øvrigt passer ejendommen, de vil godt vide hvad de skulle gøre derude. Øh, nu har vi jo lige sat et par billeder på, og nede i venstre hjørne vil man kunne se en øh en kælderhals, altså en trappeskak, hvor vandet jo frit kan flyde ned. Og der kan man jo lave nogle løsninger med nogle opkanter, øh, så ikke vandet kommer ned
+
+00:25:00
+i kælderen. &gt;&gt; Ja. Anne, vil du sige lidt om teamet? Ja, jeg tror inden vi kommer til spørgsmål, vil vi bare lige hurtigt vise, hvem der står bagved løsningen. Vi har et lille tværfagl i teamen, der selv bygger selv. Vi kender vores kunder rigtig godt. Vi kender deres udfordringer, og vi vi stopper ikke før det virker i praksis. Øhm, så så hvis I hvis I vil se, hvad opsag kan betyde for
+
+00:25:30
+jeres portfølje eller har lidt sparing omkring den dataløsning, vi har bygget, og hvordan vi arbejder med grunddataen, så må I virkelig gerne række ud. Øhm, og så har vi, tror jeg, også tid faktisk til spørgsmål. Vi har god tid til spørgsmålene og tusind tak for jeres oplæg og øh der er kommet et par spørgsmål derudefra til jer der sidder derude, så endelig stil nogle yderligere spørgsmål. Jeg ved godt det tager lige lidt længere tid når de skal formuleres på skrift. Øh men Maria
+
+00:26:00
+har stillet et spørgsmål hvilken definition for risiko anvender I jævnfør IPCC. Er der en kombination af fare og sårbarheder? Så vidt jeg forstår, indebærer jeres screening kun farekortlægningen. &gt;&gt; Ja. &gt;&gt; Hm. &gt;&gt; Det er en meget komplekst spørgsmål. &gt;&gt; Det er jeg heller ikke sikker på, vi kan svare sådan umiddelbart. Jeg ved ikke, om det svarer det, men men jeg kan fortælle lidt om, hvad vi har gjort. Øh, i forhold til udvikling af af vores
+
+00:26:30
+klimarisikomodul. Der har vi lagt os helt op ad taksonomien, og vi har haft en ø SG-rådgiver indover til at hjælpe os med både at fortolke taksonomien, men så også finde de øh løsninger, altså tekniske løsninger øh der skal op til. Øh, og det vil sige i forhold til taksonomien, så kan man øh, så kan man lave en screening, og ø der hvor hvor der er nogle ejendomme, der er udsatte, der kan man lave en fuld analyse. Og det relaterer sig jo til taksonomien 77 og miljømål et og to. Øh,
+
+00:27:00
+men jeg er ikke sikker på måske, at det helt svarer det spørgsmål, for jeg kender ikke det, der bliver henvist til. Det ved jeg ikke helt, hvordan det hænger sammen. &gt;&gt; Maria, du må lige skrive, hvis vi skal uddybe noget mere. IPPC, det er jo ø klimarapporten, som er udkommet. Øh, men Maria, hvis du skal uddybet videre, så endelig lige skriv det, så skal jeg tage det med. Øh, Trine spørger også her: "Er det muligt, at du har et eksempel, hvad det kræver af ressourcer for en kommune som Svendborg at udføre en screening for klimatilpasning?"
+
+00:27:30
+Altså på screeningniveau skal der ikke så meget til. Man skal indlæse alle sine ejendomme, men der har vi en integration med BBR. Og derefter er det faktisk en altså en knap man trykker, som går igennem alle ejendomme. Øhm, den del der kræver stadigvæk lidt tid, at når man har gennemført screening og kan se på hvilken del af af ejendomsportføljen risikoen er størst, så skal man så skal man inde, fordi man kan se for eksempel ø ved kraftig nødbør
+
+00:28:00
+er det rød, så kan man inde og analysere videre. Så der bruger man sin tid, men man bruger ikke så meget tid på selve screeningøvelsen. &gt;&gt; Nej. Og jeg kan måske supplere, nu ved jeg ikke, hvor mange ejendomsvindborg kommune har, men men hvis &gt;&gt; det kan jeg så fortælle, fordi Trine spørger nemlig videre, så det kan være det lige giver dig, Søren. Er det muligt, at I kan give et eksempel på, hvad det vil koste for en kommune at få udarbejdet en screening af for eksempel 30 udvalgte ejendomme. &gt;&gt; Ja. &gt;&gt; Så det det Trine lige følger op med spørgsmål bagefter, [latter] så giver måske et blik. &gt;&gt; Ja. Men det med de de 30 ejendomme, det det kan jo screene på en time. Øh, hun
+
+00:28:30
+skal lige oprette ejendommene, og så trykker man på knappen, så screener den. Så det er hurtigt overstået. Så vil den screening, lad os bare sige, den vil vise fem ejendomme, som er udsatte. Dem skal man analysere på. Der vil jeg vurdere, at man skal afsætte omkring ø en time til hver ejendom til at gennemføre analysen. Og når det er gjort, så har man et Excelarkt med data, og man har en 40 50 siders øh klimaanalyse på ejendommen.
+
+00:29:00
+&gt;&gt; Inklusiv tiltag. &gt;&gt; Inklusive tiltag. Ja, det er også vigtigt at sige. Hvad skal der gøres? Hvad skal der handles på øh omkring priserne? Der er jeg ikke Det kan være Anne, du skal hjælpe mig lidt her. &gt;&gt; Ja. Altså jeg jeg vil sige en kommune der går jeg ud fra der er flere ejendomme I vil gerne have på. Og hvis man vil have de flere ejendomme på så så synes jeg det er bedre vi tager det offline fordi så kan vi kigge ind i noget volumen øh mæssigt. Og så har vi også fået noget funding fra fra Read
+
+00:29:30
+Dania og og endnu booster som støtter os. Så det er sådan lidt af afhængig af hvilken hvilken vej man vil gå. &gt;&gt; Men en opfordring til at tage fat i jer og at få eksakte priser efterfølgende. &gt;&gt; Ja. &gt;&gt; Øh Lotte kommer med et spørgsmål. I siger den I siger den kan snakke sammen med FM software vi bruger. Men hvordan snakker det sammen? Er det igennem API'er eller anden standardudtager data? Ja, altså vi har Excel udtryk, men vi har også en åben API, så man kan trække
+
+00:30:00
+alt ud i PDF og Excelark, men vi kan også lave API integrationer. Vi har vi har ikke så mange liggende, fordi der plejer vi at gå med kundekases. Så hvis man har et eller andet system øhm som vi vi daer i dag, øhm så kan vi så har vi det liggende, men ellers så udvikler vi sammen med kunderne. Vi har eksempelvis en kunde, hvor vi arbejder på en integration til Dux i øjeblikket, fordi de håndterer deres drift over i Delux. Og så prøver vi at se, om vi kan lave en integration
+
+00:30:30
+dertil. &gt;&gt; Sup. Den giver lige en opfølgning, som Lotte lægger. Og husk jer der sidder derude, jeg må stadig gerne spille spørgsmål eller opfølgninger, hvis der ikke er noget der lige skal uddybes. Men Lotte spørger igen i den almene sektor. Har vi en klima øh klimarisikoscreening af vores bygninger? Kan disse grunddataer tænke sammen med jeres tilgang om kobling af handling i vedligeholdelsesplanerne? &gt;&gt; Jamen, jeg sidder og tænker på, altså spørgsmålet forstået sådan, at man har
+
+00:31:00
+allerede noget eksisterende materiale, og det om det kunne spille sammen med vores. &gt;&gt; Det er sådan jeg jeg hører det. Ja. At man laver en ø en klimarisikoscreening i forvejen af alle bygningerne i den almen sektor. Om det så kan lægges over i forhold til til jeres tilgang. Og Lotte, hvis jeg tager fejl, så må du lige lige skrive uddybende. &gt;&gt; Vi ø vi sidder i øjeblikket er ved at lægge sidste hånd på en løsning, hvor man kan tage alt det information, man har om en ejendom, og det kan være i form af PDF'er og tekster og alt muligt
+
+00:31:30
+andet og uploade det i offside, og så genererer den ud fra det en øh et datasæt på den enkelte ejendom, både i forhold til drift og vedligehold, men også i forhold til klima. Og det vil fordi der er mange data, og det ligger nogle gange i døde PDF-dokkumenter, og det kan være svært at overskue. Så øh så der kommer en løsning lige om lidt. &gt;&gt; Super. Øh, så er der kommet her fra Mads. Hvilke datakilder bruger I forhold til farekortlægning for eksempel for
+
+00:32:00
+havvand? &gt;&gt; Øhm, altså vi bruger, vi bruger for det meste grunddata, så alt det der ligger i grunddata fra Klimadastyrelsen, DMI og så videre. Og så bruger vi datafordeleren. Så alt det man kan få ind igennem datafordeleren, det bruger vi. Vi har ikke nogen private datas lige nu. Øhm, det er noget vi vi kigger ind i og gør det muligt, hvis man arbejder med noget andet. Så det er lige nu det vi bruger på tværs af af de forskellige eksponeringer &gt;&gt; og bruger DMI også jo. Øhm. Og arbejder
+
+00:32:30
+på, altså der findes forskellige private datasæt, både ja øh nationalt, men også internationalt. Og dem øh dem magter vi at tilkoble, fordi det mødekommer også vores kunders ønsker, at man kan switche mellem forskellige data sæt alt efter hvor man er henne i verden. &gt;&gt; Super. Lotte kommer lige med en opfølgning af det gisdata, som de bruger. &gt;&gt; Mm. Ja, &gt;&gt; det det mener jeg. &gt;&gt; Det mener jeg. Jeg kan lige dobbelttack,
+
+00:33:00
+men det mener jeg. &gt;&gt; Ja. Øh, Trine spørger, så kan I give eksempler på, hvad vi får med i en rapport og tiltag, og på hvilket niveau det er. Og der tænker jeg på de konkrete løsningsmuligheder eller katalog. &gt;&gt; Skal jeg begynde så? Så kan du &gt;&gt; Ja. Øhm, så så i princippet man starter med den teoretiske øvelse, hvor man får dataen og kommer med en konklusion på dataen, og så går man over en sårbarhedsvurdering. Og sårbarhedsvurderingen den skær på bygningsdelniveau.
+
+00:33:30
+Øhm. Der læner vi os op af 20 punktskema, men der kan der kan man også komme med sit eget øh bygnings bygningsdele kort. Og bagved de bygningsdele, nu kommer det endelige svar, øhm ligger der nogle nogle opgaveforslag. Så på den måde hænger det sammen, at vi vi kan komme med nogle opgaveforslag, hvis man også har drift og værdigehold. Over tid kan vi komme med flere og flere opgaveforslag. Øhm, men ø men det er der, de kommer fra. Så enten kommer de fra driftsmodulen, fordi dem kan man
+
+00:34:00
+trække ind, eller så kommer de ligger de bagved bygningsøh bygningsdels øh registeret. Eller så kan man også oprette dem manuelt. Så det der er forskellige veje inde til de der forslag. Så hvis man har øh en et ekstern konsulanthus tilkoblet, så kan de også komme nogle, men man kan også trække dem direkte ind fra det, man allerede har prioriteret i driften. &gt;&gt; Og jeg kan måske supplere, når man man så har en en konkret opgave, så kan man øh supplere med yderligere data. Altså
+
+00:34:30
+vi har sådan en opgavestyring, hvor hver enkelt opgave på ejendommen den har sådan øh hvide muligheder for at tilføje data i form af billeder og tekster og og knohow øh og rettelseslog og så videre, så man kan følge opgaverne også i forhold til om det er en der er planlagt eller i gangværende eller udført og så med dokumentation på det udførte så man kan bruge det siden her. &gt;&gt; Der kan man også faktisk lægge serviceaftaler ind hvis det er en
+
+00:35:00
+gentagende opgave. Øhm og øhm øh og man kan også lægge prisen ind. &gt;&gt; Super. &gt;&gt; I må meget gerne skrive videre derude. Jeg kan se der er nogen af jer, der stadig skriver lidt. Ø jeg har lige et spørgsmål øh i forhold til øh I siger det der med at det jo fluktuerer i forhold til risikoen fra baseline nul. Og da I viste den, så viste den jo meget at den kun gik opad og risikoen blev større. håndterer den også, når man så har lavet løsninger i, at den rent
+
+00:35:30
+faktisk mindskes. Øh, og er det dynamisk, eller er det noget, man skal ind og gøre hver gang selv? &gt;&gt; Nej, det skulle jo gerne være sådan, så så man kan se sin ejendomsporteføljes udvikling, hvis man så laver tiltagende, så så bliver de bedre i forhold til til taksonomien. Det er sådan hele det der dashboard på porteføljeno, og det kan man så bryde ned på ejendomsniveau. Men noget af det som, og det er ikke releaset endnu, men det kommer ind længe, det øh, jeg ved ikke om det er en varm kartofel, men det er noget vi taler med nogen omkring ejendomsværdien. Altså
+
+00:36:00
+hvad er ejendomsværdien før og efter? Øh, og det er der nogen der har lyst til at at øh og visualisere. Det er der nogen, der ikke har lyst til. Men vi laver en løsning, hvor vi i hvert fald kan visualisere sådan den, hvis det er en private ejendom, den offentlige ejendomsværdi. Og øh og den kan man skjule, men man vil også kunne rette det sådan, så så ens egudsætninger for ejendomsværdien og så hermed også dens påvirkning af klima risiko og tiltag, det kan influere på på den her værdi.
+
+00:36:30
+Øh, og der hvor vi skal hen, og der er vi ikke endnu, men der hvor vi kommer hen med offside, det er jo at den sådan realtidsværdi på ejendommen eller hvis ikke jeg gør noget, så koster det mig det her i kroner og øre på på ejendomsværdien eller i skadespillet. Det er der vi arbejder os hen mod. Øh, og det er jo blandt andet i samarbejde med forsinkingsselskaber, altså hvor vi gerne via dem vil prøve at høre, hvordan er de her skadespilleder, hvordan influerer det øh set med forsinkelsmæssige briller.
+
+00:37:00
+&gt;&gt; Super. Så er der lige kommet lidt, jeg vil sige mere kommentarer end spørgsmål, måske lidt input også. Øh, det er Mads, der skriver tilbage i forhold til hans spørgsmål om farekortlægning for havvand. Øh, skriver han, ok, der ligger ikke farekortlægning for havvand i grunddataprogrammet, men højdemodeller kan naturligvis anvendes, men det kræver, at man får hændelserne eller hvad man ellers arbejder ud fra et andet sted fra. Men farekortlægning er kompliceret i sig selv. For eksempel om
+
+00:37:30
+man bruger statisk eller dynamiske modeller. Så det var lidt en et input kommentar til den del. &gt;&gt; Øh, og Trine har lidt øh lidt det samme, tror jeg. Mon ikke det er DMI klimaatlas I bruger. Og i givet fald skal man gøre nogle valg i forhold til hændelser og scenarier med videre. &gt;&gt; Yes. &gt;&gt; Det er det. &gt;&gt; Og det vælger man inde i opsite når man laver sin analyse. &gt;&gt; Ja. &gt;&gt; Så så vælger man øh &gt;&gt; RCP og alle de ting skal man vælge og
+
+00:38:00
+afskæringskriterier og så videre. Yes. Det skal man vælge under opsætning. Yes. Der kommer også en case i øvrigt, som vi laver sammen med med klimaatlas med det i i de næste par uger. &gt;&gt; Okay. &gt;&gt; Super. Det kan være, der kan komme en opfølgning på det sammen med med DMI, så på når den kommer frem. &gt;&gt; Yes. &gt;&gt; Øh, et spørgsmål. Hvad ser I som den største udfordring i forhold til at håndtere klimarisiko hos ejendomsejerne?
+
+00:38:30
+&gt;&gt; Ja, altså som jeg ser det, så er det nok sådan hele fundansen i offside. Altså det her med at gå for ambition til handling. Øh fordi de fleste kan godt se at der er en risiko at og kan arbejde med det. Og nogle store organisationer arbejder jo også med det. Men det med at få det ud i driften, altså ud i hænderne på dem, der er ude på på ejendommene, det ser vi som en en udfordring for for ejendomsejerne. Hvordan får man hele det der flow i gang? Og jeg tror egentlig, vi har den viden, der skal til. Øh, men
+
+00:39:00
+det er ligesom at få sat flowet i gang og og finde en proces, hvor det virker, fordi også med hus og have, vi kan nok godt klare det der hjemme sådan i i en streng, men hvis man har eksempelvis som Svendborg Kommune 30 ejendomme, man gerne vil arbejde med, så er det også noget med at holde et overblik og hvad skal prioriteres, hvor øh og en oversvømme i kælder, hvor hvor har den største påvirkning, hvis nu der er to af dem ø hvor hvad skal jeg prioritere her? Øh, så det ser vi det der med at gå fra ambition til handling. Processen i det der strømlinje, det er en udfordring for
+
+00:39:30
+de ejendomskunder, vi møder i hvert fald. &gt;&gt; Mm. &gt;&gt; Ja. &gt;&gt; Super. Der er ikke lige nogen spørgsmål, der er kommet ind, men jeg vil sige, hvis I har nogle spørgsmål her på falder, så øh så skal I være meget, meget velkommen til at ø at skrive dem. Og når det er sagt, så skal jeg også huske at ø dreje jeres blik mod DNNK's klimakalender, hvor at ø der er øh, hvad hedder det, mange kommende arrangementer. Øh, i morgen så har vi masterclass ø i forhold til
+
+00:40:00
+naturbaserede løsninger, og i eftermiddag så er der webinar i forhold til øh øh fra Fyn af, i forhold til Oland, i forhold til Fjorde. Så bare lige jeres opmærksomhed dertil. Øh, og så vil jeg så egentlig bare her til Anne og Søren, sige tusind tak for et godt oplæg, og også tak til jer, der sidder derude til alle jeres gode spørgsmål. Det har været en fornøjelse. Og inden for en uges tid, så kan I jo se eller gense eller dele oplægget, når det er lagt på vores hjemmeside. Så med det,
+
+00:40:30
+så vil jeg sige god onsdag til jer alle sammen derude, og tak til jer to. &gt;&gt; Tak.
