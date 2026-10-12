@@ -1,0 +1,371 @@
+=== DNNK Webinar Transskription ===
+Kategori: Oevrige
+Video ID: jSq_m5yb4mM
+URL: https://youtube.com/watch?v=jSq_m5yb4mM
+Kilde: YouTube auto-undertekster (svensk)
+Transskriberet: 2026-10-12T20:02:37.671734
+
+==================================================
+
+00:00:00
+Godmorgen og velkommen til godmorgen med DNK. Mit navn det er Cornelius Pals og jeg er ansat i sekretariatet i DNK. Og i dag så skal vi tale om eller vi skal høre om naturbaserede løsninger til kystbeskyttelse af lavliggende kyster et emne som høj aktuelt for danske kommuner og kystforvalter. Og så skulle håndtere stig havvandsstand og
+
+00:00:30
+flere stormfloder i de kommende årtier. Vores oplægsholder i dag det er Caroline Hallin fra Lunds tekniske højskole. H præsenterer erfaringer fra to store europæiske forskningsprojekter nok primært life capable hvor naturbaserede volle og sanddyner testes på falsterbonæset i Vellinge kommune. Og så kort lige nævne noget om Dunfront der komponinerer naturlige dyner og kunstige volde på 12 lokaliteter i syv europæiske lande.
+
+00:01:00
+Sproget i webinaret det er det er svensk da vi er i ørsundsregionen. Og vi regner med alle kan ligesom følge med på på det sprog. Jeg har dog talt med Caroline inde her og hun er med på hvis hvis der er nogen der ikke helt kan følge med på svensk så er i velkommen til at skrive i chatten. Og så så bryder jeg ind i webinaret og så så vil hun gerne skifte til engelsk hvis det er hvis det er en hjælp. Men som udgangspunkt så så kører vi det videre på på svensk og i kan også skrive jeres
+
+00:01:30
+spørgsmål og kommentarer i chatten. Og så vil jeg følge op på dem efter webinaret. Men ellers så så vil egentlig bare give ordet videre til dig Carolina og sige tusind tak for du stiller op og vil dele din viden. Tack så mycket. Tack så mycket för inbjudan och det är väldigt inspirerande att se att så många människor eh vill höra på ett föredrag om naturbaserade kustskydd redan 8.30 30 på morgonen. Eh, precis som Cornelius sa så skiftar jag
+
+00:02:00
+gärna till engelska om ni har svårt att förstå mig. Eh, så bara säg till så gör jag det. Och eh, jag har också blandat lite språk på slidesen så det är lite på svenska och lite på engelska. Tyvärr kan jag inte skifta till danska. Det skulle vara eh fördmjukande. Men jag ska fördmjukande för Danmark. Eh, så jag ska göra mitt bästa för att prata en tydlig svenska, men som sagt eh, jag kanske blandar lite med engelska och jag eh
+
+00:02:30
+byter gärna helt till engelska ifall ni har svårt att förstå mig. Ehm, okej, då kör vi. Ska vi se här. [harklar sig][host] Upplägget på dagens presentation är att jag ska prata ganska mycket om resultat från ett projekt som vi har i södra Sverige som heter Life Capable. Eh, där jobbar vi med både naturanpassade vallar eller diger som ni säger på danska eh, men även sandynner
+
+00:03:00
+eh som kustskydd. Eh, och sen kommer jag avsluta med att säga lite om Jyomfront projektet ifall vi har tid. Men jag har varit ganska ambitiös med mängden material för den här presentationen så vi får se om det om vi kommer så långt. Jag hoppas vi har tid för frågor också så jag ska eh avrunda i tid. Eh, lite kort om det här Life Capable projektet. Eh, det är ett sånt där life projekt som finansieras av EU. Eh, och jag det andra projektet som jag är involverad i ett
+
+00:03:30
+sånt där liveprojekt är ganska kul för att man jobbar väldigt nära mellan kommuner och forskare. Så i det här projektet har vi fyra partners där Vällinge kommun är den största eh partnern eftersom det är de som bygger den här vallen som vi eh som vi undersöker. Eh, och sen har vi även Delfs tekniska universitet från Nederländerna. Eh, oss på Lunds universitet och Lunds tekniska högskola och sen ett privat konsultföretag som gör ehm som undersöker vegetationen på
+
+00:04:00
+den här världen. Det är ett ganska långt projekt. Vi började redan 2023 och vi håller på till 2028. Så idag ska jag presentera lite eh lite resultat som vi har så här långt. Men det kommer komma ännu mer resultat så eventuellt kan jag komma tillbaka vid ett senare tillfälle med mer. eh resultat. Eh men hela målsättningen med det här projektet är att öka biodiversiteten i kurzzonen. Och det är ju så att det byggs mycket vallar men det är också så att man jobbar med att höja upp vallar. Och då är frågan,
+
+00:04:30
+kan vi kan vi när vi gör det göra det på ett sätt så att vi får mer biodiversitet, mer artrikedom, eh gynna naturen mer i kurzzonen. Och därför så testar vi att använda andra typer av vegetation på vallen än den här typiska gräsmattan som ofta är föreskrivet i olika policies. Eh, vi testar också hur vi kan använda sandynorna som ett skydd och hur vegetationen på sandynorna, hur den sköts kan gynna så många arter som möjligt. Ehm, ska ge en liten kontext. Eh, så
+
+00:05:00
+projektet är här på eh i sydvästra eh spetsen av eh, Sverige, så nästan i Danmark, i det gamla Danmark i alla fall. Eh, och det är den här kommunen som har den här utstickande halven här, Falsterbohalvan. Eh, men eh det är ett ganska speciellt projekt i Sverige och det beror på att i Sverige så eh i Danmark har ni en
+
+00:05:30
+väldigt varierande kustlinje med många olika kusttyper. Eh, men i Sverige har vi faktiskt en ännu mer varierande kustlinje. Och en stor del av vår kust är hård kust så den består av berg. eh och olika mer steniga stränder. Vi har också en väldigt stor del av vår kust som ehm som är väldigt skyddad mot vågexponering eftersom vi har mycket skärgård, archipelagos utanför till exempel Stockholm, eh Göteborg och här
+
+00:06:00
+nere eh i Blekinge. En annan sak som skiljer Sverige från Danmark ganska mycket är att vi har en mycket högre landhöjning. Så vår postgal uplift är betydligt större. Här nere i södra Sverige där vi har vårt projekt så är den lite mindre än en millimeter. Men det är ändå så att land stiger med nästan en millimet per år. Eh, men här uppe norr om Stockholm på det som vi
+
+00:06:30
+kallar höga kusten i Sverige så är landhöjningen så mycket som 1 cm per år. Så land stiger fortfarande mycket snabbare än vad eh havsnivån gör. Och därför så är det primärt här i södra Sverige där vi har de här sandiga kusterna, låglänmta kustlandskapen och en liten landhöjning eh som vi har de största problemen och där vi behöver jobba mest aktivt med klimatanpassning.
+
+00:07:00
+Eh men det är också den kontexten som vi utför de här kurprojekten i. Eftersom vi till skillnad från Danmark har en inte samma historik av att jobba med kustskydd så har vi inte heller lagar och policy. Och därför har vi i det här projektet som Vällinge driver eh kunnat bygga en vall med en helt annan typ av vegetation än vad eh vad normalt olika såna här riktlinjer och standarder föreskriver.
+
+00:07:30
+Ehm, så vi vi är inte bundna vid olika policies utan i Sverige så testas varje kustskyddsprojekt i en domstols eh process och det finns egentligen ingen ingenting föreskrivet om vad det är för dimensionerande händelser man ska skydda sig mot eller hur den här eh det här projektet ska designas. Ehm och det är också så som jag sa att här nere i den här delen av Sverige, det är här vi har sandiga kuster och också
+
+00:08:00
+låglänt landskap. och Falsterbonäset är alldeles särskilt eh låglänt. Så stora delar av de bebyggda områdena här ute på den västligaste delen, de ligger eh under 3 m och är därför i riskzonen för att översvämmas i vid tillfälliga högvatten, så kallade eh stormfloder. Eh och stormfloder har eh två konsekvenser för den här typen av kustområden. direkta
+
+00:08:30
+konsekvenser. Det ena är att de ofta orsakar översvämning och det andra är att de ofta orsakar erosion av de här som vi kallar mjuka kusterna, sandiga, grusiga kusterna. Eh, så att helt enkelt kustlinjen rör sig inåt land och då riskerar man att få skador på bebyggelsen både till följd av översvämningar men också till följd av att ledningar, hus och annat som ligger för nära kusten kan eh ja trilla i vattnet och skadas.
+
+00:09:00
+Den här. Jag noterar att min eh mm animering inte funkar. Jag vet inte om det är en inställning. Ja. Ehm vi kör utan animering. Eh men det kan vara att vissa bilder kommer hamna över varandra. Eh, i alla fall den här falsterbohalven ehm den är ju som jag sa väldigt laglänt och eh det skedde en väldigt stor
+
+00:09:30
+översvämning här för mer än 150 år sedan. Eh, och jag tror att detta är en storm som ni i Danmark åtminstone ni som har eh kommer från kommuner som har kust mot Östersjön kanske har talas om eh den 13 november 1872. Ehm, i det tillfället så lades eh nästan hela den här västra delen av Falstebohalvön under vattnet. Eh, men vad som är
+
+00:10:00
+intressant att se är att på den tiden så hade eh hade man byggt bebyggelsen i de här högst belägna områdena på Hallön. Ehm, även om det blev väldigt stora översvämmade områden här så drabbade den här stormfloden Danmark och Tyskland eh betydligt hårdare. Så i Sverige så var de högsta vattennivåerna, vattennivåerna var som högst här på Falstbornäset med nästan 2v
+
+00:10:30
+en5 meter över normalvattenståndet. Eh, medans det på eh Gyllands eh Östkust och i Schlesvig Holstein så var eh vattennivån upp till tre o en halv eh meter över det normala. och på öarna eh söder om Köpenhamn, det här är säkert saker som ni redan känner till, där drunknade 99 personer till följd av de här landöversvämningarna och totalt i det här området så dog
+
+00:11:00
+nästan 300 människor var ungefär hälften drunknade som befann sig på land och ungefär hälften ute till havs. Och det skedde också enorma materiella skador. I Schlevig Holstein blev 15.000 personer hemlösa efter stormen. Så detta är en väldigt extrem stormflod som drabbade det här området. Och sen den här som i Sverige vi kallar i Sverige kallar vi den för Backafarfloden. Sen den inträffade 1872 så har det inte
+
+00:11:30
+inträffat någon händelse som har varit i närheten av att vara lika allvarlig som denna. Eh, och om man tittar på en vattenståndserie från Trav Myynde där den här stormen nåde upp till 3 o,5 meter över den normala så kan vi se man har mätt ända tillbaka till 1820-talet och vi kan se att den här backafloden, den här händelsen, den är nästan en meter högre än alla andra händelser som
+
+00:12:00
+har inträffat i det här området. Eh, och då kan man fråga sig varför det är så. Eh, och det beror egentligen på eh den här ehm högvattendynamiken i Östersjön som är väldigt speciell där det är flera olika faktorer som kan orsaka ett högt vattenstånd. Eh, och när de samverkar så kan man då få de här extrema vattenstånden. Eh, vi har ju i princip inget tidvatten i ehm Östersjön och det är för att Östersjön är för liten och den här
+
+00:12:30
+tidvattenvågen kan inte propagera in i bassängen. Däremot så kan vi få andra fluktuationer med ibland ännu längre varaktighet. En sån är att vi kan få sån här vindfyllning och då innebär att det strömmar in väldigt mycket vatten i Östersjön genom bälten och sundet. Eh, och om det är till exempel ihållande nordvästliga vindar så kan det göra att medelvattennivån i hela Östersjön stiger om en halv meter. Och sen kan det också
+
+00:13:00
+bildas som stående vågor i Östersjöbassängen. Eh, och eh som vi då kallar för vattenpendling här. Eh, om man har ett lågt lufttryck så gör också det att vattnet stiger. Högt lufttryck pressar ner vattenytan och sen ovanpå det kan man få en vinduppstuvning och det är att vinden liksom trycker upp vattnet in mot kusterna. Och den effekten är ofta störst inne i vikar ehm där vattnet liksom kanaliseras in mot kusten. Och
+
+00:13:30
+backafloden var så här extrem för att det var just den här samverkan mellan de här olika händelserna att vi hade ihållande nordvästliga vindar som drev in mycket vatten här genom eh bälten och sundet innan stormen och då hade man ett stort ehm lågtryck här över Sverige och då har man motsolvindar runt de här lågtrycken. Men sen så rörde det lågtrycket sig vidare och vi fick ett högtryck här över Bottenviken och ett
+
+00:14:00
+lågtryck över centrala Europa och då uppstod den här stående vågen så allt vatten som hade tryckt in i Östersjön och även tryggt mot de här eh östra kustarna i Östersjön kom tillbaka till de västra kusterna eh samtidigt som ett lågtryck gjorde att vattnet steg ytterligare. Och då när Backarfloden sen inträffade eh den 13 november, natten till den 13 november, så blev det orkanvindar i det här området som gjorde att det blev en vinduppstuvning här på ehm på över eh över metern eh som la
+
+00:14:30
+till ytterligare på den här redan högre vattennivån. &gt;&gt; [suckar] &gt;&gt; Ehm, men problemet är inte bara att att vi fortfarande befinner oss i det här området eh där den här typen av händelser kan inträffa i princip när som helst. Problemet är att vi också har byggt en massa hus i de här områdena. Så nere på det här falstebonäset, så här såg det ut på den högra bilden när backafloden inträffade, då blev det i
+
+00:15:00
+princip inga skador på bebyggelsen för att man hade byggt alla husen i terrängens höjdpunkter. [drar efter andan] Dessutom hade man faktiskt ballar dig på den tiden som var 165 cm höga som skyddade bebyggelsen. Eh, men sen så var det som att man glömde bort den här överstämningsrisken och byggde ut tusentals hus i de här lågt belägna områdena. Och så skulle den här backarfloden inträffa igen så skulle tusentals hus
+
+00:15:30
+bli översämmade. Och det skulle också vara väldigt stor fara för människors liv på grund av att den här enda vägen ut till den här halvan skulle överstämmas. Eh, men problemet är att det är inte bara så att backafloden kan hända igen. Eh, det är också så att sannolikheten för att den kommer att hända ökar eftersom vi observerar en stigning av havsnivåerna globalt. Eh, och det beror på den globala
+
+00:16:00
+uppvärmningen att när vi släpper ut växthusgaser så blir atmosfären varmare och då smälter glasiärer och landisar så att det kommer mer vatten ut i haven. Eh, men det är också så att när vattnet blir varmare så tar det mer plats. Det kallas för termisk expansion. Eh, och allt detta bidrar till att när vi ser att det har blivit varmare i atmosfären så har vi också sett att havet stiger allt snabbare.
+
+00:16:30
+Eh, så sedan 1900 fram till 2018 så steg vattnet med ungefär 2 dm eh om man tittar på det globala genomsnittet. Och det globala genomsnittet är också eh ganska representativt för Östersjön. Eh, men den här ökningen har liksom inte varit konstant utan den accelererar. Så vi ser att fram till 70-talet så steg vattennivån med 1,3 mm per år. Eh, men sen ökade
+
+00:17:00
+den. Och den sista perioden här 2006 till 2018 så har vattenståndsökningen observerats till 3,7 mm per år. Eh, och detta är baserat på IPCC:s senaste rapport. Eh, men sen dess så har vi ytterligare en ny data och om man tittar på den senaste decenniet, den senaste 10årsperioden, så har FN:s världsmetorologiska organisation observerat en ökning på
+
+00:17:30
+nästan en halv cm. Så den här accelerationen tilltar och vi ser eh kraftigt stigande havsnivåer i eh globalt. Och den ökningen vi observerar är vi tror att den kommer att fortsätta in i framtiden. Och eh det är ett ganska brett spann av olika eh prognoser. Ni har säkert sett den här figuren innan hur man tror att havsnivån kommer att stiga fram till
+
+00:18:00
+2100. Eh det har länge varit i de här rapporterna ett ganska brett spann och jag och många av mig har trott att det skulle minska. ju mer kunskap vi samlar. Men tvärtom så har osäkerheterna snarare ökat och vi ser den här ehm att man har lagt till till och med eh scenarier där man kan vänta sig ännu kraftigare ökningar än vad man tidigare trodde. Men summa som
+
+00:18:30
+är det eh en väldigt stor osäkerhet kring hur snabbt havet kommer att stiga. Och det är också någonting som talar för att vi ska jobba med mer naturbaserade, mer dynamiska skydd som är lättare att anpassa för stigande havsnivåer. Om vi bygger hårda konstruktioner som ska designas för ett specifikt scenarie så är det oftast svårare att eh att anpassa dem när eh havet fortsätter stiga eller när prognoser ändras.
+
+00:19:00
+Ehm, så för att både liksom hantera eh dagens eh överstämningsrisk men också att eh ta höjd för framtida utveckling så har Väinga kommun då bestämt sig för att bygga ett översömningsskydd och de har bestämt sig för att bygga ett naturanpassat översömningsskydd. Så alla de här röda linjerna här som
+
+00:19:30
+omgärdar eh bebyggelsen, det är den där man kommer ha ett ett skydd, ett yttre skydd mot höga vattenstånd. Och det är olika lösningar. Det har varit en otroligt komplicerad process för kommunen att designa det översämningsskyddet. Och det beror på att hela det här området är Natura 2000 eller stora delar är Natura 2000. Där finns många olika typer av naturskydd, naturreservat. Det
+
+00:20:00
+är också väldigt eh rika kulturmiljöer eh med fornlämningar och liknande. Så därför så har man längs vissa sträckor kan man bygga en vall, men längs andra sträckor så har man varit tvungna att gå in med en mur för att man har inte kunnat bygga i vissa områden. Eh, och på vissa ställen här där det redan finns stränder och sandynor så kommer man använda sandynorna som ett kustskydd. Eh, och den här vallen då kommer att
+
+00:20:30
+byggas eh 3 m över dagens eh ja, 3 m. Nu står det 3 m relativ min se level, men det är faktiskt i vårt höjdsystem så det är lite lägre än eh än så. Eh, men det som är speciellt är att man då har bestämt sig för att försöka få den här vallen att passa in eh så bra som möjligt i eh den befintliga miljön. Och därför istället för att använda en sån här typisk gräsfröblandning som man ofta gör ehm så
+
+00:21:00
+har man bestämt sig för att ta den befintliga vegetationen där man bygger vallen och sen lägga tillbaka den uppe på vallen och låta den självetableras. Ehm och om man ska kategorisera den här lösningen som en inom ramen för olika klimatanpassningsstrategier så kan man säga att det är liksom en blandning av det här klassiska hårda skyddet och en naturbaserad anpassning. Så de här vallarna eller de här dynorna
+
+00:21:30
+man använder, det är en skulle jag säga en en helt naturbaserad lösning. Men den här eh vallen där man lägger liksom något eh mer eh arrikt uppe på, det är mer som ett klassiskt hårtskydd fast med en grönare yta. Och eh då brukar man eh prata om eh de är lite konstiga i den här bilden ser jag eh om att de här naturbaserade lösningarna eh de är inte bara liksom hårda gråa eh konstruktioner eller gröna
+
+00:22:00
+naturbaserade lösningar utan det finns många lösningar där emellan där man liksom blandar. Så man kan säga att vallen i sig är en hård konstruktion eller en grå konstruktion som man ser här. Och sen så lägger man då på ett grönt yta så att det är liksom en en hybridlösning kan man säga. Ehm, de här sträckorna anlägger man eh med det här eh gröna skyddet. Och här ser vi ett exempel när man precis har byggt
+
+00:22:30
+vallen och i princip bara lagt tillbaka jorden uppe på för att sen eh växligheten ska etablera sig. Och i de här områdena så kommer vi göra vissa dynförstärkningar där vi även kommer plantera eh sand. Eh men vår roll i det här projektet det är inte att bygga det. Det är kommunen som gör det. utan vår roll är att försöka utvärdera ifall de här lösningarna fungerar, ifall de bidrar till ökad biodiversitet och ifall de
+
+00:23:00
+faktiskt ger en tillräcklig eh stabilitet av valsläntorna för att ehm erbjuda den skyddsnivån som man vill eh uppnå. Och vi gör det både genom att att göra eh inventeringar av växter eh och eh andra arter, djur. Eh men vi gör det också genom olika fysiska tester både i labbet och ute i fält med såna här eh fullskaliga fysiska experiment där vi
+
+00:23:30
+simulerar vågpåverkan på eh vallen. Eh väldigt kort om vad det är vi undersöker vi tittar på. ehm insekter, artropods, växter, amfibier eh omkring vallen. Och sen tittar vi på vad vallen har för eh effekt på förekomsten av de här arterna. Eh men de fysiska testerna de är lite mer eh vad ska vi säga intressiva
+
+00:24:00
+eftersom de förstör vallen när vi testar. Så för det enda måålet så har vi istället byggt en testvall. Eh, och det gjorde vi redan i oktober 2022. Och eh, det är en fullskalig modell av den vallen som vi bygger. Eh, och vi byggde den faktiskt innan kommunen började bygga den riktiga vallen. Och det är någonting som jag kan rekommendera till kommuner som ehm som ska börja eh bygga någon form av
+
+00:24:30
+kustskydd. Eh, om man ska göra det i större skala så är det bra att testa eh i mindre skala först. För man får både erfarenheter av eh byggprocessen eh men man får också erfaren man kan också testa vallen så att den verkligen eh fungerar i verkligheten. Eh det har också varit en kommunikationsinsats i mellan kommunen och invånarna. Eh, det är ganska svårt att kommunicera
+
+00:25:00
+eh den här typen av projekt eh genom ritningar eh till allmänheten. Eh, så att jag tror att det har avdramatiserat lite grann vallbygget när människor har kunnat åka dit och se hur vallen faktiskt eh kommer att se ut i verkligheten. Och de har även intill den här vallen byggt en en besöksplats som en lekplats för barn för att locka fler besökare och vänt sig ut till skolorna med information. Ehm vår eh den här prototypvallen som vi
+
+00:25:30
+har andlagt ehm den är ungefär 40 m lång så den har eh fyra såna här olika sektioner som är 10 met långa var och eh den har eh som som den riktiga vallen en en kärna av eh av en lemoren från det här området. Och sen så utanpå det så ligger en impermeabel lerkappa.
+
+00:26:00
+Och utanpå det så har man lagt på en toppjord som är ganska närings eh fattig. Eh men på halva vallen, den delen som vätter på det här hållet, så har man lagt på eh den jorden som fanns under vallen från början. Så vi har delat in den då i åtta olika zoner där vi både har testat en näringsrik
+
+00:26:30
+jord på denna sidan och en näringsfattig jord på denna sidan, men också undersökt olika typer av eh plantering. Så i den här zonen så provade vi att ta ehm hö från omkringliggande betesmarker och lägga ut på vallen för att se vad som etablerade sig. Eh vi har använt en fröblandning som vi har köpt på den här eh sektionen och här har vi då den ehm
+
+00:27:00
+den konventionella gräsfröblandningen som man brukar använda på valla. Eh, och sen har vi då gjort olika test. Men det som vi är eh ute efter att testa det är egentligen hur väl den här eh vegetationstecket kan klara att motstå de olika failure mekanism som finns för vallar. Och där vegetationen har en stor betydelse.
+
+00:27:30
+Det är till exempel för överspolning. Overtopping. När vattennivån blir väldigt hög på utsidan av vallen och vatten börjar skölja över, då kan man få erosion och då är det viktigt att vegetationen kan armera vallens yta så att inte det släpper jord och det börjar bildas eh rännilar. Och på samma sätt på havsidan så kan man ha vågor som bryter på vallen och då behöver man också ha en
+
+00:28:00
+vegetation som skyddar den underliggande jorden. Sen kan det också ha viss betydelse för sån här piping som innebär att man får en inre erosion av vallen. Till exempel om man har eh djurgångar i vallen så kan det komma in vatten eh och så kan det liksom bli som en strömning genom vallen som sköljer ur material. Här är ett exempel på en sån här ursköljning av material från en vall. Eh, och det kan underminera eh vallen.
+
+00:28:30
+Ehm, jag ska visa några preliminära resultat eh från den här prototypvallen. Det ena är att vi ville se vilken av de här olika vegetationstyperna som eh som hade det högsta biodiversitetsvärdet. Så på y-axlen här så är det något som heter Channon age index som är ett mått på hur mycket biodiversitet man har på vallen och om det är högre så är det mer
+
+00:29:00
+biodiversitet. Och här är då de olika eh provytorna. Det vi kan säga är att det är ingen jättestor skillnad med mellan de olika växtyperna, men att det blev ganska stor skillnad mellan de olika jordtyperna som vi använde. Så vi såg att på den här eh delen där vi hade en lite mer näringsrik jord så hade vi en högre biodiversitet i de här första testerna.
+
+00:29:30
+Sen tittade vi också på vad som finns under marken. För eh växarnas rötter har en väldigt viktig funktion i att binda jorden. Och det man vill ha det är att man vill ha många fina rötter som håller samman jorden. Och man vill också ha dem på ett ganska stort djup. Så här ser vi att vi har tagit prover ner i marken och sen så har vi undersökt biomassan av rötterna på olika djup. Och
+
+00:30:00
+de här ehm eh röda då det är de djupaste rötterna. Där ser vi att vi har betydligt färre rötter än vad vi har på de mer grunda. Den här blåa till exempel representerar bara de översta 5 cmna. Eh, generellt sett kan vi säga att det var betydligt större biomassa på den här delen av vallen där vi hade den mer näringsrika jorden och där ehm
+
+00:30:30
+där vi även hade en högre biodiversitet. Men detta är preliminär resultat så vi kommer göra om den här analysen nu i höst när vallen har funnits i fyra år. Så det här var efter två år och nu kommer vi göra en ny undersökning efter fyra år och så ska vi se ifall det har förändrat sig det resultatet. Eh, för att testa motståndskraften av vallen, hur väl den kan stå emot erion från vågor så gjorde vi ett test i
+
+00:31:00
+lite mindre skala som vi kallar för ett wave impact test. Och det går i princip ut på att man släpper vatten på vallen med en sån här eh splash simulator. Och sen efter då ett antal släpp så mäter man erosionsdjupet där den här
+
+00:31:30
+mängden vatten landar. Eh, och preliminära resultat från detta är att det här är då erosionsdjupet på y-axlen och det här är då den eh ackumulerade lasten på eh vallen. Eh, och i den vänstra plotten här så har vi den här lite mer den här sidan av vallen som hade lite högre densitet av rötter och lite mer biodiversitet. Och där kan
+
+00:32:00
+vi se att för samma liksom tryck på vallen från den här vågpåverkan så blevosionsdjupet generellt mindre än vad det blev på den sidan som hade eh färre rötter och lägre biodiversitet. En annan intressant eh sak att se i det här när figuren är den här sträckade rosa linjen som avviker från de andra. Eh, och det var faktiskt för att vi i
+
+00:32:30
+det försöket eh träffade rakt på en djurgång. Så det visar också hur viktigt det är att man har eh övervakning av sin vall och säkerställer att det inte finns djurgångar som eh under marken för då blir vallen väldigt sårbar för sån här vågpåverkan. Eh, men detta är då ett test av hur vågorna på utsidan av vallen eh påverkar och hur vegetationen kan motstå den
+
+00:33:00
+kraften. Eh, den andra faktorn är att titta på hur vegetationen kan motstå erion till följd av den här översköljningen av vallen. Så då kan man titta på vad vallens insida och och topp ska kunna stå emot. Och där finns det europeiska riktlinjer för vilka flöden av överspolning som en vall eh kan tåla beroende på vad den har för ska man säga beläggning uppe på.
+
+00:33:30
+Eh, och det som man ser då är att om man har ett om man har en vall som är täckt med gräs, en sån här typisk gräsfröblandning som är väldigt väl underhållen och man inte har några gångar så kan en sån här vall stå emot ungefär 5 liter per sekunder per meter av sån här vågeöverspolning. Men i den här manualen då så står det att om det är så att man har
+
+00:34:00
+eh om man har öppna eh eh vad ska man säga eh områden med ott vegetation där det liksom är jord som är bar eh om man har mossor om man liksom eh på olika sätt inte har ett tätt vegetationstäcke, då kan den i princip inte tåla någon överspolning alls bara 0,1 l per seund per meter. Och detta är jätteviktigt för det är överspolningen som man dimensionerar vallhöjden efter.
+
+00:34:30
+Så om man om man bygger en vall och man har ett dimensionerande scenario så kan man titta på hur hög behöver vallen vara för att man den inte ska eh för att den ska kunna motstå den här erosionen från överspolningen. Och ju högre du bygger vallen desto mindre erosion får du eller desto mindre överspolning får du desto mindre erosion. Och visade sig då att de här naturbaserade lösningarna inte kan stå emot överspoling, då får man bygga betydligt högre vallar om man vill ha den här typen av av eh
+
+00:35:00
+biodiversa vegetationstecken. Eh, så för att testa även överspolning så hade vi ett par studenter i våras som gjorde ett eh vad jag skulle kalla småskaligt överspnings experiment. Eh, det finns en sån här wave overtopping simulator, men den är gigantisk och kostar kanske en miljon att eh om vi skulle ta den till Sverige och göra ett riktigt test. Så vi hade två driftiga studenter som byggde sin egen eh överspolningssimulator
+
+00:35:30
+i lite mindre skala. Därför kunde vi också bara testa ganska små flöden på Vall. Eh, men vi kunde ändå se att om man inte har någon vegetation på vallen så blir det ganska stor eh erion även vid mindre eh även vid mindre flöden. Eh, vi kunde se att det materialet som vi hade byggt vår vall av som är en moränlera
+
+00:36:00
+eh där fanns stenar som hade en viss armerande effekt. Så när det fina materialet sköldes bort så la stenarna kvar och skyddade jorden under. Men vid högre flöden så uppstod det också situationer där där till exempel flödet blir så högt så att stenar börjar släppa. Vi ser här att en sten rullar ner. Så den här armerande effekten den är bara tillfällig. Och under ett sånt här överspolningsförlopp så kan även de här stenarna så småningom
+
+00:36:30
+lossna när materialet runt om har sköts bort. Eh, så även om vi hade ganska liten skala på det här eh experimentet så kan vi dra eh några eh slutsatser. Eh, på den första bilden här så ser vi erosionen på y-axlen, hur mycket som eroderade vid de olika eh flödena. Och vi ser att om vi hade en flackare
+
+00:37:00
+lutning på vallen så var det ganska låg erion. Om vi hade en lutning på ett till fem så eroderade ganska lite den här bruna linjen. Om vi hade en lite brantare lutning, ett till tre, vilket är en ganska normal lutning på en vall, så blevosionen något större. När studenterna gjorde försök på eh sand som faktiskt den här vallen i Falsterbo till viss del har som sitt yttre lager, då sköldes sanden bort eh jättesnabbt
+
+00:37:30
+och kunde i princip inte motstå någon påverkan alls. Och när de testade på den gräsbevuxna ytan där det var en tät gräsmatta, då skedde ingen arration överhuvudtaget. Den här lilla höjningen här är egentligen eh troligtvis ingen narration utan det är bara att gräset har lagt sig ner med mellan de olika scanningarna av eh nivån där de gjorde testet. Så några slutsatser som vi kunde dra från det försöket var att sand är
+
+00:38:00
+väldigt sårbart och tå i princip ingen överspolning. kanske inte så överraskande. Vi såg att det fanns en armerande förmåga hos lärmoren och vi såg också att med det här lilla experimentet så så kunde vi inte generera tillräckligt stora flöden för att skapa ett vallbrott. Eh, men om man har ett tätt vegetationstecke så är det tydligt att det minskar erosionen väldigt mycket. Och om man verkligen vill bestämma det
+
+00:38:30
+här kritiska flödet som ens vegetation eh och ens vall kan motstå så behöver man ta hit en sån här eh fullskalig eh maskin för att göra testet. Eh och det är väl också vad vi har planer på att göra nu. Så lite kort om hur vi fortsätter med forskningen på vallen i det här projektet. Säg att vi eh vi kommer i oktober och november nu i höst att ta hit en sån här wave impact
+
+00:39:00
+generator från eh Nederländerna och göra fullskaliga test av vågpåverkan på vallen för att se vad vegetationen kan motstå. Ehm, nu har jag pratat ganska länge. Eh, jag tänker att jag säger någonting om våra sandyn också och sen så kanske det eh kan vi ta frågor efter det. Eh, på de här delarna av Falstbor Halvön där vi har eh sandstränder där kommer det inte
+
+00:39:30
+byggas någon vall utan där är tanken att det är eh sandinorna, stränderna som ska skydda mot översömning. Och hur funkar då sandyn som översningsskydd? Eh, de skyddar mot den här eh transporten av sand in och utifrån kusten som vi ofta observerar i samband med storma. Så när man får ett högvatten så höjs vattennivån och sanden försvinner härifrån sandynarna. Man får såna här
+
+00:40:00
+erosionsbranter. Men sen efter några dagar så eh inte efter några dagar utan efter några veckor och månader så brukar den här sanden kunna komma tillbaka så att vågorna transporterar upp sanden på stranden igen och sen så blåser vinden upp dem i sandynarna och så repareras dem. Problemet är att stormarna de går väldigt snabbt och är också väldigt svåra att förutsä när de händer. Medans den här processen har jag skrivit att
+
+00:40:30
+det tar veckor till månader men det tar ofta ännu längre tid. Det kan ta flera år för dynor att återhämta sig och det är inte heller alltid så att de återhämtar sig. Vi har sett på flera ställen att dynorna inte kan komma tillbaka till sin ursprungliga storlek. Eh, och det beror ofta på att man har någon form av ehm underskott i sin sedimentbudget. Att man har en sån här kronisk erion som gör att sanden långsamt försvinner ifrån stranden. Och
+
+00:41:00
+det kan bero både på en obalans i den här kustparallella sedimenttransporten, men det kan också bero på havsnivåhöjningen som kommer medföra att stränder behöver röra sig inåt land för att kompensera eh för den stigande havsnivån. Ehm, lite kort om vad vi gör i projektet. Eh, kopplat till det är att vi eh se så är att vi är ute och mäter
+
+00:41:30
+regelbundet i det här området. Så vi samlar eh data både med eh en sån här eh drönare med en lidar och eh vi mäter eh eh i transektor med en sån här handhållen RTK GPS och eh vi mäter även med en sån här drönarbåt ute i vattnet och på så sätt så får vi kan vi mäta hur sanden rör sig i området. Och vi hade tur att i början
+
+00:42:00
+av det här projektet så inträffade den här stora stormen eh stormen bar bet i oktober 2023 och precis som i eh blir lite Jaha okej. Ehm och det var ju en ganska extrem händelse. Den drabbade Danmark betydligt hårdare än Sverige. Men vi kan se att det var en kombination av väldigt höga vattenstånd i kombination med väldigt höga vågor som är ganska ovanligt i det här området.
+
+00:42:30
+Eh, och inom vårt studieområde så ledde det till att de här dynorna backade ungefär 1015 m. Och det som vi nu intresserar oss för är att se ifall vi kan mäta hur snabbt den här sanden kommer tillbaka igen. Eh, och vi ser att den kommer tillbaka. Så så här så det ut efter stormen och vi ser hur vinden håller på att bygga nya sandynor eh med tiden i det här området. Ehm och det är inte bara så att att
+
+00:43:00
+sanningen kommer tillbaka, det är också så att dynorna till viss del ändrar form. Så om vi tittar på Ja, det blev lite Så här såg det ut innan stormen. Vi såg att dynorna hade växt till och sen så skedde den här kraftigaen av dynen under stormen barb beten la sig här ute på stranden och i vattnet. Men sen så ser vi successivt med tiden att den återvänder och lägger sig i dynorna igen.
+
+00:43:30
+Problemet är bara att den gör inte det överallt. Så när vi tittar på hur dynar har återhämtat sig så ser vi att det här är den volymen som har försvunnit och detta är då olika transs med den här stranden. Men två och ett halvt år efter stormen när vi utvärderar våra mätningar så ser vi att det är bara hälften av sanden som har kommit tillbaka till dynorna och det är väldigt stor variation. Så i vissa profiler så har det till och med kommit tillbaka mer
+
+00:44:00
+sand än vad som fanns där förestormen. Medans det i andra eh bara kommer tillbaka så lite som 12 % av det som försvann. Så det är en del av vår forskning nu att vi försöker förstå varför det är så olika eh återuppbyggnad inom det här området. Och sen så nu i höst så ska vi inleda ett experiment där vi på vissa platser ska plantera vegetation och se ifall vi kan stimulera den här återuppbyggnaden och sen då mäta också
+
+00:44:30
+hur det påverkar biodiversiteten. Eh men jag tror att jag eh avbryter min presentation och tar frågor nu så att vi hinner med eh det också. &gt;&gt; Tack. Eh tusen tack. Det er, det er meget interessant, at der er også flere kommentarer på, at det er spændende. Øh, og jeg kan også se, du er cirka halvvejs i i slideshowet, så jeg tænker, der er der er sikkert noget mere info et eller andet sted, som man kunne som man måske kunne gå ind og kigge på. Øhm, og vi aftalte jo også, jeg kunne lige dele din
+
+00:45:00
+din mailadresse, emailadresse i chatten, hvis det nu var, at man havde brug for grav så længere ind i det, ikke? Øhm, men første første spørgsmål øhm det er at det er måske tilbage til de der tre forsøg du har med med vand som løber ned ved umiddelbart gætte på og der blev spurgt om der det er måske lidt svært at forstå hvad eller der blev spurgt til hvad er det der underminerer B1 forsøg B1 eh der gjorde den særligt
+
+00:45:30
+sårbar? Eh ja eh det är alltså att det var en djurgång. Jag kan gå tillbaka till den sliden om jag förstår frågan rätt i det här försöket. &gt;&gt; Jag tror nästan det var de där med tre eh de där de studie med hjälperne. Nej det är precis det där får jag vide där. Ja. Eh, det som undrar mig när det B1 det var alltså eh animal burrowers, så
+
+00:46:00
+djurgångar, en mullvad, mole eller en det kan vara kaniner, rävar. Eh, det finns många olika djur som tycker om att eh gräva håll i marken. Det man ser är att eh det bästa skyddet mot såna här djurhål i vallar, det är egentligen att ha en väldigt tjock lerkappa. för det tycker de inte om att gräva i. Men har man ett material med mycket sand som är lite lösare så är det väldigt lätt att man får djurgångar.
+
+00:46:30
+Så det som hände här var att när vi släppte det här vattnet så släppte vi det på en plats där vi inte visste att det fanns en sån här djurgång under och då blev det väldigt stora. Så det visar på betydelsen av att av att undersöka vallen och det finns många olika metoder för att göra det också. &gt;&gt; Så ehm nästa spörsmål. Har I haft øh har der været drøftelser i et større tidsrum om hvorvidt der skal investeres för att beskytte Halløen och hvor længe eh fremför att tillbeträk sig för området?
+
+00:47:00
+&gt;&gt; Ja, det är en bra eh fråga. Det det kan man ju då eh om jag skiftar bild till den här så finns det olika strategier eh när man behöver klimatanpassat område. I fallet av fasterbäset så är det primärt ehm översvämning som är problem för bebyggelsen. Och det är ju absolut så att att det har höjts röster om att man istället skulle
+
+00:47:30
+liksom överge och flytta ifrån den här platsen. Eh, det finns ju nackdelar med att skydda och det är att att risken försvinner ju inte utan när man bygger en vall så kan ju ibland till och med riskerna öka för att man kan få ett mer dramatiskt förlopp i händelse av ett vallbrott. Eh, och det är absolut aktuellt på denna platsen att man behöver komplettera den här åtgärden med evakuering. För den vallen man bygger vill jag också säga att den skyddar inte
+
+00:48:00
+mot backafloden. Den den skyddar mot lägre högvatten. Så det kan fortfarande hända eh det kan fortfarande komma en stormflod som skulle ta sönder den här vallen eller översvämma området bakom. Det har varit sådana diskussioner men jag vill säga att den investeringen man gör i den här vallen den är väldigt väldigt liten i förhållande till värdet av den bebyggelsen som man skyddar. Så på den här platsen så skyddar man världen för flera miljarder men man investerar kanske något hundratals miljoner. Så att i det här fallet så var det inte någon det var en lätt ekonomisk
+
+00:48:30
+kalkyl att bestämma sig för att skydda kan man säga. Eh, men på andra platser där det ligger färre hus så är det ju ibland inte och jag vill också säga att alla är inte innanför vallen. Det finns vissa hus här som har hamnat utanför vallen på grund av den anledningen att det skulle bli för dyrt att bygga vallen runt även de. &gt;&gt; Och alltså i förhåll till ekonomin, vem vem är det så det betalar för för väa? Detta är något av ett pionärprojekt i Sverige eftersom detta är den första storskaliga invallrningen som görs. Eh,
+
+00:49:00
+vi har ju också ett problem att ansvarsfrågan för skydd mot kustöversvämningar är inte utredde. Det är inte tydligt vem som har ansvar. Eh, och egentligen så är det fastighetsägaren som har ansvar men varje enskild fastighetsägare i det här området kan ju inte skydda sig själv. Så kommunen har i det här fallet gått in och sagt att vi gör detta. Så primärt byggs vallen med skattepengar. Kommunen är ägare av projektet men de har beviljats bidrag både från EU för
+
+00:49:30
+det här projektet men även från eh den svenska myndigheten för eh civilt försvar. Så de har fått jag kan inte det på rakar men det är minst hälften av vallen har i alla fall kommit som statliga bidrag. &gt;&gt; Mm. Och hvordan hvordan har I arbej med inddragelse lokalbefolkningen? Du näm du nämnde lite om det men har det varit &gt;&gt; m det har ju varit en en domstolsprocess eh i svenska mark och miljödomstolen
+
+00:50:00
+och då är det väldigt viktigt att ehm då är det väldigt viktigt att man man har samråd man når ut till alla berörda. Så inom ramen för den processen så har det skett mycket information och insamling av synpunkter från allmänheten. Men det har ju kommunen skött. Inom ramen för vårt projekt eh så är det framförallt den här lekplatsen som vi har byggt och detta är även kommunikation eh riktad till skolbarn
+
+00:50:30
+till exempel. Vi har gjort utbildningsfilmer för barn som handlar om eh överstämningar eh och högvatten. Eh och eh vi kommer ha eh göra studiebesök men då fokuserar vi mer på vår forskning och kanske inte så mycket på vallen eh som skydd i sig. &gt;&gt; Mm. Så er der spørgsmål til till til selve vegetationen. Og har I afprøvet nogle nogle tørkeresistent vegetation på testierne i forhold til at længere tørre
+
+00:51:00
+tørke perioder och ændr klimaforhold? Det är en bra fråga. Eh, det är ju en av en av anledningarna till att man vill göra de här försöken med naturbaserad eh vegetation, vilket också görs på stor skala i Europa. Det är att man har sett att de här konventionella gräsfröblandningarna, de här klippta, väldigt kort klippta eller betade gräsmattorna som man har på vallarna, att de är känsliga för torka. Och det kan till och med bli så att
+
+00:51:30
+själva jorden blir så torr att man får sprickbildning i vallen. Eh, och då tror man att om man har en mer eh divers vegetation så har man också varierande rotdjup och man kan också ha mer torkristenta arter. Så jag skulle säga att vi har inte vi har inte vi i och med att vi har en eh att vi bygger vallen med en form av självsådd, att vi försöker få den naturliga vegetationen att återetablera
+
+00:52:00
+sig, så kan man ju tänka sig att den liksom är anpassad till klimatet på platsen. Men vi har inte specifikt eh experimenterat med mer torkresistenta arter, men vi tror vår hypotes är att den här typen av vegetation som klipps mer sällan och som har större diversitet av växter ska kunna vara mer takresistent. &gt;&gt; Mm. Så er spørgsmålet om du nævner det her område at der er ret meget natur 2000 også som jeg kender det så er det jo
+
+00:52:30
+også det er lidt unikt måske i forhold til til det men har I har I planlagt indgreb indenfor Natur 2000 og eller undgår I helt natur 2000 og hvad har I ja vil hvilke indgreb og hvilke &gt;&gt; eh vilka naturhensyn Ja &gt;&gt; ja jag tror att man har lyckats undgå det. Jag är inte helt säker för jag har inte varit involverad i liksom projekteringen av vallen. Eh, men det är också där där
+
+00:53:00
+det kanske i mitt tycke har blivit lite suboptimala ingenjörslösningar. att man till exempel har byggt liksom murar längs vissa delar för att man inte har fått lov att gå in med vallen i ett naturområde eh eller ett kultur ehhistoriskt område. Och de här murarna de eh är jag ganska negativ till för jag tror inte att det är en flexibel klimatanpassningsåtgärd som man kommer eh kunna anpassa till framtida stigande havsnivåer. En vall
+
+00:53:30
+kan man alltid höja upp. Man kan också jobba med det som finns framför vallen. Eh, man kan ha våtmarker, man kan ha strandängar och försöka liksom se till att hålla marknivaren hög utanför vallen. Men de här murarna är väldigt svåra att att höja upp. Eh, så så man har fått göra väldigt mycket kompromisser med designen på grund av det. &gt;&gt; Mm. Så bliver der spurgt om øh ja generelt så synes folk det er ret spændende så det skal du også lige have have men der
+
+00:54:00
+blev spurgt till har udfört traktets test gräslag &gt;&gt; ja nej det har vi inte eh det så här pulltest ehm det har vi inte gjort och eh det finns eh det görs mycket i inom de som har gjort mest forskning på såna här eh olika olika eh olika vallteckningar. Det är ett projekt som heter Future Dikes i Holland och ett nytt projekt som heter Bronsai. Vi
+
+00:54:30
+samverkar med de projekten. Eh de har gjort många av de här pulttesterna och de är ju mycket billigare att göra än de här fullskaliga eh vågpåverkans och överspolningstesterna. Eh, men sen är frågan, då blir det ju alltid då testar man ju faktiskt inte direkt det som ska hända. Så då behöver man på något sätt översätta det resultatet till en ehm till en annan process. Alltså man kan säga att okej, pultest är alltså att man sätter ner eh man försöker dra upp eh
+
+00:55:00
+grässvålen och så ser man hur mycket kraft man behöver lägga på för att kunna göra det, vilka dragkrafter som krävs för att lyfta grässvålen. &gt;&gt; Mm. Men det jag menar är att det kanske inte är det är inte ett förhållande ett till ett till hur mycket vågarion den här grässvålen kan motstå eller hur mycket överspolning den tål. Så jag före jag föredrar de här testerna som vi gör som mer efterliknar de faktiska den faktiska påverkan som vallen kommer att ha. &gt;&gt; Mm.
+
+00:55:30
+Så kan jag se det är ett spørgsmål på svensk her, men det er også oversat til dansk og den tror jeg måske jeg tager. Øh så hvordan vurderer i om en naturbaseret kystløsning faktisk leverer den ønskede risikoreduktion over længere tid? Og hvilke indikatorer eller beslutningstærsker bruger I til at opdage, hvis løsningen ikke virker som forventet eller begynder at flytte risikoen til andre steder? Ja, alltså jag skulle säga att att
+
+00:56:00
+eh det är inte jag vill också säga att det är inte jag som har designat den här vallen. Eh den krönhöjden man har bygg valt att bygga vallen för är sådan att vid extrema händelser kan bli ett ett vallbrott till exempel om backaplåden skulle hända igen. [drar efter andan] Det vi utvärderar är ifall det här vegetationstäcket har samma motståndskraft som en konventionell grässbeklädnad. Så vi har på vår prototypvall odlat två sektioner
+
+00:56:30
+med en traditionell gräsbeklädnad som vi sen har skött med klippning på det sättet som man sköter konventionella vallar. Och sen så när vi gör testerna så så så gör vi benchmarkar vi våra de andra vegetationsteckena mot den konventionella. Så det är på så sättet vi utvärderar ifall vi uppnår samma säkerhetsnivå. Sen kan man ju säga att det kanske är lite om man skulle säga över längre tid då hade kanske den här frågan tidigare om hur torkbeständigt är och så vidare
+
+00:57:00
+också kommit in och haft en påverkan som vi inte kan ta höjd som inte vi kan mäta i de här försöken. &gt;&gt; Mm. &gt;&gt; Eh, men det är bara det vi gör. &gt;&gt; Ja. &gt;&gt; Och sen när det gäller ehm sandynorna så jobbar vi med numerisk modellering för att simulera stormskador. &gt;&gt; Mm. Så er der spørgsmål til overførbarheden til andre steder i ørsundsregionen. Er der noget der gør det her sådan meget stedspecifikt som man ikke kan så man skal være lidt
+
+00:57:30
+varsom med kopier løsningen? &gt;&gt; Ja, men det skulle v säga vågpåverkan. Har man en vall som har en större vågexponering då kan man inte ha liksom vegetation på vallens utsida. Då får man ha något hårt där. Ehm och sen när det gäller sandynorna så det är inte alla platser man kan anlägga sandynor. Där behöver man ju snarare lite vågexponering för att kunna ha en sandstrand med sandynor. Så alla de här naturbaserade lösningarna är platsspecifika och även artsammansättningen. Och det är ju
+
+00:58:00
+därför vi försöker som en del i det här projektet hitta liksom det är därför jag tror det är så viktigt med försöksverksamhet att man bygger småskaliga prototyper som man utvärderar för att alla lösningar kommer vara olika beroende på vad de byggs när man jobbar med den eh lokala vegetationen. &gt;&gt; Så l sidste spørgsmål her. Hvilke hvilke myndigheder og fagligheder har været afgørende for at forbinde kystbeskyttelse, hydrologi, naturhensyn og fysisk planlægning? Og hvor er de
+
+00:58:30
+største organisatoriske barrierer? Eh, hvor de hvor har de visa? &gt;&gt; Mm. Jag tror i Sverige så är ju den största barriären ansvarsfrågan att det inte finns någon myndighet som är ansvarig för att skydda mot eh kustöversvämningar. Eh, och sen så har vi då i den här processen med tillståndsansökan som kommunen har genomgått så har ju alla myndigheter fått expertmyndigheter fått
+
+00:59:00
+yttra sig och jag kan tycka att man drar inte åt samma håll. Vägverket till exempel, Trafikverket har varit ovilliga att höja upp sina vägar eh för att som en del av skyddet. En del av vallen har inte fått tillstånd på grund av att ledningsägaren av eledningar menar att eledningarna kan åldras snabbare ifall man bygger en vall ovanpå dem. &gt;&gt; Ja. &gt;&gt; Eh, så jag känner att man drar liksom inte åt samma håll utan alla myndigheter
+
+00:59:30
+ser bara till sitt eget intresse istället för att se att man har ett samhälle som behöver få ett överstämningsskydd. Och har har vi ingen bebyggelse så behöver vi faktiskt inte eledningar och vägar heller. Så jag tror att vi hade behövt en eh ja en tydligare ansvarsvdelning och sen att att alla alla myndigheter liksom kan vara lite mer kompromissvilliga och se till det allmännaste intresse i de här frågorna. &gt;&gt; Mm. Det passer godt med med tiden også. Tusind tak for för for dit oplæg og og
+
+01:00:00
+tak for alle der var med og lyt døde med. Øhm. Ja. Så vil egentlig bare sige sige tak og ønske alle sammen en rigtig god dag.

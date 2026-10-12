@@ -1554,5 +1554,19 @@
     "kilde": "youtube-subs",
     "order_id": null,
     "last_attempt": "2026-10-12T18:10:36"
+  },
+  "jSq_m5yb4mM": {
+    "status": "done",
+    "kilde": "youtube-subs",
+    "sprog": "sv",
+    "order_id": null,
+    "last_attempt": "2026-10-12T20:02:37"
+  },
+  "CSqivu6Cdmw": {
+    "status": "done",
+    "kilde": "youtube-subs",
+    "sprog": "en",
+    "order_id": null,
+    "last_attempt": "2026-10-12T20:02:57"
   }
 }

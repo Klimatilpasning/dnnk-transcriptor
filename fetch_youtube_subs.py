@@ -41,7 +41,13 @@ SUB_LANGS = "da-orig,da"    # dansk original, ellers dansk
 # Prøves ÉT AD GANGEN. yt-dlp afbryder hele kaldet, hvis blot ét sprog i en
 # samlet --sub-langs-liste fejler, så et utilgængeligt da-orig forhindrede
 # før, at det fungerende da-spor overhovedet blev forsøgt.
-SUB_LANG_ORDER = ("da-orig", "da")
+# Udenlandske oplægsholdere (svensk, norsk, engelsk) har kun auto-undertekster
+# på originalsproget. "da" er så YouTubes maskinoversættelse, og den giver
+# næsten altid HTTP 429 - så videoen blev "prøv igen senere" for evigt
+# (Øresund-webinaret og Summit 2024, 12/10-2026). Originalsproget prøves
+# derfor før oversættelsen; nat-jobbet laver alligevel et dansk resumé.
+SUB_LANG_ORDER = ("da-orig", "sv-orig", "nb-orig", "no-orig", "en-orig", "da")
+SPROGNAVN = {"da": "dansk", "sv": "svensk", "nb": "norsk", "no": "norsk", "en": "engelsk"}
 
 
 # ── VTT-parsing ───────────────────────────────────────────────────────────────
@@ -136,10 +142,11 @@ class TransientSubsError(Exception):
     """
 
 
-def fetch_subs(video_id: str) -> str | None:
-    """Hent danske auto-undertekster som VTT-tekst.
+def fetch_subs(video_id: str) -> tuple[str, str] | None:
+    """Hent auto-undertekster som (VTT-tekst, sprogkode) - dansk først,
+    ellers originalsproget (se SUB_LANG_ORDER).
 
-    None = videoen har ingen danske undertekster (endeligt svar).
+    None = videoen har ingen brugbare undertekster (endeligt svar).
     TransientSubsError = vi kunne ikke nå at spørge; prøv igen senere.
     """
     sidste_transient = None
@@ -167,16 +174,16 @@ def fetch_subs(video_id: str) -> str | None:
                 continue
             p = Path(tmp) / f"sub.{lang}.vtt"
             if p.exists():
-                return p.read_text(encoding="utf-8", errors="replace")
+                return p.read_text(encoding="utf-8", errors="replace"), lang.split("-")[0]
     if sidste_transient:
         # Vi nåede aldrig et rigtigt svar for noget sprog — så vi VED ikke,
         # om videoen har danske undertekster. Må ikke tælle som en fejl.
         raise sidste_transient
-    print("      ingen danske undertekster tilgængelige")
+    print("      ingen brugbare undertekster tilgængelige")
     return None
 
 
-def save(video_id: str, tekst: str, category: str) -> Path:
+def save(video_id: str, tekst: str, category: str, sprog: str = "da") -> Path:
     TRANSCRIPTIONS_FOLDER.mkdir(exist_ok=True)
     stamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     path = TRANSCRIPTIONS_FOLDER / f"{category}_{video_id}_{stamp}.txt"
@@ -185,7 +192,7 @@ def save(video_id: str, tekst: str, category: str) -> Path:
         f.write(f"Kategori: {category}\n")
         f.write(f"Video ID: {video_id}\n")
         f.write(f"URL: https://youtube.com/watch?v={video_id}\n")
-        f.write(f"Kilde: YouTube auto-undertekster (dansk)\n")
+        f.write(f"Kilde: YouTube auto-undertekster ({SPROGNAVN.get(sprog, sprog)})\n")
         f.write(f"Transskriberet: {datetime.now().isoformat()}\n")
         f.write(f"\n{'='*50}\n\n")
         f.write(tekst)
@@ -217,7 +224,7 @@ def main():
         cat = entry.get("category") or "Oevrige"
         print(f"[{i}/{len(ids)}] {vid} ({cat})")
         try:
-            vtt = fetch_subs(vid)
+            fundet = fetch_subs(vid)
         except TransientSubsError as e:
             # Rate-limit rammer typisk resten af batchen også, men lad de
             # øvrige få deres forsøg. State røres ikke — videoen er hverken
@@ -225,16 +232,19 @@ def main():
             print(f"      ⏳ {e} — prøv igen senere")
             transient += 1
             continue
-        if not vtt:
+        if not fundet:
             mangler += 1
             continue
+        vtt, sprog = fundet
         tekst = to_dnnk_format(parse_vtt(vtt))
         if len(tekst) < 500:
             print(f"      for lidt tekst ({len(tekst)} tegn) — springes over")
             mangler += 1
             continue
-        p = save(vid, tekst, cat)
-        state[vid] = {**entry, "status": "done", "kilde": "youtube-subs",
+        p = save(vid, tekst, cat, sprog)
+        if sprog != "da":
+            print(f"      (originalsprog: {SPROGNAVN.get(sprog, sprog)} - ingen danske undertekster)")
+        state[vid] = {**entry, "status": "done", "kilde": "youtube-subs", "sprog": sprog,
                       "order_id": None,
                       "last_attempt": datetime.now().isoformat(timespec="seconds")}
         with open(STATE_FILE, "w", encoding="utf-8") as f:

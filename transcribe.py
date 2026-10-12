@@ -326,10 +326,10 @@ def hent_undertekster(video_id):
     except ImportError:
         return None
     try:
-        vtt = fetch_subs(video_id)
-        if not vtt:
+        fundet = fetch_subs(video_id)   # (vtt, sprog) - sprog kan være sv/en
+        if not fundet:
             return None
-        tekst = to_dnnk_format(parse_vtt(vtt))
+        tekst = to_dnnk_format(parse_vtt(fundet[0]))
         return tekst if len(tekst) >= 500 else None
     except TransientSubsError:
         raise          # midlertidig — main() må ikke tælle den som en fejl
