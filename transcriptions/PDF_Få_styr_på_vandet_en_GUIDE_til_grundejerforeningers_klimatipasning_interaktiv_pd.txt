@@ -325,7 +325,7 @@ Tilslutningspunkter
 til regnvandsklo-
 akken
 Hvis der drosles til 
-regnvandskloaken, 
+regnvandskloakken, 
 spørg Forsyningen 
 om tilslutnings-
 punkter. Forsynin-
@@ -965,7 +965,7 @@ undersøge, hvem der ejer den jord, I
 eventuelt gerne vil aflede jeres vand til, 
 eller hvor I kan se, at der kommer vand 
 ind i jeres område fra. 
-Matriklekortet viser ejendomsgræn­
+Matrikelkortet viser ejendomsgræn­
 ser og vejrettigheder.
 Klimatilpasningsplan 
 Kommunes klimatilpasningsplan 
@@ -1486,7 +1486,7 @@ vi været godt kørende. Men det kan være,
 vi forværrer vores egen situation – får vi så 
 vand i kældrene? Hvordan kan vi dokumente­
 re, hvad anlægget gør? Skal vi lave målinger 
-af grundvandspejlet? Hvad kan vi gøre? ” 
+af grundvandsspejlet? Hvad kan vi gøre? ” 
  
 4. Find løsninger
 Når I er blevet klogere på jeres 
@@ -2702,7 +2702,7 @@ Funktion
 Hævede kantsten sørger for styret 
 transport af vand til udløbspunktet, 
 hvor det enten magasineres/forsinkes 
-eller ledes videre til vandoområde 
+eller ledes videre til vandområde 
 eller kloakken. 
 En hævet kantsten er typisk støbt 
 som én sten, dvs. det er ikke en for­
@@ -3323,7 +3323,7 @@ svømmet?
 Det har du som grundejer. 
 Kommunens ansvar er på offentlige 
 arealer, og kommunen skal sikre, at 
-kloakystemet har en tilstrækkelig ka­
+kloaksystemet har en tilstrækkelig ka­
 pacitet i forhold til de mest hyppige 
 større regnhændelser.
 Forsyningerne tager, i de fleste kom­
@@ -3337,7 +3337,7 @@ er forsyningerne ikke ansvarlig.
 Kommunerne beslutter, hvilket servi­
 ceniveau for afstrømning af regnvand 
 borgerne i kommunen tilbydes, når 
-kloakkerne og afvandringssystemet 
+kloakkerne og afvandingssystemet 
 klimatilpasses. Det kan du læse om i 
 kommunens spildevandsplan.
 Tag ansvar
@@ -3529,7 +3529,7 @@ Tilslutningspunkter
 til regnvandskloak-
 ken
 Hvis der drosles til 
-regnvandskloaken, 
+regnvandskloakken, 
 spørg forsyningen 
 om tilslutnings­
 punkter. Forsynin-

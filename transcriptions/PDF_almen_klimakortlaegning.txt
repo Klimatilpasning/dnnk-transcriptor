@@ -1296,7 +1296,7 @@ Grøn 89.802 98 % 577.000 97 %
 Rød 409 0 % 4.144 1 % 
 Ukendt 1.653 2 % 11.049 2 % 
 I alt 91.864 100 % 592.193 100 % 
-Kilde: Landbyggefonden pba. KAMP 
+Kilde: Landsbyggefonden pba. KAMP 
 Bygningerne i risiko for oversvømmelse ligger som overvejende relativt koncentreret i få områder i landet. Det er 
 især omkring Grejs Å ved Vejle, Grenaaen ved Grenå og Ribe og Tved Å ved Ribe. Se tabel A1.4.3. 
 Figur 8.2 Antal boliger berørt af oversvømmelse fra vandløb og åer  
@@ -1964,7 +1964,7 @@ atlas/rapporter/Vejledningsrapporter/Vejledning_i_anvendelse_af_udledningsscenar
 DTU (2024) – Økonomiske konsekvenser af oversvømmelser, National skadesberegninger og vurdering af behov for kli-
 masikring, Hovedrapport, url: https://www.dtu.dk/newsarchive/2024/11/prisen-for-oversvoemmelser-fra-skybrud-og-
 stormfloder-kan-loebe-op-i-406-milliarder  
-FinansDanmak (2025) – Boligmarkedsstatistikken, tilgået september 2025. url: https://finansdanmark.dk/tal-og-data/bolig-
+FinansDanmark (2025) – Boligmarkedsstatistikken, tilgået september 2025. url: https://finansdanmark.dk/tal-og-data/bolig-
 statistik/boligmarkedsstatistikken/  
 Geodata-info.dk, tilgået 2. juli 2025, url: https://geodata-info.dk/srv/dan/catalog.search#/metadata/f7a6ebb5-1378-4e80-
 9a8d-5eb45b94be69 
@@ -2386,7 +2386,7 @@ Data er afledt af DHM/Terræn og tilpasset til hydrologisk brug med GeoDanmark t
 dellen bliver beregnet årligt, på baggrund af ajourførte højdedata (Dataforsyningen, 2025b). 
 Appendiks 2.4 Mindste havkote  
 Mindste havkote bliver i denne rapport også kaldet ”bygningens havkote” og viser hvor højt havvandet skal stå før 
-det rammer en given bygning. Data er beregnet af Klimadatastyrelsen på baggrund af Danmarks Højdemode, og er 
+det rammer en given bygning. Data er beregnet af Klimadatastyrelsen på baggrund af Danmarks Højdemodel, og er 
 leveret af Septima i forbindelse med leverance af vanddata på bygninger fra KAMP, 27. september 2024. 
 Appendiks 2.5 Grundvand  
 I denne rapport er anvendt data på grundvandsdybde for en typisk sommer- og vintersituation i perioden 1990-
@@ -2654,7 +2654,7 @@ Sikringsniveau Minimum udgift Maksimum udgift Gns. udgift
 20-års hændelse 11.803 73.768 26.037 
 50-års hændelse 15.222 95.140 33.581 
 100-års hændelse 17.855 111.594 39.388 
-Note: Minimumsprisen svarer til at, hele sektoren kan klimasikres via den billigste klimaløsning, regnsvandsbassiner til 1.200 kr. pr. m3 
+Note: Minimumsprisen svarer til at, hele sektoren kan klimasikres via den billigste klimaløsning, regnvandsbassiner til 1.200 kr. pr. m3 
 vand. Ved maksimumsprisen vælges den dyreste løsning, regnbede til 7.500 kr. pr. m3 vand for alle berørte grunde. Gennemsnitsudgiften 
 er den kombinerede løsning, hvor hver af de fire løsninger anvendes med de i tabel 10.3.1 angivne procentsatser, svarende til en gen-
 nemsnitlig pris for klimasikring på knap 2.650 kr. pr. m3. 

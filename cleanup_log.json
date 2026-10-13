@@ -28572,5 +28572,232 @@
       }
     ],
     "afvist": []
+  },
+  "transcriptions\\PDF_almen_klimakortlaegning.txt": {
+    "anvendt": [
+      {
+        "forkert": "Landbyggefonden",
+        "rettet": "Landsbyggefonden",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "FinansDanmak",
+        "rettet": "FinansDanmark",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Danmarks Højdemode,",
+        "rettet": "Danmarks Højdemodel,",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "regnsvandsbassiner",
+        "rettet": "regnvandsbassiner",
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": [
+      {
+        "forkert": "Granaaen",
+        "rettet": "Grenaaen",
+        "grund": "risikabel"
+      }
+    ]
+  },
+  "transcriptions\\PDF_e99fb0a57b32.txt": {
+    "anvendt": [
+      {
+        "forkert": "Rardarberegnet",
+        "rettet": "Radarberegnet",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Skybrudstuneller",
+        "rettet": "Skybrudstunneller",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Permable",
+        "rettet": "Permeable",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "snafsmeltning",
+        "rettet": "sneafsmeltning",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Seth W estra",
+        "rettet": "Seth Westra",
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\PDF_0cc50515825a.txt": {
+    "anvendt": [
+      {
+        "forkert": "T eknologisk Institut",
+        "rettet": "Teknologisk Institut",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Danmarks T ekniske",
+        "rettet": "Danmarks Tekniske",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "T aastrup",
+        "rettet": "Taastrup",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Gregers ensvej",
+        "rettet": "Gregersensvej",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "www.tek nologisk.dk",
+        "rettet": "www.teknologisk.dk",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Bardwalken",
+        "rettet": "Boardwalken",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Biodiv ersitet",
+        "rettet": "Biodiversitet",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Sillebr o Ådal",
+        "rettet": "Sillebro Ådal",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Vær ebrobassinet",
+        "rettet": "Værebrobassinet",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Spilde vandsplanen",
+        "rettet": "Spildevandsplanen",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "R egnvandsbassiner",
+        "rettet": "Regnvandsbassiner",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "plangrundlanget",
+        "rettet": "plangrundlaget",
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\PDF_Få_styr_på_vandet_en_GUIDE_til_grundejerforeningers_klimatipasning_til_print.txt": {
+    "anvendt": [
+      {
+        "forkert": "regnvandskloaken",
+        "rettet": "regnvandskloakken",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Matriklekortet",
+        "rettet": "Matrikelkortet",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "grundvandspejlet",
+        "rettet": "grundvandsspejlet",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "vandoområde",
+        "rettet": "vandområde",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kloakystemet",
+        "rettet": "kloaksystemet",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "afvandringssystemet",
+        "rettet": "afvandingssystemet",
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\PDF_Få_styr_på_vandet_en_GUIDE_til_grundejerforeningers_klimatipasning_interaktiv_pd.txt": {
+    "anvendt": [
+      {
+        "forkert": "regnvandskloaken",
+        "rettet": "regnvandskloakken",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Matriklekortet",
+        "rettet": "Matrikelkortet",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "grundvandspejlet",
+        "rettet": "grundvandsspejlet",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "vandoområde",
+        "rettet": "vandområde",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kloakystemet",
+        "rettet": "kloaksystemet",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "afvandringssystemet",
+        "rettet": "afvandingssystemet",
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\PDF_Interessentinddragelse_i_kommunal_klimatilpasning.txt": {
+    "anvendt": [
+      {
+        "forkert": "stormfold",
+        "rettet": "stormflod",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "klimapasningstiltag",
+        "rettet": "klimatilpasningstiltag",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "interessentdragelse",
+        "rettet": "interessentinddragelse",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "klimarbejde",
+        "rettet": "klimaarbejde",
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": [
+      {
+        "forkert": "Hoffman, B.",
+        "rettet": "Hoffmann, B.",
+        "grund": "risikabel"
+      }
+    ]
   }
 }

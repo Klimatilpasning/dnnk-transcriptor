@@ -1344,7 +1344,7 @@ vandløbet. Jernbanestrækningen mellem Herning og Skjern var ude af drift i fir
 efterfølgende. En lignende hændelse fandt sted ved Gråsten i 2007. 
  
  
-Figur 15: Rardarberegnet akkumuleret nedbør over døgnet d. 26. August, 2026. Lokal ved Kibæk i 
+Figur 15: Radarberegnet akkumuleret nedbør over døgnet d. 26. August, 2026. Lokal ved Kibæk i 
 Midtjylland viser analysen mere end 150mm.  
 
 
@@ -1835,14 +1835,14 @@ oversvømmelsesområder
   
 Genslyngning af vandløb  
 Kunstige søer 
-Nedbør Grønne tage, Permable 
+Nedbør Grønne tage, Permeable 
 belægninger og andre mindre 
 LAR anlæg  
 Styring 
 Øge kloakkapacitet  
 (rør, underjordiske bassiner) 
 Forhøjede kantsten 
-Skybrudstuneller 
+Skybrudstunneller 
 Højvandslukke 
 Ingen afløb i kælderen  
  
@@ -2027,7 +2027,7 @@ risikoen for oversvømmelse i kommuner. Kystdirektoratet, Miljø- og Fødevaremi
 2020. Downloaded marts 2025 fra https://kyst.dk/media/wyydacyn/guide-til-
 dynamisk_planlaegning-af-klima-tilpasning-og-styring-af-risikoen.pdf  
  
-Leonard, Michael, Seth W estra, Aloke Phatak, Martin Lambert, Bart van den Hurk, Kathleen 
+Leonard, Michael, Seth Westra, Aloke Phatak, Martin Lambert, Bart van den Hurk, Kathleen 
 McInnes, James Risbey, Sandra Schuster, Doerte Jakob, and Mark Stafford‐Smith. "A 
 compound event framework for understanding extreme impacts." Wiley Interdisciplinary 
 Reviews: Climate Change 5, no. 1 (2014): 113-128. 
@@ -2082,7 +2082,7 @@ Zscheischler, Jakob, Seth Westra, Bart JJM Van Den Hurk, Sonia I. Seneviratne, P
 Ward, Andy Pitman, Amir AghaKouchak et al. "Future climate risk from compound events." 
 Nature climate change 8, no. 6 (2018): 469-477. 
  
-Zscheischler, Jakob, Olivia Martius, Seth W estra, Emanuele Bevacqua, Colin Raymond, 
+Zscheischler, Jakob, Olivia Martius, Seth Westra, Emanuele Bevacqua, Colin Raymond, 
 Radley M. Horton, Bart van den Hurk et al. "A typology of compound weather and climate 
 events." Nature reviews earth & environment 1, no. 7 (2020): 333-347. 
  
@@ -2210,7 +2210,7 @@ nedbørhændelser og ”MH7: Fluvial (riverine) flood”. Derfor vælges det her
 
  
 www.dmi.dk   Side 59 af 60 
-snafsmeltning på lige fod med ”MH6: Flash flood” bør anses som undertype af de to 
+sneafsmeltning på lige fod med ”MH6: Flash flood” bør anses som undertype af de to 
 andre typer. 
 6. ”TL46: Drain and sewer floods” hører under familien af ”Technological hazards” 
 (hvilket vedrørende vand og oversvømmelser i denne rapporten oversættes til 
