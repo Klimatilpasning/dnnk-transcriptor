@@ -35,7 +35,7 @@ Datablad
  Titel: Hvordan skal en bidragsmodel for klimatilpasning se ud? 
  
  Forfatter: Toke Emil Panduro 
- Institution: Aarhus Universit et, Institut for Miljøvidenskab 
+ Institution: Aarhus Universitet, Institut for Miljøvidenskab 
  Udgiver: Aarhus Universitet, DCE – Nationalt Center for Miljø og Energi © 
  URL: http://dce.au.dk 
  Udgivelsesår: Januar 2022 
@@ -101,7 +101,7 @@ Modelestimation 31
 5 
 Forord 
 Denne rapport er udgivet som en del af forskningsprojektet ”Klimatilpasning 
-på tværs”. Hovedformålet med forsknin gsprojektet er at bidrage med nye 
+på tværs”. Hovedformålet med forskningsprojektet er at bidrage med nye 
 vinkler på kendte problemstillinger i forhold til gennemførelse af helhedsori-
 enterede klimatilpasningsprojekter. 
 Region Hovedstaden har bevilliget tre millioner kroner til projektet, mens øv-
@@ -110,13 +110,13 @@ Kommune og Egedal Kommune varetager en sekretariatsfunktion for hvert
 case-område i projektperioden. 
 Partnerskabskredsen bag projektet består af kommunerne Ballerup, Born-
 holm, Brøndby, Egedal, Fredensborg, Frederikssund, Furesø, Gladsaxe, Her-
-lev, Hvidovre, Ishøj, København, Ros kilde og Vallensbæk, samt Rudersdal 
-som repræsentant for Forsyningsselska bet Novafos' ejerkommuner, og Grib-
+lev, Hvidovre, Ishøj, København, Roskilde og Vallensbæk, samt Rudersdal 
+som repræsentant for Forsyningsselskabet Novafos' ejerkommuner, og Grib-
 skov kommune som repræsentant for Nordkystens Fremtid (Halsnæs, Grib-
 skov og Helsingør kommune), Novafos, Københavns Universitet, Aarhus 
 Universitet, Miljøstyrelsen, Kystdirektoratet, Forsikring & Pension og Region 
 Hovedstaden. 
-Desuden følger CONCITO, Danmarks Tekn iske Universitet, Forsikring og 
+Desuden følger CONCITO, Danmarks Tekniske Universitet, Forsikring og 
 Pension, HOFOR, Region Sjælland samt Det Nationale Netværk for Klimatil-
 pasning projektet. 
 Projektet om mulige bidragsmodeller i forhold til klimatilpasningsprojekter 
@@ -210,7 +210,7 @@ siger, at ”Dem der har nytten (læs: gevinsterne) af klimatilpasningen bør og
 
 9 
 være dem, der betaler for klimatilpasni ngen”. I dag er nytteprincippet an-
-vendt i forbindelse med kystbeskyttels e mod kysterosion og stormflod samt 
+vendt i forbindelse med kystbeskyttelse mod kysterosion og stormflod samt 
 oversvømmelse fra vandløb. Oversvømmelse fra ekstremregn bliver håndte-
 ret i et samarbejde mellem kommuner og  forsyningsselskaberne, hvilket be-
 tyder, at ekstremregn håndteres økonomisk solidarisk gennem vandlednings-
@@ -605,7 +605,7 @@ tioner af stormflodsrådets forsikringssa ger, kan materielle  skader fra storm-
 flodsoversvømmelser nu kvantificeres separat. Modelestimationer kan findes 
 i bilaget til rapporten. 
 I tabel 2 præsenteres en fortolkning af modelestimaterne af skadesomkost-
-ningsmodellen for stormfoldsskader do kumenteret i bilaget. Skadesomkost-
+ningsmodellen for stormflodsskader do kumenteret i bilaget. Skadesomkost-
 ninger i tabel 2 beskriver den gennemsnitlige omkostning ved stormflodsska-
 der. Der vil være oversvømmelser af  boliger, hvor genne msnittet vil ligge 
 langt fra virkeligheden. Skadesomkostni nger er modelleret for sommerhuse 

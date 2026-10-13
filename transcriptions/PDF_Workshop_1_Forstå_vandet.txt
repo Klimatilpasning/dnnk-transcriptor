@@ -52,7 +52,7 @@ Lidt om data
 Data Hjemmeside
 Terræn http://miljoegis.mim.dk/spatialmap?&profile=miljoegis-klimatilpasningsplaner
 Strømningsveje http://miljoegis.mim.dk/spatialmap?&profile=miljoegis-klimatilpasningsplaner
-Bluspot http://miljoegis.mim.dk/spatialmap?&profile=miljoegis-klimatilpasningsplaner
+Bluespot http://miljoegis.mim.dk/spatialmap?&profile=miljoegis-klimatilpasningsplaner
 Grundvand http://miljoegis.mim.dk/spatialmap?&profile=miljoegis-klimatilpasningsplaner
 Stormflod http://miljoegis.mim.dk/spatialmap?&profile=miljoegis-klimatilpasningsplaner
 Jordartskort http://miljoegis.mim.dk/spatialmap?&profile=miljoegis-klimatilpasningsplaner
@@ -162,7 +162,7 @@ borgere tilbydes, når kloakkerne og afvandringssystemet klimatilpasses
 
 Hvad kan jeg gøre?
 Hvis din kælder  bliver oversvømmet?
-• Vil du forebygge vand i din kælder, skal du kontakte enautoriseret kloakmester. 
+• Vil du forebygge vand i din kælder, skal du kontakte en autoriseret kloakmester. 
 • Kloakmestren kan gennemgå dit afløbssystem og fortælle dig om, hvordan dine 
 problemer bedst kan løses. Det er også kloakmestren, der skal udføre arbejdet.
 • Normalt kan du forhindre oversvømmelser fra kloakken ved at få en autoriseret 

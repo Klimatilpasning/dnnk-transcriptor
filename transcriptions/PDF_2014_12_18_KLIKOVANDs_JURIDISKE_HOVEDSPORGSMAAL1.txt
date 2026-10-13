@@ -112,7 +112,7 @@ udfordringer i en netbaseret løsning.
 Svarene er foreløbige på mange af de her stillede hovedspørgsmål. Der er behov for flere 
 praktiske erfaringer og juridiske overvejelser. 
 Håndbogen er tænkt som opslagsværk og inspiration for alle planlæggere, fagmedarbejdere, 
-landsskabsarkitekter, beslutningstagere og konsulenter, der beskæftiger sig med 
+landskabsarkitekter, beslutningstagere og konsulenter, der beskæftiger sig med 
 klimatilpasningstiltag i kommuner, regioner og forsyninger. Vi ønsker, at I ser KLIKOVAND2 
 som et åbent netværk, hvor man kan søge erfaringsudveksling, når man planlægger 
 klimatilpasningstiltag, så den bedst mulige løsning kan blive implementeret. 
@@ -240,7 +240,7 @@ Badevandsbekendtgørelsen
  
 Klimatilpasning er ikke en isoleret disciplin, som kan foretages på bekostning af miljøkvaliteten 
 af omgivelserne.  
-Krævede klimatilpasningtiltag er også underlagt helt generelle krav om miljøbeskyttelse – 
+Krævede klimatilpasningstiltag er også underlagt helt generelle krav om miljøbeskyttelse – 
 herunder særlig beskyttelse af de vandområder, der udledes til, og deres vandkvalitet.  
 Kommunerne kan derfor ikke sætte tiltag i gang, der i udgangspunktet påvirker et vandområde 
 så negativt, at vandområdets miljø- og kvalitetsmålsætninger ikke kan overholdes, sådan som 
@@ -624,7 +624,7 @@ tjene til at afhjælpe kapacitetsproblemer inden for et risikoområde.
 Projektets vilkår skal aftales mellem forsyning og projektejer, når den politiske beslutning om 
 nytten af projektet foreligger.  
  
-Der ligger et format for en standardaftale på Klimatilpasning,dk. Den rummer de nødvendige 
+Der ligger et format for en standardaftale på Klimatilpasning.dk. Den rummer de nødvendige 
 oplysninger, der skal foreligge i aftalen, og er samtidigt med til at sikre, at alle de nødvendige 
 oplysninger til ansøgningen til Forsyningssekretariatet bliver udarbejdet.  
  
@@ -901,7 +901,7 @@ KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL
   25  KLIKOVAND – december 2014  
  
 Rensning af regnvand  
-betydende mi ljøfremmede stoffer i 
+betydende miljøfremmede stoffer i 
 overfladevand – herunder overfladevand 
 fra veje – er nonylphenol og en række PAH-
 forbindelser. 
@@ -1026,7 +1026,7 @@ være udelukket. Her tænkes f.eks. på at tilføre vand til et sommertørt vand
 rekreative interesser i kommunen. 
  
 Hvilken proces/ løsning kan gennemføres? 
-Omdirigere regnvand gen nem åer og andre vandløb  
+Omdirigere regnvand gennem åer og andre vandløb  
 1. Konkret 
 detailprojekt 
 Der bør udformes et konkret detailprojekt for klimatilpasningen. Heri beskrives, 
@@ -1038,7 +1038,7 @@ KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL
  
   29  KLIKOVAND – december 2014  
  
-Omdirigere regnvand gen nem åer og andre vandløb  
+Omdirigere regnvand gennem åer og andre vandløb  
 regnvand.  
 2. Beslutning 
 i kommunen  
@@ -1094,7 +1094,7 @@ KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL
  
   30  KLIKOVAND – december 2014  
  
-Omdirigere regnvand gen nem åer og andre vandløb  
+Omdirigere regnvand gennem åer og andre vandløb  
 Byzone, 
 Bekendt-
 gørelsens 
@@ -1349,7 +1349,7 @@ Miljøministeriet har oplyst, at der i Kystbeskyttelsesloven  er lovhjemmel til,
 kan yde et bidrag til at etablere kystbeskyttelse, og at det er op til kommunerne, hvorvidt de 
 ønsker at yde et bidrag og i givet fald hvor stort et bidrag. Det er Miljøministeriets opfattelse, 
 at Kystbeskyttelsesloven  ikke rummer begrænsninger i kommunens adgang til at yde 
-finansering. Oplysningen blev givet i august 2014 i forbindelse med spørgsmål til Folketingets 
+finansiering. Oplysningen blev givet i august 2014 i forbindelse med spørgsmål til Folketingets 
 Miljø- og Planlægningsudvalg. 
 Kommunerne har med Miljøministerens udtalelse vide muligheder for at finansiere tiltag, som 
 kommunen finder ønskelige eller nødvendige.  
@@ -1417,9 +1417,9 @@ med senere ændringer
 Miljø - og servicemålsbekendtgørelsen  Bekendtgørelse nr. 1048 af 29. oktober 2012 
 om driftsomkostninger til gennemførelse af 
 miljømål og servicemål 
-Miljøbeskyttelsesloven  Lovbekendtg ørelse nr. 879 af 26. ju ni 201 0 om 
+Miljøbeskyttelsesloven  Lovbekendtgørelse nr. 879 af 26. ju ni 201 0 om 
 miljøbeskyttelse med senere ændringer 
-Miljømålsloven  Lovbekendtg ørelse nr. 932 af 24. september 
+Miljømålsloven  Lovbekendtgørelse nr. 932 af 24. september 
 2009 om miljømål m.v. for vandforekomster 
 og internationale naturbeskyttelsesområder 
 med senere ændringer 
@@ -1431,19 +1431,19 @@ KLIKOVAND  KLIKOVANDS JURIDISKE HOVEDSPØRGSMÅL
 Miljøvurderingsloven  Lovbekendtgørelse nr. 939 af 3. juli 2013 om 
 miljøvurdering af planer og programmer med 
 senere ændringer 
-Naturbeskyttelsesloven  Lovbekendtg ørelse nr. 951 af 3. juli 2013 om 
+Naturbeskyttelsesloven  Lovbekendtgørelse nr. 951 af 3. juli 2013 om 
 naturbeskyttelse med senere ændringer 
-Planloven  Lovbekendtg ørelse nr. 587 af 27. ma j 2013  om 
+Planloven  Lovbekendtgørelse nr. 587 af 27. ma j 2013  om 
 planlægning med senere ændringer 
 Privatvejsloven  Lov bekendtgørelse  nr. 1537 af 21. december 
 2010 om private fællesveje med senere 
 ændringer 
-Spildevandsbekendtgørelsen  Bekendtg ørelse nr. 1448 af 11. december 2007 
+Spildevandsbekendtgørelsen  Bekendtgørelse nr. 1448 af 11. december 2007 
 om spildevandstilladelser m.v. efter 
 miljøbeskyttelseslovens kapitel 3 og 4 
-Vandløbsloven  Lovbekendtg ørelse nr. 1208  af 30. september 
+Vandløbsloven  Lovbekendtgørelse nr. 1208  af 30. september 
 2013 om vandløb med senere ændringer 
-Vandrammedirektivet  Europa -Parlamentets og R ådets direktiv 
+Vandrammedirektivet  Europa -Parlamentets og Rådets direktiv 
 2000/60/EF af 23. oktober 2000 om 
 fastlæggelse af en ramme for Fællesskabets 
 vandpolitiske foranstaltninger 

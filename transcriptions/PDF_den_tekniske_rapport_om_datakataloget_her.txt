@@ -71,7 +71,7 @@ tilgås visuelt.
 2.1 Målinger 
 Første kategori er målinger. Tabel 1 viser en oversigt over data, der beskriver 
 målinger, og hvilke parametre der beskriver data i datakataloget. Det har ikke 
-været muligt at få fyldestgørende viden om alle parametre for alla datamålinger, 
+været muligt at få fyldestgørende viden om alle parametre for alle datamålinger, 
 men den viden, der kunne tilvejebringes, er indført i datakataloget.  
 
  

@@ -176,7 +176,7 @@ Tabel 3.1:  Gentagelsesperioder for 5-100 års regn. Ved dimensionering af regnv
 anvendes ofte 10-års hændelser som dimensionsgivende. ........................................................ 11 
 Tabel 3.2 Gennemsnitlige antal døgn pr. år med mere end 10 mm nedbør/15/. ........................................ 11 
 Tabel 3.3:  Oversigt over fordele og ulemper ved henholdsvis at anvende passive prøvetagere og 
-automatiske prøvetagere til regnvandsprøvetagning samt overslagspriser for ans kaffelse 
+automatiske prøvetagere til regnvandsprøvetagning samt overslagspriser for anskaffelse 
 af de to typer udstyr. .................................................................................................................... 18 
 Tabel 3.4:  Forslag til moniteringsudstyr. ....................................................................................................... 20 
 Tabel 4.1:  Forslag til analyseparametre ved automatisk og passiv prøvetagning i forbindelse med 
@@ -212,7 +212,7 @@ færdigt og moniteringsfaciliteterne etableret, kan indkøring og afprøvning g�
 Resultaterne fra Uplandsgade skal indgå i beslutningsgrundlaget for håndtering af vejvand fra 
 veje med samme indretning og trafikbelastning (godt 10.000 ÅDT). På nuværende tidspunkt er 
 det stærkt begrænset, hvor mange data der eksisterer om forurening fra veje med en daglig 
-belastning på mere end 10.000 køretøjer, det vil sige veje med en høg forureningsgrad. 
+belastning på mere end 10.000 køretøjer, det vil sige veje med en høj forureningsgrad. 
 Grundlæggende er der to typer af nedbørshændelser, der skal kunne moniteres i indlø b og 
 udløb fra vejgrøfterne: first flush og hverdagsregn. Forslagene til måleudstyr er beskrevet med 
 henblik på at opnå repræsentativ prøvetagning og valid karakterisering af regnvand fra veje med 
@@ -263,7 +263,7 @@ opsamling af data og større viden om regnvandskvalitet og renseeffektivitet. Da
 efterfølgende indgå i modellering af regnvandsafstrømning.  
 Når kommunerne etablerer LAR-løsninger til regnvandshåndtering, er der ofte ikke tænkt på 
 etablering af passende moniteringsfaciliteter til prøvetagning, flowmåling, onlinemåler og 
-dataopsamling, som kan give større viden om hydraulik, vandkvalitet, reseeffektivitet o g 
+dataopsamling, som kan give større viden om hydraulik, vandkvalitet, renseeffektivitet o g 
 styringsmuligheder (vandbremse). Dette projekt vil hjælpe kommuner og forsyningsselskaber i 
 planlægningen af moniteringsfaciliteter og tydeliggøre, hvilke forhold der skal med i 
 overvejelserne i forhold til måleparametre, nedbørs- og afstrømningsforhold m.m. 
@@ -1004,7 +1004,7 @@ Formålet med online-målinger af turbiditet er at kæde målingerne sammen med 
 karakterisering, der sker gennem fraktioneret prøvetagning. Således kan belastningen med 
 forurenende stoffer både før og efter vejgrøfterne relateres til turbiditetsmålingerne , idet der er 
 en forventning om, at en høj andel af forurenende stoffer bundet til partikler resulterer i en høj 
-turbiditet. Turbiditetsmålinger kan dermed blive en styrringsparameter i de situationer, hvor man 
+turbiditet. Turbiditetsmålinger kan dermed blive en styringsparameter i de situationer, hvor man 
 eksempelvis kan vælge mellem af lede vejvand i kloakken eller udlede vejvandet til 
 vandområder, når indholdet af forurenende stoffer er lavt. 
 Ledningsevnemålinger afspejler regnvandets indhold af opløste salte, og ledningsevnen målt i 
@@ -1151,7 +1151,7 @@ Referencer
  29 
 5 Referencer 
 /1/ Peter M. Bach, David T. McCarthy, Ana Deletic: Redefining the stormwater first flush 
-pnenomenon. Water Research 44 (2010) pp. 2487-2498. 
+phenomenon. Water Research 44 (2010) pp. 2487-2498. 
 /2/ J. L. Bertrand-Krajewski, G. Chebbo, A, Saget (1998): Distribution of pollutants mass vs 
 volume in stormwater discharges and the first flush phenomenon. Water Research 32, pp. 
 2341-2356. 
@@ -1317,7 +1317,7 @@ IQ/Elektrodersensorer/Turbiditet/?highli
 ght=turbiditet 
  Aquasense S::CAN Turbi::lyser med temperatur måling. http://www.aquasense.dk/index.php/ren
 sningsanlaegget/brochure 
- Hach Ultraturb sc turbidtetsmåler Med automatisk rensesystem. http://dk.hach.com/suspenderede-
+ Hach Ultraturb sc turbiditetsmåler Med automatisk rensesystem. http://dk.hach.com/suspenderede-
 stoffer/solitax-sc-
 sensorer/family?productCategoryId=250
 34625098 

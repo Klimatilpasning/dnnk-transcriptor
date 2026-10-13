@@ -1,7 +1,7 @@
 === DNNK PDF Dokument ===
-Titel: Overordnede pejlemærker for betalingsmodeller for klimatilpsning i vandoplande
+Titel: Overordnede pejlemærker for betalingsmodeller for klimatilpasning i vandoplande
 Kategori: Rapporter_s3
-Kilde: https://usercontent.one/wp/www.dnnk.dk/wp-content/uploads/2022/11/Overordnede-pejlemaerker-for-betalingsmodeller-for-klimatilpsning-i-vandoplande.pdf
+Kilde: https://usercontent.one/wp/www.dnnk.dk/wp-content/uploads/2022/11/Overordnede-pejlemaerker-for-betalingsmodeller-for-klimatilpasning-i-vandoplande.pdf
 Indekseret: 2026-09-21T18:32:27.837836
 
 ==================================================
@@ -55,23 +55,23 @@ bidragsmodeller baseret på pligtmæssige bidrag efter nytteprincippet, som andr
 der også rummer anden form for finansiering af projekter fra offentlig eller privat side.  
 De overordnede pejlemærker skal betragtes som særlige 
 opmærksomhedspunkter, der kan inddrages i forbindelse med 
-drøftelse og konkretisering af nye eller alternative betal ings-
+drøftelse og konkretisering af nye eller alternative betalings-
 modeller. Der er ikke tale om en udtømmende liste. 
 Notatet er delvist baseret på erfaringer indhentet fra den første 
 del af projektet Klimatilpasning på tværs (se Anker & Janfelt, 
 2020; Fryd et al., 2021). Her har der særligt vist sig udfordringer 
-for større, tværkommunale projekter, hvor der bla ndt andet  
+for større, tværkommunale projekter, hvor der blandt andet  
 savnes en overordnet ramme for tværkommunalt samarbejde 
 og efterlyses statslig involvering/finansiering. Samtidig er der 
-peget på, at den kommunale økonomi ofte har svært ved at bære udgifter til klim atilpasning, og at 
+peget på, at den kommunale økonomi ofte har svært ved at bære udgifter til klimatilpasning, og at 
 takstfinansierede løsninger ikke altid er mulige.  Endvidere kan cost-benefit-analyser være enkle i små 
-afgrænsede projekter, men svær e når det gælder byer og regioner, bla ndt andet med hensyn til afledte 
+afgrænsede projekter, men svær e når det gælder byer og regioner, blandt andet med hensyn til afledte 
 effekter, merværdier og gevinste r på samfundsniveau.  Endelig må det påpeges, at spørgsmålet om 
 betalingsmodeller – eller deres konkrete udmøntning – ikke nødvendigvis er afklaret fra et projekts opstart, 
-men betalingen er en væsentlig forudsætning for gennemførelse af et projekt. Mange p rojekter vil starte 
+men betalingen er en væsentlig forudsætning for gennemførelse af et projekt. Mange projekter vil starte 
 med en afdækning af, om der overhovedet skal klimasikres, og stillingtagen til de mulige løsninger, herunder 
 også med indkredsning af de relevante parter i projektet. I nogle tilfælde – navnlig mindre projekter – er det 
-givet, at nyttep rincippet skal anvendes, mens det i andre tilfælde kan være mere oplagt, at andre 
+givet, at nytteprincippet skal anvendes, mens det i andre tilfælde kan være mere oplagt, at andre 
 betalingsmodeller skal i spil. 
 Koblingen mellem betalingsmodeller og klimatilpasning 
 I arbejdet med betalingsmodeller kan der være en indkredsning af tilgange , som afspejler en vægtning af, i 
@@ -96,14 +96,14 @@ privat side
  
 Tre principielle tilgange 
 Her præsenteres tre generelle tilgange , der afspejler henholdsvis en individuel, kollektiv og markedsdrevet 
-tilgang til klimatilpasning og bidragsfordeling. De tre tilgange er inspireret af Teknologiråde ts arbejde med 
+tilgang til klimatilpasning og bidragsfordeling. De tre tilgange er inspireret af Teknologirådets arbejde med 
 ansvarsfordeling og finansiering i regi af projektet Byerne og det stigende havvand (Teknologirådet, 2020). 
 Bidragsfordeling efter nytteprincippet. Den, der har nytte af en løsning , skal betale for den proportionalt 
 med gevinsten og vægtet i forhold til den samlede omkostning. Denne tilgang er bærende i den gældende 
 lovgivning vedr ørende kystbeskyttelse og vandløbsregulering  – navnlig i forhold til håndtering af 
 oversvømmelsesrisici, mens det kan være vanskeligere i forhold til erosionsrisici . Nytteprincippet anvendes 
 som udgangspunkt i forhold til grundejere eller ejere af fast ejendom, herunder også ledningsejere eller 
-offentlige grundejere. Nytteprincippet vil typisk betyde, at gru ndejere, der ligger lavest i terrænet og/eller 
+offentlige grundejere. Nytteprincippet vil typisk betyde, at grundejere, der ligger lavest i terrænet og/eller 
 som har størst reduktion i ejendomsværdien, hvis der ikke etableres foranstaltninger , som kan reducere 
 oversvømmelsesrisikoen, vil have en relativt stor bidragsandel (og gevinst). I praksis vil det typisk betyde, at 
 ejendomme i første række skal betale mere end ejendomme i anden række, mens beboere i tredje eller fjerde 
@@ -114,7 +114,7 @@ og op’ på græsrodsniveau (under hensyntagen til gældende lovgivning).
 Offentlige bidrag ud fra en samfundsmæssig helhedsbetragtning. Smukke kyster, attraktive byområder og 
 beskyttelse af naturen kan ses som fælles gode r, der er til gavn for hele samfundet på kort og lang sigt. 
 Samtidig kan oversvømmelser og erosion koste samfundet i form af direkte skadesomkostninger og udgifter 
-til genopbygning samt i afledte effekter som tabt produkt ion i samfundet, en destabiliseret økonomi, en  
+til genopbygning samt i afledte effekter som tabt produktion i samfundet, en destabiliseret økonomi, en  
 eventuel negativ påvirkning af folkesundheden og måske tab af uerstattelig kulturarv. Det er derfor et fælles 
 anliggende at bidrage til en løsning. Skalamæssigt kan det være på kommuneniveau, hvor alle kommunens 
 borgere bidrager via kommuneskatten, på statsligt niveau, hvor alle borgere i Danmark bidrager til løsninger, 
@@ -123,9 +123,9 @@ niveau i et samarbejde med kommunale og statslige bidrag.  En offentlig styring 
 kan medføre en koordineret indsats, hvor klimatilpasningen går hånd i hånd med øvrige udviklingsinteresser 
 og planlægningsperspektiver, måske på regionalt eller nationalt niveau, hvilket samtidig medfører en løsning, 
 der kan opfattes, som om den bliver pålagt borgerne ’oppefra og ned’ (OECD, 2019, s. 79). 
-Private investeringer, innovation og entreprenørskab som katalysator for klimapasning. I visse tilfælde vil 
+Private investeringer, innovation og entreprenørskab som katalysator for klimatilpasning. I visse tilfælde vil 
 der være en markedsmæssig interesse i at investere i klimatilpasning , idet det kan være en værdiskabende 
-aktivitet. Der findes allerede mange private selska ber, der leverer samfundsmæssige servicefunktioner og 
+aktivitet. Der findes allerede mange private selskaber, der leverer samfundsmæssige servicefunktioner og 
 infrastruktur finansieret af brugerbetaling og takstfinansiering. Det gælder for eksempel el, vand, varme og 
 telekommunikation eller transportvirksomheder , som driver for eksempel busser, taxaer og broe r. Nogle 
 gange er det offentlig t ejede selskaber. Nogle gange er det børsnoterede selskaber. Andre gange er det 
@@ -180,7 +180,7 @@ udgangspunkt i mere traditionelle kystbeskyttelses- og vandløbsprojekter for en
 af grundejere og eventuelt andre ejere af fast ejendom, herunder ledningsejere. Der er blandt andet særligt 
 behov for, at der i højere grad kan sondres mellem (grund-)ejerinteresser og samfundsmæssige interesser, 
 for eksempel infrastruktur, natur, rekreative interesser, kulturmiljø mv.  Samfundsmæssige interesser kan 
-sikres gennem bidrag fra andre end grundejere, for eksempel stat, kommune, forsyningssels kaber mv. En 
+sikres gennem bidrag fra andre end grundejere, for eksempel stat, kommune, forsyningsselskaber mv. En 
 udvidelse og præcisering af nytteprincippet vil også kunne imødegå muligheden for ”free-riders”. 
 Fairness: Et grundprincip for accept af betalingsmodel – forudsætter ensartede og sagligt begrundede 
 kriterier 
@@ -219,12 +219,12 @@ En gennemgang af eksisterende praksis i tværkommunale kyst- og vandløbsprojekt
 for enkelhed (Fryd et al., 2021). Så en operationel betalingsmodel bør i udgangspunktet være så enkel som 
 mulig, dog uden at kompromittere princippet om fairness (se ovenfor) med ensartede og sagligt begrundede 
 kriterier for bidragsfordeling. Det er nødvendigt, at betalingsmodeller er operationelle og gennemsigtige. Alt 
-kan ikke komme med , og målet er ikke mil limeterretfærdighed. Men det er fortsat vigtigt, at der er 
+kan ikke komme med , og målet er ikke millimeterretfærdighed. Men det er fortsat vigtigt, at der er 
 metodelighed og ensartethed i anvendelsen af kriterier for bidragsfordeling. 
 Tilpasningsevne (og robusthed): Fleksibilitet og kombinationsmuligheder er vigtigt 
 Betalingsmodeller og regulering er stiafhængige. Det betyder , at vi ofte bygger videre på de eksisterende 
 aftaler og modeller (Kirk et al., 2007; Bouwma et al., 2016; 2017). Behovet for klimatilpasning er en funktion 
-af fo randringer i samfundet og i klimaet. Det betyder, at b etalingsmodellerne skal designes på en måde 
+af forandringer i samfundet og i klimaet. Det betyder, at b etalingsmodellerne skal designes på en måde 
 således, at modellen kan tilpasses nye vilkår. Vi starter ikke forfra , når rammerne for aftaler ændrer sig. Vi 
 bygger videre! En succesfuld bidragsmodel skal kunne tilpasses over tid til ændrede vilkår. Samtidig er der 
 behov for, at bidragsmodeller kan kombineres og anvendes fleksibelt i forhold til de forskellige typer af 
@@ -242,11 +242,11 @@ nutidsværdien af den reducerede risiko for oversvømmelse ved hjælp af en samf
 diskonteringsrate. I forbindelse med udarbejdelsen af en betalingsmodel er det vigtigt at være opmærksom 
 på, at folks individuelle diskonteringsrate ikke nødvendigvis er lig 
 med den samfundsbestemte diskonteringsrate. Folks individuelle 
-diskonteringsrate vil være en funktion af deres livssitua tion. 
+diskonteringsrate vil være en funktion af deres livssituation. 
 Generelt må man forvente, at folks tidspræference er højere end 
 samfundets tidspræference. Det betyder, at folk generelt er mere 
 utålmodige, end samfundet kan tillade sig at være (Møller, 2009; 
-Sen, 1967). Gevinsterne af en investering bør falde hurt igere for 
+Sen, 1967). Gevinsterne af en investering bør falde hurtigere for 
 individet end for samfundet. Det betyder samtidig , at folks 
 diskonteringsrate i gennemsnit vil være højere end den diskonteringsrate, som det officielle Danmark 
 anvender i forbindelse med samfundsmæssige investeringer. En bidragsmodel bør anvende  en høj 
@@ -272,7 +272,7 @@ i forhold til bidragsmodeller opereres m ed fælles rammer eller kriterier på t
 (Soja & Bockhahn, 2019). 
 Tværgående samarbejde: Koordinering og projektstyring er nødvendige forudsætninger 
 En række klimatilpasningsprojekter, særligt under markedsdrevet innovation, vil indebære et samarbejde på 
-tværs af sektore r, for eksempel  mellem infrastrukturejere, forsyningsvirksomheder, boligselskaber og 
+tværs af sektorer, for eksempel  mellem infrastrukturejere, forsyningsvirksomheder, boligselskaber og 
 myndigheder. Det vil blandt andet stille krav til koordinering og styring af projekterne, men også krav om 
 gennemsigtighed og åbenhed. Det drejer sig for eksempel om aftalegrundlaget for bidragsfordelingen i såvel 
 etableringsfasen som den løbende drift og vedligeholdelse samt de mulige udbygninger over tid. Det 

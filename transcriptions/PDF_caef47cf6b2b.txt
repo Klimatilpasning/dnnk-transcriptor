@@ -255,7 +255,7 @@ gennemføres som online målinger med automatisk dataopsamling. For at reducere
 omkostninger til udstyr kan man i første omgang vælge kun at udføre online målinger. De 
 hyppigst valgte parametre til karakterisering af first flush er suspenderet stof, tungmetaller (total 
 og filtreret), COD, Total-N og Total-P. Suspenderet stof og COD er de parametre med den 
-største first flush effekt. De nævnte analyseparametre kræver flowproportional frakt ioneret 
+største first flush effekt. De nævnte analyseparametre kræver flowproportional fraktioneret 
 prøvetagning for at resultaterne kan anvendes til karakterisering af first flush.
 
 Indledning og formål  
@@ -585,7 +585,7 @@ fjerne 3,5 gange flere forurenende stoffer i begyndelsen fremfor senere i en ned
 Metaller, der adsorberer til suspenderet stof, vil typisk følge den samme trend som suspenderet 
 stof. Opløste metaller behøver derimod ikke en minimumsafstrømning for at blive mobiliseret, og 
 dermed udviser de en høj grad af sæsonbestemt first flush. Svarende til danske forhold kan det 
-betyde, at metaller efter en lang tørkeperiode vil kunne blive frigivet sel v ved små regnskyl med 
+betyde, at metaller efter en lang tørkeperiode vil kunne blive frigivet selv ved små regnskyl med 
 lav intensitet. Erfaringen er, at hvis man er specielt bekymret for opløste metaller, er det 
 værdifuldt at fastlægge styringsstrategierne efter at behandle/rense vand fra regnhændelser , der 
 optræder efter lange tørvejrsperioder. 
@@ -613,7 +613,7 @@ forureningskomponenter til baggrundsniveauet, samt størrelsen af first flush be
 statistiske sandsynlighed for henholdsvis den indledende koncentration og 
 baggrundskoncentrationen. Til forskel fra de traditionelle metoder til beskrivelse af first flush 
 (eksempelvis /1/) er denne metode knyttet til traditionelle statistiske værktøjer , som ikke er 
-baseret på vilkårlige definitioner. Metoden er mere praktisk orienteret, men den er ikke fu ldt 
+baseret på vilkårlige definitioner. Metoden er mere praktisk orienteret, men den er ikke fuldt 
 udviklet, idet der mangler større indsigt i de faktorer, der karakteriserer first flush. Det pointeres, 
 at det er vigtigt at få fastlagt netop dimensioneringen af behandlingssystemer til håndtering af 
 first flush, idet der findes tommelfingerregler, der siger, at den første 0,5 inch (12,7 mm) nedbør 
@@ -643,7 +643,7 @@ forudgående tørvejrsperiode har for de fleste oplandstyper betydning for stør
 effekten. For regnvandsafstrømning fra tagflader med en stejl hældning er situationen imidlertid 
 en anden: Her vil regnvandet ikke indeholde større mængder forurenende stoffer efter en lang 
 tørvejrsperiode, og der ses ingen korrelation mellem størrelsen af first flush og høj regnintensitet 
-og nedbørsmængden. Der er således forskel på fist flush effekten ved afstrømning fra tage og 
+og nedbørsmængden. Der er således forskel på first flush effekten ved afstrømning fra tage og 
 ved afstrømning fra et opland med en svag hældning. 
 I Danmark er afstrømningsoplandene ofte betydeligt mindre end i udlandet, og dermed er first 
 flush hyppigt større end den, der ses i udlandet. Det betyder også, at first flush effekten alt andet 
@@ -680,12 +680,12 @@ indgik også M(V) kurver for suspenderet stof. Måleprogrammet inkluderede pH, t
 
 First flush  
  17 
-flow, ledningsevne og turbitidet, som blev målt kontinuerligt i 2 minutters intervaller. 
+flow, ledningsevne og turbiditet, som blev målt kontinuerligt i 2 minutters intervaller. 
 Flowmålingen foregik ved hjælp af måling af vanddybden og –hastigheden i et kloakrør på 1,6 m 
 i diameter, og her var loggeintervallet også 2 minutter. Regnmåleren leverede tidsserier af 
 nedbørsmængden inden for 6 minutters intervaller. Vurdering af den samlede datamængde 
 viste, at der skete udfald af dataopsamling for regnmålinger i 7,4% af tiden. Desuden manglede 
-ca. 13% af flowmålingerne og ca. 30% af tubiditetsmålingerne, der alle blev udført i 2 minutters 
+ca. 13% af flowmålingerne og ca. 30% af turbiditetsmålingerne, der alle blev udført i 2 minutters 
 intervaller. Usikkerhed er uundgåelig ved målinger af hydrologiske faktorer og vandkvalitet. I den 
 samlede usikkerhed indgår også usikkerhed på instrumentmålinger og kalibreringsusikkerhed. I 
 /4/ lå den relative usikkerhed mellem 15 og 35% for flowmålinger, mens usikkerheden på 
@@ -830,7 +830,7 @@ vandføringer mellem 8 og 600 l/s. Udformningen af regulatoren er dog lidt forsk
 flowet. Cyklonbremsen fungerer ved hjælp af gravitation og er designet, så der opnås maksimal 
 selvrensning. 
 Cyklonbremser kan indbygges i eksisterende brønde uden højdetab. De almindeligste størrelser 
-kan passere et brønddæksel og er anvendelige både ved nye anlæg og ved regulerin ger i 
+kan passere et brønddæksel og er anvendelige både ved nye anlæg og ved reguleringer i 
 eksisterende systemer.  
 Centrifugalbremsens gennemløbsåbning er større end cyklonbremsens, og det giver i den 
 situation en mindre risiko for tilstopningsproblemer, så her er centrifugalbremsetypen mest 
@@ -845,7 +845,7 @@ Den vertikale centrifugalbremse kan monteres i en brønd med sandfang og i forbi
 afløb fra forsinkelsesbassiner og bygværker m.m. Den vertikale centrifugalbremse anvendes til 
 regulering af små og moderate vandmængder, og den findes i forskellige størrelser og kan 
 regulere fra ca. 0,2 l/s til 80 l/s.  
-Den horisontale centrifugalbremse monteres normalt på tilløbet i en brønd i forbi ndelse med 
+Den horisontale centrifugalbremse monteres normalt på tilløbet i en brønd i forbindelse med 
 afløb fra bassiner og overfaldsbygværker og anvendes til regulering af små og moderate 
 vandmængder (4-30 l/s). Horisontale centrifugalbremser bliver kun brugt i specielle tilfælde og 
 er ikke almindelige i Danmark.  
@@ -1049,7 +1049,7 @@ tætte fuger
 I rapporten om monitering af hverdagsregn og first flush /17/ findes detaljerede beskrivelser af, 
 hvordan et måle- og prøvetagningssted skal være indrettet for at opnå troværdige målinger af 
 nedbør, flow og turbiditet samt udtagning af repræsentative prøver til analyse. 
-Prisen for etablering af en flowmåler, tubiditetsmåler, nedbørsmåler, prøvetager samt udstyr til 
+Prisen for etablering af en flowmåler, turbiditetsmåler, nedbørsmåler, prøvetager samt udstyr til 
 dataopsamling og overførsel af data vurderes at være i størrelsesordenen 100.000 kr. Dertil 
 kommer udgifter til opsætning og test. Prisen vil afhænge af målestedets indretning, om der er 
 permanent strømforsyning, eller der skal anvendes batterier, og om udstyret f.eks. skal placeres 
@@ -1165,7 +1165,7 @@ Måleprogram
 Formålet med måleprogrammer for first flush i en brønd, hvor der er installeret en vandbremse , 
 er at kvantificere størrelsen af first flush, fastlægge stofbelastningen i vandet, der udledes til 
 vandområdet, og sammenligne med stofmængden, der ledes til kloak. Det maksimale flow til 
-kloak kan reguleres ved indstilling af vandvandbremsen. 
+kloak kan reguleres ved indstilling af vandbremsen. 
 Forslaget til et måleprogrammet er inddelt i fire trin, hvor de to første trin alene består i online 
 målinger, mens de to sidste inkluderer automatisk prøvetagning og kemiske analyser. 
 Målingerne omfatter tilløb og to afløb fra brønden (til kloak og til vandområde). 
@@ -1174,13 +1174,13 @@ gennemføres som online målinger med automatisk dataopsamling f.eks. med to min
 intervaller. For at reducere omkostninger til udstyr kan man i første omgang vælge kun at udføre 
 online målinger. De hyppigst valgte parametre til karakterisering af first flush er suspenderet 
 stof, tungmetaller (total og filtreret), COD, Total-N og Total-P. Suspenderet stof og COD er de 
-parametre med den største first flush effekt. De nævnte analyseparametr e kræver 
+parametre med den største first flush effekt. De nævnte analyseparametre kræver 
 flowproportional fraktioneret prøvetagning. 
 6.1 Anbefalinger 
 Ved litteratursøgning blev der ikke identificeret måleprogrammer, hvori der indgik vandbremser 
 til regulering af regnvandsstrømme. Et måleprogram vil kunne dokumentere størrelsen af first 
 flush og fordelingen af vand- og stofmængde mellem udløb til kloak og udløb til et vandområde. 
-Som minimum anbefales målemåleprogrammet at omfatte følgende aktiviteter: 
+Som minimum anbefales måleprogrammet at omfatte følgende aktiviteter: 
 • Online måling og dataopsamling af flow og turbiditet i tilløb til regnvandsbrønd med 
 vandbremse og i afløbet til kloak 
 • Kalibrering mellem turbiditet og koncentrationer af suspenderet stof 

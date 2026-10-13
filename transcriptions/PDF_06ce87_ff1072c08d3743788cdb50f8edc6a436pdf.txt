@@ -343,7 +343,7 @@ Skader: 750 mill. kr.
 Boliger: 23 % oversvømmes
 Erhverv: 34 % oversvømmes
 Median scenarie
-HHavvandstigning: 60 cm
+Havvandstigning: 60 cm
 Skader: 0,9 mia. kr
 Boliger: 27 % oversvømmes
 Erhverv: 38 % oversvømmes

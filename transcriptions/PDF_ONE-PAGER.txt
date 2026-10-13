@@ -6,8 +6,8 @@ Indekseret: 2026-09-23T10:15:46.404024
 
 ==================================================
 
-I gennem dataopsamlig og litteraturstudier er der 
-i projeket blevet udviklet en model til estimering 
+I gennem dataopsamling og litteraturstudier er der 
+i projektet blevet udviklet en model til estimering 
 af overfladeafstrømning, denne beregnings- 
 metode er blevet sammenholdt med den 
 nuværende dimensioneringspraksis.
@@ -16,7 +16,7 @@ I et konkret projekt er der lavet en simpel analyse
 af forskellen imellem brug af den empiriske 
 tilgang og så den mere validerede tilgang. 
 Projektet omhandler en byggemodning, hvor 
-der er fortaget analyser på afstrømningen fra 
+der er foretaget analyser på afstrømningen fra 
 området før og efter udbygning for at vurdere 
 konsekvensen ved at ændre de eksisterende 
 forhold. Denne tilgang er accepteret af 
@@ -37,7 +37,7 @@ andet, at når alle forhold blev taget i betragtning,
 så blev netto afløbet fra byggemodningen mindre 
 end den naturlige afstrømning før modning, da 
 områder afkobles og håndteres lokalt, hvor netto 
-afløbet var blevet større med den emperiske 
+afløbet var blevet større med den empiriske 
 tilgang.
  
 Atkins tilbyder ydelser på området på forskellige 

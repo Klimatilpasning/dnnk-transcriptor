@@ -113,7 +113,7 @@ Begrebet bidragsfordeling anvendes i såvel vandløbsloven1 og kystbeskyttelsesl
 til vandløbs- eller kystbeskyttelsesprojekter ved opkrævning af bidrag  (pengebeløb) fra ejere og andre, der 
 opnår beskyttelse eller anden nytte ved en foranstaltning. Bidragspligt indebærer, at der træffes en afgørelse, 
 hvor de enkelte bidrag sydere pålægges pligt til at indgå i bidragsfordelingen efter en nærmere angiven 
-fordelingsnøgle. For så vidt angår kystbeskytte lsesloven, er det kommunen, der træffer afgørelse om 
+fordelingsnøgle. For så vidt angår kystbeskyttelsesloven, er det kommunen, der træffer afgørelse om 
 bidragsfordeling, og afgørelsen kan påklages til Miljø - og Fødevareklagenævnet. For så vidt angår 
 vandløbsloven, kan kommunen alene søge forlig mellem de involverede . Hvis der ikke kan opnås enighed, 
 træffes en egentlig afgørelse om bidragsfordeling af en taksationskommission og kan påklages til en 
@@ -146,7 +146,7 @@ projekter for enkelte ejendomme. Såvel kystbeskyttelsesprojekter som vandløbsp
                                                            
 1 Lovbekendtgørelse 1217/2019 af lov om vandløb (vandløbsloven). 
 2 Lovbekendtgørelse 705/2020 af lov om kystbeskyttelse (kystbeskyttelsesloven).  
-3 Lovbekendtgørelse 553/2020 om betalingsregler for spildevandsforsyningsselskaber mv. (spildevandsbetalingsl oven). 
+3 Lovbekendtgørelse 553/2020 om betalingsregler for spildevandsforsyningsselskaber mv. (spildevandsbetalingsloven). 
 4 Lov nr. 1520/2014 om offentlige veje m.v. med senere ændringer (vejloven) fastsætter regler om vejbidrag i lovens 
 kapitel 4. Lovbekendtgørelse 1234/2015 om private fællesveje indeholder også regler om udgiftsfordeling.  
 
@@ -187,7 +187,7 @@ som en reguleringssag. 7 At et vandløb modtager  spildevand, hindrer ikke, at d
 6 Miljø- og Fødevareklagenævnet har i en afgørelse af 17. april 2018, j.nr. NMK-43-00694 (MAD2018.156) udtalt, at 
 ændring af et forløbs status fra vandløb til spildevandsteknisk anlæg alene kan ske ved udarbejdelse af et tillæg til 
 spildevandsplan/revision af spildevandsplanen, blandt andet med henvisning til Miljøstyrelsens Vejledning nr. 3, 2001 
-om betalingsregler for spildevandsanlæg. Vejledningen forudsætter, at alle spi ldevandsanlæg fremgår af kommunens 
+om betalingsregler for spildevandsanlæg. Vejledningen forudsætter, at alle spildevandsanlæg fremgår af kommunens 
 spildevandsplan. Sagen blev i øvrigt genoptaget i 2019 med en præcisering af, at et  rørlagt forløb, der kun er tilsluttet 
 en enkelt ejendom, ikke retligt kan klassificeres som et (fælles) spildevandsteknisk anlæg omfattet af 
 miljøbeskyttelsesloven. Endvidere anførtes, at der var tale om et drænrør, der ikke kun modtog tag - og spildevand, 
@@ -312,7 +312,7 @@ vandløb på deres ejendom, og som havde nytte heraf, måtte bidrage til at afho
 kommissionen fandt ikke grundlag for at anfægte den af kommunen anvendte fordelingsnøgle, hvorefter bidragene 
 var fastsat proportionalt med længden af den rørlagte strækning på den enkelte ejendom.  
 I en anden sag afviste Overtaksationskommissionen for Fyn, Sønderjylland og Esbjerg, at en grundejer havde nytte 
-af regulering af en rørlagt vandløbsstrækni ng med en ny ledning, da vedligeholdelsesforpligtelsen påhvilede 
+af regulering af en rørlagt vandløbsstrækning med en ny ledning, da vedligeholdelsesforpligtelsen påhvilede 
 kommunen, og der derfor ikke var sparede vedligeholdelsesudgifter for grundejeren. 17  
 Der kan ved fastsættelse af bidragsfordeling tages udgangspunkt i forskellige modeller, for eksempel TWI-
 modellen, som er en matematisk beregningsmetode, der beskriver vandstrømning og vandopstuvning på 
@@ -330,7 +330,7 @@ konkrete foranstaltninger.
 (MAD2017.521). 
 18 TWI er en forkortelse for topographic wetness index. Se om modellen for eksempel Stisen, S. et.al., Modellering af 
 terrænnært grundvand, vandstand i vandløb og vand på terræn for Storå og Odense Å. Slutrapport (FODS 6.1 
-Fasttrack metodeudvikling), Dannmarks og Grønlands Geologiske Undersøgelser Rapport 2018/36 s. 70.  
+Fasttrack metodeudvikling), Danmarks og Grønlands Geologiske Undersøgelser Rapport 2018/36 s. 70.  
 
 8 
  
@@ -370,7 +370,7 @@ tinglyses på de ejendomme, der er medlem af laget, og på de ejendomme, der i �
                                                            
 19 Overtaksationskommissionen for Fyn, Sønderjylland og Esbjerg kendelser af 17. november 2014, Otax 2/14. 
 20  Overtaksationskommissionen for Fyn, Sønderjylland og Esbjerg kendelse af 28. og 29. maj 2019, TS82401-00019 
-vedrørende et vandreguleringsprojekt i et sommerhusområde på Sydals. Projektet berørte727 sommerhusejere, som 
+vedrørende et vandreguleringsprojekt i et sommerhusområde på Sydals. Projektet berørte 727 sommerhusejere, som 
 alle var medlem af det offentlige Lysabild-Skovby landvindingslag. 
 21 Overtaksationskommissionen for Nord- og Vestsjælland berigtiget kendelse af 8. maj 2014, Otax 2013-1. Smh.m. 
 U2000.1668H vedrørende kystbeskyttelsesloven, se kapitel 3.2. 
@@ -553,7 +553,7 @@ kystbeskyttelsesprojekt ved Gl. Skagen.
 
 13 
  
-Det er også understreget i praksis, at såfremt et samlet kystbeskyttels esprojekt består af flere forskellige 
+Det er også understreget i praksis, at såfremt et samlet kystbeskyttelsesprojekt består af flere forskellige 
 delelementer, må der sikres en vurdering af, hvem der har nytte af hvert enkelt delelement.36 
 Endvidere har Miljø- og Fødevareklagenævnet lagt til grund, at der ikke var grundlag for at nedsætte bidrag 
 for ejendomme, der ville få et dige på deres ejendom, da dette forhold ikke angik selve bidragsfordelingen, 
@@ -568,7 +568,7 @@ ejendomme med mulighed for differentiering over tid og/eller geografisk. Det anb
 bidragsfordelingen udformes så simpelt og enkelt som muligt under hensyntagen til de konkrete forhold.  
 De udgifter, der indgår i en  bidragsfordeling er både anlægsudgifter og driftsudgifter, herunder til 
 efterfølgende vedligeholdelse. Kommunen skal hvert år inden d en 1. oktober nærmere fastsætte, hvilke 
-bidrag de enkelte bidrag sydere skal indbetale til kommunen eller til et kystbeskyt telseslag, jf. lovens § 13. 
+bidrag de enkelte bidrag sydere skal indbetale til kommunen eller til et kystbeskyttelseslag, jf. lovens § 13. 
 Såfremt der sker større ændringer eksempelvis, at kredsen af bidragsydere udvides/indskrænkes, eller 
 anlægget udvides eller ændres væsentligt, skal der gennemføres en ny proces efter kystbeskyttelseslovens § 
 1 a.  
@@ -665,7 +665,7 @@ til projekter vil imidlertid blive underlagt effektiviseringskrav, således at d
 betaler unødigt meget for klimatilpasningen. Der forventes fremsa t et lovforslag i 2020.  Et udkast til 
 lovforslag er den 24. august 2020 sendt i høring. 44 Ifølge høringsudkastet vil de gældende 
 medfinansieringsregler blive ophævet , og der vil blive mulighed for, at forsyningerne i videre omfang kan 
-indgå i klimatilpasnin gsprojekter, herunder også i forhold til andre parter såsom staten og regionerne. 
+indgå i klimatilpasningsprojekter, herunder også i forhold til andre parter såsom staten og regionerne. 
 Endvidere vil reglerne ikke kun omfatte tag- og overfladevand, men også for eksempel overløb. Det vil fortsat 
 være afgørende, at der er tale om projekter, der vedrører udlagt e kloakeringsområder, hvor 
 forsyningsselskabet har ansvar for håndtering af blandt andet tag- og overfladevand. Endvidere vil der blive 
@@ -686,7 +686,7 @@ spildevandsforsynings-selskaber m.v., lov om miljøbeskyttelse, vandsektorloven 
  
 Som nævnt ovenfor i kapitel 2, er afgrænsningen mellem vandløb og spildevandsanlæg ikke ganske klar. At 
 et vandløb modtager spildevand, hindrer ikke, at der fortsat er tale om et vandløb. 45 Omvendt vil der 
-formentlig være begrænset mulighed for, at et spildevandsanlæg kan modtage vandløbsva nd, herunder 
+formentlig være begrænset mulighed for, at et spildevandsanlæg kan modtage vandløbsvand, herunder 
 drænvand.46 Ifølge spildevandsbekendtgørelsen defineres et spildevandsanlæg som ”åbne såvel som lukkede 
 ledninger og andre anlæg, der tjener til afledning og/eller behandling af spildevand i forbindelse med 
 udledning til vandløb, søer eller havet” eller til afledning til jorden. 47 Spildevandsanlæg skal være angivet i 

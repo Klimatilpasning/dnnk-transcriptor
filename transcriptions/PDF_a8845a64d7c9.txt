@@ -124,7 +124,7 @@ regnvand, inden vandet udledes til urbane miljøer.
 3/26 
  
 Tabel 1. Københavns Kommunes forslag til kvalitetskrav for total-P niveauer i kommunens ferskvandsreci-
-pienter og til eventuel rensemetode af vand, som skal udledes til d isse. Tabel fra /5/.  
+pienter og til eventuel rensemetode af vand, som skal udledes til disse. Tabel fra /5/.  
  
  
 1.2 Udfordringer med prøveudtagninger  
@@ -604,7 +604,7 @@ LTS modelregn), fordampning og temperatur /21/.
 Programmet er opbygget af en række forskellige afvandingselementer, som f.eks. vandløb, 
 renseanlæg, grønne tage og regnbede. GIS-data kan anvendes. For hvert element defineres 
 en konstant indløbskoncentration og stoffjernelse for udvalgte parametre. Der er ingen præ-
-definerede parametre, stofkoncentrationer eller resegrader, dvs. at alt skal indtastes manu-
+definerede parametre, stofkoncentrationer eller rensegrader, dvs. at alt skal indtastes manu-
 elt. I forhold til den hydrauliske del, er simuleringen af den stofmæssige del meget simpel, 
 og kunne i princippet laves ved almindelige håndberegninger.  
  
@@ -729,7 +729,7 @@ tent/uploads/2017/06/Notat-om-principper-for-rensning-af-hverdagsregn-03-03-
 2016-K%C3%B8benhavns-Kommune.pdf 
 /7/ Vollertsen, J., Hvitved-Jacobsen, T., Nielsen, A.H. & Gabriel, S. 2012. Våde bassiner til 
 rensning af separat regnvand – Baggrundsrapport. Aalborg Universitet Aalborg Uni-
-versitet, Danmaks Tekninske Universitet, Teknologisk institut & Orbicon A/S. 
+versitet, Danmarks Tekniske Universitet, Teknologisk institut & Orbicon A/S. 
 /8/ Københavns Kommune. LAR-projekthåndbog. Tagvand og vejvand – Indhold af miljø-
 fremmede stoffer. 
 /9/ Egemose, S., Jensen, H.S. & Jensen, H.E. 2008. Fosfor i regnvand fra separatkloake-
@@ -828,7 +828,7 @@ Bilag 2 Opsamling på eksisterende forskningsresultater vedr. filtertyper til re
 Metode/me-
 die 
   Bassin, kapacitet: > 250 m3/red.ha Sand-
-fiter 
+filter 
 Sand-
 filter 
 m. Al 
@@ -976,7 +976,7 @@ Mechlorprop ug/l                     63% 0.2
  
 Bilag 1 referencer 
 /1/  Vollertsen, J., Hvitved-Jacobsen, T., Nielsen, A.H. & Gabriel, S. 2012. Våde bassiner til rensning af separat regnvand – Baggrunds-
-rapport. Aalborg Universitet Aalborg Universitet, Danmaks Tekninske Universitet, Teknologisk institut & Orbicon A/S. 
+rapport. Aalborg Universitet Aalborg Universitet, Danmarks Tekniske Universitet, Teknologisk institut & Orbicon A/S. 
 /2/  Faktablad om dimensionering af våde regnvandsbassiner. Aalborg Universitet, 2012. 
 /3/  Københavns Kommune. LAR-projekthåndbog. Våde bassiner og damme. December 2011 
 /4/  Vollertsen, J., Nielsen, A. H., Rasmussen, M. R., & Hvitved-Jacobsen, T. 2006. Våde regnvandsbassiner. Mikroben, 14(34), 4-9. 
@@ -1370,7 +1370,7 @@ ides-coated quartz particles. J. Colloid Interface Sci. 295: 65-70.
 Phosphorus Removal. Water Environ Research 73(4):478-485. 
 5. Ballantine. D.J., Tanner C.C. (2010): Substrate and filter materials to enhance phosphorus removal in constructed wetlands treating 
 diffuse farm runoff: a review. New Zealand Journal of Agricultural Research 53(1): 71-95. 
-6. Cederkvist, K., Jensen, M.B., Ingvertsen, S.T., Holm, P.E. (2016): Controlling Stormwater Quality with Filter Soil—Ev ent and Dry 
+6. Cederkvist, K., Jensen, M.B., Ingvertsen, S.T., Holm, P.E. (2016): Controlling Stormwater Quality with Filter Soil—Event and Dry 
 Weather Testing. Water 8(349) doi:10.3390/w8080349 
 7. Cederkvist, K., Ingvertsen, S.T., Jensen, M.B., Holm, P.E. (2013): Behaviour of chromium(VI) in stormwater soil infiltration sy-
 stems. Applied Geochemistry 35: 44-50. 
@@ -1395,7 +1395,7 @@ with Engineered Filter Soil: I. Characterization and Lifetime Expectancy. J. Env
 25/26 
  
 17. Ingvertsen, S.T., Cederkvist, K., Jensen, M.B., Magid, J. (2012b): Assessment of Existing Roadside Swales with Engineered Filter 
-Soil: II. Treatment Effi ciency and in situ Mobilization in Soil Columns. J. Environ Qual. 41 doi: 10.2134/jeq2012.0116. 
+Soil: II. Treatment Efficiency and in situ Mobilization in Soil Columns. J. Environ Qual. 41 doi: 10.2134/jeq2012.0116. 
 18. Johannsen, L.L., Cederkvist, K., Holm, P.E., Ingvertsen, S.T. (2016): Aluminum Oxide-Coated Sand for Improved Treatment of Ur-
 ban Stormwater. J. Environ Qual. 45(2):720-727. 
 19. Jørgensen, C.A., Jensen, H.S. and Egemose, S. (2017): Phosphate adsorption to iron sludge from waterworks, ochre precipitation 
@@ -1435,5 +1435,5 @@ nelse i vandmiljøet – Del 1. Vand og Jord 18 (1): 32-35.
 35. Wium-Andersen, T., Nielsen, A.H., Hvitved-Jacobsen, T., Kristensen, N.K., Brix, H., Arias, C., Vollertsen, J. (2012): Sorption media 
 for stormwater treatment – A laboratory evaluation of five low-cost media for their ability to remove metals and phosphorus from 
 artificial stormwater. Water Environ Res 84(7): 605-616. 
-36. Zamparas, M., Zacharias, I. (2014): Restoration of eutrophic freshwater bymanaging internal nutrient loads. A review. Sci Tot En-
+36. Zamparas, M., Zacharias, I. (2014): Restoration of eutrophic freshwater by managing internal nutrient loads. A review. Sci Tot En-
 viron 496:551-562.

@@ -84,7 +84,7 @@ I laboratoriet blev der foretaget modificerede kolonnetests til undersøgelse af
 udvaskning af miljøfremmede stoffer fra materialer. Materialet i kolonnerne blev 
 sammensat, så de relative størrelsesforhold mellem materialer svarede til forholdene 
 på banerne. Der blev således opsat 3 kolonner med membran under kunstgræs med 
-infill af kvartssand og sort SBR og 3 kolonner med kunstgræs med infill af kvartssa nd 
+infill af kvartssand og sort SBR og 3 kolonner med kunstgræs med infill af kvartssand 
 og sort SBR, og herunder 37 cm drænlag. Sort SBR blev indsamlet på 
 opbevaringspladser ved to baner. Det var således ubrugt, men havde været udsat for 
 opbevaring og eventuel forvitring fra vind og vejr. Højden af kolonnerne var 1:1 i 
@@ -140,7 +140,7 @@ Der var ikke mulighed for at udtage tidsproportionale prøver på banerne på gr
 udformning af prøvetagningsbrønd og lavt flow i brøndene på 
 prøvetagningstidspunktet. I stedet blev der taget stikprøver fra løbende stråle ud til 
 blandingsprøver én gang på hver bane. Stikprøver er udtryk for en øjeblikssituation, og 
-derfor ikke repræsentative, da parametre som nedbørshistorik, banens alder, forvitr ing 
+derfor ikke repræsentative, da parametre som nedbørshistorik, banens alder, forvitring 
 af materialer, genopfyldning med infill m.m.  formodentlig har indflydelse på 
 koncentrationerne af stoffer i drænvandet over tid.  
 Analyser af Cu og Zn i prøver fra banerne gav usikre resultater. 
@@ -208,7 +208,7 @@ FloPod (Fleming, et al., 2016).
 En simplere løsning ville være at lave separat dræning på en repræsentativ del af banen 
 og indsamle hele prøvemængden fra delområdet. (Magnusson, 2017). Dette er 
 sammenligneligt med klassiske lysimetertests, men med den forskel, at der er naturligt 
-slid på materialerne fra fodboldspillerne. Prøvetagningen i Luleå er foregået o ver et år, 
+slid på materialerne fra fodboldspillerne. Prøvetagningen i Luleå er foregået over et år, 
 og fortsætter endnu et år. Hvis test af drænvand fra baner, skal repræsentere hele 
 banens levetid, ville det dog være nødvendigt at tage prøver over 10-12 år for at kunne 
 vurdere, om forceret udvaskning i kolonner kan efterligne udvaskningen direkte fra 
@@ -269,7 +269,7 @@ Magnusson, S., 2017. Bedömning av omgivningspåverkan från olika fyllmaterial 
 konstgräsplaner. Fallstudie av dräneringsvatten, Luleå: Luleå tekniska universitet. 
 Miljø- og fødevareministeriet, 2016. Bekendtgørelse nr. 429 for fastlæggelse af 
 miljømål for vandløb, søer, overgangsvande,kystvande og grundvand. s.l.:s.n. 
-Nordtest, 1995. Solid waste, granular, inorganic material: Cloumn test (NT ENVIR 
+Nordtest, 1995. Solid waste, granular, inorganic material: Column test (NT ENVIR 
 002), s.l.: Nordtest. 
 Nordtest, 1998. Solid waste, granular inorganic material: Compliance batch leaching 
 test (NT ENVIR 005), s.l.: Nordtest. 

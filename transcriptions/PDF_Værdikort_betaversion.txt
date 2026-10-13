@@ -67,7 +67,7 @@ ter og værdier ind i planlægningsprocessen, der jo normalt varetages af sektor
 fagfolk. 
 Værdikort til at udvikle og gennemføre multifunktionalitet og merværdi 
 Når vi skal skabe multifunktionalitet og merværdi i klimatilpasningen, udfordrer vi den så 
-velkendte vej og de brugsmæssige og faglige sektorprakisser, der er bygget op omkring 
+velkendte vej og de brugsmæssige og faglige sektorpraksisser, der er bygget op omkring 
 denne. Forskning i omstilling viser, at selv om det kan virke indlysende at re-designe med 
 merværdi, så er der brug for gode argumenter, når man vil omstille eksisterende praksisser. 
 Tværfagligt samarbejde kan også være en udfordring at realisere i praksis.  
@@ -85,7 +85,7 @@ Værdikortenes formål og indhold
   Flere fællesskaber 
   Læring og kreativitet
   Den sunde by for alle
-   Byer som arena for rehabiletering
+   Byer som arena for rehabilitering
   Rum til ro og fordybelse 
   Bedre byklima
   Den oplevelsesrige by – hele året
@@ -122,7 +122,7 @@ udviklingsprocesser.
 2. Tværfaglig invitation og co-design   
 Merværdi skabes når forskellige perspektiver og funktionaliteter lægges ind i et 
 projekt. Derfor skal forvaltninger - og borgere - der ikke i udgangspunktet oplever, 
-at klimatilpansing har relevans for dem, inviteres ind i processen.
+at klimatilpasning har relevans for dem, inviteres ind i processen.
 Det er ikke kun fagfolk og forvaltninger fra fx park, vej og byplanlægning, men 
 også fra skoler, daginstitutioner, kultur, social, sundhed, sport og fritid og erhverv 
 der skal engageres i samarbejdet om at udvikle de nye design-løsninger.
@@ -324,7 +324,7 @@ en række vandbassiner. Som oftest er de tørre, andre gange kan man følge vand
 Stien er koblet på den eksisterende cykelsti i Høje Gladsaxe Park og desuden en del af Supercykel-
 stien. Vandet og stien føres under den trafikerede vej hen til skolen. Stien er oplevelsesrig og lægger 
 op at lege, spille bold eller holde picknick. Det bruges også  af børnehaver som aktivitetsområde. 
-Projektet er en del af kommunen strategiske arbejde med at afkoble regvand. Kommunen og Forsy-
+Projektet er en del af kommunen strategiske arbejde med at afkoble regnvand. Kommunen og Forsy-
 ningen vurderer, at der er 25-30 % færre overløb af urenset spildevand som følge af projektet.
   Læs mere på gladsaxe.dk
 Aktiv mobilitet
@@ -374,9 +374,9 @@ gerne på hjerte, kredsløb og muskler har i mange år været kendt. Fysisk akti
 tet har også en positiv indflydelse på stofskiftet og på hormonsystemet. 
   Fysisk aktivitet behøver ikke at være anstrengende for, at man opnår sund-
 hedsmæssige fordele. 
-Kilde: Sundhedsstyelsen (2018)
+Kilde: Sundhedsstyrelsen (2018)
 Effekter
-Kilde: Københavns Kommune 2017Kilde Mayor of London & Transport of London 2017
+Kilde: Københavns Kommune 2017Kilde Mayor of London & Transport for London 2017
 Kilde: Sundhedsstyrelsen (2018b)
 Kommunernes investeringer i at fremme 
 aktiv mobilitet betaler sig:
@@ -479,7 +479,7 @@ Kong Hans Vej i Gladsaxe
 I Gladsaxe kommune har man 
 afprøvet ‘borgerbudgetter’ som 
 metode til at engagere borgerne 
-i designet af et klimatilpassset 
+i designet af et klimatilpasset 
 grønt område i et nærområde tæt 
 på skolen. Gennem processen har 
 mange forskellige borgere udvik-
@@ -979,7 +979,7 @@ at fordybe sig i vandets forløb eller sidde og
 nyde lyden af vandets rislen. 
   Læs mere på architecturenorway.no
 Rum til ro og fordybelse
-  Afslapning og leg i den nye bydel ved Forneby i Oslo. 
+  Afslapning og leg i den nye bydel ved Fornebu i Oslo. 
 Odinparken i København
 Lommeparker er et koncept, der er hentet 
 fra New York, hvor de har haft stor succes 
@@ -1138,12 +1138,12 @@ kvenser.
 Takket være de menneskeskabte klimaforan-
 dringer er sandsynligheden for hedebølger i 
 Danmark firedoblet.
-At håndtere luftforuening, støj og hedebølger 
+At håndtere luftforurening, støj og hedebølger 
 er blot nogle af de naturbaserede services, vi 
 kan arbejde mere strategisk med i byerne for 
 at forbedre byens klima. 
 Kilde: World Weather Attribution (2018)
-I Lisabon har forskerne anvendt værktøjet 'I-Tree' 
+I Lissabon har forskerne anvendt værktøjet 'I-Tree' 
 og sat værdi på træernes værdiskabelse i byen. 
 De udregnede værdien til at være:
 På baggrund af den udførte husprisanalyse, kan 
@@ -1185,7 +1185,7 @@ brugere færdes til daglig  – og se hvordan vejret og
 årstiderne ændrer oplevelserne. 
   Skabe rum for at lokale borgere og brugere selv kan 
 skabe aktiviteter i nærområdet. 
-  Styrke lokale relationer mellem borbere og brugere fx 
+  Styrke lokale relationer mellem borgere og brugere fx 
 gennem driftsfællesskaber.
 Den oplevelsesrige by – hele året 
   I Låsby Søpark er der kommet rige muligheder for oplevelser.
@@ -1485,7 +1485,7 @@ ressourcerne til at løse velfærdsopgaver og styrke medejerskabet til
 byen og dens brug og udvikling. 
 Samfundsudfordringer
 Effekter
-  Gennem Greem Street Steward-programmet i Portland indgår de lokale beboerne 
+  Gennem Green Street Steward-programmet i Portland indgår de lokale beboerne 
 i udviklingen og pasningen af de lokale veje. (Foto: Portlandoregon.gov)
 I Stanford Five-City Projektet i Nord Californien viser 
 evalueringer efter 6 års lokale udviklingsprocesser, at 
@@ -1504,7 +1504,7 @@ Gennem Green Street Steward-programmet i Portland
 i USA har forvaltningen kunnet reducere deres antal af 
 besøg til vedligeholdelse af de grønne vejbede. Det sker 
 fordi borgerne bidrager med simple aktiviteter som at 
-samle affald op, fjerne blade og sten fra indkløbet samt 
+samle affald op, fjerne blade og sten fra indløbet samt 
 lugning og vanding.
 Kilde : Hoffman et al. (2015)
 Top-down planlægning kan skabe 
@@ -1612,7 +1612,7 @@ Sundhedsstyrelsen (2015): Fakta om fysisk aktivitet.
 Sundhedsstyrelsen (2018a): Danskernes Sundhed – Den Nationale Sundheds-
 profil 2017. Udarbejdet af Jensen, H.E.R., Davidsen, M., Ekholm, O., Christensen, 
 A.I., Statens Institut for Folkesundhed, SDU. 
-Sundhedsstyrlsen (2018b): Forebyggelsespakke. Fysisk aktivitet.
+Sundhedsstyrelsen (2018b): Forebyggelsespakke. Fysisk aktivitet.
 Taylor, A.F & Kuo, F .M.E. Kuo (2011): Could Exposure to Everyday Green Spaces 
 Help Treat ADHD? Evidence from Children’s Play Settings. Applied Physhology: 
 Health and well-being, 2011, 3 (3), 281–303. 

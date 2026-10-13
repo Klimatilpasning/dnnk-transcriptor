@@ -114,12 +114,12 @@ for hvert case-område i projektperioden.
 Partnerskabskredsen bag projekt består af: 
 Kommunerne: Ballerup, Bornholm, Brøndby, Egedal, Fredensborg, Frederiks-
 sund, Furesø, Gladsaxe, Herlev, Hvidovre, Ishøj, København, Roskilde og 
-Vallensbæk, Rudersdal som repræsentant for N ovafos' ejerkommuner  og 
-Gribskov k ommune som repræsentant for Nordkystens Fremtid ( Halsnæs, 
+Vallensbæk, Rudersdal som repræsentant for Novafos' ejerkommuner  og 
+Gribskov Kommune som repræsentant for Nordkystens Fremtid ( Halsnæs, 
 Gribskov og Helsingør kommune), Forsyningsselskabet Novafos,  Køben-
 havns Universitet, Aarhus Universitet, Miljøstyrelsen, Kystdirektoratet, For-
 sikring & Pension, Region Hovedstaden. 
-Desuden følger CO NCITO, Danmarks Tekniske Universitet, Forsikring og 
+Desuden følger CONCITO, Danmarks Tekniske Universitet, Forsikring og 
 Pension, HOFOR, Region Sjælland samt Det Nationale Netværk for Klimatil-
 pasning-projektet. 
 Projektet om mulige finansieringsmodeller af Klimatilpasningsprojekter in-
@@ -309,7 +309,7 @@ pengepolitik og ekspansiv finanspolitik (IMF, 2020). De pengepolitiske tiltag
 har i 2020 øget den samlede mængde penge i hele verden i forsøget på at 
 sænke renten. Nationalbanker verden over har opkøbt statsobligationer og 
 virksomhedsobligationer i stor stil og solgt dem videre til en betydelig lavere 
-rente (IMF, 2020). Det har sikret, at finansielle intuitioner og investeringsban-
+rente (IMF, 2020). Det har sikret, at finansielle institutioner og investeringsban-
 ker er blevet presset over i aktiemarkedet for at finde højere afkast. Det har på 
 en gang sikret pæne stigninger på aktiemarkederne i både Danmark og på 
 globalt plan , efter de første betydelige fald i foråret 2020  (Nationalbanken, 
@@ -1143,7 +1143,7 @@ MULIGE FINANSIERINGSMODELLER
 AF KLIMATILPASNINGSPROJEKTER
 I denne rapport gennemgås forskellige løsningsmodeller 
 for finansiering af klimatilpasningsprojekter som en del 
-af Region Hovedstadens projekt Klimspasning på tværs. 
+af Region Hovedstadens projekt Klimatilpasning på tværs. 
 Den nuværende finansieringsløsning i Danmark, gennem 
 KommuneKredit, er attraktiv sammenlignet med de fleste 
 andre mulige løsninger. Udenlandske eksempler på finan -
