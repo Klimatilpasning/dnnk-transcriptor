@@ -28340,5 +28340,237 @@
       }
     ],
     "afvist": []
+  },
+  "transcriptions\\PDF_InnovativKlimatilpasningmBorgereVIB.txt": {
+    "anvendt": [
+      {
+        "forkert": "Købehavn",
+        "rettet": "København",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "skybudsvarsel",
+        "rettet": "skybrudsvarsel",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ekstermregn",
+        "rettet": "ekstremregn",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "rengvand",
+        "rettet": "regnvand",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Aaalborg",
+        "rettet": "Aalborg",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Albertlund",
+        "rettet": "Albertslund",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Emily Haut fortæller",
+        "rettet": "Emily Hauth fortæller",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Emily Hault",
+        "rettet": "Emily Hauth",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "regnhavnerne",
+        "rettet": "regnhaverne",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "landrugsarealer",
+        "rettet": "landbrugsarealer",
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": [
+      {
+        "forkert": "Middelbart",
+        "rettet": "Middelfart",
+        "grund": "risikabel"
+      }
+    ]
+  },
+  "transcriptions\\PDF_httpsusercontentonewpwwwdnnkdkwp-contentuploads202410TFMKE3-4_2024-Ellen-Margret.txt": {
+    "anvendt": [
+      {
+        "forkert": "Nordrheim",
+        "rettet": "Nordrhein",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "monsteregn",
+        "rettet": "monsterregn",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Miljøditrektoratet",
+        "rettet": "Miljødirektoratet",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Andrea M. Keesen",
+        "rettet": "Andrea M. Keessen",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Handelsplan for FN",
+        "rettet": "Handlingsplan for FN",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Oversvømmelsesdirektoratets",
+        "rettet": "Oversvømmelsesdirektivets",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "vandopløbslande",
+        "rettet": "vandløbsoplande",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Thorning-Schmith",
+        "rettet": "Thorning-Schmidt",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "cversvømmelsesfarer",
+        "rettet": "oversvømmelsesfarer",
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": [
+      {
+        "forkert": "Petersensen",
+        "rettet": "Petersen",
+        "grund": "risikabel"
+      },
+      {
+        "forkert": "Paftalen",
+        "rettet": "Parisaftalen",
+        "grund": "risikabel"
+      },
+      {
+        "forkert": "Plan- og Landskabsstyrelsens",
+        "rettet": "Plan- og Landdistriktsstyrelsens",
+        "grund": "risikabel"
+      }
+    ]
+  },
+  "transcriptions\\PDF_Haandbog_Aktoerkortlaegning.txt": {
+    "anvendt": [
+      {
+        "forkert": "Limfjorssekretariatet",
+        "rettet": "Limfjordssekretariatet",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Aktørlanskaber",
+        "rettet": "Aktørlandskaber",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Gudåen",
+        "rettet": "Gudenåen",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "interessantanalyse",
+        "rettet": "interessentanalyse",
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\PDF_Se_rapporten_her.txt": {
+    "anvendt": [
+      {
+        "forkert": "",
+        "rettet": "",
+        "grund": "AI-rensning (rutine) - ingen rettelser fundet"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\PDF_3940a7b024f9.txt": {
+    "anvendt": [
+      {
+        "forkert": "Nordfreisland",
+        "rettet": "Nordfriesland",
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\PDF_Download_rapporten_her.txt": {
+    "anvendt": [
+      {
+        "forkert": "Vousdukas",
+        "rettet": "Vousdoukas",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Hallegate",
+        "rettet": "Hallegatte",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Kouno",
+        "rettet": "Kuono",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "skybryd",
+        "rettet": "skybrud",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Københavds",
+        "rettet": "Københavns",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Mijø- og",
+        "rettet": "Miljø- og",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Igeniørforening",
+        "rettet": "Ingeniørforening",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Jebsen, M.",
+        "rettet": "Jebens, M.",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Højbjerg et al.",
+        "rettet": "Højberg et al.",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "hovedstandsområdet",
+        "rettet": "hovedstadsområdet",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "landsækkende",
+        "rettet": "landsdækkende",
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
   }
 }

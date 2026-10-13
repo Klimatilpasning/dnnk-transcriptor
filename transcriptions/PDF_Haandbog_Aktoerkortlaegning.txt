@@ -70,7 +70,7 @@ Håndbogen er udviklet i forbindelse med C2CCC projektet,
 som er støttet af midler fra EU LIFE. 
 Håndbogen er udviklet i tæt samarbejde med Region Midtjylland, 
 Hedensted Kommune, Norddjurs Kommune, Syddjurs Kommune,
-Silkeborg Kommune, Limfjorssekretariatet og det rådgivende 
+Silkeborg Kommune, Limfjordssekretariatet og det rådgivende 
 Ingeniørfirma WSP. 
 C2CCC projektets sekretariat og øvrige parter har 
 desuden bidraget med input og sparring.  
@@ -537,7 +537,7 @@ Materialer
 • Brug af simple ikoner (obs på rettigheder)
 • Scan tegninger i hånden eller brug evt. digital pen
 Find mere viden
-Læs mere om brug af Aktørlanskaber i casen om 
+Læs mere om brug af Aktørlandskaber i casen om 
 Limfjorden, Håb til Håb, Gudenåen og Grenåens 
 opland. 
 Få inspiration fra basisværktøjer i at Visualisere.
@@ -1760,7 +1760,7 @@ Materialer
 • Brug af simple ikoner (obs på rettigheder)
 • Scan håndtegninger eller brug en digital pen
 Find mere viden
-Læs mere om brug af Aktørlanskaber i casen om 
+Læs mere om brug af Aktørlandskaber i casen om 
 Grenåens opland, Håb til Håb, Gudenåen og Lim-
 fjorden. 
 Få inspiration fra basisværktøjer i at Visualisere.
@@ -4212,11 +4212,11 @@ dog ikke belyst i denne håndbog.
 Udviklingsprocessen
 Udforskningsrum Løsningsrum
 Igangsættelse af udviklings-
-forløb omkring Gudåen først i 
+forløb omkring Gudenåen først i 
 regi af C2CCC og senere også 
 Helhedsplanen. 
 Traditionel  
-interessantanalyse  
+interessentanalyse  
 af aktørerne.
 Gennemsyn af forskellige 
 planer ift. at pege på 

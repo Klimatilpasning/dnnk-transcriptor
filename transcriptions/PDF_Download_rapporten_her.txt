@@ -555,7 +555,7 @@ oversvømmelsesomkostninger for stormflod i København baseret på
 internationale data. 
 • Abadie et al. (2019), med beregninger af oversvømmelsesomkostninger for 
 stormflod i København baseret på internationale data 
-• Prahl et al. (2018) med sammenlignende af Hallegate beregninger og egne 
+• Prahl et al. (2018) med sammenlignende af Hallegatte beregninger og egne 
 oversvømmelsesberegninger for København baseret på en standardiseret 
 model for byer i EU.  
 Der er meget få studier som har opgjort omkostninger ved oversvømmelser for skybrud 
@@ -568,7 +568,7 @@ forhold til opgørelser af skaderne ved oversvømmelser ved skybrud.
 • Arnbjerg-Nielsen et al. (2015) med en sammenlignende opgørelse af 
 omkostningerne ved oversvømmelser og klimatilpasning for stormflod og 
 skybrud med indeks for reduktion af omkostninger ved optimal klimatilpasning. 
-En enkelt dansk undersøgelse (Kouno og Realise, 2020) indeholder 
+En enkelt dansk undersøgelse (Kuono og Realise, 2020) indeholder 
 samfundsøkonomiske cost-benefit analyser for løsninger til håndtering af terrænnært 
 grundvand. Analysen er dog ikke landsdækkende, men indeholder case studier for 
 Sunds, Herlev, Odense og Aarhus. Tidshorisonten er uklar men går til år 2100 for 
@@ -687,7 +687,7 @@ oversvømmelseshændelser indgår. COWI beregningen indeholder dog ikke alternat
 scenarier for vandstandsstigninger og afspejler dermed heller ikke et højt RCP 8,5 
 scenarie som Vousdoukas. Alt i alt ligger Vousdoukas, 2020 beregningerne over 
 omkostninger ved oversvømmelser på et højt niveau sammenlignet med COWI, 2017a 
-også i betragtning af den kortere scenarieperiode i Vousdukas beregningen 
+også i betragtning af den kortere scenarieperiode i Vousdoukas beregningen 
 sammenlignet med COWI.  
 IMF (2020) har som en del af baggrundsarbejdet for deres Fiscal Monitor beregnet, at 
 udgifterne til klimatilpasning i Danmark kan udgøre 1,7% af BNP årligt til 
@@ -739,8 +739,8 @@ og erhvervsbygninger 0,64 mia. DKK. Beregningerne gælder for et relativt højt
 stormflodniveau (se en nærmere gennemgang af alternative forudsætninger om 
 stormflodsniveauer i afsnit 4). 
 Der er gennemført en række internationale studier for København omfattende Abadie 
-et al. (2019), Hallegate et al. (2011) og Prahl et al. (2017).  
-Hallegate et al. (2011) beregner omkostningerne ved stormflod i København svarende 
+et al. (2019), Hallegatte et al. (2011) og Prahl et al. (2017).  
+Hallegatte et al. (2011) beregner omkostningerne ved stormflod i København svarende 
 til et niveau på 1,5 m. til at være 3 mia. EUR. Fremtidige stigninger i værdier er 
 indregnet baseret på forudsætninger om økonomisk vækst. Forudsætningerne om 
 omkostninger ved oversvømmelser er baseret på internationale kilder og ligger på et 
@@ -751,7 +751,7 @@ i København i år 2100. Omkostningerne til diger er i et lavt RCP 2,6 scenarie 
 EUR, og i et højt RCP 4,5 scenarie 10,4 mio. EUR. Omkostningerne til sikring med 
 diger er sat lavt sammenlignet med f.eks. Incentive (2020)'s estimater over sikring i 
 Københavns og Hvidovre kommuner og også ift. Københavns stormflodsplan fra 2017. 
-Prahl et al. (2018) sammenligner studier af Hallegate et al. (2011 og 2013) med egne 
+Prahl et al. (2018) sammenligner studier af Hallegatte et al. (2011 og 2013) med egne 
 modelberegninger og konkluderer, at en stormflodshøjde på 5 m. i København kan 
 medføre omkostninger på mellem 4,28 mia. EUR og 29,7 mia. EUR, hvilket svarer til 
 stormflodsniveauet i de høje stormflodsscenarier, som er indeholdt i Incentive (2020) 
@@ -776,7 +776,7 @@ Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilp
 klimatilpasning i København og i hovedstadsområdet. Sammenlignet med danske 
 studier så varierer internationale studier relativt mere både i deres forudsætninger om 
 omkostninger og om stormflodshøjder. De internationale studier omfatter således også 
-både lave omkostningsskøn som i Hallegate et al. (2011) baseret på et forudsat lavt 
+både lave omkostningsskøn som i Hallegatte et al. (2011) baseret på et forudsat lavt 
 stormflodsniveau, og meget høje skøn som i Prahl et al. (2017) under forudsætning af 
 en stormflodshøjde på så meget som op til 5 m.  
 4.4 Omkostningerne ved oversvømmelser og tilpasning ved skybrud 
@@ -971,7 +971,7 @@ anvender derefter en ens værdi på omkring 1.250 DKK per m
 statistik fra Forsikring og Pension. Det er her værd at bemærke, at omkostningerne ved 
 skybrud for boliger, som angivet i tabel 5 er sat til et markant lavere niveau end for 
 stormflod. Omkostningerne, som er angivet for produktionstab i virksomheder, er alle 
-baseret på specifikke studier f.eks. for hovedstandsområdet, og det giver begrænsede 
+baseret på specifikke studier f.eks. for hovedstadsområdet, og det giver begrænsede 
 muligheder for at anvende disse på flere områder. Det samme er tilfældet for elsvigt.  
 DTU (2021b) har udviklet en open source model til opgørelse af omkostninger ved 
 stormfloder, som indeholder data for en række omkostninger, som ligger udover, hvad 
@@ -1117,7 +1117,7 @@ og lokale drænforhold. Vandselskaberne bruger egne modelopsætninger på lokalt
 niveau, som kombineret for større geografiske områder kunne give indikationer for 
 sårbarheder på regional/national skala: Sådanne resultater er dog typisk ikke er 
 offentligt tilgængelige. I Region Midtjylland og SCALGO (2020) benyttes SCALGO til 
-landsækkende analyser på screeningsniveau af risikoen for oversvømmelse fra 
+landsdækkende analyser på screeningsniveau af risikoen for oversvømmelse fra 
 skybrud, og i f.eks. Københavns kommunes klimatilpasningsplan (Københavns 
 Kommune 2011) benyttes MIKE URBAN.  
 5.2.3 Vandløb 
@@ -1128,7 +1128,7 @@ Endvidere kan SCALGO heller ikke simulere tilbagestuvningsproblematikker i
 forbindelse med kapacitetsbegrænsninger i f.eks. underføringer og rørlægninger. 
 Derudover findes, stadig på national skala, DHIs MIKE SHE/MIKE 11 model i en 
 opsætning lavet af GEUS kaldet DK-modellen til numerisk modellering af vandløbs- og 
-grundvands- hydrologi på tværs af Danmark (Højbjerg et al., 2013; Larsen et al., 2016; 
+grundvands- hydrologi på tværs af Danmark (Højberg et al., 2013; Larsen et al., 2016; 
 Refsgaard et al., 2016). Denne modelopsætning kan gratis rekvireres af slutbrugere, 
 men kræver licens til egne beregninger for grundvand, hvor vandløbselementer indgår. 
 DK-modellen er tilgængelige online i de Hydrologiske informations og prognosesystem 
@@ -2457,7 +2457,7 @@ https://doi.org/10.3354/cr01299
 • COWI (2010). Muligheder og konsekvenser af klimasikring af København mod 
 oversvømmelser. [Udarbejdet for Københavns Kommune, Teknik og 
 Miljøforvaltning] 
-• COWI (2014). Enhedsomkostninger ved oversvømmelsesskader fra skybryd 
+• COWI (2014). Enhedsomkostninger ved oversvømmelsesskader fra skybrud 
 [Udarbjedet for Forsikring & Pension] 
 • COWI (2016). Designgrundlag for beskyttelse mod oversvømmelse af 
 København. [udarbejdet til Københavns Kommune] 
@@ -2527,7 +2527,7 @@ Fund (IMF)
 
 54 Samfundsøkonomiske konsekvenser af oversvømmelser og investeringer i klimatilpasning 
 • Incentive (2020). Samfundsøkonomiske kosekvenser af stormflodssikring af 
-Kalveboderne. [udarbejdet til Københavds kommune og Hvidovre Kommune, Af 
+Kalveboderne. [udarbejdet til Københavns kommune og Hvidovre Kommune, Af 
 Kolstrup, K., Espensen, P. F. og Franch, T.] 
 • IPCC (2007). Climate Change 2007: Synthesis Report. Contribution of Working 
 Groups I, II and III to the Fourth Assessment Report of the Intergovernmental 
@@ -2550,7 +2550,7 @@ Sciences.
 omkostningseffektiv kystbeskyttelse, Kystdirektoratet (KDI) 
 • KDI (2018). Metode til national risikovurdering af oversvømmelse fra hav og 
 vandløb samt ajourføring af risikoområder, Kystdirektoratet (KDI). [Af Andersen, 
-K. J., Piontkowitz, T., Jebsen, M., Thomsen, M., Henriksen, L., S., Sørensen, 
+K. J., Piontkowitz, T., Jebens, M., Thomsen, M., Henriksen, L., S., Sørensen, 
 C.S. og Ditlevsen, C.] 
 • KDI (2021). Metoderapport for kystplanlægger. Kystdirektoratet (KDI). [Af 
 Bonde, L., Viocan, U. R., Ditlevsen, C., Geertsen, K.-S., Grimstrup, C., 
@@ -2584,7 +2584,7 @@ være rationelt. Ingeniøren, Watertech 3, p. 54-67.
 • Nationalbanken (2021). Flood Risk Discounts in the Danish Housing Market. 
 Economic Memo- October 2021 - No 7 Mirobe, Georogio and Poeschl, 
 Johannes 
-• Mijø- og fødevareministeriet (2016). Kystanalyse. [Af kyst- og 
+• Miljø- og fødevareministeriet (2016). Kystanalyse. [Af kyst- og 
 fødevareministeriet, erhvervs- og vækstministeriet, social- og 
 indenrigsministeriet og energi-, forsynings- og klimaministeriet] 
 • Miljøstyrelsen (2017). Evaluering af kommunal klimatilpasning. 
@@ -2623,7 +2623,7 @@ klimatilpasning. [udarbejdet til Realdania]
 • Smith innovation (2020). Sammen om vandet - stormflodssikring af 
 Kalveboderne. [Udarbejdet Københavns Kommune og Hvidovre Kommune] 
 • Spildevandskomiteen (2017), Skrift 31 - Metoder til bestemmelse af 
-serviceniveau for regnvand på terræn, Dansk Igeniørforening, Danmark. 
+serviceniveau for regnvand på terræn, Dansk Ingeniørforening, Danmark. 
 • Springmann, M. (2012). The costs of climate-change adaptation in Europe: A 
 review. 
 • Su, J., Andrée, E., Nielsen, J. W., Olsen, S. M., & Madsen, K. S. (2021). Sea 
