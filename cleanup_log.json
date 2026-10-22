@@ -31504,5 +31504,60 @@
         "grund": "afvist ved gennemgang (risikabel)"
       }
     ]
+  },
+  "transcriptions\\Oevrige_9Pnmwnd0uJw_20261022_082056.txt": {
+    "anvendt": [
+      {
+        "forkert": "DNK's",
+        "rettet": "DNNK's",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "facilitator i DNK",
+        "rettet": "facilitator i DNNK",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "interessant inddragelse",
+        "rettet": "interessentinddragelse",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "villeproblemer",
+        "rettet": "vilde problemer",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ville problemer",
+        "rettet": "vilde problemer",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "høj transparans",
+        "rettet": "høj transparens",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "all public administration",
+        "rettet": "old public administration",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "virke poliserende",
+        "rettet": "virke polariserende",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "vedligeholdelse og montering",
+        "rettet": "vedligeholdelse og monitorering",
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "hold kæft valse",
+        "rettet": "hold kæft bolsje",
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
   }
 }
