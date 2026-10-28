@@ -31559,5 +31559,361 @@
       }
     ],
     "afvist": []
+  },
+  "transcriptions\\Oevrige_u0VUXtZdRh4_20261028_074016.txt": {
+    "anvendt": [
+      {
+        "forkert": "naturbede løsninger",
+        "rettet": "naturbaserede løsninger",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "naturbesterede",
+        "rettet": "naturbaserede",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "naturbesøede",
+        "rettet": "naturbaserede",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DNK's",
+        "rettet": "DNNK's",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "oplæsholder",
+        "rettet": "oplægsholder",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "opskere",
+        "rettet": "opskalere",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "salimanter",
+        "rettet": "salamandre",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kiselger",
+        "rettet": "kiselalger",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "kiseljer",
+        "rettet": "kiselalger",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "grøalger",
+        "rettet": "grønalger",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "srastriske",
+        "rettet": "terrestriske",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "terrassiske",
+        "rettet": "terrestriske",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "terrastiske",
+        "rettet": "terrestriske",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "terrastrilførsel",
+        "rettet": "terrestrisk tilførsel",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "moren landskabet",
+        "rettet": "morænelandskabet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "afstrømningshæelser",
+        "rettet": "afstrømningshændelser",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "våområder",
+        "rettet": "vådområder",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "IOCNs",
+        "rettet": "IUCNs",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ICIN",
+        "rettet": "IUCN",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "EUCN's",
+        "rettet": "IUCN's",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Rusens globale",
+        "rettet": "IUCNs globale",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "IUSens",
+        "rettet": "IUCNs",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Jens globale",
+        "rettet": "IUCNs globale",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "selfattestment",
+        "rettet": "self assessment",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "intercent",
+        "rettet": "interessent",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "sikkerhedsforestaltninger",
+        "rettet": "sikkerhedsforanstaltninger",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "adoptiv forvaltning",
+        "rettet": "adaptiv forvaltning",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Skærnå",
+        "rettet": "Skjern Å",
+        "antal": 8,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "skærnå",
+        "rettet": "Skjern Å",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Skernå",
+        "rettet": "Skjern Å",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "ildsvind",
+        "rettet": "iltsvind",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "løftfiskere",
+        "rettet": "lystfiskere",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Dansk Natursfredningsforening",
+        "rettet": "Danmarks Naturfredningsforening",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "KOVI",
+        "rettet": "COWI",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "COVI",
+        "rettet": "COWI",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Vilhelmudvalget",
+        "rettet": "Wilhelmudvalget",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "lossejerne",
+        "rettet": "lodsejerne",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "låsejre",
+        "rettet": "lodsejere",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "evveleringsplan",
+        "rettet": "evalueringsplan",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": []
+  },
+  "transcriptions\\Oevrige_75_C0O5-I7A_20261028_074018.txt": {
+    "anvendt": [
+      {
+        "forkert": "DNK",
+        "rettet": "DNNK",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Farum Holte",
+        "rettet": "Favrholm",
+        "antal": 7,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Farum Holme",
+        "rettet": "Favrholm",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Farremosen",
+        "rettet": "Favrholm",
+        "antal": 5,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Farverhold",
+        "rettet": "Favrholm",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Farum Station",
+        "rettet": "Favrholm Station",
+        "antal": 4,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Farum Nordvest",
+        "rettet": "Favrholm Nordvest",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Farum Å",
+        "rettet": "Favrholm",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Fårehaven [rømmer sig] Nordvest",
+        "rettet": "Favrholm [rømmer sig] Nordvest",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Kølle Å",
+        "rettet": "Pøle Å",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Hævelse",
+        "rettet": "Havelse",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Oødårsvejen",
+        "rettet": "Overdrevsvejen",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "vintermedial",
+        "rettet": "vintermedian",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "bad rensebassin",
+        "rettet": "vådt rensebassin",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "regnvandslag",
+        "rettet": "regnvandslaug",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "nedsivningsregnet",
+        "rettet": "nedsivningsegnet",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": [
+      {
+        "forkert": "Allerød Kommune",
+        "rettet": "Hillerød Kommune",
+        "grund": "afvist: kan være talerens fortalelse"
+      },
+      {
+        "forkert": "regnregulere",
+        "rettet": "terrænregulere",
+        "grund": "afvist: usikker kontekst"
+      },
+      {
+        "forkert": "Naturlandskabsplanen",
+        "rettet": "Klimalandskabsplanen",
+        "grund": "afvist: usikker plannavn"
+      }
+    ]
   }
 }
