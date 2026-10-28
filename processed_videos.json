@@ -1584,5 +1584,19 @@
     "sprog": "da",
     "order_id": null,
     "last_attempt": "2026-10-22T08:20:56"
+  },
+  "u0VUXtZdRh4": {
+    "status": "done",
+    "kilde": "youtube-subs",
+    "sprog": "da",
+    "order_id": null,
+    "last_attempt": "2026-10-28T07:40:16"
+  },
+  "75_C0O5-I7A": {
+    "status": "done",
+    "kilde": "youtube-subs",
+    "sprog": "da",
+    "order_id": null,
+    "last_attempt": "2026-10-28T07:40:18"
   }
 }
