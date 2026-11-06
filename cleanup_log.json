@@ -31915,5 +31915,168 @@
         "grund": "afvist: usikker plannavn"
       }
     ]
+  },
+  "transcriptions\\Oevrige_orBYLdsCa34_20261106_073440.txt": {
+    "anvendt": [
+      {
+        "forkert": "DNK master class",
+        "rettet": "DNNK masterclass",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "the due management",
+        "rettet": "DTU Management",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "D2 damage",
+        "rettet": "DTU damage",
+        "antal": 4,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DTO damage",
+        "rettet": "DTU damage",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "DTO model",
+        "rettet": "DTU model",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Colding",
+        "rettet": "Kolding",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Lzo",
+        "rettet": "Læsø",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Lazo",
+        "rettet": "Læsø",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "LSO",
+        "rettet": "Læsø",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "for LEO",
+        "rettet": "for Læsø",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "for laser it",
+        "rettet": "for Læsø it",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Samso",
+        "rettet": "Samsø",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Langland",
+        "rettet": "Langeland",
+        "antal": 3,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Aero",
+        "rettet": "Ærø",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Fano",
+        "rettet": "Fanø",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "Orus",
+        "rettet": "Aarhus",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "post flat tasks",
+        "rettet": "post flood tasks",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "water bond diseases",
+        "rettet": "waterborne diseases",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "in slider",
+        "rettet": "in Slido",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "in Slider",
+        "rettet": "in Slido",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "the slider",
+        "rettet": "the Slido",
+        "antal": 1,
+        "grund": "AI-rensning (rutine)"
+      },
+      {
+        "forkert": "pestl",
+        "rettet": "PESTLE",
+        "antal": 2,
+        "grund": "AI-rensning (rutine)"
+      }
+    ],
+    "afvist": [
+      {
+        "forkert": "Amitia Singh",
+        "rettet": "Amartya Sen",
+        "grund": "personnavn, korrekt form ikke i filen"
+      },
+      {
+        "forkert": "Kristen Hnes",
+        "rettet": "Kirsten Halsnæs",
+        "grund": "personnavn, korrekt form ikke i filen"
+      },
+      {
+        "forkert": "Limick",
+        "rettet": "Lemvig",
+        "grund": "usikker"
+      },
+      {
+        "forkert": "Federica",
+        "rettet": "Fredericia",
+        "grund": "usikker"
+      },
+      {
+        "forkert": "SCAD economy",
+        "rettet": "Skadesøkonomi",
+        "grund": "usikker"
+      }
+    ]
   }
 }
