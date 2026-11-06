@@ -1598,5 +1598,12 @@
     "sprog": "da",
     "order_id": null,
     "last_attempt": "2026-10-28T07:40:18"
+  },
+  "orBYLdsCa34": {
+    "status": "done",
+    "kilde": "youtube-subs",
+    "sprog": "en",
+    "order_id": null,
+    "last_attempt": "2026-11-06T07:34:40"
   }
 }

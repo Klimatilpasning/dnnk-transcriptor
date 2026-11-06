@@ -1,0 +1,281 @@
+=== DNNK Webinar Transskription ===
+Kategori: Oevrige
+Video ID: orBYLdsCa34
+URL: https://youtube.com/watch?v=orBYLdsCa34
+Kilde: YouTube auto-undertekster (engelsk)
+Transskriberet: 2026-11-06T07:34:40.200065
+
+==================================================
+
+00:00:30
+Okay, let's start. Welcome to this DNK master class. Special welcome to JSON postdocctor from the due management um department of technology management and economics. We are really been looking forward to your presentation here. During the presentation, uh Shia will ask you a few questions. So, you have to be active in
+
+00:01:00
+this webinar. Just grab your phone, scan the QR code on the slide and and share your answers. Um the chat will be open uh but we kindly ask you to hold your questions and comments until the end of Sher's presentation and there'll be time for questions uh at the end of the presentation. Share, the stage is all yours. Thank you Stephan. Hello everyone. I am Syria Shom and as Stephan mentioned I am
+
+00:01:30
+a postdoctoral fellow at DTU and today what I will be presenting is a work that we do at DTU in the climate economics and risk management section with professor Kristen Hnes Pere Martin and PhDs and other postocs that we are having in our team. So the title of today's presentation is [snorts] beyond asset loss towards a more human- centered approach to flood risk management.
+
+00:02:00
+Today's road map presentation road map we have two things that we will be discussing. The first is the DTU damage cost model and its application and then we will also discuss how we have involved the stakeholders and various actors and how we are consulting with them to understanding the D2 to better fine-tune the D2 damage cost model as well as understanding the uh policy
+
+00:02:30
+implementation of adaptation in Denmark. what works and why something does not work in Danish context. So I will start with this famous result from the D2 damage cost model in in 2024. There was a report that came out that shows the specific economic damage cost across municipalities in Denmark. And from here you can see that around 50 municipalities are impacted by
+
+00:03:00
+flood events. More than 50 53 municipalities are impacted by flood events. And by the sheds, you can see that Colding and Limick are the two municipalities having more than 20 million of damage costs. And this damage cost is calculated as economic damage cost. What were the sectors that were used? And you can see that at the right side of the presentation, this is the SCAD economy.
+
+00:03:30
+Kids economy is the model that has been used by DTU that has been created and used by DTU. And what are the sectors? The sectors that are included in the assessment includes building, road and traffic, human and health, tourism, recreational areas, agriculture, critical infrastructure, industry, public services and ecosystem. In the model the coins shows that an economic loss is calculated whereas so in the figure you can see the economic losses that are being calculated but this
+
+00:04:00
+critical infrastructure industry public services and ecosystem their priorities can be assigned in the D2 damage cost model. So what I will do in the next slide is show you how uh give you a brief overview of how the damage cost model works. So it starts with the input data and the sectors that I have described and then there is also a flood hazard map. These two are overlaid in the
+
+00:04:30
+damage cost model. The model is runs in QGIS and then it has some functions and some calculations are done on risk and visualization. are created and finally you get some very cool results. So the results come as GIS maps as well as uh in in cool bar graphs where you can find out the losses across sectors
+
+00:05:00
+and just to let you know this is a model that I wasn't involved in uh building. So if you have any questions I will pass on the questions to my colleagues and I won't be able to answer those questions I believe. I'll now let's move on to how this model was created. So the process has started since 2017. It started with a project called the coherent project and for 5 years the model the the model team involved
+
+00:05:30
+researcher experts and end users in municipalities to try understand the problem to try understand what data and knowledge is available and then they tried building a prototype for the municipality map planning and then the output was the version one of the model. Then very recently in 2022 they got another funding and then they started you know fine-tuning the model and it g the output was that the model became a
+
+00:06:00
+open-source version of the damage cost model and in 2023 they changed the platform and there is this new open-source version of the model. They found fine-tuned it and then they also made the interface userfriendly. they started documenting how to use the uh model and they also provided output formats and started looking for further financing in 2024. they involved uh other stakeholders as well and then
+
+00:06:30
+they uh I mean the DTO model became a part of the open-source public digitization community OS2 and then very recently they are thinking they have thought about the government structure and the new governance structure of the damage cost model is the key output in 2024. they are also uh working on the future development and financing of the model and also the ownership of the model. So this is how actor involvement has
+
+00:07:00
+evolved over the period of years and how the model is being fine-tuned for the past 9 years. [snorts] Now the most important question is has the model been used ever? Yes, there are many municipalities who have already used the model for their climate adaptation plan and recently the Danish municipalities have taken over the model and is uh continuously developing the
+
+00:07:30
+model with the help of the researchers at DTU and other institutions. So now we have a model, we know how the model has been created. Then this next slide basically shows you how we can put in a more human aspect into the model. So for example besides asset damage and lost income that we can see the model has already incorporated what according to you is another critical thing a
+
+00:08:00
+person loses during a severe flood. I mean it's not only your uh houses being flooded it is also I mean many other things are involved. So if you can think of something that you think is missing from the model which impacts you severely during a flood event or post flood event or even pre flood event then if you can write one or two words using this QR code that will be fantastic. So I will keep this QR code open for one
+
+00:08:30
+and a half minute and then I will show the results. What I can see from here is that we do have two common themes here. One is health impacts, [snorts] mental health, physical health and the other one that came up is safety and security. And then we also have a term called agency here. I will get back to agency in a bit. And then we have well-being. We have influence. We have fear.
+
+00:09:00
+Yes. So let me go back and show you what we tried to do. And this well-being. So hold on to this well-being term. This is exactly what we used to have our theoretical framing of understanding societal impact. So see what we tried to do here is we used an approach called the capability approach. This approach is very famous in economics and in philosophy. It is the approach that has
+
+00:09:30
+been endorsed by professor Amitia Singh who is the Nobel laureate in economics in 1998. So what he said is capability approach basically helps you to assess the human well-being. the well-being term that some of you wrote in the slider. And what this approach says, it approach says that the capability approach basically tells you what individuals are able to do and be. So their capabilities
+
+00:10:00
+are what you are you can do and what you can be given your circumstances. So it goes beyond your uh economic well-being. It talks about your capabilities [snorts] and we used this capability approach to come up with a theoretical framing and we named it as capability based assessment. So in this slide you will see how we have break down the whole um system of flood impacts and effects
+
+00:10:30
+uh to assess the social impacts of flood. So suppose there is um you can see a climate event say there is a flood and this flood doesn't heat the community equally right this results in exposure and vulnerability and these two are being determined by two critical components. So one is the pre-existing capabilities, the capabilities that you
+
+00:11:00
+already have and this this you can term as the baseline resources and freedoms that you have and then the conversion factors. So conversion factors are basically the social, personal or environmental conditions that u dictate whether people can actually convert their resources into resilience. So for instance, if there is an early warning system which is a sort of a resource. So everyone is getting the early warning
+
+00:11:30
+system but there can be language barriers or mobility issues and these are the conversion factors that dictate if a person can safely evacuate during a flood event and then we tried analyzing the consequences here. So when we look at the consequences we focus strictly on human impacts. A flood leads to a direct reduction in capabilities. Right? So people lose access to health care, people lose access to education
+
+00:12:00
+temporarily or their livelihoods. And then comes something called after a flood event you will need to have something called a climate action. So this is what we are trying to bring in here. You will see agency. So agency here acts as a critical enabler or constraining factor. A community's agency can either enable or constrain how they navigate these impacts and push towards recovery. Simultaneously the
+
+00:12:30
+call to action from practitioners comes in. This is where the interventions matter. By implementing targeted adaptation actions, the goal is to go to recovery. But we should keep in mind that when we are doing the recovery, it it's not just about recovery as a status quo. It should be such that there should be enhancement of capabilities. Why this is important? Because given the frequency and the intensity of this climate events of this flood events
+
+00:13:00
+which are happening every now and then it it is important that we build our society to have something which is more resilient. So this enhancement of capability is important during the recovery stage so that in the next climate event people does not face the same amount of impact. They become more resilient and they can work on their own and enhance their own capabilities as a community.
+
+00:13:30
+So now the question is as we have already seen that flood does not only damages asset it also impacts human capabilities. So for that we needed to bring in some you know examples so that we can prove in our paper that there are lot of other impacts that are happening and it is not only damages to assets. So, so we look into a lot of newspaper articles to find out what is happening in Europe and we
+
+00:14:00
+got a lot of examples and to substantiate our findings we need to have and need to ask three question what one is the relevance question. So when we are talking about capability is it directly relevant to flood impact in Denmark because this impacts also varies across the globe. what is important in say Asia might not be important for Europe. So we tried to look into examples from European countries. Then we tried to see
+
+00:14:30
+is there any fundamental aspect of human well-being that is being impacted by this flood. And in influentiability we tried to understand can there be some capability which are influenced by public policy intervention. So suppose there are some public policy of food distribution whether that is in influencing the capability of the people and we find that for Denmark there are this in a bunch of capabilities that can
+
+00:15:00
+be impacted or that are getting impacted due to flood events in Denmark. For example being sheltered. So this this leads to damages in home and the influentiability is the policy should be such that it helps in relocation assessment. It puts people in flood shelters. Then there is this. So the safety and security part comes here as well. The theme that we saw in the slido
+
+00:15:30
+exercise. Then there is this ability to meet the psychological needs and the mental mentally healthy needs. So this comes as uh physical injuries, infection, water bond diseases, stress and trauma and [snorts] this is one of the healthy functioning or capability of the exercise and then the influentiability is accessible health care for v vulnerable groups mental health support programs or mobile health
+
+00:16:00
+clinics. And then I will just pick up two more examples so that we don't waste time here. uh this is also becoming important being able to access energy services. So floods can disrupt critical utility infrastructure and there can be power outages as well. So from policy perspective it can be flood proofing critical energy infrastructure. Then let me pick up another one which is say being able to be mobile. So damage
+
+00:16:30
+to transport infrastructure or flood leading to a breakage of transport in infrastructure. So the policy influentiability can be in investment in resilient transport infrastructure. So what we tried doing here is bring in all these capabilities in impacted which you can see in the left hand column and then we tried give reasons to why in Denmark these has have relevance these have importance and these have influentiability
+
+00:17:00
+but we wanted so since we are trying to put this into our model we want some indicators as well right so for each of the capability loss we need to figure out what indicators is available and for that we need to have the relevance of the indicator. So it should be able to explain the capability. It should be measurable. It should be measurable using the data available or or there are chances of collecting those data
+
+00:17:30
+and then again it should have influence on policym because after all the task we are doing is to inform adaptation policy makers right. So the final one is able to provide data or information that can influence and uh inform decisions and in interventions. So then we came up with a bunch of potential indicators as you can see from here. I'm trying to bring in the highlighter. It's very small. Just give me a second.
+
+00:18:00
+Yeah. So some of the potential indicators are here. And then we also try to figure out from where the data sources can be so that it becomes easier for future study to understand from where we can get the data and then influence on policym how this data can help in policym. So for example if you think of say energy services. So
+
+00:18:30
+uh the potential indicator can be number of houses without access to electricity during and post flood. Potential data sources can be the utility service outage report or or some household survey. And this can help policy makers understand the scale of affected population and helps in a targeted restoration areas and alternative supply of energy. So now what we did is from the potential indicators we saw that the blue marked
+
+00:19:00
+indicators are already included in the D2 damage cost model. So what we tried doing is figure out some more indicators which we can put and which we which can help in understanding or or providing a better estimate of our damage cost model putting in the socioeconomic factors. So based on some of the surveys that DTU has done before especially professor Kristen Hnes we saw that there are three
+
+00:19:30
+more indicators that can be included in the model. So the first one is the number of persons or household with flood related physical health issues or injuries. The second one is increased commute time due to rehousing post flood and the third one is days spend on household restoration. So we picked up this three indicators because data was easily available from the survey and then we calculated and we named this as hidden impacts because
+
+00:20:00
+these are the impacts we generally don't talk about when we are doing the capab when we are doing the economic assessment using uh only asset loss data. So what we did here is we calculated the three hidden impacts. We named them as increased time for post flat tasks. So this includes the value of time spent on flood related household task example cleaning or other task for example looking for temporary accommodation contacting insurance and legal companies
+
+00:20:30
+so on and so forth. The survey that I am talking here is a survey that was done in the last decade after in yuling yuling no yuling. So I might be mispronouncing the word but u this is a survey that was published by professor Hnes in 2020. And the second hidden impact is the indirect health cost. So the value of
+
+00:21:00
+time lost due to flood flood related illness. And the final one is increased travel time cost. So the value of extra travel time from rehousing due to flooding. Now you will see the economic cost here and what we did is we incorporated those three uh additional hidden cost and what we see is there is massive increase in the damage cost particularly in few municipalities where the impacts were
+
+00:21:30
+more and this municipalities are wait for here Federica and uh Westimemer lands. Sorry for my pronunciation. I'm trying to pronounce this in English though I know a little bit of Danish but still my pronunciation is not perfect. So you can see that uh I mean these three municipalities the when we added the hidden cost it it inflated their so societal cost by more than 20%.
+
+00:22:00
+So overall if we do a quick calculation of what happened at the Danish level then this addition of the hidden cost increased the Danish flood damage cost burden by almost 8% which is equivalent to an additional 30 million and there are some municipalities where it has increased by 32% for example Frederick and why is this because the damages to residential buildings in these municipalities were huge.
+
+00:22:30
+And you can also see some of the municipalities marked in yellow where there is no change in uh damage cost when we included this hidden cost. And the reason we figured out is that in those uh municipalities the damages happened mostly in the industrial building areas. So this data is based on the 2024 expected annual damage cost that we figured out from the DTO damage cost model. So now you have another exercise.
+
+00:23:00
+[snorts] Okay. First uh let me read out the question. The question is so now we know in one municipality the impact is has increased because the residential buildings are flooded while in some the residential building the industrial buildings are flooded and that's why the impact hasn't changed. But if we think at a more granular and you know local level. So the question is can the exact same climate event have
+
+00:23:30
+completely different impacts on two people living in the same exact neighborhood. I will first show you a example of the work we have done and then you can uh respond to this question in slider. So this is a example from OC. What we tried doing here is using the neighborhood atlas. So the neighborhood atlas has 100 m cross 100 m of resolution and the boxes you see here is
+
+00:24:00
+like 100 m cross 100 m. And here we try to figure out based on the income of the people whether they are impacted. I mean which layer of the people is impacted more. Is it the lower income people or is it the higher income people? So you see from this that the people having lower income the yellow shades people they are impacted more and if you see along the uh the
+
+00:24:30
+coastline and the squares that are being highlighted here is the actual flooded residential areas and this is this also you can see that the uh lower income group has been impacted more. So now if I open up this question for you in Slider, you can answer it. I think it's a polling question. Yeah. And as I see the responses, the obvious answer is yes.
+
+00:25:00
+So now what I want to show you is Yeah. So now what I wanted to show you is that we tried to bring in this concept that the impacts are also not evenly distributed and then we tried to bring in some socioeconomic indicators which we are taking as the proxy of vulnerability of people for example age, income and education. And then we are using some
+
+00:25:30
+econometrics to understand how we can you know put some numbers on this unevenly distributed impacts of climate event across municipalities. So we did some uh elasticity calculations estimated a model got a parameter here the beta parameter and then we put used a nonlinear w such that the municipalities where the social profile is lower than the average
+
+00:26:00
+uh level of uh pro social profile then the damages for those municipalities will be amplified. So we did some computational model and we got some interesting results here. So I will show you the results now. So when we brought in the vulnerable age population as a factor of inequality burden what we found that most of the small island municipalities their
+
+00:26:30
+impacts are getting amplified as you see from the figure this Lzo Samso Langland Aero Fano this islands for these islands the flood burden is getting amplified And for laser it was the highest because as per data the vulnerable age cohort which is like infants and older age population is 58%. What I was [clears throat] going to say is that as we got to know the result
+
+00:27:00
+that a climate event will have different impacts on different population. We tried to understand how the this varies across Danish municipalities and for that we used some vulnerability indicators like age, income and education. And then we did some econometrics trying to figure out how this um inequality burden can be calculated. and we did
+
+00:27:30
+some computational model where we tried understanding if a municipality's social profile is below the average uh Danish social profile then the damage cost should be amplified and the result that we got is this one. So when we have the vulnerable age population we see that the uh island municipalities their burden is being significantly amplified because they have higher share of vulnerable age population. So by
+
+00:28:00
+vulnerable age population we considered here infants and uh older age population above 65. And uh for LEO we found that there this is the municipality where the impact has been uh amplified the most by 27.39% and the reason was that the vulnerable age cohort in LSO is 58%. As against the national average of 32%.
+
+00:28:30
+And same for the other municipalities Samopano Arrow and Langland they have also 50 plus in vulnerable age age cohort. So their burden is also amplified. The next exercise we did is with the education and we see that there are many municipalities where the burden is amplified as you can see from the um redmarked
+
+00:29:00
+areas. We also did the same exercise with income and we got some results. But this result is when we combined all these uh societal variables. So we combined the result from age vulnerability, we combine the result from income and also from education. And this is what we get for a municipal level.
+
+00:29:30
+We see that if we combined all the result the social factors basically add another 3.27% to the national flood burden. And this exercise is specifically done to uh make the municipalities understand that uh uh single policy instrument is not enough. There should be some specific targeted instruments given that municipality wise the vulnerability varies. And if you can see as a combined impact
+
+00:30:00
+the impacts are being magnified for island municipalities Lazo, Langland, AO and Samso and also land the reason we identified here is they are facing multifaceted risk and vulnerabilities which are basically characterized by older demographic profiles in these municipalities, lower income, income and lower education
+
+00:30:30
+and we found that 66 municipalities beer some uh additional burden from this combined factors. Then we also tried to do some spatial pattern of the burden just to understand which municipality is so we try to identify the physical impact and the societal impa impact. So as you can see when we are controlling for the coastline then the result hasn't
+
+00:31:00
+changed that much. So if we organize those in a descending order then we can see it's still the municip municipalities which are island municipalities that have most of the impacts and the reason is same that the island and coastal rural municipalities they have unique demographic profile of older population lower income and lower education. While if you see the major urban centers for example Orus, Gento
+
+00:31:30
+um Copenhound they are having a different demographic profile younger population higher income higher education structure that's why they are there [snorts] are not much changes when we are controlling for the coastal variable as well. So given this study what can be the key takeaways? The key takeaways can be number one that conventional and assessments are insufficient and underestimate the true
+
+00:32:00
+cost of burden. So if we are ignoring the intangible cost which are related to the human suffering the first exercise that we did in slido if we don't incorporate those and in our model also we couldn't incorporate all the capabilities that we included because of lack of data but whatever uh we could include we can I understand that it increases the damage caused by 8%.
+
+00:32:30
+Then we saw that the inequality burden adds a significant additional layer to the flood cost. So given the social demographic factors the pre-existing capabilities if we term age um income and education in terms of pre-existing capabilities we see that it also adds an additional 1 to 3% to the national flood damage cost and that the flood burdens are highly concentrated. So making uniform policies
+
+00:33:00
+inequitable because there are some local damage cost for municipalities which are getting increased by 18% given that those have a lower lower uh education level lower income and vulnerable population. So this shows that a one-sizefits-all policy response would fail to address the needs of the hardest hit communities in those areas.
+
+00:33:30
+And then yes, so to create just an effective climate policy, we can move beyond simple economic cost to assess the hidden and unequal burden on human capabilities. And finally, our uh approach also has some global policy implication. It shows that it can help in understanding the loss and damages that we are talking about and it can bring in the human it can basically you know assess and quantify the human sufferings and their
+
+00:34:00
+unequal distribution and can help in the loss and damage fund discourse globally. But now uh I have a question for you. This is beyond the numbers. We have the data. We have the numbers. We know what is what needs to be done and where. But is that enough? So the question is does having this data solve the adaptation problem? So the major thing here is that we have
+
+00:34:30
+the data, we know the numbers, we also know that [snorts] one size fit policy is something that is not going to work. So is this enough? Or do you need more information from a practitioner perspective to understand what will work more or
+
+00:35:00
+how can we solve the problem? How can we divide this silo between the researchers and the practitioners? So I will wait for 1 minute and then I will show you the results and then move on to what we tried doing with the numbers and and what are the results or what are our observation from talking to the stakeholders and actors in in many of the Danish projects that DT is working on and
+
+00:35:30
+[snorts] the 100% answer goes for no data is just one step. The real hurdle is governance and funding. So this is exactly what we got to know from the stakeholders in our projects and I will show you the results now. So we talked to the with the stakeholders and in our crossu project we find very
+
+00:36:00
+interesting uh you know insights. The first one is we tried to do some pestl analysis. So this analysis let you know given the dimensions of pestl P is for political, economic, social, technological, environmental, legal where the hurdles are and these are the key insights that we got that we know about the long-term sea level rise. We know about slow national plan progress but then the political consensus is
+
+00:36:30
+becoming difficult. Then yes the funding that you all uh talk that you all marked there in the slide. So complex funding rules and limited local financing the cost benefit rules excluding co- benefits these are also the hurdles. But from the social perspective the awareness is rising but short collective memory and high expectation create debates over over retreat versus protection. Then technologically there are critical flood damage data that is
+
+00:37:00
+hard to access for from a researcher perspective due to GDPR which is leading to limiting risk analysis. Then from the environmental perspective there are frequent conflicts between adaptation projects and biodiversity conservation and then legally there are still fragmented laws. the the practitioners and decision makers works in silos. There are voluntary planning and unclear rules for cross municipal
+
+00:37:30
+collaboration with slow actions. But we did find two most interesting um factors that are facilitating climate action. The first one is social acceptance and elevated political acceptance. This is led by very frequent extreme weather events. [snorts] So these are driving political focus and public demand. The second one is growing civic preeemption. So citizens now
+
+00:38:00
+factor flood risk into their daily uh choices. For example, property purchase and as I have already explained there are barriers to the implementation. So political, legal, economic, limited funding, discouraging uh projects and then yeah restricting restriction of data which which limits accurate risk uh modeling and planning. We did have other um
+
+00:38:30
+stakeholder consultations as well and there we understood that we also need to you know include climate information in our decision making to to build institutional capacities and capabilities and this is one of the quote that uh we got from the climate Europe troop 2 project which says that if we don't include climate information in our decisionm we would lack an important piece of the puzzle for the next few years and then we cannot make a good
+
+00:39:00
+decision and yes we did have another workshop from the directed project and we really got some key information about you know getting better climate services. So it says that co-production is not only about providing better climate services but it is also about you know governance mechanism for collective decision making under uncertainty. So make uncertainty visible rather than
+
+00:39:30
+treating it as a modeling failure. Then connect data and institution and finally the governance point that you all raised invest in a relationship and processes through which information becomes a collective action. So these are the things that we understood from stakeholder consultation and what we try to do in our department is try to bring up numbers as well as try to work with the municipalities and stakeholders to provide more
+
+00:40:00
+what to say impactful um adaptation strategies and policies. So yes that was it from my side. Thank you very much for listening and joining this seminar. Over and out. Thank you. &gt;&gt; Thank you. Um the chat is open. So if you have any questions, comments. &gt;&gt; So there is one question that asks uh
+
+00:40:30
+could you say a bit more about how you weigh different factors in your model? Is this based on resident experience in any way? I'm wondering to what extent you think that the measure of societal matches the lived experience of local resident is this quantitative data suspicion to bring. So the first answer from my side will be this is the the weights are not based on um resident experiences. So when we provide weight
+
+00:41:00
+to the uh soioeconomic factors for example um income, education and age these are purely based on the econometrics that we use. So the the elasticity parameter that we have used this if this is what uh Mia you are asking for. So this is not based on any resident experience since these are economic uh I mean sociodemographic factors. We thought that it won't make
+
+00:41:30
+sense to ask resident which of these factors they will uh rank or prioritize because all three are important. So what we did is when we so we used the economic economics [snorts] or I would say the statistical modeling and then we got the relationship between each of the factors with the damage cost and then we used those to have a compounding or what to say the compound event um
+
+00:42:00
+um data that we showed you. So it's not based on the resident experiences but we didn't provide any weight for the socioeconomic factors. Those three are treated equally. So it's a uh uh uh arithmetic average and not any weighted average. if this is what Mia you are asking for but feel free to uh type here or maybe
+
+00:42:30
+raise your hand if that is doable here so that I can understand uh if I didn't understand your question from here better and then you are saying that I am wondering to what extent you think that this measure of societal matches the lived experience of uh local residents this is a very good question actually this can be a next study step to understand the local experiences. But the data that we used for societal
+
+00:43:00
+impacts those are taken from the survey. So when they are saying that the number of hours they spend in cleaning those are taken from the survey. Is this quantitative sufficient to bring attention to these issues or would you suggest compliment? I mean I will definitely suggest complementing these with qualitative understanding of how they how they have experienced what has happened and if there are other strategies that we can
+
+00:43:30
+that as policy makers can bring in to to you know help out the practitioner to help out the vulnerable communities. So definitely beside quantitative the qualitative is also important. Yes me I hope I can I answered your question as you wanted to I can share the link of the paper that I'm talking about here and the method is also written I mean how we have weighted the
+
+00:44:00
+various factors is also here so I'm just sharing the link with you yeah that's all from my side for the questions There is also a survey that one of our PhD students did for uh the whole of Denmark on this lived experiences and and that has come out last year uh or maybe at the beginning
+
+00:44:30
+of this year from professor Hnes and Emma Wing from DTU and it's written in Danish. I mean I can understand some of the material but if you like you can uh go to I can share the link with you as well from IMA's profile. It has this has got a lot of attention as well and it's a very thorough uh you know write up of whatever has uh whatever the people have experienced in
+
+00:45:00
+the 2023 flood. So my data is uh 2012 data but hers is a very recent one. So I think it is this one. I will share the link with you. Yeah, this is another one that I'm talking. &gt;&gt; Okay, thank you very much. Um,
+
+00:45:30
+&gt;&gt; I think that's it for today. So, I wish you um very good Friday and a sunny weekend. Um, and thanks for joining this webinar. &gt;&gt; Thank you so much, Stefan, for inviting me. I hope this was useful for the audience as well. &gt;&gt; Thank you. Bye. &gt;&gt; Bye.
